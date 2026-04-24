@@ -1,119 +1,122 @@
 {
-  "title": "A Carousel With a Story: How a Merry-Go-Round Helped Change History",
-  "summary": "Have you ever ridden a carousel? The horses go up and down, the music plays, and everything feels magical. But one carousel in Washington, D.C., has a story that's even more amazing than the ride itself.\n\nThis carousel just reopened after three years of repairs. But it wasn't always on the National Mall. It used to be at Gwynn Oak Amusement Park near Baltimore. And back in the 1960s, that park was for white people only. Black kids like Janice Chance couldn't ride the horses. \"My family, we used to go there all the time once they let us in,\" Janice said. She was 13 when she first rode it in 1966.\n\nGetting the park to let everyone in took years of protests by Black and white activists. Finally, on August 28, 1963, the park was integrated (meaning everyone could come in). That was the exact same day Dr. Martin Luther King Jr. gave his famous \"I Have a Dream\" speech in Washington!\n\nThe first Black child to ride the carousel that day was an 11-month-old baby named Sharon Langley. This week, 63-year-old Sharon rode again. She sat on a horse called \"Freedom Rider\"—named after the brave people who fought for equality.\n\n\"This is a monument for children to come and enjoy, ride and experience the pursuit of happiness,\" Sharon said.\n\nSo next time you see a carousel, remember: sometimes the most fun rides have the most important stories.",
-  "why_it_matters": "This story shows you that even a fun ride like a carousel can be part of history, and it reminds us that everyone should be treated fairly and have the same chances to have fun.",
-  "image_url": "/article_images/article_244951b94d9a.webp",
+  "title": "A Mind Reader Is Headlining the White House Dinner — and Trump Might Be Part of the Act!",
+  "summary": "Every year, there's a big fancy dinner in Washington, D.C., where journalists and politicians hang out. Usually, a comedian tells jokes and roasts (makes fun of) the president. But this year is different! The headliner is a mentalist — someone who seems to read minds. His name is Oz Pearlman, and he's famous for guessing people's PIN numbers and thoughts on TV. He even came in third on America's Got Talent in 2015! Pearlman says he wants to bring people together, not roast them. \"My job is to make us laugh and have our jaws drop,\" he said. And here's the really cool part: President Donald Trump plans to attend — his first time at this dinner as president. Pearlman hinted that Trump might be part of the show! \"Reading Donald Trump's mind is arguably the most impressive thing you could ever do,\" he said. Pearlman has been planning his big moment for 10 years. He hopes one jaw-dropping trick will make everyone talk about him for years. So, will he actually read Trump's mind? You'll have to wait and see!",
+  "why_it_matters": "It shows that even serious events can be fun and surprising, and it reminds you that magic and mind-reading are all about practice and showmanship — not real superpowers.",
+  "image_url": "/article_images/article_c9fd806dc459.webp",
   "keywords": [
     {
-      "term": "carousel",
-      "explanation": "A merry-go-round with horses that go up and down, now on the National Mall in Washington, D.C."
+      "term": "mentalist",
+      "explanation": "someone who seems to read minds"
     },
     {
-      "term": "Gwynn Oak Amusement Park",
-      "explanation": "The park near Baltimore where the carousel originally operated and was segregated in the 1960s."
+      "term": "dinner",
+      "explanation": "the White House Correspondents' Association Dinner, a big fancy event"
     },
     {
-      "term": "1963",
-      "explanation": "The year the park was integrated on the same day Dr. Martin Luther King Jr. gave his 'I Have a Dream' speech."
+      "term": "President",
+      "explanation": "Donald Trump, the leader of the United States"
     },
     {
-      "term": "Sharon Langley",
-      "explanation": "The first Black child to ride the carousel after integration, now 63 years old."
+      "term": "comedian",
+      "explanation": "a person who tells jokes, usually the headliner of that dinner"
     },
     {
-      "term": "Freedom Rider",
-      "explanation": "The name of the horse Sharon rode, named after activists who fought for equality."
+      "term": "mind",
+      "explanation": "thoughts or feelings a mentalist claims to read"
+    },
+    {
+      "term": "America's Got Talent",
+      "explanation": "a TV show where Oz Pearlman came in third in 2015"
     }
   ],
   "questions": [
     {
-      "question": "Where is the carousel now located?",
+      "question": "Who is the headliner of this year's White House dinner?",
       "options": [
-        "Baltimore",
-        "Gwynn Oak Amusement Park",
-        "The National Mall in Washington, D.C.",
-        "Virginia"
+        "A comedian",
+        "A mentalist named Oz Pearlman",
+        "A magician",
+        "A politician"
       ],
-      "correct_answer": "The National Mall in Washington, D.C."
+      "correct_answer": "A mentalist named Oz Pearlman"
     },
     {
-      "question": "What was special about Gwynn Oak Amusement Park in the 1960s?",
+      "question": "What did Oz Pearlman come in third place in?",
       "options": [
-        "It was the largest park in the country",
-        "It was only for white people",
-        "It had free rides",
-        "It was for adults only"
+        "The Olympics",
+        "America's Got Talent",
+        "World Chess Championship",
+        "A baking contest"
       ],
-      "correct_answer": "It was only for white people"
+      "correct_answer": "America's Got Talent"
     },
     {
-      "question": "On what date was the park integrated?",
+      "question": "Who plans to attend the dinner?",
       "options": [
-        "August 28, 1963",
-        "January 20, 1965",
-        "July 4, 1964",
-        "September 1, 1963"
+        "Joe Biden",
+        "Donald Trump",
+        "Barack Obama",
+        "Kamala Harris"
       ],
-      "correct_answer": "August 28, 1963"
+      "correct_answer": "Donald Trump"
     },
     {
-      "question": "What famous speech was given on the same day the park was integrated?",
+      "question": "What does Oz Pearlman say he wants to do?",
       "options": [
-        "The Gettysburg Address",
-        "I Have a Dream",
-        "The Four Freedoms",
-        "The Inaugural Address"
+        "Roast the president",
+        "Bring people together",
+        "Make people cry",
+        "Read everyone's diaries"
       ],
-      "correct_answer": "I Have a Dream"
+      "correct_answer": "Bring people together"
     },
     {
-      "question": "Who was the first Black child to ride the carousel on that day?",
+      "question": "How long has Oz Pearlman been planning his big moment?",
       "options": [
-        "Janice Chance",
-        "Sharon Langley",
-        "Martin Luther King Jr.",
-        "Lucas Platt"
+        "1 year",
+        "5 years",
+        "10 years",
+        "20 years"
       ],
-      "correct_answer": "Sharon Langley"
+      "correct_answer": "10 years"
     },
     {
-      "question": "What is the name of the horse that Sharon Langley rode this time?",
+      "question": "What might Trump do at the dinner?",
       "options": [
-        "Star",
-        "Freedom Rider",
-        "Liberty",
-        "Equality"
+        "Sing a song",
+        "Be part of Oz Pearlman's act",
+        "Give a speech",
+        "Leave early"
       ],
-      "correct_answer": "Freedom Rider"
+      "correct_answer": "Be part of Oz Pearlman's act"
     }
   ],
   "background_read": [
-    "The National Mall in Washington, D.C., is a large park where many monuments and museums are located. The carousel is one of the fun attractions there.",
-    "Many amusement parks in the United States were segregated until the 1960s. Activists held protests to allow everyone to enter.",
-    "Dr. Martin Luther King Jr. gave his 'I Have a Dream' speech during the March on Washington in 1963, which was a huge protest for equal rights."
+    "Every year, journalists and politicians attend the White House Correspondents' Association Dinner in Washington, D.C.",
+    "Usually a comedian tells jokes and roasts the president, but this year it's different.",
+    "Mentalism is a type of magic where performers appear to read minds, but it's actually based on observation and suggestion."
   ],
   "Article_Structure": [
-    "WHO: Sharon Langley (the first Black child to ride the carousel) and Janice Chance (who rode it in 1966).",
-    "WHAT: A carousel that was once segregated, now a symbol of civil rights on the National Mall after reopening.",
-    "WHERE: The National Mall in Washington, D.C. (previously at Gwynn Oak Amusement Park near Baltimore).",
-    "WHY: The carousel teaches us about the fight for equality and how small moments like riding a merry-go-round were once denied to Black children."
+    "WHO: Oz Pearlman (mentalist) and President Donald Trump (attendee)",
+    "WHAT: The White House Correspondents' Association Dinner has a mentalist instead of a comedian as headliner",
+    "WHERE: Washington, D.C., at the White House dinner",
+    "WHY: To bring people together with amazing mind-reading tricks instead of roasting"
   ],
   "perspectives": [
     {
-      "perspective": "Joyful perspective",
-      "description": "The carousel is a happy place for kids to ride and have fun. It's great that it now belongs to everyone and that people like Sharon can enjoy it again."
+      "perspective": "Oz Pearlman",
+      "description": "He wants to make the audience laugh and be amazed, and hopes to read Trump's mind."
     },
     {
-      "perspective": "Historical perspective",
-      "description": "The carousel is a reminder of a sad time when Black kids were not allowed on rides. But it also shows how brave activists changed that. It helps us remember the past."
+      "perspective": "President Trump",
+      "description": "He plans to attend and might take part in the act, which could be exciting or risky."
     },
     {
-      "perspective": "Neutral perspective",
-      "description": "The carousel is just a ride for many visitors, but it has a deeper story. Knowing the history can make the ride feel more meaningful."
+      "perspective": "Traditionalists",
+      "description": "Some people might miss the usual comedian roasts, but others are curious about the new format."
     }
   ],
-  "mined_at": "2026-04-24T20:50:19+00:00",
-  "source_published_at": "Fri, 24 Apr 2026 10:58:50 -0400",
+  "mined_at": "2026-04-24T01:01:42.087792+00:00",
   "source_name": "NPR World",
-  "source_url": "https://www.npr.org/2026/04/24/nx-s1-5770103/smithsonian-carousel-reopens-national-mall-dc"
+  "source_url": "https://www.npr.org/2026/04/23/nx-s1-5786573/oz-pearlman-mentalist-white-house-correspondents-dinner"
 }

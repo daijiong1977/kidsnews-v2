@@ -1,134 +1,128 @@
 {
-  "title": "From Movie Prop to Monument: The Rocky Statue Gets Its Own Art Exhibition",
-  "summary": "You've probably seen the scene: Rocky Balboa runs up the steps of the Philadelphia Museum of Art, arms raised in victory. At the top stands a bronze statue of the fictional boxer. Millions of people from around the world visit it every year, taking photos and touching his gloves for good luck. But how did a movie prop (an object used in a film) become one of America's most beloved monuments?\n\nA new exhibition at the Philadelphia Museum of Art, titled \"Rising Up: Rocky and the Making of Monuments,\" tries to answer that question. It features over 150 works by more than 50 artists, spanning more than two millennia (2,000 years). You'll see ancient Greek sculptures of boxers, nineteenth-century European paintings, and images from the golden age of boxing in the U.S. Contemporary artists like Andy Warhol, Jean-Michel Basquiat, Glenn Ligon, Hank Willis Thomas, and Lisa Brice revisit boxing through the lens of race, gender, and celebrity.\n\nThe exhibition explores why people project their hopes onto the Rocky statue. \"Perseverance, spirit, and grit\" are the values it represents—values shaped by the history of the sport and by lived struggle and aspiration.\n\nThe show is organized by Paul Farber, director and co-founder of Monument Lab and host of the NPR/WHYY podcast \"The Statue.\" A companion book includes contributions from Philadelphia artist Alex Da Corte, former Philadelphia Eagle and Super Bowl champion Malcolm Jenkins, and film critic Carrie Rickey. The exhibition runs through May 30. If you're in Philadelphia, don't miss it!",
-  "why_it_matters": "This exhibition challenges us to think about what makes something a monument and how popular culture can shape public symbols. It encourages critical reflection on the values we admire and the stories we tell through statues.",
-  "image_url": "/article_images/article_c6cc62069927.webp",
+  "title": "Venice Biennale Jury Refuses to Award Russia and Israel Over ICC Charges",
+  "summary": "The Venice Biennale, one of the world's most prestigious art exhibitions, has become the center of a heated political controversy. The international awards jury for the 61st edition, which opened this week, issued a statement declaring that it will omit \"countries whose leaders are currently charged with crimes against humanity by the International Criminal Court (ICC)\" from consideration for its top prizes, the Golden Lions. While the statement does not name specific nations, the implications are clear: Russia and Israel are the only two participating countries whose leaders—President Vladimir Putin and Prime Minister Benjamin Netanyahu, respectively—face ICC arrest warrants for war crimes and crimes against humanity related to the conflicts in Ukraine and Gaza.\n\nThe all-women jury, chaired by Solange Farkas, includes prominent curators from around the world. Their decision comes amid mounting pressure on the Biennale Foundation. Earlier this month, a majority of artists in the central exhibition, \"In Minor Keys,\" published an open letter supporting the move. Nearly 10,000 people have signed a separate petition opposing Russia's return to the Biennale after a two-year absence following its invasion of Ukraine. The European Union has also threatened to suspend or terminate its €2 million (~$2.3 million) grant to the Biennale over Russia's participation.\n\nHowever, the decision has drawn criticism from some quarters. The Art Not Genocide Alliance (ANGA), which has led protests against Israel's participation, welcomed the jury's declaration but noted that \"the jury's refusal to name Israel reveals its limits.\" ANGA argued that \"at a moment of ongoing genocide in Gaza and escalating violence in the occupied West Bank, Lebanon, and the region at large, such ambiguity sustains impunity.\" The jury itself invoked the late artistic director Koyo Kouoh's vision of \"refusing the spectacle of horror\" and listening to \"the minor keys.\" The Biennale Foundation has not yet commented. The debate highlights the increasingly blurred line between art and politics on the global stage.",
+  "why_it_matters": "This decision reflects a growing trend of cultural institutions taking political stances on international conflicts, raising questions about the role of art in society and whether boycotts are effective tools for accountability.",
+  "image_url": "/article_images/article_3eccd52c6e4a.webp",
   "keywords": [
     {
-      "term": "Rocky Balboa",
-      "explanation": "The fictional boxer character whose statue is the subject of the exhibition."
+      "term": "Venice Biennale",
+      "explanation": "a major international art exhibition held every two years in Venice, Italy"
     },
     {
-      "term": "bronze statue",
-      "explanation": "The sculpture of Rocky at the Philadelphia Museum of Art."
+      "term": "Golden Lions",
+      "explanation": "the top prizes awarded at the Biennale"
     },
     {
-      "term": "movie prop",
-      "explanation": "An object used in a film; the statue started as a prop for the Rocky movies."
+      "term": "crimes against humanity",
+      "explanation": "serious crimes committed as part of a widespread attack on civilians"
     },
     {
-      "term": "Rising Up: Rocky and the Making of Monuments",
-      "explanation": "The title of the exhibition at the Philadelphia Museum of Art."
-    },
-    {
-      "term": "Philadelphia Museum of Art",
-      "explanation": "The museum hosting the exhibition, also the location of the Rocky statue."
-    },
-    {
-      "term": "Paul Farber",
-      "explanation": "Director of Monument Lab and organizer of the exhibition."
+      "term": "arrest warrants",
+      "explanation": "official documents authorizing the arrest of a person"
     }
   ],
   "questions": [
     {
-      "question": "What is the title of the exhibition?",
+      "question": "What specific prizes will not be given to certain countries according to the jury?",
       "options": [
-        "Rising Up: Rocky and the Making of Monuments",
-        "Rocky: The Movie Prop",
-        "The Statue Show",
-        "Philadelphia's Rocky"
+        "the Golden Lions",
+        "the Silver Bears",
+        "the Bronze Medals",
+        "the Platinum Awards"
       ],
-      "correct_answer": "Rising Up: Rocky and the Making of Monuments"
+      "correct_answer": "the Golden Lions"
     },
     {
-      "question": "How many works are featured?",
+      "question": "What is the reason given by the jury for omitting certain countries?",
       "options": [
-        "Over 150",
-        "Over 100",
-        "Over 200",
-        "Over 50"
+        "The quality of their art was poor",
+        "Their leaders are charged with crimes against humanity by the ICC",
+        "The countries have boycotted the event",
+        "The EU threatened to withdraw funding"
       ],
-      "correct_answer": "Over 150"
+      "correct_answer": "Their leaders are charged with crimes against humanity by the ICC"
     },
     {
-      "question": "How many artists contributed to the exhibition?",
+      "question": "Why did the Art Not Genocide Alliance criticize the jury's decision?",
       "options": [
-        "More than 50",
-        "More than 30",
-        "More than 70",
-        "More than 20"
+        "Because the jury did not include enough women",
+        "Because the jury refused to name Israel directly, creating ambiguity",
+        "Because the jury also excluded other countries",
+        "Because the decision was too late"
       ],
-      "correct_answer": "More than 50"
+      "correct_answer": "Because the jury refused to name Israel directly, creating ambiguity"
     },
     {
-      "question": "Which ancient sculptures are included in the exhibition?",
+      "question": "What did the European Union threaten regarding the Biennale?",
       "options": [
-        "Ancient Greek sculptures of boxers",
-        "Egyptian statues of pharaohs",
-        "Roman busts of emperors",
-        "Chinese terra cotta warriors"
+        "To ban all Israeli artists",
+        "To suspend or terminate its €2 million grant",
+        "To move the Biennale to another city",
+        "To start a competing event"
       ],
-      "correct_answer": "Ancient Greek sculptures of boxers"
+      "correct_answer": "To suspend or terminate its €2 million grant"
     },
     {
-      "question": "What values does the statue represent according to the exhibition?",
+      "question": "How many signatures did the petition opposing Russia's return receive?",
       "options": [
-        "Perseverance, spirit, and grit",
-        "Strength and power",
-        "Luck and fame",
-        "Speed and agility"
+        "nearly 10,000",
+        "over 20,000",
+        "exactly 5,000",
+        "100,000"
       ],
-      "correct_answer": "Perseverance, spirit, and grit"
+      "correct_answer": "nearly 10,000"
     },
     {
-      "question": "Who hosts the podcast 'The Statue'?",
+      "question": "Which term did the jury use that reflects the artistic vision of the late director Koyo Kouoh?",
       "options": [
-        "Paul Farber",
-        "Alex Da Corte",
-        "Malcolm Jenkins",
-        "Carrie Rickey"
+        "'refusing the spectacle of horror'",
+        "'art for art's sake'",
+        "'the show must go on'",
+        "'keeping politics out of art'"
       ],
-      "correct_answer": "Paul Farber"
+      "correct_answer": "'refusing the spectacle of horror'"
     }
   ],
   "background_read": [
-    "The Rocky statue was originally created for the film 'Rocky III' (1982) by sculptor A. Thomas Schomberg.",
-    "After filming, it was donated to the Philadelphia Museum of Art and became a popular tourist attraction.",
-    "Monument Lab, co-founded by Paul Farber, is a research organization that studies public monuments and their meanings.",
-    "This exhibition is part of a broader trend of museums exploring the intersection of popular culture and art."
+    "The Venice Biennale was founded in 1895 and is considered one of the most prestigious cultural events globally, with national pavilions dating back to 1907.",
+    "The International Criminal Court (ICC) issued an arrest warrant for Vladimir Putin in March 2023 over war crimes in Ukraine, and for Benjamin Netanyahu in November 2024 over alleged war crimes in Gaza. Both warrants are controversial and not universally recognized.",
+    "The Art Not Genocide Alliance (ANGA) is a coalition of artists and activists that has campaigned for the exclusion of Israel from cultural events since the 2023 Gaza war. Similar boycotts have occurred in the past, such as the cultural boycott of South Africa during apartheid.",
+    "The EU grant of €2 million to the Biennale is part of a broader cultural funding program. Threats to withdraw such funding have precedents in other cultural institutions facing political controversies."
   ],
   "Article_Structure": [
-    "LEAD: Description of Rocky running up steps and the statue.",
-    "  └─ specific: 'How did a movie prop become a beloved monument?'",
-    "EXHIBITION: 'Rising Up: Rocky and the Making of Monuments' at Philadelphia Museum of Art.",
-    "  ├─ SCALE: Over 150 works by more than 50 artists spanning 2,000 years.",
-    "  └─ CONTENTS: Ancient Greek boxer sculptures, 19th-century paintings, photos from boxing golden age, contemporary artists (Warhol, Basquiat, etc.).",
-    "THEMATIC FOCUS: Explores why people project hopes onto the statue.",
-    "  └─ VALUES: Perseverance, spirit, and grit shaped by history of sport and lived struggle.",
-    "ORGANIZER: Paul Farber, director of Monument Lab and host of 'The Statue' podcast.",
-    "COMPANION BOOK: Contributions from artist Alex Da Corte, NFL champion Malcolm Jenkins, film critic Carrie Rickey.",
-    "CLOSING: Exhibition runs through May 30."
+    "LEAD: Venice Biennale jury refuses to award top prizes to Russia and Israel due to ICC charges",
+    "  └─ specific: 'The jury will omit countries whose leaders are charged with crimes against humanity'",
+    "REASON: ICC arrest warrants against Putin and Netanyahu",
+    "  ├─ CONTEXT: First time Biennale has made such a political exclusion based on ICC charges",
+    "  └─ AMBIGUITY: Statement does not name countries, but only Russia and Israel fit",
+    "PRESSURES ON BIENNALE FOUNDATION",
+    "  ├─ ARTISTS: Open letter from central exhibition artists, nearly 10,000 sign petition",
+    "  └─ EU: Threatens to cut €2 million grant over Russia's participation",
+    "CRITICISM",
+    "  ├─ FROM ANGA: Welcomed decision but criticized failure to name Israel directly",
+    "  └─ QUOTE: 'such ambiguity sustains impunity'",
+    "ARTISTIC FRAMING: Jury invokes late director Koyo Kouoh's vision of 'refusing the spectacle of horror'",
+    "OPEN QUESTION: How will the Biennale Foundation respond, and will this affect future editions?"
   ],
   "perspectives": [
     {
-      "perspective": "Positive",
-      "description": "The exhibition celebrates a unifying symbol that brings diverse people together and highlights the positive message of hard work and resilience."
+      "perspective": "Positive (human rights advocate)",
+      "description": "The jury's move is a principled stance holding countries accountable for alleged war crimes. It uses the soft power of culture to exert moral pressure and aligns the Biennale with international justice."
     },
     {
-      "perspective": "Negative / Critical",
-      "description": "Some critics might argue that the Rocky statue is a commercial prop, not a genuine historical monument, and that the exhibition avoids deeper critiques of boxing's violence or racial politics."
+      "perspective": "Negative / critical (free expression supporter)",
+      "description": "Punishing entire national pavilions unfairly targets individual artists who may not support their governments. Art venues should remain neutral to foster dialogue, not become instruments of political boycott."
     },
     {
-      "perspective": "Neutral / Analytical",
-      "description": "The exhibition demonstrates how museums are increasingly engaging with pop culture to attract audiences and provoke discussion about what we choose to memorialize."
+      "perspective": "Neutral / analytical (historical pattern)",
+      "description": "The Biennale has a history of political entanglements—from fascist censorship to Cold War boycotts. This decision fits a pattern of cultural events becoming arenas for geopolitical struggles, where symbolism often outweighs concrete impact."
     },
     {
-      "perspective": "Forward-looking",
-      "description": "As public conversations about monuments and statues continue, exhibitions like this could pave the way for more inclusive and diverse representations of heroism and achievement."
+      "perspective": "Forward-looking (activist perspective)",
+      "description": "While the jury's decision is a step, activists like ANGA argue it must go further by explicitly naming Israel and expelling Russia entirely. Future Biennales may see stricter eligibility criteria based on human rights records, setting a precedent for other global events."
     }
   ],
-  "mined_at": "2026-04-24T20:50:19+00:00",
-  "source_published_at": "Fri, 24 Apr 2026 16:26:56 GMT",
+  "mined_at": "2026-04-24T01:01:43.778406+00:00",
   "source_name": "Hyperallergic",
-  "source_url": "https://hyperallergic.com/rising-up-rocky-and-the-making-of-monuments-philadelphia-museum-art/"
+  "source_url": "https://hyperallergic.com/azerbaijan-destroys-armenian-holy-mother-of-god-church-in-artsakh/"
 }
