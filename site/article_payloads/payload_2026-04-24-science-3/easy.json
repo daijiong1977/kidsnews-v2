@@ -1,119 +1,119 @@
 {
-  "title": "Nearly Half of US Kids Are Breathing Dirty Air — and It's Getting Worse",
-  "summary": "Here's some scary news: nearly half of all children in the United States are breathing air that is dangerous for their health. That's according to a new report from the American Lung Association. The report looked at two main types of pollution: smog (a kind of dirty air that looks like a brown haze) and soot (tiny particles from things like cars and factories). Kids are especially at risk because their lungs are still growing, they breathe more air for their size, and they spend a lot of time playing outside. Breathing dirty air can cause asthma (a lung disease that makes it hard to breathe), long-term damage to lungs, and other health problems. The report also found that communities of color are hit hardest. People of color make up 42% of the US population, but they represent 54% of people living in the most polluted areas. Why is the air getting worse? One big reason is climate change — hotter temperatures and more wildfires create more pollution. Another reason is that the government has been rolling back (removing) many rules that protected the air. For example, they've weakened limits on pollution from power plants and cars. \"There's a devaluing of children's health by this EPA,\" said Will Barrett from the American Lung Association. That means the agency that's supposed to protect our air isn't doing enough to keep kids safe. The good news? We can still fight for cleaner air — and our health depends on it.",
-  "why_it_matters": "This affects you directly — the air you breathe every day could be harming your lungs, and knowing about it is the first step to demanding cleaner air for everyone.",
-  "image_url": "/article_images/article_41611642a438.webp",
+  "title": "Trees Glow During Storms! Scientists Finally Prove It",
+  "summary": "Imagine standing under a tree during a thunderstorm—and seeing it glow! That might sound like a scene from a fantasy movie, but scientists just proved it's real.\n\nFor more than 70 years, researchers suspected that trees might give off tiny electrical sparks during storms. But nobody had ever caught it happening in nature. Until now.\n\nA team from Penn State University packed a special van with a telescope on the roof and drove to North Carolina. They pointed their instrument at a sweetgum tree during a huge thunderstorm. And guess what? They saw it: 859 tiny bursts of electricity called \"corona discharges\" shooting from the leaves!\n\nThese sparks are too faint for your eyes to see, but they glow in ultraviolet (UV) light—like a blacklight poster. Each spark lasts only a fraction of a second.\n\nHere's the cool part: these sparks actually help clean the air! They create a chemical called hydroxyl, which breaks down pollution and even greenhouse gases like methane.\n\n\"This just goes to show that there's still discovery science being done,\" said Patrick McFarland, the lead scientist. \"For more than half a century, scientists have theorized that corona exists, but this proves it.\"\n\nSo next time you're in a storm, remember: the trees might be putting on a secret light show—and cleaning the air while they're at it!",
+  "why_it_matters": "Trees are already amazing for giving us oxygen, and now you know they secretly help clean the air during storms—so taking care of trees helps take care of the planet.",
+  "image_url": "/article_images/article_81a73d27edf1.webp",
   "keywords": [
     {
-      "term": "children",
-      "explanation": "Kids in the US whose health is at risk from dirty air."
+      "term": "corona discharges",
+      "explanation": "Tiny bursts of electricity that shoot from leaves during storms"
     },
     {
-      "term": "air",
-      "explanation": "The air we breathe; nearly half of US children breathe unsafe air."
+      "term": "sweetgum tree",
+      "explanation": "A type of tree that the scientists aimed their telescope at"
+    },
+    {
+      "term": "ultraviolet",
+      "explanation": "A kind of light we can't see, but it makes the sparks glow"
+    },
+    {
+      "term": "hydroxyl",
+      "explanation": "A chemical created by the sparks that breaks down pollution"
     },
     {
       "term": "pollution",
-      "explanation": "Dirty substances in the air, like smog and soot, that harm health."
+      "explanation": "Dirty stuff in the air that can harm people and the planet"
     },
     {
-      "term": "American Lung Association",
-      "explanation": "The organization that wrote the report about air pollution."
-    },
-    {
-      "term": "asthma",
-      "explanation": "A lung disease that makes it hard to breathe, worsened by dirty air."
-    },
-    {
-      "term": "climate change",
-      "explanation": "The heating up of Earth, which makes pollution worse by causing more wildfires and heat."
+      "term": "storm",
+      "explanation": "A thunderstorm with rain, thunder, and lightning"
     }
   ],
   "questions": [
     {
-      "question": "How many US children are breathing dangerous air according to the report?",
+      "question": "What did scientists see coming from the sweetgum tree?",
       "options": [
-        "All of them",
-        "Nearly half",
-        "About one quarter",
-        "Only those in cities"
+        "859 tiny electrical sparks",
+        "A rainbow",
+        "Leaves moving",
+        "Birds flying"
       ],
-      "correct_answer": "Nearly half"
+      "correct_answer": "859 tiny electrical sparks"
     },
     {
-      "question": "What are the two main types of pollution mentioned?",
+      "question": "Which university led this discovery?",
       "options": [
-        "Smog and soot",
-        "Smoke and dust",
-        "Chemicals and noise",
-        "Plastic and paper"
+        "Penn State University",
+        "Harvard University",
+        "Stanford University",
+        "University of North Carolina"
       ],
-      "correct_answer": "Smog and soot"
+      "correct_answer": "Penn State University"
     },
     {
-      "question": "Why are children more at risk from air pollution?",
+      "question": "How long have scientists suspected trees might glow during storms?",
       "options": [
-        "They run slower",
-        "Their lungs are still growing and they play outside more",
-        "They eat more food",
-        "They are shorter"
+        "More than 70 years",
+        "10 years",
+        "2 years",
+        "6 months"
       ],
-      "correct_answer": "Their lungs are still growing and they play outside more"
+      "correct_answer": "More than 70 years"
     },
     {
-      "question": "Which group is hit hardest by pollution?",
+      "question": "What kind of light do the sparks glow in?",
       "options": [
-        "People who live in the country",
-        "Communities of color",
-        "People with pets",
-        "People who drive cars"
+        "Ultraviolet (UV) light",
+        "Visible light",
+        "Infrared light",
+        "X-ray light"
       ],
-      "correct_answer": "Communities of color"
+      "correct_answer": "Ultraviolet (UV) light"
     },
     {
-      "question": "What is one reason air is getting worse?",
+      "question": "What helpful chemical do the sparks create?",
       "options": [
-        "More people are planting trees",
-        "Climate change is causing more heat and wildfires",
-        "People are driving less",
-        "Factories are closing"
+        "Hydroxyl",
+        "Oxygen",
+        "Carbon dioxide",
+        "Methane"
       ],
-      "correct_answer": "Climate change is causing more heat and wildfires"
+      "correct_answer": "Hydroxyl"
     },
     {
-      "question": "What did Will Barrett say about the EPA?",
+      "question": "Where did the scientists go to observe the tree?",
       "options": [
-        "They are doing a great job",
-        "There is a devaluing of children's health by this EPA",
-        "They need more money",
-        "They are too strict"
+        "North Carolina",
+        "Pennsylvania",
+        "Florida",
+        "California"
       ],
-      "correct_answer": "There is a devaluing of children's health by this EPA"
+      "correct_answer": "North Carolina"
     }
   ],
   "background_read": [
-    "Air pollution comes from cars, factories, power plants, and wildfires. It can cause health problems like asthma and lung damage.",
-    "Children's lungs grow until they are about 18, so dirty air is especially dangerous for them.",
-    "The Environmental Protection Agency (EPA) is the US government agency that is supposed to make rules to keep air clean."
+    "Lightning during thunderstorms is a giant spark of electricity in the sky.",
+    "Trees can sometimes give off smaller sparks from their leaves when the electric field in the air is strong.",
+    "These tiny sparks, called corona discharges, have been a theory for decades but were never seen in nature until now."
   ],
   "Article_Structure": [
-    "WHO: Nearly half of US children and communities of color",
-    "WHAT: Breathing dirty air that can hurt their lungs and cause asthma",
-    "WHERE: United States (especially polluted areas)",
-    "WHY: Climate change and the government removing rules that protect air quality"
+    "WHO: Scientists from Penn State University",
+    "WHAT: They proved trees glow with tiny sparks called corona discharges during storms",
+    "WHERE: North Carolina (near Interstate 95)",
+    "WHY: To prove a 70-year-old theory and show the sparks help clean the air"
   ],
   "perspectives": [
     {
-      "perspective": "Worried",
-      "description": "Parents should be concerned because dirty air is harming children's health and may cause long-term problems."
+      "perspective": "Exciting discovery",
+      "description": "This is a big moment for science—it proves a long-held theory and shows nature is even more incredible than we knew."
     },
     {
-      "perspective": "Critical",
-      "description": "The government is not doing enough to protect kids; the EPA is weakening rules instead of strengthening them."
+      "perspective": "Practical use",
+      "description": "The fact that the sparks create hydroxyl, which cleans pollution, could help scientists find new ways to clean the air."
     },
     {
-      "perspective": "Hopeful",
-      "description": "We can still fight for cleaner air, and the report shows that the problem is known, so we can work to fix it."
+      "perspective": "Just the beginning",
+      "description": "The team only studied a few trees in one storm; we need more research to see if all trees do this and how much air cleaning happens."
     }
   ]
 }
