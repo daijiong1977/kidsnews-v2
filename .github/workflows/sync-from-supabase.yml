@@ -1,0 +1,50 @@
+name: Sync content from Supabase
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    # Every day 15 minutes past every even hour (UTC) — pipeline posts earlier.
+    - cron: "15 */2 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Download latest.zip
+        env:
+          ZIP_URL: https://lfknsvavhiqrsasdfyrs.supabase.co/storage/v1/object/public/redesign-daily-content/latest.zip
+        run: |
+          set -euo pipefail
+          # Cache-bust with a timestamp; Supabase CDN honors unique query strings.
+          curl -fsSL "${ZIP_URL}?t=$(date +%s)" -o /tmp/latest.zip
+          ls -la /tmp/latest.zip
+          unzip -l /tmp/latest.zip | tail -5
+
+      - name: Replace site/ contents
+        run: |
+          set -euo pipefail
+          rm -rf site
+          mkdir -p site
+          unzip -q /tmp/latest.zip -d site
+          find site -maxdepth 2 -type d | sort | head -20
+
+      - name: Commit and push if changed
+        run: |
+          set -euo pipefail
+          git config user.name "kidsnews-v2 sync bot"
+          git config user.email "noreply@6ray.com"
+          git add site
+          if git diff --cached --quiet; then
+            echo "No content changes — skipping commit."
+            exit 0
+          fi
+          git commit -m "sync: content $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
