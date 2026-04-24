@@ -1,115 +1,119 @@
 {
-  "title": "Iran Says 'We Are One Soul' After Trump Claims Leaders Are Fighting Each Other",
-  "summary": "Have you ever had someone say you and your best friend are fighting — when you're actually totally fine? That's what's happening between the U.S. and Iran right now.\n\nPresident Trump has been saying that Iran's leaders are arguing with each other. He called it \"crazy infighting\" between \"moderates\" and \"hardliners.\" He even claimed Iranians are \"having a very hard time figuring out who their leader is.\"\n\nBut Iran's top officials fired back — and they did it in a really coordinated way. Iran's President Masoud Pezeshkian, Parliament Speaker Mohammad Bagher Ghalibaf, and the Supreme National Security Council all posted the exact same message on X (formerly Twitter). It said: \"In Iran, there are no radicals or moderates. We are all 'Iranian' and 'revolutionary.'\"\n\nIran's first vice president added in English: \"We are one soul, one nation.\"\n\nWhy does this matter? Because if Iran's leaders are united, it makes it harder for Trump to say they're too weak to negotiate. Iran also says talks aren't happening because the U.S. is blockading its ports (blocking ships from coming in or out).\n\nMeanwhile, Trump said the U.S. military will \"shoot and kill\" anyone laying mines in the Strait of Hormuz — a narrow waterway where a lot of oil ships pass. That's a big threat, and it could make things even more tense.\n\nSo who's right? Is Iran united or divided? It's hard to know for sure, but one thing is clear: both sides are talking tough.",
-  "why_it_matters": "This shows how countries use social media to argue and shape what people believe, which can affect whether there is war or peace.",
+  "title": "Iran Fires Back at Trump: 'We Are One Soul, Not Divided!'",
+  "summary": "President Trump has been saying that Iran's leaders are fighting with each other — that there are \"moderates\" (people who want peace) and \"hardliners\" (people who want to fight). But Iran's top leaders just gave a big, united answer: \"We are all one soul!\" Iran's president, foreign minister, and parliament speaker all posted the same message on social media. It said there are no radicals or moderates in Iran — just Iranians who are united behind their Supreme Leader. This comes after a tough time for Iran. In February, the U.S. and Israel killed Iran's former Supreme Leader, Ali Khamenei. His son, Mojtaba Khamenei, is now the leader, but he hasn't been seen in public since. Meanwhile, the U.S. has a blockade (a military barrier) around Iran's ports, stopping ships from coming and going. Iran has also closed the Strait of Hormuz, a narrow waterway where a lot of the world's oil travels. This has made oil prices go up. Trump says the blockade is \"airtight\" (completely sealed) and that Iran's military is destroyed. But Iran says it is united and ready to defend itself. Israel says it's waiting for Trump's permission to attack Iran again. So, is Iran really divided? Or is it standing strong together?",
+  "why_it_matters": "This story shows how countries can have very different stories about what's happening, and it reminds you that war and blockades affect things like the price of gas and the safety of people far away.",
   "image_url": "/article_images/article_23d2604d763b.webp",
   "keywords": [
     {
-      "term": "Iran",
-      "explanation": "a country in the Middle East whose leaders say they are united"
-    },
-    {
-      "term": "Trump",
-      "explanation": "the U.S. president who claimed Iran's leaders are fighting"
-    },
-    {
-      "term": "leaders",
-      "explanation": "the top officials of a country, like Iran's president and parliament speaker"
+      "term": "hardliners",
+      "explanation": "people who want to fight rather than make peace"
     },
     {
       "term": "moderates",
-      "explanation": "people who want smaller changes and less conflict"
+      "explanation": "people who want peace and compromise"
     },
     {
-      "term": "hardliners",
-      "explanation": "people who want strong, strict actions and refuse to compromise"
+      "term": "Supreme Leader",
+      "explanation": "the highest religious and political leader of Iran"
+    },
+    {
+      "term": "blockade",
+      "explanation": "a military barrier that stops ships from going to or from a country"
+    },
+    {
+      "term": "Strait of Hormuz",
+      "explanation": "a narrow waterway where a lot of the world's oil travels"
+    },
+    {
+      "term": "united",
+      "explanation": "standing together as one group"
     }
   ],
   "questions": [
     {
-      "question": "What did President Trump say about Iran's leaders?",
+      "question": "What did Iran's top leaders post on social media?",
       "options": [
-        "They are united",
-        "They are having crazy infighting",
-        "They want to make peace",
-        "They are weak"
+        "A fight between them",
+        "A united message saying 'We are all one soul'",
+        "An apology to Trump",
+        "A new law"
       ],
-      "correct_answer": "They are having crazy infighting"
+      "correct_answer": "A united message saying 'We are all one soul'"
     },
     {
-      "question": "How did Iran's leaders respond to Trump's claim?",
+      "question": "What happened to Iran's former Supreme Leader Ali Khamenei in February?",
       "options": [
-        "They ignored it",
-        "They all posted the same message on social media",
-        "They started a new war",
-        "They resigned"
+        "He retired",
+        "He was killed by U.S. and Israel",
+        "He became president",
+        "He moved to another country"
       ],
-      "correct_answer": "They all posted the same message on social media"
+      "correct_answer": "He was killed by U.S. and Israel"
     },
     {
-      "question": "Who posted the same message in Iran?",
+      "question": "Who is the new leader of Iran?",
       "options": [
-        "Just the president",
-        "The president, parliament speaker, and National Security Council",
-        "Only the military",
-        "The supreme leader only"
+        "Masoud Pezeshkian",
+        "Ali Khamenei",
+        "Mojtaba Khamenei",
+        "Abbas Araghchi"
       ],
-      "correct_answer": "The president, parliament speaker, and National Security Council"
+      "correct_answer": "Mojtaba Khamenei"
     },
     {
-      "question": "What did Iran's first vice president say in English?",
+      "question": "Why are oil prices going up?",
       "options": [
-        "We are divided",
-        "We are one soul, one nation",
-        "We hate Trump",
-        "We will fight"
+        "Because oil is scarce",
+        "Because Iran closed the Strait of Hormuz",
+        "Because the U.S. stopped buying oil",
+        "Because China stopped buying oil"
       ],
-      "correct_answer": "We are one soul, one nation"
+      "correct_answer": "Because Iran closed the Strait of Hormuz"
     },
     {
-      "question": "What did Trump threaten to do in the Strait of Hormuz?",
+      "question": "What did Trump say about the blockade?",
       "options": [
-        "Build a bridge",
-        "Shoot and kill anyone laying mines",
-        "Send diplomats",
-        "Close it permanently"
+        "It's weak",
+        "It's 'airtight'",
+        "It's temporary",
+        "It's illegal"
       ],
-      "correct_answer": "Shoot and kill anyone laying mines"
+      "correct_answer": "It's 'airtight'"
     },
     {
-      "question": "Why does Iran say talks are not happening?",
+      "question": "Who said Israel is waiting for Trump's permission to attack Iran?",
       "options": [
-        "Because the U.S. is blockading its ports",
-        "Because they don't want to",
-        "Because Trump refused",
-        "Because of the weather"
+        "Trump",
+        "Israel's Defense Minister Israel Katz",
+        "Iran's foreign minister",
+        "The U.S. ambassador"
       ],
-      "correct_answer": "Because the U.S. is blockading its ports"
+      "correct_answer": "Israel's Defense Minister Israel Katz"
     }
   ],
   "background_read": [
-    "The United States and Iran have been rivals for many years, often arguing over Iran's nuclear program and its support for groups like Hezbollah.",
-    "The Strait of Hormuz is a narrow waterway where many oil tankers pass. Blocking it could cause oil prices to rise around the world.",
-    "A blockade is when one country stops ships from entering or leaving another country's ports."
+    "Iran and the United States have been enemies for many decades, and they often disagree about politics and power in the Middle East.",
+    "The Strait of Hormuz is a very important waterway because a lot of oil from Middle Eastern countries passes through it.",
+    "When one country attacks another's leader, it often creates big changes and tensions."
   ],
   "Article_Structure": [
-    "WHO: Iran's leaders (President, Parliament Speaker, National Security Council) and President Trump",
-    "WHAT: Iran's leaders posted a unified message saying they are not divided, after Trump claimed infighting",
-    "WHERE: On social media platform X (formerly Twitter)",
-    "WHY: To show that Iran is united and to challenge Trump's narrative that they are weak"
+    "WHO: Iran's top leaders (president, foreign minister, parliament speaker) and Supreme Leader Mojtaba Khamenei",
+    "WHAT: They posted a unified message rejecting Trump's claims of division",
+    "WHERE: On social media (X); the conflict involves the Strait of Hormuz and Iran's ports",
+    "WHY: To show they are united after a U.S.-Israeli strike killed the former Supreme Leader"
   ],
   "perspectives": [
     {
-      "perspective": "Iran's view",
-      "description": "Iran wants the world to see its leaders as strong and united, not weak and divided."
+      "perspective": "Iranian leaders",
+      "description": "They want to show that despite the attacks, the country is not divided and stands together."
     },
     {
-      "perspective": "U.S. view",
-      "description": "Trump says Iran is divided, which might be a way to pressure them or justify tough actions."
+      "perspective": "President Trump and Israel",
+      "description": "They say Iran is weak and divided, and they threaten more military action."
     },
     {
-      "perspective": "Observer view",
-      "description": "It's hard to know who is telling the truth, but both sides are talking tough and the situation is tense."
+      "perspective": "The rest of the world",
+      "description": "Countries that rely on oil from the Middle East are worried because closing the Strait of Hormuz raises prices."
     }
   ]
 }

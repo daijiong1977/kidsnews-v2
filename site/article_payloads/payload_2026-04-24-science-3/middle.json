@@ -1,136 +1,138 @@
 {
-  "title": "289-Million-Year-Old Mummy Reptile Reveals the Origins of How We Breathe",
-  "summary": "Every breath you take is part of a story that began nearly 300 million years ago. Now, a spectacularly preserved fossil from an Oklahoma cave has revealed the earliest known chapter of that story.\n\nThe fossil belongs to Captorhinus aguti, a small, lizard-like reptile that lived during the early Permian period, about 289 million years ago. It was discovered in cave systems near Richards Spur, Oklahoma—a site famous for its extraordinary preservation of ancient life. Oil seeps and oxygen-free mud protected not just the bones, but also delicate soft tissues like skin and cartilage. The result is a three-dimensional \"mummy\" fossil, frozen in its final resting position with one arm tucked beneath its body.\n\nUsing neutron computed tomography (nCT) at a facility in Australia, researchers scanned the fossil without damaging it. What they saw amazed them. \"I started to see all these structures wrapped around the bones,\" said Ethan Mooney, who co-led the study. \"They were very thin and textured. And lo and behold, there was a nice wrapping of skin around the torso of this animal.\" The skin had an accordion-like texture, similar to scales on modern worm lizards.\n\nBut the real breakthrough came when the team reconstructed the reptile's breathing system. By studying three Captorhinus specimens, they identified a segmented cartilaginous sternum, sternal ribs, and connections linking the ribcage to the shoulder girdle. This provided direct evidence of costal aspiration breathing—where muscles between the ribs expand and compress the chest cavity to pull air into the lungs. Before this system evolved, early land animals relied on breathing through their skin and using mouth movements to push air into their lungs—a method that limits activity.\n\n\"It was a game changer that allowed these animals to adopt a much more active lifestyle,\" said Mooney, now a PhD candidate at Harvard.\n\nThe discovery also included a stunning bonus: using synchrotron infrared spectroscopy, researchers detected traces of original proteins preserved in the fossil's bone, cartilage, and skin. These molecules are the oldest of their kind ever identified, dating back nearly 100 million years earlier than previous examples found in dinosaur fossils. It's a reminder that even the smallest fossils can hold the biggest secrets.",
-  "why_it_matters": "This fossil provides the earliest direct evidence for the rib-based breathing system that all mammals and reptiles (including humans) use today, showing that a key evolutionary innovation for land animals happened much earlier than previously thought.",
-  "image_url": "/article_images/article_12c15a683f8f.webp",
+  "title": "Dirty Air Crisis: Nearly Half of US Kids Breathing Dangerous Pollution, Report Warns",
+  "summary": "Nearly half of all children in the United States are breathing air that poses serious risks to their health, according to a new report from the American Lung Association (ALA). The 27th annual report, released on April 22, 2026, evaluated pollution levels across the country, focusing on ground-level ozone (smog) and particle pollution (soot). The data, collected between 2022 and 2024, paints a grim picture. \"Children's lungs are still developing. For their body size, they're breathing more air. And also, kids play outdoors, they're more active, they're breathing in more outdoor air,\" said Will Barrett, assistant vice-president of the ALA's Nationwide Clean Air Policy. \"Air pollution exposure in children can contribute to long-term developmental harm to their lungs, new cases of asthma, increased risks of respiratory illness.\" The report found that 38% of the US population — about 129.1 million people — were exposed to unhealthy ozone levels, the highest number in six years. Climate change is a major driver: extreme heat, drought, and wildfires have boosted pollution. Smoke from Canada's 2023 wildfires, for example, drifted into the US, worsening air quality. The report also highlighted a surprising new source of pollution: datacenters. These massive computer facilities consume about 4.4% of US electricity, a figure expected to rise to 12% within a decade. Many rely on fossil fuels like coal and methane gas, and their diesel backup generators emit cancer-causing particles. Communities of color are disproportionately affected. Although people of color make up 42.1% of the US population, they represent 54.2% of those living in counties with failing grades for air quality. A person of color is 2.42 times more likely than a white person to live in a community that fails all three pollution measures. The report comes amid a sweeping rollback of environmental protections by the Trump administration, which has initiated at least 70 actions to weaken climate and air quality rules. These include loosening limits on mercury and other toxic emissions from power plants, repealing vehicle standards, and disbanding EPA advisory committees on air quality. \"There's a devaluing of children's health by this EPA as they are weakening, delaying and repealing critical health protection,\" Barrett said. \"[There is] a wide-scale effort by the federal EPA to eliminate health protections while also distancing themselves from their own mission to protect public health.\"",
+  "why_it_matters": "For middle schoolers, this is personal: the air you breathe every day could be harming your lungs and increasing your risk of asthma and other diseases — and understanding the problem is the first step to demanding change from leaders who are supposed to protect you.",
+  "image_url": "/article_images/article_41611642a438.webp",
   "keywords": [
     {
-      "term": "Captorhinus aguti",
-      "explanation": "A small, lizard-like reptile from the early Permian period, preserved as a mummy fossil."
+      "term": "children",
+      "explanation": "Kids under 18 whose health is threatened by air pollution."
     },
     {
-      "term": "early Permian",
-      "explanation": "The geological time period around 289 million years ago when this reptile lived."
+      "term": "ozone",
+      "explanation": "A gas that forms smog and can damage lungs at ground level."
     },
     {
-      "term": "neutron computed tomography",
-      "explanation": "A scanning technique using neutrons to see inside a fossil without damaging it."
+      "term": "particle pollution",
+      "explanation": "Tiny solid particles (soot) from burning fossil fuels that can be inhaled."
     },
     {
-      "term": "costal aspiration",
-      "explanation": "Rib-based breathing where muscles expand and compress the chest to move air in and out of the lungs."
+      "term": "American Lung Association",
+      "explanation": "The non-profit that published the 27th annual State of the Air report."
     },
     {
-      "term": "synchrotron infrared spectroscopy",
-      "explanation": "A technique used to detect chemical traces, such as proteins, in the fossil."
+      "term": "datacenters",
+      "explanation": "Massive computer facilities that consume large amounts of electricity and produce pollution."
     },
     {
-      "term": "proteins",
-      "explanation": "Organic molecules found in bone, cartilage, and skin; the oldest ever detected in a fossil."
+      "term": "rollback",
+      "explanation": "The weakening or removal of environmental rules by the government."
     }
   ],
   "questions": [
     {
-      "question": "What technique was used to scan the fossil without damaging it?",
+      "question": "What percentage of US children are exposed to unhealthy air according to the ALA report?",
       "options": [
-        "neutron computed tomography (nCT)",
-        "X-ray CT scan",
-        "MRI",
-        "electron microscope"
+        "Nearly 50%",
+        "38%",
+        "25%",
+        "12%"
       ],
-      "correct_answer": "neutron computed tomography (nCT)"
+      "correct_answer": "Nearly 50%"
     },
     {
-      "question": "Which breathing system did the researchers identify in Captorhinus?",
+      "question": "What new source of pollution did the report highlight?",
       "options": [
-        "costal aspiration breathing",
-        "buccal pumping",
-        "cutaneous respiration",
-        "gular fluttering"
+        "Farming",
+        "Datacenters",
+        "Airports",
+        "Construction"
       ],
-      "correct_answer": "costal aspiration breathing"
+      "correct_answer": "Datacenters"
     },
     {
-      "question": "What evidence of soft tissues was preserved?",
+      "question": "How many people were exposed to unhealthy ozone levels?",
       "options": [
-        "skin, cartilage, and proteins",
-        "only skin",
-        "only cartilage",
-        "only proteins"
+        "129.1 million",
+        "100 million",
+        "200 million",
+        "50 million"
       ],
-      "correct_answer": "skin, cartilage, and proteins"
+      "correct_answer": "129.1 million"
     },
     {
-      "question": "How do the proteins found in this fossil compare to previous finds?",
+      "question": "By what factor is a person of color more likely than a white person to live in a failing county?",
       "options": [
-        "they are about 100 million years older than any before",
-        "they are younger than dinosaur proteins",
-        "they are the same age as dinosaur proteins",
-        "they are the youngest ever found"
+        "1.5 times",
+        "2.42 times",
+        "3 times",
+        "4 times"
       ],
-      "correct_answer": "they are about 100 million years older than any before"
+      "correct_answer": "2.42 times"
     },
     {
-      "question": "What was the key anatomical feature that indicated costal aspiration?",
+      "question": "What did the Trump administration do that contributed to the problem?",
       "options": [
-        "segmented cartilaginous sternum and sternal ribs",
-        "large lungs",
-        "a diaphragm",
-        "hollow bones"
+        "Increased funding for clean air",
+        "Initiated at least 70 actions to weaken climate and air quality rules",
+        "Banned all new power plants",
+        "Strengthened EPA advisory committees"
       ],
-      "correct_answer": "segmented cartilaginous sternum and sternal ribs"
+      "correct_answer": "Initiated at least 70 actions to weaken climate and air quality rules"
     },
     {
-      "question": "Where was the fossil discovered?",
+      "question": "What did Will Barrett mean by 'devaluing of children's health by this EPA'?",
       "options": [
-        "Richards Spur, Oklahoma",
-        "Hell Creek, Montana",
-        "Liaoning, China",
-        "Solnhofen, Germany"
+        "The EPA is helping kids",
+        "The EPA is weakening health protections despite its mission to protect public health",
+        "The EPA has increased air quality research",
+        "The EPA is working with states to improve air"
       ],
-      "correct_answer": "Richards Spur, Oklahoma"
+      "correct_answer": "The EPA is weakening health protections despite its mission to protect public health"
     }
   ],
   "background_read": [
-    "The early Permian period (around 299–270 million years ago) was a time when the supercontinent Pangaea was forming. The climate was generally warm and dry, and the first reptiles were diversifying into many niches.",
-    "Richards Spur in Oklahoma is one of the most productive fossil sites for early Permian terrestrial vertebrates. It is a cave system where oil seeps and anoxic mud created exceptional preservation conditions, often retaining soft tissues.",
-    "Neutron computed tomography differs from X-ray CT by being more sensitive to light elements like hydrogen, making it ideal for imaging soft tissues in fossils. Synchrotron infrared spectroscopy can detect the chemical signatures of original organic molecules such as collagen.",
-    "Before costal aspiration, early tetrapods used buccal pumping (mouth movements) and cutaneous respiration (skin breathing), which limited oxygen intake and activity levels. The evolution of costal aspiration was a key innovation for more active terrestrial lifestyles."
+    "The Clean Air Act of 1970 authorized the EPA to set national air quality standards to protect public health and the environment.",
+    "Despite progress over the decades, recent rollbacks under the Trump administration have targeted limits on mercury, methane, and vehicle emissions.",
+    "Climate change is intensifying air pollution: hotter temperatures increase ground-level ozone, and droughts lead to more wildfires that produce soot.",
+    "Data centers have grown rapidly due to cloud computing and AI, and their energy use is expected to double by 2030, often relying on fossil fuels.",
+    "Environmental justice research shows that low-income communities and communities of color have historically been exposed to higher levels of pollution due to systemic inequities."
   ],
   "Article_Structure": [
-    "LEAD: Oldest evidence of how we breathe found in a 289-million-year-old mummy fossil",
-    "  └─ hook: 'Every breath you take is part of a story that began nearly 300 million years ago'",
-    "DISCOVERY: Fossil of Captorhinus aguti from Richards Spur, Oklahoma",
-    "  ├─ AGE: Early Permian, ~289 Ma",
-    "  └─ PRESERVATION: 3D mummy with skin, cartilage, and proteins intact",
-    "SCANNING METHOD: Neutron CT at an Australian facility",
-    "  ├─ Observation: 'structures wrapped around the bones' – skin with accordion texture",
-    "  └─ Quote: Ethan Mooney on seeing soft tissues",
-    "BREAKTHROUGH: Reconstruction of costal aspiration breathing",
-    "  ├─ Evidence: Sterum, sternal ribs, connections to shoulder girdle",
-    "  └─ Before: skin breathing and mouth pumping (less efficient)",
-    "BONUS: Detection of original proteins using synchrotron spectroscopy",
-    "  └─ Significance: oldest proteins ever identified, ~100 Ma older than previous record",
-    "IMPORTANCE: Game-changer for active lifestyle",
-    "  └─ Quote: Mooney 'game changer… more active lifestyle'",
-    "OPEN QUESTION: How widespread was this breathing system among early reptiles? (implied)"
+    "LEAD: Startling statistic – nearly half of US kids breathing dangerous air",
+    "  └─ specific: 'Nearly half of all children... according to a new report from the American Lung Association'",
+    "REPORT: 27th annual State of the Air, released April 22, 2026",
+    "  ├─ DATA: 2022-2024 pollution levels",
+    "  └─ MAIN POLLUTANTS: Ground-level ozone and particle pollution",
+    "HEALTH IMPACTS: Asthma, lung development harm, respiratory illness",
+    "  └─ QUOTE: Will Barrett explaining children's vulnerability",
+    "CLIMATE CHANGE: Heat, drought, wildfires increase pollution",
+    "  └─ EXAMPLE: Canadian wildfire smoke drifting into US",
+    "NEW SOURCE: Datacenters consuming 4.4% of US electricity, rising to 12%",
+    "  └─ IMPACT: Fossil fuel use and diesel backup generators emit cancer-causing particles",
+    "INEQUALITY: Communities of color disproportionately affected",
+    "  └─ STATS: 42.1% of population but 54.2% of those in failing counties; 2.42 times more likely",
+    "POLICY ROLLBACK: Trump administration's 70 actions to weaken environmental rules",
+    "  └─ EXAMPLES: Loosening limits on mercury, repealing vehicle standards, disbanding EPA advisory committees",
+    "QUOTE: Barrett criticizing EPA for devaluing children's health",
+    "OPEN QUESTION: Will public pressure lead to stronger protections?"
   ],
   "perspectives": [
     {
-      "perspective": "Positive – landmark discovery",
-      "description": "The combination of exceptional preservation and advanced scanning has revealed the oldest known respiratory system, filling a major gap in the evolution of terrestrial vertebrates."
+      "perspective": "Positive",
+      "description": "The ALA report raises public awareness and provides detailed data that can be used by advocacy groups to push for cleaner air policies."
     },
     {
-      "perspective": "Critical – anatomical interpretation challenges",
-      "description": "Interpreting soft tissues from a single specimen is difficult; the presence of costal aspiration relies on correlations with modern animals and could be debated until more fossils are found."
+      "perspective": "Negative / Critical",
+      "description": "The rollback of environmental protections is directly harming children's health, especially in communities of color. The EPA is failing its mission."
     },
     {
-      "perspective": "Neutral – taphonomic context",
-      "description": "The unusual preservation at Richards Spur suggests that many more soft-tissue fossils may exist there. However, such preservation is extremely rare globally, limiting the sample size."
+      "perspective": "Neutral / Analytical",
+      "description": "Air pollution is a complex issue driven by climate change, energy demand, and policy choices. The rising contribution from datacenters reflects the tension between technological growth and environmental impact."
     },
     {
-      "perspective": "Forward-looking – future research directions",
-      "description": "Now that proteins have been detected, researchers may attempt to sequence them for evolutionary insights. Future scans of other Captorhinus specimens could confirm the breathing system and reveal individual variation."
+      "perspective": "Forward-looking",
+      "description": "To protect children, the US must reverse regulatory rollbacks, invest in renewable energy, and enforce stricter pollution limits. States and cities may take action if federal leadership falters."
     }
   ]
 }
