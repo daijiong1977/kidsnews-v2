@@ -1,139 +1,132 @@
 {
-  "title": "Ceasefire Extended: Israel and Lebanon Give Peace Three More Weeks",
-  "summary": "Have you ever been in a tense standoff with someone, and then a teacher steps in and says, \"Okay, you both need to cool off for a bit\"? That's basically what's happening between Israel and Lebanon—except the \"teacher\" is the U.S. government, and the \"cooling off\" is a ceasefire (a temporary halt to fighting).\n\nPresident Trump announced Thursday that Israel and Lebanon have agreed to extend their ceasefire by three weeks. The original ceasefire was only 10 days long and was set to expire on Monday. But after a meeting at the White House between the Israeli and Lebanese ambassadors—along with Vice President JD Vance, Secretary of State Marco Rubio, and other officials—both sides said yes to more time.\n\nTrump called the meeting \"very well\" and posted on social media that the U.S. will work with Lebanon to help it protect itself from Hezbollah, an Iranian-backed militant group (a group that uses violence for political goals). Hezbollah started the latest war by firing rockets into Israel on March 2, just two days after Israel and the U.S. attacked Iran. Israel responded with heavy bombing and a ground invasion, capturing dozens of towns and villages along the border. Now, about 2,300 people in Lebanon have been killed, and over 1 million have been forced to leave their homes.\n\nThe Lebanese government hopes these talks will lead to a permanent end to the war. Their goals include stopping Israeli attacks, getting Israeli troops to withdraw from Lebanon, releasing Lebanese prisoners held in Israel, deploying Lebanese troops along the border, and starting reconstruction. But there's a huge obstacle: Hezbollah has rejected the talks entirely. Wafiq Safa, a high-ranking Hezbollah member, told the Associated Press that the group will not abide by any agreements made in the direct talks.\n\nAnd even with the ceasefire in place, there have been violations on both sides. On Wednesday, a Lebanese journalist named Amal Khalil was killed by an Israeli strike. Lebanese officials say the Israeli military also fired on an ambulance that tried to help her, preventing rescuers from reaching her for hours. The Israeli military denied targeting journalists or rescuers, but the incident sparked widespread anger in Lebanon.\n\nStill, many are hopeful. Trump said he looks forward to meeting in person with Israeli Prime Minister Benjamin Netanyahu and Lebanese President Joseph Aoun \"in the near future.\" The extension gives everyone a little more time to breathe—and maybe, just maybe, to find a real path to peace.",
-  "why_it_matters": "This story illustrates the challenges of ending conflicts when one powerful faction (Hezbollah) rejects negotiations, and how temporary ceasefires can be fragile if not backed by all parties.",
-  "image_url": "/article_images/article_cf4e907ee681.webp",
+  "title": "Betting on Yourself: Three Congressional Candidates Fined for Wagering on Their Own Elections",
+  "summary": "Have you ever been so confident about something that you'd put money on it? Well, three candidates for the U.S. Congress took that idea a little too far. They placed bets on their own elections using a prediction market called Kalshi — a platform where people wager on future events like who will win a race. But Kalshi has a strict rule: candidates cannot bet on themselves. When the company found out, it fined and suspended all three from the platform for five years. The candidates are Mark Moran (an independent running for Senate in Virginia), Ezekiel Enriquez (who lost a Texas Republican primary with less than 2% of the vote), and Matt Klein (a Democratic state senator from Minnesota). Klein and Enriquez each placed bets under $100. Moran bet $100 and even bragged about it on social media, saying he wanted to highlight what he sees as the unfair influence of prediction markets on elections. Moran refused to settle with Kalshi and got the biggest fine: over $6,200. Klein and Enriquez reached agreements and paid smaller fines — over $530 and $780, respectively. Some politicians think the penalties are too weak. U.S. Rep. Mike Levin, a California Democrat, called them \"a parking ticket.\" The fines are only from the company, not from the government agency that regulates prediction markets, the Commodity Futures Trading Commission (CFTC). That agency is now led by Michael Selig, who is seen as friendly to the industry. Klein, who cosponsors a bill in Minnesota to ban most election betting, admitted his $50 wager was a mistake. \"This was a mistake and I apologize,\" he wrote on X. Moran, however, sees his bet as a successful stunt. So, should politicians be allowed to bet on themselves? Or does it create a conflict of interest? The debate is far from over.",
+  "why_it_matters": "This story raises big questions about fairness and integrity in elections — and whether people in power should be allowed to profit from their own campaigns, which affects how we trust the political system.",
+  "image_url": "/article_images/article_e70859ec15f4.webp",
   "keywords": [
     {
-      "term": "ceasefire",
-      "explanation": "A temporary halt to fighting, often used to create space for negotiations."
+      "term": "betting",
+      "explanation": "wagering money on an uncertain outcome"
     },
     {
-      "term": "Israel",
-      "explanation": "A country in the Middle East, involved in a long-standing conflict with Lebanon."
+      "term": "candidates",
+      "explanation": "people running for political office"
     },
     {
-      "term": "Lebanon",
-      "explanation": "A country bordering Israel, where Hezbollah has significant influence."
+      "term": "fined",
+      "explanation": "ordered to pay a penalty for breaking rules"
     },
     {
-      "term": "Hezbollah",
-      "explanation": "An Iranian-backed militant group based in Lebanon that has been fighting Israel."
+      "term": "Kalshi",
+      "explanation": "a prediction market platform where people wager on events"
     },
     {
-      "term": "violations",
-      "explanation": "Actions that break the terms of an agreement, such as attacks during a ceasefire."
+      "term": "prediction markets",
+      "explanation": "markets where people bet on future events like elections"
     },
     {
-      "term": "talks",
-      "explanation": "Negotiations between countries or groups to resolve a conflict."
+      "term": "conflict of interest",
+      "explanation": "a situation where personal interests could influence official actions"
     }
   ],
   "questions": [
     {
-      "question": "What was the original length of the ceasefire before the extension?",
+      "question": "Who bet the largest amount and was fined the most?",
       "options": [
-        "3 weeks",
-        "10 days",
-        "1 month",
-        "7 days"
+        "Ezekiel Enriquez",
+        "Matt Klein",
+        "Mark Moran",
+        "Mike Levin"
       ],
-      "correct_answer": "10 days"
+      "correct_answer": "Mark Moran"
     },
     {
-      "question": "According to the article, who started the latest war by firing rockets into Israel?",
+      "question": "What did Mark Moran say about his bet?",
       "options": [
-        "Israel",
-        "Lebanese government",
-        "Hezbollah",
-        "Iran"
+        "He made a mistake",
+        "He wanted to highlight the unfair influence of prediction markets",
+        "He needed the money",
+        "He was following a friend's advice"
       ],
-      "correct_answer": "Hezbollah"
+      "correct_answer": "He wanted to highlight the unfair influence of prediction markets"
     },
     {
-      "question": "How many people have been killed in Lebanon according to the article?",
+      "question": "How much did Matt Klein bet?",
       "options": [
-        "About 1,000",
-        "About 2,300",
-        "Over 1 million",
-        "About 500"
+        "$100",
+        "$50",
+        "$200",
+        "$25"
       ],
-      "correct_answer": "About 2,300"
+      "correct_answer": "$50"
     },
     {
-      "question": "What did Wafiq Safa, a Hezbollah member, say about the talks?",
+      "question": "What agency regulates prediction markets in the U.S.?",
       "options": [
-        "Hezbollah will support them",
-        "Hezbollah will not abide by any agreements",
-        "Hezbollah will join the talks",
-        "Hezbollah wants a longer ceasefire"
+        "FBI",
+        "SEC",
+        "CFTC",
+        "FEC"
       ],
-      "correct_answer": "Hezbollah will not abide by any agreements"
+      "correct_answer": "CFTC"
     },
     {
-      "question": "What happened to journalist Amal Khalil?",
+      "question": "Who called the fines 'a parking ticket'?",
       "options": [
-        "She was arrested",
-        "She was killed by an Israeli strike",
-        "She was rescued by an ambulance",
-        "She attended the White House meeting"
+        "Mark Moran",
+        "Ezekiel Enriquez",
+        "Michael Selig",
+        "Mike Levin"
       ],
-      "correct_answer": "She was killed by an Israeli strike"
+      "correct_answer": "Mike Levin"
     },
     {
-      "question": "Which U.S. officials were mentioned as attending the White House meeting?",
+      "question": "Which candidate lost his race with less than 2% of the vote?",
       "options": [
-        "President Trump and Vice President Vance",
-        "Secretary of State Rubio and President Trump",
-        "Vice President Vance and Secretary of State Rubio",
-        "President Trump and Secretary of State Rubio"
+        "Mark Moran",
+        "Matt Klein",
+        "Ezekiel Enriquez",
+        "Michael Selig"
       ],
-      "correct_answer": "Vice President Vance and Secretary of State Rubio"
+      "correct_answer": "Ezekiel Enriquez"
     }
   ],
   "background_read": [
-    "The conflict between Israel and Hezbollah dates back decades.",
-    "Hezbollah was formed in 1982 during the Lebanese Civil War with support from Iran.",
-    "In 2006, a major war broke out between Israel and Hezbollah that lasted 34 days.",
-    "The current conflict escalated after Hezbollah launched rockets into Israel in March 2025, triggering an Israeli ground invasion.",
-    "Ceasefires in this region have been fragile and often broken."
+    "Prediction markets like Kalshi allow people to bet on the outcomes of elections, sports, and other events. They have grown in popularity because they sometimes predict results more accurately than polls.",
+    "In the United States, the Commodity Futures Trading Commission (CFTC) oversees these markets to prevent fraud and manipulation. Currently, the CFTC is led by Michael Selig, who is considered friendly to the prediction market industry.",
+    "Conflict of interest rules generally prohibit candidates from betting on their own races because it could tempt them to throw the race or affect their decisions. This case highlights the tension between free market betting and ethical governance.",
+    "The fines imposed by Kalshi are private penalties, not government fines. Some critics argue that self-regulation by companies is not enough to deter misconduct."
   ],
   "Article_Structure": [
-    "LEAD: Ceasefire extension as a 'cooling off' analogy",
-    "  └─ specific: 'President Trump announced Thursday that Israel and Lebanon have agreed to extend their ceasefire by three weeks.'",
-    "KEY EVENT: White House meeting with ambassadors and U.S. officials",
-    "  ├─ WHO: Israeli and Lebanese ambassadors, VP Vance, Secretary Rubio",
-    "  ├─ WHEN: Thursday, before original 10-day ceasefire expired Monday",
-    "  └─ AMOUNT: Extension of 3 weeks",
-    "CONTEXT: Hezbollah's role and war escalation",
-    "  ├─ Hezbollah launched rockets on March 2",
-    "  ├─ Israel responded with bombing and ground invasion",
-    "  └─ Casualties: 2,300 killed, 1 million displaced in Lebanon",
-    "TENSION: Lebanese government goals vs Hezbollah rejection",
-    "  ├─ ONE SIDE: Lebanese government wants withdrawal, prisoners release, reconstruction",
-    "  └─ OTHER SIDE: Hezbollah's Wafiq Safa says group will not abide by any agreements",
-    "EVIDENCE OF VIOLATIONS: Journalist killed, ambulance fired on",
-    "  ├─ Amal Khalil killed by Israeli strike",
-    "  └─ Israeli military denied targeting journalists",
-    "OPEN QUESTION: Will the extra time lead to real peace talks?",
-    "  └─ Trump plans to meet leaders in person soon"
+    "LEAD: Introduces the idea of being so confident you’d bet on yourself, then states that three congressional candidates did exactly that.",
+    "  └─ specific: 'They placed bets on their own elections using a prediction market called Kalshi'",
+    "KEY EVENT: Kalshi fined and suspended all three for five years.",
+    "  ├─ WHO: Mark Moran (independent, Virginia), Ezekiel Enriquez (Texas), Matt Klein (Minnesota)",
+    "  ├─ AMOUNTS: Klein and Enriquez under $100, Moran $100",
+    "  ├─ FINES: Moran over $6,200, Klein over $530, Enriquez over $780",
+    "  └─ REACTIONS: Klein apologized, Moran bragged on social media",
+    "TENSION / VIEWPOINTS",
+    "  ├─ ONE SIDE: Some politicians (Mike Levin) call the fines too weak – 'a parking ticket'",
+    "  └─ OTHER SIDE: Moran sees his bet as a successful stunt to highlight influence of prediction markets",
+    "REGULATORY CONTEXT: Fines are from the company, not the CFTC, whose chair is industry-friendly.",
+    "OPEN QUESTION: Should politicians be allowed to bet on themselves? Debate continues."
   ],
   "perspectives": [
     {
-      "perspective": "Positive/Hopeful",
-      "description": "The ceasefire extension gives diplomacy a chance. U.S. involvement could pressure both sides to negotiate seriously."
+      "perspective": "Positive (who benefits)",
+      "description": "The public benefits from increased transparency about the influence of prediction markets. Moran’s stunt brought attention to an issue that many voters may not have known about. Also, Kalshi’s enforcement of its rules shows that platforms take their own regulations seriously."
     },
     {
-      "perspective": "Negative/Critical",
-      "description": "Hezbollah's rejection undermines the talks, and continued violations show the ceasefire is not holding. Innocent people like journalists are still being killed."
+      "perspective": "Negative / critical (who’s harmed)",
+      "description": "The integrity of the election process is harmed when candidates wager on themselves. Even small bets create a conflict of interest and could undermine public trust. The minimal fines – called 'a parking ticket' – suggest that the penalties are not a strong deterrent."
     },
     {
-      "perspective": "Neutral/Analytical",
-      "description": "Ceasefires in this region have historically been temporary. The extension buys time but does not solve the underlying issues unless all parties commit."
+      "perspective": "Neutral / analytical (systemic pattern)",
+      "description": "This incident reveals a gap between industry self-regulation and government oversight. The CFTC is seen as friendly to prediction markets, so stronger action may not come from that agency. Similar struggles over conflict of interest exist in other sectors like sports betting and stock trading by politicians."
     },
     {
-      "perspective": "Forward-looking",
-      "description": "If the U.S. can facilitate direct talks between Israel and Lebanon, it might lead to a more permanent agreement. However, Hezbollah's resistance remains a major obstacle."
+      "perspective": "Forward-looking (what next)",
+      "description": "The debate over election betting will likely intensify. Some states, like Minnesota (where Klein is a state senator), are considering banning election betting entirely. Federal regulators may also face pressure to clarify rules or impose stricter penalties. The outcome could set a precedent for how prediction markets operate in future elections."
     }
   ]
 }

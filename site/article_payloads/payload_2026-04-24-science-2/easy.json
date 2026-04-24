@@ -1,119 +1,119 @@
 {
-  "title": "Butter vs. Olive Oil: Which Fat Is Actually Good for You?",
-  "summary": "The U.S. government just flipped the food pyramid upside down—literally! The new version says eat lots of butter, beef fat (called tallow), and olive oil. But wait—nutrition experts are saying, \"Not so fast!\"\n\nHere's the deal: there are two main types of fat. Saturated fats (like butter and beef fat) are solid at room temperature. Unsaturated fats (like olive oil and seed oils) are liquid. For years, science has shown that swapping animal fats for plant-based ones is better for your heart and lowers your risk of getting sick.\n\n\"You get the biggest bang for your buck,\" says Dr. Deirdre Tobias, a nutrition scientist. She means that eating plant fats instead of animal fats gives you the most health benefit.\n\nSo why did the government change the guidelines? Usually, they listen to a special committee of scientists. But this time, they used a different group—and some of those people had connections to the meat and dairy industry. That's a bit suspicious, right?\n\nExperts also worry that if people eat more meat and butter, they'll eat fewer fruits, veggies, and grains. That means less fiber—which your body needs to stay healthy.\n\nThe bottom line? Science says nuts, seeds, fish, and olive oil are your friends. Butter once in a while is okay, but don't make it your main fat. Your heart will thank you!",
-  "why_it_matters": "This helps you decide what to eat for snacks and meals—choosing olive oil over butter can keep your heart healthy now and when you grow up.",
-  "image_url": "/article_images/article_58b4564f7422.webp",
+  "title": "This Cow Learned to Use a Brush as a Tool — and Scientists Are Amazed!",
+  "summary": "Have you ever seen a cow use a tool? Probably not — until now. Meet Veronika, a Brown Swiss cow who lives on a small farm in Austria. When she gets an itch, she doesn't just rub against a tree. Instead, she picks up a long-handled deck brush with her tongue, twists her neck, and scratches exactly the right spot. That might not sound like a big deal, but scientists say it's the first time a cow has been seen using a tool. And Veronika is even smarter than that. She uses both ends of the brush! For tough skin on her back, she uses the hard bristles. For sensitive spots like her belly button or udder, she uses the soft handle. Sometimes she even picks up the brush from the middle so she can switch ends without putting it down. \"At the beginning, I thought it was a mistake,\" said Antonio Osuna-Mascaró, the scientist who studied her. \"But after watching, it was so obvious that she was using both ends in different ways.\" This kind of cleverness has only been seen before in chimpanzees. So why can Veronika do this? Scientists think it's because she lives as a pet on a small farm, with lots of freedom to explore. Most cows on big farms don't get that chance. Veronika proves that cows are smarter than we think — they just need the right opportunity to show it!",
+  "why_it_matters": "This shows that animals we think aren't very smart, like cows, might actually be clever — we just haven't given them the chance to prove it.",
+  "image_url": "/article_images/article_4d246624b13b.webp",
   "keywords": [
     {
-      "term": "saturated fats",
-      "explanation": "Fats that are solid at room temperature, like butter and beef fat"
+      "term": "cow",
+      "explanation": "The animal that learned to use a brush as a tool."
     },
     {
-      "term": "unsaturated fats",
-      "explanation": "Fats that are liquid at room temperature, like olive oil and seed oils"
+      "term": "tool",
+      "explanation": "An object used to help do something; cows were not known to use tools before."
     },
     {
-      "term": "olive oil",
-      "explanation": "A plant-based fat that is liquid and good for your heart"
+      "term": "Veronika",
+      "explanation": "The name of the Brown Swiss cow that uses a brush."
     },
     {
-      "term": "butter",
-      "explanation": "A solid fat from animals, often used in cooking"
+      "term": "brush",
+      "explanation": "The long-handled deck brush that Veronika picks up with her tongue."
     },
     {
-      "term": "heart",
-      "explanation": "The organ that pumps blood; eating healthy fats keeps it strong"
+      "term": "scientist",
+      "explanation": "Antonio Osuna-Mascaró, who studied Veronika's tool use."
     },
     {
-      "term": "fiber",
-      "explanation": "A part of plants that helps digestion and keeps you healthy"
+      "term": "Austria",
+      "explanation": "The country where Veronika lives on a small farm."
     }
   ],
   "questions": [
     {
-      "question": "What type of fat is solid at room temperature?",
+      "question": "What is special about Veronika the cow?",
       "options": [
-        "Saturated fats",
-        "Unsaturated fats",
-        "Seed oils",
-        "Olive oil"
+        "She can talk",
+        "She uses a brush as a tool to scratch",
+        "She can fly",
+        "She paints pictures"
       ],
-      "correct_answer": "Saturated fats"
+      "correct_answer": "She uses a brush as a tool to scratch"
     },
     {
-      "question": "Which fat is better for your heart according to scientists?",
+      "question": "Where does Veronika live?",
       "options": [
-        "Plant-based fats like olive oil",
-        "Animal fats like butter",
-        "Beef fat (tallow)",
-        "All fats are the same"
+        "On a big factory farm in the US",
+        "On a small farm in Austria",
+        "In a zoo in Germany",
+        "In the wild in Africa"
       ],
-      "correct_answer": "Plant-based fats like olive oil"
+      "correct_answer": "On a small farm in Austria"
     },
     {
-      "question": "Why did nutrition experts question the new guidelines?",
+      "question": "How does Veronika pick up the brush?",
       "options": [
-        "Some advisors had ties to the meat and dairy industry",
-        "The guidelines were too strict",
-        "The guidelines were too expensive",
-        "The guidelines ignored exercise"
+        "With her hooves",
+        "With her tongue",
+        "With her tail",
+        "With her nose"
       ],
-      "correct_answer": "Some advisors had ties to the meat and dairy industry"
+      "correct_answer": "With her tongue"
     },
     {
-      "question": "What happens when people eat more meat and dairy?",
+      "question": "What does Veronika do with the brush?",
       "options": [
-        "They eat fewer fruits, vegetables, and grains",
-        "They get more energy",
-        "They grow taller",
-        "They sleep better"
+        "She throws it away",
+        "She uses both ends to scratch different spots",
+        "She eats it",
+        "She hides it"
       ],
-      "correct_answer": "They eat fewer fruits, vegetables, and grains"
+      "correct_answer": "She uses both ends to scratch different spots"
     },
     {
-      "question": "What do you get less of if you eat fewer fruits and veggies?",
+      "question": "Before Veronika, in which animals was tool use seen?",
       "options": [
-        "Fiber",
-        "Protein",
-        "Sugar",
-        "Salt"
+        "Chimpanzees",
+        "Dolphins",
+        "Elephants",
+        "Cats"
       ],
-      "correct_answer": "Fiber"
+      "correct_answer": "Chimpanzees"
     },
     {
-      "question": "Who is Dr. Deirdre Tobias?",
+      "question": "Why do scientists think Veronika learned to use a tool?",
       "options": [
-        "A nutrition scientist",
-        "A government official",
-        "A butter farmer",
-        "A seed oil manufacturer"
+        "She is very hungry",
+        "She lives on a small farm with lots of freedom",
+        "She is trained by a circus",
+        "She saw other cows do it"
       ],
-      "correct_answer": "A nutrition scientist"
+      "correct_answer": "She lives on a small farm with lots of freedom"
     }
   ],
   "background_read": [
-    "For many years, doctors thought all fat was bad, but now we know that different fats affect our bodies in different ways.",
-    "Eating too much saturated fat can raise cholesterol and increase the risk of heart disease.",
-    "The U.S. government updates its dietary guidelines every five years based on the latest science."
+    "For a long time, scientists thought only humans could use tools, but many animals can, like chimpanzees using sticks to get ants.",
+    "Cows are often thought of as not very smart, but Veronika shows that they can learn surprising things.",
+    "The farm where Veronika lives is small, so she has more time to explore and learn than cows on big farms."
   ],
   "Article_Structure": [
-    "WHO: The U.S. government and nutrition experts",
-    "WHAT: The new food pyramid suggests eating more butter and beef fat, which experts think is unhealthy",
-    "WHERE: United States (government guidelines for the whole country)",
-    "WHY: Because the government used advisors with ties to the meat and dairy industry"
+    "WHO: Veronika, a Brown Swiss cow in Austria",
+    "WHAT: She uses a brush as a tool to scratch, using both bristles and handle",
+    "WHERE: A small farm in Austria",
+    "WHY: She learned because she has freedom to explore on her small farm"
   ],
   "perspectives": [
     {
-      "perspective": "Supportive of new guidelines",
-      "description": "Some people say natural animal fats are fine in moderation and that the old guidelines were too strict."
+      "perspective": "Amazed",
+      "description": "Scientists are amazed because tool use in cows was never seen before. It shows cows are smarter than we thought."
     },
     {
-      "perspective": "Critical of new guidelines",
-      "description": "Most nutrition scientists say the guidelines ignore decades of evidence and are influenced by the meat and dairy industry."
+      "perspective": "Skeptical",
+      "description": "Veronika is just one cow. Not all cows can do this, and it might be a lucky accident."
     },
     {
-      "perspective": "Neutral / Practical",
-      "description": "Both views agree that eating too much of any fat is unhealthy; balance is key."
+      "perspective": "Hopeful",
+      "description": "This discovery could encourage farmers to give cows more freedom so they can show their intelligence."
     }
   ]
 }

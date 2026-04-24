@@ -1,139 +1,138 @@
 {
-  "title": "Trees Glow With Electricity During Storms—And Scientists Just Caught It on Camera",
-  "summary": "For more than half a century, scientists have suspected that forests might secretly glow during thunderstorms. But proving it? That took a road trip, a modified minivan, and a lot of patience.\n\nIn June 2024, a team from Penn State University set out in a 2013 Toyota Sienna equipped with a custom-built telescopic weather instrument. Their mission: to capture a phenomenon called \"corona discharge\"—tiny bursts of electricity forming at the tips of leaves during storms. These sparks produce a faint ultraviolet (UV) glow, but no one had ever confirmed them in a natural setting.\n\nThe team, led by doctoral student Patrick McFarland and distinguished professor William Brune, headed to Florida, hoping to catch its near-daily summer thunderstorms. But for three weeks, the storms fizzled out before they could collect useful data.\n\nAs they headed back to Pennsylvania, conditions changed. Large, long-lasting storms developed just west of Interstate 95. The researchers stopped at the University of North Carolina at Pembroke, set up their equipment in a parking lot, and aimed it at a sweetgum tree about 100 feet away.\n\nA thunderstorm persisted for nearly two hours, bringing heavy rain and frequent lightning. During that time, the team recorded 859 corona events on the sweetgum tree and 93 on a nearby loblolly pine. Each event lasted from a fraction of a second to several seconds.\n\n\"This just goes to show that there's still discovery science being done,\" said McFarland, lead author of the paper published in Geophysical Research Letters. \"For more than half a century, scientists have theorized that corona exists, but this proves it.\"\n\nHow does it work? Thunderclouds develop large negative charges that attract positive charges on the ground. That positive charge travels upward through trees, concentrating at the highest points—leaf tips. The electric field becomes intense enough to produce a faint glow.\n\nHere's the really cool part: these sparks help clean the air. The UV radiation from corona discharges breaks apart water vapor molecules, forming hydroxyl—the atmosphere's primary oxidizer. Hydroxyl reacts with pollutants (including methane, a potent greenhouse gas) and transforms them into substances that are easier to eliminate.\n\nUsing their Corona Observing Telescope System—a Newtonian telescope connected to a UV-sensitive camera—the team captured 859 events on the sweetgum and 93 on the pine. Additional observations were made during four other storms across four different tree species.\n\n\"There's still discovery science being done,\" McFarland said. And sometimes, all it takes is a van, a telescope, and a good storm.",
-  "why_it_matters": "This discovery not only confirms a long-standing scientific hypothesis but also reveals a natural air-cleaning process that could inform climate models and new technologies for pollution control—directly affecting the future environment that today's teens will inherit.",
-  "image_url": "/article_images/article_81a73d27edf1.webp",
+  "title": "Dirty Air Crisis: Nearly Half of US Kids Breathing Dangerous Pollution, Report Warns",
+  "summary": "Nearly half of all children in the United States are breathing air that poses serious risks to their health, according to a new report from the American Lung Association (ALA). The 27th annual report, released on April 22, 2026, evaluated pollution levels across the country, focusing on ground-level ozone (smog) and particle pollution (soot). The data, collected between 2022 and 2024, paints a grim picture. \"Children's lungs are still developing. For their body size, they're breathing more air. And also, kids play outdoors, they're more active, they're breathing in more outdoor air,\" said Will Barrett, assistant vice-president of the ALA's Nationwide Clean Air Policy. \"Air pollution exposure in children can contribute to long-term developmental harm to their lungs, new cases of asthma, increased risks of respiratory illness.\" The report found that 38% of the US population — about 129.1 million people — were exposed to unhealthy ozone levels, the highest number in six years. Climate change is a major driver: extreme heat, drought, and wildfires have boosted pollution. Smoke from Canada's 2023 wildfires, for example, drifted into the US, worsening air quality. The report also highlighted a surprising new source of pollution: datacenters. These massive computer facilities consume about 4.4% of US electricity, a figure expected to rise to 12% within a decade. Many rely on fossil fuels like coal and methane gas, and their diesel backup generators emit cancer-causing particles. Communities of color are disproportionately affected. Although people of color make up 42.1% of the US population, they represent 54.2% of those living in counties with failing grades for air quality. A person of color is 2.42 times more likely than a white person to live in a community that fails all three pollution measures. The report comes amid a sweeping rollback of environmental protections by the Trump administration, which has initiated at least 70 actions to weaken climate and air quality rules. These include loosening limits on mercury and other toxic emissions from power plants, repealing vehicle standards, and disbanding EPA advisory committees on air quality. \"There's a devaluing of children's health by this EPA as they are weakening, delaying and repealing critical health protection,\" Barrett said. \"[There is] a wide-scale effort by the federal EPA to eliminate health protections while also distancing themselves from their own mission to protect public health.\"",
+  "why_it_matters": "For middle schoolers, this is personal: the air you breathe every day could be harming your lungs and increasing your risk of asthma and other diseases — and understanding the problem is the first step to demanding change from leaders who are supposed to protect you.",
+  "image_url": "/article_images/article_41611642a438.webp",
   "keywords": [
     {
-      "term": "corona discharge",
-      "explanation": "Tiny electrical bursts at leaf tips during storms that produce UV light"
+      "term": "children",
+      "explanation": "Kids under 18 whose health is threatened by air pollution."
     },
     {
-      "term": "sweetgum tree",
-      "explanation": "The tree on which 859 corona events were recorded using a telescope system"
+      "term": "ozone",
+      "explanation": "A gas that forms smog and can damage lungs at ground level."
     },
     {
-      "term": "ultraviolet",
-      "explanation": "Invisible light used by the camera to capture the faint glow of the sparks"
+      "term": "particle pollution",
+      "explanation": "Tiny solid particles (soot) from burning fossil fuels that can be inhaled."
     },
     {
-      "term": "hydroxyl",
-      "explanation": "A molecule formed from water vapor by UV radiation; it breaks down pollutants like methane"
+      "term": "American Lung Association",
+      "explanation": "The non-profit that published the 27th annual State of the Air report."
     },
     {
-      "term": "methane",
-      "explanation": "A potent greenhouse gas that hydroxyl helps remove from the atmosphere"
+      "term": "datacenters",
+      "explanation": "Massive computer facilities that consume large amounts of electricity and produce pollution."
     },
     {
-      "term": "storm",
-      "explanation": "A thunderstorm that lasted nearly two hours, providing conditions for the observations"
+      "term": "rollback",
+      "explanation": "The weakening or removal of environmental rules by the government."
     }
   ],
   "questions": [
     {
-      "question": "What instrument did the team use to observe the trees?",
+      "question": "What percentage of US children are exposed to unhealthy air according to the ALA report?",
       "options": [
-        "A custom-built Corona Observing Telescope System",
-        "A regular telescope",
-        "A microscope",
-        "A radar gun"
+        "Nearly 50%",
+        "38%",
+        "25%",
+        "12%"
       ],
-      "correct_answer": "A custom-built Corona Observing Telescope System"
+      "correct_answer": "Nearly 50%"
     },
     {
-      "question": "How many corona events were recorded on the sweetgum tree?",
+      "question": "What new source of pollution did the report highlight?",
       "options": [
-        "859",
-        "93",
-        "1000",
-        "200"
+        "Farming",
+        "Datacenters",
+        "Airports",
+        "Construction"
       ],
-      "correct_answer": "859"
+      "correct_answer": "Datacenters"
     },
     {
-      "question": "What university led the research?",
+      "question": "How many people were exposed to unhealthy ozone levels?",
       "options": [
-        "Penn State University",
-        "University of North Carolina",
-        "Princeton University",
-        "University of Florida"
+        "129.1 million",
+        "100 million",
+        "200 million",
+        "50 million"
       ],
-      "correct_answer": "Penn State University"
+      "correct_answer": "129.1 million"
     },
     {
-      "question": "Where did the team finally make their successful observation?",
+      "question": "By what factor is a person of color more likely than a white person to live in a failing county?",
       "options": [
-        "University of North Carolina at Pembroke",
-        "Interstate 95 in Florida",
-        "A forest in Pennsylvania",
-        "A park in North Carolina"
+        "1.5 times",
+        "2.42 times",
+        "3 times",
+        "4 times"
       ],
-      "correct_answer": "University of North Carolina at Pembroke"
+      "correct_answer": "2.42 times"
     },
     {
-      "question": "What does the UV radiation from corona discharges create from water vapor?",
+      "question": "What did the Trump administration do that contributed to the problem?",
       "options": [
-        "Hydroxyl",
-        "Methane",
-        "Ozone",
-        "Carbon monoxide"
+        "Increased funding for clean air",
+        "Initiated at least 70 actions to weaken climate and air quality rules",
+        "Banned all new power plants",
+        "Strengthened EPA advisory committees"
       ],
-      "correct_answer": "Hydroxyl"
+      "correct_answer": "Initiated at least 70 actions to weaken climate and air quality rules"
     },
     {
-      "question": "Which scientist led the study?",
+      "question": "What did Will Barrett mean by 'devaluing of children's health by this EPA'?",
       "options": [
-        "Patrick McFarland",
-        "William Brune",
-        "Both McFarland and Brune",
-        "Tamar Gefen"
+        "The EPA is helping kids",
+        "The EPA is weakening health protections despite its mission to protect public health",
+        "The EPA has increased air quality research",
+        "The EPA is working with states to improve air"
       ],
-      "correct_answer": "Patrick McFarland"
+      "correct_answer": "The EPA is weakening health protections despite its mission to protect public health"
     }
   ],
   "background_read": [
-    "Corona discharge is a well-known phenomenon in electrical engineering, often seen as a bluish glow around high-voltage power lines, but it was only theorized to occur naturally on trees during thunderstorms.",
-    "Hydroxyl (OH) is called the 'detergent of the atmosphere' because it reacts with pollutants, including methane and volatile organic compounds, breaking them down and helping to clean the air.",
-    "Methane is a greenhouse gas about 25 times more potent than carbon dioxide over 100 years; natural removal by hydroxyl is a critical part of the global methane cycle.",
-    "The Penn State team built their telescope system inside a minivan, allowing them to chase storms and set up quickly in parking lots—a creative solution for field research."
+    "The Clean Air Act of 1970 authorized the EPA to set national air quality standards to protect public health and the environment.",
+    "Despite progress over the decades, recent rollbacks under the Trump administration have targeted limits on mercury, methane, and vehicle emissions.",
+    "Climate change is intensifying air pollution: hotter temperatures increase ground-level ozone, and droughts lead to more wildfires that produce soot.",
+    "Data centers have grown rapidly due to cloud computing and AI, and their energy use is expected to double by 2030, often relying on fossil fuels.",
+    "Environmental justice research shows that low-income communities and communities of color have historically been exposed to higher levels of pollution due to systemic inequities."
   ],
   "Article_Structure": [
-    "LEAD: 'For more than half a century, scientists have suspected that forests might secretly glow during thunderstorms.'",
-    "  └─ sets up the historical mystery",
-    "CHASE AND SETBACKS:",
-    "  ├─ Team sets out in June 2024 with modified van and telescope",
-    "  ├─ First destination: Florida, but storms fizzle for 3 weeks",
-    "  └─ On return trip, large storms develop west of I-95",
-    "OBSERVATION:",
-    "  ├─ Stop at UNC Pembroke parking lot",
-    "  ├─ Aim at sweetgum tree 100 feet away",
-    "  ├─ Storm lasts 2 hours",
-    "  └─ Record 859 corona events on sweetgum, 93 on loblolly pine",
-    "HOW IT WORKS:",
-    "  ├─ Negative charge in clouds draws positive charge upward through trees",
-    "  └─ Electric field at leaf tips causes corona discharge (UV glow)",
-    "AIR CLEANING EFFECT:",
-    "  ├─ UV breaks water vapor into hydroxyl",
-    "  └─ Hydroxyl breaks down pollutants, including methane",
-    "QUOTES: McFarland on 'discovery science'",
-    "CONCLUSION: A van, a telescope, and a good storm proved a 70-year theory"
+    "LEAD: Startling statistic – nearly half of US kids breathing dangerous air",
+    "  └─ specific: 'Nearly half of all children... according to a new report from the American Lung Association'",
+    "REPORT: 27th annual State of the Air, released April 22, 2026",
+    "  ├─ DATA: 2022-2024 pollution levels",
+    "  └─ MAIN POLLUTANTS: Ground-level ozone and particle pollution",
+    "HEALTH IMPACTS: Asthma, lung development harm, respiratory illness",
+    "  └─ QUOTE: Will Barrett explaining children's vulnerability",
+    "CLIMATE CHANGE: Heat, drought, wildfires increase pollution",
+    "  └─ EXAMPLE: Canadian wildfire smoke drifting into US",
+    "NEW SOURCE: Datacenters consuming 4.4% of US electricity, rising to 12%",
+    "  └─ IMPACT: Fossil fuel use and diesel backup generators emit cancer-causing particles",
+    "INEQUALITY: Communities of color disproportionately affected",
+    "  └─ STATS: 42.1% of population but 54.2% of those in failing counties; 2.42 times more likely",
+    "POLICY ROLLBACK: Trump administration's 70 actions to weaken environmental rules",
+    "  └─ EXAMPLES: Loosening limits on mercury, repealing vehicle standards, disbanding EPA advisory committees",
+    "QUOTE: Barrett criticizing EPA for devaluing children's health",
+    "OPEN QUESTION: Will public pressure lead to stronger protections?"
   ],
   "perspectives": [
     {
-      "perspective": "Positive / Scientific breakthrough",
-      "description": "The observation is a triumph of field research and ingenuity, proving a 70-year-old theory and opening up an entirely new area of study about the role of trees in atmospheric chemistry."
+      "perspective": "Positive",
+      "description": "The ALA report raises public awareness and provides detailed data that can be used by advocacy groups to push for cleaner air policies."
     },
     {
-      "perspective": "Critical / Scale still unknown",
-      "description": "While exciting, the study only captured a few hundred events on two trees during one storm. It is still unclear how much corona discharge contributes to overall atmospheric hydroxyl production compared to other sources like sunlight."
+      "perspective": "Negative / Critical",
+      "description": "The rollback of environmental protections is directly harming children's health, especially in communities of color. The EPA is failing its mission."
     },
     {
-      "perspective": "Neutral / Methodological insight",
-      "description": "The successful method—a mobile telescope system in a van—demonstrates how creative instrumentation can solve long-standing observational challenges, and it sets a precedent for future 'storm chasing' research in other fields."
+      "perspective": "Neutral / Analytical",
+      "description": "Air pollution is a complex issue driven by climate change, energy demand, and policy choices. The rising contribution from datacenters reflects the tension between technological growth and environmental impact."
     },
     {
       "perspective": "Forward-looking",
-      "description": "If future research shows that tree corona discharges produce significant amounts of hydroxyl, efforts to preserve and plant more trees might be seen not only as carbon sinks but also as natural air purifiers that help fight climate change and pollution."
+      "description": "To protect children, the US must reverse regulatory rollbacks, invest in renewable energy, and enforce stricter pollution limits. States and cities may take action if federal leadership falters."
     }
   ]
 }
