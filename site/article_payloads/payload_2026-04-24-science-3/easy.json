@@ -1,122 +1,123 @@
 {
-  "title": "Nearly Half of US Kids Are Breathing Dirty Air — and It's Getting Worse",
-  "summary": "Here's some scary news: nearly half of all children in the United States are breathing air that is dangerous for their health. That's according to a new report from the American Lung Association. The report looked at two main types of pollution: smog (a kind of dirty air that looks like a brown haze) and soot (tiny particles from things like cars and factories). Kids are especially at risk because their lungs are still growing, they breathe more air for their size, and they spend a lot of time playing outside. Breathing dirty air can cause asthma (a lung disease that makes it hard to breathe), long-term damage to lungs, and other health problems. The report also found that communities of color are hit hardest. People of color make up 42% of the US population, but they represent 54% of people living in the most polluted areas. Why is the air getting worse? One big reason is climate change — hotter temperatures and more wildfires create more pollution. Another reason is that the government has been rolling back (removing) many rules that protected the air. For example, they've weakened limits on pollution from power plants and cars. \"There's a devaluing of children's health by this EPA,\" said Will Barrett from the American Lung Association. That means the agency that's supposed to protect our air isn't doing enough to keep kids safe. The good news? We can still fight for cleaner air — and our health depends on it.",
-  "why_it_matters": "This affects you directly — the air you breathe every day could be harming your lungs, and knowing about it is the first step to demanding cleaner air for everyone.",
-  "image_url": "/article_images/article_41611642a438.webp",
+  "title": "NASA Invents a Machine That Makes IV Fluid in Space — No More Expired Bags!",
+  "summary": "Imagine you're on a spaceship heading to Mars. You've been traveling for months, and suddenly someone gets sick or dehydrated. What do you do? You need IV fluid — a special saltwater that doctors use to treat burns, dehydration, and other problems.\n\nBut here's the problem: prepacked IV fluid expires after 16 months. A mission to Mars could last up to three years! So NASA had to get creative.\n\nEnter IVGEN Mini — a machine that makes IV fluid from space station drinking water. It's like a water filter, but way cooler. The system adds water to a bag, filters out tiny particles and minerals, then mixes it with salt to create sterile, medical-grade IV fluid. It can produce 1.2 liters per hour — that's about the same as two big water bottles!\n\nThe machine flew to the International Space Station on April 11, 2026, aboard a Northrop Grumman cargo ship. Astronauts will test it this spring and fall to make sure it works in space.\n\n\"On a mission to Mars, if you needed to fly 100 liters of IV fluid, those 100 one-liter bags will take up a large amount of space, while IVGEN Mini takes up much less,\" said Courtney Schkurko, the project manager.\n\nSo instead of packing tons of heavy, expiring fluid, astronauts can just make what they need, when they need it. That's smart space thinking!",
+  "why_it_matters": "This invention shows how NASA solves big problems for future space travel, and reminds us that creative thinking can help us handle challenges at home too.",
+  "image_url": "/article_images/article_aa0553d17adc.webp",
   "keywords": [
     {
-      "term": "children",
-      "explanation": "Kids in the US whose health is at risk from dirty air."
+      "term": "NASA",
+      "explanation": "The U.S. space agency that invented the machine."
     },
     {
-      "term": "air",
-      "explanation": "The air we breathe; nearly half of US children breathe unsafe air."
+      "term": "IV fluid",
+      "explanation": "A special saltwater used by doctors to treat burns and dehydration."
     },
     {
-      "term": "pollution",
-      "explanation": "Dirty substances in the air, like smog and soot, that harm health."
+      "term": "IVGEN Mini",
+      "explanation": "The machine that makes IV fluid from space station drinking water."
     },
     {
-      "term": "American Lung Association",
-      "explanation": "The organization that wrote the report about air pollution."
+      "term": "space",
+      "explanation": "The environment where the machine will be used, like the space station."
     },
     {
-      "term": "asthma",
-      "explanation": "A lung disease that makes it hard to breathe, worsened by dirty air."
+      "term": "Mars",
+      "explanation": "A planet that NASA plans to send astronauts to, where this machine would be useful."
     },
     {
-      "term": "climate change",
-      "explanation": "The heating up of Earth, which makes pollution worse by causing more wildfires and heat."
+      "term": "machine",
+      "explanation": "The IVGEN Mini device that produces IV fluid."
     }
   ],
   "questions": [
     {
-      "question": "How many US children are breathing dangerous air according to the report?",
+      "question": "What does IVGEN Mini do?",
       "options": [
-        "All of them",
-        "Nearly half",
-        "About one quarter",
-        "Only those in cities"
+        "Makes IV fluid from space station drinking water",
+        "Cooks food in space",
+        "Cleans the space station",
+        "Generates oxygen"
       ],
-      "correct_answer": "Nearly half"
+      "correct_answer": "Makes IV fluid from space station drinking water"
     },
     {
-      "question": "What are the two main types of pollution mentioned?",
+      "question": "How many liters of IV fluid can IVGEN Mini produce per hour?",
       "options": [
-        "Smog and soot",
-        "Smoke and dust",
-        "Chemicals and noise",
-        "Plastic and paper"
+        "1.2 liters",
+        "2 liters",
+        "5 liters",
+        "10 liters"
       ],
-      "correct_answer": "Smog and soot"
+      "correct_answer": "1.2 liters"
     },
     {
-      "question": "Why are children more at risk from air pollution?",
+      "question": "Why is prepackaged IV fluid a problem for Mars missions?",
       "options": [
-        "They run slower",
-        "Their lungs are still growing and they play outside more",
-        "They eat more food",
-        "They are shorter"
+        "It expires after 16 months and the mission lasts up to 3 years",
+        "It is too heavy to launch",
+        "It is not sterile",
+        "It tastes bad"
       ],
-      "correct_answer": "Their lungs are still growing and they play outside more"
+      "correct_answer": "It expires after 16 months and the mission lasts up to 3 years"
     },
     {
-      "question": "Which group is hit hardest by pollution?",
+      "question": "What does the machine do to the water before adding salt?",
       "options": [
-        "People who live in the country",
-        "Communities of color",
-        "People with pets",
-        "People who drive cars"
+        "Filters it to remove particles and minerals",
+        "Heats it",
+        "Freezes it",
+        "Adds sugar"
       ],
-      "correct_answer": "Communities of color"
+      "correct_answer": "Filters it to remove particles and minerals"
     },
     {
-      "question": "What is one reason air is getting worse?",
+      "question": "When did IVGEN Mini fly to the International Space Station?",
       "options": [
-        "More people are planting trees",
-        "Climate change is causing more heat and wildfires",
-        "People are driving less",
-        "Factories are closing"
+        "April 11, 2026",
+        "July 20, 2025",
+        "December 25, 2026",
+        "March 15, 2027"
       ],
-      "correct_answer": "Climate change is causing more heat and wildfires"
+      "correct_answer": "April 11, 2026"
     },
     {
-      "question": "What did Will Barrett say about the EPA?",
+      "question": "Who is the project manager for IVGEN Mini?",
       "options": [
-        "They are doing a great job",
-        "There is a devaluing of children's health by this EPA",
-        "They need more money",
-        "They are too strict"
+        "Courtney Schkurko",
+        "Elon Musk",
+        "Bill Nelson",
+        "Sally Ride"
       ],
-      "correct_answer": "There is a devaluing of children's health by this EPA"
+      "correct_answer": "Courtney Schkurko"
     }
   ],
   "background_read": [
-    "Air pollution comes from cars, factories, power plants, and wildfires. It can cause health problems like asthma and lung damage.",
-    "Children's lungs grow until they are about 18, so dirty air is especially dangerous for them.",
-    "The Environmental Protection Agency (EPA) is the US government agency that is supposed to make rules to keep air clean."
+    "Space missions need to be self-sufficient because they can't get supplies from Earth quickly.",
+    "IV fluid (saline) is used to treat dehydration, burns, and other medical problems.",
+    "Astronauts on the International Space Station test new technologies like IVGEN to prepare for future long missions."
   ],
   "Article_Structure": [
-    "WHO: Nearly half of US children and communities of color",
-    "WHAT: Breathing dirty air that can hurt their lungs and cause asthma",
-    "WHERE: United States (especially polluted areas)",
-    "WHY: Climate change and the government removing rules that protect air quality"
+    "WHO: NASA and project manager Courtney Schkurko",
+    "WHAT: Invented a machine that makes IV fluid in space",
+    "WHERE: Tested on the International Space Station",
+    "WHY: To provide fresh IV fluid on long missions to Mars instead of carrying heavy, expiring bags"
   ],
   "perspectives": [
     {
-      "perspective": "Worried",
-      "description": "Parents should be concerned because dirty air is harming children's health and may cause long-term problems."
+      "perspective": "Astronauts",
+      "description": "They will have safer medical care on long missions because they can make fresh fluid anytime."
     },
     {
-      "perspective": "Critical",
-      "description": "The government is not doing enough to protect kids; the EPA is weakening rules instead of strengthening them."
+      "perspective": "NASA engineers",
+      "description": "They are proud of creating a compact system that saves space and weight, critical for Mars missions."
     },
     {
-      "perspective": "Hopeful",
-      "description": "We can still fight for cleaner air, and the report shows that the problem is known, so we can work to fix it."
+      "perspective": "Space enthusiasts",
+      "description": "They find it exciting that technology is making human exploration of Mars more possible."
     }
   ],
-  "mined_at": "2026-04-24T01:01:43.107567+00:00",
-  "source_name": "ScienceDaily Top Environment",
-  "source_url": "https://www.sciencedaily.com/releases/2026/04/260422044626.htm"
+  "mined_at": "2026-04-24T20:50:19+00:00",
+  "source_published_at": "Thu, 23 Apr 2026 16:30:00 +0000",
+  "source_name": "NASA News",
+  "source_url": "https://www.nasa.gov/general/iv-fluid-in-space/"
 }

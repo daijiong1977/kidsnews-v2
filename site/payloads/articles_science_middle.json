@@ -2,33 +2,36 @@
   "articles": [
     {
       "id": "2026-04-24-science-1",
-      "title": "Brain Secrets of SuperAgers: Why Some 80-Year-Olds Remember Like They're 50",
-      "summary": "Imagine being 80 years old with a memory as sharp as someone in their 50s. That's the reality for 'SuperAgers,' a group of remarkable seniors studied for over 25 years by researchers at Northwestern Medicine. These individuals, aged 80 and older, perform on memory tests as well as people 30 years younger, challenging the idea that mental decline is inevitable. Scientists discovered two key secrets in their brains: some SuperAgers are 'resistant,' lacking harmful proteins linked to Alzheimer's, while others are 'resilient,' having the proteins but still functioning normally. Their brains also have larger, healthier neurons in memory regions like the entorhinal cortex. Beyond biology, SuperAgers tend to be highly social and mentally active, building a 'cognitive reserve' that protects…",
       "source": "ScienceDaily All",
-      "time_ago": "Thu, 23 Apr 2026 07:46:30 EDT",
-      "image_url": "/article_images/article_70eafbd186b1.webp",
+      "time_ago": "Fri, 24 Apr 2026 04:36:51 EDT",
+      "mined_at": "2026-04-24T20:50:19+00:00",
+      "source_published_at": "Fri, 24 Apr 2026 04:36:51 EDT",
+      "image_url": "/article_images/article_717dcc40a761.webp",
       "category": "Science",
-      "mined_at": "2026-04-24T01:01:42.570832+00:00"
+      "title": "Ancient Snake Fossil Rewrites Evolution: It Had Legs and a Bone Scientists Got Wrong for 160 Years",
+      "summary": "A 100-million-year-old fossil from Argentina is shaking up what we know about snake evolution. The snake, Najash rionegrina, had hind legs and a cheekbone (jugal bone) — a feature almost completely lost in modern snakes. Scientists used micro-CT scanning to see inside the fossil and discovered that early snakes were likely big-bodied and big-mouthed, not small burrowers as previously believed. This finding corrects a 160-year-old misunderstanding about snake skull anatomy. Pretty wild, right?"
     },
     {
       "id": "2026-04-24-science-2",
-      "title": "Move Over, Chimps: This Cow Uses a Brush as a Tool — and Scientists Are Stunned",
-      "summary": "Meet Veronika, a Brown Swiss cow from Austria who is surprising scientists with a skill once thought unique to chimps: tool use. When she gets an itch, she picks up a long-handled brush with her tongue and scratches the exact spot. Even more amazing, she uses both ends — the hard bristles for her tough back and the soft handle for sensitive areas like her belly button. Animal cognition expert Antonio Osuna-Mascaró at the Messerli Research Institute in Vienna was stunned at first, but soon realized Veronika was deliberately choosing the right tool end. This makes her the first cow ever reported to use a tool, a finding published in Current Biology. Researchers think her life on a small farm…",
       "source": "Science News Explores",
-      "time_ago": "Fri, 17 Apr 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_4d246624b13b.webp",
+      "time_ago": "Tue, 21 Apr 2026 10:30:00 +0000",
+      "mined_at": "2026-04-24T20:50:19+00:00",
+      "source_published_at": "Tue, 21 Apr 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_e685ebdea6d5.webp",
       "category": "Science",
-      "mined_at": "2026-04-24T01:01:42.840165+00:00"
+      "title": "Adrenaline: The Hormone That Makes Your Heart Race — and Could Save Your Life",
+      "summary": "Adrenaline, also known as epinephrine, is a hormone that triggers your body's fight-or-flight response. When your brain perceives a threat, it signals your adrenal glands to release adrenaline, which makes your heart beat faster, increases breathing rate, and slows digestion. But adrenaline isn't just for danger — roller coasters, scary movies, and even crushes can trigger it. Too much over time can harm your heart, but deep breathing and talking to friends can help. Adrenaline is also a lifesaving medication used in EpiPens for severe allergic reactions."
     },
     {
       "id": "2026-04-24-science-3",
-      "title": "Dirty Air Crisis: Nearly Half of US Kids Breathing Dangerous Pollution, Report Warns",
-      "summary": "Imagine nearly half of all kids in the U.S. breathing air that could hurt their lungs. That's what a new report from the American Lung Association warns. The report, released on April 22, 2026, looked at pollution from smog and soot across the country. It found that 129.1 million people are breathing unhealthy air — the highest number in six years. Why is this happening? Climate change plays a big role, with extreme heat, drought, and wildfires making pollution worse. Even smoke from Canada's 2023 wildfires drifted into the U.S. There's also a surprising new source: datacenters, which use lots of electricity and often run on fossil fuels. The report says communities of color are hit hardest, and that the…",
-      "source": "Guardian Environment",
-      "time_ago": "Wed, 22 Apr 2026 10:00:24 GMT",
-      "image_url": "/article_images/article_41611642a438.webp",
+      "source": "NASA News",
+      "time_ago": "Thu, 23 Apr 2026 16:30:00 +0000",
+      "mined_at": "2026-04-24T20:50:19+00:00",
+      "source_published_at": "Thu, 23 Apr 2026 16:30:00 +0000",
+      "image_url": "/article_images/article_aa0553d17adc.webp",
       "category": "Science",
-      "mined_at": "2026-04-24T01:01:43.107567+00:00"
+      "title": "NASA's New Machine Can Make IV Fluid in Space — No More Expired Supplies on Mars Missions",
+      "summary": "NASA has developed a machine called IVGEN Mini that can produce IV fluid (sterile saltwater used to treat dehydration, burns, and other medical issues) from space station drinking water. Current prepacked IV fluid expires after 16 months, but a Mars mission could last three years. IVGEN Mini flew to the ISS on April 11, 2026, and will be tested this spring. It's smaller and lighter than its predecessor, producing 1.2 liters per hour. This technology could be crucial for deep-space missions, reducing cargo weight and ensuring fresh supplies."
     }
   ]
 }

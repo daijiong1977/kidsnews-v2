@@ -1,122 +1,123 @@
 {
-  "title": "This Cow Learned to Use a Brush as a Tool — and Scientists Are Amazed!",
-  "summary": "Have you ever seen a cow use a tool? Probably not — until now. Meet Veronika, a Brown Swiss cow who lives on a small farm in Austria. When she gets an itch, she doesn't just rub against a tree. Instead, she picks up a long-handled deck brush with her tongue, twists her neck, and scratches exactly the right spot. That might not sound like a big deal, but scientists say it's the first time a cow has been seen using a tool. And Veronika is even smarter than that. She uses both ends of the brush! For tough skin on her back, she uses the hard bristles. For sensitive spots like her belly button or udder, she uses the soft handle. Sometimes she even picks up the brush from the middle so she can switch ends without putting it down. \"At the beginning, I thought it was a mistake,\" said Antonio Osuna-Mascaró, the scientist who studied her. \"But after watching, it was so obvious that she was using both ends in different ways.\" This kind of cleverness has only been seen before in chimpanzees. So why can Veronika do this? Scientists think it's because she lives as a pet on a small farm, with lots of freedom to explore. Most cows on big farms don't get that chance. Veronika proves that cows are smarter than we think — they just need the right opportunity to show it!",
-  "why_it_matters": "This shows that animals we think aren't very smart, like cows, might actually be clever — we just haven't given them the chance to prove it.",
-  "image_url": "/article_images/article_4d246624b13b.webp",
+  "title": "Why Does Your Heart Race When You're Scared or Excited? Meet Adrenaline!",
+  "summary": "Have you ever felt your heart race before a big test? Or when you step on stage for a recital? Or even when you see your crush? That's adrenaline — a special hormone (a chemical messenger in your body) that gets released when your brain thinks you're in danger.\n\nHere's how it works: when your brain senses a threat, it sends a distress signal to your adrenal glands, which are small organs near your kidneys. Those glands then release adrenaline into your bloodstream. Adrenaline makes your heart beat faster to pump blood to your muscles. It also makes you breathe faster, getting more oxygen to your brain. It even slows down digestion to save energy for more important things!\n\nBut here's the twist: adrenaline doesn't just kick in during real danger. Watching a scary movie, riding a roller coaster, or even falling in love can trigger it too. Sometimes, that rush helps you focus and do your best. But other times, it can make you feel shaky or nervous.\n\nToo much adrenaline over a long time can be bad for your heart. So if you're feeling stressed, try taking deep breaths, going for a walk, or talking to a friend. Your body will thank you!\n\nOh, and adrenaline isn't just natural — it's also a lifesaving medicine. Doctors use it in EpiPens to help people with severe allergic reactions breathe again. Pretty cool, right?",
+  "why_it_matters": "Understanding adrenaline can help you manage feelings like nervousness before a test or performance, and know that it's natural.",
+  "image_url": "/article_images/article_e685ebdea6d5.webp",
   "keywords": [
     {
-      "term": "cow",
-      "explanation": "The animal that learned to use a brush as a tool."
+      "term": "adrenaline",
+      "explanation": "A chemical that makes your heart race and prepares your body for danger."
     },
     {
-      "term": "tool",
-      "explanation": "An object used to help do something; cows were not known to use tools before."
+      "term": "hormone",
+      "explanation": "A chemical messenger in your body."
     },
     {
-      "term": "Veronika",
-      "explanation": "The name of the Brown Swiss cow that uses a brush."
+      "term": "adrenal glands",
+      "explanation": "Small organs near your kidneys that release adrenaline."
     },
     {
-      "term": "brush",
-      "explanation": "The long-handled deck brush that Veronika picks up with her tongue."
+      "term": "heart",
+      "explanation": "The organ that beats faster when adrenaline is released."
     },
     {
-      "term": "scientist",
-      "explanation": "Antonio Osuna-Mascaró, who studied Veronika's tool use."
+      "term": "EpiPen",
+      "explanation": "A device that injects adrenaline to treat severe allergic reactions."
     },
     {
-      "term": "Austria",
-      "explanation": "The country where Veronika lives on a small farm."
+      "term": "stress",
+      "explanation": "A feeling that can trigger adrenaline release."
     }
   ],
   "questions": [
     {
-      "question": "What is special about Veronika the cow?",
+      "question": "What is the name of the chemical that makes your heart race?",
       "options": [
-        "She can talk",
-        "She uses a brush as a tool to scratch",
-        "She can fly",
-        "She paints pictures"
+        "Adrenaline",
+        "Insulin",
+        "Estrogen",
+        "Testosterone"
       ],
-      "correct_answer": "She uses a brush as a tool to scratch"
+      "correct_answer": "Adrenaline"
     },
     {
-      "question": "Where does Veronika live?",
+      "question": "Where are your adrenal glands located?",
       "options": [
-        "On a big factory farm in the US",
-        "On a small farm in Austria",
-        "In a zoo in Germany",
-        "In the wild in Africa"
+        "Near your kidneys",
+        "In your brain",
+        "In your heart",
+        "In your stomach"
       ],
-      "correct_answer": "On a small farm in Austria"
+      "correct_answer": "Near your kidneys"
     },
     {
-      "question": "How does Veronika pick up the brush?",
+      "question": "What happens to your breathing when adrenaline is released?",
       "options": [
-        "With her hooves",
-        "With her tongue",
-        "With her tail",
-        "With her nose"
+        "You breathe faster",
+        "You breathe slower",
+        "You stop breathing",
+        "You breathe the same"
       ],
-      "correct_answer": "With her tongue"
+      "correct_answer": "You breathe faster"
     },
     {
-      "question": "What does Veronika do with the brush?",
+      "question": "Which of these can trigger an adrenaline rush?",
       "options": [
-        "She throws it away",
-        "She uses both ends to scratch different spots",
-        "She eats it",
-        "She hides it"
+        "Watching a scary movie",
+        "Eating breakfast",
+        "Sleeping",
+        "Reading a book"
       ],
-      "correct_answer": "She uses both ends to scratch different spots"
+      "correct_answer": "Watching a scary movie"
     },
     {
-      "question": "Before Veronika, in which animals was tool use seen?",
+      "question": "What is an EpiPen used for?",
       "options": [
-        "Chimpanzees",
-        "Dolphins",
-        "Elephants",
-        "Cats"
+        "Severe allergic reactions",
+        "Broken bones",
+        "Headaches",
+        "Coughs"
       ],
-      "correct_answer": "Chimpanzees"
+      "correct_answer": "Severe allergic reactions"
     },
     {
-      "question": "Why do scientists think Veronika learned to use a tool?",
+      "question": "What can happen if you have too much adrenaline for a long time?",
       "options": [
-        "She is very hungry",
-        "She lives on a small farm with lots of freedom",
-        "She is trained by a circus",
-        "She saw other cows do it"
+        "It can be bad for your heart",
+        "It makes you stronger",
+        "It helps you grow taller",
+        "It improves your eyesight"
       ],
-      "correct_answer": "She lives on a small farm with lots of freedom"
+      "correct_answer": "It can be bad for your heart"
     }
   ],
   "background_read": [
-    "For a long time, scientists thought only humans could use tools, but many animals can, like chimpanzees using sticks to get ants.",
-    "Cows are often thought of as not very smart, but Veronika shows that they can learn surprising things.",
-    "The farm where Veronika lives is small, so she has more time to explore and learn than cows on big farms."
+    "The body's fight-or-flight response helps animals (including humans) react quickly to danger.",
+    "Adrenaline was first discovered in the early 1900s and is now used as a medicine.",
+    "Other animals also release adrenaline when threatened."
   ],
   "Article_Structure": [
-    "WHO: Veronika, a Brown Swiss cow in Austria",
-    "WHAT: She uses a brush as a tool to scratch, using both bristles and handle",
-    "WHERE: A small farm in Austria",
-    "WHY: She learned because she has freedom to explore on her small farm"
+    "WHO: The adrenal glands near your kidneys",
+    "WHAT: Release adrenaline that makes your heart race and prepares your body for action",
+    "WHERE: Throughout your body, via the bloodstream",
+    "WHY: To help you react quickly to danger or stress"
   ],
   "perspectives": [
     {
-      "perspective": "Amazed",
-      "description": "Scientists are amazed because tool use in cows was never seen before. It shows cows are smarter than we thought."
+      "perspective": "Students",
+      "description": "They can learn that feelings like stage fright are caused by a natural chemical, which can help them feel less weird."
     },
     {
-      "perspective": "Skeptical",
-      "description": "Veronika is just one cow. Not all cows can do this, and it might be a lucky accident."
+      "perspective": "Doctors",
+      "description": "They value adrenaline as a lifesaving medicine for allergic reactions and emergencies."
     },
     {
-      "perspective": "Hopeful",
-      "description": "This discovery could encourage farmers to give cows more freedom so they can show their intelligence."
+      "perspective": "Stress experts",
+      "description": "They warn that too much adrenaline from constant stress can harm health, so relaxation is important."
     }
   ],
-  "mined_at": "2026-04-24T01:01:42.840165+00:00",
+  "mined_at": "2026-04-24T20:50:19+00:00",
+  "source_published_at": "Tue, 21 Apr 2026 10:30:00 +0000",
   "source_name": "Science News Explores",
-  "source_url": "https://www.snexplores.org/article/venus-volcano-lava-tube"
+  "source_url": "https://www.snexplores.org/article/lets-learn-about-adrenaline"
 }
