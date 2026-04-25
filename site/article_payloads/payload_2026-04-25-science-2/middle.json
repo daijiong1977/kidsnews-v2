@@ -1,0 +1,140 @@
+{
+  "title": "First Lava Tube Discovered on Venus — and It's Enormous",
+  "summary": "Venus, often called Earth's \"sister planet,\" is shrouded in thick clouds that hide its surface. But scientists have just uncovered one of its secrets: a massive underground lava tube. This is the first lava tube ever detected on Venus, and it's enormous — potentially up to 1 kilometer (0.6 miles) wide. That's larger than any lava tube found on Earth or Mars. The discovery was made by reanalyzing radar images taken by NASA's Magellan probe in the early 1990s. Using advanced imaging techniques, researchers spotted a collapsed \"skylight\" — a hole where the roof of the lava tube had caved in. The skylight is about 150 meters (490 feet) deep, and the tube extends at least 375 meters (1,230 feet) below the surface. It's located near a massive volcano called Nyx Mons. \"It is remarkable that we are still extracting new insights from Magellan data,\" said Anna Gülcher, a planetary scientist not involved in the study. The finding raises a mystery: Venus has gravity similar to Earth's, so why are its lava tubes so huge? On the Moon, lower gravity allows larger tubes, but Venus's gravity should limit size. This discovery will influence two upcoming missions: NASA's VERITAS (launching before June 2031) and the European Space Agency's EnVision (later that year). Both will carry advanced radar to map Venus's surface in much higher resolution. While lava tubes on the Moon or Mars might one day shelter astronauts, Venus's surface is far too hostile — with 93 times Earth's atmospheric pressure and scorching temperatures. Still, finding one tube suggests there could be many more, waiting to be discovered.",
+  "why_it_matters": "This discovery challenges our understanding of volcanic processes on terrestrial planets and shows that old datasets can still yield breakthroughs. For students interested in planetary science, it highlights the importance of re-examining data with new techniques.",
+  "image_url": "/article_images/article_355a6ec71c48.webp",
+  "keywords": [
+    {
+      "term": "lava tube",
+      "explanation": "A tunnel formed by flowing lava that leaves an empty passage when the lava drains."
+    },
+    {
+      "term": "Magellan",
+      "explanation": "A NASA spacecraft that mapped Venus using radar from 1990 to 1994."
+    },
+    {
+      "term": "Nyx Mons",
+      "explanation": "A massive volcano on Venus near the discovered lava tube."
+    },
+    {
+      "term": "skylight",
+      "explanation": "A collapsed hole in the roof of a lava tube, revealing the opening."
+    },
+    {
+      "term": "VERITAS",
+      "explanation": "An upcoming NASA mission to Venus, launching before June 2031, with advanced radar."
+    },
+    {
+      "term": "EnVision",
+      "explanation": "A European Space Agency mission to Venus, launching later in 2031, also carrying radar."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What was discovered on Venus by reanalyzing Magellan data?",
+      "options": [
+        "A lava tube",
+        "An active volcano",
+        "An ocean",
+        "A forest"
+      ],
+      "correct_answer": "A lava tube"
+    },
+    {
+      "question": "How wide could the lava tube be?",
+      "options": [
+        "Up to 1 kilometer",
+        "Up to 100 meters",
+        "Up to 10 kilometers",
+        "Up to 1 mile"
+      ],
+      "correct_answer": "Up to 1 kilometer"
+    },
+    {
+      "question": "Near which volcano was the lava tube found?",
+      "options": [
+        "Nyx Mons",
+        "Olympus Mons",
+        "Maat Mons",
+        "Sif Mons"
+      ],
+      "correct_answer": "Nyx Mons"
+    },
+    {
+      "question": "What is the depth of the skylight?",
+      "options": [
+        "About 150 meters",
+        "About 300 meters",
+        "About 500 meters",
+        "About 1 kilometer"
+      ],
+      "correct_answer": "About 150 meters"
+    },
+    {
+      "question": "Which missions will benefit from this discovery?",
+      "options": [
+        "VERITAS and EnVision",
+        "Perseverance and Curiosity",
+        "Juno and Europa Clipper",
+        "Cassini and New Horizons"
+      ],
+      "correct_answer": "VERITAS and EnVision"
+    },
+    {
+      "question": "Why is the size of Venus's lava tube surprising?",
+      "options": [
+        "Venus has gravity similar to Earth, which should limit tube size",
+        "Venus has no gravity",
+        "Venus is smaller than Earth",
+        "Lava tubes don't form on planets with thick atmospheres"
+      ],
+      "correct_answer": "Venus has gravity similar to Earth, which should limit tube size"
+    }
+  ],
+  "background_read": [
+    "Lava tubes are common on Earth (like in Hawaii and Iceland) and have been found on the Moon and Mars. They form when the outer surface of a lava flow cools and hardens while the interior molten lava drains away.",
+    "The Magellan mission used synthetic aperture radar to map 98% of Venus's surface at a resolution of about 100 meters. Despite its age, the data continues to yield discoveries as new processing techniques are applied.",
+    "Venus is sometimes called Earth's twin because of its similar size and composition, but its surface conditions are extreme: average temperature 462°C (864°F) and pressure 92 bars (equivalent to being 900 meters underwater on Earth).",
+    "The upcoming VERITAS (Venus Emissivity, Radio Science, InSAR, Topography, and Spectroscopy) mission and EnVision will provide much higher resolution radar and topographic data, potentially revealing many more lava tubes and other volcanic features."
+  ],
+  "Article_Structure": [
+    "LEAD: 'Venus, often called Earth's sister planet, is shrouded in thick clouds that hide its surface.'",
+    "  └─ specific: 'But scientists have just uncovered one of its secrets: a massive underground lava tube.'",
+    "DISCOVERY: First lava tube detected on Venus",
+    "  ├─ SIZE: Up to 1 km wide, larger than any on Earth or Mars",
+    "  ├─ LOCATION: Near volcano Nyx Mons",
+    "  ├─ EVIDENCE: Skylight 150 m deep, tube extends at least 375 m",
+    "  └─ METHOD: Reanalysis of Magellan radar images with advanced techniques",
+    "MYSTERY: Why is the tube so large despite Venus's Earth-like gravity?",
+    "  ├─ On Moon, lower gravity allows larger tubes",
+    "  └─ Venus's gravity should limit size, but here it's huge",
+    "FUTURE IMPACT:",
+    "  ├─ VERITAS (NASA, before June 2031)",
+    "  ├─ EnVision (ESA, later 2031)",
+    "  └─ Advanced radar will map Venus in higher resolution",
+    "LIMITATION: Venus's surface is too hostile for astronauts (93 times Earth's pressure)",
+    "IMPLICATION: Finding one tube suggests many more exist"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Positive",
+      "description": "Planetary geologists gain a new feature to study volcanic history on Venus. The finding validates the use of archival data and helps justify future missions like VERITAS and EnVision."
+    },
+    {
+      "perspective": "Negative / Critical",
+      "description": "Some might argue that the detection is not definitive because it is based on low-resolution radar images from the 1990s. Collapse pits could have other explanations, such as volcanic vents or tectonic openings."
+    },
+    {
+      "perspective": "Neutral / Analytical",
+      "description": "The discovery fits a pattern: as radar techniques improve, more subsurface features are being found on other worlds. The size anomaly raises questions about how Venus's gravity and crustal strength interact, which will require modeling."
+    },
+    {
+      "perspective": "Forward-looking",
+      "description": "If many more lava tubes exist, they could one day be used as natural shelters for robotic or even human exploration, despite the hostile surface. The new missions might also find skylights in other volcanic regions, giving a global picture."
+    }
+  ],
+  "mined_at": "2026-04-25T01:32:00+00:00",
+  "source_published_at": "Tue, 21 Apr 2026 10:30:00 +0000",
+  "source_name": "Science News Explores",
+  "source_url": "https://www.snexplores.org/article/venus-volcano-lava-tube"
+}

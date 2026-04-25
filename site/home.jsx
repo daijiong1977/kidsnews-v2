@@ -11,18 +11,18 @@ function HomePage({ onOpen, onOpenArchive, level, setLevel, cat, setCat, progres
     if (isZh) return a.language === 'zh';
     return a.language === 'en' && a.level === level;
   };
-  const isArchive = typeof archiveDay === 'number' && archiveDay > 0;
+  // archiveDay is now a date string "YYYY-MM-DD" (or null for today).
+  const isArchive = typeof archiveDay === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(archiveDay);
 
-  const todayArticles = useMemoH(() => ARTICLES.filter(a => (a.day||0) === 0 && matchesLanguageLevel(a)), [isZh, level]);
-  const archiveArticles = useMemoH(() => ARTICLES.filter(a => (a.day||0) === archiveDay && matchesLanguageLevel(a)), [isZh, level, archiveDay]);
-
-  const activeSet = isArchive ? archiveArticles : todayArticles;
+  // When archiveDay changes, ARTICLES is swapped wholesale by loadArchive()
+  // in index.html. Everything below filters the current ARTICLES in-memory.
   const filteredRaw = useMemoH(() => {
-    if (cat === 'All' || !cat) return activeSet;
-    return activeSet.filter(a => a.category === cat);
-  }, [activeSet, cat]);
-  // Cap today/category pages to 3 stories each; archive keeps all.
-  const filtered = useMemoH(() => isArchive ? filteredRaw : filteredRaw.slice(0, 3), [filteredRaw, isArchive]);
+    const matches = ARTICLES.filter(matchesLanguageLevel);
+    return (cat === 'All' || !cat) ? matches : matches.filter(a => a.category === cat);
+  }, [isZh, level, cat, archiveDay]);
+  // Cap today to 3 per category (editorial layout). Archive also 3 since
+  // each day's bundle only has 3 per category anyway.
+  const filtered = useMemoH(() => filteredRaw.slice(0, 3), [filteredRaw]);
 
   const [calendarOpen, setCalendarOpen] = useStateH(false);
   const [recentOpen, setRecentOpen] = useStateH(false);
@@ -30,16 +30,17 @@ function HomePage({ onOpen, onOpenArchive, level, setLevel, cat, setCat, progres
   // Per-category displayable pool — only the first 3 stories of each category (what's shown on pages)
   const displayPool = useMemoH(() => {
     const out = [];
+    const lang = ARTICLES.filter(matchesLanguageLevel);
     for (const c of CATEGORIES) {
-      out.push(...todayArticles.filter(a => a.category === c.label).slice(0, 3));
+      out.push(...lang.filter(a => a.category === c.label).slice(0, 3));
     }
     return out;
-  }, [todayArticles]);
+  }, [isZh, level, archiveDay]);
   const poolIds = useMemoH(() => new Set(displayPool.map(a => a.id)), [displayPool]);
 
   // Pick 1 from each category by default, user can swap (only from the 3-per-category pool)
   const [dailyPicks, setDailyPicks] = useStateH(() => {
-    try { const s = JSON.parse(localStorage.getItem('ohye_daily_picks_v3') || 'null'); if (s && s.length === 3) return s; } catch {}
+    const s = window.safeStorage?.getJSON('ohye_daily_picks_v3'); if (s && s.length === 3) return s;
     return null;
   });
   const defaultPicks = useMemoH(() => {
@@ -51,7 +52,7 @@ function HomePage({ onOpen, onOpenArchive, level, setLevel, cat, setCat, progres
     return out.slice(0, 3);
   }, [displayPool]);
   const activePicks = (dailyPicks && dailyPicks.every(id => poolIds.has(id))) ? dailyPicks : defaultPicks;
-  useEffectH(() => { localStorage.setItem('ohye_daily_picks_v3', JSON.stringify(activePicks)); }, [activePicks]);
+  useEffectH(() => { window.safeStorage?.setJSON('ohye_daily_picks_v3', activePicks); }, [activePicks]);
   const swapPick = (idx, newId) => {
     const next = [...activePicks]; next[idx] = newId; setDailyPicks(next);
   };
@@ -64,11 +65,14 @@ function HomePage({ onOpen, onOpenArchive, level, setLevel, cat, setCat, progres
     return m;
   }, []);
 
-  const minutesToday = progress.minutesToday;
-  const streak = MOCK_USER.streak;
-  const goal = MOCK_USER.dailyGoal;
+  // All user stats come from REAL state: progress.* (reading data) +
+  // tweaks.* (preferences). MOCK_USER is no longer read here — it was
+  // causing "I haven't read anything but it says 7-day streak" surprises.
+  const minutesToday = progress.minutesToday || 0;
+  const streak = tweaks.streakDays ?? 0;
+  const goal = tweaks.dailyGoal || 15;
   const goalPct = Math.min(1, minutesToday / goal);
-  const readCount = progress.readToday.length;
+  const readCount = (progress.readToday || []).length;
 
   return (
     <div style={{background: theme.bg, minHeight:'100vh'}}>
@@ -119,7 +123,7 @@ function HomePage({ onOpen, onOpenArchive, level, setLevel, cat, setCat, progres
 
           <div style={{position:'relative'}}>
             <div style={{fontFamily:'Nunito, sans-serif', fontWeight:800, color: theme.heroTextAccent, fontSize:13, letterSpacing:'.1em', textTransform:'uppercase', marginBottom:6}}>
-              Hi Mia! 👋 &nbsp;·&nbsp; Thursday, Oct 24
+              Hi {tweaks.userName || 'friend'}! 👋 &nbsp;·&nbsp; {new Date().toLocaleDateString(undefined, {weekday:'long', month:'short', day:'numeric'})}
             </div>
             {heroVariant === 'streak' ? (
               <>
@@ -127,10 +131,13 @@ function HomePage({ onOpen, onOpenArchive, level, setLevel, cat, setCat, progres
                   🔥 Streak mode
                 </div>
                 <h1 style={{fontFamily:'Fraunces, serif', fontWeight:900, fontSize:64, lineHeight:0.95, color:'#1b1230', margin:'0 0 10px', letterSpacing:'-0.03em'}}>
-                  {MOCK_USER.streak} days<br/><span style={{color: theme.heroTextAccent, fontStyle:'italic'}}>on fire.</span>
+                  {streak} days<br/><span style={{color: theme.heroTextAccent, fontStyle:'italic'}}>on fire.</span>
                 </h1>
                 <p style={{fontSize:17, color:'#3a2a4a', margin:'0 0 14px', lineHeight:1.5, maxWidth:480}}>
-                  Read today to hit <b>day {MOCK_USER.streak+1}</b>. You've practiced <b>{minutesToday} of {goal} min</b>.
+                  {streak > 0
+                    ? <>Read today to hit <b>day {streak+1}</b>. You've practiced <b>{minutesToday} of {goal} min</b>.</>
+                    : <>Read your first story today to start a streak. Today's goal: <b>{goal} min</b>.</>
+                  }
                 </p>
                 {/* mini calendar of last 7 days */}
                 <div style={{display:'flex', gap:6, marginBottom:16}}>
@@ -341,16 +348,25 @@ function HomePage({ onOpen, onOpenArchive, level, setLevel, cat, setCat, progres
 }
 
 // ——————————— DATE POPOVER ———————————
+// archiveDay is a "YYYY-MM-DD" string.
 function archiveDayLabel(d) {
-  if (d === 1) return 'Yesterday';
-  const dt = new Date(); dt.setDate(dt.getDate() - d);
+  if (!d) return '';
+  const dt = new Date(d + 'T00:00:00');
   return dt.toLocaleDateString(undefined, { weekday:'long', month:'short', day:'numeric' });
 }
 
 function DatePopover({ onPick, onClose }) {
-  // Show last 14 days; enable only days that have any articles
-  const available = new Set(ARTICLES.filter(a => (a.day||0) > 0).map(a => a.day));
-  const days = Array.from({length:14}, (_,i) => i + 1);
+  // Fetch the list of archived days from Supabase. The newest entry is
+  // today; we exclude it so the picker only offers past editions.
+  const [index, setIndex] = useStateH({ dates: [] });
+  useStateH && React.useEffect(() => {
+    let cancelled = false;
+    window.loadArchiveIndex().then(r => { if (!cancelled) setIndex(r); });
+    return () => { cancelled = true; };
+  }, []);
+  const todayStr = new Date().toISOString().slice(0, 10);
+  const pastDates = (index.dates || []).filter(d => d !== todayStr).slice(0, 14);
+
   return (
     <>
       <div onClick={onClose} style={{position:'fixed', inset:0, zIndex:40, background:'transparent'}}/>
@@ -360,25 +376,29 @@ function DatePopover({ onPick, onClose }) {
         padding:16, boxShadow:'0 10px 0 rgba(27,18,48,0.12)', width:340,
       }}>
         <div style={{fontFamily:'Fraunces, serif', fontWeight:900, fontSize:18, color:'#1b1230', marginBottom:4}}>📅 Pick a past day</div>
-        <div style={{fontSize:12, color:'#6b5c80', fontWeight:600, marginBottom:12}}>Each day we post a fresh edition. Catch up on what you missed.</div>
-        <div style={{display:'grid', gridTemplateColumns:'repeat(7, 1fr)', gap:6}}>
-          {days.map(d => {
-            const dt = new Date(); dt.setDate(dt.getDate() - d);
-            const has = available.has(d);
-            return (
-              <button key={d} disabled={!has} onClick={()=>onPick(d)} style={{
-                padding:'10px 4px', border: has ? '2px solid #f0e8d8' : '2px dashed #efe7d9',
-                background: has ? '#fff9ef' : '#f8f3e7', borderRadius:12,
-                cursor: has ? 'pointer':'not-allowed', opacity: has ? 1 : 0.4,
-                fontFamily:'Nunito, sans-serif',
-              }}>
-                <div style={{fontSize:10, fontWeight:800, color:'#9a8d7a', textTransform:'uppercase'}}>{dt.toLocaleDateString(undefined,{weekday:'short'}).slice(0,3)}</div>
-                <div style={{fontFamily:'Fraunces, serif', fontWeight:900, fontSize:20, color:'#1b1230'}}>{dt.getDate()}</div>
-                <div style={{fontSize:9, color:'#9a8d7a', fontWeight:700}}>{dt.toLocaleDateString(undefined,{month:'short'})}</div>
-              </button>
-            );
-          })}
+        <div style={{fontSize:12, color:'#6b5c80', fontWeight:600, marginBottom:12}}>
+          {pastDates.length === 0
+            ? "No past editions yet — check back tomorrow."
+            : "Catch up on editions you missed."}
         </div>
+        {pastDates.length > 0 && (
+          <div style={{display:'grid', gridTemplateColumns:'repeat(7, 1fr)', gap:6}}>
+            {pastDates.map(d => {
+              const dt = new Date(d + 'T00:00:00');
+              return (
+                <button key={d} onClick={()=>onPick(d)} style={{
+                  padding:'10px 4px', border:'2px solid #f0e8d8',
+                  background:'#fff9ef', borderRadius:12, cursor:'pointer',
+                  fontFamily:'Nunito, sans-serif',
+                }}>
+                  <div style={{fontSize:10, fontWeight:800, color:'#9a8d7a', textTransform:'uppercase'}}>{dt.toLocaleDateString(undefined,{weekday:'short'}).slice(0,3)}</div>
+                  <div style={{fontFamily:'Fraunces, serif', fontWeight:900, fontSize:20, color:'#1b1230'}}>{dt.getDate()}</div>
+                  <div style={{fontSize:9, color:'#9a8d7a', fontWeight:700}}>{dt.toLocaleDateString(undefined,{month:'short'})}</div>
+                </button>
+              );
+            })}
+          </div>
+        )}
       </div>
     </>
   );
@@ -414,10 +434,10 @@ function Header({ level, setLevel, theme, tweaks, onOpenUserPanel, progress, rec
             padding:'6px 14px 6px 6px', borderRadius:999, border:'none', cursor:'pointer',
             fontFamily:'Nunito, sans-serif',
           }}>
-            <StreakRing minutes={MOCK_USER.minutesToday} goal={MOCK_USER.dailyGoal} streak={MOCK_USER.streak} size={40}/>
+            <StreakRing minutes={(progress && progress.minutesToday) || 0} goal={tweaks.dailyGoal || 15} streak={tweaks.streakDays ?? 0} size={40}/>
             <div style={{lineHeight:1.1, textAlign:'left'}}>
               <div style={{fontSize:11, opacity:.7, fontWeight:700}}>STREAK</div>
-              <div style={{fontWeight:800, fontSize:14}}>{MOCK_USER.streak} days 🔥</div>
+              <div style={{fontWeight:800, fontSize:14}}>{tweaks.streakDays ?? 0} days 🔥</div>
             </div>
             <span style={{fontSize:11, opacity:0.7, marginLeft:4}}>▾</span>
           </button>
@@ -428,7 +448,7 @@ function Header({ level, setLevel, theme, tweaks, onOpenUserPanel, progress, rec
 
         {/* User button — opens the profile panel */}
         {window.UserButton && (
-          <window.UserButton tweaks={tweaks} streak={MOCK_USER.streak} onClick={onOpenUserPanel}/>
+          <window.UserButton tweaks={tweaks} level={level} streak={tweaks.streakDays ?? 0} onClick={onOpenUserPanel}/>
         )}
       </div>
     </header>

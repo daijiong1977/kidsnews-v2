@@ -1,0 +1,123 @@
+{
+  "title": "Giant Underground Cave Found on Venus!",
+  "summary": "Did you know that Venus has a giant underground cave? Scientists found it by looking at old radar pictures taken by a NASA spacecraft called Magellan in the 1990s. The cave is a lava tube, which forms when hot lava flows underground and then drains away, leaving an empty tunnel. This one is huge — it might be up to 1 kilometer (0.6 miles) wide! That's bigger than any lava tube on Earth or Mars. The cave was discovered near a big volcano named Nyx Mons. There's a hole in the roof where it collapsed, called a skylight. The skylight is about 150 meters (490 feet) deep. Scientists are excited because this finding will help two future missions: NASA's VERITAS and Europe's EnVision. Both will have better radar to see Venus's surface in more detail. But don't expect astronauts to visit anytime soon. The surface of Venus is super hot and has crushing pressure — 93 times Earth's! Still, finding this cave shows there might be more lava tubes on Venus. Pretty amazing for a planet hidden by clouds!",
+  "why_it_matters": "This discovery shows that even old data can lead to new findings, and it helps plan future missions that might reveal more about our sister planet.",
+  "image_url": "/article_images/article_355a6ec71c48.webp",
+  "keywords": [
+    {
+      "term": "Venus",
+      "explanation": "A planet in our solar system, covered with thick clouds."
+    },
+    {
+      "term": "cave",
+      "explanation": "A hollow space underground."
+    },
+    {
+      "term": "lava tube",
+      "explanation": "A tunnel formed when hot lava flows underground and leaves an empty space."
+    },
+    {
+      "term": "Magellan",
+      "explanation": "A NASA spacecraft that took radar pictures of Venus in the 1990s."
+    },
+    {
+      "term": "Nyx Mons",
+      "explanation": "A large volcano on Venus near where the cave was found."
+    },
+    {
+      "term": "skylight",
+      "explanation": "A hole in the roof of a lava tube where it collapsed."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Where was the giant underground cave found?",
+      "options": [
+        "On Venus",
+        "On Mars",
+        "On the Moon",
+        "On Earth"
+      ],
+      "correct_answer": "On Venus"
+    },
+    {
+      "question": "What type of cave was discovered?",
+      "options": [
+        "Lava tube",
+        "Ice cave",
+        "Sandstone cave",
+        "Crystal cave"
+      ],
+      "correct_answer": "Lava tube"
+    },
+    {
+      "question": "Which spacecraft took the pictures used in the discovery?",
+      "options": [
+        "Magellan",
+        "Voyager",
+        "Cassini",
+        "Hubble"
+      ],
+      "correct_answer": "Magellan"
+    },
+    {
+      "question": "How wide might the lava tube be?",
+      "options": [
+        "Up to 1 kilometer",
+        "Up to 100 meters",
+        "Up to 10 kilometers",
+        "Up to 1 mile"
+      ],
+      "correct_answer": "Up to 1 kilometer"
+    },
+    {
+      "question": "What is the name of the volcano near the cave?",
+      "options": [
+        "Nyx Mons",
+        "Olympus Mons",
+        "Mauna Loa",
+        "Kilauea"
+      ],
+      "correct_answer": "Nyx Mons"
+    },
+    {
+      "question": "Why can't astronauts visit this cave soon?",
+      "options": [
+        "Venus is too hot and has crushing pressure",
+        "The cave is too small",
+        "There's no air on Venus",
+        "The cave is filled with lava"
+      ],
+      "correct_answer": "Venus is too hot and has crushing pressure"
+    }
+  ],
+  "background_read": [
+    "Venus is the second planet from the Sun, about the same size as Earth, but much hotter.",
+    "Lava tubes are also found on Earth and the Moon, and scientists think they could be used as shelters in space.",
+    "NASA's Magellan mission in the 1990s mapped most of Venus's surface using radar."
+  ],
+  "Article_Structure": [
+    "WHO: Scientists studying old radar images from NASA's Magellan spacecraft",
+    "WHAT: Discovered a giant underground lava tube, the first ever found on Venus",
+    "WHERE: Near the volcano Nyx Mons on Venus",
+    "WHY: To learn more about Venus's geology and prepare for future missions like VERITAS and EnVision"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Scientists",
+      "description": "They are excited because it's the first lava tube found on Venus, meaning more could exist."
+    },
+    {
+      "perspective": "Space enthusiasts",
+      "description": "They hope future missions will find even more caves and maybe one day use them as shelters."
+    },
+    {
+      "perspective": "Careful observers",
+      "description": "They note the cave is too dangerous for astronauts now, but it's a step forward in understanding Venus."
+    }
+  ],
+  "mined_at": "2026-04-25T01:32:00+00:00",
+  "source_published_at": "Tue, 21 Apr 2026 10:30:00 +0000",
+  "source_name": "Science News Explores",
+  "source_url": "https://www.snexplores.org/article/venus-volcano-lava-tube"
+}

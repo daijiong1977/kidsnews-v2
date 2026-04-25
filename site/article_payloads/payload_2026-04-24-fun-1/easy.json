@@ -1,123 +1,122 @@
 {
-  "title": "The Mona Lisa Vanished! And a Broadway Star Is Turning the Heist into a Musical",
-  "summary": "Have you ever wondered what would happen if the most famous painting in the world just vanished? Well, that's exactly what happened to the Mona Lisa in 1911. And now, Andrew Lloyd Webber — the guy who wrote super-famous musicals like 'The Phantom of the Opera' and 'Cats' — is writing a new musical about this wild true story!\n\nHere's what went down: The Mona Lisa was hanging in the Louvre museum in Paris. A guy named Vincenzo Peruggia, who worked there as a glazier (someone who puts in glass), knew exactly how to steal it. He just put on a worker's smock (a kind of coat), took the painting off the wall, and walked right out! Nobody noticed for 28 hours.\n\nPeruggia hid the painting in a trunk in his apartment for two years. He even talked to police at his house, and they didn't suspect him! Finally, he tried to get money for it in Italy, and the police caught him. He said he stole it because he thought it belonged in Italy.\n\nWhen the painting was found, everyone went crazy for it. Before the theft, the Mona Lisa wasn't even the most famous painting in its room. After? It became a global superstar. Lloyd Webber's musical is going to tell this amazing story with songs and spectacle. I can't wait to see it!",
-  "why_it_matters": "This story shows that unexpected events can make something much more famous, and that truth can be stranger than fiction – you never know when a surprising event might change how the world sees a piece of art.",
-  "image_url": "/article_images/article_0c28b69c953d.webp",
+  "title": "These Baby Birds Look Like Tiny Rock Stars!",
+  "summary": "Imagine three tiny birds that look like they're in a punk rock band. That's what the winning photo of the Smithsonian Magazine Photography Contest shows! The baby egrets have spiky feathers that look just like mohawks. The photographer, Jacqueline Burke, is a 64-year-old veterinarian. She took the picture at a rookery (a place where birds breed and raise babies) in New Jersey. \"They were squabbling nonstop,\" she said. The chicks were no bigger than golf balls when curled up!\n\nThe contest got over 17,000 photos from 108 countries. Six other pictures also won prizes. One shows a woman in a black veil. Another has a 14-year-old girl on a horse during a Navajo ceremony. There's also a colorful chameleon and a huge building shaped like a ring. A photographer from South Africa took the chameleon picture. She usually takes photos of endangered animals like African wild dogs and rhinos. But this time, she just thought the chameleon was \"really, really beautiful.\" All the winners make you want to look closer and see the cool details.",
+  "why_it_matters": "This story shows that ordinary moments in nature can be amazing, and taking time to look closely can help us appreciate the world around us.",
+  "image_url": "/article_images/article_59476443522b.webp",
   "keywords": [
     {
-      "term": "Mona Lisa",
-      "explanation": "The famous painting by Leonardo da Vinci that was stolen from the Louvre."
+      "term": "mohawks",
+      "explanation": "a hairstyle where hair sticks up like a spike on top"
     },
     {
-      "term": "vanished",
-      "explanation": "Disappeared completely, as when the painting was taken."
+      "term": "veterinarian",
+      "explanation": "a doctor who treats animals"
     },
     {
-      "term": "musical",
-      "explanation": "A play with songs that tells a story, like the one Andrew Lloyd Webber is writing."
+      "term": "rookery",
+      "explanation": "a place where birds breed and raise their babies"
     },
     {
-      "term": "Vincenzo Peruggia",
-      "explanation": "The glazier who stole the Mona Lisa from the museum."
+      "term": "squabbling",
+      "explanation": "fighting or arguing noisily"
     },
     {
-      "term": "steal",
-      "explanation": "To take something without permission, as Peruggia did with the painting."
+      "term": "golf balls",
+      "explanation": "small, round balls used in the game of golf"
     },
     {
-      "term": "police",
-      "explanation": "The authorities who later caught Peruggia after he tried to get money for the painting."
+      "term": "endangered",
+      "explanation": "at risk of dying out completely"
     }
   ],
   "questions": [
     {
-      "question": "Which musicals did Andrew Lloyd Webber write?",
+      "question": "What did the baby egrets look like according to the article?",
       "options": [
-        "Only The Phantom of the Opera",
-        "Only Cats",
-        "Both The Phantom of the Opera and Cats",
-        "Neither"
+        "tiny rock stars",
+        "famous singers",
+        "golf balls",
+        "colorful chameleons"
       ],
-      "correct_answer": "Both The Phantom of the Opera and Cats"
+      "correct_answer": "tiny rock stars"
     },
     {
-      "question": "How long did it take for anyone to notice the Mona Lisa was missing?",
+      "question": "What is Jacqueline Burke's job?",
       "options": [
-        "2 hours",
-        "28 hours",
-        "2 days",
-        "2 years"
+        "photographer",
+        "veterinarian",
+        "art director",
+        "bird watcher"
       ],
-      "correct_answer": "28 hours"
+      "correct_answer": "veterinarian"
     },
     {
-      "question": "Where did Peruggia hide the painting?",
+      "question": "Where did Jacqueline Burke take the photo?",
       "options": [
-        "In a museum",
-        "In a trunk",
-        "In a church",
-        "In a car"
+        "in a garden",
+        "at a rookery in New Jersey",
+        "in South Africa",
+        "at a Navajo ceremony"
       ],
-      "correct_answer": "In a trunk"
+      "correct_answer": "at a rookery in New Jersey"
     },
     {
-      "question": "Why did Peruggia say he stole the Mona Lisa?",
+      "question": "How many photos were entered in the contest?",
       "options": [
-        "To sell it",
-        "Because he thought it belonged in Italy",
-        "For fame",
-        "He didn't like the painting"
+        "over 17,000",
+        "over 10,000",
+        "about 5,000",
+        "exactly 17,000"
       ],
-      "correct_answer": "Because he thought it belonged in Italy"
+      "correct_answer": "over 17,000"
     },
     {
-      "question": "What happened to the Mona Lisa after it was recovered?",
+      "question": "What did the photographer from South Africa usually take pictures of?",
       "options": [
-        "It became less famous",
-        "It became a global superstar",
-        "It was destroyed",
-        "It stayed in Italy"
+        "chameleons",
+        "endangered animals like African wild dogs and rhinos",
+        "babies",
+        "buildings"
       ],
-      "correct_answer": "It became a global superstar"
+      "correct_answer": "endangered animals like African wild dogs and rhinos"
     },
     {
-      "question": "Who is writing a musical about the Mona Lisa theft?",
+      "question": "What did the chameleon photographer think of the chameleon?",
       "options": [
-        "Vincenzo Peruggia",
-        "Andrew Lloyd Webber",
-        "Franz Kafka",
-        "A Broadway star"
+        "It was ugly",
+        "It was 'really, really beautiful'",
+        "It was dangerous",
+        "It was boring"
       ],
-      "correct_answer": "Andrew Lloyd Webber"
+      "correct_answer": "It was 'really, really beautiful'"
     }
   ],
   "background_read": [
-    "The Louvre in Paris is the world's largest museum and houses thousands of famous artworks.",
-    "Leonardo da Vinci painted the Mona Lisa in the early 1500s, and it is known for her mysterious smile.",
-    "Before the theft, the Mona Lisa was not as famous as it is today – the crime actually made it a worldwide icon."
+    "Egrets are a type of heron that often have white feathers.",
+    "Many people enjoy watching birds and taking pictures of them.",
+    "Photography contests like this one help people see amazing moments in nature."
   ],
   "Article_Structure": [
-    "WHO: Vincenzo Peruggia, a glazier who worked at the Louvre, stole the painting.",
-    "WHAT: He took the Mona Lisa from the wall, hid it in a trunk for two years, and later tried to get money for it in Italy.",
-    "WHERE: The theft happened at the Louvre museum in Paris, and the painting was hidden in Peruggia's apartment.",
-    "WHY: Peruggia claimed he stole it because he thought the painting should be in Italy, its home country."
+    "WHO: Jacqueline Burke, a 64-year-old veterinarian",
+    "WHAT: Took a winning photo of three baby egrets that look like punk rock stars",
+    "WHERE: At a rookery (bird breeding place) in Ocean City, New Jersey",
+    "WHY: The photo won because of the spiky feathers that look like mohawks and the cute squabbling chicks"
   ],
   "perspectives": [
     {
-      "perspective": "Positive",
-      "description": "The theft made the Mona Lisa world-famous, so more people now appreciate art and visit museums to see it."
+      "perspective": "Nature lover",
+      "description": "Loves seeing cute animals in their natural habitat and thinks this photo is a great way to celebrate wildlife."
     },
     {
-      "perspective": "Negative",
-      "description": "Stealing is a crime that caused worry and loss for the museum, and it took years to recover the painting."
+      "perspective": "Photography fan",
+      "description": "Appreciates the skill of capturing a perfect moment and enjoys seeing the winning entries."
     },
     {
-      "perspective": "Neutral",
-      "description": "It's a fascinating true story that inspires new creative works, like Andrew Lloyd Webber's musical."
+      "perspective": "Skeptic",
+      "description": "Thinks the contest is mostly for fun, but wonders if it really helps protect wildlife as the photographer hopes."
     }
   ],
-  "mined_at": "2026-04-24T22:33:12+00:00",
-  "source_published_at": "Fri, 17 Apr 2026 10:15:00 +0000",
+  "mined_at": "2026-04-24T01:01:43.355802+00:00",
   "source_name": "Smithsonian Arts",
-  "source_url": "https://www.smithsonianmag.com/arts-culture/andrew-lloyd-webber-says-hes-writing-a-new-musical-about-the-time-the-mona-lisa-vanished-without-a-trace-in-1911-180988559/"
+  "source_url": "https://www.smithsonianmag.com/arts-culture/see-spectacular-winners-smithsonian-magazines-23rd-annual-photography-contest-180988429/"
 }

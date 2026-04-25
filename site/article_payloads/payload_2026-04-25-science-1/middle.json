@@ -1,0 +1,130 @@
+{
+  "title": "100-Million-Year-Old Snake Fossil Rewrites Evolution Story",
+  "summary": "What if I told you that ancient snakes once had legs? It sounds like something out of a fantasy novel, but it's true. A remarkably preserved fossil of a snake called Najash rionegrina, which lived nearly 100 million years ago in what is now Argentina, has given scientists a much clearer picture of how snakes evolved. This snake had hind legs and a cheekbone (the jugal bone) that has almost completely disappeared in modern snakes. To study the fossil without damaging it, researchers used micro-computed tomography (micro-CT) scanning, which allowed them to reconstruct the skull in incredible detail, including the paths of nerves and blood vessels. The findings, published in Science Advances in 2019, challenged a long-held belief that snakes evolved from small burrowing lizards. Instead, the evidence points to ancestors of modern snakes being large-bodied animals with wide mouths. \"Our findings support the idea that the ancestors of modern snakes were big-bodied and big-mouthed — instead of small burrowing forms as previously thought,\" explained Fernando Garberoglio, lead author of the study. The research also showed that early snakes retained their hindlimbs for a long time before becoming mostly limbless. Later studies added more twists to the story. In 2020, a fossil of a blind snake from Brazil pushed the record of blind snakes deeper into the age of dinosaurs, and in 2023, a study reconstructing brains suggested snake origins were complex. A 2025 Nature study described a Middle Jurassic squamate with both lizard-like and snake-like traits, showing that early squamate evolution involved a lot of experimentation. Even with these later discoveries, Najash remains a crucial window into snake evolution, capturing a moment when snakes were in transition.",
+  "why_it_matters": "This fossil reshapes our understanding of how one of the most successful reptile groups evolved, showing that scientific ideas must adapt to new evidence. For young students, it highlights that learning is a process of discovery and revision.",
+  "image_url": "/article_images/article_717dcc40a761.webp",
+  "keywords": [
+    {
+      "term": "Najash rionegrina",
+      "explanation": "A 100-million-year-old snake fossil discovered in Argentina with hind legs and a jugal bone."
+    },
+    {
+      "term": "jugal bone",
+      "explanation": "The cheekbone that is present in this fossil but mostly gone in modern snakes."
+    },
+    {
+      "term": "Science Advances",
+      "explanation": "The journal where the study was published in 2019."
+    },
+    {
+      "term": "squamate",
+      "explanation": "A group of reptiles that includes snakes and lizards."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Where was the Najash rionegrina fossil found?",
+      "options": [
+        "Argentina",
+        "Brazil",
+        "United States",
+        "Australia"
+      ],
+      "correct_answer": "Argentina"
+    },
+    {
+      "question": "What bone did the ancient snake have that is missing in most modern snakes?",
+      "options": [
+        "Jugal bone",
+        "Femur",
+        "Rib",
+        "Vertebra"
+      ],
+      "correct_answer": "Jugal bone"
+    },
+    {
+      "question": "How did scientists study the fossil without breaking it?",
+      "options": [
+        "Micro-CT scanning",
+        "Hammer and chisel",
+        "X-ray diffraction",
+        "Carbon dating"
+      ],
+      "correct_answer": "Micro-CT scanning"
+    },
+    {
+      "question": "Which journal published the 2019 study?",
+      "options": [
+        "Science Advances",
+        "Nature",
+        "Cell",
+        "The Lancet"
+      ],
+      "correct_answer": "Science Advances"
+    },
+    {
+      "question": "What did the fossil challenge scientists' earlier belief about?",
+      "options": [
+        "That snakes evolved from small burrowing lizards",
+        "That snakes were always legless",
+        "That snakes were giant dinosaurs",
+        "That snakes lived in water"
+      ],
+      "correct_answer": "That snakes evolved from small burrowing lizards"
+    },
+    {
+      "question": "According to the article, what later study in 2025 was mentioned?",
+      "options": [
+        "A Middle Jurassic squamate with lizard-like and snake-like traits",
+        "A study on snake brains",
+        "A blind snake fossil from Brazil",
+        "A genetic study of modern snakes"
+      ],
+      "correct_answer": "A Middle Jurassic squamate with lizard-like and snake-like traits"
+    }
+  ],
+  "background_read": [
+    "For decades, scientists debated whether snakes evolved from burrowing lizards or aquatic ones. The Najash fossil supports the idea that the first snakes were large and lived on land.",
+    "The group 'squamata' includes about 10,000 species of lizards and snakes today. Early squamates appeared in the Jurassic period, over 150 million years ago.",
+    "In 2015, another snake fossil with legs (Tetrapodophis) was found in Brazil, but its identity as a snake was later questioned. Najash is widely accepted as a true snake with hind limbs.",
+    "The jugal bone (cheekbone) in reptiles helps form the skull's structure and jaw muscles. Its disappearance in snakes is linked to their ability to swallow large prey."
+  ],
+  "Article_Structure": [
+    "LEAD: 'What if I told you that ancient snakes once had legs?'",
+    "  └─ specific: 'It sounds like something out of a fantasy novel, but it's true.'",
+    "KEY EVENT: Discovery of Najash rionegrina fossil in Argentina",
+    "  ├─ WHO: Researchers led by Fernando Garberoglio",
+    "  ├─ WHEN: 100 million years ago (lived), 2019 (study)",
+    "  └─ METHOD: Micro-CT scanning to reconstruct skull details",
+    "FINDINGS: Snake had hind legs, jugal bone, and was big-bodied",
+    "  ├─ CHALLENGE: Contradicted the hypothesis of small burrowing ancestors",
+    "  └─ QUOTE: 'Our findings support the idea that the ancestors of modern snakes were big-bodied and big-mouthed'",
+    "LATER CONTEXT:",
+    "  ├─ 2020: Blind snake fossil from Brazil pushed back blind snake origins",
+    "  ├─ 2023: Brain reconstruction suggested complex origins",
+    "  └─ 2025: Middle Jurassic squamate with both lizard and snake traits",
+    "SIGNIFICANCE: Najash remains a crucial window into snake evolution, capturing a transitional stage"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Positive",
+      "description": "Paleontologists gain a clearer picture of snake origins. The use of micro-CT scanning demonstrates how technology can unlock secrets from old fossils without damaging them."
+    },
+    {
+      "perspective": "Negative / Critical",
+      "description": "Some scientists worry that the fossil record is still too incomplete to draw firm conclusions. Critics note that Najash is just one species, and other early snakes might have evolved differently."
+    },
+    {
+      "perspective": "Neutral / Analytical",
+      "description": "The snake evolution debate mirrors larger patterns in science: long-held theories (burrowing ancestor) can be overturned by a single well-preserved specimen. The story also shows how new discoveries build on earlier ones."
+    },
+    {
+      "perspective": "Forward-looking",
+      "description": "Future finds in South America and elsewhere may fill gaps in the squamate family tree. Better imaging techniques could reveal soft tissues or embryos, and genetic studies on modern snakes could link to the fossil evidence."
+    }
+  ],
+  "mined_at": "2026-04-25T01:32:00+00:00",
+  "source_published_at": "Fri, 24 Apr 2026 04:36:51 EDT",
+  "source_name": "ScienceDaily All",
+  "source_url": "https://www.sciencedaily.com/releases/2026/04/260424024002.htm"
+}

@@ -1,20 +1,45 @@
 // data.jsx — v2 payload loader
-// Consumes v1 listing payloads under ./payloads/ and exposes window.ARTICLES,
-// window.CATEGORIES, window.LEVELS, window.MOCK_USER, and window.__payloadsLoaded
-// (a promise that resolves once ARTICLES is populated).
+// Consumes v1 listing payloads and exposes window.ARTICLES, window.CATEGORIES,
+// window.LEVELS, window.MOCK_USER, window.__payloadsLoaded (promise for
+// initial today's load), and window.loadArchive(date) to swap in a past day.
+//
+// Today's content is served from the Vercel deploy (same origin, flat paths
+// under /payloads/ and /article_images/). Past days are served directly from
+// Supabase Storage under /<date>/payloads/... — see ARCHIVE_BASE.
 //
 // Contract mapping (v2 UI <-- v1 source):
 //   Sprout level        <- easy
 //   Tree level          <- middle
 //   Chinese summary card<- cn  (no detail page — summary only)
-//   high                -- IGNORED in v2
-//   Category "News"     <- news
-//   Category "Science"  <- science
-//   Category "Fun"      <- fun
-//
-// Each category surfaces the first 3 stories per the v2 spec.
-// The `cn` variants share `storyId` with their `easy`/`middle` twins so the
-// app can route Chinese cards to the English (Tree-level) detail page.
+
+const SUPABASE_URL = 'https://lfknsvavhiqrsasdfyrs.supabase.co';
+const ARCHIVE_BASE = `${SUPABASE_URL}/storage/v1/object/public/redesign-daily-content`;
+
+// Browsers can throw on localStorage access (private mode in Safari, quota
+// exhaustion, storage disabled by enterprise policy, embedded contexts).
+// Wrap reads/writes so one bad environment doesn't kill route restoration,
+// archive mode, progress saving, or daily-picks persistence.
+const safeStorage = {
+  get(key) {
+    try { return localStorage.getItem(key); } catch { return null; }
+  },
+  set(key, value) {
+    try { localStorage.setItem(key, value); return true; }
+    catch (e) { console.warn('[storage] set failed', key, e); return false; }
+  },
+  remove(key) {
+    try { localStorage.removeItem(key); } catch (e) { /* swallow */ }
+  },
+  getJSON(key, fallback = null) {
+    const raw = this.get(key);
+    if (!raw) return fallback;
+    try { return JSON.parse(raw); } catch { return fallback; }
+  },
+  setJSON(key, value) {
+    return this.set(key, JSON.stringify(value));
+  },
+};
+window.safeStorage = safeStorage;
 
 const CATEGORIES = [
   { id: "news",    label: "News",    emoji: "📰", color: "#ff6b5b", bg: "#ffece8" },
@@ -27,7 +52,6 @@ const LEVELS = [
   { id: "Tree",   emoji: "🌳", label: "Tree",   sub: "Middle" },
 ];
 
-// Mock user state — unchanged from prototype (UI state, not content).
 const MOCK_USER = {
   name: "Mia",
   streak: 7,
@@ -36,62 +60,148 @@ const MOCK_USER = {
   totalXp: 1240,
   weekXp: 310,
   badges: ["🦉", "🔭", "🌱"],
-  readToday: ["a2"], // already read (legacy placeholder)
+  readToday: ["a2"],
 };
 
-function listingToArticle(entry, cat, lvl) {
+// Rewrite /article_images/xxx.webp → full Supabase URL when we're loading an
+// archived day. For today's content (archiveDate = null), leave as-is.
+function resolveImageUrl(rawUrl, archiveDate) {
+  if (!archiveDate || !rawUrl) return rawUrl || "";
+  if (rawUrl.startsWith('http')) return rawUrl;
+  const rel = rawUrl.replace(/^\//, '');   // strip leading slash
+  return `${ARCHIVE_BASE}/${archiveDate}/${rel}`;
+}
+
+function listingToArticle(entry, cat, lvl, archiveDate) {
   const categoryLabel = { news: "News", science: "Science", fun: "Fun" }[cat];
   const isZh = lvl === "cn";
   const level = isZh ? null : (lvl === "easy" ? "Sprout" : "Tree");
   return {
-    id: entry.id + "-" + lvl,         // unique per (story, language/level) variant
-    storyId: entry.id,                // pairs same-story variants across lvl
-    day: 0,
+    id: entry.id + "-" + lvl,
+    storyId: entry.id,
+    archiveDate: archiveDate || null,   // null = today's edition
     title: entry.title,
     summary: entry.summary,
-    body: "",                         // filled by lazy fetch in ArticlePage
-    image: entry.image_url,           // e.g. "/article_images/article_xxx.webp"
+    body: "",
+    image: resolveImageUrl(entry.image_url, archiveDate),
     category: categoryLabel,
     source: entry.source || "",
     time: entry.time_ago || "",
-    minedAt: entry.mined_at || "",              // ISO-8601 when pipeline captured this story
-    sourcePublishedAt: entry.source_published_at || "",  // RSS pubDate (may be absent for some feeds)
+    minedAt: entry.mined_at || "",
+    sourcePublishedAt: entry.source_published_at || "",
     readMins: isZh ? 2 : (lvl === "easy" ? 3 : 5),
-    level: level,                     // null for Chinese cards
+    level: level,
     language: isZh ? "zh" : "en",
     xp: isZh ? 15 : (lvl === "easy" ? 30 : 45),
-    tag: categoryLabel,               // minimal fallback so alt.tag renders
-    keywords: [],                     // lazy-fetched
-    quiz: [],                         // lazy-fetched
-    discussion: [],                   // lazy-fetched
-    noDetail: isZh,                   // Chinese cards have no detail page
+    tag: categoryLabel,
+    keywords: [],
+    quiz: [],
+    discussion: [],
+    noDetail: isZh,
   };
 }
 
-async function loadPayloads() {
+function listingBaseFor(archiveDate) {
+  return archiveDate ? `${ARCHIVE_BASE}/${archiveDate}/payloads`
+                     : 'payloads';
+}
+
+async function loadPayloads(archiveDate = null) {
   const cats = ["news", "science", "fun"];
-  const levels = ["easy", "middle", "cn"]; // 3 x 3 = 9 fetches
+  const levels = ["easy", "middle", "cn"];
+  const base = listingBaseFor(archiveDate);
   const all = [];
   for (const cat of cats) {
     for (const lvl of levels) {
       try {
-        const r = await fetch(`payloads/articles_${cat}_${lvl}.json`);
-        if (!r.ok) { console.warn(`[data] missing: articles_${cat}_${lvl}.json`); continue; }
+        const r = await fetch(`${base}/articles_${cat}_${lvl}.json?t=${Date.now()}`);
+        if (!r.ok) { console.warn(`[data] missing: ${base}/articles_${cat}_${lvl}.json`); continue; }
         const { articles } = await r.json();
-        const top3 = (articles || []).slice(0, 3); // v2 contract: 3 per category
-        for (const a of top3) all.push(listingToArticle(a, cat, lvl));
+        const top3 = (articles || []).slice(0, 3);
+        for (const a of top3) all.push(listingToArticle(a, cat, lvl, archiveDate));
       } catch (e) {
-        console.warn(`[data] fetch failed: articles_${cat}_${lvl}.json`, e);
+        console.warn(`[data] fetch failed: ${base}/articles_${cat}_${lvl}.json`, e);
       }
     }
   }
   return all;
 }
 
+// Fetch the list of available archive days from Supabase.
+// Returns { dates: [...], updated_at } or { dates: [] } on failure.
+async function loadArchiveIndex() {
+  try {
+    const r = await fetch(`${ARCHIVE_BASE}/archive-index.json?t=${Date.now()}`);
+    if (!r.ok) return { dates: [] };
+    return await r.json();
+  } catch (e) {
+    console.warn('[data] archive-index fetch failed', e);
+    return { dates: [] };
+  }
+}
+
+// Callable from the app: swap window.ARTICLES to point at a past day's
+// bundle, or back to today when passed null.
+async function loadArchive(date) {
+  const list = await loadPayloads(date || null);
+  window.ARTICLES = list;
+  window.__archiveDate = date || null;
+  return list;
+}
+
+// Anonymous client_id — generated once per browser, persisted in localStorage.
+// Used by the feedback-rewrite edge function to attribute saved responses
+// without requiring login. NOT a tracking id; never sent to anywhere
+// outside our own Supabase.
+function getClientId() {
+  let id = safeStorage.get('ohye_client_id');
+  if (!id) {
+    id = (crypto.randomUUID && crypto.randomUUID()) ||
+         (Date.now().toString(36) + Math.random().toString(36).slice(2, 10));
+    safeStorage.set('ohye_client_id', id);
+  }
+  return id;
+}
+
+const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imxma25zdmF2aGlxcnNhc2RmeXJzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjI3MzMwMjcsImV4cCI6MjA3ODMwOTAyN30.2YPvOkZOWi4hDjtwZYkVt9a-RwYSnfotjV6Raj24ZjE';
+const FEEDBACK_FN = `${SUPABASE_URL}/functions/v1/feedback-rewrite`;
+
+// Call the feedback-rewrite edge function. Returns either
+//   { feedback, rewrite, scores, word_count, saved_id }
+// on success, or
+//   { error: "..." }
+// on validation failure (status 400) or upstream error (502).
+async function fetchAIFeedback({ text, articleId, articleTitle, articleSummary, level }) {
+  try {
+    const r = await fetch(FEEDBACK_FN, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': `Bearer ${SUPABASE_ANON_KEY}`,
+      },
+      body: JSON.stringify({
+        text, articleId, articleTitle, articleSummary, level,
+        clientId: getClientId(),
+      }),
+    });
+    const body = await r.json();
+    if (!r.ok) return { error: body.error || `HTTP ${r.status}`, ...body };
+    return body;
+  } catch (e) {
+    return { error: 'Network error: ' + (e.message || String(e)) };
+  }
+}
+
 window.CATEGORIES = CATEGORIES;
 window.LEVELS = LEVELS;
 window.MOCK_USER = MOCK_USER;
 window.ARTICLES = [];
+window.__archiveDate = null;
+window.ARCHIVE_BASE = ARCHIVE_BASE;
+window.loadArchive = loadArchive;
+window.loadArchiveIndex = loadArchiveIndex;
+window.fetchAIFeedback = fetchAIFeedback;
+window.getClientId = getClientId;
 window.__payloadsLoaded = loadPayloads().then(list => {
   window.ARTICLES = list;
   return list;

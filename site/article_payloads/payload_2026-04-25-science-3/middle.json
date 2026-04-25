@@ -1,0 +1,132 @@
+{
+  "title": "The Robot Therapist: How Maja Matarić Created Socially Assistive Robotics",
+  "summary": "When Maja Matarić started her career, the field she wanted to work in didn't exist. So she helped create it. In 2005, she defined a new area called socially assistive robotics — robots that provide personalized therapy and care through social interactions like conversation, games, and emotional responses. Today, as a professor at the University of Southern California, Matarić's robots are making a real difference. One of her most famous robots, Bandit, plays games with children who have autism spectrum disorder, offering words of affirmation and encouragement. More recently, her lab has developed robots that help students with anxiety and depression undergo cognitive behavioral therapy (CBT), a type of therapy that focuses on changing negative thought patterns. \"I've been very fortunate to be honored with several awards, which I am grateful for. But there was something very special about getting the MassRobotics medal,\" Matarić said after receiving the 2025 Robotics Medal from MassRobotics, which recognizes female researchers advancing robotics. \"Everyone was just smiling, and there was a great sense of love.\" Matarić's path to robotics wasn't straightforward. Born in Belgrade, Serbia, she moved to the US after her father died when she was 16. She earned a bachelor's in computer science from the University of Kansas, then pursued graduate studies at MIT's AI Lab, where she worked with Rodney Brooks on behavior-based robots. For her master's thesis, she developed Toto, the first navigating behavior-based robot, which used sonar to map buildings. \"In retrospect, I've always been an engineer,\" Matarić says. \"But I didn't set out specifically thinking of myself as one — which is just one of the many things I like to convey to young people: You don't always have to know exactly everything in advance.\" Her work continues to push boundaries, exploring how robots can improve communication skills and mental health.",
+  "why_it_matters": "This work points to a future where robots could supplement mental health care, especially for young people who may feel uncomfortable talking to a human therapist. It also raises important questions about privacy, dependence on technology, and the role of human connection in therapy.",
+  "image_url": "/article_images/article_899b00432444.webp",
+  "keywords": [
+    {
+      "term": "socially assistive robotics",
+      "explanation": "A field defined by Maja Matarić in 2005 where robots provide therapy through social interaction."
+    },
+    {
+      "term": "Bandit",
+      "explanation": "A robot that plays games with children on the autism spectrum and offers words of affirmation."
+    },
+    {
+      "term": "MassRobotics",
+      "explanation": "An organization that awarded Matarić the 2025 Robotics Medal for women in robotics."
+    },
+    {
+      "term": "Toto",
+      "explanation": "The first navigating behavior-based robot, created by Matarić for her master's thesis, which used sonar to map buildings."
+    }
+  ],
+  "questions": [
+    {
+      "question": "When did Maja Matarić define the field of socially assistive robotics?",
+      "options": [
+        "2005",
+        "2010",
+        "1999",
+        "2025"
+      ],
+      "correct_answer": "2005"
+    },
+    {
+      "question": "What is the name of the robot that plays with children with autism?",
+      "options": [
+        "Bandit",
+        "Toto",
+        "Kismet",
+        "Cozmo"
+      ],
+      "correct_answer": "Bandit"
+    },
+    {
+      "question": "Which university is Matarić a professor at?",
+      "options": [
+        "University of Southern California",
+        "MIT",
+        "University of Kansas",
+        "Stanford University"
+      ],
+      "correct_answer": "University of Southern California"
+    },
+    {
+      "question": "What award did Matarić receive in 2025?",
+      "options": [
+        "Robotics Medal from MassRobotics",
+        "IEEE Robotics and Automation Award",
+        "Nobel Prize in Engineering",
+        "Turing Award"
+      ],
+      "correct_answer": "Robotics Medal from MassRobotics"
+    },
+    {
+      "question": "What was the name of the first navigating behavior-based robot she developed?",
+      "options": [
+        "Toto",
+        "Bandit",
+        "Hero",
+        "Rover"
+      ],
+      "correct_answer": "Toto"
+    },
+    {
+      "question": "Where was Matarić born?",
+      "options": [
+        "Belgrade, Serbia",
+        "Zagreb, Croatia",
+        "Sarajevo, Bosnia",
+        "Ljubljana, Slovenia"
+      ],
+      "correct_answer": "Belgrade, Serbia"
+    }
+  ],
+  "background_read": [
+    "The field of socially assistive robotics (SAR) emerged from the intersection of robotics, artificial intelligence, and psychology. Unlike industrial robots, SAR focuses on helping humans through social interaction rather than physical tasks.",
+    "Maja Matarić's PhD advisor at MIT was Rodney Brooks, a pioneer in behavior-based robotics who argued that robots should operate in the real world using simple sensor responses rather than complex internal models. This influenced Matarić's approach to building socially interactive robots.",
+    "Autism spectrum disorder (ASD) affects about 1 in 36 children in the US, according to the CDC. Many children with ASD struggle with social communication, which makes robot-assisted therapy a promising area because robots can provide consistent, non-judgmental interaction.",
+    "Cognitive Behavioral Therapy (CBT) is one of the most widely studied psychotherapies for anxiety and depression. It works by helping patients identify and challenge distorted thinking. Having a robot guide a student through CBT exercises could make the therapy more accessible and less intimidating."
+  ],
+  "Article_Structure": [
+    "LEAD: 'When Maja Matarić started her career, the field she wanted to work in didn't exist.'",
+    "  └─ specific: 'So she helped create it.'",
+    "DEFINITION: Socially assistive robotics coined in 2005",
+    "  ├─ Goal: Robots provide personalized therapy through social interaction",
+    "  └─ Key difference: focus on social, not physical, assistance",
+    "EXAMPLES:",
+    "  ├─ Bandit: plays games with children with autism, offers affirmation",
+    "  └─ Robot for anxiety/depression: guides students through CBT exercises",
+    "PERSONAL STORY:",
+    "  ├─ Born in Belgrade, moved to US at 16 after father's death",
+    "  ├─ Bachelor's in CS from University of Kansas",
+    "  └─ PhD at MIT AI Lab with Rodney Brooks; created Toto (first navigating behavior-based robot)",
+    "ACHIEVEMENT: 2025 Robotics Medal from MassRobotics",
+    "  └─ Quote: 'Everyone was just smiling, and there was a great sense of love.'",
+    "MESSAGE: 'You don't always have to know exactly everything in advance.'",
+    "FUTURE: Continuing to explore how robots can improve communication and mental health"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Positive",
+      "description": "Patients, especially children with autism or anxiety, may benefit from a robot that never gets tired, frustrated, or judgmental. Schools and clinics could offer low-cost mental health support using such robots."
+    },
+    {
+      "perspective": "Negative / Critical",
+      "description": "Critics worry that relying on robots for emotional support could reduce human interaction, which is vital for developing social skills. There are also privacy concerns: the robots collect sensitive data about a user's emotional state."
+    },
+    {
+      "perspective": "Neutral / Analytical",
+      "description": "Matarić's work is part of a broader trend of using AI and robotics in healthcare. The field faces challenges in making robots affordable, safe, and effective across diverse populations. Long-term studies are needed to compare robot-assisted therapy with traditional methods."
+    },
+    {
+      "perspective": "Forward-looking",
+      "description": "As robots become more sophisticated and better at recognizing and responding to emotions, they could become standard tools in schools and homes. Future research may focus on personalization, cultural adaptation, and integrating robots with other digital therapies."
+    }
+  ],
+  "mined_at": "2026-04-25T01:32:00+00:00",
+  "source_published_at": "Mon, 20 Apr 2026 18:00:02 +0000",
+  "source_name": "IEEE Spectrum",
+  "source_url": "https://spectrum.ieee.org/socially-assistive-robotics"
+}

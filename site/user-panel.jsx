@@ -41,9 +41,13 @@ function getAvatar(id) {
 }
 
 // —————————— USER BUTTON (in header) ——————————
-function UserButton({ tweaks, onClick, streak }) {
+function UserButton({ tweaks, onClick, streak, level }) {
   const av = getAvatar(tweaks.avatar);
-  const lvl = LEVEL_OPTIONS.find(l => l.id === tweaks.level) || LEVEL_OPTIONS[1];
+  // Prefer the prop `level` (app's authoritative state used for content
+  // filtering) over `tweaks.level` (a mirror that can drift on legacy
+  // installs). Falls back to tweaks for the iframe-edit-mode preview.
+  const activeLevel = level || tweaks.level;
+  const lvl = LEVEL_OPTIONS.find(l => l.id === activeLevel) || LEVEL_OPTIONS[1];
   return (
     <button onClick={onClick} style={{
       display:'flex', alignItems:'center', gap:10,
@@ -65,7 +69,19 @@ function UserButton({ tweaks, onClick, streak }) {
       <div style={{textAlign:'left', lineHeight:1.1}}>
         <div style={{fontWeight:900, fontSize:14, color:'#1b1230'}}>{tweaks.userName || 'Me'}</div>
         <div style={{fontSize:11, color:'#6b5c80', fontWeight:700, display:'flex', gap:6, alignItems:'center'}}>
-          <span>{lvl.emoji} {lvl.id}</span>
+          {tweaks.language === 'zh' ? (
+            // Chinese mode: show flag + 中文; level is irrelevant
+            // (Chinese variants are summary-only at Sprout level only).
+            <span>🇨🇳 中文</span>
+          ) : (
+            // English mode: show language flag + reading level so users
+            // see at a glance both axes of their choice.
+            <>
+              <span>🇬🇧 EN</span>
+              <span style={{color:'#d0c4b4'}}>·</span>
+              <span>{lvl.emoji} {lvl.id}</span>
+            </>
+          )}
           <span style={{color:'#d0c4b4'}}>·</span>
           <span>🔥 {streak}</span>
         </div>
@@ -76,11 +92,17 @@ function UserButton({ tweaks, onClick, streak }) {
 }
 
 // —————————— USER PANEL (slide-in drawer) ——————————
-function UserPanel({ tweaks, updateTweak, level, setLevel, onClose }) {
+function UserPanel({ tweaks, updateTweak, level, setLevel, onClose, progress }) {
   const av = getAvatar(tweaks.avatar);
   const [tab, setTab] = useStateU('learn'); // learn | look | me
 
   const setLevelBoth = (lv) => { setLevel(lv); updateTweak('level', lv); };
+
+  // Real progression numbers (not MOCK_USER):
+  // - storiesRead = articles read today (only metric we track now)
+  // - badges = milestone count: 1 badge per 3 stories read today
+  const storiesRead = ((progress && progress.readToday) || []).length;
+  const badges = Math.floor(storiesRead / 3);
 
   return (
     <>
@@ -316,10 +338,10 @@ function UserPanel({ tweaks, updateTweak, level, setLevel, onClose }) {
 
               <Section label="Your progress" sub="">
                 <div style={{display:'grid', gridTemplateColumns:'1fr 1fr', gap:10}}>
-                  <BigStat icon="🔥" val={`${tweaks.streakDays ?? 7}`} label="Day streak"/>
-                  <BigStat icon="⭐" val={`${tweaks.xp ?? 240}`} label="XP earned"/>
-                  <BigStat icon="📖" val="23" label="Stories read"/>
-                  <BigStat icon="🏆" val="4" label="Badges"/>
+                  <BigStat icon="🔥" val={`${tweaks.streakDays ?? 0}`} label="Day streak"/>
+                  <BigStat icon="⭐" val={`${tweaks.xp ?? 0}`} label="XP earned"/>
+                  <BigStat icon="📖" val={`${storiesRead}`} label="Stories today"/>
+                  <BigStat icon="🏆" val={`${badges}`} label="Badges"/>
                 </div>
               </Section>
 

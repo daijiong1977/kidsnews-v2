@@ -1,0 +1,119 @@
+{
+  "title": "Meet the Robot That Helps Kids with Anxiety",
+  "summary": "What if a robot could be your friend and help you feel better? That's exactly what Professor Maja Matarić has been working on. She is a scientist at the University of Southern California who created a whole new field called socially assistive robotics. That means robots that help people by talking, playing games, and responding to emotions. One of her robots, named Bandit, plays games with children who have autism spectrum disorder and gives them words of encouragement. Another robot helps students with anxiety and depression by guiding them through cognitive behavioral therapy (a type of therapy that changes negative thoughts). Matarić didn't always know she wanted to be an engineer. She grew up in Belgrade, Serbia, and moved to the US after her father died. She studied computer science and later got her PhD at MIT. In 2025, she won the Robotics Medal from MassRobotics, a big award for women in robotics. \"There was something very special about getting the MassRobotics medal,\" she said. \"Everyone was just smiling, and there was a great sense of love.\" Matarić hopes her story inspires kids to try new things, even if they don't know exactly what they want to do yet.",
+  "why_it_matters": "This shows how technology can be used to help people feel better, and it might inspire you to try something new even if you don't know exactly what you want to do.",
+  "image_url": "/article_images/article_899b00432444.webp",
+  "keywords": [
+    {
+      "term": "robot",
+      "explanation": "A machine that can do tasks and interact with people."
+    },
+    {
+      "term": "Maja Matarić",
+      "explanation": "A scientist who created robots that help people feel better."
+    },
+    {
+      "term": "socially assistive robotics",
+      "explanation": "A field where robots help people by talking, playing, and responding to emotions."
+    },
+    {
+      "term": "Bandit",
+      "explanation": "A robot that plays with children who have autism and encourages them."
+    },
+    {
+      "term": "autism",
+      "explanation": "A condition that affects how a person communicates and interacts with others."
+    },
+    {
+      "term": "cognitive behavioral therapy",
+      "explanation": "A type of therapy that helps change negative thoughts."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is the name of the scientist who created socially assistive robotics?",
+      "options": [
+        "Maja Matarić",
+        "Anna Gülcher",
+        "Fernando Garberoglio",
+        "Rodney Brooks"
+      ],
+      "correct_answer": "Maja Matarić"
+    },
+    {
+      "question": "What is the name of the robot that plays with children who have autism?",
+      "options": [
+        "Bandit",
+        "Toto",
+        "Sophia",
+        "Asimo"
+      ],
+      "correct_answer": "Bandit"
+    },
+    {
+      "question": "What kind of therapy does another robot guide students through?",
+      "options": [
+        "Cognitive behavioral therapy",
+        "Physical therapy",
+        "Art therapy",
+        "Music therapy"
+      ],
+      "correct_answer": "Cognitive behavioral therapy"
+    },
+    {
+      "question": "In 2025, what award did Maja Matarić win?",
+      "options": [
+        "Robotics Medal from MassRobotics",
+        "Nobel Prize",
+        "Turing Award",
+        "Academy Award"
+      ],
+      "correct_answer": "Robotics Medal from MassRobotics"
+    },
+    {
+      "question": "Where did Maja Matarić grow up?",
+      "options": [
+        "Belgrade, Serbia",
+        "New York, USA",
+        "London, UK",
+        "Tokyo, Japan"
+      ],
+      "correct_answer": "Belgrade, Serbia"
+    },
+    {
+      "question": "What does Maja Matarić hope kids learn from her story?",
+      "options": [
+        "To try new things even if they're not sure",
+        "To only study robotics",
+        "To always have a plan",
+        "To become a scientist immediately"
+      ],
+      "correct_answer": "To try new things even if they're not sure"
+    }
+  ],
+  "background_read": [
+    "Some robots are already used in hospitals and schools to help people with special needs.",
+    "Socially assistive robots are different from factory robots because they focus on interacting with humans.",
+    "Cognitive behavioral therapy has been used for decades to help people with anxiety and depression."
+  ],
+  "Article_Structure": [
+    "WHO: Professor Maja Matarić at the University of Southern California",
+    "WHAT: Created robots that help children with anxiety, depression, and autism through conversation and games",
+    "WHERE: At the University of Southern California",
+    "WHY: To use technology to improve mental health and encourage kids to explore new fields"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Children and families",
+      "description": "Kids with autism or anxiety may get extra support from a robot that never gets tired or frustrated."
+    },
+    {
+      "perspective": "Teachers and therapists",
+      "description": "They see robots as a helpful tool, but worry that robots can't replace human care."
+    }
+  ],
+  "mined_at": "2026-04-25T01:32:00+00:00",
+  "source_published_at": "Mon, 20 Apr 2026 18:00:02 +0000",
+  "source_name": "IEEE Spectrum",
+  "source_url": "https://spectrum.ieee.org/socially-assistive-robotics"
+}
