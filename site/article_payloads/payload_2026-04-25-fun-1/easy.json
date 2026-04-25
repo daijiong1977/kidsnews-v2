@@ -1,32 +1,32 @@
 {
-  "title": "How Did People Learn About the Declaration of Independence in 1776?",
-  "summary": "Imagine no internet, no TV, no phones. How would you find out that your country just declared independence? That's what happened in 1776. A new book by historian Emily Sneff, called *When the Declaration of Independence Was News*, tells the story.\n\nThe Declaration was adopted on July 4, 1776. That same day, a printer named John Dunlap made the first copies. They were big sheets called broadsides. These were sent to leaders and newspapers across the 13 colonies. People gathered in town squares to hear the Declaration read aloud. Many cheered and tore down symbols of the British king.\n\nBut not everyone was happy. Some people were worried about what would happen next. And the news took a long time to spread. It wasn't until January 1777 that a printer named Mary Katharine Goddard made copies that included the signers' names. By then, the Declaration was already old news.\n\nToday, the original signed parchment sits behind bulletproof glass at the National Archives in Washington, D.C. But back then, it was just breaking news.",
-  "why_it_matters": "This story shows how hard it was for news to travel before technology, and it reminds us how lucky we are to get information instantly on our phones or computers.",
-  "image_url": "/article_images/article_5f691c283a19.webp",
+  "title": "The Baby Race That Shocked Canada",
+  "summary": "Imagine a contest where the winner is the mom who has the most babies! That's what happened in Canada almost 100 years ago. A rich man named Charles Vance Millar died in 1926. He was a prankster who loved jokes. In his will, he left money to the Toronto mother who gave birth to the most children in 10 years. The prize was worth about 9 million Canadian dollars today! The contest was called the Great Stork Derby. Newspapers followed the leading moms closely. One woman, Grace Bagnato, had 20 children. Another, Florence Brown, had 26. Brown said she didn't want an Italian woman to win. At that time, many people thought big families were bad. Birth control was illegal, and some people worried that poor or immigrant families were having too many kids. The derby sparked huge debates. Some people thought Millar was making fun of those ideas. The contest ended in 1936, and four women shared the money. It was a weird, wild story that showed how tough life was during the Great Depression.",
+  "why_it_matters": "This shows that sometimes people make strange rules, and it reminds us that ideas about families and fairness have changed over time.",
+  "image_url": "/article_images/article_088d5f57808b.webp",
   "keywords": [
     {
-      "term": "Declaration of Independence",
-      "explanation": "The official statement that said the American colonies were free from British rule."
+      "term": "prankster",
+      "explanation": "a person who likes to play funny tricks."
     },
     {
-      "term": "historian",
-      "explanation": "A person who studies and writes about history."
+      "term": "will",
+      "explanation": "a legal paper that says who gets a person's money after they die."
     },
     {
-      "term": "adopted",
-      "explanation": "Formally accepted or approved, like a new law or rule."
+      "term": "immigrant",
+      "explanation": "a person who moves to a new country to live."
     },
     {
-      "term": "printer",
-      "explanation": "A person or machine that makes copies of words on paper."
+      "term": "Great Depression",
+      "explanation": "a hard time in the 1930s when many people were poor and had no jobs."
     },
     {
-      "term": "broadsides",
-      "explanation": "Large sheets of paper with news printed on one side only."
+      "term": "Great Stork Derby",
+      "explanation": "the name of the baby contest in Canada."
     },
     {
-      "term": "parchment",
-      "explanation": "A special animal skin used for writing important documents long ago."
+      "term": "debates",
+      "explanation": "discussions where people argue different ideas."
     },
     {
       "term": "Imagine",
@@ -34,13 +34,18 @@
       "explanation": ""
     },
     {
-      "term": "declared",
-      "rank": 5442,
+      "term": "contest",
+      "rank": 3545,
       "explanation": ""
     },
     {
-      "term": "independence",
-      "rank": 4658,
+      "term": "winner",
+      "rank": 3433,
+      "explanation": ""
+    },
+    {
+      "term": "babies",
+      "rank": 5003,
       "explanation": ""
     },
     {
@@ -54,105 +59,105 @@
       "explanation": ""
     },
     {
-      "term": "Emily",
-      "rank": 6915,
+      "term": "rich",
+      "rank": 2151,
       "explanation": ""
     },
     {
-      "term": "Sneff",
-      "rank": null,
+      "term": "named",
+      "rank": 2340,
       "explanation": ""
     }
   ],
   "questions": [
     {
-      "question": "On what date was the Declaration of Independence adopted?",
+      "question": "What was the prize in the Great Stork Derby?",
       "options": [
-        "July 4, 1776",
-        "January 1, 1777",
-        "June 14, 1776",
-        "August 2, 1776"
+        "A house",
+        "Money",
+        "A car",
+        "A trip to Europe"
       ],
-      "correct_answer": "July 4, 1776"
+      "correct_answer": "Money"
     },
     {
-      "question": "Who printed the first copies of the Declaration?",
+      "question": "Who started the contest?",
       "options": [
-        "Mary Katharine Goddard",
-        "John Dunlap",
-        "Emily Sneff",
-        "Benjamin Franklin"
+        "Grace Bagnato",
+        "Florence Brown",
+        "Charles Vance Millar",
+        "The mayor of Toronto"
       ],
-      "correct_answer": "John Dunlap"
+      "correct_answer": "Charles Vance Millar"
     },
     {
-      "question": "What were the first copies of the Declaration called?",
+      "question": "How many children did Florence Brown have?",
       "options": [
-        "newspapers",
-        "broadsides",
-        "pamphlets",
-        "books"
+        "20",
+        "26",
+        "15",
+        "30"
       ],
-      "correct_answer": "broadsides"
+      "correct_answer": "26"
     },
     {
-      "question": "How did people first hear the Declaration?",
+      "question": "When did the contest end?",
       "options": [
-        "on the radio",
-        "in town squares read aloud",
-        "on television",
-        "by reading it at home"
+        "1926",
+        "1930",
+        "1936",
+        "1940"
       ],
-      "correct_answer": "in town squares read aloud"
+      "correct_answer": "1936"
     },
     {
-      "question": "Who made copies that included the signers' names?",
+      "question": "Why did some people worry about the contest?",
       "options": [
-        "John Dunlap",
-        "Emily Sneff",
-        "Mary Katharine Goddard",
-        "Thomas Jefferson"
+        "Too many Italian women were winning",
+        "Immigrant families were having too many kids",
+        "The prize was too small",
+        "Mothers were getting hurt"
       ],
-      "correct_answer": "Mary Katharine Goddard"
+      "correct_answer": "Immigrant families were having too many kids"
     },
     {
-      "question": "Where is the original signed Declaration today?",
+      "question": "How many women shared the prize money?",
       "options": [
-        "in a museum in Boston",
-        "at the National Archives in Washington, D.C.",
-        "in the British Library",
-        "in a church in Philadelphia"
+        "Two",
+        "Three",
+        "Four",
+        "Five"
       ],
-      "correct_answer": "at the National Archives in Washington, D.C."
+      "correct_answer": "Four"
     }
   ],
   "background_read": [
-    "The Declaration of Independence was written by Thomas Jefferson (one of the Founding Fathers of the United States).",
-    "It announced that the 13 American colonies were starting their own country, separate from Great Britain.",
-    "Back then, news spread on horseback or by ship, so it could take weeks or months for people to hear about big events."
+    "Charles Vance Millar was a Canadian lawyer who liked playing jokes. He made this contest in his will.",
+    "The contest happened during the Great Depression, a time in the 1930s when many people had very little money and jobs were hard to find.",
+    "In those days, birth control was against the law in Canada, and some people thought only certain families should have many children."
   ],
   "Article_Structure": [
-    "WHO: The colonists, including printers John Dunlap and Mary Katharine Goddard, and historian Emily Sneff who wrote about it.",
-    "WHAT: The Declaration of Independence was adopted and then spread as news through printed broadsides and public readings.",
-    "WHERE: Throughout the 13 American colonies (the future United States).",
-    "WHY: To tell everyone that the colonies had declared independence from Britain."
+    "WHO: Charles Vance Millar and the mothers like Grace Bagnato and Florence Brown.",
+    "WHAT: A contest where the woman with the most babies in 10 years won money.",
+    "WHERE: Toronto, Canada.",
+    "WHY: Millar wanted to make a point about social ideas about families and immigration."
   ],
   "perspectives": [
     {
-      "perspective": "Excited colonists",
-      "description": "Many people were happy and cheered when they heard the Declaration, tearing down symbols of the British king."
+      "perspective": "Fun and funny contest",
+      "description": "Some people thought the contest was a joke and showed how silly it was to judge which families should have children."
     },
     {
-      "perspective": "Worried colonists",
-      "description": "Some people were scared about what would happen next, because war with Britain had already started."
+      "perspective": "Harmful for poor families",
+      "description": "Others worried that the contest would make poor women have more children than they could feed."
     },
     {
-      "perspective": "The printers",
-      "description": "Printers like John Dunlap and Mary Katharine Goddard worked hard to make copies and spread the news quickly."
+      "perspective": "Important debate",
+      "description": "The contest started big discussions about birth control and immigration that were important in Canada at that time."
     }
   ],
-  "mined_at": "2026-04-25T07:06:51+00:00",
-  "source_published_at": "Mon, 13 Apr 2026 11:45:00 +0000",
+  "mined_at": "2026-04-25T16:45:58+00:00",
+  "source_published_at": "Wed, 22 Apr 2026 11:45:00 +0000",
   "source_name": "Smithsonian History",
-  "source_url": "https://www.smithsonianmag.com/history/in-1776-the-declaration-of-independence-was-breaking-news-heres-how-the-founding-document-reached-the-american-public-180988494/"
+  "source_url": "https://www.smithsonianmag.com/history/an-eccentric-tycoon-left-a-fortune-to-the-winner-of-a-baby-making-contest-the-great-stork-derby-divided-canadians-during-the-great-depression-180988575/"
 }

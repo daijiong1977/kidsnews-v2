@@ -1,41 +1,36 @@
 {
-  "title": "Students Build a Giant Old Computer!",
-  "summary": "Imagine building a computer that fills an entire room! That's exactly what a group of students in Arizona did. They built a full-size replica of ENIAC, one of the very first electronic computers ever made.\n\nENIAC was built in the 1940s. It was about a thousand times faster than other machines at the time. But it was huge—it took up a whole room and used thousands of vacuum tubes (like old-fashioned light bulbs).\n\nThe teacher who led the project is Tom Burick. He teaches technology at PS Academy in Gilbert, Arizona, a school for students with autism and other special learning needs. Burick knows what it's like to learn differently—he has dyscalculia, which makes traditional math hard. But he says it's actually a superpower because it helps him think in 3D and solve problems in creative ways.\n\nBurick's students worked together to build the replica for the 80th anniversary of ENIAC. They used their strengths, like being able to focus intensely and repeat tasks precisely. \"I didn't want my technology program to feel like craft hour,\" Burick says. Instead, they built something real and historic.\n\nBurick used to own a robotics company, but after it closed, he decided to become a teacher. He wanted to \"pay forward\" the help he got from mentors when he was young. Now he's inspiring a new generation of builders.",
-  "why_it_matters": "This story shows that everyone has unique strengths—even a challenge like dyscalculia can become a superpower—and that working together can create something historic.",
+  "title": "Teacher and Students Build Life-Size Replica of One of the First Computers",
+  "summary": "What if you built a giant computer from the 1940s? That's exactly what a teacher and his students did!\n\nTom Burick teaches technology at PS Academy in Arizona, a school for students with autism and other special needs. He and his class built a full-size copy of ENIAC, one of the world's first electronic computers. ENIAC was huge—it filled a whole room! The project celebrates the 80th anniversary of ENIAC's construction.\n\nBurick used to own a robotics company. When it closed, he decided to become a teacher. \"I had so many amazing people help me when I was young,\" he says. \"I thought I need to pay that forward.\"\n\nBurick has dyscalculia, a learning difference that makes math hard. But he says it's also a superpower. \"I have this CAD program that runs in my head 24 hours a day,\" he explains. He wants his students to see their own differences as strengths.\n\nThe ENIAC replica looks exactly like the original did before it was taken apart in the 1950s. Building it helped students practice skills like hyperfocus and repeating tasks precisely. \"I didn't want my technology program to feel like craft hour,\" Burick says. Instead, it's a real, hands-on history lesson.",
+  "why_it_matters": "This project shows that building real things can be a great way to learn about history, and that people with learning differences can use them as superpowers, which inspires kids to embrace their own unique talents.",
   "image_url": "/article_images/article_21c54d43fb4f.webp",
   "keywords": [
     {
-      "term": "vacuum tubes",
-      "explanation": "Old-fashioned light-bulb-like parts that early computers used to work."
-    },
-    {
-      "term": "dyscalculia",
-      "explanation": "A learning challenge that makes it hard for someone to do math or understand numbers."
+      "term": "ENIAC",
+      "explanation": "One of the world's first electronic computers, built in the 1940s, as big as a whole room."
     },
     {
       "term": "replica",
-      "explanation": "An exact copy of something, built again."
-    },
-    {
-      "term": "ENIAC",
-      "explanation": "One of the very first electronic computers, so big it filled a whole room."
+      "explanation": "An exact copy of something, built to look the same."
     },
     {
       "term": "autism",
-      "explanation": "A way of thinking and learning that can make someone great at focusing and repeating tasks."
+      "explanation": "A condition that affects how a person communicates and interacts with others, and sometimes gives them special talents."
     },
     {
-      "term": "mentors",
-      "explanation": "Experienced people who give advice and help to someone younger or newer."
+      "term": "dyscalculia",
+      "explanation": "A learning difference that makes it hard to understand math, like numbers and calculations."
     },
     {
-      "term": "Imagine",
-      "rank": 4050,
-      "explanation": ""
+      "term": "CAD program",
+      "explanation": "Computer-Aided Design software used to create detailed 3D models on a computer."
     },
     {
-      "term": "fills",
-      "rank": null,
+      "term": "hyperfocus",
+      "explanation": "The ability to concentrate very intensely on one task for a long time."
+    },
+    {
+      "term": "giant",
+      "rank": 4100,
       "explanation": ""
     },
     {
@@ -49,104 +44,114 @@
       "explanation": ""
     },
     {
-      "term": "Arizona",
-      "rank": 2043,
+      "term": "Burick",
+      "rank": null,
       "explanation": ""
     },
     {
-      "term": "full-size",
-      "rank": null,
+      "term": "teaches",
+      "rank": 9260,
+      "explanation": ""
+    },
+    {
+      "term": "Academy",
+      "rank": 2703,
+      "explanation": ""
+    },
+    {
+      "term": "Arizona",
+      "rank": 2043,
       "explanation": ""
     }
   ],
   "questions": [
     {
-      "question": "What is ENIAC?",
+      "question": "What did Tom Burick and his students build?",
       "options": [
-        "A type of smartphone",
-        "One of the first electronic computers",
-        "A video game console",
-        "A space satellite"
+        "A modern computer",
+        "A replica of ENIAC",
+        "A robot",
+        "A car"
       ],
-      "correct_answer": "One of the first electronic computers"
+      "correct_answer": "A replica of ENIAC"
     },
     {
-      "question": "Who led the student project to build a replica of ENIAC?",
+      "question": "Where is their school?",
       "options": [
-        "Albert Einstein",
-        "Tom Burick",
-        "Mor Naaman",
-        "Mansi Kasliwal"
+        "New York",
+        "Arizona",
+        "Texas",
+        "California"
       ],
-      "correct_answer": "Tom Burick"
+      "correct_answer": "Arizona"
     },
     {
-      "question": "What learning challenge does Tom Burick have?",
+      "question": "What condition does Tom Burick have that he calls a superpower?",
       "options": [
-        "Dyslexia",
+        "Autism",
         "Dyscalculia",
         "ADHD",
-        "Autism"
+        "Dyslexia"
       ],
       "correct_answer": "Dyscalculia"
     },
     {
-      "question": "Where is PS Academy located?",
+      "question": "What special skills did students practice while building the replica?",
       "options": [
-        "Phoenix, Arizona",
-        "Gilbert, Arizona",
-        "Tucson, Arizona",
-        "Mesa, Arizona"
+        "Running fast",
+        "Hyperfocus and repeating tasks precisely",
+        "Painting",
+        "Singing"
       ],
-      "correct_answer": "Gilbert, Arizona"
+      "correct_answer": "Hyperfocus and repeating tasks precisely"
+    },
+    {
+      "question": "What does Tom Burick have that he says runs in his head 24 hours a day?",
+      "options": [
+        "A computer",
+        "A CAD program",
+        "A puzzle",
+        "A song"
+      ],
+      "correct_answer": "A CAD program"
     },
     {
       "question": "Why did Tom Burick become a teacher?",
       "options": [
-        "He wanted to earn more money",
-        "He wanted to pay forward the help he got from mentors",
-        "He couldn’t find a job in robotics",
-        "The school offered him a free house"
+        "He needed a job",
+        "He wanted to help others like people helped him",
+        "He liked kids",
+        "He couldn't find another job"
       ],
-      "correct_answer": "He wanted to pay forward the help he got from mentors"
-    },
-    {
-      "question": "How big was the original ENIAC?",
-      "options": [
-        "Filled a desk",
-        "Filled a whole room",
-        "Filled a house",
-        "Filled a stadium"
-      ],
-      "correct_answer": "Filled a whole room"
+      "correct_answer": "He wanted to help others like people helped him"
     }
   ],
   "background_read": [
-    "ENIAC was built in 1945 at the University of Pennsylvania; it was used to calculate artillery tables for the U.S. Army and was one of the first electronic general-purpose computers.",
-    "PS Academy (the school in Gilbert, Arizona) is a place that helps students with autism and other special learning needs feel supported and learn in their own way.",
-    "Vacuum tubes were the technology before computer chips; ENIAC used about 18,000 of them and they often burned out."
+    "ENIAC was the first electronic general-purpose computer, built in 1945 at the University of Pennsylvania.",
+    "It filled a whole room and used thousands of vacuum tubes.",
+    "The replica built by the teacher and students looks exactly like the original before it was taken apart in the 1950s."
   ],
   "Article_Structure": [
-    "WHO: Teacher Tom Burick and his students at PS Academy in Gilbert, Arizona.",
-    "WHAT: They built a full-size working replica of ENIAC, an early computer from the 1940s.",
-    "WHERE: At PS Academy, a school for students with autism and other special needs in Arizona.",
-    "WHY: To celebrate ENIAC's 80th anniversary and show that students with learning differences can do amazing things."
+    "WHO: Tom Burick, a technology teacher at PS Academy in Arizona, and his students.",
+    "WHAT: Built a full-size replica of ENIAC, one of the first electronic computers, to celebrate its 80th anniversary.",
+    "WHERE: At PS Academy in Arizona, USA.",
+    "WHY: To give students a hands-on history lesson and help them see their own learning differences as strengths."
   ],
   "perspectives": [
     {
-      "perspective": "Student with autism",
-      "description": "A student in the project feels proud that their ability to focus and repeat tasks helped build a real piece of history."
+      "perspective": "Inspiring for education",
+      "description": "The teacher and students worked together to build something amazing, showing that hands-on projects can make learning fun and memorable."
     },
     {
-      "perspective": "Teacher and mentor",
-      "description": "Tom Burick believes that turning his own math challenge into a 3D-thinking strength lets him inspire kids who learn differently."
+      "perspective": "Challenges of building a big replica",
+      "description": "Building a life-size replica of a 1940s computer takes a lot of time, materials, and effort, which might be difficult for other schools to do."
     },
     {
-      "perspective": "Technology historian",
-      "description": "Historians appreciate that students are learning computer history by actually building a machine, not just reading about it."
+      "perspective": "Celebrating diversity",
+      "description": "The project highlights that students with autism and dyscalculia can achieve great things when they use their unique skills like hyperfocus."
     }
   ],
-  "mined_at": "2026-04-25T07:06:51+00:00",
+  "mined_at": "2026-04-25T16:45:58+00:00",
   "source_published_at": "Thu, 23 Apr 2026 13:00:01 +0000",
   "source_name": "IEEE Spectrum",
   "source_url": "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica"

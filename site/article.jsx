@@ -92,10 +92,14 @@ function ArticlePage({ articleId, onBack, onComplete, progress, setProgress }) {
     };
   }, [articleId, detail]);
 
-  // Per-step progress: each step finished = +1 toward the 15-point daily
-  // goal (3 articles × 4 steps × 1 + 1 completion bonus = 15). Idempotent
-  // — finishing the same step twice doesn't double-count.
+  // Per-step progress: each step contributes its weight (from
+  // SITE_CONFIG.stepWeights) to the daily counter. Idempotent —
+  // finishing the same step twice doesn't double-count. Daily goal:
+  //   storiesPerDay × sum(stepWeights) = SITE_CONFIG.dailyGoalMinutes
+  //   (kidsnews defaults: 3 × (2+1+2+2) = 21)
   const STEP_IDS = ['read', 'analyze', 'quiz', 'discuss'];
+  const STEP_WEIGHTS = (window.SITE_CONFIG && window.SITE_CONFIG.stepWeights) ||
+                       { read:1, analyze:1, quiz:1, discuss:1 };
   const bumpStep = (stageId) => {
     setProgress(p => {
       const ap = p.articleProgress || {};
@@ -110,16 +114,14 @@ function ArticlePage({ articleId, onBack, onComplete, progress, setProgress }) {
       const newSteps = [...curSteps, stageId];
       const fullyDone = STEP_IDS.every(s => newSteps.includes(s));
       const newAP = { ...cur, steps: newSteps };
+      const weight = STEP_WEIGHTS[stageId] || 1;
 
-      // +1 for this step. +1 more when this step completes the article.
-      let delta = 1;
       const next = { ...p };
       if (fullyDone && !p.readToday.includes(article.id)) {
-        delta += 1;
         next.readToday = [...p.readToday, article.id];
       }
       next.articleProgress = { ...ap, [article.id]: newAP };
-      next.minutesToday = (p.minutesToday || 0) + delta;
+      next.minutesToday = (p.minutesToday || 0) + weight;
       return next;
     });
   };
@@ -183,7 +185,7 @@ function ArticlePage({ articleId, onBack, onComplete, progress, setProgress }) {
           }}>← Back</button>
           <div style={{display:'flex', alignItems:'center', gap:10}}>
             <OhYeLogo size={32}/>
-            <div style={{fontFamily:'Fraunces, serif', fontWeight:900, fontSize:18, color:'#1b1230'}}>News Oh,Ye!</div>
+            <div style={{fontFamily:'Fraunces, serif', fontWeight:900, fontSize:18, color:'#1b1230'}}>{window.SITE_CONFIG?.brand || '21 minutes every day'}</div>
           </div>
           <div style={{flex:1}}/>
           <div style={{display:'flex', alignItems:'center', gap:6}}>
@@ -551,10 +553,20 @@ function KeywordCard({ kw, idx, expanded, onToggle }) {
       transition:'all .2s',
       boxShadow:'0 2px 0 rgba(27,18,48,0.06)',
     }}>
-      <button onClick={onToggle} style={{
-        all:'unset', cursor:'pointer', width:'100%',
-        display:'flex', alignItems:'center', gap:8,
-      }}>
+      {/* Outer = div role=button to avoid invalid <button> nesting (React
+          validateDOMNesting warning). The inner speak control stays a real
+          <button> for screen-reader semantics; its onSpeak stops propagation
+          so toggling and speaking remain independent. */}
+      <div
+        role="button"
+        tabIndex={0}
+        onClick={onToggle}
+        onKeyDown={e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); onToggle(); } }}
+        style={{
+          cursor:'pointer', width:'100%',
+          display:'flex', alignItems:'center', gap:8,
+          outline:'none',
+        }}>
         <div style={{fontFamily:'Fraunces, serif', fontWeight:800, fontSize:16, color: expanded ? '#fff' : palette.c, flex:1}}>{kw.term}</div>
         <button onClick={onSpeak}
           title="Read this word aloud"
@@ -566,7 +578,7 @@ function KeywordCard({ kw, idx, expanded, onToggle }) {
             background: expanded ? 'rgba(255,255,255,0.2)' : 'rgba(27,18,48,0.06)',
             fontSize:14,
           }}>🔊</button>
-      </button>
+      </div>
       {expanded && <div style={{fontSize:12, lineHeight:1.4, marginTop:6}}>{kw.def}</div>}
       {!expanded && <div style={{fontSize:11, fontWeight:700, opacity:.65, marginTop:4}}>Tap to reveal →</div>}
     </div>

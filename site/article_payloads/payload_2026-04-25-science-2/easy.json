@@ -1,158 +1,163 @@
 {
-  "title": "Is AI Auto-Complete Changing Your Mind?",
-  "summary": "Have you ever used auto-complete when typing a text or email? AI suggests words to finish your sentences. It can save time, but a new study says it might also be changing what you think—without you knowing.\n\nMor Naaman, a scientist at Cornell University, ran an experiment with over 2,500 people. Participants wrote short essays about social issues, like whether schools should use standardized tests or if felons should be allowed to vote. Some people wrote without any AI help. Others got suggestions from an AI that the researchers had secretly made biased.\n\nFor example, if someone started typing \"In my view...\" about the death penalty, the AI might suggest: \"...the death penalty should be illegal in America because it violates the Eighth Amendment.\" After writing, people rated their own opinion. Those who saw the AI's suggestions moved almost half a point closer to the AI's stance—even if they didn't use the suggestions. And 75% of them thought the AI was \"reasonable and balanced.\"\n\nNaaman says this is \"the subtlest of manipulations.\" He warns that if many people use biased AI to discuss politics, it could affect how they vote. His advice? Write down your own thoughts first, then use AI for help. That way, the idea is still yours.",
-  "why_it_matters": "This study is important because you use auto-complete when texting or doing homework, and now you know you should form your own opinion before letting AI fill in the blanks.",
-  "image_url": "/article_images/article_3bdbb707fd5a.webp",
+  "title": "Giant Underground Cave Found on Venus! Bigger Than Any on Earth",
+  "summary": "Did you know Venus has giant underground caves? Scientists just found one! It's a lava tube—a tunnel left behind when molten rock flows and then drains away. This one is huge: at least 375 meters deep and maybe up to 1 kilometer wide. That's bigger than any lava tube on Earth or Mars!\n\nHow did they find it? They looked at old radar images taken by NASA's Magellan spacecraft in the 1990s. Using new techniques, they spotted a collapsed \"skylight\"—a hole where the cave roof had fallen in. The skylight is near a volcano called Nyx Mons.\n\n\"It is remarkable that we are still extracting new insights from Magellan data,\" says planetary scientist Anna Gülcher.\n\nLava tubes on the Moon and Mars could one day shelter astronauts from radiation. But Venus is super harsh: the air pressure is 93 times Earth's, and it's hot enough to melt electronics. So people won't visit this tube anytime soon.\n\nStill, the discovery is exciting. Two new missions—NASA's VERITAS and Europe's EnVision—will launch before 2031. They'll carry advanced radar to map Venus in much higher detail. Who knows what other secrets they'll uncover?",
+  "why_it_matters": "This discovery shows that we can still learn new things from old space missions, and that Venus, despite being harsh, has interesting places that might be explored one day, sparking curiosity about our solar system.",
+  "image_url": "/article_images/article_355a6ec71c48.webp",
   "keywords": [
     {
-      "term": "auto-complete",
-      "explanation": "When your phone or computer guesses the next word you want to type."
+      "term": "lava tube",
+      "explanation": "A tunnel left behind when molten rock (lava) flows and then drains away."
     },
     {
-      "term": "biased",
-      "explanation": "Not fair or balanced; favoring one side over another."
+      "term": "skylight",
+      "explanation": "A hole in the ground where the roof of a cave has collapsed."
     },
     {
-      "term": "standardized tests",
-      "explanation": "Same test given to many students to compare their learning."
+      "term": "Magellan spacecraft",
+      "explanation": "A robot spacecraft sent by NASA in the 1990s to map the surface of Venus using radar."
     },
     {
-      "term": "felons",
-      "explanation": "People who have been found guilty of a serious crime."
+      "term": "VERITAS",
+      "explanation": "A planned NASA mission to map Venus in very high detail."
     },
     {
-      "term": "Eighth Amendment",
-      "explanation": "A rule in the US Constitution that says punishments must be fair and not too cruel."
+      "term": "EnVision",
+      "explanation": "A planned European space mission to study Venus."
     },
     {
-      "term": "manipulations",
-      "explanation": "Tricks used to control what someone thinks or does without them knowing."
+      "term": "planetary scientist",
+      "explanation": "A scientist who studies planets and other objects in space."
     },
     {
-      "term": "typing",
-      "rank": 8281,
-      "explanation": ""
-    },
-    {
-      "term": "suggests",
-      "rank": 4572,
-      "explanation": ""
-    },
-    {
-      "term": "finish",
-      "rank": 2652,
-      "explanation": ""
-    },
-    {
-      "term": "sentences",
-      "rank": 9109,
-      "explanation": ""
-    },
-    {
-      "term": "changing",
-      "rank": 2463,
-      "explanation": ""
-    },
-    {
-      "term": "knowing",
-      "rank": 4659,
-      "explanation": ""
-    },
-    {
-      "term": "Naaman",
+      "term": "Venus",
       "rank": null,
+      "explanation": ""
+    },
+    {
+      "term": "giant",
+      "rank": 4100,
+      "explanation": ""
+    },
+    {
+      "term": "underground",
+      "rank": 4180,
+      "explanation": ""
+    },
+    {
+      "term": "caves",
+      "rank": null,
+      "explanation": ""
+    },
+    {
+      "term": "Scientists",
+      "rank": 4127,
+      "explanation": ""
+    },
+    {
+      "term": "It's",
+      "rank": null,
+      "explanation": ""
+    },
+    {
+      "term": "lava",
+      "rank": null,
+      "explanation": ""
+    },
+    {
+      "term": "tube",
+      "rank": 4076,
       "explanation": ""
     }
   ],
   "questions": [
     {
-      "question": "Who ran the experiment about AI auto-complete?",
+      "question": "What did scientists find on Venus?",
       "options": [
-        "Bill Gates",
-        "Mor Naaman",
-        "Elon Musk",
-        "Tom Burick"
+        "A river",
+        "A giant lava tube",
+        "A volcano",
+        "A city"
       ],
-      "correct_answer": "Mor Naaman"
+      "correct_answer": "A giant lava tube"
     },
     {
-      "question": "How many people took part in the study?",
+      "question": "How big is the lava tube at least?",
       "options": [
-        "500",
-        "1,000",
-        "Over 2,500",
-        "10,000"
+        "100 meters deep",
+        "375 meters deep",
+        "1 kilometer deep",
+        "10 kilometers deep"
       ],
-      "correct_answer": "Over 2,500"
+      "correct_answer": "375 meters deep"
     },
     {
-      "question": "What did participants write about?",
+      "question": "What spacecraft took the radar images used for the discovery?",
       "options": [
-        "Movies and music",
-        "Sports teams",
-        "Social issues like testing and voting",
-        "Their favorite food"
+        "Apollo",
+        "Magellan",
+        "Voyager",
+        "Hubble"
       ],
-      "correct_answer": "Social issues like testing and voting"
+      "correct_answer": "Magellan"
     },
     {
-      "question": "For the death penalty, what did the AI suggest?",
+      "question": "How did they spot the cave?",
       "options": [
-        "It should be allowed",
-        "It should be illegal because of the Eighth Amendment",
-        "It should be decided by states",
-        "It should be more common"
+        "By sending a rover",
+        "By looking at a collapsed skylight",
+        "By drilling",
+        "By flying a plane"
       ],
-      "correct_answer": "It should be illegal because of the Eighth Amendment"
+      "correct_answer": "By looking at a collapsed skylight"
     },
     {
-      "question": "What percentage of people thought the AI was 'reasonable and balanced'?",
+      "question": "Why won't people visit the Venus cave soon?",
       "options": [
-        "25%",
-        "50%",
-        "75%",
-        "100%"
+        "It's too far",
+        "It's too hot and the air pressure is crushing",
+        "It's too dark",
+        "It's too small"
       ],
-      "correct_answer": "75%"
+      "correct_answer": "It's too hot and the air pressure is crushing"
     },
     {
-      "question": "What advice did Naaman give for using AI?",
+      "question": "What two missions will map Venus in more detail before 2031?",
       "options": [
-        "Always use AI first",
-        "Write your own thoughts down first, then use AI",
-        "Never use AI for school",
-        "Only use AI for math"
+        "Apollo and Soyuz",
+        "VERITAS and EnVision",
+        "Mars Rover and Perseverance",
+        "Hubble and Webb"
       ],
-      "correct_answer": "Write your own thoughts down first, then use AI"
+      "correct_answer": "VERITAS and EnVision"
     }
   ],
   "background_read": [
-    "AI systems like auto-complete learn from huge amounts of text, so they can pick up biases from what people wrote online.",
-    "The Eighth Amendment is part of the US Constitution that bans punishments that are too harsh; some people use it to argue against the death penalty.",
-    "This experiment was done at Cornell University (a famous research school in New York) to show how AI can influence people's opinions without them noticing."
+    "NASA's Magellan spacecraft was a robot that flew to Venus in the 1990s and used radar to see through its thick clouds.",
+    "The new discovery shows that even old data can reveal new secrets.",
+    "Two future missions, VERITAS (by NASA) and EnVision (by Europe), will take even better pictures of Venus starting in the early 2030s."
   ],
   "Article_Structure": [
-    "WHO: A scientist named Mor Naaman from Cornell University and 2,500+ people who wrote essays.",
-    "WHAT: An experiment that showed AI auto-complete can secretly change your opinion, even if you don't use the suggestions.",
-    "WHERE: The experiment was done online, with participants from across the United States.",
-    "WHY: To warn people that AI tools might influence their thinking in hidden ways, especially about politics and important issues."
+    "WHO: Planetary scientists studying radar images from NASA's Magellan spacecraft.",
+    "WHAT: Found a giant lava tube on Venus, bigger than any cave on Earth or Mars.",
+    "WHERE: Near the volcano Nyx Mons on Venus.",
+    "WHY: Because it shows Venus has hidden geological features and helps scientists understand how to study other planets."
   ],
   "perspectives": [
     {
-      "perspective": "Everyday AI user",
-      "description": "A person who uses auto-complete might feel surprised and say it's helpful but also worry about being tricked."
+      "perspective": "Exciting for space exploration",
+      "description": "Scientists are amazed that old data from the 1990s can still reveal something new about Venus."
     },
     {
-      "perspective": "Educator",
-      "description": "Teachers worry that AI could make students rely on suggestions instead of thinking for themselves, so they suggest writing first."
+      "perspective": "Not practical for humans now",
+      "description": "Venus is extremely hot and has crushing air pressure, so humans cannot visit this cave anytime soon. But future missions might study it with robots."
     },
     {
-      "perspective": "Skeptical technology expert",
-      "description": "Some experts think the effect might be small and people should not panic, but they agree it's smart to be aware of how AI works."
+      "perspective": "Lessons for future missions",
+      "description": "The discovery shows the importance of using new techniques on old data, and upcoming missions like VERITAS and EnVision can map even more details."
     }
   ],
-  "mined_at": "2026-04-25T07:06:51+00:00",
-  "source_published_at": "Mon, 20 Apr 2026 10:30:00 +0000",
+  "mined_at": "2026-04-25T16:45:58+00:00",
+  "source_published_at": "Tue, 21 Apr 2026 10:30:00 +0000",
   "source_name": "Science News Explores",
-  "source_url": "https://www.snexplores.org/article/ai-auto-complete-bias-views"
+  "source_url": "https://www.snexplores.org/article/venus-volcano-lava-tube"
 }

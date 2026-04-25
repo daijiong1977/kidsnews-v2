@@ -1,169 +1,173 @@
 {
-  "title": "AI Auto-Complete: Subtle Mind Shaper?",
-  "summary": "You're typing a message, and AI suggests the next words. It seems harmless—just a time-saver. But a new study shows that these auto-complete suggestions can actually nudge your opinions on social issues, and you might not even notice.\n\nMor Naaman, an information scientist at Cornell University, led the study published March 11 in Science Advances. His team recruited over 2,500 people and asked them to write short essays on controversial topics: standardized testing in schools, voting rights for felons, and the death penalty. Some participants wrote without any AI help. Others received suggestions from an AI that the researchers had secretly trained to be biased in a specific direction.\n\nFor instance, if a participant started typing \"In my view...\" about the death penalty, the AI might complete it with: \"...the death penalty should be illegal in America because it violates the Eighth Amendment, which prohibits cruel and unusual punishment.\" After writing, participants rated their own stance on a scale from 1 to 5. Those who saw the biased suggestions moved, on average, almost half a point closer to the AI's position—even if they didn't actually use the suggested text.\n\nWhat's more, people didn't realize they were being influenced. Three-quarters of those who received suggestions rated them as \"reasonable and balanced.\" Even when the researchers issued a warning similar to OpenAI's \"ChatGPT can make mistakes,\" people remained vulnerable.\n\n\"It's the subtlest of manipulations,\" Naaman says. He worries that if many people use biased AI models to discuss politics, it could shape public attitudes and even affect elections. \"AI makes not only our words and creativity less unique, but also our thoughts,\" he adds.\n\nHis personal strategy? Write down his own thoughts first, then turn to AI for help. \"At least I know that the seed [of the idea] is mine.\"",
-  "why_it_matters": "As AI becomes embedded in everyday writing tools, this study reveals that even subtle, unnoticed suggestions can nudge people's beliefs on important social issues, raising concerns about manipulation of public opinion and the authenticity of personal viewpoints in a democratic society.",
-  "image_url": "/article_images/article_3bdbb707fd5a.webp",
+  "title": "Massive Lava Tube Discovered on Venus—Bigger Than Any on Earth",
+  "summary": "Venus, Earth's so-called \"sister planet,\" has just given up a secret it's been hiding for billions of years: a massive underground lava tube.\n\nScientists discovered it by taking a fresh look at radar images captured by NASA's Magellan spacecraft in the early 1990s. Using advanced imaging techniques, they spotted a collapsed \"skylight\" near a volcano called Nyx Mons. Further analysis revealed that this skylight opens into an empty lava tube at least 375 meters (1,230 feet) deep. The researchers estimate the tube could be up to one kilometer (0.6 mile) wide—larger than any lava tube found on Earth or Mars.\n\n\"It is remarkable that we are still extracting new insights from Magellan data,\" says Anna Gülcher, a planetary scientist at the University of Freiburg who wasn't involved in the study. She points to \"the lasting value of that mission, the progress we have made in data analysis and the renewed interest in the planet.\"\n\nLava tubes form when molten rock flows beneath the surface and then drains away, leaving a hollow tunnel. On the Moon and Mars, scientists have long considered using such tubes as shelters for astronauts, protecting them from solar radiation and meteorites. But Venus is a different story. The surface pressure is 93 times that of Earth, and temperatures are hot enough to melt regular electronics. So human exploration of this particular tube is out of the question.\n\nStill, the discovery raises intriguing questions. Venus has gravity similar to Earth's, so why is this tube so much larger than terrestrial ones? Lorenzo Bruzzone, a remote-sensing scientist at the University of Trento and co-author of the study published in Nature Communications, says finding one lava tube suggests there could be more.\n\nThe discovery comes at a pivotal time. Two upcoming missions—NASA's VERITAS (before June 2031) and the European Space Agency's EnVision (later that year)—will carry advanced radar instruments capable of imaging Venus's surface at significantly higher resolution. They may reveal even more hidden features beneath the planet's thick clouds.",
+  "why_it_matters": "Understanding Venus’s geology helps scientists learn how Earth-like planets evolve, and the discovery of a giant lava tube raises questions about volcanic processes that could apply to other planets — knowledge that deepens our understanding of the solar system and our own planet’s history.",
+  "image_url": "/article_images/article_355a6ec71c48.webp",
   "keywords": [
     {
-      "term": "auto-complete",
-      "explanation": "A feature in software that suggests the next word or words as you type, often using artificial intelligence."
+      "term": "lava tube",
+      "explanation": "A hollow tunnel left behind when molten rock drains away underground."
     },
     {
-      "term": "biased",
-      "explanation": "When something is unfairly slanted toward one opinion or side instead of being neutral."
+      "term": "skylight",
+      "explanation": "A collapsed hole in the roof of a lava tube that lets scientists see inside from above."
     },
     {
-      "term": "manipulation",
-      "explanation": "A sneaky way of influencing people's thoughts or actions without them realizing it."
+      "term": "Magellan spacecraft",
+      "explanation": "A NASA space probe that mapped Venus using radar in the early 1990s."
     },
     {
-      "term": "Eighth Amendment",
-      "explanation": "A part of the U.S. Constitution that protects people from cruel and unusual punishments."
+      "term": "solar radiation",
+      "explanation": "High-energy particles and rays from the Sun that can harm humans and electronics."
     },
     {
-      "term": "controversial",
-      "explanation": "A topic that people strongly disagree about, often with passionate arguments on both sides."
+      "term": "meteorites",
+      "explanation": "Rocks from space that survive traveling through the atmosphere and hit the ground."
     },
     {
-      "term": "vulnerable",
-      "explanation": "Easily influenced or hurt because you are unaware of a risk or lack protection."
+      "term": "VERITAS",
+      "explanation": "A planned NASA mission to Venus that will use advanced radar to map the planet in high detail."
     },
     {
-      "term": "You're",
+      "term": "Venus",
       "rank": null,
       "explanation": ""
     },
     {
-      "term": "typing",
-      "rank": 8281,
-      "explanation": ""
-    },
-    {
-      "term": "suggests",
-      "rank": 4572,
-      "explanation": ""
-    },
-    {
-      "term": "harmless",
+      "term": "Earth's",
       "rank": null,
       "explanation": ""
     },
     {
-      "term": "time-saver",
+      "term": "so-called",
       "rank": null,
       "explanation": ""
     },
     {
-      "term": "nudge",
+      "term": "sister",
+      "rank": 3052,
+      "explanation": ""
+    },
+    {
+      "term": "it's",
       "rank": null,
       "explanation": ""
     },
     {
-      "term": "Naaman",
+      "term": "hiding",
       "rank": null,
+      "explanation": ""
+    },
+    {
+      "term": "billions",
+      "rank": null,
+      "explanation": ""
+    },
+    {
+      "term": "massive",
+      "rank": 3723,
       "explanation": ""
     }
   ],
   "questions": [
     {
-      "question": "Who led the study published in Science Advances?",
+      "question": "How was the lava tube on Venus discovered?",
       "options": [
-        "Mansi Kasliwal",
-        "Mor Naaman",
-        "Tom Burick",
-        "David Reitze"
+        "By re-analyzing radar images from the Magellan spacecraft",
+        "By sending a rover to Venus",
+        "By using a telescope on Earth",
+        "By digging a hole through Venus's clouds"
       ],
-      "correct_answer": "Mor Naaman"
+      "correct_answer": "By re-analyzing radar images from the Magellan spacecraft"
     },
     {
-      "question": "How many people participated in the study?",
+      "question": "Near which volcano was the skylight found?",
       "options": [
-        "about 500",
-        "over 1,000",
-        "over 2,500",
-        "nearly 5,000"
+        "Nyx Mons",
+        "Olympus Mons",
+        "Maat Mons",
+        "Sif Mons"
       ],
-      "correct_answer": "over 2,500"
+      "correct_answer": "Nyx Mons"
     },
     {
-      "question": "Which of these was NOT one of the controversial topics participants wrote about?",
+      "question": "How large could the lava tube be?",
       "options": [
-        "standardized testing in schools",
-        "voting rights for felons",
-        "the death penalty",
-        "climate change policies"
+        "Up to one kilometer wide and 375 meters deep",
+        "Only 100 meters long",
+        "The size of a swimming pool",
+        "10 kilometers wide"
       ],
-      "correct_answer": "climate change policies"
+      "correct_answer": "Up to one kilometer wide and 375 meters deep"
     },
     {
-      "question": "What did the researchers secretly train the AI to do?",
+      "question": "Why is human exploration of this Venus lava tube impossible?",
       "options": [
-        "be completely neutral",
-        "be biased in a specific direction",
-        "write longer sentences",
-        "avoid certain words"
+        "Because the surface pressure is 93 times Earth's and temperatures melt electronics",
+        "Because Venus has no gravity",
+        "Because the tube is too small",
+        "Because Venus's atmosphere is made of acid and would dissolve spacesuits"
       ],
-      "correct_answer": "be biased in a specific direction"
+      "correct_answer": "Because the surface pressure is 93 times Earth's and temperatures melt electronics"
     },
     {
-      "question": "How much did participants' opinions shift on average toward the AI's position?",
+      "question": "What do scientists hope to use lava tubes for on the Moon and Mars?",
       "options": [
-        "a quarter point",
-        "half a point",
-        "one full point",
-        "two points"
+        "Shelters to protect astronauts from solar radiation and meteorites",
+        "Greenhouses for growing food",
+        "Factories for building spacecraft",
+        "Mines for extracting water"
       ],
-      "correct_answer": "half a point"
+      "correct_answer": "Shelters to protect astronauts from solar radiation and meteorites"
     },
     {
-      "question": "What did three-quarters of those who received suggestions think about the suggestions?",
+      "question": "Which upcoming missions will study Venus with better radar?",
       "options": [
-        "they were offensive",
-        "they were reasonable and balanced",
-        "they were confusing",
-        "they were too long"
+        "NASA's VERITAS and ESA's EnVision",
+        "Mars 2020 and ExoMars",
+        "Europa Clipper and JUICE",
+        "James Webb and Hubble"
       ],
-      "correct_answer": "they were reasonable and balanced"
+      "correct_answer": "NASA's VERITAS and ESA's EnVision"
     }
   ],
   "background_read": [
-    "Auto-complete tools use artificial intelligence (AI) to predict what a user intends to type, and they are embedded in many messaging apps, search engines, and email programs.",
-    "The study, published in the journal Science Advances, examined how even small suggestions from AI can shift people's opinions without their awareness, raising concerns about digital manipulation.",
-    "Mor Naaman is a professor of information science at Cornell University (a major U.S. research institution), and his work focuses on how technology influences social behavior and communication.",
-    "The Eighth Amendment to the U.S. Constitution prohibits cruel and unusual punishment, and it is often cited in debates about the death penalty and felon voting rights."
+    "Venus is often called Earth's 'sister planet' because it is similar in size and gravity, but its surface is extremely hostile: the pressure is 93 times Earth's (equivalent to being 900 meters underwater) and temperatures hover around 460°C (860°F), hot enough to melt lead.",
+    "The Magellan spacecraft (NASA, 1990-1994) used radar to pierce Venus's thick clouds and map nearly the entire surface. Despite its age, the data still yields new discoveries when re-analyzed with modern techniques.",
+    "Lava tubes have been found on the Moon and Mars, where they are considered potential natural shelters for astronauts, protecting them from cosmic rays and micrometeorite impacts. However, Venus's extreme conditions make any human use of this tube impossible for now.",
+    "The upcoming VERITAS mission (NASA, launching before June 2031) and EnVision mission (European Space Agency, launching later in 2031) will carry advanced radar that can see details as small as 30 meters across, compared to Magellan's 120-meter resolution. They may reveal many more hidden features beneath Venus's clouds."
   ],
   "Article_Structure": [
-    "LEAD: AI auto-complete can subtly shape users' opinions",
-    "STUDY: Led by Mor Naaman (Cornell University)",
-    "  ├─ 2,500+ participants write short essays on controversial topics (school testing, voting rights, death penalty)",
-    "  └─ AI secretly trained to be biased in one direction",
-    "FINDING: Participants moved ~0.5 points closer to AI's position",
-    "  ├─ Even when they did not use the suggested text",
-    "  └─ 75% rated suggestions as 'reasonable and balanced'",
-    "WARNING INEFFECTIVE: A disclaimer similar to 'ChatGPT can make mistakes' did not reduce influence",
-    "IMPLICATION: Subtle manipulation could shape public attitudes and affect democratic processes like elections",
-    "AUTHOR ADVICE: Write down own thoughts first, then use AI as a tool, not a crutch"
+    "LEAD: Venus has given up a secret: a massive underground lava tube.",
+    "  └─ SOURCE: New analysis of 1990s Magellan radar images",
+    "DISCOVERY: A collapsed 'skylight' near volcano Nyx Mons, opening into a tube ≥375 m deep",
+    "  └─ SIZE: Up to 1 km wide — bigger than any found on Earth or Mars",
+    "CONTEXT: Lava tubes form when molten rock drains; on Moon/Mars they could be shelters",
+    "  └─ BUT: Venus's surface pressure (93x Earth) and heat (460°C) make exploration impossible",
+    "SCIENTIFIC PUZZLE: Why so large, given Venus's Earth-like gravity?",
+    "  └─ QUOTE: 'remarkable that we are still extracting new insights from Magellan data' — Anna Gülcher",
+    "FUTURE: VERITAS (NASA) and EnVision (ESA) will map Venus with much higher resolution radar"
   ],
   "perspectives": [
     {
-      "perspective": "Positive",
-      "description": "Proponents of AI auto-complete see it as a harmless convenience that saves time and helps with clarity, and argue the effect size is small and may disappear in real-world contexts."
+      "perspective": "Positive (Scientific Gain)",
+      "description": "The discovery provides a rare glimpse into Venus’s subsurface geology. It proves that old data can still yield new breakthroughs when combined with modern analysis techniques, and it sets a target for future high-resolution radar missions."
     },
     {
-      "perspective": "Negative / critical",
-      "description": "Critics argue this is a form of psychological manipulation; it erodes personal autonomy and could be weaponized to bias large populations, especially during elections."
+      "perspective": "Negative / Critical (Limited Practical Use)",
+      "description": "Unlike lava tubes on the Moon or Mars, this Venus tube offers no immediate benefit for human exploration. The planet’s extreme environment means the tube will remain strictly a scientific curiosity, not a potential habitat or resource site."
     },
     {
-      "perspective": "Neutral / analytical",
-      "description": "The study is a controlled experiment; real-world effects depend on how often people use AI suggestions and on what topics. It highlights the need for transparency and user education."
+      "perspective": "Neutral / Analytical (Data Legacy)",
+      "description": "The finding highlights the lasting value of planetary missions that end decades ago. Magellan cost about $800 million (in 1990s dollars) and has now produced useful science for over 30 years. This success suggests that archiving and re-analyzing old data is a cost-effective strategy."
     },
     {
-      "perspective": "Forward-looking",
-      "description": "Future regulations may require AI systems to disclose their biases or to offer only neutral suggestions. Design changes (e.g., showing source of suggestions) could reduce unconscious influence."
+      "perspective": "Forward-looking (Upcoming Missions)",
+      "description": "With VERITAS and EnVision scheduled before 2032, scientists expect a flood of new discoveries about Venus. If more lava tubes are found, they could reveal clues about Venus’s past — perhaps even evidence that the planet once had water or volcanic activity that reshaped its surface."
     }
   ],
-  "mined_at": "2026-04-25T07:06:51+00:00",
-  "source_published_at": "Mon, 20 Apr 2026 10:30:00 +0000",
+  "mined_at": "2026-04-25T16:45:58+00:00",
+  "source_published_at": "Tue, 21 Apr 2026 10:30:00 +0000",
   "source_name": "Science News Explores",
-  "source_url": "https://www.snexplores.org/article/ai-auto-complete-bias-views"
+  "source_url": "https://www.snexplores.org/article/venus-volcano-lava-tube"
 }

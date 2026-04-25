@@ -1,158 +1,163 @@
 {
-  "title": "Old Carousel Gets a New Spin — and a Civil Rights Story",
-  "summary": "Have you ever ridden a carousel that has its own history lesson? The Smithsonian National Carousel on the National Mall in Washington, D.C., just reopened after three years of restoration. But this carousel isn't just about pretty horses — it's a symbol of the fight for equality.\n\nBack in the 1960s, this carousel was at Gwynn Oak Amusement Park near Baltimore. At that time, Black people were not allowed to ride. But brave kids and adults — both Black and white — protested for years. Finally, on August 28, 1963, the park opened to everyone. That was the very same day Dr. Martin Luther King Jr. gave his famous \"I Have a Dream\" speech!\n\nSharon Langley was the first Black child to ride that day. She was only 11 months old! Now 63, she rode again this week on a horse named \"Freedom Rider.\" She said the carousel belongs with all the monuments of freedom.\n\nToday, the carousel has 54 horses, a sea monster, a pig, and two chariots. Kids love it. Seven-year-old Lucas Platt said, \"It's actually one of the fastest carousels I've really been on.\"\n\nSo next time you see a merry-go-round, remember: sometimes even a fun ride can be part of a big, important story.",
-  "why_it_matters": "This story reminds us that even fun things like carousels can be part of the fight for fairness, and that everyone should be allowed to enjoy the same things.",
-  "image_url": "/article_images/article_244951b94d9a.webp",
+  "title": "Navy on a Dangerous Hunt: Clearing Mines from a Super Important Waterway",
+  "summary": "Imagine a narrow sea lane where one-fifth of all the oil in the world passes through. That's the Strait of Hormuz. But right now, it's dangerous because of hidden underwater bombs called mines. President Trump says the U.S. Navy is clearing them, but experts say it could take months.\n\nMines are not like the spiky balls you see in movies. They sit on the seabed or float just below the surface. They can be triggered by a ship's engine noise or the change in water pressure. Even one mine can sink a ship.\n\nThe problem is, no one knows for sure if Iran actually laid mines. Iran has only mentioned the \"likelihood\" of mines. But just the fear of mines can stop ships from traveling. As one expert said, \"You don't even have to have laid mines — you just have to make people believe that you've laid mines.\"\n\nThe U.S. Navy is using divers and small teams to clear the mines. But it's slow work. Pentagon officials told lawmakers it could take six months. Even after clearing, shipping companies might not trust that it's safe.\n\nThis mission is important because if oil can't get through, prices go up everywhere. It's a high-stakes game of hide-and-seek under the sea.",
+  "why_it_matters": "This matters to you because if oil can't get through, everything that uses oil — like cars, school buses, and heating — could become more expensive for your family.",
+  "image_url": "/article_images/article_9bc5cb2bff4f.webp",
   "keywords": [
     {
-      "term": "restoration",
-      "explanation": "Fixing up something old to make it new again."
+      "term": "Strait of Hormuz",
+      "explanation": "A narrow sea passage between Iran and Oman that is very important for oil ships."
     },
     {
-      "term": "symbol",
-      "explanation": "Something that stands for a bigger idea."
+      "term": "mines",
+      "explanation": "Hidden underwater bombs that can blow up ships."
     },
     {
-      "term": "chariots",
-      "explanation": "Carriages pulled by horses on a carousel."
+      "term": "seabed",
+      "explanation": "The bottom of the ocean."
     },
     {
-      "term": "equality",
-      "explanation": "Treating everyone the same no matter their skin color."
+      "term": "pressure",
+      "explanation": "The force of water pushing on things — a change in this can trigger a mine."
     },
     {
-      "term": "protested",
-      "explanation": "Showed strong disagreement by gathering or marching."
+      "term": "Pentagon",
+      "explanation": "The building in Washington, D.C., where U.S. military leaders work."
     },
     {
-      "term": "Gwynn Oak Amusement Park",
-      "explanation": "The park where the carousel used to be before it moved to Washington, D.C."
+      "term": "lawmakers",
+      "explanation": "People who make laws, like members of Congress."
     },
     {
-      "term": "ridden",
+      "term": "Imagine",
+      "rank": 4050,
+      "explanation": ""
+    },
+    {
+      "term": "narrow",
+      "rank": 3855,
+      "explanation": ""
+    },
+    {
+      "term": "lane",
+      "rank": 3068,
+      "explanation": ""
+    },
+    {
+      "term": "one-fifth",
       "rank": null,
       "explanation": ""
     },
     {
-      "term": "carousel",
+      "term": "passes",
+      "rank": 5511,
+      "explanation": ""
+    },
+    {
+      "term": "That's",
       "rank": null,
       "explanation": ""
     },
     {
-      "term": "lesson",
-      "rank": 3914,
-      "explanation": ""
-    },
-    {
-      "term": "Smithsonian",
-      "rank": 9460,
-      "explanation": ""
-    },
-    {
-      "term": "Mall",
-      "rank": 4475,
-      "explanation": ""
-    },
-    {
-      "term": "reopened",
+      "term": "Strait",
       "rank": null,
       "explanation": ""
     },
     {
-      "term": "isn't",
+      "term": "Hormuz",
       "rank": null,
       "explanation": ""
     }
   ],
   "questions": [
     {
-      "question": "Why is this carousel special?",
+      "question": "How much of the world's oil passes through the Strait of Hormuz?",
       "options": [
-        "It was part of the civil rights movement",
-        "It's the fastest carousel in the world",
-        "It has 100 horses",
-        "It is made of gold"
+        "One-tenth",
+        "One-fifth",
+        "One-half",
+        "All of it"
       ],
-      "correct_answer": "It was part of the civil rights movement"
+      "correct_answer": "One-fifth"
     },
     {
-      "question": "Who was the first Black child to ride the carousel?",
+      "question": "What can trigger a mine to explode?",
       "options": [
-        "Sharon Langley",
-        "Dr. Martin Luther King Jr.",
-        "Lucas Platt",
-        "A boy named John"
+        "A ship's engine noise or change in water pressure",
+        "A person swimming nearby",
+        "Sunlight",
+        "A radio signal"
       ],
-      "correct_answer": "Sharon Langley"
+      "correct_answer": "A ship's engine noise or change in water pressure"
     },
     {
-      "question": "What famous speech was given on the same day the park opened to everyone?",
+      "question": "Has Iran admitted to laying mines in the Strait?",
       "options": [
-        "'I Have a Dream'",
-        "'Four Score and Seven Years Ago'",
-        "'We Shall Overcome'",
-        "'Ask Not What Your Country Can Do'"
+        "Yes, they said they laid many mines",
+        "No, they only mentioned the 'likelihood' of mines",
+        "They said they would never use mines",
+        "They blamed the U.S."
       ],
-      "correct_answer": "'I Have a Dream'"
+      "correct_answer": "No, they only mentioned the 'likelihood' of mines"
     },
     {
-      "question": "What was the name of the horse Sharon Langley rode this time?",
+      "question": "How is the U.S. Navy clearing the mines?",
       "options": [
-        "Freedom Rider",
-        "Star",
-        "Lucky",
-        "Courage"
+        "Using big robots",
+        "Using divers and small teams",
+        "Dropping bombs from planes",
+        "Asking Iran to remove them"
       ],
-      "correct_answer": "Freedom Rider"
+      "correct_answer": "Using divers and small teams"
     },
     {
-      "question": "How old was Sharon Langley when she first rode the carousel in 1963?",
+      "question": "How long might it take to clear the mines, according to Pentagon officials?",
       "options": [
-        "11 months old",
-        "5 years old",
-        "10 years old",
-        "18 months old"
+        "Two weeks",
+        "Six months",
+        "One year",
+        "Three days"
       ],
-      "correct_answer": "11 months old"
+      "correct_answer": "Six months"
     },
     {
-      "question": "Where is the Smithsonian National Carousel located?",
+      "question": "Why is clearing the mines important?",
       "options": [
-        "On the National Mall in Washington, D.C.",
-        "In Baltimore",
-        "In New York City",
-        "In a theme park in Florida"
+        "So fish can swim safely",
+        "So oil can get through and prices don't go up",
+        "To make a movie",
+        "To open a new tourist attraction"
       ],
-      "correct_answer": "On the National Mall in Washington, D.C."
+      "correct_answer": "So oil can get through and prices don't go up"
     }
   ],
   "background_read": [
-    "In the 1960s, many places in the United States were segregated, meaning Black and white people had to use separate facilities.",
-    "The civil rights movement worked to change that and make things fair for everyone.",
-    "This carousel was at an amusement park that did not allow Black children to ride until protesters forced it to open."
+    "The Strait of Hormuz is a narrow waterway between Iran and Oman that connects the Persian Gulf to the open ocean.",
+    "Many oil-producing countries in the Middle East, like Saudi Arabia and Kuwait, send their oil through this strait.",
+    "In the past, Iran has threatened to block the strait as a way to pressure other countries."
   ],
   "Article_Structure": [
-    "WHO: Sharon Langley, the first Black child to ride the carousel, and Dr. Martin Luther King Jr. (mentioned for his speech).",
-    "WHAT: The carousel reopened after three years of restoration; it has a civil rights history.",
-    "WHERE: The Smithsonian National Carousel on the National Mall in Washington, D.C.",
-    "WHY: To preserve the history of the fight for equality and let families enjoy the carousel together."
+    "WHO: The U.S. Navy, with divers and small teams, working to clear mines.",
+    "WHAT: Clearing hidden underwater mines from the Strait of Hormuz.",
+    "WHERE: The Strait of Hormuz, a narrow sea lane in the Middle East.",
+    "WHY: To keep oil flowing through the strait and prevent prices from rising around the world."
   ],
   "perspectives": [
     {
-      "perspective": "Historical significance",
-      "description": "The carousel is a reminder of the struggle for civil rights and how far the country has come."
+      "perspective": "Positive",
+      "description": "The U.S. Navy is protecting a key waterway so that oil can keep moving, which helps keep prices stable for everyone."
     },
     {
-      "perspective": "Community joy",
-      "description": "Now families of all backgrounds can enjoy the carousel together, which is a celebration of inclusion."
+      "perspective": "Negative",
+      "description": "This mission is dangerous and might take a long time. Just the fear of mines can stop ships, even if no mines are actually there."
     },
     {
-      "perspective": "Educational value",
-      "description": "The carousel helps teach kids about history in a fun way, making the past come alive."
+      "perspective": "Neutral",
+      "description": "Mines are a cheap way for countries to threaten shipping without using big weapons. Clearing them is slow and hard to prove safe."
     }
   ],
-  "mined_at": "2026-04-25T07:06:51+00:00",
-  "source_published_at": "Fri, 24 Apr 2026 10:58:50 -0400",
-  "source_name": "NPR World",
-  "source_url": "https://www.npr.org/2026/04/24/nx-s1-5770103/smithsonian-carousel-reopens-national-mall-dc"
+  "mined_at": "2026-04-25T16:45:58+00:00",
+  "source_published_at": "Sat, 25 Apr 2026 12:25:07 -0400",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/world/u-s-says-its-clearing-iranian-mines-in-latest-push-to-open-the-strait-of-hormuz"
 }

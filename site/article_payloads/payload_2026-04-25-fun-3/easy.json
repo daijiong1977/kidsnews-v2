@@ -1,163 +1,163 @@
 {
-  "title": "FDA Approves First Gene Therapy for Inherited Deafness",
-  "summary": "Big news in medicine! The FDA has approved the first gene therapy for a type of inherited deafness. Gene therapy is a treatment that fixes a problem in your genes (the instructions inside your cells).\n\nThe therapy is called Otarmeni. It treats hearing loss caused by a problem in a gene called OTOF. This gene makes a protein called otoferlin, which helps your ear send sound signals to your brain. If the gene is broken, the signals can't get through, and the person is born deaf.\n\nOtarmeni uses a harmless virus to deliver a working copy of the OTOF gene into the ear. In a trial with 20 people, 16 showed improved hearing within six months. One more improved within a year. Some could even hear whispers! All the people who got better could hear well enough that they didn't need a cochlear implant (a device that helps deaf people hear).\n\nThe company that makes Otarmeni, Regeneron, says the treatment itself will be free for patients in the U.S. (but you might still have to pay for the doctor visit). This is a huge step forward for gene therapy and for people with hearing loss.",
-  "why_it_matters": "This breakthrough could help kids who are born deaf hear for the first time, showing how science can change lives and give people new abilities.",
-  "image_url": "/article_images/article_9a27df0f7a86.webp",
+  "title": "Green Stamps: The Old-School Way to Get Free Stuff",
+  "summary": "Have you ever collected points from a store to get free stuff? That idea is super old! Way before smartphones and apps, there were Green Stamps. In 1896, a company called S&H started giving out small green stamps at stores. For every 10 cents you spent, you got one stamp. You would lick the stamp and stick it in a booklet. When you filled a booklet, you could trade it for prizes. One booklet could get you a lamp. Six booklets could get you a bicycle! By the 1960s, Green Stamps were everywhere. There were 800 redemption centers where you could pick your prize. Even the famous artist Andy Warhol made a painting of them. But in the 1970s, things changed. The economy got bad, and stores started their own rewards programs. By the 1980s, hardly any stores used Green Stamps. S&H tried to go digital, but it didn't work. Today, loyalty programs are bigger than ever — worth $12 billion in 2024. But here's a funny thing: people forget to use their points. In the US, about 26% of points go unused. That's $10 billion worth of free stuff left on the table!",
+  "why_it_matters": "This story shows how people have always liked getting rewards, and it reminds us to use our points before they go to waste.",
+  "image_url": "/article_images/article_68d8816a52bb.webp",
   "keywords": [
     {
-      "term": "FDA",
-      "explanation": "The U.S. Food and Drug Administration, the agency that decides if new medicines are safe to use."
+      "term": "Green Stamps",
+      "explanation": "small green stamps given by stores that you could save and trade for prizes."
     },
     {
-      "term": "gene therapy",
-      "explanation": "A treatment that fixes a broken gene inside your cells to cure a disease."
+      "term": "booklet",
+      "explanation": "a small book where you stick stamps to collect them."
     },
     {
-      "term": "inherited deafness",
-      "explanation": "Deafness that a person is born with because of a problem in their genes passed from parents."
+      "term": "redemption centers",
+      "explanation": "places where you could trade your filled booklets for prizes."
     },
     {
-      "term": "otoferlin",
-      "explanation": "A protein that helps the ear send sound signals to the brain."
+      "term": "loyalty programs",
+      "explanation": "programs that give you rewards for shopping at the same store again and again."
     },
     {
-      "term": "cochlear implant",
-      "explanation": "A small electronic device that helps deaf people hear by sending signals to the ear."
+      "term": "Andy Warhol",
+      "explanation": "a famous artist who painted everyday things like soup cans."
     },
     {
-      "term": "Regeneron",
-      "explanation": "The company that makes the gene therapy called Otarmeni."
+      "term": "prizes",
+      "explanation": "free items you get when you trade in your stamps."
     },
     {
-      "term": "gene",
-      "rank": 2329,
+      "term": "collected",
+      "rank": 3546,
       "explanation": ""
     },
     {
-      "term": "therapy",
-      "rank": 2084,
-      "explanation": ""
-    },
-    {
-      "term": "inherited",
-      "rank": 7965,
-      "explanation": ""
-    },
-    {
-      "term": "deafness",
+      "term": "smartphones",
       "rank": null,
       "explanation": ""
     },
     {
-      "term": "fixes",
-      "rank": 7543,
+      "term": "apps",
+      "rank": 6927,
       "explanation": ""
     },
     {
-      "term": "genes",
-      "rank": 5226,
+      "term": "Stamps",
+      "rank": 4113,
       "explanation": ""
     },
     {
-      "term": "Otarmeni",
-      "rank": null,
+      "term": "cents",
+      "rank": 5977,
       "explanation": ""
     },
     {
-      "term": "treats",
+      "term": "spent",
+      "rank": 2661,
+      "explanation": ""
+    },
+    {
+      "term": "stamp",
+      "rank": 6219,
+      "explanation": ""
+    },
+    {
+      "term": "lick",
       "rank": null,
       "explanation": ""
     }
   ],
   "questions": [
     {
-      "question": "What did the FDA approve for the first time?",
+      "question": "What did you have to do to get one Green Stamp?",
       "options": [
-        "a new hearing aid",
-        "a gene therapy for deafness",
-        "a vaccine for hearing loss",
-        "a surgery for ear problems"
+        "Spend $1",
+        "Spend 10 cents",
+        "Buy a booklet",
+        "Fill a survey"
       ],
-      "correct_answer": "a gene therapy for deafness"
+      "correct_answer": "Spend 10 cents"
     },
     {
-      "question": "What is the name of the gene therapy?",
+      "question": "How many booklets were needed for a bicycle?",
       "options": [
-        "otarmeni",
-        "Otoferlin",
-        "Regeneron",
-        "OTOF"
+        "One",
+        "Three",
+        "Six",
+        "Ten"
       ],
-      "correct_answer": "otarmeni"
+      "correct_answer": "Six"
     },
     {
-      "question": "Which gene does the therapy fix?",
+      "question": "Which company gave out Green Stamps?",
       "options": [
-        "OTOF",
-        "OTOFL",
-        "OTOFER",
-        "OTOG"
+        "S&H",
+        "McDonald's",
+        "Walmart",
+        "Starbucks"
       ],
-      "correct_answer": "OTOF"
+      "correct_answer": "S&H"
     },
     {
-      "question": "How many people in the trial showed improved hearing within six months?",
+      "question": "When were Green Stamps most popular?",
       "options": [
-        "16",
-        "20",
-        "1",
-        "all of them"
+        "1890s",
+        "1920s",
+        "1960s",
+        "1980s"
       ],
-      "correct_answer": "16"
+      "correct_answer": "1960s"
     },
     {
-      "question": "What is a cochlear implant used for?",
+      "question": "What caused Green Stamps to disappear?",
       "options": [
-        "to fix broken bones in the ear",
-        "to help deaf people hear",
-        "to clean the ear canal",
-        "to protect the ear from loud noises"
+        "People stopped shopping",
+        "The economy got bad and stores started their own programs",
+        "Stamps were banned",
+        "Andy Warhol stopped painting them"
       ],
-      "correct_answer": "to help deaf people hear"
+      "correct_answer": "The economy got bad and stores started their own programs"
     },
     {
-      "question": "Who will pay for the treatment itself in the U.S.?",
+      "question": "In 2024, what percent of loyalty points in the US are unused?",
       "options": [
-        "the patients",
-        "the government",
-        "the company Regeneron (free)",
-        "insurance companies"
+        "10%",
+        "26%",
+        "50%",
+        "75%"
       ],
-      "correct_answer": "the company Regeneron (free)"
+      "correct_answer": "26%"
     }
   ],
   "background_read": [
-    "Gene therapy is a new kind of medicine that changes a person's genes to fix diseases at the source.",
-    "The FDA (the Food and Drug Administration, the U.S. agency that approves medicines) decides if treatments are safe enough for people.",
-    "Deafness can be caused by many things, and this therapy only works for a specific type caused by a broken OTOF gene."
+    "Reward programs are a way for stores to thank you for shopping there many times.",
+    "Green Stamps were one of the very first loyalty programs, started way back in 1896.",
+    "Artist Andy Warhol, who painted famous everyday objects like soup cans, also made a painting of Green Stamps."
   ],
   "Article_Structure": [
-    "WHO: The FDA, the company Regeneron, and patients with inherited deafness.",
-    "WHAT: The FDA approved the first gene therapy for a type of inherited deafness.",
-    "WHERE: In the United States, where the treatment is approved.",
-    "WHY: To help people born with a broken OTOF gene hear better without needing a cochlear implant."
+    "WHO: S&H, the company that made Green Stamps, and the customers who collected them.",
+    "WHAT: Green Stamps were small stamps given with purchases that could be saved and traded for prizes.",
+    "WHERE: In stores all across the United States, with 800 redemption centers.",
+    "WHY: To make customers keep coming back to the same stores."
   ],
   "perspectives": [
     {
-      "perspective": "Patients and families",
-      "description": "They are very hopeful because this therapy could let deaf children hear without needing a special device."
+      "perspective": "Fun shopping bonus",
+      "description": "Green Stamps made shopping more exciting because you could get free stuff like lamps or bicycles."
     },
     {
-      "perspective": "Medical researchers",
-      "description": "They see this as a huge step forward for gene therapy, proving it can work for more than rare diseases."
+      "perspective": "Waste of money",
+      "description": "Many people forgot to use their stamps or lost their booklets, so they never got the prizes they earned."
     },
     {
-      "perspective": "Skeptics",
-      "description": "Some people worry about side effects or note that the doctor visit might still cost money, even if the treatment is free."
+      "perspective": "Changed with technology",
+      "description": "Although Green Stamps are gone, the idea of loyalty programs is now bigger than ever, but on phones and apps."
     }
   ],
-  "mined_at": "2026-04-25T07:06:51+00:00",
-  "source_published_at": "Thu, 23 Apr 2026 21:01:34 +0000",
-  "source_name": "Live Science",
-  "source_url": "https://www.livescience.com/health/genetics/a-landmark-moment-for-the-field-fda-approves-first-ever-gene-therapy-for-inherited-deafness"
+  "mined_at": "2026-04-25T16:45:58+00:00",
+  "source_published_at": "Wed, 08 Apr 2026 11:00:00 +0000",
+  "source_name": "Smithsonian History",
+  "source_url": "https://www.smithsonianmag.com/history/customer-loyalty-once-measured-green-stamps-more-shopped-bigger-rewards-180988413/"
 }

@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width,initial-scale=1"/>
-<title>News Oh,Ye! — Kids News Prototype</title>
+<title>21 minutes every day · Kids News</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700;9..144,800;9..144,900&family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet">
@@ -40,7 +40,7 @@ const TWEAK_DEFAULTS = /*EDITMODE-BEGIN*/{
   "userName": "",
   "avatar": "panda",
   "language": "en",
-  "dailyGoal": 15,
+  "dailyGoal": 21,
   "level": "Sprout",
   "streakDays": 0,
   "xp": 0
@@ -78,6 +78,8 @@ function App() {
   const [progress, setProgress] = useState(() => {
     // Fresh users start with empty progress — no pre-filled mock reads.
     // Old MOCK_USER readToday["a2"] inflated the count + showed phantom reads.
+    // Local-timezone day key (intentionally not UTC; resets feel right
+    // wherever the reader is).
     const todayKey = new Date().toDateString();  // local "Sat Apr 25 2026"
     const saved = ss.getJSON('ohye_progress');
     const base = {
@@ -86,11 +88,33 @@ function App() {
       dayKey: todayKey,
     };
     if (!saved) return base;
-    // Day-rollover reset — readToday/minutesToday/articleProgress are
-    // per-day stats; dayKey lets us detect a new local day on load. Keep
-    // tweaks etc. (those live in ohye_tweaks, not progress).
-    if (saved.dayKey !== todayKey) return base;
-    return { ...base, ...saved, articleProgress: saved.articleProgress || {} };
+
+    // Day-rollover reset — fire ONLY on an EXPLICIT older dayKey. Pre-
+    // change saves had no dayKey field; treating that as "different
+    // from today" would wipe an active reader's same-day progress on
+    // first load after deploy. Missing dayKey ⇒ stamp it, don't reset.
+    if (saved.dayKey && saved.dayKey !== todayKey) return base;
+
+    // Legacy migration: articleProgress[id] used to be a single number
+    // (0/25/50/75/100). Map those to the new {steps,lastTab} shape so
+    // article.jsx and home.jsx see one consistent shape end-to-end —
+    // otherwise reopening an article would land on the wrong tab AND
+    // re-credit completed steps.
+    const STEP_IDS = ['read', 'analyze', 'quiz', 'discuss'];
+    const ap = {};
+    for (const [id, v] of Object.entries(saved.articleProgress || {})) {
+      if (v && typeof v === 'object') {
+        ap[id] = v;
+      } else if (typeof v === 'number') {
+        const n = Math.min(4, Math.max(0, Math.floor(v / 25)));
+        ap[id] = {
+          steps: STEP_IDS.slice(0, n),
+          // Resume on the next-incomplete tab (or 'read' if fully done).
+          lastTab: n >= 4 ? 'read' : STEP_IDS[n],
+        };
+      }
+    }
+    return { ...base, ...saved, articleProgress: ap, dayKey: todayKey };
   });
 
   const [tweaks, setTweaks] = useState(() => {

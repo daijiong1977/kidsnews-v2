@@ -1,163 +1,174 @@
 {
-  "title": "Building History: Students Recreate ENIAC",
-  "summary": "In a classroom in Gilbert, Arizona, a group of middle and high school students are building a piece of history. They're constructing a full-scale replica of ENIAC—the Electronic Numerical Integrator and Computer, one of the world's first programmable electronic computers. Built in the 1940s, ENIAC was a giant: it filled a room, used thousands of vacuum tubes, and was about a thousand times faster than any other machine at the time.\n\nThe project is the brainchild of Tom Burick, a technology instructor at PS Academy, a school for students with autism and other specialized learning needs. Burick is no stranger to building things. Before teaching, he owned a robotics company called White Box Robotics, which sold about 200 robots in 17 countries. But after the 2008 financial crisis forced him to close the business, he turned to teaching.\n\n\"I had so many amazing people help me when I was young,\" Burick says. \"They really gave me their time and resources, and changed the trajectory of my life. I thought I need to pay that forward.\"\n\nBurick himself is neurodivergent—he has dyscalculia, a learning difference that makes traditional math challenging. But he reframes it as a strength. \"I have this CAD program that runs in my head 24 hours a day,\" he says. \"I think the reason I was successful in robotics was because of the dyscalculia. To me, it has always been a superpower.\"\n\nHis students, many of whom are also neurodivergent, bring their own strengths to the project: hyperfocus, precision, and the ability to repeat tasks meticulously. \"I didn't want my technology program to feel like craft hour,\" Burick says. The ENIAC replica, built for the 80th anniversary of the original, is a testament to what students can achieve when they leverage their unique abilities.\n\nThe replica precisely matches what ENIAC looked like before it was disassembled in the 1950s. It's a hands-on history lesson that connects students to the roots of modern computing. Burick hopes it inspires them to see their own differences as superpowers, too.",
-  "why_it_matters": "This project shows how neurodivergent students can excel when given tasks that match their unique abilities, challenging stereotypes about learning differences and demonstrating that inclusive education can produce remarkable achievements in history, technology, and engineering.",
+  "title": "This Teacher Built a Life-Size ENIAC Replica With His Students—And It's Awesome",
+  "summary": "Tom Burick has always been a builder. He's designed robots, constructed a vintage teardrop trailer, and now, as a technology instructor at PS Academy in Gilbert, Arizona, he's led his students in building a full-scale replica of one of the most important computers in history: ENIAC.\n\nENIAC, short for Electronic Numerical Integrator and Computer, was one of the world's first programmable electronic computers. When it was built in the 1940s, it was about a thousand times faster than any other machine. The original ENIAC filled an entire room, weighed 30 tons, and used over 17,000 vacuum tubes. Burick's replica, built for the 80th anniversary of ENIAC's construction, precisely matches what the original computer looked like before it was disassembled in the 1950s.\n\nBut this project is about more than just history. Burick teaches at a middle and high school for students with autism and other specialized learning needs. He himself has dyscalculia, a learning difference that makes traditional mathematics challenging. \"People tell you what it takes, but they never tell you what it gives,\" Burick says. For him, dyscalculia has been a superpower, giving him strong 3D spatial reasoning. \"I have this CAD program that runs in my head 24 hours a day,\" he explains.\n\nBurick wants his students to see their own neurodivergence as a strength. Through projects like the ENIAC replica, they can leverage traits like hyperfocus and the ability to precisely repeat tasks. \"I didn't want my technology program to feel like craft hour,\" he says.\n\nBefore teaching, Burick owned a robotics company called White Box Robotics, which produced the 914 PC-Bot—a modular robot platform that sold about 200 units in 17 countries. But the 2008 financial crisis forced him to close the business. \"I got to live my life's dream for 10 years,\" he says. Then he decided to pay forward the help he'd received as a young builder. \"I had so many amazing people help me when I was young,\" he recalls. \"I thought I need to pay that forward.\"",
+  "why_it_matters": "Burick’s story shows that a learning difference like dyscalculia can be an asset rather than a limitation, and that hands-on projects can empower students with neurodivergence to build confidence and skills. For middle-schoolers, it challenges stereotypes about who can be a successful engineer or inventor.",
   "image_url": "/article_images/article_21c54d43fb4f.webp",
   "keywords": [
     {
       "term": "ENIAC",
-      "explanation": "Electronic Numerical Integrator and Computer, one of the first programmable electronic computers, built in the 1940s."
+      "explanation": "One of the world's first programmable electronic computers, built in the 1940s."
     },
     {
       "term": "vacuum tubes",
-      "explanation": "Old-fashioned electronic components that control electric current; early computers used thousands of them."
-    },
-    {
-      "term": "replica",
-      "explanation": "An exact copy of an object, built to look like the original."
-    },
-    {
-      "term": "autism",
-      "explanation": "A developmental condition that affects how a person communicates and interacts with others, and often brings focused interests."
+      "explanation": "Glass tubes that control electric current and were used as switches in early computers."
     },
     {
       "term": "dyscalculia",
-      "explanation": "A learning difference that makes it hard to understand numbers and math, similar to dyslexia but with numbers."
+      "explanation": "A learning difference that makes it hard to understand numbers and do math."
     },
     {
-      "term": "neurodivergent",
-      "explanation": "A term for people whose brain works differently from what is considered typical, including autism, ADHD, dyslexia, and dyscalculia."
+      "term": "neurodivergence",
+      "explanation": "The idea that brain differences (like autism or dyscalculia) are normal and can be strengths."
     },
     {
-      "term": "classroom",
-      "rank": 3617,
-      "explanation": ""
+      "term": "hyperfocus",
+      "explanation": "The ability to concentrate intensely on a single task for a long time, often seen in people with certain neurodivergent traits."
     },
     {
-      "term": "Gilbert",
-      "rank": 8761,
-      "explanation": ""
+      "term": "White Box Robotics",
+      "explanation": "A company founded by Tom Burick that made a modular robot called the 914 PC-Bot."
     },
     {
-      "term": "They're",
+      "term": "Burick",
       "rank": null,
       "explanation": ""
     },
     {
-      "term": "constructing",
+      "term": "builder",
+      "rank": 4766,
+      "explanation": ""
+    },
+    {
+      "term": "He's",
       "rank": null,
       "explanation": ""
     },
     {
-      "term": "full-scale",
+      "term": "robots",
+      "rank": 9607,
+      "explanation": ""
+    },
+    {
+      "term": "constructed",
+      "rank": 5483,
+      "explanation": ""
+    },
+    {
+      "term": "teardrop",
       "rank": null,
       "explanation": ""
     },
     {
-      "term": "Numerical",
-      "rank": 7138,
+      "term": "trailer",
+      "rank": 3868,
+      "explanation": ""
+    },
+    {
+      "term": "instructor",
+      "rank": 4099,
       "explanation": ""
     }
   ],
   "questions": [
     {
-      "question": "Who is leading the project to build the ENIAC replica?",
+      "question": "What did Tom Burick and his students build?",
       "options": [
-        "Mansi Kasliwal",
-        "Tom Burick",
-        "Mor Naaman",
-        "John Mauchly"
+        "A life-size replica of the ENIAC computer",
+        "A working smartphone",
+        "A robot from the 1950s",
+        "A model of a space shuttle"
       ],
-      "correct_answer": "Tom Burick"
+      "correct_answer": "A life-size replica of the ENIAC computer"
     },
     {
-      "question": "What school is hosting the project?",
+      "question": "Where does Tom Burick teach?",
       "options": [
-        "PS Academy",
-        "Caltech",
-        "Cornell University",
-        "Arizona State University"
+        "PS Academy in Gilbert, Arizona",
+        "MIT in Cambridge",
+        "Stanford in California",
+        "A high school in New York"
       ],
-      "correct_answer": "PS Academy"
-    },
-    {
-      "question": "What was Tom Burick's job before teaching?",
-      "options": [
-        "astronomer",
-        "robotics company owner",
-        "software engineer",
-        "history teacher"
-      ],
-      "correct_answer": "robotics company owner"
+      "correct_answer": "PS Academy in Gilbert, Arizona"
     },
     {
       "question": "What learning difference does Tom Burick have?",
       "options": [
-        "dyslexia",
-        "autism",
-        "dyscalculia",
-        "ADHD"
+        "Dyscalculia",
+        "Dyslexia",
+        "ADHD",
+        "Autism"
       ],
-      "correct_answer": "dyscalculia"
+      "correct_answer": "Dyscalculia"
     },
     {
-      "question": "How does Tom Burick describe his dyscalculia?",
+      "question": "How does Burick view his dyscalculia?",
       "options": [
-        "a weakness",
-        "a superpower",
-        "a distraction",
-        "a challenge"
+        "As a superpower that gives him strong 3D spatial reasoning",
+        "As a disability that limits his teaching",
+        "As something he needs to hide",
+        "As a reason he stopped building robots"
       ],
-      "correct_answer": "a superpower"
+      "correct_answer": "As a superpower that gives him strong 3D spatial reasoning"
     },
     {
-      "question": "Why are the students building the replica?",
+      "question": "What was the name of Burick's former robotics company?",
       "options": [
-        "for a science fair",
-        "for the 80th anniversary of the original ENIAC",
-        "for a museum exhibition",
-        "as a class project on history"
+        "White Box Robotics",
+        "Black Box Robotics",
+        "Gray Box Robotics",
+        "Open Box Robotics"
       ],
-      "correct_answer": "for the 80th anniversary of the original ENIAC"
+      "correct_answer": "White Box Robotics"
+    },
+    {
+      "question": "Why did Burick's robotics company close?",
+      "options": [
+        "The 2008 financial crisis",
+        "A lawsuit",
+        "He wanted to become a teacher",
+        "The robots didn't sell"
+      ],
+      "correct_answer": "The 2008 financial crisis"
     }
   ],
   "background_read": [
-    "ENIAC (Electronic Numerical Integrator and Computer) was built in the 1940s at the University of Pennsylvania. It used 18,000 vacuum tubes, weighed 30 tons, and could perform 5,000 additions every second – a thousand times faster than any existing mechanical calculator.",
-    "Neurodivergence refers to conditions like autism, ADHD, dyslexia, and dyscalculia, where the brain processes information differently than the majority of people. Many neurodivergent individuals have unique strengths, such as intense focus (hyperfocus), pattern recognition, and meticulous attention to detail.",
-    "Tom Burick is a former robotics entrepreneur who founded White Box Robotics. After the 2008 financial crisis closed his company, he turned to teaching at PS Academy, a school that specializes in supporting students with autism and other specialized learning needs."
+    "ENIAC (Electronic Numerical Integrator and Computer) was built at the University of Pennsylvania in 1945. It filled a room 30 by 50 feet, weighed 30 tons, and used over 17,000 vacuum tubes. It could perform about 5,000 additions per second — a thousand times faster than earlier mechanical calculators.",
+    "Tom Burick's school, PS Academy in Gilbert, Arizona, is a K-12 school that specializes in educating students with autism and other unique learning needs. Burick himself has dyscalculia, a learning disorder that affects number sense and arithmetic. He used his strong 3D spatial reasoning — a common trait in some forms of neurodivergence — to design the replica without any blueprints.",
+    "Before teaching, Burick ran White Box Robotics, a company that produced the 914 PC‑Bot, a modular robot sold in 17 countries. The 2008 global financial crisis — a severe worldwide recession caused by the collapse of the housing market — forced him to close the business. He then turned to teaching to 'pay forward' the help he received as a young builder.",
+    "The concept of neurodiversity, which emerged in the late 1990s, argues that conditions like autism, dyslexia, and dyscalculia are natural variations in the human brain, not disorders to be cured. Burick's message to his students — that their neurodivergent traits can be strengths — reflects this growing movement."
   ],
   "Article_Structure": [
-    "LEAD: Students at a special school are building a full-scale replica of ENIAC",
-    "  └─ Location: PS Academy, Gilbert, Arizona",
-    "PERSON: Tom Burick, instructor",
-    "  ├─ Former robotics CEO (White Box Robotics, sold ~200 robots in 17 countries)",
-    "  └─ Has dyscalculia, reframes it as a superpower",
-    "STUDENTS: Many are neurodivergent (autism, etc.)",
-    "  └─ Use hyperfocus, precision, meticulous repetition as strengths",
-    "PROJECT: Replica matches ENIAC before it was disassembled in the 1950s",
-    "  └─ Built for the 80th anniversary of the original",
-    "GOAL: Hands-on history lesson connecting students to computing roots",
-    "THEME: Neurodiversity as a strength – Burick wants students to see their differences as superpowers"
+    "LEAD: Tom Burick is a builder who always takes on big projects.",
+    "  └─ SPECIFIC: He and his students built a full-size replica of the ENIAC computer",
+    "ENIAC CONTEXT: Built in 1940s, filled a room, 30 tons, 17,000 vacuum tubes",
+    "  └─ OCCASION: 80th anniversary of ENIAC's construction",
+    "PERSONAL ANGLE: Burick has dyscalculia — a learning difference that makes math hard",
+    "  └─ HIS VIEW: Dyscalculia is a superpower that gives him 3D spatial reasoning ('CAD program in my head')",
+    "STUDENTS: School for students with autism; project uses hyperfocus and repeat-task abilities",
+    "  └─ QUOTE: 'I didn't want my technology program to feel like craft hour'",
+    "BACKSTORY: Former owner of White Box Robotics (914 PC-Bot, sold in 17 countries)",
+    "  └─ CLOSURE: 2008 financial crisis ended the business",
+    "CONCLUSION: He wants to pay forward the help he received as a young builder"
   ],
   "perspectives": [
     {
-      "perspective": "Positive",
-      "description": "Students and educators see the replica as empowering; it builds confidence, provides real engineering experience, and celebrates neurodiversity as a source of innovation."
+      "perspective": "Positive (Empowerment of Neurodivergent Students)",
+      "description": "The project directly shows students with autism and other learning differences that their unique traits — hyperfocus, precise repetition, spatial thinking — are valuable in tech. Burick serves as a role model, proving that someone with dyscalculia can lead a complex engineering project."
     },
     {
-      "perspective": "Negative / critical",
-      "description": "Some may argue the project is too expensive or niche, diverting resources from core academic subjects, or that its success depends heavily on the unique skill of one teacher."
+      "perspective": "Negative / Critical (Resource Demands)",
+      "description": "Building a life-size ENIAC replica requires significant funds, space, and time. Critics might argue that such projects are too expensive for many schools, especially those serving under-resourced communities. The time spent on the replica could have been used for other educational activities."
     },
     {
-      "perspective": "Neutral / analytical",
-      "description": "The replica is both a teaching tool and a historical preservation effort. It highlights how specialized education programs can tailor learning to individual strengths, but it remains a case study rather than a scalable model."
+      "perspective": "Neutral / Analytical (Historical Education Value)",
+      "description": "The replica provides a tangible connection to the history of computing. Students learn not only about ENIAC’s engineering but also about the context of the 1940s — a time when computers were room-sized and women were often the operators. It’s a powerful hands-on lesson in technology history."
     },
     {
-      "perspective": "Forward-looking",
-      "description": "If successful, the project could inspire other schools to create hands-on history or engineering projects for neurodivergent students, and may shift public perception of learning differences from deficits to assets."
+      "perspective": "Forward-looking (Replicability and Impact)",
+      "description": "If Burick documents his process, other schools with specialized learning programs could replicate the project. This could inspire a broader movement to use large-scale historical builds as a teaching tool for neurodivergent students, potentially creating more inclusive pathways into STEM fields."
     }
   ],
-  "mined_at": "2026-04-25T07:06:51+00:00",
+  "mined_at": "2026-04-25T16:45:58+00:00",
   "source_published_at": "Thu, 23 Apr 2026 13:00:01 +0000",
   "source_name": "IEEE Spectrum",
   "source_url": "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica"
