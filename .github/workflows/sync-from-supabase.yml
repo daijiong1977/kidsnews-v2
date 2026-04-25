@@ -2,8 +2,13 @@ name: Sync content from Supabase
 
 on:
   workflow_dispatch: {}
+  # news-v2 fires this event the moment its pipeline finishes pack_and_upload —
+  # eliminates the up-to-2h gap that the cron alone would impose.
+  repository_dispatch:
+    types: [news-v2-uploaded]
   schedule:
-    # Every day 15 minutes past every even hour (UTC) — pipeline posts earlier.
+    # Fallback in case the dispatch event is missed (token expiry, network
+    # blip, or the news-v2 step gets disabled). Every 2h on :15.
     - cron: "15 */2 * * *"
 
 permissions:
