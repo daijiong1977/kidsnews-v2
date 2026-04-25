@@ -1,123 +1,123 @@
 {
-  "title": "Meet LUCA: The Great-Great-Great-Great… Grandparent of Every Living Thing!",
-  "summary": "Have you ever wondered who your oldest ancestor is? Not your great-grandpa — we're talking way, way older. Like, billions of years older!\n\nScientists call it LUCA. That stands for Last Universal Common Ancestor. LUCA wasn't the first living thing on Earth, but it's special because every single living thing today — you, your dog, the mushrooms on your pizza, and even the bacteria in your belly — is related to it. We're all distant cousins!\n\nSo what did LUCA look like? Scientists think it was a single cell, probably shaped like a rod (like a tiny hot dog). It probably lived near a hydrothermal vent at the bottom of the ocean — that's like an underwater volcano that spews hot, mineral-rich water.\n\nA team of scientists led by Tom Williams from the University of Bath recently figured out more about LUCA than ever before. They think LUCA lived about 4 billion years ago. It ate, it had insides, and it was a microbe.\n\nWhy do scientists care? Well, understanding LUCA helps us understand how life evolved on Earth. And that might help us look for life on other planets! Plus, it's just cool to know where we all came from.\n\n\"If you want to understand the early evolution of life, then you're talking about events that happened to microbes,\" says Williams. \"I think that is quite important.\"\n\nSo next time you see a tree or a bird, remember: you're related! Thanks, LUCA.",
-  "why_it_matters": "You share a common ancestor with all living things – trees, mushrooms, bacteria – and that means we are all connected in one big family tree.",
-  "image_url": "/article_images/article_c61af5668b8b.webp",
+  "title": "Ancient Snake Had Legs and a Lost Cheekbone!",
+  "summary": "Did you know that ancient snakes had legs? A fossil from Argentina shows a snake that lived 100 million years ago with hind legs! It's called Najash rionegrina.\n\nScientists used special CT scans to look inside the fossil without breaking it. They found something surprising: this snake had a cheekbone, called the jugal bone. Modern snakes don't have this bone. The discovery corrects a 160-year-old mistake about snake skulls.\n\nThe fossil also shows that early snakes were big-bodied and big-mouthed. Scientists used to think snakes started as small animals that burrowed underground. But this fossil proves they were larger and had wide mouths.\n\nNajash still had hind legs, which means snakes kept their legs for a long time before losing them completely. This fossil is like a snapshot of evolution in action—a snake that was still changing from a lizard-like ancestor into the legless snakes we know today.",
+  "why_it_matters": "This helps us understand that animals change over time, just like how your understanding of the world changes as you grow up.",
+  "image_url": "/article_images/article_717dcc40a761.webp",
   "keywords": [
     {
-      "term": "LUCA",
-      "explanation": "Last Universal Common Ancestor, the shared ancestor of all life today"
+      "term": "fossil",
+      "explanation": "The preserved remains or traces of a plant or animal from long ago."
     },
     {
-      "term": "Last Universal Common Ancestor",
-      "explanation": "The full name for LUCA"
+      "term": "legs",
+      "explanation": "Limbs that animals use to walk or stand on; ancient snakes had them."
     },
     {
-      "term": "single cell",
-      "explanation": "LUCA was a tiny living thing made of just one cell"
+      "term": "snake",
+      "explanation": "A long, legless reptile that slides on its belly."
     },
     {
-      "term": "hydrothermal vent",
-      "explanation": "An underwater volcano that spews hot water, where LUCA likely lived"
+      "term": "cheekbone",
+      "explanation": "A bone in the face below the eye, also called the jugal bone."
     },
     {
-      "term": "Tom Williams",
-      "explanation": "The scientist who led the team studying LUCA"
+      "term": "CT scans",
+      "explanation": "Special X-rays that let scientists see inside a fossil without breaking it."
     },
     {
-      "term": "University of Bath",
-      "explanation": "The university where Tom Williams works"
+      "term": "evolution",
+      "explanation": "The slow change of living things over millions of years into different forms."
     }
   ],
   "questions": [
     {
-      "question": "What does LUCA stand for?",
+      "question": "What is the name of the ancient snake fossil found in Argentina?",
       "options": [
-        "Last Universal Common Ancestor",
-        "Last Underwater Creature Alive",
-        "Large Universal Cell Ancestor",
-        "Lunar Unified Cosmic Ancestor"
+        "Titanoboa",
+        "Najash rionegrina",
+        "Wonambi",
+        "Haasiophis"
       ],
-      "correct_answer": "Last Universal Common Ancestor"
+      "correct_answer": "Najash rionegrina"
     },
     {
-      "question": "What did LUCA look like?",
+      "question": "What surprising bone did scientists find in the fossil?",
       "options": [
-        "A fish",
-        "A single cell shaped like a rod",
-        "A tree",
-        "A bird"
+        "A wing bone",
+        "A tail bone",
+        "A cheekbone called the jugal",
+        "A rib bone"
       ],
-      "correct_answer": "A single cell shaped like a rod"
+      "correct_answer": "A cheekbone called the jugal"
     },
     {
-      "question": "Where did LUCA probably live?",
+      "question": "How did scientists look inside the fossil without breaking it?",
       "options": [
-        "On land",
-        "In a forest",
-        "Near a hydrothermal vent at the bottom of the ocean",
-        "Inside a volcano"
+        "They cut it open carefully",
+        "They used special CT scans",
+        "They melted the rock around it",
+        "They x-rayed it with a dental machine"
       ],
-      "correct_answer": "Near a hydrothermal vent at the bottom of the ocean"
+      "correct_answer": "They used special CT scans"
     },
     {
-      "question": "How long ago did LUCA live?",
+      "question": "What did scientists used to think about early snakes?",
       "options": [
-        "About 4 billion years ago",
-        "About 1 million years ago",
-        "About 500 million years ago",
-        "About 100,000 years ago"
+        "They were large and had wide mouths",
+        "They started as small animals that burrowed underground",
+        "They could fly",
+        "They lived only in water"
       ],
-      "correct_answer": "About 4 billion years ago"
+      "correct_answer": "They started as small animals that burrowed underground"
     },
     {
-      "question": "Who led the team that learned more about LUCA?",
+      "question": "What does the fossil prove about when snakes lost their legs?",
       "options": [
-        "Tom Williams",
-        "Mansi Kasliwal",
-        "David Reitze",
-        "Edmund Moody"
+        "They lost their legs very quickly",
+        "They kept their legs for a long time before losing them completely",
+        "They never had legs",
+        "They lost legs before they developed skulls"
       ],
-      "correct_answer": "Tom Williams"
+      "correct_answer": "They kept their legs for a long time before losing them completely"
     },
     {
-      "question": "Why is LUCA important?",
+      "question": "The discovery corrects a mistake that was how many years old?",
       "options": [
-        "It was the first living thing",
-        "It is the ancestor of every living thing today",
-        "It was the biggest animal ever",
-        "It lived on Mars"
+        "50 years",
+        "100 years",
+        "160 years",
+        "200 years"
       ],
-      "correct_answer": "It is the ancestor of every living thing today"
+      "correct_answer": "160 years"
     }
   ],
   "background_read": [
-    "Scientists think LUCA lived about 4 billion years ago, when Earth was very young.",
-    "Before LUCA, there were probably other simple life forms, but they died out.",
-    "Understanding LUCA helps scientists look for life on other planets."
+    "Snakes evolved from four-legged lizard-like ancestors over millions of years.",
+    "Argentina (a country in South America) has many amazing fossils, including this snake that lived 100 million years ago.",
+    "CT scans are like super-detailed X-rays that let scientists see inside rocks and fossils without damaging them."
   ],
   "Article_Structure": [
-    "WHO: Tom Williams and his team from the University of Bath and University of Barcelona",
-    "WHAT: Figured out more details about LUCA, the last common ancestor of all life",
-    "WHERE: At the University of Bath and University of Barcelona",
-    "WHY: To understand how life evolved on Earth and help find life on other planets"
+    "WHO: Scientists using CT scans to study a snake fossil",
+    "WHAT: Discovered that an ancient snake called Najash rionegrina had hind legs and a cheekbone that modern snakes lack",
+    "WHERE: In Argentina, from a fossil that is 100 million years old",
+    "WHY: The finding corrects a 160-year-old mistake about snake skulls and shows that snakes evolved from larger, big-mouthed animals, not small burrowers"
   ],
   "perspectives": [
     {
-      "perspective": "Excited scientists",
-      "description": "They now have a clearer picture of what LUCA was like, which helps them study the origins of life."
+      "perspective": "Exciting for paleontologists",
+      "description": "Paleontologists are excited because the fossil fills a gap in snake evolution and shows how early snakes looked very different from today."
     },
     {
-      "perspective": "Curious kids",
-      "description": "It's amazing to think that every living thing is related, and it makes you look at nature differently."
+      "perspective": "Challenging old theories",
+      "description": "Scientists had to rethink their old idea that snakes started as tiny burrowers, which shows that new discoveries can change what we thought we knew."
     },
     {
-      "perspective": "Skeptical people",
-      "description": "Some wonder how we can know so much about something that lived so long ago, but science keeps finding clues."
+      "perspective": "A snapshot of evolution",
+      "description": "This fossil is like a picture of evolution in action, showing a snake that was still partway between lizard and modern snake."
     }
   ],
-  "mined_at": "2026-04-25T02:02:40+00:00",
-  "source_published_at": "Thu, 23 Apr 2026 10:30:00 +0000",
-  "source_name": "Science News Explores",
-  "source_url": "https://www.snexplores.org/article/luca-common-ancestor-evolution"
+  "mined_at": "2026-04-25T04:04:42+00:00",
+  "source_published_at": "Fri, 24 Apr 2026 04:36:51 EDT",
+  "source_name": "ScienceDaily All",
+  "source_url": "https://www.sciencedaily.com/releases/2026/04/260424024002.htm"
 }

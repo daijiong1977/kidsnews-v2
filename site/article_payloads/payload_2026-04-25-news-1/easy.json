@@ -1,123 +1,119 @@
 {
-  "title": "Big News: Justice Department Drops Investigation Into Fed Chair",
-  "summary": "Have you ever wondered what happens when the government investigates someone important? Well, the Justice Department just dropped its criminal investigation into Jerome Powell, the chair of the Federal Reserve (the group that helps manage the U.S. economy). They were looking into whether he lied to Congress about renovations at the Fed's headquarters. Instead, the Fed's inspector general will check on the cost overruns. This opens the door for Kevin Warsh to be confirmed as the next Fed chair. Senator Thom Tillis had threatened to block Warsh's nomination unless the investigation was dropped. White House Press Secretary Karoline Leavitt said Tillis should \"do the right thing\" and confirm Warsh quickly. In other news, a federal appeals court ruled that President Trump's executive order banning asylum claims at the southern border is illegal. The court said people have the right to apply for asylum. The FDA also said it will fast-track reviews for three psychedelic drugs (drugs that change how you see and feel) to treat mental health conditions like depression and PTSD. Two of the drugs come from magic mushrooms, and one is based on MDMA (Ecstasy). And a powerful tornado hit northern Oklahoma, destroying dozens of homes. Amazingly, no one died—only minor injuries were reported.",
-  "why_it_matters": "This story shows how different parts of the government make decisions that affect our money, our safety, and what medicines might be available in the future — it's like seeing how the country's leaders solve big problems.",
-  "image_url": "/article_images/article_1bb3e965b524.webp",
+  "title": "Peace Talks Head to Pakistan: Can the War with Iran End?",
+  "summary": "Imagine a big waterway where giant ships carry oil and goods to countries all over the world. That's the Strait of Hormuz. But right now, it's mostly frozen because of a war between the U.S. and Iran that has been going on for two months. Now, there's new hope for peace.\n\nAn American team, including special envoy Steve Witkoff and President Trump's son-in-law Jared Kushner, is flying to Pakistan to talk with Iran. The White House says Iran wants to talk in person. But Iran's foreign minister is already in Pakistan, and his spokesman says no meeting is planned with the Americans. Hmm, that's confusing!\n\nThe war has made oil prices go up. The U.S. has three aircraft carriers and more than 15,000 sailors and Marines in the Middle East. Even so, ships are not getting through the strait fast enough. Both sides say they control the waterway. Iran's Revolutionary Guard even seized two container ships this week.\n\nTo help lower prices, the White House quietly extended a rule that lets foreign ships carry oil to U.S. ports. They also announced new sanctions (punishments) on Iran and Chinese companies that help move Iranian oil.\n\nWill the talks work? We'll have to wait and see.",
+  "why_it_matters": "When there is war far away, it can make things like gas and toys more expensive because shipping gets harder, so peace talks matter to your family's money.",
+  "image_url": "/article_images/article_e0b507a2086e.webp",
   "keywords": [
     {
-      "term": "Justice Department",
-      "explanation": "The part of the U.S. government that enforces laws and runs criminal investigations."
+      "term": "Strait of Hormuz",
+      "explanation": "A narrow waterway where giant ships carry oil and goods between countries."
     },
     {
-      "term": "Federal Reserve",
-      "explanation": "The central bank that manages the U.S. money supply and interest rates."
+      "term": "special envoy",
+      "explanation": "A person chosen by a leader to go and talk to another country about an important problem."
     },
     {
-      "term": "Kevin Warsh",
-      "explanation": "President Trump's nominee to become the next chair of the Federal Reserve."
+      "term": "sanctions",
+      "explanation": "Punishments that one country puts on another, like stopping trade or money moving."
     },
     {
-      "term": "asylum",
-      "explanation": "Protection given by a country to someone who has fled their own country because of danger."
+      "term": "aircraft carriers",
+      "explanation": "Huge warships that carry airplanes and soldiers across the ocean."
     },
     {
-      "term": "FDA",
-      "explanation": "The U.S. Food and Drug Administration, which decides if new medicines are safe."
+      "term": "Revolutionary Guard",
+      "explanation": "A special part of Iran's military that protects the country and does important missions."
     },
     {
-      "term": "tornado",
-      "explanation": "A powerful, spinning wind storm that can destroy buildings and homes."
+      "term": "container ships",
+      "explanation": "Very big ships that carry large metal boxes full of products to different ports."
     }
   ],
   "questions": [
     {
-      "question": "What did the Justice Department drop?",
+      "question": "What is the Strait of Hormuz used for?",
       "options": [
-        "A civil lawsuit",
-        "A criminal investigation into Jerome Powell",
-        "A trade agreement",
-        "An immigration case"
+        "Carrying people on vacation",
+        "Carrying oil and goods on giant ships",
+        "Fishing for food",
+        "Building houses"
       ],
-      "correct_answer": "A criminal investigation into Jerome Powell"
+      "correct_answer": "Carrying oil and goods on giant ships"
     },
     {
-      "question": "Who will now look into the cost overruns at the Fed?",
+      "question": "Why are American officials flying to Pakistan?",
       "options": [
-        "The FBI",
-        "The Fed's inspector general",
-        "Congress",
-        "The Supreme Court"
+        "To go on a vacation",
+        "To talk with Iran about peace",
+        "To buy oil from Pakistan",
+        "To build a new airport"
       ],
-      "correct_answer": "The Fed's inspector general"
+      "correct_answer": "To talk with Iran about peace"
     },
     {
-      "question": "Why did Senator Thom Tillis threaten to block Kevin Warsh's nomination?",
+      "question": "What confusing thing happened about the talks?",
       "options": [
-        "Because Warsh is too young",
-        "Because the DOJ hadn't dropped the investigation",
-        "Because Warsh doesn't like football",
-        "Because Tillis wants the job"
+        "Iran said yes to a meeting, then said no",
+        "Iran's foreign minister said no meeting is planned, but the White House says Iran wants to talk",
+        "Both sides agreed to meet in Washington",
+        "The talks were cancelled because of bad weather"
       ],
-      "correct_answer": "Because the DOJ hadn't dropped the investigation"
+      "correct_answer": "Iran's foreign minister said no meeting is planned, but the White House says Iran wants to talk"
     },
     {
-      "question": "What did the federal appeals court say about Trump's asylum ban?",
+      "question": "What has the war done to oil prices?",
       "options": [
-        "It is legal",
-        "It is illegal",
-        "It needs more study",
-        "It applies only to children"
+        "Made them go down",
+        "Kept them the same",
+        "Made them go up",
+        "Made them disappear"
       ],
-      "correct_answer": "It is illegal"
+      "correct_answer": "Made them go up"
     },
     {
-      "question": "Which drugs did the FDA decide to fast-track?",
+      "question": "What did Iran's Revolutionary Guard do this week?",
       "options": [
-        "Antibiotics",
-        "Painkillers",
-        "Psychedelic drugs",
-        "Vaccines"
+        "Attacked an American ship",
+        "Seized two container ships",
+        "Stopped all ships from moving",
+        "Set up a new port"
       ],
-      "correct_answer": "Psychedelic drugs"
+      "correct_answer": "Seized two container ships"
     },
     {
-      "question": "What part of the U.S. was hit by a powerful tornado?",
+      "question": "What did the White House do to help lower prices?",
       "options": [
-        "California",
-        "Florida",
-        "northern Oklahoma",
-        "Texas"
+        "Built new oil wells",
+        "Extended a rule for foreign ships to carry oil to U.S. ports",
+        "Stopped buying oil from Iran",
+        "Sent more soldiers to the Strait"
       ],
-      "correct_answer": "northern Oklahoma"
+      "correct_answer": "Extended a rule for foreign ships to carry oil to U.S. ports"
     }
   ],
   "background_read": [
-    "The Federal Reserve is like the bank for all U.S. banks and helps keep the economy stable.",
-    "When the head of the Fed is investigated, it can affect how people trust the country's money system.",
-    "Tornadoes are measured by how fast their winds spin, and they can be very dangerous."
+    "The Strait of Hormuz is a narrow waterway between Iran and Oman where about one-fifth of the world's oil passes.",
+    "Pakistan is a country in South Asia that sometimes helps other countries have peace talks.",
+    "Jared Kushner is President Trump's son-in-law and used to work as a White House advisor."
   ],
   "Article_Structure": [
-    "WHO: Jerome Powell (Fed Chair), Kevin Warsh, Senator Thom Tillis, Karoline Leavitt",
-    "WHAT: Justice Department drops criminal probe into Powell; court blocks asylum ban; FDA fast-tracks psychedelics; tornado hits Oklahoma",
-    "WHERE: Washington D.C. (DOJ, Fed, court, FDA) and northern Oklahoma (tornado)",
-    "WHY: To clear the way for Warsh's confirmation; because the asylum ban was ruled illegal; to speed up mental health treatments; natural disaster"
+    "WHO: The U.S. team includes special envoy Steve Witkoff and Jared Kushner; Iran's foreign minister is Abbas Araghchi.",
+    "WHAT: They are trying to have peace talks to end the war between the U.S. and Iran.",
+    "WHERE: The talks are planned in Pakistan.",
+    "WHY: The war has frozen shipping in the Strait of Hormuz, raised oil prices, and made things expensive."
   ],
   "perspectives": [
     {
-      "perspective": "Supporters of President Trump",
-      "description": "They think dropping the investigation was necessary to get a new Fed chair who will lower interest rates and help the economy."
+      "perspective": "Hopeful that talks will succeed",
+      "description": "Some people believe the meeting in Pakistan could finally end the war and bring peace, making life cheaper for everyone."
     },
     {
-      "perspective": "Supporters of asylum rights",
-      "description": "They are happy that the appeals court blocked the asylum ban because they believe people fleeing danger should have a fair chance to ask for protection."
-    },
-    {
-      "perspective": "People worried about tornado safety",
-      "description": "They are relieved that no one died in the Oklahoma tornado, but they are concerned about the destruction and hope for better warning systems."
+      "perspective": "Skeptical that talks will succeed",
+      "description": "Others point out that Iran says one thing and the White House says something else, so the talks might fail and the fighting could continue."
     }
   ],
-  "mined_at": "2026-04-25T02:02:40+00:00",
-  "source_published_at": "Fri, 24 Apr 2026 18:50:55 -0400",
+  "mined_at": "2026-04-25T04:04:42+00:00",
+  "source_published_at": "Fri, 24 Apr 2026 18:55:58 -0400",
   "source_name": "PBS NewsHour",
-  "source_url": "https://www.pbs.org/newshour/show/news-wrap-doj-drops-criminal-probe-into-jerome-powell"
+  "source_url": "https://www.pbs.org/newshour/show/u-s-iranian-delegations-head-to-pakistan-renewing-hopes-for-diplomatic-end-to-war"
 }

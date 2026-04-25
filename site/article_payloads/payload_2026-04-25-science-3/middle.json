@@ -1,134 +1,133 @@
 {
-  "title": "A Roboticist-Turned-Teacher and His Students Built a Life-Size ENIAC Replica",
-  "summary": "In a classroom in Gilbert, Arizona, a group of middle and high school students are putting the finishing touches on a massive machine: a full-scale replica of ENIAC, one of the world's first programmable electronic computers. The original ENIAC was built in 1946 and was about 1,000 times faster than any other computing machine of its time. It filled an entire room, with 40 panels arranged in a U-shape.\n\nThe project is the brainchild of Tom Burick, a technology instructor at PS Academy, a school for students with autism and other specialized learning needs. Burick is no ordinary teacher. Before entering the classroom, he ran White Box Robotics, a company that developed a modular robot platform called the 914 PC-Bot. \"The robot's chassis was like a box of Legos,\" Burick explains. \"You could click together two torsos to double its payload, switch out the drive system, or swap its head for a different set of sensors.\" His company sold about 200 robots to 17 countries before the 2008 financial crisis forced it to close in 2010.\n\nBurick's path to teaching was shaped by his own experiences as a neurodivergent learner. He has dyscalculia, a condition that makes traditional mathematics challenging. But he reframes it as a strength. \"I have this CAD program that runs in my head 24 hours a day,\" he says. \"I think the reason I was successful in robotics, truly, was because of the dyscalculia. To me, it has always been a superpower.\"\n\nAs a teenager in Latrobe, Pennsylvania, Burick built a 150-pound firefighting robot that won awards from IEEE. He reached out to mentors at Carnegie Mellon University and Saint Vincent College, who gave him textbooks and let him sit in on classes. \"They really changed the trajectory of my life,\" he says. \"I thought I need to pay that forward.\"\n\nNow, through the ENIAC replica project, Burick is doing just that. The project allows his students — many of whom share traits like the ability to hyperfocus and precisely repeat tasks — to apply their strengths to a real-world historical challenge. \"I didn't want my technology program to feel like craft hour,\" Burick says. Instead, they're building a piece of computing history, one panel at a time.",
-  "why_it_matters": "This story challenges stereotypes about neurodivergence by showing how conditions like autism and dyscalculia can be assets in hands-on engineering. It also demonstrates the power of mentorship and how real-world projects can inspire students who might otherwise be overlooked.",
-  "image_url": "/article_images/article_21c54d43fb4f.webp",
+  "title": "First Lava Tube Found on Venus—Bigger Than Any on Earth",
+  "summary": "Venus, often called Earth's \"sister planet,\" has finally given up one of its secrets: a massive underground lava tube. Scientists discovered it by taking a fresh look at radar images captured by NASA's Magellan probe in the early 1990s. The data revealed a collapsed \"skylight\"—a hole where the roof of the lava tube had caved in—near a broad volcano called Nyx Mons. Further analysis showed the skylight is about 150 meters deep and opens into an empty lava tube at least 375 meters deep. The researchers estimate the tube could be up to one kilometer wide, making it larger than any lava tube found on Earth or Mars.\n\n\"It is remarkable that we are still extracting new insights from Magellan data,\" said Anna Gülcher, a planetary scientist at the University of Freiburg who was not involved in the study. The research, published in Nature Communications on February 9, 2026, is the first detection of a lava tube on Venus.\n\nThe discovery is significant for two reasons. First, it shows that Venus's volcanic landscape is more complex than previously thought. Second, it will help guide two upcoming missions: NASA's VERITAS (scheduled to launch before June 2031) and the European Space Agency's EnVision (expected later that year). Both spacecraft will carry advanced radar instruments capable of imaging Venus's surface at much higher resolution than Magellan.\n\nBut don't expect astronauts to explore this lava tube anytime soon. Venus's surface pressure is 93 times greater than Earth's, and temperatures are hot enough to melt regular electronics. The tube remains a tantalizing target for robotic exploration, however. Lava tubes on the moon and Mars have been proposed as potential shelters for astronauts, protecting them from radiation and meteorites. On Venus, such a shelter would need to withstand extreme conditions.\n\nThe finding also raises a mystery: Why is this lava tube so large? Venus has similar gravity to Earth, yet the tube rivals those found on the moon, where lower gravity makes large tubes easier to form. Scientists are eager to find more lava tubes on Venus to understand this puzzle.",
+  "why_it_matters": "This discovery reminds us that old data can hold new secrets, and it sets the stage for a new era of Venus exploration, where robotic landers and rovers might one day explore underground shelters, reshaping our understanding of Earth's sister planet.",
+  "image_url": "/article_images/article_355a6ec71c48.webp",
   "keywords": [
     {
-      "term": "ENIAC",
-      "explanation": "One of the first programmable electronic computers, built in 1946"
+      "term": "lava tube",
+      "explanation": "A tunnel formed under the surface by flowing lava, often left behind empty after the eruption ends."
     },
     {
-      "term": "Tom Burick",
-      "explanation": "Technology instructor at PS Academy who led the replica project"
+      "term": "skylight",
+      "explanation": "A hole in the roof of a lava tube where the ground has collapsed, exposing the empty space below."
     },
     {
-      "term": "PS Academy",
-      "explanation": "A school in Arizona for students with autism and other learning needs"
+      "term": "Magellan probe",
+      "explanation": "A NASA spacecraft that mapped Venus using radar in the early 1990s."
     },
     {
-      "term": "White Box Robotics",
-      "explanation": "The robotics company Tom Burick ran before teaching"
+      "term": "VERITAS",
+      "explanation": "A planned NASA mission to Venus that will map the surface with advanced radar."
     },
     {
-      "term": "914 PC-Bot",
-      "explanation": "A modular robot platform Burick developed that clicked together like Legos"
+      "term": "EnVision",
+      "explanation": "A planned European Space Agency mission to study Venus's surface and atmosphere."
     },
     {
-      "term": "dyscalculia",
-      "explanation": "A learning disability affecting math, which Burick considers a superpower"
+      "term": "gravity",
+      "explanation": "The force that pulls objects toward a planet's center; it affects how large caves or tubes can form."
     }
   ],
   "questions": [
     {
-      "question": "What year was the original ENIAC built?",
+      "question": "What did scientists discover on Venus?",
       "options": [
-        "1936",
-        "1946",
-        "1956",
-        "1966"
+        "A volcano",
+        "A lava tube",
+        "An ocean",
+        "A large crater"
       ],
-      "correct_answer": "1946"
+      "correct_answer": "A lava tube"
     },
     {
-      "question": "What company did Tom Burick run before becoming a teacher?",
+      "question": "Which spacecraft provided the original data used to make this discovery?",
       "options": [
-        "White Box Robotics",
-        "PS Academy",
-        "Carnegie Mellon",
-        "IEEE"
+        "Magellan",
+        "VERITAS",
+        "EnVision",
+        "Cassini"
       ],
-      "correct_answer": "White Box Robotics"
+      "correct_answer": "Magellan"
     },
     {
-      "question": "What did Burick build as a teenager that won awards from IEEE?",
+      "question": "Near which volcano was the skylight found?",
       "options": [
-        "A computer",
-        "A firefighting robot",
-        "A car",
-        "A satellite"
+        "Maat Mons",
+        "Nyx Mons",
+        "Sif Mons",
+        "Gula Mons"
       ],
-      "correct_answer": "A firefighting robot"
+      "correct_answer": "Nyx Mons"
     },
     {
-      "question": "Where did Burick get mentorship as a teenager?",
+      "question": "How wide could the lava tube be?",
       "options": [
-        "MIT and Harvard",
-        "Carnegie Mellon University and Saint Vincent College",
-        "Stanford and UC Berkeley",
-        "Caltech and UCLA"
+        "Up to 100 meters",
+        "Up to 375 meters",
+        "Up to 1 kilometer",
+        "Up to 150 meters"
       ],
-      "correct_answer": "Carnegie Mellon University and Saint Vincent College"
+      "correct_answer": "Up to 1 kilometer"
     },
     {
-      "question": "How many robots did Burick's company sell?",
+      "question": "Why can't astronauts explore this lava tube in person soon?",
       "options": [
-        "About 50",
-        "About 200",
-        "About 1000",
-        "About 10"
+        "Because the tube is too narrow",
+        "Because Venus has crushing pressure and extreme heat",
+        "Because the tube is on the dark side of Venus",
+        "Because the tube is flooded with water"
       ],
-      "correct_answer": "About 200"
+      "correct_answer": "Because Venus has crushing pressure and extreme heat"
     },
     {
-      "question": "What does Burick say about his dyscalculia?",
+      "question": "What mystery does this lava tube raise?",
       "options": [
-        "It is a problem he hides",
-        "It is a superpower",
-        "It makes him bad at teaching",
-        "It only affects reading"
+        "Why it is so large despite Venus's Earth-like gravity",
+        "Why it is smaller than expected",
+        "Why it contains ice",
+        "Why it is located at the equator"
       ],
-      "correct_answer": "It is a superpower"
+      "correct_answer": "Why it is so large despite Venus's Earth-like gravity"
     }
   ],
   "background_read": [
-    "ENIAC (Electronic Numerical Integrator and Computer) was built during World War II to calculate artillery firing tables. It used 18,000 vacuum tubes, weighed 30 tons, and consumed enough electricity to power a small town.",
-    "Vacuum tubes are glass tubes that control electrical current; they were the key component of early computers before transistors were invented.",
-    "The replica project at PS Academy is not just about history – it gives neurodivergent students a hands-on way to apply their unique cognitive strengths, such as hyperfocus and pattern recognition."
+    "Venus is often called Earth's sister planet because of its similar size and mass, but its surface is hellish: temperatures around 460°C and atmospheric pressure 93 times that of Earth.",
+    "The Magellan probe (1990–1994) used synthetic aperture radar to see through the thick cloud cover and map 98% of Venus's surface at a resolution of about 100 meters. Its data is still being mined for discoveries.",
+    "Lava tubes are known on Earth, the Moon, and Mars. They form when the outer surface of a lava flow cools and hardens while the molten interior continues flowing, eventually leaving a hollow tunnel. Their size depends on gravity and volcanic activity.",
+    "Two upcoming missions – NASA's VERITAS (launch before June 2031) and ESA's EnVision (later in 2031) – will carry modern radar that can image Venus's surface at much higher resolution than Magellan, potentially revealing more lava tubes."
   ],
   "Article_Structure": [
-    "LEAD: Students in Arizona are putting finishing touches on a life-size replica of ENIAC.",
-    "  └── SPECIFIC: 'The robot's chassis was like a box of Legos' – Burick on his 914 PC-Bot.",
-    "KEY FIGURE: Tom Burick – former robotics entrepreneur, now teacher.",
-    "  ├── BACKGROUND: Ran White Box Robotics, sold ~200 robots to 17 countries.",
-    "  ├── NEURODIVERSITY: Has dyscalculia, which he calls a superpower.",
-    "  └── MOTIVATION: Mentors from Carnegie Mellon and St. Vincent changed his life; he wants to pay it forward.",
-    "PROJECT: Building ENIAC replica.",
-    "  ├── GOAL: Create a real-world challenge for students with autism/hyperfocus.",
-    "  └── QUOTE: 'I didn't want my technology program to feel like craft hour.'",
-    "IMPACT: Students apply strengths like precision and tenacity.",
-    "OPEN QUESTION: What future projects will Burick and his students tackle next?"
+    "LEAD: First detection of a lava tube on Venus – larger than any on Earth or Mars.",
+    "DISCOVERY METHOD: Reanalysis of radar data from NASA's Magellan probe (1990s).",
+    "  └─ Feature: Collapsed skylight near Nyx Mons volcano.",
+    "MEASUREMENTS: Skylight depth ~150 m; tube depth >375 m; estimated width up to 1 km.",
+    "SIGNIFICANCE:",
+    "  ├─ Shows Venus's volcanic landscape is more complex than thought.",
+    "  └─ Guides upcoming missions VERITAS (NASA) and EnVision (ESA) – both with advanced radar.",
+    "CONSTRAINTS: Venus surface pressure and temperature make manned exploration impossible; robotic exploration is a possibility for the future.",
+    "MYSTERY: Why is the tube so large given Venus's Earth-like gravity? Typically larger tubes form in lower gravity (Moon). Scientists hope to find more tubes to solve this."
   ],
   "perspectives": [
     {
-      "perspective": "Positive (students & education)",
-      "description": "Students gain confidence, practical skills, and a sense of achievement. The project validates their unique abilities and shows they can succeed in STEAM fields."
+      "perspective": "Positive / Gain",
+      "description": "Planetary scientists gain a new target for future missions and a deeper understanding of Venus's volcanic processes. The discovery also validates the continued value of archival data from past missions."
     },
     {
-      "perspective": "Negative (resource challenges)",
-      "description": "Such projects require significant funding, space, and teacher dedication. Many schools lack the resources to replicate this model, limiting its scalability."
+      "perspective": "Negative / Critical",
+      "description": "The extreme environment of Venus means direct human or even robotic exploration inside the tube is decades away. The tube's existence may raise unrealistic expectations for near-term exploration."
     },
     {
-      "perspective": "Neutral (historical accuracy)",
-      "description": "Recreating ENIAC is a valuable educational tool, but it's a replica, not an exact working model. The focus is more on the process and inspiration than perfect historical fidelity."
+      "perspective": "Neutral / Analytical",
+      "description": "The size anomaly challenges assumptions about lava tube formation under similar gravity conditions. This could lead to revised models of volcanic processes both on Venus and on other rocky bodies."
     },
     {
-      "perspective": "Forward-looking (impact on tech education)",
-      "description": "If successful, this approach could inspire other schools to create hands-on history projects that accommodate diverse learners, potentially increasing neurodivergent representation in technology careers."
+      "perspective": "Forward-looking",
+      "description": "As VERITAS and EnVision map Venus at higher resolution, more lava tubes are likely to be found. Future robotic missions might drop probes into skylights, using the tubes as natural shelters from radiation – a technique that could also be applied on the Moon and Mars."
     }
   ],
-  "mined_at": "2026-04-25T02:02:40+00:00",
-  "source_published_at": "Thu, 23 Apr 2026 13:00:01 +0000",
-  "source_name": "IEEE Spectrum",
-  "source_url": "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica"
+  "mined_at": "2026-04-25T04:04:42+00:00",
+  "source_published_at": "Tue, 21 Apr 2026 10:30:00 +0000",
+  "source_name": "Science News Explores",
+  "source_url": "https://www.snexplores.org/article/venus-volcano-lava-tube"
 }

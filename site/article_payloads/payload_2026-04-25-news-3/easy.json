@@ -1,123 +1,119 @@
 {
-  "title": "Colombia's President Visits Venezuela After Maduro's Abduction",
-  "summary": "Have you ever had a friend who suddenly disappeared? That's kind of what happened to Venezuela's former president, Nicolas Maduro. In January, the US military took him away (some call it an abduction) and he's now waiting for trial in the US. Since then, no foreign leader had visited Venezuela—until now. Colombia's President Gustavo Petro went to Caracas and met with Venezuela's interim president, Delcy Rodriguez. They hugged and waved before going inside the presidential palace. The two leaders talked about security along their shared border, which is 2,200 kilometers long. That border is important for trade, but it's also used by criminals who smuggle drugs and people. Petro has been a strong critic of the US for taking Maduro. He called it an \"assault on sovereignty\" (an attack on a country's independence). The US says it was a law enforcement operation. Rodriguez has been walking a careful line. She has agreed to some US demands, like stopping oil exports to Cuba and releasing political prisoners, but she also wants the US to lift sanctions (punishments) that hurt Venezuela's economy. She even accepted an invitation to meet US President Trump, but no date is set yet. This visit is a big step for Venezuela as it tries to fix its economic crisis.",
-  "why_it_matters": "This story shows how countries can talk to each other even after big problems, and how what happens in one country can affect its neighbors — just like when you and a friend work things out after a disagreement.",
-  "image_url": "/article_images/article_dbac3bcab18d.webp",
+  "title": "Justice Department Drops Investigation of Fed Chair Jerome Powell",
+  "summary": "Big news from Washington: The Justice Department has dropped its criminal investigation of Jerome Powell, the chair of the Federal Reserve. The Fed is the central bank of the U.S., and it makes decisions about interest rates that affect everyone's money.\n\nThe investigation was about cost overruns (when a project costs more than planned) in renovating two Fed buildings. The cost went from $1.9 billion to $2.5 billion. The Fed said it was because of unexpected things like lead, asbestos, and inflation.\n\nA judge had already blocked the investigation, saying it was an improper attempt by the Trump administration to pressure the Fed into cutting interest rates. President Trump has been angry at Powell for not lowering rates enough.\n\nThe U.S. attorney, Jeanine Pirro, said she will instead ask the Fed's inspector general to look into the costs. The inspector general has already reviewed the project twice and found no wrongdoing.\n\nThis decision clears the way for the Senate to confirm Kevin Warsh as the next Fed chair. Powell's term ends next month. But Powell might stay on the Fed's board, which would give him a vote on interest rates. All this drama happens as the war with Iran is causing oil prices and inflation to spike.",
+  "why_it_matters": "This news shows how politics and the economy mix. The Fed's decisions on interest rates affect how much it costs to borrow money for things like cars, houses, and college, which can impact your family's budget.",
+  "image_url": "/article_images/article_110f77aab126.webp",
   "keywords": [
     {
-      "term": "Colombia's President",
-      "explanation": "Gustavo Petro, the leader of Colombia."
+      "term": "Justice Department",
+      "explanation": "The part of the U.S. government that makes sure laws are followed and investigates crimes."
     },
     {
-      "term": "Venezuela",
-      "explanation": "A country in South America next to Colombia."
+      "term": "criminal investigation",
+      "explanation": "An official check to see if someone broke the law and should be charged."
     },
     {
-      "term": "Nicolas Maduro",
-      "explanation": "The former president of Venezuela who was taken by the US military."
+      "term": "Federal Reserve",
+      "explanation": "The central bank of the United States that decides interest rates and controls money."
     },
     {
-      "term": "interim president",
-      "explanation": "A temporary leader, in this case Delcy Rodriguez."
+      "term": "interest rates",
+      "explanation": "The extra money you pay when you borrow money, like for a loan or a credit card."
     },
     {
-      "term": "border",
-      "explanation": "The line between Colombia and Venezuela that is 2,200 kilometers long."
+      "term": "cost overruns",
+      "explanation": "When a project ends up costing more money than was planned at the start."
     },
     {
-      "term": "sanctions",
-      "explanation": "Economic punishments that one country places on another to change its behavior."
+      "term": "inspector general",
+      "explanation": "A person inside a government agency who checks for waste, fraud, or mistakes."
     }
   ],
   "questions": [
     {
-      "question": "Who became the first foreign leader to visit Venezuela since Maduro was taken?",
+      "question": "What did the Justice Department drop?",
       "options": [
-        "The US President",
-        "Colombia's President Gustavo Petro",
-        "Mexico's President",
-        "Brazil's President"
+        "An investigation of Jerome Powell",
+        "A lawsuit against the Fed",
+        "A budget review",
+        "A trade deal"
       ],
-      "correct_answer": "Colombia's President Gustavo Petro"
+      "correct_answer": "An investigation of Jerome Powell"
     },
     {
-      "question": "Why was Nicolas Maduro taken to the US?",
+      "question": "Why was the investigation started?",
       "options": [
-        "He visited the US voluntarily",
-        "The US military abducted him",
-        "He was invited to a conference",
-        "He fled from Venezuela"
+        "Because Powell raised taxes",
+        "Because of cost overruns in renovating two Fed buildings",
+        "Because Powell made a speech",
+        "Because the Fed lost money"
       ],
-      "correct_answer": "The US military abducted him"
+      "correct_answer": "Because of cost overruns in renovating two Fed buildings"
     },
     {
-      "question": "What did Petro and Rodriguez discuss?",
+      "question": "How much did the renovation costs go up?",
       "options": [
-        "Trade and tourism",
-        "Security along their shared border",
-        "Space exploration",
-        "Olympic Games"
+        "From $1 billion to $2 billion",
+        "From $1.9 billion to $2.5 billion",
+        "From $2 billion to $3 billion",
+        "From $500 million to $1 billion"
       ],
-      "correct_answer": "Security along their shared border"
+      "correct_answer": "From $1.9 billion to $2.5 billion"
     },
     {
-      "question": "What did Petro call the US taking Maduro?",
+      "question": "What did a judge say about the investigation?",
       "options": [
-        "A law enforcement operation",
-        "An assault on sovereignty",
-        "A rescue mission",
-        "A misunderstanding"
+        "It was proper",
+        "It was an improper attempt to pressure the Fed",
+        "It should continue",
+        "It was too slow"
       ],
-      "correct_answer": "An assault on sovereignty"
+      "correct_answer": "It was an improper attempt to pressure the Fed"
     },
     {
-      "question": "Which country does Delcy Rodriguez now lead as interim president?",
+      "question": "Who will now look into the cost overruns?",
       "options": [
-        "Colombia",
-        "Venezuela",
-        "Cuba",
-        "Brazil"
+        "The police",
+        "The Fed's inspector general",
+        "The president",
+        "A private company"
       ],
-      "correct_answer": "Venezuela"
+      "correct_answer": "The Fed's inspector general"
     },
     {
-      "question": "What does Venezuela want the US to lift?",
+      "question": "What does this decision clear the way for?",
       "options": [
-        "Travel bans",
-        "Sanctions",
-        "Tariffs",
-        "Embargoes"
+        "Jerome Powell to stay forever",
+        "The Senate to confirm Kevin Warsh as the next Fed chair",
+        "A new investigation",
+        "Lower interest rates"
       ],
-      "correct_answer": "Sanctions"
+      "correct_answer": "The Senate to confirm Kevin Warsh as the next Fed chair"
     }
   ],
   "background_read": [
-    "Venezuela used to be one of the richest countries in South America because of its oil.",
-    "In 2025, the US military captured former President Nicolas Maduro and brought him to the US to face trial.",
-    "Neighboring countries often worry about the border because criminals use it to smuggle drugs and people."
+    "The Federal Reserve is the U.S. central bank. It decides how much it costs to borrow money, which affects jobs and prices.",
+    "Jerome Powell is the chair of the Federal Reserve, appointed by President Trump in 2018 and later by President Biden.",
+    "Kevin Warsh used to work at the Fed and has been chosen by President Trump to become the new chair."
   ],
   "Article_Structure": [
-    "WHO: Gustavo Petro (Colombia's president), Delcy Rodriguez (Venezuela's interim president), Nicolas Maduro (former president)",
-    "WHAT: Petro visits Venezuela for the first time since Maduro's abduction; they discuss border security and sanctions",
-    "WHERE: Caracas, the capital of Venezuela, at the Miraflores Presidential Palace",
-    "WHY: To improve relations between the two countries and address border issues; Rodriguez wants the US to lift sanctions"
+    "WHO: Jerome Powell is the chair of the Federal Reserve; Jeanine Pirro is the U.S. attorney; Kevin Warsh is the new nominee.",
+    "WHAT: The Justice Department dropped its criminal investigation of Jerome Powell over building renovation costs.",
+    "WHERE: The investigation was in Washington, D.C., about Fed buildings.",
+    "WHY: Because a judge said the investigation was an improper attempt to pressure the Fed into cutting interest rates."
   ],
   "perspectives": [
     {
-      "perspective": "Venezuelan citizens who support the new government",
-      "description": "They hope the visit leads to better trade and more help from Colombia, and maybe even an end to economic sanctions."
+      "perspective": "Supporters of dropping the investigation",
+      "description": "They say the investigation was unfair and meant to pressure the Fed to lower interest rates, which would hurt the economy in the long run."
     },
     {
-      "perspective": "US government officials",
-      "description": "They see the visit as a chance for Venezuela to cooperate more with the US, but they want to keep pressure on until more changes happen."
-    },
-    {
-      "perspective": "Human rights activists",
-      "description": "They are watching closely to see if the new government will really free political prisoners and hold fair elections."
+      "perspective": "Critics who wanted the investigation",
+      "description": "They believe the cost overruns should be fully investigated to find out if anyone broke the law, and dropping it lets the Fed off the hook."
     }
   ],
-  "mined_at": "2026-04-25T02:02:40+00:00",
-  "source_published_at": "Fri, 24 Apr 2026 20:00:08 +0000",
-  "source_name": "Al Jazeera",
-  "source_url": "https://www.aljazeera.com/news/2026/4/24/petro-becomes-first-president-to-visit-venezuela-since-maduro-abduction?traffic_source=rss"
+  "mined_at": "2026-04-25T04:04:42+00:00",
+  "source_published_at": "Fri, 24 Apr 2026 11:02:17 -0400",
+  "source_name": "NPR World",
+  "source_url": "https://www.npr.org/2026/04/24/nx-s1-5798661/justice-department-drops-inquiry-into-fed-chair-jerome-powell"
 }
