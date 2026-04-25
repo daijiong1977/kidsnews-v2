@@ -1,119 +1,123 @@
 {
-  "title": "A Carousel with a Story: Smithsonian's Ride Reopens After 3 Years",
-  "summary": "After being closed for almost three years, the Smithsonian carousel on the National Mall in Washington, D.C., is spinning again! But this isn't just any merry-go-round. It has a really cool and important story.\n\nBack in the 1960s, this carousel was at an amusement park in Maryland called Gwynn Oak. Back then, the park only let white people in. That was unfair, so brave kids and adults protested. Finally, on August 28, 1963 — the same day Dr. Martin Luther King Jr. gave his famous \"I Have a Dream\" speech — the park opened to everyone.\n\nSharon Langley was the first Black child to ride the carousel that day. She was only 11 months old! Now, 63 years later, she rode again on a horse called \"Freedom Rider.\" She said the carousel belongs near all the monuments of freedom.\n\nThe carousel has 54 horses, a sea monster, a pig, and two chariots. Kids love it. Seven-year-old Lucas Platt said, \"It's actually one of the fastest carousels I've really been on. It's great!\"\n\nSo next time you see a carousel, remember: it's not just about going round and round. It's about fun and fairness for everyone.",
-  "why_it_matters": "This story reminds kids that everyday things like a carousel can have a powerful history about fairness — and that even young people can be part of making the world a better place.",
-  "image_url": "/article_images/article_244951b94d9a.webp",
+  "title": "Pittsburgh Hosts NFL Draft for First Time in Almost 80 Years!",
+  "summary": "Imagine your city suddenly becoming the center of the football world—that's what's happening in Pittsburgh right now! For the first time since 1947, Pittsburgh is hosting the NFL draft. That's almost 80 years! Between 500,000 and 700,000 fans are expected to attend, which is about double the city's population. Why Pittsburgh? Because it's a true sports city. Pittsburgh teams have won 16 major professional championships. The Steelers dominated the 1970s with their famous \"Steel Curtain\" defense, winning four Super Bowls. The Pirates have five World Series titles, and the Penguins have won the Stanley Cup multiple times. Local fan Amir Grigsby, who is 22, says, \"The need to be great is very prominent in Pittsburgh.\" The city's blue-collar work ethic, born from its steel mill history, shows up in its teams. They're known for being gritty and hardworking. The draft itself is a huge event where NFL teams pick college players. It lasts three days and includes lots of fan activities. So if you're in Pittsburgh, you're in for a football party!",
+  "why_it_matters": "If you love sports, this shows how a city's history and hard work can earn it a big event like the NFL draft — and maybe one day your city could host something amazing too.",
+  "image_url": "/article_images/article_3b94289fe973.webp",
   "keywords": [
     {
-      "term": "Smithsonian",
-      "explanation": "The museum group that owns the carousel on the National Mall in Washington, D.C."
+      "term": "Pittsburgh",
+      "explanation": "A city in Pennsylvania known for its sports teams and steel history."
     },
     {
-      "term": "carousel",
-      "explanation": "A merry-go-round with horses and other animals that goes round and round; it just reopened."
+      "term": "NFL draft",
+      "explanation": "The event where NFL teams pick college players to join their teams."
     },
     {
-      "term": "National Mall",
-      "explanation": "The big open park in Washington, D.C., where the carousel is located."
+      "term": "Steel Curtain",
+      "explanation": "The nickname for the Pittsburgh Steelers' famous defense in the 1970s."
     },
     {
-      "term": "Gwynn Oak",
-      "explanation": "The amusement park in Maryland where the carousel used to be; it was segregated."
+      "term": "Super Bowls",
+      "explanation": "The championship games of the National Football League (NFL)."
     },
     {
-      "term": "Sharon Langley",
-      "explanation": "The first Black child to ride the carousel after the park was integrated in 1963."
+      "term": "World Series",
+      "explanation": "The championship series of Major League Baseball (MLB)."
+    },
+    {
+      "term": "Stanley Cup",
+      "explanation": "The championship trophy for the National Hockey League (NHL)."
     }
   ],
   "questions": [
     {
-      "question": "How long was the Smithsonian carousel closed before it reopened?",
+      "question": "How many fans are expected to attend the NFL draft in Pittsburgh?",
       "options": [
-        "One year",
-        "Almost three years",
-        "Five years",
-        "Ten years"
+        "100,000 to 200,000",
+        "Between 500,000 and 700,000",
+        "1 million",
+        "Exactly 300,000"
       ],
-      "correct_answer": "Almost three years"
+      "correct_answer": "Between 500,000 and 700,000"
     },
     {
-      "question": "What was unfair about the amusement park Gwynn Oak in the 1960s?",
+      "question": "When was the last time Pittsburgh hosted the NFL draft?",
       "options": [
-        "It only let white people in.",
-        "It was too expensive.",
-        "It only had horses.",
-        "It was closed on weekends."
+        "1970",
+        "1947",
+        "2000",
+        "1985"
       ],
-      "correct_answer": "It only let white people in."
+      "correct_answer": "1947"
     },
     {
-      "question": "On what important day did Gwynn Oak open to everyone?",
+      "question": "How many major professional championships have Pittsburgh teams won?",
       "options": [
-        "Christmas Day 1963",
-        "August 28, 1963",
-        "July 4, 1963",
-        "New Year's Day 1964"
+        "10",
+        "16",
+        "25",
+        "8"
       ],
-      "correct_answer": "August 28, 1963"
+      "correct_answer": "16"
     },
     {
-      "question": "Who was the first Black child to ride the carousel that day?",
+      "question": "Which Pittsburgh team dominated the 1970s with the 'Steel Curtain' defense?",
       "options": [
-        "Sharon Langley",
-        "Janice Chance",
-        "Lucas Platt",
-        "Martin Luther King Jr."
+        "Pirates",
+        "Penguins",
+        "Steelers",
+        "Riverhounds"
       ],
-      "correct_answer": "Sharon Langley"
+      "correct_answer": "Steelers"
     },
     {
-      "question": "What name is on the horse that Sharon Langley rode at the reopening?",
+      "question": "How many Super Bowls did the Steelers win in the 1970s?",
       "options": [
-        "Freedom Rider",
-        "Dream Horse",
-        "Gwynn Oak",
-        "Martin Luther King"
+        "2",
+        "3",
+        "4",
+        "5"
       ],
-      "correct_answer": "Freedom Rider"
+      "correct_answer": "4"
     },
     {
-      "question": "How many horses does the carousel have?",
+      "question": "What is the name of the fan who said 'The need to be great is very prominent in Pittsburgh'?",
       "options": [
-        "54",
-        "63",
-        "42",
-        "100"
+        "Amir Grigsby",
+        "Mark Fatla",
+        "Jimmy Coen",
+        "The Rooney family"
       ],
-      "correct_answer": "54"
+      "correct_answer": "Amir Grigsby"
     }
   ],
   "background_read": [
-    "During the 1950s and 1960s, many places in the United States were segregated — Black people and white people had to use different schools, restaurants, and parks.",
-    "Civil rights activists, including children, held protests to demand fairness. In 1963, their efforts led to laws that made segregation illegal.",
-    "The carousel's story shows that even simple things like a merry-go-round can be part of the fight for equality."
+    "The NFL draft started in 1936 as a way for teams to pick college players fairly.",
+    "Pittsburgh was once known as the Steel City because of its many steel mills.",
+    "The Steelers are one of the most successful teams in NFL history."
   ],
   "Article_Structure": [
-    "WHO: The Smithsonian Institution reopened the carousel; Sharon Langley, who was the first Black child to ride it in 1963, rode it again.",
-    "WHAT: The Smithsonian carousel on the National Mall reopened after three years of restoration.",
-    "WHERE: The National Mall in Washington, D.C., in front of the Arts and Industries Building.",
-    "WHY: The carousel is a symbol of civil rights — it was originally at a segregated park that opened to everyone on the same day Dr. King gave his famous speech."
+    "WHO: Pittsburgh, its sports teams (Steelers, Pirates, Penguins), fans, author Mark Fatla",
+    "WHAT: Pittsburgh hosts the NFL draft for the first time since 1947, with huge crowds expected",
+    "WHERE: Pittsburgh, Pennsylvania, near Acrisure Stadium",
+    "WHY: Pittsburgh is a historic sports city with many championships and a blue-collar work ethic"
   ],
   "perspectives": [
     {
-      "perspective": "Joyful celebration",
-      "description": "Kids and families are excited to ride the carousel again. It's a fun, fast ride that everyone can enjoy."
+      "perspective": "Local resident excited about the event",
+      "description": "They see the draft as a once-in-a-lifetime chance to celebrate their city's sports pride and bring in visitors."
     },
     {
-      "perspective": "Honoring history",
-      "description": "Many people see the carousel as a living monument to the civil rights movement. Sharon Langley's return shows how far we've come."
+      "perspective": "Sports fan who loves Pittsburgh teams",
+      "description": "They feel proud that the Steelers, Penguins, and Pirates have all won championships, and the draft recognizes that legacy."
     },
     {
-      "perspective": "Learning from the past",
-      "description": "The story teaches us that segregation was unfair and that brave people fought to change it. The carousel is a symbol of that struggle."
+      "perspective": "Person not interested in football",
+      "description": "They might be annoyed by the crowds and traffic, but still happy for the city's recognition."
     }
   ],
-  "mined_at": "2026-04-25T01:32:00+00:00",
-  "source_published_at": "Fri, 24 Apr 2026 10:58:50 -0400",
+  "mined_at": "2026-04-25T02:02:40+00:00",
+  "source_published_at": "Fri, 24 Apr 2026 08:54:25 -0400",
   "source_name": "NPR World",
-  "source_url": "https://www.npr.org/2026/04/24/nx-s1-5770103/smithsonian-carousel-reopens-national-mall-dc"
+  "source_url": "https://www.npr.org/2026/04/24/nx-s1-5794052/nfl-draft-pittsburgh-fans"
 }

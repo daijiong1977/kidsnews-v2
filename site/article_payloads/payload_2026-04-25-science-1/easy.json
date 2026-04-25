@@ -1,119 +1,123 @@
 {
-  "title": "Ancient Snake with Legs Found! And It Had a Cheekbone!",
-  "summary": "Imagine a snake with legs! That sounds like a made-up creature, but it was real. Scientists found a fossil of a snake called Najash rionegrina that lived nearly 100 million years ago. It had hind legs and a cheekbone (a bone in the face) that most snakes today don't have. The fossil was discovered in Argentina, and scientists used a special X-ray machine called micro-CT to see inside it without breaking it. What they found surprised them. For a long time, people thought snakes started as small animals that burrowed underground. But this fossil shows that early snakes were big-bodied and had wide mouths. They also kept their hind legs for a long time before losing them. \"Our findings support the idea that the ancestors of modern snakes were big-bodied and big-mouthed,\" said Fernando Garberoglio, the lead scientist. This discovery helps us understand how snakes evolved from lizards into the legless creatures we see today. Pretty cool, right?",
-  "why_it_matters": "This discovery shows how scientists piece together the past, just like you learn about history from old stories and objects.",
-  "image_url": "/article_images/article_717dcc40a761.webp",
+  "title": "A Space Explosion That's Like Nothing We've Seen Before!",
+  "summary": "Have you ever seen a firework that changes color mid-explosion? Well, astronomers just spotted something even cooler in space!\n\nWhen big stars die, they go boom as supernovae. When two dead star cores (neutron stars) crash, they make a 'kilonova' that creates gold and uranium. Scientists have only seen one kilonova before, back in 2017.\n\nNow they might have found a second one — but it's weird. It's called AT2025ulz. At first, it looked like a kilonova. But after a few days, it started acting like a supernova! Some scientists got confused and stopped watching. But not Mansi Kasliwal's team at Caltech. They kept looking.\n\nHere's the cool part: the explosion might be both! Imagine a supernova that triggers a neutron star crash inside it. That would be a 'superkilonova' — something scientists have only dreamed of.\n\nThe first clue came on August 18, 2025, when LIGO detectors felt a rumble in space (gravitational waves). Then telescopes saw a red glow. But then it turned blue and showed hydrogen — that's supernova stuff.\n\nKasliwal says, 'At first it looked like the 2017 kilonova. Everybody was excited. Then it looked like a supernova, and some lost interest. Not us.'\n\nIf this is real, it's a whole new kind of explosion. Space never stops surprising us!",
+  "why_it_matters": "This shows that there are still huge mysteries in space to discover, and you could be the scientist who finds the next one!",
+  "image_url": "/article_images/article_d8da0ec70551.webp",
   "keywords": [
     {
-      "term": "Najash rionegrina",
-      "explanation": "The scientific name of the ancient snake found in the fossil."
+      "term": "astronomers",
+      "explanation": "Scientists who study stars and space"
     },
     {
-      "term": "fossil",
-      "explanation": "Remains of a living thing from long ago, preserved in rock."
+      "term": "supernovae",
+      "explanation": "Explosions of dying big stars"
     },
     {
-      "term": "cheekbone",
-      "explanation": "A bone in the face that most modern snakes don't have."
+      "term": "neutron stars",
+      "explanation": "Super-dense cores left after some star explosions"
     },
     {
-      "term": "Argentina",
-      "explanation": "The country in South America where the fossil was found."
+      "term": "kilonova",
+      "explanation": "Explosion when two neutron stars crash"
     },
     {
-      "term": "micro-CT",
-      "explanation": "A special X-ray machine that lets scientists see inside fossils without breaking them."
+      "term": "AT2025ulz",
+      "explanation": "Name of the weird explosion scientists found"
     },
     {
-      "term": "big-bodied",
-      "explanation": "Having a large body, unlike the small burrowing snakes scientists once thought ancestors were."
+      "term": "superkilonova",
+      "explanation": "A possible new type of explosion that is both a supernova and a kilonova"
     }
   ],
   "questions": [
     {
-      "question": "What did scientists find in Argentina?",
+      "question": "What happens when two neutron stars crash?",
       "options": [
-        "A snake fossil with legs",
-        "A dinosaur egg",
-        "A giant lizard",
-        "A new type of bird"
+        "A supernova",
+        "A kilonova",
+        "A black hole",
+        "A comet"
       ],
-      "correct_answer": "A snake fossil with legs"
+      "correct_answer": "A kilonova"
     },
     {
-      "question": "Which bone did the ancient snake have that most snakes today don't?",
+      "question": "What is the name of the weird explosion scientists found?",
       "options": [
-        "Cheekbone",
-        "Wishbone",
-        "Backbone",
-        "Skull"
+        "GW170817",
+        "AT2025ulz",
+        "LIGO",
+        "Supernova 2025"
       ],
-      "correct_answer": "Cheekbone"
+      "correct_answer": "AT2025ulz"
     },
     {
-      "question": "What machine did scientists use to study the fossil?",
+      "question": "What did the explosion look like at first?",
       "options": [
-        "Micro-CT",
-        "MRI",
-        "Ultrasound",
-        "Telescope"
+        "A supernova",
+        "A kilonova",
+        "A black hole",
+        "A nebula"
       ],
-      "correct_answer": "Micro-CT"
+      "correct_answer": "A kilonova"
     },
     {
-      "question": "How long ago did the snake live?",
+      "question": "What did the explosion show later that confused scientists?",
       "options": [
-        "Nearly 100 million years",
-        "1 million years",
-        "10 thousand years",
-        "500 years"
+        "Gold and uranium",
+        "Hydrogen",
+        "Water",
+        "Iron"
       ],
-      "correct_answer": "Nearly 100 million years"
+      "correct_answer": "Hydrogen"
     },
     {
-      "question": "What did the discovery show about early snakes?",
+      "question": "Who led the team that kept studying the explosion?",
       "options": [
-        "They were big-bodied and had wide mouths",
-        "They were tiny and lived underground",
-        "They flew in the air",
-        "They had no heads"
+        "David Reitze",
+        "Mansi Kasliwal",
+        "Tom Burick",
+        "Edmund Moody"
       ],
-      "correct_answer": "They were big-bodied and had wide mouths"
+      "correct_answer": "Mansi Kasliwal"
     },
     {
-      "question": "Who is the lead scientist mentioned?",
+      "question": "What is a supernova?",
       "options": [
-        "Fernando Garberoglio",
-        "Maja Matarić",
-        "Anna Gülcher",
-        "Rodney Brooks"
+        "A crash of two stars",
+        "An explosion of a dying big star",
+        "A new star being born",
+        "A planet exploding"
       ],
-      "correct_answer": "Fernando Garberoglio"
+      "correct_answer": "An explosion of a dying big star"
     }
   ],
   "background_read": [
-    "Snakes are reptiles that evolved from lizards many millions of years ago.",
-    "Some ancient lizards had legs, but over time some lost their legs and became snakes.",
-    "Finding fossils with legs helps scientists draw the family tree of snakes."
+    "The first kilonova ever seen happened in 2017, and it was called GW170817.",
+    "Kilonovas are special because they create heavy metals like gold and platinum.",
+    "Gravitational waves are ripples in space that help scientists find such explosions."
   ],
   "Article_Structure": [
-    "WHO: Scientists led by Fernando Garberoglio",
-    "WHAT: Discovered a fossil of a snake called Najash rionegrina that had hind legs and a cheekbone",
-    "WHERE: In Argentina",
-    "WHY: To understand how snakes evolved from lizards into legless animals"
+    "WHO: Mansi Kasliwal's team at Caltech",
+    "WHAT: Discovered a weird explosion that might be a new type called a superkilonova",
+    "WHERE: About 1.3 billion light-years away in space",
+    "WHY: Because it started like a kilonova but then showed signs of a supernova"
   ],
   "perspectives": [
     {
-      "perspective": "Scientists",
-      "description": "They are excited because the fossil gives new clues about how snakes changed over time."
+      "perspective": "Excited scientists",
+      "description": "They think this could be a brand-new type of explosion, a superkilonova, which would be a big discovery."
     },
     {
-      "perspective": "Curious kids",
-      "description": "They might think it's cool to imagine a snake with legs and learn how animals evolve."
+      "perspective": "Confused astronomers",
+      "description": "Some scientists stopped watching when the explosion changed because they thought it was just a normal supernova."
+    },
+    {
+      "perspective": "Curious students",
+      "description": "Kids might be inspired to learn about space and wonder what other surprises are out there."
     }
   ],
-  "mined_at": "2026-04-25T01:32:00+00:00",
-  "source_published_at": "Fri, 24 Apr 2026 04:36:51 EDT",
+  "mined_at": "2026-04-25T02:02:40+00:00",
+  "source_published_at": "Fri, 24 Apr 2026 10:02:52 EDT",
   "source_name": "ScienceDaily All",
-  "source_url": "https://www.sciencedaily.com/releases/2026/04/260424024002.htm"
+  "source_url": "https://www.sciencedaily.com/releases/2026/04/260423031532.htm"
 }

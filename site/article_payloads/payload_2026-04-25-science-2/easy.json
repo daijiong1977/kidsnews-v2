@@ -1,123 +1,123 @@
 {
-  "title": "Giant Underground Cave Found on Venus!",
-  "summary": "Did you know that Venus has a giant underground cave? Scientists found it by looking at old radar pictures taken by a NASA spacecraft called Magellan in the 1990s. The cave is a lava tube, which forms when hot lava flows underground and then drains away, leaving an empty tunnel. This one is huge — it might be up to 1 kilometer (0.6 miles) wide! That's bigger than any lava tube on Earth or Mars. The cave was discovered near a big volcano named Nyx Mons. There's a hole in the roof where it collapsed, called a skylight. The skylight is about 150 meters (490 feet) deep. Scientists are excited because this finding will help two future missions: NASA's VERITAS and Europe's EnVision. Both will have better radar to see Venus's surface in more detail. But don't expect astronauts to visit anytime soon. The surface of Venus is super hot and has crushing pressure — 93 times Earth's! Still, finding this cave shows there might be more lava tubes on Venus. Pretty amazing for a planet hidden by clouds!",
-  "why_it_matters": "This discovery shows that even old data can lead to new findings, and it helps plan future missions that might reveal more about our sister planet.",
-  "image_url": "/article_images/article_355a6ec71c48.webp",
+  "title": "Meet LUCA: The Great-Great-Great-Great… Grandparent of Every Living Thing!",
+  "summary": "Have you ever wondered who your oldest ancestor is? Not your great-grandpa — we're talking way, way older. Like, billions of years older!\n\nScientists call it LUCA. That stands for Last Universal Common Ancestor. LUCA wasn't the first living thing on Earth, but it's special because every single living thing today — you, your dog, the mushrooms on your pizza, and even the bacteria in your belly — is related to it. We're all distant cousins!\n\nSo what did LUCA look like? Scientists think it was a single cell, probably shaped like a rod (like a tiny hot dog). It probably lived near a hydrothermal vent at the bottom of the ocean — that's like an underwater volcano that spews hot, mineral-rich water.\n\nA team of scientists led by Tom Williams from the University of Bath recently figured out more about LUCA than ever before. They think LUCA lived about 4 billion years ago. It ate, it had insides, and it was a microbe.\n\nWhy do scientists care? Well, understanding LUCA helps us understand how life evolved on Earth. And that might help us look for life on other planets! Plus, it's just cool to know where we all came from.\n\n\"If you want to understand the early evolution of life, then you're talking about events that happened to microbes,\" says Williams. \"I think that is quite important.\"\n\nSo next time you see a tree or a bird, remember: you're related! Thanks, LUCA.",
+  "why_it_matters": "You share a common ancestor with all living things – trees, mushrooms, bacteria – and that means we are all connected in one big family tree.",
+  "image_url": "/article_images/article_c61af5668b8b.webp",
   "keywords": [
     {
-      "term": "Venus",
-      "explanation": "A planet in our solar system, covered with thick clouds."
+      "term": "LUCA",
+      "explanation": "Last Universal Common Ancestor, the shared ancestor of all life today"
     },
     {
-      "term": "cave",
-      "explanation": "A hollow space underground."
+      "term": "Last Universal Common Ancestor",
+      "explanation": "The full name for LUCA"
     },
     {
-      "term": "lava tube",
-      "explanation": "A tunnel formed when hot lava flows underground and leaves an empty space."
+      "term": "single cell",
+      "explanation": "LUCA was a tiny living thing made of just one cell"
     },
     {
-      "term": "Magellan",
-      "explanation": "A NASA spacecraft that took radar pictures of Venus in the 1990s."
+      "term": "hydrothermal vent",
+      "explanation": "An underwater volcano that spews hot water, where LUCA likely lived"
     },
     {
-      "term": "Nyx Mons",
-      "explanation": "A large volcano on Venus near where the cave was found."
+      "term": "Tom Williams",
+      "explanation": "The scientist who led the team studying LUCA"
     },
     {
-      "term": "skylight",
-      "explanation": "A hole in the roof of a lava tube where it collapsed."
+      "term": "University of Bath",
+      "explanation": "The university where Tom Williams works"
     }
   ],
   "questions": [
     {
-      "question": "Where was the giant underground cave found?",
+      "question": "What does LUCA stand for?",
       "options": [
-        "On Venus",
-        "On Mars",
-        "On the Moon",
-        "On Earth"
+        "Last Universal Common Ancestor",
+        "Last Underwater Creature Alive",
+        "Large Universal Cell Ancestor",
+        "Lunar Unified Cosmic Ancestor"
       ],
-      "correct_answer": "On Venus"
+      "correct_answer": "Last Universal Common Ancestor"
     },
     {
-      "question": "What type of cave was discovered?",
+      "question": "What did LUCA look like?",
       "options": [
-        "Lava tube",
-        "Ice cave",
-        "Sandstone cave",
-        "Crystal cave"
+        "A fish",
+        "A single cell shaped like a rod",
+        "A tree",
+        "A bird"
       ],
-      "correct_answer": "Lava tube"
+      "correct_answer": "A single cell shaped like a rod"
     },
     {
-      "question": "Which spacecraft took the pictures used in the discovery?",
+      "question": "Where did LUCA probably live?",
       "options": [
-        "Magellan",
-        "Voyager",
-        "Cassini",
-        "Hubble"
+        "On land",
+        "In a forest",
+        "Near a hydrothermal vent at the bottom of the ocean",
+        "Inside a volcano"
       ],
-      "correct_answer": "Magellan"
+      "correct_answer": "Near a hydrothermal vent at the bottom of the ocean"
     },
     {
-      "question": "How wide might the lava tube be?",
+      "question": "How long ago did LUCA live?",
       "options": [
-        "Up to 1 kilometer",
-        "Up to 100 meters",
-        "Up to 10 kilometers",
-        "Up to 1 mile"
+        "About 4 billion years ago",
+        "About 1 million years ago",
+        "About 500 million years ago",
+        "About 100,000 years ago"
       ],
-      "correct_answer": "Up to 1 kilometer"
+      "correct_answer": "About 4 billion years ago"
     },
     {
-      "question": "What is the name of the volcano near the cave?",
+      "question": "Who led the team that learned more about LUCA?",
       "options": [
-        "Nyx Mons",
-        "Olympus Mons",
-        "Mauna Loa",
-        "Kilauea"
+        "Tom Williams",
+        "Mansi Kasliwal",
+        "David Reitze",
+        "Edmund Moody"
       ],
-      "correct_answer": "Nyx Mons"
+      "correct_answer": "Tom Williams"
     },
     {
-      "question": "Why can't astronauts visit this cave soon?",
+      "question": "Why is LUCA important?",
       "options": [
-        "Venus is too hot and has crushing pressure",
-        "The cave is too small",
-        "There's no air on Venus",
-        "The cave is filled with lava"
+        "It was the first living thing",
+        "It is the ancestor of every living thing today",
+        "It was the biggest animal ever",
+        "It lived on Mars"
       ],
-      "correct_answer": "Venus is too hot and has crushing pressure"
+      "correct_answer": "It is the ancestor of every living thing today"
     }
   ],
   "background_read": [
-    "Venus is the second planet from the Sun, about the same size as Earth, but much hotter.",
-    "Lava tubes are also found on Earth and the Moon, and scientists think they could be used as shelters in space.",
-    "NASA's Magellan mission in the 1990s mapped most of Venus's surface using radar."
+    "Scientists think LUCA lived about 4 billion years ago, when Earth was very young.",
+    "Before LUCA, there were probably other simple life forms, but they died out.",
+    "Understanding LUCA helps scientists look for life on other planets."
   ],
   "Article_Structure": [
-    "WHO: Scientists studying old radar images from NASA's Magellan spacecraft",
-    "WHAT: Discovered a giant underground lava tube, the first ever found on Venus",
-    "WHERE: Near the volcano Nyx Mons on Venus",
-    "WHY: To learn more about Venus's geology and prepare for future missions like VERITAS and EnVision"
+    "WHO: Tom Williams and his team from the University of Bath and University of Barcelona",
+    "WHAT: Figured out more details about LUCA, the last common ancestor of all life",
+    "WHERE: At the University of Bath and University of Barcelona",
+    "WHY: To understand how life evolved on Earth and help find life on other planets"
   ],
   "perspectives": [
     {
-      "perspective": "Scientists",
-      "description": "They are excited because it's the first lava tube found on Venus, meaning more could exist."
+      "perspective": "Excited scientists",
+      "description": "They now have a clearer picture of what LUCA was like, which helps them study the origins of life."
     },
     {
-      "perspective": "Space enthusiasts",
-      "description": "They hope future missions will find even more caves and maybe one day use them as shelters."
+      "perspective": "Curious kids",
+      "description": "It's amazing to think that every living thing is related, and it makes you look at nature differently."
     },
     {
-      "perspective": "Careful observers",
-      "description": "They note the cave is too dangerous for astronauts now, but it's a step forward in understanding Venus."
+      "perspective": "Skeptical people",
+      "description": "Some wonder how we can know so much about something that lived so long ago, but science keeps finding clues."
     }
   ],
-  "mined_at": "2026-04-25T01:32:00+00:00",
-  "source_published_at": "Tue, 21 Apr 2026 10:30:00 +0000",
+  "mined_at": "2026-04-25T02:02:40+00:00",
+  "source_published_at": "Thu, 23 Apr 2026 10:30:00 +0000",
   "source_name": "Science News Explores",
-  "source_url": "https://www.snexplores.org/article/venus-volcano-lava-tube"
+  "source_url": "https://www.snexplores.org/article/luca-common-ancestor-evolution"
 }

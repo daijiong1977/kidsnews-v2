@@ -1,119 +1,123 @@
 {
-  "title": "You Can Actually Go Inside This Volcano in Iceland!",
-  "summary": "Have you ever wanted to go inside a volcano? In Iceland, you actually can! There's a volcano called Thríhnúkagígur (say: three-NOO-ka-gee-gur), which means 'Three Peaks Crater.' It's near Reykjavík, the capital.\n\nWhat makes this volcano super special is that it has an empty magma chamber. Magma is hot, liquid rock inside a volcano. Usually, after an eruption, the leftover magma hardens and fills up the chamber. But not here! The magma from the last eruption 4,500 years ago somehow disappeared. Scientists think it might have drained back down into the Earth. One volcanologist said, 'It's like somebody came and pulled the plug and all the magma ran down out of it.'\n\nSince 2012, visitors can take an open cable elevator down into the chamber. It's about 700 feet deep — that's taller than the Statue of Liberty! At the bottom, you can walk around on the cave floor, which is as big as about half a football field. The walls are beautiful colors: bronze, indigo, blue, yellow, and orange. The colors come from microbes (tiny living things) and sulfur gases. Sometimes you see puffs of steam, but don't worry — that's just water dripping on lights, not a sign of an eruption!",
-  "why_it_matters": "It's amazing to think you could actually visit a place inside a volcano — it shows how our planet holds exciting secrets that we can explore.",
-  "image_url": "/article_images/article_5f226ea24cb9.webp",
+  "title": "FDA Approves First Gene Therapy for Inherited Deafness — Kids Can Hear Whispers!",
+  "summary": "Imagine being born unable to hear your mom's voice or your favorite song. For some kids, that's their reality because of a genetic problem. But now, there's a new treatment that could change everything!\n\nThe FDA (the U.S. agency that approves medicines) has approved the first-ever gene therapy for inherited deafness. It's called Otarmeni (say: oh-tar-MEN-ee). This treatment is for people who have a broken gene called OTOF. This gene is supposed to help the ear turn sounds into signals for the brain. When it's broken, the brain never gets the message.\n\nHere's how it works: Doctors use a harmless virus to carry a working copy of the OTOF gene into the inner ear. It's like delivering a repair kit! In a trial, 16 out of 20 people got better hearing within six months. Some could even hear whispers! That's amazing.\n\nThe company that makes Otarmeni says the treatment itself is free for patients in the U.S. (though you might still have to pay for the doctor visit or hospital costs). Dr. Zheng-Yi Chen, a scientist at Harvard, called it \"a landmark moment for the field.\"\n\nThis treatment only works for one type of deafness, but it's a huge step. Scientists hope to develop similar therapies for other types of hearing loss. Imagine a world where deafness can be cured with a single shot!",
+  "why_it_matters": "This could help kids who were born deaf hear for the first time — imagine hearing your mom's voice or your favorite song. It shows how science can solve problems that once seemed impossible.",
+  "image_url": "/article_images/article_9a27df0f7a86.webp",
   "keywords": [
     {
-      "term": "Thríhnúkagígur",
-      "explanation": "A volcano in Iceland whose name means 'Three Peaks Crater'"
+      "term": "FDA",
+      "explanation": "The U.S. Food and Drug Administration, which approves new medicines."
     },
     {
-      "term": "magma chamber",
-      "explanation": "A space inside a volcano where hot liquid rock (magma) once was"
+      "term": "gene therapy",
+      "explanation": "A treatment that fixes a broken gene by delivering a working copy into the body."
     },
     {
-      "term": "Iceland",
-      "explanation": "A country with many volcanoes, near the Arctic"
+      "term": "inherited deafness",
+      "explanation": "Hearing loss caused by a genetic problem a person is born with."
     },
     {
-      "term": "cable elevator",
-      "explanation": "An open elevator that takes visitors down into the volcano"
+      "term": "Otarmeni",
+      "explanation": "The name of the new gene therapy for inherited deafness."
     },
     {
-      "term": "microbes",
-      "explanation": "Tiny living things that help create colors on the volcano's walls"
+      "term": "OTOF",
+      "explanation": "The broken gene that causes this type of deafness; it helps turn sounds into signals for the brain."
+    },
+    {
+      "term": "Dr. Zheng-Yi Chen",
+      "explanation": "A scientist at Harvard who called the approval 'a landmark moment.'"
     }
   ],
   "questions": [
     {
-      "question": "What makes Thríhnúkagígur so special?",
+      "question": "What did the FDA approve for the first time?",
       "options": [
-        "It is the tallest volcano in Iceland",
-        "It has an empty magma chamber you can enter",
-        "It is still erupting",
-        "It is made of gold"
+        "A new hearing aid",
+        "Gene therapy for inherited deafness",
+        "A vaccine for deafness",
+        "A surgery for deafness"
       ],
-      "correct_answer": "It has an empty magma chamber you can enter"
+      "correct_answer": "Gene therapy for inherited deafness"
     },
     {
-      "question": "How deep is the chamber?",
+      "question": "What is the name of the gene therapy?",
       "options": [
-        "About 100 feet",
-        "About 700 feet",
-        "About 2,000 feet",
-        "About 1 mile"
+        "Otofix",
+        "Otarmeni",
+        "HearGene",
+        "SoundRx"
       ],
-      "correct_answer": "About 700 feet"
+      "correct_answer": "Otarmeni"
     },
     {
-      "question": "Why are the walls of the chamber colorful?",
+      "question": "Which gene does this therapy fix?",
       "options": [
-        "Because of paint",
-        "Because of microbes and sulfur gases",
-        "Because of lava",
-        "Because of sunlight"
+        "OTOF",
+        "GJB2",
+        "MYO7A",
+        "CDH23"
       ],
-      "correct_answer": "Because of microbes and sulfur gases"
+      "correct_answer": "OTOF"
     },
     {
-      "question": "How do visitors get into the volcano?",
+      "question": "How many people in the trial got better hearing within six months?",
       "options": [
-        "By climbing down a ladder",
-        "By an open cable elevator",
-        "By a tunnel",
-        "By helicopter"
+        "10 out of 20",
+        "16 out of 20",
+        "20 out of 20",
+        "5 out of 20"
       ],
-      "correct_answer": "By an open cable elevator"
+      "correct_answer": "16 out of 20"
     },
     {
-      "question": "What do scientists think happened to the magma?",
+      "question": "How does the therapy deliver the working gene into the ear?",
       "options": [
-        "It hardened and filled the chamber",
-        "It drained back down into the Earth",
-        "It was removed by humans",
-        "It turned into water"
+        "Through a pill",
+        "Using a harmless virus",
+        "Through a shot in the arm",
+        "Through eye drops"
       ],
-      "correct_answer": "It drained back down into the Earth"
+      "correct_answer": "Using a harmless virus"
     },
     {
-      "question": "When did the volcano last erupt?",
+      "question": "Who called the approval 'a landmark moment'?",
       "options": [
-        "About 500 years ago",
-        "About 4,500 years ago",
-        "About 10,000 years ago",
-        "In 2012"
+        "Dr. Zheng-Yi Chen",
+        "The CEO of Regeneron",
+        "The FDA commissioner",
+        "A deaf athlete"
       ],
-      "correct_answer": "About 4,500 years ago"
+      "correct_answer": "Dr. Zheng-Yi Chen"
     }
   ],
   "background_read": [
-    "Iceland is a volcanic island in the North Atlantic Ocean, with many active volcanoes and hot springs.",
-    "Magma is molten rock deep underground; when it reaches the surface, it's called lava.",
-    "The Statue of Liberty is 305 feet tall, so the empty chamber is more than twice as deep."
+    "The FDA is the U.S. Food and Drug Administration, which checks that new medicines are safe.",
+    "Gene therapy is a new way to treat diseases by fixing or replacing a broken gene.",
+    "This is the first time such a treatment has been approved for a type of deafness."
   ],
   "Article_Structure": [
-    "WHO: Visitors and scientists, including volcanologist Haraldur Sigurdsson",
-    "WHAT: Tourists can descend into an empty magma chamber inside Thríhnúkagígur volcano",
-    "WHERE: Near Reykjavík, Iceland",
-    "WHY: Because the magma drained away after the last eruption, leaving a huge empty space"
+    "WHO: Kids born with a specific genetic deafness.",
+    "WHAT: They can now get a gene therapy called Otarmeni that might let them hear.",
+    "WHERE: In the U.S., at hospitals.",
+    "WHY: A broken OTOF gene stops sound signals from reaching the brain; the therapy fixes this."
   ],
   "perspectives": [
     {
-      "perspective": "Tourist / Adventurer",
-      "description": "Excited to have a once-in-a-lifetime experience walking inside a volcano and seeing the beautiful colors."
+      "perspective": "Families of deaf children",
+      "description": "They are thrilled about the possibility of their child hearing."
     },
     {
-      "perspective": "Scientist / Volcanologist",
-      "description": "Fascinated by the mystery of the missing magma and uses the chamber to learn more about volcanoes."
+      "perspective": "Scientists and doctors",
+      "description": "They see this as a huge step forward for medicine and hope to treat other types of hearing loss."
     },
     {
-      "perspective": "Safety-conscious person",
-      "description": "Might worry whether it's safe to go inside a volcano, but the volcano is dormant and monitored."
+      "perspective": "Some deaf community members",
+      "description": "They may have mixed feelings, because some deaf people see deafness as part of their culture, not something to cure."
     }
   ],
-  "mined_at": "2026-04-25T01:32:00+00:00",
-  "source_published_at": "Fri, 24 Apr 2026 15:36:23 +0000",
+  "mined_at": "2026-04-25T02:02:40+00:00",
+  "source_published_at": "Thu, 23 Apr 2026 21:01:34 +0000",
   "source_name": "Live Science",
-  "source_url": "https://www.livescience.com/planet-earth/geology/thrihnukagigur-the-only-volcano-on-earth-where-you-can-descend-into-a-magma-chamber"
+  "source_url": "https://www.livescience.com/health/genetics/a-landmark-moment-for-the-field-fda-approves-first-ever-gene-therapy-for-inherited-deafness"
 }

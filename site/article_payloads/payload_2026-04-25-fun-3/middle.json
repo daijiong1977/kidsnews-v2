@@ -1,139 +1,142 @@
 {
-  "title": "Descend Into a Volcano: Iceland's Thríhnúkagígur Offers a Journey to an Empty Magma Chamber",
-  "summary": "Imagine standing inside a volcano, surrounded by walls that once held molten rock at temperatures over 2,000°F. That's exactly what visitors to Thríhnúkagígur (pronounced three-NOO-ka-gee-gur) in Iceland get to experience. This dormant volcano, whose name means 'Three Peaks Crater,' is the only place on Earth where humans can enter an empty magma chamber.\n\nLocated near Reykjavík, Thríhnúkagígur last erupted about 4,500 years ago. Unlike most volcanoes, where leftover magma slowly solidifies inside the chamber, here the magma vanished. Scientists are puzzled. 'It's like somebody came and pulled the plug and all the magma ran down out of it,' said Haraldur Sigurdsson, a volcanologist at the University of Rhode Island. The magma may have been sucked back down into the Earth's crust.\n\nThe chamber is about 700 feet (210 meters) deep — more than double the height of the Statue of Liberty including its pedestal. Visitors descend in an open cable elevator, originally built for scientists in 2010, and then explore a 33,600-square-foot (3,120 square meters) cave floor. The walls are a stunning palette: bronze, indigo, blue, yellow, and orange. These colors come from microbes (tiny organisms) and sulfur-rich gases that painted the rock over centuries. Occasionally, puffs of steam rise from corners, but these are just water droplets hitting hot lamps — not signs of an impending eruption.\n\nThrínúkagígur has erupted three times in the past 50,000 years. Its three peaks form a line, each about 115 feet tall and 660 feet apart. The youngest peak, from the most recent eruption, holds the entrance. The oldest peak, 50,000 years old, is made of hyaloclastite — a sharp, glassy rock formed when lava met ice during Iceland's ice age. Tours have been running since 2012, offering a rare glimpse into the plumbing of a volcano.",
-  "why_it_matters": "Exploring Thríhnúkagígur helps scientists understand volcanic plumbing and how magma behaves, which could improve prediction of eruptions — knowledge that protects communities in volcanic regions worldwide.",
-  "image_url": "/article_images/article_5f226ea24cb9.webp",
+  "title": "FDA Approves First Gene Therapy for Inherited Deafness — A 'Landmark Moment'",
+  "summary": "In a breakthrough that scientists are calling \"a landmark moment,\" the U.S. Food and Drug Administration (FDA) has approved the first-ever gene therapy for inherited deafness. The therapy, named Otarmeni, is designed to treat a specific form of hearing loss caused by mutations in the OTOF gene. This gene provides instructions for making a protein called otoferlin, which is crucial for converting sound vibrations into electrical signals that the brain can interpret. When both copies of the gene are defective, this communication pathway is severed, resulting in severe-to-profound hearing loss.\n\nOtarmeni is a one-time treatment that employs harmless viruses to deliver functional copies of the OTOF gene directly into the cells of the inner ear. In a clinical trial involving 20 participants, 16 showed measurable improvements in hearing within six months, and one additional participant improved within a year. Some participants reached a level where they could hear whispers, and all responders achieved hearing that typically does not require a cochlear implant — a device that bypasses damaged parts of the ear but doesn't perfectly replicate natural hearing.\n\n\"The FDA approval of this gene therapy is a landmark moment for the field and, most importantly, for patients,\" said Dr. Zheng-Yi Chen, a scientist at Harvard Medical School who has been involved in a similar trial in China. He noted that the approval process was remarkably fast — less than three years from the first patient dosing in 2023 — due to the urgent need and robust results.\n\nThe therapy is approved for both children and adults with OTOF-related hearing loss who have not received a cochlear implant in the ear to be treated. Regeneron, the manufacturer, announced that the treatment itself will be free to patients in the U.S., though out-of-pocket administration costs may apply depending on insurance. An international trial is still ongoing, recruiting children under 18 in the U.S., UK, Spain, Germany, and Japan. Dr. A. Eliot Shearer, a trial investigator, shared a poignant moment: \"I've witnessed firsthand my trial participant responding to their mother's voice, dancing to music and interacting with the world.\" This approval opens the door for more children to experience those moments.",
+  "why_it_matters": "This approval demonstrates that gene therapy can effectively treat a sensory disorder like deafness, opening the door for treatments of other genetic forms of hearing loss. For preteens, it raises questions about what it means to 'cure' a condition that some people see as a cultural identity, and who gets access to expensive medical breakthroughs.",
+  "image_url": "/article_images/article_9a27df0f7a86.webp",
   "keywords": [
     {
-      "term": "Thríhnúkagígur",
-      "explanation": "A dormant volcano in Iceland, the only place where humans can enter an empty magma chamber"
+      "term": "FDA",
+      "explanation": "U.S. Food and Drug Administration, the agency that approved the therapy."
     },
     {
-      "term": "magma chamber",
-      "explanation": "An underground cavity that once held molten rock; here it is empty and accessible"
+      "term": "Otarmeni",
+      "explanation": "The name of the gene therapy approved for inherited deafness caused by OTOF mutations."
     },
     {
-      "term": "Iceland",
-      "explanation": "A volcanic island nation with many active and dormant volcanoes"
+      "term": "OTOF",
+      "explanation": "The gene that provides instructions for making otoferlin, a protein needed for hearing."
     },
     {
-      "term": "cable elevator",
-      "explanation": "An open lift used to descend 700 feet into the former magma chamber"
+      "term": "otoferlin",
+      "explanation": "A protein crucial for converting sound vibrations into electrical signals in the ear."
     },
     {
-      "term": "microbes",
-      "explanation": "Tiny organisms that produce pigments, coloring the chamber walls"
+      "term": "clinical trial",
+      "explanation": "A research study where the therapy was tested on 20 participants."
     },
     {
-      "term": "volcanologist",
-      "explanation": "A scientist who studies volcanoes, such as Haraldur Sigurdsson"
+      "term": "Regeneron",
+      "explanation": "The company that manufactures Otarmeni and announced the treatment would be free for patients."
     }
   ],
   "questions": [
     {
-      "question": "What makes Thríhnúkagígur unique among volcanoes?",
+      "question": "What condition does Otarmeni treat?",
       "options": [
-        "It is the most active volcano in Iceland",
-        "It has an empty magma chamber that people can enter",
-        "It is the tallest volcano in the world",
-        "It has a lake of lava"
+        "Inherited deafness caused by mutations in the OTOF gene",
+        "Age-related hearing loss",
+        "Noise-induced hearing loss",
+        "Ear infections"
       ],
-      "correct_answer": "It has an empty magma chamber that people can enter"
+      "correct_answer": "Inherited deafness caused by mutations in the OTOF gene"
     },
     {
-      "question": "How deep is the magma chamber?",
+      "question": "What is the function of the protein otoferlin?",
       "options": [
-        "About 210 meters",
-        "About 700 meters",
-        "About 500 meters",
-        "About 1,000 meters"
+        "It protects the ear from infection",
+        "It converts sound vibrations into electrical signals",
+        "It makes earwax",
+        "It controls balance"
       ],
-      "correct_answer": "About 210 meters"
+      "correct_answer": "It converts sound vibrations into electrical signals"
     },
     {
-      "question": "What caused the colors on the chamber walls?",
+      "question": "How many participants in the clinical trial showed improvement within six months?",
       "options": [
-        "Volcanic ash",
-        "Microbes and sulfur-rich gases",
-        "Mineral deposits from water",
-        "Artificial lighting"
+        "16",
+        "20",
+        "15",
+        "18"
       ],
-      "correct_answer": "Microbes and sulfur-rich gases"
+      "correct_answer": "16"
     },
     {
-      "question": "What is the leading hypothesis for the missing magma?",
+      "question": "What method does Otarmeni use to deliver the working gene?",
       "options": [
-        "It was used for building",
-        "It drained back into the Earth's crust",
-        "It evaporated",
-        "It was mined out"
+        "Injection into the spine",
+        "Harmless viruses carrying the gene",
+        "Gene editing with CRISPR",
+        "Oral medication"
       ],
-      "correct_answer": "It drained back into the Earth's crust"
+      "correct_answer": "Harmless viruses carrying the gene"
     },
     {
-      "question": "When did the most recent eruption of Thríhnúkagígur occur?",
+      "question": "According to Dr. Chen, how fast was the approval process?",
       "options": [
-        "About 4,500 years ago",
-        "About 50,000 years ago",
-        "About 10,000 years ago",
-        "In 2010"
+        "Less than three years",
+        "More than ten years",
+        "Exactly five years",
+        "Less than one year"
       ],
-      "correct_answer": "About 4,500 years ago"
+      "correct_answer": "Less than three years"
     },
     {
-      "question": "What is the oldest peak made of, and why?",
+      "question": "Which company manufactures Otarmeni?",
       "options": [
-        "Basalt, from slow cooling",
-        "Hyaloclastite, formed when lava met ice",
-        "Granite, from deep crust",
-        "Pumice, from explosive eruptions"
+        "Pfizer",
+        "Regeneron",
+        "Moderna",
+        "Johnson & Johnson"
       ],
-      "correct_answer": "Hyaloclastite, formed when lava met ice"
+      "correct_answer": "Regeneron"
     }
   ],
   "background_read": [
-    "Iceland sits atop the Mid-Atlantic Ridge, where tectonic plates diverge, making it one of the most volcanically active places on Earth.",
-    "The term 'magma chamber' refers to a large pool of molten rock beneath a volcano; after an eruption, it usually solidifies into rock, but Thríhnúkagígur is an exception.",
-    "Hyaloclastite is a rock formed when lava erupts under ice, common in Iceland due to glaciers, and is very sharp.",
-    "Tours into the volcano have been operating since 2012, offering a rare glimpse into the 'plumbing' of a volcano."
+    "Gene therapy involves delivering a working copy of a gene to replace a defective one, often using a virus as a delivery system.",
+    "The first gene therapy approved in the US was for a rare form of blindness in 2017.",
+    "Otarmeni targets mutations in the OTOF gene, which are a relatively rare cause of deafness but ideal for gene therapy because the inner ear structure is often intact.",
+    "Clinical trials for similar therapies are also underway in China and Europe.",
+    "While this therapy is currently free for patients in the US, the high cost of gene therapies (often hundreds of thousands of dollars) raises questions about future access."
   ],
   "Article_Structure": [
-    "LEAD: 'Imagine standing inside a volcano, surrounded by walls that once held molten rock.'",
-    "  └─ specific: Thríhnúkagígur is the only place where humans can enter an empty magma chamber.",
-    "KEY EVENT: Last eruption 4,500 years ago; magma disappeared mysteriously.",
-    "  ├─ WHO: Volcanologist Haraldur Sigurdsson",
-    "  ├─ HOW: 'Like somebody came and pulled the plug'",
-    "  └─ SCIENTIFIC PUZZLE: Magma may have drained back into the Earth's crust.",
-    "DESCRIPTION OF TOUR",
-    "  ├─ DEPTH: 700 feet (210 m) descent via open cable elevator.",
-    "  ├─ SIZE: Cave floor 33,600 sq ft (half a football field).",
-    "  └─ COLORS: Bronze, blue, yellow, etc. from microbes and sulfur gases.",
-    "HISTORICAL CONTEXT",
-    "  ├─ THREE PEAKS: Formed over 50,000 years, youngest peak holds entrance.",
-    "  ├─ OLDEST PEAK: 50,000 years old, made of hyaloclastite.",
-    "  └─ TOURS: Running since 2012.",
-    "OPEN QUESTION: Why did the magma drain away completely?"
+    "LEAD: FDA approves first gene therapy for inherited deafness — landmark moment",
+    "  └─ Quote from Dr. Chen: 'landmark moment for the field'",
+    "BACKGROUND: Genetic cause",
+    "  ├─ OTOF gene → otoferlin protein",
+    "  └─ Defect severs communication between ear and brain",
+    "HOW THERAPY WORKS",
+    "  └─ Harmless viruses deliver functional OTOF gene into inner ear",
+    "CLINICAL TRIAL RESULTS",
+    "  ├─ 16/20 improved within 6 months, 1 more within year",
+    "  └─ Some could hear whispers; all avoided need for cochlear implant",
+    "SPEED OF APPROVAL",
+    "  └─ Less than 3 years from first dosing (2023)",
+    "COST AND ACCESS",
+    "  ├─ Treatment free for patients in US (manufacturer Regeneron)",
+    "  └─ Administration costs may apply per insurance",
+    "FUTURE: International trial ongoing; potential for other therapies",
+    "QUOTE FROM Dr. Shearer: witnessed child responding to mother's voice"
   ],
   "perspectives": [
     {
-      "perspective": "Positive (Tourism and Science)",
-      "description": "This unique site offers an unparalleled educational and adventure experience, drawing tourists to Iceland and providing scientists with direct access to a magma chamber, advancing volcanic research."
+      "perspective": "Positive: Families of children with OTOF-related deafness",
+      "description": "They now have a treatment that can give their children natural hearing, potentially improving speech development and quality of life."
     },
     {
-      "perspective": "Negative / Critical (Environmental impact)",
-      "description": "Increasing tourism could damage the fragile rock formations and microbial ecosystems inside the chamber. There are concerns about over-visitation and the carbon footprint of flights and tours to Iceland."
+      "perspective": "Negative/Critical: Cost and equity advocates",
+      "description": "While the therapy itself is free now, future versions may not be, and the high cost of gene therapies could widen health disparities. Also, the long-term effects are not fully known yet."
     },
     {
-      "perspective": "Neutral / Analytical (Geological anomaly)",
-      "description": "The chamber's empty state remains a geological mystery. Studying it could reveal new insights into how magma moves underground, but the uniqueness makes it hard to generalize to other volcanoes."
+      "perspective": "Neutral/Analytical: Medical researchers",
+      "description": "This is a proof-of-concept for inner ear gene therapy, but OTOF-related deafness is rare (about 1-2% of inherited hearing loss). It may not be easily scaled to other forms of deafness."
     },
     {
-      "perspective": "Forward-looking (Future research and safety)",
-      "description": "If scientists can determine why the magma drained, it could lead to better models for predicting volcanic eruptions. Continued monitoring and research might also help identify other volcanoes with similar accessible chambers."
+      "perspective": "Forward-looking: Scientists and health policy makers",
+      "description": "The success could accelerate investment in gene therapies for more common hearing loss types (e.g., age-related), and it may set a precedent for pricing and distribution of such advanced therapies globally."
     }
   ],
-  "mined_at": "2026-04-25T01:32:00+00:00",
-  "source_published_at": "Fri, 24 Apr 2026 15:36:23 +0000",
+  "mined_at": "2026-04-25T02:02:40+00:00",
+  "source_published_at": "Thu, 23 Apr 2026 21:01:34 +0000",
   "source_name": "Live Science",
-  "source_url": "https://www.livescience.com/planet-earth/geology/thrihnukagigur-the-only-volcano-on-earth-where-you-can-descend-into-a-magma-chamber"
+  "source_url": "https://www.livescience.com/health/genetics/a-landmark-moment-for-the-field-fda-approves-first-ever-gene-therapy-for-inherited-deafness"
 }
