@@ -1,119 +1,163 @@
 {
-  "title": "Justice Department Drops Investigation of Fed Chair Jerome Powell",
-  "summary": "Big news from Washington: The Justice Department has dropped its criminal investigation of Jerome Powell, the chair of the Federal Reserve. The Fed is the central bank of the U.S., and it makes decisions about interest rates that affect everyone's money.\n\nThe investigation was about cost overruns (when a project costs more than planned) in renovating two Fed buildings. The cost went from $1.9 billion to $2.5 billion. The Fed said it was because of unexpected things like lead, asbestos, and inflation.\n\nA judge had already blocked the investigation, saying it was an improper attempt by the Trump administration to pressure the Fed into cutting interest rates. President Trump has been angry at Powell for not lowering rates enough.\n\nThe U.S. attorney, Jeanine Pirro, said she will instead ask the Fed's inspector general to look into the costs. The inspector general has already reviewed the project twice and found no wrongdoing.\n\nThis decision clears the way for the Senate to confirm Kevin Warsh as the next Fed chair. Powell's term ends next month. But Powell might stay on the Fed's board, which would give him a vote on interest rates. All this drama happens as the war with Iran is causing oil prices and inflation to spike.",
-  "why_it_matters": "This news shows how politics and the economy mix. The Fed's decisions on interest rates affect how much it costs to borrow money for things like cars, houses, and college, which can impact your family's budget.",
-  "image_url": "/article_images/article_110f77aab126.webp",
+  "title": "Ships Caught in the Middle: US and Iran Seize Vessels, Breaking Rules",
+  "summary": "Imagine you're a sailor just doing your job, delivering goods across the ocean. Then suddenly, your ship is captured by a country's military. That's what's happening to sailors right now — and a major shipping organization says it's against the rules.\n\nThe International Chamber of Shipping, which represents about 80% of the world's merchant ships, says both the United States and Iran are violating international law (the rules countries agree to follow). Iran has seized two ships, and the US has captured one. The organization says the sailors are innocent people caught in a political fight.\n\nJohn Stawpert, a director at the organization, said, \"These are innocent farers and they should be allowed to go about their jobs without fear of imprisonment.\"\n\nThe trouble is happening near the Strait of Hormuz, a narrow waterway that about one-fifth of the world's oil passes through. Iran has threatened to charge tolls there, which the shipping group says has no basis in law. The US has also set up a naval blockade (a military barrier) around Iranian ports.\n\nBecause of all this, about 20,000 seafarers are stuck on ships in the Gulf. Their food and mental health are becoming serious concerns. And fuel prices are going up worldwide because oil can't get through easily.\n\nThe shipping group is calling on both countries to let the ships go and respect freedom of navigation — the right of ships to travel freely.",
+  "why_it_matters": "This matters because it shows how fights between countries can affect everyday things like the price of fuel and the safety of workers on ships.",
+  "image_url": "/article_images/article_ef27331bab82.webp",
   "keywords": [
     {
-      "term": "Justice Department",
-      "explanation": "The part of the U.S. government that makes sure laws are followed and investigates crimes."
+      "term": "seized",
+      "explanation": "Taken by force, like when a military takes a ship."
     },
     {
-      "term": "criminal investigation",
-      "explanation": "An official check to see if someone broke the law and should be charged."
+      "term": "international law",
+      "explanation": "Rules that most countries agree to follow."
     },
     {
-      "term": "Federal Reserve",
-      "explanation": "The central bank of the United States that decides interest rates and controls money."
+      "term": "Strait of Hormuz",
+      "explanation": "A narrow waterway in the Middle East where many oil ships travel."
     },
     {
-      "term": "interest rates",
-      "explanation": "The extra money you pay when you borrow money, like for a loan or a credit card."
+      "term": "naval blockade",
+      "explanation": "A military barrier that stops ships from entering an area."
     },
     {
-      "term": "cost overruns",
-      "explanation": "When a project ends up costing more money than was planned at the start."
+      "term": "freedom of navigation",
+      "explanation": "The right of ships to travel freely in international waters."
     },
     {
-      "term": "inspector general",
-      "explanation": "A person inside a government agency who checks for waste, fraud, or mistakes."
+      "term": "seafarers",
+      "explanation": "Sailors or people who work on ships."
+    },
+    {
+      "term": "Imagine",
+      "rank": 4050,
+      "explanation": ""
+    },
+    {
+      "term": "you're",
+      "rank": null,
+      "explanation": ""
+    },
+    {
+      "term": "sailor",
+      "rank": null,
+      "explanation": ""
+    },
+    {
+      "term": "delivering",
+      "rank": 7195,
+      "explanation": ""
+    },
+    {
+      "term": "ocean",
+      "rank": 2473,
+      "explanation": ""
+    },
+    {
+      "term": "suddenly",
+      "rank": 5500,
+      "explanation": ""
+    },
+    {
+      "term": "captured",
+      "rank": 7169,
+      "explanation": ""
+    },
+    {
+      "term": "country's",
+      "rank": null,
+      "explanation": ""
     }
   ],
   "questions": [
     {
-      "question": "What did the Justice Department drop?",
+      "question": "What does the International Chamber of Shipping say about the US and Iran?",
       "options": [
-        "An investigation of Jerome Powell",
-        "A lawsuit against the Fed",
-        "A budget review",
-        "A trade deal"
+        "They are violating international law",
+        "They are making a new trade deal",
+        "They are helping each other",
+        "They are building new ships"
       ],
-      "correct_answer": "An investigation of Jerome Powell"
+      "correct_answer": "They are violating international law"
     },
     {
-      "question": "Why was the investigation started?",
+      "question": "How many ships have been seized by Iran?",
       "options": [
-        "Because Powell raised taxes",
-        "Because of cost overruns in renovating two Fed buildings",
-        "Because Powell made a speech",
-        "Because the Fed lost money"
+        "Two",
+        "One",
+        "Three",
+        "Four"
       ],
-      "correct_answer": "Because of cost overruns in renovating two Fed buildings"
+      "correct_answer": "Two"
     },
     {
-      "question": "How much did the renovation costs go up?",
+      "question": "How many ships have been seized by the US?",
       "options": [
-        "From $1 billion to $2 billion",
-        "From $1.9 billion to $2.5 billion",
-        "From $2 billion to $3 billion",
-        "From $500 million to $1 billion"
+        "One",
+        "Two",
+        "Three",
+        "None"
       ],
-      "correct_answer": "From $1.9 billion to $2.5 billion"
+      "correct_answer": "One"
     },
     {
-      "question": "What did a judge say about the investigation?",
+      "question": "What important waterway is near where the seizures happen?",
       "options": [
-        "It was proper",
-        "It was an improper attempt to pressure the Fed",
-        "It should continue",
-        "It was too slow"
+        "Strait of Hormuz",
+        "Suez Canal",
+        "Panama Canal",
+        "Bosphorus Strait"
       ],
-      "correct_answer": "It was an improper attempt to pressure the Fed"
+      "correct_answer": "Strait of Hormuz"
     },
     {
-      "question": "Who will now look into the cost overruns?",
+      "question": "About how many seafarers are stuck on ships in the Gulf?",
       "options": [
-        "The police",
-        "The Fed's inspector general",
-        "The president",
-        "A private company"
+        "20,000",
+        "2,000",
+        "200",
+        "200,000"
       ],
-      "correct_answer": "The Fed's inspector general"
+      "correct_answer": "20,000"
     },
     {
-      "question": "What does this decision clear the way for?",
+      "question": "What problem is happening to fuel prices because of this?",
       "options": [
-        "Jerome Powell to stay forever",
-        "The Senate to confirm Kevin Warsh as the next Fed chair",
-        "A new investigation",
-        "Lower interest rates"
+        "They are going up",
+        "They are going down",
+        "They are staying the same",
+        "Gas is free"
       ],
-      "correct_answer": "The Senate to confirm Kevin Warsh as the next Fed chair"
+      "correct_answer": "They are going up"
     }
   ],
   "background_read": [
-    "The Federal Reserve is the U.S. central bank. It decides how much it costs to borrow money, which affects jobs and prices.",
-    "Jerome Powell is the chair of the Federal Reserve, appointed by President Trump in 2018 and later by President Biden.",
-    "Kevin Warsh used to work at the Fed and has been chosen by President Trump to become the new chair."
+    "The Strait of Hormuz is a very important waterway because many oil tankers pass through it.",
+    "When countries argue, they sometimes stop ships, which can affect fuel prices around the world.",
+    "The International Chamber of Shipping is a group that speaks for shipping companies and works to protect sailors' rights."
   ],
   "Article_Structure": [
-    "WHO: Jerome Powell is the chair of the Federal Reserve; Jeanine Pirro is the U.S. attorney; Kevin Warsh is the new nominee.",
-    "WHAT: The Justice Department dropped its criminal investigation of Jerome Powell over building renovation costs.",
-    "WHERE: The investigation was in Washington, D.C., about Fed buildings.",
-    "WHY: Because a judge said the investigation was an improper attempt to pressure the Fed into cutting interest rates."
+    "WHO: Sailors and shipping companies (represented by the International Chamber of Shipping); the US and Iran.",
+    "WHAT: Both countries are seizing ships, violating international law, and causing problems for sailors and oil prices.",
+    "WHERE: Near the Strait of Hormuz, in the Gulf.",
+    "WHY: Because of a political conflict between the US and Iran; the sailors are innocent victims."
   ],
   "perspectives": [
     {
-      "perspective": "Supporters of dropping the investigation",
-      "description": "They say the investigation was unfair and meant to pressure the Fed to lower interest rates, which would hurt the economy in the long run."
+      "perspective": "Shipping industry",
+      "description": "The shipping group is worried about the safety of sailors and wants the ships released so trade can flow normally."
     },
     {
-      "perspective": "Critics who wanted the investigation",
-      "description": "They believe the cost overruns should be fully investigated to find out if anyone broke the law, and dropping it lets the Fed off the hook."
+      "perspective": "Environmental concern",
+      "description": "If oil cannot pass through, fuel prices go up, which can affect everyone who uses cars or products shipped by sea."
+    },
+    {
+      "perspective": "Humanitarian concern",
+      "description": "Thousands of sailors are stuck on ships with limited food and stress, which is a serious health risk."
     }
   ],
-  "mined_at": "2026-04-25T04:04:42+00:00",
-  "source_published_at": "Fri, 24 Apr 2026 11:02:17 -0400",
-  "source_name": "NPR World",
-  "source_url": "https://www.npr.org/2026/04/24/nx-s1-5798661/justice-department-drops-inquiry-into-fed-chair-jerome-powell"
+  "mined_at": "2026-04-25T07:06:51+00:00",
+  "source_published_at": "Sat, 25 Apr 2026 06:27:56 +0000",
+  "source_name": "Al Jazeera",
+  "source_url": "https://www.aljazeera.com/economy/2026/4/25/capture-of-ships-by-us-iran-violates-international-law-shipping-body-says?traffic_source=rss"
 }

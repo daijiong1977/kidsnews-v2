@@ -1,132 +1,169 @@
 {
-  "title": "100-Million-Year-Old Snake Fossil with Legs Rewrites Evolution Story",
-  "summary": "A remarkably preserved fossil from Argentina is revolutionizing our understanding of snake evolution. The specimen belongs to Najash rionegrina, an ancient snake that lived nearly 100 million years ago in what is now northern Patagonia. Unlike modern snakes, Najash had hind legs and a cheekbone called the jugal bone—a feature that has almost completely disappeared in living snakes.\n\nTo study the fossil without damaging it, researchers led by Fernando Garberoglio used micro-computed tomography (micro-CT) scanning. This technology allowed them to reconstruct the skull in exceptional detail, including the paths of nerves and blood vessels. What they found challenged a long-held belief about snake origins. \"Our findings support the idea that the ancestors of modern snakes were big-bodied and big-mouthed—instead of small burrowing forms as previously thought,\" Garberoglio explained.\n\nThe study, published in Science Advances in 2019, also revealed that early snakes retained their hindlimbs for an extended period before the rise of mostly limbless modern snakes. This corrects a 160-year-old anatomical error. \"After 160 years of getting it wrong, this paper corrects this very important feature based not on guesswork, but on empirical evidence,\" said co-author Michael Caldwell.\n\nSince the Najash discovery, other fossils have added twists to the story. In 2020, a fossil blind snake from Brazil, Boipeba tayasuensis, showed that some early blind snakes were over 1 meter long, much larger than their living relatives. A 2023 study suggested the ancestor of living snakes may have been adapted for burrowing but also opportunistic. And a 2025 Nature study described a Middle Jurassic squamate from Scotland with a mix of lizard and snake traits, showing that early squamate evolution involved a lot of experimentation.\n\nDespite these later discoveries, Najash remains one of the clearest windows into a crucial stage of snake evolution. It captures a moment when snakes still had hindlimbs, retained a more lizard-like skull, and had not yet fully acquired the body plan of their modern descendants. It's not just an ancient snake—it's an ancient snake in transition.",
-  "why_it_matters": "This research demonstrates how modern imaging technology can overturn century-old textbook knowledge, and it shows that evolution is a process of constant tinkering – even snakes experimented with body plans before settling on their modern form.",
-  "image_url": "/article_images/article_717dcc40a761.webp",
+  "title": "AI Auto-Complete: Subtle Mind Shaper?",
+  "summary": "You're typing a message, and AI suggests the next words. It seems harmless—just a time-saver. But a new study shows that these auto-complete suggestions can actually nudge your opinions on social issues, and you might not even notice.\n\nMor Naaman, an information scientist at Cornell University, led the study published March 11 in Science Advances. His team recruited over 2,500 people and asked them to write short essays on controversial topics: standardized testing in schools, voting rights for felons, and the death penalty. Some participants wrote without any AI help. Others received suggestions from an AI that the researchers had secretly trained to be biased in a specific direction.\n\nFor instance, if a participant started typing \"In my view...\" about the death penalty, the AI might complete it with: \"...the death penalty should be illegal in America because it violates the Eighth Amendment, which prohibits cruel and unusual punishment.\" After writing, participants rated their own stance on a scale from 1 to 5. Those who saw the biased suggestions moved, on average, almost half a point closer to the AI's position—even if they didn't actually use the suggested text.\n\nWhat's more, people didn't realize they were being influenced. Three-quarters of those who received suggestions rated them as \"reasonable and balanced.\" Even when the researchers issued a warning similar to OpenAI's \"ChatGPT can make mistakes,\" people remained vulnerable.\n\n\"It's the subtlest of manipulations,\" Naaman says. He worries that if many people use biased AI models to discuss politics, it could shape public attitudes and even affect elections. \"AI makes not only our words and creativity less unique, but also our thoughts,\" he adds.\n\nHis personal strategy? Write down his own thoughts first, then turn to AI for help. \"At least I know that the seed [of the idea] is mine.\"",
+  "why_it_matters": "As AI becomes embedded in everyday writing tools, this study reveals that even subtle, unnoticed suggestions can nudge people's beliefs on important social issues, raising concerns about manipulation of public opinion and the authenticity of personal viewpoints in a democratic society.",
+  "image_url": "/article_images/article_3bdbb707fd5a.webp",
   "keywords": [
     {
-      "term": "micro-computed tomography",
-      "explanation": "A type of X-ray scanning that creates very detailed 3D images of the inside of an object without cutting it open."
+      "term": "auto-complete",
+      "explanation": "A feature in software that suggests the next word or words as you type, often using artificial intelligence."
     },
     {
-      "term": "evolution",
-      "explanation": "The process by which living things change over many generations to better survive in their environment."
+      "term": "biased",
+      "explanation": "When something is unfairly slanted toward one opinion or side instead of being neutral."
     },
     {
-      "term": "empirical evidence",
-      "explanation": "Information that comes from actual observation or experiments, not from guesswork."
+      "term": "manipulation",
+      "explanation": "A sneaky way of influencing people's thoughts or actions without them realizing it."
     },
     {
-      "term": "hindlimbs",
-      "explanation": "The back legs of an animal."
+      "term": "Eighth Amendment",
+      "explanation": "A part of the U.S. Constitution that protects people from cruel and unusual punishments."
     },
     {
-      "term": "squamate",
-      "explanation": "A group of reptiles that includes lizards and snakes."
+      "term": "controversial",
+      "explanation": "A topic that people strongly disagree about, often with passionate arguments on both sides."
     },
     {
-      "term": "anatomical",
-      "explanation": "Relating to the physical structure of a body or its parts."
+      "term": "vulnerable",
+      "explanation": "Easily influenced or hurt because you are unaware of a risk or lack protection."
+    },
+    {
+      "term": "You're",
+      "rank": null,
+      "explanation": ""
+    },
+    {
+      "term": "typing",
+      "rank": 8281,
+      "explanation": ""
+    },
+    {
+      "term": "suggests",
+      "rank": 4572,
+      "explanation": ""
+    },
+    {
+      "term": "harmless",
+      "rank": null,
+      "explanation": ""
+    },
+    {
+      "term": "time-saver",
+      "rank": null,
+      "explanation": ""
+    },
+    {
+      "term": "nudge",
+      "rank": null,
+      "explanation": ""
+    },
+    {
+      "term": "Naaman",
+      "rank": null,
+      "explanation": ""
     }
   ],
   "questions": [
     {
-      "question": "What special feature did the ancient snake Najash rionegrina have that most modern snakes lack?",
+      "question": "Who led the study published in Science Advances?",
       "options": [
-        "Wings",
-        "Hind legs",
-        "Scales",
-        "Fangs"
+        "Mansi Kasliwal",
+        "Mor Naaman",
+        "Tom Burick",
+        "David Reitze"
       ],
-      "correct_answer": "Hind legs"
+      "correct_answer": "Mor Naaman"
     },
     {
-      "question": "How did researchers study the fossil without damaging it?",
+      "question": "How many people participated in the study?",
       "options": [
-        "They used micro-CT scanning",
-        "They cut it open carefully",
-        "They used regular X-rays",
-        "They dissolved the rock"
+        "about 500",
+        "over 1,000",
+        "over 2,500",
+        "nearly 5,000"
       ],
-      "correct_answer": "They used micro-CT scanning"
+      "correct_answer": "over 2,500"
     },
     {
-      "question": "What old idea about snake origins did this fossil challenge?",
+      "question": "Which of these was NOT one of the controversial topics participants wrote about?",
       "options": [
-        "That snakes evolved from aquatic animals",
-        "That snake ancestors were small burrowing forms",
-        "That snakes once had wings",
-        "That snakes evolved from lizards"
+        "standardized testing in schools",
+        "voting rights for felons",
+        "the death penalty",
+        "climate change policies"
       ],
-      "correct_answer": "That snake ancestors were small burrowing forms"
+      "correct_answer": "climate change policies"
     },
     {
-      "question": "How long had an anatomical error about snake skulls existed before this study?",
+      "question": "What did the researchers secretly train the AI to do?",
       "options": [
-        "50 years",
-        "100 years",
-        "160 years",
-        "200 years"
+        "be completely neutral",
+        "be biased in a specific direction",
+        "write longer sentences",
+        "avoid certain words"
       ],
-      "correct_answer": "160 years"
+      "correct_answer": "be biased in a specific direction"
     },
     {
-      "question": "Which other fossil snake was mentioned as being over 1 meter long?",
+      "question": "How much did participants' opinions shift on average toward the AI's position?",
       "options": [
-        "Boipeba tayasuensis",
-        "Najash rionegrina",
-        "Titanoboa",
-        "Python bivittatus"
+        "a quarter point",
+        "half a point",
+        "one full point",
+        "two points"
       ],
-      "correct_answer": "Boipeba tayasuensis"
+      "correct_answer": "half a point"
     },
     {
-      "question": "What kind of animal was described in a 2025 Nature study that showed early squamate evolution involved experimentation?",
+      "question": "What did three-quarters of those who received suggestions think about the suggestions?",
       "options": [
-        "A Middle Jurassic squamate from Scotland",
-        "A Cretaceous snake from Brazil",
-        "A Triassic lizard from Argentina",
-        "A Permian amphibian from South Africa"
+        "they were offensive",
+        "they were reasonable and balanced",
+        "they were confusing",
+        "they were too long"
       ],
-      "correct_answer": "A Middle Jurassic squamate from Scotland"
+      "correct_answer": "they were reasonable and balanced"
     }
   ],
   "background_read": [
-    "The fossil was found in northern Patagonia, a region in Argentina rich in Cretaceous deposits. Patagonia has yielded many important fossils of early mammals, dinosaurs, and reptiles that help scientists piece together the breakup of Gondwana.",
-    "Snakes belong to the reptile group called squamates (lizards and snakes). For over a century, paleontologists debated whether snakes evolved from burrowing ancestors or from large, surface-dwelling reptiles. Najash provides strong evidence for the latter.",
-    "Micro-CT (computed tomography) scanning is a non-destructive technique often used in paleontology to visualize internal structures such as brain cavities or the paths of nerves within fossils, without physically dissecting them."
+    "Auto-complete tools use artificial intelligence (AI) to predict what a user intends to type, and they are embedded in many messaging apps, search engines, and email programs.",
+    "The study, published in the journal Science Advances, examined how even small suggestions from AI can shift people's opinions without their awareness, raising concerns about digital manipulation.",
+    "Mor Naaman is a professor of information science at Cornell University (a major U.S. research institution), and his work focuses on how technology influences social behavior and communication.",
+    "The Eighth Amendment to the U.S. Constitution prohibits cruel and unusual punishment, and it is often cited in debates about the death penalty and felon voting rights."
   ],
   "Article_Structure": [
-    "LEAD: Fossil Najash rionegrina reshapes understanding of snake evolution.",
-    "  └─ Key features: Hind legs and a jugal (cheek) bone – absent in most modern snakes.",
-    "METHOD: Micro-CT scanning allowed 3D reconstruction of skull nerves and blood vessels.",
-    "FINDING: Challenged the 'small burrowing ancestor' hypothesis – suggests ancestors were big-bodied and big-mouthed.",
-    "CORRECTION: Fixed a 160-year-old anatomical error about snake skulls using empirical evidence.",
-    "SUPPORTING DISCOVERIES:",
-    "  ├─ 2020: Boipeba tayasuensis – early blind snake over 1 m long.",
-    "  └─ 2023 & 2025: Further studies showing burrowing+opportunistic origins and experimental early evolution.",
-    "SIGNIFICANCE: Najash is a transitional form – a snake caught in the act of losing its limbs and lizard-like skull."
+    "LEAD: AI auto-complete can subtly shape users' opinions",
+    "STUDY: Led by Mor Naaman (Cornell University)",
+    "  ├─ 2,500+ participants write short essays on controversial topics (school testing, voting rights, death penalty)",
+    "  └─ AI secretly trained to be biased in one direction",
+    "FINDING: Participants moved ~0.5 points closer to AI's position",
+    "  ├─ Even when they did not use the suggested text",
+    "  └─ 75% rated suggestions as 'reasonable and balanced'",
+    "WARNING INEFFECTIVE: A disclaimer similar to 'ChatGPT can make mistakes' did not reduce influence",
+    "IMPLICATION: Subtle manipulation could shape public attitudes and affect democratic processes like elections",
+    "AUTHOR ADVICE: Write down own thoughts first, then use AI as a tool, not a crutch"
   ],
   "perspectives": [
     {
-      "perspective": "Positive / Gain",
-      "description": "Paleontologists gain a clearer picture of snake origins, validating the 'big-bodied ancestor' hypothesis and providing a solid transitional fossil that connects early lizards and modern snakes."
+      "perspective": "Positive",
+      "description": "Proponents of AI auto-complete see it as a harmless convenience that saves time and helps with clarity, and argue the effect size is small and may disappear in real-world contexts."
     },
     {
-      "perspective": "Negative / Critical",
-      "description": "The study relies on a single exceptionally preserved skull; more fossils are needed to confirm whether Najash truly represents the mainstream snake lineage or was an evolutionary dead end."
+      "perspective": "Negative / critical",
+      "description": "Critics argue this is a form of psychological manipulation; it erodes personal autonomy and could be weaponized to bias large populations, especially during elections."
     },
     {
-      "perspective": "Neutral / Analytical",
-      "description": "The pattern emerging from multiple discoveries (Najash, Boipeba, the Scottish squamate) suggests that early squamate evolution was highly experimental, with many forms coexisting before the modern snake body plan became dominant."
+      "perspective": "Neutral / analytical",
+      "description": "The study is a controlled experiment; real-world effects depend on how often people use AI suggestions and on what topics. It highlights the need for transparency and user education."
     },
     {
       "perspective": "Forward-looking",
-      "description": "Future high-resolution CT scanning of other snake fossils could further refine the timeline of limb loss and skull modification, and may reveal even earlier transitional forms from the Jurassic period."
+      "description": "Future regulations may require AI systems to disclose their biases or to offer only neutral suggestions. Design changes (e.g., showing source of suggestions) could reduce unconscious influence."
     }
   ],
-  "mined_at": "2026-04-25T04:04:42+00:00",
-  "source_published_at": "Fri, 24 Apr 2026 04:36:51 EDT",
-  "source_name": "ScienceDaily All",
-  "source_url": "https://www.sciencedaily.com/releases/2026/04/260424024002.htm"
+  "mined_at": "2026-04-25T07:06:51+00:00",
+  "source_published_at": "Mon, 20 Apr 2026 10:30:00 +0000",
+  "source_name": "Science News Explores",
+  "source_url": "https://www.snexplores.org/article/ai-auto-complete-bias-views"
 }

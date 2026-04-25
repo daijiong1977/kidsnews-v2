@@ -1,123 +1,158 @@
 {
-  "title": "Ancient Snake Had Legs and a Lost Cheekbone!",
-  "summary": "Did you know that ancient snakes had legs? A fossil from Argentina shows a snake that lived 100 million years ago with hind legs! It's called Najash rionegrina.\n\nScientists used special CT scans to look inside the fossil without breaking it. They found something surprising: this snake had a cheekbone, called the jugal bone. Modern snakes don't have this bone. The discovery corrects a 160-year-old mistake about snake skulls.\n\nThe fossil also shows that early snakes were big-bodied and big-mouthed. Scientists used to think snakes started as small animals that burrowed underground. But this fossil proves they were larger and had wide mouths.\n\nNajash still had hind legs, which means snakes kept their legs for a long time before losing them completely. This fossil is like a snapshot of evolution in action—a snake that was still changing from a lizard-like ancestor into the legless snakes we know today.",
-  "why_it_matters": "This helps us understand that animals change over time, just like how your understanding of the world changes as you grow up.",
-  "image_url": "/article_images/article_717dcc40a761.webp",
+  "title": "Is AI Auto-Complete Changing Your Mind?",
+  "summary": "Have you ever used auto-complete when typing a text or email? AI suggests words to finish your sentences. It can save time, but a new study says it might also be changing what you think—without you knowing.\n\nMor Naaman, a scientist at Cornell University, ran an experiment with over 2,500 people. Participants wrote short essays about social issues, like whether schools should use standardized tests or if felons should be allowed to vote. Some people wrote without any AI help. Others got suggestions from an AI that the researchers had secretly made biased.\n\nFor example, if someone started typing \"In my view...\" about the death penalty, the AI might suggest: \"...the death penalty should be illegal in America because it violates the Eighth Amendment.\" After writing, people rated their own opinion. Those who saw the AI's suggestions moved almost half a point closer to the AI's stance—even if they didn't use the suggestions. And 75% of them thought the AI was \"reasonable and balanced.\"\n\nNaaman says this is \"the subtlest of manipulations.\" He warns that if many people use biased AI to discuss politics, it could affect how they vote. His advice? Write down your own thoughts first, then use AI for help. That way, the idea is still yours.",
+  "why_it_matters": "This study is important because you use auto-complete when texting or doing homework, and now you know you should form your own opinion before letting AI fill in the blanks.",
+  "image_url": "/article_images/article_3bdbb707fd5a.webp",
   "keywords": [
     {
-      "term": "fossil",
-      "explanation": "The preserved remains or traces of a plant or animal from long ago."
+      "term": "auto-complete",
+      "explanation": "When your phone or computer guesses the next word you want to type."
     },
     {
-      "term": "legs",
-      "explanation": "Limbs that animals use to walk or stand on; ancient snakes had them."
+      "term": "biased",
+      "explanation": "Not fair or balanced; favoring one side over another."
     },
     {
-      "term": "snake",
-      "explanation": "A long, legless reptile that slides on its belly."
+      "term": "standardized tests",
+      "explanation": "Same test given to many students to compare their learning."
     },
     {
-      "term": "cheekbone",
-      "explanation": "A bone in the face below the eye, also called the jugal bone."
+      "term": "felons",
+      "explanation": "People who have been found guilty of a serious crime."
     },
     {
-      "term": "CT scans",
-      "explanation": "Special X-rays that let scientists see inside a fossil without breaking it."
+      "term": "Eighth Amendment",
+      "explanation": "A rule in the US Constitution that says punishments must be fair and not too cruel."
     },
     {
-      "term": "evolution",
-      "explanation": "The slow change of living things over millions of years into different forms."
+      "term": "manipulations",
+      "explanation": "Tricks used to control what someone thinks or does without them knowing."
+    },
+    {
+      "term": "typing",
+      "rank": 8281,
+      "explanation": ""
+    },
+    {
+      "term": "suggests",
+      "rank": 4572,
+      "explanation": ""
+    },
+    {
+      "term": "finish",
+      "rank": 2652,
+      "explanation": ""
+    },
+    {
+      "term": "sentences",
+      "rank": 9109,
+      "explanation": ""
+    },
+    {
+      "term": "changing",
+      "rank": 2463,
+      "explanation": ""
+    },
+    {
+      "term": "knowing",
+      "rank": 4659,
+      "explanation": ""
+    },
+    {
+      "term": "Naaman",
+      "rank": null,
+      "explanation": ""
     }
   ],
   "questions": [
     {
-      "question": "What is the name of the ancient snake fossil found in Argentina?",
+      "question": "Who ran the experiment about AI auto-complete?",
       "options": [
-        "Titanoboa",
-        "Najash rionegrina",
-        "Wonambi",
-        "Haasiophis"
+        "Bill Gates",
+        "Mor Naaman",
+        "Elon Musk",
+        "Tom Burick"
       ],
-      "correct_answer": "Najash rionegrina"
+      "correct_answer": "Mor Naaman"
     },
     {
-      "question": "What surprising bone did scientists find in the fossil?",
+      "question": "How many people took part in the study?",
       "options": [
-        "A wing bone",
-        "A tail bone",
-        "A cheekbone called the jugal",
-        "A rib bone"
+        "500",
+        "1,000",
+        "Over 2,500",
+        "10,000"
       ],
-      "correct_answer": "A cheekbone called the jugal"
+      "correct_answer": "Over 2,500"
     },
     {
-      "question": "How did scientists look inside the fossil without breaking it?",
+      "question": "What did participants write about?",
       "options": [
-        "They cut it open carefully",
-        "They used special CT scans",
-        "They melted the rock around it",
-        "They x-rayed it with a dental machine"
+        "Movies and music",
+        "Sports teams",
+        "Social issues like testing and voting",
+        "Their favorite food"
       ],
-      "correct_answer": "They used special CT scans"
+      "correct_answer": "Social issues like testing and voting"
     },
     {
-      "question": "What did scientists used to think about early snakes?",
+      "question": "For the death penalty, what did the AI suggest?",
       "options": [
-        "They were large and had wide mouths",
-        "They started as small animals that burrowed underground",
-        "They could fly",
-        "They lived only in water"
+        "It should be allowed",
+        "It should be illegal because of the Eighth Amendment",
+        "It should be decided by states",
+        "It should be more common"
       ],
-      "correct_answer": "They started as small animals that burrowed underground"
+      "correct_answer": "It should be illegal because of the Eighth Amendment"
     },
     {
-      "question": "What does the fossil prove about when snakes lost their legs?",
+      "question": "What percentage of people thought the AI was 'reasonable and balanced'?",
       "options": [
-        "They lost their legs very quickly",
-        "They kept their legs for a long time before losing them completely",
-        "They never had legs",
-        "They lost legs before they developed skulls"
+        "25%",
+        "50%",
+        "75%",
+        "100%"
       ],
-      "correct_answer": "They kept their legs for a long time before losing them completely"
+      "correct_answer": "75%"
     },
     {
-      "question": "The discovery corrects a mistake that was how many years old?",
+      "question": "What advice did Naaman give for using AI?",
       "options": [
-        "50 years",
-        "100 years",
-        "160 years",
-        "200 years"
+        "Always use AI first",
+        "Write your own thoughts down first, then use AI",
+        "Never use AI for school",
+        "Only use AI for math"
       ],
-      "correct_answer": "160 years"
+      "correct_answer": "Write your own thoughts down first, then use AI"
     }
   ],
   "background_read": [
-    "Snakes evolved from four-legged lizard-like ancestors over millions of years.",
-    "Argentina (a country in South America) has many amazing fossils, including this snake that lived 100 million years ago.",
-    "CT scans are like super-detailed X-rays that let scientists see inside rocks and fossils without damaging them."
+    "AI systems like auto-complete learn from huge amounts of text, so they can pick up biases from what people wrote online.",
+    "The Eighth Amendment is part of the US Constitution that bans punishments that are too harsh; some people use it to argue against the death penalty.",
+    "This experiment was done at Cornell University (a famous research school in New York) to show how AI can influence people's opinions without them noticing."
   ],
   "Article_Structure": [
-    "WHO: Scientists using CT scans to study a snake fossil",
-    "WHAT: Discovered that an ancient snake called Najash rionegrina had hind legs and a cheekbone that modern snakes lack",
-    "WHERE: In Argentina, from a fossil that is 100 million years old",
-    "WHY: The finding corrects a 160-year-old mistake about snake skulls and shows that snakes evolved from larger, big-mouthed animals, not small burrowers"
+    "WHO: A scientist named Mor Naaman from Cornell University and 2,500+ people who wrote essays.",
+    "WHAT: An experiment that showed AI auto-complete can secretly change your opinion, even if you don't use the suggestions.",
+    "WHERE: The experiment was done online, with participants from across the United States.",
+    "WHY: To warn people that AI tools might influence their thinking in hidden ways, especially about politics and important issues."
   ],
   "perspectives": [
     {
-      "perspective": "Exciting for paleontologists",
-      "description": "Paleontologists are excited because the fossil fills a gap in snake evolution and shows how early snakes looked very different from today."
+      "perspective": "Everyday AI user",
+      "description": "A person who uses auto-complete might feel surprised and say it's helpful but also worry about being tricked."
     },
     {
-      "perspective": "Challenging old theories",
-      "description": "Scientists had to rethink their old idea that snakes started as tiny burrowers, which shows that new discoveries can change what we thought we knew."
+      "perspective": "Educator",
+      "description": "Teachers worry that AI could make students rely on suggestions instead of thinking for themselves, so they suggest writing first."
     },
     {
-      "perspective": "A snapshot of evolution",
-      "description": "This fossil is like a picture of evolution in action, showing a snake that was still partway between lizard and modern snake."
+      "perspective": "Skeptical technology expert",
+      "description": "Some experts think the effect might be small and people should not panic, but they agree it's smart to be aware of how AI works."
     }
   ],
-  "mined_at": "2026-04-25T04:04:42+00:00",
-  "source_published_at": "Fri, 24 Apr 2026 04:36:51 EDT",
-  "source_name": "ScienceDaily All",
-  "source_url": "https://www.sciencedaily.com/releases/2026/04/260424024002.htm"
+  "mined_at": "2026-04-25T07:06:51+00:00",
+  "source_published_at": "Mon, 20 Apr 2026 10:30:00 +0000",
+  "source_name": "Science News Explores",
+  "source_url": "https://www.snexplores.org/article/ai-auto-complete-bias-views"
 }

@@ -1,119 +1,158 @@
 {
-  "title": "Court Says No: Trump's Asylum Ban Is Illegal",
-  "summary": "Have you ever heard of asylum? It's when someone who is fleeing war or danger asks to stay in another country for safety. In the U.S., people have the right to ask for asylum at the border. But President Trump signed an order saying they couldn't. Now, a court says that's illegal.\n\nA three-judge panel from the U.S. Court of Appeals in Washington, D.C., ruled that Trump's order breaks the law. The judges said that immigration laws give people the right to apply for asylum, and the president can't just take that away. Judge J. Michelle Childs wrote that the president doesn't have the power to \"override\" the law.\n\nThe White House was not happy. Press secretary Karoline Leavitt called the ruling \"unsurprising\" and blamed \"politically-motivated judges.\" The government can ask the full appeals court or the Supreme Court to review the decision.\n\nAdvocates for immigrants cheered the ruling. They say the right to ask for asylum is very important for people fleeing danger. Lee Gelernt, a lawyer who argued the case, said the ruling is \"essential for those fleeing danger.\"\n\nBut the ruling might not change things on the ground right away. A previous court had already paused the ban. Still, it's a big legal defeat for the president.",
-  "why_it_matters": "This ruling reminds us that even the president must follow the law, and it helps protect people who are fleeing from very dangerous places.",
-  "image_url": "/article_images/article_3ee29ec064ea.webp",
+  "title": "Old Carousel Gets a New Spin — and a Civil Rights Story",
+  "summary": "Have you ever ridden a carousel that has its own history lesson? The Smithsonian National Carousel on the National Mall in Washington, D.C., just reopened after three years of restoration. But this carousel isn't just about pretty horses — it's a symbol of the fight for equality.\n\nBack in the 1960s, this carousel was at Gwynn Oak Amusement Park near Baltimore. At that time, Black people were not allowed to ride. But brave kids and adults — both Black and white — protested for years. Finally, on August 28, 1963, the park opened to everyone. That was the very same day Dr. Martin Luther King Jr. gave his famous \"I Have a Dream\" speech!\n\nSharon Langley was the first Black child to ride that day. She was only 11 months old! Now 63, she rode again this week on a horse named \"Freedom Rider.\" She said the carousel belongs with all the monuments of freedom.\n\nToday, the carousel has 54 horses, a sea monster, a pig, and two chariots. Kids love it. Seven-year-old Lucas Platt said, \"It's actually one of the fastest carousels I've really been on.\"\n\nSo next time you see a merry-go-round, remember: sometimes even a fun ride can be part of a big, important story.",
+  "why_it_matters": "This story reminds us that even fun things like carousels can be part of the fight for fairness, and that everyone should be allowed to enjoy the same things.",
+  "image_url": "/article_images/article_244951b94d9a.webp",
   "keywords": [
     {
-      "term": "asylum",
-      "explanation": "When someone who is in danger in their own country asks to live safely in another country."
+      "term": "restoration",
+      "explanation": "Fixing up something old to make it new again."
     },
     {
-      "term": "illegal",
-      "explanation": "Against the law; not allowed by the government."
+      "term": "symbol",
+      "explanation": "Something that stands for a bigger idea."
     },
     {
-      "term": "appeals court",
-      "explanation": "A court that checks if a lower court's decision was correct."
+      "term": "chariots",
+      "explanation": "Carriages pulled by horses on a carousel."
     },
     {
-      "term": "panel",
-      "explanation": "A small group of judges who decide a case together."
+      "term": "equality",
+      "explanation": "Treating everyone the same no matter their skin color."
     },
     {
-      "term": "immigration laws",
-      "explanation": "The rules that say how people can come into a country to live or visit."
+      "term": "protested",
+      "explanation": "Showed strong disagreement by gathering or marching."
     },
     {
-      "term": "advocate",
-      "explanation": "A person who works to help others and support their rights."
+      "term": "Gwynn Oak Amusement Park",
+      "explanation": "The park where the carousel used to be before it moved to Washington, D.C."
+    },
+    {
+      "term": "ridden",
+      "rank": null,
+      "explanation": ""
+    },
+    {
+      "term": "carousel",
+      "rank": null,
+      "explanation": ""
+    },
+    {
+      "term": "lesson",
+      "rank": 3914,
+      "explanation": ""
+    },
+    {
+      "term": "Smithsonian",
+      "rank": 9460,
+      "explanation": ""
+    },
+    {
+      "term": "Mall",
+      "rank": 4475,
+      "explanation": ""
+    },
+    {
+      "term": "reopened",
+      "rank": null,
+      "explanation": ""
+    },
+    {
+      "term": "isn't",
+      "rank": null,
+      "explanation": ""
     }
   ],
   "questions": [
     {
-      "question": "What does 'asylum' mean?",
+      "question": "Why is this carousel special?",
       "options": [
-        "A type of hospital",
-        "When someone asks to stay in a safe country because they are in danger at home",
-        "A kind of vacation",
-        "A punishment for breaking the law"
+        "It was part of the civil rights movement",
+        "It's the fastest carousel in the world",
+        "It has 100 horses",
+        "It is made of gold"
       ],
-      "correct_answer": "When someone asks to stay in a safe country because they are in danger at home"
+      "correct_answer": "It was part of the civil rights movement"
     },
     {
-      "question": "What did President Trump's order try to do?",
+      "question": "Who was the first Black child to ride the carousel?",
       "options": [
-        "Allow more people to come to the U.S.",
-        "Stop people from asking for asylum at the border",
-        "Give money to immigrants",
-        "Build a wall"
+        "Sharon Langley",
+        "Dr. Martin Luther King Jr.",
+        "Lucas Platt",
+        "A boy named John"
       ],
-      "correct_answer": "Stop people from asking for asylum at the border"
+      "correct_answer": "Sharon Langley"
     },
     {
-      "question": "What did the court say about Trump's order?",
+      "question": "What famous speech was given on the same day the park opened to everyone?",
       "options": [
-        "It was legal",
-        "It was illegal",
-        "It needed more study",
-        "It was too complicated"
+        "'I Have a Dream'",
+        "'Four Score and Seven Years Ago'",
+        "'We Shall Overcome'",
+        "'Ask Not What Your Country Can Do'"
       ],
-      "correct_answer": "It was illegal"
+      "correct_answer": "'I Have a Dream'"
     },
     {
-      "question": "Who wrote that the president does not have the power to 'override' the law?",
+      "question": "What was the name of the horse Sharon Langley rode this time?",
       "options": [
-        "President Trump",
-        "Judge J. Michelle Childs",
-        "Karoline Leavitt",
-        "Lee Gelernt"
+        "Freedom Rider",
+        "Star",
+        "Lucky",
+        "Courage"
       ],
-      "correct_answer": "Judge J. Michelle Childs"
+      "correct_answer": "Freedom Rider"
     },
     {
-      "question": "What did the White House press secretary call the ruling?",
+      "question": "How old was Sharon Langley when she first rode the carousel in 1963?",
       "options": [
-        "Great news for America",
-        "Unsurprising and from 'politically-motivated judges'",
-        "A big victory for justice",
-        "Confusing and wrong"
+        "11 months old",
+        "5 years old",
+        "10 years old",
+        "18 months old"
       ],
-      "correct_answer": "Unsurprising and from 'politically-motivated judges'"
+      "correct_answer": "11 months old"
     },
     {
-      "question": "Who cheered the ruling?",
+      "question": "Where is the Smithsonian National Carousel located?",
       "options": [
-        "The White House",
-        "President Trump",
-        "Advocates for immigrants",
-        "The police"
+        "On the National Mall in Washington, D.C.",
+        "In Baltimore",
+        "In New York City",
+        "In a theme park in Florida"
       ],
-      "correct_answer": "Advocates for immigrants"
+      "correct_answer": "On the National Mall in Washington, D.C."
     }
   ],
   "background_read": [
-    "Asylum is a protection that countries like the U.S. offer to people fleeing war or danger in their home country.",
-    "The U.S. Court of Appeals is a court that reviews decisions from lower courts to make sure the law is followed.",
-    "The ACLU is a group that works to protect people's rights, including the right to ask for asylum."
+    "In the 1960s, many places in the United States were segregated, meaning Black and white people had to use separate facilities.",
+    "The civil rights movement worked to change that and make things fair for everyone.",
+    "This carousel was at an amusement park that did not allow Black children to ride until protesters forced it to open."
   ],
   "Article_Structure": [
-    "WHO: The court is a three-judge panel from the U.S. Court of Appeals; President Trump fought against asylum.",
-    "WHAT: The court ruled that Trump's order to stop asylum seekers is illegal.",
-    "WHERE: The ruling happened in Washington, D.C., at the Court of Appeals.",
-    "WHY: Because U.S. immigration laws say people have the right to ask for asylum, and the president cannot override that."
+    "WHO: Sharon Langley, the first Black child to ride the carousel, and Dr. Martin Luther King Jr. (mentioned for his speech).",
+    "WHAT: The carousel reopened after three years of restoration; it has a civil rights history.",
+    "WHERE: The Smithsonian National Carousel on the National Mall in Washington, D.C.",
+    "WHY: To preserve the history of the fight for equality and let families enjoy the carousel together."
   ],
   "perspectives": [
     {
-      "perspective": "Supporters of the ruling",
-      "description": "They believe the ruling protects the rights of people who are in danger and ensures that U.S. laws are followed."
+      "perspective": "Historical significance",
+      "description": "The carousel is a reminder of the struggle for civil rights and how far the country has come."
     },
     {
-      "perspective": "Critics of the ruling",
-      "description": "They argue that the president needs the power to control the border for national security and that the judges are being too political."
+      "perspective": "Community joy",
+      "description": "Now families of all backgrounds can enjoy the carousel together, which is a celebration of inclusion."
+    },
+    {
+      "perspective": "Educational value",
+      "description": "The carousel helps teach kids about history in a fun way, making the past come alive."
     }
   ],
-  "mined_at": "2026-04-25T04:04:42+00:00",
-  "source_published_at": "Fri, 24 Apr 2026 17:58:40 -0400",
+  "mined_at": "2026-04-25T07:06:51+00:00",
+  "source_published_at": "Fri, 24 Apr 2026 10:58:50 -0400",
   "source_name": "NPR World",
-  "source_url": "https://www.npr.org/2026/04/24/g-s1-118707/trump-asylum-ban-us-mexico-border-illegal"
+  "source_url": "https://www.npr.org/2026/04/24/nx-s1-5770103/smithsonian-carousel-reopens-national-mall-dc"
 }

@@ -1,123 +1,158 @@
 {
-  "title": "You Can Go Inside a Volcano! (Seriously)",
-  "summary": "Have you ever wanted to climb inside a volcano? In Iceland, there's a volcano called Thríhnúkagígur (say it: three-NOO-kah-gee-gur) where you can actually do that! It's the only place on Earth where people can go inside a magma chamber—the room where hot, liquid rock used to be before an eruption.\n\nThis volcano hasn't erupted for 4,500 years. Its magma chamber is empty, which is super weird. Usually, leftover magma hardens inside the volcano. But here, scientists think the magma got sucked back down into the ground. \"It's like somebody came and pulled the plug,\" said one scientist.\n\nVisitors take an open cable elevator 700 feet down—that's more than twice the height of the Statue of Liberty! At the bottom, you can walk around a huge cave floor as big as a soccer field. The walls are painted in amazing colors: bronze, indigo, yellow, and orange. Some colors come from tiny microbes (living things too small to see) and some from gases. You might even see little puffs of steam, but don't worry—the volcano is not going to erupt. It's just water dripping on hot lights!\n\nWould you dare to go inside a volcano?",
-  "why_it_matters": "This story shows that scientists can find amazing places to explore, and that nature can surprise us in colorful and beautiful ways.",
-  "image_url": "/article_images/article_5f226ea24cb9.webp",
+  "title": "How Did People Learn About the Declaration of Independence in 1776?",
+  "summary": "Imagine no internet, no TV, no phones. How would you find out that your country just declared independence? That's what happened in 1776. A new book by historian Emily Sneff, called *When the Declaration of Independence Was News*, tells the story.\n\nThe Declaration was adopted on July 4, 1776. That same day, a printer named John Dunlap made the first copies. They were big sheets called broadsides. These were sent to leaders and newspapers across the 13 colonies. People gathered in town squares to hear the Declaration read aloud. Many cheered and tore down symbols of the British king.\n\nBut not everyone was happy. Some people were worried about what would happen next. And the news took a long time to spread. It wasn't until January 1777 that a printer named Mary Katharine Goddard made copies that included the signers' names. By then, the Declaration was already old news.\n\nToday, the original signed parchment sits behind bulletproof glass at the National Archives in Washington, D.C. But back then, it was just breaking news.",
+  "why_it_matters": "This story shows how hard it was for news to travel before technology, and it reminds us how lucky we are to get information instantly on our phones or computers.",
+  "image_url": "/article_images/article_5f691c283a19.webp",
   "keywords": [
     {
-      "term": "magma chamber",
-      "explanation": "The room inside a volcano where hot liquid rock used to be."
+      "term": "Declaration of Independence",
+      "explanation": "The official statement that said the American colonies were free from British rule."
     },
     {
-      "term": "erupted",
-      "explanation": "When a volcano explodes and sends out lava and ash."
+      "term": "historian",
+      "explanation": "A person who studies and writes about history."
     },
     {
-      "term": "cable elevator",
-      "explanation": "A platform that goes up and down using a strong wire."
+      "term": "adopted",
+      "explanation": "Formally accepted or approved, like a new law or rule."
     },
     {
-      "term": "microbes",
-      "explanation": "Tiny living things that are too small to see without a microscope."
+      "term": "printer",
+      "explanation": "A person or machine that makes copies of words on paper."
     },
     {
-      "term": "indigo",
-      "explanation": "A deep blue-purple color."
+      "term": "broadsides",
+      "explanation": "Large sheets of paper with news printed on one side only."
     },
     {
-      "term": "Statue of Liberty",
-      "explanation": "A famous tall statue in New York City."
+      "term": "parchment",
+      "explanation": "A special animal skin used for writing important documents long ago."
+    },
+    {
+      "term": "Imagine",
+      "rank": 4050,
+      "explanation": ""
+    },
+    {
+      "term": "declared",
+      "rank": 5442,
+      "explanation": ""
+    },
+    {
+      "term": "independence",
+      "rank": 4658,
+      "explanation": ""
+    },
+    {
+      "term": "That's",
+      "rank": null,
+      "explanation": ""
+    },
+    {
+      "term": "happened",
+      "rank": 3061,
+      "explanation": ""
+    },
+    {
+      "term": "Emily",
+      "rank": 6915,
+      "explanation": ""
+    },
+    {
+      "term": "Sneff",
+      "rank": null,
+      "explanation": ""
     }
   ],
   "questions": [
     {
-      "question": "What makes Thríhnúkagígur volcano special?",
+      "question": "On what date was the Declaration of Independence adopted?",
       "options": [
-        "It is the tallest volcano in Iceland.",
-        "It is the only place where people can go inside a magma chamber.",
-        "It erupts every year.",
-        "It has a cable elevator for skiing."
+        "July 4, 1776",
+        "January 1, 1777",
+        "June 14, 1776",
+        "August 2, 1776"
       ],
-      "correct_answer": "It is the only place where people can go inside a magma chamber."
+      "correct_answer": "July 4, 1776"
     },
     {
-      "question": "How long ago did Thríhnúkagígur last erupt?",
+      "question": "Who printed the first copies of the Declaration?",
       "options": [
-        "4,500 years",
-        "500 years",
-        "100 years",
-        "50,000 years"
+        "Mary Katharine Goddard",
+        "John Dunlap",
+        "Emily Sneff",
+        "Benjamin Franklin"
       ],
-      "correct_answer": "4,500 years"
+      "correct_answer": "John Dunlap"
     },
     {
-      "question": "Why is the magma chamber empty?",
+      "question": "What were the first copies of the Declaration called?",
       "options": [
-        "It never had magma.",
-        "The magma got sucked back into the ground.",
-        "Lava was removed by scientists.",
-        "It was filled with water."
+        "newspapers",
+        "broadsides",
+        "pamphlets",
+        "books"
       ],
-      "correct_answer": "The magma got sucked back into the ground."
+      "correct_answer": "broadsides"
     },
     {
-      "question": "How far down do visitors descend?",
+      "question": "How did people first hear the Declaration?",
       "options": [
-        "700 feet",
-        "200 feet",
-        "1,000 feet",
-        "50 feet"
+        "on the radio",
+        "in town squares read aloud",
+        "on television",
+        "by reading it at home"
       ],
-      "correct_answer": "700 feet"
+      "correct_answer": "in town squares read aloud"
     },
     {
-      "question": "What creates the colors on the chamber walls?",
+      "question": "Who made copies that included the signers' names?",
       "options": [
-        "Paint and dye",
-        "Microbes and gases",
-        "Rust and dirt",
-        "Lava and ash"
+        "John Dunlap",
+        "Emily Sneff",
+        "Mary Katharine Goddard",
+        "Thomas Jefferson"
       ],
-      "correct_answer": "Microbes and gases"
+      "correct_answer": "Mary Katharine Goddard"
     },
     {
-      "question": "Why do visitors see puffs of steam?",
+      "question": "Where is the original signed Declaration today?",
       "options": [
-        "The volcano is about to erupt.",
-        "Water drips onto hot lights.",
-        "Geothermal vents are nearby.",
-        "Visitors breathe heavily."
+        "in a museum in Boston",
+        "at the National Archives in Washington, D.C.",
+        "in the British Library",
+        "in a church in Philadelphia"
       ],
-      "correct_answer": "Water drips onto hot lights."
+      "correct_answer": "at the National Archives in Washington, D.C."
     }
   ],
   "background_read": [
-    "In Iceland, there are many volcanoes because the island sits on a hot spot in the Earth's crust.",
-    "People have visited this volcano since 2012.",
-    "It is very safe because it hasn't erupted for thousands of years."
+    "The Declaration of Independence was written by Thomas Jefferson (one of the Founding Fathers of the United States).",
+    "It announced that the 13 American colonies were starting their own country, separate from Great Britain.",
+    "Back then, news spread on horseback or by ship, so it could take weeks or months for people to hear about big events."
   ],
   "Article_Structure": [
-    "WHO: Visitors and scientists in Iceland",
-    "WHAT: Descending into an empty magma chamber inside a volcano",
-    "WHERE: Thríhnúkagígur volcano in Iceland",
-    "WHY: Because the magma chamber is empty and safe to explore"
+    "WHO: The colonists, including printers John Dunlap and Mary Katharine Goddard, and historian Emily Sneff who wrote about it.",
+    "WHAT: The Declaration of Independence was adopted and then spread as news through printed broadsides and public readings.",
+    "WHERE: Throughout the 13 American colonies (the future United States).",
+    "WHY: To tell everyone that the colonies had declared independence from Britain."
   ],
   "perspectives": [
     {
-      "perspective": "Adventurous kid",
-      "description": "Would love to go inside a volcano and see the colors."
+      "perspective": "Excited colonists",
+      "description": "Many people were happy and cheered when they heard the Declaration, tearing down symbols of the British king."
     },
     {
-      "perspective": "Cautious parent",
-      "description": "Might worry about safety, but the article says it's safe."
+      "perspective": "Worried colonists",
+      "description": "Some people were scared about what would happen next, because war with Britain had already started."
     },
     {
-      "perspective": "Science fan",
-      "description": "Thinks it's cool that microbes and gases create colors."
+      "perspective": "The printers",
+      "description": "Printers like John Dunlap and Mary Katharine Goddard worked hard to make copies and spread the news quickly."
     }
   ],
-  "mined_at": "2026-04-25T04:04:42+00:00",
-  "source_published_at": "Fri, 24 Apr 2026 15:36:23 +0000",
-  "source_name": "Live Science",
-  "source_url": "https://www.livescience.com/planet-earth/geology/thrihnukagigur-the-only-volcano-on-earth-where-you-can-descend-into-a-magma-chamber"
+  "mined_at": "2026-04-25T07:06:51+00:00",
+  "source_published_at": "Mon, 13 Apr 2026 11:45:00 +0000",
+  "source_name": "Smithsonian History",
+  "source_url": "https://www.smithsonianmag.com/history/in-1776-the-declaration-of-independence-was-breaking-news-heres-how-the-founding-document-reached-the-american-public-180988494/"
 }

@@ -1,119 +1,163 @@
 {
-  "title": "Peace Talks Head to Pakistan: Can the War with Iran End?",
-  "summary": "Imagine a big waterway where giant ships carry oil and goods to countries all over the world. That's the Strait of Hormuz. But right now, it's mostly frozen because of a war between the U.S. and Iran that has been going on for two months. Now, there's new hope for peace.\n\nAn American team, including special envoy Steve Witkoff and President Trump's son-in-law Jared Kushner, is flying to Pakistan to talk with Iran. The White House says Iran wants to talk in person. But Iran's foreign minister is already in Pakistan, and his spokesman says no meeting is planned with the Americans. Hmm, that's confusing!\n\nThe war has made oil prices go up. The U.S. has three aircraft carriers and more than 15,000 sailors and Marines in the Middle East. Even so, ships are not getting through the strait fast enough. Both sides say they control the waterway. Iran's Revolutionary Guard even seized two container ships this week.\n\nTo help lower prices, the White House quietly extended a rule that lets foreign ships carry oil to U.S. ports. They also announced new sanctions (punishments) on Iran and Chinese companies that help move Iranian oil.\n\nWill the talks work? We'll have to wait and see.",
-  "why_it_matters": "When there is war far away, it can make things like gas and toys more expensive because shipping gets harder, so peace talks matter to your family's money.",
-  "image_url": "/article_images/article_e0b507a2086e.webp",
+  "title": "Soldier Busted for Betting on Secret Mission",
+  "summary": "Imagine you know a huge secret — like a plan to capture a president. Then you use that secret to win lots of money. That's what a U.S. soldier did, and now he's in big trouble.\n\nThe soldier was part of a Special Forces team that helped plan the capture of Venezuela's president, Nicolas Maduro, in January. He used classified information (secret government info) to place bets on a website called Polymarket. He won more than $400,000!\n\nNow he's been indicted (formally charged with a crime). This has people worried about insider trading — using secret information to make money on bets. President Trump said, \"The whole world has become a casino.\" He said he doesn't like betting on world events.\n\nThe White House even warned its staff not to use secret info to bet on the war with Iran. But here's a twist: Trump's son, Don Jr., works as an adviser to Polymarket and another betting site. Some people think that's a problem.\n\nThis is the first time someone has been arrested for insider trading on a prediction market (a place where you bet on future events). It shows that even secret missions can become a gamble.",
+  "why_it_matters": "This story matters because it shows that using secrets to get ahead is not fair and can get you in serious trouble, just like cheating in a game.",
+  "image_url": "/article_images/article_e1dc8e5a11eb.webp",
   "keywords": [
     {
-      "term": "Strait of Hormuz",
-      "explanation": "A narrow waterway where giant ships carry oil and goods between countries."
+      "term": "indicted",
+      "explanation": "Formally charged with a crime."
     },
     {
-      "term": "special envoy",
-      "explanation": "A person chosen by a leader to go and talk to another country about an important problem."
+      "term": "insider trading",
+      "explanation": "Using secret information to make money."
     },
     {
-      "term": "sanctions",
-      "explanation": "Punishments that one country puts on another, like stopping trade or money moving."
+      "term": "classified information",
+      "explanation": "Secret government information that is not public."
     },
     {
-      "term": "aircraft carriers",
-      "explanation": "Huge warships that carry airplanes and soldiers across the ocean."
+      "term": "prediction market",
+      "explanation": "A website where people place bets on future events."
     },
     {
-      "term": "Revolutionary Guard",
-      "explanation": "A special part of Iran's military that protects the country and does important missions."
+      "term": "Polymarket",
+      "explanation": "The betting website where the soldier placed his bets."
     },
     {
-      "term": "container ships",
-      "explanation": "Very big ships that carry large metal boxes full of products to different ports."
+      "term": "Special Forces",
+      "explanation": "A team of highly trained soldiers who handle secret missions."
+    },
+    {
+      "term": "Imagine",
+      "rank": 4050,
+      "explanation": ""
+    },
+    {
+      "term": "secret",
+      "rank": 2579,
+      "explanation": ""
+    },
+    {
+      "term": "capture",
+      "rank": 3967,
+      "explanation": ""
+    },
+    {
+      "term": "That's",
+      "rank": null,
+      "explanation": ""
+    },
+    {
+      "term": "soldier",
+      "rank": 6090,
+      "explanation": ""
+    },
+    {
+      "term": "he's",
+      "rank": null,
+      "explanation": ""
+    },
+    {
+      "term": "trouble",
+      "rank": 3098,
+      "explanation": ""
+    },
+    {
+      "term": "Forces",
+      "rank": 2326,
+      "explanation": ""
     }
   ],
   "questions": [
     {
-      "question": "What is the Strait of Hormuz used for?",
+      "question": "What did the soldier use to place his bets?",
       "options": [
-        "Carrying people on vacation",
-        "Carrying oil and goods on giant ships",
-        "Fishing for food",
-        "Building houses"
+        "Secret government information",
+        "His own money",
+        "Advice from friends",
+        "A lucky charm"
       ],
-      "correct_answer": "Carrying oil and goods on giant ships"
+      "correct_answer": "Secret government information"
     },
     {
-      "question": "Why are American officials flying to Pakistan?",
+      "question": "How much money did the soldier win?",
       "options": [
-        "To go on a vacation",
-        "To talk with Iran about peace",
-        "To buy oil from Pakistan",
-        "To build a new airport"
+        "More than $400,000",
+        "More than $40,000",
+        "More than $4,000",
+        "More than $400"
       ],
-      "correct_answer": "To talk with Iran about peace"
+      "correct_answer": "More than $400,000"
     },
     {
-      "question": "What confusing thing happened about the talks?",
+      "question": "Which website did the soldier use to bet?",
       "options": [
-        "Iran said yes to a meeting, then said no",
-        "Iran's foreign minister said no meeting is planned, but the White House says Iran wants to talk",
-        "Both sides agreed to meet in Washington",
-        "The talks were cancelled because of bad weather"
+        "Polymarket",
+        "eBay",
+        "Amazon",
+        "Facebook"
       ],
-      "correct_answer": "Iran's foreign minister said no meeting is planned, but the White House says Iran wants to talk"
+      "correct_answer": "Polymarket"
     },
     {
-      "question": "What has the war done to oil prices?",
+      "question": "Who said 'The whole world has become a casino'?",
       "options": [
-        "Made them go down",
-        "Kept them the same",
-        "Made them go up",
-        "Made them disappear"
+        "President Trump",
+        "Don Jr.",
+        "The soldier",
+        "A White House staffer"
       ],
-      "correct_answer": "Made them go up"
+      "correct_answer": "President Trump"
     },
     {
-      "question": "What did Iran's Revolutionary Guard do this week?",
+      "question": "What is the name of President Trump's son who works for the betting site?",
       "options": [
-        "Attacked an American ship",
-        "Seized two container ships",
-        "Stopped all ships from moving",
-        "Set up a new port"
+        "Don Jr.",
+        "Barron",
+        "Eric",
+        "Ivanka"
       ],
-      "correct_answer": "Seized two container ships"
+      "correct_answer": "Don Jr."
     },
     {
-      "question": "What did the White House do to help lower prices?",
+      "question": "What crime is the soldier accused of?",
       "options": [
-        "Built new oil wells",
-        "Extended a rule for foreign ships to carry oil to U.S. ports",
-        "Stopped buying oil from Iran",
-        "Sent more soldiers to the Strait"
+        "Insider trading",
+        "Stealing money",
+        "Spying",
+        "Running away from the army"
       ],
-      "correct_answer": "Extended a rule for foreign ships to carry oil to U.S. ports"
+      "correct_answer": "Insider trading"
     }
   ],
   "background_read": [
-    "The Strait of Hormuz is a narrow waterway between Iran and Oman where about one-fifth of the world's oil passes.",
-    "Pakistan is a country in South Asia that sometimes helps other countries have peace talks.",
-    "Jared Kushner is President Trump's son-in-law and used to work as a White House advisor."
+    "Insider trading usually happens with stocks, but now it can also happen with betting on events.",
+    "The U.S. government has rules that stop people from using secret information for personal gain.",
+    "This case is the first time someone was arrested for insider trading on a prediction market."
   ],
   "Article_Structure": [
-    "WHO: The U.S. team includes special envoy Steve Witkoff and Jared Kushner; Iran's foreign minister is Abbas Araghchi.",
-    "WHAT: They are trying to have peace talks to end the war between the U.S. and Iran.",
-    "WHERE: The talks are planned in Pakistan.",
-    "WHY: The war has frozen shipping in the Strait of Hormuz, raised oil prices, and made things expensive."
+    "WHO: A U.S. soldier who helped plan the capture of Venezuela's president.",
+    "WHAT: He used classified information to bet on a prediction market, won over $400,000, and was indicted.",
+    "WHERE: The betting took place on a website called Polymarket.",
+    "WHY: He did it to make money, and it shows how secret information can be misused for gambling."
   ],
   "perspectives": [
     {
-      "perspective": "Hopeful that talks will succeed",
-      "description": "Some people believe the meeting in Pakistan could finally end the war and bring peace, making life cheaper for everyone."
+      "perspective": "Law enforcement",
+      "description": "This arrest shows that the government takes insider trading seriously, even on betting websites."
     },
     {
-      "perspective": "Skeptical that talks will succeed",
-      "description": "Others point out that Iran says one thing and the White House says something else, so the talks might fail and the fighting could continue."
+      "perspective": "Ethical concern",
+      "description": "Using secret information to win money is cheating and disrespects the safety of the mission."
+    },
+    {
+      "perspective": "Public interest",
+      "description": "People worry that betting on world events could become common, which might encourage more secret info leaks."
     }
   ],
-  "mined_at": "2026-04-25T04:04:42+00:00",
-  "source_published_at": "Fri, 24 Apr 2026 18:55:58 -0400",
+  "mined_at": "2026-04-25T07:06:51+00:00",
+  "source_published_at": "Fri, 24 Apr 2026 18:45:33 -0400",
   "source_name": "PBS NewsHour",
-  "source_url": "https://www.pbs.org/newshour/show/u-s-iranian-delegations-head-to-pakistan-renewing-hopes-for-diplomatic-end-to-war"
+  "source_url": "https://www.pbs.org/newshour/show/soldiers-arrest-over-polymarket-bet-on-maduro-raid-fuels-insider-trading-concerns"
 }

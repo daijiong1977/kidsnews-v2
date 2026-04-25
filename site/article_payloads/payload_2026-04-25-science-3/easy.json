@@ -1,123 +1,153 @@
 {
-  "title": "Huge Lava Tube Discovered on Venus!",
-  "summary": "Scientists have discovered a giant underground cave on Venus! It's a lava tube—a tunnel that forms when molten lava flows and then drains away. This one is huge: at least 375 meters deep and maybe up to 1 kilometer wide. That's bigger than any lava tube on Earth or Mars!\n\nThe discovery came from old radar images taken by NASA's Magellan probe in the 1990s. Scientists used new techniques to reanalyze the data and spotted a collapsed \"skylight\"—a hole where the roof of the lava tube had caved in. It's near a volcano called Nyx Mons.\n\nThis is the first lava tube found on Venus. Finding it will help future missions like NASA's VERITAS and Europe's EnVision, which will study Venus with better radar.\n\nBut don't expect astronauts to visit this cave anytime soon. Venus is super hot—hot enough to melt electronics—and the pressure at the surface is 93 times greater than on Earth. So this lava tube will stay a secret beneath the clouds.",
-  "why_it_matters": "This shows that even faraway places like Venus can hold secrets that help us understand how planets work—just like learning about different environments on Earth.",
-  "image_url": "/article_images/article_355a6ec71c48.webp",
+  "title": "Students Build a Giant Old Computer!",
+  "summary": "Imagine building a computer that fills an entire room! That's exactly what a group of students in Arizona did. They built a full-size replica of ENIAC, one of the very first electronic computers ever made.\n\nENIAC was built in the 1940s. It was about a thousand times faster than other machines at the time. But it was huge—it took up a whole room and used thousands of vacuum tubes (like old-fashioned light bulbs).\n\nThe teacher who led the project is Tom Burick. He teaches technology at PS Academy in Gilbert, Arizona, a school for students with autism and other special learning needs. Burick knows what it's like to learn differently—he has dyscalculia, which makes traditional math hard. But he says it's actually a superpower because it helps him think in 3D and solve problems in creative ways.\n\nBurick's students worked together to build the replica for the 80th anniversary of ENIAC. They used their strengths, like being able to focus intensely and repeat tasks precisely. \"I didn't want my technology program to feel like craft hour,\" Burick says. Instead, they built something real and historic.\n\nBurick used to own a robotics company, but after it closed, he decided to become a teacher. He wanted to \"pay forward\" the help he got from mentors when he was young. Now he's inspiring a new generation of builders.",
+  "why_it_matters": "This story shows that everyone has unique strengths—even a challenge like dyscalculia can become a superpower—and that working together can create something historic.",
+  "image_url": "/article_images/article_21c54d43fb4f.webp",
   "keywords": [
     {
-      "term": "lava tube",
-      "explanation": "A tunnel underground that forms when hot lava flows and then empties, leaving an empty cave."
+      "term": "vacuum tubes",
+      "explanation": "Old-fashioned light-bulb-like parts that early computers used to work."
     },
     {
-      "term": "Venus",
-      "explanation": "A planet next to Earth that is very hot and covered with thick clouds."
+      "term": "dyscalculia",
+      "explanation": "A learning challenge that makes it hard for someone to do math or understand numbers."
     },
     {
-      "term": "cave",
-      "explanation": "A big hole or tunnel underground, like a natural room."
+      "term": "replica",
+      "explanation": "An exact copy of something, built again."
     },
     {
-      "term": "radar",
-      "explanation": "A tool that uses radio waves to see things that are far away or hidden."
+      "term": "ENIAC",
+      "explanation": "One of the very first electronic computers, so big it filled a whole room."
     },
     {
-      "term": "probe",
-      "explanation": "A spacecraft without people that explores planets and sends data back to Earth."
+      "term": "autism",
+      "explanation": "A way of thinking and learning that can make someone great at focusing and repeating tasks."
     },
     {
-      "term": "Magellan",
-      "explanation": "The name of a NASA spacecraft that mapped Venus using radar in the 1990s."
+      "term": "mentors",
+      "explanation": "Experienced people who give advice and help to someone younger or newer."
+    },
+    {
+      "term": "Imagine",
+      "rank": 4050,
+      "explanation": ""
+    },
+    {
+      "term": "fills",
+      "rank": null,
+      "explanation": ""
+    },
+    {
+      "term": "That's",
+      "rank": null,
+      "explanation": ""
+    },
+    {
+      "term": "exactly",
+      "rank": 2485,
+      "explanation": ""
+    },
+    {
+      "term": "Arizona",
+      "rank": 2043,
+      "explanation": ""
+    },
+    {
+      "term": "full-size",
+      "rank": null,
+      "explanation": ""
     }
   ],
   "questions": [
     {
-      "question": "Where was the giant lava tube found?",
+      "question": "What is ENIAC?",
       "options": [
-        "On Mars",
-        "On Venus",
-        "On Earth",
-        "On the Moon"
+        "A type of smartphone",
+        "One of the first electronic computers",
+        "A video game console",
+        "A space satellite"
       ],
-      "correct_answer": "On Venus"
+      "correct_answer": "One of the first electronic computers"
     },
     {
-      "question": "How did scientists discover the lava tube?",
+      "question": "Who led the student project to build a replica of ENIAC?",
       "options": [
-        "By sending a robot to Venus",
-        "By looking at old radar images from the Magellan probe",
-        "By digging a hole on Earth",
-        "By using a telescope in space"
+        "Albert Einstein",
+        "Tom Burick",
+        "Mor Naaman",
+        "Mansi Kasliwal"
       ],
-      "correct_answer": "By looking at old radar images from the Magellan probe"
+      "correct_answer": "Tom Burick"
     },
     {
-      "question": "What is the name of the volcano near the lava tube?",
+      "question": "What learning challenge does Tom Burick have?",
       "options": [
-        "Mount Olympus",
-        "Nyx Mons",
-        "Maat Mons",
-        "Sif Mons"
+        "Dyslexia",
+        "Dyscalculia",
+        "ADHD",
+        "Autism"
       ],
-      "correct_answer": "Nyx Mons"
+      "correct_answer": "Dyscalculia"
     },
     {
-      "question": "How big is the lava tube?",
+      "question": "Where is PS Academy located?",
       "options": [
-        "At least 100 meters deep",
-        "At least 375 meters deep and maybe 1 kilometer wide",
-        "About 50 meters deep",
-        "It is only as big as a car"
+        "Phoenix, Arizona",
+        "Gilbert, Arizona",
+        "Tucson, Arizona",
+        "Mesa, Arizona"
       ],
-      "correct_answer": "At least 375 meters deep and maybe 1 kilometer wide"
+      "correct_answer": "Gilbert, Arizona"
     },
     {
-      "question": "Why can't astronauts visit this lava tube soon?",
+      "question": "Why did Tom Burick become a teacher?",
       "options": [
-        "It is under the ocean",
-        "Venus is too hot and has crushing pressure",
-        "There is no air on Venus",
-        "The tube is too small"
+        "He wanted to earn more money",
+        "He wanted to pay forward the help he got from mentors",
+        "He couldn’t find a job in robotics",
+        "The school offered him a free house"
       ],
-      "correct_answer": "Venus is too hot and has crushing pressure"
+      "correct_answer": "He wanted to pay forward the help he got from mentors"
     },
     {
-      "question": "Which future missions will study Venus with better radar?",
+      "question": "How big was the original ENIAC?",
       "options": [
-        "Mars 2020 and Perseverance",
-        "VERITAS and EnVision",
-        "Europa Clipper and Dragonfly",
-        "Hubble and James Webb"
+        "Filled a desk",
+        "Filled a whole room",
+        "Filled a house",
+        "Filled a stadium"
       ],
-      "correct_answer": "VERITAS and EnVision"
+      "correct_answer": "Filled a whole room"
     }
   ],
   "background_read": [
-    "Venus is Earth's closest planetary neighbor, but it is extremely hot—around 465°C (870°F)—and has a thick, poisonous atmosphere.",
-    "Lava tubes are also found on Earth and on the Moon, but this one on Venus is the biggest known.",
-    "The Magellan probe (a NASA spacecraft that orbited Venus in the 1990s) used radar to map the planet's surface through its thick clouds."
+    "ENIAC was built in 1945 at the University of Pennsylvania; it was used to calculate artillery tables for the U.S. Army and was one of the first electronic general-purpose computers.",
+    "PS Academy (the school in Gilbert, Arizona) is a place that helps students with autism and other special learning needs feel supported and learn in their own way.",
+    "Vacuum tubes were the technology before computer chips; ENIAC used about 18,000 of them and they often burned out."
   ],
   "Article_Structure": [
-    "WHO: Scientists reanalyzing old radar images",
-    "WHAT: Discovered a giant underground lava tube on Venus, the first ever found there",
-    "WHERE: Venus, near a volcano called Nyx Mons",
-    "WHY: The discovery will help future missions (VERITAS and EnVision) study Venus with better radar and learn more about volcanic activity on the planet"
+    "WHO: Teacher Tom Burick and his students at PS Academy in Gilbert, Arizona.",
+    "WHAT: They built a full-size working replica of ENIAC, an early computer from the 1940s.",
+    "WHERE: At PS Academy, a school for students with autism and other special needs in Arizona.",
+    "WHY: To celebrate ENIAC's 80th anniversary and show that students with learning differences can do amazing things."
   ],
   "perspectives": [
     {
-      "perspective": "Exciting for space exploration",
-      "description": "Scientists are excited because this is the first lava tube found on Venus, and it gives clues about the planet's volcanic past."
+      "perspective": "Student with autism",
+      "description": "A student in the project feels proud that their ability to focus and repeat tasks helped build a real piece of history."
     },
     {
-      "perspective": "Too harsh to visit yet",
-      "description": "Venus is so hot and the pressure is so great that no spacecraft or astronaut can go inside the tube soon, so it remains a mystery for now."
+      "perspective": "Teacher and mentor",
+      "description": "Tom Burick believes that turning his own math challenge into a 3D-thinking strength lets him inspire kids who learn differently."
     },
     {
-      "perspective": "Help for future missions",
-      "description": "Finding this tube will help plan future missions like VERITAS and EnVision, which will use better radar to see even more details of Venus's surface."
+      "perspective": "Technology historian",
+      "description": "Historians appreciate that students are learning computer history by actually building a machine, not just reading about it."
     }
   ],
-  "mined_at": "2026-04-25T04:04:42+00:00",
-  "source_published_at": "Tue, 21 Apr 2026 10:30:00 +0000",
-  "source_name": "Science News Explores",
-  "source_url": "https://www.snexplores.org/article/venus-volcano-lava-tube"
+  "mined_at": "2026-04-25T07:06:51+00:00",
+  "source_published_at": "Thu, 23 Apr 2026 13:00:01 +0000",
+  "source_name": "IEEE Spectrum",
+  "source_url": "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica"
 }

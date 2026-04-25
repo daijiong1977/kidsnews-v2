@@ -1,136 +1,174 @@
 {
-  "title": "The Great Stork Derby: When a Rich Man's Joke Turned Into a Baby-Making Contest",
-  "summary": "Imagine a contest where the winner is the mother who has the most babies. That may sound like a bizarre game show, but in 1920s and 1930s Canada, it was real—and it was called the Great Stork Derby.\n\nThe story begins with Charles Vance Millar, a wealthy Toronto lawyer and financier who died suddenly on Halloween in 1926. Millar was known as a prankster: he once placed money on a sidewalk and hid nearby, laughing at people's reactions. He never married or had children, and he had no living relatives. His will was full of strange provisions. He left brewery shares to Protestant ministers who supported Prohibition, and a vacation home in Jamaica to three lawyers who hated each other. But the most peculiar clause established a competition among Toronto mothers: the one who gave birth to the most children in the ten years after his death would receive a portion of his estate, valued at about 500,000 Canadian dollars (nearly 9 million today). In case of a tie, the money would be split.\n\nThe contest, dubbed the \"Great Stork Derby\" by the press, didn't attract much attention until the Great Depression hit. By 1930, newspapers began covering leading contenders. One was Grace Bagnato, a 37-year-old Italian immigrant who had reportedly given birth to 20 children. Another was Florence Brown, a 42-year-old \"native-born Canadian of the fifth generation\" who had 26 children. Brown was quoted saying she couldn't \"let any Italian get away with that 'leadership stuff'\" and hoped more Canadians would have large families to prevent the country from being \"overrun with foreigners.\" The coverage revealed deep ethnic tensions in Toronto at the time.\n\nThe derby became a national sensation, sparking debates about morality, class, and immigration. Birth control was illegal in Canada until the late 1960s, and large families were controversial. The eugenics movement, which argued that poor and minority families should have fewer children, added to the controversy. Millar's intentions remain unclear, but he may have been satirizing these debates.\n\nIn 1936, the contest ended with four mothers tying for first place, each receiving a share of the fortune. The Great Stork Derby remains a bizarre chapter in Canadian history, showing how a rich man's joke could captivate a nation during hard times.",
-  "why_it_matters": "This story illustrates how a single individual's eccentricity can spark widespread social debate about class, ethnicity, and morality.",
-  "image_url": "/article_images/article_088d5f57808b.webp",
+  "title": "FDA Approves First Gene Therapy for Inherited Deafness: A 'Landmark Moment'",
+  "summary": "In a groundbreaking move, the U.S. Food and Drug Administration (FDA) has approved the first-ever gene therapy for inherited deafness. The therapy, called Otarmeni, is designed to treat a form of hearing loss caused by mutations in the OTOF gene. This gene provides instructions for making a protein called otoferlin, which is crucial for translating sound vibrations into electrical signals that the brain can interpret. When a person inherits two defective copies of OTOF—one from each parent—this communication link is severed, resulting in severe-to-profound hearing loss.\n\nOtarmeni is a one-time treatment that uses harmless viruses to deliver working copies of the OTOF gene directly into the inner ear. In a clinical trial involving 20 participants, 16 showed improved hearing within six months, and one additional participant improved within a year. Some participants improved to the point where they could hear whispers, and all responders achieved a level of hearing that typically does not require cochlear implantation—a device that bypasses the inner ear but doesn't perfectly replicate natural hearing and requires maintenance.\n\nRegeneron, the company behind Otarmeni, announced that the treatment itself will be free to patients in the U.S., though out-of-pocket administration costs may vary depending on insurance and doctor fees. The approval came through the FDA's fast-track process, taking less than three years from the first patient dose in 2023—a testament to the urgent need and robust results.\n\n\"The FDA approval of this gene therapy is a landmark moment for the field and, most importantly, for patients,\" said Dr. Zheng-Yi Chen, a scientist involved in a similar trial in China. Dr. A. Eliot Shearer, a trial runner at Boston Children's Hospital, added, \"I've witnessed firsthand my trial participant responding to their mother's voice, dancing to music and interacting with the world, and these moments are now possible for more children.\"\n\nOTOF-related hearing loss affects about 50 newborns per year in the U.S. The therapy is approved for those with two defective copies of the gene and no prior cochlear implant in the treated ear. An international trial is still recruiting children under 18 in the U.S., U.K., Spain, Germany, and Japan.",
+  "why_it_matters": "This approval marks a turning point in gene therapy, showing that a one-time treatment can potentially replace complex electronic devices for some forms of deafness — raising hopes for similar cures for other genetic conditions and challenging how we think about 'fixing' sensory loss.",
+  "image_url": "/article_images/article_9a27df0f7a86.webp",
   "keywords": [
     {
-      "term": "financier",
-      "explanation": "A person who manages large amounts of money, often for investments."
+      "term": "gene therapy",
+      "explanation": "A medical treatment that fixes a disease by delivering working copies of a gene into a patient's cells."
     },
     {
-      "term": "Prohibition",
-      "explanation": "A time when making and selling alcohol was illegal."
+      "term": "FDA",
+      "explanation": "The U.S. Food and Drug Administration, the agency that approves new medicines and treatments."
     },
     {
-      "term": "estate",
-      "explanation": "All the money and property a person leaves when they die."
+      "term": "OTOF gene",
+      "explanation": "A gene that provides instructions for making a protein needed for hearing; mutations in it cause deafness."
     },
     {
-      "term": "eugenics",
-      "explanation": "A movement that tried to control who could have children, based on racist ideas."
+      "term": "otoferlin",
+      "explanation": "A protein that helps translate sound vibrations into electrical signals for the brain."
     },
     {
-      "term": "satirizing",
-      "explanation": "Using humor to criticize or make fun of something."
+      "term": "Regeneron",
+      "explanation": "The pharmaceutical company that developed the gene therapy Otarmeni."
     },
     {
-      "term": "immigrant",
-      "explanation": "A person who comes to a new country to live permanently."
+      "term": "cochlear implantation",
+      "explanation": "A surgical device that helps deaf people hear by bypassing the inner ear, but does not fully restore natural hearing."
+    },
+    {
+      "term": "groundbreaking",
+      "rank": null,
+      "explanation": ""
+    },
+    {
+      "term": "first-ever",
+      "rank": null,
+      "explanation": ""
+    },
+    {
+      "term": "inherited",
+      "rank": 7965,
+      "explanation": ""
+    },
+    {
+      "term": "deafness",
+      "rank": null,
+      "explanation": ""
+    },
+    {
+      "term": "Otarmeni",
+      "rank": null,
+      "explanation": ""
+    },
+    {
+      "term": "treat",
+      "rank": 3727,
+      "explanation": ""
+    },
+    {
+      "term": "mutations",
+      "rank": null,
+      "explanation": ""
+    },
+    {
+      "term": "OTOF",
+      "rank": null,
+      "explanation": ""
     }
   ],
   "questions": [
     {
-      "question": "What was Charles Vance Millar's profession?",
+      "question": "What does the FDA approval of Otarmeni represent?",
       "options": [
-        "Lawyer and financier",
-        "Doctor",
-        "Politician",
-        "Journalist"
+        "A new type of hearing aid",
+        "The first gene therapy for inherited deafness",
+        "A cure for all hearing loss",
+        "A vaccine for ear infections"
       ],
-      "correct_answer": "Lawyer and financier"
+      "correct_answer": "The first gene therapy for inherited deafness"
     },
     {
-      "question": "What did Millar do with his vacation home in Jamaica?",
+      "question": "How does Otarmeni work?",
       "options": [
-        "Left it to three lawyers who hated each other.",
-        "Donated it to a church.",
-        "Sold it before he died.",
-        "Left it to the winner of the derby."
+        "It repairs damaged ear bones",
+        "It uses harmless viruses to deliver working OTOF genes into the inner ear",
+        "It amplifies sound through a device",
+        "It replaces the entire ear"
       ],
-      "correct_answer": "Left it to three lawyers who hated each other."
+      "correct_answer": "It uses harmless viruses to deliver working OTOF genes into the inner ear"
     },
     {
-      "question": "How much was the estate worth in today's money?",
+      "question": "How many participants in the clinical trial showed improved hearing within six months?",
       "options": [
-        "Nearly 9 million Canadian dollars",
-        "1 million Canadian dollars",
-        "500,000 Canadian dollars",
-        "100 million Canadian dollars"
+        "10",
+        "16",
+        "20",
+        "5"
       ],
-      "correct_answer": "Nearly 9 million Canadian dollars"
+      "correct_answer": "16"
     },
     {
-      "question": "Who was Florence Brown?",
+      "question": "What does it mean that responders achieved hearing 'that typically does not require cochlear implantation'?",
       "options": [
-        "A mother who had 26 children and hoped to outdo an Italian immigrant.",
-        "The judge of the contest.",
-        "Charles Millar's sister.",
-        "A doctor who supported the contest."
+        "They still needed a hearing aid",
+        "Their hearing improved enough to avoid a cochlear implant",
+        "They no longer had any hearing loss",
+        "They required surgery to restore hearing"
       ],
-      "correct_answer": "A mother who had 26 children and hoped to outdo an Italian immigrant."
+      "correct_answer": "Their hearing improved enough to avoid a cochlear implant"
     },
     {
-      "question": "What was illegal in Canada until the late 1960s?",
+      "question": "What did Dr. A. Eliot Shearer say about his trial participant?",
       "options": [
-        "Birth control",
-        "Having more than 10 children",
-        "Marrying someone from another country",
-        "Women working outside the home"
+        "The participant could not feel vibrations",
+        "The participant responded to their mother's voice and danced to music",
+        "The participant rejected the therapy",
+        "The participant needed a second dose"
       ],
-      "correct_answer": "Birth control"
+      "correct_answer": "The participant responded to their mother's voice and danced to music"
     },
     {
-      "question": "What is the eugenics movement?",
+      "question": "What is the eligibility requirement for Otarmeni?",
       "options": [
-        "A movement that argued poor and minority families should have fewer children.",
-        "A group that promoted large families.",
-        "A movement to improve children's education.",
-        "A group that opposed birth control."
+        "Any person with hearing loss",
+        "People with one defective OTOF gene",
+        "People with two defective copies of OTOF and no prior cochlear implant in the treated ear",
+        "People over 18 years old"
       ],
-      "correct_answer": "A movement that argued poor and minority families should have fewer children."
+      "correct_answer": "People with two defective copies of OTOF and no prior cochlear implant in the treated ear"
     }
   ],
   "background_read": [
-    "Charles Vance Millar (1853–1926) was a wealthy Toronto lawyer and financier known for his eccentric sense of humor; he never married and had no children.",
-    "At the time of the Great Depression (1930s), many Canadian families were struggling financially, and children were often seen as both a burden and a source of potential income through child labor.",
-    "Birth control was illegal in Canada until 1969, and the eugenics movement was influential, advocating for forced sterilization of people deemed 'unfit'—often poor or minority women.",
-    "Millar's will included several pranks: leaving brewery shares to Protestant ministers who supported Prohibition (which banned alcohol), and a vacation home to three lawyers who disliked each other.",
-    "The Great Stork Derby ran from 1926 to 1936, and the press coverage revealed deep ethnic and class tensions in Toronto, particularly between Anglo-Canadians and Italian immigrants."
+    "The U.S. Food and Drug Administration (FDA) is responsible for ensuring that drugs and medical devices are safe and effective. Its 'fast-track' process speeds up approval for treatments that address unmet medical needs. This is the first time the FDA has approved a gene therapy for an inherited hearing condition, a milestone after decades of research into gene therapies for other disorders.",
+    "Inherited deafness from OTOF mutations is rare (about 50 U.S. newborns per year), but it provides a clear target because it involves a single gene. The therapy uses an adeno-associated virus (AAV) vector, a harmless virus engineered to carry the correct OTOF gene into hair cells in the inner ear. Similar approaches are being tested for other genetic forms of hearing loss.",
+    "Cochlear implants, the current standard treatment for severe hearing loss, are electronic devices that stimulate the auditory nerve directly. They do not restore natural hearing and require surgery, maintenance, and rehabilitation. The prospect of a one-time gene therapy that restores biological hearing is a major advance."
   ],
   "Article_Structure": [
-    "LEAD: A bizarre contest from a dead man's will – mothers racing to have the most babies.",
-    "  └─ specific: 'I can't let any Italian get away with that leadership stuff' – Florence Brown",
-    "KEY EVENT: Charles Vance Millar's will creates the Great Stork Derby (1926-1936).",
-    "  ├─ WHO: Millar (prankster lawyer), Grace Bagnato, Florence Brown, and two other mothers",
-    "  ├─ WHEN: Ten years starting 1926; ended 1936",
-    "  └─ AMOUNT: Prize was 500,000 CAD (9 million today)",
-    "SOCIAL CONTEXT: Great Depression, illegal birth control, eugenics movement, ethnic tensions",
-    "  ├─ ONE VIEW: Millar may have been satirizing debates about population and morality",
-    "  └─ OTHER VIEW: The press coverage revealed deep prejudice and desperation",
-    "RESOLUTION: Four mothers tied; each got a share",
-    "LEGACY: A bizarre chapter showing how wealth and humor can impact society"
+    "LEAD: FDA approves first gene therapy for inherited deafness — a landmark.",
+    "  └─ SPECIFIC: Therapy called Otarmeni treats OTOF gene mutations causing severe-to-profound hearing loss.",
+    "HOW IT WORKS: Uses harmless viruses to deliver working OTOF gene into inner ear.",
+    "  └─ MECHANISM: OTOF gene produces otoferlin protein crucial for converting sound to electrical signals.",
+    "CLINICAL TRIAL RESULTS: 16 of 20 participants improved within 6 months; 1 more improved within a year.",
+    "  └─ SIGNIFICANCE: Some could hear whispers; all responders avoided need for cochlear implant.",
+    "COMPANY & COST: Regeneron developed it; treatment free to patients (out-of-pocket admin costs vary).",
+    "APPROVAL SPEED: Fast-track process — less than 3 years from first patient dose (2023).",
+    "EXPERT QUOTES: Dr. Zheng-Yi Chen (similar trial in China) calls it landmark; Dr. Shearer describes emotional moment of participant hearing mother's voice.",
+    "ELIGIBILITY: Approved for those with two defective OTOF copies and no prior cochlear implant in treated ear.",
+    "FUTURE: International trial recruiting children under 18 in multiple countries."
   ],
   "perspectives": [
     {
-      "perspective": "Positive",
-      "description": "The winning mothers received a significant sum of money during the Depression, which could have improved their families' lives."
+      "perspective": "Positive (breakthrough for patients)",
+      "description": "For children born with OTOF-related deafness, this therapy offers the chance to hear naturally for the first time — without surgery or devices. Parents and doctors have described emotional moments when children respond to voices and music, which was previously impossible."
     },
     {
-      "perspective": "Negative / critical",
-      "description": "The contest exploited poor women and encouraged dangerous pregnancies, while the prize was trivial compared to the health risks involved."
+      "perspective": "Negative/critical (cost and access)",
+      "description": "While the treatment itself is free, out-of-pocket administration costs may still be high, and insurance coverage isn't guaranteed. The therapy is also limited to a specific genetic form of deafness affecting only about 50 U.S. newborns per year, leaving many other types untreated."
     },
     {
-      "perspective": "Neutral / analytical",
-      "description": "The derby is a historical case study of media sensationalism and reveals how public debates about immigration and eugenics were framed in early 20th-century Canada."
+      "perspective": "Neutral/analytical (scientific validation)",
+      "description": "The fast-track approval confirms the robustness of the clinical data, but long-term effects remain unknown. Gene therapy has faced setbacks in the past — such as immune reactions or waning effectiveness — so continued monitoring of Otarmeni recipients is essential."
     },
     {
-      "perspective": "Forward-looking",
-      "description": "The story raises ongoing ethical questions about inheritance, wealth, and social responsibility, and serves as a cautionary tale about the unintended consequences of eccentric wills."
+      "perspective": "Forward-looking (broader implications)",
+      "description": "If Otarmeni proves durable and safe, it could pave the way for gene therapies targeting other forms of hearing loss and even non-hearing genetic disorders. The international trial will test the therapy in children, and success could lead to wider regulatory approvals and routine use."
     }
   ],
-  "mined_at": "2026-04-25T04:04:42+00:00",
-  "source_published_at": "Wed, 22 Apr 2026 11:45:00 +0000",
-  "source_name": "Smithsonian History",
-  "source_url": "https://www.smithsonianmag.com/history/an-eccentric-tycoon-left-a-fortune-to-the-winner-of-a-baby-making-contest-the-great-stork-derby-divided-canadians-during-the-great-depression-180988575/"
+  "mined_at": "2026-04-25T07:06:51+00:00",
+  "source_published_at": "Thu, 23 Apr 2026 21:01:34 +0000",
+  "source_name": "Live Science",
+  "source_url": "https://www.livescience.com/health/genetics/a-landmark-moment-for-the-field-fda-approves-first-ever-gene-therapy-for-inherited-deafness"
 }

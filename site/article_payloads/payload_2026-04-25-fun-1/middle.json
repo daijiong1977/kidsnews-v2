@@ -1,133 +1,174 @@
 {
-  "title": "Descend Into a Volcano's Magma Chamber—No Lava Required",
-  "summary": "Have you ever dreamed of exploring the inside of a volcano? In Iceland, that dream is a reality. Thríhnúkagígur (pronounced three-NOO-kah-gee-gur), a dormant volcano near Reykjavík, is the only place on Earth where you can descend into an empty magma chamber—the underground cavern that once held molten rock before an eruption.\n\nThe volcano last erupted 4,500 years ago, and its magma chamber is completely empty. That's unusual. Normally, leftover magma slowly solidifies inside the chamber, filling the ground beneath the volcano. But at Thríhnúkagígur, the magma seems to have disappeared. Scientists think it may have been sucked back down into Earth's crust. \"It's like somebody came and pulled the plug and all the magma ran down out of it,\" said Haraldur Sigurdsson, a volcanologist at the University of Rhode Island.\n\nSince 2012, visitors have been allowed to enter the chamber via an open cable elevator built in 2010 for scientists. The descent is 700 feet (210 meters)—more than double the height of the Statue of Liberty with its pedestal. At the bottom, you can roam a 33,600-square-foot (3,120 square meters) cave floor, about the size of a soccer field.\n\nThe walls are decorated with vivid colors: bronze, indigo, yellow, and orange. These colors are attributed to microbes (tiny organisms) and sulfur-rich gases. Scientists aren't sure exactly which microbes live there. Occasionally, visitors see puffs of steam rising from corners of the chamber, but these are caused by water dripping onto lamps, not signs of an impending eruption. Evidence suggests Thríhnúkagígur has erupted only three times in the past 50,000 years, so it's quite safe.\n\nThe volcano's name means \"Three Peaks Crater\" in Icelandic, referring to three peaks at the surface. The youngest peak formed 4,500 years ago, the next 5,000 years ago, and the oldest 50,000 years ago, when Iceland was covered by a thick ice sheet. That oldest peak is made of hyaloclastite, a sharp, glassy volcanic rock formed when lava meets ice.\n\nWould you be brave enough to take the elevator into a volcano's heart?",
-  "why_it_matters": "This discovery shows that volcanoes can hold surprises that teach us about Earth's geology and how life can exist in extreme environments.",
-  "image_url": "/article_images/article_5f226ea24cb9.webp",
+  "title": "Breaking News in 1776: How the Declaration of Independence Spread Across the Colonies",
+  "summary": "Imagine getting your news by word of mouth or a single printed sheet. That's how Americans first learned about the Declaration of Independence. A new book by historian Emily Sneff, *When the Declaration of Independence Was News*, reveals the fascinating and fragile journey of the document.\n\nOn July 4, 1776, the Continental Congress adopted the Declaration. That same day, Philadelphia printer John Dunlap produced the first copies—poster-sized sheets called broadsides. These were rushed to state assemblies, military officers, and local leaders. Newspapers reprinted the text, and communities held public readings in courthouses and churches. Many people responded with \"huzzahs\" (cheers) and tore down symbols of British monarchy. But Sneff notes that the Declaration \"was malleable, easily combined with other pieces of information and misinformation, or overshadowed by other stories.\" Some people were uninterested or even disappointed; their private diaries and letters revealed anxiety about what independence would bring.\n\nThe first printed copies didn't include the signers' names. That changed in January 1777, when Baltimore printer Mary Katharine Goddard—the only woman printing under her own name in the new United States—produced a broadside listing the signers by state delegation. She capitalized religious words like \"God\" and \"Divine Providence\" and proudly printed her full name at the bottom.\n\nSneff's book traces different printings across the colonies and the Atlantic world. Many copies were lost to time; only about 125 broadsides from July 1776 survive today. The signed parchment we know now didn't even exist until July 19, and signing began on August 2. By then, most people had already learned about the Declaration through other means.\n\nToday, the original parchment sits behind bulletproof glass at the National Archives in Washington, D.C. But back in 1776, it was just breaking news—spread through fragile networks, met with joy and fear, and never quite the same from one copy to the next.",
+  "why_it_matters": "Understanding how the Declaration spread as news shows that even the most famous historical documents were once messy, mixed with rumors, and received differently by different people — a reminder that today's news, too, is shaped by how it travels and who controls the message.",
+  "image_url": "/article_images/article_5f691c283a19.webp",
   "keywords": [
     {
-      "term": "dormant volcano",
-      "explanation": "A volcano that has not erupted for a long time but could erupt again."
+      "term": "Continental Congress",
+      "explanation": "The assembly of delegates from the American colonies that adopted the Declaration of Independence."
     },
     {
-      "term": "solidifies",
-      "explanation": "Changes from liquid to solid, like magma turning into rock."
+      "term": "broadsides",
+      "explanation": "Large printed sheets used to quickly spread news in the 1700s."
     },
     {
-      "term": "volcanologist",
-      "explanation": "A scientist who studies volcanoes."
+      "term": "John Dunlap",
+      "explanation": "The Philadelphia printer who produced the first official copies of the Declaration on July 4, 1776."
     },
     {
-      "term": "pedestal",
-      "explanation": "The base that supports a statue."
+      "term": "Mary Katharine Goddard",
+      "explanation": "A female printer in Baltimore who published a version of the Declaration listing all the signers by state."
     },
     {
-      "term": "hyaloclastite",
-      "explanation": "A sharp, glassy volcanic rock formed when lava meets ice."
+      "term": "malleable",
+      "explanation": "Easily changed or combined with other information, meaning the news of the Declaration was not fixed."
     },
     {
-      "term": "sulfur-rich",
-      "explanation": "Containing a lot of sulfur, a chemical element that smells like rotten eggs."
+      "term": "National Archives",
+      "explanation": "The U.S. government building in Washington, D.C., that stores the original signed Declaration of Independence."
+    },
+    {
+      "term": "Imagine",
+      "rank": 4050,
+      "explanation": ""
+    },
+    {
+      "term": "mouth",
+      "rank": 3301,
+      "explanation": ""
+    },
+    {
+      "term": "That's",
+      "rank": null,
+      "explanation": ""
+    },
+    {
+      "term": "learned",
+      "rank": 3267,
+      "explanation": ""
+    },
+    {
+      "term": "Declaration",
+      "rank": 5157,
+      "explanation": ""
+    },
+    {
+      "term": "Independence",
+      "rank": 4658,
+      "explanation": ""
+    },
+    {
+      "term": "historian",
+      "rank": null,
+      "explanation": ""
+    },
+    {
+      "term": "Emily",
+      "rank": 6915,
+      "explanation": ""
     }
   ],
   "questions": [
     {
-      "question": "What is unusual about Thríhnúkagígur's magma chamber?",
+      "question": "Which printer produced the first copies of the Declaration of Independence on July 4, 1776?",
       "options": [
-        "It is completely empty.",
-        "It is filled with water.",
-        "It is still full of lava.",
-        "It is the largest in the world."
+        "Mary Katharine Goddard",
+        "John Dunlap",
+        "Benjamin Franklin",
+        "Thomas Jefferson"
       ],
-      "correct_answer": "It is completely empty."
+      "correct_answer": "John Dunlap"
     },
     {
-      "question": "Who is Haraldur Sigurdsson?",
+      "question": "What were the first printed copies of the Declaration called?",
       "options": [
-        "A tour guide in Iceland.",
-        "A volcanologist at the University of Rhode Island.",
-        "The prime minister of Iceland.",
-        "The person who built the cable elevator."
+        "Pamphlets",
+        "Broadsides",
+        "Newspapers",
+        "Parchments"
       ],
-      "correct_answer": "A volcanologist at the University of Rhode Island."
+      "correct_answer": "Broadsides"
     },
     {
-      "question": "How deep is the descent into the magma chamber?",
+      "question": "Why was Mary Katharine Goddard's version of the Declaration notable?",
       "options": [
-        "700 feet (210 meters)",
-        "1,000 feet (305 meters)",
-        "500 feet (152 meters)",
-        "200 feet (61 meters)"
+        "It was printed in color",
+        "It was the first to include the signers' names",
+        "It was signed by the King",
+        "It was written in French"
       ],
-      "correct_answer": "700 feet (210 meters)"
+      "correct_answer": "It was the first to include the signers' names"
     },
     {
-      "question": "What are the colors on the chamber walls caused by?",
+      "question": "According to the article, how did many communities first learn about the Declaration?",
       "options": [
-        "Mineral deposits",
-        "Microbes and sulfur-rich gases",
-        "Paint from earlier visitors",
-        "Lava stains"
+        "Through radio announcements",
+        "Through public readings in courthouses and churches",
+        "Through social media",
+        "Through letters from the King"
       ],
-      "correct_answer": "Microbes and sulfur-rich gases"
+      "correct_answer": "Through public readings in courthouses and churches"
     },
     {
-      "question": "What does 'Thríhnúkagígur' mean in Icelandic?",
+      "question": "How many original broadsides from July 1776 are known to survive today?",
       "options": [
-        "Three Peaks Crater",
-        "Volcano of Fire",
-        "Underground Cave",
-        "Iceland's Heart"
+        "About 125",
+        "About 50",
+        "About 500",
+        "About 1,000"
       ],
-      "correct_answer": "Three Peaks Crater"
+      "correct_answer": "About 125"
     },
     {
-      "question": "What is hyaloclastite?",
+      "question": "What did historian Emily Sneff say about the Declaration as news?",
       "options": [
-        "A type of lava",
-        "A glassy rock formed when lava meets ice",
-        "A mineral found in volcanic ash",
-        "A tool used by volcanologists"
+        "It was perfectly preserved",
+        "It was 'malleable' and could be combined with misinformation",
+        "It was ignored by everyone",
+        "It was banned by the British"
       ],
-      "correct_answer": "A glassy rock formed when lava meets ice"
+      "correct_answer": "It was 'malleable' and could be combined with misinformation"
     }
   ],
   "background_read": [
-    "Thríhnúkagígur is a dormant volcano in Iceland, a country known for its volcanic activity because it sits on the Mid-Atlantic Ridge and a hot spot.",
-    "Most magma chambers are filled with solidified rock after an eruption, but Thríhnúkagígur's chamber is empty—a rare geological puzzle.",
-    "Haraldur Sigurdsson, a volcanologist at the University of Rhode Island, has studied the volcano and compared the missing magma to 'somebody came and pulled the plug.'",
-    "The volcano's three peaks formed during different ice ages, and the oldest peak contains hyaloclastite, which forms when lava erupts under ice."
+    "The Declaration of Independence was adopted by the Continental Congress (the revolutionary government of the 13 American colonies) on July 4, 1776. At the time, news traveled slowly by horseback, ship, and printed sheets called broadsides. John Dunlap's original printing is known as the 'Dunlap Broadside' and is extremely rare.",
+    "Mary Katharine Goddard, one of the first female publishers in America, ran the Maryland Journal and published her version of the Declaration in January 1777. Her inclusion of the signers' names by state helped solidify the document's authority.",
+    "The signed parchment most people think of today wasn't created until July 19, and the actual signing ceremony began on August 2, 1776. Many copies were lost over the centuries, and only about 125 Dunlap broadsides survive. The original signed parchment is now kept at the National Archives (the U.S. government's official record-keeper) under bulletproof glass."
   ],
   "Article_Structure": [
-    "LEAD: You can descend into a dormant volcano's empty magma chamber in Iceland.",
-    "  └─ specific: 'It's like somebody came and pulled the plug' – volcanologist",
-    "KEY EVENT: Thríhnúkagígur volcano's magma chamber is empty and open to visitors since 2012.",
-    "  ├─ WHO: Visitors and scientists led by Haraldur Sigurdsson",
-    "  ├─ WHEN: Last erupted 4,500 years ago; opened 2012",
-    "  └─ AMOUNT: 700 ft descent, 33,600 sq ft floor",
-    "EXPLANATION: Why the chamber is empty – magma may have drained back into crust",
-    "DETAILS: Colors from microbes and gases; safety from rare eruptions",
-    "CONTEXT: Three peaks formed over 50,000 years; hyaloclastite from ice age"
+    "LEAD: Compares modern news distribution to 1776 — word of mouth and single printed sheets.",
+    "  └─ SPECIFIC: 'A new book by historian Emily Sneff... shows the fragile journey.'",
+    "KEY EVENT: Continental Congress adopts Declaration; John Dunlap prints broadsides on July 4.",
+    "  ├─ WHO: Philadelphia printer John Dunlap.",
+    "  ├─ HOW: Broadsides rushed to state assemblies, officers, leaders; newspapers reprint; public readings.",
+    "  └─ REACTION: 'huzzahs', joy, tearing down monarchy symbols; but some anxiety and disinterest.",
+    "TWIST: First printed copies did NOT include signers' names.",
+    "  └─ LATER: Mary Katharine Goddard prints broadside with signers by state delegation in Jan 1777.",
+    "EVIDENCE: Historian Sneff traces different printings; only ~125 broadsides survive.",
+    "  └─ TIMELINE: Signed parchment didn't exist until July 19; signing began Aug 2.",
+    "CLOSING: Original parchment now at National Archives; in 1776 it was just breaking news."
   ],
   "perspectives": [
     {
-      "perspective": "Positive",
-      "description": "Tourists and scientists benefit from unique access to a natural wonder, and the site promotes volcanic education and adventure tourism."
+      "perspective": "Positive (historical access)",
+      "description": "The rapid spread of the Declaration through broadsides and newspapers shows the power of print to unify a population around a common cause, giving ordinary colonists access to the core ideas of liberty."
     },
     {
-      "perspective": "Negative / critical",
-      "description": "Some worry that encouraging tourism inside a volcano could set a precedent for risky activities or disturb fragile geological features."
+      "perspective": "Negative/critical (misinformation)",
+      "description": "Sneff emphasizes that the Declaration was 'malleable' and 'easily combined with other pieces of information and misinformation,' highlighting that even in 1776, news could be distorted or overshadowed by other stories, much like today's media landscape."
     },
     {
-      "perspective": "Neutral / analytical",
-      "description": "The chamber's emptiness poses a geological puzzle; studying it could improve understanding of magma movement and eruption prediction."
+      "perspective": "Neutral/analytical (historical pattern)",
+      "description": "The story illustrates how news of major events often takes on a life of its own before official versions are established. The gap between July 4 and the signed parchment shows that history is often reconstructed after the fact."
     },
     {
-      "perspective": "Forward-looking",
-      "description": "Exploring microbial life in the chamber may lead to discoveries about life in extreme environments, with implications for astrobiology."
+      "perspective": "Forward-looking (preservation)",
+      "description": "With only 125 broadsides surviving, the article reminds us that physical copies of history are fragile. Digital preservation of today's news is equally important for future historians trying to understand our era."
     }
   ],
-  "mined_at": "2026-04-25T04:04:42+00:00",
-  "source_published_at": "Fri, 24 Apr 2026 15:36:23 +0000",
-  "source_name": "Live Science",
-  "source_url": "https://www.livescience.com/planet-earth/geology/thrihnukagigur-the-only-volcano-on-earth-where-you-can-descend-into-a-magma-chamber"
+  "mined_at": "2026-04-25T07:06:51+00:00",
+  "source_published_at": "Mon, 13 Apr 2026 11:45:00 +0000",
+  "source_name": "Smithsonian History",
+  "source_url": "https://www.smithsonianmag.com/history/in-1776-the-declaration-of-independence-was-breaking-news-heres-how-the-founding-document-reached-the-american-public-180988494/"
 }
