@@ -1,37 +1,34 @@
 {
   "articles": [
     {
-      "id": "2026-04-25-news-1",
+      "id": "2026-04-24-news-1",
+      "title": "Oops! Three Politicians Get Caught Betting on Themselves",
+      "summary": "Imagine betting on yourself to win a race — and then getting caught! That's what happened to three U.S. congressional candidates. They used a website called Kalshi, where people can bet on elections. But Kalshi has a rule: candidates can't bet on their own races. Now they've been fined and banned from the site for five years. Mark Moran from Virginia said he did it on purpose to show these betting sites have too much power. Matt Klein from Minnesota bet just $50 and said it was a mistake. Ezekiel Enriquez from Texas lost his race with less than 2% of the vote. Some people, like Congressman Mike Levin, think the fines are too small — he called it 'a…",
       "source": "PBS NewsHour",
-      "time_ago": "Sat, 25 Apr 2026 11:40:10 -0400",
-      "mined_at": "2026-04-25T16:45:58+00:00",
-      "source_published_at": "Sat, 25 Apr 2026 11:40:10 -0400",
-      "image_url": "/article_images/article_526198867c7a.webp",
+      "time_ago": "Thu, 23 Apr 2026 19:05:03 -0400",
+      "image_url": "/article_images/article_e70859ec15f4.webp",
       "category": "News",
-      "title": "Gaza Holds First Election in 20 Years — But Only in One City",
-      "summary": "Imagine your town hasn't had an election in over 20 years. That's what happened in Gaza. But on April 25, 2026, people in Deir al-Balah lined up to vote for their local council. More than 70,000 people could vote. The election was a small test run to connect Gaza and the West Bank. Voters said they wanted better services like water and electricity. Some materials like ballot boxes were blocked by Israel, so officials used wooden boxes and leftover ink from a vaccination drive. The election is a big step, but many people are still unsure if it will change anything."
+      "mined_at": "2026-04-24T01:01:41.723732+00:00"
     },
     {
-      "id": "2026-04-25-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Sat, 25 Apr 2026 12:25:07 -0400",
-      "mined_at": "2026-04-25T16:45:58+00:00",
-      "source_published_at": "Sat, 25 Apr 2026 12:25:07 -0400",
-      "image_url": "/article_images/article_9bc5cb2bff4f.webp",
-      "category": "News",
-      "title": "Navy on a Dangerous Hunt: Clearing Mines from a Super Important Waterway",
-      "summary": "The Strait of Hormuz is a narrow sea passage where 20% of the world's oil travels. But now it's filled with hidden mines — underwater explosives that can blow up ships. President Trump says the U.S. Navy is clearing them, but experts say it could take six months or more. The mines are hard to find, and even if the Navy says it's safe, shipping companies might not believe them. Iran may have laid mines, but no one knows for sure. The mission is risky and could affect oil prices worldwide."
-    },
-    {
-      "id": "2026-04-25-news-3",
+      "id": "2026-04-24-news-2",
+      "title": "A Mind Reader Is Headlining the White House Dinner — and Trump Might Be Part of the Act!",
+      "summary": "Imagine a mind reader at the White House! This year, the big fancy dinner in Washington, D.C., where journalists and politicians hang out, won't have a comedian roasting the president. Instead, mentalist Oz Pearlman is the headliner. He's famous for guessing people's PIN numbers and thoughts on TV, and he came in third on America's Got Talent in 2015. Pearlman wants to bring people together, not roast them. President Donald Trump plans to attend for the first time as president, and Pearlman hinted Trump might be part of the show! 'Reading Donald Trump's mind is arguably the most impressive thing you could ever do,' he said. Pearlman has been planning this for 10 years. Will he actually read Trump's mind?…",
       "source": "NPR World",
-      "time_ago": "Sat, 25 Apr 2026 05:00:00 -0400",
-      "mined_at": "2026-04-25T16:45:58+00:00",
-      "source_published_at": "Sat, 25 Apr 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_2144690f4154.webp",
+      "time_ago": "Thu, 23 Apr 2026 12:46:53 -0400",
+      "image_url": "/article_images/article_c9fd806dc459.webp",
       "category": "News",
-      "title": "Should the Justice Department Be Able to Hide Its Lawyers' Mistakes?",
-      "summary": "The U.S. Justice Department wants a new rule that could let it delay or stop investigations into its own lawyers when they do something wrong. Right now, state bar associations — groups that make sure lawyers follow the rules — can investigate federal prosecutors. But the DOJ says these investigations are being used unfairly by political activists. Critics say the rule would let the government avoid accountability. A 1998 law called the McDade-Murtha Amendment requires federal prosecutors to follow state ethics rules, so the new rule might be illegal."
+      "mined_at": "2026-04-24T01:01:42.087792+00:00"
+    },
+    {
+      "id": "2026-04-24-news-3",
+      "title": "Iran Fires Back at Trump: 'We Are One Soul, Not Divided!'",
+      "summary": "Is Iran really split into two groups, or are they all one team? President Trump said Iran has 'moderates' who want peace and 'hardliners' who want to fight. But Iran's top leaders — the president, foreign minister, and parliament speaker — all posted the same message on social media: 'We are all one soul!' They say everyone is united behind their new Supreme Leader, Mojtaba Khamenei. This comes after a tough time: in February, the U.S. and Israel killed Iran's former leader, Ali Khamenei. Now the U.S. has a blockade around Iran's ports, and Iran closed the Strait of Hormuz, making oil prices go up. Trump says the blockade is 'airtight' and Iran's military is destroyed. Israel is waiting for…",
+      "source": "Al Jazeera",
+      "time_ago": "Thu, 23 Apr 2026 20:26:13 +0000",
+      "image_url": "/article_images/article_23d2604d763b.webp",
+      "category": "News",
+      "mined_at": "2026-04-24T01:01:42.32737+00:00"
     }
   ]
 }
