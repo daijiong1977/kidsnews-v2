@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-04-25-science-1",
+      "id": "2026-04-26-science-1",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Sat, 25 Apr 2026 00:38:17 EDT",
+      "mined_at": "2026-04-26T02:00:06+00:00",
+      "source_published_at": "Sat, 25 Apr 2026 00:38:17 EDT",
+      "image_url": "/article_images/article_2f329383eb48.webp",
+      "category": "Science",
+      "title": "Why Were Prehistoric Insects So Huge? New Study Flips Old Theory",
+      "summary": "Three hundred million years ago, dragonflies with 27-inch wingspans ruled the skies. Scientists long believed that high oxygen levels allowed these giant insects to grow so large. But a new study in Nature challenges that idea. Researchers found that insect flight muscles contain very few oxygen-delivering tracheoles—even in giant species. This suggests oxygen wasn't the limiting factor. The true reason for their enormous size remains a puzzle, opening up new questions about evolution and prehistoric life."
+    },
+    {
+      "id": "2026-04-26-science-2",
+      "source": "Science News Explores",
+      "time_ago": "Tue, 21 Apr 2026 10:30:00 +0000",
+      "mined_at": "2026-04-26T02:00:06+00:00",
+      "source_published_at": "Tue, 21 Apr 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_355a6ec71c48.webp",
+      "category": "Science",
+      "title": "Venus Reveals a Massive Lava Tube—Bigger Than Any on Earth",
+      "summary": "Scientists have discovered the first lava tube on Venus, and it's enormous—possibly a kilometer wide. The finding came from reanalyzing radar data from NASA's Magellan probe, which mapped Venus in the 1990s. A collapsed \"skylight\" near the volcano Nyx Mons revealed the tube. This discovery is important because lava tubes on the Moon could serve as shelters for astronauts. But Venus's extreme surface conditions—crushing pressure and scorching heat—make it unlikely humans will ever explore this tube in person."
+    },
+    {
+      "id": "2026-04-26-science-3",
       "source": "ScienceDaily All",
       "time_ago": "Sat, 25 Apr 2026 11:27:49 EDT",
-      "mined_at": "2026-04-25T16:45:58+00:00",
+      "mined_at": "2026-04-26T02:00:06+00:00",
       "source_published_at": "Sat, 25 Apr 2026 11:27:49 EDT",
       "image_url": "/article_images/article_5d6434794187.webp",
       "category": "Science",
       "title": "Scientists Create 'Optical Tornadoes' That Could Revolutionize Quantum Tech",
-      "summary": "Researchers have created swirling 'optical tornadoes' inside a tiny structure using liquid crystals. These stable light vortices, produced in the ground state for the first time, could simplify photonic devices for quantum communication and optical computing. The team from the University of Warsaw and collaborators used torons—spiral defects in liquid crystals—to trap light and make it spin. This breakthrough could lead to smaller, more scalable light sources."
-    },
-    {
-      "id": "2026-04-25-science-2",
-      "source": "Science News Explores",
-      "time_ago": "Tue, 21 Apr 2026 10:30:00 +0000",
-      "mined_at": "2026-04-25T16:45:58+00:00",
-      "source_published_at": "Tue, 21 Apr 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_355a6ec71c48.webp",
-      "category": "Science",
-      "title": "Massive Lava Tube Discovered on Venus—Bigger Than Any on Earth",
-      "summary": "By reanalyzing 1990s radar data from NASA's Magellan probe, scientists have discovered the first lava tube on Venus. Located near the volcano Nyx Mons, the tube is at least 375 meters deep and could be up to 1 kilometer wide—larger than any known lava tube on Earth or Mars. The finding, published in Nature Communications, raises questions about how such a large tube formed under Venus's Earth-like gravity. It also highlights the lasting value of old data and sets the stage for upcoming missions like VERITAS and EnVision."
-    },
-    {
-      "id": "2026-04-25-science-3",
-      "source": "IEEE Spectrum",
-      "time_ago": "Thu, 23 Apr 2026 13:00:01 +0000",
-      "mined_at": "2026-04-25T16:45:58+00:00",
-      "source_published_at": "Thu, 23 Apr 2026 13:00:01 +0000",
-      "image_url": "/article_images/article_21c54d43fb4f.webp",
-      "category": "Science",
-      "title": "This Teacher Built a Life-Size ENIAC Replica With His Students—And It's Awesome",
-      "summary": "Tom Burick, a technology instructor at a school for neurodivergent students in Arizona, led his class in constructing a full-scale replica of ENIAC, one of the world's first programmable electronic computers. The project marks the 80th anniversary of ENIAC's construction. Burick, a former robotics entrepreneur who has dyscalculia, designed the project to leverage his students' strengths like hyperfocus and precision. The replica matches the original computer's appearance before it was disassembled in the 1950s."
+      "summary": "Researchers have generated swirling beams of light called \"optical tornadoes\" inside a liquid crystal, achieving a stable, low-energy state for the first time. The light twists like a vortex and can be controlled with an electric voltage. This breakthrough could lead to simpler, more scalable photonic devices for optical communication and quantum technologies. The team used self-organizing materials instead of complex nanotechnology, opening new possibilities for miniature light sources."
     }
   ]
 }
