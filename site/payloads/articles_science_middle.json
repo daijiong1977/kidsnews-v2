@@ -1,34 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-04-24-science-1",
-      "title": "Brain Secrets of SuperAgers: Why Some 80-Year-Olds Remember Like They're 50",
-      "summary": "Imagine being 80 years old with a memory as sharp as someone in their 50s. That's the reality for 'SuperAgers,' a group of remarkable seniors studied for over 25 years by researchers at Northwestern Medicine. These individuals, aged 80 and older, perform on memory tests as well as people 30 years younger, challenging the idea that mental decline is inevitable. Scientists discovered two key secrets in their brains: some SuperAgers are 'resistant,' lacking harmful proteins linked to Alzheimer's, while others are 'resilient,' having the proteins but still functioning normally. Their brains also have larger, healthier neurons in memory regions like the entorhinal cortex. Beyond biology, SuperAgers tend to be highly social and mentally active, building a 'cognitive reserve' that protects…",
+      "id": "2026-04-25-science-1",
       "source": "ScienceDaily All",
-      "time_ago": "Thu, 23 Apr 2026 07:46:30 EDT",
-      "image_url": "/article_images/article_70eafbd186b1.webp",
+      "time_ago": "Sat, 25 Apr 2026 11:27:49 EDT",
+      "mined_at": "2026-04-25T16:45:58+00:00",
+      "source_published_at": "Sat, 25 Apr 2026 11:27:49 EDT",
+      "image_url": "/article_images/article_5d6434794187.webp",
       "category": "Science",
-      "mined_at": "2026-04-24T01:01:42.570832+00:00"
+      "title": "Scientists Create 'Optical Tornadoes' That Could Revolutionize Quantum Tech",
+      "summary": "Researchers have created swirling 'optical tornadoes' inside a tiny structure using liquid crystals. These stable light vortices, produced in the ground state for the first time, could simplify photonic devices for quantum communication and optical computing. The team from the University of Warsaw and collaborators used torons—spiral defects in liquid crystals—to trap light and make it spin. This breakthrough could lead to smaller, more scalable light sources."
     },
     {
-      "id": "2026-04-24-science-2",
-      "title": "Move Over, Chimps: This Cow Uses a Brush as a Tool — and Scientists Are Stunned",
-      "summary": "Meet Veronika, a Brown Swiss cow from Austria who is surprising scientists with a skill once thought unique to chimps: tool use. When she gets an itch, she picks up a long-handled brush with her tongue and scratches the exact spot. Even more amazing, she uses both ends — the hard bristles for her tough back and the soft handle for sensitive areas like her belly button. Animal cognition expert Antonio Osuna-Mascaró at the Messerli Research Institute in Vienna was stunned at first, but soon realized Veronika was deliberately choosing the right tool end. This makes her the first cow ever reported to use a tool, a finding published in Current Biology. Researchers think her life on a small farm…",
+      "id": "2026-04-25-science-2",
       "source": "Science News Explores",
-      "time_ago": "Fri, 17 Apr 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_4d246624b13b.webp",
+      "time_ago": "Tue, 21 Apr 2026 10:30:00 +0000",
+      "mined_at": "2026-04-25T16:45:58+00:00",
+      "source_published_at": "Tue, 21 Apr 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_355a6ec71c48.webp",
       "category": "Science",
-      "mined_at": "2026-04-24T01:01:42.840165+00:00"
+      "title": "Massive Lava Tube Discovered on Venus—Bigger Than Any on Earth",
+      "summary": "By reanalyzing 1990s radar data from NASA's Magellan probe, scientists have discovered the first lava tube on Venus. Located near the volcano Nyx Mons, the tube is at least 375 meters deep and could be up to 1 kilometer wide—larger than any known lava tube on Earth or Mars. The finding, published in Nature Communications, raises questions about how such a large tube formed under Venus's Earth-like gravity. It also highlights the lasting value of old data and sets the stage for upcoming missions like VERITAS and EnVision."
     },
     {
-      "id": "2026-04-24-science-3",
-      "title": "Dirty Air Crisis: Nearly Half of US Kids Breathing Dangerous Pollution, Report Warns",
-      "summary": "Imagine nearly half of all kids in the U.S. breathing air that could hurt their lungs. That's what a new report from the American Lung Association warns. The report, released on April 22, 2026, looked at pollution from smog and soot across the country. It found that 129.1 million people are breathing unhealthy air — the highest number in six years. Why is this happening? Climate change plays a big role, with extreme heat, drought, and wildfires making pollution worse. Even smoke from Canada's 2023 wildfires drifted into the U.S. There's also a surprising new source: datacenters, which use lots of electricity and often run on fossil fuels. The report says communities of color are hit hardest, and that the…",
-      "source": "Guardian Environment",
-      "time_ago": "Wed, 22 Apr 2026 10:00:24 GMT",
-      "image_url": "/article_images/article_41611642a438.webp",
+      "id": "2026-04-25-science-3",
+      "source": "IEEE Spectrum",
+      "time_ago": "Thu, 23 Apr 2026 13:00:01 +0000",
+      "mined_at": "2026-04-25T16:45:58+00:00",
+      "source_published_at": "Thu, 23 Apr 2026 13:00:01 +0000",
+      "image_url": "/article_images/article_21c54d43fb4f.webp",
       "category": "Science",
-      "mined_at": "2026-04-24T01:01:43.107567+00:00"
+      "title": "This Teacher Built a Life-Size ENIAC Replica With His Students—And It's Awesome",
+      "summary": "Tom Burick, a technology instructor at a school for neurodivergent students in Arizona, led his class in constructing a full-scale replica of ENIAC, one of the world's first programmable electronic computers. The project marks the 80th anniversary of ENIAC's construction. Burick, a former robotics entrepreneur who has dyscalculia, designed the project to leverage his students' strengths like hyperfocus and precision. The replica matches the original computer's appearance before it was disassembled in the 1950s."
     }
   ]
 }

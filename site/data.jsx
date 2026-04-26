@@ -24,23 +24,12 @@ const ARCHIVE_BASE = `${SUPABASE_URL}/storage/v1/object/public/redesign-daily-co
 // dailyGoalMinutes  =  storiesPerDay  ×  sum(stepWeights)
 // 21               =  3              ×  (2+1+2+2)
 const SITE_CONFIG = {
-  // ── Brand / wordmark ────────────────────────────────────────────────
-  brand:         "kidsnews",          // wordmark line, displayed as "kids" + "news"
-  brandWordHi:   "news",              // colored portion of the wordmark (renders in --twentyone-coral)
-  parent:        "21mins",            // parent brand
-  endorsement:   "21MINS daily news.",// small caps endorsement under the lockup (line 1)
-  endorsement2:  "Learn the real world.", // second-line endorsement
-  audience:      "Kids age 8-13",
-  domain:        "kidsnews.21mins.com",
-  vertical:      "kidsnews",
+  brand:        "21 minutes every day",
+  audience:     "Kids age 8-13",
+  domain:       "kidsnews.21mins.com",   // production target
+  vertical:     "kidsnews",
 
-  // ── Slogans + copy ─────────────────────────────────────────────────
-  // Hero tagline: italic, sits below "Today's 21 minutes"
-  tagline:      "Little daily, big magic.",
-  // For OG / share / about
-  longSlogan:   "21 minutes. Every day. The magic compounds.",
-
-  // ── Daily reading model ─────────────────────────────────────────────
+  // Daily reading model
   dailyGoalMinutes: 21,
   storiesPerDay:    3,
   perArticleMinutes: 7,                  // = sum(stepWeights)

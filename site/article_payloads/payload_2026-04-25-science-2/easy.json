@@ -1,0 +1,163 @@
+{
+  "title": "Giant Underground Cave Found on Venus! Bigger Than Any on Earth",
+  "summary": "Did you know Venus has giant underground caves? Scientists just found one! It's a lava tube—a tunnel left behind when molten rock flows and then drains away. This one is huge: at least 375 meters deep and maybe up to 1 kilometer wide. That's bigger than any lava tube on Earth or Mars!\n\nHow did they find it? They looked at old radar images taken by NASA's Magellan spacecraft in the 1990s. Using new techniques, they spotted a collapsed \"skylight\"—a hole where the cave roof had fallen in. The skylight is near a volcano called Nyx Mons.\n\n\"It is remarkable that we are still extracting new insights from Magellan data,\" says planetary scientist Anna Gülcher.\n\nLava tubes on the Moon and Mars could one day shelter astronauts from radiation. But Venus is super harsh: the air pressure is 93 times Earth's, and it's hot enough to melt electronics. So people won't visit this tube anytime soon.\n\nStill, the discovery is exciting. Two new missions—NASA's VERITAS and Europe's EnVision—will launch before 2031. They'll carry advanced radar to map Venus in much higher detail. Who knows what other secrets they'll uncover?",
+  "why_it_matters": "This discovery shows that we can still learn new things from old space missions, and that Venus, despite being harsh, has interesting places that might be explored one day, sparking curiosity about our solar system.",
+  "image_url": "/article_images/article_355a6ec71c48.webp",
+  "keywords": [
+    {
+      "term": "lava tube",
+      "explanation": "A tunnel left behind when molten rock (lava) flows and then drains away."
+    },
+    {
+      "term": "skylight",
+      "explanation": "A hole in the ground where the roof of a cave has collapsed."
+    },
+    {
+      "term": "Magellan spacecraft",
+      "explanation": "A robot spacecraft sent by NASA in the 1990s to map the surface of Venus using radar."
+    },
+    {
+      "term": "VERITAS",
+      "explanation": "A planned NASA mission to map Venus in very high detail."
+    },
+    {
+      "term": "EnVision",
+      "explanation": "A planned European space mission to study Venus."
+    },
+    {
+      "term": "planetary scientist",
+      "explanation": "A scientist who studies planets and other objects in space."
+    },
+    {
+      "term": "Venus",
+      "rank": null,
+      "explanation": ""
+    },
+    {
+      "term": "giant",
+      "rank": 4100,
+      "explanation": ""
+    },
+    {
+      "term": "underground",
+      "rank": 4180,
+      "explanation": ""
+    },
+    {
+      "term": "caves",
+      "rank": null,
+      "explanation": ""
+    },
+    {
+      "term": "Scientists",
+      "rank": 4127,
+      "explanation": ""
+    },
+    {
+      "term": "It's",
+      "rank": null,
+      "explanation": ""
+    },
+    {
+      "term": "lava",
+      "rank": null,
+      "explanation": ""
+    },
+    {
+      "term": "tube",
+      "rank": 4076,
+      "explanation": ""
+    }
+  ],
+  "questions": [
+    {
+      "question": "What did scientists find on Venus?",
+      "options": [
+        "A river",
+        "A giant lava tube",
+        "A volcano",
+        "A city"
+      ],
+      "correct_answer": "A giant lava tube"
+    },
+    {
+      "question": "How big is the lava tube at least?",
+      "options": [
+        "100 meters deep",
+        "375 meters deep",
+        "1 kilometer deep",
+        "10 kilometers deep"
+      ],
+      "correct_answer": "375 meters deep"
+    },
+    {
+      "question": "What spacecraft took the radar images used for the discovery?",
+      "options": [
+        "Apollo",
+        "Magellan",
+        "Voyager",
+        "Hubble"
+      ],
+      "correct_answer": "Magellan"
+    },
+    {
+      "question": "How did they spot the cave?",
+      "options": [
+        "By sending a rover",
+        "By looking at a collapsed skylight",
+        "By drilling",
+        "By flying a plane"
+      ],
+      "correct_answer": "By looking at a collapsed skylight"
+    },
+    {
+      "question": "Why won't people visit the Venus cave soon?",
+      "options": [
+        "It's too far",
+        "It's too hot and the air pressure is crushing",
+        "It's too dark",
+        "It's too small"
+      ],
+      "correct_answer": "It's too hot and the air pressure is crushing"
+    },
+    {
+      "question": "What two missions will map Venus in more detail before 2031?",
+      "options": [
+        "Apollo and Soyuz",
+        "VERITAS and EnVision",
+        "Mars Rover and Perseverance",
+        "Hubble and Webb"
+      ],
+      "correct_answer": "VERITAS and EnVision"
+    }
+  ],
+  "background_read": [
+    "NASA's Magellan spacecraft was a robot that flew to Venus in the 1990s and used radar to see through its thick clouds.",
+    "The new discovery shows that even old data can reveal new secrets.",
+    "Two future missions, VERITAS (by NASA) and EnVision (by Europe), will take even better pictures of Venus starting in the early 2030s."
+  ],
+  "Article_Structure": [
+    "WHO: Planetary scientists studying radar images from NASA's Magellan spacecraft.",
+    "WHAT: Found a giant lava tube on Venus, bigger than any cave on Earth or Mars.",
+    "WHERE: Near the volcano Nyx Mons on Venus.",
+    "WHY: Because it shows Venus has hidden geological features and helps scientists understand how to study other planets."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Exciting for space exploration",
+      "description": "Scientists are amazed that old data from the 1990s can still reveal something new about Venus."
+    },
+    {
+      "perspective": "Not practical for humans now",
+      "description": "Venus is extremely hot and has crushing air pressure, so humans cannot visit this cave anytime soon. But future missions might study it with robots."
+    },
+    {
+      "perspective": "Lessons for future missions",
+      "description": "The discovery shows the importance of using new techniques on old data, and upcoming missions like VERITAS and EnVision can map even more details."
+    }
+  ],
+  "mined_at": "2026-04-25T16:45:58+00:00",
+  "source_published_at": "Tue, 21 Apr 2026 10:30:00 +0000",
+  "source_name": "Science News Explores",
+  "source_url": "https://www.snexplores.org/article/venus-volcano-lava-tube"
+}

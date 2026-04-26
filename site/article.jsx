@@ -1,5 +1,5 @@
 // Article detail page — News Oh,Ye!
-const { useState: useStateA, useMemo: useMemoA, useEffect: useEffectA, useRef: useRefA } = React;
+const { useState: useStateA, useMemo: useMemoA, useEffect: useEffectA } = React;
 
 // Format an ISO-8601 timestamp as "Apr 24, 2026". Returns "" on bad input
 // so callers can safely conditionally render.
@@ -9,54 +9,6 @@ function formatDate(iso) {
   if (isNaN(d.getTime())) return '';
   return d.toLocaleDateString('en-US', { month:'short', day:'numeric', year:'numeric' });
 }
-
-// ────────────────────────────────────────────────────────────────────────
-// KID STATS — local persistence for the parent dashboard.
-// Three localStorage namespaces, all read by parent.jsx in local mode and
-// mirrored to Supabase by window.kidsync (when a parent is signed in).
-//   ohye_quiz_log_v1     — { 'storyId|level': [{at,picks,correct,total,durationMs}] }
-//   ohye_reactions_v1    — { 'storyId|level': 'love'|'meh'|'thinky'|'dislike' }
-//   ohye_article_time_v1 — { 'storyId|level': totalMs }
-// `level` is the kid's reading level when they did the quiz/reaction
-// (Sprout|Tree); used to keep separate stats if a kid switches levels.
-// ────────────────────────────────────────────────────────────────────────
-const _kidStatsKey = (sid, lvl) => `${sid}|${lvl || ''}`;
-const KidStats = {
-  logQuizAttempt(storyId, level, picks, correct, total, durationMs) {
-    const ss = window.safeStorage; if (!ss) return;
-    const log = ss.getJSON('ohye_quiz_log_v1') || {};
-    const k = _kidStatsKey(storyId, level);
-    const entry = { at: new Date().toISOString(), picks, correct, total, durationMs };
-    log[k] = [...(log[k] || []), entry];
-    ss.setJSON('ohye_quiz_log_v1', log);
-    if (window.kidsync && typeof window.kidsync.recordQuizAttempt === 'function') {
-      window.kidsync.recordQuizAttempt(storyId, level, picks, correct, total, durationMs);
-    }
-  },
-  setReaction(storyId, level, reaction) {
-    const ss = window.safeStorage; if (!ss) return;
-    const r = ss.getJSON('ohye_reactions_v1') || {};
-    r[_kidStatsKey(storyId, level)] = reaction;
-    ss.setJSON('ohye_reactions_v1', r);
-    if (window.kidsync && typeof window.kidsync.recordArticleReaction === 'function') {
-      window.kidsync.recordArticleReaction(storyId, level, reaction);
-    }
-  },
-  getReaction(storyId, level) {
-    const ss = window.safeStorage; if (!ss) return null;
-    const r = ss.getJSON('ohye_reactions_v1') || {};
-    return r[_kidStatsKey(storyId, level)] || null;
-  },
-  addArticleTime(storyId, level, ms) {
-    if (!ms || ms <= 0) return;
-    const ss = window.safeStorage; if (!ss) return;
-    const t = ss.getJSON('ohye_article_time_v1') || {};
-    const k = _kidStatsKey(storyId, level);
-    t[k] = (t[k] || 0) + ms;
-    ss.setJSON('ohye_article_time_v1', t);
-  },
-};
-window.KidStats = KidStats;
 
 function ArticlePage({ articleId, onBack, onComplete, progress, setProgress }) {
   const baseArticle = ARTICLES.find(a => a.id === articleId) || ARTICLES[0];
@@ -172,54 +124,12 @@ function ArticlePage({ articleId, onBack, onComplete, progress, setProgress }) {
       next.minutesToday = (p.minutesToday || 0) + weight;
       return next;
     });
-    // Mirror to cloud (no-op if unavailable). Fire AFTER the state update
-    // call returns — the ref-style guard inside setProgress handles
-    // double-counts; here we only want one event per real step bump.
-    if (window.kidsync && typeof window.kidsync.recordReadingEvent === 'function') {
-      const sid = article.storyId || article.id;
-      window.kidsync.recordReadingEvent(sid, stageId, {
-        category: article.category, level: baseArticle.level,
-        language: baseArticle.language || 'en',
-        minutesAdded: STEP_WEIGHTS[stageId] || 1,
-      });
-      // Also fire a 'finish' event when the kid completes all four stages
-      // — gives the parent dashboard a clean "fully read on this day" count.
-      const cur = (progress && progress.articleProgress && progress.articleProgress[article.id]) || { steps: [] };
-      const willHave = [...(cur.steps || []), stageId];
-      const allDone = STEP_IDS.every(s => willHave.includes(s));
-      if (allDone) {
-        window.kidsync.recordReadingEvent(sid, 'finish', {
-          category: article.category, level: baseArticle.level,
-          language: baseArticle.language || 'en',
-        });
-      }
-    }
   };
   const [expandedKw, setExpandedKw] = useStateA(null);
   const [quizIdx, setQuizIdx] = useStateA(0);
   const [quizAns, setQuizAns] = useStateA([]);
   const [quizShow, setQuizShow] = useStateA(false);
   const [confetti, setConfetti] = useStateA(false);
-
-  // Per-article time tracking. Accumulates ms while the article is "active"
-  // (page mounted + tab visible). Flushes on unmount and on visibilitychange.
-  const _activeStartRef = useRefA(Date.now());
-  useEffectA(() => {
-    _activeStartRef.current = Date.now();
-    const flush = () => {
-      const start = _activeStartRef.current;
-      if (start) {
-        KidStats.addArticleTime(article.storyId || article.id, baseArticle.level, Date.now() - start);
-        _activeStartRef.current = null;
-      }
-    };
-    const onVis = () => {
-      if (document.hidden) flush();
-      else _activeStartRef.current = Date.now();
-    };
-    document.addEventListener('visibilitychange', onVis);
-    return () => { document.removeEventListener('visibilitychange', onVis); flush(); };
-  }, [articleId]);
 
   const stages = [
     { id:'read', label:'Read & Words', emoji:'📖' },
@@ -274,7 +184,7 @@ function ArticlePage({ articleId, onBack, onComplete, progress, setProgress }) {
             display:'inline-flex', alignItems:'center', gap:6,
           }}>← Back</button>
           <div style={{display:'flex', alignItems:'center', gap:10}}>
-            <OhYeLogo size={48}/>
+            <OhYeLogo size={32}/>
             <div style={{fontFamily:'Fraunces, serif', fontWeight:900, fontSize:18, color:'#1b1230'}}>{window.SITE_CONFIG?.brand || '21 minutes every day'}</div>
           </div>
           <div style={{flex:1}}/>
@@ -314,23 +224,7 @@ function ArticlePage({ articleId, onBack, onComplete, progress, setProgress }) {
             <h1 style={{fontFamily:'Fraunces, serif', fontWeight:900, fontSize:40, lineHeight:1.05, color:'#1b1230', margin:'0 0 14px', letterSpacing:'-0.02em'}}>{article.title}</h1>
             <div style={{display:'flex', gap:14, color:'#6b5c80', fontSize:13, fontWeight:700, flexWrap:'wrap', alignItems:'center'}}>
               <span>📰 {article.source}</span><span>·</span>
-              {/* Brand-aligned time pill: positions THIS story inside the
-                  21-min daily ritual instead of just stating its length.
-                  "Story 1 of 3 · 7 min" feels journey-shaped, not transactional. */}
-              {(() => {
-                const total = window.SITE_CONFIG?.storiesPerDay ?? 3;
-                // We don't know which slot this is just from `article` —
-                // best-effort by category + level. For now use article.readMins
-                // and total to show the share of daily budget.
-                return (
-                  <span style={{
-                    background:'var(--twentyone-paper, #fffaf0)',
-                    border:'1.5px solid var(--twentyone-border, #ece2d0)',
-                    padding:'4px 10px', borderRadius:'var(--twentyone-r-pill, 999px)',
-                    color:'var(--twentyone-ink, #1b1230)', fontWeight:800,
-                  }}>⏱ {article.readMins} min · part of your {window.SITE_CONFIG?.dailyGoalMinutes ?? 21}</span>
-                );
-              })()}
+              <span>⏱ {article.readMins} min read</span>
               {article.minedAt && (<>
                 <span>·</span>
                 <span title={`Mined ${article.minedAt}${article.sourcePublishedAt ? ' · source published ' + article.sourcePublishedAt : ''}`}>
@@ -834,28 +728,6 @@ function QuizTab({ article, paragraphs, quizIdx, setQuizIdx, quizAns, setQuizAns
   const correct = quizAns.filter((a,i) => a === article.quiz[i].a).length;
   const catColor = getCatColor(article.category);
 
-  // Track when this attempt started so we can stamp duration_ms on log.
-  // Reset whenever the quiz returns to question 0 with empty answers
-  // (covers both first entry and the "Try again" path).
-  const _quizStartRef = useRefA(Date.now());
-  useEffectA(() => {
-    if (quizIdx === 0 && quizAns.length === 0) _quizStartRef.current = Date.now();
-  }, [quizIdx, quizAns.length]);
-  // Persist this attempt the moment the quiz fills up (idempotent — guarded
-  // by a ref so re-renders of the done screen don't double-write).
-  const _logged = useRefA(false);
-  useEffectA(() => {
-    if (done && !_logged.current) {
-      _logged.current = true;
-      KidStats.logQuizAttempt(
-        article.storyId || article.id, article.level,
-        quizAns, correct, article.quiz.length,
-        Date.now() - (_quizStartRef.current || Date.now())
-      );
-    }
-    if (!done) _logged.current = false;
-  }, [done]);
-
   if (done) {
     return (
       <div style={{background:'#fff', borderRadius:22, padding:'44px', border:'2px solid #f0e8d8', textAlign:'center', maxWidth:560, margin:'0 auto'}}>
@@ -1048,20 +920,7 @@ function DiscussTab({ article, paragraphs, onDone }) {
   useEffectA(() => {
     if (!ss) return;
     ss.setJSON(draftKey, { rounds, currentDraft, savedFinal });
-    if (window.kidsync && typeof window.kidsync.upsertDiscussion === 'function') {
-      window.kidsync.upsertDiscussion(article.storyId || article.id, article.level, rounds, savedFinal);
-    }
   }, [rounds, currentDraft, savedFinal]);
-
-  // Reaction state (one per story|level). Read once on mount; writes go
-  // through KidStats so the parent dashboard sees them.
-  const [reaction, setReaction] = useStateA(() =>
-    KidStats.getReaction(article.storyId || article.id, article.level)
-  );
-  const pickReaction = (r) => {
-    setReaction(r);
-    KidStats.setReaction(article.storyId || article.id, article.level, r);
-  };
 
   const wordCount = countWords(currentDraft);
   const meetsMin = wordCount >= MIN_WORDS;
@@ -1201,32 +1060,6 @@ function DiscussTab({ article, paragraphs, onDone }) {
               <p style={{fontSize:14.5, lineHeight:1.6, color:'#1b1230', margin:0, whiteSpace:'pre-wrap'}}>{currentDraft}</p>
               <div style={{fontSize:10, color:'#9a8d7a', marginTop:8, fontWeight:600}}>
                 {countWords(currentDraft)} words · {rounds.length} round{rounds.length === 1 ? '' : 's'} of coaching
-              </div>
-            </div>
-            {/* Reaction picker — kid taps once to record how the story
-                landed. Surfaces in the parent dashboard. */}
-            <div style={{background:'#fff', border:'2px solid #c8ebe3', borderRadius:14, padding:'12px 14px', marginBottom:12}}>
-              <div style={{fontSize:12, fontWeight:800, color:'#0e8d82', textTransform:'uppercase', letterSpacing:'.06em', marginBottom:8}}>
-                How did this story make you feel?
-              </div>
-              <div style={{display:'flex', gap:8, flexWrap:'wrap'}}>
-                {[
-                  { id:'love',    emoji:'💖', label:'Loved it' },
-                  { id:'thinky',  emoji:'🤔', label:'Made me think' },
-                  { id:'meh',     emoji:'😐', label:'It was okay' },
-                  { id:'dislike', emoji:'👎', label:"Didn't like it" },
-                ].map(r => (
-                  <button key={r.id} onClick={()=>pickReaction(r.id)} style={{
-                    background: reaction === r.id ? '#17b3a6' : '#fff',
-                    color: reaction === r.id ? '#fff' : '#1b1230',
-                    border:`2px solid ${reaction === r.id ? '#17b3a6' : '#f0e8d8'}`,
-                    borderRadius:999, padding:'7px 14px', cursor:'pointer',
-                    fontFamily:'Nunito, sans-serif', fontWeight:800, fontSize:13,
-                    display:'inline-flex', alignItems:'center', gap:6,
-                  }}>
-                    <span style={{fontSize:16}}>{r.emoji}</span>{r.label}
-                  </button>
-                ))}
               </div>
             </div>
             <div style={{display:'flex', gap:10, flexWrap:'wrap'}}>

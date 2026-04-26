@@ -1,34 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-04-24-news-1",
-      "title": "Betting on Yourself: Three Congressional Candidates Fined for Wagering on Their Own Elections",
-      "summary": "Imagine being so sure you'd win an election that you bet money on yourself. That's exactly what three congressional candidates did on a prediction market called Kalshi. But Kalshi has a rule: candidates can't bet on themselves. When the company found out, it fined and suspended Mark Moran, Ezekiel Enriquez, and Matt Klein for five years. Moran, running for Senate in Virginia, bet $100 and bragged online, so he got the biggest fine: over $6,200. Klein and Enriquez each bet under $100 and paid smaller fines. Some politicians, like Rep. Mike Levin, say the penalties are too weak — just 'a parking ticket.' The fines came from the company, not the government agency that oversees prediction markets. Klein admitted his…",
+      "id": "2026-04-25-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Thu, 23 Apr 2026 19:05:03 -0400",
-      "image_url": "/article_images/article_e70859ec15f4.webp",
+      "time_ago": "Sat, 25 Apr 2026 11:40:10 -0400",
+      "mined_at": "2026-04-25T16:45:58+00:00",
+      "source_published_at": "Sat, 25 Apr 2026 11:40:10 -0400",
+      "image_url": "/article_images/article_526198867c7a.webp",
       "category": "News",
-      "mined_at": "2026-04-24T01:01:41.723732+00:00"
+      "title": "After 20 Years, Gaza Votes — But Just One City, and It's Complicated",
+      "summary": "For the first time in over 20 years, Palestinians in Gaza cast ballots — but only in one city. On April 25, more than 70,000 people in Deir al-Balah voted for their municipal council. The election is a symbolic \"pilot\" to reconnect Gaza with the West Bank. Voters, frustrated by the lack of public services after the war, said they wanted a say in rebuilding. But the vote faced obstacles: Israel blocked election materials, so officials used wooden boxes and leftover vaccine ink. The election also highlights tensions between Fatah and Hamas, and many Palestinians are skeptical about real change."
     },
     {
-      "id": "2026-04-24-news-2",
-      "title": "Mind Over Washington: Mentalist Oz Pearlman to Stun Trump and Reporters at White House Dinner",
-      "summary": "Imagine being able to read someone's mind — even the president's! That's what mentalist Oz Pearlman will try to do at the White House Correspondents' Dinner this Saturday. Instead of a comedian, the 43-year-old performer will take the stage to wow President Donald Trump and hundreds of reporters. Pearlman is famous for guessing secret words and PIN numbers, a trick called mentalism. He got his big break on America's Got Talent in 2015. Pearlman has been planning one amazing moment for 10 years, and he hopes to bring everyone together. Even though experts say it's not real mind-reading, the show promises to be unforgettable. Will he actually read Trump's mind? We'll find out Saturday night!",
+      "id": "2026-04-25-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Sat, 25 Apr 2026 12:25:07 -0400",
+      "mined_at": "2026-04-25T16:45:58+00:00",
+      "source_published_at": "Sat, 25 Apr 2026 12:25:07 -0400",
+      "image_url": "/article_images/article_9bc5cb2bff4f.webp",
+      "category": "News",
+      "title": "The U.S. Navy Is Sweeping for Mines in the Strait of Hormuz — But It Could Take Months",
+      "summary": "The Strait of Hormuz, a narrow waterway where 20% of the world's oil passes, is now a minefield — or at least, everyone fears it is. President Trump says the U.S. Navy is clearing Iranian mines, but experts warn it could take six months or more. The mines are hard to detect, and even if the Navy declares the strait safe, commercial shippers may not trust that. Iran has only hinted at mines, but the psychological effect is powerful. The operation is risky and could have huge economic consequences."
+    },
+    {
+      "id": "2026-04-25-news-3",
       "source": "NPR World",
-      "time_ago": "Thu, 23 Apr 2026 12:46:53 -0400",
-      "image_url": "/article_images/article_c9fd806dc459.webp",
+      "time_ago": "Sat, 25 Apr 2026 05:00:00 -0400",
+      "mined_at": "2026-04-25T16:45:58+00:00",
+      "source_published_at": "Sat, 25 Apr 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_2144690f4154.webp",
       "category": "News",
-      "mined_at": "2026-04-24T01:01:42.087792+00:00"
-    },
-    {
-      "id": "2026-04-24-news-3",
-      "title": "Iranian Leaders Unite to Reject Trump's Claims of a Rift: 'We Are One Soul, One Nation'",
-      "summary": "Imagine a country where everyone is saying the exact same thing at the exact same time — that's what happened in Iran this week. President Trump claimed Iran's leaders were fighting each other, but they proved him wrong. Iran's president, foreign minister, and parliament speaker all posted the same message on X: 'We are one soul, one nation.' This show of unity comes after a huge event — Iran's former Supreme Leader was killed in U.S.-Israeli strikes on February 28. Now, the U.S. has blocked Iranian ports, and Iran closed the Strait of Hormuz, a key waterway for oil. Oil prices are going up as a result. Trump warned he would 'shoot and kill' anyone laying mines in the strait.…",
-      "source": "Al Jazeera",
-      "time_ago": "Thu, 23 Apr 2026 20:26:13 +0000",
-      "image_url": "/article_images/article_23d2604d763b.webp",
-      "category": "News",
-      "mined_at": "2026-04-24T01:01:42.32737+00:00"
+      "title": "Justice Department Wants to Shield Its Lawyers from State Ethics Probes — Critics Cry Foul",
+      "summary": "The U.S. Justice Department is proposing a rule that would let the attorney general delay or sideline state bar investigations into federal prosecutors. The DOJ argues that political activists are \"weaponizing\" bar complaints to chill zealous advocacy. But critics, including legal ethics experts and former prosecutors, say the move would undermine one of the last independent checks on government lawyers. They also argue it violates the 1998 McDade-Murtha Amendment, which requires federal prosecutors to follow state ethics rules. The rule could face legal challenges if finalized."
     }
   ]
 }
