@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-04-26-science-1",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Sun, 26 Apr 2026 06:53:10 EDT",
-      "mined_at": "2026-04-26T17:28:48+00:00",
-      "source_published_at": "Sun, 26 Apr 2026 06:53:10 EDT",
-      "image_url": "/article_images/article_d63905193391.webp",
+      "id": "2026-04-27-science-1",
+      "source": "ScienceDaily All",
+      "time_ago": "Mon, 27 Apr 2026 04:31:43 EDT",
+      "mined_at": "2026-04-27T14:19:47+00:00",
+      "source_published_at": "Mon, 27 Apr 2026 04:31:43 EDT",
+      "image_url": "/article_images/article_c83988b3b86a.webp",
       "category": "Science",
-      "title": "Your Family Tree Is Actually a Tangled Web: DNA Rewrites Human Origins",
-      "summary": "A new DNA study shows early humans didn't come from one group but from many connected populations across Africa. The Nama people's genes reveal a network-like origin that changes how we see evolution."
+      "title": "Your Brain's Hidden 'Third Eye' Is a 600-Million-Year-Old Relic",
+      "summary": "New research reveals that all vertebrates evolved from a worm-like ancestor with a single median eye. That eye's remnant lives on as the pineal gland in your brain."
     },
     {
-      "id": "2026-04-26-science-2",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Sun, 26 Apr 2026 07:44:57 EDT",
-      "mined_at": "2026-04-26T17:28:48+00:00",
-      "source_published_at": "Sun, 26 Apr 2026 07:44:57 EDT",
-      "image_url": "/article_images/article_a2a3ba038f74.webp",
+      "id": "2026-04-27-science-2",
+      "source": "snai",
+      "time_ago": "Thu, 12 Mar 2026 05:00:00 +0000",
+      "mined_at": "2026-04-27T14:19:47+00:00",
+      "source_published_at": "Thu, 12 Mar 2026 05:00:00 +0000",
+      "image_url": "/article_images/article_5af7564b4cce.webp",
       "category": "Science",
-      "title": "Inside a T. Rex Bone: Blood Vessels That Survived 66 Million Years",
-      "summary": "Using synchrotron imaging, scientists found preserved blood vessels inside Scotty the T. rex's broken rib. The vessels reveal how the dinosaur healed from a serious injury—and could change how we study fossils."
+      "title": "Chatbots Are Giving Teens Dangerous Diet Advice, Study Finds",
+      "summary": "When prompted for weight-loss meal plans for teens, five popular AI chatbots consistently produced plans that were about 695 calories too low and nutritionally imbalanced, according to a new study in Frontiers in Nutrition."
     },
     {
-      "id": "2026-04-26-science-3",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Fri, 24 Apr 2026 10:02:52 EDT",
-      "mined_at": "2026-04-26T17:28:48+00:00",
-      "source_published_at": "Fri, 24 Apr 2026 10:02:52 EDT",
-      "image_url": "/article_images/article_d8da0ec70551.webp",
+      "id": "2026-04-27-science-3",
+      "source": "snai",
+      "time_ago": "Tue, 14 Apr 2026 08:01:00 +0000",
+      "mined_at": "2026-04-27T14:19:47+00:00",
+      "source_published_at": "Tue, 14 Apr 2026 08:01:00 +0000",
+      "image_url": "/article_images/article_f4fa3ed1331f.webp",
       "category": "Science",
-      "title": "A Cosmic First? Astronomers Spot a Possible 'Superkilonova'",
-      "summary": "A mysterious explosion called AT2025ulz may be a kilonova hidden inside a supernova—a 'superkilonova.' If confirmed, it would be the first observation of this long-predicted event and could reveal how tiny neutron stars form."
+      "title": "When Should You Use AI? New Study Says Timing Is Everything for Critical Thinking",
+      "summary": "People who used an AI chatbot only after partially working through a problem showed better critical thinking than those who used it from the start, unless they were under severe time pressure, a study presented at the 2026 CHI conference found."
     }
   ]
 }

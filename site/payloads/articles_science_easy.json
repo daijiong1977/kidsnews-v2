@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-04-26-science-1",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Sun, 26 Apr 2026 06:53:10 EDT",
-      "mined_at": "2026-04-26T17:28:48+00:00",
-      "source_published_at": "Sun, 26 Apr 2026 06:53:10 EDT",
-      "image_url": "/article_images/article_d63905193391.webp",
+      "id": "2026-04-27-science-1",
+      "source": "ScienceDaily All",
+      "time_ago": "Mon, 27 Apr 2026 04:31:43 EDT",
+      "mined_at": "2026-04-27T14:19:47+00:00",
+      "source_published_at": "Mon, 27 Apr 2026 04:31:43 EDT",
+      "image_url": "/article_images/article_c83988b3b86a.webp",
       "category": "Science",
-      "title": "Humans Didn't Come From Just One Place—Here's the New Story",
-      "summary": "Scientists found that early humans mixed across Africa for hundreds of thousands of years. A new DNA study from the Nama people shows our family tree is more like a tangled web."
+      "title": "Did You Know Your Brain Has a Secret Third Eye?",
+      "summary": "Scientists discovered that all vertebrates, including humans, came from an ancient one-eyed ancestor. That single eye turned into the pineal gland deep in your brain!"
     },
     {
-      "id": "2026-04-26-science-2",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Sun, 26 Apr 2026 07:44:57 EDT",
-      "mined_at": "2026-04-26T17:28:48+00:00",
-      "source_published_at": "Sun, 26 Apr 2026 07:44:57 EDT",
-      "image_url": "/article_images/article_a2a3ba038f74.webp",
+      "id": "2026-04-27-science-2",
+      "source": "snai",
+      "time_ago": "Thu, 12 Mar 2026 05:00:00 +0000",
+      "mined_at": "2026-04-27T14:19:47+00:00",
+      "source_published_at": "Thu, 12 Mar 2026 05:00:00 +0000",
+      "image_url": "/article_images/article_5af7564b4cce.webp",
       "category": "Science",
-      "title": "T. Rex Bones Still Have Blood Vessels—And They Tell a Story",
-      "summary": "Scientists found preserved blood vessels inside a T. rex rib. The dinosaur, named Scotty, had a broken rib that was healing, and the blood vessels show how it survived."
+      "title": "Are AI Chatbots Telling Teens to Eat Way Too Little?",
+      "summary": "A new study found that AI chatbots created meal plans for teens that were way too low in calories—almost a whole meal's worth less than a dietitian's plan. That could be dangerous for growing kids."
     },
     {
-      "id": "2026-04-26-science-3",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Fri, 24 Apr 2026 10:02:52 EDT",
-      "mined_at": "2026-04-26T17:28:48+00:00",
-      "source_published_at": "Fri, 24 Apr 2026 10:02:52 EDT",
-      "image_url": "/article_images/article_d8da0ec70551.webp",
+      "id": "2026-04-27-science-3",
+      "source": "snai",
+      "time_ago": "Tue, 14 Apr 2026 08:01:00 +0000",
+      "mined_at": "2026-04-27T14:19:47+00:00",
+      "source_published_at": "Tue, 14 Apr 2026 08:01:00 +0000",
+      "image_url": "/article_images/article_f4fa3ed1331f.webp",
       "category": "Science",
-      "title": "Astronomers May Have Found a Brand New Kind of Space Explosion",
-      "summary": "A weird cosmic event called AT2025ulz might be a 'superkilonova'—a collision of two tiny neutron stars inside a supernova. It could explain how gold and other heavy elements are made."
+      "title": "Want to Think Better? Don't Ask AI for Help Right Away!",
+      "summary": "A study found that people who tried solving a problem on their own before using an AI chatbot did better at critical thinking. But if you're in a rush, using AI early can help you finish faster."
     }
   ]
 }

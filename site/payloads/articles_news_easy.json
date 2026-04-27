@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-04-26-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Sun, 26 Apr 2026 11:40:42 -0400",
-      "mined_at": "2026-04-26T17:28:48+00:00",
-      "source_published_at": "Sun, 26 Apr 2026 11:40:42 -0400",
-      "image_url": "/article_images/article_50dc813e6ee4.webp",
+      "id": "2026-04-27-news-1",
+      "source": "Variety",
+      "time_ago": "Mon, 27 Apr 2026 13:30:00 +0000",
+      "mined_at": "2026-04-27T14:19:47+00:00",
+      "source_published_at": "Mon, 27 Apr 2026 13:30:00 +0000",
+      "image_url": "/article_images/article_af83a0c36862.webp",
       "category": "News",
-      "title": "President Trump Calls for Unity After Another Scary Incident",
-      "summary": "After a man tried to rush past security at a hotel, President Trump asked Americans to come together. He said politics has become too violent."
+      "title": "Get Ready to Laugh: Comedian Matt Buechele's New Podcast Drops May 1!",
+      "summary": "Have you ever laughed so hard you cried? Comedian Matt Buechele, known for his funny videos about life, is launching a new podcast called 'That Sounds Like a Lot.' It starts May 1 with guest Zach Zimmerman."
     },
     {
-      "id": "2026-04-26-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Sun, 26 Apr 2026 12:55:22 -0400",
-      "mined_at": "2026-04-26T17:28:48+00:00",
-      "source_published_at": "Sun, 26 Apr 2026 12:55:22 -0400",
-      "image_url": "/article_images/article_3a044c6d639e.webp",
+      "id": "2026-04-27-news-2",
+      "source": "NPR World",
+      "time_ago": "Mon, 27 Apr 2026 05:00:00 -0400",
+      "mined_at": "2026-04-27T14:19:47+00:00",
+      "source_published_at": "Mon, 27 Apr 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_54cbc014b3ea.webp",
       "category": "News",
-      "title": "The World's Biggest Art Heist: Still a Mystery After 36 Years",
-      "summary": "In 1990, thieves stole 13 famous paintings from a Boston museum. The art is worth over $500 million, and no one has found it yet."
+      "title": "Wait, Teachers Are Actually Earning LESS Now? Here's Why",
+      "summary": "You might think a pay raise means more money, but for U.S. teachers, inflation is eating it all up. A new report says the average teacher salary is $74,495, but after adjusting for rising prices, they're earning less than in 2017."
     },
     {
-      "id": "2026-04-26-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Sun, 26 Apr 2026 17:00:10 +0000",
-      "mined_at": "2026-04-26T17:28:48+00:00",
-      "source_published_at": "Sun, 26 Apr 2026 17:00:10 +0000",
-      "image_url": "/article_images/article_e8635afa4dcd.webp",
+      "id": "2026-04-27-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Sun, 26 Apr 2026 15:59:23 -0400",
+      "mined_at": "2026-04-27T14:19:47+00:00",
+      "source_published_at": "Sun, 26 Apr 2026 15:59:23 -0400",
+      "image_url": "/article_images/article_210f4b3c2bdb.webp",
       "category": "News",
-      "title": "Iran Makes Big Changes to Help People Buy Food During War",
-      "summary": "Iran is giving cheap money to buy food and medicine after a war with the US and Israel. People are struggling to afford basic things."
+      "title": "A Tiny Election in Gaza Just Made Big News—Here's Why",
+      "summary": "For the first time in over 20 years, part of Gaza held an election. It happened in Deir al-Balah, a community spared from ground invasion. Only 23% of people voted, but officials call it a step toward future presidential elections."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-04-26-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Sun, 26 Apr 2026 11:40:42 -0400",
-      "mined_at": "2026-04-26T17:28:48+00:00",
-      "source_published_at": "Sun, 26 Apr 2026 11:40:42 -0400",
-      "image_url": "/article_images/article_50dc813e6ee4.webp",
+      "id": "2026-04-27-news-1",
+      "source": "Variety",
+      "time_ago": "Mon, 27 Apr 2026 13:30:00 +0000",
+      "mined_at": "2026-04-27T14:19:47+00:00",
+      "source_published_at": "Mon, 27 Apr 2026 13:30:00 +0000",
+      "image_url": "/article_images/article_af83a0c36862.webp",
       "category": "News",
-      "title": "After Third Attempt on His Life, Trump Calls for Unity—But Will It Last?",
-      "summary": "Following a security breach at a Washington hotel, President Trump urged Americans to unite. But his history suggests the call for healing may be short-lived."
+      "title": "Comedian Matt Buechele's New Podcast Promises Laughs, Absurdity, and Sharp Takes on Modern Life",
+      "summary": "What do you get when a viral comedian with nearly 1 million followers launches a weekly video podcast? 'That Sounds Like a Lot,' premiering May 1 with guest Zach Zimmerman. Matt Buechele's new show will unpack culture, politics, and the 'increasingly strange rhythms of modern life.'"
     },
     {
-      "id": "2026-04-26-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Sun, 26 Apr 2026 12:55:22 -0400",
-      "mined_at": "2026-04-26T17:28:48+00:00",
-      "source_published_at": "Sun, 26 Apr 2026 12:55:22 -0400",
-      "image_url": "/article_images/article_3a044c6d639e.webp",
+      "id": "2026-04-27-news-2",
+      "source": "NPR World",
+      "time_ago": "Mon, 27 Apr 2026 05:00:00 -0400",
+      "mined_at": "2026-04-27T14:19:47+00:00",
+      "source_published_at": "Mon, 27 Apr 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_54cbc014b3ea.webp",
       "category": "News",
-      "title": "Inside the World's Largest Art Heist: New Book Reveals Suspects in 1990 Gardner Museum Theft",
-      "summary": "A former FBI agent's new book names suspects in the $500 million Gardner Museum heist. The 1990 theft remains unsolved, but new details emerge."
+      "title": "Inflation Is Erasing Teacher Pay Raises, Leaving Educators Earning Less Than a Decade Ago",
+      "summary": "A 3.5% raise sounds good, right? Not when inflation is factored in. A new NEA report reveals that U.S. public school teachers have seen their real earnings drop by nearly 5% since 2017, despite average salaries rising to $74,495."
     },
     {
-      "id": "2026-04-26-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Sun, 26 Apr 2026 17:00:10 +0000",
-      "mined_at": "2026-04-26T17:28:48+00:00",
-      "source_published_at": "Sun, 26 Apr 2026 17:00:10 +0000",
-      "image_url": "/article_images/article_e8635afa4dcd.webp",
+      "id": "2026-04-27-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Sun, 26 Apr 2026 15:59:23 -0400",
+      "mined_at": "2026-04-27T14:19:47+00:00",
+      "source_published_at": "Sun, 26 Apr 2026 15:59:23 -0400",
+      "image_url": "/article_images/article_210f4b3c2bdb.webp",
       "category": "News",
-      "title": "Iran Shifts Economic Policy to Ensure Food and Medicine Amid War Uncertainty",
-      "summary": "Iran reintroduces a cheap currency rate for essentials and taps its sovereign fund to buy food after US-Israeli attacks. Prices are soaring."
+      "title": "In War-Torn Gaza, a Local Election Offers a Glimmer of Political Hope",
+      "summary": "Amid devastation and displacement, Deir al-Balah in central Gaza held its first election in over 20 years. Turnout was just 23%, but Palestinian officials call it a crucial step toward long-delayed presidential elections and eventual statehood."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-04-26-fun-1",
-      "source": "BBC Tennis",
-      "time_ago": "Sat, 25 Apr 2026 16:59:21 GMT",
-      "mined_at": "2026-04-26T17:28:48+00:00",
-      "source_published_at": "Sat, 25 Apr 2026 16:59:21 GMT",
-      "image_url": "/article_images/article_e1c832b47680.webp",
+      "id": "2026-04-27-fun-1",
+      "source": "Popular Mechanics",
+      "time_ago": "Mon, 27 Apr 2026 13:24:35 +0000",
+      "mined_at": "2026-04-27T14:19:47+00:00",
+      "source_published_at": "Mon, 27 Apr 2026 13:24:35 +0000",
+      "image_url": "/article_images/article_e3a9b2f3c8a3.webp",
       "category": "Fun",
-      "title": "Boulter and Venus Williams: An Unlikely Doubles Duo in Madrid",
-      "summary": "Katie Boulter called Venus Williams an 'absolute icon' after they won their first doubles match together at the Madrid Open. The 45-year-old legend is on a losing streak, but this win brought back the magic."
+      "title": "A Blood Type Rarer Than 'Golden Blood'? Meet B(A), Found in Just Three Humans",
+      "summary": "A Thai hospital's routine blood testing uncovered a genetic anomaly: a blood type called B(A) that only three people worldwide are known to carry. It's mostly B but has trace A antigens, and researchers are hunting for a fourth carrier."
     },
     {
-      "id": "2026-04-26-fun-2",
-      "source": "BBC Tennis",
-      "time_ago": "Fri, 24 Apr 2026 17:30:43 GMT",
-      "mined_at": "2026-04-26T17:28:48+00:00",
-      "source_published_at": "Fri, 24 Apr 2026 17:30:43 GMT",
-      "image_url": "/article_images/article_7bd0c92d0fe4.webp",
+      "id": "2026-04-27-fun-2",
+      "source": "Popular Mechanics",
+      "time_ago": "Mon, 27 Apr 2026 13:10:56 +0000",
+      "mined_at": "2026-04-27T14:19:47+00:00",
+      "source_published_at": "Mon, 27 Apr 2026 13:10:56 +0000",
+      "image_url": "/article_images/article_3e9bc50c0378.webp",
       "category": "Fun",
-      "title": "Alcaraz Out of French Open: Wrist Injury Sidelines Two-Time Champion",
-      "summary": "Two-time defending champion Carlos Alcaraz will miss the French Open due to a right wrist injury. The 22-year-old also withdrew from the Italian Open, opening the door for rival Jannik Sinner to complete his career Grand Slam."
+      "title": "A 2,000-Year-Old Crime Scene: Fingerprint in Tar Could Unmask Ancient Raiders",
+      "summary": "On Scandinavia's oldest plank boat, a partial fingerprint pressed into pine pitch may reveal where seaborne raiders came from when they attacked a Danish island in the 4th century B.C.E. New analysis points to the Baltic Sea, not Germany."
     },
     {
-      "id": "2026-04-26-fun-3",
-      "source": "BBC Tennis",
-      "time_ago": "Sun, 26 Apr 2026 13:53:01 GMT",
-      "mined_at": "2026-04-26T17:28:48+00:00",
-      "source_published_at": "Sun, 26 Apr 2026 13:53:01 GMT",
-      "image_url": "/article_images/article_257fa4646037.webp",
+      "id": "2026-04-27-fun-3",
+      "source": "Popular Mechanics",
+      "time_ago": "Mon, 27 Apr 2026 12:30:00 +0000",
+      "mined_at": "2026-04-27T14:19:47+00:00",
+      "source_published_at": "Mon, 27 Apr 2026 12:30:00 +0000",
+      "image_url": "/article_images/article_75762c4c4389.webp",
       "category": "Fun",
-      "title": "Gauff Battles Through Stomach Virus to Win in Madrid",
-      "summary": "Coco Gauff vomited into a bin during her match but still came back to beat Sorana Cirstea 4-6, 7-5, 6-1. She's the latest player hit by a virus sweeping through the Madrid Open."
+      "title": "The Quantum Twin Paradox: Scientists Will Use Atomic Clocks to Test If Time Flows at Two Speeds at Once",
+      "summary": "Physicists propose using ultraprecise trapped-ion clocks to test whether time can exist in quantum superposition—flowing fast and slow simultaneously. The experiment could reveal hidden quantum signatures of time-flow, challenging classical physics."
     }
   ]
 }
