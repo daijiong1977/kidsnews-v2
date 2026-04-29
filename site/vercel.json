@@ -1,10 +1,8 @@
 {
+  "cleanUrls": true,
   "trailingSlash": false,
   "rewrites": [
     { "source": "/archive/:path*", "destination": "/" }
-  ],
-  "redirects": [
-    { "source": "/test-rewrite", "destination": "https://example.com", "permanent": false }
   ],
   "headers": [
     {
