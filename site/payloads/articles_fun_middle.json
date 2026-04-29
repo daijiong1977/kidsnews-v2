@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-04-29-fun-1",
-      "source": "Variety",
-      "time_ago": "Wed, 29 Apr 2026 00:05:00 +0000",
-      "mined_at": "2026-04-29T02:38:55+00:00",
-      "source_published_at": "Wed, 29 Apr 2026 00:05:00 +0000",
-      "image_url": "/article_images/article_10337ef78455.webp",
-      "category": "Fun",
-      "title": "From Jedi Finales to ElClásico: Disney+ Unleashes a May Lineup That Has It All",
-      "summary": "Disney+ is stacking May with must-see moments: the 'Star Wars: Maul' finale, a new 'Daredevil' season, and live sports including the PGA Championship and the legendary Barcelona vs. Real Madrid clash."
-    },
-    {
-      "id": "2026-04-29-fun-2",
-      "source": "Wired Gear",
-      "time_ago": "Tue, 28 Apr 2026 13:00:00 +0000",
-      "mined_at": "2026-04-29T02:38:55+00:00",
-      "source_published_at": "Tue, 28 Apr 2026 13:00:00 +0000",
-      "image_url": "/article_images/article_b907ec49ad90.webp",
-      "category": "Fun",
-      "title": "Brain-Scanning Headphones Are Coming—and They Want to Boost Your Focus",
-      "summary": "Neurable's EEG-enabled headphones, which monitor focus and suggest 'brain breaks,' are moving beyond a single product. Through a new licensing model, the tech could soon appear in gaming headsets, smart glasses, and more."
-    },
-    {
-      "id": "2026-04-29-fun-3",
       "source": "BBC Tennis",
       "time_ago": "Tue, 28 Apr 2026 13:20:21 GMT",
-      "mined_at": "2026-04-29T02:38:55+00:00",
+      "mined_at": "2026-04-29T12:25:43+00:00",
       "source_published_at": "Tue, 28 Apr 2026 13:20:21 GMT",
       "image_url": "/article_images/article_c35bdfaa3d4c.webp",
       "category": "Fun",
-      "title": "Sinner's Streak Hits 20: He Matches a Djokovic Record and Eyes Madrid Glory",
-      "summary": "Jannik Sinner extended his winning streak to 20 matches with a straight-set victory over Cameron Norrie in Madrid, becoming only the second man to start a season 20-0 at Masters 1000 events—a feat previously achieved only by Novak Djokovic."
+      "title": "Sinner Ties Djokovic's Record with 20th Straight Masters Win—and He's Not Done Yet",
+      "summary": "Jannik Sinner cruised past Cameron Norrie at the Madrid Open, notching his 20th consecutive Masters 1000 victory. He equals Novak Djokovic's record for the best season start at this level. Next up: a quarter-final clash with either Kopriva or teenage wildcard Jodar."
+    },
+    {
+      "id": "2026-04-29-fun-2",
+      "source": "SwimSwam",
+      "time_ago": "Tue, 28 Apr 2026 23:00:34 +0000",
+      "mined_at": "2026-04-29T12:25:43+00:00",
+      "source_published_at": "Tue, 28 Apr 2026 23:00:34 +0000",
+      "image_url": "/article_images/article_d4490be17127.webp",
+      "category": "Fun",
+      "title": "From Cal to UVA: Teagan O'Dell's Transfer Shakes Up NCAA Swimming",
+      "summary": "Freshman phenom Teagan O'Dell is transferring from Cal to Virginia, bringing her 46 NCAA points and three 'A' final appearances to the six-time defending champions. Her move could tip the scales in the Cavaliers' quest for a seventh straight title."
+    },
+    {
+      "id": "2026-04-29-fun-3",
+      "source": "Wired Gear",
+      "time_ago": "Wed, 29 Apr 2026 11:00:00 +0000",
+      "mined_at": "2026-04-29T12:25:43+00:00",
+      "source_published_at": "Wed, 29 Apr 2026 11:00:00 +0000",
+      "image_url": "/article_images/article_a1594fcd9b54.webp",
+      "category": "Fun",
+      "title": "Adidas's $500 Super Shoe: Featherlight Tech That Crushed a Marathon Record",
+      "summary": "The Adizero Adios Pro Evo 3, weighing under 100 grams, helped Sabastian Sawe break the two-hour marathon barrier. With a new foam and carbon-fiber rim, it's built for elite speed—but its $500 price tag and limited availability raise the question: is it worth it for the rest of us?"
     }
   ]
 }

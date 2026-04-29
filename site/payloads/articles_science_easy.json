@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-04-29-science-1",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Tue, 28 Apr 2026 04:55:49 EDT",
-      "mined_at": "2026-04-29T02:38:55+00:00",
-      "source_published_at": "Tue, 28 Apr 2026 04:55:49 EDT",
-      "image_url": "/article_images/article_ae2da0aa6421.webp",
+      "source": "ScienceDaily All",
+      "time_ago": "Wed, 29 Apr 2026 04:05:18 EDT",
+      "mined_at": "2026-04-29T12:25:43+00:00",
+      "source_published_at": "Wed, 29 Apr 2026 04:05:18 EDT",
+      "image_url": "/article_images/article_c75087abe84b.webp",
       "category": "Science",
-      "title": "Curiosity Rover Sniffs Out DNA-Like Molecule on Mars!",
-      "summary": "NASA’s Curiosity rover found a molecule on Mars that looks like a piece of DNA—something never seen before on the Red Planet. The rover also found other organic chemicals in 3.5-billion-year-old clay. Scientists can’t yet tell if these came from ancient life or from space rocks."
+      "title": "This Supernova Showed Up Five Times — and It Could Solve a Giant Space Mystery",
+      "summary": "A supernova 10 billion light-years away appears as five dots in the sky, thanks to gravity bending its light. Scientists are using this rare cosmic trick to measure how fast the universe is growing. They call it SN Winny."
     },
     {
       "id": "2026-04-29-science-2",
-      "source": "ScienceDaily All",
-      "time_ago": "Tue, 28 Apr 2026 09:35:37 EDT",
-      "mined_at": "2026-04-29T02:38:55+00:00",
-      "source_published_at": "Tue, 28 Apr 2026 09:35:37 EDT",
-      "image_url": "/article_images/article_f72378b32687.webp",
+      "source": "MIT Tech Review",
+      "time_ago": "Wed, 29 Apr 2026 08:00:00 +0000",
+      "mined_at": "2026-04-29T12:25:43+00:00",
+      "source_published_at": "Wed, 29 Apr 2026 08:00:00 +0000",
+      "image_url": "/article_images/article_65f1ee83573c.webp",
       "category": "Science",
-      "title": "Antimatter Acts Like a Wave—Scientists Just Proved It!",
-      "summary": "For the first time, scientists have seen antimatter behave like a wave. They shot a beam of positronium—a tiny “atom” made of an electron and its antimatter twin—through a sheet of graphene and got a wavy interference pattern. This proves that even exotic particles follow the weird rules of quantum physics."
+      "title": "Nuclear Power Is Making a Comeback — But Where Does All the Waste Go?",
+      "summary": "The U.S. makes 2,000 tons of nuclear waste every year, but there's still no permanent place to store it. Finland is about to open the world's first deep underground storage site. Experts say it's time for other countries to catch up."
     },
     {
       "id": "2026-04-29-science-3",
       "source": "snai",
-      "time_ago": "Tue, 21 Apr 2026 13:00:00 +0000",
-      "mined_at": "2026-04-29T02:38:55+00:00",
-      "source_published_at": "Tue, 21 Apr 2026 13:00:00 +0000",
-      "image_url": "/article_images/article_d9fa7e0a9878.webp",
+      "time_ago": "Tue, 14 Apr 2026 08:01:00 +0000",
+      "mined_at": "2026-04-29T12:25:43+00:00",
+      "source_published_at": "Tue, 14 Apr 2026 08:01:00 +0000",
+      "image_url": "/article_images/article_f4fa3ed1331f.webp",
       "category": "Science",
-      "title": "How a Computer Program Called Lean Is Changing Math Forever",
-      "summary": "A new book tells the story of Lean, a computer program that can check math proofs for mistakes. Once a tool for software, Lean is now used by thousands of mathematicians and AI researchers. It even helped an AI score a silver medal at the 2024 Math Olympiad!"
+      "title": "Want to Think Better? Don't Ask AI for Help Right Away",
+      "summary": "A study found that people who tried solving a problem on their own before using an AI chatbot scored higher on critical thinking. But when time was short, using AI early helped. It's all about when you ask for help."
     }
   ]
 }
