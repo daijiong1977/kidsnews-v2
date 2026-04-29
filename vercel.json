@@ -1,6 +1,10 @@
 {
   "cleanUrls": true,
   "trailingSlash": false,
+  "rewrites": [
+    { "source": "/archive/:date", "destination": "/index.html" },
+    { "source": "/archive/:date/", "destination": "/index.html" }
+  ],
   "headers": [
     {
       "source": "/(.*\\.(?:jsx|json|webp|png|jpg|svg|css|js|html))",
