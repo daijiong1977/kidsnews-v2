@@ -2,8 +2,7 @@
   "cleanUrls": true,
   "trailingSlash": false,
   "rewrites": [
-    { "source": "/archive/:date", "destination": "/index.html" },
-    { "source": "/archive/:date/", "destination": "/index.html" }
+    { "source": "/archive/:path*", "destination": "/index.html" }
   ],
   "headers": [
     {
