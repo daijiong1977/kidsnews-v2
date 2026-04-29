@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-04-28-fun-1",
+      "id": "2026-04-29-fun-1",
+      "source": "Variety",
+      "time_ago": "Wed, 29 Apr 2026 00:05:00 +0000",
+      "mined_at": "2026-04-29T02:38:55+00:00",
+      "source_published_at": "Wed, 29 Apr 2026 00:05:00 +0000",
+      "image_url": "/article_images/article_10337ef78455.webp",
+      "category": "Fun",
+      "title": "Disney+ Is Dropping a Treasure Chest of New Shows and Sports in May!",
+      "summary": "Imagine a month where Sofia the First returns with magic, Ladybug and Cat Noir get tiny, and you can watch live sports like the PGA Championship and a huge soccer match—all on Disney+!"
+    },
+    {
+      "id": "2026-04-29-fun-2",
       "source": "Wired Gear",
-      "time_ago": "Tue, 28 Apr 2026 14:38:52 +0000",
-      "mined_at": "2026-04-29T00:15:01+00:00",
-      "source_published_at": "Tue, 28 Apr 2026 14:38:52 +0000",
-      "image_url": "/article_images/article_201f9ffcd5d2.webp",
+      "time_ago": "Tue, 28 Apr 2026 13:00:00 +0000",
+      "mined_at": "2026-04-29T02:38:55+00:00",
+      "source_published_at": "Tue, 28 Apr 2026 13:00:00 +0000",
+      "image_url": "/article_images/article_b907ec49ad90.webp",
       "category": "Fun",
-      "title": "Finally! Kindle Colorsoft Gets a Dark Mode So You Can Read at Night Without Blinding Anyone",
-      "summary": "Amazon just added dark mode to its color Kindles. Now you can read in the dark without a bright screen. The update is rolling out today, but you can download it now."
+      "title": "Soon Your Headphones Might Know When Your Brain Needs a Break!",
+      "summary": "Imagine headphones that can tell when you're getting tired or stressed, and then nudge you to take a break. A company called Neurable is making that real, and soon lots of gadgets might have this brain-scanning magic."
     },
     {
-      "id": "2026-04-28-fun-2",
-      "source": "SwimSwam",
-      "time_ago": "Tue, 28 Apr 2026 23:00:34 +0000",
-      "mined_at": "2026-04-29T00:15:01+00:00",
-      "source_published_at": "Tue, 28 Apr 2026 23:00:34 +0000",
-      "image_url": "/article_images/article_d4490be17127.webp",
+      "id": "2026-04-29-fun-3",
+      "source": "BBC Tennis",
+      "time_ago": "Tue, 28 Apr 2026 13:20:21 GMT",
+      "mined_at": "2026-04-29T02:38:55+00:00",
+      "source_published_at": "Tue, 28 Apr 2026 13:20:21 GMT",
+      "image_url": "/article_images/article_c35bdfaa3d4c.webp",
       "category": "Fun",
-      "title": "A Super-Fast Swimmer Is Switching Teams — and It Could Shake Up College Swimming",
-      "summary": "Teagan O'Dell, a freshman who scored big at the NCAA championships, is leaving Cal to swim for Virginia. She came in 2nd in the 200 IM and will help Virginia chase its 7th straight title."
-    },
-    {
-      "id": "2026-04-28-fun-3",
-      "source": "Popular Mechanics",
-      "time_ago": "Tue, 28 Apr 2026 22:28:00 +0000",
-      "mined_at": "2026-04-29T00:15:01+00:00",
-      "source_published_at": "Tue, 28 Apr 2026 22:28:00 +0000",
-      "image_url": "/article_images/article_e66cee3af235.webp",
-      "category": "Fun",
-      "title": "Push, Don't Pull: Why a Reel Mower Might Be Your Lawn's New Best Friend",
-      "summary": "Reel mowers cut grass the old-fashioned way — no gas, no batteries. They're quiet, precise, and perfect for small lawns. Check out six top picks, from a 14-inch mini to a 20-inch wide model."
+      "title": "Sinner Keeps Winning! He Ties a Record Only One Other Tennis Star Has Reached",
+      "summary": "Jannik Sinner just won his 20th match in a row! He beat Cameron Norrie at the Madrid Open and matched a record set by Novak Djokovic. Now he's in the quarter-finals and looking unstoppable."
     }
   ]
 }

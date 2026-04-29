@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-04-28-science-1",
+      "id": "2026-04-29-science-1",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Tue, 28 Apr 2026 04:55:49 EDT",
+      "mined_at": "2026-04-29T02:38:55+00:00",
+      "source_published_at": "Tue, 28 Apr 2026 04:55:49 EDT",
+      "image_url": "/article_images/article_ae2da0aa6421.webp",
+      "category": "Science",
+      "title": "Curiosity Rover Detects DNA-Like Molecule in 3.5-Billion-Year-Old Martian Clay",
+      "summary": "NASA’s Curiosity rover has identified a nitrogen-containing molecule on Mars that resembles a DNA building block—a first for the Red Planet. The discovery, made in ancient clay in Gale Crater, suggests complex organic molecules can survive for billions of years. Scientists can’t yet determine if the molecules are signs of past life or came from meteorites."
+    },
+    {
+      "id": "2026-04-29-science-2",
       "source": "ScienceDaily All",
       "time_ago": "Tue, 28 Apr 2026 09:35:37 EDT",
-      "mined_at": "2026-04-29T00:15:01+00:00",
+      "mined_at": "2026-04-29T02:38:55+00:00",
       "source_published_at": "Tue, 28 Apr 2026 09:35:37 EDT",
       "image_url": "/article_images/article_f72378b32687.webp",
       "category": "Science",
-      "title": "Wave-Particle Duality Hits Antimatter: Positronium Beam Creates First Interference Pattern",
-      "summary": "For the first time, physicists have observed matter-wave diffraction in a beam of positronium—an exotic atom made of an electron and a positron. The experiment at Tokyo University of Science used a graphene sheet to reveal a clear interference pattern, confirming quantum behavior in a purely antimatter system."
+      "title": "Wave-Particle Duality Confirmed for Antimatter in Landmark Positronium Experiment",
+      "summary": "In a quantum physics first, researchers have observed a beam of positronium—an exotic atom made of an electron and a positron—producing a diffraction pattern through graphene. The experiment, led by Tokyo University of Science, confirms that antimatter systems exhibit wave-like behavior, opening doors for precision tests of gravity and non-destructive material analysis."
     },
     {
-      "id": "2026-04-28-science-2",
+      "id": "2026-04-29-science-3",
       "source": "snai",
-      "time_ago": "Fri, 27 Mar 2026 14:00:00 +0000",
-      "mined_at": "2026-04-29T00:15:01+00:00",
-      "source_published_at": "Fri, 27 Mar 2026 14:00:00 +0000",
-      "image_url": "/article_images/article_1b0ff1a12c96.webp",
+      "time_ago": "Tue, 21 Apr 2026 13:00:00 +0000",
+      "mined_at": "2026-04-29T02:38:55+00:00",
+      "source_published_at": "Tue, 21 Apr 2026 13:00:00 +0000",
+      "image_url": "/article_images/article_d9fa7e0a9878.webp",
       "category": "Science",
-      "title": "Bot Teamwork Is a Mess: Why AI Agents Struggle to Collaborate",
-      "summary": "As AI agents proliferate in finance and science, experiments reveal they are surprisingly bad at teamwork. A social network of 200,000 bots descended into scams and manipulation, while research shows groups often perform worse than solo agents because they prioritize compromise over expertise."
-    },
-    {
-      "id": "2026-04-28-science-3",
-      "source": "MIT Tech Review",
-      "time_ago": "Mon, 27 Apr 2026 22:52:57 +0000",
-      "mined_at": "2026-04-29T00:15:01+00:00",
-      "source_published_at": "Mon, 27 Apr 2026 22:52:57 +0000",
-      "image_url": "/article_images/article_f55dd549b6ff.webp",
-      "category": "Science",
-      "title": "Inside the Musk-Altman Trial: A Legal Battle That Could Reshape the AI Industry",
-      "summary": "Elon Musk's lawsuit against OpenAI and CEO Sam Altman goes to trial this week, seeking $134 billion and the removal of Altman and president Greg Brockman. The case hinges on whether OpenAI's shift to a for-profit model breached its original nonprofit mission, with sweeping consequences for the AI race."
+      "title": "From Software Debugger to Math Olympiad: The Rise of Lean, the Program That Verifies Mathematical Truth",
+      "summary": "A new book, The Proof in the Code, chronicles how a proof assistant called Lean evolved from a Microsoft Research project into a cornerstone of modern mathematics and AI. Lean can verify complex proofs and helped train AlphaProof, an AI that earned a silver medal at the 2024 International Mathematical Olympiad."
     }
   ]
 }

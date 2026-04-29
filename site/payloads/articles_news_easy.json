@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-04-28-news-1",
+      "id": "2026-04-29-news-1",
       "source": "NPR World",
       "time_ago": "Tue, 28 Apr 2026 19:23:52 -0400",
-      "mined_at": "2026-04-29T00:15:01+00:00",
+      "mined_at": "2026-04-29T02:38:55+00:00",
       "source_published_at": "Tue, 28 Apr 2026 19:23:52 -0400",
       "image_url": "/article_images/article_417a963fe57e.webp",
       "category": "News",
-      "title": "He Ran His First Marathon and Did the Impossible!",
-      "summary": "Yomif Kejelcha ran his first marathon in under 2 hours—1:59:41—but still got second place. He says he's super happy anyway because breaking that barrier is a huge deal."
+      "title": "He Ran His First Marathon in Under 2 Hours — and Still Got 2nd Place!",
+      "summary": "Yomif Kejelcha, 28, finished the London Marathon in 1:59:41 — his first marathon ever! He broke the 2-hour barrier but came second because Sabastian Sawe ran even faster."
     },
     {
-      "id": "2026-04-28-news-2",
-      "source": "NPR World",
-      "time_ago": "Tue, 28 Apr 2026 18:18:15 -0400",
-      "mined_at": "2026-04-29T00:15:01+00:00",
-      "source_published_at": "Tue, 28 Apr 2026 18:18:15 -0400",
-      "image_url": "/article_images/article_9d35f3d35b27.webp",
-      "category": "News",
-      "title": "A Big Fight Over Who Helps Kids with Disabilities at School",
-      "summary": "Education Secretary Linda McMahon faced angry senators over plans to cut the office that protects students' civil rights. She says she'll hire more lawyers, but many parents are worried."
-    },
-    {
-      "id": "2026-04-28-news-3",
+      "id": "2026-04-29-news-2",
       "source": "Al Jazeera",
-      "time_ago": "Tue, 28 Apr 2026 22:08:54 +0000",
-      "mined_at": "2026-04-29T00:15:01+00:00",
-      "source_published_at": "Tue, 28 Apr 2026 22:08:54 +0000",
-      "image_url": "/article_images/article_ae8df2284bf9.webp",
+      "time_ago": "Tue, 28 Apr 2026 22:35:20 +0000",
+      "mined_at": "2026-04-29T02:38:55+00:00",
+      "source_published_at": "Tue, 28 Apr 2026 22:35:20 +0000",
+      "image_url": "/article_images/article_0e17da7222a4.webp",
       "category": "News",
-      "title": "A Secret Waterway Is Shut — And It's Making Your Life More Expensive!",
-      "summary": "A narrow sea path called the Strait of Hormuz is closed because of a war. That means oil can't get through, so gas prices are way up — $4.18 a gallon! Experts say talks to end the fight are stuck."
+      "title": "Elon Musk Says It's Not OK to 'Loot a Charity' in Big OpenAI Trial",
+      "summary": "Elon Musk is suing OpenAI, the company behind ChatGPT. He says its leaders turned a charity into a for-profit business and betrayed their mission to help humanity. The trial started Tuesday in California."
+    },
+    {
+      "id": "2026-04-29-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Tue, 28 Apr 2026 20:13:05 -0400",
+      "mined_at": "2026-04-29T02:38:55+00:00",
+      "source_published_at": "Tue, 28 Apr 2026 20:13:05 -0400",
+      "image_url": "/article_images/article_df2fb9fffd3a.webp",
+      "category": "News",
+      "title": "Senate Says No to Ending Trump's Cuba Blockade",
+      "summary": "Senate Republicans voted down a bill that would have made President Trump get Congress's permission before blocking energy to Cuba. The vote was 51-47. Cuba is facing power and water outages."
     }
   ]
 }

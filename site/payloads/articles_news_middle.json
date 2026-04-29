@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-04-28-news-1",
+      "id": "2026-04-29-news-1",
       "source": "NPR World",
       "time_ago": "Tue, 28 Apr 2026 19:23:52 -0400",
-      "mined_at": "2026-04-29T00:15:01+00:00",
+      "mined_at": "2026-04-29T02:38:55+00:00",
       "source_published_at": "Tue, 28 Apr 2026 19:23:52 -0400",
       "image_url": "/article_images/article_417a963fe57e.webp",
       "category": "News",
-      "title": "A Sub-2-Hour Marathon—and Second Place? The Bittersweet Triumph of Yomif Kejelcha",
-      "summary": "In his first marathon, Yomif Kejelcha shattered the 2-hour barrier with a 1:59:41—yet finished second. He calls it \"crazy\" and is thrilled, not bitter. His rival Sabastian Sawe set a new world record at 1:59:30."
+      "title": "A Sub-2-Hour Marathon Debut — and a Second-Place Finish That Made History",
+      "summary": "In his first-ever marathon, Yomif Kejelcha shattered the 2-hour barrier with a 1:59:41 in London — yet finished second. Sabastian Sawe won in a world-record 1:58:36, but Kejelcha called the result 'crazy' and 'very, very happy.'"
     },
     {
-      "id": "2026-04-28-news-2",
-      "source": "NPR World",
-      "time_ago": "Tue, 28 Apr 2026 18:18:15 -0400",
-      "mined_at": "2026-04-29T00:15:01+00:00",
-      "source_published_at": "Tue, 28 Apr 2026 18:18:15 -0400",
-      "image_url": "/article_images/article_9d35f3d35b27.webp",
-      "category": "News",
-      "title": "McMahon Grilled on Education Cuts: 'Spitting Mad' Parents and a Civil Rights Office in Crisis",
-      "summary": "In a tense hearing, Education Secretary Linda McMahon defended dismantling her department and cutting the Office for Civil Rights. Senators cited a disabled student's case dropped after office closures, while McMahon pledged to hire more lawyers."
-    },
-    {
-      "id": "2026-04-28-news-3",
+      "id": "2026-04-29-news-2",
       "source": "Al Jazeera",
-      "time_ago": "Tue, 28 Apr 2026 22:08:54 +0000",
-      "mined_at": "2026-04-29T00:15:01+00:00",
-      "source_published_at": "Tue, 28 Apr 2026 22:08:54 +0000",
-      "image_url": "/article_images/article_ae8df2284bf9.webp",
+      "time_ago": "Tue, 28 Apr 2026 22:35:20 +0000",
+      "mined_at": "2026-04-29T02:38:55+00:00",
+      "source_published_at": "Tue, 28 Apr 2026 22:35:20 +0000",
+      "image_url": "/article_images/article_0e17da7222a4.webp",
       "category": "News",
-      "title": "Strait of Hormuz Standoff: Why a Faraway War Is Draining Your Wallet",
-      "summary": "As the US-Israel war with Iran hits day 60, the Strait of Hormuz remains blocked, choking off 20% of global oil. Gas prices hit $4.18/gallon, inflation spikes, and peace talks are stalled. Experts warn of long-term economic pain."
+      "title": "Musk Takes the Stand: 'If We Make It OK to Loot a Charity, Charitable Giving Will Be Destroyed'",
+      "summary": "Elon Musk testified Tuesday in his lawsuit against OpenAI, accusing its leaders of betraying the nonprofit's mission. OpenAI's lawyer countered that Musk wanted control and sued only after failing to become CEO. The trial could reshape AI governance."
+    },
+    {
+      "id": "2026-04-29-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Tue, 28 Apr 2026 20:13:05 -0400",
+      "mined_at": "2026-04-29T02:38:55+00:00",
+      "source_published_at": "Tue, 28 Apr 2026 20:13:05 -0400",
+      "image_url": "/article_images/article_df2fb9fffd3a.webp",
+      "category": "News",
+      "title": "Senate Republicans Block Effort to End Trump's Cuba Energy Blockade",
+      "summary": "In a 51-47 vote, Senate Republicans rejected a War Powers resolution that would have forced President Trump to end the U.S. energy blockade on Cuba without congressional approval. Democrats argued the blockade is causing a humanitarian crisis."
     }
   ]
 }
