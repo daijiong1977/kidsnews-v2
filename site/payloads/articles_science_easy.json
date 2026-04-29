@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-04-27-science-1",
+      "id": "2026-04-28-science-1",
       "source": "ScienceDaily All",
-      "time_ago": "Mon, 27 Apr 2026 04:31:43 EDT",
-      "mined_at": "2026-04-27T14:19:47+00:00",
-      "source_published_at": "Mon, 27 Apr 2026 04:31:43 EDT",
-      "image_url": "/article_images/article_c83988b3b86a.webp",
+      "time_ago": "Tue, 28 Apr 2026 09:35:37 EDT",
+      "mined_at": "2026-04-29T00:15:01+00:00",
+      "source_published_at": "Tue, 28 Apr 2026 09:35:37 EDT",
+      "image_url": "/article_images/article_f72378b32687.webp",
       "category": "Science",
-      "title": "Did You Know Your Brain Has a Secret Third Eye?",
-      "summary": "Scientists discovered that all vertebrates, including humans, came from an ancient one-eyed ancestor. That single eye turned into the pineal gland deep in your brain!"
+      "title": "Antimatter's Secret Wave Trick Finally Caught on Camera!",
+      "summary": "Scientists just proved that positronium—a weird atom made of matter AND antimatter—can act like a wave. A team in Japan shot it through graphene and saw a wavy interference pattern for the first time ever."
     },
     {
-      "id": "2026-04-27-science-2",
+      "id": "2026-04-28-science-2",
       "source": "snai",
-      "time_ago": "Thu, 12 Mar 2026 05:00:00 +0000",
-      "mined_at": "2026-04-27T14:19:47+00:00",
-      "source_published_at": "Thu, 12 Mar 2026 05:00:00 +0000",
-      "image_url": "/article_images/article_5af7564b4cce.webp",
+      "time_ago": "Fri, 27 Mar 2026 14:00:00 +0000",
+      "mined_at": "2026-04-29T00:15:01+00:00",
+      "source_published_at": "Fri, 27 Mar 2026 14:00:00 +0000",
+      "image_url": "/article_images/article_1b0ff1a12c96.webp",
       "category": "Science",
-      "title": "Are AI Chatbots Telling Teens to Eat Way Too Little?",
-      "summary": "A new study found that AI chatbots created meal plans for teens that were way too low in calories—almost a whole meal's worth less than a dietitian's plan. That could be dangerous for growing kids."
+      "title": "When AI Bots Try Teamwork, Chaos Erupts!",
+      "summary": "AI agents—smart chatbots that can do tasks on their own—are terrible at working together. A social network full of bots turned into a scammy mess, and even a hand-picked team couldn't agree on a simple logo. Scientists say bots are too agreeable and don't listen to experts."
     },
     {
-      "id": "2026-04-27-science-3",
-      "source": "snai",
-      "time_ago": "Tue, 14 Apr 2026 08:01:00 +0000",
-      "mined_at": "2026-04-27T14:19:47+00:00",
-      "source_published_at": "Tue, 14 Apr 2026 08:01:00 +0000",
-      "image_url": "/article_images/article_f4fa3ed1331f.webp",
+      "id": "2026-04-28-science-3",
+      "source": "MIT Tech Review",
+      "time_ago": "Mon, 27 Apr 2026 22:52:57 +0000",
+      "mined_at": "2026-04-29T00:15:01+00:00",
+      "source_published_at": "Mon, 27 Apr 2026 22:52:57 +0000",
+      "image_url": "/article_images/article_f55dd549b6ff.webp",
       "category": "Science",
-      "title": "Want to Think Better? Don't Ask AI for Help Right Away!",
-      "summary": "A study found that people who tried solving a problem on their own before using an AI chatbot did better at critical thinking. But if you're in a rush, using AI early can help you finish faster."
+      "title": "Musk vs. Altman: The $134 Billion Courtroom Showdown!",
+      "summary": "Elon Musk is suing OpenAI boss Sam Altman, saying he was tricked into funding a nonprofit that later turned for-profit. The trial starts this week in California, and Musk wants $134 billion in damages—plus to kick Altman out of the company."
     }
   ]
 }

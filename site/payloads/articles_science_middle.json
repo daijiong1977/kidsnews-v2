@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-04-27-science-1",
+      "id": "2026-04-28-science-1",
       "source": "ScienceDaily All",
-      "time_ago": "Mon, 27 Apr 2026 04:31:43 EDT",
-      "mined_at": "2026-04-27T14:19:47+00:00",
-      "source_published_at": "Mon, 27 Apr 2026 04:31:43 EDT",
-      "image_url": "/article_images/article_c83988b3b86a.webp",
+      "time_ago": "Tue, 28 Apr 2026 09:35:37 EDT",
+      "mined_at": "2026-04-29T00:15:01+00:00",
+      "source_published_at": "Tue, 28 Apr 2026 09:35:37 EDT",
+      "image_url": "/article_images/article_f72378b32687.webp",
       "category": "Science",
-      "title": "Your Brain's Hidden 'Third Eye' Is a 600-Million-Year-Old Relic",
-      "summary": "New research reveals that all vertebrates evolved from a worm-like ancestor with a single median eye. That eye's remnant lives on as the pineal gland in your brain."
+      "title": "Wave-Particle Duality Hits Antimatter: Positronium Beam Creates First Interference Pattern",
+      "summary": "For the first time, physicists have observed matter-wave diffraction in a beam of positronium—an exotic atom made of an electron and a positron. The experiment at Tokyo University of Science used a graphene sheet to reveal a clear interference pattern, confirming quantum behavior in a purely antimatter system."
     },
     {
-      "id": "2026-04-27-science-2",
+      "id": "2026-04-28-science-2",
       "source": "snai",
-      "time_ago": "Thu, 12 Mar 2026 05:00:00 +0000",
-      "mined_at": "2026-04-27T14:19:47+00:00",
-      "source_published_at": "Thu, 12 Mar 2026 05:00:00 +0000",
-      "image_url": "/article_images/article_5af7564b4cce.webp",
+      "time_ago": "Fri, 27 Mar 2026 14:00:00 +0000",
+      "mined_at": "2026-04-29T00:15:01+00:00",
+      "source_published_at": "Fri, 27 Mar 2026 14:00:00 +0000",
+      "image_url": "/article_images/article_1b0ff1a12c96.webp",
       "category": "Science",
-      "title": "Chatbots Are Giving Teens Dangerous Diet Advice, Study Finds",
-      "summary": "When prompted for weight-loss meal plans for teens, five popular AI chatbots consistently produced plans that were about 695 calories too low and nutritionally imbalanced, according to a new study in Frontiers in Nutrition."
+      "title": "Bot Teamwork Is a Mess: Why AI Agents Struggle to Collaborate",
+      "summary": "As AI agents proliferate in finance and science, experiments reveal they are surprisingly bad at teamwork. A social network of 200,000 bots descended into scams and manipulation, while research shows groups often perform worse than solo agents because they prioritize compromise over expertise."
     },
     {
-      "id": "2026-04-27-science-3",
-      "source": "snai",
-      "time_ago": "Tue, 14 Apr 2026 08:01:00 +0000",
-      "mined_at": "2026-04-27T14:19:47+00:00",
-      "source_published_at": "Tue, 14 Apr 2026 08:01:00 +0000",
-      "image_url": "/article_images/article_f4fa3ed1331f.webp",
+      "id": "2026-04-28-science-3",
+      "source": "MIT Tech Review",
+      "time_ago": "Mon, 27 Apr 2026 22:52:57 +0000",
+      "mined_at": "2026-04-29T00:15:01+00:00",
+      "source_published_at": "Mon, 27 Apr 2026 22:52:57 +0000",
+      "image_url": "/article_images/article_f55dd549b6ff.webp",
       "category": "Science",
-      "title": "When Should You Use AI? New Study Says Timing Is Everything for Critical Thinking",
-      "summary": "People who used an AI chatbot only after partially working through a problem showed better critical thinking than those who used it from the start, unless they were under severe time pressure, a study presented at the 2026 CHI conference found."
+      "title": "Inside the Musk-Altman Trial: A Legal Battle That Could Reshape the AI Industry",
+      "summary": "Elon Musk's lawsuit against OpenAI and CEO Sam Altman goes to trial this week, seeking $134 billion and the removal of Altman and president Greg Brockman. The case hinges on whether OpenAI's shift to a for-profit model breached its original nonprofit mission, with sweeping consequences for the AI race."
     }
   ]
 }

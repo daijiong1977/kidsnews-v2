@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-04-27-news-1",
-      "source": "Variety",
-      "time_ago": "Mon, 27 Apr 2026 13:30:00 +0000",
-      "mined_at": "2026-04-27T14:19:47+00:00",
-      "source_published_at": "Mon, 27 Apr 2026 13:30:00 +0000",
-      "image_url": "/article_images/article_af83a0c36862.webp",
-      "category": "News",
-      "title": "Comedian Matt Buechele's New Podcast Promises Laughs, Absurdity, and Sharp Takes on Modern Life",
-      "summary": "What do you get when a viral comedian with nearly 1 million followers launches a weekly video podcast? 'That Sounds Like a Lot,' premiering May 1 with guest Zach Zimmerman. Matt Buechele's new show will unpack culture, politics, and the 'increasingly strange rhythms of modern life.'"
-    },
-    {
-      "id": "2026-04-27-news-2",
+      "id": "2026-04-28-news-1",
       "source": "NPR World",
-      "time_ago": "Mon, 27 Apr 2026 05:00:00 -0400",
-      "mined_at": "2026-04-27T14:19:47+00:00",
-      "source_published_at": "Mon, 27 Apr 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_54cbc014b3ea.webp",
+      "time_ago": "Tue, 28 Apr 2026 19:23:52 -0400",
+      "mined_at": "2026-04-29T00:15:01+00:00",
+      "source_published_at": "Tue, 28 Apr 2026 19:23:52 -0400",
+      "image_url": "/article_images/article_417a963fe57e.webp",
       "category": "News",
-      "title": "Inflation Is Erasing Teacher Pay Raises, Leaving Educators Earning Less Than a Decade Ago",
-      "summary": "A 3.5% raise sounds good, right? Not when inflation is factored in. A new NEA report reveals that U.S. public school teachers have seen their real earnings drop by nearly 5% since 2017, despite average salaries rising to $74,495."
+      "title": "A Sub-2-Hour Marathon—and Second Place? The Bittersweet Triumph of Yomif Kejelcha",
+      "summary": "In his first marathon, Yomif Kejelcha shattered the 2-hour barrier with a 1:59:41—yet finished second. He calls it \"crazy\" and is thrilled, not bitter. His rival Sabastian Sawe set a new world record at 1:59:30."
     },
     {
-      "id": "2026-04-27-news-3",
-      "source": "PBS NewsHour",
-      "time_ago": "Sun, 26 Apr 2026 15:59:23 -0400",
-      "mined_at": "2026-04-27T14:19:47+00:00",
-      "source_published_at": "Sun, 26 Apr 2026 15:59:23 -0400",
-      "image_url": "/article_images/article_210f4b3c2bdb.webp",
+      "id": "2026-04-28-news-2",
+      "source": "NPR World",
+      "time_ago": "Tue, 28 Apr 2026 18:18:15 -0400",
+      "mined_at": "2026-04-29T00:15:01+00:00",
+      "source_published_at": "Tue, 28 Apr 2026 18:18:15 -0400",
+      "image_url": "/article_images/article_9d35f3d35b27.webp",
       "category": "News",
-      "title": "In War-Torn Gaza, a Local Election Offers a Glimmer of Political Hope",
-      "summary": "Amid devastation and displacement, Deir al-Balah in central Gaza held its first election in over 20 years. Turnout was just 23%, but Palestinian officials call it a crucial step toward long-delayed presidential elections and eventual statehood."
+      "title": "McMahon Grilled on Education Cuts: 'Spitting Mad' Parents and a Civil Rights Office in Crisis",
+      "summary": "In a tense hearing, Education Secretary Linda McMahon defended dismantling her department and cutting the Office for Civil Rights. Senators cited a disabled student's case dropped after office closures, while McMahon pledged to hire more lawyers."
+    },
+    {
+      "id": "2026-04-28-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Tue, 28 Apr 2026 22:08:54 +0000",
+      "mined_at": "2026-04-29T00:15:01+00:00",
+      "source_published_at": "Tue, 28 Apr 2026 22:08:54 +0000",
+      "image_url": "/article_images/article_ae8df2284bf9.webp",
+      "category": "News",
+      "title": "Strait of Hormuz Standoff: Why a Faraway War Is Draining Your Wallet",
+      "summary": "As the US-Israel war with Iran hits day 60, the Strait of Hormuz remains blocked, choking off 20% of global oil. Gas prices hit $4.18/gallon, inflation spikes, and peace talks are stalled. Experts warn of long-term economic pain."
     }
   ]
 }

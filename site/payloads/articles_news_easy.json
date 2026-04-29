@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-04-27-news-1",
-      "source": "Variety",
-      "time_ago": "Mon, 27 Apr 2026 13:30:00 +0000",
-      "mined_at": "2026-04-27T14:19:47+00:00",
-      "source_published_at": "Mon, 27 Apr 2026 13:30:00 +0000",
-      "image_url": "/article_images/article_af83a0c36862.webp",
-      "category": "News",
-      "title": "Get Ready to Laugh: Comedian Matt Buechele's New Podcast Drops May 1!",
-      "summary": "Have you ever laughed so hard you cried? Comedian Matt Buechele, known for his funny videos about life, is launching a new podcast called 'That Sounds Like a Lot.' It starts May 1 with guest Zach Zimmerman."
-    },
-    {
-      "id": "2026-04-27-news-2",
+      "id": "2026-04-28-news-1",
       "source": "NPR World",
-      "time_ago": "Mon, 27 Apr 2026 05:00:00 -0400",
-      "mined_at": "2026-04-27T14:19:47+00:00",
-      "source_published_at": "Mon, 27 Apr 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_54cbc014b3ea.webp",
+      "time_ago": "Tue, 28 Apr 2026 19:23:52 -0400",
+      "mined_at": "2026-04-29T00:15:01+00:00",
+      "source_published_at": "Tue, 28 Apr 2026 19:23:52 -0400",
+      "image_url": "/article_images/article_417a963fe57e.webp",
       "category": "News",
-      "title": "Wait, Teachers Are Actually Earning LESS Now? Here's Why",
-      "summary": "You might think a pay raise means more money, but for U.S. teachers, inflation is eating it all up. A new report says the average teacher salary is $74,495, but after adjusting for rising prices, they're earning less than in 2017."
+      "title": "He Ran His First Marathon and Did the Impossible!",
+      "summary": "Yomif Kejelcha ran his first marathon in under 2 hours—1:59:41—but still got second place. He says he's super happy anyway because breaking that barrier is a huge deal."
     },
     {
-      "id": "2026-04-27-news-3",
-      "source": "PBS NewsHour",
-      "time_ago": "Sun, 26 Apr 2026 15:59:23 -0400",
-      "mined_at": "2026-04-27T14:19:47+00:00",
-      "source_published_at": "Sun, 26 Apr 2026 15:59:23 -0400",
-      "image_url": "/article_images/article_210f4b3c2bdb.webp",
+      "id": "2026-04-28-news-2",
+      "source": "NPR World",
+      "time_ago": "Tue, 28 Apr 2026 18:18:15 -0400",
+      "mined_at": "2026-04-29T00:15:01+00:00",
+      "source_published_at": "Tue, 28 Apr 2026 18:18:15 -0400",
+      "image_url": "/article_images/article_9d35f3d35b27.webp",
       "category": "News",
-      "title": "A Tiny Election in Gaza Just Made Big News—Here's Why",
-      "summary": "For the first time in over 20 years, part of Gaza held an election. It happened in Deir al-Balah, a community spared from ground invasion. Only 23% of people voted, but officials call it a step toward future presidential elections."
+      "title": "A Big Fight Over Who Helps Kids with Disabilities at School",
+      "summary": "Education Secretary Linda McMahon faced angry senators over plans to cut the office that protects students' civil rights. She says she'll hire more lawyers, but many parents are worried."
+    },
+    {
+      "id": "2026-04-28-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Tue, 28 Apr 2026 22:08:54 +0000",
+      "mined_at": "2026-04-29T00:15:01+00:00",
+      "source_published_at": "Tue, 28 Apr 2026 22:08:54 +0000",
+      "image_url": "/article_images/article_ae8df2284bf9.webp",
+      "category": "News",
+      "title": "A Secret Waterway Is Shut — And It's Making Your Life More Expensive!",
+      "summary": "A narrow sea path called the Strait of Hormuz is closed because of a war. That means oil can't get through, so gas prices are way up — $4.18 a gallon! Experts say talks to end the fight are stuck."
     }
   ]
 }
