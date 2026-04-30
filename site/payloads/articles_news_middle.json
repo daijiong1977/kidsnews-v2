@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-04-29-news-1",
-      "source": "NPR World",
-      "time_ago": "Wed, 29 Apr 2026 06:27:50 -0400",
-      "mined_at": "2026-04-29T12:25:43+00:00",
-      "source_published_at": "Wed, 29 Apr 2026 06:27:50 -0400",
-      "image_url": "/article_images/article_03369c67d6b0.webp",
-      "category": "News",
-      "title": "From Near Extinction to Internet Fame: Why Bald Eagle Cams Are Booming",
-      "summary": "Bald eagle nest cams attract millions of viewers who track every feeding and flight. For superfan Gloria Gajownik, 71, the Decorah eagles and their online community became a surrogate family. The cams also spotlight an incredible comeback: from 417 pairs in 1963 to 71,400 today."
-    },
-    {
-      "id": "2026-04-29-news-2",
+      "id": "2026-04-30-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Tue, 28 Apr 2026 20:07:24 -0400",
-      "mined_at": "2026-04-29T12:25:43+00:00",
-      "source_published_at": "Tue, 28 Apr 2026 20:07:24 -0400",
-      "image_url": "/article_images/article_8234ce331b48.webp",
+      "time_ago": "Wed, 29 Apr 2026 20:46:35 -0400",
+      "mined_at": "2026-04-30T04:12:47+00:00",
+      "source_published_at": "Wed, 29 Apr 2026 20:46:35 -0400",
+      "image_url": "/article_images/article_61ff53fffec2.webp",
       "category": "News",
-      "title": "Fed Chair Powell's Unprecedented Move: Stay on Board After Term Ends?",
-      "summary": "As Jerome Powell's term as Fed chair expires May 15, he may remain as a governor — a first since 1948. This sets up a potential \"two Popes\" clash with Trump nominee Kevin Warsh. The drama unfolds amid a Justice Department probe and a murky economy with 3.3% inflation."
+      "title": "Musk Takes the Stand: The Battle Over OpenAI's Soul",
+      "summary": "Elon Musk testified that Sam Altman betrayed OpenAI's nonprofit mission, calling it a 'steal the charity' scheme. The trial could derail OpenAI's $852 billion valuation and its IPO plans. Musk invested $38 million early on but lost faith in Altman by 2022."
     },
     {
-      "id": "2026-04-29-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Wed, 29 Apr 2026 11:01:10 +0000",
-      "mined_at": "2026-04-29T12:25:43+00:00",
-      "source_published_at": "Wed, 29 Apr 2026 11:01:10 +0000",
-      "image_url": "/article_images/article_fed2e2577572.webp",
+      "id": "2026-04-30-news-2",
+      "source": "NPR World",
+      "time_ago": "Wed, 29 Apr 2026 18:04:37 -0400",
+      "mined_at": "2026-04-30T04:12:47+00:00",
+      "source_published_at": "Wed, 29 Apr 2026 18:04:37 -0400",
+      "image_url": "/article_images/article_07c727218179.webp",
       "category": "News",
-      "title": "Global Military Spending Hits Record $2.88 Trillion — What's the Trade-Off?",
-      "summary": "In 2025, world military expenditure reached $2.88 trillion, or $350 per person. The U.S. accounted for $954 billion — more than the next six nations combined. Since 1949, America has spent over $53 trillion on defense, over half the global total."
+      "title": "Supreme Court Signals Green Light for Ending Protections for Over a Million Immigrants",
+      "summary": "The Supreme Court's conservative majority appeared poised to let the Trump administration end Temporary Protected Status (TPS), potentially deporting over a million people from Haiti, Syria, and other nations. Justices clashed over whether courts can review the decision, with accusations of racial bias surfacing."
+    },
+    {
+      "id": "2026-04-30-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Wed, 29 Apr 2026 22:33:16 +0000",
+      "mined_at": "2026-04-30T04:12:47+00:00",
+      "source_published_at": "Wed, 29 Apr 2026 22:33:16 +0000",
+      "image_url": "/article_images/article_37197e4d07ae.webp",
+      "category": "News",
+      "title": "Carney's First Year: How Canada's PM Turned Trump's Threats Into a Foreign Policy Reset",
+      "summary": "Facing tariffs and '51st state' taunts from Trump, Canadian PM Mark Carney has diversified trade partners and boosted his approval to 58%. Experts praise his 'strong and resolute' stance, but critics warn fast-tracked projects may sideline Indigenous communities."
     }
   ]
 }

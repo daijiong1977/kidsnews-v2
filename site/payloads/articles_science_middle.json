@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-04-29-science-1",
+      "id": "2026-04-30-science-1",
       "source": "ScienceDaily All",
-      "time_ago": "Wed, 29 Apr 2026 04:05:18 EDT",
-      "mined_at": "2026-04-29T12:25:43+00:00",
-      "source_published_at": "Wed, 29 Apr 2026 04:05:18 EDT",
-      "image_url": "/article_images/article_c75087abe84b.webp",
+      "time_ago": "Wed, 29 Apr 2026 05:13:03 EDT",
+      "mined_at": "2026-04-30T04:12:47+00:00",
+      "source_published_at": "Wed, 29 Apr 2026 05:13:03 EDT",
+      "image_url": "/article_images/article_960dd1dfb728.webp",
       "category": "Science",
-      "title": "A One-in-a-Million Supernova Appears Five Times — and It Might Settle the Universe's Biggest Debate",
-      "summary": "Astronomers found a superluminous supernova, SN Winny, that appears as five separate images due to gravitational lensing. By timing the light delays, they can directly measure the Hubble constant, potentially resolving the Hubble tension."
+      "title": "Colossal 50-Foot Snake Vasuki indicus Unearthed in India Rivals Titanoboa",
+      "summary": "Fossils of Vasuki indicus, a 47-million-year-old snake up to 50 feet long, were found in Gujarat, India. This giant ambush predator rivals Titanoboa in size and sheds light on ancient snake evolution."
     },
     {
-      "id": "2026-04-29-science-2",
-      "source": "MIT Tech Review",
-      "time_ago": "Wed, 29 Apr 2026 08:00:00 +0000",
-      "mined_at": "2026-04-29T12:25:43+00:00",
-      "source_published_at": "Wed, 29 Apr 2026 08:00:00 +0000",
-      "image_url": "/article_images/article_65f1ee83573c.webp",
+      "id": "2026-04-30-science-2",
+      "source": "Science News Explores",
+      "time_ago": "Tue, 28 Apr 2026 10:30:00 +0000",
+      "mined_at": "2026-04-30T04:12:47+00:00",
+      "source_published_at": "Tue, 28 Apr 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_3ce4ceb9b8e1.webp",
       "category": "Science",
-      "title": "The Nuclear Waste Problem No One Wants to Talk About — and Why It's Urgent Now",
-      "summary": "As nuclear energy gains fresh support from tech giants and governments, the U.S. still lacks a permanent disposal site for its 2,000 annual metric tons of high-level waste. Finland is poised to open the world's first deep geological repository this year."
+      "title": "From Lab Joke to 'Smart Underwear': Sensor Tracks Daily Farts to Establish a Normal Baseline",
+      "summary": "A quarter-sized sensor that clips into underwear measures hydrogen from farts. In a pilot study, people averaged 32 toots daily, with a range from 4 to 59. Researchers aim to define normal flatus levels."
     },
     {
-      "id": "2026-04-29-science-3",
-      "source": "snai",
-      "time_ago": "Tue, 14 Apr 2026 08:01:00 +0000",
-      "mined_at": "2026-04-29T12:25:43+00:00",
-      "source_published_at": "Tue, 14 Apr 2026 08:01:00 +0000",
-      "image_url": "/article_images/article_f4fa3ed1331f.webp",
+      "id": "2026-04-30-science-3",
+      "source": "Physics World",
+      "time_ago": "Tue, 28 Apr 2026 08:00:54 +0000",
+      "mined_at": "2026-04-30T04:12:47+00:00",
+      "source_published_at": "Tue, 28 Apr 2026 08:00:54 +0000",
+      "image_url": "/article_images/article_736df3554134.webp",
       "category": "Science",
-      "title": "AI Can Boost Critical Thinking — But Only If You Use It at the Right Time",
-      "summary": "A study presented at the 2026 CHI conference found that participants who used an AI chatbot after partially solving a problem showed better critical thinking than those who used it from the start. Under time pressure, early AI use improved performance but narrowed perspectives."
+      "title": "Bat-Inspired Drone Uses Echolocation to Fly Through Fog and Clutter",
+      "summary": "A $400 palm-sized drone navigates dark, smoky environments using ultrasound echolocation. Inspired by bumblebee bats, it could be used in search-and-rescue missions where cameras fail."
     }
   ]
 }

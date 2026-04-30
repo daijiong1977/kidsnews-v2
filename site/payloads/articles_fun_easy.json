@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-04-29-fun-1",
-      "source": "BBC Tennis",
-      "time_ago": "Tue, 28 Apr 2026 13:20:21 GMT",
-      "mined_at": "2026-04-29T12:25:43+00:00",
-      "source_published_at": "Tue, 28 Apr 2026 13:20:21 GMT",
-      "image_url": "/article_images/article_c35bdfaa3d4c.webp",
-      "category": "Fun",
-      "title": "Sinner's 20-Match Win Streak: He's Chasing Tennis History!",
-      "summary": "Jannik Sinner won his 20th match in a row at the Madrid Open, beating Cameron Norrie. He's now tied with Novak Djokovic for the best start to a season in Masters 1000 history. Can he keep the streak alive?"
-    },
-    {
-      "id": "2026-04-29-fun-2",
-      "source": "SwimSwam",
-      "time_ago": "Tue, 28 Apr 2026 23:00:34 +0000",
-      "mined_at": "2026-04-29T12:25:43+00:00",
-      "source_published_at": "Tue, 28 Apr 2026 23:00:34 +0000",
-      "image_url": "/article_images/article_d4490be17127.webp",
-      "category": "Fun",
-      "title": "Swimming Star Teagan O'Dell Is Taking Her Talents to Virginia!",
-      "summary": "NCAA finalist Teagan O'Dell is transferring from Cal to Virginia after a stellar freshman season. She scored big at the championships and even earned Freshman of the Year honors. Now she's joining a team that's won six straight national titles!"
-    },
-    {
-      "id": "2026-04-29-fun-3",
+      "id": "2026-04-30-fun-1",
       "source": "Wired Gear",
-      "time_ago": "Wed, 29 Apr 2026 11:00:00 +0000",
-      "mined_at": "2026-04-29T12:25:43+00:00",
-      "source_published_at": "Wed, 29 Apr 2026 11:00:00 +0000",
-      "image_url": "/article_images/article_a1594fcd9b54.webp",
+      "time_ago": "Wed, 29 Apr 2026 20:45:37 +0000",
+      "mined_at": "2026-04-30T04:12:47+00:00",
+      "source_published_at": "Wed, 29 Apr 2026 20:45:37 +0000",
+      "image_url": "/article_images/article_b4be4929fb74.webp",
       "category": "Fun",
-      "title": "The $500 Super Shoe That Helped Break a World Record!",
-      "summary": "Adidas just released the Adizero Adios Pro Evo 3, a super-light racing shoe that weighs less than 100 grams. It helped Sabastian Sawe run a marathon in under two hours! But is it worth the hefty price tag?"
+      "title": "Robot Cars Freeze Up and Block Fire Trucks — First Responders Are Not Happy",
+      "summary": "Waymo's driverless cars are acting up in San Francisco and Austin, blocking fire stations and ignoring police. Firefighters say it's a safety problem. One 911 operator waited 53 minutes on Waymo's hotline!"
+    },
+    {
+      "id": "2026-04-30-fun-2",
+      "source": "Popular Mechanics",
+      "time_ago": "Wed, 29 Apr 2026 18:05:18 +0000",
+      "mined_at": "2026-04-30T04:12:47+00:00",
+      "source_published_at": "Wed, 29 Apr 2026 18:05:18 +0000",
+      "image_url": "/article_images/article_3ed15bca5b2a.webp",
+      "category": "Fun",
+      "title": "This Drone Folds Like a Book and Shoots Movie-Quality Video — Even If You Crash It!",
+      "summary": "The Hoverair X1 Promax is a tiny drone that fits in your pocket and films in 8K. It has 15 built-in flight tricks, so even beginners can get awesome shots. And it's tough — you can crash it and it bounces back!"
+    },
+    {
+      "id": "2026-04-30-fun-3",
+      "source": "MIT News",
+      "time_ago": "Wed, 29 Apr 2026 06:00:00 -0400",
+      "mined_at": "2026-04-30T04:12:47+00:00",
+      "source_published_at": "Wed, 29 Apr 2026 06:00:00 -0400",
+      "image_url": "/article_images/article_f9d57308445a.webp",
+      "category": "Fun",
+      "title": "MIT and IBM Team Up to Build the Super-Smart Computers of the Future",
+      "summary": "MIT and IBM just launched a new lab to work on AI and quantum computers — machines that can solve problems today's computers can't. They'll tackle things like better weather forecasts and new medicines. Over 500 students have already helped out!"
     }
   ]
 }

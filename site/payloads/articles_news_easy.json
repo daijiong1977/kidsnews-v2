@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-04-29-news-1",
-      "source": "NPR World",
-      "time_ago": "Wed, 29 Apr 2026 06:27:50 -0400",
-      "mined_at": "2026-04-29T12:25:43+00:00",
-      "source_published_at": "Wed, 29 Apr 2026 06:27:50 -0400",
-      "image_url": "/article_images/article_03369c67d6b0.webp",
-      "category": "News",
-      "title": "Meet the Eagle Superfans Who Watch Nests 24/7",
-      "summary": "Imagine a live show starring bald eagles, 75 feet up in a tree! Millions of people watch nest cams to see eaglets hatch and grow. Gloria Gajownik, 71, has watched for 15 years and says the eagles and chat friends feel like family."
-    },
-    {
-      "id": "2026-04-29-news-2",
+      "id": "2026-04-30-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Tue, 28 Apr 2026 20:07:24 -0400",
-      "mined_at": "2026-04-29T12:25:43+00:00",
-      "source_published_at": "Tue, 28 Apr 2026 20:07:24 -0400",
-      "image_url": "/article_images/article_8234ce331b48.webp",
+      "time_ago": "Wed, 29 Apr 2026 20:46:35 -0400",
+      "mined_at": "2026-04-30T04:12:47+00:00",
+      "source_published_at": "Wed, 29 Apr 2026 20:46:35 -0400",
+      "image_url": "/article_images/article_61ff53fffec2.webp",
       "category": "News",
-      "title": "A Big Boss Battle at the Fed: Will Powell Stay or Go?",
-      "summary": "The Federal Reserve's leader, Jerome Powell, might not leave when his term ends May 15. He could stay as a regular board member — something no ex-chair has done since 1948. This could cause a \"two Popes\" problem with the new chair, Kevin Warsh, picked by President Trump."
+      "title": "Elon Musk vs. Sam Altman: The $852 Billion Fight Over a Robot Brain",
+      "summary": "Elon Musk says Sam Altman broke a promise to keep OpenAI a charity. Now they're in court fighting over the company that made ChatGPT, which is worth $852 billion. Musk wants Altman kicked off the board."
     },
     {
-      "id": "2026-04-29-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Wed, 29 Apr 2026 11:01:10 +0000",
-      "mined_at": "2026-04-29T12:25:43+00:00",
-      "source_published_at": "Wed, 29 Apr 2026 11:01:10 +0000",
-      "image_url": "/article_images/article_fed2e2577572.webp",
+      "id": "2026-04-30-news-2",
+      "source": "NPR World",
+      "time_ago": "Wed, 29 Apr 2026 18:04:37 -0400",
+      "mined_at": "2026-04-30T04:12:47+00:00",
+      "source_published_at": "Wed, 29 Apr 2026 18:04:37 -0400",
+      "image_url": "/article_images/article_07c727218179.webp",
       "category": "News",
-      "title": "The World Spent $2.88 Trillion on Armies Last Year — That's $350 per Person!",
-      "summary": "Global military spending hit a record $2.88 trillion in 2025. That's $350 for every person on Earth. The U.S. spent the most — $954 billion, more than the next six countries combined. Since 1949, the U.S. has spent over $53 trillion on its military."
+      "title": "Supreme Court Might Let the Government Send Over a Million People Away",
+      "summary": "The Supreme Court seems ready to let the Trump administration end a program called TPS. That program lets people from countries like Haiti and Syria live and work in the U.S. legally because it's not safe back home. Over a million people could be forced to leave."
+    },
+    {
+      "id": "2026-04-30-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Wed, 29 Apr 2026 22:33:16 +0000",
+      "mined_at": "2026-04-30T04:12:47+00:00",
+      "source_published_at": "Wed, 29 Apr 2026 22:33:16 +0000",
+      "image_url": "/article_images/article_37197e4d07ae.webp",
+      "category": "News",
+      "title": "Canada's Prime Minister Stands Up to Trump—and It's Working",
+      "summary": "Canada's Prime Minister Mark Carney has been dealing with President Trump's threats for a year. Instead of giving in, he's making new friends around the world. His approval rating is up to 58%, and experts say he's been 'strong and resolute.'"
     }
   ]
 }

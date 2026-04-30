@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-04-29-fun-1",
-      "source": "BBC Tennis",
-      "time_ago": "Tue, 28 Apr 2026 13:20:21 GMT",
-      "mined_at": "2026-04-29T12:25:43+00:00",
-      "source_published_at": "Tue, 28 Apr 2026 13:20:21 GMT",
-      "image_url": "/article_images/article_c35bdfaa3d4c.webp",
-      "category": "Fun",
-      "title": "Sinner Ties Djokovic's Record with 20th Straight Masters Win—and He's Not Done Yet",
-      "summary": "Jannik Sinner cruised past Cameron Norrie at the Madrid Open, notching his 20th consecutive Masters 1000 victory. He equals Novak Djokovic's record for the best season start at this level. Next up: a quarter-final clash with either Kopriva or teenage wildcard Jodar."
-    },
-    {
-      "id": "2026-04-29-fun-2",
-      "source": "SwimSwam",
-      "time_ago": "Tue, 28 Apr 2026 23:00:34 +0000",
-      "mined_at": "2026-04-29T12:25:43+00:00",
-      "source_published_at": "Tue, 28 Apr 2026 23:00:34 +0000",
-      "image_url": "/article_images/article_d4490be17127.webp",
-      "category": "Fun",
-      "title": "From Cal to UVA: Teagan O'Dell's Transfer Shakes Up NCAA Swimming",
-      "summary": "Freshman phenom Teagan O'Dell is transferring from Cal to Virginia, bringing her 46 NCAA points and three 'A' final appearances to the six-time defending champions. Her move could tip the scales in the Cavaliers' quest for a seventh straight title."
-    },
-    {
-      "id": "2026-04-29-fun-3",
+      "id": "2026-04-30-fun-1",
       "source": "Wired Gear",
-      "time_ago": "Wed, 29 Apr 2026 11:00:00 +0000",
-      "mined_at": "2026-04-29T12:25:43+00:00",
-      "source_published_at": "Wed, 29 Apr 2026 11:00:00 +0000",
-      "image_url": "/article_images/article_a1594fcd9b54.webp",
+      "time_ago": "Wed, 29 Apr 2026 20:45:37 +0000",
+      "mined_at": "2026-04-30T04:12:47+00:00",
+      "source_published_at": "Wed, 29 Apr 2026 20:45:37 +0000",
+      "image_url": "/article_images/article_b4be4929fb74.webp",
       "category": "Fun",
-      "title": "Adidas's $500 Super Shoe: Featherlight Tech That Crushed a Marathon Record",
-      "summary": "The Adizero Adios Pro Evo 3, weighing under 100 grams, helped Sabastian Sawe break the two-hour marathon barrier. With a new foam and carbon-fiber rim, it's built for elite speed—but its $500 price tag and limited availability raise the question: is it worth it for the rest of us?"
+      "title": "Waymo's Driverless Cars Are 'Backsliding' — Blocking Fire Trucks and Ignoring Police",
+      "summary": "Emergency officials from San Francisco and Austin told federal regulators that Waymo's autonomous vehicles are freezing up more often, blocking fire stations, and failing to respond to hand signals. One 911 call to Waymo's hotline took 53 minutes to answer."
+    },
+    {
+      "id": "2026-04-30-fun-2",
+      "source": "Popular Mechanics",
+      "time_ago": "Wed, 29 Apr 2026 18:05:18 +0000",
+      "mined_at": "2026-04-30T04:12:47+00:00",
+      "source_published_at": "Wed, 29 Apr 2026 18:05:18 +0000",
+      "image_url": "/article_images/article_3ed15bca5b2a.webp",
+      "category": "Fun",
+      "title": "The Hoverair X1 Promax: A Pocket-Sized Drone That Shoots 8K and Survives Crashes",
+      "summary": "The Hoverair X1 Promax is a foldable, sub-200-gram drone with 15 pre-programmed flight modes and 8K video. Its durable, flexible frame shrugs off crashes, making it ideal for beginners who want cinematic shots without the stress."
+    },
+    {
+      "id": "2026-04-30-fun-3",
+      "source": "MIT News",
+      "time_ago": "Wed, 29 Apr 2026 06:00:00 -0400",
+      "mined_at": "2026-04-30T04:12:47+00:00",
+      "source_published_at": "Wed, 29 Apr 2026 06:00:00 -0400",
+      "image_url": "/article_images/article_f9d57308445a.webp",
+      "category": "Fun",
+      "title": "MIT and IBM Launch Joint Lab to Pioneer AI-Quantum Hybrid Computing",
+      "summary": "The new MIT-IBM Computing Research Lab will focus on AI, algorithms, and quantum computing, aiming to create hybrid systems that surpass classical limits. Building on a decade of collaboration, it has already involved 150+ MIT faculty and funded over 500 students."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-04-29-science-1",
+      "id": "2026-04-30-science-1",
       "source": "ScienceDaily All",
-      "time_ago": "Wed, 29 Apr 2026 04:05:18 EDT",
-      "mined_at": "2026-04-29T12:25:43+00:00",
-      "source_published_at": "Wed, 29 Apr 2026 04:05:18 EDT",
-      "image_url": "/article_images/article_c75087abe84b.webp",
+      "time_ago": "Wed, 29 Apr 2026 05:13:03 EDT",
+      "mined_at": "2026-04-30T04:12:47+00:00",
+      "source_published_at": "Wed, 29 Apr 2026 05:13:03 EDT",
+      "image_url": "/article_images/article_960dd1dfb728.webp",
       "category": "Science",
-      "title": "This Supernova Showed Up Five Times — and It Could Solve a Giant Space Mystery",
-      "summary": "A supernova 10 billion light-years away appears as five dots in the sky, thanks to gravity bending its light. Scientists are using this rare cosmic trick to measure how fast the universe is growing. They call it SN Winny."
+      "title": "A Snake as Long as a School Bus? Meet Vasuki, the 50-Foot Giant!",
+      "summary": "Imagine a snake longer than a school bus! Scientists found fossils of Vasuki indicus in India. This 47-million-year-old snake may have been 50 feet long, as big as Titanoboa."
     },
     {
-      "id": "2026-04-29-science-2",
-      "source": "MIT Tech Review",
-      "time_ago": "Wed, 29 Apr 2026 08:00:00 +0000",
-      "mined_at": "2026-04-29T12:25:43+00:00",
-      "source_published_at": "Wed, 29 Apr 2026 08:00:00 +0000",
-      "image_url": "/article_images/article_65f1ee83573c.webp",
+      "id": "2026-04-30-science-2",
+      "source": "Science News Explores",
+      "time_ago": "Tue, 28 Apr 2026 10:30:00 +0000",
+      "mined_at": "2026-04-30T04:12:47+00:00",
+      "source_published_at": "Tue, 28 Apr 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_3ce4ceb9b8e1.webp",
       "category": "Science",
-      "title": "Nuclear Power Is Making a Comeback — But Where Does All the Waste Go?",
-      "summary": "The U.S. makes 2,000 tons of nuclear waste every year, but there's still no permanent place to store it. Finland is about to open the world's first deep underground storage site. Experts say it's time for other countries to catch up."
+      "title": "Smart Underwear Tracks Your Toots — Science Finally Answers: How Many Farts a Day Is Normal?",
+      "summary": "Scientists made a tiny sensor that snaps into underwear to count farts. In a test, people averaged 32 toots a day. Some farted only 4 times, others 59! Now they want to find the normal range."
     },
     {
-      "id": "2026-04-29-science-3",
-      "source": "snai",
-      "time_ago": "Tue, 14 Apr 2026 08:01:00 +0000",
-      "mined_at": "2026-04-29T12:25:43+00:00",
-      "source_published_at": "Tue, 14 Apr 2026 08:01:00 +0000",
-      "image_url": "/article_images/article_f4fa3ed1331f.webp",
+      "id": "2026-04-30-science-3",
+      "source": "Physics World",
+      "time_ago": "Tue, 28 Apr 2026 08:00:54 +0000",
+      "mined_at": "2026-04-30T04:12:47+00:00",
+      "source_published_at": "Tue, 28 Apr 2026 08:00:54 +0000",
+      "image_url": "/article_images/article_736df3554134.webp",
       "category": "Science",
-      "title": "Want to Think Better? Don't Ask AI for Help Right Away",
-      "summary": "A study found that people who tried solving a problem on their own before using an AI chatbot scored higher on critical thinking. But when time was short, using AI early helped. It's all about when you ask for help."
+      "title": "This Tiny Drone Navigates Like a Bat — Even in Fog and Smoke!",
+      "summary": "A palm-sized drone uses echolocation, just like a bat, to fly through dark, smoky places. It costs $400 and could help find people trapped in disasters."
     }
   ]
 }
