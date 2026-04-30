@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-04-30-fun-1",
-      "source": "Wired Gear",
-      "time_ago": "Wed, 29 Apr 2026 20:45:37 +0000",
-      "mined_at": "2026-04-30T04:12:47+00:00",
-      "source_published_at": "Wed, 29 Apr 2026 20:45:37 +0000",
-      "image_url": "/article_images/article_b4be4929fb74.webp",
+      "source": "Popular Mechanics",
+      "time_ago": "Thu, 30 Apr 2026 15:45:08 +0000",
+      "mined_at": "2026-04-30T18:30:57+00:00",
+      "source_published_at": "Thu, 30 Apr 2026 15:45:08 +0000",
+      "image_url": "/article_images/article_cea488540b1c.webp",
       "category": "Fun",
-      "title": "Robot Cars Freeze Up and Block Fire Trucks — First Responders Are Not Happy",
-      "summary": "Waymo's driverless cars are acting up in San Francisco and Austin, blocking fire stations and ignoring police. Firefighters say it's a safety problem. One 911 operator waited 53 minutes on Waymo's hotline!"
+      "title": "Could Your Gadgets Someday Drink Power From Thin Air?",
+      "summary": "Scientists found a weird quantum trick that pulls electricity straight from the environment—no batteries needed! It’s called the non-linear Hall effect, and it works at room temperature. But don’t toss your batteries yet; it only powers tiny chips for now."
     },
     {
       "id": "2026-04-30-fun-2",
-      "source": "Popular Mechanics",
-      "time_ago": "Wed, 29 Apr 2026 18:05:18 +0000",
-      "mined_at": "2026-04-30T04:12:47+00:00",
-      "source_published_at": "Wed, 29 Apr 2026 18:05:18 +0000",
-      "image_url": "/article_images/article_3ed15bca5b2a.webp",
+      "source": "BBC Tennis",
+      "time_ago": "Wed, 29 Apr 2026 21:24:02 GMT",
+      "mined_at": "2026-04-30T18:30:57+00:00",
+      "source_published_at": "Wed, 29 Apr 2026 21:24:02 GMT",
+      "image_url": "/article_images/article_45318d9a88b4.webp",
       "category": "Fun",
-      "title": "This Drone Folds Like a Book and Shoots Movie-Quality Video — Even If You Crash It!",
-      "summary": "The Hoverair X1 Promax is a tiny drone that fits in your pocket and films in 8K. It has 15 built-in flight tricks, so even beginners can get awesome shots. And it's tough — you can crash it and it bounces back!"
+      "title": "She Lost—Then Got a Second Chance. Now She’s Making Tennis History!",
+      "summary": "Anastasia Potapova lost in qualifying but got into the Madrid Open as a ‘lucky loser.’ She just beat a former world No. 1 to become the first lucky loser ever in a WTA 1000 semifinal. Talk about a comeback!"
     },
     {
       "id": "2026-04-30-fun-3",
-      "source": "MIT News",
-      "time_ago": "Wed, 29 Apr 2026 06:00:00 -0400",
-      "mined_at": "2026-04-30T04:12:47+00:00",
-      "source_published_at": "Wed, 29 Apr 2026 06:00:00 -0400",
-      "image_url": "/article_images/article_f9d57308445a.webp",
+      "source": "Wired Gear",
+      "time_ago": "Thu, 30 Apr 2026 15:00:00 +0000",
+      "mined_at": "2026-04-30T18:30:57+00:00",
+      "source_published_at": "Thu, 30 Apr 2026 15:00:00 +0000",
+      "image_url": "/article_images/article_177b7334c084.webp",
       "category": "Fun",
-      "title": "MIT and IBM Team Up to Build the Super-Smart Computers of the Future",
-      "summary": "MIT and IBM just launched a new lab to work on AI and quantum computers — machines that can solve problems today's computers can't. They'll tackle things like better weather forecasts and new medicines. Over 500 students have already helped out!"
+      "title": "This ‘Dumb’ Phone Is Getting Smarter—But Only a Little!",
+      "summary": "Light Phone makes simple phones to help you unplug. Now they’re letting people build tiny apps—called Tools—like a guitar tuner or bus schedule. No addictive feeds, just useful stuff. Even kids can learn to make them!"
     }
   ]
 }

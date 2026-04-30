@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-04-30-science-1",
-      "source": "ScienceDaily All",
-      "time_ago": "Wed, 29 Apr 2026 05:13:03 EDT",
-      "mined_at": "2026-04-30T04:12:47+00:00",
-      "source_published_at": "Wed, 29 Apr 2026 05:13:03 EDT",
-      "image_url": "/article_images/article_960dd1dfb728.webp",
+      "source": "snai",
+      "time_ago": "Tue, 14 Apr 2026 08:01:00 +0000",
+      "mined_at": "2026-04-30T18:30:57+00:00",
+      "source_published_at": "Tue, 14 Apr 2026 08:01:00 +0000",
+      "image_url": "/article_images/article_f4fa3ed1331f.webp",
       "category": "Science",
-      "title": "A Snake as Long as a School Bus? Meet Vasuki, the 50-Foot Giant!",
-      "summary": "Imagine a snake longer than a school bus! Scientists found fossils of Vasuki indicus in India. This 47-million-year-old snake may have been 50 feet long, as big as Titanoboa."
+      "title": "When Should You Use AI? The Answer Might Surprise You!",
+      "summary": "A new study shows that using AI later, after you've tried solving a problem yourself, can actually boost your critical thinking. But if you're in a hurry, using AI early helps."
     },
     {
       "id": "2026-04-30-science-2",
-      "source": "Science News Explores",
-      "time_ago": "Tue, 28 Apr 2026 10:30:00 +0000",
-      "mined_at": "2026-04-30T04:12:47+00:00",
-      "source_published_at": "Tue, 28 Apr 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_3ce4ceb9b8e1.webp",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Thu, 30 Apr 2026 04:31:42 EDT",
+      "mined_at": "2026-04-30T18:30:57+00:00",
+      "source_published_at": "Thu, 30 Apr 2026 04:31:42 EDT",
+      "image_url": "/article_images/article_d832d400e8ea.webp",
       "category": "Science",
-      "title": "Smart Underwear Tracks Your Toots — Science Finally Answers: How Many Farts a Day Is Normal?",
-      "summary": "Scientists made a tiny sensor that snaps into underwear to count farts. In a test, people averaged 32 toots a day. Some farted only 4 times, others 59! Now they want to find the normal range."
+      "title": "Scientists Find a Way to Restore Memory in Mice with Alzheimer's",
+      "summary": "By blocking a single protein called PTP1B, scientists improved memory in mice with Alzheimer's. This could lead to new treatments for the disease that affects millions of people."
     },
     {
       "id": "2026-04-30-science-3",
-      "source": "Physics World",
-      "time_ago": "Tue, 28 Apr 2026 08:00:54 +0000",
-      "mined_at": "2026-04-30T04:12:47+00:00",
-      "source_published_at": "Tue, 28 Apr 2026 08:00:54 +0000",
-      "image_url": "/article_images/article_736df3554134.webp",
+      "source": "MIT Tech Review",
+      "time_ago": "Thu, 30 Apr 2026 12:10:00 +0000",
+      "mined_at": "2026-04-30T18:30:57+00:00",
+      "source_published_at": "Thu, 30 Apr 2026 12:10:00 +0000",
+      "image_url": "/article_images/article_3f63247187ac.webp",
       "category": "Science",
-      "title": "This Tiny Drone Navigates Like a Bat — Even in Fog and Smoke!",
-      "summary": "A palm-sized drone uses echolocation, just like a bat, to fly through dark, smoky places. It costs $400 and could help find people trapped in disasters."
+      "title": "Your Everyday Moves Could Be Training Robots!",
+      "summary": "Robotics companies are paying people to film themselves doing simple tasks like microwaving food. This data helps train humanoid robots to move like humans."
     }
   ]
 }

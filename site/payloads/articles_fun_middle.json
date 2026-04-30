@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-04-30-fun-1",
-      "source": "Wired Gear",
-      "time_ago": "Wed, 29 Apr 2026 20:45:37 +0000",
-      "mined_at": "2026-04-30T04:12:47+00:00",
-      "source_published_at": "Wed, 29 Apr 2026 20:45:37 +0000",
-      "image_url": "/article_images/article_b4be4929fb74.webp",
+      "source": "Popular Mechanics",
+      "time_ago": "Thu, 30 Apr 2026 15:45:08 +0000",
+      "mined_at": "2026-04-30T18:30:57+00:00",
+      "source_published_at": "Thu, 30 Apr 2026 15:45:08 +0000",
+      "image_url": "/article_images/article_cea488540b1c.webp",
       "category": "Fun",
-      "title": "Waymo's Driverless Cars Are 'Backsliding' — Blocking Fire Trucks and Ignoring Police",
-      "summary": "Emergency officials from San Francisco and Austin told federal regulators that Waymo's autonomous vehicles are freezing up more often, blocking fire stations, and failing to respond to hand signals. One 911 call to Waymo's hotline took 53 minutes to answer."
+      "title": "Quantum ‘Time Trick’ Could Let Tiny Devices Sip Energy From Their Surroundings",
+      "summary": "Physicists have harnessed a quantum phenomenon called the non-linear Hall effect (NLHE) to convert electrical signals directly into current—no bulky components needed. It works at room temperature, but for now, it’s only suited for atom-thin, self-powered microchips."
     },
     {
       "id": "2026-04-30-fun-2",
-      "source": "Popular Mechanics",
-      "time_ago": "Wed, 29 Apr 2026 18:05:18 +0000",
-      "mined_at": "2026-04-30T04:12:47+00:00",
-      "source_published_at": "Wed, 29 Apr 2026 18:05:18 +0000",
-      "image_url": "/article_images/article_3ed15bca5b2a.webp",
+      "source": "BBC Tennis",
+      "time_ago": "Wed, 29 Apr 2026 21:24:02 GMT",
+      "mined_at": "2026-04-30T18:30:57+00:00",
+      "source_published_at": "Wed, 29 Apr 2026 21:24:02 GMT",
+      "image_url": "/article_images/article_45318d9a88b4.webp",
       "category": "Fun",
-      "title": "The Hoverair X1 Promax: A Pocket-Sized Drone That Shoots 8K and Survives Crashes",
-      "summary": "The Hoverair X1 Promax is a foldable, sub-200-gram drone with 15 pre-programmed flight modes and 8K video. Its durable, flexible frame shrugs off crashes, making it ideal for beginners who want cinematic shots without the stress."
+      "title": "From Qualifying Loss to History: Potapova’s ‘Lucky Loser’ Run Stuns Madrid",
+      "summary": "Anastasia Potapova lost in qualifying but entered the Madrid Open as a lucky loser. She then beat former world No. 1 Karolina Pliskova 6-1, 6-7(4), 6-3 to become the first lucky loser in a WTA 1000 semifinal."
     },
     {
       "id": "2026-04-30-fun-3",
-      "source": "MIT News",
-      "time_ago": "Wed, 29 Apr 2026 06:00:00 -0400",
-      "mined_at": "2026-04-30T04:12:47+00:00",
-      "source_published_at": "Wed, 29 Apr 2026 06:00:00 -0400",
-      "image_url": "/article_images/article_f9d57308445a.webp",
+      "source": "Wired Gear",
+      "time_ago": "Thu, 30 Apr 2026 15:00:00 +0000",
+      "mined_at": "2026-04-30T18:30:57+00:00",
+      "source_published_at": "Thu, 30 Apr 2026 15:00:00 +0000",
+      "image_url": "/article_images/article_177b7334c084.webp",
       "category": "Fun",
-      "title": "MIT and IBM Launch Joint Lab to Pioneer AI-Quantum Hybrid Computing",
-      "summary": "The new MIT-IBM Computing Research Lab will focus on AI, algorithms, and quantum computing, aiming to create hybrid systems that surpass classical limits. Building on a decade of collaboration, it has already involved 150+ MIT faculty and funded over 500 students."
+      "title": "Light Phone Opens Up: Now Anyone Can Build ‘Tools’ for Its Minimalist Handset",
+      "summary": "Light Phone is launching a developer program for its Light Phone III, letting users create simple apps called Tools. From guitar tuners to transit schedules, these add-ons aim to make the ‘dumb phone’ more useful without turning it into a smartphone."
     }
   ]
 }
