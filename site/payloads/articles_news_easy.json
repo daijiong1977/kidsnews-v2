@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-04-30-news-1",
-      "source": "Al Jazeera",
-      "time_ago": "Thu, 30 Apr 2026 15:26:37 +0000",
-      "mined_at": "2026-04-30T18:30:57+00:00",
-      "source_published_at": "Thu, 30 Apr 2026 15:26:37 +0000",
-      "image_url": "/article_images/article_66f072a08e98.webp",
-      "category": "News",
-      "title": "FIFA’s Boss Gets a Big Boost for a Fourth Term — Wait, Is That Even Allowed?",
-      "summary": "Gianni Infantino wants to lead FIFA again, and now Africa and Asia say they’ll vote for him. That’s 101 votes out of 211 — almost half! But some people say his first term shouldn’t count, so he can run one more time."
-    },
-    {
-      "id": "2026-04-30-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Thu, 30 Apr 2026 11:32:07 -0400",
-      "mined_at": "2026-04-30T18:30:57+00:00",
-      "source_published_at": "Thu, 30 Apr 2026 11:32:07 -0400",
-      "image_url": "/article_images/article_a60ca938c54c.webp",
-      "category": "News",
-      "title": "Louisiana’s Big Election Pause: Why Voting Maps Got So Messy",
-      "summary": "Louisiana’s primary elections are suddenly on hold because the Supreme Court said one voting district was drawn unfairly. Now, with early voting supposed to start Saturday, no one knows when people will vote — and it could change who wins in November."
-    },
-    {
-      "id": "2026-04-30-news-3",
+      "id": "2026-05-01-news-1",
       "source": "NPR World",
-      "time_ago": "Thu, 30 Apr 2026 05:00:00 -0400",
-      "mined_at": "2026-04-30T18:30:57+00:00",
-      "source_published_at": "Thu, 30 Apr 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_42d2ea0ab917.webp",
+      "time_ago": "Fri, 01 May 2026 10:06:40 -0400",
+      "mined_at": "2026-05-01T18:21:38+00:00",
+      "source_published_at": "Fri, 01 May 2026 10:06:40 -0400",
+      "image_url": "/article_images/article_966d12e60303.webp",
       "category": "News",
-      "title": "A 500-Mile Road Trip for a Campus Show: Inside Turning Point’s Wild Idaho Finale",
-      "summary": "Turning Point USA’s college tour had some stops with tiny crowds, but in Idaho, hundreds lined up hours early — and over 1,000 were turned away. Two fans drove from California and Nevada just to see conservative speakers Matt Walsh and Michael Knowles."
+      "title": "LA Schools Say 'Enough!' to Too Much Screen Time",
+      "summary": "A mom got mad when her son was punished for not bringing his iPad to gym class. Now LA's huge school district is slashing screen time for all kids, especially the littlest ones. Other states are doing it too."
+    },
+    {
+      "id": "2026-05-01-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Fri, 01 May 2026 11:56:59 -0400",
+      "mined_at": "2026-05-01T18:21:38+00:00",
+      "source_published_at": "Fri, 01 May 2026 11:56:59 -0400",
+      "image_url": "/article_images/article_489e4ea7df2e.webp",
+      "category": "News",
+      "title": "Workers Around the World Say 'No' to Paying for War",
+      "summary": "On May Day, people in many countries marched for better pay and peace. They're angry because the Iran war is making food and gas more expensive. In Manila, protesters clashed with police near the U.S. Embassy."
+    },
+    {
+      "id": "2026-05-01-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Fri, 01 May 2026 16:03:27 +0000",
+      "mined_at": "2026-05-01T18:21:38+00:00",
+      "source_published_at": "Fri, 01 May 2026 16:03:27 +0000",
+      "image_url": "/article_images/article_8038c1b31844.webp",
+      "category": "News",
+      "title": "A Mega Trade Deal Just Started — and It Could Change What You Eat",
+      "summary": "After 25 years of talking, Europe and South America's Mercosur bloc finally started a huge trade deal. It covers 720 million people and $22 trillion. That means cheaper beef from Brazil, but some farmers are worried."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-04-30-science-1",
+      "id": "2026-05-01-science-1",
+      "source": "ScienceDaily All",
+      "time_ago": "Fri, 01 May 2026 09:07:15 EDT",
+      "mined_at": "2026-05-01T18:21:38+00:00",
+      "source_published_at": "Fri, 01 May 2026 09:07:15 EDT",
+      "image_url": "/article_images/article_a890d74c8c4e.webp",
+      "category": "Science",
+      "title": "This 275-Million-Year-Old Animal Had a Jaw So Twisted It Stumped Scientists for Years",
+      "summary": "Imagine a jaw where teeth point sideways instead of up! Scientists found nine fossil jaws in Brazil from a weird animal called Tanyka, which lived 275 million years ago. Its twisted jaw hints it was a plant-eater, like a prehistoric platypus."
+    },
+    {
+      "id": "2026-05-01-science-2",
       "source": "snai",
-      "time_ago": "Tue, 14 Apr 2026 08:01:00 +0000",
-      "mined_at": "2026-04-30T18:30:57+00:00",
-      "source_published_at": "Tue, 14 Apr 2026 08:01:00 +0000",
-      "image_url": "/article_images/article_f4fa3ed1331f.webp",
+      "time_ago": "Thu, 30 Apr 2026 18:00:00 +0000",
+      "mined_at": "2026-05-01T18:21:38+00:00",
+      "source_published_at": "Thu, 30 Apr 2026 18:00:00 +0000",
+      "image_url": "/article_images/article_a930f6141356.webp",
       "category": "Science",
-      "title": "When Should You Use AI? The Answer Might Surprise You!",
-      "summary": "A new study shows that using AI later, after you've tried solving a problem yourself, can actually boost your critical thinking. But if you're in a hurry, using AI early helps."
+      "title": "AI Is Getting Scarily Good at Diagnosing Tough Medical Cases—Even Better Than Doctors",
+      "summary": "In a new study, an AI model correctly guessed the right diagnosis almost 80% of the time, beating human doctors. The AI even spotted a dangerous flesh-eating infection 12 hours before doctors did. But experts say AI should help, not replace, real doctors."
     },
     {
-      "id": "2026-04-30-science-2",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Thu, 30 Apr 2026 04:31:42 EDT",
-      "mined_at": "2026-04-30T18:30:57+00:00",
-      "source_published_at": "Thu, 30 Apr 2026 04:31:42 EDT",
-      "image_url": "/article_images/article_d832d400e8ea.webp",
-      "category": "Science",
-      "title": "Scientists Find a Way to Restore Memory in Mice with Alzheimer's",
-      "summary": "By blocking a single protein called PTP1B, scientists improved memory in mice with Alzheimer's. This could lead to new treatments for the disease that affects millions of people."
-    },
-    {
-      "id": "2026-04-30-science-3",
+      "id": "2026-05-01-science-3",
       "source": "MIT Tech Review",
-      "time_ago": "Thu, 30 Apr 2026 12:10:00 +0000",
-      "mined_at": "2026-04-30T18:30:57+00:00",
-      "source_published_at": "Thu, 30 Apr 2026 12:10:00 +0000",
-      "image_url": "/article_images/article_3f63247187ac.webp",
+      "time_ago": "Fri, 01 May 2026 15:54:01 +0000",
+      "mined_at": "2026-05-01T18:21:38+00:00",
+      "source_published_at": "Fri, 01 May 2026 15:54:01 +0000",
+      "image_url": "/article_images/article_b11745bafe8b.webp",
       "category": "Science",
-      "title": "Your Everyday Moves Could Be Training Robots!",
-      "summary": "Robotics companies are paying people to film themselves doing simple tasks like microwaving food. This data helps train humanoid robots to move like humans."
+      "title": "Why Your Online Safety Needs a Total Makeover in the Age of AI",
+      "summary": "AI is making computers smarter, but it's also giving hackers new ways to attack. A cybersecurity expert says we can't just add AI to old security systems—we need to rebuild security with AI at the center. Think of it like building a fortress, not just adding locks."
     }
   ]
 }

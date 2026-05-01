@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-04-30-fun-1",
-      "source": "Popular Mechanics",
-      "time_ago": "Thu, 30 Apr 2026 15:45:08 +0000",
-      "mined_at": "2026-04-30T18:30:57+00:00",
-      "source_published_at": "Thu, 30 Apr 2026 15:45:08 +0000",
-      "image_url": "/article_images/article_cea488540b1c.webp",
-      "category": "Fun",
-      "title": "Could Your Gadgets Someday Drink Power From Thin Air?",
-      "summary": "Scientists found a weird quantum trick that pulls electricity straight from the environment—no batteries needed! It’s called the non-linear Hall effect, and it works at room temperature. But don’t toss your batteries yet; it only powers tiny chips for now."
-    },
-    {
-      "id": "2026-04-30-fun-2",
+      "id": "2026-05-01-fun-1",
       "source": "BBC Tennis",
-      "time_ago": "Wed, 29 Apr 2026 21:24:02 GMT",
-      "mined_at": "2026-04-30T18:30:57+00:00",
-      "source_published_at": "Wed, 29 Apr 2026 21:24:02 GMT",
-      "image_url": "/article_images/article_45318d9a88b4.webp",
+      "time_ago": "Thu, 30 Apr 2026 22:30:19 GMT",
+      "mined_at": "2026-05-01T18:21:38+00:00",
+      "source_published_at": "Thu, 30 Apr 2026 22:30:19 GMT",
+      "image_url": "/article_images/article_33a7c2a6eb8b.webp",
       "category": "Fun",
-      "title": "She Lost—Then Got a Second Chance. Now She’s Making Tennis History!",
-      "summary": "Anastasia Potapova lost in qualifying but got into the Madrid Open as a ‘lucky loser.’ She just beat a former world No. 1 to become the first lucky loser ever in a WTA 1000 semifinal. Talk about a comeback!"
+      "title": "Birthday Girl Mirra Andreeva Fights Off Nerves to Reach Her First Madrid Final!",
+      "summary": "Just a day after turning 19, Mirra Andreeva saved set points in a tense tiebreak to beat Hailey Baptiste. She’s now the second-youngest finalist ever in Madrid, and she’ll face Marta Kostyuk on Saturday."
     },
     {
-      "id": "2026-04-30-fun-3",
-      "source": "Wired Gear",
-      "time_ago": "Thu, 30 Apr 2026 15:00:00 +0000",
-      "mined_at": "2026-04-30T18:30:57+00:00",
-      "source_published_at": "Thu, 30 Apr 2026 15:00:00 +0000",
-      "image_url": "/article_images/article_177b7334c084.webp",
+      "id": "2026-05-01-fun-2",
+      "source": "Variety",
+      "time_ago": "Fri, 01 May 2026 17:36:08 +0000",
+      "mined_at": "2026-05-01T18:21:38+00:00",
+      "source_published_at": "Fri, 01 May 2026 17:36:08 +0000",
+      "image_url": "/article_images/article_286e72a01dbf.webp",
       "category": "Fun",
-      "title": "This ‘Dumb’ Phone Is Getting Smarter—But Only a Little!",
-      "summary": "Light Phone makes simple phones to help you unplug. Now they’re letting people build tiny apps—called Tools—like a guitar tuner or bus schedule. No addictive feeds, just useful stuff. Even kids can learn to make them!"
+      "title": "The Woman Behind Your Favorite Pop Songs Just Won a Huge Award!",
+      "summary": "Amy Allen, who co-wrote Sabrina Carpenter’s “Manchild” and “Tears” as well as “APT.” by Rosé and Bruno Mars, was named Songwriter of the Year at the ASCAP Pop Awards. Laufey also got a special award for her creative voice."
+    },
+    {
+      "id": "2026-05-01-fun-3",
+      "source": "Wired Gear",
+      "time_ago": "Fri, 01 May 2026 11:00:00 +0000",
+      "mined_at": "2026-05-01T18:21:38+00:00",
+      "source_published_at": "Fri, 01 May 2026 11:00:00 +0000",
+      "image_url": "/article_images/article_dfe2c91cf642.webp",
+      "category": "Fun",
+      "title": "Chef Jon Kung’s Kitchen Secrets: A Fridge Covered in Stickers and a Dream Rice Cooker",
+      "summary": "Chef Jon Kung, with over 2 million followers, shares their favorite kitchen gear—from a SMEG fridge covered in punk stickers to a wish for a rice cooker that washes rice. They also reveal why you should always wash your rice (bug eggs!)."
     }
   ]
 }

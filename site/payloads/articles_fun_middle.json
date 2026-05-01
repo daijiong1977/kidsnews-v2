@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-04-30-fun-1",
-      "source": "Popular Mechanics",
-      "time_ago": "Thu, 30 Apr 2026 15:45:08 +0000",
-      "mined_at": "2026-04-30T18:30:57+00:00",
-      "source_published_at": "Thu, 30 Apr 2026 15:45:08 +0000",
-      "image_url": "/article_images/article_cea488540b1c.webp",
-      "category": "Fun",
-      "title": "Quantum ‘Time Trick’ Could Let Tiny Devices Sip Energy From Their Surroundings",
-      "summary": "Physicists have harnessed a quantum phenomenon called the non-linear Hall effect (NLHE) to convert electrical signals directly into current—no bulky components needed. It works at room temperature, but for now, it’s only suited for atom-thin, self-powered microchips."
-    },
-    {
-      "id": "2026-04-30-fun-2",
+      "id": "2026-05-01-fun-1",
       "source": "BBC Tennis",
-      "time_ago": "Wed, 29 Apr 2026 21:24:02 GMT",
-      "mined_at": "2026-04-30T18:30:57+00:00",
-      "source_published_at": "Wed, 29 Apr 2026 21:24:02 GMT",
-      "image_url": "/article_images/article_45318d9a88b4.webp",
+      "time_ago": "Thu, 30 Apr 2026 22:30:19 GMT",
+      "mined_at": "2026-05-01T18:21:38+00:00",
+      "source_published_at": "Thu, 30 Apr 2026 22:30:19 GMT",
+      "image_url": "/article_images/article_33a7c2a6eb8b.webp",
       "category": "Fun",
-      "title": "From Qualifying Loss to History: Potapova’s ‘Lucky Loser’ Run Stuns Madrid",
-      "summary": "Anastasia Potapova lost in qualifying but entered the Madrid Open as a lucky loser. She then beat former world No. 1 Karolina Pliskova 6-1, 6-7(4), 6-3 to become the first lucky loser in a WTA 1000 semifinal."
+      "title": "At 19, Mirra Andreeva Saves Set Points to Become Madrid’s Second-Youngest Finalist—And She’s Just Getting Started",
+      "summary": "A day after her 19th birthday, Mirra Andreeva saved multiple set points in a dramatic tiebreak to edge Hailey Baptiste 6-4, 7-6 (10-8). She’s the first teenager to reach three WTA 1000 finals and now faces Marta Kostyuk, who refused a post-match handshake with her Russian-born opponent."
     },
     {
-      "id": "2026-04-30-fun-3",
-      "source": "Wired Gear",
-      "time_ago": "Thu, 30 Apr 2026 15:00:00 +0000",
-      "mined_at": "2026-04-30T18:30:57+00:00",
-      "source_published_at": "Thu, 30 Apr 2026 15:00:00 +0000",
-      "image_url": "/article_images/article_177b7334c084.webp",
+      "id": "2026-05-01-fun-2",
+      "source": "Variety",
+      "time_ago": "Fri, 01 May 2026 17:36:08 +0000",
+      "mined_at": "2026-05-01T18:21:38+00:00",
+      "source_published_at": "Fri, 01 May 2026 17:36:08 +0000",
+      "image_url": "/article_images/article_286e72a01dbf.webp",
       "category": "Fun",
-      "title": "Light Phone Opens Up: Now Anyone Can Build ‘Tools’ for Its Minimalist Handset",
-      "summary": "Light Phone is launching a developer program for its Light Phone III, letting users create simple apps called Tools. From guitar tuners to transit schedules, these add-ons aim to make the ‘dumb phone’ more useful without turning it into a smartphone."
+      "title": "Amy Allen, the Hitmaker Behind Sabrina Carpenter and ‘APT.,’ Is ASCAP’s Songwriter of the Year",
+      "summary": "Amy Allen, co-writer of Sabrina Carpenter’s “Manchild,” “Tears,” and the viral smash “APT.” by Rosé and Bruno Mars, took home Songwriter of the Year at the ASCAP Pop Awards. Laufey received the Creative Voice Award, celebrating her genre-blending pop-jazz sound."
+    },
+    {
+      "id": "2026-05-01-fun-3",
+      "source": "Wired Gear",
+      "time_ago": "Fri, 01 May 2026 11:00:00 +0000",
+      "mined_at": "2026-05-01T18:21:38+00:00",
+      "source_published_at": "Fri, 01 May 2026 11:00:00 +0000",
+      "image_url": "/article_images/article_dfe2c91cf642.webp",
+      "category": "Fun",
+      "title": "Chef Jon Kung on the Kitchen Gear They Swear By—and the One Invention They’re Still Waiting For",
+      "summary": "From a sticker-covered SMEG fridge to a dream rice cooker that washes rice, chef Jon Kung shares their must-have tools and hilarious regrets. The TikTok star, known for third-culture Chinese feasts, also explains why unwashed rice contains bug eggs and why you should never buy combo pans."
     }
   ]
 }

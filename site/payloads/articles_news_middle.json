@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-04-30-news-1",
-      "source": "Al Jazeera",
-      "time_ago": "Thu, 30 Apr 2026 15:26:37 +0000",
-      "mined_at": "2026-04-30T18:30:57+00:00",
-      "source_published_at": "Thu, 30 Apr 2026 15:26:37 +0000",
-      "image_url": "/article_images/article_66f072a08e98.webp",
-      "category": "News",
-      "title": "Infantino’s Path to a Fourth FIFA Term Clears as Africa and Asia Pledge Support",
-      "summary": "Gianni Infantino’s re-election bid got a major boost as CAF and AFC endorsed him for a fourth term. With 101 of 211 votes now pledged, his path looks smooth — but controversy over term limits and his Trump ties lingers."
-    },
-    {
-      "id": "2026-04-30-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Thu, 30 Apr 2026 11:32:07 -0400",
-      "mined_at": "2026-04-30T18:30:57+00:00",
-      "source_published_at": "Thu, 30 Apr 2026 11:32:07 -0400",
-      "image_url": "/article_images/article_a60ca938c54c.webp",
-      "category": "News",
-      "title": "Supreme Court Ruling Halts Louisiana Primaries, Throwing Midterm Map into Chaos",
-      "summary": "A Supreme Court decision striking down a majority-Black district has forced Louisiana to suspend its May 16 congressional primary. Early voting was set to begin Saturday; now officials scramble for a new map that could shift House control."
-    },
-    {
-      "id": "2026-04-30-news-3",
+      "id": "2026-05-01-news-1",
       "source": "NPR World",
-      "time_ago": "Thu, 30 Apr 2026 05:00:00 -0400",
-      "mined_at": "2026-04-30T18:30:57+00:00",
-      "source_published_at": "Thu, 30 Apr 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_42d2ea0ab917.webp",
+      "time_ago": "Fri, 01 May 2026 10:06:40 -0400",
+      "mined_at": "2026-05-01T18:21:38+00:00",
+      "source_published_at": "Fri, 01 May 2026 10:06:40 -0400",
+      "image_url": "/article_images/article_966d12e60303.webp",
       "category": "News",
-      "title": "From Empty Seats to Overflow Crowds: Turning Point’s Tour Ends with a Bang in Idaho",
-      "summary": "After low turnout and cancellations at earlier stops, Turning Point USA’s final tour event in Idaho drew a massive crowd. Over 1,000 fans were turned away as Matt Walsh and Michael Knowles headlined a night of debate and enthusiasm."
+      "title": "LAUSD Votes to Slash Screen Time, Joining a Growing State-Level Movement",
+      "summary": "A parent's frustration over an iPad penalty in PE class sparked a campaign that just convinced the nation's second-largest school district to restrict screens. Alabama, Tennessee, Utah, and Virginia have already passed laws, with more states considering similar limits."
+    },
+    {
+      "id": "2026-05-01-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Fri, 01 May 2026 11:56:59 -0400",
+      "mined_at": "2026-05-01T18:21:38+00:00",
+      "source_published_at": "Fri, 01 May 2026 11:56:59 -0400",
+      "image_url": "/article_images/article_489e4ea7df2e.webp",
+      "category": "News",
+      "title": "Global May Day Rallies Target War-Driven Cost-of-Living Crisis",
+      "summary": "From Seoul to São Paulo, workers took to the streets on International Workers' Day to protest rising living costs tied to the Iran war. In Manila, demonstrators clashed with police near the U.S. Embassy, while European unions declared, 'Working people refuse to pay the price for Donald Trump's war.'"
+    },
+    {
+      "id": "2026-05-01-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Fri, 01 May 2026 16:03:27 +0000",
+      "mined_at": "2026-05-01T18:21:38+00:00",
+      "source_published_at": "Fri, 01 May 2026 16:03:27 +0000",
+      "image_url": "/article_images/article_8038c1b31844.webp",
+      "category": "News",
+      "title": "EU-Mercosur Trade Pact Takes Effect, Creating a $22 Trillion Market",
+      "summary": "After a quarter-century of negotiations, the EU and South America's Mercosur bloc provisionally launched one of the world's largest free trade zones, covering 720 million consumers. The deal eliminates tariffs on over 90% of bilateral trade but faces legal challenges and fierce opposition from farmers and environmentalists."
     }
   ]
 }
