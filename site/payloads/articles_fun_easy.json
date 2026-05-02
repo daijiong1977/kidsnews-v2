@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-01-fun-1",
+      "id": "2026-05-02-fun-1",
+      "source": "NPR Music (backup)",
+      "time_ago": "Thu, 30 Apr 2026 14:42:53 -0400",
+      "mined_at": "2026-05-02T21:03:33+00:00",
+      "source_published_at": "Thu, 30 Apr 2026 14:42:53 -0400",
+      "image_url": "/article_images/article_2b5bf0ab704c.webp",
+      "category": "Fun",
+      "title": "Olivia Rodrigo's New Song Sends a 1980s Band Back to the Charts!",
+      "summary": "Olivia Rodrigo's new single 'drop dead' hit No. 1, and a lyric about The Cure's 'Just Like Heaven' made their old hits album return to the chart at No. 93. Even a tiny shout-out can give a classic band a big boost!"
+    },
+    {
+      "id": "2026-05-02-fun-2",
       "source": "BBC Tennis",
-      "time_ago": "Thu, 30 Apr 2026 22:30:19 GMT",
-      "mined_at": "2026-05-01T18:21:38+00:00",
-      "source_published_at": "Thu, 30 Apr 2026 22:30:19 GMT",
-      "image_url": "/article_images/article_33a7c2a6eb8b.webp",
+      "time_ago": "Fri, 01 May 2026 20:36:28 GMT",
+      "mined_at": "2026-05-02T21:03:33+00:00",
+      "source_published_at": "Fri, 01 May 2026 20:36:28 GMT",
+      "image_url": "/article_images/article_1107f249c096.webp",
       "category": "Fun",
-      "title": "Birthday Girl Mirra Andreeva Fights Off Nerves to Reach Her First Madrid Final!",
-      "summary": "Just a day after turning 19, Mirra Andreeva saved set points in a tense tiebreak to beat Hailey Baptiste. She’s now the second-youngest finalist ever in Madrid, and she’ll face Marta Kostyuk on Saturday."
+      "title": "Sinner Zooms Toward a Tennis Record — and He's Only 24!",
+      "summary": "Jannik Sinner beat Arthur Fils to reach the Madrid Open final. If he wins, he'll be the first man to grab five Masters 1000 titles in a row, breaking a record held by Djokovic and Nadal. He's already won 22 matches straight!"
     },
     {
-      "id": "2026-05-01-fun-2",
-      "source": "Variety",
-      "time_ago": "Fri, 01 May 2026 17:36:08 +0000",
-      "mined_at": "2026-05-01T18:21:38+00:00",
-      "source_published_at": "Fri, 01 May 2026 17:36:08 +0000",
-      "image_url": "/article_images/article_286e72a01dbf.webp",
+      "id": "2026-05-02-fun-3",
+      "source": "Live Science",
+      "time_ago": "Sat, 02 May 2026 13:00:00 +0000",
+      "mined_at": "2026-05-02T21:03:33+00:00",
+      "source_published_at": "Sat, 02 May 2026 13:00:00 +0000",
+      "image_url": "/article_images/article_3f18107b01bb.webp",
       "category": "Fun",
-      "title": "The Woman Behind Your Favorite Pop Songs Just Won a Huge Award!",
-      "summary": "Amy Allen, who co-wrote Sabrina Carpenter’s “Manchild” and “Tears” as well as “APT.” by Rosé and Bruno Mars, was named Songwriter of the Year at the ASCAP Pop Awards. Laufey also got a special award for her creative voice."
-    },
-    {
-      "id": "2026-05-01-fun-3",
-      "source": "Wired Gear",
-      "time_ago": "Fri, 01 May 2026 11:00:00 +0000",
-      "mined_at": "2026-05-01T18:21:38+00:00",
-      "source_published_at": "Fri, 01 May 2026 11:00:00 +0000",
-      "image_url": "/article_images/article_dfe2c91cf642.webp",
-      "category": "Fun",
-      "title": "Chef Jon Kung’s Kitchen Secrets: A Fridge Covered in Stickers and a Dream Rice Cooker",
-      "summary": "Chef Jon Kung, with over 2 million followers, shares their favorite kitchen gear—from a SMEG fridge covered in punk stickers to a wish for a rice cooker that washes rice. They also reveal why you should always wash your rice (bug eggs!)."
+      "title": "A Computer Just Found 10,000 Hidden Planets — and One Is a 'Hot Jupiter'!",
+      "summary": "Scientists used a smart computer program to spot over 10,000 possible new planets in old space data. If they're all real, we'd triple the number of known worlds! One, a 'hot Jupiter,' was already confirmed using a giant telescope."
     }
   ]
 }

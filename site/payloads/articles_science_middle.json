@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-01-science-1",
+      "id": "2026-05-02-science-1",
       "source": "ScienceDaily All",
-      "time_ago": "Fri, 01 May 2026 09:07:15 EDT",
-      "mined_at": "2026-05-01T18:21:38+00:00",
-      "source_published_at": "Fri, 01 May 2026 09:07:15 EDT",
-      "image_url": "/article_images/article_a890d74c8c4e.webp",
+      "time_ago": "Fri, 01 May 2026 08:27:27 EDT",
+      "mined_at": "2026-05-02T21:03:33+00:00",
+      "source_published_at": "Fri, 01 May 2026 08:27:27 EDT",
+      "image_url": "/article_images/article_4bcc1e05c8cd.webp",
       "category": "Science",
-      "title": "A 'Living Fossil' With a Twisted Jaw: This 275-Million-Year-Old Tetrapod Defies Explanation",
-      "summary": "Paleontologists in Brazil unearthed nine fossil jaws from Tanyka amnicola, a stem tetrapod with teeth pointing sideways. The 275-million-year-old herbivore was a \"living fossil\" even in its time, like a platypus among mammals. Its bizarre jaw hints at a unique grinding feeding style."
+      "title": "Meet the Wall-Crawling Spider Named After Pink Floyd That Punches Above Its Weight",
+      "summary": "A newly discovered spider, Pikelinia floydmuraria, lives in building walls and hunts prey up to six times its size. Named after Pink Floyd, it targets household pests like mosquitoes and flies, potentially helping urban pest control."
     },
     {
-      "id": "2026-05-01-science-2",
-      "source": "snai",
-      "time_ago": "Thu, 30 Apr 2026 18:00:00 +0000",
-      "mined_at": "2026-05-01T18:21:38+00:00",
-      "source_published_at": "Thu, 30 Apr 2026 18:00:00 +0000",
-      "image_url": "/article_images/article_a930f6141356.webp",
+      "id": "2026-05-02-science-2",
+      "source": "Science News Explores",
+      "time_ago": "Tue, 28 Apr 2026 10:30:00 +0000",
+      "mined_at": "2026-05-02T21:03:33+00:00",
+      "source_published_at": "Tue, 28 Apr 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_3ce4ceb9b8e1.webp",
       "category": "Science",
-      "title": "AI Outperforms Doctors at Diagnostic Reasoning, but Experts Urge Caution",
-      "summary": "OpenAI's o1-preview model correctly diagnosed challenging medical cases nearly 80% of the time, surpassing human clinicians. In one instance, it flagged a flesh-eating infection 12 hours before doctors. The study in Science reignites debate on AI's role in medicine."
+      "title": "Forget Heart Rate: Scientists Are Now Tracking Your Farts with Smart Underwear",
+      "summary": "Researchers developed a quarter-sized sensor that snaps into underwear to measure hydrogen from farts. A pilot study found people average 32 toots daily, but the range is wide. The Human Flatus Atlas project aims to establish a normal baseline."
     },
     {
-      "id": "2026-05-01-science-3",
-      "source": "MIT Tech Review",
-      "time_ago": "Fri, 01 May 2026 15:54:01 +0000",
-      "mined_at": "2026-05-01T18:21:38+00:00",
-      "source_published_at": "Fri, 01 May 2026 15:54:01 +0000",
-      "image_url": "/article_images/article_b11745bafe8b.webp",
+      "id": "2026-05-02-science-3",
+      "source": "IEEE Spectrum",
+      "time_ago": "Thu, 30 Apr 2026 14:00:01 +0000",
+      "mined_at": "2026-05-02T21:03:33+00:00",
+      "source_published_at": "Thu, 30 Apr 2026 14:00:01 +0000",
+      "image_url": "/article_images/article_87965767336c.webp",
       "category": "Science",
-      "title": "Rethinking Cybersecurity: Why AI Must Be at the Core, Not an Afterthought",
-      "summary": "At MIT Technology Review's EmTech AI conference, cybersecurity expert Tarique Mustafa argued that legacy security systems can't handle AI-driven threats. With AI expanding the attack surface, security must be rebuilt with autonomous AI at its foundation—not layered on top."
+      "title": "The $1 Cyberattack Is Here: How AI Is Reshaping the Hacker-Defender Arms Race",
+      "summary": "Large language models can now autonomously discover and exploit software vulnerabilities for under a dollar. While AI also aids defenders, the asymmetry favors attackers because fixing bugs still requires human effort, especially in under-resourced open-source projects."
     }
   ]
 }

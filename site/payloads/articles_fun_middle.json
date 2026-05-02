@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-01-fun-1",
+      "id": "2026-05-02-fun-1",
+      "source": "NPR Music (backup)",
+      "time_ago": "Thu, 30 Apr 2026 14:42:53 -0400",
+      "mined_at": "2026-05-02T21:03:33+00:00",
+      "source_published_at": "Thu, 30 Apr 2026 14:42:53 -0400",
+      "image_url": "/article_images/article_2b5bf0ab704c.webp",
+      "category": "Fun",
+      "title": "A Lyric, a Legend, and a Chart Comeback: How Olivia Rodrigo Gave The Cure a Boost",
+      "summary": "Olivia Rodrigo's 'drop dead' debuted at No. 1, and a name-drop of The Cure's 'Just Like Heaven' in the lyrics pushed the band's greatest hits back onto the Billboard 200 at No. 93. A single line can revive a classic."
+    },
+    {
+      "id": "2026-05-02-fun-2",
       "source": "BBC Tennis",
-      "time_ago": "Thu, 30 Apr 2026 22:30:19 GMT",
-      "mined_at": "2026-05-01T18:21:38+00:00",
-      "source_published_at": "Thu, 30 Apr 2026 22:30:19 GMT",
-      "image_url": "/article_images/article_33a7c2a6eb8b.webp",
+      "time_ago": "Fri, 01 May 2026 20:36:28 GMT",
+      "mined_at": "2026-05-02T21:03:33+00:00",
+      "source_published_at": "Fri, 01 May 2026 20:36:28 GMT",
+      "image_url": "/article_images/article_1107f249c096.webp",
       "category": "Fun",
-      "title": "At 19, Mirra Andreeva Saves Set Points to Become Madrid’s Second-Youngest Finalist—And She’s Just Getting Started",
-      "summary": "A day after her 19th birthday, Mirra Andreeva saved multiple set points in a dramatic tiebreak to edge Hailey Baptiste 6-4, 7-6 (10-8). She’s the first teenager to reach three WTA 1000 finals and now faces Marta Kostyuk, who refused a post-match handshake with her Russian-born opponent."
+      "title": "Sinner One Win Away from Historic Fifth Straight Masters Title",
+      "summary": "World No. 1 Jannik Sinner defeated Arthur Fils 6-2, 6-2 to reach the Madrid final. A victory would give him a record fifth consecutive Masters 1000 title, surpassing Djokovic and Nadal. He's also the youngest to reach all nine Masters finals."
     },
     {
-      "id": "2026-05-01-fun-2",
-      "source": "Variety",
-      "time_ago": "Fri, 01 May 2026 17:36:08 +0000",
-      "mined_at": "2026-05-01T18:21:38+00:00",
-      "source_published_at": "Fri, 01 May 2026 17:36:08 +0000",
-      "image_url": "/article_images/article_286e72a01dbf.webp",
+      "id": "2026-05-02-fun-3",
+      "source": "Live Science",
+      "time_ago": "Sat, 02 May 2026 13:00:00 +0000",
+      "mined_at": "2026-05-02T21:03:33+00:00",
+      "source_published_at": "Sat, 02 May 2026 13:00:00 +0000",
+      "image_url": "/article_images/article_3f18107b01bb.webp",
       "category": "Fun",
-      "title": "Amy Allen, the Hitmaker Behind Sabrina Carpenter and ‘APT.,’ Is ASCAP’s Songwriter of the Year",
-      "summary": "Amy Allen, co-writer of Sabrina Carpenter’s “Manchild,” “Tears,” and the viral smash “APT.” by Rosé and Bruno Mars, took home Songwriter of the Year at the ASCAP Pop Awards. Laufey received the Creative Voice Award, celebrating her genre-blending pop-jazz sound."
-    },
-    {
-      "id": "2026-05-01-fun-3",
-      "source": "Wired Gear",
-      "time_ago": "Fri, 01 May 2026 11:00:00 +0000",
-      "mined_at": "2026-05-01T18:21:38+00:00",
-      "source_published_at": "Fri, 01 May 2026 11:00:00 +0000",
-      "image_url": "/article_images/article_dfe2c91cf642.webp",
-      "category": "Fun",
-      "title": "Chef Jon Kung on the Kitchen Gear They Swear By—and the One Invention They’re Still Waiting For",
-      "summary": "From a sticker-covered SMEG fridge to a dream rice cooker that washes rice, chef Jon Kung shares their must-have tools and hilarious regrets. The TikTok star, known for third-culture Chinese feasts, also explains why unwashed rice contains bug eggs and why you should never buy combo pans."
+      "title": "Machine Learning Uncovers 10,000 Hidden Exoplanet Candidates, Tripling Our Cosmic Census",
+      "summary": "An algorithm sifted through light curves of 83 million faint stars from NASA's TESS telescope and found 11,554 exoplanet candidates, 10,052 of them new. If confirmed, the known exoplanet count would nearly triple. One 'hot Jupiter' was already verified."
     }
   ]
 }

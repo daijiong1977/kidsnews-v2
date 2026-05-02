@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-01-news-1",
-      "source": "NPR World",
-      "time_ago": "Fri, 01 May 2026 10:06:40 -0400",
-      "mined_at": "2026-05-01T18:21:38+00:00",
-      "source_published_at": "Fri, 01 May 2026 10:06:40 -0400",
-      "image_url": "/article_images/article_966d12e60303.webp",
-      "category": "News",
-      "title": "LA Schools Say 'Enough!' to Too Much Screen Time",
-      "summary": "A mom got mad when her son was punished for not bringing his iPad to gym class. Now LA's huge school district is slashing screen time for all kids, especially the littlest ones. Other states are doing it too."
-    },
-    {
-      "id": "2026-05-01-news-2",
+      "id": "2026-05-02-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Fri, 01 May 2026 11:56:59 -0400",
-      "mined_at": "2026-05-01T18:21:38+00:00",
-      "source_published_at": "Fri, 01 May 2026 11:56:59 -0400",
-      "image_url": "/article_images/article_489e4ea7df2e.webp",
+      "time_ago": "Sat, 02 May 2026 14:24:48 -0400",
+      "mined_at": "2026-05-02T21:03:33+00:00",
+      "source_published_at": "Sat, 02 May 2026 14:24:48 -0400",
+      "image_url": "/article_images/article_407574425564.webp",
       "category": "News",
-      "title": "Workers Around the World Say 'No' to Paying for War",
-      "summary": "On May Day, people in many countries marched for better pay and peace. They're angry because the Iran war is making food and gas more expensive. In Manila, protesters clashed with police near the U.S. Embassy."
+      "title": "A Doctor Who Loves Vaccines AND Healthy Food Might Be America's Top Doc!",
+      "summary": "Dr. Nicole Saphier is President Trump's pick for surgeon general. She likes vaccines more than some in his team and once called a health report 'embarrassing.' She's a cancer doctor and mom of three."
     },
     {
-      "id": "2026-05-01-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Fri, 01 May 2026 16:03:27 +0000",
-      "mined_at": "2026-05-01T18:21:38+00:00",
-      "source_published_at": "Fri, 01 May 2026 16:03:27 +0000",
-      "image_url": "/article_images/article_8038c1b31844.webp",
+      "id": "2026-05-02-news-2",
+      "source": "NPR World",
+      "time_ago": "Sat, 02 May 2026 02:42:14 -0400",
+      "mined_at": "2026-05-02T21:03:33+00:00",
+      "source_published_at": "Sat, 02 May 2026 02:42:14 -0400",
+      "image_url": "/article_images/article_0cae5035a656.webp",
       "category": "News",
-      "title": "A Mega Trade Deal Just Started — and It Could Change What You Eat",
-      "summary": "After 25 years of talking, Europe and South America's Mercosur bloc finally started a huge trade deal. It covers 720 million people and $22 trillion. That means cheaper beef from Brazil, but some farmers are worried."
+      "title": "Spirit Airlines Stops Flying: What Happens to Cheap Flights?",
+      "summary": "Spirit Airlines, known for super cheap tickets, stopped all flights on May 2, 2026. The company ran out of money after years of problems and couldn't get a $500 million bailout from the government."
+    },
+    {
+      "id": "2026-05-02-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Sat, 02 May 2026 18:12:35 +0000",
+      "mined_at": "2026-05-02T21:03:33+00:00",
+      "source_published_at": "Sat, 02 May 2026 18:12:35 +0000",
+      "image_url": "/article_images/article_7cb6085b21a6.webp",
+      "category": "News",
+      "title": "Spain Says Israel 'Kidnapped' a Spanish Man from a Gaza Aid Boat!",
+      "summary": "Israel arrested a Spanish man named Saif Abukeshek from a flotilla trying to bring aid to Gaza. Spain's foreign minister called it a 'kidnapping' and demanded his release."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-01-news-1",
-      "source": "NPR World",
-      "time_ago": "Fri, 01 May 2026 10:06:40 -0400",
-      "mined_at": "2026-05-01T18:21:38+00:00",
-      "source_published_at": "Fri, 01 May 2026 10:06:40 -0400",
-      "image_url": "/article_images/article_966d12e60303.webp",
-      "category": "News",
-      "title": "LAUSD Votes to Slash Screen Time, Joining a Growing State-Level Movement",
-      "summary": "A parent's frustration over an iPad penalty in PE class sparked a campaign that just convinced the nation's second-largest school district to restrict screens. Alabama, Tennessee, Utah, and Virginia have already passed laws, with more states considering similar limits."
-    },
-    {
-      "id": "2026-05-01-news-2",
+      "id": "2026-05-02-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Fri, 01 May 2026 11:56:59 -0400",
-      "mined_at": "2026-05-01T18:21:38+00:00",
-      "source_published_at": "Fri, 01 May 2026 11:56:59 -0400",
-      "image_url": "/article_images/article_489e4ea7df2e.webp",
+      "time_ago": "Sat, 02 May 2026 14:24:48 -0400",
+      "mined_at": "2026-05-02T21:03:33+00:00",
+      "source_published_at": "Sat, 02 May 2026 14:24:48 -0400",
+      "image_url": "/article_images/article_407574425564.webp",
       "category": "News",
-      "title": "Global May Day Rallies Target War-Driven Cost-of-Living Crisis",
-      "summary": "From Seoul to São Paulo, workers took to the streets on International Workers' Day to protest rising living costs tied to the Iran war. In Manila, demonstrators clashed with police near the U.S. Embassy, while European unions declared, 'Working people refuse to pay the price for Donald Trump's war.'"
+      "title": "Trump's Surgeon General Pick: A Pro-Vaccine Voice in a Vaccine-Skeptic Administration",
+      "summary": "Dr. Nicole Saphier, a radiologist and former Fox News contributor, is Trump's new nominee for surgeon general. She supports vaccines more than some officials and has criticized the administration's health missteps as 'embarrassing.'"
     },
     {
-      "id": "2026-05-01-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Fri, 01 May 2026 16:03:27 +0000",
-      "mined_at": "2026-05-01T18:21:38+00:00",
-      "source_published_at": "Fri, 01 May 2026 16:03:27 +0000",
-      "image_url": "/article_images/article_8038c1b31844.webp",
+      "id": "2026-05-02-news-2",
+      "source": "NPR World",
+      "time_ago": "Sat, 02 May 2026 02:42:14 -0400",
+      "mined_at": "2026-05-02T21:03:33+00:00",
+      "source_published_at": "Sat, 02 May 2026 02:42:14 -0400",
+      "image_url": "/article_images/article_0cae5035a656.webp",
       "category": "News",
-      "title": "EU-Mercosur Trade Pact Takes Effect, Creating a $22 Trillion Market",
-      "summary": "After a quarter-century of negotiations, the EU and South America's Mercosur bloc provisionally launched one of the world's largest free trade zones, covering 720 million consumers. The deal eliminates tariffs on over 90% of bilateral trade but faces legal challenges and fierce opposition from farmers and environmentalists."
+      "title": "Spirit Airlines Grounded for Good: The End of Ultra-Low-Cost Flying?",
+      "summary": "Spirit Airlines ceased operations on May 2, 2026, after failing to secure a $500 million federal bailout. The budget carrier's collapse could lead to higher fares as competition dwindles."
+    },
+    {
+      "id": "2026-05-02-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Sat, 02 May 2026 18:12:35 +0000",
+      "mined_at": "2026-05-02T21:03:33+00:00",
+      "source_published_at": "Sat, 02 May 2026 18:12:35 +0000",
+      "image_url": "/article_images/article_7cb6085b21a6.webp",
+      "category": "News",
+      "title": "Spain Accuses Israel of 'Kidnapping' Spanish National from Gaza Aid Flotilla",
+      "summary": "Spain demanded the immediate release of Saif Abukeshek, a Spanish citizen arrested during an Israeli raid on a Gaza-bound flotilla. Foreign Minister Albares called the detention 'illegal' and a 'kidnapping,' while Israel alleges Hamas ties."
     }
   ]
 }

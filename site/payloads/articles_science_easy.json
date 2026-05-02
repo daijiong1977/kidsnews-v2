@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-01-science-1",
+      "id": "2026-05-02-science-1",
       "source": "ScienceDaily All",
-      "time_ago": "Fri, 01 May 2026 09:07:15 EDT",
-      "mined_at": "2026-05-01T18:21:38+00:00",
-      "source_published_at": "Fri, 01 May 2026 09:07:15 EDT",
-      "image_url": "/article_images/article_a890d74c8c4e.webp",
+      "time_ago": "Fri, 01 May 2026 08:27:27 EDT",
+      "mined_at": "2026-05-02T21:03:33+00:00",
+      "source_published_at": "Fri, 01 May 2026 08:27:27 EDT",
+      "image_url": "/article_images/article_4bcc1e05c8cd.webp",
       "category": "Science",
-      "title": "This 275-Million-Year-Old Animal Had a Jaw So Twisted It Stumped Scientists for Years",
-      "summary": "Imagine a jaw where teeth point sideways instead of up! Scientists found nine fossil jaws in Brazil from a weird animal called Tanyka, which lived 275 million years ago. Its twisted jaw hints it was a plant-eater, like a prehistoric platypus."
+      "title": "This Tiny Spider Named After Pink Floyd Hunts Bugs 6 Times Its Size!",
+      "summary": "A new spider as small as a grain of rice lives in walls and eats pests like flies and mosquitoes. Scientists named it after the band Pink Floyd. It can catch ants six times bigger than itself!"
     },
     {
-      "id": "2026-05-01-science-2",
-      "source": "snai",
-      "time_ago": "Thu, 30 Apr 2026 18:00:00 +0000",
-      "mined_at": "2026-05-01T18:21:38+00:00",
-      "source_published_at": "Thu, 30 Apr 2026 18:00:00 +0000",
-      "image_url": "/article_images/article_a930f6141356.webp",
+      "id": "2026-05-02-science-2",
+      "source": "Science News Explores",
+      "time_ago": "Tue, 28 Apr 2026 10:30:00 +0000",
+      "mined_at": "2026-05-02T21:03:33+00:00",
+      "source_published_at": "Tue, 28 Apr 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_3ce4ceb9b8e1.webp",
       "category": "Science",
-      "title": "AI Is Getting Scarily Good at Diagnosing Tough Medical Cases—Even Better Than Doctors",
-      "summary": "In a new study, an AI model correctly guessed the right diagnosis almost 80% of the time, beating human doctors. The AI even spotted a dangerous flesh-eating infection 12 hours before doctors did. But experts say AI should help, not replace, real doctors."
+      "title": "Smart Underwear Counts Your Farts — For Science!",
+      "summary": "Scientists made a tiny sensor that snaps onto underwear to count farts. In a study, people averaged 32 toots a day. Now they want to find out what's normal for everyone."
     },
     {
-      "id": "2026-05-01-science-3",
-      "source": "MIT Tech Review",
-      "time_ago": "Fri, 01 May 2026 15:54:01 +0000",
-      "mined_at": "2026-05-01T18:21:38+00:00",
-      "source_published_at": "Fri, 01 May 2026 15:54:01 +0000",
-      "image_url": "/article_images/article_b11745bafe8b.webp",
+      "id": "2026-05-02-science-3",
+      "source": "IEEE Spectrum",
+      "time_ago": "Thu, 30 Apr 2026 14:00:01 +0000",
+      "mined_at": "2026-05-02T21:03:33+00:00",
+      "source_published_at": "Thu, 30 Apr 2026 14:00:01 +0000",
+      "image_url": "/article_images/article_87965767336c.webp",
       "category": "Science",
-      "title": "Why Your Online Safety Needs a Total Makeover in the Age of AI",
-      "summary": "AI is making computers smarter, but it's also giving hackers new ways to attack. A cybersecurity expert says we can't just add AI to old security systems—we need to rebuild security with AI at the center. Think of it like building a fortress, not just adding locks."
+      "title": "AI Can Launch Cyberattacks for Just $1 — Here's How We Fight Back",
+      "summary": "AI can now find and attack computer bugs in minutes, costing less than a dollar. But the same AI can also help defenders spot flaws early. The real challenge is fixing old code that volunteers maintain."
     }
   ]
 }
