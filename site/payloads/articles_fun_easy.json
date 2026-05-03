@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-02-fun-1",
-      "source": "NPR Music (backup)",
-      "time_ago": "Thu, 30 Apr 2026 14:42:53 -0400",
-      "mined_at": "2026-05-02T21:03:33+00:00",
-      "source_published_at": "Thu, 30 Apr 2026 14:42:53 -0400",
-      "image_url": "/article_images/article_2b5bf0ab704c.webp",
+      "id": "2026-05-03-fun-1",
+      "source": "Polygon",
+      "time_ago": "Sun, 03 May 2026 14:30:07 GMT",
+      "mined_at": "2026-05-03T18:00:09+00:00",
+      "source_published_at": "Sun, 03 May 2026 14:30:07 GMT",
+      "image_url": "/article_images/article_325e735a07a5.webp",
       "category": "Fun",
-      "title": "Olivia Rodrigo's New Song Sends a 1980s Band Back to the Charts!",
-      "summary": "Olivia Rodrigo's new single 'drop dead' hit No. 1, and a lyric about The Cure's 'Just Like Heaven' made their old hits album return to the chart at No. 93. Even a tiny shout-out can give a classic band a big boost!"
+      "title": "The Weirdest Godzilla Movie Ever Is Finally Coming Out on Blu-ray!",
+      "summary": "Imagine a Godzilla movie that feels like a crazy dream with wild colors, loud sounds, and real war clips. That's Cozzilla, a super rare Italian version from 1977. It's finally getting a Blu-ray release in a big box set on May 17."
     },
     {
-      "id": "2026-05-02-fun-2",
+      "id": "2026-05-03-fun-2",
+      "source": "Kotaku",
+      "time_ago": "Sun, 03 May 2026 15:00:43 +0000",
+      "mined_at": "2026-05-03T18:00:09+00:00",
+      "source_published_at": "Sun, 03 May 2026 15:00:43 +0000",
+      "image_url": "/article_images/article_994684215cc7.webp",
+      "category": "Fun",
+      "title": "Secret Sonic Adventure Art Shows a Totally Different Blue Blur!",
+      "summary": "Sega just shared never-before-seen drawings from early Sonic Adventure. Sonic looks shorter and cuter, Amy explores a spooky castle, and there are funny soot balls like in a Studio Ghibli movie. It's a peek at a Sonic game that almost was!"
+    },
+    {
+      "id": "2026-05-03-fun-3",
       "source": "BBC Tennis",
-      "time_ago": "Fri, 01 May 2026 20:36:28 GMT",
-      "mined_at": "2026-05-02T21:03:33+00:00",
-      "source_published_at": "Fri, 01 May 2026 20:36:28 GMT",
-      "image_url": "/article_images/article_1107f249c096.webp",
+      "time_ago": "Fri, 01 May 2026 17:35:40 GMT",
+      "mined_at": "2026-05-03T18:00:09+00:00",
+      "source_published_at": "Fri, 01 May 2026 17:35:40 GMT",
+      "image_url": "/article_images/article_6656364285f0.webp",
       "category": "Fun",
-      "title": "Sinner Zooms Toward a Tennis Record — and He's Only 24!",
-      "summary": "Jannik Sinner beat Arthur Fils to reach the Madrid Open final. If he wins, he'll be the first man to grab five Masters 1000 titles in a row, breaking a record held by Djokovic and Nadal. He's already won 22 matches straight!"
-    },
-    {
-      "id": "2026-05-02-fun-3",
-      "source": "Live Science",
-      "time_ago": "Sat, 02 May 2026 13:00:00 +0000",
-      "mined_at": "2026-05-02T21:03:33+00:00",
-      "source_published_at": "Sat, 02 May 2026 13:00:00 +0000",
-      "image_url": "/article_images/article_3f18107b01bb.webp",
-      "category": "Fun",
-      "title": "A Computer Just Found 10,000 Hidden Planets — and One Is a 'Hot Jupiter'!",
-      "summary": "Scientists used a smart computer program to spot over 10,000 possible new planets in old space data. If they're all real, we'd triple the number of known worlds! One, a 'hot Jupiter,' was already confirmed using a giant telescope."
+      "title": "Emma Raducanu Reunites with the Coach Who Helped Her Win the US Open!",
+      "summary": "Tennis star Emma Raducanu just trained with Andrew Richardson, the coach who was with her when she shocked the world by winning the 2021 US Open as a teenager. She's getting ready to play in Rome next week after being sick."
     }
   ]
 }

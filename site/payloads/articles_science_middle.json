@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-02-science-1",
+      "id": "2026-05-03-science-1",
       "source": "ScienceDaily All",
-      "time_ago": "Fri, 01 May 2026 08:27:27 EDT",
-      "mined_at": "2026-05-02T21:03:33+00:00",
-      "source_published_at": "Fri, 01 May 2026 08:27:27 EDT",
-      "image_url": "/article_images/article_4bcc1e05c8cd.webp",
+      "time_ago": "Sun, 03 May 2026 00:56:52 EDT",
+      "mined_at": "2026-05-03T18:00:09+00:00",
+      "source_published_at": "Sun, 03 May 2026 00:56:52 EDT",
+      "image_url": "/article_images/article_ab01c4e1307b.webp",
       "category": "Science",
-      "title": "Meet the Wall-Crawling Spider Named After Pink Floyd That Punches Above Its Weight",
-      "summary": "A newly discovered spider, Pikelinia floydmuraria, lives in building walls and hunts prey up to six times its size. Named after Pink Floyd, it targets household pests like mosquitoes and flies, potentially helping urban pest control."
+      "title": "AI Uncovers Over 100 Exoplanets, Including Rare Worlds in the 'Neptunian Desert'",
+      "summary": "A new AI pipeline called RAVEN sifted through 2.2 million stars from NASA's TESS mission and validated 118 exoplanets, including ultra-short-period planets and worlds in the mysterious 'Neptunian desert.' The study also gives the most precise measurement yet of how common close-in planets are."
     },
     {
-      "id": "2026-05-02-science-2",
+      "id": "2026-05-03-science-2",
       "source": "Science News Explores",
-      "time_ago": "Tue, 28 Apr 2026 10:30:00 +0000",
-      "mined_at": "2026-05-02T21:03:33+00:00",
-      "source_published_at": "Tue, 28 Apr 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_3ce4ceb9b8e1.webp",
+      "time_ago": "Thu, 30 Apr 2026 10:30:00 +0000",
+      "mined_at": "2026-05-03T18:00:09+00:00",
+      "source_published_at": "Thu, 30 Apr 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_79b3b93bb65a.webp",
       "category": "Science",
-      "title": "Forget Heart Rate: Scientists Are Now Tracking Your Farts with Smart Underwear",
-      "summary": "Researchers developed a quarter-sized sensor that snaps into underwear to measure hydrogen from farts. A pilot study found people average 32 toots daily, but the range is wide. The Human Flatus Atlas project aims to establish a normal baseline."
+      "title": "Scientists Chase Animal Joy: Building a 'Joy-o-Meter' for Apes, Dolphins, and Parrots",
+      "summary": "After decades of studying negative emotions, researchers are finally tackling animal happiness. A bold project aims to develop a 'joy-o-meter' — a set of tests to measure brief, intense joy across species. Early observations reveal chimps giggle and bonobos have surprising toy preferences."
     },
     {
-      "id": "2026-05-02-science-3",
-      "source": "IEEE Spectrum",
-      "time_ago": "Thu, 30 Apr 2026 14:00:01 +0000",
-      "mined_at": "2026-05-02T21:03:33+00:00",
-      "source_published_at": "Thu, 30 Apr 2026 14:00:01 +0000",
-      "image_url": "/article_images/article_87965767336c.webp",
+      "id": "2026-05-03-science-3",
+      "source": "NASA News",
+      "time_ago": "Thu, 30 Apr 2026 18:13:34 +0000",
+      "mined_at": "2026-05-03T18:00:09+00:00",
+      "source_published_at": "Thu, 30 Apr 2026 18:13:34 +0000",
+      "image_url": "/article_images/article_07ad0f77bf07.webp",
       "category": "Science",
-      "title": "The $1 Cyberattack Is Here: How AI Is Reshaping the Hacker-Defender Arms Race",
-      "summary": "Large language models can now autonomously discover and exploit software vulnerabilities for under a dollar. While AI also aids defenders, the asymmetry favors attackers because fixing bugs still requires human effort, especially in under-resourced open-source projects."
+      "title": "May 2026 Skywatching: Eta Aquarids, a Moon-Venus Pairing, and a Blue Moon",
+      "summary": "May delivers a trio of celestial events. The Eta Aquarid meteor shower, debris from Halley's Comet, peaks before dawn on May 5–6 with swift, trail-leaving meteors. On May 18, the crescent Moon and Venus shine together after sunset. The month ends with a rare Blue Moon on May 31."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-02-science-1",
+      "id": "2026-05-03-science-1",
       "source": "ScienceDaily All",
-      "time_ago": "Fri, 01 May 2026 08:27:27 EDT",
-      "mined_at": "2026-05-02T21:03:33+00:00",
-      "source_published_at": "Fri, 01 May 2026 08:27:27 EDT",
-      "image_url": "/article_images/article_4bcc1e05c8cd.webp",
+      "time_ago": "Sun, 03 May 2026 00:56:52 EDT",
+      "mined_at": "2026-05-03T18:00:09+00:00",
+      "source_published_at": "Sun, 03 May 2026 00:56:52 EDT",
+      "image_url": "/article_images/article_ab01c4e1307b.webp",
       "category": "Science",
-      "title": "This Tiny Spider Named After Pink Floyd Hunts Bugs 6 Times Its Size!",
-      "summary": "A new spider as small as a grain of rice lives in walls and eats pests like flies and mosquitoes. Scientists named it after the band Pink Floyd. It can catch ants six times bigger than itself!"
+      "title": "AI Super-Sleuth Finds 100+ Hidden Planets — Some Are Really Weird!",
+      "summary": "A smart computer program just discovered over 100 new planets hiding in NASA data. Some orbit their star in less than a day, and others live in a 'desert' where planets shouldn't exist. This changes how we count worlds in the galaxy."
     },
     {
-      "id": "2026-05-02-science-2",
+      "id": "2026-05-03-science-2",
       "source": "Science News Explores",
-      "time_ago": "Tue, 28 Apr 2026 10:30:00 +0000",
-      "mined_at": "2026-05-02T21:03:33+00:00",
-      "source_published_at": "Tue, 28 Apr 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_3ce4ceb9b8e1.webp",
+      "time_ago": "Thu, 30 Apr 2026 10:30:00 +0000",
+      "mined_at": "2026-05-03T18:00:09+00:00",
+      "source_published_at": "Thu, 30 Apr 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_79b3b93bb65a.webp",
       "category": "Science",
-      "title": "Smart Underwear Counts Your Farts — For Science!",
-      "summary": "Scientists made a tiny sensor that snaps onto underwear to count farts. In a study, people averaged 32 toots a day. Now they want to find out what's normal for everyone."
+      "title": "Do Animals Feel Joy? Scientists Are Building a 'Joy-o-Meter' to Find Out!",
+      "summary": "Scientists have mostly studied animal fear and pain, but now they're chasing happiness. A team is creating a 'joy-o-meter' to measure brief, intense joy in apes, dolphins, and parrots. Early results show chimps giggle and bonobos love basketballs."
     },
     {
-      "id": "2026-05-02-science-3",
-      "source": "IEEE Spectrum",
-      "time_ago": "Thu, 30 Apr 2026 14:00:01 +0000",
-      "mined_at": "2026-05-02T21:03:33+00:00",
-      "source_published_at": "Thu, 30 Apr 2026 14:00:01 +0000",
-      "image_url": "/article_images/article_87965767336c.webp",
+      "id": "2026-05-03-science-3",
+      "source": "NASA News",
+      "time_ago": "Thu, 30 Apr 2026 18:13:34 +0000",
+      "mined_at": "2026-05-03T18:00:09+00:00",
+      "source_published_at": "Thu, 30 Apr 2026 18:13:34 +0000",
+      "image_url": "/article_images/article_07ad0f77bf07.webp",
       "category": "Science",
-      "title": "AI Can Launch Cyberattacks for Just $1 — Here's How We Fight Back",
-      "summary": "AI can now find and attack computer bugs in minutes, costing less than a dollar. But the same AI can also help defenders spot flaws early. The real challenge is fixing old code that volunteers maintain."
+      "title": "May Sky Show: Shooting Stars, a Moon-Venus Meetup, and a Rare Blue Moon!",
+      "summary": "May 2026 is packed with sky wonders. The Eta Aquarid meteor shower peaks around May 5–6 with fast, bright shooting stars from Halley's Comet. On May 18, the crescent Moon snuggles up to brilliant Venus. The month ends with a Blue Moon on May 31."
     }
   ]
 }

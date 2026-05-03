@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-02-news-1",
+      "id": "2026-05-03-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Sat, 02 May 2026 14:24:48 -0400",
-      "mined_at": "2026-05-02T21:03:33+00:00",
-      "source_published_at": "Sat, 02 May 2026 14:24:48 -0400",
-      "image_url": "/article_images/article_407574425564.webp",
+      "time_ago": "Sat, 02 May 2026 19:00:00 -0400",
+      "mined_at": "2026-05-03T18:00:09+00:00",
+      "source_published_at": "Sat, 02 May 2026 19:00:00 -0400",
+      "image_url": "/article_images/article_5879e0e9d99d.webp",
       "category": "News",
-      "title": "Trump's Surgeon General Pick: A Pro-Vaccine Voice in a Vaccine-Skeptic Administration",
-      "summary": "Dr. Nicole Saphier, a radiologist and former Fox News contributor, is Trump's new nominee for surgeon general. She supports vaccines more than some officials and has criticized the administration's health missteps as 'embarrassing.'"
+      "title": "Trump Reviews Iran's 14-Point Proposal as Ceasefire Holds and a Nobel Laureate's Life Hangs in the Balance",
+      "summary": "President Trump is examining a 14-point Iranian proposal to end the war, delivered via Pakistan. A three-week ceasefire is holding, but the Strait of Hormuz remains a flashpoint. Meanwhile, imprisoned Nobel laureate Narges Mohammadi is at \"very high risk\" after a cardiac crisis."
     },
     {
-      "id": "2026-05-02-news-2",
+      "id": "2026-05-03-news-2",
       "source": "NPR World",
-      "time_ago": "Sat, 02 May 2026 02:42:14 -0400",
-      "mined_at": "2026-05-02T21:03:33+00:00",
-      "source_published_at": "Sat, 02 May 2026 02:42:14 -0400",
-      "image_url": "/article_images/article_0cae5035a656.webp",
+      "time_ago": "Sat, 02 May 2026 19:44:38 -0400",
+      "mined_at": "2026-05-03T18:00:09+00:00",
+      "source_published_at": "Sat, 02 May 2026 19:44:38 -0400",
+      "image_url": "/article_images/article_94aeed2f3bdb.webp",
       "category": "News",
-      "title": "Spirit Airlines Grounded for Good: The End of Ultra-Low-Cost Flying?",
-      "summary": "Spirit Airlines ceased operations on May 2, 2026, after failing to secure a $500 million federal bailout. The budget carrier's collapse could lead to higher fares as competition dwindles."
+      "title": "Golden Tempo Wins Kentucky Derby, Making Cherie DeVaux First Female Winning Trainer",
+      "summary": "At 23-1 odds, Golden Tempo stormed to victory in the 152nd Kentucky Derby, making Cherie DeVaux the first woman to train a Derby winner. Jockey Jose Ortiz also won the Kentucky Oaks the day before. DeVaux embraced her role as a trailblazer for girls in racing."
     },
     {
-      "id": "2026-05-02-news-3",
+      "id": "2026-05-03-news-3",
       "source": "Al Jazeera",
-      "time_ago": "Sat, 02 May 2026 18:12:35 +0000",
-      "mined_at": "2026-05-02T21:03:33+00:00",
-      "source_published_at": "Sat, 02 May 2026 18:12:35 +0000",
-      "image_url": "/article_images/article_7cb6085b21a6.webp",
+      "time_ago": "Sun, 03 May 2026 10:36:49 +0000",
+      "mined_at": "2026-05-03T18:00:09+00:00",
+      "source_published_at": "Sun, 03 May 2026 10:36:49 +0000",
+      "image_url": "/article_images/article_5a767c0e4853.webp",
       "category": "News",
-      "title": "Spain Accuses Israel of 'Kidnapping' Spanish National from Gaza Aid Flotilla",
-      "summary": "Spain demanded the immediate release of Saif Abukeshek, a Spanish citizen arrested during an Israeli raid on a Gaza-bound flotilla. Foreign Minister Albares called the detention 'illegal' and a 'kidnapping,' while Israel alleges Hamas ties."
+      "title": "From Hormuz to Gaza: How Naval Blockades Have Shaped Modern History",
+      "summary": "The Strait of Hormuz blockade is choking off a fifth of the world's oil, but naval sieges are an ancient tactic. From Israel's 17-year blockade of Gaza to the Cuban Missile Crisis, here's how blockades have triggered humanitarian crises and brought the world to the brink of war."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-02-fun-1",
-      "source": "NPR Music (backup)",
-      "time_ago": "Thu, 30 Apr 2026 14:42:53 -0400",
-      "mined_at": "2026-05-02T21:03:33+00:00",
-      "source_published_at": "Thu, 30 Apr 2026 14:42:53 -0400",
-      "image_url": "/article_images/article_2b5bf0ab704c.webp",
+      "id": "2026-05-03-fun-1",
+      "source": "Polygon",
+      "time_ago": "Sun, 03 May 2026 14:30:07 GMT",
+      "mined_at": "2026-05-03T18:00:09+00:00",
+      "source_published_at": "Sun, 03 May 2026 14:30:07 GMT",
+      "image_url": "/article_images/article_325e735a07a5.webp",
       "category": "Fun",
-      "title": "A Lyric, a Legend, and a Chart Comeback: How Olivia Rodrigo Gave The Cure a Boost",
-      "summary": "Olivia Rodrigo's 'drop dead' debuted at No. 1, and a name-drop of The Cure's 'Just Like Heaven' in the lyrics pushed the band's greatest hits back onto the Billboard 200 at No. 93. A single line can revive a classic."
+      "title": "Cozzilla: The Psychedelic Godzilla Fever Dream Finally Hits Blu-ray",
+      "summary": "Before IMAX shook seats, Cozzilla tried to rattle your brain. This bizarre 1977 Italian re-edit of the original Godzilla splices in WWII footage, blasts a synth-heavy score, and drowns scenes in hallucinatory colors. Long a bootleg legend, it's now getting an official Blu-ray release on May 17."
     },
     {
-      "id": "2026-05-02-fun-2",
+      "id": "2026-05-03-fun-2",
+      "source": "Kotaku",
+      "time_ago": "Sun, 03 May 2026 15:00:43 +0000",
+      "mined_at": "2026-05-03T18:00:09+00:00",
+      "source_published_at": "Sun, 03 May 2026 15:00:43 +0000",
+      "image_url": "/article_images/article_994684215cc7.webp",
+      "category": "Fun",
+      "title": "Sega Unearths Early Sonic Adventure Concept Art with a Ghibli-esque Vibe",
+      "summary": "Newly revealed concept art for Sonic Adventure shows a drastically different vision: a squat Sonic in pastoral fields, soot sprites under rocks, and Amy exploring a eerie castle. Sega shared the images with little context, but they hint at a Saturn-era prototype before the Dreamcast's attitude-driven redesign took over."
+    },
+    {
+      "id": "2026-05-03-fun-3",
       "source": "BBC Tennis",
-      "time_ago": "Fri, 01 May 2026 20:36:28 GMT",
-      "mined_at": "2026-05-02T21:03:33+00:00",
-      "source_published_at": "Fri, 01 May 2026 20:36:28 GMT",
-      "image_url": "/article_images/article_1107f249c096.webp",
+      "time_ago": "Fri, 01 May 2026 17:35:40 GMT",
+      "mined_at": "2026-05-03T18:00:09+00:00",
+      "source_published_at": "Fri, 01 May 2026 17:35:40 GMT",
+      "image_url": "/article_images/article_6656364285f0.webp",
       "category": "Fun",
-      "title": "Sinner One Win Away from Historic Fifth Straight Masters Title",
-      "summary": "World No. 1 Jannik Sinner defeated Arthur Fils 6-2, 6-2 to reach the Madrid final. A victory would give him a record fifth consecutive Masters 1000 title, surpassing Djokovic and Nadal. He's also the youngest to reach all nine Masters finals."
-    },
-    {
-      "id": "2026-05-02-fun-3",
-      "source": "Live Science",
-      "time_ago": "Sat, 02 May 2026 13:00:00 +0000",
-      "mined_at": "2026-05-02T21:03:33+00:00",
-      "source_published_at": "Sat, 02 May 2026 13:00:00 +0000",
-      "image_url": "/article_images/article_3f18107b01bb.webp",
-      "category": "Fun",
-      "title": "Machine Learning Uncovers 10,000 Hidden Exoplanet Candidates, Tripling Our Cosmic Census",
-      "summary": "An algorithm sifted through light curves of 83 million faint stars from NASA's TESS telescope and found 11,554 exoplanet candidates, 10,052 of them new. If confirmed, the known exoplanet count would nearly triple. One 'hot Jupiter' was already verified."
+      "title": "Raducanu Reconnects with US Open-Winning Coach Ahead of Rome Return",
+      "summary": "Emma Raducanu, the 2021 US Open champion, has trained with Andrew Richardson—the coach who guided her to that historic win—at Spain's Ferrer Academy. It's a short-term arrangement as she prepares for the Italian Open after illness, but it revives a pivotal partnership from her breakthrough moment."
     }
   ]
 }
