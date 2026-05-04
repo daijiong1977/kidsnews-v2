@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-05-04-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Sun, 03 May 2026 18:38:07 -0400",
-      "mined_at": "2026-05-04T02:45:00+00:00",
-      "source_published_at": "Sun, 03 May 2026 18:38:07 -0400",
-      "image_url": "/article_images/article_2f59962bf4ba.webp",
+      "source": "BBC News",
+      "time_ago": "Sun, 03 May 2026 23:10:56 GMT",
+      "mined_at": "2026-05-04T04:39:54+00:00",
+      "source_published_at": "Sun, 03 May 2026 23:10:56 GMT",
+      "image_url": "/article_images/article_d7f4b99fbf68.webp",
       "category": "News",
-      "title": "1,500 Beagles Freed from Wisconsin Research Facility in Historic Rescue",
-      "summary": "In a confidential deal, 1,500 beagles were purchased from Ridglan Farms, a breeding facility that faced protests and animal mistreatment allegations. The first 300 dogs left on Friday, heading to rescues nationwide. Over 700 adoption applications have poured in."
+      "title": "From Hour-Long Drips to a One-Minute Jab: How a New Cancer Shot Is Freeing Up Patients' Lives",
+      "summary": "A new injectable form of the immunotherapy Keytruda slashes treatment time from over an hour to just one minute. 86-year-old Shirley Xerxes says it gives her more time for gardening. About 14,000 NHS patients in England could benefit."
     },
     {
       "id": "2026-05-04-news-2",
-      "source": "NPR World",
-      "time_ago": "Sun, 03 May 2026 18:24:37 -0400",
-      "mined_at": "2026-05-04T02:45:00+00:00",
-      "source_published_at": "Sun, 03 May 2026 18:24:37 -0400",
-      "image_url": "/article_images/article_e06deebb37dd.webp",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Sun, 03 May 2026 00:56:52 EDT",
+      "mined_at": "2026-05-04T04:39:54+00:00",
+      "source_published_at": "Sun, 03 May 2026 00:56:52 EDT",
+      "image_url": "/article_images/article_ab01c4e1307b.webp",
       "category": "News",
-      "title": "Pain at the Pump: Gas Prices Surge Over 30 Cents in a Week as Strait of Hormuz Remains Blocked",
-      "summary": "U.S. gas prices hit $4.446 per gallon—a 30-cent spike in one week—as the Iran war keeps the Strait of Hormuz closed. Experts warn prices could climb for months, with no quick relief even if the conflict ends. The strategic oil reserve release hasn't tamed the surge."
+      "title": "RAVEN AI Uncovers 118 New Planets, Including Ultra-Short Orbits and Worlds in the 'Neptunian Desert'",
+      "summary": "University of Warwick astronomers used the RAVEN AI pipeline to confirm 118 new exoplanets from NASA TESS data. Some orbit in under 24 hours; others lie in the mysterious Neptunian desert. The study also precisely measured how common close-in planets are."
     },
     {
       "id": "2026-05-04-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Sun, 03 May 2026 20:28:51 +0000",
-      "mined_at": "2026-05-04T02:45:00+00:00",
-      "source_published_at": "Sun, 03 May 2026 20:28:51 +0000",
-      "image_url": "/article_images/article_a92ca0473cc0.webp",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Sun, 03 May 2026 09:40:13 EDT",
+      "mined_at": "2026-05-04T04:39:54+00:00",
+      "source_published_at": "Sun, 03 May 2026 09:40:13 EDT",
+      "image_url": "/article_images/article_437f182f466f.webp",
       "category": "News",
-      "title": "Teen Sensation Kimi Antonelli Wins Miami GP, Extends F1 Championship Lead with Historic Feat",
-      "summary": "At 19, Kimi Antonelli became the first F1 driver to convert his first three pole positions into victories, winning the Miami Grand Prix by 3.2 seconds over Lando Norris. The Italian now leads the championship by 20 points after four rounds—all won by Mercedes."
+      "title": "A Flaw in Time Itself? Quantum Collapse Models Hint at a Fundamental Limit to Clock Precision",
+      "summary": "Physicists exploring quantum collapse models linked to gravity have calculated that time may have an inherent, extremely tiny uncertainty. This sets a fundamental limit on clock precision, but it's far too small to affect even the best atomic clocks."
     }
   ]
 }

@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-05-04-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Sun, 03 May 2026 18:38:07 -0400",
-      "mined_at": "2026-05-04T02:45:00+00:00",
-      "source_published_at": "Sun, 03 May 2026 18:38:07 -0400",
-      "image_url": "/article_images/article_2f59962bf4ba.webp",
+      "source": "BBC News",
+      "time_ago": "Sun, 03 May 2026 23:10:56 GMT",
+      "mined_at": "2026-05-04T04:39:54+00:00",
+      "source_published_at": "Sun, 03 May 2026 23:10:56 GMT",
+      "image_url": "/article_images/article_d7f4b99fbf68.webp",
       "category": "News",
-      "title": "1,500 Beagles Rescued from Testing Lab Are Getting Second Chance at Happy Lives",
-      "summary": "Imagine 1,500 beagles who've never felt grass under their paws. They were just freed from a Wisconsin research facility, and now groups are finding them real homes. The first 300 dogs left on Friday, with more to follow."
+      "title": "A One-Minute Cancer Jab? NHS Patients Get More Time to Garden!",
+      "summary": "A new injection for the cancer drug Keytruda takes just one minute instead of an hour. Shirley Xerxes, 86, says it gives her more time for gardening. About 14,000 patients in England could switch to the jab."
     },
     {
       "id": "2026-05-04-news-2",
-      "source": "NPR World",
-      "time_ago": "Sun, 03 May 2026 18:24:37 -0400",
-      "mined_at": "2026-05-04T02:45:00+00:00",
-      "source_published_at": "Sun, 03 May 2026 18:24:37 -0400",
-      "image_url": "/article_images/article_e06deebb37dd.webp",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Sun, 03 May 2026 00:56:52 EDT",
+      "mined_at": "2026-05-04T04:39:54+00:00",
+      "source_published_at": "Sun, 03 May 2026 00:56:52 EDT",
+      "image_url": "/article_images/article_ab01c4e1307b.webp",
       "category": "News",
-      "title": "Gas Prices Jump Over 30 Cents in a Week—Here's Why Your Family Road Trip Might Cost More",
-      "summary": "Gas prices shot up more than 30 cents a gallon last week, hitting $4.446 on average. The big reason? A key waterway called the Strait of Hormuz is closed because of the war in Iran. Experts say prices could keep climbing for weeks or even months."
+      "title": "AI Super-Sleuth Finds 100+ Hidden Planets, Including a World That Orbits in Just One Day!",
+      "summary": "A smart computer program called RAVEN found over 100 new planets in NASA data. Some orbit their stars in under 24 hours. The discovery helps scientists understand how common planets are around stars like our Sun."
     },
     {
       "id": "2026-05-04-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Sun, 03 May 2026 20:28:51 +0000",
-      "mined_at": "2026-05-04T02:45:00+00:00",
-      "source_published_at": "Sun, 03 May 2026 20:28:51 +0000",
-      "image_url": "/article_images/article_a92ca0473cc0.webp",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Sun, 03 May 2026 09:40:13 EDT",
+      "mined_at": "2026-05-04T04:39:54+00:00",
+      "source_published_at": "Sun, 03 May 2026 09:40:13 EDT",
+      "image_url": "/article_images/article_437f182f466f.webp",
       "category": "News",
-      "title": "19-Year-Old Kimi Antonelli Makes F1 History with Third Straight Win in Miami",
-      "summary": "Teenage driver Kimi Antonelli won the Miami Grand Prix, becoming the first F1 driver ever to win his first three races from pole position. He beat world champion Lando Norris by 3.2 seconds and now leads the championship by 20 points."
+      "title": "Is Time a Tiny Bit Blurry? Physicists Find a Flaw in the Universe's Clock!",
+      "summary": "Scientists studying quantum mechanics think time might have a tiny built-in fuzziness. This comes from ideas about how gravity might affect tiny particles. Don't worry—your watch is perfectly fine! Even the best atomic clocks can't notice it."
     }
   ]
 }

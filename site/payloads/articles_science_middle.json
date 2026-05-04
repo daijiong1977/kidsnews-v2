@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-05-04-science-1",
-      "source": "ScienceDaily All",
-      "time_ago": "Sat, 02 May 2026 09:27:56 EDT",
-      "mined_at": "2026-05-04T02:45:00+00:00",
-      "source_published_at": "Sat, 02 May 2026 09:27:56 EDT",
-      "image_url": "/article_images/article_e63e4048c611.webp",
+      "source": "Space.com",
+      "time_ago": "Sun, 03 May 2026 16:00:00 +0000",
+      "mined_at": "2026-05-04T04:39:54+00:00",
+      "source_published_at": "Sun, 03 May 2026 16:00:00 +0000",
+      "image_url": "/article_images/article_6eaed42863fe.webp",
       "category": "Science",
-      "title": "A Dormant Dream Erupts: 18th-Century Mechanical Volcano Built After 250 Years",
-      "summary": "A clockwork volcano designed in 1775 to mimic Mount Vesuvius has been constructed for the first time. Engineering students used modern tech like programmable LEDs to realize the vision. The exhibit runs at the University of Melbourne through June 28, 2026."
+      "title": "A Fireball From Above: ISS Astronaut Captures Rare Reentry Spectacle",
+      "summary": "From the ISS Cupola, astronaut Chris Williams spotted a fireball streaking below him over West Africa. The dramatic breakup was likely the upper stage of a Soyuz rocket reentering the atmosphere."
     },
     {
       "id": "2026-05-04-science-2",
-      "source": "Science News Explores",
-      "time_ago": "Fri, 01 May 2026 10:30:00 +0000",
-      "mined_at": "2026-05-04T02:45:00+00:00",
-      "source_published_at": "Fri, 01 May 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_ccf654e03d11.webp",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Sat, 02 May 2026 23:12:19 EDT",
+      "mined_at": "2026-05-04T04:39:54+00:00",
+      "source_published_at": "Sat, 02 May 2026 23:12:19 EDT",
+      "image_url": "/article_images/article_25780fd286a4.webp",
       "category": "Science",
-      "title": "Brain Scans Reveal Why Number Symbols Trip Up Kids with Math Disabilities",
-      "summary": "A new study shows that kids with math learning disabilities process number symbols differently in the brain. When problems use dots instead, their brain activity and behavior match typical peers. The findings point to specific brain regions involved."
+      "title": "From Hot Pink to Green: Katydid's Color Shift Baffles Scientists",
+      "summary": "A katydid in Panama transformed from vivid pink to green in 11 days, likely mimicking rainforest leaves that change color as they mature. This is the first documented full color transition in an adult katydid."
     },
     {
       "id": "2026-05-04-science-3",
-      "source": "NPR Health",
-      "time_ago": "Thu, 30 Apr 2026 14:00:35 -0400",
-      "mined_at": "2026-05-04T02:45:00+00:00",
-      "source_published_at": "Thu, 30 Apr 2026 14:00:35 -0400",
-      "image_url": "/article_images/article_905ac97b4d05.webp",
+      "source": "IEEE Spectrum",
+      "time_ago": "Thu, 30 Apr 2026 13:22:51 +0000",
+      "mined_at": "2026-05-04T04:39:54+00:00",
+      "source_published_at": "Thu, 30 Apr 2026 13:22:51 +0000",
+      "image_url": "/article_images/article_4d5caf08f43c.webp",
       "category": "Science",
-      "title": "In a Real-World ER Test, an AI Model Outperformed Doctors at Diagnosis",
-      "summary": "A study in Science found that an OpenAI reasoning model beat two experienced physicians in diagnosing emergency department patients. The AI used only text from electronic health records and correctly identified a missed lupus case."
+      "title": "Teaching Robots to Feel: DAIMON's Massive Touch Dataset Aims to Transform Dexterous Manipulation",
+      "summary": "DAIMON Robotics released Daimon-Infinity, the largest omni-modal dataset for physical AI, featuring high-res tactile data from 80+ real-world tasks. The open-source release aims to overcome data scarcity in robot learning."
     }
   ]
 }
