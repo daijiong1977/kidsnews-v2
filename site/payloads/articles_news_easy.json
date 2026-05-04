@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-05-04-news-1",
-      "source": "BBC News",
-      "time_ago": "Sun, 03 May 2026 23:10:56 GMT",
-      "mined_at": "2026-05-04T04:39:54+00:00",
-      "source_published_at": "Sun, 03 May 2026 23:10:56 GMT",
-      "image_url": "/article_images/article_d7f4b99fbf68.webp",
+      "source": "PBS NewsHour",
+      "time_ago": "Mon, 04 May 2026 13:12:47 -0400",
+      "mined_at": "2026-05-04T18:30:40+00:00",
+      "source_published_at": "Mon, 04 May 2026 13:12:47 -0400",
+      "image_url": "/article_images/article_84d14711b1f4.webp",
       "category": "News",
-      "title": "A One-Minute Cancer Jab? NHS Patients Get More Time to Garden!",
-      "summary": "A new injection for the cancer drug Keytruda takes just one minute instead of an hour. Shirley Xerxes, 86, says it gives her more time for gardening. About 14,000 patients in England could switch to the jab."
+      "title": "A Map War Is Changing Who Gets Elected — Here's Why It Matters",
+      "summary": "States are redrawing voting maps to favor one party. Tennessee wants to split up its only Democratic district in Memphis. Experts say this could mean fewer fair elections."
     },
     {
       "id": "2026-05-04-news-2",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Sun, 03 May 2026 00:56:52 EDT",
-      "mined_at": "2026-05-04T04:39:54+00:00",
-      "source_published_at": "Sun, 03 May 2026 00:56:52 EDT",
-      "image_url": "/article_images/article_ab01c4e1307b.webp",
+      "source": "NPR World",
+      "time_ago": "Mon, 04 May 2026 08:38:31 -0400",
+      "mined_at": "2026-05-04T18:30:40+00:00",
+      "source_published_at": "Mon, 04 May 2026 08:38:31 -0400",
+      "image_url": "/article_images/article_efc449953585.webp",
       "category": "News",
-      "title": "AI Super-Sleuth Finds 100+ Hidden Planets, Including a World That Orbits in Just One Day!",
-      "summary": "A smart computer program called RAVEN found over 100 new planets in NASA data. Some orbit their stars in under 24 hours. The discovery helps scientists understand how common planets are around stars like our Sun."
+      "title": "Trump Is Giving D.C. a Makeover — From a Blue Pool to a Giant Arch",
+      "summary": "President Trump is changing the look of Washington, D.C. He's resurfacing the Lincoln Memorial Reflecting Pool in \"American flag blue\" and planning a triumphal arch. Some people say it's like treating the city as his personal country club."
     },
     {
       "id": "2026-05-04-news-3",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Sun, 03 May 2026 09:40:13 EDT",
-      "mined_at": "2026-05-04T04:39:54+00:00",
-      "source_published_at": "Sun, 03 May 2026 09:40:13 EDT",
-      "image_url": "/article_images/article_437f182f466f.webp",
+      "source": "PBS NewsHour",
+      "time_ago": "Mon, 04 May 2026 13:06:02 -0400",
+      "mined_at": "2026-05-04T18:30:40+00:00",
+      "source_published_at": "Mon, 04 May 2026 13:06:02 -0400",
+      "image_url": "/article_images/article_ccdee6364578.webp",
       "category": "News",
-      "title": "Is Time a Tiny Bit Blurry? Physicists Find a Flaw in the Universe's Clock!",
-      "summary": "Scientists studying quantum mechanics think time might have a tiny built-in fuzziness. This comes from ideas about how gravity might affect tiny particles. Don't worry—your watch is perfectly fine! Even the best atomic clocks can't notice it."
+      "title": "Your Dollar Is Shrinking! What a Weaker Buck Means for Your Wallet",
+      "summary": "The U.S. dollar has dropped about 10% since Trump took office. That makes vacations and imported stuff more expensive. Experts call it a \"hidden tax.\""
     }
   ]
 }

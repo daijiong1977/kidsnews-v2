@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-05-04-news-1",
-      "source": "BBC News",
-      "time_ago": "Sun, 03 May 2026 23:10:56 GMT",
-      "mined_at": "2026-05-04T04:39:54+00:00",
-      "source_published_at": "Sun, 03 May 2026 23:10:56 GMT",
-      "image_url": "/article_images/article_d7f4b99fbf68.webp",
+      "source": "PBS NewsHour",
+      "time_ago": "Mon, 04 May 2026 13:12:47 -0400",
+      "mined_at": "2026-05-04T18:30:40+00:00",
+      "source_published_at": "Mon, 04 May 2026 13:12:47 -0400",
+      "image_url": "/article_images/article_84d14711b1f4.webp",
       "category": "News",
-      "title": "From Hour-Long Drips to a One-Minute Jab: How a New Cancer Shot Is Freeing Up Patients' Lives",
-      "summary": "A new injectable form of the immunotherapy Keytruda slashes treatment time from over an hour to just one minute. 86-year-old Shirley Xerxes says it gives her more time for gardening. About 14,000 NHS patients in England could benefit."
+      "title": "The Redistricting Arms Race: How a Supreme Court Ruling Unleashed a National Map War",
+      "summary": "After the Supreme Court weakened the Voting Rights Act, states are scrambling to redraw congressional districts. Tennessee plans to dismantle its only Democratic seat in Memphis. Experts warn this could lock in one-party rule."
     },
     {
       "id": "2026-05-04-news-2",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Sun, 03 May 2026 00:56:52 EDT",
-      "mined_at": "2026-05-04T04:39:54+00:00",
-      "source_published_at": "Sun, 03 May 2026 00:56:52 EDT",
-      "image_url": "/article_images/article_ab01c4e1307b.webp",
+      "source": "NPR World",
+      "time_ago": "Mon, 04 May 2026 08:38:31 -0400",
+      "mined_at": "2026-05-04T18:30:40+00:00",
+      "source_published_at": "Mon, 04 May 2026 08:38:31 -0400",
+      "image_url": "/article_images/article_efc449953585.webp",
       "category": "News",
-      "title": "RAVEN AI Uncovers 118 New Planets, Including Ultra-Short Orbits and Worlds in the 'Neptunian Desert'",
-      "summary": "University of Warwick astronomers used the RAVEN AI pipeline to confirm 118 new exoplanets from NASA TESS data. Some orbit in under 24 hours; others lie in the mysterious Neptunian desert. The study also precisely measured how common close-in planets are."
+      "title": "From Reflecting Pools to Triumphal Arches: Trump's Sweeping Redesign of the Nation's Capital",
+      "summary": "President Trump is reshaping Washington, D.C.'s landscape with projects like a blue Lincoln Memorial Reflecting Pool and a planned triumphal arch. Critics say he's treating the city as a personal branding opportunity ahead of America's 250th anniversary."
     },
     {
       "id": "2026-05-04-news-3",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Sun, 03 May 2026 09:40:13 EDT",
-      "mined_at": "2026-05-04T04:39:54+00:00",
-      "source_published_at": "Sun, 03 May 2026 09:40:13 EDT",
-      "image_url": "/article_images/article_437f182f466f.webp",
+      "source": "PBS NewsHour",
+      "time_ago": "Mon, 04 May 2026 13:06:02 -0400",
+      "mined_at": "2026-05-04T18:30:40+00:00",
+      "source_published_at": "Mon, 04 May 2026 13:06:02 -0400",
+      "image_url": "/article_images/article_ccdee6364578.webp",
       "category": "News",
-      "title": "A Flaw in Time Itself? Quantum Collapse Models Hint at a Fundamental Limit to Clock Precision",
-      "summary": "Physicists exploring quantum collapse models linked to gravity have calculated that time may have an inherent, extremely tiny uncertainty. This sets a fundamental limit on clock precision, but it's far too small to affect even the best atomic clocks."
+      "title": "The 'Hidden Tax': How a Weakening Dollar Is Squeezing American Consumers",
+      "summary": "The U.S. dollar has fallen about 10% since Trump took office, the steepest six-month drop in over 50 years. While it helps big exporters, it acts as a \"hidden tax\" on imports, travel, and everyday goods."
     }
   ]
 }

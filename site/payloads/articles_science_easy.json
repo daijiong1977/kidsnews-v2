@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-05-04-science-1",
-      "source": "Space.com",
-      "time_ago": "Sun, 03 May 2026 16:00:00 +0000",
-      "mined_at": "2026-05-04T04:39:54+00:00",
-      "source_published_at": "Sun, 03 May 2026 16:00:00 +0000",
-      "image_url": "/article_images/article_6eaed42863fe.webp",
+      "source": "Smithsonian Science-Nature",
+      "time_ago": "Thu, 23 Apr 2026 13:00:38 +0000",
+      "mined_at": "2026-05-04T18:30:40+00:00",
+      "source_published_at": "Thu, 23 Apr 2026 13:00:38 +0000",
+      "image_url": "/article_images/article_688139e6705b.webp",
       "category": "Science",
-      "title": "Astronaut Spots a Fireball from Space — Was It a Rocket Part?",
-      "summary": "Imagine seeing a shooting star from above! NASA astronaut Chris Williams watched a bright fireball break apart over West Africa. It might have been a rocket part falling back to Earth."
+      "title": "Why Are Wild Lynxes Giving Their Dinner a Bath?",
+      "summary": "Scientists caught Iberian lynxes dunking dead rabbits in water—a first for any meat-eating animal. Five female lynxes in Spain did this, maybe to help their cubs eat. It shows these rare cats can learn new tricks."
     },
     {
       "id": "2026-05-04-science-2",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Sat, 02 May 2026 23:12:19 EDT",
-      "mined_at": "2026-05-04T04:39:54+00:00",
-      "source_published_at": "Sat, 02 May 2026 23:12:19 EDT",
-      "image_url": "/article_images/article_25780fd286a4.webp",
+      "source": "Physics World",
+      "time_ago": "Fri, 01 May 2026 13:00:13 +0000",
+      "mined_at": "2026-05-04T18:30:40+00:00",
+      "source_published_at": "Fri, 01 May 2026 13:00:13 +0000",
+      "image_url": "/article_images/article_a2c1b3132f1e.webp",
       "category": "Science",
-      "title": "Pink Bug Turns Green to Hide Like a Leaf!",
-      "summary": "Scientists found a katydid that changed from hot pink to green in 11 days. It might be copying rainforest leaves that start pink and then turn green."
+      "title": "This Tiny Knotted String Can Jump Higher Than Your House!",
+      "summary": "Scientists made a super-thin fiber that's tied in a knot. When heated, it suddenly unties and shoots almost 2 meters into the air—like a springtail bug. By changing the knot shape, they can make it flip or spin. It might help plant seeds in hard-to-reach places."
     },
     {
       "id": "2026-05-04-science-3",
-      "source": "IEEE Spectrum",
-      "time_ago": "Thu, 30 Apr 2026 13:22:51 +0000",
-      "mined_at": "2026-05-04T04:39:54+00:00",
-      "source_published_at": "Thu, 30 Apr 2026 13:22:51 +0000",
-      "image_url": "/article_images/article_4d5caf08f43c.webp",
+      "source": "MIT Tech Review",
+      "time_ago": "Mon, 04 May 2026 13:00:00 +0000",
+      "mined_at": "2026-05-04T18:30:40+00:00",
+      "source_published_at": "Mon, 04 May 2026 13:00:00 +0000",
+      "image_url": "/article_images/article_daedaea4a039.webp",
       "category": "Science",
-      "title": "Robot Hands Are Learning to Feel!",
-      "summary": "A company called DAIMON Robotics made a huge dataset to teach robot hands how to sense touch. They shared 10,000 hours of data so robots can get better at tasks like folding laundry."
+      "title": "How AI Is Learning to Be a Doctor's Best Helper",
+      "summary": "AI is popping up all over hospitals—reading X-rays, planning surgeries, even organizing schedules. But health care is super tricky, so developers need to work closely with doctors to make AI that's safe and truly helpful. More than 1,300 AI medical devices are already approved in the U.S."
     }
   ]
 }
