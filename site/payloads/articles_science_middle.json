@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-03-science-1",
+      "id": "2026-05-04-science-1",
       "source": "ScienceDaily All",
-      "time_ago": "Sun, 03 May 2026 00:56:52 EDT",
-      "mined_at": "2026-05-03T18:00:09+00:00",
-      "source_published_at": "Sun, 03 May 2026 00:56:52 EDT",
-      "image_url": "/article_images/article_ab01c4e1307b.webp",
+      "time_ago": "Sat, 02 May 2026 09:27:56 EDT",
+      "mined_at": "2026-05-04T02:45:00+00:00",
+      "source_published_at": "Sat, 02 May 2026 09:27:56 EDT",
+      "image_url": "/article_images/article_e63e4048c611.webp",
       "category": "Science",
-      "title": "AI Uncovers Over 100 Exoplanets, Including Rare Worlds in the 'Neptunian Desert'",
-      "summary": "A new AI pipeline called RAVEN sifted through 2.2 million stars from NASA's TESS mission and validated 118 exoplanets, including ultra-short-period planets and worlds in the mysterious 'Neptunian desert.' The study also gives the most precise measurement yet of how common close-in planets are."
+      "title": "A Dormant Dream Erupts: 18th-Century Mechanical Volcano Built After 250 Years",
+      "summary": "A clockwork volcano designed in 1775 to mimic Mount Vesuvius has been constructed for the first time. Engineering students used modern tech like programmable LEDs to realize the vision. The exhibit runs at the University of Melbourne through June 28, 2026."
     },
     {
-      "id": "2026-05-03-science-2",
+      "id": "2026-05-04-science-2",
       "source": "Science News Explores",
-      "time_ago": "Thu, 30 Apr 2026 10:30:00 +0000",
-      "mined_at": "2026-05-03T18:00:09+00:00",
-      "source_published_at": "Thu, 30 Apr 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_79b3b93bb65a.webp",
+      "time_ago": "Fri, 01 May 2026 10:30:00 +0000",
+      "mined_at": "2026-05-04T02:45:00+00:00",
+      "source_published_at": "Fri, 01 May 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_ccf654e03d11.webp",
       "category": "Science",
-      "title": "Scientists Chase Animal Joy: Building a 'Joy-o-Meter' for Apes, Dolphins, and Parrots",
-      "summary": "After decades of studying negative emotions, researchers are finally tackling animal happiness. A bold project aims to develop a 'joy-o-meter' — a set of tests to measure brief, intense joy across species. Early observations reveal chimps giggle and bonobos have surprising toy preferences."
+      "title": "Brain Scans Reveal Why Number Symbols Trip Up Kids with Math Disabilities",
+      "summary": "A new study shows that kids with math learning disabilities process number symbols differently in the brain. When problems use dots instead, their brain activity and behavior match typical peers. The findings point to specific brain regions involved."
     },
     {
-      "id": "2026-05-03-science-3",
-      "source": "NASA News",
-      "time_ago": "Thu, 30 Apr 2026 18:13:34 +0000",
-      "mined_at": "2026-05-03T18:00:09+00:00",
-      "source_published_at": "Thu, 30 Apr 2026 18:13:34 +0000",
-      "image_url": "/article_images/article_07ad0f77bf07.webp",
+      "id": "2026-05-04-science-3",
+      "source": "NPR Health",
+      "time_ago": "Thu, 30 Apr 2026 14:00:35 -0400",
+      "mined_at": "2026-05-04T02:45:00+00:00",
+      "source_published_at": "Thu, 30 Apr 2026 14:00:35 -0400",
+      "image_url": "/article_images/article_905ac97b4d05.webp",
       "category": "Science",
-      "title": "May 2026 Skywatching: Eta Aquarids, a Moon-Venus Pairing, and a Blue Moon",
-      "summary": "May delivers a trio of celestial events. The Eta Aquarid meteor shower, debris from Halley's Comet, peaks before dawn on May 5–6 with swift, trail-leaving meteors. On May 18, the crescent Moon and Venus shine together after sunset. The month ends with a rare Blue Moon on May 31."
+      "title": "In a Real-World ER Test, an AI Model Outperformed Doctors at Diagnosis",
+      "summary": "A study in Science found that an OpenAI reasoning model beat two experienced physicians in diagnosing emergency department patients. The AI used only text from electronic health records and correctly identified a missed lupus case."
     }
   ]
 }

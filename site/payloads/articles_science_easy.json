@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-03-science-1",
+      "id": "2026-05-04-science-1",
       "source": "ScienceDaily All",
-      "time_ago": "Sun, 03 May 2026 00:56:52 EDT",
-      "mined_at": "2026-05-03T18:00:09+00:00",
-      "source_published_at": "Sun, 03 May 2026 00:56:52 EDT",
-      "image_url": "/article_images/article_ab01c4e1307b.webp",
+      "time_ago": "Sat, 02 May 2026 09:27:56 EDT",
+      "mined_at": "2026-05-04T02:45:00+00:00",
+      "source_published_at": "Sat, 02 May 2026 09:27:56 EDT",
+      "image_url": "/article_images/article_e63e4048c611.webp",
       "category": "Science",
-      "title": "AI Super-Sleuth Finds 100+ Hidden Planets — Some Are Really Weird!",
-      "summary": "A smart computer program just discovered over 100 new planets hiding in NASA data. Some orbit their star in less than a day, and others live in a 'desert' where planets shouldn't exist. This changes how we count worlds in the galaxy."
+      "title": "A 250-Year-Old Volcano Machine Finally Erupts!",
+      "summary": "A mechanical volcano imagined in 1775 has been built for the first time. Two engineering students used lasers and LEDs to make it erupt with light. You can see it at a library in Melbourne until June 28, 2026."
     },
     {
-      "id": "2026-05-03-science-2",
+      "id": "2026-05-04-science-2",
       "source": "Science News Explores",
-      "time_ago": "Thu, 30 Apr 2026 10:30:00 +0000",
-      "mined_at": "2026-05-03T18:00:09+00:00",
-      "source_published_at": "Thu, 30 Apr 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_79b3b93bb65a.webp",
+      "time_ago": "Fri, 01 May 2026 10:30:00 +0000",
+      "mined_at": "2026-05-04T02:45:00+00:00",
+      "source_published_at": "Fri, 01 May 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_ccf654e03d11.webp",
       "category": "Science",
-      "title": "Do Animals Feel Joy? Scientists Are Building a 'Joy-o-Meter' to Find Out!",
-      "summary": "Scientists have mostly studied animal fear and pain, but now they're chasing happiness. A team is creating a 'joy-o-meter' to measure brief, intense joy in apes, dolphins, and parrots. Early results show chimps giggle and bonobos love basketballs."
+      "title": "Why Is Math Harder for Some Kids? Brain Scans Show a Surprising Clue",
+      "summary": "When kids with math troubles see number symbols, their brains work differently. But show them dots instead, and the difference disappears. Scientists found two brain areas that might explain why."
     },
     {
-      "id": "2026-05-03-science-3",
-      "source": "NASA News",
-      "time_ago": "Thu, 30 Apr 2026 18:13:34 +0000",
-      "mined_at": "2026-05-03T18:00:09+00:00",
-      "source_published_at": "Thu, 30 Apr 2026 18:13:34 +0000",
-      "image_url": "/article_images/article_07ad0f77bf07.webp",
+      "id": "2026-05-04-science-3",
+      "source": "NPR Health",
+      "time_ago": "Thu, 30 Apr 2026 14:00:35 -0400",
+      "mined_at": "2026-05-04T02:45:00+00:00",
+      "source_published_at": "Thu, 30 Apr 2026 14:00:35 -0400",
+      "image_url": "/article_images/article_905ac97b4d05.webp",
       "category": "Science",
-      "title": "May Sky Show: Shooting Stars, a Moon-Venus Meetup, and a Rare Blue Moon!",
-      "summary": "May 2026 is packed with sky wonders. The Eta Aquarid meteor shower peaks around May 5–6 with fast, bright shooting stars from Halley's Comet. On May 18, the crescent Moon snuggles up to brilliant Venus. The month ends with a Blue Moon on May 31."
+      "title": "AI Beats Doctors at Diagnosing Patients—in a Real Hospital Test!",
+      "summary": "An AI model diagnosed patients better than two experienced doctors in a real emergency room. It used only text from health records. The AI even solved a tricky case involving lupus that doctors missed."
     }
   ]
 }
