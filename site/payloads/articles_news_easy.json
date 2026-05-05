@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-04-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Mon, 04 May 2026 13:12:47 -0400",
-      "mined_at": "2026-05-04T18:30:40+00:00",
-      "source_published_at": "Mon, 04 May 2026 13:12:47 -0400",
-      "image_url": "/article_images/article_84d14711b1f4.webp",
-      "category": "News",
-      "title": "A Map War Is Changing Who Gets Elected — Here's Why It Matters",
-      "summary": "States are redrawing voting maps to favor one party. Tennessee wants to split up its only Democratic district in Memphis. Experts say this could mean fewer fair elections."
-    },
-    {
-      "id": "2026-05-04-news-2",
+      "id": "2026-05-05-news-1",
       "source": "NPR World",
-      "time_ago": "Mon, 04 May 2026 08:38:31 -0400",
-      "mined_at": "2026-05-04T18:30:40+00:00",
-      "source_published_at": "Mon, 04 May 2026 08:38:31 -0400",
-      "image_url": "/article_images/article_efc449953585.webp",
+      "time_ago": "Tue, 05 May 2026 13:15:11 -0400",
+      "mined_at": "2026-05-05T18:29:46+00:00",
+      "source_published_at": "Tue, 05 May 2026 13:15:11 -0400",
+      "image_url": "/article_images/article_058b2dcffd7e.webp",
       "category": "News",
-      "title": "Trump Is Giving D.C. a Makeover — From a Blue Pool to a Giant Arch",
-      "summary": "President Trump is changing the look of Washington, D.C. He's resurfacing the Lincoln Memorial Reflecting Pool in \"American flag blue\" and planning a triumphal arch. Some people say it's like treating the city as his personal country club."
+      "title": "Did the FBI Boss Use AI to Copy a Famous Music Video?",
+      "summary": "FBI Director Kash Patel posted a video that looks almost exactly like the Beastie Boys' 1994 'Sabotage' music video. Experts say AI probably made the matching clips. The FBI hasn't explained how they did it."
     },
     {
-      "id": "2026-05-04-news-3",
-      "source": "PBS NewsHour",
-      "time_ago": "Mon, 04 May 2026 13:06:02 -0400",
-      "mined_at": "2026-05-04T18:30:40+00:00",
-      "source_published_at": "Mon, 04 May 2026 13:06:02 -0400",
-      "image_url": "/article_images/article_ccdee6364578.webp",
+      "id": "2026-05-05-news-2",
+      "source": "Al Jazeera",
+      "time_ago": "Tue, 05 May 2026 16:53:09 +0000",
+      "mined_at": "2026-05-05T18:29:46+00:00",
+      "source_published_at": "Tue, 05 May 2026 16:53:09 +0000",
+      "image_url": "/article_images/article_4dced7ff994c.webp",
       "category": "News",
-      "title": "Your Dollar Is Shrinking! What a Weaker Buck Means for Your Wallet",
-      "summary": "The U.S. dollar has dropped about 10% since Trump took office. That makes vacations and imported stuff more expensive. Experts call it a \"hidden tax.\""
+      "title": "Big Tech Companies Let the Government Test Their AI for Safety",
+      "summary": "Microsoft, Google, and xAI will let the U.S. government check their newest AI models for security risks before they're released. This deal comes after worries that powerful AI could help hackers or be misused by the military."
+    },
+    {
+      "id": "2026-05-05-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Tue, 05 May 2026 12:53:45 -0400",
+      "mined_at": "2026-05-05T18:29:46+00:00",
+      "source_published_at": "Tue, 05 May 2026 12:53:45 -0400",
+      "image_url": "/article_images/article_abb63dbd25ba.webp",
+      "category": "News",
+      "title": "Senate Republicans Want $1 Billion to Make Trump's Ballroom Super Safe",
+      "summary": "After a man was charged with trying to attack President Trump at a dinner, Senate Republicans added $1 billion to a bill for White House security upgrades. The money would go toward protecting a new ballroom Trump wants to build, but Democrats say it's a waste."
     }
   ]
 }

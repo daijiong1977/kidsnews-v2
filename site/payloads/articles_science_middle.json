@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-04-science-1",
-      "source": "Smithsonian Science-Nature",
-      "time_ago": "Thu, 23 Apr 2026 13:00:38 +0000",
-      "mined_at": "2026-05-04T18:30:40+00:00",
-      "source_published_at": "Thu, 23 Apr 2026 13:00:38 +0000",
-      "image_url": "/article_images/article_688139e6705b.webp",
+      "id": "2026-05-05-science-1",
+      "source": "Popular Science",
+      "time_ago": "Tue, 05 May 2026 11:52:41 -0400",
+      "mined_at": "2026-05-05T18:29:46+00:00",
+      "source_published_at": "Tue, 05 May 2026 11:52:41 -0400",
+      "image_url": "/article_images/article_eb6b52417400.webp",
       "category": "Science",
-      "title": "Lynxes Caught Soaking Their Prey—A Carnivore First That Hints at Hidden Smarts",
-      "summary": "In a world first, Iberian lynxes have been recorded dunking dead rabbits in water. Five females in central Spain repeatedly soaked prey, possibly to hydrate cubs or soften meat. The behavior spread among related cats, suggesting social learning in a species once nearly extinct."
+      "title": "NASA's X-59 Pulls Off Dizzying Stunts — and It's Designed to Replace Sonic Booms With a Gentle 'Thump'",
+      "summary": "Lockheed Martin's X-59 just completed its most aggressive maneuvers yet, hitting Mach 0.95. The experimental NASA jet is engineered to turn the window-rattling sonic boom into a soft thump, potentially reviving supersonic travel over land."
     },
     {
-      "id": "2026-05-04-science-2",
-      "source": "Physics World",
-      "time_ago": "Fri, 01 May 2026 13:00:13 +0000",
-      "mined_at": "2026-05-04T18:30:40+00:00",
-      "source_published_at": "Fri, 01 May 2026 13:00:13 +0000",
-      "image_url": "/article_images/article_a2c1b3132f1e.webp",
+      "id": "2026-05-05-science-2",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Mon, 04 May 2026 22:48:12 EDT",
+      "mined_at": "2026-05-05T18:29:46+00:00",
+      "source_published_at": "Mon, 04 May 2026 22:48:12 EDT",
+      "image_url": "/article_images/article_78d46e9f3dcb.webp",
       "category": "Science",
-      "title": "A Knotted Fiber That Leaps Like a Bug—And Could Help Reforest the Planet",
-      "summary": "Engineers have built a soft, millimeter-thick fiber that, when heated, explosively unties itself and jumps nearly 2 meters high. The knot stores elastic energy, mimicking a springtail's leap. By tweaking knot topology and adding wings, researchers control its flight—opening doors for agricultural and reforestation robots."
+      "title": "Flipping Magnetic Fields Creates Exotic Quantum Matter That Defies Expectations",
+      "summary": "Cal Poly researchers found that periodically switching a magnetic field can generate entirely new quantum states with no static counterpart. The discovery could make quantum computers more stable and resistant to errors."
     },
     {
-      "id": "2026-05-04-science-3",
-      "source": "MIT Tech Review",
-      "time_ago": "Mon, 04 May 2026 13:00:00 +0000",
-      "mined_at": "2026-05-04T18:30:40+00:00",
-      "source_published_at": "Mon, 04 May 2026 13:00:00 +0000",
-      "image_url": "/article_images/article_daedaea4a039.webp",
+      "id": "2026-05-05-science-3",
+      "source": "NASA News",
+      "time_ago": "Tue, 05 May 2026 16:34:49 +0000",
+      "mined_at": "2026-05-05T18:29:46+00:00",
+      "source_published_at": "Tue, 05 May 2026 16:34:49 +0000",
+      "image_url": "/article_images/article_58d419276256.webp",
       "category": "Science",
-      "title": "AI in Health Care: Why the Best Algorithms Need a Doctor's Touch",
-      "summary": "AI is flooding into medicine—over 1,300 FDA-approved devices now interpret scans, plan surgeries, and streamline workflows. But health care's complexity demands deep collaboration between developers and clinicians to avoid failures. Tailored solutions that reduce caregiver burden are the priority, yet immature AI remains a top adoption barrier."
+      "title": "Ancient Life Cracked a Scarcity Problem: It Used a Metal That Was Almost Impossible to Find",
+      "summary": "A NASA-funded study reveals that life on Earth began using molybdenum over 3.7 billion years ago, despite its extreme scarcity. The finding reshapes how we search for life on other worlds."
     }
   ]
 }

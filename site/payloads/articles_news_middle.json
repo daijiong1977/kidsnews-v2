@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-04-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Mon, 04 May 2026 13:12:47 -0400",
-      "mined_at": "2026-05-04T18:30:40+00:00",
-      "source_published_at": "Mon, 04 May 2026 13:12:47 -0400",
-      "image_url": "/article_images/article_84d14711b1f4.webp",
-      "category": "News",
-      "title": "The Redistricting Arms Race: How a Supreme Court Ruling Unleashed a National Map War",
-      "summary": "After the Supreme Court weakened the Voting Rights Act, states are scrambling to redraw congressional districts. Tennessee plans to dismantle its only Democratic seat in Memphis. Experts warn this could lock in one-party rule."
-    },
-    {
-      "id": "2026-05-04-news-2",
+      "id": "2026-05-05-news-1",
       "source": "NPR World",
-      "time_ago": "Mon, 04 May 2026 08:38:31 -0400",
-      "mined_at": "2026-05-04T18:30:40+00:00",
-      "source_published_at": "Mon, 04 May 2026 08:38:31 -0400",
-      "image_url": "/article_images/article_efc449953585.webp",
+      "time_ago": "Tue, 05 May 2026 13:15:11 -0400",
+      "mined_at": "2026-05-05T18:29:46+00:00",
+      "source_published_at": "Tue, 05 May 2026 13:15:11 -0400",
+      "image_url": "/article_images/article_058b2dcffd7e.webp",
       "category": "News",
-      "title": "From Reflecting Pools to Triumphal Arches: Trump's Sweeping Redesign of the Nation's Capital",
-      "summary": "President Trump is reshaping Washington, D.C.'s landscape with projects like a blue Lincoln Memorial Reflecting Pool and a planned triumphal arch. Critics say he's treating the city as a personal branding opportunity ahead of America's 250th anniversary."
+      "title": "FBI Director's Promo Video Sparks AI Controversy with Beastie Boys Lookalike Clips",
+      "summary": "Kash Patel's FBI video used the Beastie Boys' 'Sabotage' and appears to have AI-generated clips nearly identical to the 1994 music video. Experts say AI errors like a telephone line through a character's head make it highly likely. The FBI hasn't responded."
     },
     {
-      "id": "2026-05-04-news-3",
-      "source": "PBS NewsHour",
-      "time_ago": "Mon, 04 May 2026 13:06:02 -0400",
-      "mined_at": "2026-05-04T18:30:40+00:00",
-      "source_published_at": "Mon, 04 May 2026 13:06:02 -0400",
-      "image_url": "/article_images/article_ccdee6364578.webp",
+      "id": "2026-05-05-news-2",
+      "source": "Al Jazeera",
+      "time_ago": "Tue, 05 May 2026 16:53:09 +0000",
+      "mined_at": "2026-05-05T18:29:46+00:00",
+      "source_published_at": "Tue, 05 May 2026 16:53:09 +0000",
+      "image_url": "/article_images/article_4dced7ff994c.webp",
       "category": "News",
-      "title": "The 'Hidden Tax': How a Weakening Dollar Is Squeezing American Consumers",
-      "summary": "The U.S. dollar has fallen about 10% since Trump took office, the steepest six-month drop in over 50 years. While it helps big exporters, it acts as a \"hidden tax\" on imports, travel, and everyday goods."
+      "title": "Microsoft, Google, xAI Open AI Models to U.S. Government for National Security Vetting",
+      "summary": "In a new agreement, Microsoft, Google, and xAI will give the U.S. government early access to frontier AI models for security testing. The deal addresses rising concerns that advanced AI could empower hackers or be weaponized, and follows a Pentagon pact for classified AI use."
+    },
+    {
+      "id": "2026-05-05-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Tue, 05 May 2026 12:53:45 -0400",
+      "mined_at": "2026-05-05T18:29:46+00:00",
+      "source_published_at": "Tue, 05 May 2026 12:53:45 -0400",
+      "image_url": "/article_images/article_abb63dbd25ba.webp",
+      "category": "News",
+      "title": "GOP Pushes $1 Billion for White House Ballroom Security After Assassination Attempt",
+      "summary": "Senate Republicans added $1 billion in Secret Service funding for Trump's East Wing ballroom project to an immigration bill, following a man's alleged assassination attempt at a White House correspondents' dinner. The money covers 'above-ground and below-ground security features' but not construction, which Trump says private funds will pay for."
     }
   ]
 }

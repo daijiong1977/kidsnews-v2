@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-04-science-1",
-      "source": "Smithsonian Science-Nature",
-      "time_ago": "Thu, 23 Apr 2026 13:00:38 +0000",
-      "mined_at": "2026-05-04T18:30:40+00:00",
-      "source_published_at": "Thu, 23 Apr 2026 13:00:38 +0000",
-      "image_url": "/article_images/article_688139e6705b.webp",
+      "id": "2026-05-05-science-1",
+      "source": "Popular Science",
+      "time_ago": "Tue, 05 May 2026 11:52:41 -0400",
+      "mined_at": "2026-05-05T18:29:46+00:00",
+      "source_published_at": "Tue, 05 May 2026 11:52:41 -0400",
+      "image_url": "/article_images/article_eb6b52417400.webp",
       "category": "Science",
-      "title": "Why Are Wild Lynxes Giving Their Dinner a Bath?",
-      "summary": "Scientists caught Iberian lynxes dunking dead rabbits in water—a first for any meat-eating animal. Five female lynxes in Spain did this, maybe to help their cubs eat. It shows these rare cats can learn new tricks."
+      "title": "This Plane Is So Quiet It Goes 'Thump' Instead of 'BOOM'!",
+      "summary": "NASA's X-59 plane just did wild flips and turns in the sky, hitting 730 mph without a big sonic boom. It's designed to make a soft 'thump' like a car door closing, which could bring back super-fast flights."
     },
     {
-      "id": "2026-05-04-science-2",
-      "source": "Physics World",
-      "time_ago": "Fri, 01 May 2026 13:00:13 +0000",
-      "mined_at": "2026-05-04T18:30:40+00:00",
-      "source_published_at": "Fri, 01 May 2026 13:00:13 +0000",
-      "image_url": "/article_images/article_a2c1b3132f1e.webp",
+      "id": "2026-05-05-science-2",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Mon, 04 May 2026 22:48:12 EDT",
+      "mined_at": "2026-05-05T18:29:46+00:00",
+      "source_published_at": "Mon, 04 May 2026 22:48:12 EDT",
+      "image_url": "/article_images/article_78d46e9f3dcb.webp",
       "category": "Science",
-      "title": "This Tiny Knotted String Can Jump Higher Than Your House!",
-      "summary": "Scientists made a super-thin fiber that's tied in a knot. When heated, it suddenly unties and shoots almost 2 meters into the air—like a springtail bug. By changing the knot shape, they can make it flip or spin. It might help plant seeds in hard-to-reach places."
+      "title": "Scientists Just Made Weird New Matter That Shouldn't Exist!",
+      "summary": "By flipping magnetic fields on and off like a light switch, scientists created exotic quantum states never seen before. This could lead to super-powered computers that don't crash."
     },
     {
-      "id": "2026-05-04-science-3",
-      "source": "MIT Tech Review",
-      "time_ago": "Mon, 04 May 2026 13:00:00 +0000",
-      "mined_at": "2026-05-04T18:30:40+00:00",
-      "source_published_at": "Mon, 04 May 2026 13:00:00 +0000",
-      "image_url": "/article_images/article_daedaea4a039.webp",
+      "id": "2026-05-05-science-3",
+      "source": "NASA News",
+      "time_ago": "Tue, 05 May 2026 16:34:49 +0000",
+      "mined_at": "2026-05-05T18:29:46+00:00",
+      "source_published_at": "Tue, 05 May 2026 16:34:49 +0000",
+      "image_url": "/article_images/article_58d419276256.webp",
       "category": "Science",
-      "title": "How AI Is Learning to Be a Doctor's Best Helper",
-      "summary": "AI is popping up all over hospitals—reading X-rays, planning surgeries, even organizing schedules. But health care is super tricky, so developers need to work closely with doctors to make AI that's safe and truly helpful. More than 1,300 AI medical devices are already approved in the U.S."
+      "title": "Life's Secret Ingredient 3 Billion Years Ago? A Super Rare Metal!",
+      "summary": "Ancient life on Earth used molybdenum, a metal that was almost impossible to find back then. Scientists say this shows life can thrive with scarce resources — and maybe aliens do too."
     }
   ]
 }
