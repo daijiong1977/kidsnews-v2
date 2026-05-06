@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-05-news-1",
+      "id": "2026-05-06-news-1",
       "source": "NPR World",
-      "time_ago": "Tue, 05 May 2026 13:15:11 -0400",
-      "mined_at": "2026-05-05T18:29:46+00:00",
-      "source_published_at": "Tue, 05 May 2026 13:15:11 -0400",
-      "image_url": "/article_images/article_058b2dcffd7e.webp",
+      "time_ago": "Wed, 06 May 2026 05:00:00 -0400",
+      "mined_at": "2026-05-06T18:34:22+00:00",
+      "source_published_at": "Wed, 06 May 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_f5a08bc83ee0.webp",
       "category": "News",
-      "title": "Did the FBI Boss Use AI to Copy a Famous Music Video?",
-      "summary": "FBI Director Kash Patel posted a video that looks almost exactly like the Beastie Boys' 1994 'Sabotage' music video. Experts say AI probably made the matching clips. The FBI hasn't explained how they did it."
+      "title": "Why Do Some People Say 'Warsh' Instead of 'Wash'?",
+      "summary": "Have you ever heard someone say \"warsh\" instead of \"wash\"? It's not a mistake—it's part of an old American dialect. Linguists trace it back to Scotch-Irish immigrants who brought strong \"r\" sounds. Today, you might still hear it from older folks in places like Appalachia."
     },
     {
-      "id": "2026-05-05-news-2",
-      "source": "Al Jazeera",
-      "time_ago": "Tue, 05 May 2026 16:53:09 +0000",
-      "mined_at": "2026-05-05T18:29:46+00:00",
-      "source_published_at": "Tue, 05 May 2026 16:53:09 +0000",
-      "image_url": "/article_images/article_4dced7ff994c.webp",
+      "id": "2026-05-06-news-2",
+      "source": "BBC News",
+      "time_ago": "Wed, 06 May 2026 17:32:04 GMT",
+      "mined_at": "2026-05-06T18:34:22+00:00",
+      "source_published_at": "Wed, 06 May 2026 17:32:04 GMT",
+      "image_url": "/article_images/article_727ee83b7795.webp",
       "category": "News",
-      "title": "Big Tech Companies Let the Government Test Their AI for Safety",
-      "summary": "Microsoft, Google, and xAI will let the U.S. government check their newest AI models for security risks before they're released. This deal comes after worries that powerful AI could help hackers or be misused by the military."
+      "title": "Trump Says Iran Peace Deal Might Happen—Then Threatens More Bombs",
+      "summary": "President Trump paused a mission to guide ships near Iran, saying a peace deal was close. But the next day, he warned that if no deal happens, bombing could get even worse. Experts say talks are tricky, and Iran says the U.S. must give more."
     },
     {
-      "id": "2026-05-05-news-3",
+      "id": "2026-05-06-news-3",
       "source": "PBS NewsHour",
-      "time_ago": "Tue, 05 May 2026 12:53:45 -0400",
-      "mined_at": "2026-05-05T18:29:46+00:00",
-      "source_published_at": "Tue, 05 May 2026 12:53:45 -0400",
-      "image_url": "/article_images/article_abb63dbd25ba.webp",
+      "time_ago": "Wed, 06 May 2026 12:24:00 -0400",
+      "mined_at": "2026-05-06T18:34:22+00:00",
+      "source_published_at": "Wed, 06 May 2026 12:24:00 -0400",
+      "image_url": "/article_images/article_e4d6a9e6d440.webp",
       "category": "News",
-      "title": "Senate Republicans Want $1 Billion to Make Trump's Ballroom Super Safe",
-      "summary": "After a man was charged with trying to attack President Trump at a dinner, Senate Republicans added $1 billion to a bill for White House security upgrades. The money would go toward protecting a new ballroom Trump wants to build, but Democrats say it's a waste."
+      "title": "Pope Leo XIV Will Open a Giant Tower and Meet Migrants in Spain",
+      "summary": "Pope Leo XIV is visiting Spain in June! He'll inaugurate a huge tower at Barcelona's famous Sagrada Familia church—it's now 172.5 meters tall. He'll also meet migrants in the Canary Islands, where thousands arrive from Africa. It's a trip full of big moments."
     }
   ]
 }

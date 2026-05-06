@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-05-news-1",
+      "id": "2026-05-06-news-1",
       "source": "NPR World",
-      "time_ago": "Tue, 05 May 2026 13:15:11 -0400",
-      "mined_at": "2026-05-05T18:29:46+00:00",
-      "source_published_at": "Tue, 05 May 2026 13:15:11 -0400",
-      "image_url": "/article_images/article_058b2dcffd7e.webp",
+      "time_ago": "Wed, 06 May 2026 05:00:00 -0400",
+      "mined_at": "2026-05-06T18:34:22+00:00",
+      "source_published_at": "Wed, 06 May 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_f5a08bc83ee0.webp",
       "category": "News",
-      "title": "FBI Director's Promo Video Sparks AI Controversy with Beastie Boys Lookalike Clips",
-      "summary": "Kash Patel's FBI video used the Beastie Boys' 'Sabotage' and appears to have AI-generated clips nearly identical to the 1994 music video. Experts say AI errors like a telephone line through a character's head make it highly likely. The FBI hasn't responded."
+      "title": "The Curious Case of 'Warsh': Tracing an American Dialect's Scotch-Irish Roots",
+      "summary": "Why do some Americans say \"warsh\" for \"wash\"? Linguists point to Scotch-Irish immigration in the 18th century. These rhotic speakers—meaning they pronounce \"r\" strongly—spread the dialect across Appalachia and beyond. Though fading, you can still hear it from older generations in regions from Baltimore to Washington state."
     },
     {
-      "id": "2026-05-05-news-2",
-      "source": "Al Jazeera",
-      "time_ago": "Tue, 05 May 2026 16:53:09 +0000",
-      "mined_at": "2026-05-05T18:29:46+00:00",
-      "source_published_at": "Tue, 05 May 2026 16:53:09 +0000",
-      "image_url": "/article_images/article_4dced7ff994c.webp",
+      "id": "2026-05-06-news-2",
+      "source": "BBC News",
+      "time_ago": "Wed, 06 May 2026 17:32:04 GMT",
+      "mined_at": "2026-05-06T18:34:22+00:00",
+      "source_published_at": "Wed, 06 May 2026 17:32:04 GMT",
+      "image_url": "/article_images/article_727ee83b7795.webp",
       "category": "News",
-      "title": "Microsoft, Google, xAI Open AI Models to U.S. Government for National Security Vetting",
-      "summary": "In a new agreement, Microsoft, Google, and xAI will give the U.S. government early access to frontier AI models for security testing. The deal addresses rising concerns that advanced AI could empower hackers or be weaponized, and follows a Pentagon pact for classified AI use."
+      "title": "Trump's Iran Deal Hopes Collide with Renewed Bombing Threats",
+      "summary": "Trump suspended \"Project Freedom\" to escort ships through the Strait of Hormuz, claiming progress toward a 14-point peace deal with Iran. But within hours, he threatened \"much higher\" bombing if no deal is signed. Experts warn negotiations are fragile, and Iran calls the plan a U.S. wish list."
     },
     {
-      "id": "2026-05-05-news-3",
+      "id": "2026-05-06-news-3",
       "source": "PBS NewsHour",
-      "time_ago": "Tue, 05 May 2026 12:53:45 -0400",
-      "mined_at": "2026-05-05T18:29:46+00:00",
-      "source_published_at": "Tue, 05 May 2026 12:53:45 -0400",
-      "image_url": "/article_images/article_abb63dbd25ba.webp",
+      "time_ago": "Wed, 06 May 2026 12:24:00 -0400",
+      "mined_at": "2026-05-06T18:34:22+00:00",
+      "source_published_at": "Wed, 06 May 2026 12:24:00 -0400",
+      "image_url": "/article_images/article_e4d6a9e6d440.webp",
       "category": "News",
-      "title": "GOP Pushes $1 Billion for White House Ballroom Security After Assassination Attempt",
-      "summary": "Senate Republicans added $1 billion in Secret Service funding for Trump's East Wing ballroom project to an immigration bill, following a man's alleged assassination attempt at a White House correspondents' dinner. The money covers 'above-ground and below-ground security features' but not construction, which Trump says private funds will pay for."
+      "title": "Pope Leo XIV to Inaugurate Sagrada Familia's Tower and Visit Migrant Hub in Spain",
+      "summary": "Pope Leo XIV's June trip to Spain will blend grandeur and compassion. He'll inaugurate the 172.5-meter Tower of Jesus Christ at Barcelona's Sagrada Familia, marking 100 years since Antoni Gaudí's death. Then he heads to the Canary Islands to meet migrants at a reception center, following in Pope Francis's footsteps."
     }
   ]
 }

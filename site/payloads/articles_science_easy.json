@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-05-science-1",
-      "source": "Popular Science",
-      "time_ago": "Tue, 05 May 2026 11:52:41 -0400",
-      "mined_at": "2026-05-05T18:29:46+00:00",
-      "source_published_at": "Tue, 05 May 2026 11:52:41 -0400",
-      "image_url": "/article_images/article_eb6b52417400.webp",
+      "id": "2026-05-06-science-1",
+      "source": "Space.com",
+      "time_ago": "Wed, 06 May 2026 17:12:45 +0000",
+      "mined_at": "2026-05-06T18:34:22+00:00",
+      "source_published_at": "Wed, 06 May 2026 17:12:45 +0000",
+      "image_url": "/article_images/article_36a8debb2d8e.webp",
       "category": "Science",
-      "title": "This Plane Is So Quiet It Goes 'Thump' Instead of 'BOOM'!",
-      "summary": "NASA's X-59 plane just did wild flips and turns in the sky, hitting 730 mph without a big sonic boom. It's designed to make a soft 'thump' like a car door closing, which could bring back super-fast flights."
+      "title": "Invisible Bumper Cars in Space? New Dark Matter Idea Solves 3 Big Mysteries",
+      "summary": "Imagine invisible stuff that usually ignores itself suddenly starts bumping around. Scientists think this 'self-interacting dark matter' could explain a super-dense clump, a scar in a star stream, and a weird star cluster. It's like a crowd that goes from polite to pushy."
     },
     {
-      "id": "2026-05-05-science-2",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Mon, 04 May 2026 22:48:12 EDT",
-      "mined_at": "2026-05-05T18:29:46+00:00",
-      "source_published_at": "Mon, 04 May 2026 22:48:12 EDT",
-      "image_url": "/article_images/article_78d46e9f3dcb.webp",
+      "id": "2026-05-06-science-2",
+      "source": "ScienceDaily All",
+      "time_ago": "Tue, 05 May 2026 14:20:47 EDT",
+      "mined_at": "2026-05-06T18:34:22+00:00",
+      "source_published_at": "Tue, 05 May 2026 14:20:47 EDT",
+      "image_url": "/article_images/article_50ab6b888c0a.webp",
       "category": "Science",
-      "title": "Scientists Just Made Weird New Matter That Shouldn't Exist!",
-      "summary": "By flipping magnetic fields on and off like a light switch, scientists created exotic quantum states never seen before. This could lead to super-powered computers that don't crash."
+      "title": "A Tiny Repair Crew in Your Blood? New Material Heals Hearts from the Inside",
+      "summary": "Scientists made a special powder that turns into a healing gel when mixed with water. Injected into the bloodstream, it finds damaged heart tissue after a heart attack and helps fix it from the inside out. Tests on rats and pigs showed less scarring and better heart function."
     },
     {
-      "id": "2026-05-05-science-3",
-      "source": "NASA News",
-      "time_ago": "Tue, 05 May 2026 16:34:49 +0000",
-      "mined_at": "2026-05-05T18:29:46+00:00",
-      "source_published_at": "Tue, 05 May 2026 16:34:49 +0000",
-      "image_url": "/article_images/article_58d419276256.webp",
+      "id": "2026-05-06-science-3",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Wed, 06 May 2026 02:47:27 EDT",
+      "mined_at": "2026-05-06T18:34:22+00:00",
+      "source_published_at": "Wed, 06 May 2026 02:47:27 EDT",
+      "image_url": "/article_images/article_880a001b4206.webp",
       "category": "Science",
-      "title": "Life's Secret Ingredient 3 Billion Years Ago? A Super Rare Metal!",
-      "summary": "Ancient life on Earth used molybdenum, a metal that was almost impossible to find back then. Scientists say this shows life can thrive with scarce resources — and maybe aliens do too."
+      "title": "A 240-Million-Year-Old Monster Was Hiding in a Garden Wall!",
+      "summary": "A retired chicken farmer found a fossil while building a garden wall. It turned out to be a 1.2-meter-long amphibian that lived 240 million years ago. Named Arenaerpeton, it had gnarly teeth and fang-like tusks, and looked like a giant salamander but much heavier."
     }
   ]
 }
