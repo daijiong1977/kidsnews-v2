@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-06-news-1",
-      "source": "NPR World",
-      "time_ago": "Wed, 06 May 2026 05:00:00 -0400",
-      "mined_at": "2026-05-06T18:34:22+00:00",
-      "source_published_at": "Wed, 06 May 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_f5a08bc83ee0.webp",
-      "category": "News",
-      "title": "The Curious Case of 'Warsh': Tracing an American Dialect's Scotch-Irish Roots",
-      "summary": "Why do some Americans say \"warsh\" for \"wash\"? Linguists point to Scotch-Irish immigration in the 18th century. These rhotic speakers—meaning they pronounce \"r\" strongly—spread the dialect across Appalachia and beyond. Though fading, you can still hear it from older generations in regions from Baltimore to Washington state."
-    },
-    {
-      "id": "2026-05-06-news-2",
-      "source": "BBC News",
-      "time_ago": "Wed, 06 May 2026 17:32:04 GMT",
-      "mined_at": "2026-05-06T18:34:22+00:00",
-      "source_published_at": "Wed, 06 May 2026 17:32:04 GMT",
-      "image_url": "/article_images/article_727ee83b7795.webp",
-      "category": "News",
-      "title": "Trump's Iran Deal Hopes Collide with Renewed Bombing Threats",
-      "summary": "Trump suspended \"Project Freedom\" to escort ships through the Strait of Hormuz, claiming progress toward a 14-point peace deal with Iran. But within hours, he threatened \"much higher\" bombing if no deal is signed. Experts warn negotiations are fragile, and Iran calls the plan a U.S. wish list."
-    },
-    {
-      "id": "2026-05-06-news-3",
+      "id": "2026-05-07-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Wed, 06 May 2026 12:24:00 -0400",
-      "mined_at": "2026-05-06T18:34:22+00:00",
-      "source_published_at": "Wed, 06 May 2026 12:24:00 -0400",
-      "image_url": "/article_images/article_e4d6a9e6d440.webp",
+      "time_ago": "Thu, 07 May 2026 12:15:21 -0400",
+      "mined_at": "2026-05-07T18:29:20+00:00",
+      "source_published_at": "Thu, 07 May 2026 12:15:21 -0400",
+      "image_url": "/article_images/article_1e8095ba5dc1.webp",
       "category": "News",
-      "title": "Pope Leo XIV to Inaugurate Sagrada Familia's Tower and Visit Migrant Hub in Spain",
-      "summary": "Pope Leo XIV's June trip to Spain will blend grandeur and compassion. He'll inaugurate the 172.5-meter Tower of Jesus Christ at Barcelona's Sagrada Familia, marking 100 years since Antoni Gaudí's death. Then he heads to the Canary Islands to meet migrants at a reception center, following in Pope Francis's footsteps."
+      "title": "Midterm Reckoning: UK Local Elections Could Redraw Political Map as Starmer Fights for Survival",
+      "summary": "Millions of Britons voted Thursday in local elections seen as a referendum on Prime Minister Keir Starmer. Labour braces for heavy losses, while hard-right Reform UK and the Greens surge. One analyst predicts the \"total collapse\" of the traditional two-party system. Results could trigger a leadership challenge."
+    },
+    {
+      "id": "2026-05-07-news-2",
+      "source": "Al Jazeera",
+      "time_ago": "Thu, 07 May 2026 17:36:05 +0000",
+      "mined_at": "2026-05-07T18:29:20+00:00",
+      "source_published_at": "Thu, 07 May 2026 17:36:05 +0000",
+      "image_url": "/article_images/article_131d706b9765.webp",
+      "category": "News",
+      "title": "Treasury Targets Iraqi Deputy Oil Minister, Accusing Him of Orchestrating Iran's Shadow Oil Trade",
+      "summary": "The US sanctioned Iraq's Deputy Oil Minister Ali Maarij al-Bahadly and militia leaders, alleging they helped Iran evade sanctions and smuggle oil worth at least $1 billion annually. The move escalates the Trump administration's \"maximum pressure\" campaign amid the ongoing conflict over the Strait of Hormuz."
+    },
+    {
+      "id": "2026-05-07-news-3",
+      "source": "NPR World",
+      "time_ago": "Thu, 07 May 2026 05:00:00 -0400",
+      "mined_at": "2026-05-07T18:29:20+00:00",
+      "source_published_at": "Thu, 07 May 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_493a76ae0d8e.webp",
+      "category": "News",
+      "title": "NPR Podcast Winner Turns a Grandson's Fear of Dementia into an Intimate Audio Letter",
+      "summary": "Colby McCaskill, 21, won NPR's College Podcast Challenge with an audio letter to his grandfather about his grandmother's dementia. The episode captures raw, unflinching conversations and has moved his family to tears. \"It's like a warm hug,\" Colby says of his grandparents."
     }
   ]
 }

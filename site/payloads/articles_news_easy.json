@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-06-news-1",
-      "source": "NPR World",
-      "time_ago": "Wed, 06 May 2026 05:00:00 -0400",
-      "mined_at": "2026-05-06T18:34:22+00:00",
-      "source_published_at": "Wed, 06 May 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_f5a08bc83ee0.webp",
-      "category": "News",
-      "title": "Why Do Some People Say 'Warsh' Instead of 'Wash'?",
-      "summary": "Have you ever heard someone say \"warsh\" instead of \"wash\"? It's not a mistake—it's part of an old American dialect. Linguists trace it back to Scotch-Irish immigrants who brought strong \"r\" sounds. Today, you might still hear it from older folks in places like Appalachia."
-    },
-    {
-      "id": "2026-05-06-news-2",
-      "source": "BBC News",
-      "time_ago": "Wed, 06 May 2026 17:32:04 GMT",
-      "mined_at": "2026-05-06T18:34:22+00:00",
-      "source_published_at": "Wed, 06 May 2026 17:32:04 GMT",
-      "image_url": "/article_images/article_727ee83b7795.webp",
-      "category": "News",
-      "title": "Trump Says Iran Peace Deal Might Happen—Then Threatens More Bombs",
-      "summary": "President Trump paused a mission to guide ships near Iran, saying a peace deal was close. But the next day, he warned that if no deal happens, bombing could get even worse. Experts say talks are tricky, and Iran says the U.S. must give more."
-    },
-    {
-      "id": "2026-05-06-news-3",
+      "id": "2026-05-07-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Wed, 06 May 2026 12:24:00 -0400",
-      "mined_at": "2026-05-06T18:34:22+00:00",
-      "source_published_at": "Wed, 06 May 2026 12:24:00 -0400",
-      "image_url": "/article_images/article_e4d6a9e6d440.webp",
+      "time_ago": "Thu, 07 May 2026 12:15:21 -0400",
+      "mined_at": "2026-05-07T18:29:20+00:00",
+      "source_published_at": "Thu, 07 May 2026 12:15:21 -0400",
+      "image_url": "/article_images/article_1e8095ba5dc1.webp",
       "category": "News",
-      "title": "Pope Leo XIV Will Open a Giant Tower and Meet Migrants in Spain",
-      "summary": "Pope Leo XIV is visiting Spain in June! He'll inaugurate a huge tower at Barcelona's famous Sagrada Familia church—it's now 172.5 meters tall. He'll also meet migrants in the Canary Islands, where thousands arrive from Africa. It's a trip full of big moments."
+      "title": "A Big Test for Britain's Leader: Local Elections Could Shake Things Up!",
+      "summary": "Imagine your teacher getting a report card from the whole school—that's what happened to UK Prime Minister Keir Starmer today. Voters across Britain picked local leaders, and many think Labour could lose big. One expert says the old two-party system might totally collapse."
+    },
+    {
+      "id": "2026-05-07-news-2",
+      "source": "Al Jazeera",
+      "time_ago": "Thu, 07 May 2026 17:36:05 +0000",
+      "mined_at": "2026-05-07T18:29:20+00:00",
+      "source_published_at": "Thu, 07 May 2026 17:36:05 +0000",
+      "image_url": "/article_images/article_131d706b9765.webp",
+      "category": "News",
+      "title": "US Slaps Sanctions on Iraq's Oil Boss, Says He Helped Iran Sneak Oil Past Rules",
+      "summary": "The US just punished Iraq's deputy oil minister, Ali Maarij al-Bahadly, for helping Iran sell oil secretly. The US says Iran uses the money to fund terrorism. This is part of a bigger fight over oil and power in the Middle East."
+    },
+    {
+      "id": "2026-05-07-news-3",
+      "source": "NPR World",
+      "time_ago": "Thu, 07 May 2026 05:00:00 -0400",
+      "mined_at": "2026-05-07T18:29:20+00:00",
+      "source_published_at": "Thu, 07 May 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_493a76ae0d8e.webp",
+      "category": "News",
+      "title": "A Grandson's Podcast About His Grandma's Dementia Wins Big Prize—and Opens Hearts",
+      "summary": "Colby McCaskill, 21, made a podcast letter to his grandpa about his grandma's dementia. It was so honest and touching that it won NPR's College Podcast Challenge. Listening to it made his grandpa cry—but in a good way."
     }
   ]
 }

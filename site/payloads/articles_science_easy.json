@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-06-science-1",
-      "source": "Space.com",
-      "time_ago": "Wed, 06 May 2026 17:12:45 +0000",
-      "mined_at": "2026-05-06T18:34:22+00:00",
-      "source_published_at": "Wed, 06 May 2026 17:12:45 +0000",
-      "image_url": "/article_images/article_36a8debb2d8e.webp",
+      "id": "2026-05-07-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Wed, 06 May 2026 17:00:24 EDT",
+      "mined_at": "2026-05-07T18:29:20+00:00",
+      "source_published_at": "Wed, 06 May 2026 17:00:24 EDT",
+      "image_url": "/article_images/article_32940b6cecc0.webp",
       "category": "Science",
-      "title": "Invisible Bumper Cars in Space? New Dark Matter Idea Solves 3 Big Mysteries",
-      "summary": "Imagine invisible stuff that usually ignores itself suddenly starts bumping around. Scientists think this 'self-interacting dark matter' could explain a super-dense clump, a scar in a star stream, and a weird star cluster. It's like a crowd that goes from polite to pushy."
+      "title": "A Glowing Rocket Engine That Could Speed Us to Mars",
+      "summary": "NASA just fired a super-hot engine that runs on metal vapor. It reached 120 kilowatts—25 times more powerful than current space engines. This is a big step toward sending astronauts to Mars."
     },
     {
-      "id": "2026-05-06-science-2",
-      "source": "ScienceDaily All",
-      "time_ago": "Tue, 05 May 2026 14:20:47 EDT",
-      "mined_at": "2026-05-06T18:34:22+00:00",
-      "source_published_at": "Tue, 05 May 2026 14:20:47 EDT",
-      "image_url": "/article_images/article_50ab6b888c0a.webp",
+      "id": "2026-05-07-science-2",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Thu, 07 May 2026 03:01:21 EDT",
+      "mined_at": "2026-05-07T18:29:20+00:00",
+      "source_published_at": "Thu, 07 May 2026 03:01:21 EDT",
+      "image_url": "/article_images/article_10b95cc1cc7c.webp",
       "category": "Science",
-      "title": "A Tiny Repair Crew in Your Blood? New Material Heals Hearts from the Inside",
-      "summary": "Scientists made a special powder that turns into a healing gel when mixed with water. Injected into the bloodstream, it finds damaged heart tissue after a heart attack and helps fix it from the inside out. Tests on rats and pigs showed less scarring and better heart function."
+      "title": "This Tiny Pond Creature Rewrote the Rules of DNA",
+      "summary": "Scientists found a microscopic organism in a pond that uses DNA in a way never seen before. It changed the meaning of two stop signals in its genetic code—something thought impossible."
     },
     {
-      "id": "2026-05-06-science-3",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Wed, 06 May 2026 02:47:27 EDT",
-      "mined_at": "2026-05-06T18:34:22+00:00",
-      "source_published_at": "Wed, 06 May 2026 02:47:27 EDT",
-      "image_url": "/article_images/article_880a001b4206.webp",
+      "id": "2026-05-07-science-3",
+      "source": "Science News Explores",
+      "time_ago": "Wed, 06 May 2026 10:30:00 +0000",
+      "mined_at": "2026-05-07T18:29:20+00:00",
+      "source_published_at": "Wed, 06 May 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_b27a9ca7f79a.webp",
       "category": "Science",
-      "title": "A 240-Million-Year-Old Monster Was Hiding in a Garden Wall!",
-      "summary": "A retired chicken farmer found a fossil while building a garden wall. It turned out to be a 1.2-meter-long amphibian that lived 240 million years ago. Named Arenaerpeton, it had gnarly teeth and fang-like tusks, and looked like a giant salamander but much heavier."
+      "title": "This Nail Polish Turns Your Fingernails Into a Phone Stylus",
+      "summary": "A new clear nail polish could let people with long nails use touchscreens easily. It contains taurine, a safe supplement, that disrupts the screen's electric field when you tap."
     }
   ]
 }

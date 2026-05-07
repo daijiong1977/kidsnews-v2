@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-06-science-1",
-      "source": "Space.com",
-      "time_ago": "Wed, 06 May 2026 17:12:45 +0000",
-      "mined_at": "2026-05-06T18:34:22+00:00",
-      "source_published_at": "Wed, 06 May 2026 17:12:45 +0000",
-      "image_url": "/article_images/article_36a8debb2d8e.webp",
+      "id": "2026-05-07-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Wed, 06 May 2026 17:00:24 EDT",
+      "mined_at": "2026-05-07T18:29:20+00:00",
+      "source_published_at": "Wed, 06 May 2026 17:00:24 EDT",
+      "image_url": "/article_images/article_32940b6cecc0.webp",
       "category": "Science",
-      "title": "Dark Matter That Bumps Into Itself Could Crack Three Cosmic Cold Cases",
-      "summary": "A new theory proposes that dark matter particles can collide, unlike the standard 'ghostly' model. This self-interaction could explain an ultradense clump, a scarred star stream, and a mysteriously dense star cluster. The same mechanism works across vastly different scales, from distant galaxies to our own neighborhood."
+      "title": "NASA's Lithium Plasma Thruster Passes Record Test, Paving the Way to Mars",
+      "summary": "NASA fired a lithium-fed magnetoplasmadynamic thruster at 120 kilowatts—the highest power ever for a U.S. electric propulsion system. The test marks a crucial step toward engines that could slash travel time for human Mars missions."
     },
     {
-      "id": "2026-05-06-science-2",
-      "source": "ScienceDaily All",
-      "time_ago": "Tue, 05 May 2026 14:20:47 EDT",
-      "mined_at": "2026-05-06T18:34:22+00:00",
-      "source_published_at": "Tue, 05 May 2026 14:20:47 EDT",
-      "image_url": "/article_images/article_50ab6b888c0a.webp",
+      "id": "2026-05-07-science-2",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Thu, 07 May 2026 03:01:21 EDT",
+      "mined_at": "2026-05-07T18:29:20+00:00",
+      "source_published_at": "Thu, 07 May 2026 03:01:21 EDT",
+      "image_url": "/article_images/article_10b95cc1cc7c.webp",
       "category": "Science",
-      "title": "Injectable Biomaterial Travels Through Bloodstream to Mend Hearts from Within",
-      "summary": "A nano-sized biomaterial derived from heart tissue can be infused into blood vessels after a heart attack. In animal studies, it bound to leaky vessels, reduced inflammation, and improved cardiac function. The approach could one day treat traumatic brain injury and pulmonary hypertension without invasive surgery."
+      "title": "Accidental Discovery: Pond Organism Breaks the Universal Genetic Code",
+      "summary": "A single-celled protist from an Oxford pond reassigned two stop codons to different amino acids—a combination never before observed. The finding challenges the assumption that the genetic code is nearly universal."
     },
     {
-      "id": "2026-05-06-science-3",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Wed, 06 May 2026 02:47:27 EDT",
-      "mined_at": "2026-05-06T18:34:22+00:00",
-      "source_published_at": "Wed, 06 May 2026 02:47:27 EDT",
-      "image_url": "/article_images/article_880a001b4206.webp",
+      "id": "2026-05-07-science-3",
+      "source": "Science News Explores",
+      "time_ago": "Wed, 06 May 2026 10:30:00 +0000",
+      "mined_at": "2026-05-07T18:29:20+00:00",
+      "source_published_at": "Wed, 06 May 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_b27a9ca7f79a.webp",
       "category": "Science",
-      "title": "Hidden in a Retaining Wall for Decades: 240-Million-Year-Old Giant Amphibian Finally Named",
-      "summary": "A fossil discovered by a retired chicken farmer in a quarry rock used for a garden wall has been identified as Arenaerpeton, a 1.2-meter-long temnospondyl. The specimen preserves rare soft tissue outlines and a full articulated skeleton, making it one of Australia's most significant fossil finds in decades."
+      "title": "Clear Nail Polish Could Turn Long Nails into Touchscreen Styluses",
+      "summary": "Researchers have developed a clear nail polish containing taurine that disrupts a touchscreen's electric field, allowing long nails to register as a touch. The innovation could end the struggle of typing with long nails."
     }
   ]
 }
