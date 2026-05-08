@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-07-science-1",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Wed, 06 May 2026 17:00:24 EDT",
-      "mined_at": "2026-05-07T18:29:20+00:00",
-      "source_published_at": "Wed, 06 May 2026 17:00:24 EDT",
-      "image_url": "/article_images/article_32940b6cecc0.webp",
+      "id": "2026-05-08-science-1",
+      "source": "ScienceDaily All",
+      "time_ago": "Fri, 08 May 2026 03:40:08 EDT",
+      "mined_at": "2026-05-08T18:26:02+00:00",
+      "source_published_at": "Fri, 08 May 2026 03:40:08 EDT",
+      "image_url": "/article_images/article_b079e61551f9.webp",
       "category": "Science",
-      "title": "NASA's Lithium Plasma Thruster Passes Record Test, Paving the Way to Mars",
-      "summary": "NASA fired a lithium-fed magnetoplasmadynamic thruster at 120 kilowatts—the highest power ever for a U.S. electric propulsion system. The test marks a crucial step toward engines that could slash travel time for human Mars missions."
+      "title": "The Universe's Deepest Laws May Be Fine-Tuned for Flowing Liquids—and Life",
+      "summary": "New research suggests that fundamental physical constants are locked in a narrow range that keeps liquids like water and blood flowing just right for life. A shift of a few percent could make blood too thick or thin, breaking cellular function. The study shifts fine-tuning arguments from stars to living cells."
     },
     {
-      "id": "2026-05-07-science-2",
-      "source": "ScienceDaily Strange & Offbeat",
+      "id": "2026-05-08-science-2",
+      "source": "Space.com",
+      "time_ago": "Fri, 08 May 2026 17:00:00 +0000",
+      "mined_at": "2026-05-08T18:26:02+00:00",
+      "source_published_at": "Fri, 08 May 2026 17:00:00 +0000",
+      "image_url": "/article_images/article_c984535e4420.webp",
+      "category": "Science",
+      "title": "Catch the Milky Way's Dazzling Core at Its Peak This May",
+      "summary": "The moonless nights of mid-May offer a prime window to see the Milky Way's core arching across the spring sky. With the new moon, darkness lasts longer than in June, when summer twilight shortens viewing. Head to a dark site, face south, and look between midnight and dawn for the best show."
+    },
+    {
+      "id": "2026-05-08-science-3",
+      "source": "ScienceDaily Top Environment",
       "time_ago": "Thu, 07 May 2026 03:01:21 EDT",
-      "mined_at": "2026-05-07T18:29:20+00:00",
+      "mined_at": "2026-05-08T18:26:02+00:00",
       "source_published_at": "Thu, 07 May 2026 03:01:21 EDT",
       "image_url": "/article_images/article_10b95cc1cc7c.webp",
       "category": "Science",
-      "title": "Accidental Discovery: Pond Organism Breaks the Universal Genetic Code",
-      "summary": "A single-celled protist from an Oxford pond reassigned two stop codons to different amino acids—a combination never before observed. The finding challenges the assumption that the genetic code is nearly universal."
-    },
-    {
-      "id": "2026-05-07-science-3",
-      "source": "Science News Explores",
-      "time_ago": "Wed, 06 May 2026 10:30:00 +0000",
-      "mined_at": "2026-05-07T18:29:20+00:00",
-      "source_published_at": "Wed, 06 May 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_b27a9ca7f79a.webp",
-      "category": "Science",
-      "title": "Clear Nail Polish Could Turn Long Nails into Touchscreen Styluses",
-      "summary": "Researchers have developed a clear nail polish containing taurine that disrupts a touchscreen's electric field, allowing long nails to register as a touch. The innovation could end the struggle of typing with long nails."
+      "title": "Accidental Discovery: Pond Organism Breaks the Universal Rules of DNA",
+      "summary": "A protist from an Oxford pond has reassigned two stop codons to different amino acids—a combination never seen before. Normally, TAA and TAG change together, but this ciliate uses them for lysine and glutamic acid. The find challenges the idea of a nearly universal genetic code."
     }
   ]
 }

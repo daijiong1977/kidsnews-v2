@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-07-news-1",
+      "id": "2026-05-08-news-1",
+      "source": "BBC News",
+      "time_ago": "Fri, 08 May 2026 16:56:45 GMT",
+      "mined_at": "2026-05-08T18:26:02+00:00",
+      "source_published_at": "Fri, 08 May 2026 16:56:45 GMT",
+      "image_url": "/article_images/article_60127d63e486.webp",
+      "category": "News",
+      "title": "From a Doctor's Rescue to a Baked Bean Superhero: The Unforgettable Sideshow of UK Elections",
+      "summary": "Beyond the wins and losses, the 2026 UK elections delivered a candidate collapse, a quick-acting doctor-rival, and Captain Beany in a baked-bean tie. These moments reveal the humanity behind the politics."
+    },
+    {
+      "id": "2026-05-08-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Thu, 07 May 2026 12:15:21 -0400",
-      "mined_at": "2026-05-07T18:29:20+00:00",
-      "source_published_at": "Thu, 07 May 2026 12:15:21 -0400",
-      "image_url": "/article_images/article_1e8095ba5dc1.webp",
+      "time_ago": "Fri, 08 May 2026 12:45:14 -0400",
+      "mined_at": "2026-05-08T18:26:02+00:00",
+      "source_published_at": "Fri, 08 May 2026 12:45:14 -0400",
+      "image_url": "/article_images/article_cb452894fa1e.webp",
       "category": "News",
-      "title": "Midterm Reckoning: UK Local Elections Could Redraw Political Map as Starmer Fights for Survival",
-      "summary": "Millions of Britons voted Thursday in local elections seen as a referendum on Prime Minister Keir Starmer. Labour braces for heavy losses, while hard-right Reform UK and the Greens surge. One analyst predicts the \"total collapse\" of the traditional two-party system. Results could trigger a leadership challenge."
+      "title": "At 100, David Attenborough Remains the Humble Voice of a Planet in Peril",
+      "summary": "David Attenborough, the world's most beloved naturalist, turns 100 today. His career spans 70 years of bringing wildlife into homes—and increasingly, sounding the alarm on climate change."
     },
     {
-      "id": "2026-05-07-news-2",
-      "source": "Al Jazeera",
-      "time_ago": "Thu, 07 May 2026 17:36:05 +0000",
-      "mined_at": "2026-05-07T18:29:20+00:00",
-      "source_published_at": "Thu, 07 May 2026 17:36:05 +0000",
-      "image_url": "/article_images/article_131d706b9765.webp",
-      "category": "News",
-      "title": "Treasury Targets Iraqi Deputy Oil Minister, Accusing Him of Orchestrating Iran's Shadow Oil Trade",
-      "summary": "The US sanctioned Iraq's Deputy Oil Minister Ali Maarij al-Bahadly and militia leaders, alleging they helped Iran evade sanctions and smuggle oil worth at least $1 billion annually. The move escalates the Trump administration's \"maximum pressure\" campaign amid the ongoing conflict over the Strait of Hormuz."
-    },
-    {
-      "id": "2026-05-07-news-3",
+      "id": "2026-05-08-news-3",
       "source": "NPR World",
-      "time_ago": "Thu, 07 May 2026 05:00:00 -0400",
-      "mined_at": "2026-05-07T18:29:20+00:00",
-      "source_published_at": "Thu, 07 May 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_493a76ae0d8e.webp",
+      "time_ago": "Fri, 08 May 2026 05:00:00 -0400",
+      "mined_at": "2026-05-08T18:26:02+00:00",
+      "source_published_at": "Fri, 08 May 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_cb27ab3071c3.webp",
       "category": "News",
-      "title": "NPR Podcast Winner Turns a Grandson's Fear of Dementia into an Intimate Audio Letter",
-      "summary": "Colby McCaskill, 21, won NPR's College Podcast Challenge with an audio letter to his grandfather about his grandmother's dementia. The episode captures raw, unflinching conversations and has moved his family to tears. \"It's like a warm hug,\" Colby says of his grandparents."
+      "title": "The Chaotic Race to Repossess Spirit Airlines' Fleet: Jeans, Sheriffs, and a 70% Fuel Spike",
+      "summary": "Spirit Airlines' shutdown left over 90 planes stranded. Now, repossession crews face airport resistance, and soaring jet fuel costs complicate the sell-off of its yellow Airbus fleet."
     }
   ]
 }

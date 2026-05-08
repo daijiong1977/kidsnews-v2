@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-07-news-1",
+      "id": "2026-05-08-news-1",
+      "source": "BBC News",
+      "time_ago": "Fri, 08 May 2026 16:56:45 GMT",
+      "mined_at": "2026-05-08T18:26:02+00:00",
+      "source_published_at": "Fri, 08 May 2026 16:56:45 GMT",
+      "image_url": "/article_images/article_60127d63e486.webp",
+      "category": "News",
+      "title": "A Baked Bean Tie and a Doctor to the Rescue: Wild Moments from the UK Elections",
+      "summary": "Election night can be serious, but it also had a candidate dressed as a baked bean superhero and a doctor saving a rival who collapsed. Even politicians need a laugh and a helping hand."
+    },
+    {
+      "id": "2026-05-08-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Thu, 07 May 2026 12:15:21 -0400",
-      "mined_at": "2026-05-07T18:29:20+00:00",
-      "source_published_at": "Thu, 07 May 2026 12:15:21 -0400",
-      "image_url": "/article_images/article_1e8095ba5dc1.webp",
+      "time_ago": "Fri, 08 May 2026 12:45:14 -0400",
+      "mined_at": "2026-05-08T18:26:02+00:00",
+      "source_published_at": "Fri, 08 May 2026 12:45:14 -0400",
+      "image_url": "/article_images/article_cb452894fa1e.webp",
       "category": "News",
-      "title": "A Big Test for Britain's Leader: Local Elections Could Shake Things Up!",
-      "summary": "Imagine your teacher getting a report card from the whole school—that's what happened to UK Prime Minister Keir Starmer today. Voters across Britain picked local leaders, and many think Labour could lose big. One expert says the old two-party system might totally collapse."
+      "title": "Happy 100th Birthday to David Attenborough, the Voice of the Wild!",
+      "summary": "David Attenborough turns 100 today. He's the famous nature presenter who showed us gorillas, whales, and tiny frogs—and taught us to protect our planet."
     },
     {
-      "id": "2026-05-07-news-2",
-      "source": "Al Jazeera",
-      "time_ago": "Thu, 07 May 2026 17:36:05 +0000",
-      "mined_at": "2026-05-07T18:29:20+00:00",
-      "source_published_at": "Thu, 07 May 2026 17:36:05 +0000",
-      "image_url": "/article_images/article_131d706b9765.webp",
-      "category": "News",
-      "title": "US Slaps Sanctions on Iraq's Oil Boss, Says He Helped Iran Sneak Oil Past Rules",
-      "summary": "The US just punished Iraq's deputy oil minister, Ali Maarij al-Bahadly, for helping Iran sell oil secretly. The US says Iran uses the money to fund terrorism. This is part of a bigger fight over oil and power in the Middle East."
-    },
-    {
-      "id": "2026-05-07-news-3",
+      "id": "2026-05-08-news-3",
       "source": "NPR World",
-      "time_ago": "Thu, 07 May 2026 05:00:00 -0400",
-      "mined_at": "2026-05-07T18:29:20+00:00",
-      "source_published_at": "Thu, 07 May 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_493a76ae0d8e.webp",
+      "time_ago": "Fri, 08 May 2026 05:00:00 -0400",
+      "mined_at": "2026-05-08T18:26:02+00:00",
+      "source_published_at": "Fri, 08 May 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_cb27ab3071c3.webp",
       "category": "News",
-      "title": "A Grandson's Podcast About His Grandma's Dementia Wins Big Prize—and Opens Hearts",
-      "summary": "Colby McCaskill, 21, made a podcast letter to his grandpa about his grandma's dementia. It was so honest and touching that it won NPR's College Podcast Challenge. Listening to it made his grandpa cry—but in a good way."
+      "title": "What Happens to Spirit Airlines' Yellow Planes Now That It's Closed?",
+      "summary": "Spirit Airlines stopped flying, leaving over 90 bright yellow planes parked at airports. Now, a race is on to move them—and some pilots face airport police just to get onboard."
     }
   ]
 }

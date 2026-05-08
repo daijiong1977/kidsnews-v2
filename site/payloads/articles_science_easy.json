@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-07-science-1",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Wed, 06 May 2026 17:00:24 EDT",
-      "mined_at": "2026-05-07T18:29:20+00:00",
-      "source_published_at": "Wed, 06 May 2026 17:00:24 EDT",
-      "image_url": "/article_images/article_32940b6cecc0.webp",
+      "id": "2026-05-08-science-1",
+      "source": "ScienceDaily All",
+      "time_ago": "Fri, 08 May 2026 03:40:08 EDT",
+      "mined_at": "2026-05-08T18:26:02+00:00",
+      "source_published_at": "Fri, 08 May 2026 03:40:08 EDT",
+      "image_url": "/article_images/article_b079e61551f9.webp",
       "category": "Science",
-      "title": "A Glowing Rocket Engine That Could Speed Us to Mars",
-      "summary": "NASA just fired a super-hot engine that runs on metal vapor. It reached 120 kilowatts—25 times more powerful than current space engines. This is a big step toward sending astronauts to Mars."
+      "title": "Could the Universe Be Just Right for Life Because of How Liquids Flow?",
+      "summary": "Scientists found that if the universe's basic rules changed even a tiny bit, water and blood could become as thick as tar. That would make life impossible. A new study says the same rules that shape stars also control how liquids move inside living cells."
     },
     {
-      "id": "2026-05-07-science-2",
-      "source": "ScienceDaily Strange & Offbeat",
+      "id": "2026-05-08-science-2",
+      "source": "Space.com",
+      "time_ago": "Fri, 08 May 2026 17:00:00 +0000",
+      "mined_at": "2026-05-08T18:26:02+00:00",
+      "source_published_at": "Fri, 08 May 2026 17:00:00 +0000",
+      "image_url": "/article_images/article_c984535e4420.webp",
+      "category": "Science",
+      "title": "May's Moonless Nights Are Your Best Chance to See the Milky Way's Glowing Heart",
+      "summary": "In mid-May, the moon disappears, making the sky extra dark. That's the perfect time to spot the Milky Way's bright core arching across the southern sky. You'll need to get away from city lights and look between midnight and dawn. It's like a glowing ribbon made of countless stars."
+    },
+    {
+      "id": "2026-05-08-science-3",
+      "source": "ScienceDaily Top Environment",
       "time_ago": "Thu, 07 May 2026 03:01:21 EDT",
-      "mined_at": "2026-05-07T18:29:20+00:00",
+      "mined_at": "2026-05-08T18:26:02+00:00",
       "source_published_at": "Thu, 07 May 2026 03:01:21 EDT",
       "image_url": "/article_images/article_10b95cc1cc7c.webp",
       "category": "Science",
-      "title": "This Tiny Pond Creature Rewrote the Rules of DNA",
-      "summary": "Scientists found a microscopic organism in a pond that uses DNA in a way never seen before. It changed the meaning of two stop signals in its genetic code—something thought impossible."
-    },
-    {
-      "id": "2026-05-07-science-3",
-      "source": "Science News Explores",
-      "time_ago": "Wed, 06 May 2026 10:30:00 +0000",
-      "mined_at": "2026-05-07T18:29:20+00:00",
-      "source_published_at": "Wed, 06 May 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_b27a9ca7f79a.webp",
-      "category": "Science",
-      "title": "This Nail Polish Turns Your Fingernails Into a Phone Stylus",
-      "summary": "A new clear nail polish could let people with long nails use touchscreens easily. It contains taurine, a safe supplement, that disrupts the screen's electric field when you tap."
+      "title": "A Pond Creature Just Rewrote the Rules of DNA",
+      "summary": "Scientists found a tiny organism in a pond that reads DNA instructions in a totally new way. It changed the meaning of two 'stop' signals, which usually tell cells when to end a gene. This breaks a rule scientists thought was almost universal in all living things."
     }
   ]
 }
