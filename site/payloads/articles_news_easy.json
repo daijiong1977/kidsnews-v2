@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-08-news-1",
-      "source": "BBC News",
-      "time_ago": "Fri, 08 May 2026 16:56:45 GMT",
-      "mined_at": "2026-05-08T18:26:02+00:00",
-      "source_published_at": "Fri, 08 May 2026 16:56:45 GMT",
-      "image_url": "/article_images/article_60127d63e486.webp",
-      "category": "News",
-      "title": "A Baked Bean Tie and a Doctor to the Rescue: Wild Moments from the UK Elections",
-      "summary": "Election night can be serious, but it also had a candidate dressed as a baked bean superhero and a doctor saving a rival who collapsed. Even politicians need a laugh and a helping hand."
-    },
-    {
-      "id": "2026-05-08-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Fri, 08 May 2026 12:45:14 -0400",
-      "mined_at": "2026-05-08T18:26:02+00:00",
-      "source_published_at": "Fri, 08 May 2026 12:45:14 -0400",
-      "image_url": "/article_images/article_cb452894fa1e.webp",
-      "category": "News",
-      "title": "Happy 100th Birthday to David Attenborough, the Voice of the Wild!",
-      "summary": "David Attenborough turns 100 today. He's the famous nature presenter who showed us gorillas, whales, and tiny frogs—and taught us to protect our planet."
-    },
-    {
-      "id": "2026-05-08-news-3",
+      "id": "2026-05-09-news-1",
       "source": "NPR World",
-      "time_ago": "Fri, 08 May 2026 05:00:00 -0400",
-      "mined_at": "2026-05-08T18:26:02+00:00",
-      "source_published_at": "Fri, 08 May 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_cb27ab3071c3.webp",
+      "time_ago": "Sat, 09 May 2026 06:00:00 -0400",
+      "mined_at": "2026-05-09T18:22:51+00:00",
+      "source_published_at": "Sat, 09 May 2026 06:00:00 -0400",
+      "image_url": "/article_images/article_73e6588065c1.webp",
       "category": "News",
-      "title": "What Happens to Spirit Airlines' Yellow Planes Now That It's Closed?",
-      "summary": "Spirit Airlines stopped flying, leaving over 90 bright yellow planes parked at airports. Now, a race is on to move them—and some pilots face airport police just to get onboard."
+      "title": "A Big Map Shake-Up: Why Virginia's Vote Just Got Tossed Out",
+      "summary": "Imagine voting for something and then a court says it didn't count! That happened in Virginia, where 1.6 million people said yes to new voting maps. Now those maps are gone, and Republicans are redrawing lines across the South to win more seats."
+    },
+    {
+      "id": "2026-05-09-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Sat, 09 May 2026 11:35:16 -0400",
+      "mined_at": "2026-05-09T18:22:51+00:00",
+      "source_published_at": "Sat, 09 May 2026 11:35:16 -0400",
+      "image_url": "/article_images/article_a800ca274fb1.webp",
+      "category": "News",
+      "title": "Redrawing the Map: How a Court Ruling Is Changing Who Wins Elections",
+      "summary": "A Supreme Court decision has set off a race to redraw voting maps in the South. In Tennessee, a new map could wipe out the only Democratic district. Republicans could gain 8 more seats, making it harder for Democrats to win back the House."
+    },
+    {
+      "id": "2026-05-09-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Sat, 09 May 2026 16:35:01 +0000",
+      "mined_at": "2026-05-09T18:22:51+00:00",
+      "source_published_at": "Sat, 09 May 2026 16:35:01 +0000",
+      "image_url": "/article_images/article_6b530327feb8.webp",
+      "category": "News",
+      "title": "Iran Says a Tiny Waterway Is as Powerful as an Atomic Bomb",
+      "summary": "Iran's leaders are talking up the Strait of Hormuz, a narrow sea passage where lots of the world's oil travels. One official said controlling it is like having an atomic bomb because it can shake the whole global economy. This comes as Iran and the U.S. try to make a deal."
     }
   ]
 }

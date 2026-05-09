@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-08-science-1",
-      "source": "ScienceDaily All",
-      "time_ago": "Fri, 08 May 2026 03:40:08 EDT",
-      "mined_at": "2026-05-08T18:26:02+00:00",
-      "source_published_at": "Fri, 08 May 2026 03:40:08 EDT",
-      "image_url": "/article_images/article_b079e61551f9.webp",
+      "id": "2026-05-09-science-1",
+      "source": "NASA News",
+      "time_ago": "Fri, 08 May 2026 22:50:03 +0000",
+      "mined_at": "2026-05-09T18:22:51+00:00",
+      "source_published_at": "Fri, 08 May 2026 22:50:03 +0000",
+      "image_url": "/article_images/article_47e8211441a3.webp",
       "category": "Science",
-      "title": "The Universe's Deepest Laws May Be Fine-Tuned for Flowing Liquids—and Life",
-      "summary": "New research suggests that fundamental physical constants are locked in a narrow range that keeps liquids like water and blood flowing just right for life. A shift of a few percent could make blood too thick or thin, breaking cellular function. The study shifts fine-tuning arguments from stars to living cells."
+      "title": "SpaceX Dragon to Deliver Wooden Bones and Bacterial Spies to the ISS",
+      "summary": "A SpaceX Dragon is set to launch with 6,500 pounds of cargo, including an experiment that grows bone cells on a wooden scaffold and another that tests if Earth-based microgravity simulators are accurate. The mission also carries a particle detector to improve space weather forecasts."
     },
     {
-      "id": "2026-05-08-science-2",
-      "source": "Space.com",
-      "time_ago": "Fri, 08 May 2026 17:00:00 +0000",
-      "mined_at": "2026-05-08T18:26:02+00:00",
-      "source_published_at": "Fri, 08 May 2026 17:00:00 +0000",
-      "image_url": "/article_images/article_c984535e4420.webp",
+      "id": "2026-05-09-science-2",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Sat, 09 May 2026 08:24:26 EDT",
+      "mined_at": "2026-05-09T18:22:51+00:00",
+      "source_published_at": "Sat, 09 May 2026 08:24:26 EDT",
+      "image_url": "/article_images/article_7d54813a46cc.webp",
       "category": "Science",
-      "title": "Catch the Milky Way's Dazzling Core at Its Peak This May",
-      "summary": "The moonless nights of mid-May offer a prime window to see the Milky Way's core arching across the spring sky. With the new moon, darkness lasts longer than in June, when summer twilight shortens viewing. Head to a dark site, face south, and look between midnight and dawn for the best show."
+      "title": "A Termite's Worst Molt-Day: New Chemical Blocks Exoskeleton Growth, Spares Humans",
+      "summary": "UC Riverside researchers found that bistrifluron, a chitin synthesis inhibitor, kills 95% of drywood termites by preventing them from forming a new exoskeleton during molting. Because it targets chitin—absent in mammals—it poses no toxicity risk to humans, offering a safer alternative to fumigation."
     },
     {
-      "id": "2026-05-08-science-3",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Thu, 07 May 2026 03:01:21 EDT",
-      "mined_at": "2026-05-08T18:26:02+00:00",
-      "source_published_at": "Thu, 07 May 2026 03:01:21 EDT",
-      "image_url": "/article_images/article_10b95cc1cc7c.webp",
+      "id": "2026-05-09-science-3",
+      "source": "NPR Health",
+      "time_ago": "Wed, 06 May 2026 06:00:00 -0400",
+      "mined_at": "2026-05-09T18:22:51+00:00",
+      "source_published_at": "Wed, 06 May 2026 06:00:00 -0400",
+      "image_url": "/article_images/article_09c9d9628bd2.webp",
       "category": "Science",
-      "title": "Accidental Discovery: Pond Organism Breaks the Universal Rules of DNA",
-      "summary": "A protist from an Oxford pond has reassigned two stop codons to different amino acids—a combination never seen before. Normally, TAA and TAG change together, but this ciliate uses them for lysine and glutamic acid. The find challenges the idea of a nearly universal genetic code."
+      "title": "Medicare's $50 Weight Loss Drug Pilot: A Bridge to Nowhere?",
+      "summary": "Starting July 2026, Medicare's GLP-1 Bridge program will offer weight loss drugs like Wegovy for a $50 copay, but only for 18 months. The copay doesn't count toward the Part D out-of-pocket cap, and the program's end could leave users facing regained weight and high costs."
     }
   ]
 }

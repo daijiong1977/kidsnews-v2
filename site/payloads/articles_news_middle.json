@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-08-news-1",
-      "source": "BBC News",
-      "time_ago": "Fri, 08 May 2026 16:56:45 GMT",
-      "mined_at": "2026-05-08T18:26:02+00:00",
-      "source_published_at": "Fri, 08 May 2026 16:56:45 GMT",
-      "image_url": "/article_images/article_60127d63e486.webp",
-      "category": "News",
-      "title": "From a Doctor's Rescue to a Baked Bean Superhero: The Unforgettable Sideshow of UK Elections",
-      "summary": "Beyond the wins and losses, the 2026 UK elections delivered a candidate collapse, a quick-acting doctor-rival, and Captain Beany in a baked-bean tie. These moments reveal the humanity behind the politics."
-    },
-    {
-      "id": "2026-05-08-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Fri, 08 May 2026 12:45:14 -0400",
-      "mined_at": "2026-05-08T18:26:02+00:00",
-      "source_published_at": "Fri, 08 May 2026 12:45:14 -0400",
-      "image_url": "/article_images/article_cb452894fa1e.webp",
-      "category": "News",
-      "title": "At 100, David Attenborough Remains the Humble Voice of a Planet in Peril",
-      "summary": "David Attenborough, the world's most beloved naturalist, turns 100 today. His career spans 70 years of bringing wildlife into homes—and increasingly, sounding the alarm on climate change."
-    },
-    {
-      "id": "2026-05-08-news-3",
+      "id": "2026-05-09-news-1",
       "source": "NPR World",
-      "time_ago": "Fri, 08 May 2026 05:00:00 -0400",
-      "mined_at": "2026-05-08T18:26:02+00:00",
-      "source_published_at": "Fri, 08 May 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_cb27ab3071c3.webp",
+      "time_ago": "Sat, 09 May 2026 06:00:00 -0400",
+      "mined_at": "2026-05-09T18:22:51+00:00",
+      "source_published_at": "Sat, 09 May 2026 06:00:00 -0400",
+      "image_url": "/article_images/article_73e6588065c1.webp",
       "category": "News",
-      "title": "The Chaotic Race to Repossess Spirit Airlines' Fleet: Jeans, Sheriffs, and a 70% Fuel Spike",
-      "summary": "Spirit Airlines' shutdown left over 90 planes stranded. Now, repossession crews face airport resistance, and soaring jet fuel costs complicate the sell-off of its yellow Airbus fleet."
+      "title": "Court Rulings Spark a Redistricting Frenzy Across the South",
+      "summary": "A Virginia Supreme Court ruling nullified a voter-approved redistricting plan, while Southern Republicans seized on a U.S. Supreme Court decision to redraw maps. The moves could give the GOP a 10-seat advantage, reshaping the battle for the House."
+    },
+    {
+      "id": "2026-05-09-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Sat, 09 May 2026 11:35:16 -0400",
+      "mined_at": "2026-05-09T18:22:51+00:00",
+      "source_published_at": "Sat, 09 May 2026 11:35:16 -0400",
+      "image_url": "/article_images/article_a800ca274fb1.webp",
+      "category": "News",
+      "title": "Southern States Rush to Redraw Maps After Supreme Court Ruling",
+      "summary": "Following a U.S. Supreme Court decision that weakened voting rights protections, GOP-led states are swiftly redrawing congressional districts. Tennessee enacted a map dismantling its only Democratic seat, while Alabama and South Carolina push for partisan gains."
+    },
+    {
+      "id": "2026-05-09-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Sat, 09 May 2026 16:35:01 +0000",
+      "mined_at": "2026-05-09T18:22:51+00:00",
+      "source_published_at": "Sat, 09 May 2026 16:35:01 +0000",
+      "image_url": "/article_images/article_6b530327feb8.webp",
+      "category": "News",
+      "title": "Iran Elevates Strait of Hormuz to 'Atomic Bomb' Level in U.S. Talks",
+      "summary": "As negotiations with Washington continue, Iranian officials are framing control of the Strait of Hormuz as a strategic asset on par with a nuclear weapon. The waterway, vital for global oil transit, is being touted as leverage against U.S. sanctions."
     }
   ]
 }
