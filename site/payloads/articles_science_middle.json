@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-09-science-1",
-      "source": "NASA News",
-      "time_ago": "Fri, 08 May 2026 22:50:03 +0000",
-      "mined_at": "2026-05-09T18:22:51+00:00",
-      "source_published_at": "Fri, 08 May 2026 22:50:03 +0000",
-      "image_url": "/article_images/article_47e8211441a3.webp",
+      "id": "2026-05-10-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Fri, 08 May 2026 03:40:08 EDT",
+      "mined_at": "2026-05-10T18:23:21+00:00",
+      "source_published_at": "Fri, 08 May 2026 03:40:08 EDT",
+      "image_url": "/article_images/article_b079e61551f9.webp",
       "category": "Science",
-      "title": "SpaceX Dragon to Deliver Wooden Bones and Bacterial Spies to the ISS",
-      "summary": "A SpaceX Dragon is set to launch with 6,500 pounds of cargo, including an experiment that grows bone cells on a wooden scaffold and another that tests if Earth-based microgravity simulators are accurate. The mission also carries a particle detector to improve space weather forecasts."
+      "title": "The Universe's Secret Recipe for Life Might Be Hidden in a Glass of Water",
+      "summary": "New research suggests the fundamental constants of physics are tuned not just for stars, but for the flow of liquids inside living cells. A tiny shift could make blood too thick for life."
     },
     {
-      "id": "2026-05-09-science-2",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Sat, 09 May 2026 08:24:26 EDT",
-      "mined_at": "2026-05-09T18:22:51+00:00",
-      "source_published_at": "Sat, 09 May 2026 08:24:26 EDT",
-      "image_url": "/article_images/article_7d54813a46cc.webp",
+      "id": "2026-05-10-science-2",
+      "source": "Popular Science",
+      "time_ago": "Sun, 10 May 2026 08:01:00 -0400",
+      "mined_at": "2026-05-10T18:23:21+00:00",
+      "source_published_at": "Sun, 10 May 2026 08:01:00 -0400",
+      "image_url": "/article_images/article_31519e134c62.webp",
       "category": "Science",
-      "title": "A Termite's Worst Molt-Day: New Chemical Blocks Exoskeleton Growth, Spares Humans",
-      "summary": "UC Riverside researchers found that bistrifluron, a chitin synthesis inhibitor, kills 95% of drywood termites by preventing them from forming a new exoskeleton during molting. Because it targets chitin—absent in mammals—it poses no toxicity risk to humans, offering a safer alternative to fumigation."
+      "title": "That Viral Pet IQ Test? It's a Reflex, Not a Sign of Genius",
+      "summary": "The TikTok wall test for dogs and cats is misleading, say animal cognition researchers. It's a neurological reflex, not an intelligence measure, and holding pets that way can distress them."
     },
     {
-      "id": "2026-05-09-science-3",
-      "source": "NPR Health",
-      "time_ago": "Wed, 06 May 2026 06:00:00 -0400",
-      "mined_at": "2026-05-09T18:22:51+00:00",
-      "source_published_at": "Wed, 06 May 2026 06:00:00 -0400",
-      "image_url": "/article_images/article_09c9d9628bd2.webp",
+      "id": "2026-05-10-science-3",
+      "source": "ScienceDaily All",
+      "time_ago": "Sun, 10 May 2026 07:39:45 EDT",
+      "mined_at": "2026-05-10T18:23:21+00:00",
+      "source_published_at": "Sun, 10 May 2026 07:39:45 EDT",
+      "image_url": "/article_images/article_aac4722c2147.webp",
       "category": "Science",
-      "title": "Medicare's $50 Weight Loss Drug Pilot: A Bridge to Nowhere?",
-      "summary": "Starting July 2026, Medicare's GLP-1 Bridge program will offer weight loss drugs like Wegovy for a $50 copay, but only for 18 months. The copay doesn't count toward the Part D out-of-pocket cap, and the program's end could leave users facing regained weight and high costs."
+      "title": "A 'Counter-Intuitive' Steel Could Unlock Cheap Green Hydrogen from Seawater",
+      "summary": "HKU researchers developed a stainless steel that resists corrosion at ultra-high voltages, using a surprising manganese-based second layer. It could slash electrolyzer costs by 40 times."
     }
   ]
 }

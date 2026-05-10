@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-09-science-1",
-      "source": "NASA News",
-      "time_ago": "Fri, 08 May 2026 22:50:03 +0000",
-      "mined_at": "2026-05-09T18:22:51+00:00",
-      "source_published_at": "Fri, 08 May 2026 22:50:03 +0000",
-      "image_url": "/article_images/article_47e8211441a3.webp",
+      "id": "2026-05-10-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Fri, 08 May 2026 03:40:08 EDT",
+      "mined_at": "2026-05-10T18:23:21+00:00",
+      "source_published_at": "Fri, 08 May 2026 03:40:08 EDT",
+      "image_url": "/article_images/article_b079e61551f9.webp",
       "category": "Science",
-      "title": "A Dragon Packed with 6,500 Pounds of Space Goodies Is Heading to the ISS!",
-      "summary": "Imagine a space delivery truck carrying 6,500 pounds of supplies—that's about as heavy as a small elephant! A SpaceX Dragon is blasting off to the International Space Station with cool experiments like watching bacteria grow in space and testing wooden bones."
+      "title": "Could Tiny Changes in Physics Make Life Impossible?",
+      "summary": "Scientists found that if the rules of physics were even a tiny bit different, water and blood might not flow right. Life as we know it might never have started."
     },
     {
-      "id": "2026-05-09-science-2",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Sat, 09 May 2026 08:24:26 EDT",
-      "mined_at": "2026-05-09T18:22:51+00:00",
-      "source_published_at": "Sat, 09 May 2026 08:24:26 EDT",
-      "image_url": "/article_images/article_7d54813a46cc.webp",
+      "id": "2026-05-10-science-2",
+      "source": "Popular Science",
+      "time_ago": "Sun, 10 May 2026 08:01:00 -0400",
+      "mined_at": "2026-05-10T18:23:21+00:00",
+      "source_published_at": "Sun, 10 May 2026 08:01:00 -0400",
+      "image_url": "/article_images/article_31519e134c62.webp",
       "category": "Science",
-      "title": "This Bug-Killing Chemical Wipes Out Termites but Won't Hurt You!",
-      "summary": "Scientists found a chemical that kills 95% of sneaky drywood termites by stopping them from growing a new shell. Even cooler? It's safe for people and pets because it only attacks the stuff insect shells are made of."
+      "title": "Is Your Pet a Genius? The Wall Test Won't Tell You!",
+      "summary": "That viral TikTok wall test for dogs and cats is not a real IQ test. Experts say it's just a reflex check, and holding your pet like that might scare them."
     },
     {
-      "id": "2026-05-09-science-3",
-      "source": "NPR Health",
-      "time_ago": "Wed, 06 May 2026 06:00:00 -0400",
-      "mined_at": "2026-05-09T18:22:51+00:00",
-      "source_published_at": "Wed, 06 May 2026 06:00:00 -0400",
-      "image_url": "/article_images/article_09c9d9628bd2.webp",
+      "id": "2026-05-10-science-3",
+      "source": "ScienceDaily All",
+      "time_ago": "Sun, 10 May 2026 07:39:45 EDT",
+      "mined_at": "2026-05-10T18:23:21+00:00",
+      "source_published_at": "Sun, 10 May 2026 07:39:45 EDT",
+      "image_url": "/article_images/article_aac4722c2147.webp",
       "category": "Science",
-      "title": "Medicare Will Soon Cover Weight Loss Drugs—But There's a Catch!",
-      "summary": "Starting July, some people with Medicare can get popular weight loss shots like Wegovy for just $50 a month. But the program only lasts 18 months, and the $50 doesn't count toward your yearly drug cost limit."
+      "title": "This New Steel Could Make Clean Energy from Seawater!",
+      "summary": "Scientists in Hong Kong invented a super stainless steel that doesn't rust easily, even in salty seawater. It could help make cheap, clean hydrogen fuel."
     }
   ]
 }

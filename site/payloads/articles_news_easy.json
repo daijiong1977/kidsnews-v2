@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-09-news-1",
-      "source": "NPR World",
-      "time_ago": "Sat, 09 May 2026 06:00:00 -0400",
-      "mined_at": "2026-05-09T18:22:51+00:00",
-      "source_published_at": "Sat, 09 May 2026 06:00:00 -0400",
-      "image_url": "/article_images/article_73e6588065c1.webp",
+      "id": "2026-05-10-news-1",
+      "source": "BBC News",
+      "time_ago": "Sun, 10 May 2026 15:02:51 GMT",
+      "mined_at": "2026-05-10T18:23:21+00:00",
+      "source_published_at": "Sun, 10 May 2026 15:02:51 GMT",
+      "image_url": "/article_images/article_c1f2ebb224fa.webp",
       "category": "News",
-      "title": "A Big Map Shake-Up: Why Virginia's Vote Just Got Tossed Out",
-      "summary": "Imagine voting for something and then a court says it didn't count! That happened in Virginia, where 1.6 million people said yes to new voting maps. Now those maps are gone, and Republicans are redrawing lines across the South to win more seats."
+      "title": "Parachuting Doctors Land on a Tiny Island to Save a Sick Man!",
+      "summary": "British Army medics jumped from a plane onto Tristan da Cunha, one of the most remote islands on Earth, to help a man with a rare virus. They brought oxygen and supplies because the island has no airport."
     },
     {
-      "id": "2026-05-09-news-2",
+      "id": "2026-05-10-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Sat, 09 May 2026 11:35:16 -0400",
-      "mined_at": "2026-05-09T18:22:51+00:00",
-      "source_published_at": "Sat, 09 May 2026 11:35:16 -0400",
-      "image_url": "/article_images/article_a800ca274fb1.webp",
+      "time_ago": "Sun, 10 May 2026 13:03:05 -0400",
+      "mined_at": "2026-05-10T18:23:21+00:00",
+      "source_published_at": "Sun, 10 May 2026 13:03:05 -0400",
+      "image_url": "/article_images/article_48f5d0466b91.webp",
       "category": "News",
-      "title": "Redrawing the Map: How a Court Ruling Is Changing Who Wins Elections",
-      "summary": "A Supreme Court decision has set off a race to redraw voting maps in the South. In Tennessee, a new map could wipe out the only Democratic district. Republicans could gain 8 more seats, making it harder for Democrats to win back the House."
+      "title": "Cruise Ship Passengers Finally Go Home After Scary Virus Outbreak!",
+      "summary": "After weeks stuck on a ship with a rare virus called hantavirus, passengers from the MV Hondius are being flown home from Spain. They wore special suits and were sprayed with disinfectant to keep everyone safe."
     },
     {
-      "id": "2026-05-09-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Sat, 09 May 2026 16:35:01 +0000",
-      "mined_at": "2026-05-09T18:22:51+00:00",
-      "source_published_at": "Sat, 09 May 2026 16:35:01 +0000",
-      "image_url": "/article_images/article_6b530327feb8.webp",
+      "id": "2026-05-10-news-3",
+      "source": "BBC News",
+      "time_ago": "Sun, 10 May 2026 17:24:33 GMT",
+      "mined_at": "2026-05-10T18:23:21+00:00",
+      "source_published_at": "Sun, 10 May 2026 17:24:33 GMT",
+      "image_url": "/article_images/article_946ac1201b22.webp",
       "category": "News",
-      "title": "Iran Says a Tiny Waterway Is as Powerful as an Atomic Bomb",
-      "summary": "Iran's leaders are talking up the Strait of Hormuz, a narrow sea passage where lots of the world's oil travels. One official said controlling it is like having an atomic bomb because it can shake the whole global economy. This comes as Iran and the U.S. try to make a deal."
+      "title": "Big Shake-Up in UK Politics: A Warning for the Prime Minister!",
+      "summary": "After a terrible election, a top Labour politician says the party must change or it's their 'last chance.' She wants a popular mayor to join Parliament, adding pressure on Prime Minister Keir Starmer."
     }
   ]
 }

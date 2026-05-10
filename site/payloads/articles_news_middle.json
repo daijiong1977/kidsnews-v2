@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-09-news-1",
-      "source": "NPR World",
-      "time_ago": "Sat, 09 May 2026 06:00:00 -0400",
-      "mined_at": "2026-05-09T18:22:51+00:00",
-      "source_published_at": "Sat, 09 May 2026 06:00:00 -0400",
-      "image_url": "/article_images/article_73e6588065c1.webp",
+      "id": "2026-05-10-news-1",
+      "source": "BBC News",
+      "time_ago": "Sun, 10 May 2026 15:02:51 GMT",
+      "mined_at": "2026-05-10T18:23:21+00:00",
+      "source_published_at": "Sun, 10 May 2026 15:02:51 GMT",
+      "image_url": "/article_images/article_c1f2ebb224fa.webp",
       "category": "News",
-      "title": "Court Rulings Spark a Redistricting Frenzy Across the South",
-      "summary": "A Virginia Supreme Court ruling nullified a voter-approved redistricting plan, while Southern Republicans seized on a U.S. Supreme Court decision to redraw maps. The moves could give the GOP a 10-seat advantage, reshaping the battle for the House."
+      "title": "British Paratroopers Deliver Lifesaving Care to World's Most Remote Island",
+      "summary": "When a British man on Tristan da Cunha fell ill with suspected hantavirus and oxygen supplies hit critical levels, the UK military launched an unprecedented parachute mission. Medics landed on the island's golf course, bringing 3.3 tonnes of supplies."
     },
     {
-      "id": "2026-05-09-news-2",
+      "id": "2026-05-10-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Sat, 09 May 2026 11:35:16 -0400",
-      "mined_at": "2026-05-09T18:22:51+00:00",
-      "source_published_at": "Sat, 09 May 2026 11:35:16 -0400",
-      "image_url": "/article_images/article_a800ca274fb1.webp",
+      "time_ago": "Sun, 10 May 2026 13:03:05 -0400",
+      "mined_at": "2026-05-10T18:23:21+00:00",
+      "source_published_at": "Sun, 10 May 2026 13:03:05 -0400",
+      "image_url": "/article_images/article_48f5d0466b91.webp",
       "category": "News",
-      "title": "Southern States Rush to Redraw Maps After Supreme Court Ruling",
-      "summary": "Following a U.S. Supreme Court decision that weakened voting rights protections, GOP-led states are swiftly redrawing congressional districts. Tennessee enacted a map dismantling its only Democratic seat, while Alabama and South Carolina push for partisan gains."
+      "title": "Evacuation Underway for MV Hondius Passengers After Deadly Hantavirus Outbreak",
+      "summary": "Passengers from the hantavirus-stricken cruise ship MV Hondius began flying home from Tenerife on Sunday, wearing protective gear. The WHO stressed the public risk is low, but three have died and five are infected with the rare Andes strain."
     },
     {
-      "id": "2026-05-09-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Sat, 09 May 2026 16:35:01 +0000",
-      "mined_at": "2026-05-09T18:22:51+00:00",
-      "source_published_at": "Sat, 09 May 2026 16:35:01 +0000",
-      "image_url": "/article_images/article_6b530327feb8.webp",
+      "id": "2026-05-10-news-3",
+      "source": "BBC News",
+      "time_ago": "Sun, 10 May 2026 17:24:33 GMT",
+      "mined_at": "2026-05-10T18:23:21+00:00",
+      "source_published_at": "Sun, 10 May 2026 17:24:33 GMT",
+      "image_url": "/article_images/article_946ac1201b22.webp",
       "category": "News",
-      "title": "Iran Elevates Strait of Hormuz to 'Atomic Bomb' Level in U.S. Talks",
-      "summary": "As negotiations with Washington continue, Iranian officials are framing control of the Strait of Hormuz as a strategic asset on par with a nuclear weapon. The waterway, vital for global oil transit, is being touted as leverage against U.S. sanctions."
+      "title": "Rayner Issues Stark 'Last Chance' Warning to Starmer After Labour's Election Disaster",
+      "summary": "Former Deputy PM Angela Rayner says Labour faces its 'last chance' after losing nearly 1,500 council seats and power in Wales. She backed Andy Burnham's return to Westminster, intensifying pressure on Keir Starmer ahead of his reset speech."
     }
   ]
 }

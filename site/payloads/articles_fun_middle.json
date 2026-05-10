@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-09-fun-1",
-      "source": "Billboard",
-      "time_ago": "Sat, 09 May 2026 17:23:27 +0000",
-      "mined_at": "2026-05-09T18:22:51+00:00",
-      "source_published_at": "Sat, 09 May 2026 17:23:27 +0000",
-      "image_url": "/article_images/article_bc4db313e5c0.webp",
+      "id": "2026-05-10-fun-1",
+      "source": "MIT News",
+      "time_ago": "Fri, 08 May 2026 00:00:00 -0400",
+      "mined_at": "2026-05-10T18:23:21+00:00",
+      "source_published_at": "Fri, 08 May 2026 00:00:00 -0400",
+      "image_url": "/article_images/article_baf92c717fc2.webp",
       "category": "Fun",
-      "title": "Olivia Rodrigo's Unraveled Tour: How to Snag Tickets Before They Vanish",
-      "summary": "Olivia Rodrigo's Unraveled Tour kicks off this fall with 50+ U.S. dates. Tickets are nearly sold out, but third-party sites still have seats starting at $141."
+      "title": "How a Kid's Obsession with Holograms Led to a Fleet of Ocean Spy Bots",
+      "summary": "A hidden hot spot in the Caribbean supercharged Hurricane Melissa in 2025, catching everyone off guard. Now, MIT alum Ravi Pappu is deploying swarms of low-cost, autonomous sensors that dive deep to reveal the ocean's invisible threats. His 3-foot-long devices could revolutionize everything from storm prediction to whale tracking."
     },
     {
-      "id": "2026-05-09-fun-2",
-      "source": "Colossal",
-      "time_ago": "Fri, 08 May 2026 18:11:00 +0000",
-      "mined_at": "2026-05-09T18:22:51+00:00",
-      "source_published_at": "Fri, 08 May 2026 18:11:00 +0000",
-      "image_url": "/article_images/article_359bbe353819.webp",
+      "id": "2026-05-10-fun-2",
+      "source": "MIT News",
+      "time_ago": "Thu, 07 May 2026 11:20:00 -0400",
+      "mined_at": "2026-05-10T18:23:21+00:00",
+      "source_published_at": "Thu, 07 May 2026 11:20:00 -0400",
+      "image_url": "/article_images/article_dbc76d234ac8.webp",
       "category": "Fun",
-      "title": "Denim Sculptures That Unravel the American Dream",
-      "summary": "Nick Doyle's denim wall sculptures explore the contradictions of American mythology—from cowboy ruggedness to slavery's legacy. On view in NYC through May 30."
+      "title": "MIT's 25-Year Dorm-Room Revolution: When Student Projects Incubate the Founders",
+      "summary": "An Apple Watch app that silently alerts caregivers when a nonverbal person needs help just won $20,000 at MIT's IDEAS showcase. The event celebrated 25 years of social ventures, from a pillbox that reshaped India's tuberculosis policy to new climate innovations. A $150,000 gift aims to build a social-impact investor ecosystem on campus."
     },
     {
-      "id": "2026-05-09-fun-3",
-      "source": "Billboard",
-      "time_ago": "Sat, 09 May 2026 14:54:51 +0000",
-      "mined_at": "2026-05-09T18:22:51+00:00",
-      "source_published_at": "Sat, 09 May 2026 14:54:51 +0000",
-      "image_url": "/article_images/article_4189a533ce7a.webp",
+      "id": "2026-05-10-fun-3",
+      "source": "Hyperallergic",
+      "time_ago": "Fri, 08 May 2026 19:37:34 GMT",
+      "mined_at": "2026-05-10T18:23:21+00:00",
+      "source_published_at": "Fri, 08 May 2026 19:37:34 GMT",
+      "image_url": "/article_images/article_67f8ec44b08b.webp",
       "category": "Fun",
-      "title": "Peso Pluma Makes Surprise Appearance at CUNY's First Mexican-American Graduation",
-      "summary": "Peso Pluma surprised nearly 200 graduates at CUNY's first Mexican-American commencement, celebrating cultural identity and educational equity."
+      "title": "She Made Garbage Trucks Dance: The Unseen Labor Behind Mierle Ukeles's Art",
+      "summary": "A new documentary, Maintenance Artist, spotlights Mierle Laderman Ukeles, who turned mopping and mothering into a radical art form. As artist-in-residence at NYC's sanitation department for 40 years, she shook hands with every worker and made a ballet of garbage trucks. The film asks: what if the people who clean up after us were the stars?"
     }
   ]
 }
