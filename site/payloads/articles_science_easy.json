@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-10-science-1",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Fri, 08 May 2026 03:40:08 EDT",
-      "mined_at": "2026-05-10T18:23:21+00:00",
-      "source_published_at": "Fri, 08 May 2026 03:40:08 EDT",
-      "image_url": "/article_images/article_b079e61551f9.webp",
+      "id": "2026-05-11-science-1",
+      "source": "IEEE Spectrum",
+      "time_ago": "Fri, 08 May 2026 18:00:01 +0000",
+      "mined_at": "2026-05-11T19:30:21+00:00",
+      "source_published_at": "Fri, 08 May 2026 18:00:01 +0000",
+      "image_url": "/article_images/article_eb841b3eca5f.webp",
       "category": "Science",
-      "title": "Could Tiny Changes in Physics Make Life Impossible?",
-      "summary": "Scientists found that if the rules of physics were even a tiny bit different, water and blood might not flow right. Life as we know it might never have started."
+      "title": "She Builds Circuits That Talk to Satellites—and She Started by Fixing Toasters!",
+      "summary": "Ana Inês Inácio designs tiny radio chips for satellites and radar. She won a big award for her work and for helping young engineers around the world. Her first teacher was her grandpa, who fixed machines in their village."
     },
     {
-      "id": "2026-05-10-science-2",
-      "source": "Popular Science",
-      "time_ago": "Sun, 10 May 2026 08:01:00 -0400",
-      "mined_at": "2026-05-10T18:23:21+00:00",
-      "source_published_at": "Sun, 10 May 2026 08:01:00 -0400",
-      "image_url": "/article_images/article_31519e134c62.webp",
+      "id": "2026-05-11-science-2",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Sun, 10 May 2026 07:27:12 EDT",
+      "mined_at": "2026-05-11T19:30:21+00:00",
+      "source_published_at": "Sun, 10 May 2026 07:27:12 EDT",
+      "image_url": "/article_images/article_83337afcdb1c.webp",
       "category": "Science",
-      "title": "Is Your Pet a Genius? The Wall Test Won't Tell You!",
-      "summary": "That viral TikTok wall test for dogs and cats is not a real IQ test. Experts say it's just a reflex check, and holding your pet like that might scare them."
+      "title": "Scientists Borrow a Superpower from Wrinkly, Cancer-Proof Mole Rats—and Give It to Mice!",
+      "summary": "Naked mole rats can live 41 years and almost never get cancer. Scientists took one of their special genes and put it into mice. The mice lived longer and stayed healthier, with less inflammation and fewer tumors."
     },
     {
-      "id": "2026-05-10-science-3",
+      "id": "2026-05-11-science-3",
       "source": "ScienceDaily All",
-      "time_ago": "Sun, 10 May 2026 07:39:45 EDT",
-      "mined_at": "2026-05-10T18:23:21+00:00",
-      "source_published_at": "Sun, 10 May 2026 07:39:45 EDT",
-      "image_url": "/article_images/article_aac4722c2147.webp",
+      "time_ago": "Mon, 11 May 2026 03:09:12 EDT",
+      "mined_at": "2026-05-11T19:30:21+00:00",
+      "source_published_at": "Mon, 11 May 2026 03:09:12 EDT",
+      "image_url": "/article_images/article_82eb34cac5ab.webp",
       "category": "Science",
-      "title": "This New Steel Could Make Clean Energy from Seawater!",
-      "summary": "Scientists in Hong Kong invented a super stainless steel that doesn't rust easily, even in salty seawater. It could help make cheap, clean hydrogen fuel."
+      "title": "A NASA Spacecraft Is About to Slingshot Past Mars at 12,000 MPH—and It's Taking Pictures!",
+      "summary": "NASA's Psyche probe will zoom just 2,800 miles above Mars on May 15, using the planet's gravity to speed up on its way to a metal asteroid. It will snap thousands of photos and test its instruments."
     }
   ]
 }

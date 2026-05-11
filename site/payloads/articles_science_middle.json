@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-10-science-1",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Fri, 08 May 2026 03:40:08 EDT",
-      "mined_at": "2026-05-10T18:23:21+00:00",
-      "source_published_at": "Fri, 08 May 2026 03:40:08 EDT",
-      "image_url": "/article_images/article_b079e61551f9.webp",
+      "id": "2026-05-11-science-1",
+      "source": "IEEE Spectrum",
+      "time_ago": "Fri, 08 May 2026 18:00:01 +0000",
+      "mined_at": "2026-05-11T19:30:21+00:00",
+      "source_published_at": "Fri, 08 May 2026 18:00:01 +0000",
+      "image_url": "/article_images/article_eb841b3eca5f.webp",
       "category": "Science",
-      "title": "The Universe's Secret Recipe for Life Might Be Hidden in a Glass of Water",
-      "summary": "New research suggests the fundamental constants of physics are tuned not just for stars, but for the flow of liquids inside living cells. A tiny shift could make blood too thick for life."
+      "title": "From Grandpa's Workshop to Satellite Circuits: Ana Inês Inácio's Blueprint for the Future of Wireless",
+      "summary": "Ana Inês Inácio designs RF chips that will power next-gen radar and satellite networks. She just won the IEEE-Eta Kappa Nu Outstanding Young Professional Award for her technical breakthroughs and global leadership in building inclusive engineering communities."
     },
     {
-      "id": "2026-05-10-science-2",
-      "source": "Popular Science",
-      "time_ago": "Sun, 10 May 2026 08:01:00 -0400",
-      "mined_at": "2026-05-10T18:23:21+00:00",
-      "source_published_at": "Sun, 10 May 2026 08:01:00 -0400",
-      "image_url": "/article_images/article_31519e134c62.webp",
+      "id": "2026-05-11-science-2",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Sun, 10 May 2026 07:27:12 EDT",
+      "mined_at": "2026-05-11T19:30:21+00:00",
+      "source_published_at": "Sun, 10 May 2026 07:27:12 EDT",
+      "image_url": "/article_images/article_83337afcdb1c.webp",
       "category": "Science",
-      "title": "That Viral Pet IQ Test? It's a Reflex, Not a Sign of Genius",
-      "summary": "The TikTok wall test for dogs and cats is misleading, say animal cognition researchers. It's a neurological reflex, not an intelligence measure, and holding pets that way can distress them."
+      "title": "A Naked Mole Rat's Anti-Aging Shield Has Been Successfully Transferred to Mice—and It Worked",
+      "summary": "Scientists moved a gene from cancer-resistant naked mole rats into mice, boosting their health and extending median lifespan by 4.4%. The gene produces high molecular weight hyaluronic acid, a molecule linked to the rodents' extraordinary longevity."
     },
     {
-      "id": "2026-05-10-science-3",
+      "id": "2026-05-11-science-3",
       "source": "ScienceDaily All",
-      "time_ago": "Sun, 10 May 2026 07:39:45 EDT",
-      "mined_at": "2026-05-10T18:23:21+00:00",
-      "source_published_at": "Sun, 10 May 2026 07:39:45 EDT",
-      "image_url": "/article_images/article_aac4722c2147.webp",
+      "time_ago": "Mon, 11 May 2026 03:09:12 EDT",
+      "mined_at": "2026-05-11T19:30:21+00:00",
+      "source_published_at": "Mon, 11 May 2026 03:09:12 EDT",
+      "image_url": "/article_images/article_82eb34cac5ab.webp",
       "category": "Science",
-      "title": "A 'Counter-Intuitive' Steel Could Unlock Cheap Green Hydrogen from Seawater",
-      "summary": "HKU researchers developed a stainless steel that resists corrosion at ultra-high voltages, using a surprising manganese-based second layer. It could slash electrolyzer costs by 40 times."
+      "title": "Psyche's Martian Slingshot: NASA Probe to Skim Mars at 12,333 MPH in Daring Gravity Assist",
+      "summary": "On May 15, NASA's Psyche spacecraft will fly within 2,800 miles of Mars, using the planet's gravity to accelerate toward the metal asteroid Psyche. The flyby doubles as a critical test of its science instruments."
     }
   ]
 }

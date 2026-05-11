@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-10-news-1",
-      "source": "BBC News",
-      "time_ago": "Sun, 10 May 2026 15:02:51 GMT",
-      "mined_at": "2026-05-10T18:23:21+00:00",
-      "source_published_at": "Sun, 10 May 2026 15:02:51 GMT",
-      "image_url": "/article_images/article_c1f2ebb224fa.webp",
+      "id": "2026-05-11-news-1",
+      "source": "Al Jazeera",
+      "time_ago": "Mon, 11 May 2026 14:30:26 +0000",
+      "mined_at": "2026-05-11T19:30:21+00:00",
+      "source_published_at": "Mon, 11 May 2026 14:30:26 +0000",
+      "image_url": "/article_images/article_de656e790edf.webp",
       "category": "News",
-      "title": "Parachuting Doctors Land on a Tiny Island to Save a Sick Man!",
-      "summary": "British Army medics jumped from a plane onto Tristan da Cunha, one of the most remote islands on Earth, to help a man with a rare virus. They brought oxygen and supplies because the island has no airport."
+      "title": "No Gold, No Trips: Why India's PM Wants You to Stay Home",
+      "summary": "Imagine your parents saying no vacations and no gold jewelry for a whole year. That's what India's PM Modi is asking everyone to do because a war far away is making fuel and food super expensive."
     },
     {
-      "id": "2026-05-10-news-2",
+      "id": "2026-05-11-news-2",
+      "source": "BBC News",
+      "time_ago": "Mon, 11 May 2026 16:10:18 GMT",
+      "mined_at": "2026-05-11T19:30:21+00:00",
+      "source_published_at": "Mon, 11 May 2026 16:10:18 GMT",
+      "image_url": "/article_images/article_715a9e1a6a87.webp",
+      "category": "News",
+      "title": "Shhh! France's President Tells a Whole Room to Be Quiet",
+      "summary": "Imagine your teacher stopping class to tell everyone to stop talking. That's what French President Macron did at a big meeting in Africa—he grabbed the mic and told the crowd they were being disrespectful."
+    },
+    {
+      "id": "2026-05-11-news-3",
       "source": "PBS NewsHour",
-      "time_ago": "Sun, 10 May 2026 13:03:05 -0400",
-      "mined_at": "2026-05-10T18:23:21+00:00",
-      "source_published_at": "Sun, 10 May 2026 13:03:05 -0400",
-      "image_url": "/article_images/article_48f5d0466b91.webp",
+      "time_ago": "Mon, 11 May 2026 13:35:56 -0400",
+      "mined_at": "2026-05-11T19:30:21+00:00",
+      "source_published_at": "Mon, 11 May 2026 13:35:56 -0400",
+      "image_url": "/article_images/article_6e66d7e037a2.webp",
       "category": "News",
-      "title": "Cruise Ship Passengers Finally Go Home After Scary Virus Outbreak!",
-      "summary": "After weeks stuck on a ship with a rare virus called hantavirus, passengers from the MV Hondius are being flown home from Spain. They wore special suits and were sprayed with disinfectant to keep everyone safe."
-    },
-    {
-      "id": "2026-05-10-news-3",
-      "source": "BBC News",
-      "time_ago": "Sun, 10 May 2026 17:24:33 GMT",
-      "mined_at": "2026-05-10T18:23:21+00:00",
-      "source_published_at": "Sun, 10 May 2026 17:24:33 GMT",
-      "image_url": "/article_images/article_946ac1201b22.webp",
-      "category": "News",
-      "title": "Big Shake-Up in UK Politics: A Warning for the Prime Minister!",
-      "summary": "After a terrible election, a top Labour politician says the party must change or it's their 'last chance.' She wants a popular mayor to join Parliament, adding pressure on Prime Minister Keir Starmer."
+      "title": "UK's Leader in Trouble: Can a Promise to Europe Save Him?",
+      "summary": "Britain's Prime Minister Keir Starmer is in hot water after his party lost big in local elections. Now he says he'll move the UK closer to Europe to fix things—but some people in his own party want him to quit."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-10-news-1",
-      "source": "BBC News",
-      "time_ago": "Sun, 10 May 2026 15:02:51 GMT",
-      "mined_at": "2026-05-10T18:23:21+00:00",
-      "source_published_at": "Sun, 10 May 2026 15:02:51 GMT",
-      "image_url": "/article_images/article_c1f2ebb224fa.webp",
+      "id": "2026-05-11-news-1",
+      "source": "Al Jazeera",
+      "time_ago": "Mon, 11 May 2026 14:30:26 +0000",
+      "mined_at": "2026-05-11T19:30:21+00:00",
+      "source_published_at": "Mon, 11 May 2026 14:30:26 +0000",
+      "image_url": "/article_images/article_de656e790edf.webp",
       "category": "News",
-      "title": "British Paratroopers Deliver Lifesaving Care to World's Most Remote Island",
-      "summary": "When a British man on Tristan da Cunha fell ill with suspected hantavirus and oxygen supplies hit critical levels, the UK military launched an unprecedented parachute mission. Medics landed on the island's golf course, bringing 3.3 tonnes of supplies."
+      "title": "War in Iran Hits Home: Modi Urges Indians to Skip Gold, Foreign Travel",
+      "summary": "A war thousands of miles away is squeezing India's wallet. PM Modi is calling for a year of sacrifice—no gold, no overseas vacations, and working from home—to protect the country's shrinking foreign exchange reserves."
     },
     {
-      "id": "2026-05-10-news-2",
+      "id": "2026-05-11-news-2",
+      "source": "BBC News",
+      "time_ago": "Mon, 11 May 2026 16:10:18 GMT",
+      "mined_at": "2026-05-11T19:30:21+00:00",
+      "source_published_at": "Mon, 11 May 2026 16:10:18 GMT",
+      "image_url": "/article_images/article_715a9e1a6a87.webp",
+      "category": "News",
+      "title": "‘Total Lack of Respect’: Macron Shushes Audience at Africa Summit",
+      "summary": "French President Emmanuel Macron halted a speaker mid-presentation at the Africa Forward summit in Nairobi to scold the crowd for side conversations, calling their behavior disrespectful and urging them to take chats outside."
+    },
+    {
+      "id": "2026-05-11-news-3",
       "source": "PBS NewsHour",
-      "time_ago": "Sun, 10 May 2026 13:03:05 -0400",
-      "mined_at": "2026-05-10T18:23:21+00:00",
-      "source_published_at": "Sun, 10 May 2026 13:03:05 -0400",
-      "image_url": "/article_images/article_48f5d0466b91.webp",
+      "time_ago": "Mon, 11 May 2026 13:35:56 -0400",
+      "mined_at": "2026-05-11T19:30:21+00:00",
+      "source_published_at": "Mon, 11 May 2026 13:35:56 -0400",
+      "image_url": "/article_images/article_6e66d7e037a2.webp",
       "category": "News",
-      "title": "Evacuation Underway for MV Hondius Passengers After Deadly Hantavirus Outbreak",
-      "summary": "Passengers from the hantavirus-stricken cruise ship MV Hondius began flying home from Tenerife on Sunday, wearing protective gear. The WHO stressed the public risk is low, but three have died and five are infected with the rare Andes strain."
-    },
-    {
-      "id": "2026-05-10-news-3",
-      "source": "BBC News",
-      "time_ago": "Sun, 10 May 2026 17:24:33 GMT",
-      "mined_at": "2026-05-10T18:23:21+00:00",
-      "source_published_at": "Sun, 10 May 2026 17:24:33 GMT",
-      "image_url": "/article_images/article_946ac1201b22.webp",
-      "category": "News",
-      "title": "Rayner Issues Stark 'Last Chance' Warning to Starmer After Labour's Election Disaster",
-      "summary": "Former Deputy PM Angela Rayner says Labour faces its 'last chance' after losing nearly 1,500 council seats and power in Wales. She backed Andy Burnham's return to Westminster, intensifying pressure on Keir Starmer ahead of his reset speech."
+      "title": "Starmer Fights for Survival, Pledges Closer EU Ties After Election Drubbing",
+      "summary": "Battered by catastrophic local election results, UK PM Keir Starmer is battling a leadership crisis. He vowed to prove doubters wrong by moving Britain closer to the EU, but dozens of his own MPs are urging him to set a departure date."
     }
   ]
 }
