@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-11-news-1",
-      "source": "Al Jazeera",
-      "time_ago": "Mon, 11 May 2026 14:30:26 +0000",
-      "mined_at": "2026-05-11T19:30:21+00:00",
-      "source_published_at": "Mon, 11 May 2026 14:30:26 +0000",
-      "image_url": "/article_images/article_de656e790edf.webp",
+      "id": "2026-05-12-news-1",
+      "source": "NPR World",
+      "time_ago": "Tue, 12 May 2026 05:00:00 -0400",
+      "mined_at": "2026-05-12T18:46:36+00:00",
+      "source_published_at": "Tue, 12 May 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_7b21ea1603ee.webp",
       "category": "News",
-      "title": "War in Iran Hits Home: Modi Urges Indians to Skip Gold, Foreign Travel",
-      "summary": "A war thousands of miles away is squeezing India's wallet. PM Modi is calling for a year of sacrifice—no gold, no overseas vacations, and working from home—to protect the country's shrinking foreign exchange reserves."
+      "title": "Midnight Sprints and 200 Species: Inside the Teen Birding World Series",
+      "summary": "At midnight in a deserted New Jersey park, three teens vaulted a fence and spotted a monk parakeet—their first of a 24-hour race to count 200 bird species. The Pete Dunnelins have won twice before and planned every minute of their route."
     },
     {
-      "id": "2026-05-11-news-2",
-      "source": "BBC News",
-      "time_ago": "Mon, 11 May 2026 16:10:18 GMT",
-      "mined_at": "2026-05-11T19:30:21+00:00",
-      "source_published_at": "Mon, 11 May 2026 16:10:18 GMT",
-      "image_url": "/article_images/article_715a9e1a6a87.webp",
-      "category": "News",
-      "title": "‘Total Lack of Respect’: Macron Shushes Audience at Africa Summit",
-      "summary": "French President Emmanuel Macron halted a speaker mid-presentation at the Africa Forward summit in Nairobi to scold the crowd for side conversations, calling their behavior disrespectful and urging them to take chats outside."
-    },
-    {
-      "id": "2026-05-11-news-3",
+      "id": "2026-05-12-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Mon, 11 May 2026 13:35:56 -0400",
-      "mined_at": "2026-05-11T19:30:21+00:00",
-      "source_published_at": "Mon, 11 May 2026 13:35:56 -0400",
-      "image_url": "/article_images/article_6e66d7e037a2.webp",
+      "time_ago": "Tue, 12 May 2026 12:46:43 -0400",
+      "mined_at": "2026-05-12T18:46:36+00:00",
+      "source_published_at": "Tue, 12 May 2026 12:46:43 -0400",
+      "image_url": "/article_images/article_213957a1c667.webp",
       "category": "News",
-      "title": "Starmer Fights for Survival, Pledges Closer EU Ties After Election Drubbing",
-      "summary": "Battered by catastrophic local election results, UK PM Keir Starmer is battling a leadership crisis. He vowed to prove doubters wrong by moving Britain closer to the EU, but dozens of his own MPs are urging him to set a departure date."
+      "title": "Iran War Drives Gas to $4.50, Inflation Hits 3-Year High",
+      "summary": "U.S. inflation surged to 3.8% in April as gasoline prices jumped 44% from last year. The war with Iran has blocked the Strait of Hormuz, a crucial oil passage. Families are cutting back as wage gains are erased."
+    },
+    {
+      "id": "2026-05-12-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Tue, 12 May 2026 17:24:49 +0000",
+      "mined_at": "2026-05-12T18:46:36+00:00",
+      "source_published_at": "Tue, 12 May 2026 17:24:49 +0000",
+      "image_url": "/article_images/article_09980567e45e.webp",
+      "category": "News",
+      "title": "eBay Rejects GameStop's $56B Bid as 'Neither Credible Nor Attractive'",
+      "summary": "eBay dismissed GameStop's $56 billion takeover offer, citing financing doubts and its own strong performance. GameStop CEO Ryan Cohen, who holds a 5% stake, may take the bid directly to shareholders. eBay's stock has returned 201% under its current CEO."
     }
   ]
 }

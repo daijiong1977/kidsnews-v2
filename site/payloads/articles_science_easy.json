@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-11-science-1",
-      "source": "IEEE Spectrum",
-      "time_ago": "Fri, 08 May 2026 18:00:01 +0000",
-      "mined_at": "2026-05-11T19:30:21+00:00",
-      "source_published_at": "Fri, 08 May 2026 18:00:01 +0000",
-      "image_url": "/article_images/article_eb841b3eca5f.webp",
+      "id": "2026-05-12-science-1",
+      "source": "Smithsonian Science-Nature",
+      "time_ago": "Thu, 07 May 2026 20:07:28 +0000",
+      "mined_at": "2026-05-12T18:46:36+00:00",
+      "source_published_at": "Thu, 07 May 2026 20:07:28 +0000",
+      "image_url": "",
       "category": "Science",
-      "title": "She Builds Circuits That Talk to Satellites—and She Started by Fixing Toasters!",
-      "summary": "Ana Inês Inácio designs tiny radio chips for satellites and radar. She won a big award for her work and for helping young engineers around the world. Her first teacher was her grandpa, who fixed machines in their village."
+      "title": "Zombie Spiders and Rainbow Worms: 10 Creatures Named After David Attenborough",
+      "summary": "A fungus that turns cave spiders into zombies is one of about 50 living things named after David Attenborough. Scientists grew up watching his shows and now honor him with their discoveries. Here are 10 of the coolest ones."
     },
     {
-      "id": "2026-05-11-science-2",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Sun, 10 May 2026 07:27:12 EDT",
-      "mined_at": "2026-05-11T19:30:21+00:00",
-      "source_published_at": "Sun, 10 May 2026 07:27:12 EDT",
-      "image_url": "/article_images/article_83337afcdb1c.webp",
+      "id": "2026-05-12-science-2",
+      "source": "Physics World",
+      "time_ago": "Tue, 12 May 2026 08:00:12 +0000",
+      "mined_at": "2026-05-12T18:46:36+00:00",
+      "source_published_at": "Tue, 12 May 2026 08:00:12 +0000",
+      "image_url": "/article_images/article_955ff2418b57.webp",
       "category": "Science",
-      "title": "Scientists Borrow a Superpower from Wrinkly, Cancer-Proof Mole Rats—and Give It to Mice!",
-      "summary": "Naked mole rats can live 41 years and almost never get cancer. Scientists took one of their special genes and put it into mice. The mice lived longer and stayed healthier, with less inflammation and fewer tumors."
+      "title": "Tiny Particles Light Up Inside Your Body—Using Sound, Not Surgery!",
+      "summary": "Scientists made nanoparticles that glow when hit by ultrasound. Injected into mice, they lit up deep inside the brain, gut, and spine. This could one day replace invasive surgeries for light-based treatments like cancer therapy."
     },
     {
-      "id": "2026-05-11-science-3",
-      "source": "ScienceDaily All",
-      "time_ago": "Mon, 11 May 2026 03:09:12 EDT",
-      "mined_at": "2026-05-11T19:30:21+00:00",
-      "source_published_at": "Mon, 11 May 2026 03:09:12 EDT",
-      "image_url": "/article_images/article_82eb34cac5ab.webp",
+      "id": "2026-05-12-science-3",
+      "source": "MIT Tech Review",
+      "time_ago": "Mon, 11 May 2026 17:35:12 +0000",
+      "mined_at": "2026-05-12T18:46:36+00:00",
+      "source_published_at": "Mon, 11 May 2026 17:35:12 +0000",
+      "image_url": "/article_images/article_0830e799b830.webp",
       "category": "Science",
-      "title": "A NASA Spacecraft Is About to Slingshot Past Mars at 12,000 MPH—and It's Taking Pictures!",
-      "summary": "NASA's Psyche probe will zoom just 2,800 miles above Mars on May 15, using the planet's gravity to speed up on its way to a metal asteroid. It will snap thousands of photos and test its instruments."
+      "title": "Will AI Steal Your Job? A Nobel Prize Winner Says Not So Fast",
+      "summary": "Nobel economist Daron Acemoglu thinks AI won't cause a jobs apocalypse. He says AI agents still can't juggle tasks like humans do. But he worries that AI companies hiring economists might twist the truth about jobs."
     }
   ]
 }

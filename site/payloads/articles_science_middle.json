@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-11-science-1",
-      "source": "IEEE Spectrum",
-      "time_ago": "Fri, 08 May 2026 18:00:01 +0000",
-      "mined_at": "2026-05-11T19:30:21+00:00",
-      "source_published_at": "Fri, 08 May 2026 18:00:01 +0000",
-      "image_url": "/article_images/article_eb841b3eca5f.webp",
+      "id": "2026-05-12-science-1",
+      "source": "Smithsonian Science-Nature",
+      "time_ago": "Thu, 07 May 2026 20:07:28 +0000",
+      "mined_at": "2026-05-12T18:46:36+00:00",
+      "source_published_at": "Thu, 07 May 2026 20:07:28 +0000",
+      "image_url": "",
       "category": "Science",
-      "title": "From Grandpa's Workshop to Satellite Circuits: Ana Inês Inácio's Blueprint for the Future of Wireless",
-      "summary": "Ana Inês Inácio designs RF chips that will power next-gen radar and satellite networks. She just won the IEEE-Eta Kappa Nu Outstanding Young Professional Award for her technical breakthroughs and global leadership in building inclusive engineering communities."
+      "title": "From Zombie Fungi to Toothless Birds: How David Attenborough's Legacy Lives on in Species Names",
+      "summary": "Over 50 organisms bear David Attenborough's name, honoring the naturalist who inspired generations of scientists. A fungus that controls cave spiders, a 120-million-year-old toothless bird, and a rainbow worm are among the tributes marking his 100th birthday."
     },
     {
-      "id": "2026-05-11-science-2",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Sun, 10 May 2026 07:27:12 EDT",
-      "mined_at": "2026-05-11T19:30:21+00:00",
-      "source_published_at": "Sun, 10 May 2026 07:27:12 EDT",
-      "image_url": "/article_images/article_83337afcdb1c.webp",
+      "id": "2026-05-12-science-2",
+      "source": "Physics World",
+      "time_ago": "Tue, 12 May 2026 08:00:12 +0000",
+      "mined_at": "2026-05-12T18:46:36+00:00",
+      "source_published_at": "Tue, 12 May 2026 08:00:12 +0000",
+      "image_url": "/article_images/article_955ff2418b57.webp",
       "category": "Science",
-      "title": "A Naked Mole Rat's Anti-Aging Shield Has Been Successfully Transferred to Mice—and It Worked",
-      "summary": "Scientists moved a gene from cancer-resistant naked mole rats into mice, boosting their health and extending median lifespan by 4.4%. The gene produces high molecular weight hyaluronic acid, a molecule linked to the rodents' extraordinary longevity."
+      "title": "Sound-Activated Nanoparticles Could Bring Light Therapy Deep into the Body—No Incisions Needed",
+      "summary": "Stanford researchers have developed mechanoluminescent nanoparticles that emit light when triggered by ultrasound, enabling deep-tissue illumination in mice. The breakthrough could revolutionize gene editing, cancer therapy, and optogenetics without invasive procedures."
     },
     {
-      "id": "2026-05-11-science-3",
-      "source": "ScienceDaily All",
-      "time_ago": "Mon, 11 May 2026 03:09:12 EDT",
-      "mined_at": "2026-05-11T19:30:21+00:00",
-      "source_published_at": "Mon, 11 May 2026 03:09:12 EDT",
-      "image_url": "/article_images/article_82eb34cac5ab.webp",
+      "id": "2026-05-12-science-3",
+      "source": "MIT Tech Review",
+      "time_ago": "Mon, 11 May 2026 17:35:12 +0000",
+      "mined_at": "2026-05-12T18:46:36+00:00",
+      "source_published_at": "Mon, 11 May 2026 17:35:12 +0000",
+      "image_url": "/article_images/article_0830e799b830.webp",
       "category": "Science",
-      "title": "Psyche's Martian Slingshot: NASA Probe to Skim Mars at 12,333 MPH in Daring Gravity Assist",
-      "summary": "On May 15, NASA's Psyche spacecraft will fly within 2,800 miles of Mars, using the planet's gravity to accelerate toward the metal asteroid Psyche. The flyby doubles as a critical test of its science instruments."
+      "title": "A Nobel Economist's Reality Check on AI and Jobs: Agents, Influence, and the Usability Gap",
+      "summary": "Daron Acemoglu, a Nobel laureate in economics, remains skeptical about an AI jobs apocalypse. He points to AI agents' struggle with task-switching, the risk of biased research from tech-hired economists, and the lack of user-friendly AI apps as key factors limiting disruption."
     }
   ]
 }
