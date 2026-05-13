@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-12-science-1",
-      "source": "Smithsonian Science-Nature",
-      "time_ago": "Thu, 07 May 2026 20:07:28 +0000",
-      "mined_at": "2026-05-12T18:46:36+00:00",
-      "source_published_at": "Thu, 07 May 2026 20:07:28 +0000",
-      "image_url": "",
+      "id": "2026-05-13-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Wed, 13 May 2026 03:55:23 EDT",
+      "mined_at": "2026-05-13T18:42:01+00:00",
+      "source_published_at": "Wed, 13 May 2026 03:55:23 EDT",
+      "image_url": "/article_images/article_2f75aca2d1fe.webp",
       "category": "Science",
-      "title": "From Zombie Fungi to Toothless Birds: How David Attenborough's Legacy Lives on in Species Names",
-      "summary": "Over 50 organisms bear David Attenborough's name, honoring the naturalist who inspired generations of scientists. A fungus that controls cave spiders, a 120-million-year-old toothless bird, and a rainbow worm are among the tributes marking his 100th birthday."
+      "title": "The Quantum Puzzle Piece That Was Missing for 25 Years Has Finally Been Found",
+      "summary": "Quantum entanglement is like a secret handshake between particles. For decades, scientists could easily read one type of handshake (GHZ) but not another (W). Now, a team has built a device that reads W states in a single shot, unlocking new possibilities for teleportation and quantum computing."
     },
     {
-      "id": "2026-05-12-science-2",
-      "source": "Physics World",
-      "time_ago": "Tue, 12 May 2026 08:00:12 +0000",
-      "mined_at": "2026-05-12T18:46:36+00:00",
-      "source_published_at": "Tue, 12 May 2026 08:00:12 +0000",
-      "image_url": "/article_images/article_955ff2418b57.webp",
+      "id": "2026-05-13-science-2",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Wed, 13 May 2026 08:59:21 EDT",
+      "mined_at": "2026-05-13T18:42:01+00:00",
+      "source_published_at": "Wed, 13 May 2026 08:59:21 EDT",
+      "image_url": "/article_images/article_fd2036bb6571.webp",
       "category": "Science",
-      "title": "Sound-Activated Nanoparticles Could Bring Light Therapy Deep into the Body—No Incisions Needed",
-      "summary": "Stanford researchers have developed mechanoluminescent nanoparticles that emit light when triggered by ultrasound, enabling deep-tissue illumination in mice. The breakthrough could revolutionize gene editing, cancer therapy, and optogenetics without invasive procedures."
+      "title": "Was Halley's Comet Actually Discovered by an 11th-Century Monk?",
+      "summary": "Edmond Halley gets credit for recognizing that the comet now bearing his name returns every 76 years. But new research suggests an English monk named Eilmer of Malmesbury beat him to it by 600 years. He saw the comet in 989 and 1066 and connected the dots."
     },
     {
-      "id": "2026-05-12-science-3",
-      "source": "MIT Tech Review",
-      "time_ago": "Mon, 11 May 2026 17:35:12 +0000",
-      "mined_at": "2026-05-12T18:46:36+00:00",
-      "source_published_at": "Mon, 11 May 2026 17:35:12 +0000",
-      "image_url": "/article_images/article_0830e799b830.webp",
+      "id": "2026-05-13-science-3",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Tue, 12 May 2026 21:45:40 EDT",
+      "mined_at": "2026-05-13T18:42:01+00:00",
+      "source_published_at": "Tue, 12 May 2026 21:45:40 EDT",
+      "image_url": "/article_images/article_0f77277e9042.webp",
       "category": "Science",
-      "title": "A Nobel Economist's Reality Check on AI and Jobs: Agents, Influence, and the Usability Gap",
-      "summary": "Daron Acemoglu, a Nobel laureate in economics, remains skeptical about an AI jobs apocalypse. He points to AI agents' struggle with task-switching, the risk of biased research from tech-hired economists, and the lack of user-friendly AI apps as key factors limiting disruption."
+      "title": "Cracking Nature's Code: The Missing Enzymes Behind a Rare Cancer-Fighting Compound",
+      "summary": "Mitraphylline, a rare plant compound with anti-cancer potential, has been nearly impossible to produce because its biosynthetic pathway was unknown. Now, researchers have identified the two crucial enzymes that build it, opening a green chemistry route to this and similar life-saving molecules."
     }
   ]
 }

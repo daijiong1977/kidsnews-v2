@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-12-science-1",
-      "source": "Smithsonian Science-Nature",
-      "time_ago": "Thu, 07 May 2026 20:07:28 +0000",
-      "mined_at": "2026-05-12T18:46:36+00:00",
-      "source_published_at": "Thu, 07 May 2026 20:07:28 +0000",
-      "image_url": "",
+      "id": "2026-05-13-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Wed, 13 May 2026 03:55:23 EDT",
+      "mined_at": "2026-05-13T18:42:01+00:00",
+      "source_published_at": "Wed, 13 May 2026 03:55:23 EDT",
+      "image_url": "/article_images/article_2f75aca2d1fe.webp",
       "category": "Science",
-      "title": "Zombie Spiders and Rainbow Worms: 10 Creatures Named After David Attenborough",
-      "summary": "A fungus that turns cave spiders into zombies is one of about 50 living things named after David Attenborough. Scientists grew up watching his shows and now honor him with their discoveries. Here are 10 of the coolest ones."
+      "title": "Scientists Finally Read a Secret Quantum Code — And It Could Change Everything!",
+      "summary": "Imagine two particles so connected that measuring one instantly tells you about the other, even if they're far apart. Scientists just figured out how to read a special type of this quantum link called a W state. This could make teleportation and super-fast computers real!"
     },
     {
-      "id": "2026-05-12-science-2",
-      "source": "Physics World",
-      "time_ago": "Tue, 12 May 2026 08:00:12 +0000",
-      "mined_at": "2026-05-12T18:46:36+00:00",
-      "source_published_at": "Tue, 12 May 2026 08:00:12 +0000",
-      "image_url": "/article_images/article_955ff2418b57.webp",
+      "id": "2026-05-13-science-2",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Wed, 13 May 2026 08:59:21 EDT",
+      "mined_at": "2026-05-13T18:42:01+00:00",
+      "source_published_at": "Wed, 13 May 2026 08:59:21 EDT",
+      "image_url": "/article_images/article_fd2036bb6571.webp",
       "category": "Science",
-      "title": "Tiny Particles Light Up Inside Your Body—Using Sound, Not Surgery!",
-      "summary": "Scientists made nanoparticles that glow when hit by ultrasound. Injected into mice, they lit up deep inside the brain, gut, and spine. This could one day replace invasive surgeries for light-based treatments like cancer therapy."
+      "title": "Did a Monk Discover Halley's Comet 600 Years Before Halley?",
+      "summary": "You know Halley's Comet, right? It turns out a monk named Eilmer may have spotted it coming back in the 11th century — way before Edmond Halley! He saw it in 989 and again in 1066 and realized it was the same comet. Should we rename it?"
     },
     {
-      "id": "2026-05-12-science-3",
-      "source": "MIT Tech Review",
-      "time_ago": "Mon, 11 May 2026 17:35:12 +0000",
-      "mined_at": "2026-05-12T18:46:36+00:00",
-      "source_published_at": "Mon, 11 May 2026 17:35:12 +0000",
-      "image_url": "/article_images/article_0830e799b830.webp",
+      "id": "2026-05-13-science-3",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Tue, 12 May 2026 21:45:40 EDT",
+      "mined_at": "2026-05-13T18:42:01+00:00",
+      "source_published_at": "Tue, 12 May 2026 21:45:40 EDT",
+      "image_url": "/article_images/article_0f77277e9042.webp",
       "category": "Science",
-      "title": "Will AI Steal Your Job? A Nobel Prize Winner Says Not So Fast",
-      "summary": "Nobel economist Daron Acemoglu thinks AI won't cause a jobs apocalypse. He says AI agents still can't juggle tasks like humans do. But he worries that AI companies hiring economists might twist the truth about jobs."
+      "title": "The Secret Ingredient for a Cancer-Fighting Plant Has Been Found!",
+      "summary": "Plants make a super-rare chemical called mitraphylline that might help fight cancer. But it's so scarce, scientists couldn't make enough to study it. Now, researchers have found the two special plant enzymes that build it — like finding the missing steps in a recipe!"
     }
   ]
 }

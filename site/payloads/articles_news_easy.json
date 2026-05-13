@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-12-news-1",
-      "source": "NPR World",
-      "time_ago": "Tue, 12 May 2026 05:00:00 -0400",
-      "mined_at": "2026-05-12T18:46:36+00:00",
-      "source_published_at": "Tue, 12 May 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_7b21ea1603ee.webp",
+      "id": "2026-05-13-news-1",
+      "source": "BBC News",
+      "time_ago": "Wed, 13 May 2026 17:42:34 GMT",
+      "mined_at": "2026-05-13T18:42:01+00:00",
+      "source_published_at": "Wed, 13 May 2026 17:42:34 GMT",
+      "image_url": "/article_images/article_242239d71e17.webp",
       "category": "News",
-      "title": "Teens Chase 200 Birds in 24 Hours at the World Series of Birding!",
-      "summary": "Three teenagers sprinted through a dark New Jersey park at midnight to spot a sleeping monk parakeet. They're competing to count the most bird species in 24 hours. Last year they tied for first with 199 species."
+      "title": "King Charles Reads Out Big Plans: Trains, Steel, and Digital IDs!",
+      "summary": "Imagine a super-fast train zipping between Liverpool and Manchester! That's one idea from the King's Speech. The government also wants to take over a steel company and create digital IDs. These plans could change how people travel and work."
     },
     {
-      "id": "2026-05-12-news-2",
+      "id": "2026-05-13-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Tue, 12 May 2026 12:46:43 -0400",
-      "mined_at": "2026-05-12T18:46:36+00:00",
-      "source_published_at": "Tue, 12 May 2026 12:46:43 -0400",
-      "image_url": "/article_images/article_213957a1c667.webp",
+      "time_ago": "Wed, 13 May 2026 12:18:17 -0400",
+      "mined_at": "2026-05-13T18:42:01+00:00",
+      "source_published_at": "Wed, 13 May 2026 12:18:17 -0400",
+      "image_url": "/article_images/article_ea16e4eead48.webp",
       "category": "News",
-      "title": "Gas Prices Jump 44% as War with Iran Hits Your Wallet",
-      "summary": "Gas now costs over $4.50 a gallon on average—up 44% from last year. The war with Iran has blocked a key oil route, pushing prices higher. Inflation rose 3.8% in April, the biggest jump in three years."
+      "title": "Trump Flies to China with Elon Musk and Other Big Bosses!",
+      "summary": "President Trump landed in China with a plane full of famous CEOs. Elon Musk, Apple's Tim Cook, and Nvidia's Jensen Huang are all there. They're talking about trade, AI, and maybe selling more stuff. It's a huge business trip!"
     },
     {
-      "id": "2026-05-12-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Tue, 12 May 2026 17:24:49 +0000",
-      "mined_at": "2026-05-12T18:46:36+00:00",
-      "source_published_at": "Tue, 12 May 2026 17:24:49 +0000",
-      "image_url": "/article_images/article_09980567e45e.webp",
+      "id": "2026-05-13-news-3",
+      "source": "BBC News",
+      "time_ago": "Wed, 13 May 2026 17:16:22 GMT",
+      "mined_at": "2026-05-13T18:42:01+00:00",
+      "source_published_at": "Wed, 13 May 2026 17:16:22 GMT",
+      "image_url": "/article_images/article_367eea316c81.webp",
       "category": "News",
-      "title": "eBay Says No to GameStop's $56 Billion Buyout Offer",
-      "summary": "GameStop wanted to buy eBay for $56 billion, but eBay said the offer wasn't believable or good. eBay's stock has done well, and it doubts GameStop can pay. GameStop's CEO might try to convince eBay's shareholders directly."
+      "title": "Nigel Farage in Trouble Over a Secret £5 Million Gift!",
+      "summary": "A politician named Nigel Farage got £5 million from a rich crypto investor. Now, a watchdog is checking if he broke the rules by not telling anyone. He says it was a personal gift for his safety, but others think it's fishy."
     }
   ]
 }
