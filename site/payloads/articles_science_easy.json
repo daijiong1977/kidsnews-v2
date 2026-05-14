@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-13-science-1",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Wed, 13 May 2026 03:55:23 EDT",
-      "mined_at": "2026-05-13T18:42:01+00:00",
-      "source_published_at": "Wed, 13 May 2026 03:55:23 EDT",
-      "image_url": "/article_images/article_2f75aca2d1fe.webp",
+      "id": "2026-05-14-science-1",
+      "source": "ScienceDaily All",
+      "time_ago": "Thu, 14 May 2026 09:02:12 EDT",
+      "mined_at": "2026-05-14T18:41:10+00:00",
+      "source_published_at": "Thu, 14 May 2026 09:02:12 EDT",
+      "image_url": "/article_images/article_57d422e9e121.webp",
       "category": "Science",
-      "title": "Scientists Finally Read a Secret Quantum Code — And It Could Change Everything!",
-      "summary": "Imagine two particles so connected that measuring one instantly tells you about the other, even if they're far apart. Scientists just figured out how to read a special type of this quantum link called a W state. This could make teleportation and super-fast computers real!"
+      "title": "Whoa! Dinosaur Bones Still Have Real Dino Stuff Inside!",
+      "summary": "Scientists found real dinosaur protein in a 66-million-year-old bone. They used super-powerful tools to prove it's not just dirt or germs. This could help us learn how dinos lived and grew."
     },
     {
-      "id": "2026-05-13-science-2",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Wed, 13 May 2026 08:59:21 EDT",
-      "mined_at": "2026-05-13T18:42:01+00:00",
-      "source_published_at": "Wed, 13 May 2026 08:59:21 EDT",
-      "image_url": "/article_images/article_fd2036bb6571.webp",
+      "id": "2026-05-14-science-2",
+      "source": "Space.com",
+      "time_ago": "Thu, 14 May 2026 18:00:00 +0000",
+      "mined_at": "2026-05-14T18:41:10+00:00",
+      "source_published_at": "Thu, 14 May 2026 18:00:00 +0000",
+      "image_url": "/article_images/article_6746e6c53b0f.webp",
       "category": "Science",
-      "title": "Did a Monk Discover Halley's Comet 600 Years Before Halley?",
-      "summary": "You know Halley's Comet, right? It turns out a monk named Eilmer may have spotted it coming back in the 11th century — way before Edmond Halley! He saw it in 989 and again in 1066 and realized it was the same comet. Should we rename it?"
+      "title": "Perseverance Rover Snaps a Stunning Mars Selfie with a View!",
+      "summary": "NASA's Perseverance rover took a new selfie on Mars, showing it perched on a rocky ledge. The view includes ancient cliffs and maybe a volcanic crack. It's studying some of the oldest rocks ever seen on Mars."
     },
     {
-      "id": "2026-05-13-science-3",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Tue, 12 May 2026 21:45:40 EDT",
-      "mined_at": "2026-05-13T18:42:01+00:00",
-      "source_published_at": "Tue, 12 May 2026 21:45:40 EDT",
-      "image_url": "/article_images/article_0f77277e9042.webp",
+      "id": "2026-05-14-science-3",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Thu, 14 May 2026 01:00:37 EDT",
+      "mined_at": "2026-05-14T18:41:10+00:00",
+      "source_published_at": "Thu, 14 May 2026 01:00:37 EDT",
+      "image_url": "/article_images/article_cffa3593c582.webp",
       "category": "Science",
-      "title": "The Secret Ingredient for a Cancer-Fighting Plant Has Been Found!",
-      "summary": "Plants make a super-rare chemical called mitraphylline that might help fight cancer. But it's so scarce, scientists couldn't make enough to study it. Now, researchers have found the two special plant enzymes that build it — like finding the missing steps in a recipe!"
+      "title": "Surprise! Japanese People Come from Three Ancient Groups, Not Two",
+      "summary": "A huge DNA study of over 3,200 Japanese people found a third ancestral group linked to northeast Asia. It also showed Japan is more genetically diverse than thought, with big differences by region."
     }
   ]
 }

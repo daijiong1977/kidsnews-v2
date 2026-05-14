@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-13-news-1",
-      "source": "BBC News",
-      "time_ago": "Wed, 13 May 2026 17:42:34 GMT",
-      "mined_at": "2026-05-13T18:42:01+00:00",
-      "source_published_at": "Wed, 13 May 2026 17:42:34 GMT",
-      "image_url": "/article_images/article_242239d71e17.webp",
+      "id": "2026-05-14-news-1",
+      "source": "NPR World",
+      "time_ago": "Thu, 14 May 2026 05:00:00 -0400",
+      "mined_at": "2026-05-14T18:41:10+00:00",
+      "source_published_at": "Thu, 14 May 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_a7f101bb6858.webp",
       "category": "News",
-      "title": "King Charles Reads Out Big Plans: Trains, Steel, and Digital IDs!",
-      "summary": "Imagine a super-fast train zipping between Liverpool and Manchester! That's one idea from the King's Speech. The government also wants to take over a steel company and create digital IDs. These plans could change how people travel and work."
+      "title": "New School Food Rules: What's Changing in Your Cafeteria?",
+      "summary": "The government wants schools to serve less processed food and more protein. But it costs more money, and some schools are worried."
     },
     {
-      "id": "2026-05-13-news-2",
+      "id": "2026-05-14-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Wed, 13 May 2026 12:18:17 -0400",
-      "mined_at": "2026-05-13T18:42:01+00:00",
-      "source_published_at": "Wed, 13 May 2026 12:18:17 -0400",
-      "image_url": "/article_images/article_ea16e4eead48.webp",
+      "time_ago": "Thu, 14 May 2026 12:37:19 -0400",
+      "mined_at": "2026-05-14T18:41:10+00:00",
+      "source_published_at": "Thu, 14 May 2026 12:37:19 -0400",
+      "image_url": "/article_images/article_b4f07ad201d6.webp",
       "category": "News",
-      "title": "Trump Flies to China with Elon Musk and Other Big Bosses!",
-      "summary": "President Trump landed in China with a plane full of famous CEOs. Elon Musk, Apple's Tim Cook, and Nvidia's Jensen Huang are all there. They're talking about trade, AI, and maybe selling more stuff. It's a huge business trip!"
+      "title": "Poland's First Same-Sex Marriage Registered After Court Ruling",
+      "summary": "Warsaw registered its first same-sex marriage after EU courts said Poland must recognize marriages from other EU countries. The couple got married in Germany."
     },
     {
-      "id": "2026-05-13-news-3",
-      "source": "BBC News",
-      "time_ago": "Wed, 13 May 2026 17:16:22 GMT",
-      "mined_at": "2026-05-13T18:42:01+00:00",
-      "source_published_at": "Wed, 13 May 2026 17:16:22 GMT",
-      "image_url": "/article_images/article_367eea316c81.webp",
+      "id": "2026-05-14-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Thu, 14 May 2026 17:04:51 +0000",
+      "mined_at": "2026-05-14T18:41:10+00:00",
+      "source_published_at": "Thu, 14 May 2026 17:04:51 +0000",
+      "image_url": "/article_images/article_53f3a2ffe12c.webp",
       "category": "News",
-      "title": "Nigel Farage in Trouble Over a Secret £5 Million Gift!",
-      "summary": "A politician named Nigel Farage got £5 million from a rich crypto investor. Now, a watchdog is checking if he broke the rules by not telling anyone. He says it was a personal gift for his safety, but others think it's fishy."
+      "title": "Iraq Gets a New Prime Minister (But Only Half a Government)",
+      "summary": "Iraq's parliament approved a new prime minister, Ali al-Zaidi, but only 14 out of 23 ministers were approved. Key jobs like interior and defense are still empty."
     }
   ]
 }

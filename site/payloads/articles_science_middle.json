@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-13-science-1",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Wed, 13 May 2026 03:55:23 EDT",
-      "mined_at": "2026-05-13T18:42:01+00:00",
-      "source_published_at": "Wed, 13 May 2026 03:55:23 EDT",
-      "image_url": "/article_images/article_2f75aca2d1fe.webp",
+      "id": "2026-05-14-science-1",
+      "source": "ScienceDaily All",
+      "time_ago": "Thu, 14 May 2026 09:02:12 EDT",
+      "mined_at": "2026-05-14T18:41:10+00:00",
+      "source_published_at": "Thu, 14 May 2026 09:02:12 EDT",
+      "image_url": "/article_images/article_57d422e9e121.webp",
       "category": "Science",
-      "title": "The Quantum Puzzle Piece That Was Missing for 25 Years Has Finally Been Found",
-      "summary": "Quantum entanglement is like a secret handshake between particles. For decades, scientists could easily read one type of handshake (GHZ) but not another (W). Now, a team has built a device that reads W states in a single shot, unlocking new possibilities for teleportation and quantum computing."
+      "title": "Not Just Rock: 66-Million-Year-Old Dino Bone Yields Original Proteins",
+      "summary": "A new study detected collagen in an Edmontosaurus fossil, challenging the idea that all organics decay. Multiple tests confirmed it's not contamination. This could revolutionize how we study extinct species."
     },
     {
-      "id": "2026-05-13-science-2",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Wed, 13 May 2026 08:59:21 EDT",
-      "mined_at": "2026-05-13T18:42:01+00:00",
-      "source_published_at": "Wed, 13 May 2026 08:59:21 EDT",
-      "image_url": "/article_images/article_fd2036bb6571.webp",
+      "id": "2026-05-14-science-2",
+      "source": "Space.com",
+      "time_ago": "Thu, 14 May 2026 18:00:00 +0000",
+      "mined_at": "2026-05-14T18:41:10+00:00",
+      "source_published_at": "Thu, 14 May 2026 18:00:00 +0000",
+      "image_url": "/article_images/article_6746e6c53b0f.webp",
       "category": "Science",
-      "title": "Was Halley's Comet Actually Discovered by an 11th-Century Monk?",
-      "summary": "Edmond Halley gets credit for recognizing that the comet now bearing his name returns every 76 years. But new research suggests an English monk named Eilmer of Malmesbury beat him to it by 600 years. He saw the comet in 989 and 1066 and connected the dots."
+      "title": "Perseverance's New Selfie Reveals Mars' Oldest Rocks and a Volcanic Past",
+      "summary": "A 61-image selfie shows the rover on the rim of Jezero Crater, examining ancient terrain. Scientists spotted a possible volcanic dike. The site could hold clues about early Martian crust and habitability."
     },
     {
-      "id": "2026-05-13-science-3",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Tue, 12 May 2026 21:45:40 EDT",
-      "mined_at": "2026-05-13T18:42:01+00:00",
-      "source_published_at": "Tue, 12 May 2026 21:45:40 EDT",
-      "image_url": "/article_images/article_0f77277e9042.webp",
+      "id": "2026-05-14-science-3",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Thu, 14 May 2026 01:00:37 EDT",
+      "mined_at": "2026-05-14T18:41:10+00:00",
+      "source_published_at": "Thu, 14 May 2026 01:00:37 EDT",
+      "image_url": "/article_images/article_cffa3593c582.webp",
       "category": "Science",
-      "title": "Cracking Nature's Code: The Missing Enzymes Behind a Rare Cancer-Fighting Compound",
-      "summary": "Mitraphylline, a rare plant compound with anti-cancer potential, has been nearly impossible to produce because its biosynthetic pathway was unknown. Now, researchers have identified the two crucial enzymes that build it, opening a green chemistry route to this and similar life-saving molecules."
+      "title": "DNA Study Reveals a Third Ancestral Group Shaped Modern Japan",
+      "summary": "Whole-genome sequencing of 3,200 Japanese individuals uncovered a third ancestral component, likely Emishi-related. The findings challenge the notion of a homogenous population and refine migration history."
     }
   ]
 }

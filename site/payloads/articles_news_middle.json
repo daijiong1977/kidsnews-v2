@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-13-news-1",
-      "source": "BBC News",
-      "time_ago": "Wed, 13 May 2026 17:42:34 GMT",
-      "mined_at": "2026-05-13T18:42:01+00:00",
-      "source_published_at": "Wed, 13 May 2026 17:42:34 GMT",
-      "image_url": "/article_images/article_242239d71e17.webp",
+      "id": "2026-05-14-news-1",
+      "source": "NPR World",
+      "time_ago": "Thu, 14 May 2026 05:00:00 -0400",
+      "mined_at": "2026-05-14T18:41:10+00:00",
+      "source_published_at": "Thu, 14 May 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_a7f101bb6858.webp",
       "category": "News",
-      "title": "King's Speech Reveals £45B Rail Plan, Steel Nationalization, and Digital ID Push",
-      "summary": "King Charles III outlined the UK government's agenda, including a £45 billion rail upgrade for northern England. The plan promises a new high-speed Liverpool-Manchester link, but construction won't start until after 2030. The speech also included nationalizing British Steel and reviving digital ID."
+      "title": "The MAHA Movement Hits School Cafeterias: What It Means for Your Lunch",
+      "summary": "New federal dietary guidelines push schools to serve less processed food and more protein. But with tight budgets and rising costs, many districts are struggling to keep up."
     },
     {
-      "id": "2026-05-13-news-2",
+      "id": "2026-05-14-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Wed, 13 May 2026 12:18:17 -0400",
-      "mined_at": "2026-05-13T18:42:01+00:00",
-      "source_published_at": "Wed, 13 May 2026 12:18:17 -0400",
-      "image_url": "/article_images/article_ea16e4eead48.webp",
+      "time_ago": "Thu, 14 May 2026 12:37:19 -0400",
+      "mined_at": "2026-05-14T18:41:10+00:00",
+      "source_published_at": "Thu, 14 May 2026 12:37:19 -0400",
+      "image_url": "/article_images/article_b4f07ad201d6.webp",
       "category": "News",
-      "title": "Trump Touches Down in Beijing with Musk, Cook, and Huang for High-Stakes Talks",
-      "summary": "President Trump arrived in China with a delegation of top U.S. executives, including Elon Musk, Tim Cook, and Jensen Huang. The visit aims to address trade tensions and AI cooperation, with each CEO bringing their own corporate stakes to the table."
+      "title": "Poland Registers First Same-Sex Marriage After Landmark Court Rulings",
+      "summary": "Warsaw registered its first same-sex marriage on Thursday, following EU court rulings that Poland must recognize marriages performed abroad. The couple had wed in Germany."
     },
     {
-      "id": "2026-05-13-news-3",
-      "source": "BBC News",
-      "time_ago": "Wed, 13 May 2026 17:16:22 GMT",
-      "mined_at": "2026-05-13T18:42:01+00:00",
-      "source_published_at": "Wed, 13 May 2026 17:16:22 GMT",
-      "image_url": "/article_images/article_367eea316c81.webp",
+      "id": "2026-05-14-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Thu, 14 May 2026 17:04:51 +0000",
+      "mined_at": "2026-05-14T18:41:10+00:00",
+      "source_published_at": "Thu, 14 May 2026 17:04:51 +0000",
+      "image_url": "/article_images/article_53f3a2ffe12c.webp",
       "category": "News",
-      "title": "Farage Faces Standards Probe Over Undisclosed £5M Gift from Crypto Billionaire",
-      "summary": "Reform UK leader Nigel Farage is under investigation for failing to declare a £5 million gift from billionaire donor Christopher Harborne. Farage insists it was a personal gift for security and predates his MP status, but opponents argue it should have been registered."
+      "title": "Iraq's New PM Ali al-Zaidi Sworn In with Partial Cabinet",
+      "summary": "Iraq's parliament approved Ali al-Zaidi as prime minister on Thursday, but only 14 of 23 ministers were confirmed. Key posts like interior and defense remain unfilled amid political wrangling."
     }
   ]
 }
