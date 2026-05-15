@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-14-science-1",
-      "source": "ScienceDaily All",
-      "time_ago": "Thu, 14 May 2026 09:02:12 EDT",
-      "mined_at": "2026-05-14T18:41:10+00:00",
-      "source_published_at": "Thu, 14 May 2026 09:02:12 EDT",
-      "image_url": "/article_images/article_57d422e9e121.webp",
+      "id": "2026-05-15-science-1",
+      "source": "Science News Explores",
+      "time_ago": "Thu, 14 May 2026 10:30:00 +0000",
+      "mined_at": "2026-05-15T18:34:30+00:00",
+      "source_published_at": "Thu, 14 May 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_0c3f73277b00.webp",
       "category": "Science",
-      "title": "Whoa! Dinosaur Bones Still Have Real Dino Stuff Inside!",
-      "summary": "Scientists found real dinosaur protein in a 66-million-year-old bone. They used super-powerful tools to prove it's not just dirt or germs. This could help us learn how dinos lived and grew."
+      "title": "Sweat, Shade, and Surprising Tricks to Stay Cool This Summer",
+      "summary": "Did you know wearing more clothes can actually keep you cooler in the sun? Scientists share weird but true tips—like using potted plants as natural air conditioners—to beat the heat without blasting the AC."
     },
     {
-      "id": "2026-05-14-science-2",
-      "source": "Space.com",
-      "time_ago": "Thu, 14 May 2026 18:00:00 +0000",
-      "mined_at": "2026-05-14T18:41:10+00:00",
-      "source_published_at": "Thu, 14 May 2026 18:00:00 +0000",
-      "image_url": "/article_images/article_6746e6c53b0f.webp",
+      "id": "2026-05-15-science-2",
+      "source": "NASA News",
+      "time_ago": "Fri, 15 May 2026 04:00:00 +0000",
+      "mined_at": "2026-05-15T18:34:30+00:00",
+      "source_published_at": "Fri, 15 May 2026 04:00:00 +0000",
+      "image_url": "/article_images/article_e236e33b8829.webp",
       "category": "Science",
-      "title": "Perseverance Rover Snaps a Stunning Mars Selfie with a View!",
-      "summary": "NASA's Perseverance rover took a new selfie on Mars, showing it perched on a rocky ledge. The view includes ancient cliffs and maybe a volcanic crack. It's studying some of the oldest rocks ever seen on Mars."
+      "title": "Earth at Night: A Flickering Light Show Seen from Space",
+      "summary": "Imagine a map where cities glow gold if they got brighter and purple if they dimmed. New satellite images reveal how Earth's nighttime lights changed over eight years—some places lit up, others went dark, and the reasons are fascinating."
     },
     {
-      "id": "2026-05-14-science-3",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Thu, 14 May 2026 01:00:37 EDT",
-      "mined_at": "2026-05-14T18:41:10+00:00",
-      "source_published_at": "Thu, 14 May 2026 01:00:37 EDT",
-      "image_url": "/article_images/article_cffa3593c582.webp",
+      "id": "2026-05-15-science-3",
+      "source": "NPR Health",
+      "time_ago": "Wed, 06 May 2026 06:00:00 -0400",
+      "mined_at": "2026-05-15T18:34:30+00:00",
+      "source_published_at": "Wed, 06 May 2026 06:00:00 -0400",
+      "image_url": "/article_images/article_09c9d9628bd2.webp",
       "category": "Science",
-      "title": "Surprise! Japanese People Come from Three Ancient Groups, Not Two",
-      "summary": "A huge DNA study of over 3,200 Japanese people found a third ancestral group linked to northeast Asia. It also showed Japan is more genetically diverse than thought, with big differences by region."
+      "title": "A New $50 Deal for Weight Loss Meds—But There's a Catch",
+      "summary": "Starting July, some people on Medicare can get popular weight loss drugs like Wegovy for just $50 a month. But the program only lasts until 2027, and the rules are tricky. Here's what you need to know."
     }
   ]
 }

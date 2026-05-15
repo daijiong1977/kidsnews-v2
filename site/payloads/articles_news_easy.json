@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-14-news-1",
-      "source": "NPR World",
-      "time_ago": "Thu, 14 May 2026 05:00:00 -0400",
-      "mined_at": "2026-05-14T18:41:10+00:00",
-      "source_published_at": "Thu, 14 May 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_a7f101bb6858.webp",
+      "id": "2026-05-15-news-1",
+      "source": "BBC News",
+      "time_ago": "Fri, 15 May 2026 17:00:34 GMT",
+      "mined_at": "2026-05-15T18:34:30+00:00",
+      "source_published_at": "Fri, 15 May 2026 17:00:34 GMT",
+      "image_url": "/article_images/article_465c068366e0.webp",
       "category": "News",
-      "title": "New School Food Rules: What's Changing in Your Cafeteria?",
-      "summary": "The government wants schools to serve less processed food and more protein. But it costs more money, and some schools are worried."
+      "title": "A Big Election Battle That Could Change Who Runs the Country!",
+      "summary": "Imagine a small town suddenly deciding the next prime minister! In Makerfield, England, a special election is coming because the current MP stepped aside for Mayor Andy Burnham. But a party called Reform UK is fighting hard to win too."
     },
     {
-      "id": "2026-05-14-news-2",
+      "id": "2026-05-15-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Thu, 14 May 2026 12:37:19 -0400",
-      "mined_at": "2026-05-14T18:41:10+00:00",
-      "source_published_at": "Thu, 14 May 2026 12:37:19 -0400",
-      "image_url": "/article_images/article_b4f07ad201d6.webp",
+      "time_ago": "Fri, 15 May 2026 12:46:15 -0400",
+      "mined_at": "2026-05-15T18:34:30+00:00",
+      "source_published_at": "Fri, 15 May 2026 12:46:15 -0400",
+      "image_url": "/article_images/article_1e24780eee9c.webp",
       "category": "News",
-      "title": "Poland's First Same-Sex Marriage Registered After Court Ruling",
-      "summary": "Warsaw registered its first same-sex marriage after EU courts said Poland must recognize marriages from other EU countries. The couple got married in Germany."
+      "title": "A Huge Train Strike Could Shut Down New York's Commuter Line!",
+      "summary": "The Long Island Rail Road, which carries 250,000 people every weekday, might shut down because of a strike. Workers and the MTA are arguing over pay raises. If they don't agree by Saturday, trains could stop, and riders might have to use free shuttle buses."
     },
     {
-      "id": "2026-05-14-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Thu, 14 May 2026 17:04:51 +0000",
-      "mined_at": "2026-05-14T18:41:10+00:00",
-      "source_published_at": "Thu, 14 May 2026 17:04:51 +0000",
-      "image_url": "/article_images/article_53f3a2ffe12c.webp",
+      "id": "2026-05-15-news-3",
+      "source": "NPR World",
+      "time_ago": "Fri, 15 May 2026 05:00:00 -0400",
+      "mined_at": "2026-05-15T18:34:30+00:00",
+      "source_published_at": "Fri, 15 May 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_47053d501eb9.webp",
       "category": "News",
-      "title": "Iraq Gets a New Prime Minister (But Only Half a Government)",
-      "summary": "Iraq's parliament approved a new prime minister, Ali al-Zaidi, but only 14 out of 23 ministers were approved. Key jobs like interior and defense are still empty."
+      "title": "Meet the Young Homeowners Beating the Odds in a Crazy Expensive Market!",
+      "summary": "Francisco Vazquez, 27, bought a three-bedroom home in Milwaukee for $220,000 by saving $72,000 in just over two years. He's part of a small but growing group of Gen Z buyers, who are more likely to buy alone and without parental help than millennials were."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-14-science-1",
-      "source": "ScienceDaily All",
-      "time_ago": "Thu, 14 May 2026 09:02:12 EDT",
-      "mined_at": "2026-05-14T18:41:10+00:00",
-      "source_published_at": "Thu, 14 May 2026 09:02:12 EDT",
-      "image_url": "/article_images/article_57d422e9e121.webp",
+      "id": "2026-05-15-science-1",
+      "source": "Science News Explores",
+      "time_ago": "Thu, 14 May 2026 10:30:00 +0000",
+      "mined_at": "2026-05-15T18:34:30+00:00",
+      "source_published_at": "Thu, 14 May 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_0c3f73277b00.webp",
       "category": "Science",
-      "title": "Not Just Rock: 66-Million-Year-Old Dino Bone Yields Original Proteins",
-      "summary": "A new study detected collagen in an Edmontosaurus fossil, challenging the idea that all organics decay. Multiple tests confirmed it's not contamination. This could revolutionize how we study extinct species."
+      "title": "More Layers, More Plants: The Counterintuitive Science of Staying Cool",
+      "summary": "It sounds backwards, but extra clothing and potted plants can be your best defense against extreme heat. Researchers explain how natural fibers and balcony greenery can drop temperatures by several degrees—no AC required."
     },
     {
-      "id": "2026-05-14-science-2",
-      "source": "Space.com",
-      "time_ago": "Thu, 14 May 2026 18:00:00 +0000",
-      "mined_at": "2026-05-14T18:41:10+00:00",
-      "source_published_at": "Thu, 14 May 2026 18:00:00 +0000",
-      "image_url": "/article_images/article_6746e6c53b0f.webp",
+      "id": "2026-05-15-science-2",
+      "source": "NASA News",
+      "time_ago": "Fri, 15 May 2026 04:00:00 +0000",
+      "mined_at": "2026-05-15T18:34:30+00:00",
+      "source_published_at": "Fri, 15 May 2026 04:00:00 +0000",
+      "image_url": "/article_images/article_e236e33b8829.webp",
       "category": "Science",
-      "title": "Perseverance's New Selfie Reveals Mars' Oldest Rocks and a Volcanic Past",
-      "summary": "A 61-image selfie shows the rover on the rim of Jezero Crater, examining ancient terrain. Scientists spotted a possible volcanic dike. The site could hold clues about early Martian crust and habitability."
+      "title": "Not Just Brighter: NASA Maps Reveal a World of Dimming and Glowing Nights",
+      "summary": "A new analysis of NASA's Black Marble data shows global nighttime radiance increased 34% from 2014 to 2022, but that surge masks widespread dimming. From LED retrofits to war-driven blackouts, the maps tell a complex story of human activity."
     },
     {
-      "id": "2026-05-14-science-3",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Thu, 14 May 2026 01:00:37 EDT",
-      "mined_at": "2026-05-14T18:41:10+00:00",
-      "source_published_at": "Thu, 14 May 2026 01:00:37 EDT",
-      "image_url": "/article_images/article_cffa3593c582.webp",
+      "id": "2026-05-15-science-3",
+      "source": "NPR Health",
+      "time_ago": "Wed, 06 May 2026 06:00:00 -0400",
+      "mined_at": "2026-05-15T18:34:30+00:00",
+      "source_published_at": "Wed, 06 May 2026 06:00:00 -0400",
+      "image_url": "/article_images/article_09c9d9628bd2.webp",
       "category": "Science",
-      "title": "DNA Study Reveals a Third Ancestral Group Shaped Modern Japan",
-      "summary": "Whole-genome sequencing of 3,200 Japanese individuals uncovered a third ancestral component, likely Emishi-related. The findings challenge the notion of a homogenous population and refine migration history."
+      "title": "Medicare's $50 Weight Loss Drug Pilot: Affordable Access, but for How Long?",
+      "summary": "The Medicare GLP-1 Bridge program launches July 2026, offering popular obesity medications for a $50 copay. But the 18-month pilot excludes low-income subsidies, doesn't count toward out-of-pocket caps, and leaves long-term coverage uncertain."
     }
   ]
 }

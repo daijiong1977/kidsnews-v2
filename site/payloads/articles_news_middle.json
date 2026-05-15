@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-14-news-1",
-      "source": "NPR World",
-      "time_ago": "Thu, 14 May 2026 05:00:00 -0400",
-      "mined_at": "2026-05-14T18:41:10+00:00",
-      "source_published_at": "Thu, 14 May 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_a7f101bb6858.webp",
+      "id": "2026-05-15-news-1",
+      "source": "BBC News",
+      "time_ago": "Fri, 15 May 2026 17:00:34 GMT",
+      "mined_at": "2026-05-15T18:34:30+00:00",
+      "source_published_at": "Fri, 15 May 2026 17:00:34 GMT",
+      "image_url": "/article_images/article_465c068366e0.webp",
       "category": "News",
-      "title": "The MAHA Movement Hits School Cafeterias: What It Means for Your Lunch",
-      "summary": "New federal dietary guidelines push schools to serve less processed food and more protein. But with tight budgets and rising costs, many districts are struggling to keep up."
+      "title": "A Small English Town Could Decide the Next Prime Minister—Here's How",
+      "summary": "Makerfield, a constituency of 76,000 voters near Wigan, is suddenly the stage for a high-stakes by-election. Greater Manchester Mayor Andy Burnham is running for Parliament, hoping to challenge PM Keir Starmer. But Reform UK, led by Nigel Farage, is mounting an aggressive campaign."
     },
     {
-      "id": "2026-05-14-news-2",
+      "id": "2026-05-15-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Thu, 14 May 2026 12:37:19 -0400",
-      "mined_at": "2026-05-14T18:41:10+00:00",
-      "source_published_at": "Thu, 14 May 2026 12:37:19 -0400",
-      "image_url": "/article_images/article_b4f07ad201d6.webp",
+      "time_ago": "Fri, 15 May 2026 12:46:15 -0400",
+      "mined_at": "2026-05-15T18:34:30+00:00",
+      "source_published_at": "Fri, 15 May 2026 12:46:15 -0400",
+      "image_url": "/article_images/article_1e24780eee9c.webp",
       "category": "News",
-      "title": "Poland Registers First Same-Sex Marriage After Landmark Court Rulings",
-      "summary": "Warsaw registered its first same-sex marriage on Thursday, following EU court rulings that Poland must recognize marriages performed abroad. The couple had wed in Germany."
+      "title": "250,000 Daily Riders Face Chaos as LIRR Strike Deadline Looms",
+      "summary": "North America's busiest commuter railroad, the Long Island Rail Road, could shut down at 12:01 a.m. Saturday if unions and the MTA fail to agree on a new contract. Five unions representing 3,500 workers are seeking higher raises. The MTA has offered a 9.5% increase over three years plus a potential fourth-year lump sum."
     },
     {
-      "id": "2026-05-14-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Thu, 14 May 2026 17:04:51 +0000",
-      "mined_at": "2026-05-14T18:41:10+00:00",
-      "source_published_at": "Thu, 14 May 2026 17:04:51 +0000",
-      "image_url": "/article_images/article_53f3a2ffe12c.webp",
+      "id": "2026-05-15-news-3",
+      "source": "NPR World",
+      "time_ago": "Fri, 15 May 2026 05:00:00 -0400",
+      "mined_at": "2026-05-15T18:34:30+00:00",
+      "source_published_at": "Fri, 15 May 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_47053d501eb9.webp",
       "category": "News",
-      "title": "Iraq's New PM Ali al-Zaidi Sworn In with Partial Cabinet",
-      "summary": "Iraq's parliament approved Ali al-Zaidi as prime minister on Thursday, but only 14 of 23 ministers were confirmed. Key posts like interior and defense remain unfilled amid political wrangling."
+      "title": "Gen Z Defies the Odds: How Some 20-Somethings Are Buying Homes in an Unaffordable Market",
+      "summary": "At 27, Francisco Vazquez bought a $220,000 home in Milwaukee after saving $72,000 in two years. He's part of a growing Gen Z homeownership trend, with 4% of buyers now from that generation. They're more likely to be single, female, and financially independent than millennials were."
     }
   ]
 }
