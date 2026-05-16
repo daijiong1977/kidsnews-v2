@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-15-news-1",
-      "source": "BBC News",
-      "time_ago": "Fri, 15 May 2026 17:00:34 GMT",
-      "mined_at": "2026-05-15T18:34:30+00:00",
-      "source_published_at": "Fri, 15 May 2026 17:00:34 GMT",
-      "image_url": "/article_images/article_465c068366e0.webp",
+      "id": "2026-05-16-news-1",
+      "source": "Al Jazeera",
+      "time_ago": "Sat, 16 May 2026 16:35:12 +0000",
+      "mined_at": "2026-05-16T18:24:04+00:00",
+      "source_published_at": "Sat, 16 May 2026 16:35:12 +0000",
+      "image_url": "/article_images/article_d83bc0f6bf17.webp",
       "category": "News",
-      "title": "A Big Election Battle That Could Change Who Runs the Country!",
-      "summary": "Imagine a small town suddenly deciding the next prime minister! In Makerfield, England, a special election is coming because the current MP stepped aside for Mayor Andy Burnham. But a party called Reform UK is fighting hard to win too."
+      "title": "A Flick of Magic Wins the FA Cup!",
+      "summary": "Antoine Semenyo scored an amazing back-flick goal to give Manchester City a 1-0 win over Chelsea in the FA Cup final. City now has two trophies this season and still hopes for a Premier League miracle."
     },
     {
-      "id": "2026-05-15-news-2",
+      "id": "2026-05-16-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Fri, 15 May 2026 12:46:15 -0400",
-      "mined_at": "2026-05-15T18:34:30+00:00",
-      "source_published_at": "Fri, 15 May 2026 12:46:15 -0400",
-      "image_url": "/article_images/article_1e24780eee9c.webp",
+      "time_ago": "Sat, 16 May 2026 11:26:42 -0400",
+      "mined_at": "2026-05-16T18:24:04+00:00",
+      "source_published_at": "Sat, 16 May 2026 11:26:42 -0400",
+      "image_url": "/article_images/article_600776f6a3ac.webp",
       "category": "News",
-      "title": "A Huge Train Strike Could Shut Down New York's Commuter Line!",
-      "summary": "The Long Island Rail Road, which carries 250,000 people every weekday, might shut down because of a strike. Workers and the MTA are arguing over pay raises. If they don't agree by Saturday, trains could stop, and riders might have to use free shuttle buses."
+      "title": "No Trains! New York Commuter Strike Shuts Down the LIRR",
+      "summary": "Union workers for the Long Island Rail Road went on strike Saturday, shutting down the biggest commuter rail in North America. About 250,000 weekday riders now have to find other ways to get to New York City."
     },
     {
-      "id": "2026-05-15-news-3",
+      "id": "2026-05-16-news-3",
       "source": "NPR World",
-      "time_ago": "Fri, 15 May 2026 05:00:00 -0400",
-      "mined_at": "2026-05-15T18:34:30+00:00",
-      "source_published_at": "Fri, 15 May 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_47053d501eb9.webp",
+      "time_ago": "Sat, 16 May 2026 05:00:00 -0400",
+      "mined_at": "2026-05-16T18:24:04+00:00",
+      "source_published_at": "Sat, 16 May 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_52fb0e210897.webp",
       "category": "News",
-      "title": "Meet the Young Homeowners Beating the Odds in a Crazy Expensive Market!",
-      "summary": "Francisco Vazquez, 27, bought a three-bedroom home in Milwaukee for $220,000 by saving $72,000 in just over two years. He's part of a small but growing group of Gen Z buyers, who are more likely to buy alone and without parental help than millennials were."
+      "title": "Colleges Want Rural Kids — But Will They Go?",
+      "summary": "Top colleges like Amherst are trying harder to recruit students from small towns. A program called STARS has helped 90,000 rural students apply, but many still worry about fitting in, cost, and leaving home."
     }
   ]
 }
