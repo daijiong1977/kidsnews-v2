@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-16-news-1",
-      "source": "Al Jazeera",
-      "time_ago": "Sat, 16 May 2026 16:35:12 +0000",
-      "mined_at": "2026-05-16T18:24:04+00:00",
-      "source_published_at": "Sat, 16 May 2026 16:35:12 +0000",
-      "image_url": "/article_images/article_d83bc0f6bf17.webp",
-      "category": "News",
-      "title": "Semenyo's Audacious Back-Flick Seals FA Cup Glory for Manchester City",
-      "summary": "Antoine Semenyo's stunning back-flick goal gave Manchester City a 1-0 win over Chelsea in the FA Cup final at Wembley. The victory keeps City's treble hopes alive, though they trail Arsenal in the Premier League title race."
-    },
-    {
-      "id": "2026-05-16-news-2",
+      "id": "2026-05-17-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Sat, 16 May 2026 11:26:42 -0400",
-      "mined_at": "2026-05-16T18:24:04+00:00",
-      "source_published_at": "Sat, 16 May 2026 11:26:42 -0400",
-      "image_url": "/article_images/article_600776f6a3ac.webp",
+      "time_ago": "Sun, 17 May 2026 11:49:02 -0400",
+      "mined_at": "2026-05-17T18:19:04+00:00",
+      "source_published_at": "Sun, 17 May 2026 11:49:02 -0400",
+      "image_url": "/article_images/article_70c3a874d78a.webp",
       "category": "News",
-      "title": "LIRR Strike Paralyzes Commute for 250,000 as Unions and MTA Deadlock",
-      "summary": "A strike by unionized workers shut down the Long Island Rail Road on Saturday, affecting 250,000 daily riders. Negotiations over pay and health premiums have stalled, with no new talks scheduled."
+      "title": "AI Is Becoming a Modern Oracle for Tarot Readers—But Should It Be?",
+      "summary": "A new study reveals tarot practitioners are increasingly using AI to interpret cards, seeking clarity but risking emotional dependence. Researchers interviewed 12 readers who use AI, finding they value its speed but worry it ignores personal context. Nearly 1 in 3 Americans now use tarot or astrology yearly."
     },
     {
-      "id": "2026-05-16-news-3",
+      "id": "2026-05-17-news-2",
       "source": "NPR World",
-      "time_ago": "Sat, 16 May 2026 05:00:00 -0400",
-      "mined_at": "2026-05-16T18:24:04+00:00",
-      "source_published_at": "Sat, 16 May 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_52fb0e210897.webp",
+      "time_ago": "Sun, 17 May 2026 12:21:03 -0400",
+      "mined_at": "2026-05-17T18:19:04+00:00",
+      "source_published_at": "Sun, 17 May 2026 12:21:03 -0400",
+      "image_url": "/article_images/article_7c57546a34fe.webp",
       "category": "News",
-      "title": "After a Surge in Rural Applicants, Elite Colleges Face an Enrollment Challenge",
-      "summary": "The STARS College Network has boosted rural applications to selective schools by 15%, but getting those students to enroll and graduate remains tough. Cultural and financial barriers, plus distrust of higher education, are key obstacles."
+      "title": "From Atlanta to Montgomery: A New Generation Rides for Voting Rights",
+      "summary": "Activists retraced the historic 1965 march route to protest a Supreme Court ruling that struck down a majority-Black district in Louisiana, prompting states like Alabama to redraw maps. Organized by Fair Fight Action, the rally drew diverse attendees, from a 62-year-old grandfather to an 18-year-old organizer, all demanding restored voting protections."
+    },
+    {
+      "id": "2026-05-17-news-3",
+      "source": "BBC News",
+      "time_ago": "Sat, 16 May 2026 23:26:41 GMT",
+      "mined_at": "2026-05-17T18:19:04+00:00",
+      "source_published_at": "Sat, 16 May 2026 23:26:41 GMT",
+      "image_url": "/article_images/article_d76822f7e1c5.webp",
+      "category": "News",
+      "title": "Five PMs in Seven Years: Is the UK Becoming Ungovernable?",
+      "summary": "The UK's rapid turnover of prime ministers—five in seven years—raises questions about governability. Experts blame a mix of global crises, inexperienced leaders, and social media-driven short-termism. While PM Keir Starmer insists the country is governable, he admits frustration with bureaucratic hurdles."
     }
   ]
 }

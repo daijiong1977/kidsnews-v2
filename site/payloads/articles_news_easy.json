@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-16-news-1",
-      "source": "Al Jazeera",
-      "time_ago": "Sat, 16 May 2026 16:35:12 +0000",
-      "mined_at": "2026-05-16T18:24:04+00:00",
-      "source_published_at": "Sat, 16 May 2026 16:35:12 +0000",
-      "image_url": "/article_images/article_d83bc0f6bf17.webp",
-      "category": "News",
-      "title": "A Flick of Magic Wins the FA Cup!",
-      "summary": "Antoine Semenyo scored an amazing back-flick goal to give Manchester City a 1-0 win over Chelsea in the FA Cup final. City now has two trophies this season and still hopes for a Premier League miracle."
-    },
-    {
-      "id": "2026-05-16-news-2",
+      "id": "2026-05-17-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Sat, 16 May 2026 11:26:42 -0400",
-      "mined_at": "2026-05-16T18:24:04+00:00",
-      "source_published_at": "Sat, 16 May 2026 11:26:42 -0400",
-      "image_url": "/article_images/article_600776f6a3ac.webp",
+      "time_ago": "Sun, 17 May 2026 11:49:02 -0400",
+      "mined_at": "2026-05-17T18:19:04+00:00",
+      "source_published_at": "Sun, 17 May 2026 11:49:02 -0400",
+      "image_url": "/article_images/article_70c3a874d78a.webp",
       "category": "News",
-      "title": "No Trains! New York Commuter Strike Shuts Down the LIRR",
-      "summary": "Union workers for the Long Island Rail Road went on strike Saturday, shutting down the biggest commuter rail in North America. About 250,000 weekday riders now have to find other ways to get to New York City."
+      "title": "Why Are Tarot Readers Asking Robots for Advice?",
+      "summary": "More people are using AI chatbots to help read tarot cards. A new study talked to 12 tarot readers who use AI, even though the robot doesn't know their life story. Some say it helps them skip the hard part of figuring out what the cards mean."
     },
     {
-      "id": "2026-05-16-news-3",
+      "id": "2026-05-17-news-2",
       "source": "NPR World",
-      "time_ago": "Sat, 16 May 2026 05:00:00 -0400",
-      "mined_at": "2026-05-16T18:24:04+00:00",
-      "source_published_at": "Sat, 16 May 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_52fb0e210897.webp",
+      "time_ago": "Sun, 17 May 2026 12:21:03 -0400",
+      "mined_at": "2026-05-17T18:19:04+00:00",
+      "source_published_at": "Sun, 17 May 2026 12:21:03 -0400",
+      "image_url": "/article_images/article_7c57546a34fe.webp",
       "category": "News",
-      "title": "Colleges Want Rural Kids — But Will They Go?",
-      "summary": "Top colleges like Amherst are trying harder to recruit students from small towns. A program called STARS has helped 90,000 rural students apply, but many still worry about fitting in, cost, and leaving home."
+      "title": "A Bus Ride to Fight for Voting Rights, Just Like 60 Years Ago",
+      "summary": "People rode buses from Atlanta to Montgomery, Alabama, to protest a new Supreme Court ruling that makes it harder for Black voters to elect their chosen leaders. The rally was led by Fair Fight Action, and one rider, 62-year-old Keith Odom, said he came for his grandchildren's future."
+    },
+    {
+      "id": "2026-05-17-news-3",
+      "source": "BBC News",
+      "time_ago": "Sat, 16 May 2026 23:26:41 GMT",
+      "mined_at": "2026-05-17T18:19:04+00:00",
+      "source_published_at": "Sat, 16 May 2026 23:26:41 GMT",
+      "image_url": "/article_images/article_d76822f7e1c5.webp",
+      "category": "News",
+      "title": "Why Does the UK Keep Changing Prime Ministers?",
+      "summary": "The UK has had five prime ministers in seven years. Experts say it's because of big problems like Brexit and COVID-19, but also because leaders lack skills and social media makes people impatient. Prime Minister Keir Starmer says the country is not ungovernable."
     }
   ]
 }
