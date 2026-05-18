@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-17-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Sun, 17 May 2026 11:49:02 -0400",
-      "mined_at": "2026-05-17T18:19:04+00:00",
-      "source_published_at": "Sun, 17 May 2026 11:49:02 -0400",
-      "image_url": "/article_images/article_70c3a874d78a.webp",
-      "category": "News",
-      "title": "Why Are Tarot Readers Asking Robots for Advice?",
-      "summary": "More people are using AI chatbots to help read tarot cards. A new study talked to 12 tarot readers who use AI, even though the robot doesn't know their life story. Some say it helps them skip the hard part of figuring out what the cards mean."
-    },
-    {
-      "id": "2026-05-17-news-2",
-      "source": "NPR World",
-      "time_ago": "Sun, 17 May 2026 12:21:03 -0400",
-      "mined_at": "2026-05-17T18:19:04+00:00",
-      "source_published_at": "Sun, 17 May 2026 12:21:03 -0400",
-      "image_url": "/article_images/article_7c57546a34fe.webp",
-      "category": "News",
-      "title": "A Bus Ride to Fight for Voting Rights, Just Like 60 Years Ago",
-      "summary": "People rode buses from Atlanta to Montgomery, Alabama, to protest a new Supreme Court ruling that makes it harder for Black voters to elect their chosen leaders. The rally was led by Fair Fight Action, and one rider, 62-year-old Keith Odom, said he came for his grandchildren's future."
-    },
-    {
-      "id": "2026-05-17-news-3",
+      "id": "2026-05-18-news-1",
       "source": "BBC News",
-      "time_ago": "Sat, 16 May 2026 23:26:41 GMT",
-      "mined_at": "2026-05-17T18:19:04+00:00",
-      "source_published_at": "Sat, 16 May 2026 23:26:41 GMT",
-      "image_url": "/article_images/article_d76822f7e1c5.webp",
+      "time_ago": "Mon, 18 May 2026 18:22:03 GMT",
+      "mined_at": "2026-05-18T19:41:42+00:00",
+      "source_published_at": "Mon, 18 May 2026 18:22:03 GMT",
+      "image_url": "/article_images/article_e66c5ad6cf50.webp",
       "category": "News",
-      "title": "Why Does the UK Keep Changing Prime Ministers?",
-      "summary": "The UK has had five prime ministers in seven years. Experts say it's because of big problems like Brexit and COVID-19, but also because leaders lack skills and social media makes people impatient. Prime Minister Keir Starmer says the country is not ungovernable."
+      "title": "Jury Says No to Elon Musk's Lawsuit Against OpenAI",
+      "summary": "A California jury quickly tossed out Elon Musk's lawsuit against OpenAI. Musk said the company broke a promise to stay a charity, but the jury didn't agree. The trial lasted three weeks."
+    },
+    {
+      "id": "2026-05-18-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Mon, 18 May 2026 14:41:38 -0400",
+      "mined_at": "2026-05-18T19:41:42+00:00",
+      "source_published_at": "Mon, 18 May 2026 14:41:38 -0400",
+      "image_url": "/article_images/article_4592c656b1cd.webp",
+      "category": "News",
+      "title": "Two Giant Power Companies Want to Join Forces",
+      "summary": "NextEra Energy wants to buy Dominion Energy for $67 billion. Together, they would serve 10 million homes in four states. The deal is driven by huge energy demand from AI data centers."
+    },
+    {
+      "id": "2026-05-18-news-3",
+      "source": "NPR World",
+      "time_ago": "Mon, 18 May 2026 05:00:00 -0400",
+      "mined_at": "2026-05-18T19:41:42+00:00",
+      "source_published_at": "Mon, 18 May 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_5edb1f7c7021.webp",
+      "category": "News",
+      "title": "A Giant Tortoise Took a Walk and a Whole Neighborhood Helped",
+      "summary": "A huge African tortoise named Rex escaped and strolled down a street in Scottsdale, Arizona. Neighbors jumped into action to find his owner. It shows how tough it is to care for these giant pets."
     }
   ]
 }

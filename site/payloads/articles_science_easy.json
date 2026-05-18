@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-17-science-1",
+      "id": "2026-05-18-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Fri, 15 May 2026 04:13:15 EDT",
+      "mined_at": "2026-05-18T19:41:42+00:00",
+      "source_published_at": "Fri, 15 May 2026 04:13:15 EDT",
+      "image_url": "/article_images/article_3666a6be2ec2.webp",
+      "category": "Science",
+      "title": "NASA's New Brainy Chip Could Let Spacecraft Think on Their Own!",
+      "summary": "Imagine a spacecraft that can make its own decisions millions of miles from Earth. NASA built a tiny chip 500 times smarter than today's space computers to do just that. It survived crazy tests at JPL."
+    },
+    {
+      "id": "2026-05-18-science-2",
       "source": "ScienceDaily All",
-      "time_ago": "Sat, 16 May 2026 09:15:10 EDT",
-      "mined_at": "2026-05-17T18:19:04+00:00",
-      "source_published_at": "Sat, 16 May 2026 09:15:10 EDT",
-      "image_url": "/article_images/article_a2b487405e13.webp",
+      "time_ago": "Mon, 18 May 2026 06:21:09 EDT",
+      "mined_at": "2026-05-18T19:41:42+00:00",
+      "source_published_at": "Mon, 18 May 2026 06:21:09 EDT",
+      "image_url": "/article_images/article_4a1720988feb.webp",
       "category": "Science",
-      "title": "Scientists Snap First Clear Photo of the Universe's Invisible Highways",
-      "summary": "Imagine a giant spider web made of invisible dark matter connecting galaxies. For the first time, scientists took a sharp picture of one glowing strand, a 3-million-light-year-long filament from 12 billion years ago. This cosmic highway feeds gas to baby galaxies."
+      "title": "Could Time Flow Faster AND Slower at the Same Time? This Clock Might Prove It!",
+      "summary": "Scientists think a clock could tick fast and slow at once, like Schrödinger's cat being young and old. A new study says super-precise atomic clocks might finally show this quantum weirdness in real life."
     },
     {
-      "id": "2026-05-17-science-2",
+      "id": "2026-05-18-science-3",
       "source": "Space.com",
-      "time_ago": "Sun, 17 May 2026 15:00:00 +0000",
-      "mined_at": "2026-05-17T18:19:04+00:00",
-      "source_published_at": "Sun, 17 May 2026 15:00:00 +0000",
-      "image_url": "/article_images/article_cbd1118ede55.webp",
+      "time_ago": "Mon, 18 May 2026 14:56:45 +0000",
+      "mined_at": "2026-05-18T19:41:42+00:00",
+      "source_published_at": "Mon, 18 May 2026 14:56:45 +0000",
+      "image_url": "/article_images/article_e5b1914e1a1a.webp",
       "category": "Science",
-      "title": "NASA Spins a Mars Helicopter Blade Faster Than the Speed of Sound!",
-      "summary": "NASA engineers spun a new Mars helicopter rotor so fast its tips broke the sound barrier—Mach 1.08! They did 137 tests in a special chamber that mimics the thin Martian air. This could let future Mars copters carry heavier science gear and explore places rovers can't reach."
-    },
-    {
-      "id": "2026-05-17-science-3",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Sat, 16 May 2026 07:20:39 EDT",
-      "mined_at": "2026-05-17T18:19:04+00:00",
-      "source_published_at": "Sat, 16 May 2026 07:20:39 EDT",
-      "image_url": "/article_images/article_efa989631abb.webp",
-      "category": "Science",
-      "title": "Fossil Teeth Reveal a Messy Family Reunion in Human Evolution",
-      "summary": "Imagine finding out your ancient cousins lived right next door! In Ethiopia, scientists dug up 13 fossil teeth showing that two different human-like species—Australopithecus and early Homo—shared the same neighborhood 2.6 to 2.8 million years ago. Evolution is more like a bushy tree than a straight line."
+      "title": "SpaceX's Biggest Starship Ever Is About to Blast Off!",
+      "summary": "SpaceX's giant Starship V3 rocket is set to launch on May 20 from Texas. It's the first flight in 7 months and will try to splash down in the Indian Ocean while dropping dummy satellites. NASA needs it for Moon landings."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-17-science-1",
+      "id": "2026-05-18-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Fri, 15 May 2026 04:13:15 EDT",
+      "mined_at": "2026-05-18T19:41:42+00:00",
+      "source_published_at": "Fri, 15 May 2026 04:13:15 EDT",
+      "image_url": "/article_images/article_3666a6be2ec2.webp",
+      "category": "Science",
+      "title": "500x Faster: NASA's New AI Chip Could Give Spacecraft a Mind of Their Own",
+      "summary": "Spacecraft today rely on sluggish, radiation-proof computers from the 90s. NASA's new chip is 500 times more powerful, survived brutal testing at JPL, and could let deep-space probes make real-time decisions using AI. It's a game-changer for Mars missions."
+    },
+    {
+      "id": "2026-05-18-science-2",
       "source": "ScienceDaily All",
-      "time_ago": "Sat, 16 May 2026 09:15:10 EDT",
-      "mined_at": "2026-05-17T18:19:04+00:00",
-      "source_published_at": "Sat, 16 May 2026 09:15:10 EDT",
-      "image_url": "/article_images/article_a2b487405e13.webp",
+      "time_ago": "Mon, 18 May 2026 06:21:09 EDT",
+      "mined_at": "2026-05-18T19:41:42+00:00",
+      "source_published_at": "Mon, 18 May 2026 06:21:09 EDT",
+      "image_url": "/article_images/article_4a1720988feb.webp",
       "category": "Science",
-      "title": "First Direct Image of a Cosmic Web Filament Confirms How Galaxies Are Fed",
-      "summary": "After hundreds of hours of telescope time, astronomers captured the sharpest image ever of a cosmic filament—a 3-million-light-year-long strand of gas connecting two ancient galaxies. This direct view confirms that these dark-matter highways channel fuel for star formation across the universe."
+      "title": "Schrödinger's Clock: Scientists May Soon Watch Time Flow at Two Speeds at Once",
+      "summary": "A new study in Physical Review Letters proposes using ultracold ion clocks to observe time in a quantum superposition — ticking faster and slower simultaneously. It's the twin paradox meets Schrödinger's cat, and the tech is finally ready."
     },
     {
-      "id": "2026-05-17-science-2",
+      "id": "2026-05-18-science-3",
       "source": "Space.com",
-      "time_ago": "Sun, 17 May 2026 15:00:00 +0000",
-      "mined_at": "2026-05-17T18:19:04+00:00",
-      "source_published_at": "Sun, 17 May 2026 15:00:00 +0000",
-      "image_url": "/article_images/article_cbd1118ede55.webp",
+      "time_ago": "Mon, 18 May 2026 14:56:45 +0000",
+      "mined_at": "2026-05-18T19:41:42+00:00",
+      "source_published_at": "Mon, 18 May 2026 14:56:45 +0000",
+      "image_url": "/article_images/article_e5b1914e1a1a.webp",
       "category": "Science",
-      "title": "Watch NASA's Next-Gen Mars Rotor Break the Sound Barrier in Simulated Tests",
-      "summary": "In a series of 137 tests, NASA engineers spun experimental Mars helicopter rotors to supersonic speeds—up to Mach 1.08—inside a chamber that mimics the Red Planet's thin carbon-dioxide atmosphere. The data could boost future rotorcraft lift by 30%, enabling heavier payloads and longer flights."
-    },
-    {
-      "id": "2026-05-17-science-3",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Sat, 16 May 2026 07:20:39 EDT",
-      "mined_at": "2026-05-17T18:19:04+00:00",
-      "source_published_at": "Sat, 16 May 2026 07:20:39 EDT",
-      "image_url": "/article_images/article_efa989631abb.webp",
-      "category": "Science",
-      "title": "Ethiopian Fossil Teeth Upend Linear View of Human Evolution",
-      "summary": "Thirteen fossil teeth from Ethiopia reveal that two distinct hominin species—early Homo and an unidentified Australopithecus—coexisted 2.6 to 2.8 million years ago. The discovery challenges the idea of a simple evolutionary march and supports a bushy family tree with overlapping lineages."
+      "title": "SpaceX's Starship V3 Set for Critical Test Flight After 7-Month Hiatus",
+      "summary": "SpaceX targets May 20 for the first Starship V3 launch — Flight 12 — from Starbase, Texas. The upgraded rocket will deploy dummy Starlink satellites and camera probes before a planned Indian Ocean splashdown. NASA's Artemis 4 lunar landing hinges on its success."
     }
   ]
 }

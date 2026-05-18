@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-17-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Sun, 17 May 2026 11:49:02 -0400",
-      "mined_at": "2026-05-17T18:19:04+00:00",
-      "source_published_at": "Sun, 17 May 2026 11:49:02 -0400",
-      "image_url": "/article_images/article_70c3a874d78a.webp",
-      "category": "News",
-      "title": "AI Is Becoming a Modern Oracle for Tarot Readers—But Should It Be?",
-      "summary": "A new study reveals tarot practitioners are increasingly using AI to interpret cards, seeking clarity but risking emotional dependence. Researchers interviewed 12 readers who use AI, finding they value its speed but worry it ignores personal context. Nearly 1 in 3 Americans now use tarot or astrology yearly."
-    },
-    {
-      "id": "2026-05-17-news-2",
-      "source": "NPR World",
-      "time_ago": "Sun, 17 May 2026 12:21:03 -0400",
-      "mined_at": "2026-05-17T18:19:04+00:00",
-      "source_published_at": "Sun, 17 May 2026 12:21:03 -0400",
-      "image_url": "/article_images/article_7c57546a34fe.webp",
-      "category": "News",
-      "title": "From Atlanta to Montgomery: A New Generation Rides for Voting Rights",
-      "summary": "Activists retraced the historic 1965 march route to protest a Supreme Court ruling that struck down a majority-Black district in Louisiana, prompting states like Alabama to redraw maps. Organized by Fair Fight Action, the rally drew diverse attendees, from a 62-year-old grandfather to an 18-year-old organizer, all demanding restored voting protections."
-    },
-    {
-      "id": "2026-05-17-news-3",
+      "id": "2026-05-18-news-1",
       "source": "BBC News",
-      "time_ago": "Sat, 16 May 2026 23:26:41 GMT",
-      "mined_at": "2026-05-17T18:19:04+00:00",
-      "source_published_at": "Sat, 16 May 2026 23:26:41 GMT",
-      "image_url": "/article_images/article_d76822f7e1c5.webp",
+      "time_ago": "Mon, 18 May 2026 18:22:03 GMT",
+      "mined_at": "2026-05-18T19:41:42+00:00",
+      "source_published_at": "Mon, 18 May 2026 18:22:03 GMT",
+      "image_url": "/article_images/article_e66c5ad6cf50.webp",
       "category": "News",
-      "title": "Five PMs in Seven Years: Is the UK Becoming Ungovernable?",
-      "summary": "The UK's rapid turnover of prime ministers—five in seven years—raises questions about governability. Experts blame a mix of global crises, inexperienced leaders, and social media-driven short-termism. While PM Keir Starmer insists the country is governable, he admits frustration with bureaucratic hurdles."
+      "title": "California Jury Swiftly Rejects Elon Musk's Lawsuit Against OpenAI",
+      "summary": "A California jury unanimously dismissed Elon Musk's lawsuit against OpenAI and CEO Sam Altman. The jury found Musk filed too late, after the statute of limitations expired. The trial featured dramatic testimony from both tech leaders."
+    },
+    {
+      "id": "2026-05-18-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Mon, 18 May 2026 14:41:38 -0400",
+      "mined_at": "2026-05-18T19:41:42+00:00",
+      "source_published_at": "Mon, 18 May 2026 14:41:38 -0400",
+      "image_url": "/article_images/article_4592c656b1cd.webp",
+      "category": "News",
+      "title": "NextEra's $67 Billion Bid for Dominion: AI's Insatiable Hunger for Power",
+      "summary": "NextEra Energy plans to acquire Dominion Energy in a $67 billion all-stock deal, aiming to create the world's largest regulated utility. The merger is fueled by surging electricity demand from AI data centers, even as consumer bills rise."
+    },
+    {
+      "id": "2026-05-18-news-3",
+      "source": "NPR World",
+      "time_ago": "Mon, 18 May 2026 05:00:00 -0400",
+      "mined_at": "2026-05-18T19:41:42+00:00",
+      "source_published_at": "Mon, 18 May 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_5edb1f7c7021.webp",
+      "category": "News",
+      "title": "How a Wayward Tortoise Named Rex United a Phoenix Suburb",
+      "summary": "A giant sulcata tortoise escaped and lumbered down a Scottsdale, Arizona street, sparking a neighborhood rescue mission. The incident highlights the challenges of keeping a species that can weigh 200 pounds and live 150 years."
     }
   ]
 }
