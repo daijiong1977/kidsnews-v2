@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-18-news-1",
-      "source": "BBC News",
-      "time_ago": "Mon, 18 May 2026 18:22:03 GMT",
-      "mined_at": "2026-05-18T19:41:42+00:00",
-      "source_published_at": "Mon, 18 May 2026 18:22:03 GMT",
-      "image_url": "/article_images/article_e66c5ad6cf50.webp",
-      "category": "News",
-      "title": "Jury Says No to Elon Musk's Lawsuit Against OpenAI",
-      "summary": "A California jury quickly tossed out Elon Musk's lawsuit against OpenAI. Musk said the company broke a promise to stay a charity, but the jury didn't agree. The trial lasted three weeks."
-    },
-    {
-      "id": "2026-05-18-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Mon, 18 May 2026 14:41:38 -0400",
-      "mined_at": "2026-05-18T19:41:42+00:00",
-      "source_published_at": "Mon, 18 May 2026 14:41:38 -0400",
-      "image_url": "/article_images/article_4592c656b1cd.webp",
-      "category": "News",
-      "title": "Two Giant Power Companies Want to Join Forces",
-      "summary": "NextEra Energy wants to buy Dominion Energy for $67 billion. Together, they would serve 10 million homes in four states. The deal is driven by huge energy demand from AI data centers."
-    },
-    {
-      "id": "2026-05-18-news-3",
+      "id": "2026-05-19-news-1",
       "source": "NPR World",
-      "time_ago": "Mon, 18 May 2026 05:00:00 -0400",
-      "mined_at": "2026-05-18T19:41:42+00:00",
-      "source_published_at": "Mon, 18 May 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_5edb1f7c7021.webp",
+      "time_ago": "Tue, 19 May 2026 06:30:00 -0400",
+      "mined_at": "2026-05-19T18:44:26+00:00",
+      "source_published_at": "Tue, 19 May 2026 06:30:00 -0400",
+      "image_url": "/article_images/article_a1635a04098e.webp",
       "category": "News",
-      "title": "A Giant Tortoise Took a Walk and a Whole Neighborhood Helped",
-      "summary": "A huge African tortoise named Rex escaped and strolled down a street in Scottsdale, Arizona. Neighbors jumped into action to find his owner. It shows how tough it is to care for these giant pets."
+      "title": "Why It's Getting Harder for Some American Women to Find a Husband",
+      "summary": "Imagine a game of musical chairs where there aren't enough chairs. That's what the marriage market is like for some women, says a new study. Because fewer men have college degrees and good jobs, college-educated women are 'marrying down,' leaving non-college women with fewer options."
+    },
+    {
+      "id": "2026-05-19-news-2",
+      "source": "Al Jazeera",
+      "time_ago": "Tue, 19 May 2026 17:56:11 +0000",
+      "mined_at": "2026-05-19T18:44:26+00:00",
+      "source_published_at": "Tue, 19 May 2026 17:56:11 +0000",
+      "image_url": "/article_images/article_a6368606cb91.webp",
+      "category": "News",
+      "title": "A Tiny African Region Plans to Open an Embassy in Jerusalem—And It's Causing a Big Stir",
+      "summary": "Somaliland, a breakaway part of Somalia that no other country recognizes, says it will open an embassy in Jerusalem. Israel, which recognized Somaliland last year, will also open an office there. This is a big deal because Jerusalem is a disputed city at the heart of a long conflict."
+    },
+    {
+      "id": "2026-05-19-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Tue, 19 May 2026 13:12:08 -0400",
+      "mined_at": "2026-05-19T18:44:26+00:00",
+      "source_published_at": "Tue, 19 May 2026 13:12:08 -0400",
+      "image_url": "/article_images/article_0d127b55f72c.webp",
+      "category": "News",
+      "title": "Trump Picks a Side in Texas: He Wants Ken Paxton to Beat Senator Cornyn",
+      "summary": "President Trump endorsed Ken Paxton for Senate, shaking up the Texas Republican primary. Paxton is trying to unseat longtime Senator John Cornyn. Trump called Paxton a 'true MAGA Warrior,' but some Republicans worry Paxton could lose the general election to a Democrat."
     }
   ]
 }

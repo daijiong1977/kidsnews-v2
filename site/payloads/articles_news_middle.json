@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-18-news-1",
-      "source": "BBC News",
-      "time_ago": "Mon, 18 May 2026 18:22:03 GMT",
-      "mined_at": "2026-05-18T19:41:42+00:00",
-      "source_published_at": "Mon, 18 May 2026 18:22:03 GMT",
-      "image_url": "/article_images/article_e66c5ad6cf50.webp",
-      "category": "News",
-      "title": "California Jury Swiftly Rejects Elon Musk's Lawsuit Against OpenAI",
-      "summary": "A California jury unanimously dismissed Elon Musk's lawsuit against OpenAI and CEO Sam Altman. The jury found Musk filed too late, after the statute of limitations expired. The trial featured dramatic testimony from both tech leaders."
-    },
-    {
-      "id": "2026-05-18-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Mon, 18 May 2026 14:41:38 -0400",
-      "mined_at": "2026-05-18T19:41:42+00:00",
-      "source_published_at": "Mon, 18 May 2026 14:41:38 -0400",
-      "image_url": "/article_images/article_4592c656b1cd.webp",
-      "category": "News",
-      "title": "NextEra's $67 Billion Bid for Dominion: AI's Insatiable Hunger for Power",
-      "summary": "NextEra Energy plans to acquire Dominion Energy in a $67 billion all-stock deal, aiming to create the world's largest regulated utility. The merger is fueled by surging electricity demand from AI data centers, even as consumer bills rise."
-    },
-    {
-      "id": "2026-05-18-news-3",
+      "id": "2026-05-19-news-1",
       "source": "NPR World",
-      "time_ago": "Mon, 18 May 2026 05:00:00 -0400",
-      "mined_at": "2026-05-18T19:41:42+00:00",
-      "source_published_at": "Mon, 18 May 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_5edb1f7c7021.webp",
+      "time_ago": "Tue, 19 May 2026 06:30:00 -0400",
+      "mined_at": "2026-05-19T18:44:26+00:00",
+      "source_published_at": "Tue, 19 May 2026 06:30:00 -0400",
+      "image_url": "/article_images/article_a1635a04098e.webp",
       "category": "News",
-      "title": "How a Wayward Tortoise Named Rex United a Phoenix Suburb",
-      "summary": "A giant sulcata tortoise escaped and lumbered down a Scottsdale, Arizona street, sparking a neighborhood rescue mission. The incident highlights the challenges of keeping a species that can weigh 200 pounds and live 150 years."
+      "title": "The 'Missing Men' of the American Marriage Market: How Education Gaps Are Reshaping Who Gets Hitched",
+      "summary": "A new study reveals a startling shift: college-educated women are increasingly marrying non-college men, but only the high-earning ones. This leaves less-educated women with a shrinking pool of economically stable partners, driving down marriage rates and fueling inequality. It's a game of musical chairs—with real consequences."
+    },
+    {
+      "id": "2026-05-19-news-2",
+      "source": "Al Jazeera",
+      "time_ago": "Tue, 19 May 2026 17:56:11 +0000",
+      "mined_at": "2026-05-19T18:44:26+00:00",
+      "source_published_at": "Tue, 19 May 2026 17:56:11 +0000",
+      "image_url": "/article_images/article_a6368606cb91.webp",
+      "category": "News",
+      "title": "Somaliland's Jerusalem Embassy Gambit: A Breakaway Region's Bold Diplomatic Play",
+      "summary": "Somaliland, an unrecognized breakaway region of Somalia, will open an embassy in Jerusalem—a move that deepens its ties with Israel and defies international consensus. Israel, which recognized Somaliland last year, will reciprocate with a mission in Hargeisa. The decision reignites controversy over Jerusalem's disputed status."
+    },
+    {
+      "id": "2026-05-19-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Tue, 19 May 2026 13:12:08 -0400",
+      "mined_at": "2026-05-19T18:44:26+00:00",
+      "source_published_at": "Tue, 19 May 2026 13:12:08 -0400",
+      "image_url": "/article_images/article_0d127b55f72c.webp",
+      "category": "News",
+      "title": "Trump Endorses Paxton Over Cornyn in Texas Senate Runoff, Upending GOP Establishment",
+      "summary": "President Trump threw his weight behind Texas Attorney General Ken Paxton in the Republican Senate primary runoff, dealing a blow to incumbent John Cornyn. The endorsement, announced on social media, could reshape the race and the party's chances in November. Paxton, a polarizing figure, faces Democrat James Talarico in the general election."
     }
   ]
 }

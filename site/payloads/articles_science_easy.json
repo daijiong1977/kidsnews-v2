@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-18-science-1",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Fri, 15 May 2026 04:13:15 EDT",
-      "mined_at": "2026-05-18T19:41:42+00:00",
-      "source_published_at": "Fri, 15 May 2026 04:13:15 EDT",
-      "image_url": "/article_images/article_3666a6be2ec2.webp",
+      "id": "2026-05-19-science-1",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Mon, 18 May 2026 04:51:42 EDT",
+      "mined_at": "2026-05-19T18:44:26+00:00",
+      "source_published_at": "Mon, 18 May 2026 04:51:42 EDT",
+      "image_url": "/article_images/article_5f913cceacb1.webp",
       "category": "Science",
-      "title": "NASA's New Brainy Chip Could Let Spacecraft Think on Their Own!",
-      "summary": "Imagine a spacecraft that can make its own decisions millions of miles from Earth. NASA built a tiny chip 500 times smarter than today's space computers to do just that. It survived crazy tests at JPL."
+      "title": "A Plant That Vanished for 60 Years Just Popped Up Again!",
+      "summary": "A plant no one had seen since 1967 was found in Australia by a bird helper who snapped a photo. Scientists thought it was extinct, but now they can protect it."
     },
     {
-      "id": "2026-05-18-science-2",
-      "source": "ScienceDaily All",
-      "time_ago": "Mon, 18 May 2026 06:21:09 EDT",
-      "mined_at": "2026-05-18T19:41:42+00:00",
-      "source_published_at": "Mon, 18 May 2026 06:21:09 EDT",
-      "image_url": "/article_images/article_4a1720988feb.webp",
+      "id": "2026-05-19-science-2",
+      "source": "NASA News",
+      "time_ago": "Tue, 19 May 2026 15:00:00 +0000",
+      "mined_at": "2026-05-19T18:44:26+00:00",
+      "source_published_at": "Tue, 19 May 2026 15:00:00 +0000",
+      "image_url": "/article_images/article_95f3485dfa23.webp",
       "category": "Science",
-      "title": "Could Time Flow Faster AND Slower at the Same Time? This Clock Might Prove It!",
-      "summary": "Scientists think a clock could tick fast and slow at once, like Schrödinger's cat being young and old. A new study says super-precise atomic clocks might finally show this quantum weirdness in real life."
+      "title": "Meet the NASA Scientist Teaching Astronauts to Be Moon Detectives!",
+      "summary": "Cindy Evans trains Artemis astronauts to read the Moon's rocks like a storybook. Her geology lessons help them spot clues about ancient lava and craters during their mission."
     },
     {
-      "id": "2026-05-18-science-3",
-      "source": "Space.com",
-      "time_ago": "Mon, 18 May 2026 14:56:45 +0000",
-      "mined_at": "2026-05-18T19:41:42+00:00",
-      "source_published_at": "Mon, 18 May 2026 14:56:45 +0000",
-      "image_url": "/article_images/article_e5b1914e1a1a.webp",
+      "id": "2026-05-19-science-3",
+      "source": "NPR Health",
+      "time_ago": "Tue, 19 May 2026 12:19:01 -0400",
+      "mined_at": "2026-05-19T18:44:26+00:00",
+      "source_published_at": "Tue, 19 May 2026 12:19:01 -0400",
+      "image_url": "/article_images/article_a93a56e13eb5.webp",
       "category": "Science",
-      "title": "SpaceX's Biggest Starship Ever Is About to Blast Off!",
-      "summary": "SpaceX's giant Starship V3 rocket is set to launch on May 20 from Texas. It's the first flight in 7 months and will try to splash down in the Indian Ocean while dropping dummy satellites. NASA needs it for Moon landings."
+      "title": "Why Are States Fighting Over Student Loans for Nurses?",
+      "summary": "A new rule limits how much money grad students can borrow for nursing and other healthcare degrees. 24 states are suing, saying it will make the nurse shortage worse."
     }
   ]
 }

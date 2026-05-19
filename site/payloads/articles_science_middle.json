@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-18-science-1",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Fri, 15 May 2026 04:13:15 EDT",
-      "mined_at": "2026-05-18T19:41:42+00:00",
-      "source_published_at": "Fri, 15 May 2026 04:13:15 EDT",
-      "image_url": "/article_images/article_3666a6be2ec2.webp",
+      "id": "2026-05-19-science-1",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Mon, 18 May 2026 04:51:42 EDT",
+      "mined_at": "2026-05-19T18:44:26+00:00",
+      "source_published_at": "Mon, 18 May 2026 04:51:42 EDT",
+      "image_url": "/article_images/article_5f913cceacb1.webp",
       "category": "Science",
-      "title": "500x Faster: NASA's New AI Chip Could Give Spacecraft a Mind of Their Own",
-      "summary": "Spacecraft today rely on sluggish, radiation-proof computers from the 90s. NASA's new chip is 500 times more powerful, survived brutal testing at JPL, and could let deep-space probes make real-time decisions using AI. It's a game-changer for Mars missions."
+      "title": "Extinct for 60 Years? Not So Fast—Citizen Scientist Snaps a Living Fossil",
+      "summary": "A horticulturalist bird-banding in remote Queensland photographed a plant unseen since 1967. iNaturalist led a botanist to confirm it's alive, moving it from 'extinct' to 'critically endangered.'"
     },
     {
-      "id": "2026-05-18-science-2",
-      "source": "ScienceDaily All",
-      "time_ago": "Mon, 18 May 2026 06:21:09 EDT",
-      "mined_at": "2026-05-18T19:41:42+00:00",
-      "source_published_at": "Mon, 18 May 2026 06:21:09 EDT",
-      "image_url": "/article_images/article_4a1720988feb.webp",
+      "id": "2026-05-19-science-2",
+      "source": "NASA News",
+      "time_ago": "Tue, 19 May 2026 15:00:00 +0000",
+      "mined_at": "2026-05-19T18:44:26+00:00",
+      "source_published_at": "Tue, 19 May 2026 15:00:00 +0000",
+      "image_url": "/article_images/article_95f3485dfa23.webp",
       "category": "Science",
-      "title": "Schrödinger's Clock: Scientists May Soon Watch Time Flow at Two Speeds at Once",
-      "summary": "A new study in Physical Review Letters proposes using ultracold ion clocks to observe time in a quantum superposition — ticking faster and slower simultaneously. It's the twin paradox meets Schrödinger's cat, and the tech is finally ready."
+      "title": "From Ocean Floor to Lunar Surface: The Geologist Behind Artemis Astronaut Training",
+      "summary": "Cindy Evans, a former oceanographer, now leads geology training for Artemis crews. Her curriculum turns astronauts into field scientists who can decode the Moon's ancient past from orbit and on foot."
     },
     {
-      "id": "2026-05-18-science-3",
-      "source": "Space.com",
-      "time_ago": "Mon, 18 May 2026 14:56:45 +0000",
-      "mined_at": "2026-05-18T19:41:42+00:00",
-      "source_published_at": "Mon, 18 May 2026 14:56:45 +0000",
-      "image_url": "/article_images/article_e5b1914e1a1a.webp",
+      "id": "2026-05-19-science-3",
+      "source": "NPR Health",
+      "time_ago": "Tue, 19 May 2026 12:19:01 -0400",
+      "mined_at": "2026-05-19T18:44:26+00:00",
+      "source_published_at": "Tue, 19 May 2026 12:19:01 -0400",
+      "image_url": "/article_images/article_a93a56e13eb5.webp",
       "category": "Science",
-      "title": "SpaceX's Starship V3 Set for Critical Test Flight After 7-Month Hiatus",
-      "summary": "SpaceX targets May 20 for the first Starship V3 launch — Flight 12 — from Starbase, Texas. The upgraded rocket will deploy dummy Starlink satellites and camera probes before a planned Indian Ocean splashdown. NASA's Artemis 4 lunar landing hinges on its success."
+      "title": "Loan Limits for Nursing Grad Students Spark 24-State Lawsuit",
+      "summary": "A Trump administration rule caps federal loans for certain healthcare graduate programs, excluding nursing from 'professional' degree exemptions. States argue it will worsen provider shortages, especially in rural areas."
     }
   ]
 }
