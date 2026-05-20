@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-19-news-1",
-      "source": "NPR World",
-      "time_ago": "Tue, 19 May 2026 06:30:00 -0400",
-      "mined_at": "2026-05-19T18:44:26+00:00",
-      "source_published_at": "Tue, 19 May 2026 06:30:00 -0400",
-      "image_url": "/article_images/article_a1635a04098e.webp",
+      "id": "2026-05-20-news-1",
+      "source": "BBC News",
+      "time_ago": "Wed, 20 May 2026 16:00:05 GMT",
+      "mined_at": "2026-05-20T18:50:47+00:00",
+      "source_published_at": "Wed, 20 May 2026 16:00:05 GMT",
+      "image_url": "/article_images/article_10d774a60ffe.webp",
       "category": "News",
-      "title": "Why It's Getting Harder for Some American Women to Find a Husband",
-      "summary": "Imagine a game of musical chairs where there aren't enough chairs. That's what the marriage market is like for some women, says a new study. Because fewer men have college degrees and good jobs, college-educated women are 'marrying down,' leaving non-college women with fewer options."
+      "title": "Russian Jets Zoom Dangerously Close to UK Spy Plane Over the Black Sea!",
+      "summary": "Two Russian fighter jets flew super close to a British spy plane over the Black Sea. One got just six metres away! The UK says this was really dangerous and could have caused a crash."
     },
     {
-      "id": "2026-05-19-news-2",
-      "source": "Al Jazeera",
-      "time_ago": "Tue, 19 May 2026 17:56:11 +0000",
-      "mined_at": "2026-05-19T18:44:26+00:00",
-      "source_published_at": "Tue, 19 May 2026 17:56:11 +0000",
-      "image_url": "/article_images/article_a6368606cb91.webp",
-      "category": "News",
-      "title": "A Tiny African Region Plans to Open an Embassy in Jerusalem—And It's Causing a Big Stir",
-      "summary": "Somaliland, a breakaway part of Somalia that no other country recognizes, says it will open an embassy in Jerusalem. Israel, which recognized Somaliland last year, will also open an office there. This is a big deal because Jerusalem is a disputed city at the heart of a long conflict."
-    },
-    {
-      "id": "2026-05-19-news-3",
+      "id": "2026-05-20-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Tue, 19 May 2026 13:12:08 -0400",
-      "mined_at": "2026-05-19T18:44:26+00:00",
-      "source_published_at": "Tue, 19 May 2026 13:12:08 -0400",
-      "image_url": "/article_images/article_0d127b55f72c.webp",
+      "time_ago": "Wed, 20 May 2026 13:30:46 -0400",
+      "mined_at": "2026-05-20T18:50:47+00:00",
+      "source_published_at": "Wed, 20 May 2026 13:30:46 -0400",
+      "image_url": "/article_images/article_e2e49031e224.webp",
       "category": "News",
-      "title": "Trump Picks a Side in Texas: He Wants Ken Paxton to Beat Senator Cornyn",
-      "summary": "President Trump endorsed Ken Paxton for Senate, shaking up the Texas Republican primary. Paxton is trying to unseat longtime Senator John Cornyn. Trump called Paxton a 'true MAGA Warrior,' but some Republicans worry Paxton could lose the general election to a Democrat."
+      "title": "Man Jailed for Facebook Meme About Charlie Kirk Wins $835,000!",
+      "summary": "Larry Bushart, a retired police officer, was arrested for posting a meme about Charlie Kirk on Facebook. He spent 37 days in jail before the charge was dropped. Now he's getting $835,000 because his free speech rights were violated."
+    },
+    {
+      "id": "2026-05-20-news-3",
+      "source": "BBC News",
+      "time_ago": "Wed, 20 May 2026 13:21:45 GMT",
+      "mined_at": "2026-05-20T18:50:47+00:00",
+      "source_published_at": "Wed, 20 May 2026 13:21:45 GMT",
+      "image_url": "/article_images/article_9214a84e6a47.webp",
+      "category": "News",
+      "title": "Good News for Drivers: Fuel Tax Cut Extended Until End of Year!",
+      "summary": "The UK government is keeping the 5p cut on fuel duty until the end of 2026. That means petrol and diesel won't get more expensive for now. The war in Iran has pushed up fuel prices, so this helps drivers and farmers."
     }
   ]
 }
