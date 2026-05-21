@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-20-news-1",
-      "source": "BBC News",
-      "time_ago": "Wed, 20 May 2026 16:00:05 GMT",
-      "mined_at": "2026-05-20T18:50:47+00:00",
-      "source_published_at": "Wed, 20 May 2026 16:00:05 GMT",
-      "image_url": "/article_images/article_10d774a60ffe.webp",
+      "id": "2026-05-21-news-1",
+      "source": "Al Jazeera",
+      "time_ago": "Thu, 21 May 2026 17:18:15 +0000",
+      "mined_at": "2026-05-21T18:50:14+00:00",
+      "source_published_at": "Thu, 21 May 2026 17:18:15 +0000",
+      "image_url": "/article_images/article_de23059d09df.webp",
       "category": "News",
-      "title": "RAF Spy Plane Narrowly Avoids Disaster in 'Most Dangerous' Russian Interception Since 2022",
-      "summary": "Russian Su-27 and Su-35 fighters intercepted an unarmed RAF surveillance plane over the Black Sea, coming within six metres. The UK called it the most dangerous Russian action since a 2022 missile incident. The crew kept their cool, but the risk of escalation is real."
+      "title": "Five Lattes for a World Cup Seat? NYC Mayor Unveils $50 Ticket Lottery Amid Price Outrage",
+      "summary": "Mayor Zohran Mamdani is making 1,000 World Cup tickets available to New Yorkers for $50—the cost of five lattes, he joked. A lottery opens May 25 for seven MetLife Stadium matches, excluding the $33,000 final, and includes free bus transport."
     },
     {
-      "id": "2026-05-20-news-2",
+      "id": "2026-05-21-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Wed, 20 May 2026 13:30:46 -0400",
-      "mined_at": "2026-05-20T18:50:47+00:00",
-      "source_published_at": "Wed, 20 May 2026 13:30:46 -0400",
-      "image_url": "/article_images/article_e2e49031e224.webp",
+      "time_ago": "Thu, 21 May 2026 13:52:52 -0400",
+      "mined_at": "2026-05-21T18:50:14+00:00",
+      "source_published_at": "Thu, 21 May 2026 13:52:52 -0400",
+      "image_url": "/article_images/article_2e94b1db1af1.webp",
       "category": "News",
-      "title": "Retired Cop Jailed Over Charlie Kirk Meme Wins $835,000 Free Speech Settlement",
-      "summary": "Larry Bushart spent 37 days in jail after posting a Facebook meme about Charlie Kirk's death that some feared threatened a local school. The felony charge was dropped, and he sued, winning $835,000. His case tests the limits of free speech in times of high emotion."
+      "title": "Landmark Ruling: ICJ Declares Right to Strike Protected Under 1948 Labor Treaty",
+      "summary": "The International Court of Justice issued an advisory opinion that the 1948 Freedom of Association Convention protects the right to strike, even though the word is absent. The non-binding ruling could reshape global labor standards and trade agreements."
     },
     {
-      "id": "2026-05-20-news-3",
-      "source": "BBC News",
-      "time_ago": "Wed, 20 May 2026 13:21:45 GMT",
-      "mined_at": "2026-05-20T18:50:47+00:00",
-      "source_published_at": "Wed, 20 May 2026 13:21:45 GMT",
-      "image_url": "/article_images/article_9214a84e6a47.webp",
+      "id": "2026-05-21-news-3",
+      "source": "NPR World",
+      "time_ago": "Thu, 21 May 2026 08:47:56 -0400",
+      "mined_at": "2026-05-21T18:50:14+00:00",
+      "source_published_at": "Thu, 21 May 2026 08:47:56 -0400",
+      "image_url": "/article_images/article_dfb616565117.webp",
       "category": "News",
-      "title": "Fuel Duty Freeze Extended as Iran War Drives Up Prices; Critics Call It a U-Turn",
-      "summary": "The UK extends the 5p fuel duty cut to year-end, citing the Iran conflict's impact on oil prices. Petrol hit 158.52p/litre. Red diesel for farmers also gets a deeper cut, and HGVs a tax holiday. But the RAC warns of a future 'cliff edge' for drivers."
+      "title": "Pork Barrel Politics in Maine: Can Susan Collins’ Federal Clout Overcome a Populist Challenge?",
+      "summary": "Sen. Susan Collins is touting her role as Appropriations chair to secure federal dollars for Maine—from a breakwater in Eastport to combating spruce budworm—as Democrat Graham Platner argues the system is rigged against working-class voters."
     }
   ]
 }

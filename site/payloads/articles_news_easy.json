@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-20-news-1",
-      "source": "BBC News",
-      "time_ago": "Wed, 20 May 2026 16:00:05 GMT",
-      "mined_at": "2026-05-20T18:50:47+00:00",
-      "source_published_at": "Wed, 20 May 2026 16:00:05 GMT",
-      "image_url": "/article_images/article_10d774a60ffe.webp",
+      "id": "2026-05-21-news-1",
+      "source": "Al Jazeera",
+      "time_ago": "Thu, 21 May 2026 17:18:15 +0000",
+      "mined_at": "2026-05-21T18:50:14+00:00",
+      "source_published_at": "Thu, 21 May 2026 17:18:15 +0000",
+      "image_url": "/article_images/article_de23059d09df.webp",
       "category": "News",
-      "title": "Russian Jets Zoom Dangerously Close to UK Spy Plane Over the Black Sea!",
-      "summary": "Two Russian fighter jets flew super close to a British spy plane over the Black Sea. One got just six metres away! The UK says this was really dangerous and could have caused a crash."
+      "title": "Only 1,000 $50 World Cup Tickets for 8 Million New Yorkers—Here’s How to Get One!",
+      "summary": "New York City’s mayor is selling 1,000 World Cup tickets for just $50—about the price of five lattes. A lottery on May 25 gives residents a shot at seats for MetLife Stadium games, except the $33,000 final."
     },
     {
-      "id": "2026-05-20-news-2",
+      "id": "2026-05-21-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Wed, 20 May 2026 13:30:46 -0400",
-      "mined_at": "2026-05-20T18:50:47+00:00",
-      "source_published_at": "Wed, 20 May 2026 13:30:46 -0400",
-      "image_url": "/article_images/article_e2e49031e224.webp",
+      "time_ago": "Thu, 21 May 2026 13:52:52 -0400",
+      "mined_at": "2026-05-21T18:50:14+00:00",
+      "source_published_at": "Thu, 21 May 2026 13:52:52 -0400",
+      "image_url": "/article_images/article_2e94b1db1af1.webp",
       "category": "News",
-      "title": "Man Jailed for Facebook Meme About Charlie Kirk Wins $835,000!",
-      "summary": "Larry Bushart, a retired police officer, was arrested for posting a meme about Charlie Kirk on Facebook. He spent 37 days in jail before the charge was dropped. Now he's getting $835,000 because his free speech rights were violated."
+      "title": "World Court Says: Yes, Workers Have the Right to Strike!",
+      "summary": "The International Court of Justice ruled that a 1948 labor treaty protects the right to strike, even though the word “strike” isn’t in it. Unions celebrated, but the U.S. hasn’t signed the treaty."
     },
     {
-      "id": "2026-05-20-news-3",
-      "source": "BBC News",
-      "time_ago": "Wed, 20 May 2026 13:21:45 GMT",
-      "mined_at": "2026-05-20T18:50:47+00:00",
-      "source_published_at": "Wed, 20 May 2026 13:21:45 GMT",
-      "image_url": "/article_images/article_9214a84e6a47.webp",
+      "id": "2026-05-21-news-3",
+      "source": "NPR World",
+      "time_ago": "Thu, 21 May 2026 08:47:56 -0400",
+      "mined_at": "2026-05-21T18:50:14+00:00",
+      "source_published_at": "Thu, 21 May 2026 08:47:56 -0400",
+      "image_url": "/article_images/article_dfb616565117.webp",
       "category": "News",
-      "title": "Good News for Drivers: Fuel Tax Cut Extended Until End of Year!",
-      "summary": "The UK government is keeping the 5p cut on fuel duty until the end of 2026. That means petrol and diesel won't get more expensive for now. The war in Iran has pushed up fuel prices, so this helps drivers and farmers."
+      "title": "Maine’s Senator Collins Bets on Bringing Home the Bacon to Win Reelection",
+      "summary": "Republican Sen. Susan Collins is using her power to send federal money to Maine—like funding for a breakwater dock in a tiny town—to convince voters she’s worth reelecting over Democrat Graham Platner."
     }
   ]
 }

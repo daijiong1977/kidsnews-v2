@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-20-science-1",
-      "source": "ScienceDaily All",
-      "time_ago": "Wed, 20 May 2026 03:07:58 EDT",
-      "mined_at": "2026-05-20T18:50:47+00:00",
-      "source_published_at": "Wed, 20 May 2026 03:07:58 EDT",
-      "image_url": "/article_images/article_43c812e537ef.webp",
+      "id": "2026-05-21-science-1",
+      "source": "Physics World",
+      "time_ago": "Thu, 21 May 2026 15:15:05 +0000",
+      "mined_at": "2026-05-21T18:50:14+00:00",
+      "source_published_at": "Thu, 21 May 2026 15:15:05 +0000",
+      "image_url": "/article_images/article_ab6afa1a13c3.webp",
       "category": "Science",
-      "title": "DNA Reveals Britain's 'Oldest Northerner' Was a 3-Year-Old Girl Buried 11,000 Years Ago",
-      "summary": "The oldest human remains in northern Britain belong to a girl aged 2.5–3.5 years, DNA shows. Found in a Cumbrian cave, the burial included jewelry from the same period, suggesting ritual significance. She is the third oldest known Mesolithic burial in northwestern Europe."
+      "title": "Lunar Shadows: How the Moon's Darkest Craters Could Host Lasers Ten Times More Stable Than Earth's",
+      "summary": "Permanently shadowed lunar craters offer an ultra-cold, ultra-high-vacuum environment that could boost laser stability to 10^-18—ten times better than Earth's best. This could revolutionize lunar navigation, gravitational wave detection, and dark matter searches. A prototype might reach the Moon within five years."
     },
     {
-      "id": "2026-05-20-science-2",
-      "source": "Space.com",
-      "time_ago": "Wed, 20 May 2026 17:00:00 +0000",
-      "mined_at": "2026-05-20T18:50:47+00:00",
-      "source_published_at": "Wed, 20 May 2026 17:00:00 +0000",
-      "image_url": "/article_images/article_d043eb63947e.webp",
+      "id": "2026-05-21-science-2",
+      "source": "Smithsonian Science-Nature",
+      "time_ago": "Thu, 07 May 2026 20:07:28 +0000",
+      "mined_at": "2026-05-21T18:50:14+00:00",
+      "source_published_at": "Thu, 07 May 2026 20:07:28 +0000",
+      "image_url": "",
       "category": "Science",
-      "title": "Cosmic Rendezvous: Crescent Moon and Venus Dazzle in Global Photo Op",
-      "summary": "A razor-thin crescent moon and Venus made a spectacular close approach on May 18–19, visible worldwide. Earthshine illuminated the moon's dark limb, while Venus shone brilliantly. Photographers captured the pair above landmarks from New York to Sweden, with Jupiter joining the scene in Italy."
+      "title": "From Zombie Fungi to Fossil Birds: The Living Tributes to David Attenborough on His 100th Birthday",
+      "summary": "Scientists have named roughly 50 organisms after David Attenborough, including a mind-controlling fungus and a toothless prehistoric bird. To mark his 100th birthday, we spotlight ten species that reflect his enduring influence on naturalists worldwide."
     },
     {
-      "id": "2026-05-20-science-3",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Wed, 20 May 2026 00:45:48 EDT",
-      "mined_at": "2026-05-20T18:50:47+00:00",
-      "source_published_at": "Wed, 20 May 2026 00:45:48 EDT",
-      "image_url": "/article_images/article_cf95a25be9c7.webp",
+      "id": "2026-05-21-science-3",
+      "source": "MIT Tech Review",
+      "time_ago": "Thu, 21 May 2026 14:30:45 +0000",
+      "mined_at": "2026-05-21T18:50:14+00:00",
+      "source_published_at": "Thu, 21 May 2026 14:30:45 +0000",
+      "image_url": "/article_images/article_f6318cb77e5d.webp",
       "category": "Science",
-      "title": "DNA from Poop Helps Scientists Find New Homes for the World's Rarest Marsupial",
-      "summary": "With fewer than 150 Gilbert's potoroos left, researchers used eDNA metabarcoding on scat to decode their fungal diet. The non-invasive method revealed dietary overlap with quokkas and quendas, guiding translocation site selection after a 2015 wildfire destroyed 90% of their core habitat."
+      "title": "Let It Cook: At Code with Claude, Developers Embrace AI That Codes, Tests, and Dreams",
+      "summary": "At Anthropic's developer conference, nearly half the attendees admitted to shipping AI-generated code without reading it. The company unveiled 'dreaming,' a feature that lets Claude learn from past tasks. But as automation accelerates, concerns about code quality and oversight are growing."
     }
   ]
 }
