@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-21-news-1",
-      "source": "Al Jazeera",
-      "time_ago": "Thu, 21 May 2026 17:18:15 +0000",
-      "mined_at": "2026-05-21T18:50:14+00:00",
-      "source_published_at": "Thu, 21 May 2026 17:18:15 +0000",
-      "image_url": "/article_images/article_de23059d09df.webp",
+      "id": "2026-05-22-news-1",
+      "source": "BBC News",
+      "time_ago": "Fri, 22 May 2026 11:33:47 GMT",
+      "mined_at": "2026-05-22T18:26:07+00:00",
+      "source_published_at": "Fri, 22 May 2026 11:33:47 GMT",
+      "image_url": "/article_images/article_1d819493891a.webp",
       "category": "News",
-      "title": "Only 1,000 $50 World Cup Tickets for 8 Million New Yorkers—Here’s How to Get One!",
-      "summary": "New York City’s mayor is selling 1,000 World Cup tickets for just $50—about the price of five lattes. A lottery on May 25 gives residents a shot at seats for MetLife Stadium games, except the $33,000 final."
+      "title": "Big Stars Left Out: England's World Cup Squad Surprises!",
+      "summary": "Phil Foden, Cole Palmer, and Trent Alexander-Arnold are not on England's World Cup team! Coach Thomas Tuchel picked 26 players, but left out these famous names. Harry Maguire said he was 'shocked and gutted.'"
     },
     {
-      "id": "2026-05-21-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Thu, 21 May 2026 13:52:52 -0400",
-      "mined_at": "2026-05-21T18:50:14+00:00",
-      "source_published_at": "Thu, 21 May 2026 13:52:52 -0400",
-      "image_url": "/article_images/article_2e94b1db1af1.webp",
-      "category": "News",
-      "title": "World Court Says: Yes, Workers Have the Right to Strike!",
-      "summary": "The International Court of Justice ruled that a 1948 labor treaty protects the right to strike, even though the word “strike” isn’t in it. Unions celebrated, but the U.S. hasn’t signed the treaty."
-    },
-    {
-      "id": "2026-05-21-news-3",
+      "id": "2026-05-22-news-2",
       "source": "NPR World",
-      "time_ago": "Thu, 21 May 2026 08:47:56 -0400",
-      "mined_at": "2026-05-21T18:50:14+00:00",
-      "source_published_at": "Thu, 21 May 2026 08:47:56 -0400",
-      "image_url": "/article_images/article_dfb616565117.webp",
+      "time_ago": "Fri, 22 May 2026 05:00:00 -0400",
+      "mined_at": "2026-05-22T18:26:07+00:00",
+      "source_published_at": "Fri, 22 May 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_477574a77e9d.webp",
       "category": "News",
-      "title": "Maine’s Senator Collins Bets on Bringing Home the Bacon to Win Reelection",
-      "summary": "Republican Sen. Susan Collins is using her power to send federal money to Maine—like funding for a breakwater dock in a tiny town—to convince voters she’s worth reelecting over Democrat Graham Platner."
+      "title": "A Stranger's Kind Words Changed Her Life After Cancer",
+      "summary": "Pat Gentile was losing her hair from chemotherapy and felt scared to go out without a wig. Then a stranger in a store told her she looked 'fabulous.' That one compliment gave her the courage to face the world."
+    },
+    {
+      "id": "2026-05-22-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Fri, 22 May 2026 13:40:24 -0400",
+      "mined_at": "2026-05-22T18:26:07+00:00",
+      "source_published_at": "Fri, 22 May 2026 13:40:24 -0400",
+      "image_url": "/article_images/article_78b579fcd4a6.webp",
+      "category": "News",
+      "title": "Tulsi Gabbard Steps Down as Trump's Spy Chief",
+      "summary": "Tulsi Gabbard resigned as President Trump's director of national intelligence. She said her husband has a rare bone cancer and she needs to take care of him. She is the fourth top official to leave during Trump's second term."
     }
   ]
 }

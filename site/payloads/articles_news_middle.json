@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-21-news-1",
-      "source": "Al Jazeera",
-      "time_ago": "Thu, 21 May 2026 17:18:15 +0000",
-      "mined_at": "2026-05-21T18:50:14+00:00",
-      "source_published_at": "Thu, 21 May 2026 17:18:15 +0000",
-      "image_url": "/article_images/article_de23059d09df.webp",
+      "id": "2026-05-22-news-1",
+      "source": "BBC News",
+      "time_ago": "Fri, 22 May 2026 11:33:47 GMT",
+      "mined_at": "2026-05-22T18:26:07+00:00",
+      "source_published_at": "Fri, 22 May 2026 11:33:47 GMT",
+      "image_url": "/article_images/article_1d819493891a.webp",
       "category": "News",
-      "title": "Five Lattes for a World Cup Seat? NYC Mayor Unveils $50 Ticket Lottery Amid Price Outrage",
-      "summary": "Mayor Zohran Mamdani is making 1,000 World Cup tickets available to New Yorkers for $50—the cost of five lattes, he joked. A lottery opens May 25 for seven MetLife Stadium matches, excluding the $33,000 final, and includes free bus transport."
+      "title": "Tuchel's World Cup Bombshell: Foden, Palmer, Alexander-Arnold Axed",
+      "summary": "England manager Thomas Tuchel dropped a bombshell by omitting Phil Foden, Cole Palmer, and Trent Alexander-Arnold from his 26-man World Cup squad. Harry Maguire called the decision 'shocking.' Ollie Watkins and Ivan Toney made the cut."
     },
     {
-      "id": "2026-05-21-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Thu, 21 May 2026 13:52:52 -0400",
-      "mined_at": "2026-05-21T18:50:14+00:00",
-      "source_published_at": "Thu, 21 May 2026 13:52:52 -0400",
-      "image_url": "/article_images/article_2e94b1db1af1.webp",
-      "category": "News",
-      "title": "Landmark Ruling: ICJ Declares Right to Strike Protected Under 1948 Labor Treaty",
-      "summary": "The International Court of Justice issued an advisory opinion that the 1948 Freedom of Association Convention protects the right to strike, even though the word is absent. The non-binding ruling could reshape global labor standards and trade agreements."
-    },
-    {
-      "id": "2026-05-21-news-3",
+      "id": "2026-05-22-news-2",
       "source": "NPR World",
-      "time_ago": "Thu, 21 May 2026 08:47:56 -0400",
-      "mined_at": "2026-05-21T18:50:14+00:00",
-      "source_published_at": "Thu, 21 May 2026 08:47:56 -0400",
-      "image_url": "/article_images/article_dfb616565117.webp",
+      "time_ago": "Fri, 22 May 2026 05:00:00 -0400",
+      "mined_at": "2026-05-22T18:26:07+00:00",
+      "source_published_at": "Fri, 22 May 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_477574a77e9d.webp",
       "category": "News",
-      "title": "Pork Barrel Politics in Maine: Can Susan Collins’ Federal Clout Overcome a Populist Challenge?",
-      "summary": "Sen. Susan Collins is touting her role as Appropriations chair to secure federal dollars for Maine—from a breakwater in Eastport to combating spruce budworm—as Democrat Graham Platner argues the system is rigged against working-class voters."
+      "title": "The 'Fabulous' Compliment That Helped a Cancer Patient Feel Seen",
+      "summary": "During chemotherapy for breast cancer, Pat Gentile dreaded going out without her wig. Then a stranger in a convenience store told her she looked 'fabulous.' That moment became a turning point, giving her the courage to face the world."
+    },
+    {
+      "id": "2026-05-22-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Fri, 22 May 2026 13:40:24 -0400",
+      "mined_at": "2026-05-22T18:26:07+00:00",
+      "source_published_at": "Fri, 22 May 2026 13:40:24 -0400",
+      "image_url": "/article_images/article_78b579fcd4a6.webp",
+      "category": "News",
+      "title": "Gabbard Resigns as Intelligence Chief, Citing Husband's Cancer",
+      "summary": "Tulsi Gabbard resigned as director of national intelligence, saying her husband's rare bone cancer diagnosis requires her full attention. Her departure marks the fourth Cabinet exit in Trump's second term, amid reported tensions over Iran policy."
     }
   ]
 }

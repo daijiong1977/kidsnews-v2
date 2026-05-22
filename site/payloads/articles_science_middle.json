@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-21-science-1",
-      "source": "Physics World",
-      "time_ago": "Thu, 21 May 2026 15:15:05 +0000",
-      "mined_at": "2026-05-21T18:50:14+00:00",
-      "source_published_at": "Thu, 21 May 2026 15:15:05 +0000",
-      "image_url": "/article_images/article_ab6afa1a13c3.webp",
+      "id": "2026-05-22-science-1",
+      "source": "Science News Explores",
+      "time_ago": "Fri, 22 May 2026 10:30:00 +0000",
+      "mined_at": "2026-05-22T18:26:07+00:00",
+      "source_published_at": "Fri, 22 May 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_98c9428c000f.webp",
       "category": "Science",
-      "title": "Lunar Shadows: How the Moon's Darkest Craters Could Host Lasers Ten Times More Stable Than Earth's",
-      "summary": "Permanently shadowed lunar craters offer an ultra-cold, ultra-high-vacuum environment that could boost laser stability to 10^-18—ten times better than Earth's best. This could revolutionize lunar navigation, gravitational wave detection, and dark matter searches. A prototype might reach the Moon within five years."
+      "title": "Could a Stick of Gum Replace Anxiety Meds? These Teens Are Chewing on It",
+      "summary": "Two Georgia high schoolers engineered a passionflower-infused gum to deliver natural anxiety relief. Their prototype won $600 at ISEF 2026. Next step: human trials."
     },
     {
-      "id": "2026-05-21-science-2",
-      "source": "Smithsonian Science-Nature",
-      "time_ago": "Thu, 07 May 2026 20:07:28 +0000",
-      "mined_at": "2026-05-21T18:50:14+00:00",
-      "source_published_at": "Thu, 07 May 2026 20:07:28 +0000",
-      "image_url": "",
+      "id": "2026-05-22-science-2",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Fri, 22 May 2026 05:17:29 EDT",
+      "mined_at": "2026-05-22T18:26:07+00:00",
+      "source_published_at": "Fri, 22 May 2026 05:17:29 EDT",
+      "image_url": "/article_images/article_a30e1443159f.webp",
       "category": "Science",
-      "title": "From Zombie Fungi to Fossil Birds: The Living Tributes to David Attenborough on His 100th Birthday",
-      "summary": "Scientists have named roughly 50 organisms after David Attenborough, including a mind-controlling fungus and a toothless prehistoric bird. To mark his 100th birthday, we spotlight ten species that reflect his enduring influence on naturalists worldwide."
+      "title": "Ancient Glassmaking Trick Transforms Futuristic Material Into a Pollution-Sponge",
+      "summary": "By adding sodium, scientists made metal-organic framework glass melt at lower temperatures, paving the way for its use in carbon capture and clean energy. The breakthrough was published in Nature Chemistry."
     },
     {
-      "id": "2026-05-21-science-3",
-      "source": "MIT Tech Review",
-      "time_ago": "Thu, 21 May 2026 14:30:45 +0000",
-      "mined_at": "2026-05-21T18:50:14+00:00",
-      "source_published_at": "Thu, 21 May 2026 14:30:45 +0000",
-      "image_url": "/article_images/article_f6318cb77e5d.webp",
+      "id": "2026-05-22-science-3",
+      "source": "Popular Science",
+      "time_ago": "Fri, 22 May 2026 10:08:00 -0400",
+      "mined_at": "2026-05-22T18:26:07+00:00",
+      "source_published_at": "Fri, 22 May 2026 10:08:00 -0400",
+      "image_url": "/article_images/article_ba5942811376.webp",
       "category": "Science",
-      "title": "Let It Cook: At Code with Claude, Developers Embrace AI That Codes, Tests, and Dreams",
-      "summary": "At Anthropic's developer conference, nearly half the attendees admitted to shipping AI-generated code without reading it. The company unveiled 'dreaming,' a feature that lets Claude learn from past tasks. But as automation accelerates, concerns about code quality and oversight are growing."
+      "title": "iOS 26.3 and 26.4: 12 Hidden Features That Make Your iPhone Smarter",
+      "summary": "From offline music recognition to AI-powered playlists and easier Android switching, Apple's latest updates pack subtle but useful upgrades. Here's what you might have missed."
     }
   ]
 }

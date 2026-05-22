@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-21-science-1",
-      "source": "Physics World",
-      "time_ago": "Thu, 21 May 2026 15:15:05 +0000",
-      "mined_at": "2026-05-21T18:50:14+00:00",
-      "source_published_at": "Thu, 21 May 2026 15:15:05 +0000",
-      "image_url": "/article_images/article_ab6afa1a13c3.webp",
+      "id": "2026-05-22-science-1",
+      "source": "Science News Explores",
+      "time_ago": "Fri, 22 May 2026 10:30:00 +0000",
+      "mined_at": "2026-05-22T18:26:07+00:00",
+      "source_published_at": "Fri, 22 May 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_98c9428c000f.webp",
       "category": "Science",
-      "title": "The Moon's Darkest Craters Could Power the World's Most Precise Lasers",
-      "summary": "Imagine a laser so steady it only drifts by one second every 30 billion years! Scientists found that super-cold, pitch-black craters on the Moon are perfect for building these amazing lasers. They could help us navigate on the Moon and even hunt for hidden space ripples."
+      "title": "Chew Away Your Worries? Teens Invent Anxiety-Fighting Gum!",
+      "summary": "Feeling nervous? Two high schoolers made a gum with passionflower extract that might help. They tested it at a huge science fair and won $600!"
     },
     {
-      "id": "2026-05-21-science-2",
-      "source": "Smithsonian Science-Nature",
-      "time_ago": "Thu, 07 May 2026 20:07:28 +0000",
-      "mined_at": "2026-05-21T18:50:14+00:00",
-      "source_published_at": "Thu, 07 May 2026 20:07:28 +0000",
-      "image_url": "",
+      "id": "2026-05-22-science-2",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Fri, 22 May 2026 05:17:29 EDT",
+      "mined_at": "2026-05-22T18:26:07+00:00",
+      "source_published_at": "Fri, 22 May 2026 05:17:29 EDT",
+      "image_url": "/article_images/article_a30e1443159f.webp",
       "category": "Science",
-      "title": "Happy 100th Birthday, David Attenborough! Here Are 10 Cool Creatures Named After You",
-      "summary": "A zombie-making fungus that controls cave spiders is just one of about 50 living things named after the legendary nature broadcaster David Attenborough. To celebrate his 100th birthday, meet ten of these amazing plants, animals, and even a prehistoric bird."
+      "title": "Super Sponge Glass: The Ancient Trick That Could Clean Our Air!",
+      "summary": "Scientists used an old glassmaking trick to make a new kind of glass that can trap gases like CO2. It's like a sponge that soaks up pollution!"
     },
     {
-      "id": "2026-05-21-science-3",
-      "source": "MIT Tech Review",
-      "time_ago": "Thu, 21 May 2026 14:30:45 +0000",
-      "mined_at": "2026-05-21T18:50:14+00:00",
-      "source_published_at": "Thu, 21 May 2026 14:30:45 +0000",
-      "image_url": "/article_images/article_f6318cb77e5d.webp",
+      "id": "2026-05-22-science-3",
+      "source": "Popular Science",
+      "time_ago": "Fri, 22 May 2026 10:08:00 -0400",
+      "mined_at": "2026-05-22T18:26:07+00:00",
+      "source_published_at": "Fri, 22 May 2026 10:08:00 -0400",
+      "image_url": "/article_images/article_ba5942811376.webp",
       "category": "Science",
-      "title": "Is AI Writing All Our Code Now? Inside the Event Where Developers Let Claude Do the Work",
-      "summary": "At a big coding conference, almost half the developers said they shipped code written entirely by AI—without even reading it! Companies like Anthropic are building AI that can code, test, and fix itself. But some worry: are we moving too fast?"
+      "title": "12 Secret Superpowers Your iPhone Just Got!",
+      "summary": "Apple's latest updates added cool hidden features: find concerts near you, new emoji, and even help switching to Android. Check them out!"
     }
   ]
 }
