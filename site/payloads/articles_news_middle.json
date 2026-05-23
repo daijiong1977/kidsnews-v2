@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-22-news-1",
+      "id": "2026-05-23-news-1",
+      "source": "Al Jazeera",
+      "time_ago": "Sat, 23 May 2026 14:11:23 +0000",
+      "mined_at": "2026-05-23T18:38:42+00:00",
+      "source_published_at": "Sat, 23 May 2026 14:11:23 +0000",
+      "image_url": "/article_images/article_974dd0a6b38a.webp",
+      "category": "News",
+      "title": "From Market Stalls to Kitchen Tables: How Global Turmoil Is Hiking Mexico's Food Bills",
+      "summary": "A 66-year-old retiree in Monterrey still buys tomatoes and chiles, but the prices sting. Global fuel and fertilizer costs, plus highway crime, are driving Mexico's food inflation to 8.1%—hitting low-income families who spend 70% of income on food."
+    },
+    {
+      "id": "2026-05-23-news-2",
       "source": "BBC News",
-      "time_ago": "Fri, 22 May 2026 11:33:47 GMT",
-      "mined_at": "2026-05-22T18:26:07+00:00",
-      "source_published_at": "Fri, 22 May 2026 11:33:47 GMT",
-      "image_url": "/article_images/article_1d819493891a.webp",
+      "time_ago": "Sat, 23 May 2026 17:09:16 GMT",
+      "mined_at": "2026-05-23T18:38:42+00:00",
+      "source_published_at": "Sat, 23 May 2026 17:09:16 GMT",
+      "image_url": "/article_images/article_6c7d1d9f17b9.webp",
       "category": "News",
-      "title": "Tuchel's World Cup Bombshell: Foden, Palmer, Alexander-Arnold Axed",
-      "summary": "England manager Thomas Tuchel dropped a bombshell by omitting Phil Foden, Cole Palmer, and Trent Alexander-Arnold from his 26-man World Cup squad. Harry Maguire called the decision 'shocking.' Ollie Watkins and Ivan Toney made the cut."
+      "title": "UK Braces for Record-Breaking Heatwave: 30.5°C and Rising",
+      "summary": "Saturday hit 30.5°C in Kent, the year's hottest day, and temperatures could soar to 33°C on Monday—potentially breaking a May record from 1944. Amber heat alerts warn of health risks, while climate change fuels the early-season scorcher."
     },
     {
-      "id": "2026-05-22-news-2",
-      "source": "NPR World",
-      "time_ago": "Fri, 22 May 2026 05:00:00 -0400",
-      "mined_at": "2026-05-22T18:26:07+00:00",
-      "source_published_at": "Fri, 22 May 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_477574a77e9d.webp",
-      "category": "News",
-      "title": "The 'Fabulous' Compliment That Helped a Cancer Patient Feel Seen",
-      "summary": "During chemotherapy for breast cancer, Pat Gentile dreaded going out without her wig. Then a stranger in a convenience store told her she looked 'fabulous.' That moment became a turning point, giving her the courage to face the world."
-    },
-    {
-      "id": "2026-05-22-news-3",
+      "id": "2026-05-23-news-3",
       "source": "PBS NewsHour",
-      "time_ago": "Fri, 22 May 2026 13:40:24 -0400",
-      "mined_at": "2026-05-22T18:26:07+00:00",
-      "source_published_at": "Fri, 22 May 2026 13:40:24 -0400",
-      "image_url": "/article_images/article_78b579fcd4a6.webp",
+      "time_ago": "Fri, 22 May 2026 18:55:23 -0400",
+      "mined_at": "2026-05-23T18:38:42+00:00",
+      "source_published_at": "Fri, 22 May 2026 18:55:23 -0400",
+      "image_url": "/article_images/article_b8e05449cc73.webp",
       "category": "News",
-      "title": "Gabbard Resigns as Intelligence Chief, Citing Husband's Cancer",
-      "summary": "Tulsi Gabbard resigned as director of national intelligence, saying her husband's rare bone cancer diagnosis requires her full attention. Her departure marks the fourth Cabinet exit in Trump's second term, amid reported tensions over Iran policy."
+      "title": "Tulsi Gabbard Resigns as Intelligence Chief Amid Husband's Cancer Battle and Policy Clashes",
+      "summary": "DNI Tulsi Gabbard stepped down to care for her husband with rare bone cancer, but her tenure was marked by controversy: she appeared at an FBI raid on Georgia election offices and opposed the Iran war, reportedly clashing with Trump's inner circle."
     }
   ]
 }

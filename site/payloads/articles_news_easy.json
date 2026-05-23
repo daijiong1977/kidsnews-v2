@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-22-news-1",
+      "id": "2026-05-23-news-1",
+      "source": "Al Jazeera",
+      "time_ago": "Sat, 23 May 2026 14:11:23 +0000",
+      "mined_at": "2026-05-23T18:38:42+00:00",
+      "source_published_at": "Sat, 23 May 2026 14:11:23 +0000",
+      "image_url": "/article_images/article_974dd0a6b38a.webp",
+      "category": "News",
+      "title": "Why Your Taco Tuesday Might Cost More: Mexico's Food Prices Are Soaring!",
+      "summary": "Imagine paying almost all your money just for food! In Mexico, rising fuel and fertilizer costs are making tomatoes, beef, and chiles super expensive. Families are cutting back, and some spend 70% of their income on meals."
+    },
+    {
+      "id": "2026-05-23-news-2",
       "source": "BBC News",
-      "time_ago": "Fri, 22 May 2026 11:33:47 GMT",
-      "mined_at": "2026-05-22T18:26:07+00:00",
-      "source_published_at": "Fri, 22 May 2026 11:33:47 GMT",
-      "image_url": "/article_images/article_1d819493891a.webp",
+      "time_ago": "Sat, 23 May 2026 17:09:16 GMT",
+      "mined_at": "2026-05-23T18:38:42+00:00",
+      "source_published_at": "Sat, 23 May 2026 17:09:16 GMT",
+      "image_url": "/article_images/article_6c7d1d9f17b9.webp",
       "category": "News",
-      "title": "Big Stars Left Out: England's World Cup Squad Surprises!",
-      "summary": "Phil Foden, Cole Palmer, and Trent Alexander-Arnold are not on England's World Cup team! Coach Thomas Tuchel picked 26 players, but left out these famous names. Harry Maguire said he was 'shocked and gutted.'"
+      "title": "Sizzling! UK Hits 30.5°C and It's Only Going to Get Hotter!",
+      "summary": "The UK just had its hottest day of the year at 30.5°C in Kent—and it might break a 1944 record! Heat health alerts are out, and Monday could hit 33°C. Even Scotland will warm up. Don't forget your sunscreen!"
     },
     {
-      "id": "2026-05-22-news-2",
-      "source": "NPR World",
-      "time_ago": "Fri, 22 May 2026 05:00:00 -0400",
-      "mined_at": "2026-05-22T18:26:07+00:00",
-      "source_published_at": "Fri, 22 May 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_477574a77e9d.webp",
-      "category": "News",
-      "title": "A Stranger's Kind Words Changed Her Life After Cancer",
-      "summary": "Pat Gentile was losing her hair from chemotherapy and felt scared to go out without a wig. Then a stranger in a store told her she looked 'fabulous.' That one compliment gave her the courage to face the world."
-    },
-    {
-      "id": "2026-05-22-news-3",
+      "id": "2026-05-23-news-3",
       "source": "PBS NewsHour",
-      "time_ago": "Fri, 22 May 2026 13:40:24 -0400",
-      "mined_at": "2026-05-22T18:26:07+00:00",
-      "source_published_at": "Fri, 22 May 2026 13:40:24 -0400",
-      "image_url": "/article_images/article_78b579fcd4a6.webp",
+      "time_ago": "Fri, 22 May 2026 18:55:23 -0400",
+      "mined_at": "2026-05-23T18:38:42+00:00",
+      "source_published_at": "Fri, 22 May 2026 18:55:23 -0400",
+      "image_url": "/article_images/article_b8e05449cc73.webp",
       "category": "News",
-      "title": "Tulsi Gabbard Steps Down as Trump's Spy Chief",
-      "summary": "Tulsi Gabbard resigned as President Trump's director of national intelligence. She said her husband has a rare bone cancer and she needs to take care of him. She is the fourth top official to leave during Trump's second term."
+      "title": "Top U.S. Spy Boss Tulsi Gabbard Steps Down for a Heartbreaking Reason",
+      "summary": "Tulsi Gabbard, the U.S. Director of National Intelligence, resigned to care for her husband, who has a rare bone cancer. She also made headlines for showing up at an FBI raid on an election office and opposing the Iran war."
     }
   ]
 }

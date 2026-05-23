@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-22-science-1",
-      "source": "Science News Explores",
-      "time_ago": "Fri, 22 May 2026 10:30:00 +0000",
-      "mined_at": "2026-05-22T18:26:07+00:00",
-      "source_published_at": "Fri, 22 May 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_98c9428c000f.webp",
+      "id": "2026-05-23-science-1",
+      "source": "ScienceDaily All",
+      "time_ago": "Fri, 22 May 2026 09:09:27 EDT",
+      "mined_at": "2026-05-23T18:38:42+00:00",
+      "source_published_at": "Fri, 22 May 2026 09:09:27 EDT",
+      "image_url": "/article_images/article_724067f48068.webp",
       "category": "Science",
-      "title": "Chew Away Your Worries? Teens Invent Anxiety-Fighting Gum!",
-      "summary": "Feeling nervous? Two high schoolers made a gum with passionflower extract that might help. They tested it at a huge science fair and won $600!"
+      "title": "Einstein's 'Wormhole' Isn't a Tunnel — It's a Time Mirror!",
+      "summary": "What if a wormhole isn't a space shortcut but a mirror that flips time? Scientists say Einstein's original idea was never about travel — it's about two arrows of time, forward and backward, that keep the universe from losing information. This could solve a huge black hole mystery."
     },
     {
-      "id": "2026-05-22-science-2",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Fri, 22 May 2026 05:17:29 EDT",
-      "mined_at": "2026-05-22T18:26:07+00:00",
-      "source_published_at": "Fri, 22 May 2026 05:17:29 EDT",
-      "image_url": "/article_images/article_a30e1443159f.webp",
+      "id": "2026-05-23-science-2",
+      "source": "Space.com",
+      "time_ago": "Sat, 23 May 2026 00:32:57 +0000",
+      "mined_at": "2026-05-23T18:38:42+00:00",
+      "source_published_at": "Sat, 23 May 2026 00:32:57 +0000",
+      "image_url": "/article_images/article_e5479fa6c4d2.webp",
       "category": "Science",
-      "title": "Super Sponge Glass: The Ancient Trick That Could Clean Our Air!",
-      "summary": "Scientists used an old glassmaking trick to make a new kind of glass that can trap gases like CO2. It's like a sponge that soaks up pollution!"
+      "title": "SpaceX's Giant Starship V3 Just Flew to Space for the First Time!",
+      "summary": "SpaceX launched its biggest, most powerful Starship yet — Version 3 — on its 12th test flight. The 408-foot-tall rocket reached space, but the booster crashed into the Gulf of Mexico instead of landing softly. Even with engine troubles, it deployed 22 Starlink satellites and captured amazing video from orbit."
     },
     {
-      "id": "2026-05-22-science-3",
-      "source": "Popular Science",
-      "time_ago": "Fri, 22 May 2026 10:08:00 -0400",
-      "mined_at": "2026-05-22T18:26:07+00:00",
-      "source_published_at": "Fri, 22 May 2026 10:08:00 -0400",
-      "image_url": "/article_images/article_ba5942811376.webp",
+      "id": "2026-05-23-science-3",
+      "source": "NPR Health",
+      "time_ago": "Fri, 22 May 2026 05:00:00 -0400",
+      "mined_at": "2026-05-23T18:38:42+00:00",
+      "source_published_at": "Fri, 22 May 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_4fb39f4f985f.webp",
       "category": "Science",
-      "title": "12 Secret Superpowers Your iPhone Just Got!",
-      "summary": "Apple's latest updates added cool hidden features: find concerts near you, new emoji, and even help switching to Android. Check them out!"
+      "title": "A Hospital Closed. Now a Brother Wonders If His Sister Could Have Been Saved.",
+      "summary": "When Martin General Hospital in North Carolina shut down in 2023, it left 22,000 people without nearby emergency care. A year later, Stanley Sears had a heart attack and died after a 30-minute ambulance ride. His sister Debra still wonders if a local hospital could have saved him. A $50 billion rural health fund won't help reopen it."
     }
   ]
 }
