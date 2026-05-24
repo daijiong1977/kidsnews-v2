@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-23-science-1",
-      "source": "ScienceDaily All",
-      "time_ago": "Fri, 22 May 2026 09:09:27 EDT",
-      "mined_at": "2026-05-23T18:38:42+00:00",
-      "source_published_at": "Fri, 22 May 2026 09:09:27 EDT",
-      "image_url": "/article_images/article_724067f48068.webp",
+      "id": "2026-05-24-science-1",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Sun, 24 May 2026 08:22:54 EDT",
+      "mined_at": "2026-05-24T18:05:00+00:00",
+      "source_published_at": "Sun, 24 May 2026 08:22:54 EDT",
+      "image_url": "/article_images/article_84ac1d68b4b1.webp",
       "category": "Science",
-      "title": "Einstein's 'Wormhole' Isn't a Tunnel — It's a Time Mirror!",
-      "summary": "What if a wormhole isn't a space shortcut but a mirror that flips time? Scientists say Einstein's original idea was never about travel — it's about two arrows of time, forward and backward, that keep the universe from losing information. This could solve a huge black hole mystery."
+      "title": "Whoa! The Oldest Wooden Tools Ever Found Are 430,000 Years Old!",
+      "summary": "Scientists in Greece just found two wooden tools that are way older than any others—by 40,000 years! One was probably a digging stick, and the other was carved too. Even cooler? A bear might have scratched some wood nearby!"
     },
     {
-      "id": "2026-05-23-science-2",
-      "source": "Space.com",
-      "time_ago": "Sat, 23 May 2026 00:32:57 +0000",
-      "mined_at": "2026-05-23T18:38:42+00:00",
-      "source_published_at": "Sat, 23 May 2026 00:32:57 +0000",
-      "image_url": "/article_images/article_e5479fa6c4d2.webp",
+      "id": "2026-05-24-science-2",
+      "source": "NASA News",
+      "time_ago": "Fri, 22 May 2026 15:45:38 +0000",
+      "mined_at": "2026-05-24T18:05:00+00:00",
+      "source_published_at": "Fri, 22 May 2026 15:45:38 +0000",
+      "image_url": "/article_images/article_6b04ccc4daaf.webp",
       "category": "Science",
-      "title": "SpaceX's Giant Starship V3 Just Flew to Space for the First Time!",
-      "summary": "SpaceX launched its biggest, most powerful Starship yet — Version 3 — on its 12th test flight. The 408-foot-tall rocket reached space, but the booster crashed into the Gulf of Mexico instead of landing softly. Even with engine troubles, it deployed 22 Starlink satellites and captured amazing video from orbit."
+      "title": "Meet the Super Crews Who Keep NASA’s Coolest Planes Flying!",
+      "summary": "At NASA’s Armstrong center, ground crews work magic every day to keep jets like the X-59 and ER-2 ready for science missions. They fix everything from brakes to ejection seats, and one crew chief says they “adapt and overcome” any challenge!"
     },
     {
-      "id": "2026-05-23-science-3",
-      "source": "NPR Health",
-      "time_ago": "Fri, 22 May 2026 05:00:00 -0400",
-      "mined_at": "2026-05-23T18:38:42+00:00",
-      "source_published_at": "Fri, 22 May 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_4fb39f4f985f.webp",
+      "id": "2026-05-24-science-3",
+      "source": "IEEE Spectrum",
+      "time_ago": "Thu, 21 May 2026 18:00:01 +0000",
+      "mined_at": "2026-05-24T18:05:00+00:00",
+      "source_published_at": "Thu, 21 May 2026 18:00:01 +0000",
+      "image_url": "/article_images/article_65ce3f605de2.webp",
       "category": "Science",
-      "title": "A Hospital Closed. Now a Brother Wonders If His Sister Could Have Been Saved.",
-      "summary": "When Martin General Hospital in North Carolina shut down in 2023, it left 22,000 people without nearby emergency care. A year later, Stanley Sears had a heart attack and died after a 30-minute ambulance ride. His sister Debra still wonders if a local hospital could have saved him. A $50 billion rural health fund won't help reopen it."
+      "title": "Is That Health App Really Safe? IEEE Is Checking for You!",
+      "summary": "Tons of medical apps claim to help with things like depression or pain, but most haven’t been checked by experts. Now, IEEE has a new registry where apps can get verified for safety and privacy—so you know which ones to trust!"
     }
   ]
 }

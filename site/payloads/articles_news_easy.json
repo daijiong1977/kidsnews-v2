@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-23-news-1",
-      "source": "Al Jazeera",
-      "time_ago": "Sat, 23 May 2026 14:11:23 +0000",
-      "mined_at": "2026-05-23T18:38:42+00:00",
-      "source_published_at": "Sat, 23 May 2026 14:11:23 +0000",
-      "image_url": "/article_images/article_974dd0a6b38a.webp",
+      "id": "2026-05-24-news-1",
+      "source": "NPR World",
+      "time_ago": "Sun, 24 May 2026 05:00:00 -0400",
+      "mined_at": "2026-05-24T18:05:00+00:00",
+      "source_published_at": "Sun, 24 May 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_26a460378a25.webp",
       "category": "News",
-      "title": "Why Your Taco Tuesday Might Cost More: Mexico's Food Prices Are Soaring!",
-      "summary": "Imagine paying almost all your money just for food! In Mexico, rising fuel and fertilizer costs are making tomatoes, beef, and chiles super expensive. Families are cutting back, and some spend 70% of their income on meals."
+      "title": "Enemies Turned Business Partners: Israelis and Palestinians Build Startups Together",
+      "summary": "What if your business partner was from the other side of a war? That's what's happening in a program called 50:50 Startups. Salah Hussein, a Palestinian, and Yana Shaulov, an Israeli, are working together on a bug-detecting camera for greenhouses. They're showing that cooperation is possible, even when it's hard."
     },
     {
-      "id": "2026-05-23-news-2",
-      "source": "BBC News",
-      "time_ago": "Sat, 23 May 2026 17:09:16 GMT",
-      "mined_at": "2026-05-23T18:38:42+00:00",
-      "source_published_at": "Sat, 23 May 2026 17:09:16 GMT",
-      "image_url": "/article_images/article_6c7d1d9f17b9.webp",
-      "category": "News",
-      "title": "Sizzling! UK Hits 30.5°C and It's Only Going to Get Hotter!",
-      "summary": "The UK just had its hottest day of the year at 30.5°C in Kent—and it might break a 1944 record! Heat health alerts are out, and Monday could hit 33°C. Even Scotland will warm up. Don't forget your sunscreen!"
-    },
-    {
-      "id": "2026-05-23-news-3",
+      "id": "2026-05-24-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Fri, 22 May 2026 18:55:23 -0400",
-      "mined_at": "2026-05-23T18:38:42+00:00",
-      "source_published_at": "Fri, 22 May 2026 18:55:23 -0400",
-      "image_url": "/article_images/article_b8e05449cc73.webp",
+      "time_ago": "Sun, 24 May 2026 13:27:52 -0400",
+      "mined_at": "2026-05-24T18:05:00+00:00",
+      "source_published_at": "Sun, 24 May 2026 13:27:52 -0400",
+      "image_url": "/article_images/article_0ac7ad8b759a.webp",
       "category": "News",
-      "title": "Top U.S. Spy Boss Tulsi Gabbard Steps Down for a Heartbreaking Reason",
-      "summary": "Tulsi Gabbard, the U.S. Director of National Intelligence, resigned to care for her husband, who has a rare bone cancer. She also made headlines for showing up at an FBI raid on an election office and opposing the Iran war."
+      "title": "Hong Kong's First Astronaut Blasts Off on a Yearlong Space Mission!",
+      "summary": "A rocket just launched three astronauts to China's space station, and one of them is making history! Lai Ka-ying is the first astronaut from Hong Kong. She'll help with science experiments, and one crew member will stay in space for a whole year to see how the human body handles it."
+    },
+    {
+      "id": "2026-05-24-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Sun, 24 May 2026 12:53:01 -0400",
+      "mined_at": "2026-05-24T18:05:00+00:00",
+      "source_published_at": "Sun, 24 May 2026 12:53:01 -0400",
+      "image_url": "/article_images/article_50199271870a.webp",
+      "category": "News",
+      "title": "20 Times on Top of the World! Meet the Everest Guide Who Just Won't Quit",
+      "summary": "Kenton Cool, a British mountain guide, just climbed Mount Everest for the 20th time—a new record for a non-Sherpa! He's 52 and says he might do it two or three more times. This year, 274 climbers reached the top in a single day, but Cool says his team had no crowds and a great summit."
     }
   ]
 }

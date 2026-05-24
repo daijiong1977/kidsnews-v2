@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-23-science-1",
-      "source": "ScienceDaily All",
-      "time_ago": "Fri, 22 May 2026 09:09:27 EDT",
-      "mined_at": "2026-05-23T18:38:42+00:00",
-      "source_published_at": "Fri, 22 May 2026 09:09:27 EDT",
-      "image_url": "/article_images/article_724067f48068.webp",
+      "id": "2026-05-24-science-1",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Sun, 24 May 2026 08:22:54 EDT",
+      "mined_at": "2026-05-24T18:05:00+00:00",
+      "source_published_at": "Sun, 24 May 2026 08:22:54 EDT",
+      "image_url": "/article_images/article_84ac1d68b4b1.webp",
       "category": "Science",
-      "title": "Forget Space Tunnels — Einstein's 'Wormhole' Is Really a Mirror That Flips Time",
-      "summary": "Wormholes aren't cosmic shortcuts; they're time mirrors. New research reinterprets Einstein and Rosen's 1935 'bridge' as a link between forward and backward arrows of time — a concept that could resolve the black hole information paradox without exotic physics. It's a hidden symmetry at the heart of spacetime."
+      "title": "430,000-Year-Old Wooden Tools Rewrite the Story of Early Human Ingenuity",
+      "summary": "Archaeologists in Greece have unearthed the oldest known wooden tools, dating back 430,000 years—beating the previous record by 40,000 years. The finds include a digging stick and a carved fragment, revealing surprising skill in early humans. Even a bear’s claw marks were found nearby."
     },
     {
-      "id": "2026-05-23-science-2",
-      "source": "Space.com",
-      "time_ago": "Sat, 23 May 2026 00:32:57 +0000",
-      "mined_at": "2026-05-23T18:38:42+00:00",
-      "source_published_at": "Sat, 23 May 2026 00:32:57 +0000",
-      "image_url": "/article_images/article_e5479fa6c4d2.webp",
+      "id": "2026-05-24-science-2",
+      "source": "NASA News",
+      "time_ago": "Fri, 22 May 2026 15:45:38 +0000",
+      "mined_at": "2026-05-24T18:05:00+00:00",
+      "source_published_at": "Fri, 22 May 2026 15:45:38 +0000",
+      "image_url": "/article_images/article_6b04ccc4daaf.webp",
       "category": "Science",
-      "title": "Starship V3 Reaches Space on First Flight, Despite Booster Crash and Engine Losses",
-      "summary": "SpaceX's massive Starship Version 3 — a complete design overhaul standing 408 feet tall — flew for the first time on Friday. The suborbital test saw engine failures and the Super Heavy booster crash into the Gulf, but the upper stage reached space and deployed 22 Starlink simulators, capturing spectacular orbital video."
+      "title": "Behind Every NASA Flight: The Unsung Heroes Keeping Experimental Aircraft Mission-Ready",
+      "summary": "At NASA’s Armstrong Flight Research Center, maintenance crews work tirelessly to keep a diverse fleet—from F-15s to the X-59—safe and operational. They handle everything from ejection seats to rapid reconfigurations, ensuring science missions never miss a beat. Crew chief Jose Rodriguez says they “adapt and overcome” any challenge."
     },
     {
-      "id": "2026-05-23-science-3",
-      "source": "NPR Health",
-      "time_ago": "Fri, 22 May 2026 05:00:00 -0400",
-      "mined_at": "2026-05-23T18:38:42+00:00",
-      "source_published_at": "Fri, 22 May 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_4fb39f4f985f.webp",
+      "id": "2026-05-24-science-3",
+      "source": "IEEE Spectrum",
+      "time_ago": "Thu, 21 May 2026 18:00:01 +0000",
+      "mined_at": "2026-05-24T18:05:00+00:00",
+      "source_published_at": "Thu, 21 May 2026 18:00:01 +0000",
+      "image_url": "/article_images/article_65ce3f605de2.webp",
       "category": "Science",
-      "title": "A Closed Hospital, a Fatal Heart Attack, and a $50 Billion Fund That Can't Help",
-      "summary": "Stanley Sears died after a heart attack in rural Martin County, N.C., a year after its only hospital closed. His sister Debra Pierce wonders if a nearby ER could have saved him. A $50 billion rural health fund offers no relief — because the hospital isn't open. The county now plans to spend $1.5 million on paramedic units."
+      "title": "Can You Trust That Medical App? IEEE’s New Registry Aims to Separate Science from Hype",
+      "summary": "Over 55,000 therapeutic apps claim to treat conditions like depression or diabetes, but most lack independent review. IEEE’s new Global Medical Mobile App Assessment and Registry will verify apps for clinical efficacy, ethical design, and data security, helping patients and doctors spot trustworthy tools."
     }
   ]
 }
