@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-24-news-1",
-      "source": "NPR World",
-      "time_ago": "Sun, 24 May 2026 05:00:00 -0400",
-      "mined_at": "2026-05-24T18:05:00+00:00",
-      "source_published_at": "Sun, 24 May 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_26a460378a25.webp",
+      "id": "2026-05-25-news-1",
+      "source": "BBC News",
+      "time_ago": "Mon, 25 May 2026 17:20:10 GMT",
+      "mined_at": "2026-05-25T18:23:05+00:00",
+      "source_published_at": "Mon, 25 May 2026 17:20:10 GMT",
+      "image_url": "/article_images/article_c08c0b5acda1.webp",
       "category": "News",
-      "title": "Enemies Turned Business Partners: Israelis and Palestinians Build Startups Together",
-      "summary": "What if your business partner was from the other side of a war? That's what's happening in a program called 50:50 Startups. Salah Hussein, a Palestinian, and Yana Shaulov, an Israeli, are working together on a bug-detecting camera for greenhouses. They're showing that cooperation is possible, even when it's hard."
+      "title": "UK Bakes in Hottest May Day Ever — Donkeys Get the Day Off!",
+      "summary": "The UK hit a scorching 34.8°C on Monday — the hottest May day ever recorded. Even donkeys at a derby got to stay home because of the heat. Some places might reach 35°C."
     },
     {
-      "id": "2026-05-24-news-2",
+      "id": "2026-05-25-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Sun, 24 May 2026 13:27:52 -0400",
-      "mined_at": "2026-05-24T18:05:00+00:00",
-      "source_published_at": "Sun, 24 May 2026 13:27:52 -0400",
-      "image_url": "/article_images/article_0ac7ad8b759a.webp",
+      "time_ago": "Mon, 25 May 2026 13:50:22 -0400",
+      "mined_at": "2026-05-25T18:23:05+00:00",
+      "source_published_at": "Mon, 25 May 2026 13:50:22 -0400",
+      "image_url": "/article_images/article_9fe29ed4a21e.webp",
       "category": "News",
-      "title": "Hong Kong's First Astronaut Blasts Off on a Yearlong Space Mission!",
-      "summary": "A rocket just launched three astronauts to China's space station, and one of them is making history! Lai Ka-ying is the first astronaut from Hong Kong. She'll help with science experiments, and one crew member will stay in space for a whole year to see how the human body handles it."
+      "title": "Pope Says Sorry for Church's Part in Slavery — A First in History!",
+      "summary": "Pope Leo XIV made a historic apology on Monday for the Vatican's role in allowing slavery centuries ago. He said past popes gave rulers permission to enslave people, and called it a 'wound in Christian memory.'"
     },
     {
-      "id": "2026-05-24-news-3",
-      "source": "PBS NewsHour",
-      "time_ago": "Sun, 24 May 2026 12:53:01 -0400",
-      "mined_at": "2026-05-24T18:05:00+00:00",
-      "source_published_at": "Sun, 24 May 2026 12:53:01 -0400",
-      "image_url": "/article_images/article_50199271870a.webp",
+      "id": "2026-05-25-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Mon, 25 May 2026 17:05:49 +0000",
+      "mined_at": "2026-05-25T18:23:05+00:00",
+      "source_published_at": "Mon, 25 May 2026 17:05:49 +0000",
+      "image_url": "/article_images/article_447cc485da1e.webp",
       "category": "News",
-      "title": "20 Times on Top of the World! Meet the Everest Guide Who Just Won't Quit",
-      "summary": "Kenton Cool, a British mountain guide, just climbed Mount Everest for the 20th time—a new record for a non-Sherpa! He's 52 and says he might do it two or three more times. This year, 274 climbers reached the top in a single day, but Cool says his team had no crowds and a great summit."
+      "title": "1.5 Million Pilgrims Begin Hajj in Saudi Arabia's Scorching Heat",
+      "summary": "Over 1.5 million Muslims from around the world have arrived in Mecca for the Hajj pilgrimage. They are braving intense heat and regional tensions, but many say the journey is a dream come true."
     }
   ]
 }

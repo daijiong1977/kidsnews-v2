@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-24-news-1",
-      "source": "NPR World",
-      "time_ago": "Sun, 24 May 2026 05:00:00 -0400",
-      "mined_at": "2026-05-24T18:05:00+00:00",
-      "source_published_at": "Sun, 24 May 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_26a460378a25.webp",
+      "id": "2026-05-25-news-1",
+      "source": "BBC News",
+      "time_ago": "Mon, 25 May 2026 17:20:10 GMT",
+      "mined_at": "2026-05-25T18:23:05+00:00",
+      "source_published_at": "Mon, 25 May 2026 17:20:10 GMT",
+      "image_url": "/article_images/article_c08c0b5acda1.webp",
       "category": "News",
-      "title": "Crossing the Divide: Israeli and Palestinian Entrepreneurs Bet on Business to Build Peace",
-      "summary": "In a war-torn region, a startup accelerator called 50:50 is bringing together Israelis and Palestinians to launch companies. Salah Hussein, once terrified of Israeli soldiers, now co-founded Qanara Tech with Israeli Yana Shaulov. Their AI camera detects greenhouse pests. Despite backlash and a 90% startup failure rate, they believe tiny collaborations can spark change."
+      "title": "Records Shatter as UK Swelters Through Hottest May Day in History",
+      "summary": "The UK recorded its hottest May temperature ever — 34.8°C in London — surpassing a 2019 record. Wales also set a new high. Health alerts are in effect, and some events were canceled to protect animals from the extreme heat."
     },
     {
-      "id": "2026-05-24-news-2",
+      "id": "2026-05-25-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Sun, 24 May 2026 13:27:52 -0400",
-      "mined_at": "2026-05-24T18:05:00+00:00",
-      "source_published_at": "Sun, 24 May 2026 13:27:52 -0400",
-      "image_url": "/article_images/article_0ac7ad8b759a.webp",
+      "time_ago": "Mon, 25 May 2026 13:50:22 -0400",
+      "mined_at": "2026-05-25T18:23:05+00:00",
+      "source_published_at": "Mon, 25 May 2026 13:50:22 -0400",
+      "image_url": "/article_images/article_9fe29ed4a21e.webp",
       "category": "News",
-      "title": "Shenzhou 23 Launches with First Hong Kong Astronaut and a Yearlong Stay Ahead",
-      "summary": "China's Shenzhou 23 mission lifted off Sunday carrying three astronauts to the Tiangong space station. Lai Ka-ying, a computer forensics expert, is Hong Kong's first astronaut. One crew member will remain in orbit for a full year to test human limits in long-duration spaceflight—a crucial step for future lunar and Mars missions."
+      "title": "In Historic First, Pope Apologizes for Vatican's Role in Legitimizing Slavery",
+      "summary": "Pope Leo XIV issued an unprecedented apology for the Holy See's role in authorizing the enslavement of non-Christians during the colonial era. The apology, in his first encyclical, acknowledges past papal decrees that explicitly permitted slavery."
     },
     {
-      "id": "2026-05-24-news-3",
-      "source": "PBS NewsHour",
-      "time_ago": "Sun, 24 May 2026 12:53:01 -0400",
-      "mined_at": "2026-05-24T18:05:00+00:00",
-      "source_published_at": "Sun, 24 May 2026 12:53:01 -0400",
-      "image_url": "/article_images/article_50199271870a.webp",
+      "id": "2026-05-25-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Mon, 25 May 2026 17:05:49 +0000",
+      "mined_at": "2026-05-25T18:23:05+00:00",
+      "source_published_at": "Mon, 25 May 2026 17:05:49 +0000",
+      "image_url": "/article_images/article_447cc485da1e.webp",
       "category": "News",
-      "title": "Kenton Cool Summits Everest for 20th Time, Breaking His Own Record and Eyeing More",
-      "summary": "British guide Kenton Cool, 52, scaled Everest for a record 20th time by a non-Sherpa, reaching the summit Friday amid a season of both crowds and danger. A record 274 climbers topped out in one day after a serac delay compressed the weather window. Cool advocates for experience-based permitting, not number caps, as Nepal considers new regulations."
+      "title": "Amid War and Energy Crisis, Over 1.5 Million Begin Hajj Pilgrimage",
+      "summary": "More than 1.5 million Muslims have arrived in Mecca for the annual Hajj, one of Islam's five pillars. The pilgrimage unfolds against a backdrop of a fragile Iran ceasefire and global energy turmoil, but pilgrims remain focused on spiritual transformation."
     }
   ]
 }
