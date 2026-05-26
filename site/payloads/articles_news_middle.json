@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-25-news-1",
-      "source": "BBC News",
-      "time_ago": "Mon, 25 May 2026 17:20:10 GMT",
-      "mined_at": "2026-05-25T18:23:05+00:00",
-      "source_published_at": "Mon, 25 May 2026 17:20:10 GMT",
-      "image_url": "/article_images/article_c08c0b5acda1.webp",
+      "id": "2026-05-26-news-1",
+      "source": "NPR World",
+      "time_ago": "Mon, 25 May 2026 19:03:41 -0400",
+      "mined_at": "2026-05-26T18:37:32+00:00",
+      "source_published_at": "Mon, 25 May 2026 19:03:41 -0400",
+      "image_url": "/article_images/article_4f88eafbf74e.webp",
       "category": "News",
-      "title": "Records Shatter as UK Swelters Through Hottest May Day in History",
-      "summary": "The UK recorded its hottest May temperature ever — 34.8°C in London — surpassing a 2019 record. Wales also set a new high. Health alerts are in effect, and some events were canceled to protect animals from the extreme heat."
+      "title": "At 38, Tim Ream Aims to Anchor U.S. Defense and Ignite a Soccer Revolution at Home",
+      "summary": "Veteran defender Tim Ream, 38, could be named to the U.S. World Cup roster tomorrow. He believes the 2026 tournament can finally make soccer a major sport in America, inspiring millions of kids."
     },
     {
-      "id": "2026-05-25-news-2",
+      "id": "2026-05-26-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Mon, 25 May 2026 13:50:22 -0400",
-      "mined_at": "2026-05-25T18:23:05+00:00",
-      "source_published_at": "Mon, 25 May 2026 13:50:22 -0400",
-      "image_url": "/article_images/article_9fe29ed4a21e.webp",
+      "time_ago": "Tue, 26 May 2026 13:40:40 -0400",
+      "mined_at": "2026-05-26T18:37:32+00:00",
+      "source_published_at": "Tue, 26 May 2026 13:40:40 -0400",
+      "image_url": "/article_images/article_91ea353bdc29.webp",
       "category": "News",
-      "title": "In Historic First, Pope Apologizes for Vatican's Role in Legitimizing Slavery",
-      "summary": "Pope Leo XIV issued an unprecedented apology for the Holy See's role in authorizing the enslavement of non-Christians during the colonial era. The apology, in his first encyclical, acknowledges past papal decrees that explicitly permitted slavery."
+      "title": "Record-Shattering Spring Heat Wave Scorches Europe, Leaving Multiple Dead",
+      "summary": "The UK hit 95.2°F on Tuesday, smashing a century-old May record. France and Spain also saw unprecedented heat. At least 11 people died in drownings and heat-related incidents. Scientists link the extreme weather to climate change."
     },
     {
-      "id": "2026-05-25-news-3",
+      "id": "2026-05-26-news-3",
       "source": "Al Jazeera",
-      "time_ago": "Mon, 25 May 2026 17:05:49 +0000",
-      "mined_at": "2026-05-25T18:23:05+00:00",
-      "source_published_at": "Mon, 25 May 2026 17:05:49 +0000",
-      "image_url": "/article_images/article_447cc485da1e.webp",
+      "time_ago": "Tue, 26 May 2026 17:27:32 +0000",
+      "mined_at": "2026-05-26T18:37:32+00:00",
+      "source_published_at": "Tue, 26 May 2026 17:27:32 +0000",
+      "image_url": "/article_images/article_d21058acea49.webp",
       "category": "News",
-      "title": "Amid War and Energy Crisis, Over 1.5 Million Begin Hajj Pilgrimage",
-      "summary": "More than 1.5 million Muslims have arrived in Mecca for the annual Hajj, one of Islam's five pillars. The pilgrimage unfolds against a backdrop of a fragile Iran ceasefire and global energy turmoil, but pilgrims remain focused on spiritual transformation."
+      "title": "Armenia Inks Strategic Pact with U.S., Drawing Kremlin's Ire Ahead of Elections",
+      "summary": "Armenia signed a strategic partnership with the U.S., including a 27-mile corridor deal. The TRIPP route gives Azerbaijan a direct link to Turkey. Russia, a longtime ally, threatens to hike gas prices as Armenia pivots West."
     }
   ]
 }

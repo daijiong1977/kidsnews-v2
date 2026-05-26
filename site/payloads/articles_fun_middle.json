@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-25-fun-1",
-      "source": "Live Science",
-      "time_ago": "Mon, 25 May 2026 10:00:00 +0000",
-      "mined_at": "2026-05-25T18:23:05+00:00",
-      "source_published_at": "Mon, 25 May 2026 10:00:00 +0000",
-      "image_url": "/article_images/article_e08b58f3b3fd.webp",
+      "id": "2026-05-26-fun-1",
+      "source": "/Film",
+      "time_ago": "Tue, 26 May 2026 17:00:00 +0000",
+      "mined_at": "2026-05-26T18:37:32+00:00",
+      "source_published_at": "Tue, 26 May 2026 17:00:00 +0000",
+      "image_url": "/article_images/article_103ff0653f7f.webp",
       "category": "Fun",
-      "title": "Ganymede's Magnetic Mystery: A 'Warming-Driven Dynamo' Could Rewrite Moon Formation",
-      "summary": "Jupiter's moon Ganymede is the only moon with its own magnetic field. A new study proposes it's heating up from the inside—a process never seen before—which could explain how its metallic core formed late and still powers a dynamo today."
+      "title": "How a Pixar Intern and Conan O'Brien Created Toy Story 5's Funniest New Character",
+      "summary": "Smarty Pants, a potty-training toy with dying batteries, is voiced by Conan O'Brien and designed from an intern's sketch. His low-battery slurring and toilet obsession make him a scene-stealer in the first half of Toy Story 5."
     },
     {
-      "id": "2026-05-25-fun-2",
-      "source": "Live Science",
-      "time_ago": "Mon, 25 May 2026 11:00:00 +0000",
-      "mined_at": "2026-05-25T18:23:05+00:00",
-      "source_published_at": "Mon, 25 May 2026 11:00:00 +0000",
-      "image_url": "/article_images/article_ce3bb190560c.webp",
+      "id": "2026-05-26-fun-2",
+      "source": "NPR Music",
+      "time_ago": "Tue, 26 May 2026 02:27:53 -0400",
+      "mined_at": "2026-05-26T18:37:32+00:00",
+      "source_published_at": "Tue, 26 May 2026 02:27:53 -0400",
+      "image_url": "/article_images/article_a77f681f65d0.webp",
       "category": "Fun",
-      "title": "Venus' Coronae: 3D Maps Reveal a Planet More Active Than We Knew",
-      "summary": "New 3D models of Venus' largest coronae—giant circular fracture systems—suggest warm mantle upwellings beneath 52 of them. This is the strongest evidence yet that plume-related tectonic processes are active on our twin planet."
+      "title": "A Century of Cool: How Miles Davis Reinvented Jazz (and Himself) Again and Again",
+      "summary": "On his 100th birthday, Miles Davis is remembered as a restless innovator. From bebop to Kind of Blue to electric fusion, he constantly reshaped jazz. WRTI in Philadelphia is playing his music all day to mark the centennial."
     },
     {
-      "id": "2026-05-25-fun-3",
-      "source": "SwimSwam",
-      "time_ago": "Mon, 25 May 2026 17:00:25 +0000",
-      "mined_at": "2026-05-25T18:23:05+00:00",
-      "source_published_at": "Mon, 25 May 2026 17:00:25 +0000",
-      "image_url": "/article_images/article_a57d98f63292.webp",
+      "id": "2026-05-26-fun-3",
+      "source": "NPR Music",
+      "time_ago": "Mon, 25 May 2026 21:51:45 -0400",
+      "mined_at": "2026-05-26T18:37:32+00:00",
+      "source_published_at": "Mon, 25 May 2026 21:51:45 -0400",
+      "image_url": "/article_images/article_385e053cd80e.webp",
       "category": "Fun",
-      "title": "London International Finals: Wiffen, Moesch, and Tribuntsov Headline Electric Closing Session",
-      "summary": "The 2026 AP Race London International concludes tonight at the London Aquatic Centre. Olympic champion Daniel Wiffen faces a German distance trio, while Anna Moesch and Ralf Tribuntsov look to cap dominant meets with more gold."
+      "title": "Sonny Rollins, Saxophone Colossus Who Practiced on a Bridge, Dies at 95",
+      "summary": "Jazz titan Sonny Rollins, known for his massive tenor sax sound and legendary practice sessions on the Williamsburg Bridge, died at his Woodstock home. He was 95 and remained a restless, spontaneous artist to the end."
     }
   ]
 }

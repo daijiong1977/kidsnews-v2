@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-25-news-1",
-      "source": "BBC News",
-      "time_ago": "Mon, 25 May 2026 17:20:10 GMT",
-      "mined_at": "2026-05-25T18:23:05+00:00",
-      "source_published_at": "Mon, 25 May 2026 17:20:10 GMT",
-      "image_url": "/article_images/article_c08c0b5acda1.webp",
+      "id": "2026-05-26-news-1",
+      "source": "NPR World",
+      "time_ago": "Mon, 25 May 2026 19:03:41 -0400",
+      "mined_at": "2026-05-26T18:37:32+00:00",
+      "source_published_at": "Mon, 25 May 2026 19:03:41 -0400",
+      "image_url": "/article_images/article_4f88eafbf74e.webp",
       "category": "News",
-      "title": "UK Bakes in Hottest May Day Ever — Donkeys Get the Day Off!",
-      "summary": "The UK hit a scorching 34.8°C on Monday — the hottest May day ever recorded. Even donkeys at a derby got to stay home because of the heat. Some places might reach 35°C."
+      "title": "Can a 38-Year-Old Soccer Star Help America Fall in Love with the World Cup?",
+      "summary": "Tim Ream, 38, hopes to make the U.S. team for the 2026 World Cup. He wants to inspire kids to love soccer, just like the 1994 World Cup did when he was 6."
     },
     {
-      "id": "2026-05-25-news-2",
+      "id": "2026-05-26-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Mon, 25 May 2026 13:50:22 -0400",
-      "mined_at": "2026-05-25T18:23:05+00:00",
-      "source_published_at": "Mon, 25 May 2026 13:50:22 -0400",
-      "image_url": "/article_images/article_9fe29ed4a21e.webp",
+      "time_ago": "Tue, 26 May 2026 13:40:40 -0400",
+      "mined_at": "2026-05-26T18:37:32+00:00",
+      "source_published_at": "Tue, 26 May 2026 13:40:40 -0400",
+      "image_url": "/article_images/article_91ea353bdc29.webp",
       "category": "News",
-      "title": "Pope Says Sorry for Church's Part in Slavery — A First in History!",
-      "summary": "Pope Leo XIV made a historic apology on Monday for the Vatican's role in allowing slavery centuries ago. He said past popes gave rulers permission to enslave people, and called it a 'wound in Christian memory.'"
+      "title": "Europe's Crazy Spring Heat Wave Breaks 100-Year-Old Records!",
+      "summary": "The UK hit 95.2°F, breaking a record from 1922. France and Spain also saw extreme heat. At least 11 people died trying to cool off in water. Scientists say climate change made it worse."
     },
     {
-      "id": "2026-05-25-news-3",
+      "id": "2026-05-26-news-3",
       "source": "Al Jazeera",
-      "time_ago": "Mon, 25 May 2026 17:05:49 +0000",
-      "mined_at": "2026-05-25T18:23:05+00:00",
-      "source_published_at": "Mon, 25 May 2026 17:05:49 +0000",
-      "image_url": "/article_images/article_447cc485da1e.webp",
+      "time_ago": "Tue, 26 May 2026 17:27:32 +0000",
+      "mined_at": "2026-05-26T18:37:32+00:00",
+      "source_published_at": "Tue, 26 May 2026 17:27:32 +0000",
+      "image_url": "/article_images/article_d21058acea49.webp",
       "category": "News",
-      "title": "1.5 Million Pilgrims Begin Hajj in Saudi Arabia's Scorching Heat",
-      "summary": "Over 1.5 million Muslims from around the world have arrived in Mecca for the Hajj pilgrimage. They are braving intense heat and regional tensions, but many say the journey is a dream come true."
+      "title": "Armenia Signs Big Deal with the U.S.—But Russia Isn't Happy",
+      "summary": "Armenia signed a partnership with the U.S. to build a 27-mile corridor called TRIPP. It will connect Azerbaijan to Turkey. But Russia, Armenia's old ally, might raise gas prices in response."
     }
   ]
 }

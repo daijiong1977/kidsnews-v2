@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-25-science-1",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Sun, 24 May 2026 06:56:54 EDT",
-      "mined_at": "2026-05-25T18:23:05+00:00",
-      "source_published_at": "Sun, 24 May 2026 06:56:54 EDT",
-      "image_url": "/article_images/article_1fb71f02e676.webp",
+      "id": "2026-05-26-science-1",
+      "source": "Popular Science",
+      "time_ago": "Tue, 26 May 2026 12:27:00 -0400",
+      "mined_at": "2026-05-26T18:37:32+00:00",
+      "source_published_at": "Tue, 26 May 2026 12:27:00 -0400",
+      "image_url": "/article_images/article_e36be76ab3c8.webp",
       "category": "Science",
-      "title": "The Most Energetic Neutrino Ever Detected May Have Originated from a Blazar's Cosmic Cannon",
-      "summary": "In 2023, an underwater detector caught a neutrino with a staggering 220 PeV of energy—over ten times more powerful than any seen before. A new study suggests it came from blazars, supermassive black holes that shoot jets of plasma directly at Earth. The finding could unlock secrets of the universe's most extreme accelerators."
+      "title": "From Ancient China to NASA: The Surprising Science of Paper Airplanes",
+      "summary": "National Paper Airplane Day is May 26. The world record throw is 252.6 feet—farther than a Boeing 737 wingspan. NASA offers free folding guides for its experimental aircraft, blending art and aeronautics."
     },
     {
-      "id": "2026-05-25-science-2",
-      "source": "ScienceDaily All",
+      "id": "2026-05-26-science-2",
+      "source": "Space.com",
+      "time_ago": "Tue, 26 May 2026 14:00:00 +0000",
+      "mined_at": "2026-05-26T18:37:32+00:00",
+      "source_published_at": "Tue, 26 May 2026 14:00:00 +0000",
+      "image_url": "/article_images/article_0b71a3abb471.webp",
+      "category": "Science",
+      "title": "Mirror Image in Space: Artemis 2 Boosters Separate with Stunning Precision",
+      "summary": "A breathtaking photo from NASA's Artemis 2 mission shows the SLS rocket's twin boosters separating in perfect symmetry. The boosters provided 75% of the thrust needed to escape Earth's gravity before being jettisoned."
+    },
+    {
+      "id": "2026-05-26-science-3",
+      "source": "ScienceDaily Top Environment",
       "time_ago": "Mon, 25 May 2026 09:30:01 EDT",
-      "mined_at": "2026-05-25T18:23:05+00:00",
+      "mined_at": "2026-05-26T18:37:32+00:00",
       "source_published_at": "Mon, 25 May 2026 09:30:01 EDT",
       "image_url": "/article_images/article_976284e9520f.webp",
       "category": "Science",
-      "title": "A 380-Million-Year-Old Fish Skull Reveals Brain Adaptations for the Water-to-Land Transition",
-      "summary": "Using neutron imaging, researchers peered inside the skull of Koharalepis jarviki, a predatory fish from the Devonian. They found a brain similar to early tetrapods and adaptations for surface breathing, including openings on top of the skull. The fossil, the only one of its family with internal bones preserved, sheds light on how vertebrates conquered land."
-    },
-    {
-      "id": "2026-05-25-science-3",
-      "source": "Science News Explores",
-      "time_ago": "Mon, 25 May 2026 10:30:00 +0000",
-      "mined_at": "2026-05-25T18:23:05+00:00",
-      "source_published_at": "Mon, 25 May 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_275068c9fa49.webp",
-      "category": "Science",
-      "title": "First-Ever Video of a Sperm Whale Birth Reveals Remarkable Cooperative Behavior Across Kin Groups",
-      "summary": "Scientists from Project CETI filmed a sperm whale giving birth off Dominica, capturing 34 minutes of unprecedented footage. A group of 10 whales, including non-relatives, assisted the mother, taking turns lifting the calf to breathe. The video and accompanying audio reveal complex social cooperation and vocal communication during this critical event."
+      "title": "A Fish Out of Water? Ancient Predator's Brain Hints at How We Got Legs",
+      "summary": "Using neutron imaging, scientists examined the skull of Koharalepis jarviki, a 380-million-year-old fish from Antarctica. Its brain shares features with species that bridged the water-to-land transition."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-25-science-1",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Sun, 24 May 2026 06:56:54 EDT",
-      "mined_at": "2026-05-25T18:23:05+00:00",
-      "source_published_at": "Sun, 24 May 2026 06:56:54 EDT",
-      "image_url": "/article_images/article_1fb71f02e676.webp",
+      "id": "2026-05-26-science-1",
+      "source": "Popular Science",
+      "time_ago": "Tue, 26 May 2026 12:27:00 -0400",
+      "mined_at": "2026-05-26T18:37:32+00:00",
+      "source_published_at": "Tue, 26 May 2026 12:27:00 -0400",
+      "image_url": "/article_images/article_e36be76ab3c8.webp",
       "category": "Science",
-      "title": "Did a Super-Powerful Space Particle Come from a Black Hole Cannon?",
-      "summary": "Scientists found the most powerful space particle ever, deep in the ocean. It had the energy of a ping-pong ball moving super fast. Now they think it came from a blazar—a black hole shooting a jet of energy right at Earth."
+      "title": "Fold Like a NASA Engineer: It's National Paper Airplane Day!",
+      "summary": "May 26 is National Paper Airplane Day! Did you know the longest paper airplane throw ever was 252.6 feet—longer than a basketball court? NASA even has designs you can fold yourself."
     },
     {
-      "id": "2026-05-25-science-2",
-      "source": "ScienceDaily All",
+      "id": "2026-05-26-science-2",
+      "source": "Space.com",
+      "time_ago": "Tue, 26 May 2026 14:00:00 +0000",
+      "mined_at": "2026-05-26T18:37:32+00:00",
+      "source_published_at": "Tue, 26 May 2026 14:00:00 +0000",
+      "image_url": "/article_images/article_0b71a3abb471.webp",
+      "category": "Science",
+      "title": "Double Boosters! Artemis 2 Rocket Parts Separate in Perfect Sync",
+      "summary": "NASA's Artemis 2 moon mission captured an amazing photo of its two boosters separating at the same time. These boosters gave 75% of the power needed to escape Earth's gravity before falling away."
+    },
+    {
+      "id": "2026-05-26-science-3",
+      "source": "ScienceDaily Top Environment",
       "time_ago": "Mon, 25 May 2026 09:30:01 EDT",
-      "mined_at": "2026-05-25T18:23:05+00:00",
+      "mined_at": "2026-05-26T18:37:32+00:00",
       "source_published_at": "Mon, 25 May 2026 09:30:01 EDT",
       "image_url": "/article_images/article_976284e9520f.webp",
       "category": "Science",
-      "title": "This Ancient Fish's Brain Holds Clues to How Animals First Walked on Land",
-      "summary": "Scientists used special X-rays to peek inside a 380-million-year-old fish skull from Antarctica. They found its brain was a lot like the first animals that crawled onto land. It even had a built-in 'skylight' on its head to breathe air!"
-    },
-    {
-      "id": "2026-05-25-science-3",
-      "source": "Science News Explores",
-      "time_ago": "Mon, 25 May 2026 10:30:00 +0000",
-      "mined_at": "2026-05-25T18:23:05+00:00",
-      "source_published_at": "Mon, 25 May 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_275068c9fa49.webp",
-      "category": "Science",
-      "title": "Caught on Video: Sperm Whales Team Up to Help a Mom Give Birth",
-      "summary": "For the first time ever, scientists filmed a sperm whale giving birth. The video shows a whole group of whales helping the mom, even ones not related to her. They took turns lifting the newborn calf to the surface so it could breathe."
+      "title": "This Ancient Fish Brain Holds Secrets to How Animals First Walked",
+      "summary": "Scientists used special scans to look inside the skull of a 380-million-year-old fish fossil from Antarctica. Its brain had features similar to the first animals that crawled onto land."
     }
   ]
 }
