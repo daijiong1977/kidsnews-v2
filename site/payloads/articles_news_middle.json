@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-26-news-1",
-      "source": "NPR World",
-      "time_ago": "Mon, 25 May 2026 19:03:41 -0400",
-      "mined_at": "2026-05-26T18:37:32+00:00",
-      "source_published_at": "Mon, 25 May 2026 19:03:41 -0400",
-      "image_url": "/article_images/article_4f88eafbf74e.webp",
+      "id": "2026-05-27-news-1",
+      "source": "BBC News",
+      "time_ago": "Wed, 27 May 2026 17:37:33 GMT",
+      "mined_at": "2026-05-27T18:39:56+00:00",
+      "source_published_at": "Wed, 27 May 2026 17:37:33 GMT",
+      "image_url": "/article_images/article_38a977f86093.webp",
       "category": "News",
-      "title": "At 38, Tim Ream Aims to Anchor U.S. Defense and Ignite a Soccer Revolution at Home",
-      "summary": "Veteran defender Tim Ream, 38, could be named to the U.S. World Cup roster tomorrow. He believes the 2026 tournament can finally make soccer a major sport in America, inspiring millions of kids."
+      "title": "'Not Satisfied': Trump Keeps Pressure on Iran as Deal Remains Elusive",
+      "summary": "President Trump says he's 'not satisfied' with the Iran deal, warning strikes could resume. Iran's state TV claimed a draft agreement, but the White House dismissed it as a 'complete fabrication.' Talks continue with no breakthrough."
     },
     {
-      "id": "2026-05-26-news-2",
+      "id": "2026-05-27-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Tue, 26 May 2026 13:40:40 -0400",
-      "mined_at": "2026-05-26T18:37:32+00:00",
-      "source_published_at": "Tue, 26 May 2026 13:40:40 -0400",
-      "image_url": "/article_images/article_91ea353bdc29.webp",
+      "time_ago": "Wed, 27 May 2026 12:56:15 -0400",
+      "mined_at": "2026-05-27T18:39:56+00:00",
+      "source_published_at": "Wed, 27 May 2026 12:56:15 -0400",
+      "image_url": "/article_images/article_78cf50f353da.webp",
       "category": "News",
-      "title": "Record-Shattering Spring Heat Wave Scorches Europe, Leaving Multiple Dead",
-      "summary": "The UK hit 95.2°F on Tuesday, smashing a century-old May record. France and Spain also saw unprecedented heat. At least 11 people died in drownings and heat-related incidents. Scientists link the extreme weather to climate change."
+      "title": "South Africa and Afrikaner Groups Reject U.S. Claim of White 'Emergency'",
+      "summary": "The Trump administration is raising the refugee cap to admit 10,000 more white Afrikaners, citing a humanitarian emergency. South Africa's government and Afrikaner advocacy groups say the claim is unfounded, with some beneficiaries even returning home."
     },
     {
-      "id": "2026-05-26-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Tue, 26 May 2026 17:27:32 +0000",
-      "mined_at": "2026-05-26T18:37:32+00:00",
-      "source_published_at": "Tue, 26 May 2026 17:27:32 +0000",
-      "image_url": "/article_images/article_d21058acea49.webp",
+      "id": "2026-05-27-news-3",
+      "source": "BBC News",
+      "time_ago": "Wed, 27 May 2026 14:49:16 GMT",
+      "mined_at": "2026-05-27T18:39:56+00:00",
+      "source_published_at": "Wed, 27 May 2026 14:49:16 GMT",
+      "image_url": "/article_images/article_79ed8a6ccdb4.webp",
       "category": "News",
-      "title": "Armenia Inks Strategic Pact with U.S., Drawing Kremlin's Ire Ahead of Elections",
-      "summary": "Armenia signed a strategic partnership with the U.S., including a 27-mile corridor deal. The TRIPP route gives Azerbaijan a direct link to Turkey. Russia, a longtime ally, threatens to hike gas prices as Armenia pivots West."
+      "title": "Burnham Accuses Blair of Ignoring Inequality in Heated Labour Debate",
+      "summary": "Andy Burnham, a potential Labour leadership challenger, says former PM Tony Blair's 5,600-word critique of the government fails to mention inequality. Burnham argues rising inequality is driving voters to political extremes."
     }
   ]
 }

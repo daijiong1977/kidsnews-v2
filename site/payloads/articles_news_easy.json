@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-26-news-1",
-      "source": "NPR World",
-      "time_ago": "Mon, 25 May 2026 19:03:41 -0400",
-      "mined_at": "2026-05-26T18:37:32+00:00",
-      "source_published_at": "Mon, 25 May 2026 19:03:41 -0400",
-      "image_url": "/article_images/article_4f88eafbf74e.webp",
+      "id": "2026-05-27-news-1",
+      "source": "BBC News",
+      "time_ago": "Wed, 27 May 2026 17:37:33 GMT",
+      "mined_at": "2026-05-27T18:39:56+00:00",
+      "source_published_at": "Wed, 27 May 2026 17:37:33 GMT",
+      "image_url": "/article_images/article_38a977f86093.webp",
       "category": "News",
-      "title": "Can a 38-Year-Old Soccer Star Help America Fall in Love with the World Cup?",
-      "summary": "Tim Ream, 38, hopes to make the U.S. team for the 2026 World Cup. He wants to inspire kids to love soccer, just like the 1994 World Cup did when he was 6."
+      "title": "Trump Says Iran Deal Isn't Good Enough Yet — What's the Hold-Up?",
+      "summary": "President Trump says he's 'not satisfied' with the Iran deal. Iran's TV shared a draft, but the White House called it fake. Talks continue, but Trump warns strikes could resume."
     },
     {
-      "id": "2026-05-26-news-2",
+      "id": "2026-05-27-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Tue, 26 May 2026 13:40:40 -0400",
-      "mined_at": "2026-05-26T18:37:32+00:00",
-      "source_published_at": "Tue, 26 May 2026 13:40:40 -0400",
-      "image_url": "/article_images/article_91ea353bdc29.webp",
+      "time_ago": "Wed, 27 May 2026 12:56:15 -0400",
+      "mined_at": "2026-05-27T18:39:56+00:00",
+      "source_published_at": "Wed, 27 May 2026 12:56:15 -0400",
+      "image_url": "/article_images/article_78cf50f353da.webp",
       "category": "News",
-      "title": "Europe's Crazy Spring Heat Wave Breaks 100-Year-Old Records!",
-      "summary": "The UK hit 95.2°F, breaking a record from 1922. France and Spain also saw extreme heat. At least 11 people died trying to cool off in water. Scientists say climate change made it worse."
+      "title": "U.S. Says White South Africans Face Emergency — South Africa Says 'No Way'",
+      "summary": "The Trump administration says there's a humanitarian emergency for white Afrikaners in South Africa and will let 10,000 more into the U.S. as refugees. But South Africa and Afrikaner groups say that's not true."
     },
     {
-      "id": "2026-05-26-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Tue, 26 May 2026 17:27:32 +0000",
-      "mined_at": "2026-05-26T18:37:32+00:00",
-      "source_published_at": "Tue, 26 May 2026 17:27:32 +0000",
-      "image_url": "/article_images/article_d21058acea49.webp",
+      "id": "2026-05-27-news-3",
+      "source": "BBC News",
+      "time_ago": "Wed, 27 May 2026 14:49:16 GMT",
+      "mined_at": "2026-05-27T18:39:56+00:00",
+      "source_published_at": "Wed, 27 May 2026 14:49:16 GMT",
+      "image_url": "/article_images/article_79ed8a6ccdb4.webp",
       "category": "News",
-      "title": "Armenia Signs Big Deal with the U.S.—But Russia Isn't Happy",
-      "summary": "Armenia signed a partnership with the U.S. to build a 27-mile corridor called TRIPP. It will connect Azerbaijan to Turkey. But Russia, Armenia's old ally, might raise gas prices in response."
+      "title": "Labour Party Fight: Burnham Says Blair Doesn't Get How Hard Life Is for People",
+      "summary": "Andy Burnham, who may run for Labour leader, says former PM Tony Blair 'doesn't mention inequality once' in a big essay. Burnham says inequality is why people are turning away from the political center."
     }
   ]
 }

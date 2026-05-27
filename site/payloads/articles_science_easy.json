@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-26-science-1",
-      "source": "Popular Science",
-      "time_ago": "Tue, 26 May 2026 12:27:00 -0400",
-      "mined_at": "2026-05-26T18:37:32+00:00",
-      "source_published_at": "Tue, 26 May 2026 12:27:00 -0400",
-      "image_url": "/article_images/article_e36be76ab3c8.webp",
+      "id": "2026-05-27-science-1",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Wed, 27 May 2026 09:44:25 EDT",
+      "mined_at": "2026-05-27T18:39:56+00:00",
+      "source_published_at": "Wed, 27 May 2026 09:44:25 EDT",
+      "image_url": "/article_images/article_2b5088575582.webp",
       "category": "Science",
-      "title": "Fold Like a NASA Engineer: It's National Paper Airplane Day!",
-      "summary": "May 26 is National Paper Airplane Day! Did you know the longest paper airplane throw ever was 252.6 feet—longer than a basketball court? NASA even has designs you can fold yourself."
+      "title": "Electricity with ZERO waste? Scientists just smashed a 30-year record!",
+      "summary": "Imagine a power cord that never gets hot because electricity flows perfectly. Scientists just made a material that does this at a warmer temperature than ever before—without squeezing it under crazy pressure. They reached 151 Kelvin (about -188°F), breaking a record from 1993."
     },
     {
-      "id": "2026-05-26-science-2",
-      "source": "Space.com",
-      "time_ago": "Tue, 26 May 2026 14:00:00 +0000",
-      "mined_at": "2026-05-26T18:37:32+00:00",
-      "source_published_at": "Tue, 26 May 2026 14:00:00 +0000",
-      "image_url": "/article_images/article_0b71a3abb471.webp",
+      "id": "2026-05-27-science-2",
+      "source": "ScienceDaily All",
+      "time_ago": "Wed, 27 May 2026 06:24:22 EDT",
+      "mined_at": "2026-05-27T18:39:56+00:00",
+      "source_published_at": "Wed, 27 May 2026 06:24:22 EDT",
+      "image_url": "/article_images/article_772422120747.webp",
       "category": "Science",
-      "title": "Double Boosters! Artemis 2 Rocket Parts Separate in Perfect Sync",
-      "summary": "NASA's Artemis 2 moon mission captured an amazing photo of its two boosters separating at the same time. These boosters gave 75% of the power needed to escape Earth's gravity before falling away."
+      "title": "This faraway planet has rock clouds that disappear every night!",
+      "summary": "On planet WASP-94A b, mornings are cloudy with a chance of rock! But by evening, the clouds vanish. NASA's James Webb Space Telescope spotted this wild weather on a planet 700 light-years away. Scientists think the clouds are made of magnesium silicate—the same stuff in Earth's rocks—and they evaporate in the 1,000-degree heat."
     },
     {
-      "id": "2026-05-26-science-3",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Mon, 25 May 2026 09:30:01 EDT",
-      "mined_at": "2026-05-26T18:37:32+00:00",
-      "source_published_at": "Mon, 25 May 2026 09:30:01 EDT",
-      "image_url": "/article_images/article_976284e9520f.webp",
+      "id": "2026-05-27-science-3",
+      "source": "ScienceDaily All",
+      "time_ago": "Wed, 27 May 2026 05:48:18 EDT",
+      "mined_at": "2026-05-27T18:39:56+00:00",
+      "source_published_at": "Wed, 27 May 2026 05:48:18 EDT",
+      "image_url": "/article_images/article_80a4d8aebae6.webp",
       "category": "Science",
-      "title": "This Ancient Fish Brain Holds Secrets to How Animals First Walked",
-      "summary": "Scientists used special scans to look inside the skull of a 380-million-year-old fish fossil from Antarctica. Its brain had features similar to the first animals that crawled onto land."
+      "title": "A star exploded 440 million years ago—and NASA just found its secret engine!",
+      "summary": "Some exploding stars shine 10 times brighter than normal. For years, nobody knew why. Now, NASA's Fermi telescope caught gamma rays from a supernova called SN 2017egm, and the evidence points to a magnetar—a super-magnetic, spinning neutron star—as the hidden power source."
     }
   ]
 }
