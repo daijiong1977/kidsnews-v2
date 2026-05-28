@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-27-science-1",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Wed, 27 May 2026 09:44:25 EDT",
-      "mined_at": "2026-05-27T18:39:56+00:00",
-      "source_published_at": "Wed, 27 May 2026 09:44:25 EDT",
-      "image_url": "/article_images/article_2b5088575582.webp",
-      "category": "Science",
-      "title": "Electricity with ZERO waste? Scientists just smashed a 30-year record!",
-      "summary": "Imagine a power cord that never gets hot because electricity flows perfectly. Scientists just made a material that does this at a warmer temperature than ever before—without squeezing it under crazy pressure. They reached 151 Kelvin (about -188°F), breaking a record from 1993."
-    },
-    {
-      "id": "2026-05-27-science-2",
-      "source": "ScienceDaily All",
+      "id": "2026-05-28-science-1",
+      "source": "ScienceDaily Top Technology",
       "time_ago": "Wed, 27 May 2026 06:24:22 EDT",
-      "mined_at": "2026-05-27T18:39:56+00:00",
+      "mined_at": "2026-05-28T18:47:06+00:00",
       "source_published_at": "Wed, 27 May 2026 06:24:22 EDT",
       "image_url": "/article_images/article_772422120747.webp",
       "category": "Science",
-      "title": "This faraway planet has rock clouds that disappear every night!",
-      "summary": "On planet WASP-94A b, mornings are cloudy with a chance of rock! But by evening, the clouds vanish. NASA's James Webb Space Telescope spotted this wild weather on a planet 700 light-years away. Scientists think the clouds are made of magnesium silicate—the same stuff in Earth's rocks—and they evaporate in the 1,000-degree heat."
+      "title": "Rock Clouds Vanish Every Night on This Faraway Planet!",
+      "summary": "Imagine clouds made of rock! On planet WASP-94A b, morning skies are cloudy with magnesium silicate, but by evening they disappear. Scientists used the James Webb Space Telescope to watch this happen 700 light-years away."
     },
     {
-      "id": "2026-05-27-science-3",
-      "source": "ScienceDaily All",
-      "time_ago": "Wed, 27 May 2026 05:48:18 EDT",
-      "mined_at": "2026-05-27T18:39:56+00:00",
-      "source_published_at": "Wed, 27 May 2026 05:48:18 EDT",
-      "image_url": "/article_images/article_80a4d8aebae6.webp",
+      "id": "2026-05-28-science-2",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Thu, 28 May 2026 10:16:47 EDT",
+      "mined_at": "2026-05-28T18:47:06+00:00",
+      "source_published_at": "Thu, 28 May 2026 10:16:47 EDT",
+      "image_url": "/article_images/article_442fa0b6535f.webp",
       "category": "Science",
-      "title": "A star exploded 440 million years ago—and NASA just found its secret engine!",
-      "summary": "Some exploding stars shine 10 times brighter than normal. For years, nobody knew why. Now, NASA's Fermi telescope caught gamma rays from a supernova called SN 2017egm, and the evidence points to a magnetar—a super-magnetic, spinning neutron star—as the hidden power source."
+      "title": "DNA Solves 250-Year Mystery of Vanished Crocodiles!",
+      "summary": "Saltwater crocodiles once lived on the Seychelles islands, but they disappeared 200 years ago. New DNA research shows they weren't a separate species—they were the westernmost population of the world's largest reptile, having drifted over 3,000 km across the ocean."
+    },
+    {
+      "id": "2026-05-28-science-3",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Wed, 27 May 2026 09:44:25 EDT",
+      "mined_at": "2026-05-28T18:47:06+00:00",
+      "source_published_at": "Wed, 27 May 2026 09:44:25 EDT",
+      "image_url": "/article_images/article_2b5088575582.webp",
+      "category": "Science",
+      "title": "Scientists Smash 30-Year Record for Superconductors at Normal Pressure!",
+      "summary": "A new material can conduct electricity with zero resistance at -122°C, the highest temperature ever at normal pressure. This beats a 30-year-old record and could lead to super-efficient power grids and faster electronics."
     }
   ]
 }

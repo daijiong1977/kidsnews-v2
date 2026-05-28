@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-27-news-1",
-      "source": "BBC News",
-      "time_ago": "Wed, 27 May 2026 17:37:33 GMT",
-      "mined_at": "2026-05-27T18:39:56+00:00",
-      "source_published_at": "Wed, 27 May 2026 17:37:33 GMT",
-      "image_url": "/article_images/article_38a977f86093.webp",
+      "id": "2026-05-28-news-1",
+      "source": "NPR World",
+      "time_ago": "Thu, 28 May 2026 07:13:55 -0400",
+      "mined_at": "2026-05-28T18:47:06+00:00",
+      "source_published_at": "Thu, 28 May 2026 07:13:55 -0400",
+      "image_url": "/article_images/article_d3267bcee900.webp",
       "category": "News",
-      "title": "Trump Says Iran Deal Isn't Good Enough Yet — What's the Hold-Up?",
-      "summary": "President Trump says he's 'not satisfied' with the Iran deal. Iran's TV shared a draft, but the White House called it fake. Talks continue, but Trump warns strikes could resume."
+      "title": "Judge Says Trump’s Mail-In Voting Rules Can Stay—For Now",
+      "summary": "A judge in Washington, D.C., decided not to stop President Trump’s order that could make voting by mail harder. But the order hasn’t started yet, so the fight isn’t over. Critics say it’s unfair and could block some people from voting."
     },
     {
-      "id": "2026-05-27-news-2",
+      "id": "2026-05-28-news-2",
+      "source": "Al Jazeera",
+      "time_ago": "Thu, 28 May 2026 17:00:52 +0000",
+      "mined_at": "2026-05-28T18:47:06+00:00",
+      "source_published_at": "Thu, 28 May 2026 17:00:52 +0000",
+      "image_url": "/article_images/article_67c695c16ab7.webp",
+      "category": "News",
+      "title": "Latvia Gets a New Leader After Drones Cause a Government Shake-Up",
+      "summary": "Stray drones—likely from Ukraine—flew into Latvia and caused a big argument. The prime minister quit, and now a new government is in charge. They promise to keep the country safe and stick with Europe and NATO."
+    },
+    {
+      "id": "2026-05-28-news-3",
       "source": "PBS NewsHour",
-      "time_ago": "Wed, 27 May 2026 12:56:15 -0400",
-      "mined_at": "2026-05-27T18:39:56+00:00",
-      "source_published_at": "Wed, 27 May 2026 12:56:15 -0400",
-      "image_url": "/article_images/article_78cf50f353da.webp",
+      "time_ago": "Thu, 28 May 2026 12:56:19 -0400",
+      "mined_at": "2026-05-28T18:47:06+00:00",
+      "source_published_at": "Thu, 28 May 2026 12:56:19 -0400",
+      "image_url": "/article_images/article_77e95488b7b6.webp",
       "category": "News",
-      "title": "U.S. Says White South Africans Face Emergency — South Africa Says 'No Way'",
-      "summary": "The Trump administration says there's a humanitarian emergency for white Afrikaners in South Africa and will let 10,000 more into the U.S. as refugees. But South Africa and Afrikaner groups say that's not true."
-    },
-    {
-      "id": "2026-05-27-news-3",
-      "source": "BBC News",
-      "time_ago": "Wed, 27 May 2026 14:49:16 GMT",
-      "mined_at": "2026-05-27T18:39:56+00:00",
-      "source_published_at": "Wed, 27 May 2026 14:49:16 GMT",
-      "image_url": "/article_images/article_79ed8a6ccdb4.webp",
-      "category": "News",
-      "title": "Labour Party Fight: Burnham Says Blair Doesn't Get How Hard Life Is for People",
-      "summary": "Andy Burnham, who may run for Labour leader, says former PM Tony Blair 'doesn't mention inequality once' in a big essay. Burnham says inequality is why people are turning away from the political center."
+      "title": "Prices Are Rising Fast—and Americans’ Wallets Are Feeling the Squeeze",
+      "summary": "Inflation hit 3.8% in April, the highest in three years. Gas, food, and clothes are all getting more expensive, while people’s paychecks aren’t keeping up. Some leaders say it’s no big deal, but families are struggling."
     }
   ]
 }

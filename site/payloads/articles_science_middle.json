@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-27-science-1",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Wed, 27 May 2026 09:44:25 EDT",
-      "mined_at": "2026-05-27T18:39:56+00:00",
-      "source_published_at": "Wed, 27 May 2026 09:44:25 EDT",
-      "image_url": "/article_images/article_2b5088575582.webp",
-      "category": "Science",
-      "title": "No pressure, no problem: Superconductor record shattered after 30 years",
-      "summary": "A team at the University of Houston has achieved superconductivity at 151 Kelvin under ambient pressure—the highest ever. That's 18 degrees warmer than the previous record set in 1993. The breakthrough uses a pressure-quenching technique, making the material stable at normal conditions and bringing room-temperature superconductors one step closer."
-    },
-    {
-      "id": "2026-05-27-science-2",
-      "source": "ScienceDaily All",
+      "id": "2026-05-28-science-1",
+      "source": "ScienceDaily Top Technology",
       "time_ago": "Wed, 27 May 2026 06:24:22 EDT",
-      "mined_at": "2026-05-27T18:39:56+00:00",
+      "mined_at": "2026-05-28T18:47:06+00:00",
       "source_published_at": "Wed, 27 May 2026 06:24:22 EDT",
       "image_url": "/article_images/article_772422120747.webp",
       "category": "Science",
-      "title": "Rock clouds that vanish: JWST reveals extreme weather on distant exoplanet",
-      "summary": "Using the James Webb Space Telescope, astronomers have observed a daily cloud cycle on the Hot Jupiter WASP-94A b. Morning skies are filled with magnesium silicate clouds, but by evening they disappear—possibly evaporating in 1,000°C heat. The finding, published in Science, offers an unprecedented clear view of an exoplanet's atmosphere."
+      "title": "JWST Reveals a Planet Where Rock Clouds Form and Vanish Daily",
+      "summary": "On the exoplanet WASP-94A b, clouds of magnesium silicate appear every morning and disappear by evening. The James Webb Space Telescope captured this cycle, solving a mystery about the planet's atmosphere and revealing it's more like Jupiter than previously thought."
     },
     {
-      "id": "2026-05-27-science-3",
-      "source": "ScienceDaily All",
-      "time_ago": "Wed, 27 May 2026 05:48:18 EDT",
-      "mined_at": "2026-05-27T18:39:56+00:00",
-      "source_published_at": "Wed, 27 May 2026 05:48:18 EDT",
-      "image_url": "/article_images/article_80a4d8aebae6.webp",
+      "id": "2026-05-28-science-2",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Thu, 28 May 2026 10:16:47 EDT",
+      "mined_at": "2026-05-28T18:47:06+00:00",
+      "source_published_at": "Thu, 28 May 2026 10:16:47 EDT",
+      "image_url": "/article_images/article_442fa0b6535f.webp",
       "category": "Science",
-      "title": "Hidden engines of monster supernovae revealed by NASA's Fermi telescope",
-      "summary": "After nearly 20 years of searching, NASA's Fermi telescope has detected definitive gamma rays from a superluminous supernova, SN 2017egm. The data, published in Astronomy & Astrophysics, strongly supports the theory that these ultra-bright explosions are powered by magnetars—rapidly spinning neutron stars with magnetic fields 10 trillion times stronger than a refrigerator magnet."
+      "title": "DNA Analysis Reveals Seychelles' Lost Crocodiles Were Saltwater Giants",
+      "summary": "A genetic study of museum specimens has solved a 250-year-old mystery: the crocodiles that once inhabited the Seychelles were saltwater crocodiles, not a unique species. They likely drifted over 3,000 km across the Indian Ocean to colonize the remote islands."
+    },
+    {
+      "id": "2026-05-28-science-3",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Wed, 27 May 2026 09:44:25 EDT",
+      "mined_at": "2026-05-28T18:47:06+00:00",
+      "source_published_at": "Wed, 27 May 2026 09:44:25 EDT",
+      "image_url": "/article_images/article_2b5088575582.webp",
+      "category": "Science",
+      "title": "New Superconductor Breaks 30-Year Record at Ambient Pressure",
+      "summary": "University of Houston researchers achieved superconductivity at 151 Kelvin (-122°C) under normal pressure, surpassing a record held since 1993. The breakthrough uses pressure quenching to stabilize a high-temperature phase, potentially revolutionizing energy transmission and medical imaging."
     }
   ]
 }

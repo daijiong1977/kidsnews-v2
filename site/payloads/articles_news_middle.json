@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-27-news-1",
-      "source": "BBC News",
-      "time_ago": "Wed, 27 May 2026 17:37:33 GMT",
-      "mined_at": "2026-05-27T18:39:56+00:00",
-      "source_published_at": "Wed, 27 May 2026 17:37:33 GMT",
-      "image_url": "/article_images/article_38a977f86093.webp",
+      "id": "2026-05-28-news-1",
+      "source": "NPR World",
+      "time_ago": "Thu, 28 May 2026 07:13:55 -0400",
+      "mined_at": "2026-05-28T18:47:06+00:00",
+      "source_published_at": "Thu, 28 May 2026 07:13:55 -0400",
+      "image_url": "/article_images/article_d3267bcee900.webp",
       "category": "News",
-      "title": "'Not Satisfied': Trump Keeps Pressure on Iran as Deal Remains Elusive",
-      "summary": "President Trump says he's 'not satisfied' with the Iran deal, warning strikes could resume. Iran's state TV claimed a draft agreement, but the White House dismissed it as a 'complete fabrication.' Talks continue with no breakthrough."
+      "title": "Federal Judge Declines to Halt Trump’s Executive Order on Mail-In Voting—For Now",
+      "summary": "A D.C. federal judge ruled it’s too early to block Trump’s order that could restrict mail-in voting, since agencies haven’t acted yet. Opponents call it voter suppression and vow to keep fighting, as another Boston case looms."
     },
     {
-      "id": "2026-05-27-news-2",
+      "id": "2026-05-28-news-2",
+      "source": "Al Jazeera",
+      "time_ago": "Thu, 28 May 2026 17:00:52 +0000",
+      "mined_at": "2026-05-28T18:47:06+00:00",
+      "source_published_at": "Thu, 28 May 2026 17:00:52 +0000",
+      "image_url": "/article_images/article_67c695c16ab7.webp",
+      "category": "News",
+      "title": "Latvia Installs New PM After Drone Incidents Topple Coalition",
+      "summary": "Latvia’s parliament confirmed Andris Kulbergs as prime minister after the previous government collapsed over its handling of stray Ukrainian drones. The new coalition vows to bolster security and maintain a pro-NATO, pro-EU course."
+    },
+    {
+      "id": "2026-05-28-news-3",
       "source": "PBS NewsHour",
-      "time_ago": "Wed, 27 May 2026 12:56:15 -0400",
-      "mined_at": "2026-05-27T18:39:56+00:00",
-      "source_published_at": "Wed, 27 May 2026 12:56:15 -0400",
-      "image_url": "/article_images/article_78cf50f353da.webp",
+      "time_ago": "Thu, 28 May 2026 12:56:19 -0400",
+      "mined_at": "2026-05-28T18:47:06+00:00",
+      "source_published_at": "Thu, 28 May 2026 12:56:19 -0400",
+      "image_url": "/article_images/article_77e95488b7b6.webp",
       "category": "News",
-      "title": "South Africa and Afrikaner Groups Reject U.S. Claim of White 'Emergency'",
-      "summary": "The Trump administration is raising the refugee cap to admit 10,000 more white Afrikaners, citing a humanitarian emergency. South Africa's government and Afrikaner advocacy groups say the claim is unfounded, with some beneficiaries even returning home."
-    },
-    {
-      "id": "2026-05-27-news-3",
-      "source": "BBC News",
-      "time_ago": "Wed, 27 May 2026 14:49:16 GMT",
-      "mined_at": "2026-05-27T18:39:56+00:00",
-      "source_published_at": "Wed, 27 May 2026 14:49:16 GMT",
-      "image_url": "/article_images/article_79ed8a6ccdb4.webp",
-      "category": "News",
-      "title": "Burnham Accuses Blair of Ignoring Inequality in Heated Labour Debate",
-      "summary": "Andy Burnham, a potential Labour leadership challenger, says former PM Tony Blair's 5,600-word critique of the government fails to mention inequality. Burnham argues rising inequality is driving voters to political extremes."
+      "title": "Inflation Hits 3.8%, Highest in Three Years, as Americans’ Spending Power Erodes",
+      "summary": "A key inflation gauge surged to 3.8% in April, driven by gas, food, and services. After-tax incomes fell for the third straight month, and consumer spending barely budged. The Fed may hike rates, adding pressure on households ahead of midterms."
     }
   ]
 }
