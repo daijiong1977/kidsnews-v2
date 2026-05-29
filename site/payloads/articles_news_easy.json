@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-28-news-1",
+      "id": "2026-05-29-news-1",
+      "source": "BBC News",
+      "time_ago": "Fri, 29 May 2026 10:38:46 GMT",
+      "mined_at": "2026-05-29T18:44:13+00:00",
+      "source_published_at": "Fri, 29 May 2026 10:38:46 GMT",
+      "image_url": "/article_images/article_42ed248789de.webp",
+      "category": "News",
+      "title": "A Giant Rocket Explodes! What Happens to the Moon Plan?",
+      "summary": "A huge Blue Origin rocket blew up during a test in Florida. No one was hurt, but it could delay NASA's plan to send a lander to the Moon this year. The same type of rocket was supposed to carry it."
+    },
+    {
+      "id": "2026-05-29-news-2",
       "source": "NPR World",
-      "time_ago": "Thu, 28 May 2026 07:13:55 -0400",
-      "mined_at": "2026-05-28T18:47:06+00:00",
-      "source_published_at": "Thu, 28 May 2026 07:13:55 -0400",
-      "image_url": "/article_images/article_d3267bcee900.webp",
+      "time_ago": "Fri, 29 May 2026 05:00:00 -0400",
+      "mined_at": "2026-05-29T18:44:13+00:00",
+      "source_published_at": "Fri, 29 May 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_3172af98adfb.webp",
       "category": "News",
-      "title": "Judge Says Trump’s Mail-In Voting Rules Can Stay—For Now",
-      "summary": "A judge in Washington, D.C., decided not to stop President Trump’s order that could make voting by mail harder. But the order hasn’t started yet, so the fight isn’t over. Critics say it’s unfair and could block some people from voting."
+      "title": "Why Are There So Few Cows in America Right Now?",
+      "summary": "The U.S. cattle herd is the smallest since 1951—only 86.2 million cows. Fewer cows mean higher beef prices at the store. Farmers face high costs, droughts, and a scary parasite near the border."
     },
     {
-      "id": "2026-05-28-news-2",
-      "source": "Al Jazeera",
-      "time_ago": "Thu, 28 May 2026 17:00:52 +0000",
-      "mined_at": "2026-05-28T18:47:06+00:00",
-      "source_published_at": "Thu, 28 May 2026 17:00:52 +0000",
-      "image_url": "/article_images/article_67c695c16ab7.webp",
-      "category": "News",
-      "title": "Latvia Gets a New Leader After Drones Cause a Government Shake-Up",
-      "summary": "Stray drones—likely from Ukraine—flew into Latvia and caused a big argument. The prime minister quit, and now a new government is in charge. They promise to keep the country safe and stick with Europe and NATO."
-    },
-    {
-      "id": "2026-05-28-news-3",
+      "id": "2026-05-29-news-3",
       "source": "PBS NewsHour",
-      "time_ago": "Thu, 28 May 2026 12:56:19 -0400",
-      "mined_at": "2026-05-28T18:47:06+00:00",
-      "source_published_at": "Thu, 28 May 2026 12:56:19 -0400",
-      "image_url": "/article_images/article_77e95488b7b6.webp",
+      "time_ago": "Fri, 29 May 2026 13:05:52 -0400",
+      "mined_at": "2026-05-29T18:44:13+00:00",
+      "source_published_at": "Fri, 29 May 2026 13:05:52 -0400",
+      "image_url": "/article_images/article_e4798d1d4098.webp",
       "category": "News",
-      "title": "Prices Are Rising Fast—and Americans’ Wallets Are Feeling the Squeeze",
-      "summary": "Inflation hit 3.8% in April, the highest in three years. Gas, food, and clothes are all getting more expensive, while people’s paychecks aren’t keeping up. Some leaders say it’s no big deal, but families are struggling."
+      "title": "Can a Reality TV Star Become Mayor of Los Angeles?",
+      "summary": "LA Mayor Karen Bass is running for re-election, but a huge wildfire and homelessness crisis make it tough. Her opponent is Spencer Pratt, a reality TV star from 'The Hills,' who blames her for the fire damage."
     }
   ]
 }

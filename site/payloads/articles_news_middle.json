@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-28-news-1",
+      "id": "2026-05-29-news-1",
+      "source": "BBC News",
+      "time_ago": "Fri, 29 May 2026 10:38:46 GMT",
+      "mined_at": "2026-05-29T18:44:13+00:00",
+      "source_published_at": "Fri, 29 May 2026 10:38:46 GMT",
+      "image_url": "/article_images/article_42ed248789de.webp",
+      "category": "News",
+      "title": "New Glenn Explosion Throws NASA's Lunar Ambitions into Uncertainty",
+      "summary": "A Blue Origin New Glenn rocket exploded during a test at Cape Canaveral, damaging its only launch pad. No one was injured, but the blast could delay NASA's Moon base plans and Amazon's satellite internet rollout. Repairs may take months."
+    },
+    {
+      "id": "2026-05-29-news-2",
       "source": "NPR World",
-      "time_ago": "Thu, 28 May 2026 07:13:55 -0400",
-      "mined_at": "2026-05-28T18:47:06+00:00",
-      "source_published_at": "Thu, 28 May 2026 07:13:55 -0400",
-      "image_url": "/article_images/article_d3267bcee900.webp",
+      "time_ago": "Fri, 29 May 2026 05:00:00 -0400",
+      "mined_at": "2026-05-29T18:44:13+00:00",
+      "source_published_at": "Fri, 29 May 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_3172af98adfb.webp",
       "category": "News",
-      "title": "Federal Judge Declines to Halt Trump’s Executive Order on Mail-In Voting—For Now",
-      "summary": "A D.C. federal judge ruled it’s too early to block Trump’s order that could restrict mail-in voting, since agencies haven’t acted yet. Opponents call it voter suppression and vow to keep fighting, as another Boston case looms."
+      "title": "America's Cattle Herd Hits a 75-Year Low—What's Behind the Shrinking Supply?",
+      "summary": "The U.S. cattle inventory has dropped to 86.2 million head, the smallest since 1951. Rising costs, drought, an aging farmer workforce, and a resurgent parasite are squeezing ranchers. Beef production remains high, but retail prices are climbing."
     },
     {
-      "id": "2026-05-28-news-2",
-      "source": "Al Jazeera",
-      "time_ago": "Thu, 28 May 2026 17:00:52 +0000",
-      "mined_at": "2026-05-28T18:47:06+00:00",
-      "source_published_at": "Thu, 28 May 2026 17:00:52 +0000",
-      "image_url": "/article_images/article_67c695c16ab7.webp",
-      "category": "News",
-      "title": "Latvia Installs New PM After Drone Incidents Topple Coalition",
-      "summary": "Latvia’s parliament confirmed Andris Kulbergs as prime minister after the previous government collapsed over its handling of stray Ukrainian drones. The new coalition vows to bolster security and maintain a pro-NATO, pro-EU course."
-    },
-    {
-      "id": "2026-05-28-news-3",
+      "id": "2026-05-29-news-3",
       "source": "PBS NewsHour",
-      "time_ago": "Thu, 28 May 2026 12:56:19 -0400",
-      "mined_at": "2026-05-28T18:47:06+00:00",
-      "source_published_at": "Thu, 28 May 2026 12:56:19 -0400",
-      "image_url": "/article_images/article_77e95488b7b6.webp",
+      "time_ago": "Fri, 29 May 2026 13:05:52 -0400",
+      "mined_at": "2026-05-29T18:44:13+00:00",
+      "source_published_at": "Fri, 29 May 2026 13:05:52 -0400",
+      "image_url": "/article_images/article_e4798d1d4098.webp",
       "category": "News",
-      "title": "Inflation Hits 3.8%, Highest in Three Years, as Americans’ Spending Power Erodes",
-      "summary": "A key inflation gauge surged to 3.8% in April, driven by gas, food, and services. After-tax incomes fell for the third straight month, and consumer spending barely budged. The Fed may hike rates, adding pressure on households ahead of midterms."
+      "title": "Wildfire Fallout and a Reality TV Challenger Shake Up LA Mayor's Race",
+      "summary": "Los Angeles Mayor Karen Bass faces a tough re-election bid amid criticism over her handling of the devastating Palisades Fire and homelessness. Her most colorful challenger is Spencer Pratt, a reality TV personality who lost his home in the blaze."
     }
   ]
 }
