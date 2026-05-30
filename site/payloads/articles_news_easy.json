@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-29-news-1",
-      "source": "BBC News",
-      "time_ago": "Fri, 29 May 2026 10:38:46 GMT",
-      "mined_at": "2026-05-29T18:44:13+00:00",
-      "source_published_at": "Fri, 29 May 2026 10:38:46 GMT",
-      "image_url": "/article_images/article_42ed248789de.webp",
-      "category": "News",
-      "title": "A Giant Rocket Explodes! What Happens to the Moon Plan?",
-      "summary": "A huge Blue Origin rocket blew up during a test in Florida. No one was hurt, but it could delay NASA's plan to send a lander to the Moon this year. The same type of rocket was supposed to carry it."
-    },
-    {
-      "id": "2026-05-29-news-2",
-      "source": "NPR World",
-      "time_ago": "Fri, 29 May 2026 05:00:00 -0400",
-      "mined_at": "2026-05-29T18:44:13+00:00",
-      "source_published_at": "Fri, 29 May 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_3172af98adfb.webp",
-      "category": "News",
-      "title": "Why Are There So Few Cows in America Right Now?",
-      "summary": "The U.S. cattle herd is the smallest since 1951—only 86.2 million cows. Fewer cows mean higher beef prices at the store. Farmers face high costs, droughts, and a scary parasite near the border."
-    },
-    {
-      "id": "2026-05-29-news-3",
+      "id": "2026-05-30-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Fri, 29 May 2026 13:05:52 -0400",
-      "mined_at": "2026-05-29T18:44:13+00:00",
-      "source_published_at": "Fri, 29 May 2026 13:05:52 -0400",
-      "image_url": "/article_images/article_e4798d1d4098.webp",
+      "time_ago": "Sat, 30 May 2026 12:28:46 -0400",
+      "mined_at": "2026-05-30T18:11:43+00:00",
+      "source_published_at": "Sat, 30 May 2026 12:28:46 -0400",
+      "image_url": "/article_images/article_b523b547cb11.webp",
       "category": "News",
-      "title": "Can a Reality TV Star Become Mayor of Los Angeles?",
-      "summary": "LA Mayor Karen Bass is running for re-election, but a huge wildfire and homelessness crisis make it tough. Her opponent is Spencer Pratt, a reality TV star from 'The Hills,' who blames her for the fire damage."
+      "title": "A Soup So Pink It Turned a Whole City Into a Party!",
+      "summary": "Imagine a festival where 100,000 people dress in pink and eat cold beet soup together. That's what happened in Vilnius, Lithuania, where a giant pink party celebrated šaltibarščiai. One visitor even built a suit of pink knight armor!"
+    },
+    {
+      "id": "2026-05-30-news-2",
+      "source": "NPR World",
+      "time_ago": "Sat, 30 May 2026 07:42:06 -0400",
+      "mined_at": "2026-05-30T18:11:43+00:00",
+      "source_published_at": "Sat, 30 May 2026 07:42:06 -0400",
+      "image_url": "/article_images/article_010b2da1587a.webp",
+      "category": "News",
+      "title": "U.S. Defense Boss Asks Asian Allies to Spend More on Military",
+      "summary": "At a big defense meeting in Singapore, U.S. Defense Secretary Pete Hegseth told Asian countries to spend more on their militaries to balance China's growing power. He didn't mention Taiwan in his speech, which surprised many people. One expert said the speech was 'light on substance.'"
+    },
+    {
+      "id": "2026-05-30-news-3",
+      "source": "NPR World",
+      "time_ago": "Sat, 30 May 2026 09:00:00 -0400",
+      "mined_at": "2026-05-30T18:11:43+00:00",
+      "source_published_at": "Sat, 30 May 2026 09:00:00 -0400",
+      "image_url": "/article_images/article_a4e564560644.webp",
+      "category": "News",
+      "title": "Pride Parades Are Losing Big Sponsors—Here's Why",
+      "summary": "Many Pride festivals across the U.S. are struggling because big companies are giving less money. Organizers say political pressure and fear of backlash are scaring sponsors away. In Pittsburgh, they're racing to fill a budget gap before their June parade."
     }
   ]
 }

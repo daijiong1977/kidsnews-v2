@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-29-science-1",
-      "source": "Science News Explores",
-      "time_ago": "Fri, 29 May 2026 10:30:00 +0000",
-      "mined_at": "2026-05-29T18:44:13+00:00",
-      "source_published_at": "Fri, 29 May 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_1e79e58dfd0d.webp",
+      "id": "2026-05-30-science-1",
+      "source": "Space.com",
+      "time_ago": "Sat, 30 May 2026 14:00:00 +0000",
+      "mined_at": "2026-05-30T18:11:43+00:00",
+      "source_published_at": "Sat, 30 May 2026 14:00:00 +0000",
+      "image_url": "/article_images/article_cd041939a691.webp",
       "category": "Science",
-      "title": "From Ocean Trash to Pavement: Hawaii's Bold Experiment with Plastic Roads",
-      "summary": "Hawaii has hauled 90 tons of plastic marine debris from the Pacific and is testing it in asphalt roads. Researchers are investigating whether these roads shed microplastics—tiny toxic bits. It's the first state to use ocean plastic in pavement, a promising but tricky solution."
+      "title": "From 'Riverdale' to Eternia: How Camila Mendes Trained to Wield Teela's Sword",
+      "summary": "Camila Mendes underwent intense sword and rifle training to play Teela in the new 'Masters of the Universe' film. She says the weapons became 'an extension of her,' helping her embody the warrior captain. The movie balances sci-fi action with Teela's emotional depth, hitting theaters June 5."
     },
     {
-      "id": "2026-05-29-science-2",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Fri, 29 May 2026 08:39:56 EDT",
-      "mined_at": "2026-05-29T18:44:13+00:00",
-      "source_published_at": "Fri, 29 May 2026 08:39:56 EDT",
-      "image_url": "/article_images/article_32818d275aad.webp",
+      "id": "2026-05-30-science-2",
+      "source": "NASA News",
+      "time_ago": "Fri, 29 May 2026 20:49:43 +0000",
+      "mined_at": "2026-05-30T18:11:43+00:00",
+      "source_published_at": "Fri, 29 May 2026 20:49:43 +0000",
+      "image_url": "/article_images/article_2aa3f5d95600.webp",
       "category": "Science",
-      "title": "Meet the Triassic Croc Relative That Masqueraded as an Ostrich Dinosaur",
-      "summary": "Labrujasuchus expectatus, a newly identified shuvosaur from Ghost Ranch, walked on two legs, had tiny forelimbs, and a toothless beak—yet it's a crocodile relative. The fossil fills a long-predicted evolutionary gap, showing how croc cousins experimented with dinosaur-like bodies."
+      "title": "NASA's Crew-11 Astronauts to Share 167-Day Space Station Saga",
+      "summary": "NASA astronauts Zena Cardman and Mike Fincke, along with JAXA's Kimiya Yui, will discuss their 167-day ISS mission at a public event on June 1. The crew traveled 71 million miles and conducted crucial research, including celebrating 25 years of continuous human presence in orbit."
     },
     {
-      "id": "2026-05-29-science-3",
-      "source": "NPR Health",
-      "time_ago": "Fri, 22 May 2026 05:00:00 -0400",
-      "mined_at": "2026-05-29T18:44:13+00:00",
-      "source_published_at": "Fri, 22 May 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_4fb39f4f985f.webp",
+      "id": "2026-05-30-science-3",
+      "source": "ScienceDaily All",
+      "time_ago": "Sat, 30 May 2026 06:26:24 EDT",
+      "mined_at": "2026-05-30T18:11:43+00:00",
+      "source_published_at": "Sat, 30 May 2026 06:26:24 EDT",
+      "image_url": "/article_images/article_83cb9abe45bb.webp",
       "category": "Science",
-      "title": "A Closed Hospital, a Fatal Heart Attack, and the Limits of a $50 Billion Rural Health Fund",
-      "summary": "Stanley Sears died after a heart attack in Martin County, N.C., a year after its only hospital closed. His sister wonders if he could have been saved. A $50 billion rural health fund is touted as a lifeline, but it can't reopen shuttered facilities like Martin General."
+      "title": "Silicon Skyscrapers: 3D Chip Stacking Could Extend Moore's Law",
+      "summary": "University of Illinois researchers have demonstrated a method to stack multiple layers of silicon transistors with 98-100% yield, potentially revolutionizing chip density. This monolithic 3D integration could keep Moore's Law alive by building circuits upward instead of shrinking them further."
     }
   ]
 }

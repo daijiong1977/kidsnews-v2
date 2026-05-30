@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-29-news-1",
-      "source": "BBC News",
-      "time_ago": "Fri, 29 May 2026 10:38:46 GMT",
-      "mined_at": "2026-05-29T18:44:13+00:00",
-      "source_published_at": "Fri, 29 May 2026 10:38:46 GMT",
-      "image_url": "/article_images/article_42ed248789de.webp",
-      "category": "News",
-      "title": "New Glenn Explosion Throws NASA's Lunar Ambitions into Uncertainty",
-      "summary": "A Blue Origin New Glenn rocket exploded during a test at Cape Canaveral, damaging its only launch pad. No one was injured, but the blast could delay NASA's Moon base plans and Amazon's satellite internet rollout. Repairs may take months."
-    },
-    {
-      "id": "2026-05-29-news-2",
-      "source": "NPR World",
-      "time_ago": "Fri, 29 May 2026 05:00:00 -0400",
-      "mined_at": "2026-05-29T18:44:13+00:00",
-      "source_published_at": "Fri, 29 May 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_3172af98adfb.webp",
-      "category": "News",
-      "title": "America's Cattle Herd Hits a 75-Year Low—What's Behind the Shrinking Supply?",
-      "summary": "The U.S. cattle inventory has dropped to 86.2 million head, the smallest since 1951. Rising costs, drought, an aging farmer workforce, and a resurgent parasite are squeezing ranchers. Beef production remains high, but retail prices are climbing."
-    },
-    {
-      "id": "2026-05-29-news-3",
+      "id": "2026-05-30-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Fri, 29 May 2026 13:05:52 -0400",
-      "mined_at": "2026-05-29T18:44:13+00:00",
-      "source_published_at": "Fri, 29 May 2026 13:05:52 -0400",
-      "image_url": "/article_images/article_e4798d1d4098.webp",
+      "time_ago": "Sat, 30 May 2026 12:28:46 -0400",
+      "mined_at": "2026-05-30T18:11:43+00:00",
+      "source_published_at": "Sat, 30 May 2026 12:28:46 -0400",
+      "image_url": "/article_images/article_b523b547cb11.webp",
       "category": "News",
-      "title": "Wildfire Fallout and a Reality TV Challenger Shake Up LA Mayor's Race",
-      "summary": "Los Angeles Mayor Karen Bass faces a tough re-election bid amid criticism over her handling of the devastating Palisades Fire and homelessness. Her most colorful challenger is Spencer Pratt, a reality TV personality who lost his home in the blaze."
+      "title": "Pink Soup Fever: How a Cold Beet Dish Drew 100,000 People to Vilnius",
+      "summary": "Vilnius turned into a pink playground for the annual Pink Soup Fest, celebrating Lithuania's iconic cold beet soup, šaltibarščiai. Over 100,000 attendees, including a UK tourist in homemade pink knight armor, joined synchronized lunches and parades. The festival is a tourism magnet blending food and spectacle."
+    },
+    {
+      "id": "2026-05-30-news-2",
+      "source": "NPR World",
+      "time_ago": "Sat, 30 May 2026 07:42:06 -0400",
+      "mined_at": "2026-05-30T18:11:43+00:00",
+      "source_published_at": "Sat, 30 May 2026 07:42:06 -0400",
+      "image_url": "/article_images/article_010b2da1587a.webp",
+      "category": "News",
+      "title": "At Key Asia Summit, Hegseth Pushes Allies to Counter China—but Stays Silent on Taiwan",
+      "summary": "Defense Secretary Pete Hegseth urged Asian allies to boost military spending against China's 'historic buildup' at the Shangri-La Dialogue, but notably omitted Taiwan from his speech. Experts called the address 'light on substance,' as regional nations feel caught between U.S.-China competition. China sent a lower-level delegation."
+    },
+    {
+      "id": "2026-05-30-news-3",
+      "source": "NPR World",
+      "time_ago": "Sat, 30 May 2026 09:00:00 -0400",
+      "mined_at": "2026-05-30T18:11:43+00:00",
+      "source_published_at": "Sat, 30 May 2026 09:00:00 -0400",
+      "image_url": "/article_images/article_a4e564560644.webp",
+      "category": "News",
+      "title": "As Corporate Sponsorships Fade, Pride Celebrations Face an Uncertain Future",
+      "summary": "Pride festivals nationwide are grappling with a sharp drop in corporate sponsorships, which organizers link to political pressure against DEI initiatives. Pittsburgh Pride is racing to fill a funding gap, while Tampa Pride canceled its event. Experts say corporate allyship is now seen as a risk."
     }
   ]
 }
