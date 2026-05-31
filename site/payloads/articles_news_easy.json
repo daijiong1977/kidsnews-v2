@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-30-news-1",
+      "id": "2026-05-31-news-1",
+      "source": "BBC News",
+      "time_ago": "Sun, 31 May 2026 17:27:45 GMT",
+      "mined_at": "2026-05-31T18:07:30+00:00",
+      "source_published_at": "Sun, 31 May 2026 17:27:45 GMT",
+      "image_url": "/article_images/article_5e9bbe6c6e1f.webp",
+      "category": "News",
+      "title": "Red Sea of Fans Floods London for Arsenal's First Title in 22 Years!",
+      "summary": "Hundreds of thousands of Arsenal fans turned north London red for a victory parade after the men's team won their first Premier League title in 22 years. The women's team also celebrated winning the first-ever Fifa Women's Champions Cup. One fan called it 'one of the best days of my life.'"
+    },
+    {
+      "id": "2026-05-31-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Sat, 30 May 2026 12:28:46 -0400",
-      "mined_at": "2026-05-30T18:11:43+00:00",
-      "source_published_at": "Sat, 30 May 2026 12:28:46 -0400",
-      "image_url": "/article_images/article_b523b547cb11.webp",
+      "time_ago": "Sat, 30 May 2026 18:15:04 -0400",
+      "mined_at": "2026-05-31T18:07:30+00:00",
+      "source_published_at": "Sat, 30 May 2026 18:15:04 -0400",
+      "image_url": "/article_images/article_55ad7042c3c1.webp",
       "category": "News",
-      "title": "A Soup So Pink It Turned a Whole City Into a Party!",
-      "summary": "Imagine a festival where 100,000 people dress in pink and eat cold beet soup together. That's what happened in Vilnius, Lithuania, where a giant pink party celebrated šaltibarščiai. One visitor even built a suit of pink knight armor!"
+      "title": "SPF 30, 50, or 100? What Those Sunscreen Numbers Really Mean",
+      "summary": "Dermatologists explain that SPF 30 blocks 97% of UVB rays, while SPF 50 blocks 98%. Higher numbers give a little more protection, but no sunscreen blocks 100%. The key is to use enough and reapply often."
     },
     {
-      "id": "2026-05-30-news-2",
-      "source": "NPR World",
-      "time_ago": "Sat, 30 May 2026 07:42:06 -0400",
-      "mined_at": "2026-05-30T18:11:43+00:00",
-      "source_published_at": "Sat, 30 May 2026 07:42:06 -0400",
-      "image_url": "/article_images/article_010b2da1587a.webp",
+      "id": "2026-05-31-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Sun, 31 May 2026 16:40:22 +0000",
+      "mined_at": "2026-05-31T18:07:30+00:00",
+      "source_published_at": "Sun, 31 May 2026 16:40:22 +0000",
+      "image_url": "/article_images/article_13a2581fa06e.webp",
       "category": "News",
-      "title": "U.S. Defense Boss Asks Asian Allies to Spend More on Military",
-      "summary": "At a big defense meeting in Singapore, U.S. Defense Secretary Pete Hegseth told Asian countries to spend more on their militaries to balance China's growing power. He didn't mention Taiwan in his speech, which surprised many people. One expert said the speech was 'light on substance.'"
-    },
-    {
-      "id": "2026-05-30-news-3",
-      "source": "NPR World",
-      "time_ago": "Sat, 30 May 2026 09:00:00 -0400",
-      "mined_at": "2026-05-30T18:11:43+00:00",
-      "source_published_at": "Sat, 30 May 2026 09:00:00 -0400",
-      "image_url": "/article_images/article_a4e564560644.webp",
-      "category": "News",
-      "title": "Pride Parades Are Losing Big Sponsors—Here's Why",
-      "summary": "Many Pride festivals across the U.S. are struggling because big companies are giving less money. Organizers say political pressure and fear of backlash are scaring sponsors away. In Pittsburgh, they're racing to fill a budget gap before their June parade."
+      "title": "Ethiopia's Big Election: 50 Million Voters, 47 Parties, and One Big Choice",
+      "summary": "Over 50 million Ethiopians are registered to vote in a general election on Monday. They will choose from 47 political parties and more than 10,900 candidates. The winning party's leader will become the next prime minister."
     }
   ]
 }

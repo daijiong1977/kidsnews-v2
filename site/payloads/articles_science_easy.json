@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-30-science-1",
-      "source": "Space.com",
-      "time_ago": "Sat, 30 May 2026 14:00:00 +0000",
-      "mined_at": "2026-05-30T18:11:43+00:00",
-      "source_published_at": "Sat, 30 May 2026 14:00:00 +0000",
-      "image_url": "/article_images/article_cd041939a691.webp",
+      "id": "2026-05-31-science-1",
+      "source": "Smithsonian Science-Nature",
+      "time_ago": "Fri, 15 May 2026 11:30:00 +0000",
+      "mined_at": "2026-05-31T18:07:30+00:00",
+      "source_published_at": "Fri, 15 May 2026 11:30:00 +0000",
+      "image_url": "/article_images/article_a67e3dc8e1da.webp",
       "category": "Science",
-      "title": "How Camila Mendes Became a Real-Life Warrior for 'Masters of the Universe'",
-      "summary": "Camila Mendes didn't just act like Teela—she trained with swords and rifles to become her! The 'Riverdale' star reveals how tough workouts and weapon practice helped her play the captain of the Royal Guard in the new He-Man movie, in theaters June 5."
+      "title": "Watching Your Brain on Beauty",
+      "summary": "What happens inside your head when you see something really beautiful? Scientists in Italy hooked up a reporter to brain sensors and showed her a 400-year-old brass instrument used by Galileo. They’re trying to find the “beauty spot” in the brain."
     },
     {
-      "id": "2026-05-30-science-2",
-      "source": "NASA News",
-      "time_ago": "Fri, 29 May 2026 20:49:43 +0000",
-      "mined_at": "2026-05-30T18:11:43+00:00",
-      "source_published_at": "Fri, 29 May 2026 20:49:43 +0000",
-      "image_url": "/article_images/article_2aa3f5d95600.webp",
+      "id": "2026-05-31-science-2",
+      "source": "Physics World",
+      "time_ago": "Fri, 29 May 2026 15:45:09 +0000",
+      "mined_at": "2026-05-31T18:07:30+00:00",
+      "source_published_at": "Fri, 29 May 2026 15:45:09 +0000",
+      "image_url": "/article_images/article_129d136c7420.webp",
       "category": "Science",
-      "title": "Meet the Astronauts Who Spent 167 Days in Space!",
-      "summary": "NASA astronauts Zena Cardman and Mike Fincke, plus JAXA's Kimiya Yui, are sharing stories from their 167-day space mission. They traveled 71 million miles and did cool science experiments. Catch them live at NASA Headquarters on June 1!"
+      "title": "Tiny Thermometers Inside Cells Could Spot Cancer",
+      "summary": "Scientists in Japan built a super-small thermometer that works inside living cells. It’s made from special crystals and can measure temperature more precisely than ever before. One day, it might help doctors find diseases like cancer."
     },
     {
-      "id": "2026-05-30-science-3",
-      "source": "ScienceDaily All",
-      "time_ago": "Sat, 30 May 2026 06:26:24 EDT",
-      "mined_at": "2026-05-30T18:11:43+00:00",
-      "source_published_at": "Sat, 30 May 2026 06:26:24 EDT",
-      "image_url": "/article_images/article_83cb9abe45bb.webp",
+      "id": "2026-05-31-science-3",
+      "source": "MIT Tech Review",
+      "time_ago": "Thu, 28 May 2026 18:01:00 +0000",
+      "mined_at": "2026-05-31T18:07:30+00:00",
+      "source_published_at": "Thu, 28 May 2026 18:01:00 +0000",
+      "image_url": "/article_images/article_b751d7edaca7.webp",
       "category": "Science",
-      "title": "Tiny Chip Towers Could Make Your Devices Super Powerful!",
-      "summary": "Scientists found a way to stack silicon chips like a high-rise building, packing more power into less space. This 3D chip breakthrough could keep making computers faster and smarter, just like Moore's Law predicted, for years to come."
+      "title": "A Greener Way to Get Lithium — From a Shower Remodel?",
+      "summary": "Lithium powers your phone and electric cars, but mining it is messy and expensive. Now, scientists found a cleaner, cheaper way to pull lithium from rocks — and the idea came from a home improvement store!"
     }
   ]
 }

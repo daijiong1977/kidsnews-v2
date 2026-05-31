@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-30-news-1",
+      "id": "2026-05-31-news-1",
+      "source": "BBC News",
+      "time_ago": "Sun, 31 May 2026 17:27:45 GMT",
+      "mined_at": "2026-05-31T18:07:30+00:00",
+      "source_published_at": "Sun, 31 May 2026 17:27:45 GMT",
+      "image_url": "/article_images/article_5e9bbe6c6e1f.webp",
+      "category": "News",
+      "title": "22-Year Wait Ends: Arsenal's Premier League Victory Parade Paints London Red",
+      "summary": "An estimated 500,000 Arsenal supporters flooded Islington for a victory parade celebrating the club's first Premier League title since the 2004 'Invincibles' season. The women's team also showcased the inaugural Fifa Women's Champions Cup. The celebration followed a heartbreaking Champions League final loss the day before."
+    },
+    {
+      "id": "2026-05-31-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Sat, 30 May 2026 12:28:46 -0400",
-      "mined_at": "2026-05-30T18:11:43+00:00",
-      "source_published_at": "Sat, 30 May 2026 12:28:46 -0400",
-      "image_url": "/article_images/article_b523b547cb11.webp",
+      "time_ago": "Sat, 30 May 2026 18:15:04 -0400",
+      "mined_at": "2026-05-31T18:07:30+00:00",
+      "source_published_at": "Sat, 30 May 2026 18:15:04 -0400",
+      "image_url": "/article_images/article_55ad7042c3c1.webp",
       "category": "News",
-      "title": "Pink Soup Fever: How a Cold Beet Dish Drew 100,000 People to Vilnius",
-      "summary": "Vilnius turned into a pink playground for the annual Pink Soup Fest, celebrating Lithuania's iconic cold beet soup, šaltibarščiai. Over 100,000 attendees, including a UK tourist in homemade pink knight armor, joined synchronized lunches and parades. The festival is a tourism magnet blending food and spectacle."
+      "title": "Sunscreen Decoded: Why SPF 30, 50, and 100 Aren't as Different as You Think",
+      "summary": "Dermatologists reveal that SPF 30 blocks 97% of UVB rays, SPF 50 blocks 98%, and higher numbers offer diminishing returns. Most people under-apply, so a higher SPF provides a margin of error. No sunscreen blocks 100% of rays."
     },
     {
-      "id": "2026-05-30-news-2",
-      "source": "NPR World",
-      "time_ago": "Sat, 30 May 2026 07:42:06 -0400",
-      "mined_at": "2026-05-30T18:11:43+00:00",
-      "source_published_at": "Sat, 30 May 2026 07:42:06 -0400",
-      "image_url": "/article_images/article_010b2da1587a.webp",
+      "id": "2026-05-31-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Sun, 31 May 2026 16:40:22 +0000",
+      "mined_at": "2026-05-31T18:07:30+00:00",
+      "source_published_at": "Sun, 31 May 2026 16:40:22 +0000",
+      "image_url": "/article_images/article_13a2581fa06e.webp",
       "category": "News",
-      "title": "At Key Asia Summit, Hegseth Pushes Allies to Counter China—but Stays Silent on Taiwan",
-      "summary": "Defense Secretary Pete Hegseth urged Asian allies to boost military spending against China's 'historic buildup' at the Shangri-La Dialogue, but notably omitted Taiwan from his speech. Experts called the address 'light on substance,' as regional nations feel caught between U.S.-China competition. China sent a lower-level delegation."
-    },
-    {
-      "id": "2026-05-30-news-3",
-      "source": "NPR World",
-      "time_ago": "Sat, 30 May 2026 09:00:00 -0400",
-      "mined_at": "2026-05-30T18:11:43+00:00",
-      "source_published_at": "Sat, 30 May 2026 09:00:00 -0400",
-      "image_url": "/article_images/article_a4e564560644.webp",
-      "category": "News",
-      "title": "As Corporate Sponsorships Fade, Pride Celebrations Face an Uncertain Future",
-      "summary": "Pride festivals nationwide are grappling with a sharp drop in corporate sponsorships, which organizers link to political pressure against DEI initiatives. Pittsburgh Pride is racing to fill a funding gap, while Tampa Pride canceled its event. Experts say corporate allyship is now seen as a risk."
+      "title": "Ethiopia's Pivotal Election: Youthful Electorate, 47 Parties, and a Prime Minister at Stake",
+      "summary": "Ethiopians head to the polls Monday in a general election with over 50 million registered voters and 47 parties vying for parliament. The median age is 19, giving young voters enormous sway. The next prime minister will be chosen by the winning coalition."
     }
   ]
 }
