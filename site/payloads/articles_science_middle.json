@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-31-science-1",
-      "source": "Smithsonian Science-Nature",
-      "time_ago": "Fri, 15 May 2026 11:30:00 +0000",
-      "mined_at": "2026-05-31T18:07:30+00:00",
-      "source_published_at": "Fri, 15 May 2026 11:30:00 +0000",
-      "image_url": "/article_images/article_a67e3dc8e1da.webp",
+      "id": "2026-06-01-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Mon, 01 Jun 2026 07:04:52 EDT",
+      "mined_at": "2026-06-01T19:37:27+00:00",
+      "source_published_at": "Mon, 01 Jun 2026 07:04:52 EDT",
+      "image_url": "/article_images/article_6caa4777289f.webp",
       "category": "Science",
-      "title": "Hunting for Beauty’s Biological Signature in the Brain",
-      "summary": "At Florence’s Galileo Museum, neuroscientists are wiring up volunteers to track brain waves, heartbeats, and sweat as they gaze at Renaissance instruments. Their goal: to find a quantifiable, biological footprint of aesthetic experience."
+      "title": "Roman Telescope Set to Reveal 100,000 Hidden Worlds Across the Galaxy",
+      "summary": "NASA's Roman telescope could uncover 100,000 exoplanets, dwarfing the 6,300 known today. By scanning the Milky Way's uncharted center and far side, it will reveal how planet formation varies with stellar chemistry and galactic environment."
     },
     {
-      "id": "2026-05-31-science-2",
-      "source": "Physics World",
-      "time_ago": "Fri, 29 May 2026 15:45:09 +0000",
-      "mined_at": "2026-05-31T18:07:30+00:00",
-      "source_published_at": "Fri, 29 May 2026 15:45:09 +0000",
-      "image_url": "/article_images/article_129d136c7420.webp",
+      "id": "2026-06-01-science-2",
+      "source": "IEEE Spectrum",
+      "time_ago": "Sun, 31 May 2026 13:00:01 +0000",
+      "mined_at": "2026-06-01T19:37:27+00:00",
+      "source_published_at": "Sun, 31 May 2026 13:00:01 +0000",
+      "image_url": "/article_images/article_cbe1e5c42901.webp",
       "category": "Science",
-      "title": "A Quantum Thermometer for Living Cells Could Revolutionize Disease Diagnosis",
-      "summary": "Japanese researchers have built a uniform, biocompatible quantum sensor that measures temperature inside living cells with high precision. Tested in cancer cells, the molecular spin sensor could one day help diagnose diseases by detecting tiny thermal changes."
+      "title": "How a DIY Robot with 'Air-Muscles' Pioneered Humanoid Locomotion",
+      "summary": "In 1987, a photographer with no robotics training built a bipedal robot using pneumatic 'air-muscles.' Shadow Walker could stand and balance, and it competed in the 1990 Robot Olympics—wearing pants to conceal its unconventional actuators."
     },
     {
-      "id": "2026-05-31-science-3",
-      "source": "MIT Tech Review",
-      "time_ago": "Thu, 28 May 2026 18:01:00 +0000",
-      "mined_at": "2026-05-31T18:07:30+00:00",
-      "source_published_at": "Thu, 28 May 2026 18:01:00 +0000",
-      "image_url": "/article_images/article_b751d7edaca7.webp",
+      "id": "2026-06-01-science-3",
+      "source": "Popular Science",
+      "time_ago": "Mon, 01 Jun 2026 13:20:03 -0400",
+      "mined_at": "2026-06-01T19:37:27+00:00",
+      "source_published_at": "Mon, 01 Jun 2026 13:20:03 -0400",
+      "image_url": "/article_images/article_c75fb23d6051.webp",
       "category": "Science",
-      "title": "A Shower Remodel Inspired a Cleaner, Cheaper Way to Extract Lithium",
-      "summary": "MIT researchers have developed a low-temperature, weak-acid process to extract lithium from silicate ore, slashing costs and carbon emissions. The technique, now being commercialized by startup Rock Zero, could make lithium cheaper than $6,000 per ton."
+      "title": "Jackie the Eagle Delivers a 'Dramatic Slap' to Nocturnal Nest Intruder",
+      "summary": "Internet-famous bald eagle Jackie swatted a flying squirrel named Fiona during a late-night nest visit. The livestreamed moment highlights the constant vigilance of eagle parents raising chicks Sandy and Luna in California's Big Bear Valley."
     }
   ]
 }

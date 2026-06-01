@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-31-news-1",
-      "source": "BBC News",
-      "time_ago": "Sun, 31 May 2026 17:27:45 GMT",
-      "mined_at": "2026-05-31T18:07:30+00:00",
-      "source_published_at": "Sun, 31 May 2026 17:27:45 GMT",
-      "image_url": "/article_images/article_5e9bbe6c6e1f.webp",
+      "id": "2026-06-01-news-1",
+      "source": "NPR World",
+      "time_ago": "Sun, 31 May 2026 16:29:34 -0400",
+      "mined_at": "2026-06-01T19:37:27+00:00",
+      "source_published_at": "Sun, 31 May 2026 16:29:34 -0400",
+      "image_url": "/article_images/article_4985fa65dcb3.webp",
       "category": "News",
-      "title": "Red Sea of Fans Floods London for Arsenal's First Title in 22 Years!",
-      "summary": "Hundreds of thousands of Arsenal fans turned north London red for a victory parade after the men's team won their first Premier League title in 22 years. The women's team also celebrated winning the first-ever Fifa Women's Champions Cup. One fan called it 'one of the best days of my life.'"
+      "title": "A Teen's Bluetooth Speaker Named 'BOMB' Forces a Plane to Turn Back!",
+      "summary": "A United Airlines flight to Spain had to return to Newark after someone named their Bluetooth device 'BOMB.' Passengers were evacuated while the plane was checked. The flight landed 9.5 hours late."
     },
     {
-      "id": "2026-05-31-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Sat, 30 May 2026 18:15:04 -0400",
-      "mined_at": "2026-05-31T18:07:30+00:00",
-      "source_published_at": "Sat, 30 May 2026 18:15:04 -0400",
-      "image_url": "/article_images/article_55ad7042c3c1.webp",
-      "category": "News",
-      "title": "SPF 30, 50, or 100? What Those Sunscreen Numbers Really Mean",
-      "summary": "Dermatologists explain that SPF 30 blocks 97% of UVB rays, while SPF 50 blocks 98%. Higher numbers give a little more protection, but no sunscreen blocks 100%. The key is to use enough and reapply often."
-    },
-    {
-      "id": "2026-05-31-news-3",
+      "id": "2026-06-01-news-2",
       "source": "Al Jazeera",
-      "time_ago": "Sun, 31 May 2026 16:40:22 +0000",
-      "mined_at": "2026-05-31T18:07:30+00:00",
-      "source_published_at": "Sun, 31 May 2026 16:40:22 +0000",
-      "image_url": "/article_images/article_13a2581fa06e.webp",
+      "time_ago": "Mon, 01 Jun 2026 18:46:28 +0000",
+      "mined_at": "2026-06-01T19:37:27+00:00",
+      "source_published_at": "Mon, 01 Jun 2026 18:46:28 +0000",
+      "image_url": "/article_images/article_e4fedc4545b1.webp",
       "category": "News",
-      "title": "Ethiopia's Big Election: 50 Million Voters, 47 Parties, and One Big Choice",
-      "summary": "Over 50 million Ethiopians are registered to vote in a general election on Monday. They will choose from 47 political parties and more than 10,900 candidates. The winning party's leader will become the next prime minister."
+      "title": "AI Company Anthropic Plans to Go Public—and It's Worth Almost a Trillion Dollars!",
+      "summary": "Anthropic, the company behind the AI chatbot Claude, is preparing to sell shares to the public for the first time. It was recently valued at $965 billion, making it one of the most valuable companies in the world."
+    },
+    {
+      "id": "2026-06-01-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Mon, 01 Jun 2026 14:52:39 -0400",
+      "mined_at": "2026-06-01T19:37:27+00:00",
+      "source_published_at": "Mon, 01 Jun 2026 14:52:39 -0400",
+      "image_url": "/article_images/article_b79a5841acc1.webp",
+      "category": "News",
+      "title": "Hungary's New Leader Wants to Kick Out the President—by Changing the Rules!",
+      "summary": "Prime Minister Péter Magyar plans to change Hungary's constitution to remove President Tamás Sulyok. Magyar calls Sulyok a 'puppet' of the old leader and says he must go. The president refuses to resign."
     }
   ]
 }

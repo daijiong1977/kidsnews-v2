@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-05-31-news-1",
-      "source": "BBC News",
-      "time_ago": "Sun, 31 May 2026 17:27:45 GMT",
-      "mined_at": "2026-05-31T18:07:30+00:00",
-      "source_published_at": "Sun, 31 May 2026 17:27:45 GMT",
-      "image_url": "/article_images/article_5e9bbe6c6e1f.webp",
+      "id": "2026-06-01-news-1",
+      "source": "NPR World",
+      "time_ago": "Sun, 31 May 2026 16:29:34 -0400",
+      "mined_at": "2026-06-01T19:37:27+00:00",
+      "source_published_at": "Sun, 31 May 2026 16:29:34 -0400",
+      "image_url": "/article_images/article_4985fa65dcb3.webp",
       "category": "News",
-      "title": "22-Year Wait Ends: Arsenal's Premier League Victory Parade Paints London Red",
-      "summary": "An estimated 500,000 Arsenal supporters flooded Islington for a victory parade celebrating the club's first Premier League title since the 2004 'Invincibles' season. The women's team also showcased the inaugural Fifa Women's Champions Cup. The celebration followed a heartbreaking Champions League final loss the day before."
+      "title": "A Prank Device Name Triggers a Midair U-Turn: How 'BOMB' on Bluetooth Sent a Flight Back to Newark",
+      "summary": "A United Airlines flight to Spain reversed course after a passenger's Bluetooth speaker appeared as 'BOMB.' The crew treated it as a security threat, evacuating the plane and inspecting it. The flight arrived 9.5 hours late, sparking debate about pranks and safety."
     },
     {
-      "id": "2026-05-31-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Sat, 30 May 2026 18:15:04 -0400",
-      "mined_at": "2026-05-31T18:07:30+00:00",
-      "source_published_at": "Sat, 30 May 2026 18:15:04 -0400",
-      "image_url": "/article_images/article_55ad7042c3c1.webp",
-      "category": "News",
-      "title": "Sunscreen Decoded: Why SPF 30, 50, and 100 Aren't as Different as You Think",
-      "summary": "Dermatologists reveal that SPF 30 blocks 97% of UVB rays, SPF 50 blocks 98%, and higher numbers offer diminishing returns. Most people under-apply, so a higher SPF provides a margin of error. No sunscreen blocks 100% of rays."
-    },
-    {
-      "id": "2026-05-31-news-3",
+      "id": "2026-06-01-news-2",
       "source": "Al Jazeera",
-      "time_ago": "Sun, 31 May 2026 16:40:22 +0000",
-      "mined_at": "2026-05-31T18:07:30+00:00",
-      "source_published_at": "Sun, 31 May 2026 16:40:22 +0000",
-      "image_url": "/article_images/article_13a2581fa06e.webp",
+      "time_ago": "Mon, 01 Jun 2026 18:46:28 +0000",
+      "mined_at": "2026-06-01T19:37:27+00:00",
+      "source_published_at": "Mon, 01 Jun 2026 18:46:28 +0000",
+      "image_url": "/article_images/article_e4fedc4545b1.webp",
       "category": "News",
-      "title": "Ethiopia's Pivotal Election: Youthful Electorate, 47 Parties, and a Prime Minister at Stake",
-      "summary": "Ethiopians head to the polls Monday in a general election with over 50 million registered voters and 47 parties vying for parliament. The median age is 19, giving young voters enormous sway. The next prime minister will be chosen by the winning coalition."
+      "title": "Anthropic Files for IPO, Setting Stage for a Trillion-Dollar AI Debut",
+      "summary": "AI giant Anthropic, maker of Claude, has confidentially filed for a U.S. IPO. Valued at $965 billion, it's racing rivals OpenAI and SpaceX to public markets. The move could reshape stock indexes and test investor appetite for AI."
+    },
+    {
+      "id": "2026-06-01-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Mon, 01 Jun 2026 14:52:39 -0400",
+      "mined_at": "2026-06-01T19:37:27+00:00",
+      "source_published_at": "Mon, 01 Jun 2026 14:52:39 -0400",
+      "image_url": "/article_images/article_b79a5841acc1.webp",
+      "category": "News",
+      "title": "Hungary's PM Moves to Amend Constitution, Oust President in Power Struggle",
+      "summary": "Prime Minister Péter Magyar is launching a constitutional amendment to remove President Tamás Sulyok, an Orbán appointee. Magyar calls Sulyok a 'puppet' and says he obstructs democratic functioning. The president refuses to resign, setting up a legal clash."
     }
   ]
 }
