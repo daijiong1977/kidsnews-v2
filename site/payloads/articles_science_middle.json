@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-06-02-science-1",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Tue, 02 Jun 2026 09:21:40 EDT",
-      "mined_at": "2026-06-02T18:58:13+00:00",
-      "source_published_at": "Tue, 02 Jun 2026 09:21:40 EDT",
-      "image_url": "/article_images/article_4fc9725d38d6.webp",
+      "source": "ScienceDaily All",
+      "time_ago": "Tue, 02 Jun 2026 01:55:31 EDT",
+      "mined_at": "2026-06-02T19:34:29+00:00",
+      "source_published_at": "Tue, 02 Jun 2026 01:55:31 EDT",
+      "image_url": "/article_images/article_196aed84779f.webp",
       "category": "Science",
-      "title": "Unlocking the Grand Canyon's Hidden Plumbing: 3D Cave Maps Reveal a Fragile Water Lifeline",
-      "summary": "Deep beneath the Grand Canyon, a network of caves feeds the springs that sustain millions of visitors and entire ecosystems. For the first time, scientists have created high-resolution 3D maps of over 10 kilometers of these passages. As the region grows hotter and drier, understanding this hidden plumbing is crucial."
+      "title": "Olive Oil's Dark Side? Fat Type, Not Amount, Drives Pancreatic Cancer in Mice",
+      "summary": "A Yale study found oleic acid—the main fat in olive oil—sped up pancreatic tumor growth in mice, while omega-3s from fish oil suppressed it. The type of fat, not total fat, was key."
     },
     {
       "id": "2026-06-02-science-2",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Tue, 02 Jun 2026 07:08:18 EDT",
-      "mined_at": "2026-06-02T18:58:13+00:00",
-      "source_published_at": "Tue, 02 Jun 2026 07:08:18 EDT",
-      "image_url": "/article_images/article_02559423b3ea.webp",
+      "source": "Science News Explores",
+      "time_ago": "Tue, 02 Jun 2026 10:30:00 +0000",
+      "mined_at": "2026-06-02T19:34:29+00:00",
+      "source_published_at": "Tue, 02 Jun 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_3155fdbe2707.webp",
       "category": "Science",
-      "title": "A Stellar 'Rosetta Stone': Astronomers Pinpoint the Source of Puzzling Cosmic Signals",
-      "summary": "Mysterious repeating radio signals from space have baffled astronomers for years. Now, an international team has traced one to a cataclysmic variable: a white dwarf and red dwarf in a tight 1.4-hour orbit. The discovery provides a crucial key for decoding other long-period radio transients across the Milky Way."
+      "title": "Brain Scans Reveal How Expert Echolocators Build Mental Maps Click by Click",
+      "summary": "A new study shows blind echolocation experts combine echoes over time to pinpoint objects. Their brains integrate each click-echo pair, improving accuracy with every sound."
     },
     {
       "id": "2026-06-02-science-3",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Tue, 02 Jun 2026 08:26:08 EDT",
-      "mined_at": "2026-06-02T18:58:13+00:00",
-      "source_published_at": "Tue, 02 Jun 2026 08:26:08 EDT",
-      "image_url": "/article_images/article_b44cd66a75a3.webp",
+      "source": "Space.com",
+      "time_ago": "Tue, 02 Jun 2026 16:00:00 +0000",
+      "mined_at": "2026-06-02T19:34:29+00:00",
+      "source_published_at": "Tue, 02 Jun 2026 16:00:00 +0000",
+      "image_url": "/article_images/article_eba9179f5b2a.webp",
       "category": "Science",
-      "title": "From Hunter to Parasite: The Fly That Sacrifices Its Sight After Settling Down",
-      "summary": "The deer ked undergoes a dramatic lifestyle switch: it sheds its wings and becomes a permanent blood-feeder on a host. New research reveals that this transition is accompanied by a significant reduction in visual sensitivity, as the fly redirects energy to digestion and reproduction. It's a striking example of evolutionary trade-offs."
+      "title": "Winds at 15,000 MPH Reveal First Exoplanet Magnetic Fields—Key to Finding Alien Life",
+      "summary": "By clocking winds up to 15,530 mph on seven hot Jupiters, astronomers made the first direct measurement of exoplanet magnetic fields. The fields act as brakes, and could shield potential life."
     }
   ]
 }

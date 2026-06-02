@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-06-02-news-1",
-      "source": "NPR World",
-      "time_ago": "Tue, 02 Jun 2026 05:51:48 -0400",
-      "mined_at": "2026-06-02T18:58:13+00:00",
-      "source_published_at": "Tue, 02 Jun 2026 05:51:48 -0400",
-      "image_url": "/article_images/article_dee358d0c382.webp",
+      "source": "Al Jazeera",
+      "time_ago": "Tue, 02 Jun 2026 17:00:15 +0000",
+      "mined_at": "2026-06-02T19:34:29+00:00",
+      "source_published_at": "Tue, 02 Jun 2026 17:00:15 +0000",
+      "image_url": "/article_images/article_d01de2b71cff.webp",
       "category": "News",
-      "title": "Appeals Court Rules Pentagon's Transgender Military Ban Unconstitutional",
-      "summary": "A federal appeals court ruled 2-1 that the Pentagon's policy banning transgender troops is illegal, calling it driven by a \"bare desire to harm.\" The ban remains in effect pending appeal, but current service members are protected."
+      "title": "Tariff Tango: U.S. Slaps 25% Levy on Brazil, But the Trade Math Doesn't Add Up",
+      "summary": "The Trump administration announced a 25% tariff on Brazilian imports, citing deforestation and digital trade barriers. But U.S. data shows a trade surplus with Brazil, raising questions. A public comment period opens Thursday, ending July 1, with a hearing July 6."
     },
     {
       "id": "2026-06-02-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Tue, 02 Jun 2026 13:41:44 -0400",
-      "mined_at": "2026-06-02T18:58:13+00:00",
-      "source_published_at": "Tue, 02 Jun 2026 13:41:44 -0400",
-      "image_url": "/article_images/article_f92e0452c1cb.webp",
+      "time_ago": "Tue, 02 Jun 2026 12:31:34 -0400",
+      "mined_at": "2026-06-02T19:34:29+00:00",
+      "source_published_at": "Tue, 02 Jun 2026 12:31:34 -0400",
+      "image_url": "/article_images/article_b0b2b7b5d09c.webp",
       "category": "News",
-      "title": "EU Agrees on Controversial Migration Overhaul, Green-Lighting Deportation Hubs Abroad",
-      "summary": "The EU struck a deal to ramp up deportations and build detention centers outside its borders. Rights groups slam the plan as a \"draconian\" copy of Trump-era policies, warning it will endanger migrants and undermine human rights."
+      "title": "California's High-Stakes Primary: A Redistricting Reckoning",
+      "summary": "California Democrats redrew congressional maps to counter GOP gains in Texas, targeting up to five seats. But Tuesday's primary tests that strategy, especially in a San Diego district where nine Democrats risk splitting the vote and being shut out of the general election."
     },
     {
       "id": "2026-06-02-news-3",
-      "source": "BBC News",
-      "time_ago": "Tue, 02 Jun 2026 12:50:28 GMT",
-      "mined_at": "2026-06-02T18:58:13+00:00",
-      "source_published_at": "Tue, 02 Jun 2026 12:50:28 GMT",
-      "image_url": "/article_images/article_d25e524970c6.webp",
+      "source": "NPR World",
+      "time_ago": "Tue, 02 Jun 2026 07:10:08 -0400",
+      "mined_at": "2026-06-02T19:34:29+00:00",
+      "source_published_at": "Tue, 02 Jun 2026 07:10:08 -0400",
+      "image_url": "/article_images/article_e885bec8f01e.webp",
       "category": "News",
-      "title": "Disappearing Messages and Stolen Phones: Unanswered Questions in the Mandelson Affair",
-      "summary": "Despite 1,500 pages of released documents, key details about Lord Mandelson's appointment as UK ambassador remain hidden. Missing messages, stolen phones, and redacted files fuel speculation about his ties to Jeffrey Epstein."
+      "title": "Court Halts $1.8 Billion 'Anti-Weaponization' Fund as Primaries Heat Up",
+      "summary": "A federal court ordered a pause on the Trump administration's $1.8 billion fund for alleged victims of government overreach, amid bipartisan fears it could compensate January 6 rioters. Six states hold primaries today, with competitive governor races in California and Iowa."
     }
   ]
 }
