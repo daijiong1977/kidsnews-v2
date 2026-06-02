@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-01-science-1",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Mon, 01 Jun 2026 07:04:52 EDT",
-      "mined_at": "2026-06-01T19:37:27+00:00",
-      "source_published_at": "Mon, 01 Jun 2026 07:04:52 EDT",
-      "image_url": "/article_images/article_6caa4777289f.webp",
+      "id": "2026-06-02-science-1",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Tue, 02 Jun 2026 09:21:40 EDT",
+      "mined_at": "2026-06-02T18:58:13+00:00",
+      "source_published_at": "Tue, 02 Jun 2026 09:21:40 EDT",
+      "image_url": "/article_images/article_4fc9725d38d6.webp",
       "category": "Science",
-      "title": "Roman Telescope Set to Reveal 100,000 Hidden Worlds Across the Galaxy",
-      "summary": "NASA's Roman telescope could uncover 100,000 exoplanets, dwarfing the 6,300 known today. By scanning the Milky Way's uncharted center and far side, it will reveal how planet formation varies with stellar chemistry and galactic environment."
+      "title": "Unlocking the Grand Canyon's Hidden Plumbing: 3D Cave Maps Reveal a Fragile Water Lifeline",
+      "summary": "Deep beneath the Grand Canyon, a network of caves feeds the springs that sustain millions of visitors and entire ecosystems. For the first time, scientists have created high-resolution 3D maps of over 10 kilometers of these passages. As the region grows hotter and drier, understanding this hidden plumbing is crucial."
     },
     {
-      "id": "2026-06-01-science-2",
-      "source": "IEEE Spectrum",
-      "time_ago": "Sun, 31 May 2026 13:00:01 +0000",
-      "mined_at": "2026-06-01T19:37:27+00:00",
-      "source_published_at": "Sun, 31 May 2026 13:00:01 +0000",
-      "image_url": "/article_images/article_cbe1e5c42901.webp",
+      "id": "2026-06-02-science-2",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Tue, 02 Jun 2026 07:08:18 EDT",
+      "mined_at": "2026-06-02T18:58:13+00:00",
+      "source_published_at": "Tue, 02 Jun 2026 07:08:18 EDT",
+      "image_url": "/article_images/article_02559423b3ea.webp",
       "category": "Science",
-      "title": "How a DIY Robot with 'Air-Muscles' Pioneered Humanoid Locomotion",
-      "summary": "In 1987, a photographer with no robotics training built a bipedal robot using pneumatic 'air-muscles.' Shadow Walker could stand and balance, and it competed in the 1990 Robot Olympics—wearing pants to conceal its unconventional actuators."
+      "title": "A Stellar 'Rosetta Stone': Astronomers Pinpoint the Source of Puzzling Cosmic Signals",
+      "summary": "Mysterious repeating radio signals from space have baffled astronomers for years. Now, an international team has traced one to a cataclysmic variable: a white dwarf and red dwarf in a tight 1.4-hour orbit. The discovery provides a crucial key for decoding other long-period radio transients across the Milky Way."
     },
     {
-      "id": "2026-06-01-science-3",
-      "source": "Popular Science",
-      "time_ago": "Mon, 01 Jun 2026 13:20:03 -0400",
-      "mined_at": "2026-06-01T19:37:27+00:00",
-      "source_published_at": "Mon, 01 Jun 2026 13:20:03 -0400",
-      "image_url": "/article_images/article_c75fb23d6051.webp",
+      "id": "2026-06-02-science-3",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Tue, 02 Jun 2026 08:26:08 EDT",
+      "mined_at": "2026-06-02T18:58:13+00:00",
+      "source_published_at": "Tue, 02 Jun 2026 08:26:08 EDT",
+      "image_url": "/article_images/article_b44cd66a75a3.webp",
       "category": "Science",
-      "title": "Jackie the Eagle Delivers a 'Dramatic Slap' to Nocturnal Nest Intruder",
-      "summary": "Internet-famous bald eagle Jackie swatted a flying squirrel named Fiona during a late-night nest visit. The livestreamed moment highlights the constant vigilance of eagle parents raising chicks Sandy and Luna in California's Big Bear Valley."
+      "title": "From Hunter to Parasite: The Fly That Sacrifices Its Sight After Settling Down",
+      "summary": "The deer ked undergoes a dramatic lifestyle switch: it sheds its wings and becomes a permanent blood-feeder on a host. New research reveals that this transition is accompanied by a significant reduction in visual sensitivity, as the fly redirects energy to digestion and reproduction. It's a striking example of evolutionary trade-offs."
     }
   ]
 }

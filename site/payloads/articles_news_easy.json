@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-01-news-1",
+      "id": "2026-06-02-news-1",
       "source": "NPR World",
-      "time_ago": "Sun, 31 May 2026 16:29:34 -0400",
-      "mined_at": "2026-06-01T19:37:27+00:00",
-      "source_published_at": "Sun, 31 May 2026 16:29:34 -0400",
-      "image_url": "/article_images/article_4985fa65dcb3.webp",
+      "time_ago": "Tue, 02 Jun 2026 05:51:48 -0400",
+      "mined_at": "2026-06-02T18:58:13+00:00",
+      "source_published_at": "Tue, 02 Jun 2026 05:51:48 -0400",
+      "image_url": "/article_images/article_dee358d0c382.webp",
       "category": "News",
-      "title": "A Teen's Bluetooth Speaker Named 'BOMB' Forces a Plane to Turn Back!",
-      "summary": "A United Airlines flight to Spain had to return to Newark after someone named their Bluetooth device 'BOMB.' Passengers were evacuated while the plane was checked. The flight landed 9.5 hours late."
+      "title": "Court Says Pentagon's Transgender Troop Ban Is Illegal",
+      "summary": "A court just ruled that the Pentagon can't ban transgender people from serving in the military just because of who they are. But the ban is still in place for now while more legal fights happen."
     },
     {
-      "id": "2026-06-01-news-2",
-      "source": "Al Jazeera",
-      "time_ago": "Mon, 01 Jun 2026 18:46:28 +0000",
-      "mined_at": "2026-06-01T19:37:27+00:00",
-      "source_published_at": "Mon, 01 Jun 2026 18:46:28 +0000",
-      "image_url": "/article_images/article_e4fedc4545b1.webp",
-      "category": "News",
-      "title": "AI Company Anthropic Plans to Go Public—and It's Worth Almost a Trillion Dollars!",
-      "summary": "Anthropic, the company behind the AI chatbot Claude, is preparing to sell shares to the public for the first time. It was recently valued at $965 billion, making it one of the most valuable companies in the world."
-    },
-    {
-      "id": "2026-06-01-news-3",
+      "id": "2026-06-02-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Mon, 01 Jun 2026 14:52:39 -0400",
-      "mined_at": "2026-06-01T19:37:27+00:00",
-      "source_published_at": "Mon, 01 Jun 2026 14:52:39 -0400",
-      "image_url": "/article_images/article_b79a5841acc1.webp",
+      "time_ago": "Tue, 02 Jun 2026 13:41:44 -0400",
+      "mined_at": "2026-06-02T18:58:13+00:00",
+      "source_published_at": "Tue, 02 Jun 2026 13:41:44 -0400",
+      "image_url": "/article_images/article_f92e0452c1cb.webp",
       "category": "News",
-      "title": "Hungary's New Leader Wants to Kick Out the President—by Changing the Rules!",
-      "summary": "Prime Minister Péter Magyar plans to change Hungary's constitution to remove President Tamás Sulyok. Magyar calls Sulyok a 'puppet' of the old leader and says he must go. The president refuses to resign."
+      "title": "EU Plans to Send Migrants to Detention Centers Outside Europe",
+      "summary": "The European Union just agreed on tough new rules to deport more people and build detention centers in other countries. Critics say it's like copying harsh U.S. immigration policies and could hurt human rights."
+    },
+    {
+      "id": "2026-06-02-news-3",
+      "source": "BBC News",
+      "time_ago": "Tue, 02 Jun 2026 12:50:28 GMT",
+      "mined_at": "2026-06-02T18:58:13+00:00",
+      "source_published_at": "Tue, 02 Jun 2026 12:50:28 GMT",
+      "image_url": "/article_images/article_d25e524970c6.webp",
+      "category": "News",
+      "title": "Mystery Messages and Missing Papers: What the Mandelson Files Don't Tell Us",
+      "summary": "The UK government released 1,500 pages about Lord Mandelson's appointment as US ambassador. But key messages are missing, phones were stolen, and answers about his ties to Jeffrey Epstein are still secret."
     }
   ]
 }

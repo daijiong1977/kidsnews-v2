@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-01-news-1",
+      "id": "2026-06-02-news-1",
       "source": "NPR World",
-      "time_ago": "Sun, 31 May 2026 16:29:34 -0400",
-      "mined_at": "2026-06-01T19:37:27+00:00",
-      "source_published_at": "Sun, 31 May 2026 16:29:34 -0400",
-      "image_url": "/article_images/article_4985fa65dcb3.webp",
+      "time_ago": "Tue, 02 Jun 2026 05:51:48 -0400",
+      "mined_at": "2026-06-02T18:58:13+00:00",
+      "source_published_at": "Tue, 02 Jun 2026 05:51:48 -0400",
+      "image_url": "/article_images/article_dee358d0c382.webp",
       "category": "News",
-      "title": "A Prank Device Name Triggers a Midair U-Turn: How 'BOMB' on Bluetooth Sent a Flight Back to Newark",
-      "summary": "A United Airlines flight to Spain reversed course after a passenger's Bluetooth speaker appeared as 'BOMB.' The crew treated it as a security threat, evacuating the plane and inspecting it. The flight arrived 9.5 hours late, sparking debate about pranks and safety."
+      "title": "Appeals Court Rules Pentagon's Transgender Military Ban Unconstitutional",
+      "summary": "A federal appeals court ruled 2-1 that the Pentagon's policy banning transgender troops is illegal, calling it driven by a \"bare desire to harm.\" The ban remains in effect pending appeal, but current service members are protected."
     },
     {
-      "id": "2026-06-01-news-2",
-      "source": "Al Jazeera",
-      "time_ago": "Mon, 01 Jun 2026 18:46:28 +0000",
-      "mined_at": "2026-06-01T19:37:27+00:00",
-      "source_published_at": "Mon, 01 Jun 2026 18:46:28 +0000",
-      "image_url": "/article_images/article_e4fedc4545b1.webp",
-      "category": "News",
-      "title": "Anthropic Files for IPO, Setting Stage for a Trillion-Dollar AI Debut",
-      "summary": "AI giant Anthropic, maker of Claude, has confidentially filed for a U.S. IPO. Valued at $965 billion, it's racing rivals OpenAI and SpaceX to public markets. The move could reshape stock indexes and test investor appetite for AI."
-    },
-    {
-      "id": "2026-06-01-news-3",
+      "id": "2026-06-02-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Mon, 01 Jun 2026 14:52:39 -0400",
-      "mined_at": "2026-06-01T19:37:27+00:00",
-      "source_published_at": "Mon, 01 Jun 2026 14:52:39 -0400",
-      "image_url": "/article_images/article_b79a5841acc1.webp",
+      "time_ago": "Tue, 02 Jun 2026 13:41:44 -0400",
+      "mined_at": "2026-06-02T18:58:13+00:00",
+      "source_published_at": "Tue, 02 Jun 2026 13:41:44 -0400",
+      "image_url": "/article_images/article_f92e0452c1cb.webp",
       "category": "News",
-      "title": "Hungary's PM Moves to Amend Constitution, Oust President in Power Struggle",
-      "summary": "Prime Minister Péter Magyar is launching a constitutional amendment to remove President Tamás Sulyok, an Orbán appointee. Magyar calls Sulyok a 'puppet' and says he obstructs democratic functioning. The president refuses to resign, setting up a legal clash."
+      "title": "EU Agrees on Controversial Migration Overhaul, Green-Lighting Deportation Hubs Abroad",
+      "summary": "The EU struck a deal to ramp up deportations and build detention centers outside its borders. Rights groups slam the plan as a \"draconian\" copy of Trump-era policies, warning it will endanger migrants and undermine human rights."
+    },
+    {
+      "id": "2026-06-02-news-3",
+      "source": "BBC News",
+      "time_ago": "Tue, 02 Jun 2026 12:50:28 GMT",
+      "mined_at": "2026-06-02T18:58:13+00:00",
+      "source_published_at": "Tue, 02 Jun 2026 12:50:28 GMT",
+      "image_url": "/article_images/article_d25e524970c6.webp",
+      "category": "News",
+      "title": "Disappearing Messages and Stolen Phones: Unanswered Questions in the Mandelson Affair",
+      "summary": "Despite 1,500 pages of released documents, key details about Lord Mandelson's appointment as UK ambassador remain hidden. Missing messages, stolen phones, and redacted files fuel speculation about his ties to Jeffrey Epstein."
     }
   ]
 }
