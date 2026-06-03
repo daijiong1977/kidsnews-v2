@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-02-science-1",
-      "source": "ScienceDaily All",
-      "time_ago": "Tue, 02 Jun 2026 01:55:31 EDT",
-      "mined_at": "2026-06-02T19:34:29+00:00",
-      "source_published_at": "Tue, 02 Jun 2026 01:55:31 EDT",
-      "image_url": "/article_images/article_196aed84779f.webp",
+      "id": "2026-06-03-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Wed, 03 Jun 2026 11:54:24 EDT",
+      "mined_at": "2026-06-03T19:04:25+00:00",
+      "source_published_at": "Wed, 03 Jun 2026 11:54:24 EDT",
+      "image_url": "/article_images/article_2e8b59e6cede.webp",
       "category": "Science",
-      "title": "Olive Oil's Dark Side? Fat Type, Not Amount, Drives Pancreatic Cancer in Mice",
-      "summary": "A Yale study found oleic acid—the main fat in olive oil—sped up pancreatic tumor growth in mice, while omega-3s from fish oil suppressed it. The type of fat, not total fat, was key."
+      "title": "A Cosmic Vanishing Act: Venus Will Slip Behind the Moon This Month",
+      "summary": "On June 17, a lunar occultation will hide Venus from view for observers in the Americas. The Moon will pass in front of the brilliant planet, making it disappear and then reappear. This rare alignment is just one highlight of a packed June sky, including a tight Venus-Jupiter conjunction and the summer solstice."
     },
     {
-      "id": "2026-06-02-science-2",
-      "source": "Science News Explores",
-      "time_ago": "Tue, 02 Jun 2026 10:30:00 +0000",
-      "mined_at": "2026-06-02T19:34:29+00:00",
-      "source_published_at": "Tue, 02 Jun 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_3155fdbe2707.webp",
+      "id": "2026-06-03-science-2",
+      "source": "NASA News",
+      "time_ago": "Wed, 03 Jun 2026 17:27:22 +0000",
+      "mined_at": "2026-06-03T19:04:25+00:00",
+      "source_published_at": "Wed, 03 Jun 2026 17:27:22 +0000",
+      "image_url": "/article_images/article_680f59a487ed.webp",
       "category": "Science",
-      "title": "Brain Scans Reveal How Expert Echolocators Build Mental Maps Click by Click",
-      "summary": "A new study shows blind echolocation experts combine echoes over time to pinpoint objects. Their brains integrate each click-echo pair, improving accuracy with every sound."
+      "title": "A Towering Wave of Warm Water Is Marching Across the Pacific—And It Could Trigger a Global Weather Shake-Up",
+      "summary": "Satellite data reveal a massive Kelvin wave—a bulge of warm water over 5.9 inches higher than normal—moving from the western Pacific to South America. This phenomenon is a classic precursor to El Niño, a climate pattern that can disrupt weather worldwide, from droughts to floods."
     },
     {
-      "id": "2026-06-02-science-3",
-      "source": "Space.com",
-      "time_ago": "Tue, 02 Jun 2026 16:00:00 +0000",
-      "mined_at": "2026-06-02T19:34:29+00:00",
-      "source_published_at": "Tue, 02 Jun 2026 16:00:00 +0000",
-      "image_url": "/article_images/article_eba9179f5b2a.webp",
+      "id": "2026-06-03-science-3",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Tue, 02 Jun 2026 07:08:18 EDT",
+      "mined_at": "2026-06-03T19:04:25+00:00",
+      "source_published_at": "Tue, 02 Jun 2026 07:08:18 EDT",
+      "image_url": "/article_images/article_02559423b3ea.webp",
       "category": "Science",
-      "title": "Winds at 15,000 MPH Reveal First Exoplanet Magnetic Fields—Key to Finding Alien Life",
-      "summary": "By clocking winds up to 15,530 mph on seven hot Jupiters, astronomers made the first direct measurement of exoplanet magnetic fields. The fields act as brakes, and could shield potential life."
+      "title": "A Stellar Rosetta Stone: Astronomers Pin Down the Source of Baffling Radio Signals",
+      "summary": "An international team has traced mysterious long-period radio transients to a cataclysmic variable system: a white dwarf accreting matter from a red dwarf. The binary, ASKAP J1745−5051, orbits every 1.4 hours and emits synchronized radio and X-ray pulses, offering a key to decoding similar cosmic enigmas."
     }
   ]
 }

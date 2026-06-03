@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-02-science-1",
-      "source": "ScienceDaily All",
-      "time_ago": "Tue, 02 Jun 2026 01:55:31 EDT",
-      "mined_at": "2026-06-02T19:34:29+00:00",
-      "source_published_at": "Tue, 02 Jun 2026 01:55:31 EDT",
-      "image_url": "/article_images/article_196aed84779f.webp",
+      "id": "2026-06-03-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Wed, 03 Jun 2026 11:54:24 EDT",
+      "mined_at": "2026-06-03T19:04:25+00:00",
+      "source_published_at": "Wed, 03 Jun 2026 11:54:24 EDT",
+      "image_url": "/article_images/article_2e8b59e6cede.webp",
       "category": "Science",
-      "title": "The Fat That Fights Cancer? Not the One You'd Guess!",
-      "summary": "Scientists found that olive oil's main fat made pancreatic cancer grow faster in mice. But fish oil fats slowed it way down. The type of fat matters more than how much you eat."
+      "title": "Watch Venus Play Hide-and-Seek Behind the Moon!",
+      "summary": "On June 17, the Moon will slide right in front of Venus for some lucky skywatchers. It’s called a lunar occultation, and Venus will vanish for a while before popping back out. If you’re in the U.S., Canada, Brazil, or Venezuela, don’t miss it!"
     },
     {
-      "id": "2026-06-02-science-2",
-      "source": "Science News Explores",
-      "time_ago": "Tue, 02 Jun 2026 10:30:00 +0000",
-      "mined_at": "2026-06-02T19:34:29+00:00",
-      "source_published_at": "Tue, 02 Jun 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_3155fdbe2707.webp",
+      "id": "2026-06-03-science-2",
+      "source": "NASA News",
+      "time_ago": "Wed, 03 Jun 2026 17:27:22 +0000",
+      "mined_at": "2026-06-03T19:04:25+00:00",
+      "source_published_at": "Wed, 03 Jun 2026 17:27:22 +0000",
+      "image_url": "/article_images/article_680f59a487ed.webp",
       "category": "Science",
-      "title": "Seeing with Sound: How Some Blind People 'Click' to Navigate",
-      "summary": "Expert blind echolocators use tongue clicks to build mental maps of rooms. A new brain study shows they combine echoes over time, getting sharper pictures with each click."
+      "title": "A Giant Wave of Warm Water Is Heading Toward South America—And It Could Shake Up Our Weather!",
+      "summary": "A satellite spotted a huge, warm wave moving across the Pacific Ocean. It’s called a Kelvin wave, and it’s a sign that an El Niño might be coming. El Niño can change weather all over the world, bringing floods to some places and droughts to others."
     },
     {
-      "id": "2026-06-02-science-3",
-      "source": "Space.com",
-      "time_ago": "Tue, 02 Jun 2026 16:00:00 +0000",
-      "mined_at": "2026-06-02T19:34:29+00:00",
-      "source_published_at": "Tue, 02 Jun 2026 16:00:00 +0000",
-      "image_url": "/article_images/article_eba9179f5b2a.webp",
+      "id": "2026-06-03-science-3",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Tue, 02 Jun 2026 07:08:18 EDT",
+      "mined_at": "2026-06-03T19:04:25+00:00",
+      "source_published_at": "Tue, 02 Jun 2026 07:08:18 EDT",
+      "image_url": "/article_images/article_02559423b3ea.webp",
       "category": "Science",
-      "title": "Alien Winds at 15,000 MPH! First Proof of Magnetic Fields on Distant Worlds",
-      "summary": "Astronomers found magnetic fields on seven hot Jupiter exoplanets by measuring their insane winds—up to 15,530 mph. These fields could protect planets, maybe even help life survive."
+      "title": "Mystery Solved! We Finally Know What’s Sending Those Weird Radio Signals From Space",
+      "summary": "Astronomers found the source of strange, repeating radio bursts: a white dwarf star stealing gas from a red dwarf. The pair, called ASKAP J1745−5051, orbits every 1.4 hours and acts like a cosmic lighthouse, beaming radio waves our way."
     }
   ]
 }
