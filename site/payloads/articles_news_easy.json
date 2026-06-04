@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-03-news-1",
+      "id": "2026-06-04-news-1",
       "source": "NPR World",
-      "time_ago": "Wed, 03 Jun 2026 04:14:46 -0400",
-      "mined_at": "2026-06-03T19:04:25+00:00",
-      "source_published_at": "Wed, 03 Jun 2026 04:14:46 -0400",
-      "image_url": "/article_images/article_148817cfe65f.webp",
+      "time_ago": "Thu, 04 Jun 2026 05:00:00 -0400",
+      "mined_at": "2026-06-04T18:35:01+00:00",
+      "source_published_at": "Thu, 04 Jun 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_be50d1be85f6.webp",
       "category": "News",
-      "title": "California's Governor Race Is So Close We Still Don't Know Who Won!",
-      "summary": "Imagine a race with 60 people! California's primary for governor is too close to call. Democrat Xavier Becerra and Republican Steve Hilton are leading, but votes are still being counted. The top two will face off in November."
+      "title": "Flying Cows and Smart Drones: How Phone Companies Get Ready for Hurricanes",
+      "summary": "Imagine a drone named HAWK carrying a cell tower through the sky! Phone companies are using AI, drones, and even boats to keep you connected during hurricanes. They plan a week ahead so you can text your family when the power goes out."
     },
     {
-      "id": "2026-06-03-news-2",
+      "id": "2026-06-04-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Wed, 03 Jun 2026 14:13:18 -0400",
-      "mined_at": "2026-06-03T19:04:25+00:00",
-      "source_published_at": "Wed, 03 Jun 2026 14:13:18 -0400",
-      "image_url": "/article_images/article_a4cd2b52e250.webp",
+      "time_ago": "Thu, 04 Jun 2026 13:36:23 -0400",
+      "mined_at": "2026-06-04T18:35:01+00:00",
+      "source_published_at": "Thu, 04 Jun 2026 13:36:23 -0400",
+      "image_url": "/article_images/article_e9f2287593f6.webp",
       "category": "News",
-      "title": "Trump Called Netanyahu 'Crazy'—But Says They're Still Friends",
-      "summary": "President Trump admitted he called Israel's leader 'crazy' during a phone call. He was upset because fighting in Lebanon is making peace talks with Iran harder. But both leaders say they still work well together."
+      "title": "The Lincoln Memorial Reflecting Pool Just Got a Bold New Paint Job — and Not Everyone Is Happy",
+      "summary": "The famous Reflecting Pool in Washington, D.C., has been painted a deep “American flag blue.” President Trump says it cost up to $2 million, but records show over $14 million in contracts. Critics say it looks like a swimming pool and sued to stop it."
     },
     {
-      "id": "2026-06-03-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Wed, 03 Jun 2026 17:36:11 +0000",
-      "mined_at": "2026-06-03T19:04:25+00:00",
-      "source_published_at": "Wed, 03 Jun 2026 17:36:11 +0000",
-      "image_url": "/article_images/article_2369d5c87ca6.webp",
+      "id": "2026-06-04-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Thu, 04 Jun 2026 13:19:31 -0400",
+      "mined_at": "2026-06-04T18:35:01+00:00",
+      "source_published_at": "Thu, 04 Jun 2026 13:19:31 -0400",
+      "image_url": "/article_images/article_6415bdb8c537.webp",
       "category": "News",
-      "title": "Brazil's President Says 'No Way!' to New U.S. Tariffs",
-      "summary": "Brazil's leader Lula is upset about new U.S. tariffs—a 25% tax on some Brazilian goods. He thought relations were getting better after a White House meeting, but now says Brazil won't accept this treatment."
+      "title": "Trump Wants to Spend $700 Million to Bring Back Coal Power — But Is That a Good Idea?",
+      "summary": "President Trump is about to announce a $700 million plan to help coal plants and build new ones — the first since 2013. Supporters say it will create 14,000 jobs. Critics say it will make electricity more expensive and the air dirtier."
     }
   ]
 }

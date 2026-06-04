@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-03-news-1",
+      "id": "2026-06-04-news-1",
       "source": "NPR World",
-      "time_ago": "Wed, 03 Jun 2026 04:14:46 -0400",
-      "mined_at": "2026-06-03T19:04:25+00:00",
-      "source_published_at": "Wed, 03 Jun 2026 04:14:46 -0400",
-      "image_url": "/article_images/article_148817cfe65f.webp",
+      "time_ago": "Thu, 04 Jun 2026 05:00:00 -0400",
+      "mined_at": "2026-06-04T18:35:01+00:00",
+      "source_published_at": "Thu, 04 Jun 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_be50d1be85f6.webp",
       "category": "News",
-      "title": "California's Governor Primary Remains Undecided as Becerra and Hilton Lead a Crowded Field",
-      "summary": "California's primary for governor is too close to call, with Democrat Xavier Becerra and Republican Steve Hilton leading. Billionaire Tom Steyer trails closely. The top two finishers, regardless of party, will advance to November's general election."
+      "title": "AI, Drones, and ‘COWs’: Inside the High-Tech Hurricane Prep of Cell Carriers",
+      "summary": "Before a hurricane even forms, Verizon and AT&T are moving drones, barges, and portable cell towers into position. Using AI to pinpoint damage, they can restore service in minutes — but first responders always get priority. Here’s how the invisible network stays alive when the wind howls."
     },
     {
-      "id": "2026-06-03-news-2",
+      "id": "2026-06-04-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Wed, 03 Jun 2026 14:13:18 -0400",
-      "mined_at": "2026-06-03T19:04:25+00:00",
-      "source_published_at": "Wed, 03 Jun 2026 14:13:18 -0400",
-      "image_url": "/article_images/article_a4cd2b52e250.webp",
+      "time_ago": "Thu, 04 Jun 2026 13:36:23 -0400",
+      "mined_at": "2026-06-04T18:35:01+00:00",
+      "source_published_at": "Thu, 04 Jun 2026 13:36:23 -0400",
+      "image_url": "/article_images/article_e9f2287593f6.webp",
       "category": "News",
-      "title": "Trump Admits Calling Netanyahu 'Crazy' Amid Stalled Iran Peace Talks",
-      "summary": "President Trump acknowledged calling Israeli PM Netanyahu 'crazy' during a phone call, citing frustration that fighting in Lebanon is complicating Iran peace talks. Both leaders insist their relationship remains strong despite tactical disagreements."
+      "title": "Trump’s ‘American Flag Blue’ Reflecting Pool Sparks Lawsuit and a $14.8 Million Price Tag",
+      "summary": "The Lincoln Memorial Reflecting Pool has been repainted a deep blue at President Trump’s direction, completed Wednesday and set to be refilled by Sunday. While Trump claims the project cost under $2 million, contracts totaling at least $14.8 million have been awarded. A nonprofit has sued to stop the work, calling it a ‘theme park’ makeover."
     },
     {
-      "id": "2026-06-03-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Wed, 03 Jun 2026 17:36:11 +0000",
-      "mined_at": "2026-06-03T19:04:25+00:00",
-      "source_published_at": "Wed, 03 Jun 2026 17:36:11 +0000",
-      "image_url": "/article_images/article_2369d5c87ca6.webp",
+      "id": "2026-06-04-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Thu, 04 Jun 2026 13:19:31 -0400",
+      "mined_at": "2026-06-04T18:35:01+00:00",
+      "source_published_at": "Thu, 04 Jun 2026 13:19:31 -0400",
+      "image_url": "/article_images/article_6415bdb8c537.webp",
       "category": "News",
-      "title": "Brazil's Lula Rebukes U.S. Over Proposed 25% Tariffs, Citing Broken Detente",
-      "summary": "Brazilian President Lula da Silva condemned new U.S. tariffs of 25% on certain imports, saying he 'cannot accept the treatment.' The move appears to reverse a recent warming of relations after a White House meeting between Lula and Trump."
+      "title": "Trump to Announce $700 Million Coal Revival, Invoking Cold War-Era Law",
+      "summary": "President Trump is set to announce nearly $700 million in spending to prop up coal-fired power plants and exports, using the Defense Production Act. The plan would support 13 existing plants, build the first new ones since 2013, and create an estimated 14,000 jobs. Environmental groups call it a taxpayer-funded boost for a polluting industry."
     }
   ]
 }

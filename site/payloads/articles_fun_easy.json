@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-03-fun-1",
-      "source": "Colossal",
-      "time_ago": "Tue, 02 Jun 2026 20:44:00 +0000",
-      "mined_at": "2026-06-03T19:04:25+00:00",
-      "source_published_at": "Tue, 02 Jun 2026 20:44:00 +0000",
-      "image_url": "/article_images/article_8da2356d8d4b.webp",
+      "id": "2026-06-04-fun-1",
+      "source": "BBC Tennis",
+      "time_ago": "Thu, 04 Jun 2026 17:47:18 GMT",
+      "mined_at": "2026-06-04T18:35:01+00:00",
+      "source_published_at": "Thu, 04 Jun 2026 17:47:18 GMT",
+      "image_url": "/article_images/article_9afee9a644e3.webp",
       "category": "Fun",
-      "title": "Whoa! This Artist Turns Plain Paper into Leaves, Feathers, and Bones",
-      "summary": "Marisa Aragón Ware makes incredibly detailed paper sculptures of nature. She cuts and scores paper to look just like real flowers, bird wings, and animal bones. Her art reminds us that even everyday stuff can become something amazing."
+      "title": "Birthday Boy and His Partner Smash Their Way to the French Open Final!",
+      "summary": "Harri Heliovaara turned 37 and celebrated by winning a tennis match with his partner Henry Patten. They haven't lost a single set at the French Open and are now in the final!"
     },
     {
-      "id": "2026-06-03-fun-2",
-      "source": "MIT News",
-      "time_ago": "Tue, 02 Jun 2026 16:25:00 -0400",
-      "mined_at": "2026-06-03T19:04:25+00:00",
-      "source_published_at": "Tue, 02 Jun 2026 16:25:00 -0400",
-      "image_url": "/article_images/article_59ddf7e712c9.webp",
+      "id": "2026-06-04-fun-2",
+      "source": "Hyperallergic",
+      "time_ago": "Thu, 04 Jun 2026 15:35:54 GMT",
+      "mined_at": "2026-06-04T18:35:01+00:00",
+      "source_published_at": "Thu, 04 Jun 2026 15:35:54 GMT",
+      "image_url": "/article_images/article_135594f02d09.webp",
       "category": "Fun",
-      "title": "MIT Students Build a Robot in 3 Days—and It Actually Worked!",
-      "summary": "A new MIT club called FIRSTxMIT built a robot named Timbot in just 72 hours. They showed it off at a huge high school robotics tournament in Washington, D.C. Even when it broke, they fixed it with an Ethernet cable, just like the high schoolers do!"
+      "title": "Art That Speaks Up: A New Show Lets Prints Do the Talking",
+      "summary": "An exhibition in Philadelphia called 'America Today' shows how artists use prints to talk about big ideas like fairness, history, and community. It features works from six print shops across the country."
     },
     {
-      "id": "2026-06-03-fun-3",
-      "source": "/Film",
-      "time_ago": "Wed, 03 Jun 2026 17:00:00 +0000",
-      "mined_at": "2026-06-03T19:04:25+00:00",
-      "source_published_at": "Wed, 03 Jun 2026 17:00:00 +0000",
-      "image_url": "/article_images/article_5d1c648c29af.webp",
+      "id": "2026-06-04-fun-3",
+      "source": "Variety",
+      "time_ago": "Thu, 04 Jun 2026 18:00:00 +0000",
+      "mined_at": "2026-06-04T18:35:01+00:00",
+      "source_published_at": "Thu, 04 Jun 2026 18:00:00 +0000",
+      "image_url": "/article_images/article_305b23a7324d.webp",
       "category": "Fun",
-      "title": "This Supergirl Movie Set Is a Secret Thank-You to a Comic Book Artist!",
-      "summary": "The new Supergirl movie built a huge, ruined city set named Evely on the planet Bilquis. That name is a tribute to Bilquis Evely, the artist who drew the Supergirl: Woman of Tomorrow comic. The filmmakers wanted to honor her work in a big way."
+      "title": "Sadie Sink Is About to Get Stuck in a Love Triangle—On TV!",
+      "summary": "Stranger Things star Sadie Sink will lead a new show called 'The Marriage Plot,' based on a book about three college grads figuring out love and life. It's coming to Hulu from the makers of 'Atlanta.'"
     }
   ]
 }

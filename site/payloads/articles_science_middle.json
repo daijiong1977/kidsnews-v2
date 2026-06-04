@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-03-science-1",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Wed, 03 Jun 2026 11:54:24 EDT",
-      "mined_at": "2026-06-03T19:04:25+00:00",
-      "source_published_at": "Wed, 03 Jun 2026 11:54:24 EDT",
-      "image_url": "/article_images/article_2e8b59e6cede.webp",
+      "id": "2026-06-04-science-1",
+      "source": "ScienceDaily All",
+      "time_ago": "Thu, 04 Jun 2026 08:30:55 EDT",
+      "mined_at": "2026-06-04T18:35:01+00:00",
+      "source_published_at": "Thu, 04 Jun 2026 08:30:55 EDT",
+      "image_url": "/article_images/article_10a7dd44583d.webp",
       "category": "Science",
-      "title": "A Cosmic Vanishing Act: Venus Will Slip Behind the Moon This Month",
-      "summary": "On June 17, a lunar occultation will hide Venus from view for observers in the Americas. The Moon will pass in front of the brilliant planet, making it disappear and then reappear. This rare alignment is just one highlight of a packed June sky, including a tight Venus-Jupiter conjunction and the summer solstice."
+      "title": "Goethe's Forgotten Amber Just Revealed a 40-Million-Year-Old Ant in Stunning Detail",
+      "summary": "Using advanced synchrotron scanning, researchers peered inside unpolished amber from Goethe's personal collection and found three fossil insects. One ant was so exquisitely preserved they could map its internal head skeleton."
     },
     {
-      "id": "2026-06-03-science-2",
-      "source": "NASA News",
-      "time_ago": "Wed, 03 Jun 2026 17:27:22 +0000",
-      "mined_at": "2026-06-03T19:04:25+00:00",
-      "source_published_at": "Wed, 03 Jun 2026 17:27:22 +0000",
-      "image_url": "/article_images/article_680f59a487ed.webp",
+      "id": "2026-06-04-science-2",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Thu, 04 Jun 2026 11:23:27 EDT",
+      "mined_at": "2026-06-04T18:35:01+00:00",
+      "source_published_at": "Thu, 04 Jun 2026 11:23:27 EDT",
+      "image_url": "/article_images/article_212115b60953.webp",
       "category": "Science",
-      "title": "A Towering Wave of Warm Water Is Marching Across the Pacific—And It Could Trigger a Global Weather Shake-Up",
-      "summary": "Satellite data reveal a massive Kelvin wave—a bulge of warm water over 5.9 inches higher than normal—moving from the western Pacific to South America. This phenomenon is a classic precursor to El Niño, a climate pattern that can disrupt weather worldwide, from droughts to floods."
+      "title": "A Continent-Scale Fan Hidden Under Miles of Ice Rewrites Antarctica's Geological Story",
+      "summary": "Researchers have identified a vast, interconnected network of basins beneath East Antarctica, forming a fan-shaped province that links Lake Vostok and other major features. It likely formed through crustal stretching over millions of years."
     },
     {
-      "id": "2026-06-03-science-3",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Tue, 02 Jun 2026 07:08:18 EDT",
-      "mined_at": "2026-06-03T19:04:25+00:00",
-      "source_published_at": "Tue, 02 Jun 2026 07:08:18 EDT",
-      "image_url": "/article_images/article_02559423b3ea.webp",
+      "id": "2026-06-04-science-3",
+      "source": "ScienceDaily All",
+      "time_ago": "Thu, 04 Jun 2026 09:18:44 EDT",
+      "mined_at": "2026-06-04T18:35:01+00:00",
+      "source_published_at": "Thu, 04 Jun 2026 09:18:44 EDT",
+      "image_url": "/article_images/article_7167a2b474ce.webp",
       "category": "Science",
-      "title": "A Stellar Rosetta Stone: Astronomers Pin Down the Source of Baffling Radio Signals",
-      "summary": "An international team has traced mysterious long-period radio transients to a cataclysmic variable system: a white dwarf accreting matter from a red dwarf. The binary, ASKAP J1745−5051, orbits every 1.4 hours and emits synchronized radio and X-ray pulses, offering a key to decoding similar cosmic enigmas."
+      "title": "A Once 'Undruggable' Pancreatic Cancer Target Falls: New Drug Nearly Doubles Survival",
+      "summary": "Daraxonrasib, an oral KRAS inhibitor, nearly doubled overall survival in metastatic pancreatic cancer patients compared to chemotherapy, cutting the risk of death by 60%. The Phase 3 trial marks a turning point for a disease with a 97% five-year mortality rate."
     }
   ]
 }

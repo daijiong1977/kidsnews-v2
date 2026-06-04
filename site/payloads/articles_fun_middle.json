@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-03-fun-1",
-      "source": "Colossal",
-      "time_ago": "Tue, 02 Jun 2026 20:44:00 +0000",
-      "mined_at": "2026-06-03T19:04:25+00:00",
-      "source_published_at": "Tue, 02 Jun 2026 20:44:00 +0000",
-      "image_url": "/article_images/article_8da2356d8d4b.webp",
+      "id": "2026-06-04-fun-1",
+      "source": "BBC Tennis",
+      "time_ago": "Thu, 04 Jun 2026 17:47:18 GMT",
+      "mined_at": "2026-06-04T18:35:01+00:00",
+      "source_published_at": "Thu, 04 Jun 2026 17:47:18 GMT",
+      "image_url": "/article_images/article_9afee9a644e3.webp",
       "category": "Fun",
-      "title": "From Grocery Lists to Gallery Walls: Marisa Aragón Ware’s Paper Sculptures Redefine the Everyday",
-      "summary": "Marisa Aragón Ware transforms ordinary paper into breathtakingly detailed sculptures of flora and fauna. Inspired by Colorado’s forests and the concept of biophilia, her work reminds us of our deep connection to nature. See her pieces at Arch Enemy Arts starting June 5."
+      "title": "A Birthday to Remember: Heliovaara and Patten Storm into French Open Final",
+      "summary": "On his 37th birthday, Harri Heliovaara and partner Henry Patten cruised into the French Open doubles final without dropping a set all tournament. A win would make Patten the first British man to claim the title in the Open era."
     },
     {
-      "id": "2026-06-03-fun-2",
-      "source": "MIT News",
-      "time_ago": "Tue, 02 Jun 2026 16:25:00 -0400",
-      "mined_at": "2026-06-03T19:04:25+00:00",
-      "source_published_at": "Tue, 02 Jun 2026 16:25:00 -0400",
-      "image_url": "/article_images/article_59ddf7e712c9.webp",
+      "id": "2026-06-04-fun-2",
+      "source": "Hyperallergic",
+      "time_ago": "Thu, 04 Jun 2026 15:35:54 GMT",
+      "mined_at": "2026-06-04T18:35:01+00:00",
+      "source_published_at": "Thu, 04 Jun 2026 15:35:54 GMT",
+      "image_url": "/article_images/article_135594f02d09.webp",
       "category": "Fun",
-      "title": "When Timbot Glitched, These MIT Students Turned a Tech Fail into a Teaching Moment",
-      "summary": "MIT’s FIRSTxMIT club built a robot in 72 hours and demoed it at the inaugural Governors Cup in D.C. When Wi-Fi failed, they switched to Ethernet—and high schoolers instantly related. The club aims to spread hands-on STEM inspiration nationwide."
+      "title": "Prints with a Purpose: 'America Today' Exhibition Amplifies Artists' Voices",
+      "summary": "At The Print Center in Philadelphia, 'America Today: Voices in Contemporary Print' showcases works from six community-focused print shops. The exhibition, running through July 25, tackles civil rights, social justice, and cultural heritage through diverse printmaking styles."
     },
     {
-      "id": "2026-06-03-fun-3",
-      "source": "/Film",
-      "time_ago": "Wed, 03 Jun 2026 17:00:00 +0000",
-      "mined_at": "2026-06-03T19:04:25+00:00",
-      "source_published_at": "Wed, 03 Jun 2026 17:00:00 +0000",
-      "image_url": "/article_images/article_5d1c648c29af.webp",
+      "id": "2026-06-04-fun-3",
+      "source": "Variety",
+      "time_ago": "Thu, 04 Jun 2026 18:00:00 +0000",
+      "mined_at": "2026-06-04T18:35:01+00:00",
+      "source_published_at": "Thu, 04 Jun 2026 18:00:00 +0000",
+      "image_url": "/article_images/article_305b23a7324d.webp",
       "category": "Fun",
-      "title": "Supergirl’s Massive Practical Set Is a Hidden Ode to Artist Bilquis Evely",
-      "summary": "On the set of Supergirl, the sprawling war-torn town square is named Evely on the planet Bilquis—a direct tribute to comic artist Bilquis Evely. The production emphasizes practical effects and director Craig Gillespie’s vision, honoring the Woman of Tomorrow source material."
+      "title": "From Hawkins to a Love Triangle: Sadie Sink to Star in FX's 'The Marriage Plot'",
+      "summary": "Sadie Sink will lead a limited series adaptation of Jeffrey Eugenides' novel 'The Marriage Plot' for FX and Hulu. Written by Will Arbery and directed by Hiro Murai, the show follows three college graduates navigating a complicated love triangle and the pressures of adulthood."
     }
   ]
 }
