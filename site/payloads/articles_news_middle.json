@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-04-news-1",
-      "source": "NPR World",
-      "time_ago": "Thu, 04 Jun 2026 05:00:00 -0400",
-      "mined_at": "2026-06-04T18:35:01+00:00",
-      "source_published_at": "Thu, 04 Jun 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_be50d1be85f6.webp",
+      "id": "2026-06-05-news-1",
+      "source": "BBC News",
+      "time_ago": "Fri, 05 Jun 2026 17:10:50 GMT",
+      "mined_at": "2026-06-05T18:28:36+00:00",
+      "source_published_at": "Fri, 05 Jun 2026 17:10:50 GMT",
+      "image_url": "/article_images/article_a25602650b65.webp",
       "category": "News",
-      "title": "AI, Drones, and ‘COWs’: Inside the High-Tech Hurricane Prep of Cell Carriers",
-      "summary": "Before a hurricane even forms, Verizon and AT&T are moving drones, barges, and portable cell towers into position. Using AI to pinpoint damage, they can restore service in minutes — but first responders always get priority. Here’s how the invisible network stays alive when the wind howls."
+      "title": "Veteran Journalist Jon Snow Reveals Alzheimer's Diagnosis, Turns His Final Investigation Into a Documentary",
+      "summary": "Jon Snow, who anchored Channel 4 News for 32 years, has Alzheimer's. He initially hid the diagnosis but is now speaking out to fight stigma. A new film follows his last big investigation — an environmental disaster in Zambia — while navigating life with the disease."
     },
     {
-      "id": "2026-06-04-news-2",
+      "id": "2026-06-05-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Thu, 04 Jun 2026 13:36:23 -0400",
-      "mined_at": "2026-06-04T18:35:01+00:00",
-      "source_published_at": "Thu, 04 Jun 2026 13:36:23 -0400",
-      "image_url": "/article_images/article_e9f2287593f6.webp",
+      "time_ago": "Fri, 05 Jun 2026 13:48:27 -0400",
+      "mined_at": "2026-06-05T18:28:36+00:00",
+      "source_published_at": "Fri, 05 Jun 2026 13:48:27 -0400",
+      "image_url": "/article_images/article_b1d9695f0f99.webp",
       "category": "News",
-      "title": "Trump’s ‘American Flag Blue’ Reflecting Pool Sparks Lawsuit and a $14.8 Million Price Tag",
-      "summary": "The Lincoln Memorial Reflecting Pool has been repainted a deep blue at President Trump’s direction, completed Wednesday and set to be refilled by Sunday. While Trump claims the project cost under $2 million, contracts totaling at least $14.8 million have been awarded. A nonprofit has sued to stop the work, calling it a ‘theme park’ makeover."
+      "title": "A Flesh-Eating Parasite Returns to the U.S. After 60 Years, Threatening the Cattle Industry",
+      "summary": "The New World screwworm fly, whose larvae devour live flesh, has been found in a Texas calf — the first U.S. case since 1966. The pest, eradicated decades ago, is spreading north due to climate change and threatens the $113 billion cattle industry."
     },
     {
-      "id": "2026-06-04-news-3",
-      "source": "PBS NewsHour",
-      "time_ago": "Thu, 04 Jun 2026 13:19:31 -0400",
-      "mined_at": "2026-06-04T18:35:01+00:00",
-      "source_published_at": "Thu, 04 Jun 2026 13:19:31 -0400",
-      "image_url": "/article_images/article_6415bdb8c537.webp",
+      "id": "2026-06-05-news-3",
+      "source": "BBC News",
+      "time_ago": "Fri, 05 Jun 2026 17:35:00 GMT",
+      "mined_at": "2026-06-05T18:28:36+00:00",
+      "source_published_at": "Fri, 05 Jun 2026 17:35:00 GMT",
+      "image_url": "/article_images/article_64ca4696505e.webp",
       "category": "News",
-      "title": "Trump to Announce $700 Million Coal Revival, Invoking Cold War-Era Law",
-      "summary": "President Trump is set to announce nearly $700 million in spending to prop up coal-fired power plants and exports, using the Defense Production Act. The plan would support 13 existing plants, build the first new ones since 2013, and create an estimated 14,000 jobs. Environmental groups call it a taxpayer-funded boost for a polluting industry."
+      "title": "Anthony Head, Beloved Star of Buffy the Vampire Slayer and Ted Lasso, Dies at 72",
+      "summary": "British actor Anthony Head, best known as Giles in Buffy and for roles in Ted Lasso and Merlin, has died from pneumonia complications. His daughters said he passed peacefully, surrounded by family. He was 72."
     }
   ]
 }
