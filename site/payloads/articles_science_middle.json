@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-05-science-1",
-      "source": "Space.com",
-      "time_ago": "Fri, 05 Jun 2026 16:00:00 +0000",
-      "mined_at": "2026-06-05T18:28:36+00:00",
-      "source_published_at": "Fri, 05 Jun 2026 16:00:00 +0000",
-      "image_url": "/article_images/article_277a0baf1ffe.webp",
+      "id": "2026-06-06-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Sat, 06 Jun 2026 09:24:27 EDT",
+      "mined_at": "2026-06-06T18:07:28+00:00",
+      "source_published_at": "Sat, 06 Jun 2026 09:24:27 EDT",
+      "image_url": "/article_images/article_d7a5d9ac99d5.webp",
       "category": "Science",
-      "title": "Backyard Astronomer Films Colossal 'Godzilla' Plasma Cloud on the Sun",
-      "summary": "Using a specialized telescope, Mark Johnston captured a towering solar prominence shaped like Godzilla. The structure is plasma suspended by magnetic fields, not fire, and shows coronal rain falling along invisible field lines."
+      "title": "A Featherweight X-ray Telescope Could Unlock the Moon's Chemical Secrets",
+      "summary": "A compact telescope weighing under 10 kg might solve a decades-old lunar mystery. Simulations show it could map the entire Moon's surface chemistry in two years, revealing elements like oxygen and iron with unprecedented detail."
     },
     {
-      "id": "2026-06-05-science-2",
-      "source": "Space.com",
-      "time_ago": "Fri, 05 Jun 2026 15:00:00 +0000",
-      "mined_at": "2026-06-05T18:28:36+00:00",
-      "source_published_at": "Fri, 05 Jun 2026 15:00:00 +0000",
-      "image_url": "/article_images/article_a3d26267a934.webp",
+      "id": "2026-06-06-science-2",
+      "source": "Popular Science",
+      "time_ago": "Sat, 06 Jun 2026 10:04:00 -0400",
+      "mined_at": "2026-06-06T18:07:28+00:00",
+      "source_published_at": "Sat, 06 Jun 2026 10:04:00 -0400",
+      "image_url": "/article_images/article_7afd8a3adadd.webp",
       "category": "Science",
-      "title": "A Spectacular Planet Parade: Venus, Jupiter, and Mercury Align in June's Evening Sky",
-      "summary": "Throughout June, Venus, Jupiter, and Mercury will be visible together in the western sky. The highlight is June 9, when Venus and Jupiter appear just 1.6 degrees apart—a stunning conjunction."
+      "title": "How a Household Feather Duster Became a Surrogate Mom for Orphaned Turkey Chicks",
+      "summary": "Two orphaned turkey poults found an unlikely mother figure: a feather duster. Staff at a Pennsylvania wildlife rehab center used the common cleaning tool to mimic a hen's warmth and protection, calming the stressed chicks."
     },
     {
-      "id": "2026-06-05-science-3",
-      "source": "Science News Explores",
-      "time_ago": "Thu, 04 Jun 2026 10:30:00 +0000",
-      "mined_at": "2026-06-05T18:28:36+00:00",
-      "source_published_at": "Thu, 04 Jun 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_f12895913325.webp",
+      "id": "2026-06-06-science-3",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Fri, 05 Jun 2026 08:32:00 EDT",
+      "mined_at": "2026-06-06T18:07:28+00:00",
+      "source_published_at": "Fri, 05 Jun 2026 08:32:00 EDT",
+      "image_url": "/article_images/article_d1e2a1d54892.webp",
       "category": "Science",
-      "title": "Behind the Scenes at the Smithsonian: 150 Million Objects You've Never Seen",
-      "summary": "The Smithsonian's Museum Support Center houses a vast collection of specimens, from meteorites to preserved worms. Only a fraction is on display; the rest fuels scientific research, like linking DDT to eagle declines."
+      "title": "Repeating Stellar Flashes Could Reveal Elusive Supermassive Black Hole Duos",
+      "summary": "Astronomers propose a new way to find tightly orbiting supermassive black hole pairs: look for repeating bright flashes caused by their combined gravitational lensing. The method could uncover hidden binaries years before gravitational wave detectors."
     }
   ]
 }

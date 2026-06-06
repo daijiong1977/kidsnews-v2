@@ -1,37 +1,26 @@
 {
   "articles": [
     {
-      "id": "2026-06-05-fun-1",
-      "source": "Popular Mechanics",
-      "time_ago": "Fri, 05 Jun 2026 17:43:00 +0000",
-      "mined_at": "2026-06-05T18:28:36+00:00",
-      "source_published_at": "Fri, 05 Jun 2026 17:43:00 +0000",
-      "image_url": "/article_images/article_7f804168d059.webp",
+      "id": "2026-06-06-fun-1",
+      "source": "Live Science",
+      "time_ago": "Sat, 06 Jun 2026 11:00:00 +0000",
+      "mined_at": "2026-06-06T18:07:28+00:00",
+      "source_published_at": "Sat, 06 Jun 2026 11:00:00 +0000",
+      "image_url": "/article_images/article_757214932cdc.webp",
       "category": "Fun",
-      "title": "We Tested the Hottest E-Scooters: Here's Which One Rules the Road",
-      "summary": "Ditch the car for short trips—we put electric scooters through real city commutes. The Segway Ninebot Max impressed with a 40-mile range and self-healing tires. But a budget pick surprised us too."
+      "title": "Ötzi the Iceman’s Ancient Yeast Bakes a Tasty Loaf, and Google’s 64-Million-Mosquito Plan",
+      "summary": "Researchers revived 5,300-year-old yeast from Ötzi the Iceman and baked sourdough — calling it 'very very good.' Meanwhile, Google seeks EPA approval to release 64 million bacteria-infected male mosquitoes to curb disease."
     },
     {
-      "id": "2026-06-05-fun-2",
-      "source": "Popular Mechanics",
-      "time_ago": "Fri, 05 Jun 2026 18:00:00 +0000",
-      "mined_at": "2026-06-05T18:28:36+00:00",
-      "source_published_at": "Fri, 05 Jun 2026 18:00:00 +0000",
-      "image_url": "/article_images/article_afe36b8294bf.webp",
+      "id": "2026-06-06-fun-2",
+      "source": "Live Science",
+      "time_ago": "Sat, 06 Jun 2026 09:00:00 +0000",
+      "mined_at": "2026-06-06T18:07:28+00:00",
+      "source_published_at": "Sat, 06 Jun 2026 09:00:00 +0000",
+      "image_url": "/article_images/article_06b0113ca70c.webp",
       "category": "Fun",
-      "title": "A Century-Old Medical Mystery: The Enigma of the 'Sleeping Sickness'",
-      "summary": "While the Spanish Flu ravaged the globe, a bizarre neurological disease turned thousands into living statues or restless insomniacs. Encephalitis lethargica killed 500,000, and its cause remains unknown."
-    },
-    {
-      "id": "2026-06-05-fun-3",
-      "source": "Rolling Stone Music",
-      "time_ago": "Fri, 05 Jun 2026 17:40:41 +0000",
-      "mined_at": "2026-06-05T18:28:36+00:00",
-      "source_published_at": "Fri, 05 Jun 2026 17:40:41 +0000",
-      "image_url": "/article_images/article_6aae79f44243.webp",
-      "category": "Fun",
-      "title": "Shakira Shuts Down Fake Endorsements in Colombian Election",
-      "summary": "Manipulated images falsely showed Shakira backing Colombian presidential candidates. The singer issued a firm denial, emphasizing her neutrality and calling for transparent, peaceful elections."
+      "title": "The Peculiar Problem of Pinning Down Gravity’s Strength",
+      "summary": "Despite decades of experiments, scientists still can’t agree on gravity’s exact strength. One physicist says measuring it is like weighing 7 human cells — and the culprit might be psychology, not physics."
     }
   ]
 }

@@ -1,37 +1,26 @@
 {
   "articles": [
     {
-      "id": "2026-06-05-fun-1",
-      "source": "Popular Mechanics",
-      "time_ago": "Fri, 05 Jun 2026 17:43:00 +0000",
-      "mined_at": "2026-06-05T18:28:36+00:00",
-      "source_published_at": "Fri, 05 Jun 2026 17:43:00 +0000",
-      "image_url": "/article_images/article_7f804168d059.webp",
+      "id": "2026-06-06-fun-1",
+      "source": "Live Science",
+      "time_ago": "Sat, 06 Jun 2026 11:00:00 +0000",
+      "mined_at": "2026-06-06T18:07:28+00:00",
+      "source_published_at": "Sat, 06 Jun 2026 11:00:00 +0000",
+      "image_url": "/article_images/article_757214932cdc.webp",
       "category": "Fun",
-      "title": "Zoom Past Traffic: The Coolest Electric Scooters We Tested!",
-      "summary": "Forget parking headaches! We zipped around on electric scooters to find the best ones. The Segway Ninebot Max can go 40 miles on one charge—that's like riding from school to the beach and back!"
+      "title": "5,300-Year-Old Mummy's Secret Ingredient: Sourdough Bread!",
+      "summary": "Scientists found ancient yeast on Ötzi the Iceman and baked sourdough with it — they said it was 'very very good.' Also, Google wants to release 64 million special mosquitoes to fight disease."
     },
     {
-      "id": "2026-06-05-fun-2",
-      "source": "Popular Mechanics",
-      "time_ago": "Fri, 05 Jun 2026 18:00:00 +0000",
-      "mined_at": "2026-06-05T18:28:36+00:00",
-      "source_published_at": "Fri, 05 Jun 2026 18:00:00 +0000",
-      "image_url": "/article_images/article_afe36b8294bf.webp",
+      "id": "2026-06-06-fun-2",
+      "source": "Live Science",
+      "time_ago": "Sat, 06 Jun 2026 09:00:00 +0000",
+      "mined_at": "2026-06-06T18:07:28+00:00",
+      "source_published_at": "Sat, 06 Jun 2026 09:00:00 +0000",
+      "image_url": "/article_images/article_06b0113ca70c.webp",
       "category": "Fun",
-      "title": "The Sleeping Sickness Mystery: Why Did Thousands Suddenly Fall Asleep?",
-      "summary": "A hundred years ago, a strange disease made people sleep for weeks—or even months. It killed 500,000 people, and scientists still don't know what caused it. Could it come back?"
-    },
-    {
-      "id": "2026-06-05-fun-3",
-      "source": "Rolling Stone Music",
-      "time_ago": "Fri, 05 Jun 2026 17:40:41 +0000",
-      "mined_at": "2026-06-05T18:28:36+00:00",
-      "source_published_at": "Fri, 05 Jun 2026 17:40:41 +0000",
-      "image_url": "/article_images/article_6aae79f44243.webp",
-      "category": "Fun",
-      "title": "Shakira Says 'No Way!' to Fake Campaign Pics",
-      "summary": "Someone made fake pictures of Shakira supporting a presidential candidate in Colombia. She quickly said, \"Those are fake! I don't support anyone.\" She just wants fair elections."
+      "title": "Why Is Gravity So Hard to Measure? It's Like Weighing 7 Cells!",
+      "summary": "Gravity feels strong when you trip, but measuring its exact strength is super tricky. Scientists say it's like trying to weigh just 7 human cells — and their answers keep disagreeing!"
     }
   ]
 }

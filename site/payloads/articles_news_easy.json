@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-05-news-1",
-      "source": "BBC News",
-      "time_ago": "Fri, 05 Jun 2026 17:10:50 GMT",
-      "mined_at": "2026-06-05T18:28:36+00:00",
-      "source_published_at": "Fri, 05 Jun 2026 17:10:50 GMT",
-      "image_url": "/article_images/article_a25602650b65.webp",
+      "id": "2026-06-06-news-1",
+      "source": "Al Jazeera",
+      "time_ago": "Sat, 06 Jun 2026 16:35:01 +0000",
+      "mined_at": "2026-06-06T18:07:28+00:00",
+      "source_published_at": "Sat, 06 Jun 2026 16:35:01 +0000",
+      "image_url": "/article_images/article_8b7bead4b5c5.webp",
       "category": "News",
-      "title": "Famous News Anchor Jon Snow Says He Has Alzheimer's — and He's Still Reporting!",
-      "summary": "Jon Snow, who read the news on TV for 32 years, has Alzheimer's disease. He hid it at first but is now sharing his story to help others. He even made a new film about an environmental disaster in Zambia."
+      "title": "A 19-Year-Old Just Won the French Open—and Thanked Herself!",
+      "summary": "Mirra Andreeva, a 19-year-old from Russia, won the French Open tennis tournament. She beat Maja Chwalinska 6-3, 6-2. Andreeva is the youngest champion since 1992!"
     },
     {
-      "id": "2026-06-05-news-2",
+      "id": "2026-06-06-news-2",
+      "source": "NPR World",
+      "time_ago": "Sat, 06 Jun 2026 07:48:31 -0400",
+      "mined_at": "2026-06-06T18:07:28+00:00",
+      "source_published_at": "Sat, 06 Jun 2026 07:48:31 -0400",
+      "image_url": "/article_images/article_f36a76aeab90.webp",
+      "category": "News",
+      "title": "Want a Summer Job? It's Tougher Than Ever for Teens in 2026!",
+      "summary": "Finding a summer job is really hard for teens this year. There are 219,000 fewer teen workers than last May. But one 19-year-old barista says working teaches you the value of money."
+    },
+    {
+      "id": "2026-06-06-news-3",
       "source": "PBS NewsHour",
-      "time_ago": "Fri, 05 Jun 2026 13:48:27 -0400",
-      "mined_at": "2026-06-05T18:28:36+00:00",
-      "source_published_at": "Fri, 05 Jun 2026 13:48:27 -0400",
-      "image_url": "/article_images/article_b1d9695f0f99.webp",
+      "time_ago": "Fri, 05 Jun 2026 18:55:32 -0400",
+      "mined_at": "2026-06-06T18:07:28+00:00",
+      "source_published_at": "Fri, 05 Jun 2026 18:55:32 -0400",
+      "image_url": "",
       "category": "News",
-      "title": "Flesh-Eating Maggots Are Back in Texas — and They're After Cows!",
-      "summary": "A scary fly called the New World screwworm has been found in a calf in Texas. Its maggots eat live flesh. The fly was gone from the U.S. for 60 years, but now it's back and could hurt the $113 billion cattle industry."
-    },
-    {
-      "id": "2026-06-05-news-3",
-      "source": "BBC News",
-      "time_ago": "Fri, 05 Jun 2026 17:35:00 GMT",
-      "mined_at": "2026-06-05T18:28:36+00:00",
-      "source_published_at": "Fri, 05 Jun 2026 17:35:00 GMT",
-      "image_url": "/article_images/article_64ca4696505e.webp",
-      "category": "News",
-      "title": "Buffy and Ted Lasso Star Anthony Head Has Died at 72",
-      "summary": "Anthony Head, who played Giles in Buffy the Vampire Slayer and appeared in Ted Lasso, died from pneumonia. His daughters said he passed away peacefully with family by his side. He was 72."
+      "title": "Surprise! The U.S. Added 172,000 Jobs in May—Here's What's Going On",
+      "summary": "The U.S. job market surprised everyone in May by adding 172,000 jobs. That's way more than experts expected. But not everyone is feeling the good news."
     }
   ]
 }

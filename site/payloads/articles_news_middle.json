@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-05-news-1",
-      "source": "BBC News",
-      "time_ago": "Fri, 05 Jun 2026 17:10:50 GMT",
-      "mined_at": "2026-06-05T18:28:36+00:00",
-      "source_published_at": "Fri, 05 Jun 2026 17:10:50 GMT",
-      "image_url": "/article_images/article_a25602650b65.webp",
+      "id": "2026-06-06-news-1",
+      "source": "Al Jazeera",
+      "time_ago": "Sat, 06 Jun 2026 16:35:01 +0000",
+      "mined_at": "2026-06-06T18:07:28+00:00",
+      "source_published_at": "Sat, 06 Jun 2026 16:35:01 +0000",
+      "image_url": "/article_images/article_8b7bead4b5c5.webp",
       "category": "News",
-      "title": "Veteran Journalist Jon Snow Reveals Alzheimer's Diagnosis, Turns His Final Investigation Into a Documentary",
-      "summary": "Jon Snow, who anchored Channel 4 News for 32 years, has Alzheimer's. He initially hid the diagnosis but is now speaking out to fight stigma. A new film follows his last big investigation — an environmental disaster in Zambia — while navigating life with the disease."
+      "title": "Teen Phenom Mirra Andreeva Captures First Grand Slam at French Open",
+      "summary": "At 19, Russia's Mirra Andreeva dominated qualifier Maja Chwalinska 6-3, 6-2 to win the French Open. She's the youngest women's champion since Monica Seles in 1992. Andreeva thanked herself for battling \"demons\" to reach the top."
     },
     {
-      "id": "2026-06-05-news-2",
+      "id": "2026-06-06-news-2",
+      "source": "NPR World",
+      "time_ago": "Sat, 06 Jun 2026 07:48:31 -0400",
+      "mined_at": "2026-06-06T18:07:28+00:00",
+      "source_published_at": "Sat, 06 Jun 2026 07:48:31 -0400",
+      "image_url": "/article_images/article_f36a76aeab90.webp",
+      "category": "News",
+      "title": "Teen Summer Jobs Are Vanishing—Here's Why That Matters",
+      "summary": "The 2026 summer job market is the worst for teens in decades, with 219,000 fewer employed than last May. Economists blame AI, inflation, and tariffs. Yet working teens like barista Mariella Silva, 19, say it builds crucial life skills."
+    },
+    {
+      "id": "2026-06-06-news-3",
       "source": "PBS NewsHour",
-      "time_ago": "Fri, 05 Jun 2026 13:48:27 -0400",
-      "mined_at": "2026-06-05T18:28:36+00:00",
-      "source_published_at": "Fri, 05 Jun 2026 13:48:27 -0400",
-      "image_url": "/article_images/article_b1d9695f0f99.webp",
+      "time_ago": "Fri, 05 Jun 2026 18:55:32 -0400",
+      "mined_at": "2026-06-06T18:07:28+00:00",
+      "source_published_at": "Fri, 05 Jun 2026 18:55:32 -0400",
+      "image_url": "",
       "category": "News",
-      "title": "A Flesh-Eating Parasite Returns to the U.S. After 60 Years, Threatening the Cattle Industry",
-      "summary": "The New World screwworm fly, whose larvae devour live flesh, has been found in a Texas calf — the first U.S. case since 1966. The pest, eradicated decades ago, is spreading north due to climate change and threatens the $113 billion cattle industry."
-    },
-    {
-      "id": "2026-06-05-news-3",
-      "source": "BBC News",
-      "time_ago": "Fri, 05 Jun 2026 17:35:00 GMT",
-      "mined_at": "2026-06-05T18:28:36+00:00",
-      "source_published_at": "Fri, 05 Jun 2026 17:35:00 GMT",
-      "image_url": "/article_images/article_64ca4696505e.webp",
-      "category": "News",
-      "title": "Anthony Head, Beloved Star of Buffy the Vampire Slayer and Ted Lasso, Dies at 72",
-      "summary": "British actor Anthony Head, best known as Giles in Buffy and for roles in Ted Lasso and Merlin, has died from pneumonia complications. His daughters said he passed peacefully, surrounded by family. He was 72."
+      "title": "May Jobs Report Defies Gloom: 172,000 Added, But Who's Really Benefiting?",
+      "summary": "U.S. employers added 172,000 jobs in May, smashing forecasts of 110,000. Yet beneath the headline, underemployment rose and inflation continues to erode purchasing power for most Americans, according to KPMG chief economist Diane Swonk."
     }
   ]
 }
