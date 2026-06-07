@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-06-news-1",
-      "source": "Al Jazeera",
-      "time_ago": "Sat, 06 Jun 2026 16:35:01 +0000",
-      "mined_at": "2026-06-06T18:07:28+00:00",
-      "source_published_at": "Sat, 06 Jun 2026 16:35:01 +0000",
-      "image_url": "/article_images/article_8b7bead4b5c5.webp",
-      "category": "News",
-      "title": "A 19-Year-Old Just Won the French Open—and Thanked Herself!",
-      "summary": "Mirra Andreeva, a 19-year-old from Russia, won the French Open tennis tournament. She beat Maja Chwalinska 6-3, 6-2. Andreeva is the youngest champion since 1992!"
-    },
-    {
-      "id": "2026-06-06-news-2",
+      "id": "2026-06-07-news-1",
       "source": "NPR World",
-      "time_ago": "Sat, 06 Jun 2026 07:48:31 -0400",
-      "mined_at": "2026-06-06T18:07:28+00:00",
-      "source_published_at": "Sat, 06 Jun 2026 07:48:31 -0400",
-      "image_url": "/article_images/article_f36a76aeab90.webp",
+      "time_ago": "Sun, 07 Jun 2026 06:00:00 -0400",
+      "mined_at": "2026-06-07T18:07:09+00:00",
+      "source_published_at": "Sun, 07 Jun 2026 06:00:00 -0400",
+      "image_url": "/article_images/article_6dd763fb0d38.webp",
       "category": "News",
-      "title": "Want a Summer Job? It's Tougher Than Ever for Teens in 2026!",
-      "summary": "Finding a summer job is really hard for teens this year. There are 219,000 fewer teen workers than last May. But one 19-year-old barista says working teaches you the value of money."
+      "title": "The U.S. Soccer Team Just Showed They’re Ready to Rumble!",
+      "summary": "The U.S. men’s soccer team played two big warm-up games. They scored goals and fought back hard. Star Christian Pulisic ended his goal drought against Senegal. Defender Antonee Robinson amazed with his playmaking."
     },
     {
-      "id": "2026-06-06-news-3",
+      "id": "2026-06-07-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Fri, 05 Jun 2026 18:55:32 -0400",
-      "mined_at": "2026-06-06T18:07:28+00:00",
-      "source_published_at": "Fri, 05 Jun 2026 18:55:32 -0400",
-      "image_url": "",
+      "time_ago": "Sun, 07 Jun 2026 12:48:19 -0400",
+      "mined_at": "2026-06-07T18:07:09+00:00",
+      "source_published_at": "Sun, 07 Jun 2026 12:48:19 -0400",
+      "image_url": "/article_images/article_4f7b9c2fb812.webp",
       "category": "News",
-      "title": "Surprise! The U.S. Added 172,000 Jobs in May—Here's What's Going On",
-      "summary": "The U.S. job market surprised everyone in May by adding 172,000 jobs. That's way more than experts expected. But not everyone is feeling the good news."
+      "title": "President Trump Is Coming to the Knicks Game—And Not Everyone Is Happy!",
+      "summary": "Donald Trump will be the first sitting president to attend an NBA Finals game. He’s going to Game 3 in New York to cheer for the Knicks. Some fans worry his visit could mess up the team’s momentum. The Knicks lead the series 2-0."
+    },
+    {
+      "id": "2026-06-07-news-3",
+      "source": "BBC News",
+      "time_ago": "Sun, 07 Jun 2026 12:16:11 GMT",
+      "mined_at": "2026-06-07T18:07:09+00:00",
+      "source_published_at": "Sun, 07 Jun 2026 12:16:11 GMT",
+      "image_url": "/article_images/article_08af1d984d42.webp",
+      "category": "News",
+      "title": "M&S Wants to Give 1,000 Young People a Career Boost!",
+      "summary": "Marks & Spencer is starting a new training program for 1,000 young people in the UK and Ireland. It’s for ages 16 to 24 who aren’t in school or work. The paid program teaches retail skills and can lead to a manager job."
     }
   ]
 }

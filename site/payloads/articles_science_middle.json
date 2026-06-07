@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-06-science-1",
-      "source": "ScienceDaily Top Technology",
+      "id": "2026-06-07-science-1",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Fri, 05 Jun 2026 09:43:31 EDT",
+      "mined_at": "2026-06-07T18:07:09+00:00",
+      "source_published_at": "Fri, 05 Jun 2026 09:43:31 EDT",
+      "image_url": "/article_images/article_45c57b780cf4.webp",
+      "category": "Science",
+      "title": "Mirror, Mirror, in the Tank: Octopuses Learn to Use Reflections to Hunt",
+      "summary": "In a first for invertebrates, octopuses learned to use a mirror to locate hidden prey. Dartmouth researchers trained them to interpret a virtual crab's reflection, then turn around to claim a real reward. The study suggests these alien-like minds may build internal maps of their world."
+    },
+    {
+      "id": "2026-06-07-science-2",
+      "source": "ScienceDaily Most Popular",
       "time_ago": "Sat, 06 Jun 2026 09:24:27 EDT",
-      "mined_at": "2026-06-06T18:07:28+00:00",
+      "mined_at": "2026-06-07T18:07:09+00:00",
       "source_published_at": "Sat, 06 Jun 2026 09:24:27 EDT",
       "image_url": "/article_images/article_d7a5d9ac99d5.webp",
       "category": "Science",
-      "title": "A Featherweight X-ray Telescope Could Unlock the Moon's Chemical Secrets",
-      "summary": "A compact telescope weighing under 10 kg might solve a decades-old lunar mystery. Simulations show it could map the entire Moon's surface chemistry in two years, revealing elements like oxygen and iron with unprecedented detail."
+      "title": "A Pocket-Sized X-Ray Telescope Could Reveal the Moon's Elemental Secrets",
+      "summary": "A compact X-ray telescope, weighing under 10 kg, could create the first complete chemical map of the lunar surface. Simulations show it could map five key elements in two years, or faster with a small array. The data would transform our understanding of the Moon's geological history."
     },
     {
-      "id": "2026-06-06-science-2",
-      "source": "Popular Science",
-      "time_ago": "Sat, 06 Jun 2026 10:04:00 -0400",
-      "mined_at": "2026-06-06T18:07:28+00:00",
-      "source_published_at": "Sat, 06 Jun 2026 10:04:00 -0400",
-      "image_url": "/article_images/article_7afd8a3adadd.webp",
+      "id": "2026-06-07-science-3",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Fri, 05 Jun 2026 02:34:20 EDT",
+      "mined_at": "2026-06-07T18:07:09+00:00",
+      "source_published_at": "Fri, 05 Jun 2026 02:34:20 EDT",
+      "image_url": "/article_images/article_10d1b6524e54.webp",
       "category": "Science",
-      "title": "How a Household Feather Duster Became a Surrogate Mom for Orphaned Turkey Chicks",
-      "summary": "Two orphaned turkey poults found an unlikely mother figure: a feather duster. Staff at a Pennsylvania wildlife rehab center used the common cleaning tool to mimic a hen's warmth and protection, calming the stressed chicks."
-    },
-    {
-      "id": "2026-06-06-science-3",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Fri, 05 Jun 2026 08:32:00 EDT",
-      "mined_at": "2026-06-06T18:07:28+00:00",
-      "source_published_at": "Fri, 05 Jun 2026 08:32:00 EDT",
-      "image_url": "/article_images/article_d1e2a1d54892.webp",
-      "category": "Science",
-      "title": "Repeating Stellar Flashes Could Reveal Elusive Supermassive Black Hole Duos",
-      "summary": "Astronomers propose a new way to find tightly orbiting supermassive black hole pairs: look for repeating bright flashes caused by their combined gravitational lensing. The method could uncover hidden binaries years before gravitational wave detectors."
+      "title": "Harnessing Fire Tornadoes: A Faster, Greener Way to Battle Oil Spills",
+      "summary": "In a groundbreaking large-scale study, researchers created 17-foot fire whirls that burn crude oil nearly twice as fast as conventional methods, with dramatically lower emissions. The spinning vortex could revolutionize oil spill response, protecting coastlines and marine life more effectively."
     }
   ]
 }

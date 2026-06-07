@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-06-science-1",
-      "source": "ScienceDaily Top Technology",
+      "id": "2026-06-07-science-1",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Fri, 05 Jun 2026 09:43:31 EDT",
+      "mined_at": "2026-06-07T18:07:09+00:00",
+      "source_published_at": "Fri, 05 Jun 2026 09:43:31 EDT",
+      "image_url": "/article_images/article_45c57b780cf4.webp",
+      "category": "Science",
+      "title": "Octopuses Can Use Mirrors to Find Hidden Snacks!",
+      "summary": "Imagine looking in a mirror to find a treat behind you. Scientists taught octopuses to do just that! They used a mirror to spot a virtual crab, then turned around to get a real one. This shows octopuses are even smarter than we thought."
+    },
+    {
+      "id": "2026-06-07-science-2",
+      "source": "ScienceDaily Most Popular",
       "time_ago": "Sat, 06 Jun 2026 09:24:27 EDT",
-      "mined_at": "2026-06-06T18:07:28+00:00",
+      "mined_at": "2026-06-07T18:07:09+00:00",
       "source_published_at": "Sat, 06 Jun 2026 09:24:27 EDT",
       "image_url": "/article_images/article_d7a5d9ac99d5.webp",
       "category": "Science",
-      "title": "A Tiny X-ray Telescope Could Finally Map the Moon's Secret Chemistry!",
-      "summary": "Imagine a camera so small it weighs less than a big dog, yet it could map the entire Moon! Scientists tested a mini X-ray telescope that might reveal what the Moon is made of—all in just two years."
+      "title": "A Tiny Telescope Could Map the Moon's Secret Ingredients!",
+      "summary": "What is the Moon made of? A new, super-small X-ray telescope might finally give us a full map. It weighs less than a big dog and could scan the whole Moon in just two years. This could unlock secrets about how our lunar neighbor formed."
     },
     {
-      "id": "2026-06-06-science-2",
-      "source": "Popular Science",
-      "time_ago": "Sat, 06 Jun 2026 10:04:00 -0400",
-      "mined_at": "2026-06-06T18:07:28+00:00",
-      "source_published_at": "Sat, 06 Jun 2026 10:04:00 -0400",
-      "image_url": "/article_images/article_7afd8a3adadd.webp",
+      "id": "2026-06-07-science-3",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Fri, 05 Jun 2026 02:34:20 EDT",
+      "mined_at": "2026-06-07T18:07:09+00:00",
+      "source_published_at": "Fri, 05 Jun 2026 02:34:20 EDT",
+      "image_url": "/article_images/article_10d1b6524e54.webp",
       "category": "Science",
-      "title": "A Feather Duster Became a Mom for Two Orphaned Baby Turkeys!",
-      "summary": "What do you do when two tiny turkey chicks lose their mom? At a wildlife center, staff gave them a feather duster to snuggle under—and it worked! The chicks calmed down and started eating more."
-    },
-    {
-      "id": "2026-06-06-science-3",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Fri, 05 Jun 2026 08:32:00 EDT",
-      "mined_at": "2026-06-06T18:07:28+00:00",
-      "source_published_at": "Fri, 05 Jun 2026 08:32:00 EDT",
-      "image_url": "/article_images/article_d1e2a1d54892.webp",
-      "category": "Science",
-      "title": "Hidden Black Hole Pairs Could Flash Like Cosmic Lighthouses!",
-      "summary": "Two giant black holes circling each other might act like a cosmic magnifying glass, making stars behind them flash brightly over and over. Scientists think this could help us find these hidden pairs in space."
+      "title": "Fire Tornadoes Could Gobble Up Oil Spills Faster and Cleaner!",
+      "summary": "When oil spills in the ocean, cleaning it up is messy. But scientists just tested giant spinning fire tornadoes that burn oil twice as fast and with way less smoke. This wild idea could save coastlines and sea animals from sticky disasters."
     }
   ]
 }

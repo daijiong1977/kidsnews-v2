@@ -1,26 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-06-fun-1",
-      "source": "Live Science",
-      "time_ago": "Sat, 06 Jun 2026 11:00:00 +0000",
-      "mined_at": "2026-06-06T18:07:28+00:00",
-      "source_published_at": "Sat, 06 Jun 2026 11:00:00 +0000",
-      "image_url": "/article_images/article_757214932cdc.webp",
+      "id": "2026-06-07-fun-1",
+      "source": "IndieWire",
+      "time_ago": "Sun, 07 Jun 2026 17:00:00 +0000",
+      "mined_at": "2026-06-07T18:07:09+00:00",
+      "source_published_at": "Sun, 07 Jun 2026 17:00:00 +0000",
+      "image_url": "/article_images/article_107262b50aab.webp",
       "category": "Fun",
-      "title": "Ötzi the Iceman’s Ancient Yeast Bakes a Tasty Loaf, and Google’s 64-Million-Mosquito Plan",
-      "summary": "Researchers revived 5,300-year-old yeast from Ötzi the Iceman and baked sourdough — calling it 'very very good.' Meanwhile, Google seeks EPA approval to release 64 million bacteria-infected male mosquitoes to curb disease."
+      "title": "Marvel's 'Wonder Man' Creators Embrace the 'Auteur' Label with Humor",
+      "summary": "At IndieWire Honors, 'Wonder Man' co-creators joked about winning an Auteur Award for a Marvel show. They thanked Marvel for taking creative risks."
     },
     {
-      "id": "2026-06-06-fun-2",
-      "source": "Live Science",
-      "time_ago": "Sat, 06 Jun 2026 09:00:00 +0000",
-      "mined_at": "2026-06-06T18:07:28+00:00",
-      "source_published_at": "Sat, 06 Jun 2026 09:00:00 +0000",
-      "image_url": "/article_images/article_06b0113ca70c.webp",
+      "id": "2026-06-07-fun-2",
+      "source": "IndieWire",
+      "time_ago": "Sun, 07 Jun 2026 16:00:00 +0000",
+      "mined_at": "2026-06-07T18:07:09+00:00",
+      "source_published_at": "Sun, 07 Jun 2026 16:00:00 +0000",
+      "image_url": "/article_images/article_3dd7cfbdeff9.webp",
       "category": "Fun",
-      "title": "The Peculiar Problem of Pinning Down Gravity’s Strength",
-      "summary": "Despite decades of experiments, scientists still can’t agree on gravity’s exact strength. One physicist says measuring it is like weighing 7 human cells — and the culprit might be psychology, not physics."
+      "title": "How 'Spider-Noir' VFX Team Stuck to a 'Dogmatic' Plan to Pull Off Complex Sequences",
+      "summary": "The VFX supervisor for 'Spider-Noir' revealed that the team had to be rigidly disciplined to keep stunts and effects in sync. One slip could blow the budget or the show's tone."
+    },
+    {
+      "id": "2026-06-07-fun-3",
+      "source": "IndieWire",
+      "time_ago": "Sun, 07 Jun 2026 15:00:00 +0000",
+      "mined_at": "2026-06-07T18:07:09+00:00",
+      "source_published_at": "Sun, 07 Jun 2026 15:00:00 +0000",
+      "image_url": "/article_images/article_a6690902cf94.webp",
+      "category": "Fun",
+      "title": "'The Vampire Lestat' Review: A Berserk Camp Remix That Dares You to Keep Up",
+      "summary": "The third season of 'Interview with the Vampire' is a rock opera starring Sam Reid as Lestat. It's thrilling, confusing, and totally committed to its wild vision."
     }
   ]
 }

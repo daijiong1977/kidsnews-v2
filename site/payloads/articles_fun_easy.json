@@ -1,26 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-06-fun-1",
-      "source": "Live Science",
-      "time_ago": "Sat, 06 Jun 2026 11:00:00 +0000",
-      "mined_at": "2026-06-06T18:07:28+00:00",
-      "source_published_at": "Sat, 06 Jun 2026 11:00:00 +0000",
-      "image_url": "/article_images/article_757214932cdc.webp",
+      "id": "2026-06-07-fun-1",
+      "source": "IndieWire",
+      "time_ago": "Sun, 07 Jun 2026 17:00:00 +0000",
+      "mined_at": "2026-06-07T18:07:09+00:00",
+      "source_published_at": "Sun, 07 Jun 2026 17:00:00 +0000",
+      "image_url": "/article_images/article_107262b50aab.webp",
       "category": "Fun",
-      "title": "5,300-Year-Old Mummy's Secret Ingredient: Sourdough Bread!",
-      "summary": "Scientists found ancient yeast on Ötzi the Iceman and baked sourdough with it — they said it was 'very very good.' Also, Google wants to release 64 million special mosquitoes to fight disease."
+      "title": "Marvel's 'Wonder Man' Creators Joke About Winning an 'Auteur' Award",
+      "summary": "Two creators of a Marvel show joked that they don't fit the 'auteur' label. But they proved superhero shows can be artistic too!"
     },
     {
-      "id": "2026-06-06-fun-2",
-      "source": "Live Science",
-      "time_ago": "Sat, 06 Jun 2026 09:00:00 +0000",
-      "mined_at": "2026-06-06T18:07:28+00:00",
-      "source_published_at": "Sat, 06 Jun 2026 09:00:00 +0000",
-      "image_url": "/article_images/article_06b0113ca70c.webp",
+      "id": "2026-06-07-fun-2",
+      "source": "IndieWire",
+      "time_ago": "Sun, 07 Jun 2026 16:00:00 +0000",
+      "mined_at": "2026-06-07T18:07:09+00:00",
+      "source_published_at": "Sun, 07 Jun 2026 16:00:00 +0000",
+      "image_url": "/article_images/article_3dd7cfbdeff9.webp",
       "category": "Fun",
-      "title": "Why Is Gravity So Hard to Measure? It's Like Weighing 7 Cells!",
-      "summary": "Gravity feels strong when you trip, but measuring its exact strength is super tricky. Scientists say it's like trying to weigh just 7 human cells — and their answers keep disagreeing!"
+      "title": "How 'Spider-Noir' VFX Team Made the Show Look Amazing—With No Room for Mistakes",
+      "summary": "The visual effects team for 'Spider-Noir' had to be super strict about their plans. One wrong move could blow the budget or ruin the show's tone!"
+    },
+    {
+      "id": "2026-06-07-fun-3",
+      "source": "IndieWire",
+      "time_ago": "Sun, 07 Jun 2026 15:00:00 +0000",
+      "mined_at": "2026-06-07T18:07:09+00:00",
+      "source_published_at": "Sun, 07 Jun 2026 15:00:00 +0000",
+      "image_url": "/article_images/article_a6690902cf94.webp",
+      "category": "Fun",
+      "title": "'The Vampire Lestat' Is a Wild Rock Opera That Doesn't Care If You're Confused",
+      "summary": "The new show 'The Vampire Lestat' is the third season of 'Interview with the Vampire.' It's a crazy rock opera with a vampire who starts a band. Confusing but thrilling!"
     }
   ]
 }

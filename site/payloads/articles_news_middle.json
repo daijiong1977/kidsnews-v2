@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-06-news-1",
-      "source": "Al Jazeera",
-      "time_ago": "Sat, 06 Jun 2026 16:35:01 +0000",
-      "mined_at": "2026-06-06T18:07:28+00:00",
-      "source_published_at": "Sat, 06 Jun 2026 16:35:01 +0000",
-      "image_url": "/article_images/article_8b7bead4b5c5.webp",
-      "category": "News",
-      "title": "Teen Phenom Mirra Andreeva Captures First Grand Slam at French Open",
-      "summary": "At 19, Russia's Mirra Andreeva dominated qualifier Maja Chwalinska 6-3, 6-2 to win the French Open. She's the youngest women's champion since Monica Seles in 1992. Andreeva thanked herself for battling \"demons\" to reach the top."
-    },
-    {
-      "id": "2026-06-06-news-2",
+      "id": "2026-06-07-news-1",
       "source": "NPR World",
-      "time_ago": "Sat, 06 Jun 2026 07:48:31 -0400",
-      "mined_at": "2026-06-06T18:07:28+00:00",
-      "source_published_at": "Sat, 06 Jun 2026 07:48:31 -0400",
-      "image_url": "/article_images/article_f36a76aeab90.webp",
+      "time_ago": "Sun, 07 Jun 2026 06:00:00 -0400",
+      "mined_at": "2026-06-07T18:07:09+00:00",
+      "source_published_at": "Sun, 07 Jun 2026 06:00:00 -0400",
+      "image_url": "/article_images/article_6dd763fb0d38.webp",
       "category": "News",
-      "title": "Teen Summer Jobs Are Vanishing—Here's Why That Matters",
-      "summary": "The 2026 summer job market is the worst for teens in decades, with 219,000 fewer employed than last May. Economists blame AI, inflation, and tariffs. Yet working teens like barista Mariella Silva, 19, say it builds crucial life skills."
+      "title": "USMNT’s Final Friendlies Reveal a Team Primed for World Cup Battle",
+      "summary": "The U.S. men’s national team wrapped up pre-World Cup friendlies with a resilient draw against Germany and a win over Senegal. Christian Pulisic ended his goal drought, and the squad showed mental toughness. But defensive gaps remain a concern ahead of the tournament."
     },
     {
-      "id": "2026-06-06-news-3",
+      "id": "2026-06-07-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Fri, 05 Jun 2026 18:55:32 -0400",
-      "mined_at": "2026-06-06T18:07:28+00:00",
-      "source_published_at": "Fri, 05 Jun 2026 18:55:32 -0400",
-      "image_url": "",
+      "time_ago": "Sun, 07 Jun 2026 12:48:19 -0400",
+      "mined_at": "2026-06-07T18:07:09+00:00",
+      "source_published_at": "Sun, 07 Jun 2026 12:48:19 -0400",
+      "image_url": "/article_images/article_4f7b9c2fb812.webp",
       "category": "News",
-      "title": "May Jobs Report Defies Gloom: 172,000 Added, But Who's Really Benefiting?",
-      "summary": "U.S. employers added 172,000 jobs in May, smashing forecasts of 110,000. Yet beneath the headline, underemployment rose and inflation continues to erode purchasing power for most Americans, according to KPMG chief economist Diane Swonk."
+      "title": "Trump’s Knicks Finals Appearance Sparks Excitement and Anxiety in New York",
+      "summary": "President Donald Trump will attend Game 3 of the NBA Finals at Madison Square Garden, becoming the first sitting president to do so. Invited by Knicks owner James Dolan, his visit has stirred mixed reactions in a city where he remains deeply unpopular. The Knicks lead the series 2-0."
+    },
+    {
+      "id": "2026-06-07-news-3",
+      "source": "BBC News",
+      "time_ago": "Sun, 07 Jun 2026 12:16:11 GMT",
+      "mined_at": "2026-06-07T18:07:09+00:00",
+      "source_published_at": "Sun, 07 Jun 2026 12:16:11 GMT",
+      "image_url": "/article_images/article_08af1d984d42.webp",
+      "category": "News",
+      "title": "M&S Launches 1,000-Strong Traineeship to Combat Youth Unemployment Crisis",
+      "summary": "Marks & Spencer is creating 1,000 paid traineeships for 16-to-24-year-olds in the UK and Ireland, targeting the soaring number of young people not in employment, education, or training (NEETs). The six-month program offers a pathway to store management without requiring a degree."
     }
   ]
 }
