@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-07-news-1",
-      "source": "NPR World",
-      "time_ago": "Sun, 07 Jun 2026 06:00:00 -0400",
-      "mined_at": "2026-06-07T18:07:09+00:00",
-      "source_published_at": "Sun, 07 Jun 2026 06:00:00 -0400",
-      "image_url": "/article_images/article_6dd763fb0d38.webp",
+      "id": "2026-06-08-news-1",
+      "source": "Al Jazeera",
+      "time_ago": "Mon, 08 Jun 2026 13:38:51 +0000",
+      "mined_at": "2026-06-08T18:50:37+00:00",
+      "source_published_at": "Mon, 08 Jun 2026 13:38:51 +0000",
+      "image_url": "/article_images/article_46cf2da2b2de.webp",
       "category": "News",
-      "title": "The U.S. Soccer Team Just Showed They’re Ready to Rumble!",
-      "summary": "The U.S. men’s soccer team played two big warm-up games. They scored goals and fought back hard. Star Christian Pulisic ended his goal drought against Senegal. Defender Antonee Robinson amazed with his playmaking."
+      "title": "Sweaty Soccer Stars: Why the 2026 World Cup Might Be the Hottest Ever",
+      "summary": "Imagine playing soccer in a giant oven! Scientists say 1 in 4 World Cup games could be super hot, with temperatures feeling like 28°C or more. Players are already dousing themselves with water to cool down."
     },
     {
-      "id": "2026-06-07-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Sun, 07 Jun 2026 12:48:19 -0400",
-      "mined_at": "2026-06-07T18:07:09+00:00",
-      "source_published_at": "Sun, 07 Jun 2026 12:48:19 -0400",
-      "image_url": "/article_images/article_4f7b9c2fb812.webp",
-      "category": "News",
-      "title": "President Trump Is Coming to the Knicks Game—And Not Everyone Is Happy!",
-      "summary": "Donald Trump will be the first sitting president to attend an NBA Finals game. He’s going to Game 3 in New York to cheer for the Knicks. Some fans worry his visit could mess up the team’s momentum. The Knicks lead the series 2-0."
-    },
-    {
-      "id": "2026-06-07-news-3",
+      "id": "2026-06-08-news-2",
       "source": "BBC News",
-      "time_ago": "Sun, 07 Jun 2026 12:16:11 GMT",
-      "mined_at": "2026-06-07T18:07:09+00:00",
-      "source_published_at": "Sun, 07 Jun 2026 12:16:11 GMT",
-      "image_url": "/article_images/article_08af1d984d42.webp",
+      "time_ago": "Mon, 08 Jun 2026 15:00:16 GMT",
+      "mined_at": "2026-06-08T18:50:37+00:00",
+      "source_published_at": "Mon, 08 Jun 2026 15:00:16 GMT",
+      "image_url": "/article_images/article_16b39762cbd8.webp",
       "category": "News",
-      "title": "M&S Wants to Give 1,000 Young People a Career Boost!",
-      "summary": "Marks & Spencer is starting a new training program for 1,000 young people in the UK and Ireland. It’s for ages 16 to 24 who aren’t in school or work. The paid program teaches retail skills and can lead to a manager job."
+      "title": "Bye-Bye, Flat Bum? New Drug Might Help Keep Muscles Strong While Losing Weight",
+      "summary": "Some people taking weight-loss shots like Ozempic lose muscle, not just fat, leading to a saggy bum. A new drug called apitegromab helped people keep more muscle while still shedding pounds in a study."
+    },
+    {
+      "id": "2026-06-08-news-3",
+      "source": "NPR World",
+      "time_ago": "Sat, 06 Jun 2026 20:39:16 -0400",
+      "mined_at": "2026-06-08T18:50:37+00:00",
+      "source_published_at": "Sat, 06 Jun 2026 20:39:16 -0400",
+      "image_url": "/article_images/article_2f2895e4015e.webp",
+      "category": "News",
+      "title": "World Cup Workers Say: 'We Might Strike!' Here's Why",
+      "summary": "Workers at SoFi Stadium, where the first U.S. World Cup match will be played, voted 96% to strike. They want better pay and safety from immigration agents. Talks are still happening."
     }
   ]
 }
