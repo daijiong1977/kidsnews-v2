@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-08-news-1",
-      "source": "Al Jazeera",
-      "time_ago": "Mon, 08 Jun 2026 13:38:51 +0000",
-      "mined_at": "2026-06-08T18:50:37+00:00",
-      "source_published_at": "Mon, 08 Jun 2026 13:38:51 +0000",
-      "image_url": "/article_images/article_46cf2da2b2de.webp",
-      "category": "News",
-      "title": "Scorching Pitches: How Extreme Heat Could Reshape the 2026 World Cup",
-      "summary": "Climate scientists warn that a quarter of World Cup matches may face dangerous heat, with Wet Bulb Globe Temperatures exceeding 26°C. Players are already struggling, but teams are adapting with cooling tech and training."
-    },
-    {
-      "id": "2026-06-08-news-2",
+      "id": "2026-06-09-news-1",
       "source": "BBC News",
-      "time_ago": "Mon, 08 Jun 2026 15:00:16 GMT",
-      "mined_at": "2026-06-08T18:50:37+00:00",
-      "source_published_at": "Mon, 08 Jun 2026 15:00:16 GMT",
-      "image_url": "/article_images/article_16b39762cbd8.webp",
+      "time_ago": "Tue, 09 Jun 2026 17:46:55 GMT",
+      "mined_at": "2026-06-09T19:01:42+00:00",
+      "source_published_at": "Tue, 09 Jun 2026 17:46:55 GMT",
+      "image_url": "/article_images/article_904b3db4cddd.webp",
       "category": "News",
-      "title": "Fighting 'Ozempic Butt': Can a New Drug Preserve Muscle During Weight Loss?",
-      "summary": "A study in Nature Medicine found that apitegromab, an experimental drug, helped people on GLP-1 obesity medications retain more muscle while losing fat. Experts call it promising but say larger trials are needed."
+      "title": "Artemis III: From Historic Moon Landing to Earth-Orbit Tech Demo",
+      "summary": "NASA's Artemis III crew will not walk on the Moon. Instead, they'll test docking procedures in low Earth orbit. The shift comes after SpaceX Starship delays and a Blue Origin rocket explosion. Commander Randy Bresnik leads the mission, now targeting 2027."
     },
     {
-      "id": "2026-06-08-news-3",
+      "id": "2026-06-09-news-2",
       "source": "NPR World",
-      "time_ago": "Sat, 06 Jun 2026 20:39:16 -0400",
-      "mined_at": "2026-06-08T18:50:37+00:00",
-      "source_published_at": "Sat, 06 Jun 2026 20:39:16 -0400",
-      "image_url": "/article_images/article_2f2895e4015e.webp",
+      "time_ago": "Tue, 09 Jun 2026 02:02:33 -0400",
+      "mined_at": "2026-06-09T19:01:42+00:00",
+      "source_published_at": "Tue, 09 Jun 2026 02:02:33 -0400",
+      "image_url": "/article_images/article_a6e90bb2816e.webp",
       "category": "News",
-      "title": "SoFi Stadium Workers Authorize Strike Days Before World Cup Kickoff",
-      "summary": "With a 96% vote, hospitality workers at SoFi Stadium are ready to strike over pay and fears of immigration enforcement. The venue hosts the U.S. men's first match on June 12, and negotiations continue."
+      "title": "Sweden's Digital Reckoning: Nationwide School Phone Ban Starts This Fall",
+      "summary": "Sweden will ban mobile phones in all schools starting next academic year, prioritizing books over screens. The policy follows falling reading scores—24.3% of ninth graders lack basic comprehension. The government is also investing $59 million in textbooks."
+    },
+    {
+      "id": "2026-06-09-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Tue, 09 Jun 2026 14:48:48 +0000",
+      "mined_at": "2026-06-09T19:01:42+00:00",
+      "source_published_at": "Tue, 09 Jun 2026 14:48:48 +0000",
+      "image_url": "/article_images/article_a386a0e2fa9e.webp",
+      "category": "News",
+      "title": "'I Call the Shots': Trump-Netanyahu Rift Exposes Diverging War Aims",
+      "summary": "A public feud between Trump and Netanyahu reveals a growing crack in U.S.-Israel ties. Trump wants a quick Iran peace deal to avoid midterm backlash; Netanyahu may gain politically from prolonged war. Analysts call the relationship 'transactional.'"
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-08-news-1",
-      "source": "Al Jazeera",
-      "time_ago": "Mon, 08 Jun 2026 13:38:51 +0000",
-      "mined_at": "2026-06-08T18:50:37+00:00",
-      "source_published_at": "Mon, 08 Jun 2026 13:38:51 +0000",
-      "image_url": "/article_images/article_46cf2da2b2de.webp",
-      "category": "News",
-      "title": "Sweaty Soccer Stars: Why the 2026 World Cup Might Be the Hottest Ever",
-      "summary": "Imagine playing soccer in a giant oven! Scientists say 1 in 4 World Cup games could be super hot, with temperatures feeling like 28°C or more. Players are already dousing themselves with water to cool down."
-    },
-    {
-      "id": "2026-06-08-news-2",
+      "id": "2026-06-09-news-1",
       "source": "BBC News",
-      "time_ago": "Mon, 08 Jun 2026 15:00:16 GMT",
-      "mined_at": "2026-06-08T18:50:37+00:00",
-      "source_published_at": "Mon, 08 Jun 2026 15:00:16 GMT",
-      "image_url": "/article_images/article_16b39762cbd8.webp",
+      "time_ago": "Tue, 09 Jun 2026 17:46:55 GMT",
+      "mined_at": "2026-06-09T19:01:42+00:00",
+      "source_published_at": "Tue, 09 Jun 2026 17:46:55 GMT",
+      "image_url": "/article_images/article_904b3db4cddd.webp",
       "category": "News",
-      "title": "Bye-Bye, Flat Bum? New Drug Might Help Keep Muscles Strong While Losing Weight",
-      "summary": "Some people taking weight-loss shots like Ozempic lose muscle, not just fat, leading to a saggy bum. A new drug called apitegromab helped people keep more muscle while still shedding pounds in a study."
+      "title": "Moon Mission Makeover: Astronauts Will Test Space Docking, Not Walk on the Moon!",
+      "summary": "NASA's Artemis III won't land on the Moon after all. Instead, astronauts will orbit Earth and practice docking with lunar landers. Commander Randy Bresnik leads the crew. A recent rocket explosion at Blue Origin made things even trickier."
     },
     {
-      "id": "2026-06-08-news-3",
+      "id": "2026-06-09-news-2",
       "source": "NPR World",
-      "time_ago": "Sat, 06 Jun 2026 20:39:16 -0400",
-      "mined_at": "2026-06-08T18:50:37+00:00",
-      "source_published_at": "Sat, 06 Jun 2026 20:39:16 -0400",
-      "image_url": "/article_images/article_2f2895e4015e.webp",
+      "time_ago": "Tue, 09 Jun 2026 02:02:33 -0400",
+      "mined_at": "2026-06-09T19:01:42+00:00",
+      "source_published_at": "Tue, 09 Jun 2026 02:02:33 -0400",
+      "image_url": "/article_images/article_a6e90bb2816e.webp",
       "category": "News",
-      "title": "World Cup Workers Say: 'We Might Strike!' Here's Why",
-      "summary": "Workers at SoFi Stadium, where the first U.S. World Cup match will be played, voted 96% to strike. They want better pay and safety from immigration agents. Talks are still happening."
+      "title": "Sweden Says 'Hej då' to Phones in Class!",
+      "summary": "Starting this fall, Sweden will ban mobile phones in all schools. The government wants kids to read more books and use fewer screens. Many students already put their phones in a 'Mobile Hotel' during class and say it helps them focus."
+    },
+    {
+      "id": "2026-06-09-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Tue, 09 Jun 2026 14:48:48 +0000",
+      "mined_at": "2026-06-09T19:01:42+00:00",
+      "source_published_at": "Tue, 09 Jun 2026 14:48:48 +0000",
+      "image_url": "/article_images/article_a386a0e2fa9e.webp",
+      "category": "News",
+      "title": "Friendship on the Rocks? Trump and Netanyahu Clash Over War and Peace",
+      "summary": "President Trump and Israel's Prime Minister Netanyahu are arguing about war with Iran. Trump wants a peace deal, but Netanyahu may want to keep fighting. Experts say their friendship is cracking because their goals are now very different."
     }
   ]
 }
