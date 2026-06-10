@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-09-science-1",
-      "source": "Physics World",
-      "time_ago": "Mon, 08 Jun 2026 10:00:52 +0000",
-      "mined_at": "2026-06-09T19:01:42+00:00",
-      "source_published_at": "Mon, 08 Jun 2026 10:00:52 +0000",
-      "image_url": "/article_images/article_0d6b559d80d3.webp",
+      "id": "2026-06-10-science-1",
+      "source": "ScienceDaily All",
+      "time_ago": "Wed, 10 Jun 2026 07:24:15 EDT",
+      "mined_at": "2026-06-10T18:35:02+00:00",
+      "source_published_at": "Wed, 10 Jun 2026 07:24:15 EDT",
+      "image_url": "/article_images/article_3f4dd1b60958.webp",
       "category": "Science",
-      "title": "From Clunky to Lightning-Fast: How AI Is Teaching Robots to Outrun Humans",
-      "summary": "A humanoid robot clocked a half-marathon in 50:26, shattering the human record by nearly 7 minutes. In one year, robot race times plunged by over two-thirds. AI-powered vision-language-action models are behind the leap — and they could reshape factories and homes."
+      "title": "Dual-Mode Propulsion: MIT's Game-Changing Engine Could Unleash Small Satellites on the Solar System",
+      "summary": "MIT engineers have created a propulsion system that lets a spacecraft use one fuel for both high-thrust chemical burns and efficient electric propulsion. This breakthrough could give tiny satellites the flexibility to journey to Mars, the asteroid belt, and beyond, dramatically expanding what small, low-cost missions can achieve."
     },
     {
-      "id": "2026-06-09-science-2",
-      "source": "Smithsonian Science-Nature",
-      "time_ago": "Fri, 05 Jun 2026 17:52:22 +0000",
-      "mined_at": "2026-06-09T19:01:42+00:00",
-      "source_published_at": "Fri, 05 Jun 2026 17:52:22 +0000",
-      "image_url": "/article_images/article_603c624786cd.webp",
+      "id": "2026-06-10-science-2",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Wed, 10 Jun 2026 06:10:54 EDT",
+      "mined_at": "2026-06-10T18:35:02+00:00",
+      "source_published_at": "Wed, 10 Jun 2026 06:10:54 EDT",
+      "image_url": "/article_images/article_baaeb2e1f328.webp",
       "category": "Science",
-      "title": "Heat Waves Are Frying Animal Brains — and the Fallout Could Hit Our Food Supply",
-      "summary": "Rising temperatures impair learning, fuel aggression, and dull survival instincts across species. Birds, fish, bees, and even dogs show cognitive decline in heat. Scientists warn these effects could cascade through ecosystems and threaten agriculture."
+      "title": "A Complete Fly Connectome Reveals a Surprising Twist: The Body Calls the Shots",
+      "summary": "Scientists have published the first complete wiring diagram of an adult fruit fly's central nervous system, linking the brain and nerve cord. The connectome reveals that many behaviors are driven by local circuits in the body, not a central brain command, upending assumptions about how nervous systems coordinate action."
     },
     {
-      "id": "2026-06-09-science-3",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Mon, 08 Jun 2026 21:52:02 EDT",
-      "mined_at": "2026-06-09T19:01:42+00:00",
-      "source_published_at": "Mon, 08 Jun 2026 21:52:02 EDT",
-      "image_url": "/article_images/article_f716cf2ed7d8.webp",
+      "id": "2026-06-10-science-3",
+      "source": "ScienceDaily All",
+      "time_ago": "Wed, 10 Jun 2026 06:52:17 EDT",
+      "mined_at": "2026-06-10T18:35:02+00:00",
+      "source_published_at": "Wed, 10 Jun 2026 06:52:17 EDT",
+      "image_url": "/article_images/article_2d4bcf25dd4a.webp",
       "category": "Science",
-      "title": "Planet Nine Theory Takes a Hit as Newfound Icy World Refuses to Wobble",
-      "summary": "A newly discovered sednoid, 2023 KQ14, has a stable elliptical orbit — challenging the idea that a hidden giant planet is shepherding distant objects. The finding adds to mounting evidence that Planet Nine, if it exists, must be extremely remote."
+      "title": "The Stroop Test Exposes a Critical Flaw in AI: It Can't Ignore Distractions Like Humans Do",
+      "summary": "When researchers gave leading AI models the classic Stroop task—naming ink colors while ignoring conflicting words—performance collapsed as lists grew longer. The systems defaulted to reading words, revealing a fundamental lack of executive control that sets human attention apart from machine intelligence."
     }
   ]
 }

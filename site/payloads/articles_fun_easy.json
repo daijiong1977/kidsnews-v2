@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-09-fun-1",
-      "source": "DOGOnews",
-      "time_ago": "",
-      "mined_at": "2026-06-09T19:01:42+00:00",
-      "source_published_at": "",
-      "image_url": "/article_images/article_ebb787e4f601.webp",
+      "id": "2026-06-10-fun-1",
+      "source": "BBC Tennis",
+      "time_ago": "Tue, 09 Jun 2026 20:13:18 GMT",
+      "mined_at": "2026-06-10T18:35:02+00:00",
+      "source_published_at": "Tue, 09 Jun 2026 20:13:18 GMT",
+      "image_url": "/article_images/article_eecb212df659.webp",
       "category": "Fun",
-      "title": "Hero Rat Gets a Giant Statue!",
-      "summary": "A rat named Magawa saved lives by sniffing out landmines. Now he has a huge statue in Cambodia!"
+      "title": "Serena's Surprise Comeback: A Win, a Joke, and a Toy Store Request",
+      "summary": "After 1,375 days away, tennis legend Serena Williams returned to play doubles with a teenager—and they won! Her daughter Adira wasn't that impressed though; she just wanted to go to the toy store."
     },
     {
-      "id": "2026-06-09-fun-2",
-      "source": "SwimSwam",
-      "time_ago": "Tue, 09 Jun 2026 16:50:54 +0000",
-      "mined_at": "2026-06-09T19:01:42+00:00",
-      "source_published_at": "Tue, 09 Jun 2026 16:50:54 +0000",
-      "image_url": "/article_images/article_8dd5769e5579.webp",
+      "id": "2026-06-10-fun-2",
+      "source": "/Film",
+      "time_ago": "Wed, 10 Jun 2026 17:35:21 +0000",
+      "mined_at": "2026-06-10T18:35:02+00:00",
+      "source_published_at": "Wed, 10 Jun 2026 17:35:21 +0000",
+      "image_url": "/article_images/article_a174f20013a7.webp",
       "category": "Fun",
-      "title": "Teen Swimmer Breaks a 23-Year-Old Record!",
-      "summary": "Sienna Toohey, 17, swam the 100m breaststroke in 1:05.97, beating a record set by legend Leisel Jones in 2003."
+      "title": "Why Spielberg Said 'No' to Harry Potter and Made a Robot Movie Instead",
+      "summary": "Steven Spielberg was supposed to direct the first Harry Potter movie but chose to make A.I. Artificial Intelligence instead. He kept a promise to his late friend Stanley Kubrick, and the result was a weird, wonderful sci-fi film."
     },
     {
-      "id": "2026-06-09-fun-3",
-      "source": "Billboard",
-      "time_ago": "Tue, 09 Jun 2026 17:35:09 +0000",
-      "mined_at": "2026-06-09T19:01:42+00:00",
-      "source_published_at": "Tue, 09 Jun 2026 17:35:09 +0000",
-      "image_url": "/article_images/article_501c28d27844.webp",
+      "id": "2026-06-10-fun-3",
+      "source": "Smithsonian Arts",
+      "time_ago": "Fri, 17 Apr 2026 10:15:00 +0000",
+      "mined_at": "2026-06-10T18:35:02+00:00",
+      "source_published_at": "Fri, 17 Apr 2026 10:15:00 +0000",
+      "image_url": "/article_images/article_0c28b69c953d.webp",
       "category": "Fun",
-      "title": "K-Pop Duo V8 Drops Debut EP with Pharrell!",
-      "summary": "SEVENTEEN members The 8 and Vernon form V8, releasing their first EP on June 29 with production by Pharrell Williams."
+      "title": "The Day the Mona Lisa Vanished—and the Musical It Inspired",
+      "summary": "In 1911, the world's most famous painting was stolen from the Louvre by a worker who hid it in his apartment. Now Andrew Lloyd Webber is writing a musical about the wild true story."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-09-news-1",
-      "source": "BBC News",
-      "time_ago": "Tue, 09 Jun 2026 17:46:55 GMT",
-      "mined_at": "2026-06-09T19:01:42+00:00",
-      "source_published_at": "Tue, 09 Jun 2026 17:46:55 GMT",
-      "image_url": "/article_images/article_904b3db4cddd.webp",
-      "category": "News",
-      "title": "Moon Mission Makeover: Astronauts Will Test Space Docking, Not Walk on the Moon!",
-      "summary": "NASA's Artemis III won't land on the Moon after all. Instead, astronauts will orbit Earth and practice docking with lunar landers. Commander Randy Bresnik leads the crew. A recent rocket explosion at Blue Origin made things even trickier."
-    },
-    {
-      "id": "2026-06-09-news-2",
+      "id": "2026-06-10-news-1",
       "source": "NPR World",
-      "time_ago": "Tue, 09 Jun 2026 02:02:33 -0400",
-      "mined_at": "2026-06-09T19:01:42+00:00",
-      "source_published_at": "Tue, 09 Jun 2026 02:02:33 -0400",
-      "image_url": "/article_images/article_a6e90bb2816e.webp",
+      "time_ago": "Wed, 10 Jun 2026 05:00:00 -0400",
+      "mined_at": "2026-06-10T18:35:02+00:00",
+      "source_published_at": "Wed, 10 Jun 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_7ace221db281.webp",
       "category": "News",
-      "title": "Sweden Says 'Hej då' to Phones in Class!",
-      "summary": "Starting this fall, Sweden will ban mobile phones in all schools. The government wants kids to read more books and use fewer screens. Many students already put their phones in a 'Mobile Hotel' during class and say it helps them focus."
+      "title": "Soccer Fever! The World Cup Kicks Off Tomorrow—Here's Your Cheat Sheet",
+      "summary": "The 2026 FIFA World Cup starts June 11 with Mexico vs. South Africa. For the first time, 48 teams will battle it out across North America. The U.S. plays Paraguay on Friday at 9 p.m. ET."
     },
     {
-      "id": "2026-06-09-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Tue, 09 Jun 2026 14:48:48 +0000",
-      "mined_at": "2026-06-09T19:01:42+00:00",
-      "source_published_at": "Tue, 09 Jun 2026 14:48:48 +0000",
-      "image_url": "/article_images/article_a386a0e2fa9e.webp",
+      "id": "2026-06-10-news-2",
+      "source": "NPR World",
+      "time_ago": "Wed, 10 Jun 2026 07:30:00 -0400",
+      "mined_at": "2026-06-10T18:35:02+00:00",
+      "source_published_at": "Wed, 10 Jun 2026 07:30:00 -0400",
+      "image_url": "/article_images/article_095baf5241e6.webp",
       "category": "News",
-      "title": "Friendship on the Rocks? Trump and Netanyahu Clash Over War and Peace",
-      "summary": "President Trump and Israel's Prime Minister Netanyahu are arguing about war with Iran. Trump wants a peace deal, but Netanyahu may want to keep fighting. Experts say their friendship is cracking because their goals are now very different."
+      "title": "Big Student Loan Changes Are Coming July 1—Are You Ready?",
+      "summary": "Starting July 1, new rules from the One Big Beautiful Bill Act will change student loan repayment plans and borrowing limits. Over 7 million borrowers must switch from the SAVE plan. Grad students face new caps."
+    },
+    {
+      "id": "2026-06-10-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Wed, 10 Jun 2026 16:53:32 +0000",
+      "mined_at": "2026-06-10T18:35:02+00:00",
+      "source_published_at": "Wed, 10 Jun 2026 16:53:32 +0000",
+      "image_url": "/article_images/article_299a4954dd49.webp",
+      "category": "News",
+      "title": "Prices Are Soaring: Why Everything Costs More Right Now",
+      "summary": "U.S. inflation hit 4.2% in May, the highest in three years. Gas prices jumped 40% from last year to $4.15 a gallon. Rising energy costs are squeezing families, and the Fed might raise interest rates."
     }
   ]
 }

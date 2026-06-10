@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-09-news-1",
-      "source": "BBC News",
-      "time_ago": "Tue, 09 Jun 2026 17:46:55 GMT",
-      "mined_at": "2026-06-09T19:01:42+00:00",
-      "source_published_at": "Tue, 09 Jun 2026 17:46:55 GMT",
-      "image_url": "/article_images/article_904b3db4cddd.webp",
-      "category": "News",
-      "title": "Artemis III: From Historic Moon Landing to Earth-Orbit Tech Demo",
-      "summary": "NASA's Artemis III crew will not walk on the Moon. Instead, they'll test docking procedures in low Earth orbit. The shift comes after SpaceX Starship delays and a Blue Origin rocket explosion. Commander Randy Bresnik leads the mission, now targeting 2027."
-    },
-    {
-      "id": "2026-06-09-news-2",
+      "id": "2026-06-10-news-1",
       "source": "NPR World",
-      "time_ago": "Tue, 09 Jun 2026 02:02:33 -0400",
-      "mined_at": "2026-06-09T19:01:42+00:00",
-      "source_published_at": "Tue, 09 Jun 2026 02:02:33 -0400",
-      "image_url": "/article_images/article_a6e90bb2816e.webp",
+      "time_ago": "Wed, 10 Jun 2026 05:00:00 -0400",
+      "mined_at": "2026-06-10T18:35:02+00:00",
+      "source_published_at": "Wed, 10 Jun 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_7ace221db281.webp",
       "category": "News",
-      "title": "Sweden's Digital Reckoning: Nationwide School Phone Ban Starts This Fall",
-      "summary": "Sweden will ban mobile phones in all schools starting next academic year, prioritizing books over screens. The policy follows falling reading scores—24.3% of ninth graders lack basic comprehension. The government is also investing $59 million in textbooks."
+      "title": "The World Cup Finally Arrives: 48 Teams, One Trophy, and a Summer of Soccer",
+      "summary": "The 2026 FIFA World Cup begins June 11 with Mexico vs. South Africa. This expanded tournament features 48 teams for the first time. The U.S. faces Paraguay on June 12. Matches air on Fox, FS1, and Tubi."
     },
     {
-      "id": "2026-06-09-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Tue, 09 Jun 2026 14:48:48 +0000",
-      "mined_at": "2026-06-09T19:01:42+00:00",
-      "source_published_at": "Tue, 09 Jun 2026 14:48:48 +0000",
-      "image_url": "/article_images/article_a386a0e2fa9e.webp",
+      "id": "2026-06-10-news-2",
+      "source": "NPR World",
+      "time_ago": "Wed, 10 Jun 2026 07:30:00 -0400",
+      "mined_at": "2026-06-10T18:35:02+00:00",
+      "source_published_at": "Wed, 10 Jun 2026 07:30:00 -0400",
+      "image_url": "/article_images/article_095baf5241e6.webp",
       "category": "News",
-      "title": "'I Call the Shots': Trump-Netanyahu Rift Exposes Diverging War Aims",
-      "summary": "A public feud between Trump and Netanyahu reveals a growing crack in U.S.-Israel ties. Trump wants a quick Iran peace deal to avoid midterm backlash; Netanyahu may gain politically from prolonged war. Analysts call the relationship 'transactional.'"
+      "title": "Student Loan Shake-Up: July 1 Brings New Repayment Plans and Borrowing Caps",
+      "summary": "The One Big Beautiful Bill Act triggers major student loan changes on July 1. Over 7 million SAVE plan borrowers must switch plans. New graduate borrowing caps limit loans to $20,500 per year. Two new repayment options debut."
+    },
+    {
+      "id": "2026-06-10-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Wed, 10 Jun 2026 16:53:32 +0000",
+      "mined_at": "2026-06-10T18:35:02+00:00",
+      "source_published_at": "Wed, 10 Jun 2026 16:53:32 +0000",
+      "image_url": "/article_images/article_299a4954dd49.webp",
+      "category": "News",
+      "title": "Inflation Hits 4.2% as Gas Prices Surge—Rate Hikes Could Follow",
+      "summary": "U.S. consumer inflation rose 4.2% in May, a three-year high, driven by a 3.9% jump in energy costs. Gasoline is up 40% from last year to $4.15 per gallon. The Federal Reserve may raise interest rates in coming months."
     }
   ]
 }
