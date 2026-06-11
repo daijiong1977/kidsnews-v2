@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-10-news-1",
+      "id": "2026-06-11-news-1",
       "source": "NPR World",
-      "time_ago": "Wed, 10 Jun 2026 05:00:00 -0400",
-      "mined_at": "2026-06-10T18:35:02+00:00",
-      "source_published_at": "Wed, 10 Jun 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_7ace221db281.webp",
+      "time_ago": "Thu, 11 Jun 2026 01:05:08 -0400",
+      "mined_at": "2026-06-11T19:03:22+00:00",
+      "source_published_at": "Thu, 11 Jun 2026 01:05:08 -0400",
+      "image_url": "/article_images/article_368276e5f6f4.webp",
       "category": "News",
-      "title": "The World Cup Finally Arrives: 48 Teams, One Trophy, and a Summer of Soccer",
-      "summary": "The 2026 FIFA World Cup begins June 11 with Mexico vs. South Africa. This expanded tournament features 48 teams for the first time. The U.S. faces Paraguay on June 12. Matches air on Fox, FS1, and Tubi."
+      "title": "From 29 Down to One Up: Knicks Stun Spurs in Historic Finals Comeback",
+      "summary": "The Knicks erased a 29-point deficit — the largest in NBA Finals history — to beat the Spurs 107-106 in Game 4. OG Anunoby's tip-in with 1.2 seconds left gave New York a 3-1 series lead and put them on the brink of their first title since 1973."
     },
     {
-      "id": "2026-06-10-news-2",
-      "source": "NPR World",
-      "time_ago": "Wed, 10 Jun 2026 07:30:00 -0400",
-      "mined_at": "2026-06-10T18:35:02+00:00",
-      "source_published_at": "Wed, 10 Jun 2026 07:30:00 -0400",
-      "image_url": "/article_images/article_095baf5241e6.webp",
-      "category": "News",
-      "title": "Student Loan Shake-Up: July 1 Brings New Repayment Plans and Borrowing Caps",
-      "summary": "The One Big Beautiful Bill Act triggers major student loan changes on July 1. Over 7 million SAVE plan borrowers must switch plans. New graduate borrowing caps limit loans to $20,500 per year. Two new repayment options debut."
-    },
-    {
-      "id": "2026-06-10-news-3",
+      "id": "2026-06-11-news-2",
       "source": "Al Jazeera",
-      "time_ago": "Wed, 10 Jun 2026 16:53:32 +0000",
-      "mined_at": "2026-06-10T18:35:02+00:00",
-      "source_published_at": "Wed, 10 Jun 2026 16:53:32 +0000",
-      "image_url": "/article_images/article_299a4954dd49.webp",
+      "time_ago": "Thu, 11 Jun 2026 14:04:58 +0000",
+      "mined_at": "2026-06-11T19:03:22+00:00",
+      "source_published_at": "Thu, 11 Jun 2026 14:04:58 +0000",
+      "image_url": "/article_images/article_af32ebe45708.webp",
       "category": "News",
-      "title": "Inflation Hits 4.2% as Gas Prices Surge—Rate Hikes Could Follow",
-      "summary": "U.S. consumer inflation rose 4.2% in May, a three-year high, driven by a 3.9% jump in energy costs. Gasoline is up 40% from last year to $4.15 per gallon. The Federal Reserve may raise interest rates in coming months."
+      "title": "Title Fight on the White House Lawn: Topuria vs. Gaethje Headlines UFC Freedom 250",
+      "summary": "Unbeaten Ilia Topuria returns from a year-long hiatus to face interim champ Justin Gaethje for the undisputed UFC lightweight title on June 14. The outdoor bout at the White House is part of the controversial Freedom 250 celebration, coinciding with President Trump's 80th birthday."
+    },
+    {
+      "id": "2026-06-11-news-3",
+      "source": "BBC News",
+      "time_ago": "Thu, 11 Jun 2026 13:26:24 GMT",
+      "mined_at": "2026-06-11T19:03:22+00:00",
+      "source_published_at": "Thu, 11 Jun 2026 13:26:24 GMT",
+      "image_url": "/article_images/article_b590edad7242.webp",
+      "category": "News",
+      "title": "El Niño Is Officially Here — and It Could Be a Record-Breaker",
+      "summary": "NOAA confirms El Niño conditions have developed in the tropical Pacific, with models pointing to a potential 'super' event. Combined with human-caused warming, it could make 2027 the hottest year on record and disrupt global weather, food supplies, and economies."
     }
   ]
 }

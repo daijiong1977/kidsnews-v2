@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-10-science-1",
-      "source": "ScienceDaily All",
-      "time_ago": "Wed, 10 Jun 2026 07:24:15 EDT",
-      "mined_at": "2026-06-10T18:35:02+00:00",
-      "source_published_at": "Wed, 10 Jun 2026 07:24:15 EDT",
-      "image_url": "/article_images/article_3f4dd1b60958.webp",
+      "id": "2026-06-11-science-1",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Wed, 10 Jun 2026 00:56:30 EDT",
+      "mined_at": "2026-06-11T19:03:22+00:00",
+      "source_published_at": "Wed, 10 Jun 2026 00:56:30 EDT",
+      "image_url": "/article_images/article_d2e34467b7d6.webp",
       "category": "Science",
-      "title": "One Fuel, Two Engines: MIT's Tiny Spacecraft Trick Could Send Satellites to Mars!",
-      "summary": "Imagine a car that runs on both gas and electricity from the same tank. MIT engineers built a tiny spacecraft engine that does just that—using one fuel for both fast zooming and slow, careful moves. This could let small satellites explore Mars and beyond."
+      "title": "Why Earth's First Animals Were Stuck in Slow-Mo for Millions of Years",
+      "summary": "Earth's first animals cloned themselves using runners, like strawberries. That meant no competition and super-slow evolution. A new study shows sex finally kicked diversity into high gear."
     },
     {
-      "id": "2026-06-10-science-2",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Wed, 10 Jun 2026 06:10:54 EDT",
-      "mined_at": "2026-06-10T18:35:02+00:00",
-      "source_published_at": "Wed, 10 Jun 2026 06:10:54 EDT",
-      "image_url": "/article_images/article_baaeb2e1f328.webp",
+      "id": "2026-06-11-science-2",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Thu, 11 Jun 2026 08:02:51 EDT",
+      "mined_at": "2026-06-11T19:03:22+00:00",
+      "source_published_at": "Thu, 11 Jun 2026 08:02:51 EDT",
+      "image_url": "/article_images/article_828a967ba37a.webp",
       "category": "Science",
-      "title": "Scientists Mapped Every Brain Cell in a Fruit Fly—And Found a Big Surprise!",
-      "summary": "For the first time, scientists have a complete wiring diagram of a fruit fly's brain and nerve cord. The map shows that many actions, like walking, are controlled by local circuits in the body, not just the brain. This changes how we think brains and bodies work together."
+      "title": "NASA's Artemis III: A Giant Space Dance Before We Go Back to the Moon!",
+      "summary": "NASA's Artemis III will test docking with lunar landers in orbit in 2027. Four astronauts, including the first ESA crew member, will practice for a future Moon landing. It's a complex space dance involving multiple rocket launches."
     },
     {
-      "id": "2026-06-10-science-3",
-      "source": "ScienceDaily All",
-      "time_ago": "Wed, 10 Jun 2026 06:52:17 EDT",
-      "mined_at": "2026-06-10T18:35:02+00:00",
-      "source_published_at": "Wed, 10 Jun 2026 06:52:17 EDT",
-      "image_url": "/article_images/article_2d4bcf25dd4a.webp",
+      "id": "2026-06-11-science-3",
+      "source": "Science News Explores",
+      "time_ago": "Mon, 08 Jun 2026 10:30:00 +0000",
+      "mined_at": "2026-06-11T19:03:22+00:00",
+      "source_published_at": "Mon, 08 Jun 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_dd872070ad83.webp",
       "category": "Science",
-      "title": "AI Fails a Classic Brain Game That Kids Ace—Here's Why",
-      "summary": "You know that game where you say the color of a word, not read it? AI chatbots like ChatGPT are terrible at it when the list gets long. They can't ignore the word and just see the color, revealing a big difference between human and machine attention."
+      "title": "NASA's DART Smash-Up Changed an Asteroid's Path Around the Sun!",
+      "summary": "NASA's DART crash into asteroid Dimorphos changed the whole pair's orbit around the sun by 10 micrometers per second. Amateur astronomers helped measure the tiny shift, proving we can nudge space rocks for planetary defense."
     }
   ]
 }

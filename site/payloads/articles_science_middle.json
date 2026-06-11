@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-10-science-1",
-      "source": "ScienceDaily All",
-      "time_ago": "Wed, 10 Jun 2026 07:24:15 EDT",
-      "mined_at": "2026-06-10T18:35:02+00:00",
-      "source_published_at": "Wed, 10 Jun 2026 07:24:15 EDT",
-      "image_url": "/article_images/article_3f4dd1b60958.webp",
+      "id": "2026-06-11-science-1",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Wed, 10 Jun 2026 00:56:30 EDT",
+      "mined_at": "2026-06-11T19:03:22+00:00",
+      "source_published_at": "Wed, 10 Jun 2026 00:56:30 EDT",
+      "image_url": "/article_images/article_d2e34467b7d6.webp",
       "category": "Science",
-      "title": "Dual-Mode Propulsion: MIT's Game-Changing Engine Could Unleash Small Satellites on the Solar System",
-      "summary": "MIT engineers have created a propulsion system that lets a spacecraft use one fuel for both high-thrust chemical burns and efficient electric propulsion. This breakthrough could give tiny satellites the flexibility to journey to Mars, the asteroid belt, and beyond, dramatically expanding what small, low-cost missions can achieve."
+      "title": "The Slow-Mo World of Earth's First Animals — and How Sex Hit the Accelerator",
+      "summary": "For millions of years, Earth's earliest animals cloned themselves with runners, stalling evolution. Cambridge scientists used AI and fossil lasers to show that sex and stress finally unleashed biodiversity."
     },
     {
-      "id": "2026-06-10-science-2",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Wed, 10 Jun 2026 06:10:54 EDT",
-      "mined_at": "2026-06-10T18:35:02+00:00",
-      "source_published_at": "Wed, 10 Jun 2026 06:10:54 EDT",
-      "image_url": "/article_images/article_baaeb2e1f328.webp",
+      "id": "2026-06-11-science-2",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Thu, 11 Jun 2026 08:02:51 EDT",
+      "mined_at": "2026-06-11T19:03:22+00:00",
+      "source_published_at": "Thu, 11 Jun 2026 08:02:51 EDT",
+      "image_url": "/article_images/article_828a967ba37a.webp",
       "category": "Science",
-      "title": "A Complete Fly Connectome Reveals a Surprising Twist: The Body Calls the Shots",
-      "summary": "Scientists have published the first complete wiring diagram of an adult fruit fly's central nervous system, linking the brain and nerve cord. The connectome reveals that many behaviors are driven by local circuits in the body, not a central brain command, upending assumptions about how nervous systems coordinate action."
+      "title": "Artemis III: NASA's Orbital Dress Rehearsal for a Lunar Return",
+      "summary": "In 2027, Artemis III will attempt unprecedented orbital docking tests with landers from Blue Origin and SpaceX. Four astronauts, including ESA's Luca Parmitano, will pave the way for a 2028 Moon landing."
     },
     {
-      "id": "2026-06-10-science-3",
-      "source": "ScienceDaily All",
-      "time_ago": "Wed, 10 Jun 2026 06:52:17 EDT",
-      "mined_at": "2026-06-10T18:35:02+00:00",
-      "source_published_at": "Wed, 10 Jun 2026 06:52:17 EDT",
-      "image_url": "/article_images/article_2d4bcf25dd4a.webp",
+      "id": "2026-06-11-science-3",
+      "source": "Science News Explores",
+      "time_ago": "Mon, 08 Jun 2026 10:30:00 +0000",
+      "mined_at": "2026-06-11T19:03:22+00:00",
+      "source_published_at": "Mon, 08 Jun 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_dd872070ad83.webp",
       "category": "Science",
-      "title": "The Stroop Test Exposes a Critical Flaw in AI: It Can't Ignore Distractions Like Humans Do",
-      "summary": "When researchers gave leading AI models the classic Stroop task—naming ink colors while ignoring conflicting words—performance collapsed as lists grew longer. The systems defaulted to reading words, revealing a fundamental lack of executive control that sets human attention apart from machine intelligence."
+      "title": "Cosmic Billiards: How NASA's DART Impact Altered an Asteroid's Solar Orbit",
+      "summary": "NASA's DART mission didn't just shorten Dimorphos's orbit around Didymos — it changed the entire binary system's path around the sun by 150 milliseconds. The finding boosts planetary defense strategies."
     }
   ]
 }
