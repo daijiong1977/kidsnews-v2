@@ -1,37 +1,26 @@
 {
   "articles": [
     {
-      "id": "2026-06-11-fun-1",
-      "source": "Rolling Stone Music",
-      "time_ago": "Thu, 11 Jun 2026 18:26:12 +0000",
-      "mined_at": "2026-06-11T19:03:22+00:00",
-      "source_published_at": "Thu, 11 Jun 2026 18:26:12 +0000",
-      "image_url": "/article_images/article_4df9b1059568.webp",
+      "id": "2026-06-12-fun-1",
+      "source": "NPR Music",
+      "time_ago": "Fri, 12 Jun 2026 11:41:58 -0400",
+      "mined_at": "2026-06-12T18:15:52+00:00",
+      "source_published_at": "Fri, 12 Jun 2026 11:41:58 -0400",
+      "image_url": "/article_images/article_83534caf5224.webp",
       "category": "Fun",
-      "title": "The Secret Superpower of World Cup Songs (It's Not Just Soccer!)",
-      "summary": "Imagine a song so catchy it broke a world record and helped a singer meet her future husband! Shakira's 'Waka Waka' did both. We dug up the coolest World Cup anthems ever—some you know, some you definitely forgot."
+      "title": "Two Sisters, One Piano Bench, and 55 Years of Musical Magic",
+      "summary": "Imagine playing piano so perfectly with your sister that a famous composer changed his mind! Katia and Marielle Labèque have been a piano duo for over 55 years. Their new 55-track album is full of surprises, including music by women composers they almost forgot."
     },
     {
-      "id": "2026-06-11-fun-2",
-      "source": "Popular Mechanics",
-      "time_ago": "Thu, 11 Jun 2026 17:35:00 +0000",
-      "mined_at": "2026-06-11T19:03:22+00:00",
-      "source_published_at": "Thu, 11 Jun 2026 17:35:00 +0000",
-      "image_url": "/article_images/article_5e91f115ab7d.webp",
+      "id": "2026-06-12-fun-2",
+      "source": "IndieWire",
+      "time_ago": "Fri, 12 Jun 2026 18:00:00 +0000",
+      "mined_at": "2026-06-12T18:15:52+00:00",
+      "source_published_at": "Fri, 12 Jun 2026 18:00:00 +0000",
+      "image_url": "/article_images/article_2ef88db17091.webp",
       "category": "Fun",
-      "title": "We Made a Giant Mess to Find the Best Robot Vacuum—Here's the Winner!",
-      "summary": "What happens when you scatter flour, rice, and crushed cereal all over the floor? You find out which robot vacuum is a cleaning superhero! We tested the latest bots on carpet, concrete, and laminate to see which one gobbled up the mess best."
-    },
-    {
-      "id": "2026-06-11-fun-3",
-      "source": "Kotaku",
-      "time_ago": "Thu, 11 Jun 2026 18:39:01 +0000",
-      "mined_at": "2026-06-11T19:03:22+00:00",
-      "source_published_at": "Thu, 11 Jun 2026 18:39:01 +0000",
-      "image_url": "/article_images/article_781a93793696.webp",
-      "category": "Fun",
-      "title": "Overwatch's New Robot Hero Looks Awesome—But Wait, Is That a Human Face?",
-      "summary": "Meet Shion, the cool new robot hero in Overwatch! She rides a motorcycle and shoots two pistols. But fans noticed something weird: her face looks a lot like other female heroes. Is it a secret story clue, or just a design choice?"
+      "title": "The Secret Superpower in Emily Blunt's New Movie? Comfy Sneakers!",
+      "summary": "In the alien thriller Disclosure Day, Emily Blunt's character Margaret wears fancy dresses for TV—but sneakers on her feet. Those white sneakers aren't just comfy; they show she's smart, practical, and ready to run when aliens arrive. Finally, a movie heroine with sensible shoes!"
     }
   ]
 }

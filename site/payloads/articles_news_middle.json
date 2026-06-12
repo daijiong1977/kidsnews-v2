@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-11-news-1",
+      "id": "2026-06-12-news-1",
       "source": "NPR World",
-      "time_ago": "Thu, 11 Jun 2026 01:05:08 -0400",
-      "mined_at": "2026-06-11T19:03:22+00:00",
-      "source_published_at": "Thu, 11 Jun 2026 01:05:08 -0400",
-      "image_url": "/article_images/article_368276e5f6f4.webp",
+      "time_ago": "Fri, 12 Jun 2026 05:00:00 -0400",
+      "mined_at": "2026-06-12T18:15:52+00:00",
+      "source_published_at": "Fri, 12 Jun 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_34edb95dd337.webp",
       "category": "News",
-      "title": "From 29 Down to One Up: Knicks Stun Spurs in Historic Finals Comeback",
-      "summary": "The Knicks erased a 29-point deficit — the largest in NBA Finals history — to beat the Spurs 107-106 in Game 4. OG Anunoby's tip-in with 1.2 seconds left gave New York a 3-1 series lead and put them on the brink of their first title since 1973."
+      "title": "From Brooklyn to Milan: The 26 Americans Carrying a Nation's World Cup Hopes",
+      "summary": "The U.S. men's World Cup roster blends global experience and redemption stories. Christian Pulisic leads a squad featuring dual-nationals and a striker who scored 19 goals this season. Their journey starts Friday against Paraguay."
     },
     {
-      "id": "2026-06-11-news-2",
+      "id": "2026-06-12-news-2",
       "source": "Al Jazeera",
-      "time_ago": "Thu, 11 Jun 2026 14:04:58 +0000",
-      "mined_at": "2026-06-11T19:03:22+00:00",
-      "source_published_at": "Thu, 11 Jun 2026 14:04:58 +0000",
-      "image_url": "/article_images/article_af32ebe45708.webp",
+      "time_ago": "Fri, 12 Jun 2026 16:38:40 +0000",
+      "mined_at": "2026-06-12T18:15:52+00:00",
+      "source_published_at": "Fri, 12 Jun 2026 16:38:40 +0000",
+      "image_url": "/article_images/article_2a4f040304c6.webp",
       "category": "News",
-      "title": "Title Fight on the White House Lawn: Topuria vs. Gaethje Headlines UFC Freedom 250",
-      "summary": "Unbeaten Ilia Topuria returns from a year-long hiatus to face interim champ Justin Gaethje for the undisputed UFC lightweight title on June 14. The outdoor bout at the White House is part of the controversial Freedom 250 celebration, coinciding with President Trump's 80th birthday."
+      "title": "U.S.-Iran Deal 'Closer Than Ever' as Pakistan Mediates Final Text",
+      "summary": "Pakistan's prime minister says a final peace text has been agreed between the U.S. and Iran. The potential deal would swap sanctions relief for nuclear dismantlement. Trump says it could be signed this weekend, but Iranian leadership must still consent."
     },
     {
-      "id": "2026-06-11-news-3",
-      "source": "BBC News",
-      "time_ago": "Thu, 11 Jun 2026 13:26:24 GMT",
-      "mined_at": "2026-06-11T19:03:22+00:00",
-      "source_published_at": "Thu, 11 Jun 2026 13:26:24 GMT",
-      "image_url": "/article_images/article_b590edad7242.webp",
+      "id": "2026-06-12-news-3",
+      "source": "NPR World",
+      "time_ago": "Fri, 12 Jun 2026 11:00:00 -0400",
+      "mined_at": "2026-06-12T18:15:52+00:00",
+      "source_published_at": "Fri, 12 Jun 2026 11:00:00 -0400",
+      "image_url": "/article_images/article_e4b314342d7e.webp",
       "category": "News",
-      "title": "El Niño Is Officially Here — and It Could Be a Record-Breaker",
-      "summary": "NOAA confirms El Niño conditions have developed in the tropical Pacific, with models pointing to a potential 'super' event. Combined with human-caused warming, it could make 2027 the hottest year on record and disrupt global weather, food supplies, and economies."
+      "title": "Section 702 Lapses: Why a Key U.S. Spy Tool Is in Limbo",
+      "summary": "Congress let Section 702 of FISA expire on Friday, leaving a crucial surveillance program in legal limbo. The law allows warrantless collection of foreigners' communications but sweeps up Americans' data. Political infighting over a Trump nominee stalled renewal."
     }
   ]
 }

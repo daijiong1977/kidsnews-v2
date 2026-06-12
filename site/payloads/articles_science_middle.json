@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-11-science-1",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Wed, 10 Jun 2026 00:56:30 EDT",
-      "mined_at": "2026-06-11T19:03:22+00:00",
-      "source_published_at": "Wed, 10 Jun 2026 00:56:30 EDT",
-      "image_url": "/article_images/article_d2e34467b7d6.webp",
+      "id": "2026-06-12-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Fri, 12 Jun 2026 07:57:50 EDT",
+      "mined_at": "2026-06-12T18:15:52+00:00",
+      "source_published_at": "Fri, 12 Jun 2026 07:57:50 EDT",
+      "image_url": "/article_images/article_50f4e694d2b4.webp",
       "category": "Science",
-      "title": "The Slow-Mo World of Earth's First Animals — and How Sex Hit the Accelerator",
-      "summary": "For millions of years, Earth's earliest animals cloned themselves with runners, stalling evolution. Cambridge scientists used AI and fossil lasers to show that sex and stress finally unleashed biodiversity."
+      "title": "700 Meters Underground, a 20,000-Ton Ghost Trap Just Rewrote the Neutrino Rulebook",
+      "summary": "JUNO, a massive underground detector in China, released its first physics result. It measured neutrino oscillation parameters with 1.6× better precision than decades of prior work. The finding validates the detector for its main goal: determining the neutrino mass ordering."
     },
     {
-      "id": "2026-06-11-science-2",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Thu, 11 Jun 2026 08:02:51 EDT",
-      "mined_at": "2026-06-11T19:03:22+00:00",
-      "source_published_at": "Thu, 11 Jun 2026 08:02:51 EDT",
-      "image_url": "/article_images/article_828a967ba37a.webp",
+      "id": "2026-06-12-science-2",
+      "source": "ScienceDaily All",
+      "time_ago": "Fri, 12 Jun 2026 09:45:46 EDT",
+      "mined_at": "2026-06-12T18:15:52+00:00",
+      "source_published_at": "Fri, 12 Jun 2026 09:45:46 EDT",
+      "image_url": "/article_images/article_528114e3f1c6.webp",
       "category": "Science",
-      "title": "Artemis III: NASA's Orbital Dress Rehearsal for a Lunar Return",
-      "summary": "In 2027, Artemis III will attempt unprecedented orbital docking tests with landers from Blue Origin and SpaceX. Four astronauts, including ESA's Luca Parmitano, will pave the way for a 2028 Moon landing."
+      "title": "One Degree of Warming, Three Extra Weeks of Melt: Alaska's Glaciers Send a Stark Signal",
+      "summary": "Satellite radar reveals that each 1°C rise in summer temperature lengthens Alaska's glacier melt season by roughly three weeks. Heat waves strip up to 28% more protective snow, accelerating ice loss."
     },
     {
-      "id": "2026-06-11-science-3",
-      "source": "Science News Explores",
-      "time_ago": "Mon, 08 Jun 2026 10:30:00 +0000",
-      "mined_at": "2026-06-11T19:03:22+00:00",
-      "source_published_at": "Mon, 08 Jun 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_dd872070ad83.webp",
+      "id": "2026-06-12-science-3",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Thu, 11 Jun 2026 08:29:52 EDT",
+      "mined_at": "2026-06-12T18:15:52+00:00",
+      "source_published_at": "Thu, 11 Jun 2026 08:29:52 EDT",
+      "image_url": "/article_images/article_aa21d7d6b749.webp",
       "category": "Science",
-      "title": "Cosmic Billiards: How NASA's DART Impact Altered an Asteroid's Solar Orbit",
-      "summary": "NASA's DART mission didn't just shorten Dimorphos's orbit around Didymos — it changed the entire binary system's path around the sun by 150 milliseconds. The finding boosts planetary defense strategies."
+      "title": "The Rice Paradox: Why Your Dinner Gets Weaker When You Squeeze It Fast—and How That Could Build Smarter Robots",
+      "summary": "Packed rice exhibits 'rate softening'—it weakens under rapid compression. Scientists combined it with sand to create a metamaterial that adapts its stiffness without electronics, opening doors for soft robotics and smart protective gear."
     }
   ]
 }

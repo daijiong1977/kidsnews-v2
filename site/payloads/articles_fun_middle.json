@@ -1,37 +1,26 @@
 {
   "articles": [
     {
-      "id": "2026-06-11-fun-1",
-      "source": "Rolling Stone Music",
-      "time_ago": "Thu, 11 Jun 2026 18:26:12 +0000",
-      "mined_at": "2026-06-11T19:03:22+00:00",
-      "source_published_at": "Thu, 11 Jun 2026 18:26:12 +0000",
-      "image_url": "/article_images/article_4df9b1059568.webp",
+      "id": "2026-06-12-fun-1",
+      "source": "NPR Music",
+      "time_ago": "Fri, 12 Jun 2026 11:41:58 -0400",
+      "mined_at": "2026-06-12T18:15:52+00:00",
+      "source_published_at": "Fri, 12 Jun 2026 11:41:58 -0400",
+      "image_url": "/article_images/article_83534caf5224.webp",
       "category": "Fun",
-      "title": "From a Rockabilly Surprise to a Life-Changing Hit: The Wild History of World Cup Anthems",
-      "summary": "World Cup songs do more than get crowds cheering—they can break records and even spark real-life love stories. Shakira's 'Waka Waka' led her to meet her children's father. We ranked the official anthems, from forgotten gems to global bangers."
+      "title": "55 Years, 55 Tracks: How the Labèque Sisters Keep Reinventing the Piano Duo",
+      "summary": "Katia and Marielle Labèque refused to split up in 1969, and that stubbornness launched a legendary piano duo. Their new triple album 55 marks over five decades with a bold twist: nearly half the tracks are new, spotlighting long-overlooked women composers. It's a treasure trove of ferocious two-piano battles and intimate four-handed whispers."
     },
     {
-      "id": "2026-06-11-fun-2",
-      "source": "Popular Mechanics",
-      "time_ago": "Thu, 11 Jun 2026 17:35:00 +0000",
-      "mined_at": "2026-06-11T19:03:22+00:00",
-      "source_published_at": "Thu, 11 Jun 2026 17:35:00 +0000",
-      "image_url": "/article_images/article_5e91f115ab7d.webp",
+      "id": "2026-06-12-fun-2",
+      "source": "IndieWire",
+      "time_ago": "Fri, 12 Jun 2026 18:00:00 +0000",
+      "mined_at": "2026-06-12T18:15:52+00:00",
+      "source_published_at": "Fri, 12 Jun 2026 18:00:00 +0000",
+      "image_url": "/article_images/article_2ef88db17091.webp",
       "category": "Fun",
-      "title": "We Pelted Robot Vacuums with Flour and Cereal to Find the True Cleaning Kings",
-      "summary": "Our stress test involved three floor types and a blizzard of crumbs. We found two standout robot vacuums: the feature-packed Roborock QV 35A and the surprisingly affordable Tapo RV30 Max Plus. One lifts its mop to save your rugs; the other brings premium mapping to a budget price."
-    },
-    {
-      "id": "2026-06-11-fun-3",
-      "source": "Kotaku",
-      "time_ago": "Thu, 11 Jun 2026 18:39:01 +0000",
-      "mined_at": "2026-06-11T19:03:22+00:00",
-      "source_published_at": "Thu, 11 Jun 2026 18:39:01 +0000",
-      "image_url": "/article_images/article_781a93793696.webp",
-      "category": "Fun",
-      "title": "Overwatch's New Omnic Hero Shion Has a Human Face—and Fans Have Questions",
-      "summary": "Shion, the upcoming Omnic damage hero, rides a motorcycle into battle and dual-wields pistols. But her human-like face has reignited the 'same face syndrome' debate. Is it a lore hint about Omnic identity, or another push for skin sales?"
+      "title": "How a Pair of White Sneakers Makes Emily Blunt the Perfect Sci-Fi Heroine",
+      "summary": "In Steven Spielberg's Disclosure Day, Emily Blunt's meteorologist Margaret Fairchild wears glamorous dresses on air but practical sneakers underneath. Costume designer Paul Tazewell uses that footwear to telegraph her pragmatism and relatability—crucial when aliens arrive and she needs to run. It's a quiet rebellion against Hollywood's impractical shoe obsession."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-11-news-1",
+      "id": "2026-06-12-news-1",
       "source": "NPR World",
-      "time_ago": "Thu, 11 Jun 2026 01:05:08 -0400",
-      "mined_at": "2026-06-11T19:03:22+00:00",
-      "source_published_at": "Thu, 11 Jun 2026 01:05:08 -0400",
-      "image_url": "/article_images/article_368276e5f6f4.webp",
+      "time_ago": "Fri, 12 Jun 2026 05:00:00 -0400",
+      "mined_at": "2026-06-12T18:15:52+00:00",
+      "source_published_at": "Fri, 12 Jun 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_34edb95dd337.webp",
       "category": "News",
-      "title": "Knicks Pull Off the Biggest Comeback in NBA Finals History!",
-      "summary": "Down 29 points, the New York Knicks roared back to beat the Spurs 107-106 in Game 4. OG Anunoby tipped in the winning shot with 1.2 seconds left. Now the Knicks are one win from their first title since 1973."
+      "title": "Meet the 26 Superstars Kicking Off America's World Cup Dreams!",
+      "summary": "The U.S. World Cup team is finally here! 26 players, including Christian Pulisic and a striker who scored 19 goals this season, are ready to face Paraguay in Los Angeles. Get to know the squad."
     },
     {
-      "id": "2026-06-11-news-2",
+      "id": "2026-06-12-news-2",
       "source": "Al Jazeera",
-      "time_ago": "Thu, 11 Jun 2026 14:04:58 +0000",
-      "mined_at": "2026-06-11T19:03:22+00:00",
-      "source_published_at": "Thu, 11 Jun 2026 14:04:58 +0000",
-      "image_url": "/article_images/article_af32ebe45708.webp",
+      "time_ago": "Fri, 12 Jun 2026 16:38:40 +0000",
+      "mined_at": "2026-06-12T18:15:52+00:00",
+      "source_published_at": "Fri, 12 Jun 2026 16:38:40 +0000",
+      "image_url": "/article_images/article_2a4f040304c6.webp",
       "category": "News",
-      "title": "UFC's Biggest Fight of the Year Is Happening at the White House!",
-      "summary": "Ilia Topuria and Justin Gaethje will battle for the UFC lightweight title on the White House lawn on June 14. It's part of the Freedom 250 celebration and President Trump's 80th birthday. Topuria hasn't fought in almost a year."
+      "title": "Could Peace Between the U.S. and Iran Happen This Weekend?",
+      "summary": "A deal to stop fighting between the U.S. and Iran might be super close! Pakistan's leader says a final peace text is ready, and Iran agrees it's closer than ever. Even former President Trump says it could be signed soon."
     },
     {
-      "id": "2026-06-11-news-3",
-      "source": "BBC News",
-      "time_ago": "Thu, 11 Jun 2026 13:26:24 GMT",
-      "mined_at": "2026-06-11T19:03:22+00:00",
-      "source_published_at": "Thu, 11 Jun 2026 13:26:24 GMT",
-      "image_url": "/article_images/article_b590edad7242.webp",
+      "id": "2026-06-12-news-3",
+      "source": "NPR World",
+      "time_ago": "Fri, 12 Jun 2026 11:00:00 -0400",
+      "mined_at": "2026-06-12T18:15:52+00:00",
+      "source_published_at": "Fri, 12 Jun 2026 11:00:00 -0400",
+      "image_url": "/article_images/article_e4b314342d7e.webp",
       "category": "News",
-      "title": "A Super El Niño Is Here — and It Could Make 2027 the Hottest Year Ever",
-      "summary": "Scientists say El Niño has officially started in the Pacific Ocean. Sea temperatures are rising fast, and it could become a 'super' El Niño. That might bring extreme weather and make 2027 the hottest year on record."
+      "title": "A Super-Secret Spy Tool Is About to Expire—What Happens Now?",
+      "summary": "A powerful U.S. spy program called Section 702 is set to expire on Friday. It lets the government collect messages from people in other countries. Congress couldn't agree on new rules, but experts say spying won't stop right away."
     }
   ]
 }
