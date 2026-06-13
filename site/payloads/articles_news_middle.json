@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-12-news-1",
-      "source": "NPR World",
-      "time_ago": "Fri, 12 Jun 2026 05:00:00 -0400",
-      "mined_at": "2026-06-12T18:15:52+00:00",
-      "source_published_at": "Fri, 12 Jun 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_34edb95dd337.webp",
+      "id": "2026-06-13-news-1",
+      "source": "BBC News",
+      "time_ago": "Sat, 13 Jun 2026 14:27:57 GMT",
+      "mined_at": "2026-06-13T18:04:20+00:00",
+      "source_published_at": "Sat, 13 Jun 2026 14:27:57 GMT",
+      "image_url": "/article_images/article_e6a86bd848b5.webp",
       "category": "News",
-      "title": "From Brooklyn to Milan: The 26 Americans Carrying a Nation's World Cup Hopes",
-      "summary": "The U.S. men's World Cup roster blends global experience and redemption stories. Christian Pulisic leads a squad featuring dual-nationals and a striker who scored 19 goals this season. Their journey starts Friday against Paraguay."
+      "title": "From a 6'7\" Bearskin Giant to a Gap-Toothed Prince: Inside the Pomp and Poignancy of Trooping the Colour",
+      "summary": "King Charles III celebrated his official birthday with a massive military parade, but the day was tinged with loss. A soldier who died in a riding accident was honored, while Prince Louis charmed the crowd."
     },
     {
-      "id": "2026-06-12-news-2",
-      "source": "Al Jazeera",
-      "time_ago": "Fri, 12 Jun 2026 16:38:40 +0000",
-      "mined_at": "2026-06-12T18:15:52+00:00",
-      "source_published_at": "Fri, 12 Jun 2026 16:38:40 +0000",
-      "image_url": "/article_images/article_2a4f040304c6.webp",
+      "id": "2026-06-13-news-2",
+      "source": "BBC News",
+      "time_ago": "Sat, 13 Jun 2026 17:41:51 GMT",
+      "mined_at": "2026-06-13T18:04:20+00:00",
+      "source_published_at": "Sat, 13 Jun 2026 17:41:51 GMT",
+      "image_url": "/article_images/article_14d516c87ae2.webp",
       "category": "News",
-      "title": "U.S.-Iran Deal 'Closer Than Ever' as Pakistan Mediates Final Text",
-      "summary": "Pakistan's prime minister says a final peace text has been agreed between the U.S. and Iran. The potential deal would swap sanctions relief for nuclear dismantlement. Trump says it could be signed this weekend, but Iranian leadership must still consent."
+      "title": "'Gambling with Young People's Lives': Molly Russell's Father Slams PM's Rush to Ban Social Media for Under-16s",
+      "summary": "Ian Russell, whose daughter Molly took her own life after viewing harmful content online, says a proposed ban on under-16s using social media is 'deplorable.' He accuses the prime minister of breaking promises and ignoring real solutions."
     },
     {
-      "id": "2026-06-12-news-3",
+      "id": "2026-06-13-news-3",
       "source": "NPR World",
-      "time_ago": "Fri, 12 Jun 2026 11:00:00 -0400",
-      "mined_at": "2026-06-12T18:15:52+00:00",
-      "source_published_at": "Fri, 12 Jun 2026 11:00:00 -0400",
-      "image_url": "/article_images/article_e4b314342d7e.webp",
+      "time_ago": "Fri, 12 Jun 2026 20:43:32 -0400",
+      "mined_at": "2026-06-13T18:04:20+00:00",
+      "source_published_at": "Fri, 12 Jun 2026 20:43:32 -0400",
+      "image_url": "/article_images/article_72874cbed78c.webp",
       "category": "News",
-      "title": "Section 702 Lapses: Why a Key U.S. Spy Tool Is in Limbo",
-      "summary": "Congress let Section 702 of FISA expire on Friday, leaving a crucial surveillance program in legal limbo. The law allows warrantless collection of foreigners' communications but sweeps up Americans' data. Political infighting over a Trump nominee stalled renewal."
+      "title": "Under Cover of Tarps and Thunderstorms: Trump's Name Removed from Kennedy Center After Court Order",
+      "summary": "Workers removed President Trump's name from the Kennedy Center facade in a pre-dawn operation, hours after a court-ordered deadline. The administration argued the name was crucial for fundraising, but a judge said only Congress can rename the building."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-12-science-1",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Fri, 12 Jun 2026 07:57:50 EDT",
-      "mined_at": "2026-06-12T18:15:52+00:00",
-      "source_published_at": "Fri, 12 Jun 2026 07:57:50 EDT",
-      "image_url": "/article_images/article_50f4e694d2b4.webp",
+      "id": "2026-06-13-science-1",
+      "source": "NASA News",
+      "time_ago": "Fri, 12 Jun 2026 15:32:54 +0000",
+      "mined_at": "2026-06-13T18:04:20+00:00",
+      "source_published_at": "Fri, 12 Jun 2026 15:32:54 +0000",
+      "image_url": "/article_images/article_250bbd9bb959.webp",
       "category": "Science",
-      "title": "700 Meters Underground, a 20,000-Ton Ghost Trap Just Rewrote the Neutrino Rulebook",
-      "summary": "JUNO, a massive underground detector in China, released its first physics result. It measured neutrino oscillation parameters with 1.6× better precision than decades of prior work. The finding validates the detector for its main goal: determining the neutrino mass ordering."
+      "title": "SpaceX Dragon Returns to Earth Packed With Science That Could Change Everything",
+      "summary": "A SpaceX Dragon is leaving the ISS on June 16 with thousands of pounds of science samples. It's carrying bioprinted organs, data for better rocket fuel, and materials that could lead to new cancer treatments."
     },
     {
-      "id": "2026-06-12-science-2",
-      "source": "ScienceDaily All",
-      "time_ago": "Fri, 12 Jun 2026 09:45:46 EDT",
-      "mined_at": "2026-06-12T18:15:52+00:00",
-      "source_published_at": "Fri, 12 Jun 2026 09:45:46 EDT",
-      "image_url": "/article_images/article_528114e3f1c6.webp",
+      "id": "2026-06-13-science-2",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Sat, 13 Jun 2026 10:13:48 EDT",
+      "mined_at": "2026-06-13T18:04:20+00:00",
+      "source_published_at": "Sat, 13 Jun 2026 10:13:48 EDT",
+      "image_url": "/article_images/article_d1d584a95055.webp",
       "category": "Science",
-      "title": "One Degree of Warming, Three Extra Weeks of Melt: Alaska's Glaciers Send a Stark Signal",
-      "summary": "Satellite radar reveals that each 1°C rise in summer temperature lengthens Alaska's glacier melt season by roughly three weeks. Heat waves strip up to 28% more protective snow, accelerating ice loss."
+      "title": "New Crocodile Species 'Lucy's Hunter' Was the Top Predator of Ancient Africa",
+      "summary": "Scientists have identified a new crocodile species that lived 3 million years ago in Ethiopia. Named Crocodylus lucivenator ('Lucy's hunter'), it was up to 15 feet long and likely preyed on early human ancestors."
     },
     {
-      "id": "2026-06-12-science-3",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Thu, 11 Jun 2026 08:29:52 EDT",
-      "mined_at": "2026-06-12T18:15:52+00:00",
-      "source_published_at": "Thu, 11 Jun 2026 08:29:52 EDT",
-      "image_url": "/article_images/article_aa21d7d6b749.webp",
+      "id": "2026-06-13-science-3",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Fri, 12 Jun 2026 05:15:42 EDT",
+      "mined_at": "2026-06-13T18:04:20+00:00",
+      "source_published_at": "Fri, 12 Jun 2026 05:15:42 EDT",
+      "image_url": "/article_images/article_9eb953931d8e.webp",
       "category": "Science",
-      "title": "The Rice Paradox: Why Your Dinner Gets Weaker When You Squeeze It Fast—and How That Could Build Smarter Robots",
-      "summary": "Packed rice exhibits 'rate softening'—it weakens under rapid compression. Scientists combined it with sand to create a metamaterial that adapts its stiffness without electronics, opening doors for soft robotics and smart protective gear."
+      "title": "Lost Field Notebooks Unlock 55-Million-Year-Old Fossil Fish Mystery",
+      "summary": "Field notebooks from a late paleontologist solved a mystery about a fossil fish found in 1999. The 1.2-meter tarpon was a top predator 55 million years ago, and the notebooks provided the missing location data."
     }
   ]
 }
