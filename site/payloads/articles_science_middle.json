@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-13-science-1",
-      "source": "NASA News",
-      "time_ago": "Fri, 12 Jun 2026 15:32:54 +0000",
-      "mined_at": "2026-06-13T18:04:20+00:00",
-      "source_published_at": "Fri, 12 Jun 2026 15:32:54 +0000",
-      "image_url": "/article_images/article_250bbd9bb959.webp",
+      "id": "2026-06-14-science-1",
+      "source": "Science News Explores",
+      "time_ago": "Thu, 11 Jun 2026 10:30:00 +0000",
+      "mined_at": "2026-06-14T18:25:10+00:00",
+      "source_published_at": "Thu, 11 Jun 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_b3a2e6f470d8.webp",
       "category": "Science",
-      "title": "SpaceX Dragon Returns to Earth Packed With Science That Could Change Everything",
-      "summary": "A SpaceX Dragon is leaving the ISS on June 16 with thousands of pounds of science samples. It's carrying bioprinted organs, data for better rocket fuel, and materials that could lead to new cancer treatments."
+      "title": "A Teen Scientist's Warning: Caffeine Could Quiet Crucial Brain Genes in Kids",
+      "summary": "Sophia Zeng, 16, found that caffeine may dial down genes vital for brain development in young animals. Her experiments with rat neurons and zebrafish showed fewer neural connections and more anxiety-like behavior. The effects appeared different in young versus adult brains, raising concerns about kids' caffeine habits."
     },
     {
-      "id": "2026-06-13-science-2",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Sat, 13 Jun 2026 10:13:48 EDT",
-      "mined_at": "2026-06-13T18:04:20+00:00",
-      "source_published_at": "Sat, 13 Jun 2026 10:13:48 EDT",
-      "image_url": "/article_images/article_d1d584a95055.webp",
+      "id": "2026-06-14-science-2",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Thu, 11 Jun 2026 09:44:58 EDT",
+      "mined_at": "2026-06-14T18:25:10+00:00",
+      "source_published_at": "Thu, 11 Jun 2026 09:44:58 EDT",
+      "image_url": "/article_images/article_f52a3157a83a.webp",
       "category": "Science",
-      "title": "New Crocodile Species 'Lucy's Hunter' Was the Top Predator of Ancient Africa",
-      "summary": "Scientists have identified a new crocodile species that lived 3 million years ago in Ethiopia. Named Crocodylus lucivenator ('Lucy's hunter'), it was up to 15 feet long and likely preyed on early human ancestors."
+      "title": "Battery-Free Solar Fuel: How a Self-Heating Device Turns Sunlight into Energy",
+      "summary": "Japanese researchers created an artificial photosynthesis system that produces formic acid from sunlight, water, and CO2 without batteries. A built-in solid electrolyte self-regulates by heating up, automatically optimizing power flow. The device worked outdoors and powered a diorama at the 2025 Osaka Expo."
     },
     {
-      "id": "2026-06-13-science-3",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Fri, 12 Jun 2026 05:15:42 EDT",
-      "mined_at": "2026-06-13T18:04:20+00:00",
-      "source_published_at": "Fri, 12 Jun 2026 05:15:42 EDT",
-      "image_url": "/article_images/article_9eb953931d8e.webp",
+      "id": "2026-06-14-science-3",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Sun, 14 Jun 2026 01:26:16 EDT",
+      "mined_at": "2026-06-14T18:25:10+00:00",
+      "source_published_at": "Sun, 14 Jun 2026 01:26:16 EDT",
+      "image_url": "/article_images/article_9cd0f94882bc.webp",
       "category": "Science",
-      "title": "Lost Field Notebooks Unlock 55-Million-Year-Old Fossil Fish Mystery",
-      "summary": "Field notebooks from a late paleontologist solved a mystery about a fossil fish found in 1999. The 1.2-meter tarpon was a top predator 55 million years ago, and the notebooks provided the missing location data."
+      "title": "Not Just Mimics: Study Suggests Parrots Use Names Like Humans Do",
+      "summary": "Researchers analyzed recordings from over 880 captive parrots and found many use names as labels for specific individuals. Some birds even used their own name to seek attention. The study, published in PLOS ONE, hints at complex social communication skills in parrots."
     }
   ]
 }

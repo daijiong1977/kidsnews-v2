@@ -1,26 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-13-fun-1",
-      "source": "MIT News",
-      "time_ago": "Fri, 12 Jun 2026 11:40:00 -0400",
-      "mined_at": "2026-06-13T18:04:20+00:00",
-      "source_published_at": "Fri, 12 Jun 2026 11:40:00 -0400",
-      "image_url": "/article_images/article_821f2c9473fb.webp",
+      "id": "2026-06-14-fun-1",
+      "source": "DOGOnews",
+      "time_ago": "",
+      "mined_at": "2026-06-14T18:25:10+00:00",
+      "source_published_at": "",
+      "image_url": "/article_images/article_927f00bbb872.webp",
       "category": "Fun",
-      "title": "The Scientist Who Was Called 'Harriet' When All the Men Were 'Doctor'",
-      "summary": "Imagine being the only woman in a room full of scientists, and while all the men are called 'Doctor,' you're just 'Harriet.' That's what happened to Harriet Robinson, but she didn't let it stop her. She helped create a company making an HIV vaccine and proved you can be a mom and a scientist."
+      "title": "A 99-Year-Old Grandma Walked to Make Freedom Day a Real Holiday!",
+      "summary": "Opal Lee, 99, walked miles to get Juneteenth made a national holiday. It celebrates the day in 1865 when the last enslaved people in Texas learned they were free. Now it's a day for cookouts and joy."
     },
     {
-      "id": "2026-06-13-fun-2",
-      "source": "MIT News",
-      "time_ago": "Fri, 12 Jun 2026 05:00:00 -0400",
-      "mined_at": "2026-06-13T18:04:20+00:00",
-      "source_published_at": "Fri, 12 Jun 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_0712727f3d83.webp",
+      "id": "2026-06-14-fun-2",
+      "source": "Wired Gear",
+      "time_ago": "Sat, 13 Jun 2026 10:00:00 +0000",
+      "mined_at": "2026-06-14T18:25:10+00:00",
+      "source_published_at": "Sat, 13 Jun 2026 10:00:00 +0000",
+      "image_url": "/article_images/article_68df2a40a4e4.webp",
       "category": "Fun",
-      "title": "A Sticky Gel That Could Help Your Tummy Troubles—By Hanging Out in Your Throat!",
-      "summary": "Getting medicine to your esophagus (the tube that carries food to your stomach) is super tricky because stuff goes down so fast. MIT scientists made a gooey gel that sticks around and helps drugs soak in. It could help people with painful swelling that makes swallowing hard."
+      "title": "Rivian's Boss Spills the Beans: Buttons Rule, Cybertruck Flops, and a Secret Plan!",
+      "summary": "Rivian CEO RJ Scaringe talked about why the Cybertruck didn't sell big, why car buttons are awesome, and what happens if their new R2 SUV fails. Spoiler: they spent billions getting ready!"
+    },
+    {
+      "id": "2026-06-14-fun-3",
+      "source": "SwimSwam",
+      "time_ago": "Sat, 13 Jun 2026 20:20:06 +0000",
+      "mined_at": "2026-06-14T18:25:10+00:00",
+      "source_published_at": "Sat, 13 Jun 2026 20:20:06 +0000",
+      "image_url": "/article_images/article_ae7b8423641e.webp",
+      "category": "Fun",
+      "title": "Sam Short Splashed to Four Golds — and a World Record!",
+      "summary": "Aussie swimmer Sam Short won the 200, 400, 800, and 1500 freestyle at the Australian Trials. He set a world record in the 800 free. No Aussie man had done that since 2005!"
     }
   ]
 }

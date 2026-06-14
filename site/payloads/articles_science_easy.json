@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-13-science-1",
-      "source": "NASA News",
-      "time_ago": "Fri, 12 Jun 2026 15:32:54 +0000",
-      "mined_at": "2026-06-13T18:04:20+00:00",
-      "source_published_at": "Fri, 12 Jun 2026 15:32:54 +0000",
-      "image_url": "/article_images/article_250bbd9bb959.webp",
+      "id": "2026-06-14-science-1",
+      "source": "Science News Explores",
+      "time_ago": "Thu, 11 Jun 2026 10:30:00 +0000",
+      "mined_at": "2026-06-14T18:25:10+00:00",
+      "source_published_at": "Thu, 11 Jun 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_b3a2e6f470d8.webp",
       "category": "Science",
-      "title": "Space Dragon Returns With Cool Science!",
-      "summary": "A SpaceX Dragon is coming back from the space station with thousands of pounds of science samples. It's bringing stuff that could help make better cancer treatments and space fuel!"
+      "title": "That Morning Soda Might Be Messing With Your Brain More Than You Think",
+      "summary": "A 16-year-old scientist found that caffeine can turn down important brain genes in young animals. Her experiments with fish and rat cells showed fewer brain connections and more anxious behavior. This could mean caffeine affects kids differently than adults."
     },
     {
-      "id": "2026-06-13-science-2",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Sat, 13 Jun 2026 10:13:48 EDT",
-      "mined_at": "2026-06-13T18:04:20+00:00",
-      "source_published_at": "Sat, 13 Jun 2026 10:13:48 EDT",
-      "image_url": "/article_images/article_d1d584a95055.webp",
+      "id": "2026-06-14-science-2",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Thu, 11 Jun 2026 09:44:58 EDT",
+      "mined_at": "2026-06-14T18:25:10+00:00",
+      "source_published_at": "Thu, 11 Jun 2026 09:44:58 EDT",
+      "image_url": "/article_images/article_f52a3157a83a.webp",
       "category": "Science",
-      "title": "Meet Lucy's Hunter: A Giant Croc That Terrorized Our Ancient Relatives!",
-      "summary": "Scientists found a new crocodile species that lived 3 million years ago in Africa. It was huge—up to 15 feet long—and probably hunted Lucy and her kind!"
+      "title": "This New Solar Machine Makes Fuel From Thin Air—No Batteries Needed!",
+      "summary": "Scientists in Japan built a device that turns sunlight, water, and CO2 into fuel without any batteries. It uses a special self-adjusting part that gets more efficient as it heats up. The system worked outdoors and even powered a tiny model at a world expo."
     },
     {
-      "id": "2026-06-13-science-3",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Fri, 12 Jun 2026 05:15:42 EDT",
-      "mined_at": "2026-06-13T18:04:20+00:00",
-      "source_published_at": "Fri, 12 Jun 2026 05:15:42 EDT",
-      "image_url": "/article_images/article_9eb953931d8e.webp",
+      "id": "2026-06-14-science-3",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Sun, 14 Jun 2026 01:26:16 EDT",
+      "mined_at": "2026-06-14T18:25:10+00:00",
+      "source_published_at": "Sun, 14 Jun 2026 01:26:16 EDT",
+      "image_url": "/article_images/article_9cd0f94882bc.webp",
       "category": "Science",
-      "title": "Lost Notebooks Solve a 55-Million-Year-Old Fish Mystery!",
-      "summary": "A fossil fish found in 1999 was a mystery until the scientist's lost notebooks were found. They helped identify it as a tarpon—a predator that lived 55 million years ago!"
+      "title": "Polly Really Wants a Cracker—and She Might Know Your Name!",
+      "summary": "A big study of over 880 pet parrots found that many use names in ways that seem like how people do. Some birds even say their own name to get attention. Scientists think parrots might be smarter at social talk than we knew."
     }
   ]
 }

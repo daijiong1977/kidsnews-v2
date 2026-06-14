@@ -1,26 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-13-fun-1",
-      "source": "MIT News",
-      "time_ago": "Fri, 12 Jun 2026 11:40:00 -0400",
-      "mined_at": "2026-06-13T18:04:20+00:00",
-      "source_published_at": "Fri, 12 Jun 2026 11:40:00 -0400",
-      "image_url": "/article_images/article_821f2c9473fb.webp",
+      "id": "2026-06-14-fun-1",
+      "source": "DOGOnews",
+      "time_ago": "",
+      "mined_at": "2026-06-14T18:25:10+00:00",
+      "source_published_at": "",
+      "image_url": "/article_images/article_927f00bbb872.webp",
       "category": "Fun",
-      "title": "From 'Just Harriet' to HIV Vaccine Pioneer: A Scientist's Unlikely Journey",
-      "summary": "In a field where male colleagues were 'Doctor,' Harriet Robinson was just 'Harriet.' But that didn't stop her from co-founding a biotech company at 60 to develop an HIV vaccine. Her path—from Russian guide to MIT to cancer research—shows how grit and a love of learning can break barriers."
+      "title": "She Walked 1,400 Miles to Make Juneteenth a National Holiday — at Age 89",
+      "summary": "Opal Lee, now 99, spent decades pushing for Juneteenth to become a federal holiday. In 2016, she led a symbolic walk from Fort Worth to DC, covering 2.5 miles per city. Her activism paid off in 2021."
     },
     {
-      "id": "2026-06-13-fun-2",
-      "source": "MIT News",
-      "time_ago": "Fri, 12 Jun 2026 05:00:00 -0400",
-      "mined_at": "2026-06-13T18:04:20+00:00",
-      "source_published_at": "Fri, 12 Jun 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_0712727f3d83.webp",
+      "id": "2026-06-14-fun-2",
+      "source": "Wired Gear",
+      "time_ago": "Sat, 13 Jun 2026 10:00:00 +0000",
+      "mined_at": "2026-06-14T18:25:10+00:00",
+      "source_published_at": "Sat, 13 Jun 2026 10:00:00 +0000",
+      "image_url": "/article_images/article_68df2a40a4e4.webp",
       "category": "Fun",
-      "title": "MIT's Gooey Solution: A Gel That Sticks Around to Deliver Drugs Right Where It Hurts",
-      "summary": "Treating esophageal diseases is tough because drugs zip through too fast. MIT engineers created a hydrogel laced with bile salts that temporarily loosens cell junctions, letting a drug like infliximab soak into tissue. In animal tests, it worked, and cells returned to normal within three days."
+      "title": "Rivian's CEO on Cybertruck's Failure, Ferrari's Surprise, and the High-Stakes Bet on R2",
+      "summary": "In a candid interview, Rivian CEO RJ Scaringe called the Cybertruck 'very niche,' praised Ferrari's Luce interior, and revealed that the company's future hinges on the mass-market R2 SUV. If it flops, Rivian must radically restructure."
+    },
+    {
+      "id": "2026-06-14-fun-3",
+      "source": "SwimSwam",
+      "time_ago": "Sat, 13 Jun 2026 20:20:06 +0000",
+      "mined_at": "2026-06-14T18:25:10+00:00",
+      "source_published_at": "Sat, 13 Jun 2026 20:20:06 +0000",
+      "image_url": "/article_images/article_ae7b8423641e.webp",
+      "category": "Fun",
+      "title": "Sam Short Sweeps Distance Freestyles, Sets Textile World Record at Aussie Trials",
+      "summary": "Sam Short won the 200, 400, 800, and 1500 free at the 2026 Australian Trials, becoming the first man since Grant Hackett in 2005 to achieve the sweep. He also broke the textile world record in the 800 free."
     }
   ]
 }

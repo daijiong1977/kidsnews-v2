@@ -1,37 +1,26 @@
 {
   "articles": [
     {
-      "id": "2026-06-13-news-1",
+      "id": "2026-06-14-news-1",
       "source": "BBC News",
-      "time_ago": "Sat, 13 Jun 2026 14:27:57 GMT",
-      "mined_at": "2026-06-13T18:04:20+00:00",
-      "source_published_at": "Sat, 13 Jun 2026 14:27:57 GMT",
-      "image_url": "/article_images/article_e6a86bd848b5.webp",
+      "time_ago": "Sun, 14 Jun 2026 12:06:50 GMT",
+      "mined_at": "2026-06-14T18:25:10+00:00",
+      "source_published_at": "Sun, 14 Jun 2026 12:06:50 GMT",
+      "image_url": "/article_images/article_5fcc5431ac86.webp",
       "category": "News",
-      "title": "From a 6'7\" Bearskin Giant to a Gap-Toothed Prince: Inside the Pomp and Poignancy of Trooping the Colour",
-      "summary": "King Charles III celebrated his official birthday with a massive military parade, but the day was tinged with loss. A soldier who died in a riding accident was honored, while Prince Louis charmed the crowd."
+      "title": "Not Even Born in '98: How 20-Year-Old Ben Gannon-Doak Electrified Scotland's Historic World Cup Return",
+      "summary": "Scotland hadn't won a men's World Cup match since 1990 — before their star winger was born. Ben Gannon-Doak, 20, overcame three major injuries to ignite a nervy 1-0 victory over Haiti with raw passion and skill."
     },
     {
-      "id": "2026-06-13-news-2",
-      "source": "BBC News",
-      "time_ago": "Sat, 13 Jun 2026 17:41:51 GMT",
-      "mined_at": "2026-06-13T18:04:20+00:00",
-      "source_published_at": "Sat, 13 Jun 2026 17:41:51 GMT",
-      "image_url": "/article_images/article_14d516c87ae2.webp",
+      "id": "2026-06-14-news-2",
+      "source": "Al Jazeera",
+      "time_ago": "Sun, 14 Jun 2026 13:57:22 +0000",
+      "mined_at": "2026-06-14T18:25:10+00:00",
+      "source_published_at": "Sun, 14 Jun 2026 13:57:22 +0000",
+      "image_url": "/article_images/article_894730814924.webp",
       "category": "News",
-      "title": "'Gambling with Young People's Lives': Molly Russell's Father Slams PM's Rush to Ban Social Media for Under-16s",
-      "summary": "Ian Russell, whose daughter Molly took her own life after viewing harmful content online, says a proposed ban on under-16s using social media is 'deplorable.' He accuses the prime minister of breaking promises and ignoring real solutions."
-    },
-    {
-      "id": "2026-06-13-news-3",
-      "source": "NPR World",
-      "time_ago": "Fri, 12 Jun 2026 20:43:32 -0400",
-      "mined_at": "2026-06-13T18:04:20+00:00",
-      "source_published_at": "Fri, 12 Jun 2026 20:43:32 -0400",
-      "image_url": "/article_images/article_72874cbed78c.webp",
-      "category": "News",
-      "title": "Under Cover of Tarps and Thunderstorms: Trump's Name Removed from Kennedy Center After Court Order",
-      "summary": "Workers removed President Trump's name from the Kennedy Center facade in a pre-dawn operation, hours after a court-ordered deadline. The administration argued the name was crucial for fundraising, but a judge said only Congress can rename the building."
+      "title": "National Security vs. AI Access: Why the US Forced Anthropic to Block Its Most Powerful Models Globally",
+      "summary": "The Trump administration ordered Anthropic to bar all foreign nationals from using its cutting-edge Fable 5 and Mythos 5 AI models, citing security risks. The move escalates a feud over military use and export controls."
     }
   ]
 }

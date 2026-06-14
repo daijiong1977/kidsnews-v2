@@ -1,37 +1,26 @@
 {
   "articles": [
     {
-      "id": "2026-06-13-news-1",
+      "id": "2026-06-14-news-1",
       "source": "BBC News",
-      "time_ago": "Sat, 13 Jun 2026 14:27:57 GMT",
-      "mined_at": "2026-06-13T18:04:20+00:00",
-      "source_published_at": "Sat, 13 Jun 2026 14:27:57 GMT",
-      "image_url": "/article_images/article_e6a86bd848b5.webp",
+      "time_ago": "Sun, 14 Jun 2026 12:06:50 GMT",
+      "mined_at": "2026-06-14T18:25:10+00:00",
+      "source_published_at": "Sun, 14 Jun 2026 12:06:50 GMT",
+      "image_url": "/article_images/article_5fcc5431ac86.webp",
       "category": "News",
-      "title": "A Gap-Toothed Grin and a Sky Full of Jets: Prince Louis Steals the Show at Trooping the Colour",
-      "summary": "Eight-year-old Prince Louis chatted with his parents as Red Arrows jets roared over Buckingham Palace. Over 1,400 soldiers, 200 horses, and 400 musicians took part in the big parade."
+      "title": "A 20-Year-Old Star Shines Bright in Scotland's First World Cup Win in 36 Years!",
+      "summary": "Imagine waiting 36 years for a World Cup win! Scotland finally did it, beating Haiti 1-0. The biggest surprise? A 20-year-old named Ben Gannon-Doak stole the show with his energy and passion."
     },
     {
-      "id": "2026-06-13-news-2",
-      "source": "BBC News",
-      "time_ago": "Sat, 13 Jun 2026 17:41:51 GMT",
-      "mined_at": "2026-06-13T18:04:20+00:00",
-      "source_published_at": "Sat, 13 Jun 2026 17:41:51 GMT",
-      "image_url": "/article_images/article_14d516c87ae2.webp",
+      "id": "2026-06-14-news-2",
+      "source": "Al Jazeera",
+      "time_ago": "Sun, 14 Jun 2026 13:57:22 +0000",
+      "mined_at": "2026-06-14T18:25:10+00:00",
+      "source_published_at": "Sun, 14 Jun 2026 13:57:22 +0000",
+      "image_url": "/article_images/article_894730814924.webp",
       "category": "News",
-      "title": "A Dad's Fight: Why Molly Russell's Father Says a Social Media Ban Is 'Deplorable'",
-      "summary": "Ian Russell, whose 14-year-old daughter Molly died after seeing harmful content online, says the UK prime minister is rushing a social media ban for kids under 16. He calls it 'deplorable' and warns it won't fix the real problem."
-    },
-    {
-      "id": "2026-06-13-news-3",
-      "source": "NPR World",
-      "time_ago": "Fri, 12 Jun 2026 20:43:32 -0400",
-      "mined_at": "2026-06-13T18:04:20+00:00",
-      "source_published_at": "Fri, 12 Jun 2026 20:43:32 -0400",
-      "image_url": "/article_images/article_72874cbed78c.webp",
-      "category": "News",
-      "title": "Bye-Bye, Bronze Letters: Workers Remove Trump's Name from the Kennedy Center",
-      "summary": "In a pre-dawn operation, workers took down President Trump's name from the Kennedy Center in Washington, D.C. A judge said the name had to go because only Congress can rename the building."
+      "title": "US Tells AI Company Anthropic: No Foreigners Can Use Your Smartest Models!",
+      "summary": "The US government just blocked people from other countries from using two super-smart AI models made by Anthropic. The company says the order is unfair, but the government says it's for safety."
     }
   ]
 }
