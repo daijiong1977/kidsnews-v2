@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-14-science-1",
-      "source": "Science News Explores",
-      "time_ago": "Thu, 11 Jun 2026 10:30:00 +0000",
-      "mined_at": "2026-06-14T18:25:10+00:00",
-      "source_published_at": "Thu, 11 Jun 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_b3a2e6f470d8.webp",
+      "id": "2026-06-15-science-1",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Mon, 15 Jun 2026 07:54:43 EDT",
+      "mined_at": "2026-06-15T19:03:13+00:00",
+      "source_published_at": "Mon, 15 Jun 2026 07:54:43 EDT",
+      "image_url": "/article_images/article_44d3d4a5720a.webp",
       "category": "Science",
-      "title": "That Morning Soda Might Be Messing With Your Brain More Than You Think",
-      "summary": "A 16-year-old scientist found that caffeine can turn down important brain genes in young animals. Her experiments with fish and rat cells showed fewer brain connections and more anxious behavior. This could mean caffeine affects kids differently than adults."
+      "title": "The Magic Staple Trick That Could Build the Future",
+      "summary": "A bundle of office staples can act like a solid block—then fall apart in seconds with the right shake. Scientists think staple-shaped particles could lead to strong, reusable materials for buildings and robots."
     },
     {
-      "id": "2026-06-14-science-2",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Thu, 11 Jun 2026 09:44:58 EDT",
-      "mined_at": "2026-06-14T18:25:10+00:00",
-      "source_published_at": "Thu, 11 Jun 2026 09:44:58 EDT",
-      "image_url": "/article_images/article_f52a3157a83a.webp",
+      "id": "2026-06-15-science-2",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Mon, 15 Jun 2026 08:09:38 EDT",
+      "mined_at": "2026-06-15T19:03:13+00:00",
+      "source_published_at": "Mon, 15 Jun 2026 08:09:38 EDT",
+      "image_url": "/article_images/article_2a8926e95e3d.webp",
       "category": "Science",
-      "title": "This New Solar Machine Makes Fuel From Thin Air—No Batteries Needed!",
-      "summary": "Scientists in Japan built a device that turns sunlight, water, and CO2 into fuel without any batteries. It uses a special self-adjusting part that gets more efficient as it heats up. The system worked outdoors and even powered a tiny model at a world expo."
+      "title": "A Giant Ocean Bump Is Sneaking Toward South America—And It Could Shake Up the Weather",
+      "summary": "NASA's satellite spotted a huge swell of warm water—over 5.9 inches higher than normal—moving toward Peru. This \"Kelvin wave\" could mean El Niño is coming, bringing wild weather like floods and droughts around the world."
     },
     {
-      "id": "2026-06-14-science-3",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Sun, 14 Jun 2026 01:26:16 EDT",
-      "mined_at": "2026-06-14T18:25:10+00:00",
-      "source_published_at": "Sun, 14 Jun 2026 01:26:16 EDT",
-      "image_url": "/article_images/article_9cd0f94882bc.webp",
+      "id": "2026-06-15-science-3",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Sun, 14 Jun 2026 17:25:28 EDT",
+      "mined_at": "2026-06-15T19:03:13+00:00",
+      "source_published_at": "Sun, 14 Jun 2026 17:25:28 EDT",
+      "image_url": "/article_images/article_673bf54556a9.webp",
       "category": "Science",
-      "title": "Polly Really Wants a Cracker—and She Might Know Your Name!",
-      "summary": "A big study of over 880 pet parrots found that many use names in ways that seem like how people do. Some birds even say their own name to get attention. Scientists think parrots might be smarter at social talk than we knew."
+      "title": "Honey Bees Have Their Own Secret Flight Maps—And They're Super Accurate",
+      "summary": "Scientists used a drone to track bees and found each one follows its own exact flight path, like a personal highway in the sky. They use trees and hedges as signposts, and can repeat their route within a few centimeters."
     }
   ]
 }

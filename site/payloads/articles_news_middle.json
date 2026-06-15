@@ -1,26 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-14-news-1",
-      "source": "BBC News",
-      "time_ago": "Sun, 14 Jun 2026 12:06:50 GMT",
-      "mined_at": "2026-06-14T18:25:10+00:00",
-      "source_published_at": "Sun, 14 Jun 2026 12:06:50 GMT",
-      "image_url": "/article_images/article_5fcc5431ac86.webp",
+      "id": "2026-06-15-news-1",
+      "source": "NPR World",
+      "time_ago": "Mon, 15 Jun 2026 05:00:00 -0400",
+      "mined_at": "2026-06-15T19:03:13+00:00",
+      "source_published_at": "Mon, 15 Jun 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_b9b6e41ca88a.webp",
       "category": "News",
-      "title": "Not Even Born in '98: How 20-Year-Old Ben Gannon-Doak Electrified Scotland's Historic World Cup Return",
-      "summary": "Scotland hadn't won a men's World Cup match since 1990 — before their star winger was born. Ben Gannon-Doak, 20, overcame three major injuries to ignite a nervy 1-0 victory over Haiti with raw passion and skill."
+      "title": "From Balogun's Historic Brace to Curaçao's 17 Minutes of Glory: World Cup Week One Delivers",
+      "summary": "The U.S. men opened with a record 4-1 rout of Paraguay, powered by Folarin Balogun's two goals—the first multi-goal U.S. men's World Cup game since 1930. Tiny Curaçao, population 158,000, briefly tied Germany 1-1 before falling 7-1. Scotland stunned Haiti to top a group with Brazil."
     },
     {
-      "id": "2026-06-14-news-2",
-      "source": "Al Jazeera",
-      "time_ago": "Sun, 14 Jun 2026 13:57:22 +0000",
-      "mined_at": "2026-06-14T18:25:10+00:00",
-      "source_published_at": "Sun, 14 Jun 2026 13:57:22 +0000",
-      "image_url": "/article_images/article_894730814924.webp",
+      "id": "2026-06-15-news-2",
+      "source": "NPR World",
+      "time_ago": "Mon, 15 Jun 2026 04:46:10 -0400",
+      "mined_at": "2026-06-15T19:03:13+00:00",
+      "source_published_at": "Mon, 15 Jun 2026 04:46:10 -0400",
+      "image_url": "/article_images/article_02c314f0ff07.webp",
       "category": "News",
-      "title": "National Security vs. AI Access: Why the US Forced Anthropic to Block Its Most Powerful Models Globally",
-      "summary": "The Trump administration ordered Anthropic to bar all foreign nationals from using its cutting-edge Fable 5 and Mythos 5 AI models, citing security risks. The move escalates a feud over military use and export controls."
+      "title": "Cage Fights, a Peace Deal, and a Chain: Trump's Unprecedented 80th Birthday Bash",
+      "summary": "President Trump marked his 80th birthday by announcing an initial agreement to end the Iran war and hosting a UFC event on the White House South Lawn. Fighters praised Trump; one placed a chain around his neck and made a false claim about Michelle Obama. The celebration lasted past 1 a.m."
+    },
+    {
+      "id": "2026-06-15-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Mon, 15 Jun 2026 18:12:42 +0000",
+      "mined_at": "2026-06-15T19:03:13+00:00",
+      "source_published_at": "Mon, 15 Jun 2026 18:12:42 +0000",
+      "image_url": "/article_images/article_adcb61442f99.webp",
+      "category": "News",
+      "title": "Cape Verde's Debut Heroics: Spain Held Scoreless in World Cup Stunner",
+      "summary": "European champion Spain, among the pre-tournament favorites, was held to a shocking 0-0 draw by World Cup debutant Cape Verde, a nation of just over 500,000. Goalkeeper Vozinha made a series of crucial saves, and even the introduction of superstar Lamine Yamal couldn't break the deadlock. Cape Verde nearly won it at the death."
     }
   ]
 }
