@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-15-science-1",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Mon, 15 Jun 2026 07:54:43 EDT",
-      "mined_at": "2026-06-15T19:03:13+00:00",
-      "source_published_at": "Mon, 15 Jun 2026 07:54:43 EDT",
-      "image_url": "/article_images/article_44d3d4a5720a.webp",
+      "id": "2026-06-16-science-1",
+      "source": "IEEE Spectrum",
+      "time_ago": "Fri, 12 Jun 2026 18:00:01 +0000",
+      "mined_at": "2026-06-16T19:00:35+00:00",
+      "source_published_at": "Fri, 12 Jun 2026 18:00:01 +0000",
+      "image_url": "/article_images/article_caa49fb08432.webp",
       "category": "Science",
-      "title": "How a Box of Staples Could Inspire Super-Materials That Assemble and Disassemble on Command",
-      "summary": "A clump of office staples can behave like a solid block yet fall apart instantly with the right vibration. CU Boulder researchers found staple-shaped particles unlock a rare mix of strength and reversibility, pointing to recyclable construction materials and adaptable robots."
+      "title": "Robots That Admit 'I'm Not Sure' Are the Future of AI",
+      "summary": "Most robots fail when facing unfamiliar tasks. Yen-Ling Kuo's award-winning method lets robots estimate their own uncertainty, reducing errors and human supervision. Her work could transform interactive robot learning in unpredictable environments."
     },
     {
-      "id": "2026-06-15-science-2",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Mon, 15 Jun 2026 08:09:38 EDT",
-      "mined_at": "2026-06-15T19:03:13+00:00",
-      "source_published_at": "Mon, 15 Jun 2026 08:09:38 EDT",
-      "image_url": "/article_images/article_2a8926e95e3d.webp",
+      "id": "2026-06-16-science-2",
+      "source": "Popular Science",
+      "time_ago": "Tue, 16 Jun 2026 11:58:00 -0400",
+      "mined_at": "2026-06-16T19:00:35+00:00",
+      "source_published_at": "Tue, 16 Jun 2026 11:58:00 -0400",
+      "image_url": "/article_images/article_e747dff9c0a8.webp",
       "category": "Science",
-      "title": "NASA's Sharp-Eyed Satellite Catches a Colossal Ocean Swell That Could Unleash El Niño",
-      "summary": "A massive Kelvin wave—over 5.9 inches above normal sea level—has reached South America, spotted by the Sentinel-6 Michael Freilich satellite. Scientists say it's a key signal that El Niño may develop later this year, with global weather impacts to follow."
+      "title": "Meet Brötchen: Berlin's Baby Pygmy Hippo Is a Conservation Symbol",
+      "summary": "A female pygmy hippo born at Zoo Berlin has been named Brötchen—'breadroll' in German. While her online fame grows, the species faces a critical threat: fewer than 2,500 adults remain in West African forests due to habitat loss."
     },
     {
-      "id": "2026-06-15-science-3",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Sun, 14 Jun 2026 17:25:28 EDT",
-      "mined_at": "2026-06-15T19:03:13+00:00",
-      "source_published_at": "Sun, 14 Jun 2026 17:25:28 EDT",
-      "image_url": "/article_images/article_673bf54556a9.webp",
+      "id": "2026-06-16-science-3",
+      "source": "Popular Science",
+      "time_ago": "Tue, 16 Jun 2026 10:55:45 -0400",
+      "mined_at": "2026-06-16T19:00:35+00:00",
+      "source_published_at": "Tue, 16 Jun 2026 10:55:45 -0400",
+      "image_url": "/article_images/article_8dbf25e8f924.webp",
       "category": "Science",
-      "title": "Drone Tracking Reveals Honey Bees Fly Personal 'Highways' with Centimeter Precision",
-      "summary": "Using a novel drone-based tracking system, researchers found individual honey bees follow highly consistent flight routes, often within centimeters of previous paths. Landmarks like trees boost accuracy, and the findings challenge old assumptions about the waggle dance's imprecision."
+      "title": "Dramatic Rescue Frees Humpback Whale from Life-Threatening Entanglement",
+      "summary": "A juvenile humpback whale anchored by fishing gear near Stellwagen Bank was freed by CCS's disentanglement team. Using a 30-foot pole with a hook-shaped knife, rescuers cut the ropes in worsening weather. The whale is expected to recover."
     }
   ]
 }

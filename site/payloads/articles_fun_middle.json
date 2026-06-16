@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-15-fun-1",
-      "source": "Billboard",
-      "time_ago": "Mon, 15 Jun 2026 18:26:03 +0000",
-      "mined_at": "2026-06-15T19:03:13+00:00",
-      "source_published_at": "Mon, 15 Jun 2026 18:26:03 +0000",
-      "image_url": "/article_images/article_e2786c3ebfdc.webp",
+      "id": "2026-06-16-fun-1",
+      "source": "/Film",
+      "time_ago": "Tue, 16 Jun 2026 18:00:00 +0000",
+      "mined_at": "2026-06-16T19:00:35+00:00",
+      "source_published_at": "Tue, 16 Jun 2026 18:00:00 +0000",
+      "image_url": "/article_images/article_4b68fdf9cf26.webp",
       "category": "Fun",
-      "title": "From Pixar to the Top of the World: Taylor Swift’s Record-Breaking Week",
-      "summary": "Taylor Swift’s Toy Story 5 single “I Knew It, I Knew You” debuted at No. 1 on the Billboard Global 200 with 51.5 million streams, making her the solo artist with the most chart-toppers. It’s the first Pixar song to lead the global tally."
+      "title": "Don't Leave Yet! Toy Story 5 Packs Multiple Post-Credits Surprises",
+      "summary": "Toy Story 5 isn't done when the credits roll — it hides a mid-credits scene and a final post-credits stinger. They're not crucial to the plot, but fans will want to stick around for these bonus moments."
     },
     {
-      "id": "2026-06-15-fun-2",
-      "source": "Colossal",
-      "time_ago": "Mon, 15 Jun 2026 14:58:44 +0000",
-      "mined_at": "2026-06-15T19:03:13+00:00",
-      "source_published_at": "Mon, 15 Jun 2026 14:58:44 +0000",
-      "image_url": "/article_images/article_975f081b5cd9.webp",
+      "id": "2026-06-16-fun-2",
+      "source": "Live Science",
+      "time_ago": "Tue, 16 Jun 2026 15:30:19 +0000",
+      "mined_at": "2026-06-16T19:00:35+00:00",
+      "source_published_at": "Tue, 16 Jun 2026 15:30:19 +0000",
+      "image_url": "/article_images/article_5985145ee07c.webp",
       "category": "Fun",
-      "title": "Carved from Memory: How One Artist’s Life-Size Woodcuts Honor a Family’s Flight from War",
-      "summary": "Annalise Gratovich’s exhibition Carrying Things From Home features eight monumental woodblock prints that blend Ukrainian folklore, nature, and personal history. Each life-size figure, painstakingly carved and hand-colored, reflects her grandparents’ escape from Ukraine during WWII."
+      "title": "One Leg, Zero Gravity: John McFall Could Redefine Who Goes to Space",
+      "summary": "Paralympian-turned-surgeon John McFall may become the first physically disabled astronaut, flying to the Haven-1 commercial space station in 2027. His unique body could offer surprising advantages in microgravity."
     },
     {
-      "id": "2026-06-15-fun-3",
-      "source": "Billboard",
-      "time_ago": "Mon, 15 Jun 2026 18:30:03 +0000",
-      "mined_at": "2026-06-15T19:03:13+00:00",
-      "source_published_at": "Mon, 15 Jun 2026 18:30:03 +0000",
-      "image_url": "/article_images/article_0b26e4806b03.webp",
+      "id": "2026-06-16-fun-3",
+      "source": "Live Science",
+      "time_ago": "Tue, 16 Jun 2026 15:05:56 +0000",
+      "mined_at": "2026-06-16T19:00:35+00:00",
+      "source_published_at": "Tue, 16 Jun 2026 15:05:56 +0000",
+      "image_url": "/article_images/article_c779b7cb3d62.webp",
       "category": "Fun",
-      "title": "Tokyo Breaks New Ground as Billboard Honors the Executives Shaping Global Music",
-      "summary": "The Billboard Global Power Players 2026 Awards Ceremony made history as the first held in Asia, gathering industry titans in Tokyo. Honorees included CAA’s Marlene Tsuchii, Avex’s Katsumi Kuroiwa and Brandon Silverstein, and Apple Music’s Rachel Newman."
+      "title": "A Clock That Ticks Inside an Atom's Core Could Unlock New Physics",
+      "summary": "Physicists have demonstrated the first working nuclear clock, using thorium-229's nucleus as a timekeeper. It ran for 24 hours and could outperform atomic clocks while searching for dark matter and a fifth force."
     }
   ]
 }

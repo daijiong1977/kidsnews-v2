@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-15-news-1",
-      "source": "NPR World",
-      "time_ago": "Mon, 15 Jun 2026 05:00:00 -0400",
-      "mined_at": "2026-06-15T19:03:13+00:00",
-      "source_published_at": "Mon, 15 Jun 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_b9b6e41ca88a.webp",
+      "id": "2026-06-16-news-1",
+      "source": "BBC News",
+      "time_ago": "Tue, 16 Jun 2026 15:28:15 GMT",
+      "mined_at": "2026-06-16T19:00:35+00:00",
+      "source_published_at": "Tue, 16 Jun 2026 15:28:15 GMT",
+      "image_url": "/article_images/article_6ed8ecd9b333.webp",
       "category": "News",
-      "title": "A 4-Goal Party, a Tiny Island's Big Moment, and a World Cup Full of Surprises!",
-      "summary": "The U.S. men's soccer team crushed Paraguay 4-1 in their first World Cup game. Folarin Balogun scored twice—something no American had done since 1930! Tiny Curaçao (just 158,000 people) scored against Germany before losing 7-1. Scotland shocked everyone by beating Haiti."
+      "title": "UK's New Social Media Ban: What Happens to Roblox and YouTube?",
+      "summary": "The UK is banning under-16s from apps like TikTok and YouTube. But what about Roblox? The government hasn't decided yet, and kids are waiting to see if their favorite games will be blocked."
     },
     {
-      "id": "2026-06-15-news-2",
+      "id": "2026-06-16-news-2",
       "source": "NPR World",
-      "time_ago": "Mon, 15 Jun 2026 04:46:10 -0400",
-      "mined_at": "2026-06-15T19:03:13+00:00",
-      "source_published_at": "Mon, 15 Jun 2026 04:46:10 -0400",
-      "image_url": "/article_images/article_02c314f0ff07.webp",
+      "time_ago": "Tue, 16 Jun 2026 10:00:00 -0400",
+      "mined_at": "2026-06-16T19:00:35+00:00",
+      "source_published_at": "Tue, 16 Jun 2026 10:00:00 -0400",
+      "image_url": "/article_images/article_b5a6ca718b47.webp",
       "category": "News",
-      "title": "Trump Turns 80 with a UFC Fight Night at the White House!",
-      "summary": "President Trump celebrated his 80th birthday by hosting a UFC fighting event on the White House lawn. He also announced a deal to end the war with Iran. Some fighters said wild things, and one even put a chain around the president's neck. The party went past 1 a.m. with fireworks!"
+      "title": "Working Parents Feel Torn: 'No Way to Be Two Things at Once'",
+      "summary": "A new survey shows most working moms and dads feel they can't give 100% at home or at work. Amber Petersen, a mom in Iowa, says she's always pulled between her kids and her job—and she's not alone."
     },
     {
-      "id": "2026-06-15-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Mon, 15 Jun 2026 18:12:42 +0000",
-      "mined_at": "2026-06-15T19:03:13+00:00",
-      "source_published_at": "Mon, 15 Jun 2026 18:12:42 +0000",
-      "image_url": "/article_images/article_adcb61442f99.webp",
+      "id": "2026-06-16-news-3",
+      "source": "BBC News",
+      "time_ago": "Tue, 16 Jun 2026 14:11:30 GMT",
+      "mined_at": "2026-06-16T19:00:35+00:00",
+      "source_published_at": "Tue, 16 Jun 2026 14:11:30 GMT",
+      "image_url": "/article_images/article_4a73736c9706.webp",
       "category": "News",
-      "title": "Spain Stunned! Tiny Cape Verde Holds Soccer Giants to a 0-0 Tie",
-      "summary": "Spain, one of the best soccer teams in the world, couldn't score against Cape Verde, a country with just 500,000 people playing its first World Cup game ever. Spain's star Lamine Yamal came off the bench but couldn't break through. Cape Verde's goalkeeper made amazing saves to earn a famous draw."
+      "title": "Why Ships Aren't Rushing Through the Strait of Hormuz Yet",
+      "summary": "President Trump said the Strait of Hormuz is open again, but ships aren't moving. There are still dangers like mines and attacks, so captains are waiting to see if it's really safe."
     }
   ]
 }

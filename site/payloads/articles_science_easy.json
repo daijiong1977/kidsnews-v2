@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-15-science-1",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Mon, 15 Jun 2026 07:54:43 EDT",
-      "mined_at": "2026-06-15T19:03:13+00:00",
-      "source_published_at": "Mon, 15 Jun 2026 07:54:43 EDT",
-      "image_url": "/article_images/article_44d3d4a5720a.webp",
+      "id": "2026-06-16-science-1",
+      "source": "IEEE Spectrum",
+      "time_ago": "Fri, 12 Jun 2026 18:00:01 +0000",
+      "mined_at": "2026-06-16T19:00:35+00:00",
+      "source_published_at": "Fri, 12 Jun 2026 18:00:01 +0000",
+      "image_url": "/article_images/article_caa49fb08432.webp",
       "category": "Science",
-      "title": "The Magic Staple Trick That Could Build the Future",
-      "summary": "A bundle of office staples can act like a solid block—then fall apart in seconds with the right shake. Scientists think staple-shaped particles could lead to strong, reusable materials for buildings and robots."
+      "title": "This Robot Can Guess What to Do Next!",
+      "summary": "What if a robot could figure things out like you do? A scientist named Yen-Ling Kuo taught robots to make smart guesses when they face something new. Her idea won a big award and could make robots way more helpful."
     },
     {
-      "id": "2026-06-15-science-2",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Mon, 15 Jun 2026 08:09:38 EDT",
-      "mined_at": "2026-06-15T19:03:13+00:00",
-      "source_published_at": "Mon, 15 Jun 2026 08:09:38 EDT",
-      "image_url": "/article_images/article_2a8926e95e3d.webp",
+      "id": "2026-06-16-science-2",
+      "source": "Popular Science",
+      "time_ago": "Tue, 16 Jun 2026 11:58:00 -0400",
+      "mined_at": "2026-06-16T19:00:35+00:00",
+      "source_published_at": "Tue, 16 Jun 2026 11:58:00 -0400",
+      "image_url": "/article_images/article_e747dff9c0a8.webp",
       "category": "Science",
-      "title": "A Giant Ocean Bump Is Sneaking Toward South America—And It Could Shake Up the Weather",
-      "summary": "NASA's satellite spotted a huge swell of warm water—over 5.9 inches higher than normal—moving toward Peru. This \"Kelvin wave\" could mean El Niño is coming, bringing wild weather like floods and droughts around the world."
+      "title": "A Baby Hippo Named 'Breadroll' Is Stealing Hearts!",
+      "summary": "A tiny pygmy hippo was born at Zoo Berlin, and her name is Brötchen—German for 'breadroll.' She's already a star online, but her wild cousins are in trouble. Only about 2,500 adult pygmy hippos are left in West Africa."
     },
     {
-      "id": "2026-06-15-science-3",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Sun, 14 Jun 2026 17:25:28 EDT",
-      "mined_at": "2026-06-15T19:03:13+00:00",
-      "source_published_at": "Sun, 14 Jun 2026 17:25:28 EDT",
-      "image_url": "/article_images/article_673bf54556a9.webp",
+      "id": "2026-06-16-science-3",
+      "source": "Popular Science",
+      "time_ago": "Tue, 16 Jun 2026 10:55:45 -0400",
+      "mined_at": "2026-06-16T19:00:35+00:00",
+      "source_published_at": "Tue, 16 Jun 2026 10:55:45 -0400",
+      "image_url": "/article_images/article_8dbf25e8f924.webp",
       "category": "Science",
-      "title": "Honey Bees Have Their Own Secret Flight Maps—And They're Super Accurate",
-      "summary": "Scientists used a drone to track bees and found each one follows its own exact flight path, like a personal highway in the sky. They use trees and hedges as signposts, and can repeat their route within a few centimeters."
+      "title": "Rescuers Free a Young Whale Tangled in Fishing Line!",
+      "summary": "A young humpback whale was stuck in ropes near Cape Cod. A special rescue team cut it free using a knife on a 30-foot pole. The whale is hurt but should heal. Over 300,000 whales and dolphins die from fishing gear every year."
     }
   ]
 }

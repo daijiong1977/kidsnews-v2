@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-15-news-1",
-      "source": "NPR World",
-      "time_ago": "Mon, 15 Jun 2026 05:00:00 -0400",
-      "mined_at": "2026-06-15T19:03:13+00:00",
-      "source_published_at": "Mon, 15 Jun 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_b9b6e41ca88a.webp",
+      "id": "2026-06-16-news-1",
+      "source": "BBC News",
+      "time_ago": "Tue, 16 Jun 2026 15:28:15 GMT",
+      "mined_at": "2026-06-16T19:00:35+00:00",
+      "source_published_at": "Tue, 16 Jun 2026 15:28:15 GMT",
+      "image_url": "/article_images/article_6ed8ecd9b333.webp",
       "category": "News",
-      "title": "From Balogun's Historic Brace to Curaçao's 17 Minutes of Glory: World Cup Week One Delivers",
-      "summary": "The U.S. men opened with a record 4-1 rout of Paraguay, powered by Folarin Balogun's two goals—the first multi-goal U.S. men's World Cup game since 1930. Tiny Curaçao, population 158,000, briefly tied Germany 1-1 before falling 7-1. Scotland stunned Haiti to top a group with Brazil."
+      "title": "UK Social Media Ban for Under-16s: Unanswered Questions on Roblox, YouTube, and More",
+      "summary": "The UK announced a sweeping social media ban for under-16s, but key details are missing. Will Roblox be included? How will YouTube enforce it? The government says more rules are coming in July, leaving millions of kids in limbo."
     },
     {
-      "id": "2026-06-15-news-2",
+      "id": "2026-06-16-news-2",
       "source": "NPR World",
-      "time_ago": "Mon, 15 Jun 2026 04:46:10 -0400",
-      "mined_at": "2026-06-15T19:03:13+00:00",
-      "source_published_at": "Mon, 15 Jun 2026 04:46:10 -0400",
-      "image_url": "/article_images/article_02c314f0ff07.webp",
+      "time_ago": "Tue, 16 Jun 2026 10:00:00 -0400",
+      "mined_at": "2026-06-16T19:00:35+00:00",
+      "source_published_at": "Tue, 16 Jun 2026 10:00:00 -0400",
+      "image_url": "/article_images/article_b5a6ca718b47.webp",
       "category": "News",
-      "title": "Cage Fights, a Peace Deal, and a Chain: Trump's Unprecedented 80th Birthday Bash",
-      "summary": "President Trump marked his 80th birthday by announcing an initial agreement to end the Iran war and hosting a UFC event on the White House South Lawn. Fighters praised Trump; one placed a chain around his neck and made a false claim about Michelle Obama. The celebration lasted past 1 a.m."
+      "title": "Survey Reveals Working Parents' Constant Struggle: 'No Way to Be Two Things at Once'",
+      "summary": "A Pew Research Center survey of 2,242 working parents finds that most feel torn between job and family. Two-thirds of working moms and half of dads say they can't give 100% at home, highlighting the need for better support."
     },
     {
-      "id": "2026-06-15-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Mon, 15 Jun 2026 18:12:42 +0000",
-      "mined_at": "2026-06-15T19:03:13+00:00",
-      "source_published_at": "Mon, 15 Jun 2026 18:12:42 +0000",
-      "image_url": "/article_images/article_adcb61442f99.webp",
+      "id": "2026-06-16-news-3",
+      "source": "BBC News",
+      "time_ago": "Tue, 16 Jun 2026 14:11:30 GMT",
+      "mined_at": "2026-06-16T19:00:35+00:00",
+      "source_published_at": "Tue, 16 Jun 2026 14:11:30 GMT",
+      "image_url": "/article_images/article_4a73736c9706.webp",
       "category": "News",
-      "title": "Cape Verde's Debut Heroics: Spain Held Scoreless in World Cup Stunner",
-      "summary": "European champion Spain, among the pre-tournament favorites, was held to a shocking 0-0 draw by World Cup debutant Cape Verde, a nation of just over 500,000. Goalkeeper Vozinha made a series of crucial saves, and even the introduction of superstar Lamine Yamal couldn't break the deadlock. Cape Verde nearly won it at the death."
+      "title": "Three Reasons Ships Aren't Sailing Through the Strait of Hormuz Despite Trump's Announcement",
+      "summary": "President Trump declared the Strait of Hormuz 'open' after a deal with Iran, but over 250 tankers remain trapped in the Gulf. Security threats, sea mines, and deep mistrust are keeping captains from risking the passage."
     }
   ]
 }

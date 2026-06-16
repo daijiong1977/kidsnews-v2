@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-15-fun-1",
-      "source": "Billboard",
-      "time_ago": "Mon, 15 Jun 2026 18:26:03 +0000",
-      "mined_at": "2026-06-15T19:03:13+00:00",
-      "source_published_at": "Mon, 15 Jun 2026 18:26:03 +0000",
-      "image_url": "/article_images/article_e2786c3ebfdc.webp",
+      "id": "2026-06-16-fun-1",
+      "source": "/Film",
+      "time_ago": "Tue, 16 Jun 2026 18:00:00 +0000",
+      "mined_at": "2026-06-16T19:00:35+00:00",
+      "source_published_at": "Tue, 16 Jun 2026 18:00:00 +0000",
+      "image_url": "/article_images/article_4b68fdf9cf26.webp",
       "category": "Fun",
-      "title": "Taylor Swift’s Toy Story 5 Song Breaks a World Record!",
-      "summary": "Imagine a song so catchy that 51.5 million people streamed it in just one week! Taylor Swift’s new single from Toy Story 5 just hit No. 1 on a global chart, making her the solo artist with the most chart-toppers."
+      "title": "Psst! Toy Story 5 Has Secret Scenes After the Credits!",
+      "summary": "Did you know Toy Story 5 hides extra scenes during AND after the credits? You'll see the toys one last time if you stay in your seat. There's even a surprise after all the names roll by."
     },
     {
-      "id": "2026-06-15-fun-2",
-      "source": "Colossal",
-      "time_ago": "Mon, 15 Jun 2026 14:58:44 +0000",
-      "mined_at": "2026-06-15T19:03:13+00:00",
-      "source_published_at": "Mon, 15 Jun 2026 14:58:44 +0000",
-      "image_url": "/article_images/article_975f081b5cd9.webp",
+      "id": "2026-06-16-fun-2",
+      "source": "Live Science",
+      "time_ago": "Tue, 16 Jun 2026 15:30:19 +0000",
+      "mined_at": "2026-06-16T19:00:35+00:00",
+      "source_published_at": "Tue, 16 Jun 2026 15:30:19 +0000",
+      "image_url": "/article_images/article_5985145ee07c.webp",
       "category": "Fun",
-      "title": "Giant Wooden Prints Tell a Family’s Story of Leaving Home",
-      "summary": "What if your family had to flee in the night, carrying only what they could hold? Artist Annalise Gratovich carves life-size wooden figures filled with flowers, birds, and Ukrainian patterns to explore her family’s escape during World War II."
+      "title": "This Astronaut Has One Leg — and He Might Go to Space!",
+      "summary": "John McFall lost his leg in a motorcycle crash at 19. Now he's a surgeon, a Paralympic medalist, and could be the first disabled astronaut in space! He might fly to a new space station next year."
     },
     {
-      "id": "2026-06-15-fun-3",
-      "source": "Billboard",
-      "time_ago": "Mon, 15 Jun 2026 18:30:03 +0000",
-      "mined_at": "2026-06-15T19:03:13+00:00",
-      "source_published_at": "Mon, 15 Jun 2026 18:30:03 +0000",
-      "image_url": "/article_images/article_0b26e4806b03.webp",
+      "id": "2026-06-16-fun-3",
+      "source": "Live Science",
+      "time_ago": "Tue, 16 Jun 2026 15:05:56 +0000",
+      "mined_at": "2026-06-16T19:00:35+00:00",
+      "source_published_at": "Tue, 16 Jun 2026 15:05:56 +0000",
+      "image_url": "/article_images/article_c779b7cb3d62.webp",
       "category": "Fun",
-      "title": "Tokyo Hosts a Huge Music Party—and Makes History!",
-      "summary": "For the first time ever, the Billboard Global Power Players awards landed in Asia! Tokyo threw a star-studded ceremony honoring music bosses who help your favorite artists travel the world. A Japanese dancer even said one winner “changed my life.”"
+      "title": "Tick-Tock Goes the Nucleus! The World's First Nuclear Clock Is Here",
+      "summary": "Scientists built a clock that ticks using the heart of an atom — its nucleus! It's super precise and could help find dark matter or even a fifth force of nature. It ran for 24 hours straight!"
     }
   ]
 }
