@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-16-science-1",
-      "source": "IEEE Spectrum",
-      "time_ago": "Fri, 12 Jun 2026 18:00:01 +0000",
-      "mined_at": "2026-06-16T19:00:35+00:00",
-      "source_published_at": "Fri, 12 Jun 2026 18:00:01 +0000",
-      "image_url": "/article_images/article_caa49fb08432.webp",
+      "id": "2026-06-17-science-1",
+      "source": "ScienceDaily All",
+      "time_ago": "Wed, 17 Jun 2026 08:19:43 EDT",
+      "mined_at": "2026-06-17T18:19:47+00:00",
+      "source_published_at": "Wed, 17 Jun 2026 08:19:43 EDT",
+      "image_url": "/article_images/article_d1bf49b25cd3.webp",
       "category": "Science",
-      "title": "Robots That Admit 'I'm Not Sure' Are the Future of AI",
-      "summary": "Most robots fail when facing unfamiliar tasks. Yen-Ling Kuo's award-winning method lets robots estimate their own uncertainty, reducing errors and human supervision. Her work could transform interactive robot learning in unpredictable environments."
+      "title": "A Spider That Dresses Like a Killer Fungus: First-of-Its-Kind Mimicry Found in the Amazon",
+      "summary": "In Ecuador's Amazon, a spider mimics a parasitic fungus that infects spiders — the first known case of its kind. Its pale, spiky body and motionless pose fooled scientists who initially thought it was a mushroom."
     },
     {
-      "id": "2026-06-16-science-2",
-      "source": "Popular Science",
-      "time_ago": "Tue, 16 Jun 2026 11:58:00 -0400",
-      "mined_at": "2026-06-16T19:00:35+00:00",
-      "source_published_at": "Tue, 16 Jun 2026 11:58:00 -0400",
-      "image_url": "/article_images/article_e747dff9c0a8.webp",
+      "id": "2026-06-17-science-2",
+      "source": "Space.com",
+      "time_ago": "Wed, 17 Jun 2026 18:00:00 +0000",
+      "mined_at": "2026-06-17T18:19:47+00:00",
+      "source_published_at": "Wed, 17 Jun 2026 18:00:00 +0000",
+      "image_url": "/article_images/article_66433a844f5e.webp",
       "category": "Science",
-      "title": "Meet Brötchen: Berlin's Baby Pygmy Hippo Is a Conservation Symbol",
-      "summary": "A female pygmy hippo born at Zoo Berlin has been named Brötchen—'breadroll' in German. While her online fame grows, the species faces a critical threat: fewer than 2,500 adults remain in West African forests due to habitat loss."
+      "title": "Warframe's 'Constellations' Update Splits Reality: Stalker's Twin Sons Arrive from Parallel Timelines",
+      "summary": "Warframe's latest update delivers a narrative shocker: Stalker's child, named by players as either Sirius or Orion, now exists as twins from alternate realities. The update also revives Railjack space combat, setting the stage for a cosmic-scale story."
     },
     {
-      "id": "2026-06-16-science-3",
-      "source": "Popular Science",
-      "time_ago": "Tue, 16 Jun 2026 10:55:45 -0400",
-      "mined_at": "2026-06-16T19:00:35+00:00",
-      "source_published_at": "Tue, 16 Jun 2026 10:55:45 -0400",
-      "image_url": "/article_images/article_8dbf25e8f924.webp",
+      "id": "2026-06-17-science-3",
+      "source": "ScienceDaily All",
+      "time_ago": "Wed, 17 Jun 2026 10:25:31 EDT",
+      "mined_at": "2026-06-17T18:19:47+00:00",
+      "source_published_at": "Wed, 17 Jun 2026 10:25:31 EDT",
+      "image_url": "/article_images/article_90434e957531.webp",
       "category": "Science",
-      "title": "Dramatic Rescue Frees Humpback Whale from Life-Threatening Entanglement",
-      "summary": "A juvenile humpback whale anchored by fishing gear near Stellwagen Bank was freed by CCS's disentanglement team. Using a 30-foot pole with a hook-shaped knife, rescuers cut the ropes in worsening weather. The whale is expected to recover."
+      "title": "Your Body Might Know How to Regrow Limbs — Scientists Just Found the 'On' Switch",
+      "summary": "A Texas A&M team used a two-step growth factor treatment to regrow bone and joint tissue in mammals, without adding stem cells. The study suggests regenerative abilities are hidden, not absent, in humans."
     }
   ]
 }

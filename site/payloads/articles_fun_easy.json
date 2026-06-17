@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-16-fun-1",
-      "source": "/Film",
-      "time_ago": "Tue, 16 Jun 2026 18:00:00 +0000",
-      "mined_at": "2026-06-16T19:00:35+00:00",
-      "source_published_at": "Tue, 16 Jun 2026 18:00:00 +0000",
-      "image_url": "/article_images/article_4b68fdf9cf26.webp",
+      "id": "2026-06-17-fun-1",
+      "source": "Hyperallergic",
+      "time_ago": "Tue, 16 Jun 2026 20:00:01 GMT",
+      "mined_at": "2026-06-17T18:19:47+00:00",
+      "source_published_at": "Tue, 16 Jun 2026 20:00:01 GMT",
+      "image_url": "/article_images/article_d681e069ca25.webp",
       "category": "Fun",
-      "title": "Psst! Toy Story 5 Has Secret Scenes After the Credits!",
-      "summary": "Did you know Toy Story 5 hides extra scenes during AND after the credits? You'll see the toys one last time if you stay in your seat. There's even a surprise after all the names roll by."
+      "title": "A Secret Theater Underground: Brooklyn Subway Gets a Sparkly Surprise",
+      "summary": "Imagine waiting for the train and suddenly you're at a carnival! New glass mosaics at Church Avenue station celebrate Flatbush's forgotten vaudeville stars and Afro-Caribbean parades. Over 10,000 people see them every day."
     },
     {
-      "id": "2026-06-16-fun-2",
-      "source": "Live Science",
-      "time_ago": "Tue, 16 Jun 2026 15:30:19 +0000",
-      "mined_at": "2026-06-16T19:00:35+00:00",
-      "source_published_at": "Tue, 16 Jun 2026 15:30:19 +0000",
-      "image_url": "/article_images/article_5985145ee07c.webp",
+      "id": "2026-06-17-fun-2",
+      "source": "Rolling Stone Music",
+      "time_ago": "Wed, 17 Jun 2026 18:01:57 +0000",
+      "mined_at": "2026-06-17T18:19:47+00:00",
+      "source_published_at": "Wed, 17 Jun 2026 18:01:57 +0000",
+      "image_url": "/article_images/article_18542da40880.webp",
       "category": "Fun",
-      "title": "This Astronaut Has One Leg — and He Might Go to Space!",
-      "summary": "John McFall lost his leg in a motorcycle crash at 19. Now he's a surgeon, a Paralympic medalist, and could be the first disabled astronaut in space! He might fly to a new space station next year."
+      "title": "Harry Styles's Secret Show: No Nipples, Just Pure Magic",
+      "summary": "Harry Styles ditched the stadium and played a tiny, one-night-only show with an orchestra. He sang a cover of \"Bridge Over Troubled Water\" that was so beautiful, people say it's the best he's ever sounded. Even his nipples stayed hidden!"
     },
     {
-      "id": "2026-06-16-fun-3",
-      "source": "Live Science",
-      "time_ago": "Tue, 16 Jun 2026 15:05:56 +0000",
-      "mined_at": "2026-06-16T19:00:35+00:00",
-      "source_published_at": "Tue, 16 Jun 2026 15:05:56 +0000",
-      "image_url": "/article_images/article_c779b7cb3d62.webp",
+      "id": "2026-06-17-fun-3",
+      "source": "NPR Music",
+      "time_ago": "Mon, 15 Jun 2026 12:27:07 -0400",
+      "mined_at": "2026-06-17T18:19:47+00:00",
+      "source_published_at": "Mon, 15 Jun 2026 12:27:07 -0400",
+      "image_url": "/article_images/article_df26df2bd178.webp",
       "category": "Fun",
-      "title": "Tick-Tock Goes the Nucleus! The World's First Nuclear Clock Is Here",
-      "summary": "Scientists built a clock that ticks using the heart of an atom — its nucleus! It's super precise and could help find dark matter or even a fifth force of nature. It ran for 24 hours straight!"
+      "title": "The Piano Whisperer: Remembering Abdullah Ibrahim, South Africa's Mozart",
+      "summary": "Abdullah Ibrahim, a jazz pianist so good Nelson Mandela called him South Africa's Mozart, has died at 91. He made music that felt like a quiet prayer, and his song \"Mannenberg\" became an unofficial anthem for freedom."
     }
   ]
 }

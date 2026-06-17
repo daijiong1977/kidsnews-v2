@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-16-news-1",
-      "source": "BBC News",
-      "time_ago": "Tue, 16 Jun 2026 15:28:15 GMT",
-      "mined_at": "2026-06-16T19:00:35+00:00",
-      "source_published_at": "Tue, 16 Jun 2026 15:28:15 GMT",
-      "image_url": "/article_images/article_6ed8ecd9b333.webp",
-      "category": "News",
-      "title": "UK Social Media Ban for Under-16s: Unanswered Questions on Roblox, YouTube, and More",
-      "summary": "The UK announced a sweeping social media ban for under-16s, but key details are missing. Will Roblox be included? How will YouTube enforce it? The government says more rules are coming in July, leaving millions of kids in limbo."
-    },
-    {
-      "id": "2026-06-16-news-2",
+      "id": "2026-06-17-news-1",
       "source": "NPR World",
-      "time_ago": "Tue, 16 Jun 2026 10:00:00 -0400",
-      "mined_at": "2026-06-16T19:00:35+00:00",
-      "source_published_at": "Tue, 16 Jun 2026 10:00:00 -0400",
-      "image_url": "/article_images/article_b5a6ca718b47.webp",
+      "time_ago": "Wed, 17 Jun 2026 05:00:00 -0400",
+      "mined_at": "2026-06-17T18:19:47+00:00",
+      "source_published_at": "Wed, 17 Jun 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_c0986bdf8dc6.webp",
       "category": "News",
-      "title": "Survey Reveals Working Parents' Constant Struggle: 'No Way to Be Two Things at Once'",
-      "summary": "A Pew Research Center survey of 2,242 working parents finds that most feel torn between job and family. Two-thirds of working moms and half of dads say they can't give 100% at home, highlighting the need for better support."
+      "title": "How a Stranger's Airplane Drawings Gave a Young Woman 'Realistic Hope' Before Brain Surgery",
+      "summary": "At 20, Rebecca Simonitsch faced brain surgery for epilepsy. On her flight home from Johns Hopkins, a stranger — a neuropsychologist — drew diagrams of the procedure on graph paper. His compassion eased her anxiety. She's been seizure-free for 25 years."
     },
     {
-      "id": "2026-06-16-news-3",
-      "source": "BBC News",
-      "time_ago": "Tue, 16 Jun 2026 14:11:30 GMT",
-      "mined_at": "2026-06-16T19:00:35+00:00",
-      "source_published_at": "Tue, 16 Jun 2026 14:11:30 GMT",
-      "image_url": "/article_images/article_4a73736c9706.webp",
+      "id": "2026-06-17-news-2",
+      "source": "Al Jazeera",
+      "time_ago": "Wed, 17 Jun 2026 16:43:43 +0000",
+      "mined_at": "2026-06-17T18:19:47+00:00",
+      "source_published_at": "Wed, 17 Jun 2026 16:43:43 +0000",
+      "image_url": "/article_images/article_406ba143d298.webp",
       "category": "News",
-      "title": "Three Reasons Ships Aren't Sailing Through the Strait of Hormuz Despite Trump's Announcement",
-      "summary": "President Trump declared the Strait of Hormuz 'open' after a deal with Iran, but over 250 tankers remain trapped in the Gulf. Security threats, sea mines, and deep mistrust are keeping captains from risking the passage."
+      "title": "Trump Delays Spy Chief Confirmation, Demands Surveillance and Voter ID Laws",
+      "summary": "President Trump postponed Jay Clayton's confirmation as Director of National Intelligence, keeping acting chief Bill Pulte. He's pressuring Democrats to renew a controversial surveillance law and pass voter ID legislation. Senators call the move regrettable and chaotic."
+    },
+    {
+      "id": "2026-06-17-news-3",
+      "source": "NPR World",
+      "time_ago": "Wed, 17 Jun 2026 12:43:26 -0400",
+      "mined_at": "2026-06-17T18:19:47+00:00",
+      "source_published_at": "Wed, 17 Jun 2026 12:43:26 -0400",
+      "image_url": "/article_images/article_bf90ec9234d6.webp",
+      "category": "News",
+      "title": "Arthur, Season's First Named Storm, Threatens Gulf Coast with 'Life-Threatening' Floods",
+      "summary": "Tropical Storm Arthur formed near Texas with 40 mph winds. The slow-moving system is expected to unleash up to 20 inches of rain, triggering flash flood warnings from Texas to Georgia. It's the earliest named storm since the average June 20 start."
     }
   ]
 }

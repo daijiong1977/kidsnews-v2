@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-16-news-1",
-      "source": "BBC News",
-      "time_ago": "Tue, 16 Jun 2026 15:28:15 GMT",
-      "mined_at": "2026-06-16T19:00:35+00:00",
-      "source_published_at": "Tue, 16 Jun 2026 15:28:15 GMT",
-      "image_url": "/article_images/article_6ed8ecd9b333.webp",
-      "category": "News",
-      "title": "UK's New Social Media Ban: What Happens to Roblox and YouTube?",
-      "summary": "The UK is banning under-16s from apps like TikTok and YouTube. But what about Roblox? The government hasn't decided yet, and kids are waiting to see if their favorite games will be blocked."
-    },
-    {
-      "id": "2026-06-16-news-2",
+      "id": "2026-06-17-news-1",
       "source": "NPR World",
-      "time_ago": "Tue, 16 Jun 2026 10:00:00 -0400",
-      "mined_at": "2026-06-16T19:00:35+00:00",
-      "source_published_at": "Tue, 16 Jun 2026 10:00:00 -0400",
-      "image_url": "/article_images/article_b5a6ca718b47.webp",
+      "time_ago": "Wed, 17 Jun 2026 05:00:00 -0400",
+      "mined_at": "2026-06-17T18:19:47+00:00",
+      "source_published_at": "Wed, 17 Jun 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_c0986bdf8dc6.webp",
       "category": "News",
-      "title": "Working Parents Feel Torn: 'No Way to Be Two Things at Once'",
-      "summary": "A new survey shows most working moms and dads feel they can't give 100% at home or at work. Amber Petersen, a mom in Iowa, says she's always pulled between her kids and her job—and she's not alone."
+      "title": "A Stranger on a Plane Drew Her Brain — and Changed Everything",
+      "summary": "Rebecca Simonitsch was scared about brain surgery. On her flight home, the man next to her turned out to be a brain expert. He drew pictures to explain the surgery, and his kindness gave her hope. She's been seizure-free for 25 years."
     },
     {
-      "id": "2026-06-16-news-3",
-      "source": "BBC News",
-      "time_ago": "Tue, 16 Jun 2026 14:11:30 GMT",
-      "mined_at": "2026-06-16T19:00:35+00:00",
-      "source_published_at": "Tue, 16 Jun 2026 14:11:30 GMT",
-      "image_url": "/article_images/article_4a73736c9706.webp",
+      "id": "2026-06-17-news-2",
+      "source": "Al Jazeera",
+      "time_ago": "Wed, 17 Jun 2026 16:43:43 +0000",
+      "mined_at": "2026-06-17T18:19:47+00:00",
+      "source_published_at": "Wed, 17 Jun 2026 16:43:43 +0000",
+      "image_url": "/article_images/article_406ba143d298.webp",
       "category": "News",
-      "title": "Why Ships Aren't Rushing Through the Strait of Hormuz Yet",
-      "summary": "President Trump said the Strait of Hormuz is open again, but ships aren't moving. There are still dangers like mines and attacks, so captains are waiting to see if it's really safe."
+      "title": "Why President Trump Hit Pause on a New Spy Boss",
+      "summary": "President Trump delayed the confirmation of his spy chief pick, Jay Clayton. He wants lawmakers to pass a surveillance law and a voter ID law first. The acting spy chief, Bill Pulte, will stay for now. Some senators are frustrated."
+    },
+    {
+      "id": "2026-06-17-news-3",
+      "source": "NPR World",
+      "time_ago": "Wed, 17 Jun 2026 12:43:26 -0400",
+      "mined_at": "2026-06-17T18:19:47+00:00",
+      "source_published_at": "Wed, 17 Jun 2026 12:43:26 -0400",
+      "image_url": "/article_images/article_bf90ec9234d6.webp",
+      "category": "News",
+      "title": "Tropical Storm Arthur Kicks Off Hurricane Season with a Soaking",
+      "summary": "Tropical Storm Arthur is the first named storm of the Atlantic season. It's near Texas with 40 mph winds. The biggest danger is heavy rain — up to 20 inches in some spots — which could cause dangerous flash floods."
     }
   ]
 }
