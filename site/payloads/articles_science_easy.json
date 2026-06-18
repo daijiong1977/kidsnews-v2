@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-17-science-1",
-      "source": "ScienceDaily All",
-      "time_ago": "Wed, 17 Jun 2026 08:19:43 EDT",
-      "mined_at": "2026-06-17T18:19:47+00:00",
-      "source_published_at": "Wed, 17 Jun 2026 08:19:43 EDT",
-      "image_url": "/article_images/article_d1bf49b25cd3.webp",
+      "id": "2026-06-18-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Tue, 16 Jun 2026 04:11:57 EDT",
+      "mined_at": "2026-06-18T18:28:39+00:00",
+      "source_published_at": "Tue, 16 Jun 2026 04:11:57 EDT",
+      "image_url": "/article_images/article_cebad8511574.webp",
       "category": "Science",
-      "title": "This Spider Pretends to Be a Mushroom — and Scientists Almost Missed It!",
-      "summary": "A spider in the Amazon looks exactly like a fungus that kills spiders. It stays super still on leaves, tricking predators and prey. Scientists first thought it was a mushroom!"
+      "title": "Alien Messages Might Be Hiding in a Cosmic Blur",
+      "summary": "Imagine shouting through a windy tunnel — your voice gets blurry. New research says stars do the same to alien radio signals, making them harder for us to catch. Scientists at the SETI Institute found that plasma around stars can smear narrow signals into a wider, quieter blur."
     },
     {
-      "id": "2026-06-17-science-2",
-      "source": "Space.com",
-      "time_ago": "Wed, 17 Jun 2026 18:00:00 +0000",
-      "mined_at": "2026-06-17T18:19:47+00:00",
-      "source_published_at": "Wed, 17 Jun 2026 18:00:00 +0000",
-      "image_url": "/article_images/article_66433a844f5e.webp",
+      "id": "2026-06-18-science-2",
+      "source": "Science News Explores",
+      "time_ago": "Wed, 17 Jun 2026 10:30:00 +0000",
+      "mined_at": "2026-06-18T18:28:39+00:00",
+      "source_published_at": "Wed, 17 Jun 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_9d7841d4cab4.webp",
       "category": "Science",
-      "title": "Warframe's New Update Lets You Choose Between Two Sons — From Different Universes!",
-      "summary": "In the game Warframe, a villain named Stalker now has twin sons from parallel timelines. Players must deal with both, and the update brings back epic space battles with huge spaceships called Railjacks."
+      "title": "Meet Bruce, the One-Beaked Boss of the Kea Circus",
+      "summary": "Bruce the kea parrot is missing his upper beak, but that hasn't stopped him from becoming the top bird at a New Zealand wildlife reserve. He wins every fight and gets first dibs on food. Scientists say he's the first disabled animal known to lead a group without help."
     },
     {
-      "id": "2026-06-17-science-3",
-      "source": "ScienceDaily All",
-      "time_ago": "Wed, 17 Jun 2026 10:25:31 EDT",
-      "mined_at": "2026-06-17T18:19:47+00:00",
-      "source_published_at": "Wed, 17 Jun 2026 10:25:31 EDT",
-      "image_url": "/article_images/article_90434e957531.webp",
+      "id": "2026-06-18-science-3",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Wed, 17 Jun 2026 04:24:20 EDT",
+      "mined_at": "2026-06-18T18:28:39+00:00",
+      "source_published_at": "Wed, 17 Jun 2026 04:24:20 EDT",
+      "image_url": "/article_images/article_193cd8738ffe.webp",
       "category": "Science",
-      "title": "Could Humans Regrow Limbs? Scientists Find a Hidden 'Repair Switch'",
-      "summary": "Scientists at Texas A&M made mice regrow bone and joints using a two-step treatment. They didn't add stem cells — they just told the body's own cells to build instead of scar. Humans might have the same hidden power."
+      "title": "Superconductors Just Got a Super Boost from Tiny Ridges",
+      "summary": "Superconductors can move electricity with zero waste, but they usually need extreme cold. Scientists in Sweden found a trick: by adding microscopic ridges to the surface beneath a superconductor, they made it work at higher temperatures and resist strong magnets."
     }
   ]
 }

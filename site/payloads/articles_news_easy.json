@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-17-news-1",
+      "id": "2026-06-18-news-1",
       "source": "NPR World",
-      "time_ago": "Wed, 17 Jun 2026 05:00:00 -0400",
-      "mined_at": "2026-06-17T18:19:47+00:00",
-      "source_published_at": "Wed, 17 Jun 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_c0986bdf8dc6.webp",
+      "time_ago": "Thu, 18 Jun 2026 09:00:00 -0400",
+      "mined_at": "2026-06-18T18:28:39+00:00",
+      "source_published_at": "Thu, 18 Jun 2026 09:00:00 -0400",
+      "image_url": "/article_images/article_d83bfe505515.webp",
       "category": "News",
-      "title": "A Stranger on a Plane Drew Her Brain — and Changed Everything",
-      "summary": "Rebecca Simonitsch was scared about brain surgery. On her flight home, the man next to her turned out to be a brain expert. He drew pictures to explain the surgery, and his kindness gave her hope. She's been seizure-free for 25 years."
+      "title": "A Missile That Runs on a Tiny Nuclear Reactor? Yep, and It's Flying Over the Arctic!",
+      "summary": "Russia tested a nuclear-powered missile called Skyfall that flew in loops for hours. Scientists say it likely spews radiation as it flies, putting people near the test site at risk. The missile could fly almost forever, making it a scary new weapon."
     },
     {
-      "id": "2026-06-17-news-2",
-      "source": "Al Jazeera",
-      "time_ago": "Wed, 17 Jun 2026 16:43:43 +0000",
-      "mined_at": "2026-06-17T18:19:47+00:00",
-      "source_published_at": "Wed, 17 Jun 2026 16:43:43 +0000",
-      "image_url": "/article_images/article_406ba143d298.webp",
+      "id": "2026-06-18-news-2",
+      "source": "BBC News",
+      "time_ago": "Thu, 18 Jun 2026 15:46:36 GMT",
+      "mined_at": "2026-06-18T18:28:39+00:00",
+      "source_published_at": "Thu, 18 Jun 2026 15:46:36 GMT",
+      "image_url": "/article_images/article_804665c74f49.webp",
       "category": "News",
-      "title": "Why President Trump Hit Pause on a New Spy Boss",
-      "summary": "President Trump delayed the confirmation of his spy chief pick, Jay Clayton. He wants lawmakers to pass a surveillance law and a voter ID law first. The acting spy chief, Bill Pulte, will stay for now. Some senators are frustrated."
+      "title": "Black Rain Falls on Moscow After Huge Drone Attack Hits Oil Refinery!",
+      "summary": "After Ukraine sent nearly 200 drones toward Moscow, a refinery was hit and black oily specks rained down on parts of the city. Russia says it shot down almost 1,000 drones nationwide. The attack was Ukraine's answer to a Russian strike on Kyiv."
     },
     {
-      "id": "2026-06-17-news-3",
+      "id": "2026-06-18-news-3",
       "source": "NPR World",
-      "time_ago": "Wed, 17 Jun 2026 12:43:26 -0400",
-      "mined_at": "2026-06-17T18:19:47+00:00",
-      "source_published_at": "Wed, 17 Jun 2026 12:43:26 -0400",
-      "image_url": "/article_images/article_bf90ec9234d6.webp",
+      "time_ago": "Thu, 18 Jun 2026 10:14:32 -0400",
+      "mined_at": "2026-06-18T18:28:39+00:00",
+      "source_published_at": "Thu, 18 Jun 2026 10:14:32 -0400",
+      "image_url": "/article_images/article_7ac7cbcda039.webp",
       "category": "News",
-      "title": "Tropical Storm Arthur Kicks Off Hurricane Season with a Soaking",
-      "summary": "Tropical Storm Arthur is the first named storm of the Atlantic season. It's near Texas with 40 mph winds. The biggest danger is heavy rain — up to 20 inches in some spots — which could cause dangerous flash floods."
+      "title": "Supreme Court Says Marijuana User Can Own Guns—Here's Why",
+      "summary": "The Supreme Court ruled that the government can't automatically ban a marijuana user from owning guns. The case involved a Texas man who used marijuana every other day. The court said the law was too vague, but it didn't say all drug users can have guns."
     }
   ]
 }

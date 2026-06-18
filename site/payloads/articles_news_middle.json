@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-17-news-1",
+      "id": "2026-06-18-news-1",
       "source": "NPR World",
-      "time_ago": "Wed, 17 Jun 2026 05:00:00 -0400",
-      "mined_at": "2026-06-17T18:19:47+00:00",
-      "source_published_at": "Wed, 17 Jun 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_c0986bdf8dc6.webp",
+      "time_ago": "Thu, 18 Jun 2026 09:00:00 -0400",
+      "mined_at": "2026-06-18T18:28:39+00:00",
+      "source_published_at": "Thu, 18 Jun 2026 09:00:00 -0400",
+      "image_url": "/article_images/article_d83bfe505515.webp",
       "category": "News",
-      "title": "How a Stranger's Airplane Drawings Gave a Young Woman 'Realistic Hope' Before Brain Surgery",
-      "summary": "At 20, Rebecca Simonitsch faced brain surgery for epilepsy. On her flight home from Johns Hopkins, a stranger — a neuropsychologist — drew diagrams of the procedure on graph paper. His compassion eased her anxiety. She's been seizure-free for 25 years."
+      "title": "Russia's 'Skyfall' Missile: A Flying Nuclear Reactor That Could Change Warfare Forever",
+      "summary": "Russia's nuclear-powered cruise missile, Skyfall, likely uses a direct-cycle reactor that spews radiation as it flies, MIT researchers say. The October test over the Arctic may mark the first nuclear-powered flight ever, raising fears of a dangerous new arms race."
     },
     {
-      "id": "2026-06-17-news-2",
-      "source": "Al Jazeera",
-      "time_ago": "Wed, 17 Jun 2026 16:43:43 +0000",
-      "mined_at": "2026-06-17T18:19:47+00:00",
-      "source_published_at": "Wed, 17 Jun 2026 16:43:43 +0000",
-      "image_url": "/article_images/article_406ba143d298.webp",
+      "id": "2026-06-18-news-2",
+      "source": "BBC News",
+      "time_ago": "Thu, 18 Jun 2026 15:46:36 GMT",
+      "mined_at": "2026-06-18T18:28:39+00:00",
+      "source_published_at": "Thu, 18 Jun 2026 15:46:36 GMT",
+      "image_url": "/article_images/article_804665c74f49.webp",
       "category": "News",
-      "title": "Trump Delays Spy Chief Confirmation, Demands Surveillance and Voter ID Laws",
-      "summary": "President Trump postponed Jay Clayton's confirmation as Director of National Intelligence, keeping acting chief Bill Pulte. He's pressuring Democrats to renew a controversial surveillance law and pass voter ID legislation. Senators call the move regrettable and chaotic."
+      "title": "Black Oily Specks Rain Down on Moscow After Ukraine's Largest Drone Barrage Hits Refinery",
+      "summary": "In the largest Ukrainian drone attack since the war began, nearly 200 drones targeted Moscow, striking a refinery and causing black oily residue to fall on parts of the city. Russia intercepted almost 1,000 drones nationwide, but the attack brought the war home to ordinary Russians."
     },
     {
-      "id": "2026-06-17-news-3",
+      "id": "2026-06-18-news-3",
       "source": "NPR World",
-      "time_ago": "Wed, 17 Jun 2026 12:43:26 -0400",
-      "mined_at": "2026-06-17T18:19:47+00:00",
-      "source_published_at": "Wed, 17 Jun 2026 12:43:26 -0400",
-      "image_url": "/article_images/article_bf90ec9234d6.webp",
+      "time_ago": "Thu, 18 Jun 2026 10:14:32 -0400",
+      "mined_at": "2026-06-18T18:28:39+00:00",
+      "source_published_at": "Thu, 18 Jun 2026 10:14:32 -0400",
+      "image_url": "/article_images/article_7ac7cbcda039.webp",
       "category": "News",
-      "title": "Arthur, Season's First Named Storm, Threatens Gulf Coast with 'Life-Threatening' Floods",
-      "summary": "Tropical Storm Arthur formed near Texas with 40 mph winds. The slow-moving system is expected to unleash up to 20 inches of rain, triggering flash flood warnings from Texas to Georgia. It's the earliest named storm since the average June 20 start."
+      "title": "Supreme Court Sides with Marijuana User, Rules Gun Ban Too Vague",
+      "summary": "The Supreme Court ruled that the federal ban on gun ownership by 'unlawful' drug users is unconstitutionally vague in the case of a Texas man who used marijuana every other day. The narrow decision doesn't legalize guns for all drug users but raises questions about Second Amendment limits."
     }
   ]
 }

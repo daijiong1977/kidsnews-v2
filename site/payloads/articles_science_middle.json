@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-17-science-1",
-      "source": "ScienceDaily All",
-      "time_ago": "Wed, 17 Jun 2026 08:19:43 EDT",
-      "mined_at": "2026-06-17T18:19:47+00:00",
-      "source_published_at": "Wed, 17 Jun 2026 08:19:43 EDT",
-      "image_url": "/article_images/article_d1bf49b25cd3.webp",
+      "id": "2026-06-18-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Tue, 16 Jun 2026 04:11:57 EDT",
+      "mined_at": "2026-06-18T18:28:39+00:00",
+      "source_published_at": "Tue, 16 Jun 2026 04:11:57 EDT",
+      "image_url": "/article_images/article_cebad8511574.webp",
       "category": "Science",
-      "title": "A Spider That Dresses Like a Killer Fungus: First-of-Its-Kind Mimicry Found in the Amazon",
-      "summary": "In Ecuador's Amazon, a spider mimics a parasitic fungus that infects spiders — the first known case of its kind. Its pale, spiky body and motionless pose fooled scientists who initially thought it was a mushroom."
+      "title": "Why We Might Be Missing Alien Signals: Stellar Weather Is Blurring the Message",
+      "summary": "The search for extraterrestrial intelligence has long focused on narrow radio signals. But new research shows that plasma turbulence around a star can spread those signals into a wider, fainter blur before they ever reach Earth. This could explain decades of radio silence."
     },
     {
-      "id": "2026-06-17-science-2",
-      "source": "Space.com",
-      "time_ago": "Wed, 17 Jun 2026 18:00:00 +0000",
-      "mined_at": "2026-06-17T18:19:47+00:00",
-      "source_published_at": "Wed, 17 Jun 2026 18:00:00 +0000",
-      "image_url": "/article_images/article_66433a844f5e.webp",
+      "id": "2026-06-18-science-2",
+      "source": "Science News Explores",
+      "time_ago": "Wed, 17 Jun 2026 10:30:00 +0000",
+      "mined_at": "2026-06-18T18:28:39+00:00",
+      "source_published_at": "Wed, 17 Jun 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_9d7841d4cab4.webp",
       "category": "Science",
-      "title": "Warframe's 'Constellations' Update Splits Reality: Stalker's Twin Sons Arrive from Parallel Timelines",
-      "summary": "Warframe's latest update delivers a narrative shocker: Stalker's child, named by players as either Sirius or Orion, now exists as twins from alternate realities. The update also revives Railjack space combat, setting the stage for a cosmic-scale story."
+      "title": "How a Disabled Parrot Fought His Way to the Top of the Pecking Order",
+      "summary": "Bruce, a kea with a missing upper beak, has become the dominant male in his aviary — the first disabled animal documented to achieve top rank without an ally. His secret? A unique jousting technique and a surprisingly low stress level."
     },
     {
-      "id": "2026-06-17-science-3",
-      "source": "ScienceDaily All",
-      "time_ago": "Wed, 17 Jun 2026 10:25:31 EDT",
-      "mined_at": "2026-06-17T18:19:47+00:00",
-      "source_published_at": "Wed, 17 Jun 2026 10:25:31 EDT",
-      "image_url": "/article_images/article_90434e957531.webp",
+      "id": "2026-06-18-science-3",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Wed, 17 Jun 2026 04:24:20 EDT",
+      "mined_at": "2026-06-18T18:28:39+00:00",
+      "source_published_at": "Wed, 17 Jun 2026 04:24:20 EDT",
+      "image_url": "/article_images/article_193cd8738ffe.webp",
       "category": "Science",
-      "title": "Your Body Might Know How to Regrow Limbs — Scientists Just Found the 'On' Switch",
-      "summary": "A Texas A&M team used a two-step growth factor treatment to regrow bone and joint tissue in mammals, without adding stem cells. The study suggests regenerative abilities are hidden, not absent, in humans."
+      "title": "A Nanoscale Wrinkle Could Finally Make Superconductors Practical",
+      "summary": "Superconductors promise lossless electricity, but they're fragile — failing under heat or magnetic fields. By sculpting a substrate with atomic-scale ridges, researchers at Chalmers University induced superconductivity at higher temperatures and in strong magnetic fields, a crucial step toward real-world use."
     }
   ]
 }
