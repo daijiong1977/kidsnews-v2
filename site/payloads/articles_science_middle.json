@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-18-science-1",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Tue, 16 Jun 2026 04:11:57 EDT",
-      "mined_at": "2026-06-18T18:28:39+00:00",
-      "source_published_at": "Tue, 16 Jun 2026 04:11:57 EDT",
-      "image_url": "/article_images/article_cebad8511574.webp",
+      "id": "2026-06-19-science-1",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Fri, 19 Jun 2026 01:27:46 EDT",
+      "mined_at": "2026-06-19T18:16:24+00:00",
+      "source_published_at": "Fri, 19 Jun 2026 01:27:46 EDT",
+      "image_url": "/article_images/article_03abfe0a2cc4.webp",
       "category": "Science",
-      "title": "Why We Might Be Missing Alien Signals: Stellar Weather Is Blurring the Message",
-      "summary": "The search for extraterrestrial intelligence has long focused on narrow radio signals. But new research shows that plasma turbulence around a star can spread those signals into a wider, fainter blur before they ever reach Earth. This could explain decades of radio silence."
+      "title": "Hidden 'Time Stamps' in Strawberry DNA Reveal a 4-Million-Year Family Saga",
+      "summary": "The garden strawberry's genome is an octoploid puzzle—eight chromosome sets from multiple ancestors. Using mobile DNA as evolutionary time stamps, researchers reconstructed three ancient hybridization events that built today's fruit, challenging previous origin theories."
     },
     {
-      "id": "2026-06-18-science-2",
-      "source": "Science News Explores",
-      "time_ago": "Wed, 17 Jun 2026 10:30:00 +0000",
-      "mined_at": "2026-06-18T18:28:39+00:00",
-      "source_published_at": "Wed, 17 Jun 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_9d7841d4cab4.webp",
+      "id": "2026-06-19-science-2",
+      "source": "MIT Tech Review",
+      "time_ago": "Fri, 19 Jun 2026 10:40:24 +0000",
+      "mined_at": "2026-06-19T18:16:24+00:00",
+      "source_published_at": "Fri, 19 Jun 2026 10:40:24 +0000",
+      "image_url": "/article_images/article_a97e6c8ae1b7.webp",
       "category": "Science",
-      "title": "How a Disabled Parrot Fought His Way to the Top of the Pecking Order",
-      "summary": "Bruce, a kea with a missing upper beak, has become the dominant male in his aviary — the first disabled animal documented to achieve top rank without an ally. His secret? A unique jousting technique and a surprisingly low stress level."
+      "title": "Startup Claims It Broke the Transformer Bottleneck—Independent Tests Back Some Boasts",
+      "summary": "Subquadratic's SubQ model uses sparse attention to slash the quadratic compute cost of transformers. Third-party benchmarks confirm speed and efficiency gains for data-heavy tasks, but the model remains unavailable for public testing, fueling skepticism."
     },
     {
-      "id": "2026-06-18-science-3",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Wed, 17 Jun 2026 04:24:20 EDT",
-      "mined_at": "2026-06-18T18:28:39+00:00",
-      "source_published_at": "Wed, 17 Jun 2026 04:24:20 EDT",
-      "image_url": "/article_images/article_193cd8738ffe.webp",
+      "id": "2026-06-19-science-3",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Fri, 19 Jun 2026 01:59:41 EDT",
+      "mined_at": "2026-06-19T18:16:24+00:00",
+      "source_published_at": "Fri, 19 Jun 2026 01:59:41 EDT",
+      "image_url": "/article_images/article_a0148520ca1c.webp",
       "category": "Science",
-      "title": "A Nanoscale Wrinkle Could Finally Make Superconductors Practical",
-      "summary": "Superconductors promise lossless electricity, but they're fragile — failing under heat or magnetic fields. By sculpting a substrate with atomic-scale ridges, researchers at Chalmers University induced superconductivity at higher temperatures and in strong magnetic fields, a crucial step toward real-world use."
+      "title": "Jackfruit Latex and Pomegranate Peel: An Unlikely Recipe for Regrowing Gum Tissue",
+      "summary": "A Brazilian research team created a mucoadhesive biomaterial from jackfruit latex, pomegranate peel extract, and simvastatin. In vitro, it promoted osteoinduction in stem cells, pointing to a potential regenerative treatment for periodontitis."
     }
   ]
 }

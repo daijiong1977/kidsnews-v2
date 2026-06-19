@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-18-science-1",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Tue, 16 Jun 2026 04:11:57 EDT",
-      "mined_at": "2026-06-18T18:28:39+00:00",
-      "source_published_at": "Tue, 16 Jun 2026 04:11:57 EDT",
-      "image_url": "/article_images/article_cebad8511574.webp",
+      "id": "2026-06-19-science-1",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Fri, 19 Jun 2026 01:27:46 EDT",
+      "mined_at": "2026-06-19T18:16:24+00:00",
+      "source_published_at": "Fri, 19 Jun 2026 01:27:46 EDT",
+      "image_url": "/article_images/article_03abfe0a2cc4.webp",
       "category": "Science",
-      "title": "Alien Messages Might Be Hiding in a Cosmic Blur",
-      "summary": "Imagine shouting through a windy tunnel — your voice gets blurry. New research says stars do the same to alien radio signals, making them harder for us to catch. Scientists at the SETI Institute found that plasma around stars can smear narrow signals into a wider, quieter blur."
+      "title": "DNA Time Stamps Unlock the Strawberry's Secret Family Tree",
+      "summary": "Strawberries have a super complicated DNA puzzle—eight sets of chromosomes from different ancestors, some maybe extinct. Scientists used 'DNA time stamps' to finally piece together when and how those ancestors merged millions of years ago."
     },
     {
-      "id": "2026-06-18-science-2",
-      "source": "Science News Explores",
-      "time_ago": "Wed, 17 Jun 2026 10:30:00 +0000",
-      "mined_at": "2026-06-18T18:28:39+00:00",
-      "source_published_at": "Wed, 17 Jun 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_9d7841d4cab4.webp",
+      "id": "2026-06-19-science-2",
+      "source": "MIT Tech Review",
+      "time_ago": "Fri, 19 Jun 2026 10:40:24 +0000",
+      "mined_at": "2026-06-19T18:16:24+00:00",
+      "source_published_at": "Fri, 19 Jun 2026 10:40:24 +0000",
+      "image_url": "/article_images/article_a97e6c8ae1b7.webp",
       "category": "Science",
-      "title": "Meet Bruce, the One-Beaked Boss of the Kea Circus",
-      "summary": "Bruce the kea parrot is missing his upper beak, but that hasn't stopped him from becoming the top bird at a New Zealand wildlife reserve. He wins every fight and gets first dibs on food. Scientists say he's the first disabled animal known to lead a group without help."
+      "title": "A New AI Brain That Reads 12x Faster—But Is It for Real?",
+      "summary": "A startup called Subquadratic says its new AI model, SubQ, can handle 12 times more text at once than top chatbots, using way less energy. Independent tests back up some claims, but many experts still want to try it themselves."
     },
     {
-      "id": "2026-06-18-science-3",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Wed, 17 Jun 2026 04:24:20 EDT",
-      "mined_at": "2026-06-18T18:28:39+00:00",
-      "source_published_at": "Wed, 17 Jun 2026 04:24:20 EDT",
-      "image_url": "/article_images/article_193cd8738ffe.webp",
+      "id": "2026-06-19-science-3",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Fri, 19 Jun 2026 01:59:41 EDT",
+      "mined_at": "2026-06-19T18:16:24+00:00",
+      "source_published_at": "Fri, 19 Jun 2026 01:59:41 EDT",
+      "image_url": "/article_images/article_a0148520ca1c.webp",
       "category": "Science",
-      "title": "Superconductors Just Got a Super Boost from Tiny Ridges",
-      "summary": "Superconductors can move electricity with zero waste, but they usually need extreme cold. Scientists in Sweden found a trick: by adding microscopic ridges to the surface beneath a superconductor, they made it work at higher temperatures and resist strong magnets."
+      "title": "Could a Giant, Spiky Fruit Help Fix Your Gums?",
+      "summary": "Scientists in Brazil mixed jackfruit latex, pomegranate peel, and a medicine into a sticky gel that might reverse gum disease damage. In lab tests, it helped stem cells turn into bone-building cells."
     }
   ]
 }

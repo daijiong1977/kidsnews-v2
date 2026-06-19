@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-18-news-1",
+      "id": "2026-06-19-news-1",
       "source": "NPR World",
-      "time_ago": "Thu, 18 Jun 2026 09:00:00 -0400",
-      "mined_at": "2026-06-18T18:28:39+00:00",
-      "source_published_at": "Thu, 18 Jun 2026 09:00:00 -0400",
-      "image_url": "/article_images/article_d83bfe505515.webp",
+      "time_ago": "Fri, 19 Jun 2026 05:00:00 -0400",
+      "mined_at": "2026-06-19T18:16:24+00:00",
+      "source_published_at": "Fri, 19 Jun 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_5db8e944aca2.webp",
       "category": "News",
-      "title": "A Missile That Runs on a Tiny Nuclear Reactor? Yep, and It's Flying Over the Arctic!",
-      "summary": "Russia tested a nuclear-powered missile called Skyfall that flew in loops for hours. Scientists say it likely spews radiation as it flies, putting people near the test site at risk. The missile could fly almost forever, making it a scary new weapon."
+      "title": "World Cup Fans Can't Get Enough of America's Giant Food and Yellow School Buses",
+      "summary": "A Japanese tourist's post about Texas Roadhouse bread got 200,000 views. World Cup visitors are discovering everyday America—from Buc-ee's to huge portions—and loving it, even as some wonder if the excitement is real."
     },
     {
-      "id": "2026-06-18-news-2",
-      "source": "BBC News",
-      "time_ago": "Thu, 18 Jun 2026 15:46:36 GMT",
-      "mined_at": "2026-06-18T18:28:39+00:00",
-      "source_published_at": "Thu, 18 Jun 2026 15:46:36 GMT",
-      "image_url": "/article_images/article_804665c74f49.webp",
+      "id": "2026-06-19-news-2",
+      "source": "NPR World",
+      "time_ago": "Fri, 19 Jun 2026 11:43:05 -0400",
+      "mined_at": "2026-06-19T18:16:24+00:00",
+      "source_published_at": "Fri, 19 Jun 2026 11:43:05 -0400",
+      "image_url": "/article_images/article_69fcf6121ff1.webp",
       "category": "News",
-      "title": "Black Rain Falls on Moscow After Huge Drone Attack Hits Oil Refinery!",
-      "summary": "After Ukraine sent nearly 200 drones toward Moscow, a refinery was hit and black oily specks rained down on parts of the city. Russia says it shot down almost 1,000 drones nationwide. The attack was Ukraine's answer to a Russian strike on Kyiv."
+      "title": "Why Did the Lincoln Memorial Reflecting Pool Turn Green?",
+      "summary": "The Reflecting Pool in Washington, D.C., turned bright green from algae just weeks after a Trump-ordered paint job. Scientists say the new dark blue bottom and hot weather made it a perfect home for the tiny plants."
     },
     {
-      "id": "2026-06-18-news-3",
-      "source": "NPR World",
-      "time_ago": "Thu, 18 Jun 2026 10:14:32 -0400",
-      "mined_at": "2026-06-18T18:28:39+00:00",
-      "source_published_at": "Thu, 18 Jun 2026 10:14:32 -0400",
-      "image_url": "/article_images/article_7ac7cbcda039.webp",
+      "id": "2026-06-19-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Fri, 19 Jun 2026 16:38:46 +0000",
+      "mined_at": "2026-06-19T18:16:24+00:00",
+      "source_published_at": "Fri, 19 Jun 2026 16:38:46 +0000",
+      "image_url": "/article_images/article_93b02506164e.webp",
       "category": "News",
-      "title": "Supreme Court Says Marijuana User Can Own Guns—Here's Why",
-      "summary": "The Supreme Court ruled that the government can't automatically ban a marijuana user from owning guns. The case involved a Texas man who used marijuana every other day. The court said the law was too vague, but it didn't say all drug users can have guns."
+      "title": "Did Italy's Leader Really 'Beg' for a Photo? A Big Fight with Trump",
+      "summary": "Italy's prime minister says Trump made up a story that she begged him for a photo. She fired back in a video, and Italy's foreign minister canceled a U.S. trip. Now the two allies are in a diplomatic spat."
     }
   ]
 }

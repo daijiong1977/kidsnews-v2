@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-18-news-1",
+      "id": "2026-06-19-news-1",
       "source": "NPR World",
-      "time_ago": "Thu, 18 Jun 2026 09:00:00 -0400",
-      "mined_at": "2026-06-18T18:28:39+00:00",
-      "source_published_at": "Thu, 18 Jun 2026 09:00:00 -0400",
-      "image_url": "/article_images/article_d83bfe505515.webp",
+      "time_ago": "Fri, 19 Jun 2026 05:00:00 -0400",
+      "mined_at": "2026-06-19T18:16:24+00:00",
+      "source_published_at": "Fri, 19 Jun 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_5db8e944aca2.webp",
       "category": "News",
-      "title": "Russia's 'Skyfall' Missile: A Flying Nuclear Reactor That Could Change Warfare Forever",
-      "summary": "Russia's nuclear-powered cruise missile, Skyfall, likely uses a direct-cycle reactor that spews radiation as it flies, MIT researchers say. The October test over the Arctic may mark the first nuclear-powered flight ever, raising fears of a dangerous new arms race."
+      "title": "From Buc-ee's to BBQ: World Cup Tourists Find Unexpected Joy in Everyday America",
+      "summary": "A Japanese fan's viral post about Texas Roadhouse bread sparked a wave of World Cup visitors sharing their love for American quirks—from Walmart to yellow school buses—offering a surprising soft-power boost amid global tensions."
     },
     {
-      "id": "2026-06-18-news-2",
-      "source": "BBC News",
-      "time_ago": "Thu, 18 Jun 2026 15:46:36 GMT",
-      "mined_at": "2026-06-18T18:28:39+00:00",
-      "source_published_at": "Thu, 18 Jun 2026 15:46:36 GMT",
-      "image_url": "/article_images/article_804665c74f49.webp",
+      "id": "2026-06-19-news-2",
+      "source": "NPR World",
+      "time_ago": "Fri, 19 Jun 2026 11:43:05 -0400",
+      "mined_at": "2026-06-19T18:16:24+00:00",
+      "source_published_at": "Fri, 19 Jun 2026 11:43:05 -0400",
+      "image_url": "/article_images/article_69fcf6121ff1.webp",
       "category": "News",
-      "title": "Black Oily Specks Rain Down on Moscow After Ukraine's Largest Drone Barrage Hits Refinery",
-      "summary": "In the largest Ukrainian drone attack since the war began, nearly 200 drones targeted Moscow, striking a refinery and causing black oily residue to fall on parts of the city. Russia intercepted almost 1,000 drones nationwide, but the attack brought the war home to ordinary Russians."
+      "title": "Trump's Blue Reflecting Pool Turns Green—Scientists Say It Was Inevitable",
+      "summary": "Days after a Trump-ordered repaint, the Lincoln Memorial Reflecting Pool turned green from algae. Experts call it 'New Pond Syndrome' and blame the dark bottom, heat, and stagnant water—a recurring problem since 1922."
     },
     {
-      "id": "2026-06-18-news-3",
-      "source": "NPR World",
-      "time_ago": "Thu, 18 Jun 2026 10:14:32 -0400",
-      "mined_at": "2026-06-18T18:28:39+00:00",
-      "source_published_at": "Thu, 18 Jun 2026 10:14:32 -0400",
-      "image_url": "/article_images/article_7ac7cbcda039.webp",
+      "id": "2026-06-19-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Fri, 19 Jun 2026 16:38:46 +0000",
+      "mined_at": "2026-06-19T18:16:24+00:00",
+      "source_published_at": "Fri, 19 Jun 2026 16:38:46 +0000",
+      "image_url": "/article_images/article_93b02506164e.webp",
       "category": "News",
-      "title": "Supreme Court Sides with Marijuana User, Rules Gun Ban Too Vague",
-      "summary": "The Supreme Court ruled that the federal ban on gun ownership by 'unlawful' drug users is unconstitutionally vague in the case of a Texas man who used marijuana every other day. The narrow decision doesn't legalize guns for all drug users but raises questions about Second Amendment limits."
+      "title": "Meloni Accuses Trump of Fabricating 'Begging' Story, Italy Cancels Diplomatic Visit",
+      "summary": "Italian PM Giorgia Meloni says Trump lied about her begging for a photo at the G7, calling his claim 'completely fabricated.' Italy's foreign minister canceled a U.S. trip, and officials invoked WWII sacrifices in a sharp diplomatic escalation."
     }
   ]
 }
