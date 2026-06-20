@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-19-science-1",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Fri, 19 Jun 2026 01:27:46 EDT",
-      "mined_at": "2026-06-19T18:16:24+00:00",
-      "source_published_at": "Fri, 19 Jun 2026 01:27:46 EDT",
-      "image_url": "/article_images/article_03abfe0a2cc4.webp",
+      "id": "2026-06-20-science-1",
+      "source": "NASA News",
+      "time_ago": "Thu, 18 Jun 2026 18:04:41 +0000",
+      "mined_at": "2026-06-20T18:17:45+00:00",
+      "source_published_at": "Thu, 18 Jun 2026 18:04:41 +0000",
+      "image_url": "/article_images/article_2262ff46a148.webp",
       "category": "Science",
-      "title": "DNA Time Stamps Unlock the Strawberry's Secret Family Tree",
-      "summary": "Strawberries have a super complicated DNA puzzle—eight sets of chromosomes from different ancestors, some maybe extinct. Scientists used 'DNA time stamps' to finally piece together when and how those ancestors merged millions of years ago."
+      "title": "This Space Peanut Wobbles Like a Top!",
+      "summary": "NASA's Lucy spacecraft flew past a peanut-shaped asteroid that doesn't spin like a normal rock — it wobbles! The asteroid, named Donaldjohanson, is only 155 million years old and once had water."
     },
     {
-      "id": "2026-06-19-science-2",
-      "source": "MIT Tech Review",
-      "time_ago": "Fri, 19 Jun 2026 10:40:24 +0000",
-      "mined_at": "2026-06-19T18:16:24+00:00",
-      "source_published_at": "Fri, 19 Jun 2026 10:40:24 +0000",
-      "image_url": "/article_images/article_a97e6c8ae1b7.webp",
+      "id": "2026-06-20-science-2",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Sat, 20 Jun 2026 01:23:46 EDT",
+      "mined_at": "2026-06-20T18:17:45+00:00",
+      "source_published_at": "Sat, 20 Jun 2026 01:23:46 EDT",
+      "image_url": "/article_images/article_31b757942277.webp",
       "category": "Science",
-      "title": "A New AI Brain That Reads 12x Faster—But Is It for Real?",
-      "summary": "A startup called Subquadratic says its new AI model, SubQ, can handle 12 times more text at once than top chatbots, using way less energy. Independent tests back up some claims, but many experts still want to try it themselves."
+      "title": "Secret Animal Teamwork: How Different Species Talk to Each Other!",
+      "summary": "Animals don't just chat with their own kind — they also communicate with other species to work together! Birds lead humans to honey, fish clean bigger fish, and butterflies ask ants for protection."
     },
     {
-      "id": "2026-06-19-science-3",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Fri, 19 Jun 2026 01:59:41 EDT",
-      "mined_at": "2026-06-19T18:16:24+00:00",
-      "source_published_at": "Fri, 19 Jun 2026 01:59:41 EDT",
-      "image_url": "/article_images/article_a0148520ca1c.webp",
+      "id": "2026-06-20-science-3",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Fri, 19 Jun 2026 08:50:45 EDT",
+      "mined_at": "2026-06-20T18:17:45+00:00",
+      "source_published_at": "Fri, 19 Jun 2026 08:50:45 EDT",
+      "image_url": "/article_images/article_a5d19f6bf98b.webp",
       "category": "Science",
-      "title": "Could a Giant, Spiky Fruit Help Fix Your Gums?",
-      "summary": "Scientists in Brazil mixed jackfruit latex, pomegranate peel, and a medicine into a sticky gel that might reverse gum disease damage. In lab tests, it helped stem cells turn into bone-building cells."
+      "title": "Math Whiz Cracks Wordle — Wins 99% of the Time!",
+      "summary": "Binghamton University researchers used a math trick called Shannon entropy to build a Wordle strategy that wins almost every game. The secret? Guess words that give the most clues, not the ones most likely to be right."
     }
   ]
 }

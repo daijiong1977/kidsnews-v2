@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-19-science-1",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Fri, 19 Jun 2026 01:27:46 EDT",
-      "mined_at": "2026-06-19T18:16:24+00:00",
-      "source_published_at": "Fri, 19 Jun 2026 01:27:46 EDT",
-      "image_url": "/article_images/article_03abfe0a2cc4.webp",
+      "id": "2026-06-20-science-1",
+      "source": "NASA News",
+      "time_ago": "Thu, 18 Jun 2026 18:04:41 +0000",
+      "mined_at": "2026-06-20T18:17:45+00:00",
+      "source_published_at": "Thu, 18 Jun 2026 18:04:41 +0000",
+      "image_url": "/article_images/article_2262ff46a148.webp",
       "category": "Science",
-      "title": "Hidden 'Time Stamps' in Strawberry DNA Reveal a 4-Million-Year Family Saga",
-      "summary": "The garden strawberry's genome is an octoploid puzzle—eight chromosome sets from multiple ancestors. Using mobile DNA as evolutionary time stamps, researchers reconstructed three ancient hybridization events that built today's fruit, challenging previous origin theories."
+      "title": "NASA's Lucy Spies a Wobbly, Peanut-Shaped Asteroid with a Watery Past",
+      "summary": "The asteroid Donaldjohanson is a wobbly, bilobate rock that once held liquid water. Lucy's flyby revealed a complex rotation and a surprisingly young age of 155 million years. This practice run sets the stage for exploring Jupiter's Trojans."
     },
     {
-      "id": "2026-06-19-science-2",
-      "source": "MIT Tech Review",
-      "time_ago": "Fri, 19 Jun 2026 10:40:24 +0000",
-      "mined_at": "2026-06-19T18:16:24+00:00",
-      "source_published_at": "Fri, 19 Jun 2026 10:40:24 +0000",
-      "image_url": "/article_images/article_a97e6c8ae1b7.webp",
+      "id": "2026-06-20-science-2",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Sat, 20 Jun 2026 01:23:46 EDT",
+      "mined_at": "2026-06-20T18:17:45+00:00",
+      "source_published_at": "Sat, 20 Jun 2026 01:23:46 EDT",
+      "image_url": "/article_images/article_31b757942277.webp",
       "category": "Science",
-      "title": "Startup Claims It Broke the Transformer Bottleneck—Independent Tests Back Some Boasts",
-      "summary": "Subquadratic's SubQ model uses sparse attention to slash the quadratic compute cost of transformers. Third-party benchmarks confirm speed and efficiency gains for data-heavy tasks, but the model remains unavailable for public testing, fueling skepticism."
+      "title": "The Hidden Language of Cross-Species Cooperation",
+      "summary": "A new review reveals how animals use specialized signals to coordinate across species. From honeyguide birds leading humans to bees' nests to cleaner fish advertising their services, communication is key to these mutualistic partnerships."
     },
     {
-      "id": "2026-06-19-science-3",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Fri, 19 Jun 2026 01:59:41 EDT",
-      "mined_at": "2026-06-19T18:16:24+00:00",
-      "source_published_at": "Fri, 19 Jun 2026 01:59:41 EDT",
-      "image_url": "/article_images/article_a0148520ca1c.webp",
+      "id": "2026-06-20-science-3",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Fri, 19 Jun 2026 08:50:45 EDT",
+      "mined_at": "2026-06-20T18:17:45+00:00",
+      "source_published_at": "Fri, 19 Jun 2026 08:50:45 EDT",
+      "image_url": "/article_images/article_a5d19f6bf98b.webp",
       "category": "Science",
-      "title": "Jackfruit Latex and Pomegranate Peel: An Unlikely Recipe for Regrowing Gum Tissue",
-      "summary": "A Brazilian research team created a mucoadhesive biomaterial from jackfruit latex, pomegranate peel extract, and simvastatin. In vitro, it promoted osteoinduction in stem cells, pointing to a potential regenerative treatment for periodontitis."
+      "title": "Cracking Wordle: How Information Theory Wins 99% of the Time",
+      "summary": "Binghamton University researchers have developed a Wordle strategy using Shannon entropy that achieves a 99% success rate. By prioritizing informative guesses over likely answers, the method dramatically narrows possibilities."
     }
   ]
 }

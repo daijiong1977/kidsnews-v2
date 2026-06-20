@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-19-news-1",
+      "id": "2026-06-20-news-1",
       "source": "NPR World",
-      "time_ago": "Fri, 19 Jun 2026 05:00:00 -0400",
-      "mined_at": "2026-06-19T18:16:24+00:00",
-      "source_published_at": "Fri, 19 Jun 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_5db8e944aca2.webp",
+      "time_ago": "Fri, 19 Jun 2026 06:30:52 -0400",
+      "mined_at": "2026-06-20T18:17:45+00:00",
+      "source_published_at": "Fri, 19 Jun 2026 06:30:52 -0400",
+      "image_url": "/article_images/article_2bb1125f8876.webp",
       "category": "News",
-      "title": "From Buc-ee's to BBQ: World Cup Tourists Find Unexpected Joy in Everyday America",
-      "summary": "A Japanese fan's viral post about Texas Roadhouse bread sparked a wave of World Cup visitors sharing their love for American quirks—from Walmart to yellow school buses—offering a surprising soft-power boost amid global tensions."
+      "title": "Trump’s Iran Deal: A Fragile Pause in a Devastating War",
+      "summary": "A U.S.-Iran memorandum promises to halt a 3.5-month conflict that’s killed thousands and rocked the global economy. But Israel’s ongoing strikes in Lebanon and defiance from Netanyahu’s government threaten the 60-day truce before it starts."
     },
     {
-      "id": "2026-06-19-news-2",
-      "source": "NPR World",
-      "time_ago": "Fri, 19 Jun 2026 11:43:05 -0400",
-      "mined_at": "2026-06-19T18:16:24+00:00",
-      "source_published_at": "Fri, 19 Jun 2026 11:43:05 -0400",
-      "image_url": "/article_images/article_69fcf6121ff1.webp",
-      "category": "News",
-      "title": "Trump's Blue Reflecting Pool Turns Green—Scientists Say It Was Inevitable",
-      "summary": "Days after a Trump-ordered repaint, the Lincoln Memorial Reflecting Pool turned green from algae. Experts call it 'New Pond Syndrome' and blame the dark bottom, heat, and stagnant water—a recurring problem since 1922."
-    },
-    {
-      "id": "2026-06-19-news-3",
+      "id": "2026-06-20-news-2",
       "source": "Al Jazeera",
-      "time_ago": "Fri, 19 Jun 2026 16:38:46 +0000",
-      "mined_at": "2026-06-19T18:16:24+00:00",
-      "source_published_at": "Fri, 19 Jun 2026 16:38:46 +0000",
-      "image_url": "/article_images/article_93b02506164e.webp",
+      "time_ago": "Sat, 20 Jun 2026 17:31:45 +0000",
+      "mined_at": "2026-06-20T18:17:45+00:00",
+      "source_published_at": "Sat, 20 Jun 2026 17:31:45 +0000",
+      "image_url": "/article_images/article_ada89edde033.webp",
       "category": "News",
-      "title": "Meloni Accuses Trump of Fabricating 'Begging' Story, Italy Cancels Diplomatic Visit",
-      "summary": "Italian PM Giorgia Meloni says Trump lied about her begging for a photo at the G7, calling his claim 'completely fabricated.' Italy's foreign minister canceled a U.S. trip, and officials invoked WWII sacrifices in a sharp diplomatic escalation."
+      "title": "30 Years After Landmark ILO Convention, Home-Based Workers Still Fight for Equality",
+      "summary": "Convention 177 recognized home-based workers as equal to traditional wage earners in 1996. Yet only 13 nations have ratified it, and in India, women like Shehnaz Bano earn just 100 rupees per leather jacket piece with no social protections."
+    },
+    {
+      "id": "2026-06-20-news-3",
+      "source": "BBC News",
+      "time_ago": "Sat, 20 Jun 2026 11:55:37 GMT",
+      "mined_at": "2026-06-20T18:17:45+00:00",
+      "source_published_at": "Sat, 20 Jun 2026 11:55:37 GMT",
+      "image_url": "/article_images/article_651bf41da65e.webp",
+      "category": "News",
+      "title": "Sibling Rivalry Goes Global: Brothers Could Clash at the World Cup",
+      "summary": "Desire and Guela Doue, brothers from Angers, France, could face each other on June 30 if France and Ivory Coast meet in the World Cup’s round of 32. They’re among four sets of siblings playing for different nations this summer."
     }
   ]
 }
