@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-20-science-1",
-      "source": "NASA News",
-      "time_ago": "Thu, 18 Jun 2026 18:04:41 +0000",
-      "mined_at": "2026-06-20T18:17:45+00:00",
-      "source_published_at": "Thu, 18 Jun 2026 18:04:41 +0000",
-      "image_url": "/article_images/article_2262ff46a148.webp",
+      "id": "2026-06-21-science-1",
+      "source": "ScienceDaily All",
+      "time_ago": "Sun, 21 Jun 2026 10:06:09 EDT",
+      "mined_at": "2026-06-21T18:06:51+00:00",
+      "source_published_at": "Sun, 21 Jun 2026 10:06:09 EDT",
+      "image_url": "/article_images/article_1b4b7a8f43b5.webp",
       "category": "Science",
-      "title": "This Space Peanut Wobbles Like a Top!",
-      "summary": "NASA's Lucy spacecraft flew past a peanut-shaped asteroid that doesn't spin like a normal rock — it wobbles! The asteroid, named Donaldjohanson, is only 155 million years old and once had water."
+      "title": "A New Battery Made from Salt? It Could Power Cars One Day!",
+      "summary": "Imagine a battery that uses cheap, common salt instead of expensive lithium. Chinese scientists made one that's almost as good as Tesla's best. It still needs work for cold weather, but it could make electric cars cheaper."
     },
     {
-      "id": "2026-06-20-science-2",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Sat, 20 Jun 2026 01:23:46 EDT",
-      "mined_at": "2026-06-20T18:17:45+00:00",
-      "source_published_at": "Sat, 20 Jun 2026 01:23:46 EDT",
-      "image_url": "/article_images/article_31b757942277.webp",
+      "id": "2026-06-21-science-2",
+      "source": "ScienceDaily All",
+      "time_ago": "Sun, 21 Jun 2026 09:40:21 EDT",
+      "mined_at": "2026-06-21T18:06:51+00:00",
+      "source_published_at": "Sun, 21 Jun 2026 09:40:21 EDT",
+      "image_url": "/article_images/article_0828ea93467f.webp",
       "category": "Science",
-      "title": "Secret Animal Teamwork: How Different Species Talk to Each Other!",
-      "summary": "Animals don't just chat with their own kind — they also communicate with other species to work together! Birds lead humans to honey, fish clean bigger fish, and butterflies ask ants for protection."
+      "title": "Why Are Lakes Turning Brown? It's Changing Who Lives Underwater!",
+      "summary": "Lakes across North America and Europe are getting darker, like tea. This makes it hard for some fish to see and catch food. Trout and bass are disappearing, but pike and walleye are loving it. Here's why — and what it means for your next fishing trip."
     },
     {
-      "id": "2026-06-20-science-3",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Fri, 19 Jun 2026 08:50:45 EDT",
-      "mined_at": "2026-06-20T18:17:45+00:00",
-      "source_published_at": "Fri, 19 Jun 2026 08:50:45 EDT",
-      "image_url": "/article_images/article_a5d19f6bf98b.webp",
+      "id": "2026-06-21-science-3",
+      "source": "ScienceDaily All",
+      "time_ago": "Sun, 21 Jun 2026 09:08:10 EDT",
+      "mined_at": "2026-06-21T18:06:51+00:00",
+      "source_published_at": "Sun, 21 Jun 2026 09:08:10 EDT",
+      "image_url": "/article_images/article_1958b91e395e.webp",
       "category": "Science",
-      "title": "Math Whiz Cracks Wordle — Wins 99% of the Time!",
-      "summary": "Binghamton University researchers used a math trick called Shannon entropy to build a Wordle strategy that wins almost every game. The secret? Guess words that give the most clues, not the ones most likely to be right."
+      "title": "A Tiny Protein in Your Brain Might Stop Alzheimer's — Here's How",
+      "summary": "Scientists found a brain protein called tubulin that keeps two troublemaker proteins from clumping up. Those clumps cause Alzheimer's and Parkinson's. Tubulin gives them a job to do instead, like a teacher keeping kids busy so they don't cause trouble."
     }
   ]
 }

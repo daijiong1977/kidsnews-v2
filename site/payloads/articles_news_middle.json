@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-20-news-1",
-      "source": "NPR World",
-      "time_ago": "Fri, 19 Jun 2026 06:30:52 -0400",
-      "mined_at": "2026-06-20T18:17:45+00:00",
-      "source_published_at": "Fri, 19 Jun 2026 06:30:52 -0400",
-      "image_url": "/article_images/article_2bb1125f8876.webp",
-      "category": "News",
-      "title": "Trump’s Iran Deal: A Fragile Pause in a Devastating War",
-      "summary": "A U.S.-Iran memorandum promises to halt a 3.5-month conflict that’s killed thousands and rocked the global economy. But Israel’s ongoing strikes in Lebanon and defiance from Netanyahu’s government threaten the 60-day truce before it starts."
-    },
-    {
-      "id": "2026-06-20-news-2",
+      "id": "2026-06-21-news-1",
       "source": "Al Jazeera",
-      "time_ago": "Sat, 20 Jun 2026 17:31:45 +0000",
-      "mined_at": "2026-06-20T18:17:45+00:00",
-      "source_published_at": "Sat, 20 Jun 2026 17:31:45 +0000",
-      "image_url": "/article_images/article_ada89edde033.webp",
+      "time_ago": "Sun, 21 Jun 2026 17:01:50 +0000",
+      "mined_at": "2026-06-21T18:06:51+00:00",
+      "source_published_at": "Sun, 21 Jun 2026 17:01:50 +0000",
+      "image_url": "/article_images/article_f59de8930671.webp",
       "category": "News",
-      "title": "30 Years After Landmark ILO Convention, Home-Based Workers Still Fight for Equality",
-      "summary": "Convention 177 recognized home-based workers as equal to traditional wage earners in 1996. Yet only 13 nations have ratified it, and in India, women like Shehnaz Bano earn just 100 rupees per leather jacket piece with no social protections."
+      "title": "Khamenei’s Reluctant Approval Fuels Debate as U.S.-Iran Talks Begin",
+      "summary": "Iran’s supreme leader said he disagreed with the MoU but approved it anyway. Negotiators met in Switzerland Sunday, but hardliners are using state media to attack the deal, and a TV chief resigned after airing criticism."
     },
     {
-      "id": "2026-06-20-news-3",
-      "source": "BBC News",
-      "time_ago": "Sat, 20 Jun 2026 11:55:37 GMT",
-      "mined_at": "2026-06-20T18:17:45+00:00",
-      "source_published_at": "Sat, 20 Jun 2026 11:55:37 GMT",
-      "image_url": "/article_images/article_651bf41da65e.webp",
+      "id": "2026-06-21-news-2",
+      "source": "Al Jazeera",
+      "time_ago": "Sun, 21 Jun 2026 17:07:52 +0000",
+      "mined_at": "2026-06-21T18:06:51+00:00",
+      "source_published_at": "Sun, 21 Jun 2026 17:07:52 +0000",
+      "image_url": "/article_images/article_69df711ac695.webp",
       "category": "News",
-      "title": "Sibling Rivalry Goes Global: Brothers Could Clash at the World Cup",
-      "summary": "Desire and Guela Doue, brothers from Angers, France, could face each other on June 30 if France and Ivory Coast meet in the World Cup’s round of 32. They’re among four sets of siblings playing for different nations this summer."
+      "title": "Abiy Ahmed’s Party Sweeps Election, But Tigray Tensions Loom",
+      "summary": "Ethiopia’s Prosperity Party won over 90% of seats, securing PM Abiy Ahmed another term. But analysts warn of renewed conflict after Tigray’s ruling party violated a 2022 peace deal, and elections were canceled there."
+    },
+    {
+      "id": "2026-06-21-news-3",
+      "source": "NPR World",
+      "time_ago": "Sun, 21 Jun 2026 09:46:25 -0400",
+      "mined_at": "2026-06-21T18:06:51+00:00",
+      "source_published_at": "Sun, 21 Jun 2026 09:46:25 -0400",
+      "image_url": "/article_images/article_96df57637650.webp",
+      "category": "News",
+      "title": "Trump Blames Vandalism for Reflecting Pool Damage; Experts Point to Algae",
+      "summary": "President Trump claimed vandals slashed the Reflecting Pool’s lining and poured chemicals, leading to arrests. But scientists say the green water is a natural algae bloom, and law enforcement hasn’t confirmed any arrests."
     }
   ]
 }

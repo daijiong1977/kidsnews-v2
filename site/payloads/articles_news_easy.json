@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-20-news-1",
-      "source": "NPR World",
-      "time_ago": "Fri, 19 Jun 2026 06:30:52 -0400",
-      "mined_at": "2026-06-20T18:17:45+00:00",
-      "source_published_at": "Fri, 19 Jun 2026 06:30:52 -0400",
-      "image_url": "/article_images/article_2bb1125f8876.webp",
-      "category": "News",
-      "title": "A Deal to Stop the Bombs — But Will It Last?",
-      "summary": "President Trump signed a paper with Iran to pause a war that has killed thousands. But Israel is still fighting in Lebanon, and leaders are arguing. Can a 60-day window really bring peace?"
-    },
-    {
-      "id": "2026-06-20-news-2",
+      "id": "2026-06-21-news-1",
       "source": "Al Jazeera",
-      "time_ago": "Sat, 20 Jun 2026 17:31:45 +0000",
-      "mined_at": "2026-06-20T18:17:45+00:00",
-      "source_published_at": "Sat, 20 Jun 2026 17:31:45 +0000",
-      "image_url": "/article_images/article_ada89edde033.webp",
+      "time_ago": "Sun, 21 Jun 2026 17:01:50 +0000",
+      "mined_at": "2026-06-21T18:06:51+00:00",
+      "source_published_at": "Sun, 21 Jun 2026 17:01:50 +0000",
+      "image_url": "/article_images/article_f59de8930671.webp",
       "category": "News",
-      "title": "Working at Home, But Treated Unfairly — Millions of Women Speak Up",
-      "summary": "Thirty years ago, a big rule called Convention 177 said home-based workers should have the same rights as factory workers. But only 13 countries agreed to it, and in India, women like Shehnaz Bano still earn just $1 per jacket piece."
+      "title": "Iran’s Secret Leader Says “I Disagreed” — But Peace Talks Go On",
+      "summary": "Iran’s top leader Mojtaba Khamenei said he didn’t want the deal with the U.S., but he let it happen anyway. Now both sides are in Switzerland to work out a 60-day peace plan."
     },
     {
-      "id": "2026-06-20-news-3",
-      "source": "BBC News",
-      "time_ago": "Sat, 20 Jun 2026 11:55:37 GMT",
-      "mined_at": "2026-06-20T18:17:45+00:00",
-      "source_published_at": "Sat, 20 Jun 2026 11:55:37 GMT",
-      "image_url": "/article_images/article_651bf41da65e.webp",
+      "id": "2026-06-21-news-2",
+      "source": "Al Jazeera",
+      "time_ago": "Sun, 21 Jun 2026 17:07:52 +0000",
+      "mined_at": "2026-06-21T18:06:51+00:00",
+      "source_published_at": "Sun, 21 Jun 2026 17:07:52 +0000",
+      "image_url": "/article_images/article_69df711ac695.webp",
       "category": "News",
-      "title": "Brothers on Opposite Teams at the World Cup — Who Does Mom Cheer For?",
-      "summary": "Desire and Guela Doue grew up together in France but now play for different countries. At the World Cup, they could face each other on June 30. Four sets of siblings are in the tournament, but these two might actually play against each other!"
+      "title": "Ethiopia’s Nobel-Winning Leader Wins Big Again — But Not Everyone Is Cheering",
+      "summary": "Prime Minister Abiy Ahmed’s party won over 90% of seats in Ethiopia’s election. He’s a Nobel Peace Prize winner, but some say he’s cracking down on critics and violence is growing in parts of the country."
+    },
+    {
+      "id": "2026-06-21-news-3",
+      "source": "NPR World",
+      "time_ago": "Sun, 21 Jun 2026 09:46:25 -0400",
+      "mined_at": "2026-06-21T18:06:51+00:00",
+      "source_published_at": "Sun, 21 Jun 2026 09:46:25 -0400",
+      "image_url": "/article_images/article_96df57637650.webp",
+      "category": "News",
+      "title": "Trump Says Vandals Slashed the Reflecting Pool — Scientists Say It’s Just Algae",
+      "summary": "President Trump claims people cut a 250-foot gash in the Lincoln Memorial Reflecting Pool and poured chemicals in. But scientists say the green water is just algae, and no arrests have been confirmed."
     }
   ]
 }

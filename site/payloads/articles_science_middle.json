@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-20-science-1",
-      "source": "NASA News",
-      "time_ago": "Thu, 18 Jun 2026 18:04:41 +0000",
-      "mined_at": "2026-06-20T18:17:45+00:00",
-      "source_published_at": "Thu, 18 Jun 2026 18:04:41 +0000",
-      "image_url": "/article_images/article_2262ff46a148.webp",
+      "id": "2026-06-21-science-1",
+      "source": "ScienceDaily All",
+      "time_ago": "Sun, 21 Jun 2026 10:06:09 EDT",
+      "mined_at": "2026-06-21T18:06:51+00:00",
+      "source_published_at": "Sun, 21 Jun 2026 10:06:09 EDT",
+      "image_url": "/article_images/article_1b4b7a8f43b5.webp",
       "category": "Science",
-      "title": "NASA's Lucy Spies a Wobbly, Peanut-Shaped Asteroid with a Watery Past",
-      "summary": "The asteroid Donaldjohanson is a wobbly, bilobate rock that once held liquid water. Lucy's flyby revealed a complex rotation and a surprisingly young age of 155 million years. This practice run sets the stage for exploring Jupiter's Trojans."
+      "title": "Sodium Batteries Hit a Tesla-Level Milestone — But There's a Chilly Problem",
+      "summary": "Chinese company Hina's sodium-ion battery matched Tesla's manufacturing quality in a new study. It's a big step toward cheaper EVs, but it struggles to charge in the cold. Researchers found unexpected copper in the cathode, raising new questions."
     },
     {
-      "id": "2026-06-20-science-2",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Sat, 20 Jun 2026 01:23:46 EDT",
-      "mined_at": "2026-06-20T18:17:45+00:00",
-      "source_published_at": "Sat, 20 Jun 2026 01:23:46 EDT",
-      "image_url": "/article_images/article_31b757942277.webp",
+      "id": "2026-06-21-science-2",
+      "source": "ScienceDaily All",
+      "time_ago": "Sun, 21 Jun 2026 09:40:21 EDT",
+      "mined_at": "2026-06-21T18:06:51+00:00",
+      "source_published_at": "Sun, 21 Jun 2026 09:40:21 EDT",
+      "image_url": "/article_images/article_0828ea93467f.webp",
       "category": "Science",
-      "title": "The Hidden Language of Cross-Species Cooperation",
-      "summary": "A new review reveals how animals use specialized signals to coordinate across species. From honeyguide birds leading humans to bees' nests to cleaner fish advertising their services, communication is key to these mutualistic partnerships."
+      "title": "As Lakes Go Dark, a Fish Shake-Up: Trout Out, Pike In",
+      "summary": "Freshwater browning is reshaping fish communities across 871 North American and European lakes. Trout, bass, and perch are declining as water darkens, while walleye and pike thrive thanks to specialized senses. The study offers practical tips for anglers."
     },
     {
-      "id": "2026-06-20-science-3",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Fri, 19 Jun 2026 08:50:45 EDT",
-      "mined_at": "2026-06-20T18:17:45+00:00",
-      "source_published_at": "Fri, 19 Jun 2026 08:50:45 EDT",
-      "image_url": "/article_images/article_a5d19f6bf98b.webp",
+      "id": "2026-06-21-science-3",
+      "source": "ScienceDaily All",
+      "time_ago": "Sun, 21 Jun 2026 09:08:10 EDT",
+      "mined_at": "2026-06-21T18:06:51+00:00",
+      "source_published_at": "Sun, 21 Jun 2026 09:08:10 EDT",
+      "image_url": "/article_images/article_1958b91e395e.webp",
       "category": "Science",
-      "title": "Cracking Wordle: How Information Theory Wins 99% of the Time",
-      "summary": "Binghamton University researchers have developed a Wordle strategy using Shannon entropy that achieves a 99% success rate. By prioritizing informative guesses over likely answers, the method dramatically narrows possibilities."
+      "title": "Your Brain's 'Railway Tracks' Could Derail Alzheimer's, Scientists Say",
+      "summary": "Baylor researchers found that tubulin, the building block of microtubules, prevents Tau and alpha-synuclein from forming toxic clumps linked to Alzheimer's and Parkinson's. The study suggests boosting tubulin could be a new therapeutic strategy."
     }
   ]
 }
