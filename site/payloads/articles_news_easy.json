@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-21-news-1",
-      "source": "Al Jazeera",
-      "time_ago": "Sun, 21 Jun 2026 17:01:50 +0000",
-      "mined_at": "2026-06-21T18:06:51+00:00",
-      "source_published_at": "Sun, 21 Jun 2026 17:01:50 +0000",
-      "image_url": "/article_images/article_f59de8930671.webp",
-      "category": "News",
-      "title": "Iran’s Secret Leader Says “I Disagreed” — But Peace Talks Go On",
-      "summary": "Iran’s top leader Mojtaba Khamenei said he didn’t want the deal with the U.S., but he let it happen anyway. Now both sides are in Switzerland to work out a 60-day peace plan."
-    },
-    {
-      "id": "2026-06-21-news-2",
-      "source": "Al Jazeera",
-      "time_ago": "Sun, 21 Jun 2026 17:07:52 +0000",
-      "mined_at": "2026-06-21T18:06:51+00:00",
-      "source_published_at": "Sun, 21 Jun 2026 17:07:52 +0000",
-      "image_url": "/article_images/article_69df711ac695.webp",
-      "category": "News",
-      "title": "Ethiopia’s Nobel-Winning Leader Wins Big Again — But Not Everyone Is Cheering",
-      "summary": "Prime Minister Abiy Ahmed’s party won over 90% of seats in Ethiopia’s election. He’s a Nobel Peace Prize winner, but some say he’s cracking down on critics and violence is growing in parts of the country."
-    },
-    {
-      "id": "2026-06-21-news-3",
+      "id": "2026-06-22-news-1",
       "source": "NPR World",
-      "time_ago": "Sun, 21 Jun 2026 09:46:25 -0400",
-      "mined_at": "2026-06-21T18:06:51+00:00",
-      "source_published_at": "Sun, 21 Jun 2026 09:46:25 -0400",
-      "image_url": "/article_images/article_96df57637650.webp",
+      "time_ago": "Mon, 22 Jun 2026 09:32:09 -0400",
+      "mined_at": "2026-06-22T18:49:48+00:00",
+      "source_published_at": "Mon, 22 Jun 2026 09:32:09 -0400",
+      "image_url": "/article_images/article_47ad9d150fbd.webp",
       "category": "News",
-      "title": "Trump Says Vandals Slashed the Reflecting Pool — Scientists Say It’s Just Algae",
-      "summary": "President Trump claims people cut a 250-foot gash in the Lincoln Memorial Reflecting Pool and poured chemicals in. But scientists say the green water is just algae, and no arrests have been confirmed."
+      "title": "Supreme Court Says Private Groups Can't Sue to Protect Voters in 7 States",
+      "summary": "Imagine needing help to vote because you can't read the ballot. The Supreme Court just let a ruling stand that stops private groups from suing to protect that right in 7 states. This could make it harder for some people to vote."
+    },
+    {
+      "id": "2026-06-22-news-2",
+      "source": "NPR World",
+      "time_ago": "Mon, 22 Jun 2026 07:53:51 -0400",
+      "mined_at": "2026-06-22T18:49:48+00:00",
+      "source_published_at": "Mon, 22 Jun 2026 07:53:51 -0400",
+      "image_url": "/article_images/article_539cab3448bd.webp",
+      "category": "News",
+      "title": "Alan Greenspan, the Man Who Ran America's Money for 19 Years, Dies at 100",
+      "summary": "He was like a rock star of money. Alan Greenspan led the Federal Reserve for almost 20 years, helping the U.S. economy boom. He died Monday at age 100. But his legacy is complicated—some blame him for the 2008 financial crisis."
+    },
+    {
+      "id": "2026-06-22-news-3",
+      "source": "BBC News",
+      "time_ago": "Mon, 22 Jun 2026 16:44:17 GMT",
+      "mined_at": "2026-06-22T18:49:48+00:00",
+      "source_published_at": "Mon, 22 Jun 2026 16:44:17 GMT",
+      "image_url": "/article_images/article_1f51ffe06a25.webp",
+      "category": "News",
+      "title": "UK Prime Minister Keir Starmer Quits After a Really Rough Year",
+      "summary": "Imagine being the boss of a country and so many people in your own team want you gone that you have to quit. That's what happened to UK Prime Minister Keir Starmer. He resigned Monday after bad election results and fights with his own party."
     }
   ]
 }

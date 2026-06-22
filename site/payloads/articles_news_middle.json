@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-21-news-1",
-      "source": "Al Jazeera",
-      "time_ago": "Sun, 21 Jun 2026 17:01:50 +0000",
-      "mined_at": "2026-06-21T18:06:51+00:00",
-      "source_published_at": "Sun, 21 Jun 2026 17:01:50 +0000",
-      "image_url": "/article_images/article_f59de8930671.webp",
-      "category": "News",
-      "title": "Khamenei’s Reluctant Approval Fuels Debate as U.S.-Iran Talks Begin",
-      "summary": "Iran’s supreme leader said he disagreed with the MoU but approved it anyway. Negotiators met in Switzerland Sunday, but hardliners are using state media to attack the deal, and a TV chief resigned after airing criticism."
-    },
-    {
-      "id": "2026-06-21-news-2",
-      "source": "Al Jazeera",
-      "time_ago": "Sun, 21 Jun 2026 17:07:52 +0000",
-      "mined_at": "2026-06-21T18:06:51+00:00",
-      "source_published_at": "Sun, 21 Jun 2026 17:07:52 +0000",
-      "image_url": "/article_images/article_69df711ac695.webp",
-      "category": "News",
-      "title": "Abiy Ahmed’s Party Sweeps Election, But Tigray Tensions Loom",
-      "summary": "Ethiopia’s Prosperity Party won over 90% of seats, securing PM Abiy Ahmed another term. But analysts warn of renewed conflict after Tigray’s ruling party violated a 2022 peace deal, and elections were canceled there."
-    },
-    {
-      "id": "2026-06-21-news-3",
+      "id": "2026-06-22-news-1",
       "source": "NPR World",
-      "time_ago": "Sun, 21 Jun 2026 09:46:25 -0400",
-      "mined_at": "2026-06-21T18:06:51+00:00",
-      "source_published_at": "Sun, 21 Jun 2026 09:46:25 -0400",
-      "image_url": "/article_images/article_96df57637650.webp",
+      "time_ago": "Mon, 22 Jun 2026 09:32:09 -0400",
+      "mined_at": "2026-06-22T18:49:48+00:00",
+      "source_published_at": "Mon, 22 Jun 2026 09:32:09 -0400",
+      "image_url": "/article_images/article_47ad9d150fbd.webp",
       "category": "News",
-      "title": "Trump Blames Vandalism for Reflecting Pool Damage; Experts Point to Algae",
-      "summary": "President Trump claimed vandals slashed the Reflecting Pool’s lining and poured chemicals, leading to arrests. But scientists say the green water is a natural algae bloom, and law enforcement hasn’t confirmed any arrests."
+      "title": "A Blow to Voting Rights: Supreme Court Lets Stand Ruling That Bars Private Lawsuits in 7 States",
+      "summary": "Need help voting because of a disability or language barrier? The Supreme Court just allowed a ruling that strips private groups of the right to sue under a key Voting Rights Act protection in seven Midwestern states. Critics say this could gut enforcement."
+    },
+    {
+      "id": "2026-06-22-news-2",
+      "source": "NPR World",
+      "time_ago": "Mon, 22 Jun 2026 07:53:51 -0400",
+      "mined_at": "2026-06-22T18:49:48+00:00",
+      "source_published_at": "Mon, 22 Jun 2026 07:53:51 -0400",
+      "image_url": "/article_images/article_539cab3448bd.webp",
+      "category": "News",
+      "title": "Alan Greenspan, Legendary Fed Chair Who Shaped the U.S. Economy, Dies at 100",
+      "summary": "He was the most famous central banker in the world—a jazz-loving economist whose words could move markets. Alan Greenspan, who led the Federal Reserve for nearly two decades, died Monday at 100. His legacy includes historic booms and a devastating crash."
+    },
+    {
+      "id": "2026-06-22-news-3",
+      "source": "BBC News",
+      "time_ago": "Mon, 22 Jun 2026 16:44:17 GMT",
+      "mined_at": "2026-06-22T18:49:48+00:00",
+      "source_published_at": "Mon, 22 Jun 2026 16:44:17 GMT",
+      "image_url": "/article_images/article_1f51ffe06a25.webp",
+      "category": "News",
+      "title": "Keir Starmer Resigns as UK Prime Minister After Party Revolt",
+      "summary": "Besieged by dire polls, cabinet resignations, and a surging rival, UK Prime Minister Keir Starmer quit Monday. His departure sets the stage for Andy Burnham to potentially enter 10 Downing Street within weeks—an unprecedented political whirlwind."
     }
   ]
 }
