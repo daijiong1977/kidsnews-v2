@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-22-science-1",
-      "source": "Space.com",
-      "time_ago": "Mon, 22 Jun 2026 18:02:36 +0000",
-      "mined_at": "2026-06-22T18:49:48+00:00",
-      "source_published_at": "Mon, 22 Jun 2026 18:02:36 +0000",
-      "image_url": "/article_images/article_af85d31d454c.webp",
+      "id": "2026-06-23-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Tue, 23 Jun 2026 00:45:34 EDT",
+      "mined_at": "2026-06-23T18:14:47+00:00",
+      "source_published_at": "Tue, 23 Jun 2026 00:45:34 EDT",
+      "image_url": "/article_images/article_2062352c90ca.webp",
       "category": "Science",
-      "title": "Cosmic Crisis Averted: Dark Energy Still Drives Universe's Accelerating Expansion, New Study Confirms",
-      "summary": "A potential \"cosmological crisis\" has been resolved. New research refutes last year's claim that dark energy is weakening, confirming the universe's expansion is still accelerating. The earlier study made crucial errors in calculating supernova ages."
+      "title": "NASA's Upgraded Space Lab Creates Fifth State of Matter, Pushing Quantum Boundaries",
+      "summary": "A mini-fridge-sized lab on the ISS has been upgraded to chill atoms to near absolute zero, forming a Bose-Einstein condensate—a fifth state of matter. In microgravity, these matter waves expand and last longer, enabling unprecedented quantum experiments that could revolutionize sensors and navigation."
     },
     {
-      "id": "2026-06-22-science-2",
-      "source": "Space.com",
-      "time_ago": "Mon, 22 Jun 2026 15:00:00 +0000",
-      "mined_at": "2026-06-22T18:49:48+00:00",
-      "source_published_at": "Mon, 22 Jun 2026 15:00:00 +0000",
-      "image_url": "/article_images/article_80bc894c68f3.webp",
+      "id": "2026-06-23-science-2",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Tue, 23 Jun 2026 10:49:45 EDT",
+      "mined_at": "2026-06-23T18:14:47+00:00",
+      "source_published_at": "Tue, 23 Jun 2026 10:49:45 EDT",
+      "image_url": "/article_images/article_0158f4156bc0.webp",
       "category": "Science",
-      "title": "Stop Fooling the Public: Expert Calls for Realistic Moon Art Ahead of Artemis Missions",
-      "summary": "Many artistic depictions of the lunar surface are dangerously misleading, showing a flat, dustless terrain. Scientist Daniel Britt urges artists to portray the moon's true cratered, dusty nature to better prepare engineers and the public for Artemis."
+      "title": "SETI Scans Interstellar Visitor 3I/ATLAS for Alien Tech—and Finds a Blueprint for Future Searches",
+      "summary": "When the third known interstellar object, 3I/ATLAS, entered our solar system, scientists rapidly scanned it for technosignatures. No alien signals were found, but the exercise demonstrated how quickly we can now check such visitors and set new limits on potential extraterrestrial transmitters."
     },
     {
-      "id": "2026-06-22-science-3",
-      "source": "Space.com",
-      "time_ago": "Mon, 22 Jun 2026 14:19:42 +0000",
-      "mined_at": "2026-06-22T18:49:48+00:00",
-      "source_published_at": "Mon, 22 Jun 2026 14:19:42 +0000",
-      "image_url": "/article_images/article_c18aac556062.webp",
+      "id": "2026-06-23-science-3",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Sun, 21 Jun 2026 10:06:09 EDT",
+      "mined_at": "2026-06-23T18:14:47+00:00",
+      "source_published_at": "Sun, 21 Jun 2026 10:06:09 EDT",
+      "image_url": "/article_images/article_1b4b7a8f43b5.webp",
       "category": "Science",
-      "title": "DJI Neo Drone Drops to $169: A Pocket-Sized Powerhouse for Beginners",
-      "summary": "Ahead of Amazon Prime Day, the DJI Neo is $30 off. Weighing under 250g, it requires no registration and offers autonomous flight modes, 4K video, and intuitive app control—ideal for novice pilots."
+      "title": "Sodium-Ion Battery Matches Tesla's Quality in Surprise Test, Paving Way for Cheaper EVs",
+      "summary": "Independent testing of a Chinese sodium-ion battery revealed manufacturing uniformity and power performance rivaling Tesla's lithium-ion cells. While energy density and cold-weather charging remain hurdles, the results suggest sodium could soon slash costs for stationary storage and shorter-range vehicles."
     }
   ]
 }

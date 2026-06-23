@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-22-news-1",
+      "id": "2026-06-23-news-1",
       "source": "NPR World",
-      "time_ago": "Mon, 22 Jun 2026 09:32:09 -0400",
-      "mined_at": "2026-06-22T18:49:48+00:00",
-      "source_published_at": "Mon, 22 Jun 2026 09:32:09 -0400",
-      "image_url": "/article_images/article_47ad9d150fbd.webp",
+      "time_ago": "Tue, 23 Jun 2026 05:00:00 -0400",
+      "mined_at": "2026-06-23T18:14:47+00:00",
+      "source_published_at": "Tue, 23 Jun 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_43dc90228160.webp",
       "category": "News",
-      "title": "Supreme Court Says Private Groups Can't Sue to Protect Voters in 7 States",
-      "summary": "Imagine needing help to vote because you can't read the ballot. The Supreme Court just let a ruling stand that stops private groups from suing to protect that right in 7 states. This could make it harder for some people to vote."
+      "title": "Trump's Magic Words: How 'Complete and Total Endorsement' Changes the Game",
+      "summary": "President Trump is handing out his 'Complete and Total Endorsement' earlier than ever—sometimes a full year before Election Day. That gives his favorite Republican candidates a huge head start, and most of them win easily."
     },
     {
-      "id": "2026-06-22-news-2",
+      "id": "2026-06-23-news-2",
       "source": "NPR World",
-      "time_ago": "Mon, 22 Jun 2026 07:53:51 -0400",
-      "mined_at": "2026-06-22T18:49:48+00:00",
-      "source_published_at": "Mon, 22 Jun 2026 07:53:51 -0400",
-      "image_url": "/article_images/article_539cab3448bd.webp",
+      "time_ago": "Tue, 23 Jun 2026 05:00:00 -0400",
+      "mined_at": "2026-06-23T18:14:47+00:00",
+      "source_published_at": "Tue, 23 Jun 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_799ff7692a72.webp",
       "category": "News",
-      "title": "Alan Greenspan, the Man Who Ran America's Money for 19 Years, Dies at 100",
-      "summary": "He was like a rock star of money. Alan Greenspan led the Federal Reserve for almost 20 years, helping the U.S. economy boom. He died Monday at age 100. But his legacy is complicated—some blame him for the 2008 financial crisis."
+      "title": "A Grandpa's Second Chance: Why a Supreme Court Ruling Could Send Him Back to Prison",
+      "summary": "Anthony Bailey, 61, is a bus driver and grandpa who got out of prison early after 27 years. But now, a Supreme Court ruling on 'compassionate release' could force him to go back—maybe until he's 86."
     },
     {
-      "id": "2026-06-22-news-3",
-      "source": "BBC News",
-      "time_ago": "Mon, 22 Jun 2026 16:44:17 GMT",
-      "mined_at": "2026-06-22T18:49:48+00:00",
-      "source_published_at": "Mon, 22 Jun 2026 16:44:17 GMT",
-      "image_url": "/article_images/article_1f51ffe06a25.webp",
+      "id": "2026-06-23-news-3",
+      "source": "NPR World",
+      "time_ago": "Tue, 23 Jun 2026 11:59:35 -0400",
+      "mined_at": "2026-06-23T18:14:47+00:00",
+      "source_published_at": "Tue, 23 Jun 2026 11:59:35 -0400",
+      "image_url": "/article_images/article_892d713e9e78.webp",
       "category": "News",
-      "title": "UK Prime Minister Keir Starmer Quits After a Really Rough Year",
-      "summary": "Imagine being the boss of a country and so many people in your own team want you gone that you have to quit. That's what happened to UK Prime Minister Keir Starmer. He resigned Monday after bad election results and fights with his own party."
+      "title": "A 250-Year-Old Mystery Solved: DNA Finds a Revolutionary War Soldier's Family",
+      "summary": "Scientists used DNA to identify a soldier who died in the Battle of Camden in 1780. His name was John Pumphrey, and they found his living relatives—like 71-year-old Nancy White, who never knew she had a Revolutionary War hero in her family tree."
     }
   ]
 }

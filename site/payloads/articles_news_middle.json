@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-22-news-1",
+      "id": "2026-06-23-news-1",
       "source": "NPR World",
-      "time_ago": "Mon, 22 Jun 2026 09:32:09 -0400",
-      "mined_at": "2026-06-22T18:49:48+00:00",
-      "source_published_at": "Mon, 22 Jun 2026 09:32:09 -0400",
-      "image_url": "/article_images/article_47ad9d150fbd.webp",
+      "time_ago": "Tue, 23 Jun 2026 05:00:00 -0400",
+      "mined_at": "2026-06-23T18:14:47+00:00",
+      "source_published_at": "Tue, 23 Jun 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_43dc90228160.webp",
       "category": "News",
-      "title": "A Blow to Voting Rights: Supreme Court Lets Stand Ruling That Bars Private Lawsuits in 7 States",
-      "summary": "Need help voting because of a disability or language barrier? The Supreme Court just allowed a ruling that strips private groups of the right to sue under a key Voting Rights Act protection in seven Midwestern states. Critics say this could gut enforcement."
+      "title": "The Kingmaker's Clock: Trump's Early Endorsements Reshape GOP Primaries",
+      "summary": "Trump is endorsing Republican candidates earlier than ever—averaging seven months before primaries in 2026, compared to seven weeks in 2018. This 'Complete and Total Endorsement' clears the field and gives his picks a massive advantage, though some still lose."
     },
     {
-      "id": "2026-06-22-news-2",
+      "id": "2026-06-23-news-2",
       "source": "NPR World",
-      "time_ago": "Mon, 22 Jun 2026 07:53:51 -0400",
-      "mined_at": "2026-06-22T18:49:48+00:00",
-      "source_published_at": "Mon, 22 Jun 2026 07:53:51 -0400",
-      "image_url": "/article_images/article_539cab3448bd.webp",
+      "time_ago": "Tue, 23 Jun 2026 05:00:00 -0400",
+      "mined_at": "2026-06-23T18:14:47+00:00",
+      "source_published_at": "Tue, 23 Jun 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_799ff7692a72.webp",
       "category": "News",
-      "title": "Alan Greenspan, Legendary Fed Chair Who Shaped the U.S. Economy, Dies at 100",
-      "summary": "He was the most famous central banker in the world—a jazz-loving economist whose words could move markets. Alan Greenspan, who led the Federal Reserve for nearly two decades, died Monday at 100. His legacy includes historic booms and a devastating crash."
+      "title": "A Second Chance at Risk: Supreme Court Ruling Threatens to Reimprison a Reformed Man",
+      "summary": "Anthony Bailey, 61, rebuilt his life after a judge freed him from a 27-year sentence. But a Supreme Court decision limiting 'compassionate release' could send him back to prison until 2050, reigniting debate over harsh mandatory sentences from the 1990s."
     },
     {
-      "id": "2026-06-22-news-3",
-      "source": "BBC News",
-      "time_ago": "Mon, 22 Jun 2026 16:44:17 GMT",
-      "mined_at": "2026-06-22T18:49:48+00:00",
-      "source_published_at": "Mon, 22 Jun 2026 16:44:17 GMT",
-      "image_url": "/article_images/article_1f51ffe06a25.webp",
+      "id": "2026-06-23-news-3",
+      "source": "NPR World",
+      "time_ago": "Tue, 23 Jun 2026 11:59:35 -0400",
+      "mined_at": "2026-06-23T18:14:47+00:00",
+      "source_published_at": "Tue, 23 Jun 2026 11:59:35 -0400",
+      "image_url": "/article_images/article_892d713e9e78.webp",
       "category": "News",
-      "title": "Keir Starmer Resigns as UK Prime Minister After Party Revolt",
-      "summary": "Besieged by dire polls, cabinet resignations, and a surging rival, UK Prime Minister Keir Starmer quit Monday. His departure sets the stage for Andy Burnham to potentially enter 10 Downing Street within weeks—an unprecedented political whirlwind."
+      "title": "Genetic Time Travel: DNA Links a Revolutionary War Soldier to His Modern Relatives",
+      "summary": "DNA analysis has identified Pvt. John Pumphrey, a Maryland teenager who died at the Battle of Camden in 1780. His remains, found in a shallow grave, connected to 20,000 living relatives, including Nancy White, who discovered a Revolutionary War hero in her Quaker ancestry."
     }
   ]
 }
