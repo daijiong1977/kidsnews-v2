@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-23-fun-1",
-      "source": "/Film",
-      "time_ago": "Tue, 23 Jun 2026 16:47:48 +0000",
-      "mined_at": "2026-06-23T18:14:47+00:00",
-      "source_published_at": "Tue, 23 Jun 2026 16:47:48 +0000",
-      "image_url": "/article_images/article_3a36d283ccc5.webp",
+      "id": "2026-06-24-fun-1",
+      "source": "Popular Mechanics",
+      "time_ago": "Wed, 24 Jun 2026 16:32:00 +0000",
+      "mined_at": "2026-06-24T18:36:32+00:00",
+      "source_published_at": "Wed, 24 Jun 2026 16:32:00 +0000",
+      "image_url": "/article_images/article_598214d74762.webp",
       "category": "Fun",
-      "title": "No Laugh Track, No Problem: Stuart Fails to Save the Universe Trailer Promises a Bold Sci-Fi Adventure",
-      "summary": "The first full trailer for the Big Bang Theory spin-off ditches the sitcom formula for timeline-hopping chaos. Stuart Bloom and his crew face cartoon pigs, icy cliffs, and a Supreme Ruler Barry Kripke. Premieres July 23 on HBO Max."
+      "title": "Prime Day's Hidden Lego Vault: Rare Sets Slashed Up to 40% Before They Retire",
+      "summary": "Amazon's secret Lego section is a Prime Day goldmine, with discounts up to 40% on coveted sets from Star Wars, Sonic, and Jurassic World. Many are nearing retirement—act fast before they're gone forever."
     },
     {
-      "id": "2026-06-23-fun-2",
-      "source": "Smithsonian History",
-      "time_ago": "Thu, 11 Jun 2026 11:45:00 +0000",
-      "mined_at": "2026-06-23T18:14:47+00:00",
-      "source_published_at": "Thu, 11 Jun 2026 11:45:00 +0000",
-      "image_url": "/article_images/article_e510e1d5077d.webp",
+      "id": "2026-06-24-fun-2",
+      "source": "IndieWire",
+      "time_ago": "Wed, 24 Jun 2026 15:00:00 +0000",
+      "mined_at": "2026-06-24T18:36:32+00:00",
+      "source_published_at": "Wed, 24 Jun 2026 15:00:00 +0000",
+      "image_url": "/article_images/article_784f21606ea1.webp",
       "category": "Fun",
-      "title": "From Ohio UFO Chase to Disclosure Day: Spielberg's Lifelong Alien Fascination",
-      "summary": "Spielberg's new film Disclosure Day, out now, imagines definitive proof of alien life and a government cover-up. His obsession traces back to a real 1966 UFO pursuit, Cold War anxieties, and his Jewish immigrant roots."
+      "title": "After a Record-Breaking Debut, 'The Other Bennet Sister' Returns with a Three-Part Holiday Special",
+      "summary": "BritBox's hit series 'The Other Bennet Sister' is getting a three-part Christmas special, exploring Mary Bennet's life after marriage. Filming in Wales this summer, it promises familiar faces and a fresh look at Austen's world."
     },
     {
-      "id": "2026-06-23-fun-3",
-      "source": "NPR Music",
-      "time_ago": "Mon, 22 Jun 2026 13:12:28 -0400",
-      "mined_at": "2026-06-23T18:14:47+00:00",
-      "source_published_at": "Mon, 22 Jun 2026 13:12:28 -0400",
-      "image_url": "/article_images/article_789765b2f0c2.webp",
+      "id": "2026-06-24-fun-3",
+      "source": "MIT News",
+      "time_ago": "Wed, 24 Jun 2026 11:00:00 -0400",
+      "mined_at": "2026-06-24T18:36:32+00:00",
+      "source_published_at": "Wed, 24 Jun 2026 11:00:00 -0400",
+      "image_url": "/article_images/article_00f3f807ab09.webp",
       "category": "Fun",
-      "title": "Clive Davis, Titan of the Music Industry Who Shaped Pop, Rock, and Hip-Hop, Dies at 94",
-      "summary": "Clive Davis, the record executive behind Whitney Houston, Bruce Springsteen, and Outkast, has died. Starting as a lawyer, he led Columbia and Arista, trusting his gut to sign legends. His family confirmed the news; he was 94."
+      "title": "MIT Study Confirms: Mass Extinctions Happen When Evolution Can't Match Environmental Speed",
+      "summary": "A new model from MIT and the University of Leicester shows that mass extinctions occur when the rate of environmental change outpaces the rate at which species can adapt. The theory matches data from 27 events over 450 million years."
     }
   ]
 }

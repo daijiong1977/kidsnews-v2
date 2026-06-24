@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-23-science-1",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Tue, 23 Jun 2026 00:45:34 EDT",
-      "mined_at": "2026-06-23T18:14:47+00:00",
-      "source_published_at": "Tue, 23 Jun 2026 00:45:34 EDT",
-      "image_url": "/article_images/article_2062352c90ca.webp",
+      "id": "2026-06-24-science-1",
+      "source": "Science News Explores",
+      "time_ago": "Mon, 22 Jun 2026 10:30:00 +0000",
+      "mined_at": "2026-06-24T18:36:32+00:00",
+      "source_published_at": "Mon, 22 Jun 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_7aac8c87505c.webp",
       "category": "Science",
-      "title": "NASA's Upgraded Space Lab Creates Fifth State of Matter, Pushing Quantum Boundaries",
-      "summary": "A mini-fridge-sized lab on the ISS has been upgraded to chill atoms to near absolute zero, forming a Bose-Einstein condensate—a fifth state of matter. In microgravity, these matter waves expand and last longer, enabling unprecedented quantum experiments that could revolutionize sensors and navigation."
+      "title": "The Physics of Perpetual Storms: What Zelda Gets Wrong and Catatumbo Gets Right",
+      "summary": "In The Legend of Zelda, storms rage endlessly until Link intervenes. Real atmospheric physics says that's impossible—but Venezuela's Catatumbo lightning comes eerily close, with 300 stormy days a year."
     },
     {
-      "id": "2026-06-23-science-2",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Tue, 23 Jun 2026 10:49:45 EDT",
-      "mined_at": "2026-06-23T18:14:47+00:00",
-      "source_published_at": "Tue, 23 Jun 2026 10:49:45 EDT",
-      "image_url": "/article_images/article_0158f4156bc0.webp",
+      "id": "2026-06-24-science-2",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Mon, 22 Jun 2026 00:32:59 EDT",
+      "mined_at": "2026-06-24T18:36:32+00:00",
+      "source_published_at": "Mon, 22 Jun 2026 00:32:59 EDT",
+      "image_url": "/article_images/article_9a35091aeccd.webp",
       "category": "Science",
-      "title": "SETI Scans Interstellar Visitor 3I/ATLAS for Alien Tech—and Finds a Blueprint for Future Searches",
-      "summary": "When the third known interstellar object, 3I/ATLAS, entered our solar system, scientists rapidly scanned it for technosignatures. No alien signals were found, but the exercise demonstrated how quickly we can now check such visitors and set new limits on potential extraterrestrial transmitters."
+      "title": "T. rex's Slow Road to Giant: New Study Reveals 40-Year Growth Spurt",
+      "summary": "Contrary to earlier beliefs, Tyrannosaurus rex took about 40 years to reach its eight-ton adult size, according to a new analysis of 17 fossils. The prolonged growth may have let young T. rexes fill different ecological niches."
     },
     {
-      "id": "2026-06-23-science-3",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Sun, 21 Jun 2026 10:06:09 EDT",
-      "mined_at": "2026-06-23T18:14:47+00:00",
-      "source_published_at": "Sun, 21 Jun 2026 10:06:09 EDT",
-      "image_url": "/article_images/article_1b4b7a8f43b5.webp",
+      "id": "2026-06-24-science-3",
+      "source": "IEEE Spectrum",
+      "time_ago": "Wed, 24 Jun 2026 14:00:01 +0000",
+      "mined_at": "2026-06-24T18:36:32+00:00",
+      "source_published_at": "Wed, 24 Jun 2026 14:00:01 +0000",
+      "image_url": "/article_images/article_ba1782d5c708.webp",
       "category": "Science",
-      "title": "Sodium-Ion Battery Matches Tesla's Quality in Surprise Test, Paving Way for Cheaper EVs",
-      "summary": "Independent testing of a Chinese sodium-ion battery revealed manufacturing uniformity and power performance rivaling Tesla's lithium-ion cells. While energy density and cold-weather charging remain hurdles, the results suggest sodium could soon slash costs for stationary storage and shorter-range vehicles."
+      "title": "Origami Circuits: How Folding Paper Can Power Lights and Motors",
+      "summary": "Researchers at City University of Hong Kong have developed a paper-like material that becomes conductive when folded or cut, thanks to liquid metal ink. The technique merges traditional papercraft with electronics, costing just $1.80 per 10-cm square."
     }
   ]
 }

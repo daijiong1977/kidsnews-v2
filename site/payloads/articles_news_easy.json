@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-23-news-1",
-      "source": "NPR World",
-      "time_ago": "Tue, 23 Jun 2026 05:00:00 -0400",
-      "mined_at": "2026-06-23T18:14:47+00:00",
-      "source_published_at": "Tue, 23 Jun 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_43dc90228160.webp",
+      "id": "2026-06-24-news-1",
+      "source": "Al Jazeera",
+      "time_ago": "Wed, 24 Jun 2026 15:20:22 +0000",
+      "mined_at": "2026-06-24T18:36:32+00:00",
+      "source_published_at": "Wed, 24 Jun 2026 15:20:22 +0000",
+      "image_url": "/article_images/article_9981992bb5d4.webp",
       "category": "News",
-      "title": "Trump's Magic Words: How 'Complete and Total Endorsement' Changes the Game",
-      "summary": "President Trump is handing out his 'Complete and Total Endorsement' earlier than ever—sometimes a full year before Election Day. That gives his favorite Republican candidates a huge head start, and most of them win easily."
+      "title": "Meet the Superhero Midwives Saving Lives in Colombia's Jungles",
+      "summary": "Imagine having a baby with no hospital for miles. In Colombia's remote jungles, traditional midwives like Nohemí Manco are the only help. Manco has delivered about 1,200 babies since she was 14!"
     },
     {
-      "id": "2026-06-23-news-2",
+      "id": "2026-06-24-news-2",
       "source": "NPR World",
-      "time_ago": "Tue, 23 Jun 2026 05:00:00 -0400",
-      "mined_at": "2026-06-23T18:14:47+00:00",
-      "source_published_at": "Tue, 23 Jun 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_799ff7692a72.webp",
+      "time_ago": "Wed, 24 Jun 2026 05:00:00 -0400",
+      "mined_at": "2026-06-24T18:36:32+00:00",
+      "source_published_at": "Wed, 24 Jun 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_dee44b2dc759.webp",
       "category": "News",
-      "title": "A Grandpa's Second Chance: Why a Supreme Court Ruling Could Send Him Back to Prison",
-      "summary": "Anthony Bailey, 61, is a bus driver and grandpa who got out of prison early after 27 years. But now, a Supreme Court ruling on 'compassionate release' could force him to go back—maybe until he's 86."
+      "title": "New York's Election Shocker: Young Socialists Beat Big-Name Democrats",
+      "summary": "In New York, three candidates backed by Mayor Zohran Mamdani—all democratic socialists—won their primaries. The biggest surprise: 32-year-old Darializa Avila Chevalier beat a congressman who's been in office for over 20 years!"
     },
     {
-      "id": "2026-06-23-news-3",
-      "source": "NPR World",
-      "time_ago": "Tue, 23 Jun 2026 11:59:35 -0400",
-      "mined_at": "2026-06-23T18:14:47+00:00",
-      "source_published_at": "Tue, 23 Jun 2026 11:59:35 -0400",
-      "image_url": "/article_images/article_892d713e9e78.webp",
+      "id": "2026-06-24-news-3",
+      "source": "BBC News",
+      "time_ago": "Wed, 24 Jun 2026 14:20:13 GMT",
+      "mined_at": "2026-06-24T18:36:32+00:00",
+      "source_published_at": "Wed, 24 Jun 2026 14:20:13 GMT",
+      "image_url": "/article_images/article_2b3546d6d2c5.webp",
       "category": "News",
-      "title": "A 250-Year-Old Mystery Solved: DNA Finds a Revolutionary War Soldier's Family",
-      "summary": "Scientists used DNA to identify a soldier who died in the Battle of Camden in 1780. His name was John Pumphrey, and they found his living relatives—like 71-year-old Nancy White, who never knew she had a Revolutionary War hero in her family tree."
+      "title": "King Charles Meets a Cricket Team That Can't Play for Its Own Country",
+      "summary": "King Charles met the Afghan women's cricket team, who are in exile because the Taliban banned women's sports. Player Ekil Latifi, who hasn't seen her family in five years, said they play for all Afghan women who can't."
     }
   ]
 }

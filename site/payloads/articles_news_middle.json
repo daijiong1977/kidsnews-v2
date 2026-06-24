@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-23-news-1",
-      "source": "NPR World",
-      "time_ago": "Tue, 23 Jun 2026 05:00:00 -0400",
-      "mined_at": "2026-06-23T18:14:47+00:00",
-      "source_published_at": "Tue, 23 Jun 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_43dc90228160.webp",
+      "id": "2026-06-24-news-1",
+      "source": "Al Jazeera",
+      "time_ago": "Wed, 24 Jun 2026 15:20:22 +0000",
+      "mined_at": "2026-06-24T18:36:32+00:00",
+      "source_published_at": "Wed, 24 Jun 2026 15:20:22 +0000",
+      "image_url": "/article_images/article_9981992bb5d4.webp",
       "category": "News",
-      "title": "The Kingmaker's Clock: Trump's Early Endorsements Reshape GOP Primaries",
-      "summary": "Trump is endorsing Republican candidates earlier than ever—averaging seven months before primaries in 2026, compared to seven weeks in 2018. This 'Complete and Total Endorsement' clears the field and gives his picks a massive advantage, though some still lose."
+      "title": "In Colombia's Roadless Jungles, Traditional Midwives Are a Lifeline—But They Want Respect",
+      "summary": "Deep in Colombia's Pacific rainforest, where hospitals are days away, traditional midwives deliver thousands of babies. But they say the medical system discriminates against them. Now, they're pushing for collaboration, not replacement."
     },
     {
-      "id": "2026-06-23-news-2",
+      "id": "2026-06-24-news-2",
       "source": "NPR World",
-      "time_ago": "Tue, 23 Jun 2026 05:00:00 -0400",
-      "mined_at": "2026-06-23T18:14:47+00:00",
-      "source_published_at": "Tue, 23 Jun 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_799ff7692a72.webp",
+      "time_ago": "Wed, 24 Jun 2026 05:00:00 -0400",
+      "mined_at": "2026-06-24T18:36:32+00:00",
+      "source_published_at": "Wed, 24 Jun 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_dee44b2dc759.webp",
       "category": "News",
-      "title": "A Second Chance at Risk: Supreme Court Ruling Threatens to Reimprison a Reformed Man",
-      "summary": "Anthony Bailey, 61, rebuilt his life after a judge freed him from a 27-year sentence. But a Supreme Court decision limiting 'compassionate release' could send him back to prison until 2050, reigniting debate over harsh mandatory sentences from the 1990s."
+      "title": "New York Primary Upends Democratic Establishment: Three Socialist-Backed Candidates Win",
+      "summary": "In a stunning primary night, three democratic socialist candidates backed by Mayor Zohran Mamdani defeated incumbents and establishment picks in New York. The wins signal growing voter appetite for leftist policies—and a potential rift in the Democratic Party."
     },
     {
-      "id": "2026-06-23-news-3",
-      "source": "NPR World",
-      "time_ago": "Tue, 23 Jun 2026 11:59:35 -0400",
-      "mined_at": "2026-06-23T18:14:47+00:00",
-      "source_published_at": "Tue, 23 Jun 2026 11:59:35 -0400",
-      "image_url": "/article_images/article_892d713e9e78.webp",
+      "id": "2026-06-24-news-3",
+      "source": "BBC News",
+      "time_ago": "Wed, 24 Jun 2026 14:20:13 GMT",
+      "mined_at": "2026-06-24T18:36:32+00:00",
+      "source_published_at": "Wed, 24 Jun 2026 14:20:13 GMT",
+      "image_url": "/article_images/article_2b3546d6d2c5.webp",
       "category": "News",
-      "title": "Genetic Time Travel: DNA Links a Revolutionary War Soldier to His Modern Relatives",
-      "summary": "DNA analysis has identified Pvt. John Pumphrey, a Maryland teenager who died at the Battle of Camden in 1780. His remains, found in a shallow grave, connected to 20,000 living relatives, including Nancy White, who discovered a Revolutionary War hero in her Quaker ancestry."
+      "title": "In Exile and Banned from Competing, Afghan Women's Cricket Team Finds a Royal Ally",
+      "summary": "King Charles met the Afghan women's cricket team in London, offering symbolic support to players who fled the Taliban and cannot represent their country. The team sees the meeting as a chance to speak up for all Afghan women denied the right to play sports."
     }
   ]
 }

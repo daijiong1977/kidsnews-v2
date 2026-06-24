@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-23-fun-1",
-      "source": "/Film",
-      "time_ago": "Tue, 23 Jun 2026 16:47:48 +0000",
-      "mined_at": "2026-06-23T18:14:47+00:00",
-      "source_published_at": "Tue, 23 Jun 2026 16:47:48 +0000",
-      "image_url": "/article_images/article_3a36d283ccc5.webp",
+      "id": "2026-06-24-fun-1",
+      "source": "Popular Mechanics",
+      "time_ago": "Wed, 24 Jun 2026 16:32:00 +0000",
+      "mined_at": "2026-06-24T18:36:32+00:00",
+      "source_published_at": "Wed, 24 Jun 2026 16:32:00 +0000",
+      "image_url": "/article_images/article_598214d74762.webp",
       "category": "Fun",
-      "title": "Stuart from The Big Bang Theory Gets His Own Wacky Sci-Fi Show!",
-      "summary": "Imagine hopping through timelines with a cartoon pig and an ice cliff! The trailer for Stuart Fails to Save the Universe shows the comic-book guy from The Big Bang Theory on a wild adventure. It hits HBO Max on July 23, 2026."
+      "title": "Amazon's Secret Lego Stash Is Bursting with Prime Day Deals!",
+      "summary": "Prime Day is here, and Amazon's hidden Lego section is packed with discounts up to 40% off! Grab sets from Star Wars, Harry Potter, and more before they vanish. Some are almost retired!"
     },
     {
-      "id": "2026-06-23-fun-2",
-      "source": "Smithsonian History",
-      "time_ago": "Thu, 11 Jun 2026 11:45:00 +0000",
-      "mined_at": "2026-06-23T18:14:47+00:00",
-      "source_published_at": "Thu, 11 Jun 2026 11:45:00 +0000",
-      "image_url": "/article_images/article_e510e1d5077d.webp",
+      "id": "2026-06-24-fun-2",
+      "source": "IndieWire",
+      "time_ago": "Wed, 24 Jun 2026 15:00:00 +0000",
+      "mined_at": "2026-06-24T18:36:32+00:00",
+      "source_published_at": "Wed, 24 Jun 2026 15:00:00 +0000",
+      "image_url": "/article_images/article_784f21606ea1.webp",
       "category": "Fun",
-      "title": "Steven Spielberg's Secret: Why He Loves Aliens and Flying Saucers",
-      "summary": "Did a real UFO chase in Ohio inspire Close Encounters? Steven Spielberg's new movie Disclosure Day (out now) digs into hidden alien truths. His obsession started with 1950s flying saucer films and his own family story."
+      "title": "Mary Bennet Is Back! 'The Other Bennet Sister' Gets a Cozy Christmas Special",
+      "summary": "The quietest Bennet sister is getting her own three-part Christmas special! Mary Bennet returns after her wedding to explore what happens next. It'll film in Wales and air on BritBox during the holidays."
     },
     {
-      "id": "2026-06-23-fun-3",
-      "source": "NPR Music",
-      "time_ago": "Mon, 22 Jun 2026 13:12:28 -0400",
-      "mined_at": "2026-06-23T18:14:47+00:00",
-      "source_published_at": "Mon, 22 Jun 2026 13:12:28 -0400",
-      "image_url": "/article_images/article_789765b2f0c2.webp",
+      "id": "2026-06-24-fun-3",
+      "source": "MIT News",
+      "time_ago": "Wed, 24 Jun 2026 11:00:00 -0400",
+      "mined_at": "2026-06-24T18:36:32+00:00",
+      "source_published_at": "Wed, 24 Jun 2026 11:00:00 -0400",
+      "image_url": "/article_images/article_00f3f807ab09.webp",
       "category": "Fun",
-      "title": "The Man Who Discovered Whitney Houston and Bruce Springsteen Has Died at 94",
-      "summary": "Clive Davis, the legendary music boss who helped stars like Aretha Franklin and Alicia Keys shine, passed away at 94. He started as a lawyer and trusted his gut to find amazing talent. His family shared the news on social media."
+      "title": "Can Life Keep Up When the Planet Changes Too Fast? Scientists Have a New Answer",
+      "summary": "MIT scientists found that mass extinctions happen when the environment changes faster than animals can adapt. Their new model matches real extinction events from the last 450 million years."
     }
   ]
 }
