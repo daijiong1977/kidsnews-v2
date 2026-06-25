@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-24-news-1",
-      "source": "Al Jazeera",
-      "time_ago": "Wed, 24 Jun 2026 15:20:22 +0000",
-      "mined_at": "2026-06-24T18:36:32+00:00",
-      "source_published_at": "Wed, 24 Jun 2026 15:20:22 +0000",
-      "image_url": "/article_images/article_9981992bb5d4.webp",
-      "category": "News",
-      "title": "Meet the Superhero Midwives Saving Lives in Colombia's Jungles",
-      "summary": "Imagine having a baby with no hospital for miles. In Colombia's remote jungles, traditional midwives like Nohemí Manco are the only help. Manco has delivered about 1,200 babies since she was 14!"
-    },
-    {
-      "id": "2026-06-24-news-2",
+      "id": "2026-06-25-news-1",
       "source": "NPR World",
-      "time_ago": "Wed, 24 Jun 2026 05:00:00 -0400",
-      "mined_at": "2026-06-24T18:36:32+00:00",
-      "source_published_at": "Wed, 24 Jun 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_dee44b2dc759.webp",
+      "time_ago": "Thu, 25 Jun 2026 10:46:29 -0400",
+      "mined_at": "2026-06-25T18:20:14+00:00",
+      "source_published_at": "Thu, 25 Jun 2026 10:46:29 -0400",
+      "image_url": "/article_images/article_670043872426.webp",
       "category": "News",
-      "title": "New York's Election Shocker: Young Socialists Beat Big-Name Democrats",
-      "summary": "In New York, three candidates backed by Mayor Zohran Mamdani—all democratic socialists—won their primaries. The biggest surprise: 32-year-old Darializa Avila Chevalier beat a congressman who's been in office for over 20 years!"
+      "title": "Norway Fans Row Their Way to World Cup Fame!",
+      "summary": "Norwegian fans started a 'Viking Row' cheer on an escalator in Boston. Now even their parliament is doing it!"
     },
     {
-      "id": "2026-06-24-news-3",
-      "source": "BBC News",
-      "time_ago": "Wed, 24 Jun 2026 14:20:13 GMT",
-      "mined_at": "2026-06-24T18:36:32+00:00",
-      "source_published_at": "Wed, 24 Jun 2026 14:20:13 GMT",
-      "image_url": "/article_images/article_2b3546d6d2c5.webp",
+      "id": "2026-06-25-news-2",
+      "source": "NPR World",
+      "time_ago": "Thu, 25 Jun 2026 10:53:24 -0400",
+      "mined_at": "2026-06-25T18:20:14+00:00",
+      "source_published_at": "Thu, 25 Jun 2026 10:53:24 -0400",
+      "image_url": "/article_images/article_c2ae5b6664a5.webp",
       "category": "News",
-      "title": "King Charles Meets a Cricket Team That Can't Play for Its Own Country",
-      "summary": "King Charles met the Afghan women's cricket team, who are in exile because the Taliban banned women's sports. Player Ekil Latifi, who hasn't seen her family in five years, said they play for all Afghan women who can't."
+      "title": "Supreme Court Says Trump Can Deport People from Syria and Haiti",
+      "summary": "The Supreme Court ruled that President Trump can end protections for people from Syria and Haiti. Hundreds of thousands may have to leave."
+    },
+    {
+      "id": "2026-06-25-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Thu, 25 Jun 2026 17:11:34 +0000",
+      "mined_at": "2026-06-25T18:20:14+00:00",
+      "source_published_at": "Thu, 25 Jun 2026 17:11:34 +0000",
+      "image_url": "/article_images/article_8e193d158311.webp",
+      "category": "News",
+      "title": "Gulf Countries Welcome US-Iran Deal After War",
+      "summary": "Gulf states like Saudi Arabia and Qatar are happy about a new US-Iran agreement. They want peace, not war."
     }
   ]
 }

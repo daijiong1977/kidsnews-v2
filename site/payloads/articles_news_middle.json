@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-24-news-1",
-      "source": "Al Jazeera",
-      "time_ago": "Wed, 24 Jun 2026 15:20:22 +0000",
-      "mined_at": "2026-06-24T18:36:32+00:00",
-      "source_published_at": "Wed, 24 Jun 2026 15:20:22 +0000",
-      "image_url": "/article_images/article_9981992bb5d4.webp",
-      "category": "News",
-      "title": "In Colombia's Roadless Jungles, Traditional Midwives Are a Lifeline—But They Want Respect",
-      "summary": "Deep in Colombia's Pacific rainforest, where hospitals are days away, traditional midwives deliver thousands of babies. But they say the medical system discriminates against them. Now, they're pushing for collaboration, not replacement."
-    },
-    {
-      "id": "2026-06-24-news-2",
+      "id": "2026-06-25-news-1",
       "source": "NPR World",
-      "time_ago": "Wed, 24 Jun 2026 05:00:00 -0400",
-      "mined_at": "2026-06-24T18:36:32+00:00",
-      "source_published_at": "Wed, 24 Jun 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_dee44b2dc759.webp",
+      "time_ago": "Thu, 25 Jun 2026 10:46:29 -0400",
+      "mined_at": "2026-06-25T18:20:14+00:00",
+      "source_published_at": "Thu, 25 Jun 2026 10:46:29 -0400",
+      "image_url": "/article_images/article_670043872426.webp",
       "category": "News",
-      "title": "New York Primary Upends Democratic Establishment: Three Socialist-Backed Candidates Win",
-      "summary": "In a stunning primary night, three democratic socialist candidates backed by Mayor Zohran Mamdani defeated incumbents and establishment picks in New York. The wins signal growing voter appetite for leftist policies—and a potential rift in the Democratic Party."
+      "title": "How a Viral Escalator Video Sparked Norway's World Cup Rallying Cry",
+      "summary": "A video of Norwegian fans rowing on an escalator in Boston went viral. Now the 'Viking Row' has spread to Norway's parliament and united the nation."
     },
     {
-      "id": "2026-06-24-news-3",
-      "source": "BBC News",
-      "time_ago": "Wed, 24 Jun 2026 14:20:13 GMT",
-      "mined_at": "2026-06-24T18:36:32+00:00",
-      "source_published_at": "Wed, 24 Jun 2026 14:20:13 GMT",
-      "image_url": "/article_images/article_2b3546d6d2c5.webp",
+      "id": "2026-06-25-news-2",
+      "source": "NPR World",
+      "time_ago": "Thu, 25 Jun 2026 10:53:24 -0400",
+      "mined_at": "2026-06-25T18:20:14+00:00",
+      "source_published_at": "Thu, 25 Jun 2026 10:53:24 -0400",
+      "image_url": "/article_images/article_c2ae5b6664a5.webp",
       "category": "News",
-      "title": "In Exile and Banned from Competing, Afghan Women's Cricket Team Finds a Royal Ally",
-      "summary": "King Charles met the Afghan women's cricket team in London, offering symbolic support to players who fled the Taliban and cannot represent their country. The team sees the meeting as a chance to speak up for all Afghan women denied the right to play sports."
+      "title": "Supreme Court Allows Trump to End Protections for Haitian and Syrian Immigrants",
+      "summary": "In a 6-3 ruling, the Supreme Court gave President Trump the power to end TPS for Haitians and Syrians. Hundreds of thousands face deportation."
+    },
+    {
+      "id": "2026-06-25-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Thu, 25 Jun 2026 17:11:34 +0000",
+      "mined_at": "2026-06-25T18:20:14+00:00",
+      "source_published_at": "Thu, 25 Jun 2026 17:11:34 +0000",
+      "image_url": "/article_images/article_8e193d158311.webp",
+      "category": "News",
+      "title": "Gulf States Back US-Iran Deal: Pragmatism Trumps Conflict",
+      "summary": "After a war they never wanted, Gulf nations are supporting a US-Iran agreement. They seek diplomacy over confrontation, even after Iran attacked their cities."
     }
   ]
 }
