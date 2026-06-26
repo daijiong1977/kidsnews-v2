@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-25-news-1",
+      "id": "2026-06-26-news-1",
       "source": "NPR World",
-      "time_ago": "Thu, 25 Jun 2026 10:46:29 -0400",
-      "mined_at": "2026-06-25T18:20:14+00:00",
-      "source_published_at": "Thu, 25 Jun 2026 10:46:29 -0400",
-      "image_url": "/article_images/article_670043872426.webp",
+      "time_ago": "Fri, 26 Jun 2026 11:00:18 -0400",
+      "mined_at": "2026-06-26T18:15:32+00:00",
+      "source_published_at": "Fri, 26 Jun 2026 11:00:18 -0400",
+      "image_url": "/article_images/article_185e8fdde489.webp",
       "category": "News",
-      "title": "Norway Fans Row Their Way to World Cup Fame!",
-      "summary": "Norwegian fans started a 'Viking Row' cheer on an escalator in Boston. Now even their parliament is doing it!"
+      "title": "Ex-Trump Aide Bolton Says 'I'm Sorry' in Court",
+      "summary": "John Bolton, who used to work for President Trump, admitted he kept secret papers and said sorry in court. He could go to prison for up to 5 years."
     },
     {
-      "id": "2026-06-25-news-2",
+      "id": "2026-06-26-news-2",
       "source": "NPR World",
-      "time_ago": "Thu, 25 Jun 2026 10:53:24 -0400",
-      "mined_at": "2026-06-25T18:20:14+00:00",
-      "source_published_at": "Thu, 25 Jun 2026 10:53:24 -0400",
-      "image_url": "/article_images/article_c2ae5b6664a5.webp",
+      "time_ago": "Fri, 26 Jun 2026 12:13:47 -0400",
+      "mined_at": "2026-06-26T18:15:32+00:00",
+      "source_published_at": "Fri, 26 Jun 2026 12:13:47 -0400",
+      "image_url": "/article_images/article_f419e2ab2492.webp",
       "category": "News",
-      "title": "Supreme Court Says Trump Can Deport People from Syria and Haiti",
-      "summary": "The Supreme Court ruled that President Trump can end protections for people from Syria and Haiti. Hundreds of thousands may have to leave."
+      "title": "World Cup Ticket Disaster: Fans Left Outside Stadiums",
+      "summary": "Fans who bought resale tickets for World Cup games got locked out when the tickets didn't show up. Some drove hours and spent thousands, only to watch on TV."
     },
     {
-      "id": "2026-06-25-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Thu, 25 Jun 2026 17:11:34 +0000",
-      "mined_at": "2026-06-25T18:20:14+00:00",
-      "source_published_at": "Thu, 25 Jun 2026 17:11:34 +0000",
-      "image_url": "/article_images/article_8e193d158311.webp",
+      "id": "2026-06-26-news-3",
+      "source": "BBC News",
+      "time_ago": "Fri, 26 Jun 2026 15:03:39 GMT",
+      "mined_at": "2026-06-26T18:15:32+00:00",
+      "source_published_at": "Fri, 26 Jun 2026 15:03:39 GMT",
+      "image_url": "/article_images/article_3a8b72dd0780.webp",
       "category": "News",
-      "title": "Gulf Countries Welcome US-Iran Deal After War",
-      "summary": "Gulf states like Saudi Arabia and Qatar are happy about a new US-Iran agreement. They want peace, not war."
+      "title": "King Charles Reveals Tax Bill for the First Time",
+      "summary": "King Charles III shared how much tax he paid for the first time ever: £12.9 million. But the royal family's public funding is going down to £99.9 million next year."
     }
   ]
 }

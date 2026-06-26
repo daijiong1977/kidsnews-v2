@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-25-news-1",
+      "id": "2026-06-26-news-1",
       "source": "NPR World",
-      "time_ago": "Thu, 25 Jun 2026 10:46:29 -0400",
-      "mined_at": "2026-06-25T18:20:14+00:00",
-      "source_published_at": "Thu, 25 Jun 2026 10:46:29 -0400",
-      "image_url": "/article_images/article_670043872426.webp",
+      "time_ago": "Fri, 26 Jun 2026 11:00:18 -0400",
+      "mined_at": "2026-06-26T18:15:32+00:00",
+      "source_published_at": "Fri, 26 Jun 2026 11:00:18 -0400",
+      "image_url": "/article_images/article_185e8fdde489.webp",
       "category": "News",
-      "title": "How a Viral Escalator Video Sparked Norway's World Cup Rallying Cry",
-      "summary": "A video of Norwegian fans rowing on an escalator in Boston went viral. Now the 'Viking Row' has spread to Norway's parliament and united the nation."
+      "title": "Bolton Pleads Guilty: A Top Official's Secret Papers Case",
+      "summary": "John Bolton, former national security adviser to President Trump, pleaded guilty to keeping classified documents. He faces up to 5 years in prison and a $2.25 million fine. His case stands apart from other politically charged prosecutions."
     },
     {
-      "id": "2026-06-25-news-2",
+      "id": "2026-06-26-news-2",
       "source": "NPR World",
-      "time_ago": "Thu, 25 Jun 2026 10:53:24 -0400",
-      "mined_at": "2026-06-25T18:20:14+00:00",
-      "source_published_at": "Thu, 25 Jun 2026 10:53:24 -0400",
-      "image_url": "/article_images/article_c2ae5b6664a5.webp",
+      "time_ago": "Fri, 26 Jun 2026 12:13:47 -0400",
+      "mined_at": "2026-06-26T18:15:32+00:00",
+      "source_published_at": "Fri, 26 Jun 2026 12:13:47 -0400",
+      "image_url": "/article_images/article_f419e2ab2492.webp",
       "category": "News",
-      "title": "Supreme Court Allows Trump to End Protections for Haitian and Syrian Immigrants",
-      "summary": "In a 6-3 ruling, the Supreme Court gave President Trump the power to end TPS for Haitians and Syrians. Hundreds of thousands face deportation."
+      "title": "World Cup Ticket Chaos: Resale Failures Leave Fans Stranded",
+      "summary": "Fans who bought resale tickets on StubHub and other sites missed World Cup games when tickets never arrived. Some drove hours or flew from other countries, only to watch from home. StubHub blames FIFA's app; FIFA says only its platform is guaranteed."
     },
     {
-      "id": "2026-06-25-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Thu, 25 Jun 2026 17:11:34 +0000",
-      "mined_at": "2026-06-25T18:20:14+00:00",
-      "source_published_at": "Thu, 25 Jun 2026 17:11:34 +0000",
-      "image_url": "/article_images/article_8e193d158311.webp",
+      "id": "2026-06-26-news-3",
+      "source": "BBC News",
+      "time_ago": "Fri, 26 Jun 2026 15:03:39 GMT",
+      "mined_at": "2026-06-26T18:15:32+00:00",
+      "source_published_at": "Fri, 26 Jun 2026 15:03:39 GMT",
+      "image_url": "/article_images/article_3a8b72dd0780.webp",
       "category": "News",
-      "title": "Gulf States Back US-Iran Deal: Pragmatism Trumps Conflict",
-      "summary": "After a war they never wanted, Gulf nations are supporting a US-Iran agreement. They seek diplomacy over confrontation, even after Iran attacked their cities."
+      "title": "Royal Finances: King Charles Publishes Tax Bill, But Questions Remain",
+      "summary": "King Charles III revealed he paid £12.9 million in taxes, a first for a monarch. The Sovereign Grant is dropping to £99.9 million, but critics say transparency is still limited — with no breakdown of income or expenses."
     }
   ]
 }
