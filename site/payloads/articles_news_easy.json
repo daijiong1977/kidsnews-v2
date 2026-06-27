@@ -1,37 +1,26 @@
 {
   "articles": [
     {
-      "id": "2026-06-26-news-1",
+      "id": "2026-06-27-news-1",
       "source": "NPR World",
-      "time_ago": "Fri, 26 Jun 2026 11:00:18 -0400",
-      "mined_at": "2026-06-26T18:15:32+00:00",
-      "source_published_at": "Fri, 26 Jun 2026 11:00:18 -0400",
-      "image_url": "/article_images/article_185e8fdde489.webp",
+      "time_ago": "Sat, 27 Jun 2026 06:00:00 -0400",
+      "mined_at": "2026-06-27T17:57:17+00:00",
+      "source_published_at": "Sat, 27 Jun 2026 06:00:00 -0400",
+      "image_url": "/article_images/article_7fa406194919.webp",
       "category": "News",
-      "title": "Ex-Trump Aide Bolton Says 'I'm Sorry' in Court",
-      "summary": "John Bolton, who used to work for President Trump, admitted he kept secret papers and said sorry in court. He could go to prison for up to 5 years."
+      "title": "The Secret Coach Pochettino Used to Wake Up a Sleepy U.S. Soccer Team",
+      "summary": "Coach Mauricio Pochettino tried out over 70 players in 18 months to shake up the U.S. men’s soccer team. He found a culture of complacency and replaced regulars with hungry newcomers. Now they’ve won their World Cup group and face Bosnia next."
     },
     {
-      "id": "2026-06-26-news-2",
-      "source": "NPR World",
-      "time_ago": "Fri, 26 Jun 2026 12:13:47 -0400",
-      "mined_at": "2026-06-26T18:15:32+00:00",
-      "source_published_at": "Fri, 26 Jun 2026 12:13:47 -0400",
-      "image_url": "/article_images/article_f419e2ab2492.webp",
+      "id": "2026-06-27-news-2",
+      "source": "Al Jazeera",
+      "time_ago": "Sat, 27 Jun 2026 17:21:31 +0000",
+      "mined_at": "2026-06-27T17:57:17+00:00",
+      "source_published_at": "Sat, 27 Jun 2026 17:21:31 +0000",
+      "image_url": "/article_images/article_ea4570b373f8.webp",
       "category": "News",
-      "title": "World Cup Ticket Disaster: Fans Left Outside Stadiums",
-      "summary": "Fans who bought resale tickets for World Cup games got locked out when the tickets didn't show up. Some drove hours and spent thousands, only to watch on TV."
-    },
-    {
-      "id": "2026-06-26-news-3",
-      "source": "BBC News",
-      "time_ago": "Fri, 26 Jun 2026 15:03:39 GMT",
-      "mined_at": "2026-06-26T18:15:32+00:00",
-      "source_published_at": "Fri, 26 Jun 2026 15:03:39 GMT",
-      "image_url": "/article_images/article_3a8b72dd0780.webp",
-      "category": "News",
-      "title": "King Charles Reveals Tax Bill for the First Time",
-      "summary": "King Charles III shared how much tax he paid for the first time ever: £12.9 million. But the royal family's public funding is going down to £99.9 million next year."
+      "title": "A New Peace Deal for Israel and Lebanon—But One Big Group Says No",
+      "summary": "Israel, Lebanon, and the U.S. signed a framework to end fighting with Hezbollah, but Hezbollah rejected it. The deal says Israeli troops will leave southern Lebanon only after Hezbollah disarms. Over 4,000 people have died since March. Israeli leaders are split on the plan."
     }
   ]
 }

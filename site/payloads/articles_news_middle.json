@@ -1,37 +1,26 @@
 {
   "articles": [
     {
-      "id": "2026-06-26-news-1",
+      "id": "2026-06-27-news-1",
       "source": "NPR World",
-      "time_ago": "Fri, 26 Jun 2026 11:00:18 -0400",
-      "mined_at": "2026-06-26T18:15:32+00:00",
-      "source_published_at": "Fri, 26 Jun 2026 11:00:18 -0400",
-      "image_url": "/article_images/article_185e8fdde489.webp",
+      "time_ago": "Sat, 27 Jun 2026 06:00:00 -0400",
+      "mined_at": "2026-06-27T17:57:17+00:00",
+      "source_published_at": "Sat, 27 Jun 2026 06:00:00 -0400",
+      "image_url": "/article_images/article_7fa406194919.webp",
       "category": "News",
-      "title": "Bolton Pleads Guilty: A Top Official's Secret Papers Case",
-      "summary": "John Bolton, former national security adviser to President Trump, pleaded guilty to keeping classified documents. He faces up to 5 years in prison and a $2.25 million fine. His case stands apart from other politically charged prosecutions."
+      "title": "From Complacency to Contenders: How Pochettino’s ‘Ant Work’ Transformed the USMNT",
+      "summary": "Coach Mauricio Pochettino overhauled the U.S. men’s soccer team by trying out over 70 players and benching complacent regulars. After early losses, the squad won their 2026 World Cup group and now face Bosnia in the knockout round. His philosophy: slow, relentless progress."
     },
     {
-      "id": "2026-06-26-news-2",
-      "source": "NPR World",
-      "time_ago": "Fri, 26 Jun 2026 12:13:47 -0400",
-      "mined_at": "2026-06-26T18:15:32+00:00",
-      "source_published_at": "Fri, 26 Jun 2026 12:13:47 -0400",
-      "image_url": "/article_images/article_f419e2ab2492.webp",
+      "id": "2026-06-27-news-2",
+      "source": "Al Jazeera",
+      "time_ago": "Sat, 27 Jun 2026 17:21:31 +0000",
+      "mined_at": "2026-06-27T17:57:17+00:00",
+      "source_published_at": "Sat, 27 Jun 2026 17:21:31 +0000",
+      "image_url": "/article_images/article_ea4570b373f8.webp",
       "category": "News",
-      "title": "World Cup Ticket Chaos: Resale Failures Leave Fans Stranded",
-      "summary": "Fans who bought resale tickets on StubHub and other sites missed World Cup games when tickets never arrived. Some drove hours or flew from other countries, only to watch from home. StubHub blames FIFA's app; FIFA says only its platform is guaranteed."
-    },
-    {
-      "id": "2026-06-26-news-3",
-      "source": "BBC News",
-      "time_ago": "Fri, 26 Jun 2026 15:03:39 GMT",
-      "mined_at": "2026-06-26T18:15:32+00:00",
-      "source_published_at": "Fri, 26 Jun 2026 15:03:39 GMT",
-      "image_url": "/article_images/article_3a8b72dd0780.webp",
-      "category": "News",
-      "title": "Royal Finances: King Charles Publishes Tax Bill, But Questions Remain",
-      "summary": "King Charles III revealed he paid £12.9 million in taxes, a first for a monarch. The Sovereign Grant is dropping to £99.9 million, but critics say transparency is still limited — with no breakdown of income or expenses."
+      "title": "Framework Deal with Lebanon Divides Israel as Hezbollah Rejects Terms",
+      "summary": "A U.S.-brokered framework signed by Israel and Lebanon aims to disarm Hezbollah before Israeli troops withdraw from southern Lebanon. Hezbollah immediately rejected it, calling it ‘null and void.’ Over 4,000 have died since March. Israeli politicians are split, with cautious optimism from northern leaders."
     }
   ]
 }
