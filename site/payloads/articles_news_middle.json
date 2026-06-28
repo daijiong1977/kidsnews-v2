@@ -1,26 +1,26 @@
 {
   "articles": [
     {
-      "id": "2026-06-27-news-1",
-      "source": "NPR World",
-      "time_ago": "Sat, 27 Jun 2026 06:00:00 -0400",
-      "mined_at": "2026-06-27T17:57:17+00:00",
-      "source_published_at": "Sat, 27 Jun 2026 06:00:00 -0400",
-      "image_url": "/article_images/article_7fa406194919.webp",
+      "id": "2026-06-28-news-1",
+      "source": "BBC News",
+      "time_ago": "Sun, 28 Jun 2026 13:51:29 GMT",
+      "mined_at": "2026-06-28T18:00:11+00:00",
+      "source_published_at": "Sun, 28 Jun 2026 13:51:29 GMT",
+      "image_url": "/article_images/article_29b6855ef5f7.webp",
       "category": "News",
-      "title": "From Complacency to Contenders: How Pochettino’s ‘Ant Work’ Transformed the USMNT",
-      "summary": "Coach Mauricio Pochettino overhauled the U.S. men’s soccer team by trying out over 70 players and benching complacent regulars. After early losses, the squad won their 2026 World Cup group and now face Bosnia in the knockout round. His philosophy: slow, relentless progress."
+      "title": "How Jude Bellingham Became Tuchel's Tactical Chameleon",
+      "summary": "In England's 2-0 win over Panama, Jude Bellingham played a hybrid box-to-box role, filling the gap left by injured Declan Rice. Coach Thomas Tuchel praised his adaptability, calling him crucial to the team's evolving system."
     },
     {
-      "id": "2026-06-27-news-2",
-      "source": "Al Jazeera",
-      "time_ago": "Sat, 27 Jun 2026 17:21:31 +0000",
-      "mined_at": "2026-06-27T17:57:17+00:00",
-      "source_published_at": "Sat, 27 Jun 2026 17:21:31 +0000",
-      "image_url": "/article_images/article_ea4570b373f8.webp",
+      "id": "2026-06-28-news-2",
+      "source": "BBC News",
+      "time_ago": "Sun, 28 Jun 2026 14:57:11 GMT",
+      "mined_at": "2026-06-28T18:00:11+00:00",
+      "source_published_at": "Sun, 28 Jun 2026 14:57:11 GMT",
+      "image_url": "/article_images/article_a1b8ad9a7ff4.webp",
       "category": "News",
-      "title": "Framework Deal with Lebanon Divides Israel as Hezbollah Rejects Terms",
-      "summary": "A U.S.-brokered framework signed by Israel and Lebanon aims to disarm Hezbollah before Israeli troops withdraw from southern Lebanon. Hezbollah immediately rejected it, calling it ‘null and void.’ Over 4,000 have died since March. Israeli politicians are split, with cautious optimism from northern leaders."
+      "title": "Labour's 'Coronation': Party Unites Behind Andy Burnham After Starmer's Resignation",
+      "summary": "Senior Labour figures say the party is coalescing around Andy Burnham as the next leader, avoiding a potentially damaging contest. Deputy leader Lucy Powell and Housing Secretary Steve Reed both endorsed a swift transition, while a challenger awaits Burnham's economic speech on Monday."
     }
   ]
 }

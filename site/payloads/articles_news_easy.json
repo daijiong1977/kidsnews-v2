@@ -1,26 +1,26 @@
 {
   "articles": [
     {
-      "id": "2026-06-27-news-1",
-      "source": "NPR World",
-      "time_ago": "Sat, 27 Jun 2026 06:00:00 -0400",
-      "mined_at": "2026-06-27T17:57:17+00:00",
-      "source_published_at": "Sat, 27 Jun 2026 06:00:00 -0400",
-      "image_url": "/article_images/article_7fa406194919.webp",
+      "id": "2026-06-28-news-1",
+      "source": "BBC News",
+      "time_ago": "Sun, 28 Jun 2026 13:51:29 GMT",
+      "mined_at": "2026-06-28T18:00:11+00:00",
+      "source_published_at": "Sun, 28 Jun 2026 13:51:29 GMT",
+      "image_url": "/article_images/article_29b6855ef5f7.webp",
       "category": "News",
-      "title": "The Secret Coach Pochettino Used to Wake Up a Sleepy U.S. Soccer Team",
-      "summary": "Coach Mauricio Pochettino tried out over 70 players in 18 months to shake up the U.S. men’s soccer team. He found a culture of complacency and replaced regulars with hungry newcomers. Now they’ve won their World Cup group and face Bosnia next."
+      "title": "Jude Bellingham: England's Secret Super-Flexible Star!",
+      "summary": "Jude Bellingham played a super-flexible role in England's 2-0 win over Panama, filling in for injured teammate Declan Rice. Coach Thomas Tuchel says Bellingham is key to his clever game plan."
     },
     {
-      "id": "2026-06-27-news-2",
-      "source": "Al Jazeera",
-      "time_ago": "Sat, 27 Jun 2026 17:21:31 +0000",
-      "mined_at": "2026-06-27T17:57:17+00:00",
-      "source_published_at": "Sat, 27 Jun 2026 17:21:31 +0000",
-      "image_url": "/article_images/article_ea4570b373f8.webp",
+      "id": "2026-06-28-news-2",
+      "source": "BBC News",
+      "time_ago": "Sun, 28 Jun 2026 14:57:11 GMT",
+      "mined_at": "2026-06-28T18:00:11+00:00",
+      "source_published_at": "Sun, 28 Jun 2026 14:57:11 GMT",
+      "image_url": "/article_images/article_a1b8ad9a7ff4.webp",
       "category": "News",
-      "title": "A New Peace Deal for Israel and Lebanon—But One Big Group Says No",
-      "summary": "Israel, Lebanon, and the U.S. signed a framework to end fighting with Hezbollah, but Hezbollah rejected it. The deal says Israeli troops will leave southern Lebanon only after Hezbollah disarms. Over 4,000 people have died since March. Israeli leaders are split on the plan."
+      "title": "Labour Party Rallies Behind Andy Burnham as Next Leader!",
+      "summary": "After Prime Minister Keir Starmer quit, senior Labour members say the party is uniting behind Andy Burnham to be the new leader. They want to skip a long contest and quickly get to work."
     }
   ]
 }

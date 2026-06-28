@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-27-science-1",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Thu, 25 Jun 2026 21:05:03 EDT",
-      "mined_at": "2026-06-27T17:57:17+00:00",
-      "source_published_at": "Thu, 25 Jun 2026 21:05:03 EDT",
-      "image_url": "/article_images/article_c3e40bb8b290.webp",
+      "id": "2026-06-28-science-1",
+      "source": "Space.com",
+      "time_ago": "Sun, 28 Jun 2026 15:00:00 +0000",
+      "mined_at": "2026-06-28T18:00:11+00:00",
+      "source_published_at": "Sun, 28 Jun 2026 15:00:00 +0000",
+      "image_url": "/article_images/article_1af7a23ce143.webp",
       "category": "Science",
-      "title": "First-Ever Glimpse of a Black Hole Devouring a White Dwarf Star",
-      "summary": "The Einstein Probe telescope detected an extraordinary X-ray flash from a distant galaxy. Scientists believe it's the first direct evidence of an intermediate-mass black hole tearing apart a white dwarf. The event was one of the brightest outbursts ever recorded."
+      "title": "Two Decades Later, 'Superman Returns' Still Defies Easy Labels",
+      "summary": "Bryan Singer's 'Superman Returns' turns 20 this weekend, and it remains a fascinating contradiction: a sequel that ignores two prior films while rebooting the franchise with a new cast. Its devotion to the 1978 classic extended to using John Williams' iconic score note-for-note."
     },
     {
-      "id": "2026-06-27-science-2",
-      "source": "Smithsonian Science-Nature",
-      "time_ago": "Fri, 26 Jun 2026 18:00:00 +0000",
-      "mined_at": "2026-06-27T17:57:17+00:00",
-      "source_published_at": "Fri, 26 Jun 2026 18:00:00 +0000",
-      "image_url": "/article_images/article_00a8e0fa2530.webp",
+      "id": "2026-06-28-science-2",
+      "source": "NASA News",
+      "time_ago": "Fri, 26 Jun 2026 19:44:48 +0000",
+      "mined_at": "2026-06-28T18:00:11+00:00",
+      "source_published_at": "Fri, 26 Jun 2026 19:44:48 +0000",
+      "image_url": "/article_images/article_438b32131c8b.webp",
       "category": "Science",
-      "title": "Ship Speed Limits Saved Right Whales — Now NOAA Questions Their Future",
-      "summary": "Mandatory speed restrictions for large vessels have reduced fatal whale strikes since 2008. NOAA is now investigating whether detection technology could replace the rule. With only about 380 North Atlantic right whales remaining, conservationists say losing the speed limit would be disastrous."
+      "title": "NASA Awards $18,000 to Student Teams for Next-Gen Lunar Life Support Designs",
+      "summary": "Cal Poly won the 2026 Human Lander Challenge and a $10,000 prize for a Peltier-based water system. The competition tasked university teams with improving environmental control and life support for future crewed lunar landers under NASA's Artemis program."
     },
     {
-      "id": "2026-06-27-science-3",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Thu, 25 Jun 2026 23:22:17 EDT",
-      "mined_at": "2026-06-27T17:57:17+00:00",
-      "source_published_at": "Thu, 25 Jun 2026 23:22:17 EDT",
-      "image_url": "/article_images/article_825cbf4315ca.webp",
+      "id": "2026-06-28-science-3",
+      "source": "Space.com",
+      "time_ago": "Sun, 28 Jun 2026 13:00:00 +0000",
+      "mined_at": "2026-06-28T18:00:11+00:00",
+      "source_published_at": "Sun, 28 Jun 2026 13:00:00 +0000",
+      "image_url": "/article_images/article_7430301c5f2d.webp",
       "category": "Science",
-      "title": "Earth May Have Been Seeding Venus with Life for Billions of Years",
-      "summary": "A new study suggests that asteroid impacts on Earth could have blasted microbe-carrying rocks to Venus. Researchers estimate billions of cells may have reached Venus's clouds, where conditions might allow survival. The findings revive the panspermia hypothesis for our nearest neighbor."
+      "title": "Stunning Footage Captures China's Tiangong Space Station Transiting the Moon",
+      "summary": "Astrophotographer Efrain Morales recorded China's Tiangong space station passing in front of the Moon in less than a second on May 29. The silhouette of its solar panels and modules is clearly visible against the lunar surface near Tycho Crater."
     }
   ]
 }
