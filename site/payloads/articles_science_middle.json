@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-28-science-1",
-      "source": "Space.com",
-      "time_ago": "Sun, 28 Jun 2026 15:00:00 +0000",
-      "mined_at": "2026-06-28T18:00:11+00:00",
-      "source_published_at": "Sun, 28 Jun 2026 15:00:00 +0000",
-      "image_url": "/article_images/article_1af7a23ce143.webp",
+      "id": "2026-06-29-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Fri, 26 Jun 2026 21:09:31 EDT",
+      "mined_at": "2026-06-29T18:19:34+00:00",
+      "source_published_at": "Fri, 26 Jun 2026 21:09:31 EDT",
+      "image_url": "/article_images/article_04fbf09382e8.webp",
       "category": "Science",
-      "title": "Two Decades Later, 'Superman Returns' Still Defies Easy Labels",
-      "summary": "Bryan Singer's 'Superman Returns' turns 20 this weekend, and it remains a fascinating contradiction: a sequel that ignores two prior films while rebooting the franchise with a new cast. Its devotion to the 1978 classic extended to using John Williams' iconic score note-for-note."
+      "title": "Cotton-Candy Planets: The Fluffiest Worlds Ever Found",
+      "summary": "Two newly discovered planets are literally lighter than cotton candy. TOI-791 b and c are Jupiter-sized but have densities of just 0.038 and 0.047 g/cm³. Locked in a rare orbital dance, they offer a unique chance to study how such bizarre worlds form."
     },
     {
-      "id": "2026-06-28-science-2",
-      "source": "NASA News",
-      "time_ago": "Fri, 26 Jun 2026 19:44:48 +0000",
-      "mined_at": "2026-06-28T18:00:11+00:00",
-      "source_published_at": "Fri, 26 Jun 2026 19:44:48 +0000",
-      "image_url": "/article_images/article_438b32131c8b.webp",
+      "id": "2026-06-29-science-2",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Sun, 28 Jun 2026 02:53:54 EDT",
+      "mined_at": "2026-06-29T18:19:34+00:00",
+      "source_published_at": "Sun, 28 Jun 2026 02:53:54 EDT",
+      "image_url": "/article_images/article_b519412118b5.webp",
       "category": "Science",
-      "title": "NASA Awards $18,000 to Student Teams for Next-Gen Lunar Life Support Designs",
-      "summary": "Cal Poly won the 2026 Human Lander Challenge and a $10,000 prize for a Peltier-based water system. The competition tasked university teams with improving environmental control and life support for future crewed lunar landers under NASA's Artemis program."
+      "title": "From Ocean Trash to Pavement: Hawaii's Recycled Plastic Roads",
+      "summary": "Hawaii is turning derelict fishing nets and household plastic waste into asphalt for roads. Early results show these recycled pavements perform well and don't release more microplastics than conventional roads. Tire wear, not road plastic, dominates microplastic pollution."
     },
     {
-      "id": "2026-06-28-science-3",
-      "source": "Space.com",
-      "time_ago": "Sun, 28 Jun 2026 13:00:00 +0000",
-      "mined_at": "2026-06-28T18:00:11+00:00",
-      "source_published_at": "Sun, 28 Jun 2026 13:00:00 +0000",
-      "image_url": "/article_images/article_7430301c5f2d.webp",
+      "id": "2026-06-29-science-3",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Thu, 25 Jun 2026 21:05:03 EDT",
+      "mined_at": "2026-06-29T18:19:34+00:00",
+      "source_published_at": "Thu, 25 Jun 2026 21:05:03 EDT",
+      "image_url": "/article_images/article_c3e40bb8b290.webp",
       "category": "Science",
-      "title": "Stunning Footage Captures China's Tiangong Space Station Transiting the Moon",
-      "summary": "Astrophotographer Efrain Morales recorded China's Tiangong space station passing in front of the Moon in less than a second on May 29. The silhouette of its solar panels and modules is clearly visible against the lunar surface near Tycho Crater."
+      "title": "Einstein Probe May Have Caught a Black Hole Swallowing a White Dwarf",
+      "summary": "The Einstein Probe X-ray telescope detected an unprecedented cosmic explosion: a rapidly brightening source that flared before a gamma-ray burst. Researchers suspect an intermediate-mass black hole tore apart a white dwarf — a first-of-its-kind observation that could reveal new black hole feeding behaviors."
     }
   ]
 }

@@ -1,26 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-28-news-1",
-      "source": "BBC News",
-      "time_ago": "Sun, 28 Jun 2026 13:51:29 GMT",
-      "mined_at": "2026-06-28T18:00:11+00:00",
-      "source_published_at": "Sun, 28 Jun 2026 13:51:29 GMT",
-      "image_url": "/article_images/article_29b6855ef5f7.webp",
+      "id": "2026-06-29-news-1",
+      "source": "NPR World",
+      "time_ago": "Mon, 29 Jun 2026 10:44:00 -0400",
+      "mined_at": "2026-06-29T18:19:34+00:00",
+      "source_published_at": "Mon, 29 Jun 2026 10:44:00 -0400",
+      "image_url": "/article_images/article_8352afbc3800.webp",
       "category": "News",
-      "title": "How Jude Bellingham Became Tuchel's Tactical Chameleon",
-      "summary": "In England's 2-0 win over Panama, Jude Bellingham played a hybrid box-to-box role, filling the gap left by injured Declan Rice. Coach Thomas Tuchel praised his adaptability, calling him crucial to the team's evolving system."
+      "title": "A Split Decision: Supreme Court Shields Fed's Lisa Cook, But Hands Trump Broad Power Over Other Agencies",
+      "summary": "In a dramatic 5-4 ruling, the Supreme Court blocked President Trump's attempt to fire Federal Reserve Governor Lisa Cook — the first Black woman on the board — while her case proceeds. But in a separate 6-3 decision, the Court gave Trump sweeping authority to fire leaders of other independent agencies, overturning a 91-year-old precedent."
     },
     {
-      "id": "2026-06-28-news-2",
-      "source": "BBC News",
-      "time_ago": "Sun, 28 Jun 2026 14:57:11 GMT",
-      "mined_at": "2026-06-28T18:00:11+00:00",
-      "source_published_at": "Sun, 28 Jun 2026 14:57:11 GMT",
-      "image_url": "/article_images/article_a1b8ad9a7ff4.webp",
+      "id": "2026-06-29-news-2",
+      "source": "NPR World",
+      "time_ago": "Mon, 29 Jun 2026 10:33:27 -0400",
+      "mined_at": "2026-06-29T18:19:34+00:00",
+      "source_published_at": "Mon, 29 Jun 2026 10:33:27 -0400",
+      "image_url": "/article_images/article_6c2d236e2cd4.webp",
       "category": "News",
-      "title": "Labour's 'Coronation': Party Unites Behind Andy Burnham After Starmer's Resignation",
-      "summary": "Senior Labour figures say the party is coalescing around Andy Burnham as the next leader, avoiding a potentially damaging contest. Deputy leader Lucy Powell and Housing Secretary Steve Reed both endorsed a swift transition, while a challenger awaits Burnham's economic speech on Monday."
+      "title": "Supreme Court Overturns 91-Year Precedent, Grants Trump Sweeping Power to Fire Independent Agency Leaders",
+      "summary": "In a 6-3 ruling, the Supreme Court gave President Trump the power to fire Federal Trade Commission members at will, overturning the 1935 Humphrey's Executor precedent. The decision marks a major expansion of presidential control over agencies once designed to be independent, effectively ending bipartisan requirements at the FTC."
+    },
+    {
+      "id": "2026-06-29-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Mon, 29 Jun 2026 17:31:08 +0000",
+      "mined_at": "2026-06-29T18:19:34+00:00",
+      "source_published_at": "Mon, 29 Jun 2026 17:31:08 +0000",
+      "image_url": "/article_images/article_1a4e3eaf3b63.webp",
+      "category": "News",
+      "title": "Israeli Assault in Southern Syria Displaces Villagers; Turkey Condemns 'Flagrant Violation' of International Law",
+      "summary": "Israeli forces shelled the Syrian village of Abdin on Sunday night, forcing residents to flee. The attack is part of a surge in Israeli military operations in Deraa and Quneitra provinces, with nearly 300 incidents recorded in June. Turkey and Syria condemned the incursion as a violation of sovereignty."
     }
   ]
 }

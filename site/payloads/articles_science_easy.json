@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-28-science-1",
-      "source": "Space.com",
-      "time_ago": "Sun, 28 Jun 2026 15:00:00 +0000",
-      "mined_at": "2026-06-28T18:00:11+00:00",
-      "source_published_at": "Sun, 28 Jun 2026 15:00:00 +0000",
-      "image_url": "/article_images/article_1af7a23ce143.webp",
+      "id": "2026-06-29-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Fri, 26 Jun 2026 21:09:31 EDT",
+      "mined_at": "2026-06-29T18:19:34+00:00",
+      "source_published_at": "Fri, 26 Jun 2026 21:09:31 EDT",
+      "image_url": "/article_images/article_04fbf09382e8.webp",
       "category": "Science",
-      "title": "A Super-Surprise: The Movie That's Both a Sequel AND a Reboot!",
-      "summary": "Imagine a movie that picks up after an old one but also starts fresh with new actors. That's 'Superman Returns,' which turned 20 this weekend. It's a love letter to the 1978 classic, using the same famous music."
+      "title": "These Planets Are Lighter Than Cotton Candy!",
+      "summary": "Imagine a planet as big as Jupiter but so light it could float in a giant bathtub. Two new “super-puff” worlds, TOI-791 b and c, are even fluffier than cotton candy. They orbit a star 1,110 light-years away."
     },
     {
-      "id": "2026-06-28-science-2",
-      "source": "NASA News",
-      "time_ago": "Fri, 26 Jun 2026 19:44:48 +0000",
-      "mined_at": "2026-06-28T18:00:11+00:00",
-      "source_published_at": "Fri, 26 Jun 2026 19:44:48 +0000",
-      "image_url": "/article_images/article_438b32131c8b.webp",
+      "id": "2026-06-29-science-2",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Sun, 28 Jun 2026 02:53:54 EDT",
+      "mined_at": "2026-06-29T18:19:34+00:00",
+      "source_published_at": "Sun, 28 Jun 2026 02:53:54 EDT",
+      "image_url": "/article_images/article_b519412118b5.webp",
       "category": "Science",
-      "title": "Moon Water Winners: Students Invent Cool Ways to Drink in Space!",
-      "summary": "NASA just picked the best student ideas for keeping astronauts hydrated on the Moon. A team from California won $10,000 for their clever Peltier-based water system. These inventions could help future Moon missions!"
+      "title": "Hawaii's New Roads Are Made from Old Fishing Nets!",
+      "summary": "Hawaii has a big problem with plastic trash from the ocean. Now, scientists are mixing old fishing nets and plastic bottles into asphalt to build stronger roads. Early tests show the recycled roads don't shed extra microplastics."
     },
     {
-      "id": "2026-06-28-science-3",
-      "source": "Space.com",
-      "time_ago": "Sun, 28 Jun 2026 13:00:00 +0000",
-      "mined_at": "2026-06-28T18:00:11+00:00",
-      "source_published_at": "Sun, 28 Jun 2026 13:00:00 +0000",
-      "image_url": "/article_images/article_7430301c5f2d.webp",
+      "id": "2026-06-29-science-3",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Thu, 25 Jun 2026 21:05:03 EDT",
+      "mined_at": "2026-06-29T18:19:34+00:00",
+      "source_published_at": "Thu, 25 Jun 2026 21:05:03 EDT",
+      "image_url": "/article_images/article_c3e40bb8b290.webp",
       "category": "Science",
-      "title": "Whoa! Watch China's Space Station Zip Across the Moon!",
-      "summary": "An astrophotographer caught amazing video of China's Tiangong space station flying in front of the Moon. The station's solar panels are easy to spot as it zooms past a giant crater. You can try to see it too!"
+      "title": "A Black Hole Might Have Eaten a Star — and We Saw It!",
+      "summary": "A space telescope called Einstein Probe spotted a super-bright X-ray flash in deep space. Scientists think it was a medium-sized black hole ripping apart and eating a white dwarf star. If true, it's the first time we've ever seen this happen."
     }
   ]
 }

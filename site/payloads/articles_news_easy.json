@@ -1,26 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-28-news-1",
-      "source": "BBC News",
-      "time_ago": "Sun, 28 Jun 2026 13:51:29 GMT",
-      "mined_at": "2026-06-28T18:00:11+00:00",
-      "source_published_at": "Sun, 28 Jun 2026 13:51:29 GMT",
-      "image_url": "/article_images/article_29b6855ef5f7.webp",
+      "id": "2026-06-29-news-1",
+      "source": "NPR World",
+      "time_ago": "Mon, 29 Jun 2026 10:44:00 -0400",
+      "mined_at": "2026-06-29T18:19:34+00:00",
+      "source_published_at": "Mon, 29 Jun 2026 10:44:00 -0400",
+      "image_url": "/article_images/article_8352afbc3800.webp",
       "category": "News",
-      "title": "Jude Bellingham: England's Secret Super-Flexible Star!",
-      "summary": "Jude Bellingham played a super-flexible role in England's 2-0 win over Panama, filling in for injured teammate Declan Rice. Coach Thomas Tuchel says Bellingham is key to his clever game plan."
+      "title": "Supreme Court Says: Lisa Cook Keeps Her Fed Job — For Now!",
+      "summary": "The Supreme Court made a surprise move: it let Lisa Cook, the first Black woman on the Fed Board, stay in her job while her case goes through court. President Trump tried to fire her, but the court said the Fed is special — its members can't be fired just because the president wants to."
     },
     {
-      "id": "2026-06-28-news-2",
-      "source": "BBC News",
-      "time_ago": "Sun, 28 Jun 2026 14:57:11 GMT",
-      "mined_at": "2026-06-28T18:00:11+00:00",
-      "source_published_at": "Sun, 28 Jun 2026 14:57:11 GMT",
-      "image_url": "/article_images/article_a1b8ad9a7ff4.webp",
+      "id": "2026-06-29-news-2",
+      "source": "NPR World",
+      "time_ago": "Mon, 29 Jun 2026 10:33:27 -0400",
+      "mined_at": "2026-06-29T18:19:34+00:00",
+      "source_published_at": "Mon, 29 Jun 2026 10:33:27 -0400",
+      "image_url": "/article_images/article_6c2d236e2cd4.webp",
       "category": "News",
-      "title": "Labour Party Rallies Behind Andy Burnham as Next Leader!",
-      "summary": "After Prime Minister Keir Starmer quit, senior Labour members say the party is uniting behind Andy Burnham to be the new leader. They want to skip a long contest and quickly get to work."
+      "title": "Supreme Court Gives Trump a Big Win: He Can Fire Watchdog Agency Leaders!",
+      "summary": "In a huge 6-3 decision, the Supreme Court said President Trump can fire leaders of independent agencies like the FTC without a reason. This overturns a 91-year-old rule that protected those jobs. Now, the president has way more control over agencies that watch over big companies and protect consumers."
+    },
+    {
+      "id": "2026-06-29-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Mon, 29 Jun 2026 17:31:08 +0000",
+      "mined_at": "2026-06-29T18:19:34+00:00",
+      "source_published_at": "Mon, 29 Jun 2026 17:31:08 +0000",
+      "image_url": "/article_images/article_1a4e3eaf3b63.webp",
+      "category": "News",
+      "title": "Israeli Attacks Force Families to Flee in Southern Syria — Turkey Says It's Against the Law",
+      "summary": "Israeli soldiers fired shells near homes in a village in southern Syria, forcing families to run away in the middle of the night. The attack happened in Abdin village. Turkey and Syria both say Israel broke international law. Israel says it was fighting \"terrorists,\" but didn't give proof."
     }
   ]
 }
