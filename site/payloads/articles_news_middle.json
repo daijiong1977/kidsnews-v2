@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-29-news-1",
-      "source": "NPR World",
-      "time_ago": "Mon, 29 Jun 2026 10:44:00 -0400",
-      "mined_at": "2026-06-29T18:19:34+00:00",
-      "source_published_at": "Mon, 29 Jun 2026 10:44:00 -0400",
-      "image_url": "/article_images/article_8352afbc3800.webp",
+      "id": "2026-06-30-news-1",
+      "source": "BBC News",
+      "time_ago": "Tue, 30 Jun 2026 14:25:42 GMT",
+      "mined_at": "2026-06-30T18:15:57+00:00",
+      "source_published_at": "Tue, 30 Jun 2026 14:25:42 GMT",
+      "image_url": "/article_images/article_4a259ea1e01a.webp",
       "category": "News",
-      "title": "A Split Decision: Supreme Court Shields Fed's Lisa Cook, But Hands Trump Broad Power Over Other Agencies",
-      "summary": "In a dramatic 5-4 ruling, the Supreme Court blocked President Trump's attempt to fire Federal Reserve Governor Lisa Cook — the first Black woman on the board — while her case proceeds. But in a separate 6-3 decision, the Court gave Trump sweeping authority to fire leaders of other independent agencies, overturning a 91-year-old precedent."
+      "title": "Damning Review Exposes Deep Failings in UK Maternity Care",
+      "summary": "A government-ordered review found racism and discrimination are embedded in NHS maternity services, failing women and babies. The government pledged 1,000 new midwife posts and £41m for facilities, but some families call the response a \"missed opportunity.\""
     },
     {
-      "id": "2026-06-29-news-2",
-      "source": "NPR World",
-      "time_ago": "Mon, 29 Jun 2026 10:33:27 -0400",
-      "mined_at": "2026-06-29T18:19:34+00:00",
-      "source_published_at": "Mon, 29 Jun 2026 10:33:27 -0400",
-      "image_url": "/article_images/article_6c2d236e2cd4.webp",
+      "id": "2026-06-30-news-2",
+      "source": "BBC News",
+      "time_ago": "Tue, 30 Jun 2026 17:36:23 GMT",
+      "mined_at": "2026-06-30T18:15:57+00:00",
+      "source_published_at": "Tue, 30 Jun 2026 17:36:23 GMT",
+      "image_url": "/article_images/article_234cfa55cee1.webp",
       "category": "News",
-      "title": "Supreme Court Overturns 91-Year Precedent, Grants Trump Sweeping Power to Fire Independent Agency Leaders",
-      "summary": "In a 6-3 ruling, the Supreme Court gave President Trump the power to fire Federal Trade Commission members at will, overturning the 1935 Humphrey's Executor precedent. The decision marks a major expansion of presidential control over agencies once designed to be independent, effectively ending bipartisan requirements at the FTC."
+      "title": "Supreme Court Blocks Trump's Bid to End Birthright Citizenship",
+      "summary": "In a 6-3 ruling, the Supreme Court affirmed that the 14th Amendment guarantees citizenship to all born on U.S. soil, rejecting Trump's executive order. The decision is a major blow to his immigration agenda and was hailed by civil rights advocates."
     },
     {
-      "id": "2026-06-29-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Mon, 29 Jun 2026 17:31:08 +0000",
-      "mined_at": "2026-06-29T18:19:34+00:00",
-      "source_published_at": "Mon, 29 Jun 2026 17:31:08 +0000",
-      "image_url": "/article_images/article_1a4e3eaf3b63.webp",
+      "id": "2026-06-30-news-3",
+      "source": "NPR World",
+      "time_ago": "Tue, 30 Jun 2026 13:26:48 -0400",
+      "mined_at": "2026-06-30T18:15:57+00:00",
+      "source_published_at": "Tue, 30 Jun 2026 13:26:48 -0400",
+      "image_url": "/article_images/article_0023bbe02a4b.webp",
       "category": "News",
-      "title": "Israeli Assault in Southern Syria Displaces Villagers; Turkey Condemns 'Flagrant Violation' of International Law",
-      "summary": "Israeli forces shelled the Syrian village of Abdin on Sunday night, forcing residents to flee. The attack is part of a surge in Israeli military operations in Deraa and Quneitra provinces, with nearly 300 incidents recorded in June. Turkey and Syria condemned the incursion as a violation of sovereignty."
+      "title": "Record-Breaking Heat Wave Threatens Millions Ahead of July Fourth",
+      "summary": "Over 100 million Americans face extreme heat warnings as a heat dome pushes temperatures to 105°F across the Midwest and East Coast. The National Weather Service warns of dangerous conditions, especially for vulnerable groups, with climate change making such events more frequent."
     }
   ]
 }

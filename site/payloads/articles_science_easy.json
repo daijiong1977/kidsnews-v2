@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-29-science-1",
-      "source": "ScienceDaily Top Technology",
+      "id": "2026-06-30-science-1",
+      "source": "Science News Explores",
+      "time_ago": "Tue, 30 Jun 2026 10:30:00 +0000",
+      "mined_at": "2026-06-30T18:15:57+00:00",
+      "source_published_at": "Tue, 30 Jun 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_5adf03d1d399.webp",
+      "category": "Science",
+      "title": "Got Yeast? How a Kitchen Ingredient Could Fight Plastic Pollution",
+      "summary": "Did you know baker's yeast can grab tiny plastic bits from water? In this experiment, you'll test how much yeast it takes to clean up microplastics. It's a real science project you can try at home!"
+    },
+    {
+      "id": "2026-06-30-science-2",
+      "source": "ScienceDaily All",
       "time_ago": "Fri, 26 Jun 2026 21:09:31 EDT",
-      "mined_at": "2026-06-29T18:19:34+00:00",
+      "mined_at": "2026-06-30T18:15:57+00:00",
       "source_published_at": "Fri, 26 Jun 2026 21:09:31 EDT",
       "image_url": "/article_images/article_04fbf09382e8.webp",
       "category": "Science",
-      "title": "These Planets Are Lighter Than Cotton Candy!",
-      "summary": "Imagine a planet as big as Jupiter but so light it could float in a giant bathtub. Two new “super-puff” worlds, TOI-791 b and c, are even fluffier than cotton candy. They orbit a star 1,110 light-years away."
+      "title": "Lighter Than Cotton Candy: Meet the Fluffiest Planets Ever Found!",
+      "summary": "Two new planets are so light they'd float in a giant bathtub! TOI-791 b and c are bigger than Jupiter but weigh almost nothing. Citizen scientists helped spot them 1,110 light-years away."
     },
     {
-      "id": "2026-06-29-science-2",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Sun, 28 Jun 2026 02:53:54 EDT",
-      "mined_at": "2026-06-29T18:19:34+00:00",
-      "source_published_at": "Sun, 28 Jun 2026 02:53:54 EDT",
-      "image_url": "/article_images/article_b519412118b5.webp",
+      "id": "2026-06-30-science-3",
+      "source": "ScienceDaily All",
+      "time_ago": "Sun, 28 Jun 2026 21:21:44 EDT",
+      "mined_at": "2026-06-30T18:15:57+00:00",
+      "source_published_at": "Sun, 28 Jun 2026 21:21:44 EDT",
+      "image_url": "/article_images/article_eb45f3fc3d62.webp",
       "category": "Science",
-      "title": "Hawaii's New Roads Are Made from Old Fishing Nets!",
-      "summary": "Hawaii has a big problem with plastic trash from the ocean. Now, scientists are mixing old fishing nets and plastic bottles into asphalt to build stronger roads. Early tests show the recycled roads don't shed extra microplastics."
-    },
-    {
-      "id": "2026-06-29-science-3",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Thu, 25 Jun 2026 21:05:03 EDT",
-      "mined_at": "2026-06-29T18:19:34+00:00",
-      "source_published_at": "Thu, 25 Jun 2026 21:05:03 EDT",
-      "image_url": "/article_images/article_c3e40bb8b290.webp",
-      "category": "Science",
-      "title": "A Black Hole Might Have Eaten a Star — and We Saw It!",
-      "summary": "A space telescope called Einstein Probe spotted a super-bright X-ray flash in deep space. Scientists think it was a medium-sized black hole ripping apart and eating a white dwarf star. If true, it's the first time we've ever seen this happen."
+      "title": "Tiny Soil Heroes: How Bacteria Could Save Crops from Salty Soil",
+      "summary": "Salty soil is a growing problem for farmers, but tiny bacteria called pseudomonads can help plants grow stronger. Scientists found these microbes make roots tougher without reducing salt inside the plant."
     }
   ]
 }

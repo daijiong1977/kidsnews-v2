@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-29-fun-1",
-      "source": "/Film",
-      "time_ago": "Mon, 29 Jun 2026 15:30:00 +0000",
-      "mined_at": "2026-06-29T18:19:34+00:00",
-      "source_published_at": "Mon, 29 Jun 2026 15:30:00 +0000",
-      "image_url": "/article_images/article_a87db1ab4952.webp",
+      "id": "2026-06-30-fun-1",
+      "source": "Popular Mechanics",
+      "time_ago": "Tue, 30 Jun 2026 18:00:00 +0000",
+      "mined_at": "2026-06-30T18:15:57+00:00",
+      "source_published_at": "Tue, 30 Jun 2026 18:00:00 +0000",
+      "image_url": "/article_images/article_3ef00a915789.webp",
       "category": "Fun",
-      "title": "Could a Former Batman Actor Become the Joker? Fans Think So!",
-      "summary": "Imagine Batman and Joker swapping roles! In the new 'Absolute Batman' comic, Joker is the rich guy and Batman is the troublemaker. Fans want a past Batman actor to voice this twisted Joker—like Christian Bale, who played a creepy businessman in 'American Psycho.'"
+      "title": "400 Gold Coins Found at the Bottom of the Sea!",
+      "summary": "Divers found 400 gold coins off England's coast. It took 30 years to figure out which ship they came from!"
     },
     {
-      "id": "2026-06-29-fun-2",
-      "source": "BBC Tennis",
-      "time_ago": "Mon, 29 Jun 2026 17:10:13 GMT",
-      "mined_at": "2026-06-29T18:19:34+00:00",
-      "source_published_at": "Mon, 29 Jun 2026 17:10:13 GMT",
-      "image_url": "/article_images/article_9449068f262b.webp",
+      "id": "2026-06-30-fun-2",
+      "source": "Rolling Stone Music",
+      "time_ago": "Tue, 30 Jun 2026 16:11:45 +0000",
+      "mined_at": "2026-06-30T18:15:57+00:00",
+      "source_published_at": "Tue, 30 Jun 2026 16:11:45 +0000",
+      "image_url": "/article_images/article_fd98619a495b.webp",
       "category": "Fun",
-      "title": "Sinner's Scary Slip and a Bloody Shoe: How He Won His Wild Wimbledon Match",
-      "summary": "Tennis star Jannik Sinner almost lost his first Wimbledon match! He slipped, fell, and even had blood seeping from his shoe. But he fought back from two sets down to win in a five-set thriller that lasted over three hours."
+      "title": "Meet Arcy Drive: The Band That Makes ‘Attic Rock’",
+      "summary": "Four friends from Long Island started a band called Arcy Drive. They play 'attic rock' — a mix of emo and garage rock — and are now playing big festivals!"
     },
     {
-      "id": "2026-06-29-fun-3",
-      "source": "BBC Tennis",
-      "time_ago": "Mon, 29 Jun 2026 17:14:28 GMT",
-      "mined_at": "2026-06-29T18:19:34+00:00",
-      "source_published_at": "Mon, 29 Jun 2026 17:14:28 GMT",
-      "image_url": "/article_images/article_674a98b60bd4.webp",
+      "id": "2026-06-30-fun-3",
+      "source": "Rolling Stone Music",
+      "time_ago": "Tue, 30 Jun 2026 15:11:17 +0000",
+      "mined_at": "2026-06-30T18:15:57+00:00",
+      "source_published_at": "Tue, 30 Jun 2026 15:11:17 +0000",
+      "image_url": "/article_images/article_f5a01c89dd78.webp",
       "category": "Fun",
-      "title": "Six British Players Crash Out on Wimbledon's First Day—Including a Big Upset!",
-      "summary": "It was a rough start for British tennis at Wimbledon. Cameron Norrie, a former semifinalist, lost a five-set heartbreaker to qualifier Michael Zheng. Five other Brits also lost, and Jack Draper pulled out with an injury before even playing."
+      "title": "Bob Dylan’s Guitarist Quit — So a Blues Player from Chicago Stepped In!",
+      "summary": "Bob Dylan's guitarist quit suddenly before a show. A blues guitarist from Chicago, Joel Paterson, stepped in and played the whole concert alone!"
     }
   ]
 }

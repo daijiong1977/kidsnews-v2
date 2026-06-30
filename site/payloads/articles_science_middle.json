@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-29-science-1",
-      "source": "ScienceDaily Top Technology",
+      "id": "2026-06-30-science-1",
+      "source": "Science News Explores",
+      "time_ago": "Tue, 30 Jun 2026 10:30:00 +0000",
+      "mined_at": "2026-06-30T18:15:57+00:00",
+      "source_published_at": "Tue, 30 Jun 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_5adf03d1d399.webp",
+      "category": "Science",
+      "title": "Bread Yeast vs. Microplastics: A Home Experiment with Global Potential",
+      "summary": "Baker's yeast can act like a natural magnet for microplastics, clumping them so they sink. This experiment lets you test how much yeast is needed to clean contaminated water. It's a hands-on look at bioremediation — using microbes to fight pollution."
+    },
+    {
+      "id": "2026-06-30-science-2",
+      "source": "ScienceDaily All",
       "time_ago": "Fri, 26 Jun 2026 21:09:31 EDT",
-      "mined_at": "2026-06-29T18:19:34+00:00",
+      "mined_at": "2026-06-30T18:15:57+00:00",
       "source_published_at": "Fri, 26 Jun 2026 21:09:31 EDT",
       "image_url": "/article_images/article_04fbf09382e8.webp",
       "category": "Science",
-      "title": "Cotton-Candy Planets: The Fluffiest Worlds Ever Found",
-      "summary": "Two newly discovered planets are literally lighter than cotton candy. TOI-791 b and c are Jupiter-sized but have densities of just 0.038 and 0.047 g/cm³. Locked in a rare orbital dance, they offer a unique chance to study how such bizarre worlds form."
+      "title": "Cotton-Candy Worlds: Astronomers Discover Two Unbelievably Fluffy Planets",
+      "summary": "TOI-791 b and c are Jupiter-sized but have densities lower than cotton candy. Found by citizen scientists and confirmed with Antarctic telescope data, these rare super-puff planets orbit in a 5:3 resonance. They challenge our understanding of planet formation."
     },
     {
-      "id": "2026-06-29-science-2",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Sun, 28 Jun 2026 02:53:54 EDT",
-      "mined_at": "2026-06-29T18:19:34+00:00",
-      "source_published_at": "Sun, 28 Jun 2026 02:53:54 EDT",
-      "image_url": "/article_images/article_b519412118b5.webp",
+      "id": "2026-06-30-science-3",
+      "source": "ScienceDaily All",
+      "time_ago": "Sun, 28 Jun 2026 21:21:44 EDT",
+      "mined_at": "2026-06-30T18:15:57+00:00",
+      "source_published_at": "Sun, 28 Jun 2026 21:21:44 EDT",
+      "image_url": "/article_images/article_eb45f3fc3d62.webp",
       "category": "Science",
-      "title": "From Ocean Trash to Pavement: Hawaii's Recycled Plastic Roads",
-      "summary": "Hawaii is turning derelict fishing nets and household plastic waste into asphalt for roads. Early results show these recycled pavements perform well and don't release more microplastics than conventional roads. Tire wear, not road plastic, dominates microplastic pollution."
-    },
-    {
-      "id": "2026-06-29-science-3",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Thu, 25 Jun 2026 21:05:03 EDT",
-      "mined_at": "2026-06-29T18:19:34+00:00",
-      "source_published_at": "Thu, 25 Jun 2026 21:05:03 EDT",
-      "image_url": "/article_images/article_c3e40bb8b290.webp",
-      "category": "Science",
-      "title": "Einstein Probe May Have Caught a Black Hole Swallowing a White Dwarf",
-      "summary": "The Einstein Probe X-ray telescope detected an unprecedented cosmic explosion: a rapidly brightening source that flared before a gamma-ray burst. Researchers suspect an intermediate-mass black hole tore apart a white dwarf — a first-of-its-kind observation that could reveal new black hole feeding behaviors."
+      "title": "Underground Allies: How Root Bacteria Fortify Crops Against Salty Soil",
+      "summary": "Pseudomonad bacteria naturally gather on roots under salt stress, boosting plant growth without reducing internal salt levels. This discovery could lead to microbial treatments for crops on salt-damaged farmland, a growing threat to global food supplies."
     }
   ]
 }

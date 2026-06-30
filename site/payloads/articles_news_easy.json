@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-29-news-1",
-      "source": "NPR World",
-      "time_ago": "Mon, 29 Jun 2026 10:44:00 -0400",
-      "mined_at": "2026-06-29T18:19:34+00:00",
-      "source_published_at": "Mon, 29 Jun 2026 10:44:00 -0400",
-      "image_url": "/article_images/article_8352afbc3800.webp",
+      "id": "2026-06-30-news-1",
+      "source": "BBC News",
+      "time_ago": "Tue, 30 Jun 2026 14:25:42 GMT",
+      "mined_at": "2026-06-30T18:15:57+00:00",
+      "source_published_at": "Tue, 30 Jun 2026 14:25:42 GMT",
+      "image_url": "/article_images/article_4a259ea1e01a.webp",
       "category": "News",
-      "title": "Supreme Court Says: Lisa Cook Keeps Her Fed Job — For Now!",
-      "summary": "The Supreme Court made a surprise move: it let Lisa Cook, the first Black woman on the Fed Board, stay in her job while her case goes through court. President Trump tried to fire her, but the court said the Fed is special — its members can't be fired just because the president wants to."
+      "title": "Moms and Babies Not Being Heard: UK Promises Big Changes",
+      "summary": "A new report says many moms and babies are being failed in UK hospitals. The government promises 1,000 new midwife jobs and better emergency care. Some families say the plan doesn't go far enough."
     },
     {
-      "id": "2026-06-29-news-2",
-      "source": "NPR World",
-      "time_ago": "Mon, 29 Jun 2026 10:33:27 -0400",
-      "mined_at": "2026-06-29T18:19:34+00:00",
-      "source_published_at": "Mon, 29 Jun 2026 10:33:27 -0400",
-      "image_url": "/article_images/article_6c2d236e2cd4.webp",
+      "id": "2026-06-30-news-2",
+      "source": "BBC News",
+      "time_ago": "Tue, 30 Jun 2026 17:36:23 GMT",
+      "mined_at": "2026-06-30T18:15:57+00:00",
+      "source_published_at": "Tue, 30 Jun 2026 17:36:23 GMT",
+      "image_url": "/article_images/article_234cfa55cee1.webp",
       "category": "News",
-      "title": "Supreme Court Gives Trump a Big Win: He Can Fire Watchdog Agency Leaders!",
-      "summary": "In a huge 6-3 decision, the Supreme Court said President Trump can fire leaders of independent agencies like the FTC without a reason. This overturns a 91-year-old rule that protected those jobs. Now, the president has way more control over agencies that watch over big companies and protect consumers."
+      "title": "Supreme Court Says: If You're Born in the USA, You're a Citizen!",
+      "summary": "The U.S. Supreme Court ruled that all babies born in America are citizens, even if their parents are not. This was a big loss for President Trump, who wanted to change the 150-year-old rule."
     },
     {
-      "id": "2026-06-29-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Mon, 29 Jun 2026 17:31:08 +0000",
-      "mined_at": "2026-06-29T18:19:34+00:00",
-      "source_published_at": "Mon, 29 Jun 2026 17:31:08 +0000",
-      "image_url": "/article_images/article_1a4e3eaf3b63.webp",
+      "id": "2026-06-30-news-3",
+      "source": "NPR World",
+      "time_ago": "Tue, 30 Jun 2026 13:26:48 -0400",
+      "mined_at": "2026-06-30T18:15:57+00:00",
+      "source_published_at": "Tue, 30 Jun 2026 13:26:48 -0400",
+      "image_url": "/article_images/article_0023bbe02a4b.webp",
       "category": "News",
-      "title": "Israeli Attacks Force Families to Flee in Southern Syria — Turkey Says It's Against the Law",
-      "summary": "Israeli soldiers fired shells near homes in a village in southern Syria, forcing families to run away in the middle of the night. The attack happened in Abdin village. Turkey and Syria both say Israel broke international law. Israel says it was fighting \"terrorists,\" but didn't give proof."
+      "title": "Scorching Heat Wave to Bake Midwest and East Coast for July 4th",
+      "summary": "A massive heat wave will hit over 100 million people this week, with temperatures up to 105°F. Experts say stay inside, drink water, and take breaks. The extreme heat is linked to climate change."
     }
   ]
 }
