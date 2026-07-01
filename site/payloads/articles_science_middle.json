@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-30-science-1",
-      "source": "Science News Explores",
-      "time_ago": "Tue, 30 Jun 2026 10:30:00 +0000",
-      "mined_at": "2026-06-30T18:15:57+00:00",
-      "source_published_at": "Tue, 30 Jun 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_5adf03d1d399.webp",
+      "id": "2026-07-01-science-1",
+      "source": "Physics World",
+      "time_ago": "Wed, 01 Jul 2026 08:00:59 +0000",
+      "mined_at": "2026-07-01T18:20:05+00:00",
+      "source_published_at": "Wed, 01 Jul 2026 08:00:59 +0000",
+      "image_url": "/article_images/article_469c2073fca6.webp",
       "category": "Science",
-      "title": "Bread Yeast vs. Microplastics: A Home Experiment with Global Potential",
-      "summary": "Baker's yeast can act like a natural magnet for microplastics, clumping them so they sink. This experiment lets you test how much yeast is needed to clean contaminated water. It's a hands-on look at bioremediation — using microbes to fight pollution."
+      "title": "Eavesdropping on Silence: How Submarine Internet Cables Can Now Detect Whales Without a Sound",
+      "summary": "Most whale tracking relies on their deafening calls, but what about when they go quiet? Norwegian researchers have tapped into undersea fiber-optic cables to detect the subtle pressure waves whales create just by swimming. This breakthrough could fill a massive blind spot in marine conservation."
     },
     {
-      "id": "2026-06-30-science-2",
-      "source": "ScienceDaily All",
-      "time_ago": "Fri, 26 Jun 2026 21:09:31 EDT",
-      "mined_at": "2026-06-30T18:15:57+00:00",
-      "source_published_at": "Fri, 26 Jun 2026 21:09:31 EDT",
-      "image_url": "/article_images/article_04fbf09382e8.webp",
+      "id": "2026-07-01-science-2",
+      "source": "MIT Tech Review",
+      "time_ago": "Wed, 01 Jul 2026 14:35:16 +0000",
+      "mined_at": "2026-07-01T18:20:05+00:00",
+      "source_published_at": "Wed, 01 Jul 2026 14:35:16 +0000",
+      "image_url": "/article_images/article_6d610399a865.webp",
       "category": "Science",
-      "title": "Cotton-Candy Worlds: Astronomers Discover Two Unbelievably Fluffy Planets",
-      "summary": "TOI-791 b and c are Jupiter-sized but have densities lower than cotton candy. Found by citizen scientists and confirmed with Antarctic telescope data, these rare super-puff planets orbit in a 5:3 resonance. They challenge our understanding of planet formation."
+      "title": "AI's '7' Problem: How Large Language Models Got Stuck in a Groupthink Groove",
+      "summary": "Ask any major chatbot for a random number, and you'll probably get 7. This eerie predictability exposes a deeper flaw: LLMs converge on the same clichéd answers. Startup Springboards built Flint, a model designed to break the mold and serve up genuine variety for creative tasks."
     },
     {
-      "id": "2026-06-30-science-3",
-      "source": "ScienceDaily All",
-      "time_ago": "Sun, 28 Jun 2026 21:21:44 EDT",
-      "mined_at": "2026-06-30T18:15:57+00:00",
-      "source_published_at": "Sun, 28 Jun 2026 21:21:44 EDT",
-      "image_url": "/article_images/article_eb45f3fc3d62.webp",
+      "id": "2026-07-01-science-3",
+      "source": "Physics World",
+      "time_ago": "Wed, 01 Jul 2026 07:50:29 +0000",
+      "mined_at": "2026-07-01T18:20:05+00:00",
+      "source_published_at": "Wed, 01 Jul 2026 07:50:29 +0000",
+      "image_url": "/article_images/article_8cae3f7d3914.webp",
       "category": "Science",
-      "title": "Underground Allies: How Root Bacteria Fortify Crops Against Salty Soil",
-      "summary": "Pseudomonad bacteria naturally gather on roots under salt stress, boosting plant growth without reducing internal salt levels. This discovery could lead to microbial treatments for crops on salt-damaged farmland, a growing threat to global food supplies."
+      "title": "Turning Grid Bottlenecks into Bargains: How Surplus Renewable Power Could Slash Green Hydrogen Costs",
+      "summary": "When renewable energy overwhelms the grid, operators often curtail it—wasting clean electricity. German researchers show that using this excess power for hydrogen production can cut costs by up to €1.96 per kg, but only if the surplus electricity is nearly free and combined with steadier sources."
     }
   ]
 }

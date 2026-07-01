@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-30-news-1",
-      "source": "BBC News",
-      "time_ago": "Tue, 30 Jun 2026 14:25:42 GMT",
-      "mined_at": "2026-06-30T18:15:57+00:00",
-      "source_published_at": "Tue, 30 Jun 2026 14:25:42 GMT",
-      "image_url": "/article_images/article_4a259ea1e01a.webp",
-      "category": "News",
-      "title": "Moms and Babies Not Being Heard: UK Promises Big Changes",
-      "summary": "A new report says many moms and babies are being failed in UK hospitals. The government promises 1,000 new midwife jobs and better emergency care. Some families say the plan doesn't go far enough."
-    },
-    {
-      "id": "2026-06-30-news-2",
-      "source": "BBC News",
-      "time_ago": "Tue, 30 Jun 2026 17:36:23 GMT",
-      "mined_at": "2026-06-30T18:15:57+00:00",
-      "source_published_at": "Tue, 30 Jun 2026 17:36:23 GMT",
-      "image_url": "/article_images/article_234cfa55cee1.webp",
-      "category": "News",
-      "title": "Supreme Court Says: If You're Born in the USA, You're a Citizen!",
-      "summary": "The U.S. Supreme Court ruled that all babies born in America are citizens, even if their parents are not. This was a big loss for President Trump, who wanted to change the 150-year-old rule."
-    },
-    {
-      "id": "2026-06-30-news-3",
+      "id": "2026-07-01-news-1",
       "source": "NPR World",
-      "time_ago": "Tue, 30 Jun 2026 13:26:48 -0400",
-      "mined_at": "2026-06-30T18:15:57+00:00",
-      "source_published_at": "Tue, 30 Jun 2026 13:26:48 -0400",
-      "image_url": "/article_images/article_0023bbe02a4b.webp",
+      "time_ago": "Wed, 01 Jul 2026 11:06:18 -0400",
+      "mined_at": "2026-07-01T18:20:05+00:00",
+      "source_published_at": "Wed, 01 Jul 2026 11:06:18 -0400",
+      "image_url": "/article_images/article_bf65e9322512.webp",
       "category": "News",
-      "title": "Scorching Heat Wave to Bake Midwest and East Coast for July 4th",
-      "summary": "A massive heat wave will hit over 100 million people this week, with temperatures up to 105°F. Experts say stay inside, drink water, and take breaks. The extreme heat is linked to climate change."
+      "title": "Record-Breaking Crowds Prove the World Cup Is the Biggest Party in America Right Now",
+      "summary": "Imagine 25 million people watching one soccer game! That's how many tuned in for Team USA's first World Cup match. From Boston to LA, fans are packing stadiums and festivals in record numbers."
+    },
+    {
+      "id": "2026-07-01-news-2",
+      "source": "NPR World",
+      "time_ago": "Wed, 01 Jul 2026 05:00:00 -0400",
+      "mined_at": "2026-07-01T18:20:05+00:00",
+      "source_published_at": "Wed, 01 Jul 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_d47599fdd107.webp",
+      "category": "News",
+      "title": "Why Kids with Autism Are Getting Special Swim Lessons in Florida",
+      "summary": "Kids with autism are 160 times more likely to drown. In Florida, a new law helps families get swim lessons. Five-year-old Mackenzie loves the water, and her lessons at the YMCA are teaching her to stay safe."
+    },
+    {
+      "id": "2026-07-01-news-3",
+      "source": "NPR World",
+      "time_ago": "Wed, 01 Jul 2026 05:00:00 -0400",
+      "mined_at": "2026-07-01T18:20:05+00:00",
+      "source_published_at": "Wed, 01 Jul 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_0dbd380d1ec7.webp",
+      "category": "News",
+      "title": "A Big Fight Over Who Gets to Vote: The 90-Day Rule Explained",
+      "summary": "There's a law that says states can't remove lots of voters from the rolls right before an election. But Republicans want to change how it works. The Supreme Court will decide."
     }
   ]
 }

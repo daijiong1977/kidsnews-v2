@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-06-30-news-1",
-      "source": "BBC News",
-      "time_ago": "Tue, 30 Jun 2026 14:25:42 GMT",
-      "mined_at": "2026-06-30T18:15:57+00:00",
-      "source_published_at": "Tue, 30 Jun 2026 14:25:42 GMT",
-      "image_url": "/article_images/article_4a259ea1e01a.webp",
-      "category": "News",
-      "title": "Damning Review Exposes Deep Failings in UK Maternity Care",
-      "summary": "A government-ordered review found racism and discrimination are embedded in NHS maternity services, failing women and babies. The government pledged 1,000 new midwife posts and £41m for facilities, but some families call the response a \"missed opportunity.\""
-    },
-    {
-      "id": "2026-06-30-news-2",
-      "source": "BBC News",
-      "time_ago": "Tue, 30 Jun 2026 17:36:23 GMT",
-      "mined_at": "2026-06-30T18:15:57+00:00",
-      "source_published_at": "Tue, 30 Jun 2026 17:36:23 GMT",
-      "image_url": "/article_images/article_234cfa55cee1.webp",
-      "category": "News",
-      "title": "Supreme Court Blocks Trump's Bid to End Birthright Citizenship",
-      "summary": "In a 6-3 ruling, the Supreme Court affirmed that the 14th Amendment guarantees citizenship to all born on U.S. soil, rejecting Trump's executive order. The decision is a major blow to his immigration agenda and was hailed by civil rights advocates."
-    },
-    {
-      "id": "2026-06-30-news-3",
+      "id": "2026-07-01-news-1",
       "source": "NPR World",
-      "time_ago": "Tue, 30 Jun 2026 13:26:48 -0400",
-      "mined_at": "2026-06-30T18:15:57+00:00",
-      "source_published_at": "Tue, 30 Jun 2026 13:26:48 -0400",
-      "image_url": "/article_images/article_0023bbe02a4b.webp",
+      "time_ago": "Wed, 01 Jul 2026 11:06:18 -0400",
+      "mined_at": "2026-07-01T18:20:05+00:00",
+      "source_published_at": "Wed, 01 Jul 2026 11:06:18 -0400",
+      "image_url": "/article_images/article_bf65e9322512.webp",
       "category": "News",
-      "title": "Record-Breaking Heat Wave Threatens Millions Ahead of July Fourth",
-      "summary": "Over 100 million Americans face extreme heat warnings as a heat dome pushes temperatures to 105°F across the Midwest and East Coast. The National Weather Service warns of dangerous conditions, especially for vulnerable groups, with climate change making such events more frequent."
+      "title": "Soccer Fever Sweeps the U.S.: World Cup Shatters Viewership and Attendance Records",
+      "summary": "The USMNT's opener drew 25 million viewers—more than double the 2022 World Cup's first match. Stadiums are 99.7% full, and fan festivals have pulled in 5.5 million people. The World Cup is a massive hit."
+    },
+    {
+      "id": "2026-07-01-news-2",
+      "source": "NPR World",
+      "time_ago": "Wed, 01 Jul 2026 05:00:00 -0400",
+      "mined_at": "2026-07-01T18:20:05+00:00",
+      "source_published_at": "Wed, 01 Jul 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_d47599fdd107.webp",
+      "category": "News",
+      "title": "Florida Fights Drowning Risk for Autistic Kids with Specialized Swim Lessons",
+      "summary": "Autistic children are 160 times more likely to drown. Florida's new law funds swim lessons, and a YMCA program uses one-on-one instruction to teach water safety. Researchers say it works fast."
+    },
+    {
+      "id": "2026-07-01-news-3",
+      "source": "NPR World",
+      "time_ago": "Wed, 01 Jul 2026 05:00:00 -0400",
+      "mined_at": "2026-07-01T18:20:05+00:00",
+      "source_published_at": "Wed, 01 Jul 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_0dbd380d1ec7.webp",
+      "category": "News",
+      "title": "Supreme Court to Decide Whether States Can Purge Voter Rolls Close to Elections",
+      "summary": "A 1993 law bans systematic voter purges within 90 days of a federal election. Republicans want to exempt noncitizen removals. The Supreme Court will hear an Arizona case that could narrow the protection."
     }
   ]
 }
