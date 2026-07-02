@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-01-news-1",
-      "source": "NPR World",
-      "time_ago": "Wed, 01 Jul 2026 11:06:18 -0400",
-      "mined_at": "2026-07-01T18:20:05+00:00",
-      "source_published_at": "Wed, 01 Jul 2026 11:06:18 -0400",
-      "image_url": "/article_images/article_bf65e9322512.webp",
+      "id": "2026-07-02-news-1",
+      "source": "Al Jazeera",
+      "time_ago": "Thu, 02 Jul 2026 17:55:42 +0000",
+      "mined_at": "2026-07-02T18:39:05+00:00",
+      "source_published_at": "Thu, 02 Jul 2026 17:55:42 +0000",
+      "image_url": "/article_images/article_eb476f70af97.webp",
       "category": "News",
-      "title": "Soccer Fever Sweeps the U.S.: World Cup Shatters Viewership and Attendance Records",
-      "summary": "The USMNT's opener drew 25 million viewers—more than double the 2022 World Cup's first match. Stadiums are 99.7% full, and fan festivals have pulled in 5.5 million people. The World Cup is a massive hit."
+      "title": "Scorching Heat Dome Tests World Cup: How FIFA and Host Cities Are Responding",
+      "summary": "A record-breaking heat wave is slamming North American World Cup host cities, with feels-like temps up to 110°F. Toronto’s open-air stadium exposes 43,000 fans; Kansas City faces an extreme heat warning. FIFA’s hydration breaks spark controversy."
     },
     {
-      "id": "2026-07-01-news-2",
+      "id": "2026-07-02-news-2",
       "source": "NPR World",
-      "time_ago": "Wed, 01 Jul 2026 05:00:00 -0400",
-      "mined_at": "2026-07-01T18:20:05+00:00",
-      "source_published_at": "Wed, 01 Jul 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_d47599fdd107.webp",
+      "time_ago": "Thu, 02 Jul 2026 12:55:50 -0400",
+      "mined_at": "2026-07-02T18:39:05+00:00",
+      "source_published_at": "Thu, 02 Jul 2026 12:55:50 -0400",
+      "image_url": "/article_images/article_5a1e5abb79f1.webp",
       "category": "News",
-      "title": "Florida Fights Drowning Risk for Autistic Kids with Specialized Swim Lessons",
-      "summary": "Autistic children are 160 times more likely to drown. Florida's new law funds swim lessons, and a YMCA program uses one-on-one instruction to teach water safety. Researchers say it works fast."
+      "title": "When Nights Don't Cool Down: The Hidden Danger of the Current Heat Wave",
+      "summary": "A heat dome is pushing daytime temps past 100°F across the U.S., but overnight lows are staying shockingly high—in the 80s. This prevents body recovery and raises heat illness risk, especially for the 12% of households without AC. Climate change is driving the trend."
     },
     {
-      "id": "2026-07-01-news-3",
-      "source": "NPR World",
-      "time_ago": "Wed, 01 Jul 2026 05:00:00 -0400",
-      "mined_at": "2026-07-01T18:20:05+00:00",
-      "source_published_at": "Wed, 01 Jul 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_0dbd380d1ec7.webp",
+      "id": "2026-07-02-news-3",
+      "source": "BBC News",
+      "time_ago": "Thu, 02 Jul 2026 10:37:10 GMT",
+      "mined_at": "2026-07-02T18:39:05+00:00",
+      "source_published_at": "Thu, 02 Jul 2026 10:37:10 GMT",
+      "image_url": "/article_images/article_b64ae14845cc.webp",
       "category": "News",
-      "title": "Supreme Court to Decide Whether States Can Purge Voter Rolls Close to Elections",
-      "summary": "A 1993 law bans systematic voter purges within 90 days of a federal election. Republicans want to exempt noncitizen removals. The Supreme Court will hear an Arizona case that could narrow the protection."
+      "title": "Kane’s Late Brace Saves England from Humiliation, But Tuchel’s Problems Mount",
+      "summary": "England narrowly avoided a catastrophic World Cup exit, beating DR Congo 2-1 on Harry Kane’s late double. The win masks deep flaws: an unsettled defense, a right-back crisis, and over-reliance on Kane and Bellingham. Next: a daunting clash with Mexico at Azteca Stadium."
     }
   ]
 }

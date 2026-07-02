@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-01-science-1",
-      "source": "Physics World",
-      "time_ago": "Wed, 01 Jul 2026 08:00:59 +0000",
-      "mined_at": "2026-07-01T18:20:05+00:00",
-      "source_published_at": "Wed, 01 Jul 2026 08:00:59 +0000",
-      "image_url": "/article_images/article_469c2073fca6.webp",
+      "id": "2026-07-02-science-1",
+      "source": "Space.com",
+      "time_ago": "Thu, 02 Jul 2026 16:00:00 +0000",
+      "mined_at": "2026-07-02T18:39:05+00:00",
+      "source_published_at": "Thu, 02 Jul 2026 16:00:00 +0000",
+      "image_url": "/article_images/article_506a7a3f0704.webp",
       "category": "Science",
-      "title": "Eavesdropping on Silence: How Submarine Internet Cables Can Now Detect Whales Without a Sound",
-      "summary": "Most whale tracking relies on their deafening calls, but what about when they go quiet? Norwegian researchers have tapped into undersea fiber-optic cables to detect the subtle pressure waves whales create just by swimming. This breakthrough could fill a massive blind spot in marine conservation."
+      "title": "GJ 3378b: A Rocky World Right Next Door — But Is It Habitable?",
+      "summary": "Astronomers have refined the details of GJ 3378b, a rocky exoplanet just 25 light-years away. It's now confirmed to be a super-Earth in its star's habitable zone, but intense radiation might have stripped its atmosphere. We'll need a future telescope to know if it's truly livable."
     },
     {
-      "id": "2026-07-01-science-2",
-      "source": "MIT Tech Review",
-      "time_ago": "Wed, 01 Jul 2026 14:35:16 +0000",
-      "mined_at": "2026-07-01T18:20:05+00:00",
-      "source_published_at": "Wed, 01 Jul 2026 14:35:16 +0000",
-      "image_url": "/article_images/article_6d610399a865.webp",
+      "id": "2026-07-02-science-2",
+      "source": "IEEE Spectrum",
+      "time_ago": "Mon, 29 Jun 2026 13:00:01 +0000",
+      "mined_at": "2026-07-02T18:39:05+00:00",
+      "source_published_at": "Mon, 29 Jun 2026 13:00:01 +0000",
+      "image_url": "",
       "category": "Science",
-      "title": "AI's '7' Problem: How Large Language Models Got Stuck in a Groupthink Groove",
-      "summary": "Ask any major chatbot for a random number, and you'll probably get 7. This eerie predictability exposes a deeper flaw: LLMs converge on the same clichéd answers. Startup Springboards built Flint, a model designed to break the mold and serve up genuine variety for creative tasks."
+      "title": "The Accidental Neuron: How a Forgotten Wire Could Slash AI's Energy Appetite",
+      "summary": "A student's oversight in the lab revealed that a standard transistor can mimic a biological neuron when its bulk terminal is left unconnected. This discovery could enable neuromorphic chips with single-device neurons and synapses, drastically cutting the power needed for AI."
     },
     {
-      "id": "2026-07-01-science-3",
-      "source": "Physics World",
-      "time_ago": "Wed, 01 Jul 2026 07:50:29 +0000",
-      "mined_at": "2026-07-01T18:20:05+00:00",
-      "source_published_at": "Wed, 01 Jul 2026 07:50:29 +0000",
-      "image_url": "/article_images/article_8cae3f7d3914.webp",
+      "id": "2026-07-02-science-3",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Tue, 30 Jun 2026 16:18:00 EDT",
+      "mined_at": "2026-07-02T18:39:05+00:00",
+      "source_published_at": "Tue, 30 Jun 2026 16:18:00 EDT",
+      "image_url": "/article_images/article_23b91f03615c.webp",
       "category": "Science",
-      "title": "Turning Grid Bottlenecks into Bargains: How Surplus Renewable Power Could Slash Green Hydrogen Costs",
-      "summary": "When renewable energy overwhelms the grid, operators often curtail it—wasting clean electricity. German researchers show that using this excess power for hydrogen production can cut costs by up to €1.96 per kg, but only if the surplus electricity is nearly free and combined with steadier sources."
+      "title": "Anemones' Antiviral Paradox: The Protein That Fights Viruses by Slamming the Brakes",
+      "summary": "A newly discovered protein in sea anemones, CARDIB, suppresses immune responses yet is crucial for antiviral defense. Removing it made anemones far more vulnerable to viruses, revealing an evolutionary strategy opposite to the human MAVS pathway."
     }
   ]
 }

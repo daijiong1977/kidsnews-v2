@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-01-news-1",
-      "source": "NPR World",
-      "time_ago": "Wed, 01 Jul 2026 11:06:18 -0400",
-      "mined_at": "2026-07-01T18:20:05+00:00",
-      "source_published_at": "Wed, 01 Jul 2026 11:06:18 -0400",
-      "image_url": "/article_images/article_bf65e9322512.webp",
+      "id": "2026-07-02-news-1",
+      "source": "Al Jazeera",
+      "time_ago": "Thu, 02 Jul 2026 17:55:42 +0000",
+      "mined_at": "2026-07-02T18:39:05+00:00",
+      "source_published_at": "Thu, 02 Jul 2026 17:55:42 +0000",
+      "image_url": "/article_images/article_eb476f70af97.webp",
       "category": "News",
-      "title": "Record-Breaking Crowds Prove the World Cup Is the Biggest Party in America Right Now",
-      "summary": "Imagine 25 million people watching one soccer game! That's how many tuned in for Team USA's first World Cup match. From Boston to LA, fans are packing stadiums and festivals in record numbers."
+      "title": "A Giant Heat Dome Is Baking the World Cup — Here's How Players and Fans Are Staying Safe",
+      "summary": "A massive heat dome is pushing temperatures above 110°F at World Cup games. In Kansas City, it could feel like 110°F for Colombia vs. Ghana. FIFA added water breaks, but some stadiums have no roof to block the sun."
     },
     {
-      "id": "2026-07-01-news-2",
+      "id": "2026-07-02-news-2",
       "source": "NPR World",
-      "time_ago": "Wed, 01 Jul 2026 05:00:00 -0400",
-      "mined_at": "2026-07-01T18:20:05+00:00",
-      "source_published_at": "Wed, 01 Jul 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_d47599fdd107.webp",
+      "time_ago": "Thu, 02 Jul 2026 12:55:50 -0400",
+      "mined_at": "2026-07-02T18:39:05+00:00",
+      "source_published_at": "Thu, 02 Jul 2026 12:55:50 -0400",
+      "image_url": "/article_images/article_5a1e5abb79f1.webp",
       "category": "News",
-      "title": "Why Kids with Autism Are Getting Special Swim Lessons in Florida",
-      "summary": "Kids with autism are 160 times more likely to drown. In Florida, a new law helps families get swim lessons. Five-year-old Mackenzie loves the water, and her lessons at the YMCA are teaching her to stay safe."
+      "title": "It's Not Just the Daytime Heat — Scorching Nights Are Making the Heat Wave Even More Dangerous",
+      "summary": "A heat dome is baking 90 million Americans, but nights aren't cooling down. In D.C. and Philly, temps stay above 80°F. Without AC, bodies can't recover, raising the risk of heat stroke. Climate change is making hot nights more common."
     },
     {
-      "id": "2026-07-01-news-3",
-      "source": "NPR World",
-      "time_ago": "Wed, 01 Jul 2026 05:00:00 -0400",
-      "mined_at": "2026-07-01T18:20:05+00:00",
-      "source_published_at": "Wed, 01 Jul 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_0dbd380d1ec7.webp",
+      "id": "2026-07-02-news-3",
+      "source": "BBC News",
+      "time_ago": "Thu, 02 Jul 2026 10:37:10 GMT",
+      "mined_at": "2026-07-02T18:39:05+00:00",
+      "source_published_at": "Thu, 02 Jul 2026 10:37:10 GMT",
+      "image_url": "/article_images/article_b64ae14845cc.webp",
       "category": "News",
-      "title": "A Big Fight Over Who Gets to Vote: The 90-Day Rule Explained",
-      "summary": "There's a law that says states can't remove lots of voters from the rolls right before an election. But Republicans want to change how it works. The Supreme Court will decide."
+      "title": "England Almost Lost to a Tiny Nation — Until Harry Kane Saved the Day",
+      "summary": "England was 15 minutes from a shocking World Cup exit against DR Congo. Harry Kane scored twice to win 2-1. Coach Tuchel faces big problems: a shaky defense and too much reliance on Kane and Bellingham. Next up: Mexico in Mexico City."
     }
   ]
 }

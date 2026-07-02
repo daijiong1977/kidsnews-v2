@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-01-science-1",
-      "source": "Physics World",
-      "time_ago": "Wed, 01 Jul 2026 08:00:59 +0000",
-      "mined_at": "2026-07-01T18:20:05+00:00",
-      "source_published_at": "Wed, 01 Jul 2026 08:00:59 +0000",
-      "image_url": "/article_images/article_469c2073fca6.webp",
+      "id": "2026-07-02-science-1",
+      "source": "Space.com",
+      "time_ago": "Thu, 02 Jul 2026 16:00:00 +0000",
+      "mined_at": "2026-07-02T18:39:05+00:00",
+      "source_published_at": "Thu, 02 Jul 2026 16:00:00 +0000",
+      "image_url": "/article_images/article_506a7a3f0704.webp",
       "category": "Science",
-      "title": "Secret Whale Tracker: How Undersea Internet Cables Can Spy on Silent Giants",
-      "summary": "Whales are super quiet most of the time, so how do we track them? Scientists just found a way to use the internet cables on the ocean floor to feel the water ripples whales make when they swim. This could help protect whales as the ocean changes."
+      "title": "A New Earth-Like Planet? Meet GJ 3378b, Our Cosmic Neighbor!",
+      "summary": "Imagine a world just 25 light-years away that might have oceans and life! Scientists found a rocky planet, GJ 3378b, orbiting a red dwarf star. It's in the habitable zone, but we don't know if it has an atmosphere yet."
     },
     {
-      "id": "2026-07-01-science-2",
-      "source": "MIT Tech Review",
-      "time_ago": "Wed, 01 Jul 2026 14:35:16 +0000",
-      "mined_at": "2026-07-01T18:20:05+00:00",
-      "source_published_at": "Wed, 01 Jul 2026 14:35:16 +0000",
-      "image_url": "/article_images/article_6d610399a865.webp",
+      "id": "2026-07-02-science-2",
+      "source": "IEEE Spectrum",
+      "time_ago": "Mon, 29 Jun 2026 13:00:01 +0000",
+      "mined_at": "2026-07-02T18:39:05+00:00",
+      "source_published_at": "Mon, 29 Jun 2026 13:00:01 +0000",
+      "image_url": "",
       "category": "Science",
-      "title": "Why Do Chatbots Always Say '7'? The Secret Groupthink Problem in AI",
-      "summary": "Ask a chatbot for a random number between 1 and 10, and it almost always says 7. That's because AI models are stuck in a rut—they give the same boring answers to lots of questions. A new startup called Springboards built a model that's way more creative."
+      "title": "Oops! A Lab Mistake Might Make Computers Think Like Brains!",
+      "summary": "A student forgot to connect a wire in a transistor, and it started acting like a brain cell! This happy accident could lead to computer chips that use way less energy — like your brain does. It's a big step toward smarter, greener AI."
     },
     {
-      "id": "2026-07-01-science-3",
-      "source": "Physics World",
-      "time_ago": "Wed, 01 Jul 2026 07:50:29 +0000",
-      "mined_at": "2026-07-01T18:20:05+00:00",
-      "source_published_at": "Wed, 01 Jul 2026 07:50:29 +0000",
-      "image_url": "/article_images/article_8cae3f7d3914.webp",
+      "id": "2026-07-02-science-3",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Tue, 30 Jun 2026 16:18:00 EDT",
+      "mined_at": "2026-07-02T18:39:05+00:00",
+      "source_published_at": "Tue, 30 Jun 2026 16:18:00 EDT",
+      "image_url": "/article_images/article_23b91f03615c.webp",
       "category": "Science",
-      "title": "Wasted Wind Power Could Make Green Hydrogen Way Cheaper",
-      "summary": "Sometimes wind and solar farms make too much electricity and it goes to waste. Scientists in Germany found a clever use for it: making clean hydrogen fuel. By using this extra power, hydrogen could become almost €2 cheaper per kilogram."
+      "title": "Sea Anemones Have a Totally Weird Way to Fight Viruses!",
+      "summary": "Scientists found that sea anemones use a protein called CARDIB to fight viruses — but it works backwards! Instead of turning on the immune system, it puts the brakes on. And that brake is exactly what helps them survive infections."
     }
   ]
 }
