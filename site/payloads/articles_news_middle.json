@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-02-news-1",
-      "source": "Al Jazeera",
-      "time_ago": "Thu, 02 Jul 2026 17:55:42 +0000",
-      "mined_at": "2026-07-02T18:39:05+00:00",
-      "source_published_at": "Thu, 02 Jul 2026 17:55:42 +0000",
-      "image_url": "/article_images/article_eb476f70af97.webp",
-      "category": "News",
-      "title": "Scorching Heat Dome Tests World Cup: How FIFA and Host Cities Are Responding",
-      "summary": "A record-breaking heat wave is slamming North American World Cup host cities, with feels-like temps up to 110°F. Toronto’s open-air stadium exposes 43,000 fans; Kansas City faces an extreme heat warning. FIFA’s hydration breaks spark controversy."
-    },
-    {
-      "id": "2026-07-02-news-2",
+      "id": "2026-07-03-news-1",
       "source": "NPR World",
-      "time_ago": "Thu, 02 Jul 2026 12:55:50 -0400",
-      "mined_at": "2026-07-02T18:39:05+00:00",
-      "source_published_at": "Thu, 02 Jul 2026 12:55:50 -0400",
-      "image_url": "/article_images/article_5a1e5abb79f1.webp",
+      "time_ago": "Fri, 03 Jul 2026 05:00:00 -0400",
+      "mined_at": "2026-07-03T18:11:43+00:00",
+      "source_published_at": "Fri, 03 Jul 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_accae40560da.webp",
       "category": "News",
-      "title": "When Nights Don't Cool Down: The Hidden Danger of the Current Heat Wave",
-      "summary": "A heat dome is pushing daytime temps past 100°F across the U.S., but overnight lows are staying shockingly high—in the 80s. This prevents body recovery and raises heat illness risk, especially for the 12% of households without AC. Climate change is driving the trend."
+      "title": "From the Underground Railroad to the Youth Vote: 700 Kids Podcast What America Means to Them",
+      "summary": "NPR's 250th-anniversary student podcast contest drew over 700 entries. Winners explored immigrant dreams, the Underground Railroad, and a 16-year-old's voting rights. One grandpa said leaving Greece was 'very, very hard.' These kids redefine the American experience."
     },
     {
-      "id": "2026-07-02-news-3",
-      "source": "BBC News",
-      "time_ago": "Thu, 02 Jul 2026 10:37:10 GMT",
-      "mined_at": "2026-07-02T18:39:05+00:00",
-      "source_published_at": "Thu, 02 Jul 2026 10:37:10 GMT",
-      "image_url": "/article_images/article_b64ae14845cc.webp",
+      "id": "2026-07-03-news-2",
+      "source": "Al Jazeera",
+      "time_ago": "Fri, 03 Jul 2026 16:05:29 +0000",
+      "mined_at": "2026-07-03T18:11:43+00:00",
+      "source_published_at": "Fri, 03 Jul 2026 16:05:29 +0000",
+      "image_url": "/article_images/article_760251a51de8.webp",
       "category": "News",
-      "title": "Kane’s Late Brace Saves England from Humiliation, But Tuchel’s Problems Mount",
-      "summary": "England narrowly avoided a catastrophic World Cup exit, beating DR Congo 2-1 on Harry Kane’s late double. The win masks deep flaws: an unsettled defense, a right-back crisis, and over-reliance on Kane and Bellingham. Next: a daunting clash with Mexico at Azteca Stadium."
+      "title": "'No Reason to Shy Away': Germany's Merz Pushes Back on Trump's NATO Spending Criticism",
+      "summary": "Trump blasted Germany's defense spending as 'ridiculous,' but Chancellor Merz says Berlin will double its military budget in four years and hit NATO's 3.5% GDP target by 2029—six years early. The spat comes ahead of a tense NATO summit in Ankara."
+    },
+    {
+      "id": "2026-07-03-news-3",
+      "source": "NPR World",
+      "time_ago": "Fri, 03 Jul 2026 05:00:00 -0400",
+      "mined_at": "2026-07-03T18:11:43+00:00",
+      "source_published_at": "Fri, 03 Jul 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_4c39f47f02f8.webp",
+      "category": "News",
+      "title": "Fertilizer Crisis: How the Iran War Is Squeezing U.S. Farmers—and What It Means for Your Food",
+      "summary": "The closure of the Strait of Hormuz has slashed global fertilizer shipments, driving up costs for U.S. farmers. Corn growers may cut back or switch to soybeans. But experts say the impact on grocery prices will be modest—farmers will bear the brunt."
     }
   ]
 }

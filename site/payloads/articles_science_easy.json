@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-02-science-1",
-      "source": "Space.com",
-      "time_ago": "Thu, 02 Jul 2026 16:00:00 +0000",
-      "mined_at": "2026-07-02T18:39:05+00:00",
-      "source_published_at": "Thu, 02 Jul 2026 16:00:00 +0000",
-      "image_url": "/article_images/article_506a7a3f0704.webp",
+      "id": "2026-07-03-science-1",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Wed, 01 Jul 2026 20:36:29 EDT",
+      "mined_at": "2026-07-03T18:11:43+00:00",
+      "source_published_at": "Wed, 01 Jul 2026 20:36:29 EDT",
+      "image_url": "/article_images/article_bb4aa4d57cba.webp",
       "category": "Science",
-      "title": "A New Earth-Like Planet? Meet GJ 3378b, Our Cosmic Neighbor!",
-      "summary": "Imagine a world just 25 light-years away that might have oceans and life! Scientists found a rocky planet, GJ 3378b, orbiting a red dwarf star. It's in the habitable zone, but we don't know if it has an atmosphere yet."
+      "title": "Your Laugh Is a 15-Million-Year-Old Secret Code!",
+      "summary": "Scientists found that human laughter shares a hidden rhythm with gorillas, chimps, and orangutans. This beat has stayed the same for 15 million years, giving clues about how speech began."
     },
     {
-      "id": "2026-07-02-science-2",
-      "source": "IEEE Spectrum",
-      "time_ago": "Mon, 29 Jun 2026 13:00:01 +0000",
-      "mined_at": "2026-07-02T18:39:05+00:00",
-      "source_published_at": "Mon, 29 Jun 2026 13:00:01 +0000",
-      "image_url": "",
+      "id": "2026-07-03-science-2",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Thu, 02 Jul 2026 23:56:36 EDT",
+      "mined_at": "2026-07-03T18:11:43+00:00",
+      "source_published_at": "Thu, 02 Jul 2026 23:56:36 EDT",
+      "image_url": "/article_images/article_fd11a270dd31.webp",
       "category": "Science",
-      "title": "Oops! A Lab Mistake Might Make Computers Think Like Brains!",
-      "summary": "A student forgot to connect a wire in a transistor, and it started acting like a brain cell! This happy accident could lead to computer chips that use way less energy — like your brain does. It's a big step toward smarter, greener AI."
+      "title": "A Tiny Black Hole Could Unlock the Universe's Biggest Mystery!",
+      "summary": "Scientists think a strange signal from space might be a primordial black hole—a type of black hole born right after the Big Bang. If real, it could explain dark matter, the invisible stuff holding galaxies together."
     },
     {
-      "id": "2026-07-02-science-3",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Tue, 30 Jun 2026 16:18:00 EDT",
-      "mined_at": "2026-07-02T18:39:05+00:00",
-      "source_published_at": "Tue, 30 Jun 2026 16:18:00 EDT",
-      "image_url": "/article_images/article_23b91f03615c.webp",
+      "id": "2026-07-03-science-3",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Fri, 26 Jun 2026 21:09:31 EDT",
+      "mined_at": "2026-07-03T18:11:43+00:00",
+      "source_published_at": "Fri, 26 Jun 2026 21:09:31 EDT",
+      "image_url": "/article_images/article_04fbf09382e8.webp",
       "category": "Science",
-      "title": "Sea Anemones Have a Totally Weird Way to Fight Viruses!",
-      "summary": "Scientists found that sea anemones use a protein called CARDIB to fight viruses — but it works backwards! Instead of turning on the immune system, it puts the brakes on. And that brake is exactly what helps them survive infections."
+      "title": "These Planets Are Fluffier Than Cotton Candy!",
+      "summary": "Astronomers found two giant planets that are lighter than cotton candy. Called TOI-791 b and c, they're as big as Jupiter but 30 times less dense. Citizen scientists helped spot them 1,110 light-years away."
     }
   ]
 }

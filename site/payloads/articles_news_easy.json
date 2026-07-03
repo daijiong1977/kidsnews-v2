@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-02-news-1",
-      "source": "Al Jazeera",
-      "time_ago": "Thu, 02 Jul 2026 17:55:42 +0000",
-      "mined_at": "2026-07-02T18:39:05+00:00",
-      "source_published_at": "Thu, 02 Jul 2026 17:55:42 +0000",
-      "image_url": "/article_images/article_eb476f70af97.webp",
-      "category": "News",
-      "title": "A Giant Heat Dome Is Baking the World Cup — Here's How Players and Fans Are Staying Safe",
-      "summary": "A massive heat dome is pushing temperatures above 110°F at World Cup games. In Kansas City, it could feel like 110°F for Colombia vs. Ghana. FIFA added water breaks, but some stadiums have no roof to block the sun."
-    },
-    {
-      "id": "2026-07-02-news-2",
+      "id": "2026-07-03-news-1",
       "source": "NPR World",
-      "time_ago": "Thu, 02 Jul 2026 12:55:50 -0400",
-      "mined_at": "2026-07-02T18:39:05+00:00",
-      "source_published_at": "Thu, 02 Jul 2026 12:55:50 -0400",
-      "image_url": "/article_images/article_5a1e5abb79f1.webp",
+      "time_ago": "Fri, 03 Jul 2026 05:00:00 -0400",
+      "mined_at": "2026-07-03T18:11:43+00:00",
+      "source_published_at": "Fri, 03 Jul 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_accae40560da.webp",
       "category": "News",
-      "title": "It's Not Just the Daytime Heat — Scorching Nights Are Making the Heat Wave Even More Dangerous",
-      "summary": "A heat dome is baking 90 million Americans, but nights aren't cooling down. In D.C. and Philly, temps stay above 80°F. Without AC, bodies can't recover, raising the risk of heat stroke. Climate change is making hot nights more common."
+      "title": "Kids Across America Share What Freedom Means to Them on the Country's 250th Birthday",
+      "summary": "Imagine asking 700 kids what 'life, liberty, and the pursuit of happiness' means. That's what NPR did for America's 250th birthday. You'll hear about voting at 16, a grandpa's journey from Greece, and a secret escape route for slaves."
     },
     {
-      "id": "2026-07-02-news-3",
-      "source": "BBC News",
-      "time_ago": "Thu, 02 Jul 2026 10:37:10 GMT",
-      "mined_at": "2026-07-02T18:39:05+00:00",
-      "source_published_at": "Thu, 02 Jul 2026 10:37:10 GMT",
-      "image_url": "/article_images/article_b64ae14845cc.webp",
+      "id": "2026-07-03-news-2",
+      "source": "Al Jazeera",
+      "time_ago": "Fri, 03 Jul 2026 16:05:29 +0000",
+      "mined_at": "2026-07-03T18:11:43+00:00",
+      "source_published_at": "Fri, 03 Jul 2026 16:05:29 +0000",
+      "image_url": "/article_images/article_760251a51de8.webp",
       "category": "News",
-      "title": "England Almost Lost to a Tiny Nation — Until Harry Kane Saved the Day",
-      "summary": "England was 15 minutes from a shocking World Cup exit against DR Congo. Harry Kane scored twice to win 2-1. Coach Tuchel faces big problems: a shaky defense and too much reliance on Kane and Bellingham. Next up: Mexico in Mexico City."
+      "title": "Germany's Leader Fires Back After Trump Calls Their Military Spending 'Ridiculous'",
+      "summary": "President Trump says Germany spends too little on its military. But Germany's Chancellor Merz says they're actually doubling their defense budget and will hit NATO's target way ahead of schedule—by 2029!"
+    },
+    {
+      "id": "2026-07-03-news-3",
+      "source": "NPR World",
+      "time_ago": "Fri, 03 Jul 2026 05:00:00 -0400",
+      "mined_at": "2026-07-03T18:11:43+00:00",
+      "source_published_at": "Fri, 03 Jul 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_4c39f47f02f8.webp",
+      "category": "News",
+      "title": "How a War Far Away Could Make Your Cereal More Expensive",
+      "summary": "The war in Iran has blocked a key waterway, causing a global fertilizer shortage. That means U.S. farmers are paying more to grow corn and wheat. But don't panic—experts say the price hike on your groceries will be small."
     }
   ]
 }
