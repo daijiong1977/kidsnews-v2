@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-03-science-1",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Wed, 01 Jul 2026 20:36:29 EDT",
-      "mined_at": "2026-07-03T18:11:43+00:00",
-      "source_published_at": "Wed, 01 Jul 2026 20:36:29 EDT",
-      "image_url": "/article_images/article_bb4aa4d57cba.webp",
+      "id": "2026-07-04-science-1",
+      "source": "ScienceDaily All",
+      "time_ago": "Tue, 30 Jun 2026 16:18:00 EDT",
+      "mined_at": "2026-07-04T18:01:51+00:00",
+      "source_published_at": "Tue, 30 Jun 2026 16:18:00 EDT",
+      "image_url": "/article_images/article_23b91f03615c.webp",
       "category": "Science",
-      "title": "Your Laugh Is a 15-Million-Year-Old Secret Code!",
-      "summary": "Scientists found that human laughter shares a hidden rhythm with gorillas, chimps, and orangutans. This beat has stayed the same for 15 million years, giving clues about how speech began."
+      "title": "Sea Anemones Have a Secret Superpower Against Viruses!",
+      "summary": "Scientists found a brand-new way sea anemones fight viruses. A protein called CARDIB does the OPPOSITE of what a similar human protein does. It actually SLOWS the immune system to help protect the animal. This changes what we know about how animals evolved to fight germs."
     },
     {
-      "id": "2026-07-03-science-2",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Thu, 02 Jul 2026 23:56:36 EDT",
-      "mined_at": "2026-07-03T18:11:43+00:00",
-      "source_published_at": "Thu, 02 Jul 2026 23:56:36 EDT",
-      "image_url": "/article_images/article_fd11a270dd31.webp",
+      "id": "2026-07-04-science-2",
+      "source": "NASA News",
+      "time_ago": "Sat, 04 Jul 2026 11:15:37 +0000",
+      "mined_at": "2026-07-04T18:01:51+00:00",
+      "source_published_at": "Sat, 04 Jul 2026 11:15:37 +0000",
+      "image_url": "/article_images/article_3b7a71f05873.webp",
       "category": "Science",
-      "title": "A Tiny Black Hole Could Unlock the Universe's Biggest Mystery!",
-      "summary": "Scientists think a strange signal from space might be a primordial black hole—a type of black hole born right after the Big Bang. If real, it could explain dark matter, the invisible stuff holding galaxies together."
+      "title": "Hubble Snaps a 13-Billion-Year-Old Fireworks Show for July 4th!",
+      "summary": "NASA's Hubble Space Telescope took a picture of a sparkly star cluster called NGC 6426 to celebrate July 4th. It's 13 billion years old—almost as old as the universe! The red, white, and blue stars look like a cosmic firework. It sits in the outer edge of our Milky Way galaxy."
     },
     {
-      "id": "2026-07-03-science-3",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Fri, 26 Jun 2026 21:09:31 EDT",
-      "mined_at": "2026-07-03T18:11:43+00:00",
-      "source_published_at": "Fri, 26 Jun 2026 21:09:31 EDT",
-      "image_url": "/article_images/article_04fbf09382e8.webp",
+      "id": "2026-07-04-science-3",
+      "source": "ScienceDaily All",
+      "time_ago": "Tue, 30 Jun 2026 03:21:06 EDT",
+      "mined_at": "2026-07-04T18:01:51+00:00",
+      "source_published_at": "Tue, 30 Jun 2026 03:21:06 EDT",
+      "image_url": "/article_images/article_fce62ed08795.webp",
       "category": "Science",
-      "title": "These Planets Are Fluffier Than Cotton Candy!",
-      "summary": "Astronomers found two giant planets that are lighter than cotton candy. Called TOI-791 b and c, they're as big as Jupiter but 30 times less dense. Citizen scientists helped spot them 1,110 light-years away."
+      "title": "A Brain Protein Called Arc Might Be Spreading Alzheimer's!",
+      "summary": "Scientists found that a brain protein named Arc helps toxic Tau—the sticky stuff in Alzheimer's—travel from sick brain cells to healthy ones. In mice, removing Arc stopped the spread. This could lead to new treatments that trap Tau before it moves. The study is in the journal Cell."
     }
   ]
 }

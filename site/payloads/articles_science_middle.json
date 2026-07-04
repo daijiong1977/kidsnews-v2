@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-03-science-1",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Wed, 01 Jul 2026 20:36:29 EDT",
-      "mined_at": "2026-07-03T18:11:43+00:00",
-      "source_published_at": "Wed, 01 Jul 2026 20:36:29 EDT",
-      "image_url": "/article_images/article_bb4aa4d57cba.webp",
+      "id": "2026-07-04-science-1",
+      "source": "ScienceDaily All",
+      "time_ago": "Tue, 30 Jun 2026 16:18:00 EDT",
+      "mined_at": "2026-07-04T18:01:51+00:00",
+      "source_published_at": "Tue, 30 Jun 2026 16:18:00 EDT",
+      "image_url": "/article_images/article_23b91f03615c.webp",
       "category": "Science",
-      "title": "That Giggle? It's a 15-Million-Year-Old Echo of How We Learned to Talk",
-      "summary": "A new study reveals that the rhythmic pattern in human laughter is shared by all great apes and has remained unchanged since our last common ancestor 15 million years ago. This finding offers a rare glimpse into the evolution of speech."
+      "title": "Sea Anemones Flip the Script on Antiviral Defense",
+      "summary": "A newly discovered protein in sea anemones, CARDIB, suppresses the immune system to fight viruses—the opposite of a crucial human protein. This challenges the idea that all animals share a single antiviral strategy. The finding, published in Nature Ecology & Evolution, reveals evolution found multiple solutions to viral threats."
     },
     {
-      "id": "2026-07-03-science-2",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Thu, 02 Jul 2026 23:56:36 EDT",
-      "mined_at": "2026-07-03T18:11:43+00:00",
-      "source_published_at": "Thu, 02 Jul 2026 23:56:36 EDT",
-      "image_url": "/article_images/article_fd11a270dd31.webp",
+      "id": "2026-07-04-science-2",
+      "source": "NASA News",
+      "time_ago": "Sat, 04 Jul 2026 11:15:37 +0000",
+      "mined_at": "2026-07-04T18:01:51+00:00",
+      "source_published_at": "Sat, 04 Jul 2026 11:15:37 +0000",
+      "image_url": "/article_images/article_3b7a71f05873.webp",
       "category": "Science",
-      "title": "A Whisper from the Dawn of Time: Could a Tiny Black Hole Solve the Dark Matter Mystery?",
-      "summary": "A gravitational wave signal detected by LIGO may come from a primordial black hole—an object formed just after the Big Bang. If confirmed, it could explain dark matter, the invisible substance making up 85% of the universe's mass."
+      "title": "Hubble Captures Ancient Stellar Sparkler for America's 250th",
+      "summary": "To mark the U.S. 250th anniversary, NASA released a Hubble image of globular cluster NGC 6426. The 13-billion-year-old cluster, located in the Milky Way's halo, glitters with red, white, and blue stars. Its ancient stars offer clues about the early universe and galaxy formation."
     },
     {
-      "id": "2026-07-03-science-3",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Fri, 26 Jun 2026 21:09:31 EDT",
-      "mined_at": "2026-07-03T18:11:43+00:00",
-      "source_published_at": "Fri, 26 Jun 2026 21:09:31 EDT",
-      "image_url": "/article_images/article_04fbf09382e8.webp",
+      "id": "2026-07-04-science-3",
+      "source": "ScienceDaily All",
+      "time_ago": "Tue, 30 Jun 2026 03:21:06 EDT",
+      "mined_at": "2026-07-04T18:01:51+00:00",
+      "source_published_at": "Tue, 30 Jun 2026 03:21:06 EDT",
+      "image_url": "/article_images/article_fce62ed08795.webp",
       "category": "Science",
-      "title": "Cosmic Cotton Candy: Astronomers Find Two Planets Lighter Than Fairy Floss",
-      "summary": "Two newly confirmed exoplanets, TOI-791 b and c, are Jupiter-sized but have densities lower than cotton candy. Discovered with help from citizen scientists, they orbit in a rare resonance and offer clues about planetary formation."
+      "title": "Alzheimer's Spread May Rely on a Brain Protein's Double Life",
+      "summary": "A study in Cell reveals that the brain protein Arc, normally involved in cell communication, also enables toxic Tau to spread between neurons in Alzheimer's. Removing Arc in mice halted Tau transfer. The finding suggests a new treatment strategy: blocking Tau's travel rather than eliminating it."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-03-news-1",
+      "id": "2026-07-04-news-1",
       "source": "NPR World",
-      "time_ago": "Fri, 03 Jul 2026 05:00:00 -0400",
-      "mined_at": "2026-07-03T18:11:43+00:00",
-      "source_published_at": "Fri, 03 Jul 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_accae40560da.webp",
+      "time_ago": "Sat, 04 Jul 2026 12:42:10 -0400",
+      "mined_at": "2026-07-04T18:01:51+00:00",
+      "source_published_at": "Sat, 04 Jul 2026 12:42:10 -0400",
+      "image_url": "/article_images/article_1a8032970d13.webp",
       "category": "News",
-      "title": "From the Underground Railroad to the Youth Vote: 700 Kids Podcast What America Means to Them",
-      "summary": "NPR's 250th-anniversary student podcast contest drew over 700 entries. Winners explored immigrant dreams, the Underground Railroad, and a 16-year-old's voting rights. One grandpa said leaving Greece was 'very, very hard.' These kids redefine the American experience."
+      "title": "Scorching Heat Forces D.C. to Cancel July 4th Parade, Fireworks Still On",
+      "summary": "A record-breaking heat wave with a heat index up to 115°F forced Washington D.C. to cancel its 250th Independence Day parade. The fireworks display remains scheduled, but severe thunderstorms could disrupt the evening."
     },
     {
-      "id": "2026-07-03-news-2",
-      "source": "Al Jazeera",
-      "time_ago": "Fri, 03 Jul 2026 16:05:29 +0000",
-      "mined_at": "2026-07-03T18:11:43+00:00",
-      "source_published_at": "Fri, 03 Jul 2026 16:05:29 +0000",
-      "image_url": "/article_images/article_760251a51de8.webp",
+      "id": "2026-07-04-news-2",
+      "source": "BBC News",
+      "time_ago": "Sat, 04 Jul 2026 12:13:46 GMT",
+      "mined_at": "2026-07-04T18:01:51+00:00",
+      "source_published_at": "Sat, 04 Jul 2026 12:13:46 GMT",
+      "image_url": "/article_images/article_e3e9b4a2731f.webp",
       "category": "News",
-      "title": "'No Reason to Shy Away': Germany's Merz Pushes Back on Trump's NATO Spending Criticism",
-      "summary": "Trump blasted Germany's defense spending as 'ridiculous,' but Chancellor Merz says Berlin will double its military budget in four years and hit NATO's 3.5% GDP target by 2029—six years early. The spat comes ahead of a tense NATO summit in Ankara."
+      "title": "FIFA U-Turn Keeps England-Mexico at 1 a.m., Pubs to Stay Open Until 5 a.m.",
+      "summary": "After briefly considering an earlier kickoff, FIFA decided to keep England's World Cup knockout match against Mexico at 1 a.m. UK time. Pubs can now stay open until 5 a.m., but traveling fans are frustrated by the chaotic planning."
     },
     {
-      "id": "2026-07-03-news-3",
-      "source": "NPR World",
-      "time_ago": "Fri, 03 Jul 2026 05:00:00 -0400",
-      "mined_at": "2026-07-03T18:11:43+00:00",
-      "source_published_at": "Fri, 03 Jul 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_4c39f47f02f8.webp",
+      "id": "2026-07-04-news-3",
+      "source": "BBC News",
+      "time_ago": "Sat, 04 Jul 2026 12:19:05 GMT",
+      "mined_at": "2026-07-04T18:01:51+00:00",
+      "source_published_at": "Sat, 04 Jul 2026 12:19:05 GMT",
+      "image_url": "/article_images/article_e2c4e1b8a4c7.webp",
       "category": "News",
-      "title": "Fertilizer Crisis: How the Iran War Is Squeezing U.S. Farmers—and What It Means for Your Food",
-      "summary": "The closure of the Strait of Hormuz has slashed global fertilizer shipments, driving up costs for U.S. farmers. Corn growers may cut back or switch to soybeans. But experts say the impact on grocery prices will be modest—farmers will bear the brunt."
+      "title": "Inside the 'Frantic' Scramble as Andy Burnham Prepares to Become PM",
+      "summary": "With Keir Starmer on his way out, Andy Burnham is poised to become Britain's next prime minister without a general election. Behind the scenes, a fierce competition for cabinet jobs is underway."
     }
   ]
 }
