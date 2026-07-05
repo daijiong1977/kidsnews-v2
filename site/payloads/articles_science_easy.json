@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-04-science-1",
-      "source": "ScienceDaily All",
-      "time_ago": "Tue, 30 Jun 2026 16:18:00 EDT",
-      "mined_at": "2026-07-04T18:01:51+00:00",
-      "source_published_at": "Tue, 30 Jun 2026 16:18:00 EDT",
-      "image_url": "/article_images/article_23b91f03615c.webp",
+      "id": "2026-07-05-science-1",
+      "source": "Science News Explores",
+      "time_ago": "Thu, 02 Jul 2026 10:30:00 +0000",
+      "mined_at": "2026-07-05T18:02:34+00:00",
+      "source_published_at": "Thu, 02 Jul 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_51cdd51212d0.webp",
       "category": "Science",
-      "title": "Sea Anemones Have a Secret Superpower Against Viruses!",
-      "summary": "Scientists found a brand-new way sea anemones fight viruses. A protein called CARDIB does the OPPOSITE of what a similar human protein does. It actually SLOWS the immune system to help protect the animal. This changes what we know about how animals evolved to fight germs."
+      "title": "School Bus–Sized Octopuses Ruled the Dino Seas!",
+      "summary": "Imagine an octopus as long as a school bus! New jaw fossils show that giant octopuses, bigger than any ocean predator of their time, lived over 72 million years ago."
     },
     {
-      "id": "2026-07-04-science-2",
-      "source": "NASA News",
-      "time_ago": "Sat, 04 Jul 2026 11:15:37 +0000",
-      "mined_at": "2026-07-04T18:01:51+00:00",
-      "source_published_at": "Sat, 04 Jul 2026 11:15:37 +0000",
-      "image_url": "/article_images/article_3b7a71f05873.webp",
+      "id": "2026-07-05-science-2",
+      "source": "Space.com",
+      "time_ago": "Sun, 05 Jul 2026 14:00:00 +0000",
+      "mined_at": "2026-07-05T18:02:34+00:00",
+      "source_published_at": "Sun, 05 Jul 2026 14:00:00 +0000",
+      "image_url": "/article_images/article_09a268605170.webp",
       "category": "Science",
-      "title": "Hubble Snaps a 13-Billion-Year-Old Fireworks Show for July 4th!",
-      "summary": "NASA's Hubble Space Telescope took a picture of a sparkly star cluster called NGC 6426 to celebrate July 4th. It's 13 billion years old—almost as old as the universe! The red, white, and blue stars look like a cosmic firework. It sits in the outer edge of our Milky Way galaxy."
+      "title": "This Smart Rover Just Drove Itself 16 Miles in the Desert!",
+      "summary": "NASA's new rover, ERNEST, can think for itself! It just drove 16 miles through a California desert all on its own, using smart wheels and AI to handle tricky ground."
     },
     {
-      "id": "2026-07-04-science-3",
-      "source": "ScienceDaily All",
-      "time_ago": "Tue, 30 Jun 2026 03:21:06 EDT",
-      "mined_at": "2026-07-04T18:01:51+00:00",
-      "source_published_at": "Tue, 30 Jun 2026 03:21:06 EDT",
-      "image_url": "/article_images/article_fce62ed08795.webp",
+      "id": "2026-07-05-science-3",
+      "source": "Space.com",
+      "time_ago": "Sun, 05 Jul 2026 10:00:00 +0000",
+      "mined_at": "2026-07-05T18:02:34+00:00",
+      "source_published_at": "Sun, 05 Jul 2026 10:00:00 +0000",
+      "image_url": "/article_images/article_5d5797286ad2.webp",
       "category": "Science",
-      "title": "A Brain Protein Called Arc Might Be Spreading Alzheimer's!",
-      "summary": "Scientists found that a brain protein named Arc helps toxic Tau—the sticky stuff in Alzheimer's—travel from sick brain cells to healthy ones. In mice, removing Arc stopped the spread. This could lead to new treatments that trap Tau before it moves. The study is in the journal Cell."
+      "title": "Catch the Sun's Disappearing Act: Best Spanish Cities for the 2026 Eclipse!",
+      "summary": "On August 12, 2026, the moon will completely cover the sun over northern Spain. Find out which cities will see the sky turn dark—and why Madrid and Barcelona will miss the show!"
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-04-science-1",
-      "source": "ScienceDaily All",
-      "time_ago": "Tue, 30 Jun 2026 16:18:00 EDT",
-      "mined_at": "2026-07-04T18:01:51+00:00",
-      "source_published_at": "Tue, 30 Jun 2026 16:18:00 EDT",
-      "image_url": "/article_images/article_23b91f03615c.webp",
+      "id": "2026-07-05-science-1",
+      "source": "Science News Explores",
+      "time_ago": "Thu, 02 Jul 2026 10:30:00 +0000",
+      "mined_at": "2026-07-05T18:02:34+00:00",
+      "source_published_at": "Thu, 02 Jul 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_51cdd51212d0.webp",
       "category": "Science",
-      "title": "Sea Anemones Flip the Script on Antiviral Defense",
-      "summary": "A newly discovered protein in sea anemones, CARDIB, suppresses the immune system to fight viruses—the opposite of a crucial human protein. This challenges the idea that all animals share a single antiviral strategy. The finding, published in Nature Ecology & Evolution, reveals evolution found multiple solutions to viral threats."
+      "title": "Colossal Cretaceous Octopus Dwarfed Even Giant Marine Reptiles",
+      "summary": "Fossil jaws reveal a whale-sized octopus that lived over 72 million years ago. At up to 63 feet long, it may be the largest invertebrate ever, challenging top ocean predators for dominance."
     },
     {
-      "id": "2026-07-04-science-2",
-      "source": "NASA News",
-      "time_ago": "Sat, 04 Jul 2026 11:15:37 +0000",
-      "mined_at": "2026-07-04T18:01:51+00:00",
-      "source_published_at": "Sat, 04 Jul 2026 11:15:37 +0000",
-      "image_url": "/article_images/article_3b7a71f05873.webp",
+      "id": "2026-07-05-science-2",
+      "source": "Space.com",
+      "time_ago": "Sun, 05 Jul 2026 14:00:00 +0000",
+      "mined_at": "2026-07-05T18:02:34+00:00",
+      "source_published_at": "Sun, 05 Jul 2026 14:00:00 +0000",
+      "image_url": "/article_images/article_09a268605170.webp",
       "category": "Science",
-      "title": "Hubble Captures Ancient Stellar Sparkler for America's 250th",
-      "summary": "To mark the U.S. 250th anniversary, NASA released a Hubble image of globular cluster NGC 6426. The 13-billion-year-old cluster, located in the Milky Way's halo, glitters with red, white, and blue stars. Its ancient stars offer clues about the early universe and galaxy formation."
+      "title": "NASA's ERNEST Rover Drives Itself 16 Miles, Paving the Way for Smarter Space Exploration",
+      "summary": "A new rover prototype completed a 16-mile autonomous trek in the California desert, using AI and a novel suspension to navigate tough terrain. It could lead to faster, more capable explorers on the moon and Mars."
     },
     {
-      "id": "2026-07-04-science-3",
-      "source": "ScienceDaily All",
-      "time_ago": "Tue, 30 Jun 2026 03:21:06 EDT",
-      "mined_at": "2026-07-04T18:01:51+00:00",
-      "source_published_at": "Tue, 30 Jun 2026 03:21:06 EDT",
-      "image_url": "/article_images/article_fce62ed08795.webp",
+      "id": "2026-07-05-science-3",
+      "source": "Space.com",
+      "time_ago": "Sun, 05 Jul 2026 10:00:00 +0000",
+      "mined_at": "2026-07-05T18:02:34+00:00",
+      "source_published_at": "Sun, 05 Jul 2026 10:00:00 +0000",
+      "image_url": "/article_images/article_5d5797286ad2.webp",
       "category": "Science",
-      "title": "Alzheimer's Spread May Rely on a Brain Protein's Double Life",
-      "summary": "A study in Cell reveals that the brain protein Arc, normally involved in cell communication, also enables toxic Tau to spread between neurons in Alzheimer's. Removing Arc in mice halted Tau transfer. The finding suggests a new treatment strategy: blocking Tau's travel rather than eliminating it."
+      "title": "Spain's 2026 Total Solar Eclipse: Why You Must Leave Madrid and Barcelona for the Real Show",
+      "summary": "The August 12, 2026, total solar eclipse will cross northern Spain, but a 99.96% partial eclipse in Madrid won't cut it. Here are the top cities inside the path of totality for the full twilight experience."
     }
   ]
 }

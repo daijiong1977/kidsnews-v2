@@ -1,37 +1,26 @@
 {
   "articles": [
     {
-      "id": "2026-07-04-news-1",
+      "id": "2026-07-05-news-1",
       "source": "NPR World",
-      "time_ago": "Sat, 04 Jul 2026 12:42:10 -0400",
-      "mined_at": "2026-07-04T18:01:51+00:00",
-      "source_published_at": "Sat, 04 Jul 2026 12:42:10 -0400",
-      "image_url": "/article_images/article_1a8032970d13.webp",
+      "time_ago": "Sun, 05 Jul 2026 06:28:42 -0400",
+      "mined_at": "2026-07-05T18:02:34+00:00",
+      "source_published_at": "Sun, 05 Jul 2026 06:28:42 -0400",
+      "image_url": "/article_images/article_257b016d33ce.webp",
       "category": "News",
-      "title": "Too Hot to March! D.C. Cancels July 4th Parade",
-      "summary": "Washington D.C.'s big 250th birthday parade was canceled because of dangerous heat—up to 115°F! Fireworks are still on, but many other events were stopped to keep people safe."
+      "title": "Oops! Paul Pelosi Hits a Parked Car and Drives Off",
+      "summary": "Paul Pelosi, husband of Nancy Pelosi, hit a parked car in California and drove away. No one was hurt, but he could face charges."
     },
     {
-      "id": "2026-07-04-news-2",
-      "source": "BBC News",
-      "time_ago": "Sat, 04 Jul 2026 12:13:46 GMT",
-      "mined_at": "2026-07-04T18:01:51+00:00",
-      "source_published_at": "Sat, 04 Jul 2026 12:13:46 GMT",
-      "image_url": "/article_images/article_e3e9b4a2731f.webp",
+      "id": "2026-07-05-news-2",
+      "source": "Al Jazeera",
+      "time_ago": "Sun, 05 Jul 2026 16:42:03 +0000",
+      "mined_at": "2026-07-05T18:02:34+00:00",
+      "source_published_at": "Sun, 05 Jul 2026 16:42:03 +0000",
+      "image_url": "/article_images/article_d0816f153494.webp",
       "category": "News",
-      "title": "Late-Night Soccer! England vs. Mexico Kicks Off at 1 a.m.",
-      "summary": "England's World Cup match against Mexico will start at 1 a.m. UK time on Monday. Pubs can stay open until 5 a.m., but fans traveling to Mexico City are upset about last-minute changes."
-    },
-    {
-      "id": "2026-07-04-news-3",
-      "source": "BBC News",
-      "time_ago": "Sat, 04 Jul 2026 12:19:05 GMT",
-      "mined_at": "2026-07-04T18:01:51+00:00",
-      "source_published_at": "Sat, 04 Jul 2026 12:19:05 GMT",
-      "image_url": "/article_images/article_e2c4e1b8a4c7.webp",
-      "category": "News",
-      "title": "The Secret Scramble to Become Britain's Next Prime Minister",
-      "summary": "Andy Burnham is about to become the UK's new prime minister, but he hasn't even won an election! Behind the scenes, politicians are competing for jobs in his government."
+      "title": "Iran's Supreme Leader Gets a Huge Funeral — What Does It All Mean?",
+      "summary": "Iran's late Supreme Leader Khamenei's funeral uses symbols like a clenched fist and red flags to send political messages. It's a big event with lots of meaning."
     }
   ]
 }
