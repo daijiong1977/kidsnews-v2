@@ -1,26 +1,26 @@
 {
   "articles": [
     {
-      "id": "2026-07-05-news-1",
-      "source": "NPR World",
-      "time_ago": "Sun, 05 Jul 2026 06:28:42 -0400",
-      "mined_at": "2026-07-05T18:02:34+00:00",
-      "source_published_at": "Sun, 05 Jul 2026 06:28:42 -0400",
-      "image_url": "/article_images/article_257b016d33ce.webp",
+      "id": "2026-07-06-news-1",
+      "source": "BBC News",
+      "time_ago": "Mon, 06 Jul 2026 15:27:59 GMT",
+      "mined_at": "2026-07-06T18:20:57+00:00",
+      "source_published_at": "Mon, 06 Jul 2026 15:27:59 GMT",
+      "image_url": "/article_images/article_7ddb61f26ab4.webp",
       "category": "News",
-      "title": "Oops! Paul Pelosi Hits a Parked Car and Drives Off",
-      "summary": "Paul Pelosi, husband of Nancy Pelosi, hit a parked car in California and drove away. No one was hurt, but he could face charges."
+      "title": "Did the President Really Call FIFA About a Soccer Player?",
+      "summary": "President Trump asked FIFA to review a red card for U.S. striker Folarin Balogun. FIFA then suspended the one-match ban for 12 months, so Balogun can play against Belgium. Belgium is upset and says it’s not fair."
     },
     {
-      "id": "2026-07-05-news-2",
-      "source": "Al Jazeera",
-      "time_ago": "Sun, 05 Jul 2026 16:42:03 +0000",
-      "mined_at": "2026-07-05T18:02:34+00:00",
-      "source_published_at": "Sun, 05 Jul 2026 16:42:03 +0000",
-      "image_url": "/article_images/article_d0816f153494.webp",
+      "id": "2026-07-06-news-2",
+      "source": "BBC News",
+      "time_ago": "Mon, 06 Jul 2026 12:52:38 GMT",
+      "mined_at": "2026-07-06T18:20:57+00:00",
+      "source_published_at": "Mon, 06 Jul 2026 12:52:38 GMT",
+      "image_url": "/article_images/article_4a6e0302504a.webp",
       "category": "News",
-      "title": "Iran's Supreme Leader Gets a Huge Funeral — What Does It All Mean?",
-      "summary": "Iran's late Supreme Leader Khamenei's funeral uses symbols like a clenched fist and red flags to send political messages. It's a big event with lots of meaning."
+      "title": "Prince Harry’s Palace Stay? Yes, No, Maybe… Wait, No!",
+      "summary": "Prince Harry is visiting London, but he won’t stay at Buckingham Palace—even though his team said he would. The Palace says he was told no on Saturday. The mix-up shows how bad the communication is between Harry and the royal family."
     }
   ]
 }

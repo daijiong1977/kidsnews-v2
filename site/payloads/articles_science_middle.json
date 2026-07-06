@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-05-science-1",
-      "source": "Science News Explores",
-      "time_ago": "Thu, 02 Jul 2026 10:30:00 +0000",
-      "mined_at": "2026-07-05T18:02:34+00:00",
-      "source_published_at": "Thu, 02 Jul 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_51cdd51212d0.webp",
+      "id": "2026-07-06-science-1",
+      "source": "Smithsonian Science-Nature",
+      "time_ago": "Mon, 29 Jun 2026 16:02:32 +0000",
+      "mined_at": "2026-07-06T18:20:57+00:00",
+      "source_published_at": "Mon, 29 Jun 2026 16:02:32 +0000",
+      "image_url": "/article_images/article_336fdb894f27.webp",
       "category": "Science",
-      "title": "Colossal Cretaceous Octopus Dwarfed Even Giant Marine Reptiles",
-      "summary": "Fossil jaws reveal a whale-sized octopus that lived over 72 million years ago. At up to 63 feet long, it may be the largest invertebrate ever, challenging top ocean predators for dominance."
+      "title": "An Interstellar Comet's Dust Holds Clues to a Calm, Alien Planetary System",
+      "summary": "The third known interstellar object, 3I/ATLAS, has a surprise: its dust is almost entirely amorphous, lacking the crystalline silicates found in our solar system's comets. This suggests it formed in a quiet, cold outer region of its home system, revealing that other planetary systems can be strikingly different from our own."
     },
     {
-      "id": "2026-07-05-science-2",
-      "source": "Space.com",
-      "time_ago": "Sun, 05 Jul 2026 14:00:00 +0000",
-      "mined_at": "2026-07-05T18:02:34+00:00",
-      "source_published_at": "Sun, 05 Jul 2026 14:00:00 +0000",
-      "image_url": "/article_images/article_09a268605170.webp",
+      "id": "2026-07-06-science-2",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Tue, 30 Jun 2026 16:18:00 EDT",
+      "mined_at": "2026-07-06T18:20:57+00:00",
+      "source_published_at": "Tue, 30 Jun 2026 16:18:00 EDT",
+      "image_url": "/article_images/article_23b91f03615c.webp",
       "category": "Science",
-      "title": "NASA's ERNEST Rover Drives Itself 16 Miles, Paving the Way for Smarter Space Exploration",
-      "summary": "A new rover prototype completed a 16-mile autonomous trek in the California desert, using AI and a novel suspension to navigate tough terrain. It could lead to faster, more capable explorers on the moon and Mars."
+      "title": "Evolution's Surprising Antiviral Strategy: Sea Anemones Use a Brake, Not a Gas Pedal",
+      "summary": "A newly discovered protein in sea anemones, CARDIB, suppresses the immune system—yet is essential for surviving viral infections. This counterintuitive mechanism reveals that animals evolved multiple, distinct antiviral strategies, challenging the idea of a single inherited defense system."
     },
     {
-      "id": "2026-07-05-science-3",
-      "source": "Space.com",
-      "time_ago": "Sun, 05 Jul 2026 10:00:00 +0000",
-      "mined_at": "2026-07-05T18:02:34+00:00",
-      "source_published_at": "Sun, 05 Jul 2026 10:00:00 +0000",
-      "image_url": "/article_images/article_5d5797286ad2.webp",
+      "id": "2026-07-06-science-3",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Mon, 06 Jul 2026 04:42:44 EDT",
+      "mined_at": "2026-07-06T18:20:57+00:00",
+      "source_published_at": "Mon, 06 Jul 2026 04:42:44 EDT",
+      "image_url": "/article_images/article_6e8ea0f8774d.webp",
       "category": "Science",
-      "title": "Spain's 2026 Total Solar Eclipse: Why You Must Leave Madrid and Barcelona for the Real Show",
-      "summary": "The August 12, 2026, total solar eclipse will cross northern Spain, but a 99.96% partial eclipse in Madrid won't cut it. Here are the top cities inside the path of totality for the full twilight experience."
+      "title": "Artificial Light Triggers Massive 'Death Spirals' in Pill Bugs, Study Finds",
+      "summary": "Streetlights in Israel have been documented luring thousands of land-dwelling isopods into synchronized circular marches, a phenomenon never before observed. The behavior, triggered by the geometry of artificial light, traps the animals in energy-draining loops, leaving them vulnerable to predators and disrupting their natural instincts."
     }
   ]
 }
