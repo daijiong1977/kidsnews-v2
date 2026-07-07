@@ -1,26 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-06-news-1",
-      "source": "BBC News",
-      "time_ago": "Mon, 06 Jul 2026 15:27:59 GMT",
-      "mined_at": "2026-07-06T18:20:57+00:00",
-      "source_published_at": "Mon, 06 Jul 2026 15:27:59 GMT",
-      "image_url": "/article_images/article_7ddb61f26ab4.webp",
+      "id": "2026-07-07-news-1",
+      "source": "Al Jazeera",
+      "time_ago": "Tue, 07 Jul 2026 17:11:06 +0000",
+      "mined_at": "2026-07-07T18:20:43+00:00",
+      "source_published_at": "Tue, 07 Jul 2026 17:11:06 +0000",
+      "image_url": "/article_images/article_84800d3b704c.webp",
       "category": "News",
-      "title": "Trump’s Call to FIFA Sparks Outrage: Did Politics Sway a World Cup Ban?",
-      "summary": "President Trump confirmed he asked FIFA to review U.S. striker Folarin Balogun’s red-card suspension. FIFA then suspended the one-match ban for 12 months, letting Balogun play against Belgium. Critics, including UEFA and Belgium, say the decision undermines soccer’s integrity."
+      "title": "IOC Clears Path for Russia at LA 2028, but Flag and Anthem Still in Limbo",
+      "summary": "The IOC has provisionally lifted its suspension of Russia’s Olympic committee, a crucial step toward full reintegration before LA 2028. But Russia still can’t display its flag or play its anthem — that decision is pending. IOC President Kirsty Coventry stressed that athletes shouldn’t pay the price for their government’s actions."
     },
     {
-      "id": "2026-07-06-news-2",
-      "source": "BBC News",
-      "time_ago": "Mon, 06 Jul 2026 12:52:38 GMT",
-      "mined_at": "2026-07-06T18:20:57+00:00",
-      "source_published_at": "Mon, 06 Jul 2026 12:52:38 GMT",
-      "image_url": "/article_images/article_4a6e0302504a.webp",
+      "id": "2026-07-07-news-2",
+      "source": "NPR World",
+      "time_ago": "Tue, 07 Jul 2026 05:00:00 -0400",
+      "mined_at": "2026-07-07T18:20:43+00:00",
+      "source_published_at": "Tue, 07 Jul 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_806cddf0763d.webp",
       "category": "News",
-      "title": "Royal Rift on Full Display: Harry’s Palace Stay Sparks War of Words",
-      "summary": "Prince Harry’s team announced he would stay at Buckingham Palace during his UK visit, but the Palace flatly denied it. The contradictory accounts reveal deep distrust between the Sussex camp and the monarchy. A court ruling and security fears add to the tension, complicating a possible meeting with King Charles."
+      "title": "Scorching Heat Buckles Highways — Is Our Infrastructure Ready for a Hotter World?",
+      "summary": "A July 4th heat wave caused concrete to buckle on I-97 near Baltimore and a Chicago street. Climate change is driving more extreme temperatures and heavier rainfall, both of which weaken pavements. Engineers say solutions exist but cost more, forcing tough choices about how resilient we want our roads to be."
+    },
+    {
+      "id": "2026-07-07-news-3",
+      "source": "NPR World",
+      "time_ago": "Tue, 07 Jul 2026 05:00:00 -0400",
+      "mined_at": "2026-07-07T18:20:43+00:00",
+      "source_published_at": "Tue, 07 Jul 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_ddac70184113.webp",
+      "category": "News",
+      "title": "Dred Scott’s Descendant and Taney’s Heir Confront a Legacy That Still Divides the Court",
+      "summary": "Lynne Jackson, Dred Scott’s great-great-granddaughter, and Charlie Taney, descendant of the chief justice who ruled against him, met in D.C. as the Supreme Court reaffirmed birthright citizenship. The 5-4 ruling showed deep divisions over the 14th Amendment, with Justice Thomas arguing it was meant only for freed slaves."
     }
   ]
 }
