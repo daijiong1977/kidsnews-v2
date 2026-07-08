@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-07-08-news-1",
-      "source": "NPR World",
-      "time_ago": "Tue, 07 Jul 2026 16:23:41 -0400",
-      "mined_at": "2026-07-08T06:43:40+00:00",
-      "source_published_at": "Tue, 07 Jul 2026 16:23:41 -0400",
-      "image_url": "/article_images/article_9e01c66c05d8.webp",
+      "source": "Al Jazeera",
+      "time_ago": "Wed, 08 Jul 2026 10:21:37 +0000",
+      "mined_at": "2026-07-08T12:32:20+00:00",
+      "source_published_at": "Wed, 08 Jul 2026 10:21:37 +0000",
+      "image_url": "/article_images/article_bad777d0dcbc.webp",
       "category": "News",
-      "title": "The National Championship Where 750 Teens Get Down and Dirty—Literally",
-      "summary": "At the 75-year-old National Land and Range Judging Contest in Oklahoma, 750 FFA and 4-H students analyzed soil for farming and construction potential. One Kentucky freshman drove 15 hours to compete, calling it a dream fulfilled. It's a serious science competition disguised as playing in the mud."
+      "title": "Messi's 8th Goal Breaks Deadlock, But Mbappe and Haaland Lurk Close Behind",
+      "summary": "Lionel Messi's 8th goal against Egypt puts him alone atop the Golden Boot standings. Kylian Mbappe and Erling Haaland have 7 each as the quarterfinals begin."
     },
     {
       "id": "2026-07-08-news-2",
-      "source": "Al Jazeera",
-      "time_ago": "Wed, 08 Jul 2026 05:38:20 +0000",
-      "mined_at": "2026-07-08T06:43:40+00:00",
-      "source_published_at": "Wed, 08 Jul 2026 05:38:20 +0000",
-      "image_url": "/article_images/article_6db5f9a3556f.webp",
+      "source": "NPR World",
+      "time_ago": "Wed, 08 Jul 2026 05:01:00 -0400",
+      "mined_at": "2026-07-08T12:32:20+00:00",
+      "source_published_at": "Wed, 08 Jul 2026 05:01:00 -0400",
+      "image_url": "/article_images/article_25b1acfd70b1.webp",
       "category": "News",
-      "title": "France vs. Morocco: A World Cup Quarterfinal Loaded with Talent and Tension",
-      "summary": "In a rematch of the 2022 semifinal, France and Morocco meet in the World Cup quarterfinals at Foxborough Stadium. Kylian Mbappe's 7 goals lead a star-studded French attack, but Morocco's disciplined defense and growing confidence make them genuine contenders. Colonial history adds an extra layer of intrigue."
+      "title": "How a Georgia Factory Solved Its Worker Shortage by Ditching the 40-Hour Week",
+      "summary": "GE Appliances' Roper plant in Georgia faced a severe labor shortage. By offering flexible four-hour shifts via an app, it attracted 450 part-time workers and expanded operations."
     },
     {
       "id": "2026-07-08-news-3",
-      "source": "NPR World",
-      "time_ago": "Tue, 07 Jul 2026 16:55:16 -0400",
-      "mined_at": "2026-07-08T06:43:40+00:00",
-      "source_published_at": "Tue, 07 Jul 2026 16:55:16 -0400",
-      "image_url": "/article_images/article_085de60ee279.webp",
+      "source": "PBS NewsHour",
+      "time_ago": "Tue, 07 Jul 2026 18:45:07 -0400",
+      "mined_at": "2026-07-08T12:32:20+00:00",
+      "source_published_at": "Tue, 07 Jul 2026 18:45:07 -0400",
+      "image_url": "/article_images/article_dd4c598c0a73.webp",
       "category": "News",
-      "title": "Food for Peace's Identity Crisis: Humanitarian Lifeline or Farm Subsidy?",
-      "summary": "After being dismantled by the Trump administration, the historic Food for Peace program was resurrected under USDA. But humanitarian experts argue the agency lacks expertise and is prioritizing U.S. agricultural interests over starving populations. The Senate must now decide its fate."
+      "title": "Federal Judge Blocks Trump Bid for Georgia Election Worker Data; NYC Building at Risk",
+      "summary": "A judge rejected the Trump administration's subpoena for Fulton County election workers' personal info. Separately, a Manhattan high-rise conversion project suffered a structural failure, prompting evacuations."
     }
   ]
 }

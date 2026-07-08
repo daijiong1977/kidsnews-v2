@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-07-08-news-1",
-      "source": "NPR World",
-      "time_ago": "Tue, 07 Jul 2026 16:23:41 -0400",
-      "mined_at": "2026-07-08T06:43:40+00:00",
-      "source_published_at": "Tue, 07 Jul 2026 16:23:41 -0400",
-      "image_url": "/article_images/article_9e01c66c05d8.webp",
+      "source": "Al Jazeera",
+      "time_ago": "Wed, 08 Jul 2026 10:21:37 +0000",
+      "mined_at": "2026-07-08T12:32:20+00:00",
+      "source_published_at": "Wed, 08 Jul 2026 10:21:37 +0000",
+      "image_url": "/article_images/article_bad777d0dcbc.webp",
       "category": "News",
-      "title": "750 Teens Jump Into Dirt Pits — And It's a National Championship!",
-      "summary": "About 750 high schoolers traveled to Oklahoma to judge dirt—really! At the National Land and Range Judging Contest, they tested soil to see if it's good for crops or building. One freshman drove 15 hours from Kentucky just to play in the mud."
+      "title": "Messi's Magic 8th Goal Puts Him on Top in World Cup Golden Boot Race!",
+      "summary": "Lionel Messi scored his 8th goal to lead the Golden Boot race. Kylian Mbappe and Erling Haaland are close behind with 7 each. The quarterfinals start Thursday."
     },
     {
       "id": "2026-07-08-news-2",
-      "source": "Al Jazeera",
-      "time_ago": "Wed, 08 Jul 2026 05:38:20 +0000",
-      "mined_at": "2026-07-08T06:43:40+00:00",
-      "source_published_at": "Wed, 08 Jul 2026 05:38:20 +0000",
-      "image_url": "/article_images/article_6db5f9a3556f.webp",
+      "source": "NPR World",
+      "time_ago": "Wed, 08 Jul 2026 05:01:00 -0400",
+      "mined_at": "2026-07-08T12:32:20+00:00",
+      "source_published_at": "Wed, 08 Jul 2026 05:01:00 -0400",
+      "image_url": "/article_images/article_25b1acfd70b1.webp",
       "category": "News",
-      "title": "Mbappe's France Faces Morocco in a World Cup Rematch Full of History",
-      "summary": "France and Morocco clash in the World Cup quarterfinals on Thursday at Foxborough Stadium. It's a rematch of the 2022 semifinal, which France won 2-0. Star Kylian Mbappe has already scored 7 goals, but Morocco is no longer a surprise team—they're serious contenders."
+      "title": "This Factory Let Workers Choose Their Hours—and It Was a Game Changer!",
+      "summary": "A Georgia appliance factory was short hundreds of workers. Then it let people pick their own shifts with an app. Now 450 flexible workers help build ovens and ranges."
     },
     {
       "id": "2026-07-08-news-3",
-      "source": "NPR World",
-      "time_ago": "Tue, 07 Jul 2026 16:55:16 -0400",
-      "mined_at": "2026-07-08T06:43:40+00:00",
-      "source_published_at": "Tue, 07 Jul 2026 16:55:16 -0400",
-      "image_url": "/article_images/article_085de60ee279.webp",
+      "source": "PBS NewsHour",
+      "time_ago": "Tue, 07 Jul 2026 18:45:07 -0400",
+      "mined_at": "2026-07-08T12:32:20+00:00",
+      "source_published_at": "Tue, 07 Jul 2026 18:45:07 -0400",
+      "image_url": "/article_images/article_dd4c598c0a73.webp",
       "category": "News",
-      "title": "The Fight Over Food for Peace: Feeding the Hungry or Helping Farmers?",
-      "summary": "The U.S. 'Food for Peace' program was shut down, then revived under the Department of Agriculture. Now, lawmakers are debating who should run it. Critics say USDA focuses too much on helping American farmers instead of starving people. The program has fed 4 billion people since the 1950s."
+      "title": "Judge Says No: Trump Can't Get Georgia Election Workers' Private Info",
+      "summary": "A judge blocked the Trump administration from getting names and contact info of Georgia election workers from 2020. Also, a NYC high-rise almost collapsed, and Farage quit Parliament."
     }
   ]
 }
