@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-07-08-science-1",
-      "source": "ScienceDaily All",
-      "time_ago": "Tue, 07 Jul 2026 19:28:50 EDT",
-      "mined_at": "2026-07-08T06:43:40+00:00",
-      "source_published_at": "Tue, 07 Jul 2026 19:28:50 EDT",
-      "image_url": "/article_images/article_ba0c83060e17.webp",
+      "source": "Science News Explores",
+      "time_ago": "Wed, 08 Jul 2026 10:30:00 +0000",
+      "mined_at": "2026-07-08T18:15:41+00:00",
+      "source_published_at": "Wed, 08 Jul 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_b370530320ed.webp",
       "category": "Science",
-      "title": "Breaking a Fundamental Rule of Physics: Scientists Create a Material That Makes Heat Programmable",
-      "summary": "A new device can control the direction of heat radiation, switch it on and off, and remember its state without power — like a thermal computer. It overcomes a long-standing physics principle called reciprocity, opening doors to smarter energy systems."
+      "title": "How 'Singing' Mice Create Their Record-Breaking Rodent Songs",
+      "summary": "Alston's singing mice produce 100 notes in 10 seconds—faster than any rodent—using inflatable throat sacs. When scientists blocked the sacs, the songs vanished, revealing a vocal mechanism that may be unique in the animal kingdom."
     },
     {
       "id": "2026-07-08-science-2",
-      "source": "MIT Tech Review",
-      "time_ago": "Tue, 07 Jul 2026 12:10:00 +0000",
-      "mined_at": "2026-07-08T06:43:40+00:00",
-      "source_published_at": "Tue, 07 Jul 2026 12:10:00 +0000",
-      "image_url": "/article_images/article_241f07948341.webp",
+      "source": "Space.com",
+      "time_ago": "Wed, 08 Jul 2026 17:00:00 +0000",
+      "mined_at": "2026-07-08T18:15:41+00:00",
+      "source_published_at": "Wed, 08 Jul 2026 17:00:00 +0000",
+      "image_url": "/article_images/article_00dcb1381a81.webp",
       "category": "Science",
-      "title": "OpenAI's Sam Altman Floats Plan to Give Every U.S. Household a $320 Stake in AI",
-      "summary": "Sam Altman is reportedly discussing giving the U.S. government a 5% stake in OpenAI, worth roughly $320 per American household. The proposal aims to address concerns about AI's impact on labor and creative compensation, while raising questions about wealth distribution in the AI era."
+      "title": "Venus Takes Center Stage: Two Must-See Celestial Meetups This July",
+      "summary": "Venus pairs with Regulus on July 9, then meets a crescent moon on July 17. Both events are visible low in the western sky after sunset—binoculars reveal earthshine on the moon."
     },
     {
       "id": "2026-07-08-science-3",
-      "source": "Physics World",
-      "time_ago": "Tue, 07 Jul 2026 11:02:05 +0000",
-      "mined_at": "2026-07-08T06:43:40+00:00",
-      "source_published_at": "Tue, 07 Jul 2026 11:02:05 +0000",
-      "image_url": "/article_images/article_c2bb85ac691b.webp",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Sun, 05 Jul 2026 00:03:07 EDT",
+      "mined_at": "2026-07-08T18:15:41+00:00",
+      "source_published_at": "Sun, 05 Jul 2026 00:03:07 EDT",
+      "image_url": "/article_images/article_5e7fc5ad8200.webp",
       "category": "Science",
-      "title": "How Ghostlike Particles Could Prevent Covert Nuclear Weapons Production in Fusion Reactors",
-      "summary": "Antineutrino detectors like MiniCHANDLER could remotely monitor fusion reactors for clandestine plutonium production, a new study shows. The technique exploits the unstoppable nature of neutrinos, offering a non-intrusive safeguard as fusion energy nears reality."
+      "title": "Hubble Reveals a Crimson Stellar Nursery Teeming with Thousands of Baby Stars",
+      "summary": "Hubble's new image of LH 95 shows glowing hydrogen clouds and 2,500 pre-main-sequence stars. A 60-solar-mass giant, only 1 million years old, suggests multiple generations of stars form in this nearby dwarf galaxy region."
     }
   ]
 }

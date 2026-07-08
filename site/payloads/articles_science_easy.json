@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-07-08-science-1",
-      "source": "ScienceDaily All",
-      "time_ago": "Tue, 07 Jul 2026 19:28:50 EDT",
-      "mined_at": "2026-07-08T06:43:40+00:00",
-      "source_published_at": "Tue, 07 Jul 2026 19:28:50 EDT",
-      "image_url": "/article_images/article_ba0c83060e17.webp",
+      "source": "Science News Explores",
+      "time_ago": "Wed, 08 Jul 2026 10:30:00 +0000",
+      "mined_at": "2026-07-08T18:15:41+00:00",
+      "source_published_at": "Wed, 08 Jul 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_b370530320ed.webp",
       "category": "Science",
-      "title": "This New Material Can Make Heat Go Where You Want — Like a Programmable Computer!",
-      "summary": "Scientists built a material that can control heat like a computer controls data. It can even remember its settings after you turn off the power. The device uses special materials and magnets to direct heat in different directions."
+      "title": "Mice That Sing? Tiny Throat Balloons Make Their Wild Tunes!",
+      "summary": "Alston's singing mice inflate tiny balloon-like sacs in their throats to belt out 100 notes in just 10 seconds. Scientists blocked the sacs and the songs stopped—proving the balloons are the secret to their speedy serenades."
     },
     {
       "id": "2026-07-08-science-2",
-      "source": "MIT Tech Review",
-      "time_ago": "Tue, 07 Jul 2026 12:10:00 +0000",
-      "mined_at": "2026-07-08T06:43:40+00:00",
-      "source_published_at": "Tue, 07 Jul 2026 12:10:00 +0000",
-      "image_url": "/article_images/article_241f07948341.webp",
+      "source": "Space.com",
+      "time_ago": "Wed, 08 Jul 2026 17:00:00 +0000",
+      "mined_at": "2026-07-08T18:15:41+00:00",
+      "source_published_at": "Wed, 08 Jul 2026 17:00:00 +0000",
+      "image_url": "/article_images/article_00dcb1381a81.webp",
       "category": "Science",
-      "title": "Could Every American Get $320 from AI? OpenAI's Big Idea",
-      "summary": "OpenAI's boss Sam Altman wants to give the U.S. government a 5% share of the company. That could mean about $320 for every American household. The idea is to share the wealth AI creates, especially if it takes over many jobs."
+      "title": "Venus Is Putting On a Double Sky Show This July—Here's How to Watch!",
+      "summary": "Venus will cozy up to the bright star Regulus on July 9, then meet a thin crescent moon on July 17. Look low in the west after sunset—binoculars will make the view even cooler."
     },
     {
       "id": "2026-07-08-science-3",
-      "source": "Physics World",
-      "time_ago": "Tue, 07 Jul 2026 11:02:05 +0000",
-      "mined_at": "2026-07-08T06:43:40+00:00",
-      "source_published_at": "Tue, 07 Jul 2026 11:02:05 +0000",
-      "image_url": "/article_images/article_c2bb85ac691b.webp",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Sun, 05 Jul 2026 00:03:07 EDT",
+      "mined_at": "2026-07-08T18:15:41+00:00",
+      "source_published_at": "Sun, 05 Jul 2026 00:03:07 EDT",
+      "image_url": "/article_images/article_5e7fc5ad8200.webp",
       "category": "Science",
-      "title": "Ghost Particles Could Catch Sneaky Nuclear Weapons Makers!",
-      "summary": "Tiny particles called antineutrinos could help watch fusion reactors to make sure they aren't secretly making material for nuclear bombs. A mobile detector called MiniCHANDLER can spot the telltale signals from far away."
+      "title": "Hubble Snaps a Sparkly Star Nursery That Looks Like Fireworks!",
+      "summary": "NASA's Hubble telescope captured LH 95, a star-forming region with glowing red gas and brilliant blue stars. It holds 2,500 baby stars still growing, plus a giant star 60 times heavier than the Sun."
     }
   ]
 }
