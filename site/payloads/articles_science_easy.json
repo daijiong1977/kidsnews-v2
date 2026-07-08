@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-07-science-1",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Wed, 01 Jul 2026 20:36:29 EDT",
-      "mined_at": "2026-07-07T18:20:43+00:00",
-      "source_published_at": "Wed, 01 Jul 2026 20:36:29 EDT",
-      "image_url": "/article_images/article_bb4aa4d57cba.webp",
+      "id": "2026-07-08-science-1",
+      "source": "ScienceDaily All",
+      "time_ago": "Tue, 07 Jul 2026 19:28:50 EDT",
+      "mined_at": "2026-07-08T06:43:40+00:00",
+      "source_published_at": "Tue, 07 Jul 2026 19:28:50 EDT",
+      "image_url": "/article_images/article_ba0c83060e17.webp",
       "category": "Science",
-      "title": "Your Laugh Is a 15-Million-Year-Old Echo!",
-      "summary": "Did you know your giggle is ancient? Scientists found that humans and great apes share the same laugh rhythm. It’s a 15-million-year-old clue to how speech began."
+      "title": "This New Material Can Make Heat Go Where You Want — Like a Programmable Computer!",
+      "summary": "Scientists built a material that can control heat like a computer controls data. It can even remember its settings after you turn off the power. The device uses special materials and magnets to direct heat in different directions."
     },
     {
-      "id": "2026-07-07-science-2",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Sun, 28 Jun 2026 02:53:54 EDT",
-      "mined_at": "2026-07-07T18:20:43+00:00",
-      "source_published_at": "Sun, 28 Jun 2026 02:53:54 EDT",
-      "image_url": "/article_images/article_b519412118b5.webp",
+      "id": "2026-07-08-science-2",
+      "source": "MIT Tech Review",
+      "time_ago": "Tue, 07 Jul 2026 12:10:00 +0000",
+      "mined_at": "2026-07-08T06:43:40+00:00",
+      "source_published_at": "Tue, 07 Jul 2026 12:10:00 +0000",
+      "image_url": "/article_images/article_241f07948341.webp",
       "category": "Science",
-      "title": "Hawaii Is Paving Roads with Old Fishing Nets!",
-      "summary": "What if trash could become a road? Hawaii is testing asphalt made from recycled fishing nets and plastic bottles. Early tests show it works and doesn’t shed extra microplastics."
+      "title": "Could Every American Get $320 from AI? OpenAI's Big Idea",
+      "summary": "OpenAI's boss Sam Altman wants to give the U.S. government a 5% share of the company. That could mean about $320 for every American household. The idea is to share the wealth AI creates, especially if it takes over many jobs."
     },
     {
-      "id": "2026-07-07-science-3",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Sun, 05 Jul 2026 00:10:58 EDT",
-      "mined_at": "2026-07-07T18:20:43+00:00",
-      "source_published_at": "Sun, 05 Jul 2026 00:10:58 EDT",
-      "image_url": "/article_images/article_3a11c0d61629.webp",
+      "id": "2026-07-08-science-3",
+      "source": "Physics World",
+      "time_ago": "Tue, 07 Jul 2026 11:02:05 +0000",
+      "mined_at": "2026-07-08T06:43:40+00:00",
+      "source_published_at": "Tue, 07 Jul 2026 11:02:05 +0000",
+      "image_url": "/article_images/article_c2bb85ac691b.webp",
       "category": "Science",
-      "title": "Hubble’s 13-Billion-Year-Old Firework Show!",
-      "summary": "NASA’s Hubble telescope snapped a glittering star cluster that’s almost as old as the universe. NGC 6426 is 13 billion years old and looks like a cosmic sparkler."
+      "title": "Ghost Particles Could Catch Sneaky Nuclear Weapons Makers!",
+      "summary": "Tiny particles called antineutrinos could help watch fusion reactors to make sure they aren't secretly making material for nuclear bombs. A mobile detector called MiniCHANDLER can spot the telltale signals from far away."
     }
   ]
 }

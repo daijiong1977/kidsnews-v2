@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-07-news-1",
+      "id": "2026-07-08-news-1",
+      "source": "NPR World",
+      "time_ago": "Tue, 07 Jul 2026 16:23:41 -0400",
+      "mined_at": "2026-07-08T06:43:40+00:00",
+      "source_published_at": "Tue, 07 Jul 2026 16:23:41 -0400",
+      "image_url": "/article_images/article_9e01c66c05d8.webp",
+      "category": "News",
+      "title": "750 Teens Jump Into Dirt Pits — And It's a National Championship!",
+      "summary": "About 750 high schoolers traveled to Oklahoma to judge dirt—really! At the National Land and Range Judging Contest, they tested soil to see if it's good for crops or building. One freshman drove 15 hours from Kentucky just to play in the mud."
+    },
+    {
+      "id": "2026-07-08-news-2",
       "source": "Al Jazeera",
-      "time_ago": "Tue, 07 Jul 2026 17:11:06 +0000",
-      "mined_at": "2026-07-07T18:20:43+00:00",
-      "source_published_at": "Tue, 07 Jul 2026 17:11:06 +0000",
-      "image_url": "/article_images/article_84800d3b704c.webp",
+      "time_ago": "Wed, 08 Jul 2026 05:38:20 +0000",
+      "mined_at": "2026-07-08T06:43:40+00:00",
+      "source_published_at": "Wed, 08 Jul 2026 05:38:20 +0000",
+      "image_url": "/article_images/article_6db5f9a3556f.webp",
       "category": "News",
-      "title": "Russia Gets a Green Light — But No Flag Yet — for the 2028 Olympics!",
-      "summary": "The IOC just lifted its ban on Russia’s Olympic committee, so Russian athletes can start competing again. But they still can’t wave their flag or play their anthem at the LA 2028 Games. IOC President Kirsty Coventry says athletes shouldn’t be punished for their government’s actions."
+      "title": "Mbappe's France Faces Morocco in a World Cup Rematch Full of History",
+      "summary": "France and Morocco clash in the World Cup quarterfinals on Thursday at Foxborough Stadium. It's a rematch of the 2022 semifinal, which France won 2-0. Star Kylian Mbappe has already scored 7 goals, but Morocco is no longer a surprise team—they're serious contenders."
     },
     {
-      "id": "2026-07-07-news-2",
+      "id": "2026-07-08-news-3",
       "source": "NPR World",
-      "time_ago": "Tue, 07 Jul 2026 05:00:00 -0400",
-      "mined_at": "2026-07-07T18:20:43+00:00",
-      "source_published_at": "Tue, 07 Jul 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_806cddf0763d.webp",
+      "time_ago": "Tue, 07 Jul 2026 16:55:16 -0400",
+      "mined_at": "2026-07-08T06:43:40+00:00",
+      "source_published_at": "Tue, 07 Jul 2026 16:55:16 -0400",
+      "image_url": "/article_images/article_085de60ee279.webp",
       "category": "News",
-      "title": "Why Are Roads Buckling in the Heat? And Can We Fix It Before LA 2028?",
-      "summary": "A heat wave over July 4th weekend made roads buckle in Baltimore and Chicago. Scientists say climate change is bringing more extreme heat and rain, which weakens pavement. Engineers can build stronger roads, but it costs more — so we have to decide how much we’re willing to pay."
-    },
-    {
-      "id": "2026-07-07-news-3",
-      "source": "NPR World",
-      "time_ago": "Tue, 07 Jul 2026 05:00:00 -0400",
-      "mined_at": "2026-07-07T18:20:43+00:00",
-      "source_published_at": "Tue, 07 Jul 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_ddac70184113.webp",
-      "category": "News",
-      "title": "169 Years Later, a Famous Court Case About Freedom Still Echoes Today",
-      "summary": "Descendants of Dred Scott and the judge who ruled against him met in Washington, D.C. They talked about the 1857 Supreme Court case that said enslaved people weren’t citizens. Recently, the court ruled that almost all babies born in the U.S. are citizens, but three justices disagreed — showing old debates aren’t over."
+      "title": "The Fight Over Food for Peace: Feeding the Hungry or Helping Farmers?",
+      "summary": "The U.S. 'Food for Peace' program was shut down, then revived under the Department of Agriculture. Now, lawmakers are debating who should run it. Critics say USDA focuses too much on helping American farmers instead of starving people. The program has fed 4 billion people since the 1950s."
     }
   ]
 }

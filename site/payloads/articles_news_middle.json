@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-07-news-1",
+      "id": "2026-07-08-news-1",
+      "source": "NPR World",
+      "time_ago": "Tue, 07 Jul 2026 16:23:41 -0400",
+      "mined_at": "2026-07-08T06:43:40+00:00",
+      "source_published_at": "Tue, 07 Jul 2026 16:23:41 -0400",
+      "image_url": "/article_images/article_9e01c66c05d8.webp",
+      "category": "News",
+      "title": "The National Championship Where 750 Teens Get Down and Dirty—Literally",
+      "summary": "At the 75-year-old National Land and Range Judging Contest in Oklahoma, 750 FFA and 4-H students analyzed soil for farming and construction potential. One Kentucky freshman drove 15 hours to compete, calling it a dream fulfilled. It's a serious science competition disguised as playing in the mud."
+    },
+    {
+      "id": "2026-07-08-news-2",
       "source": "Al Jazeera",
-      "time_ago": "Tue, 07 Jul 2026 17:11:06 +0000",
-      "mined_at": "2026-07-07T18:20:43+00:00",
-      "source_published_at": "Tue, 07 Jul 2026 17:11:06 +0000",
-      "image_url": "/article_images/article_84800d3b704c.webp",
+      "time_ago": "Wed, 08 Jul 2026 05:38:20 +0000",
+      "mined_at": "2026-07-08T06:43:40+00:00",
+      "source_published_at": "Wed, 08 Jul 2026 05:38:20 +0000",
+      "image_url": "/article_images/article_6db5f9a3556f.webp",
       "category": "News",
-      "title": "IOC Clears Path for Russia at LA 2028, but Flag and Anthem Still in Limbo",
-      "summary": "The IOC has provisionally lifted its suspension of Russia’s Olympic committee, a crucial step toward full reintegration before LA 2028. But Russia still can’t display its flag or play its anthem — that decision is pending. IOC President Kirsty Coventry stressed that athletes shouldn’t pay the price for their government’s actions."
+      "title": "France vs. Morocco: A World Cup Quarterfinal Loaded with Talent and Tension",
+      "summary": "In a rematch of the 2022 semifinal, France and Morocco meet in the World Cup quarterfinals at Foxborough Stadium. Kylian Mbappe's 7 goals lead a star-studded French attack, but Morocco's disciplined defense and growing confidence make them genuine contenders. Colonial history adds an extra layer of intrigue."
     },
     {
-      "id": "2026-07-07-news-2",
+      "id": "2026-07-08-news-3",
       "source": "NPR World",
-      "time_ago": "Tue, 07 Jul 2026 05:00:00 -0400",
-      "mined_at": "2026-07-07T18:20:43+00:00",
-      "source_published_at": "Tue, 07 Jul 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_806cddf0763d.webp",
+      "time_ago": "Tue, 07 Jul 2026 16:55:16 -0400",
+      "mined_at": "2026-07-08T06:43:40+00:00",
+      "source_published_at": "Tue, 07 Jul 2026 16:55:16 -0400",
+      "image_url": "/article_images/article_085de60ee279.webp",
       "category": "News",
-      "title": "Scorching Heat Buckles Highways — Is Our Infrastructure Ready for a Hotter World?",
-      "summary": "A July 4th heat wave caused concrete to buckle on I-97 near Baltimore and a Chicago street. Climate change is driving more extreme temperatures and heavier rainfall, both of which weaken pavements. Engineers say solutions exist but cost more, forcing tough choices about how resilient we want our roads to be."
-    },
-    {
-      "id": "2026-07-07-news-3",
-      "source": "NPR World",
-      "time_ago": "Tue, 07 Jul 2026 05:00:00 -0400",
-      "mined_at": "2026-07-07T18:20:43+00:00",
-      "source_published_at": "Tue, 07 Jul 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_ddac70184113.webp",
-      "category": "News",
-      "title": "Dred Scott’s Descendant and Taney’s Heir Confront a Legacy That Still Divides the Court",
-      "summary": "Lynne Jackson, Dred Scott’s great-great-granddaughter, and Charlie Taney, descendant of the chief justice who ruled against him, met in D.C. as the Supreme Court reaffirmed birthright citizenship. The 5-4 ruling showed deep divisions over the 14th Amendment, with Justice Thomas arguing it was meant only for freed slaves."
+      "title": "Food for Peace's Identity Crisis: Humanitarian Lifeline or Farm Subsidy?",
+      "summary": "After being dismantled by the Trump administration, the historic Food for Peace program was resurrected under USDA. But humanitarian experts argue the agency lacks expertise and is prioritizing U.S. agricultural interests over starving populations. The Senate must now decide its fate."
     }
   ]
 }

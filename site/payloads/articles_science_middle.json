@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-07-science-1",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Wed, 01 Jul 2026 20:36:29 EDT",
-      "mined_at": "2026-07-07T18:20:43+00:00",
-      "source_published_at": "Wed, 01 Jul 2026 20:36:29 EDT",
-      "image_url": "/article_images/article_bb4aa4d57cba.webp",
+      "id": "2026-07-08-science-1",
+      "source": "ScienceDaily All",
+      "time_ago": "Tue, 07 Jul 2026 19:28:50 EDT",
+      "mined_at": "2026-07-08T06:43:40+00:00",
+      "source_published_at": "Tue, 07 Jul 2026 19:28:50 EDT",
+      "image_url": "/article_images/article_ba0c83060e17.webp",
       "category": "Science",
-      "title": "The Ancient Beat in Your Giggle: What Laughter Reveals About Speech",
-      "summary": "Your laugh carries a 15-million-year-old secret. Researchers found that all great apes share the same rhythmic pattern in their laughter—a crucial clue to how humans evolved the vocal control needed for speech."
+      "title": "Breaking a Fundamental Rule of Physics: Scientists Create a Material That Makes Heat Programmable",
+      "summary": "A new device can control the direction of heat radiation, switch it on and off, and remember its state without power — like a thermal computer. It overcomes a long-standing physics principle called reciprocity, opening doors to smarter energy systems."
     },
     {
-      "id": "2026-07-07-science-2",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Sun, 28 Jun 2026 02:53:54 EDT",
-      "mined_at": "2026-07-07T18:20:43+00:00",
-      "source_published_at": "Sun, 28 Jun 2026 02:53:54 EDT",
-      "image_url": "/article_images/article_b519412118b5.webp",
+      "id": "2026-07-08-science-2",
+      "source": "MIT Tech Review",
+      "time_ago": "Tue, 07 Jul 2026 12:10:00 +0000",
+      "mined_at": "2026-07-08T06:43:40+00:00",
+      "source_published_at": "Tue, 07 Jul 2026 12:10:00 +0000",
+      "image_url": "/article_images/article_241f07948341.webp",
       "category": "Science",
-      "title": "From Ocean Trash to Highway: Hawaii’s Bold Experiment with Plastic Roads",
-      "summary": "Hawaii is turning marine debris into pavement. Researchers mixed recycled fishing nets and household plastic into asphalt, and early tests show the roads perform well without shedding extra microplastics."
+      "title": "OpenAI's Sam Altman Floats Plan to Give Every U.S. Household a $320 Stake in AI",
+      "summary": "Sam Altman is reportedly discussing giving the U.S. government a 5% stake in OpenAI, worth roughly $320 per American household. The proposal aims to address concerns about AI's impact on labor and creative compensation, while raising questions about wealth distribution in the AI era."
     },
     {
-      "id": "2026-07-07-science-3",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Sun, 05 Jul 2026 00:10:58 EDT",
-      "mined_at": "2026-07-07T18:20:43+00:00",
-      "source_published_at": "Sun, 05 Jul 2026 00:10:58 EDT",
-      "image_url": "/article_images/article_3a11c0d61629.webp",
+      "id": "2026-07-08-science-3",
+      "source": "Physics World",
+      "time_ago": "Tue, 07 Jul 2026 11:02:05 +0000",
+      "mined_at": "2026-07-08T06:43:40+00:00",
+      "source_published_at": "Tue, 07 Jul 2026 11:02:05 +0000",
+      "image_url": "/article_images/article_c2bb85ac691b.webp",
       "category": "Science",
-      "title": "A 13-Billion-Year-Old Sparkler: Hubble Captures Ancient Star Cluster for July 4th",
-      "summary": "NASA’s Hubble Space Telescope imaged globular cluster NGC 6426, a 13-billion-year-old swarm of stars. The red, white, and blue hues reveal a stellar time capsule from the early universe."
+      "title": "How Ghostlike Particles Could Prevent Covert Nuclear Weapons Production in Fusion Reactors",
+      "summary": "Antineutrino detectors like MiniCHANDLER could remotely monitor fusion reactors for clandestine plutonium production, a new study shows. The technique exploits the unstoppable nature of neutrinos, offering a non-intrusive safeguard as fusion energy nears reality."
     }
   ]
 }
