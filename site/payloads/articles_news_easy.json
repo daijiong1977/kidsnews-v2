@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-08-news-1",
-      "source": "Al Jazeera",
-      "time_ago": "Wed, 08 Jul 2026 17:24:45 +0000",
-      "mined_at": "2026-07-08T18:15:41+00:00",
-      "source_published_at": "Wed, 08 Jul 2026 17:24:45 +0000",
-      "image_url": "/article_images/article_fefa9d6943fe.webp",
+      "id": "2026-07-09-news-1",
+      "source": "BBC News",
+      "time_ago": "Thu, 09 Jul 2026 16:52:24 GMT",
+      "mined_at": "2026-07-09T18:22:45+00:00",
+      "source_published_at": "Thu, 09 Jul 2026 16:52:24 GMT",
+      "image_url": "/article_images/article_3d58bee04d4f.webp",
       "category": "News",
-      "title": "NATO Pledges a Whopping 70 Billion Euros to Help Ukraine",
-      "summary": "At a summit in Turkey, NATO countries promised 70 billion euros in military aid to Ukraine. President Trump said the U.S. will even show Ukraine how to build Patriot missiles. Ukraine's leader Zelenskyy thanked everyone."
+      "title": "UK Heatwave Breaks a Record — And It’s Not Over Yet!",
+      "summary": "England is baking in its third heatwave this year, and Thursday’s temperature hit 35.1°C in Surrey. That breaks the record for the most 34°C+ days in a year! Health alerts now cover almost all of England, and trains are slowing down because the tracks might buckle."
     },
     {
-      "id": "2026-07-08-news-2",
+      "id": "2026-07-09-news-2",
       "source": "NPR World",
-      "time_ago": "Wed, 08 Jul 2026 12:28:28 -0400",
-      "mined_at": "2026-07-08T18:15:41+00:00",
-      "source_published_at": "Wed, 08 Jul 2026 12:28:28 -0400",
-      "image_url": "/article_images/article_d62ac93214d7.webp",
+      "time_ago": "Thu, 09 Jul 2026 10:59:11 -0400",
+      "mined_at": "2026-07-09T18:22:45+00:00",
+      "source_published_at": "Thu, 09 Jul 2026 10:59:11 -0400",
+      "image_url": "/article_images/article_904bec31654a.webp",
       "category": "News",
-      "title": "A Giant Arch in D.C.? How a Secret Club Pushed It Through",
-      "summary": "President Trump wants a 250-foot-tall arch near the Lincoln Memorial. But the design came from a tiny group of his friends, not a public contest. Some experts say the fast approval broke rules that have been around for over 100 years."
+      "title": "Olympian Says He Just Touched the Water — Now He’s in Court!",
+      "summary": "David Hearn, a former Olympic canoeist, pleaded not guilty to damaging the Lincoln Memorial Reflecting Pool. He says he only touched the water out of curiosity. But prosecutors say he caused over $1,000 in damage to the newly renovated pool. Supporters cheered him outside court!"
     },
     {
-      "id": "2026-07-08-news-3",
-      "source": "NPR World",
-      "time_ago": "Wed, 08 Jul 2026 13:21:06 -0400",
-      "mined_at": "2026-07-08T18:15:41+00:00",
-      "source_published_at": "Wed, 08 Jul 2026 13:21:06 -0400",
-      "image_url": "/article_images/article_06fdaf7903a6.webp",
+      "id": "2026-07-09-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Thu, 09 Jul 2026 12:41:06 -0400",
+      "mined_at": "2026-07-09T18:22:45+00:00",
+      "source_published_at": "Thu, 09 Jul 2026 12:41:06 -0400",
+      "image_url": "/article_images/article_c5cf842ec0c1.webp",
       "category": "News",
-      "title": "Trump's Name Is Off the Kennedy Center—and a Court Says It Stays Off",
-      "summary": "A court told President Trump he can't stop workers from removing his name from the Kennedy Center in D.C. The name is already gone, and judges said Trump didn't prove it would really hurt the center."
+      "title": "Trump’s Giant Arch Plan Hits a Speed Bump: Too Tall for Washington’s Rules!",
+      "summary": "President Trump wants to build a 250-foot arch near the Lincoln Memorial, but planners say it might break height rules. The arch would be more than twice as tall as the Lincoln Memorial!"
     }
   ]
 }

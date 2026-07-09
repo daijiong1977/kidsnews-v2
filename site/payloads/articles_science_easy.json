@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-08-science-1",
-      "source": "Science News Explores",
-      "time_ago": "Wed, 08 Jul 2026 10:30:00 +0000",
-      "mined_at": "2026-07-08T18:15:41+00:00",
-      "source_published_at": "Wed, 08 Jul 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_b370530320ed.webp",
+      "id": "2026-07-09-science-1",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Wed, 08 Jul 2026 19:00:05 EDT",
+      "mined_at": "2026-07-09T18:22:45+00:00",
+      "source_published_at": "Wed, 08 Jul 2026 19:00:05 EDT",
+      "image_url": "/article_images/article_3c330026963c.webp",
       "category": "Science",
-      "title": "Mice That Sing? Tiny Throat Balloons Make Their Wild Tunes!",
-      "summary": "Alston's singing mice inflate tiny balloon-like sacs in their throats to belt out 100 notes in just 10 seconds. Scientists blocked the sacs and the songs stopped—proving the balloons are the secret to their speedy serenades."
+      "title": "A Real-Life Sea Monster? Rare Goblin Shark Spotted Alive for the First Time!",
+      "summary": "Imagine a shark with a long, flat snout and jaws that shoot out to grab food. For the first time, scientists filmed this 'living fossil' alive in the deep sea near Jarvis Island and the Tonga Trench, breaking depth records."
     },
     {
-      "id": "2026-07-08-science-2",
-      "source": "Space.com",
-      "time_ago": "Wed, 08 Jul 2026 17:00:00 +0000",
-      "mined_at": "2026-07-08T18:15:41+00:00",
-      "source_published_at": "Wed, 08 Jul 2026 17:00:00 +0000",
-      "image_url": "/article_images/article_00dcb1381a81.webp",
-      "category": "Science",
-      "title": "Venus Is Putting On a Double Sky Show This July—Here's How to Watch!",
-      "summary": "Venus will cozy up to the bright star Regulus on July 9, then meet a thin crescent moon on July 17. Look low in the west after sunset—binoculars will make the view even cooler."
-    },
-    {
-      "id": "2026-07-08-science-3",
+      "id": "2026-07-09-science-2",
       "source": "ScienceDaily Top Technology",
-      "time_ago": "Sun, 05 Jul 2026 00:03:07 EDT",
-      "mined_at": "2026-07-08T18:15:41+00:00",
-      "source_published_at": "Sun, 05 Jul 2026 00:03:07 EDT",
-      "image_url": "/article_images/article_5e7fc5ad8200.webp",
+      "time_ago": "Wed, 08 Jul 2026 22:48:06 EDT",
+      "mined_at": "2026-07-09T18:22:45+00:00",
+      "source_published_at": "Wed, 08 Jul 2026 22:48:06 EDT",
+      "image_url": "/article_images/article_7622f1bdbc76.webp",
       "category": "Science",
-      "title": "Hubble Snaps a Sparkly Star Nursery That Looks Like Fireworks!",
-      "summary": "NASA's Hubble telescope captured LH 95, a star-forming region with glowing red gas and brilliant blue stars. It holds 2,500 baby stars still growing, plus a giant star 60 times heavier than the Sun."
+      "title": "This Tiny Chip Writes DNA Like a Miniature Printer—and It Could Change Everything!",
+      "summary": "Harvard scientists built a silicon chip that can write 64 different DNA strands at once using electricity and water. It's cleaner than the usual chemical method and might one day store huge amounts of data in DNA."
+    },
+    {
+      "id": "2026-07-09-science-3",
+      "source": "Space.com",
+      "time_ago": "Thu, 09 Jul 2026 15:00:00 +0000",
+      "mined_at": "2026-07-09T18:22:45+00:00",
+      "source_published_at": "Thu, 09 Jul 2026 15:00:00 +0000",
+      "image_url": "/article_images/article_f32066f34b8e.webp",
+      "category": "Science",
+      "title": "Is There Life on Mars? Europe's New Rover Will Dig Into Clay to Find Out!",
+      "summary": "ESA's Rosalind Franklin rover will land at Oxia Planum, a spot on Mars with lots of clay that might hold signs of ancient life. Scientists found clay stretching 186 miles, hinting at a huge watery past."
     }
   ]
 }

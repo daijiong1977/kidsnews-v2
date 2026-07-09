@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-08-news-1",
-      "source": "Al Jazeera",
-      "time_ago": "Wed, 08 Jul 2026 17:24:45 +0000",
-      "mined_at": "2026-07-08T18:15:41+00:00",
-      "source_published_at": "Wed, 08 Jul 2026 17:24:45 +0000",
-      "image_url": "/article_images/article_fefa9d6943fe.webp",
+      "id": "2026-07-09-news-1",
+      "source": "BBC News",
+      "time_ago": "Thu, 09 Jul 2026 16:52:24 GMT",
+      "mined_at": "2026-07-09T18:22:45+00:00",
+      "source_published_at": "Thu, 09 Jul 2026 16:52:24 GMT",
+      "image_url": "/article_images/article_3d58bee04d4f.webp",
       "category": "News",
-      "title": "NATO Summit Ends with $80 Billion Pledge for Ukraine and a Surprising Trump-Zelenskyy Moment",
-      "summary": "NATO allies committed 70 billion euros in military aid to Ukraine for 2026. In a friendly joint appearance, Trump offered to share Patriot missile technology, a stark shift from past tensions. Zelenskyy also secured drone deals with several nations."
+      "title": "England Swelters Through Record-Breaking Heatwave, Straining Health Services and Transport",
+      "summary": "The UK’s third heatwave of 2026 pushed temperatures to 35.1°C, breaking the record for most 34°C+ days in a year. Amber health alerts now cover nearly all of England, with ambulance services under “sustained pressure.” Rail disruptions are widespread as tracks risk buckling."
     },
     {
-      "id": "2026-07-08-news-2",
+      "id": "2026-07-09-news-2",
       "source": "NPR World",
-      "time_ago": "Wed, 08 Jul 2026 12:28:28 -0400",
-      "mined_at": "2026-07-08T18:15:41+00:00",
-      "source_published_at": "Wed, 08 Jul 2026 12:28:28 -0400",
-      "image_url": "/article_images/article_d62ac93214d7.webp",
+      "time_ago": "Thu, 09 Jul 2026 10:59:11 -0400",
+      "mined_at": "2026-07-09T18:22:45+00:00",
+      "source_published_at": "Thu, 09 Jul 2026 10:59:11 -0400",
+      "image_url": "/article_images/article_904bec31654a.webp",
       "category": "News",
-      "title": "How a Small Circle of Trump Allies Fast-Tracked a 250-Foot Arch on the National Mall",
-      "summary": "A proposed triumphal arch near the Lincoln Memorial bypassed standard public review. The design originated from a tight-knit group of classical architecture enthusiasts with direct ties to Trump and the commission that approved it."
+      "title": "Ex-Olympian Pleads Not Guilty in Reflecting Pool Vandalism Case, Calling It a Political Stunt",
+      "summary": "David Hearn, a 67-year-old former Olympic canoeist, pleaded not guilty to damaging the Lincoln Memorial Reflecting Pool. Prosecutors allege he caused over $1,000 in damage to the recently renovated pool. Hearn claims he merely touched the water, and his supporters argue he’s a scapegoat for a botched $14 million project."
     },
     {
-      "id": "2026-07-08-news-3",
-      "source": "NPR World",
-      "time_ago": "Wed, 08 Jul 2026 13:21:06 -0400",
-      "mined_at": "2026-07-08T18:15:41+00:00",
-      "source_published_at": "Wed, 08 Jul 2026 13:21:06 -0400",
-      "image_url": "/article_images/article_06fdaf7903a6.webp",
+      "id": "2026-07-09-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Thu, 09 Jul 2026 12:41:06 -0400",
+      "mined_at": "2026-07-09T18:22:45+00:00",
+      "source_published_at": "Thu, 09 Jul 2026 12:41:06 -0400",
+      "image_url": "/article_images/article_c5cf842ec0c1.webp",
       "category": "News",
-      "title": "Appeals Court Rejects Trump's Bid to Keep His Name on the Kennedy Center",
-      "summary": "A federal appeals court denied Trump's emergency request to halt the removal of his name from the Kennedy Center. Judges ruled he failed to prove irreparable harm, noting the name is already gone and his financial claims lacked evidence."
+      "title": "Trump’s 250-Foot Arch Faces Federal Pushback Over D.C. Height Limits",
+      "summary": "A federal planning commission says Trump’s proposed 250-foot arch near the Lincoln Memorial violates the Height of Buildings Act. Staff recommend design tweaks, but the arch could still reach its full height."
     }
   ]
 }

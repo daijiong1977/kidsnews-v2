@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-08-fun-1",
-      "source": "/Film",
-      "time_ago": "Wed, 08 Jul 2026 17:35:03 +0000",
-      "mined_at": "2026-07-08T18:15:41+00:00",
-      "source_published_at": "Wed, 08 Jul 2026 17:35:03 +0000",
-      "image_url": "/article_images/article_32c78596b5a6.webp",
-      "category": "Fun",
-      "title": "Live-Action Moana Makes a Splash — But It’s a Belly Flop",
-      "summary": "Disney’s live-action Moana debuted to a dismal 33% on Rotten Tomatoes, with critics blasting its “AI slop” visuals and “exquisite agony.” It now ranks among the worst remakes, just above 102 Dalmatians. Will Disney finally get the message?"
-    },
-    {
-      "id": "2026-07-08-fun-2",
+      "id": "2026-07-09-fun-1",
       "source": "DOGOnews",
       "time_ago": "",
-      "mined_at": "2026-07-08T18:15:41+00:00",
+      "mined_at": "2026-07-09T18:22:45+00:00",
       "source_published_at": "",
-      "image_url": "/article_images/article_0acc5ba87dbc.webp",
+      "image_url": "/article_images/article_21c749771c74.webp",
       "category": "Fun",
-      "title": "America’s 250th Birthday Time Capsule: Diamonds, AI, and a Giant Snake",
-      "summary": "A time capsule buried in Philadelphia for America’s 250th birthday holds a diamond, a whale bone, an AI prediction, and more. Sealed to survive 250 years, it’s marked by a granite snake inspired by Franklin’s “Join, or Die” cartoon."
+      "title": "A 3,010-Pound Scoop and a $6,696 Gelato: Ice Cream's Wildest Records",
+      "summary": "National Ice Cream Month brings bizarre records: a 3,010-pound scoop carved by snow sculptors and a $6,696 gelato with gold leaf. Plus, your flavor choice might reveal your personality, according to a neurologist."
     },
     {
-      "id": "2026-07-08-fun-3",
+      "id": "2026-07-09-fun-2",
       "source": "BBC Tennis",
-      "time_ago": "Wed, 08 Jul 2026 17:42:04 GMT",
-      "mined_at": "2026-07-08T18:15:41+00:00",
-      "source_published_at": "Wed, 08 Jul 2026 17:42:04 GMT",
-      "image_url": "/article_images/article_eca8e2f0cde4.webp",
+      "time_ago": "Thu, 09 Jul 2026 17:40:54 GMT",
+      "mined_at": "2026-07-09T18:22:45+00:00",
+      "source_published_at": "Thu, 09 Jul 2026 17:40:54 GMT",
+      "image_url": "/article_images/article_15eb03aef6d0.webp",
       "category": "Fun",
-      "title": "Wildcard Wonder: Arthur Fery Storms into Wimbledon Semis",
-      "summary": "Unranked just 18 months ago, British wildcard Arthur Fery stunned world No. 10 Flavio Cobolli in straight sets to become the first men’s wildcard in 25 years to reach the Wimbledon semi-finals. Next up: French Open champ Zverev."
+      "title": "Saved by the Tape: Muchova Survives Match Point in Wimbledon Epic Against Gauff",
+      "summary": "In a dramatic Wimbledon semifinal, Karolina Muchova saved a match point and won a 12-10 tiebreak against Coco Gauff. The 2-hour-35-minute battle ended with Muchova in tears, setting up an all-Czech final."
+    },
+    {
+      "id": "2026-07-09-fun-3",
+      "source": "Live Science",
+      "time_ago": "Thu, 09 Jul 2026 16:55:21 +0000",
+      "mined_at": "2026-07-09T18:22:45+00:00",
+      "source_published_at": "Thu, 09 Jul 2026 16:55:21 +0000",
+      "image_url": "/article_images/article_897b889fe5d9.webp",
+      "category": "Fun",
+      "title": "Cosmic Echoes Reveal Milky Way Is Larger, Heavier, and Surprisingly Lopsided",
+      "summary": "By analyzing X-ray echoes from gamma-ray bursts, astronomers discovered two spiral arms are 10% farther out than expected. This suggests our galaxy is more massive and asymmetrical—like a lopsided snail shell."
     }
   ]
 }

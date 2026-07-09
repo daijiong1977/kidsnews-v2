@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-08-fun-1",
-      "source": "/Film",
-      "time_ago": "Wed, 08 Jul 2026 17:35:03 +0000",
-      "mined_at": "2026-07-08T18:15:41+00:00",
-      "source_published_at": "Wed, 08 Jul 2026 17:35:03 +0000",
-      "image_url": "/article_images/article_32c78596b5a6.webp",
-      "category": "Fun",
-      "title": "Oops! The New Live-Action Moana Sinks Like a Coconut",
-      "summary": "Disney’s new live-action Moana got a 33% on Rotten Tomatoes — almost as low as a sinking canoe! Critics say it feels fake and lifeless, with one even calling Dwayne Johnson’s wig a low point. Ouch!"
-    },
-    {
-      "id": "2026-07-08-fun-2",
+      "id": "2026-07-09-fun-1",
       "source": "DOGOnews",
       "time_ago": "",
-      "mined_at": "2026-07-08T18:15:41+00:00",
+      "mined_at": "2026-07-09T18:22:45+00:00",
       "source_published_at": "",
-      "image_url": "/article_images/article_0acc5ba87dbc.webp",
+      "image_url": "/article_images/article_21c749771c74.webp",
       "category": "Fun",
-      "title": "A 250-Year Secret Buried Under a Giant Snake!",
-      "summary": "America’s 250th birthday time capsule is packed with wild treasures — a diamond, a whale bone, an eagle feather, and an AI prediction! It’s sealed so well it could survive underwater, and a giant snake sculpture marks the spot."
+      "title": "Did You Know a Giant Ice Cream Scoop Weighed More Than a Car?",
+      "summary": "July is National Ice Cream Month, and the USA celebrates with wild facts. A single scoop once weighed 3,010 pounds—that's heavier than a small car! Plus, your favorite flavor might reveal your personality."
     },
     {
-      "id": "2026-07-08-fun-3",
+      "id": "2026-07-09-fun-2",
       "source": "BBC Tennis",
-      "time_ago": "Wed, 08 Jul 2026 17:42:04 GMT",
-      "mined_at": "2026-07-08T18:15:41+00:00",
-      "source_published_at": "Wed, 08 Jul 2026 17:42:04 GMT",
-      "image_url": "/article_images/article_eca8e2f0cde4.webp",
+      "time_ago": "Thu, 09 Jul 2026 17:40:54 GMT",
+      "mined_at": "2026-07-09T18:22:45+00:00",
+      "source_published_at": "Thu, 09 Jul 2026 17:40:54 GMT",
+      "image_url": "/article_images/article_15eb03aef6d0.webp",
       "category": "Fun",
-      "title": "From Nowhere to Wimbledon Hero: Arthur Fery’s Magic Run!",
-      "summary": "British wildcard Arthur Fery, ranked 114th, shocked world No. 10 Cobolli to reach the Wimbledon semi-finals! He’s the first wildcard in 25 years to do it. The crowd chanted his name as he fell to the ground in joy."
+      "title": "Match Point Thriller: Muchova's Epic Comeback Stuns Gauff at Wimbledon",
+      "summary": "Karolina Muchova saved a match point and won a nail-biting tiebreak 12-10 to beat Coco Gauff at Wimbledon. After 2 hours 35 minutes, she buried her face in a towel, shaking with joy."
+    },
+    {
+      "id": "2026-07-09-fun-3",
+      "source": "Live Science",
+      "time_ago": "Thu, 09 Jul 2026 16:55:21 +0000",
+      "mined_at": "2026-07-09T18:22:45+00:00",
+      "source_published_at": "Thu, 09 Jul 2026 16:55:21 +0000",
+      "image_url": "/article_images/article_897b889fe5d9.webp",
+      "category": "Fun",
+      "title": "Whoa! The Milky Way Might Be Way Bigger and Lopsided Like a Snail Shell",
+      "summary": "Scientists used echoes from giant space explosions to measure our galaxy's arms. They found two arms are 10% farther away than we thought, making the Milky Way bigger and more lopsided—like a snail's shell!"
     }
   ]
 }
