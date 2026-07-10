@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-09-science-1",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Wed, 08 Jul 2026 19:00:05 EDT",
-      "mined_at": "2026-07-09T18:22:45+00:00",
-      "source_published_at": "Wed, 08 Jul 2026 19:00:05 EDT",
-      "image_url": "/article_images/article_3c330026963c.webp",
+      "id": "2026-07-10-science-1",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Fri, 10 Jul 2026 02:04:44 EDT",
+      "mined_at": "2026-07-10T18:18:41+00:00",
+      "source_published_at": "Fri, 10 Jul 2026 02:04:44 EDT",
+      "image_url": "/article_images/article_74264cef55ae.webp",
       "category": "Science",
-      "title": "A Real-Life Sea Monster? Rare Goblin Shark Spotted Alive for the First Time!",
-      "summary": "Imagine a shark with a long, flat snout and jaws that shoot out to grab food. For the first time, scientists filmed this 'living fossil' alive in the deep sea near Jarvis Island and the Tonga Trench, breaking depth records."
+      "title": "Could the galaxy's coldest 'stars' actually be giant alien power plants?",
+      "summary": "Scientists think some super-cold objects in space might not be stars at all—they could be huge structures built by aliens to collect energy. A new study shows how we could spot them with telescopes like the James Webb."
     },
     {
-      "id": "2026-07-09-science-2",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Wed, 08 Jul 2026 22:48:06 EDT",
-      "mined_at": "2026-07-09T18:22:45+00:00",
-      "source_published_at": "Wed, 08 Jul 2026 22:48:06 EDT",
-      "image_url": "/article_images/article_7622f1bdbc76.webp",
-      "category": "Science",
-      "title": "This Tiny Chip Writes DNA Like a Miniature Printer—and It Could Change Everything!",
-      "summary": "Harvard scientists built a silicon chip that can write 64 different DNA strands at once using electricity and water. It's cleaner than the usual chemical method and might one day store huge amounts of data in DNA."
-    },
-    {
-      "id": "2026-07-09-science-3",
+      "id": "2026-07-10-science-2",
       "source": "Space.com",
-      "time_ago": "Thu, 09 Jul 2026 15:00:00 +0000",
-      "mined_at": "2026-07-09T18:22:45+00:00",
-      "source_published_at": "Thu, 09 Jul 2026 15:00:00 +0000",
-      "image_url": "/article_images/article_f32066f34b8e.webp",
+      "time_ago": "Fri, 10 Jul 2026 16:13:48 +0000",
+      "mined_at": "2026-07-10T18:18:41+00:00",
+      "source_published_at": "Fri, 10 Jul 2026 16:13:48 +0000",
+      "image_url": "/article_images/article_482e32684f01.webp",
       "category": "Science",
-      "title": "Is There Life on Mars? Europe's New Rover Will Dig Into Clay to Find Out!",
-      "summary": "ESA's Rosalind Franklin rover will land at Oxia Planum, a spot on Mars with lots of clay that might hold signs of ancient life. Scientists found clay stretching 186 miles, hinting at a huge watery past."
+      "title": "SpaceX's giant Starship booster roars to life in a fiery 25-second test",
+      "summary": "SpaceX fired up all 33 engines on its newest Super Heavy booster in Texas, a major step toward the next Starship launch. The test lasted 25 seconds and could lead to a flight as soon as July 15."
+    },
+    {
+      "id": "2026-07-10-science-3",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Fri, 10 Jul 2026 07:16:59 EDT",
+      "mined_at": "2026-07-10T18:18:41+00:00",
+      "source_published_at": "Fri, 10 Jul 2026 07:16:59 EDT",
+      "image_url": "/article_images/article_d28fe2011ecb.webp",
+      "category": "Science",
+      "title": "Europe's most active volcano might be one of a kind—here's why",
+      "summary": "Mount Etna in Italy erupts all the time, but scientists never knew how it formed. A new study says it might be a rare type of volcano that grows from tiny magma pockets squeezed up by moving tectonic plates."
     }
   ]
 }

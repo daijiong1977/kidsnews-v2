@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-09-science-1",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Wed, 08 Jul 2026 19:00:05 EDT",
-      "mined_at": "2026-07-09T18:22:45+00:00",
-      "source_published_at": "Wed, 08 Jul 2026 19:00:05 EDT",
-      "image_url": "/article_images/article_3c330026963c.webp",
+      "id": "2026-07-10-science-1",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Fri, 10 Jul 2026 02:04:44 EDT",
+      "mined_at": "2026-07-10T18:18:41+00:00",
+      "source_published_at": "Fri, 10 Jul 2026 02:04:44 EDT",
+      "image_url": "/article_images/article_74264cef55ae.webp",
       "category": "Science",
-      "title": "Deep-Sea 'Living Fossil' Filmed Alive for the First Time, Shattering Depth Records",
-      "summary": "Scientists have captured unprecedented video of a healthy goblin shark in its natural habitat. The sightings near Jarvis Island and the Tonga Trench expand the species' known range and set a new depth record for mackerel sharks at nearly 2,000 meters."
+      "title": "Alien megastructures or ultra-cold stars? New study maps how to spot a Dyson swarm",
+      "summary": "A University of Arkansas study reveals that Dyson swarms—hypothetical alien megastructures—would make stars appear impossibly cold, shifting them to an empty region of the H-R diagram. The James Webb telescope could spot these anomalies among red dwarfs."
     },
     {
-      "id": "2026-07-09-science-2",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Wed, 08 Jul 2026 22:48:06 EDT",
-      "mined_at": "2026-07-09T18:22:45+00:00",
-      "source_published_at": "Wed, 08 Jul 2026 22:48:06 EDT",
-      "image_url": "/article_images/article_7622f1bdbc76.webp",
-      "category": "Science",
-      "title": "Harvard's Silicon Chip Writes DNA with Electricity, Opening Door to Cleaner Synthesis and Data Storage",
-      "summary": "A new chip synthesizes 64 unique DNA sequences in parallel using water-based enzymes and precise electrical currents. The method avoids hazardous solvents and could scale up for eco-friendly DNA data storage."
-    },
-    {
-      "id": "2026-07-09-science-3",
+      "id": "2026-07-10-science-2",
       "source": "Space.com",
-      "time_ago": "Thu, 09 Jul 2026 15:00:00 +0000",
-      "mined_at": "2026-07-09T18:22:45+00:00",
-      "source_published_at": "Thu, 09 Jul 2026 15:00:00 +0000",
-      "image_url": "/article_images/article_f32066f34b8e.webp",
+      "time_ago": "Fri, 10 Jul 2026 16:13:48 +0000",
+      "mined_at": "2026-07-10T18:18:41+00:00",
+      "source_published_at": "Fri, 10 Jul 2026 16:13:48 +0000",
+      "image_url": "/article_images/article_482e32684f01.webp",
       "category": "Science",
-      "title": "ESA's Rosalind Franklin Rover to Hunt for Ancient Life in Martian Clay at Oxia Planum",
-      "summary": "Extensive clay deposits stretching 300 km from Oxia Planum to Mawrth Vallis could preserve biosignatures. The rover, launching in 2028, will drill into these ancient sediments to search for evidence of past life on Mars."
+      "title": "SpaceX test-fires 33-engine Super Heavy booster, paving way for Starship Flight 13",
+      "summary": "SpaceX completed a 25-second static fire of Booster 20, the latest Super Heavy, at Starbase Texas. The successful test keeps Starship on track for a July 15 launch, aiming to resolve issues from Flight 12 and advance reusability."
+    },
+    {
+      "id": "2026-07-10-science-3",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Fri, 10 Jul 2026 07:16:59 EDT",
+      "mined_at": "2026-07-10T18:18:41+00:00",
+      "source_published_at": "Fri, 10 Jul 2026 07:16:59 EDT",
+      "image_url": "/article_images/article_d28fe2011ecb.webp",
+      "category": "Science",
+      "title": "Mount Etna's secret origin: could it be a rare 'petit-spot' volcano?",
+      "summary": "A University of Lausanne study proposes that Mount Etna formed via a mechanism similar to petit-spot volcanoes—tiny magma pockets squeezed up by tectonic plate collision. This would make Etna the first giant of its kind, challenging traditional volcano classification."
     }
   ]
 }

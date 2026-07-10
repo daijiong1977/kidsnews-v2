@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-09-news-1",
-      "source": "BBC News",
-      "time_ago": "Thu, 09 Jul 2026 16:52:24 GMT",
-      "mined_at": "2026-07-09T18:22:45+00:00",
-      "source_published_at": "Thu, 09 Jul 2026 16:52:24 GMT",
-      "image_url": "/article_images/article_3d58bee04d4f.webp",
+      "id": "2026-07-10-news-1",
+      "source": "Al Jazeera",
+      "time_ago": "Fri, 10 Jul 2026 17:08:44 +0000",
+      "mined_at": "2026-07-10T18:18:41+00:00",
+      "source_published_at": "Fri, 10 Jul 2026 17:08:44 +0000",
+      "image_url": "/article_images/article_c20200721adb.webp",
       "category": "News",
-      "title": "UK Heatwave Breaks a Record — And It’s Not Over Yet!",
-      "summary": "England is baking in its third heatwave this year, and Thursday’s temperature hit 35.1°C in Surrey. That breaks the record for the most 34°C+ days in a year! Health alerts now cover almost all of England, and trains are slowing down because the tracks might buckle."
+      "title": "Egypt's Soccer Team Gets a Hero's Welcome After Their Best World Cup Ever!",
+      "summary": "Hundreds of fans waving flags cheered Egypt's soccer team in el-Alamein after their best World Cup run. They made it to the last 16 for the first time, and captain Mohamed Salah promised a new beginning."
     },
     {
-      "id": "2026-07-09-news-2",
-      "source": "NPR World",
-      "time_ago": "Thu, 09 Jul 2026 10:59:11 -0400",
-      "mined_at": "2026-07-09T18:22:45+00:00",
-      "source_published_at": "Thu, 09 Jul 2026 10:59:11 -0400",
-      "image_url": "/article_images/article_904bec31654a.webp",
-      "category": "News",
-      "title": "Olympian Says He Just Touched the Water — Now He’s in Court!",
-      "summary": "David Hearn, a former Olympic canoeist, pleaded not guilty to damaging the Lincoln Memorial Reflecting Pool. He says he only touched the water out of curiosity. But prosecutors say he caused over $1,000 in damage to the newly renovated pool. Supporters cheered him outside court!"
-    },
-    {
-      "id": "2026-07-09-news-3",
+      "id": "2026-07-10-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Thu, 09 Jul 2026 12:41:06 -0400",
-      "mined_at": "2026-07-09T18:22:45+00:00",
-      "source_published_at": "Thu, 09 Jul 2026 12:41:06 -0400",
-      "image_url": "/article_images/article_c5cf842ec0c1.webp",
+      "time_ago": "Fri, 10 Jul 2026 13:48:25 -0400",
+      "mined_at": "2026-07-10T18:18:41+00:00",
+      "source_published_at": "Fri, 10 Jul 2026 13:48:25 -0400",
+      "image_url": "/article_images/article_21c00ea83d86.webp",
       "category": "News",
-      "title": "Trump’s Giant Arch Plan Hits a Speed Bump: Too Tall for Washington’s Rules!",
-      "summary": "President Trump wants to build a 250-foot arch near the Lincoln Memorial, but planners say it might break height rules. The arch would be more than twice as tall as the Lincoln Memorial!"
+      "title": "A Super Strong El Niño Is Coming—Here's What That Means for You",
+      "summary": "Scientists say this year's El Niño could be one of the strongest ever, with an 81% chance of reaching the top category. It's already breaking records and could bring wild weather like floods, droughts, and heat waves."
+    },
+    {
+      "id": "2026-07-10-news-3",
+      "source": "NPR World",
+      "time_ago": "Fri, 10 Jul 2026 05:00:00 -0400",
+      "mined_at": "2026-07-10T18:18:41+00:00",
+      "source_published_at": "Fri, 10 Jul 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_bc9f191a854a.webp",
+      "category": "News",
+      "title": "Could Your School Lose Internet? A Big Program That Pays for It Is in Danger",
+      "summary": "The FCC is reviewing a program that helps schools and libraries afford internet. Educators worry funding could be cut, which might force districts to pay tens of thousands of dollars more each month."
     }
   ]
 }
