@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-10-news-1",
-      "source": "Al Jazeera",
-      "time_ago": "Fri, 10 Jul 2026 17:08:44 +0000",
-      "mined_at": "2026-07-10T18:18:41+00:00",
-      "source_published_at": "Fri, 10 Jul 2026 17:08:44 +0000",
-      "image_url": "/article_images/article_c20200721adb.webp",
-      "category": "News",
-      "title": "Egypt's Soccer Team Gets a Hero's Welcome After Their Best World Cup Ever!",
-      "summary": "Hundreds of fans waving flags cheered Egypt's soccer team in el-Alamein after their best World Cup run. They made it to the last 16 for the first time, and captain Mohamed Salah promised a new beginning."
-    },
-    {
-      "id": "2026-07-10-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Fri, 10 Jul 2026 13:48:25 -0400",
-      "mined_at": "2026-07-10T18:18:41+00:00",
-      "source_published_at": "Fri, 10 Jul 2026 13:48:25 -0400",
-      "image_url": "/article_images/article_21c00ea83d86.webp",
-      "category": "News",
-      "title": "A Super Strong El Niño Is Coming—Here's What That Means for You",
-      "summary": "Scientists say this year's El Niño could be one of the strongest ever, with an 81% chance of reaching the top category. It's already breaking records and could bring wild weather like floods, droughts, and heat waves."
-    },
-    {
-      "id": "2026-07-10-news-3",
+      "id": "2026-07-11-news-1",
       "source": "NPR World",
-      "time_ago": "Fri, 10 Jul 2026 05:00:00 -0400",
-      "mined_at": "2026-07-10T18:18:41+00:00",
-      "source_published_at": "Fri, 10 Jul 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_bc9f191a854a.webp",
+      "time_ago": "Sat, 11 Jul 2026 11:14:42 -0400",
+      "mined_at": "2026-07-11T18:01:19+00:00",
+      "source_published_at": "Sat, 11 Jul 2026 11:14:42 -0400",
+      "image_url": "/article_images/article_8de6f601865b.webp",
       "category": "News",
-      "title": "Could Your School Lose Internet? A Big Program That Pays for It Is in Danger",
-      "summary": "The FCC is reviewing a program that helps schools and libraries afford internet. Educators worry funding could be cut, which might force districts to pay tens of thousands of dollars more each month."
+      "title": "A 1.2-Million-Pound Monster Train Is Rolling Across America!",
+      "summary": "The world’s biggest steam train, Big Boy No. 4014, is touring the U.S. for America’s 250th birthday. It’s 133 feet long and weighs 1.2 million pounds—and you can hear its whistle from miles away!"
+    },
+    {
+      "id": "2026-07-11-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Sat, 11 Jul 2026 13:13:39 -0400",
+      "mined_at": "2026-07-11T18:01:19+00:00",
+      "source_published_at": "Sat, 11 Jul 2026 13:13:39 -0400",
+      "image_url": "/article_images/article_c62899141f8f.webp",
+      "category": "News",
+      "title": "Reporters Get Subpoenas After Writing About Air Force One—What’s Going On?",
+      "summary": "Four New York Times reporters were ordered to testify in court after they wrote about security concerns on the president’s new plane. The government says it’s about leaks, but press freedom groups are worried."
+    },
+    {
+      "id": "2026-07-11-news-3",
+      "source": "NPR World",
+      "time_ago": "Sat, 11 Jul 2026 12:35:24 -0400",
+      "mined_at": "2026-07-11T18:01:19+00:00",
+      "source_published_at": "Sat, 11 Jul 2026 12:35:24 -0400",
+      "image_url": "/article_images/article_86329928aeb5.webp",
+      "category": "News",
+      "title": "Why Did the FBI Show Up at Reporters’ Doors?",
+      "summary": "Four New York Times reporters got subpoenas after writing about the president’s plane. The government wants to know who told them about security problems on the new Air Force One. Press freedom groups say this is scary."
     }
   ]
 }

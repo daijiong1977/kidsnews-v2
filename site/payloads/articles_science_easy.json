@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-10-science-1",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Fri, 10 Jul 2026 02:04:44 EDT",
-      "mined_at": "2026-07-10T18:18:41+00:00",
-      "source_published_at": "Fri, 10 Jul 2026 02:04:44 EDT",
-      "image_url": "/article_images/article_74264cef55ae.webp",
-      "category": "Science",
-      "title": "Could the galaxy's coldest 'stars' actually be giant alien power plants?",
-      "summary": "Scientists think some super-cold objects in space might not be stars at all—they could be huge structures built by aliens to collect energy. A new study shows how we could spot them with telescopes like the James Webb."
-    },
-    {
-      "id": "2026-07-10-science-2",
+      "id": "2026-07-11-science-1",
       "source": "Space.com",
-      "time_ago": "Fri, 10 Jul 2026 16:13:48 +0000",
-      "mined_at": "2026-07-10T18:18:41+00:00",
-      "source_published_at": "Fri, 10 Jul 2026 16:13:48 +0000",
-      "image_url": "/article_images/article_482e32684f01.webp",
+      "time_ago": "Sat, 11 Jul 2026 16:00:00 +0000",
+      "mined_at": "2026-07-11T18:01:19+00:00",
+      "source_published_at": "Sat, 11 Jul 2026 16:00:00 +0000",
+      "image_url": "/article_images/article_7595400e2e81.webp",
       "category": "Science",
-      "title": "SpaceX's giant Starship booster roars to life in a fiery 25-second test",
-      "summary": "SpaceX fired up all 33 engines on its newest Super Heavy booster in Texas, a major step toward the next Starship launch. The test lasted 25 seconds and could lead to a flight as soon as July 15."
+      "title": "Your Lost Dog Can Now Call Home from Anywhere — Even the Middle of Nowhere!",
+      "summary": "A new dog collar connects to satellites, so if your pup runs off in the woods with no cell signal, you can still find them. Fi's Ultra tracker uses SpaceX's Starlink to send your dog's location from almost anywhere on Earth."
     },
     {
-      "id": "2026-07-10-science-3",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Fri, 10 Jul 2026 07:16:59 EDT",
-      "mined_at": "2026-07-10T18:18:41+00:00",
-      "source_published_at": "Fri, 10 Jul 2026 07:16:59 EDT",
-      "image_url": "/article_images/article_d28fe2011ecb.webp",
+      "id": "2026-07-11-science-2",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Sat, 11 Jul 2026 03:03:53 EDT",
+      "mined_at": "2026-07-11T18:01:19+00:00",
+      "source_published_at": "Sat, 11 Jul 2026 03:03:53 EDT",
+      "image_url": "/article_images/article_cb9462b82635.webp",
       "category": "Science",
-      "title": "Europe's most active volcano might be one of a kind—here's why",
-      "summary": "Mount Etna in Italy erupts all the time, but scientists never knew how it formed. A new study says it might be a rare type of volcano that grows from tiny magma pockets squeezed up by moving tectonic plates."
+      "title": "Scientists Just Built a Weird Quantum Material That Was Only a Dream for 10 Years!",
+      "summary": "Physicists in Finland created a super-thin crystal that lets electricity flow only along its edges. This \"topological crystalline insulator\" was predicted over a decade ago but never made until now. It could lead to faster, cooler electronics."
+    },
+    {
+      "id": "2026-07-11-science-3",
+      "source": "Science News Explores",
+      "time_ago": "Thu, 09 Jul 2026 10:30:00 +0000",
+      "mined_at": "2026-07-11T18:01:19+00:00",
+      "source_published_at": "Thu, 09 Jul 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_e02692745b7c.webp",
+      "category": "Science",
+      "title": "What If You Tried to Chop a Particle of Light in Half? You'd Get a Crazy Light Explosion!",
+      "summary": "Physicists calculated what would happen if you tried to split a photon — a particle of light. Instead of two pieces, you'd get a burst of up to infinite new photons. The math shows quantum weirdness at its best."
     }
   ]
 }

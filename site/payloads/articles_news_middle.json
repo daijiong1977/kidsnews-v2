@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-10-news-1",
-      "source": "Al Jazeera",
-      "time_ago": "Fri, 10 Jul 2026 17:08:44 +0000",
-      "mined_at": "2026-07-10T18:18:41+00:00",
-      "source_published_at": "Fri, 10 Jul 2026 17:08:44 +0000",
-      "image_url": "/article_images/article_c20200721adb.webp",
-      "category": "News",
-      "title": "Egypt's Pharaohs Return to a Hero's Welcome After Historic World Cup Run",
-      "summary": "Hundreds of euphoric fans greeted Egypt's soccer team in el-Alamein after their deepest World Cup run ever. The Pharaohs reached the last 16 for the first time, and captain Mohamed Salah vowed a new era for Egyptian football."
-    },
-    {
-      "id": "2026-07-10-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Fri, 10 Jul 2026 13:48:25 -0400",
-      "mined_at": "2026-07-10T18:18:41+00:00",
-      "source_published_at": "Fri, 10 Jul 2026 13:48:25 -0400",
-      "image_url": "/article_images/article_21c00ea83d86.webp",
-      "category": "News",
-      "title": "Forecasters Warn of a Potentially Historic El Niño—Here's Why It Matters",
-      "summary": "NOAA says the intensifying El Niño has an 81% chance of becoming 'very strong' by fall, rivaling the 1997-1998 event. It's already breaking records and could drive extreme weather and new global temperature highs."
-    },
-    {
-      "id": "2026-07-10-news-3",
+      "id": "2026-07-11-news-1",
       "source": "NPR World",
-      "time_ago": "Fri, 10 Jul 2026 05:00:00 -0400",
-      "mined_at": "2026-07-10T18:18:41+00:00",
-      "source_published_at": "Fri, 10 Jul 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_bc9f191a854a.webp",
+      "time_ago": "Sat, 11 Jul 2026 11:14:42 -0400",
+      "mined_at": "2026-07-11T18:01:19+00:00",
+      "source_published_at": "Sat, 11 Jul 2026 11:14:42 -0400",
+      "image_url": "/article_images/article_8de6f601865b.webp",
       "category": "News",
-      "title": "FCC Review of E-Rate Program Sparks Fears of Internet Funding Cuts for Schools",
-      "summary": "The FCC is scrutinizing the E-Rate program, which subsidizes internet for schools and libraries. Educators fear the review could lead to reduced funding, forcing districts to shoulder huge monthly costs."
+      "title": "The World’s Largest Steam Locomotive Is Thundering Across America—Here’s Why It’s a Big Deal",
+      "summary": "Union Pacific’s Big Boy No. 4014, a 1.2-million-pound steam locomotive, is touring the U.S. for the nation’s 250th anniversary. It’s the only one of its kind still operating, and crowds are flocking to see it."
+    },
+    {
+      "id": "2026-07-11-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Sat, 11 Jul 2026 13:13:39 -0400",
+      "mined_at": "2026-07-11T18:01:19+00:00",
+      "source_published_at": "Sat, 11 Jul 2026 13:13:39 -0400",
+      "image_url": "/article_images/article_c62899141f8f.webp",
+      "category": "News",
+      "title": "FBI Delivers Subpoenas to NYT Reporters Over Air Force One Leaks, Sparking Press Freedom Alarm",
+      "summary": "Four New York Times journalists were subpoenaed after reporting on security flaws in the new Air Force One. The Justice Department says it’s targeting leakers, but press advocates call it an unprecedented intimidation tactic."
+    },
+    {
+      "id": "2026-07-11-news-3",
+      "source": "NPR World",
+      "time_ago": "Sat, 11 Jul 2026 12:35:24 -0400",
+      "mined_at": "2026-07-11T18:01:19+00:00",
+      "source_published_at": "Sat, 11 Jul 2026 12:35:24 -0400",
+      "image_url": "/article_images/article_86329928aeb5.webp",
+      "category": "News",
+      "title": "NYT Reporters Subpoenaed Over Air Force One Security Leaks, Escalating Trump’s Press Crackdown",
+      "summary": "Federal agents delivered subpoenas to four New York Times journalists after they reported that the new Air Force One lacks critical defenses. The Justice Department says it’s targeting leakers, but press advocates see a dangerous pattern of intimidation."
     }
   ]
 }
