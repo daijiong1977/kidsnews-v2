@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-11-fun-1",
-      "source": "DOGOnews",
-      "time_ago": "",
-      "mined_at": "2026-07-11T18:01:19+00:00",
-      "source_published_at": "",
-      "image_url": "/article_images/article_b953aaea4508.webp",
-      "category": "Fun",
-      "title": "Velcro-Finned Fish Conquer 50-Foot Vertical Waterfall",
-      "summary": "In a stunning display of nature's ingenuity, shellear fish use microscopic hooks on their fins to scale the 50-foot Luvilombo Falls in the Democratic Republic of Congo. The grueling climb can take up to 10 hours, with many fish tumbling back down and starting over."
-    },
-    {
-      "id": "2026-07-11-fun-2",
+      "id": "2026-07-12-fun-1",
       "source": "BBC Tennis",
-      "time_ago": "Sat, 11 Jul 2026 15:36:56 GMT",
-      "mined_at": "2026-07-11T18:01:19+00:00",
-      "source_published_at": "Sat, 11 Jul 2026 15:36:56 GMT",
-      "image_url": "/article_images/article_3a67eaedfb08.webp",
+      "time_ago": "Sun, 12 Jul 2026 05:19:17 GMT",
+      "mined_at": "2026-07-12T18:01:02+00:00",
+      "source_published_at": "Sun, 12 Jul 2026 05:19:17 GMT",
+      "image_url": "/article_images/article_d31d2d82b494.webp",
       "category": "Fun",
-      "title": "Patten and Heliovaara Reclaim Wimbledon Doubles Crown in Thrilling Tie-Break Victory",
-      "summary": "World No. 1 duo Henry Patten and Harri Heliovaara defeated Arevalo and Pavic 7-6(4), 7-6(3) to win their second Wimbledon men's doubles title. Patten used the victory speech to defend doubles tennis against proposed ATP cuts, calling it 'a fantastic example of the joy that doubles can bring.'"
+      "title": "Sinner vs. Zverev: Why a 9-Match Losing Streak Might Not Matter in the Wimbledon Final",
+      "summary": "Jannik Sinner has dominated Alexander Zverev for years, but Zverev's first Grand Slam title at the French Open has changed the equation. Sinner calls the Wimbledon final \"very, very tough\" and \"very different\" from their past matches."
     },
     {
-      "id": "2026-07-11-fun-3",
-      "source": "Variety",
-      "time_ago": "Sat, 11 Jul 2026 17:36:48 +0000",
-      "mined_at": "2026-07-11T18:01:19+00:00",
-      "source_published_at": "Sat, 11 Jul 2026 17:36:48 +0000",
-      "image_url": "/article_images/article_e15f7efb7277.webp",
+      "id": "2026-07-12-fun-2",
+      "source": "Polygon",
+      "time_ago": "Sun, 12 Jul 2026 17:05:19 GMT",
+      "mined_at": "2026-07-12T18:01:02+00:00",
+      "source_published_at": "Sun, 12 Jul 2026 17:05:19 GMT",
+      "image_url": "/article_images/article_9593f635f06e.webp",
       "category": "Fun",
-      "title": "Barbara Ling, Oscar-Winning Production Designer Who Rebuilt 1969 Hollywood, Dies at 73",
-      "summary": "Barbara Ling, the Oscar-winning production designer behind 'Once Upon a Time in Hollywood,' has died at 73. She also designed Batman films and the Michael Jackson biopic 'Michael.'"
+      "title": "Matt Damon Knows You're Making Stranded-in-Space Jokes—and He's Here for It",
+      "summary": "From The Martian to Interstellar to The Odyssey, Matt Damon's characters keep getting stranded. The actor embraces the memes, joking about the billions spent to rescue him on screen. The Odyssey hits theaters July 17."
+    },
+    {
+      "id": "2026-07-12-fun-3",
+      "source": "BBC Tennis",
+      "time_ago": "Sun, 12 Jul 2026 11:53:51 GMT",
+      "mined_at": "2026-07-12T18:01:02+00:00",
+      "source_published_at": "Sun, 12 Jul 2026 11:53:51 GMT",
+      "image_url": "/article_images/article_e9ebb3b29054.webp",
+      "category": "Fun",
+      "title": "10 Double Faults and a 6-1, 6-1 Loss: Alfie Hewett's Wimbledon Final Nightmare",
+      "summary": "Alfie Hewett's serve collapsed in the Wimbledon wheelchair final, handing Tokito Oda a dominant 6-1, 6-1 victory. Hewett joked Oda \"didn't read the script,\" while Oda extended his Grand Slam winning streak to six straight titles."
     }
   ]
 }

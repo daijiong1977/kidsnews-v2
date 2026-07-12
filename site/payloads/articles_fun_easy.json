@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-11-fun-1",
-      "source": "DOGOnews",
-      "time_ago": "",
-      "mined_at": "2026-07-11T18:01:19+00:00",
-      "source_published_at": "",
-      "image_url": "/article_images/article_b953aaea4508.webp",
-      "category": "Fun",
-      "title": "French Fry-Sized Fish Climbs a 50-Foot Waterfall!",
-      "summary": "Tiny shellear fish, no bigger than a French fry, climb straight up the 50-foot Luvilombo Falls in Africa. Their secret? Front fins covered in microscopic hooks that work like Velcro. The journey can take 10 hours!"
-    },
-    {
-      "id": "2026-07-11-fun-2",
+      "id": "2026-07-12-fun-1",
       "source": "BBC Tennis",
-      "time_ago": "Sat, 11 Jul 2026 15:36:56 GMT",
-      "mined_at": "2026-07-11T18:01:19+00:00",
-      "source_published_at": "Sat, 11 Jul 2026 15:36:56 GMT",
-      "image_url": "/article_images/article_3a67eaedfb08.webp",
+      "time_ago": "Sun, 12 Jul 2026 05:19:17 GMT",
+      "mined_at": "2026-07-12T18:01:02+00:00",
+      "source_published_at": "Sun, 12 Jul 2026 05:19:17 GMT",
+      "image_url": "/article_images/article_d31d2d82b494.webp",
       "category": "Fun",
-      "title": "Tennis Besties Patten and Heliovaara Win Wimbledon Again!",
-      "summary": "Henry Patten and Harri Heliovaara won their second Wimbledon men's doubles title, beating Arevalo and Pavic in two tie-breaks. Patten called Heliovaara 'the best partner in the world' and even did a forward roll to celebrate!"
+      "title": "Why is the World's Best Tennis Player Worried About a Guy He's Beaten 9 Times in a Row?",
+      "summary": "Jannik Sinner hasn't lost to Alexander Zverev in nine matches, but he's nervous for the Wimbledon final. Zverev just won his first Grand Slam, and that changes everything. The match is on Sunday."
     },
     {
-      "id": "2026-07-11-fun-3",
-      "source": "Variety",
-      "time_ago": "Sat, 11 Jul 2026 17:36:48 +0000",
-      "mined_at": "2026-07-11T18:01:19+00:00",
-      "source_published_at": "Sat, 11 Jul 2026 17:36:48 +0000",
-      "image_url": "/article_images/article_e15f7efb7277.webp",
+      "id": "2026-07-12-fun-2",
+      "source": "Polygon",
+      "time_ago": "Sun, 12 Jul 2026 17:05:19 GMT",
+      "mined_at": "2026-07-12T18:01:02+00:00",
+      "source_published_at": "Sun, 12 Jul 2026 17:05:19 GMT",
+      "image_url": "/article_images/article_9593f635f06e.webp",
       "category": "Fun",
-      "title": "The Woman Who Built 1969 Hollywood for the Big Screen Has Died",
-      "summary": "Barbara Ling, the Oscar-winning designer who built 1969 Hollywood for 'Once Upon a Time in Hollywood,' has died at 73. She also worked on Batman movies and a Michael Jackson film."
+      "title": "Matt Damon Loves the Memes About Him Getting Stranded—and He Wants More!",
+      "summary": "Actor Matt Damon has been stranded in so many movies that it's become a joke. He says the memes are funny and he's ready to get stuck again. His new movie, The Odyssey, is in theaters July 17."
+    },
+    {
+      "id": "2026-07-12-fun-3",
+      "source": "BBC Tennis",
+      "time_ago": "Sun, 12 Jul 2026 11:53:51 GMT",
+      "mined_at": "2026-07-12T18:01:02+00:00",
+      "source_published_at": "Sun, 12 Jul 2026 11:53:51 GMT",
+      "image_url": "/article_images/article_e9ebb3b29054.webp",
+      "category": "Fun",
+      "title": "Oops! 10 Double Faults and a Super-Fast Loss—But This Tennis Champ Still Smiled",
+      "summary": "Alfie Hewett lost the Wimbledon wheelchair final 6-1, 6-1 to Tokito Oda. He served 10 double faults, but still joked that Oda \"didn't read the script.\" Oda has now won six Grand Slams in a row."
     }
   ]
 }

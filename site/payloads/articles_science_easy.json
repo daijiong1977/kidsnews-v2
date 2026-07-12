@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-11-science-1",
-      "source": "Space.com",
-      "time_ago": "Sat, 11 Jul 2026 16:00:00 +0000",
-      "mined_at": "2026-07-11T18:01:19+00:00",
-      "source_published_at": "Sat, 11 Jul 2026 16:00:00 +0000",
-      "image_url": "/article_images/article_7595400e2e81.webp",
-      "category": "Science",
-      "title": "Your Lost Dog Can Now Call Home from Anywhere — Even the Middle of Nowhere!",
-      "summary": "A new dog collar connects to satellites, so if your pup runs off in the woods with no cell signal, you can still find them. Fi's Ultra tracker uses SpaceX's Starlink to send your dog's location from almost anywhere on Earth."
-    },
-    {
-      "id": "2026-07-11-science-2",
+      "id": "2026-07-12-science-1",
       "source": "ScienceDaily Top Technology",
-      "time_ago": "Sat, 11 Jul 2026 03:03:53 EDT",
-      "mined_at": "2026-07-11T18:01:19+00:00",
-      "source_published_at": "Sat, 11 Jul 2026 03:03:53 EDT",
-      "image_url": "/article_images/article_cb9462b82635.webp",
+      "time_ago": "Sun, 12 Jul 2026 08:28:41 EDT",
+      "mined_at": "2026-07-12T18:01:02+00:00",
+      "source_published_at": "Sun, 12 Jul 2026 08:28:41 EDT",
+      "image_url": "/article_images/article_e96d5c8c9226.webp",
       "category": "Science",
-      "title": "Scientists Just Built a Weird Quantum Material That Was Only a Dream for 10 Years!",
-      "summary": "Physicists in Finland created a super-thin crystal that lets electricity flow only along its edges. This \"topological crystalline insulator\" was predicted over a decade ago but never made until now. It could lead to faster, cooler electronics."
+      "title": "Scientists Build a Fake Spinning Black Hole — and It Actually Works!",
+      "summary": "A team of physicists built a device that acts like a super-fast spinning black hole, but it doesn’t move at all! They used it to pull energy from waves, just like a real black hole might. This could lead to better wireless tech and help us understand the universe."
     },
     {
-      "id": "2026-07-11-science-3",
-      "source": "Science News Explores",
-      "time_ago": "Thu, 09 Jul 2026 10:30:00 +0000",
-      "mined_at": "2026-07-11T18:01:19+00:00",
-      "source_published_at": "Thu, 09 Jul 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_e02692745b7c.webp",
+      "id": "2026-07-12-science-2",
+      "source": "Space.com",
+      "time_ago": "Sun, 12 Jul 2026 16:00:00 +0000",
+      "mined_at": "2026-07-12T18:01:02+00:00",
+      "source_published_at": "Sun, 12 Jul 2026 16:00:00 +0000",
+      "image_url": "/article_images/article_38ccec245a1a.webp",
       "category": "Science",
-      "title": "What If You Tried to Chop a Particle of Light in Half? You'd Get a Crazy Light Explosion!",
-      "summary": "Physicists calculated what would happen if you tried to split a photon — a particle of light. Instead of two pieces, you'd get a burst of up to infinite new photons. The math shows quantum weirdness at its best."
+      "title": "Why Space Games Can’t Show You How Huge Space Really Is",
+      "summary": "Space is so big that if you shrunk the sun to a grapefruit, Earth would be a tiny dot 49 feet away. Game makers have to cheat to make space fun — real travel would be boring and empty. They use tricks to balance awe and playability."
+    },
+    {
+      "id": "2026-07-12-science-3",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Sun, 12 Jul 2026 08:14:55 EDT",
+      "mined_at": "2026-07-12T18:01:02+00:00",
+      "source_published_at": "Sun, 12 Jul 2026 08:14:55 EDT",
+      "image_url": "/article_images/article_1650a6cd5f76.webp",
+      "category": "Science",
+      "title": "The Deep Ocean Has a Secret Snack Bar — and It’s Powered by Pressure!",
+      "summary": "Tiny particles called marine snow sink deep into the ocean, and the huge pressure squeezes out food for microbes. Scientists found that up to half the carbon leaks out, feeding deep-sea life. This changes how we think about ocean carbon storage."
     }
   ]
 }

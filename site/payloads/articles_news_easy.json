@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-07-12-news-1",
-      "source": "Al Jazeera",
-      "time_ago": "Sun, 12 Jul 2026 03:50:27 +0000",
-      "mined_at": "2026-07-12T05:06:42+00:00",
-      "source_published_at": "Sun, 12 Jul 2026 03:50:27 +0000",
-      "image_url": "/article_images/article_730a9057a19c.webp",
+      "source": "NPR World",
+      "time_ago": "Sat, 11 Jul 2026 23:45:57 -0400",
+      "mined_at": "2026-07-12T18:01:02+00:00",
+      "source_published_at": "Sat, 11 Jul 2026 23:45:57 -0400",
+      "image_url": "/article_images/article_1e662b7c615d.webp",
       "category": "News",
-      "title": "Alvarez’s Rocket Launches Argentina Past Switzerland in World Cup Thriller",
-      "summary": "Julian Alvarez blasted a 25-yard rocket in extra time to send Argentina past Switzerland 3-1. Now the defending champs face England in the semifinals on Wednesday in Atlanta."
+      "title": "Messi's Magic Runs Out, But Argentina Finds a New Hero!",
+      "summary": "Argentina was tied 1-1 against Switzerland and almost out of the World Cup—until Julián Alvarez blasted a rocket shot in extra time. They won 3-1 and will face England next. Messi didn't score for the first time in 10 games!"
     },
     {
       "id": "2026-07-12-news-2",
-      "source": "NPR World",
-      "time_ago": "Sat, 11 Jul 2026 19:46:50 -0400",
-      "mined_at": "2026-07-12T05:06:42+00:00",
-      "source_published_at": "Sat, 11 Jul 2026 19:46:50 -0400",
-      "image_url": "/article_images/article_8b9ae58f5176.webp",
+      "source": "BBC News",
+      "time_ago": "Sun, 12 Jul 2026 12:19:03 GMT",
+      "mined_at": "2026-07-12T18:01:02+00:00",
+      "source_published_at": "Sun, 12 Jul 2026 12:19:03 GMT",
+      "image_url": "/article_images/article_0cdb060ba8f4.webp",
       "category": "News",
-      "title": "Bellingham’s Extra-Time Heroics Send England Past Norway in a Scorcher",
-      "summary": "Jude Bellingham scored in the 93rd minute to lift England over Norway 2-1 in a sweltering World Cup quarterfinal. England now faces Argentina in the semifinals on Wednesday in Atlanta."
+      "title": "England's Coach Is Grumpy Even Though They Keep Winning!",
+      "summary": "England beat Norway to reach the World Cup semifinals, but their coach Thomas Tuchel said he wasn't happy with how they played. He called them 'sloppy' and 'lucky.' Star player Jude Bellingham scored twice to save the day again."
     },
     {
       "id": "2026-07-12-news-3",
       "source": "PBS NewsHour",
-      "time_ago": "Sat, 11 Jul 2026 19:21:44 -0400",
-      "mined_at": "2026-07-12T05:06:42+00:00",
-      "source_published_at": "Sat, 11 Jul 2026 19:21:44 -0400",
-      "image_url": "/article_images/article_8f3e8643d494.webp",
+      "time_ago": "Sun, 12 Jul 2026 11:38:23 -0400",
+      "mined_at": "2026-07-12T18:01:02+00:00",
+      "source_published_at": "Sun, 12 Jul 2026 11:38:23 -0400",
+      "image_url": "/article_images/article_69d86d054030.webp",
       "category": "News",
-      "title": "Famous Guggenheim Museum Caught Up in NYC Legionnaires’ Outbreak",
-      "summary": "The Guggenheim Museum is one of 31 buildings in Manhattan that tested positive for Legionella bacteria. Over 50 people have been diagnosed, but no deaths are reported, and the museum has already cleaned its cooling towers."
+      "title": "Ukraine's Prime Minister Steps Down—What's Going On?",
+      "summary": "Ukraine's Prime Minister Yulia Svyrydenko resigned on Sunday. President Zelenskyy said he offered her a new important job as part of a big government shake-up. This is the fourth major change since Russia's invasion started."
     }
   ]
 }

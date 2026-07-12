@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-07-12-news-1",
-      "source": "Al Jazeera",
-      "time_ago": "Sun, 12 Jul 2026 03:50:27 +0000",
-      "mined_at": "2026-07-12T05:06:42+00:00",
-      "source_published_at": "Sun, 12 Jul 2026 03:50:27 +0000",
-      "image_url": "/article_images/article_730a9057a19c.webp",
+      "source": "NPR World",
+      "time_ago": "Sat, 11 Jul 2026 23:45:57 -0400",
+      "mined_at": "2026-07-12T18:01:02+00:00",
+      "source_published_at": "Sat, 11 Jul 2026 23:45:57 -0400",
+      "image_url": "/article_images/article_1e662b7c615d.webp",
       "category": "News",
-      "title": "Alvarez’s Extra-Time Thunderbolt Sends Argentina Past Switzerland, Sets Up Semifinal with England",
-      "summary": "Julian Alvarez unleashed a 25-yard rocket in the 112th minute to break a deadlock and push Argentina past 10-man Switzerland 3-1. The defending champions now face England in a high-stakes semifinal on Wednesday in Atlanta."
+      "title": "Argentina Escapes Swiss Trap as Alvarez's Rocket Sends Them to Semis",
+      "summary": "Trailing 1-1 deep into extra time, Argentina looked headed for a penalty shootout—until Julián Alvarez unleashed a stunning strike in the 112th minute. The 3-1 win sets up a semifinal clash with England. Messi's record goal streak ended at nine games."
     },
     {
       "id": "2026-07-12-news-2",
-      "source": "NPR World",
-      "time_ago": "Sat, 11 Jul 2026 19:46:50 -0400",
-      "mined_at": "2026-07-12T05:06:42+00:00",
-      "source_published_at": "Sat, 11 Jul 2026 19:46:50 -0400",
-      "image_url": "/article_images/article_8b9ae58f5176.webp",
+      "source": "BBC News",
+      "time_ago": "Sun, 12 Jul 2026 12:19:03 GMT",
+      "mined_at": "2026-07-12T18:01:02+00:00",
+      "source_published_at": "Sun, 12 Jul 2026 12:19:03 GMT",
+      "image_url": "/article_images/article_0cdb060ba8f4.webp",
       "category": "News",
-      "title": "Bellingham’s Late Strike in Sweltering Heat Sends England Past Norway to World Cup Semifinals",
-      "summary": "Jude Bellingham scored in the 93rd minute of extra time to give England a 2-1 victory over Norway in a quarterfinal played in dangerous 108-degree heat. England now meets Argentina in the semifinals on Wednesday in Atlanta."
+      "title": "Tuchel Fumes Despite England's Gritty Win: 'We Were Sloppy and Lucky'",
+      "summary": "England edged Norway to reach the World Cup semis, but manager Thomas Tuchel blasted the performance as 'sloppy' and full of 'technical mistakes.' Jude Bellingham's brace papered over the cracks. Tuchel demands a more deliberate, patterned attacking style."
     },
     {
       "id": "2026-07-12-news-3",
       "source": "PBS NewsHour",
-      "time_ago": "Sat, 11 Jul 2026 19:21:44 -0400",
-      "mined_at": "2026-07-12T05:06:42+00:00",
-      "source_published_at": "Sat, 11 Jul 2026 19:21:44 -0400",
-      "image_url": "/article_images/article_8f3e8643d494.webp",
+      "time_ago": "Sun, 12 Jul 2026 11:38:23 -0400",
+      "mined_at": "2026-07-12T18:01:02+00:00",
+      "source_published_at": "Sun, 12 Jul 2026 11:38:23 -0400",
+      "image_url": "/article_images/article_69d86d054030.webp",
       "category": "News",
-      "title": "Guggenheim Museum Among Buildings Testing Positive for Legionella in NYC Outbreak",
-      "summary": "The iconic Guggenheim Museum was one of 31 Upper East Side buildings that tested positive for Legionella bacteria, prompting city-ordered disinfection. Over 50 cases have been diagnosed in the cluster, with no deaths reported so far."
+      "title": "Zelenskyy Reshuffles Cabinet as PM Svyrydenko Steps Down Amid War Pressures",
+      "summary": "Ukrainian Prime Minister Yulia Svyrydenko resigned Sunday, with President Zelenskyy announcing a broader government overhaul—the fourth since Russia's full-scale invasion. Svyrydenko, 39, was offered a new role focused on a key international partner."
     }
   ]
 }

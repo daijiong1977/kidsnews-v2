@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-11-science-1",
-      "source": "Space.com",
-      "time_ago": "Sat, 11 Jul 2026 16:00:00 +0000",
-      "mined_at": "2026-07-11T18:01:19+00:00",
-      "source_published_at": "Sat, 11 Jul 2026 16:00:00 +0000",
-      "image_url": "/article_images/article_7595400e2e81.webp",
-      "category": "Science",
-      "title": "No Cell Signal? No Problem: The First Satellite Dog Collar Is Here",
-      "summary": "Fi's new Ultra tracker connects to SpaceX's Starlink satellites, so your dog's location reaches you even in remote areas with zero cellular coverage. It's the first wearable for pets that uses direct-to-cell satellite tech, launching July 8."
-    },
-    {
-      "id": "2026-07-11-science-2",
+      "id": "2026-07-12-science-1",
       "source": "ScienceDaily Top Technology",
-      "time_ago": "Sat, 11 Jul 2026 03:03:53 EDT",
-      "mined_at": "2026-07-11T18:01:19+00:00",
-      "source_published_at": "Sat, 11 Jul 2026 03:03:53 EDT",
-      "image_url": "/article_images/article_cb9462b82635.webp",
+      "time_ago": "Sun, 12 Jul 2026 08:28:41 EDT",
+      "mined_at": "2026-07-12T18:01:02+00:00",
+      "source_published_at": "Sun, 12 Jul 2026 08:28:41 EDT",
+      "image_url": "/article_images/article_e96d5c8c9226.webp",
       "category": "Science",
-      "title": "After a Decade of Trying, Physicists Finally Create a Long-Sought Quantum Material",
-      "summary": "Finnish researchers have fabricated the first 2D topological crystalline insulator, a quantum material predicted over 10 years ago. The atom-thin tin telluride film conducts electricity only along its edges, a property stable at room temperature."
+      "title": "No Spin Zone? Lab Device Mimics Black Hole’s Energy-Sucking Power",
+      "summary": "Physicists built a stationary device that simulates extreme rotation, demonstrating the Penrose-Zel’dovich effect. Waves gained energy from the synthetic spin, confirming a 50-year-old theory. The breakthrough could advance wireless tech and quantum science."
     },
     {
-      "id": "2026-07-11-science-3",
-      "source": "Science News Explores",
-      "time_ago": "Thu, 09 Jul 2026 10:30:00 +0000",
-      "mined_at": "2026-07-11T18:01:19+00:00",
-      "source_published_at": "Thu, 09 Jul 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_e02692745b7c.webp",
+      "id": "2026-07-12-science-2",
+      "source": "Space.com",
+      "time_ago": "Sun, 12 Jul 2026 16:00:00 +0000",
+      "mined_at": "2026-07-12T18:01:02+00:00",
+      "source_published_at": "Sun, 12 Jul 2026 16:00:00 +0000",
+      "image_url": "/article_images/article_38ccec245a1a.webp",
       "category": "Science",
-      "title": "Splitting a Photon Would Unleash a Quantum Cascade of New Light Particles",
-      "summary": "A new theoretical study shows that attempting to sever a single photon would spawn a superposition of up to infinite photons. The bizarre prediction hinges on quantum vacuum fluctuations and the wave nature of light."
+      "title": "The Universe Is Too Big for Video Games — Here’s How Devs Fake It",
+      "summary": "Space’s true scale defies gaming: at a 1:10 billion scale, walking to the nearest star would cross the U.S. Developers compress distances and use visual tricks to balance realism and fun, while preserving a sense of cosmic awe."
+    },
+    {
+      "id": "2026-07-12-science-3",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Sun, 12 Jul 2026 08:14:55 EDT",
+      "mined_at": "2026-07-12T18:01:02+00:00",
+      "source_published_at": "Sun, 12 Jul 2026 08:14:55 EDT",
+      "image_url": "/article_images/article_1650a6cd5f76.webp",
+      "category": "Science",
+      "title": "Deep-Sea Microbes Get a Pressure-Cooked Meal from Marine Snow",
+      "summary": "At depths of 2–6 km, hydrostatic pressure squeezes dissolved organic matter from marine snow, fueling microbial growth. Up to half the carbon leaks, challenging assumptions about carbon burial. The finding reshapes ocean carbon cycle models."
     }
   ]
 }
