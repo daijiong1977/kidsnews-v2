@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-11-news-1",
-      "source": "NPR World",
-      "time_ago": "Sat, 11 Jul 2026 11:14:42 -0400",
-      "mined_at": "2026-07-11T18:01:19+00:00",
-      "source_published_at": "Sat, 11 Jul 2026 11:14:42 -0400",
-      "image_url": "/article_images/article_8de6f601865b.webp",
+      "id": "2026-07-12-news-1",
+      "source": "Al Jazeera",
+      "time_ago": "Sun, 12 Jul 2026 03:50:27 +0000",
+      "mined_at": "2026-07-12T05:06:42+00:00",
+      "source_published_at": "Sun, 12 Jul 2026 03:50:27 +0000",
+      "image_url": "/article_images/article_730a9057a19c.webp",
       "category": "News",
-      "title": "The World’s Largest Steam Locomotive Is Thundering Across America—Here’s Why It’s a Big Deal",
-      "summary": "Union Pacific’s Big Boy No. 4014, a 1.2-million-pound steam locomotive, is touring the U.S. for the nation’s 250th anniversary. It’s the only one of its kind still operating, and crowds are flocking to see it."
+      "title": "Alvarez’s Extra-Time Thunderbolt Sends Argentina Past Switzerland, Sets Up Semifinal with England",
+      "summary": "Julian Alvarez unleashed a 25-yard rocket in the 112th minute to break a deadlock and push Argentina past 10-man Switzerland 3-1. The defending champions now face England in a high-stakes semifinal on Wednesday in Atlanta."
     },
     {
-      "id": "2026-07-11-news-2",
+      "id": "2026-07-12-news-2",
+      "source": "NPR World",
+      "time_ago": "Sat, 11 Jul 2026 19:46:50 -0400",
+      "mined_at": "2026-07-12T05:06:42+00:00",
+      "source_published_at": "Sat, 11 Jul 2026 19:46:50 -0400",
+      "image_url": "/article_images/article_8b9ae58f5176.webp",
+      "category": "News",
+      "title": "Bellingham’s Late Strike in Sweltering Heat Sends England Past Norway to World Cup Semifinals",
+      "summary": "Jude Bellingham scored in the 93rd minute of extra time to give England a 2-1 victory over Norway in a quarterfinal played in dangerous 108-degree heat. England now meets Argentina in the semifinals on Wednesday in Atlanta."
+    },
+    {
+      "id": "2026-07-12-news-3",
       "source": "PBS NewsHour",
-      "time_ago": "Sat, 11 Jul 2026 13:13:39 -0400",
-      "mined_at": "2026-07-11T18:01:19+00:00",
-      "source_published_at": "Sat, 11 Jul 2026 13:13:39 -0400",
-      "image_url": "/article_images/article_c62899141f8f.webp",
+      "time_ago": "Sat, 11 Jul 2026 19:21:44 -0400",
+      "mined_at": "2026-07-12T05:06:42+00:00",
+      "source_published_at": "Sat, 11 Jul 2026 19:21:44 -0400",
+      "image_url": "/article_images/article_8f3e8643d494.webp",
       "category": "News",
-      "title": "FBI Delivers Subpoenas to NYT Reporters Over Air Force One Leaks, Sparking Press Freedom Alarm",
-      "summary": "Four New York Times journalists were subpoenaed after reporting on security flaws in the new Air Force One. The Justice Department says it’s targeting leakers, but press advocates call it an unprecedented intimidation tactic."
-    },
-    {
-      "id": "2026-07-11-news-3",
-      "source": "NPR World",
-      "time_ago": "Sat, 11 Jul 2026 12:35:24 -0400",
-      "mined_at": "2026-07-11T18:01:19+00:00",
-      "source_published_at": "Sat, 11 Jul 2026 12:35:24 -0400",
-      "image_url": "/article_images/article_86329928aeb5.webp",
-      "category": "News",
-      "title": "NYT Reporters Subpoenaed Over Air Force One Security Leaks, Escalating Trump’s Press Crackdown",
-      "summary": "Federal agents delivered subpoenas to four New York Times journalists after they reported that the new Air Force One lacks critical defenses. The Justice Department says it’s targeting leakers, but press advocates see a dangerous pattern of intimidation."
+      "title": "Guggenheim Museum Among Buildings Testing Positive for Legionella in NYC Outbreak",
+      "summary": "The iconic Guggenheim Museum was one of 31 Upper East Side buildings that tested positive for Legionella bacteria, prompting city-ordered disinfection. Over 50 cases have been diagnosed in the cluster, with no deaths reported so far."
     }
   ]
 }

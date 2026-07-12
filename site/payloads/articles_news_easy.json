@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-11-news-1",
-      "source": "NPR World",
-      "time_ago": "Sat, 11 Jul 2026 11:14:42 -0400",
-      "mined_at": "2026-07-11T18:01:19+00:00",
-      "source_published_at": "Sat, 11 Jul 2026 11:14:42 -0400",
-      "image_url": "/article_images/article_8de6f601865b.webp",
+      "id": "2026-07-12-news-1",
+      "source": "Al Jazeera",
+      "time_ago": "Sun, 12 Jul 2026 03:50:27 +0000",
+      "mined_at": "2026-07-12T05:06:42+00:00",
+      "source_published_at": "Sun, 12 Jul 2026 03:50:27 +0000",
+      "image_url": "/article_images/article_730a9057a19c.webp",
       "category": "News",
-      "title": "A 1.2-Million-Pound Monster Train Is Rolling Across America!",
-      "summary": "The world’s biggest steam train, Big Boy No. 4014, is touring the U.S. for America’s 250th birthday. It’s 133 feet long and weighs 1.2 million pounds—and you can hear its whistle from miles away!"
+      "title": "Alvarez’s Rocket Launches Argentina Past Switzerland in World Cup Thriller",
+      "summary": "Julian Alvarez blasted a 25-yard rocket in extra time to send Argentina past Switzerland 3-1. Now the defending champs face England in the semifinals on Wednesday in Atlanta."
     },
     {
-      "id": "2026-07-11-news-2",
+      "id": "2026-07-12-news-2",
+      "source": "NPR World",
+      "time_ago": "Sat, 11 Jul 2026 19:46:50 -0400",
+      "mined_at": "2026-07-12T05:06:42+00:00",
+      "source_published_at": "Sat, 11 Jul 2026 19:46:50 -0400",
+      "image_url": "/article_images/article_8b9ae58f5176.webp",
+      "category": "News",
+      "title": "Bellingham’s Extra-Time Heroics Send England Past Norway in a Scorcher",
+      "summary": "Jude Bellingham scored in the 93rd minute to lift England over Norway 2-1 in a sweltering World Cup quarterfinal. England now faces Argentina in the semifinals on Wednesday in Atlanta."
+    },
+    {
+      "id": "2026-07-12-news-3",
       "source": "PBS NewsHour",
-      "time_ago": "Sat, 11 Jul 2026 13:13:39 -0400",
-      "mined_at": "2026-07-11T18:01:19+00:00",
-      "source_published_at": "Sat, 11 Jul 2026 13:13:39 -0400",
-      "image_url": "/article_images/article_c62899141f8f.webp",
+      "time_ago": "Sat, 11 Jul 2026 19:21:44 -0400",
+      "mined_at": "2026-07-12T05:06:42+00:00",
+      "source_published_at": "Sat, 11 Jul 2026 19:21:44 -0400",
+      "image_url": "/article_images/article_8f3e8643d494.webp",
       "category": "News",
-      "title": "Reporters Get Subpoenas After Writing About Air Force One—What’s Going On?",
-      "summary": "Four New York Times reporters were ordered to testify in court after they wrote about security concerns on the president’s new plane. The government says it’s about leaks, but press freedom groups are worried."
-    },
-    {
-      "id": "2026-07-11-news-3",
-      "source": "NPR World",
-      "time_ago": "Sat, 11 Jul 2026 12:35:24 -0400",
-      "mined_at": "2026-07-11T18:01:19+00:00",
-      "source_published_at": "Sat, 11 Jul 2026 12:35:24 -0400",
-      "image_url": "/article_images/article_86329928aeb5.webp",
-      "category": "News",
-      "title": "Why Did the FBI Show Up at Reporters’ Doors?",
-      "summary": "Four New York Times reporters got subpoenas after writing about the president’s plane. The government wants to know who told them about security problems on the new Air Force One. Press freedom groups say this is scary."
+      "title": "Famous Guggenheim Museum Caught Up in NYC Legionnaires’ Outbreak",
+      "summary": "The Guggenheim Museum is one of 31 buildings in Manhattan that tested positive for Legionella bacteria. Over 50 people have been diagnosed, but no deaths are reported, and the museum has already cleaned its cooling towers."
     }
   ]
 }
