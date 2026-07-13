@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-12-science-1",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Sun, 12 Jul 2026 08:28:41 EDT",
-      "mined_at": "2026-07-12T18:01:02+00:00",
-      "source_published_at": "Sun, 12 Jul 2026 08:28:41 EDT",
-      "image_url": "/article_images/article_e96d5c8c9226.webp",
-      "category": "Science",
-      "title": "No Spin Zone? Lab Device Mimics Black Hole’s Energy-Sucking Power",
-      "summary": "Physicists built a stationary device that simulates extreme rotation, demonstrating the Penrose-Zel’dovich effect. Waves gained energy from the synthetic spin, confirming a 50-year-old theory. The breakthrough could advance wireless tech and quantum science."
-    },
-    {
-      "id": "2026-07-12-science-2",
+      "id": "2026-07-13-science-1",
       "source": "Space.com",
-      "time_ago": "Sun, 12 Jul 2026 16:00:00 +0000",
-      "mined_at": "2026-07-12T18:01:02+00:00",
-      "source_published_at": "Sun, 12 Jul 2026 16:00:00 +0000",
-      "image_url": "/article_images/article_38ccec245a1a.webp",
+      "time_ago": "Mon, 13 Jul 2026 16:43:47 +0000",
+      "mined_at": "2026-07-13T18:30:45+00:00",
+      "source_published_at": "Mon, 13 Jul 2026 16:43:47 +0000",
+      "image_url": "/article_images/article_86c82ae0355e.webp",
       "category": "Science",
-      "title": "The Universe Is Too Big for Video Games — Here’s How Devs Fake It",
-      "summary": "Space’s true scale defies gaming: at a 1:10 billion scale, walking to the nearest star would cross the U.S. Developers compress distances and use visual tricks to balance realism and fun, while preserving a sense of cosmic awe."
+      "title": "NASA's Artemis III Rocket Assembly Begins: A Crucial Step Toward the Moon",
+      "summary": "The first solid rocket booster segment for Artemis III has arrived at Kennedy Space Center's Vehicle Assembly Building. These twin boosters will provide 7.2 million pounds of thrust—over 75% of the rocket's liftoff power—for a mission testing lunar landing tech."
     },
     {
-      "id": "2026-07-12-science-3",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Sun, 12 Jul 2026 08:14:55 EDT",
-      "mined_at": "2026-07-12T18:01:02+00:00",
-      "source_published_at": "Sun, 12 Jul 2026 08:14:55 EDT",
-      "image_url": "/article_images/article_1650a6cd5f76.webp",
+      "id": "2026-07-13-science-2",
+      "source": "Science News Explores",
+      "time_ago": "Mon, 13 Jul 2026 10:30:00 +0000",
+      "mined_at": "2026-07-13T18:30:45+00:00",
+      "source_published_at": "Mon, 13 Jul 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_2c5d7ee0f8f1.webp",
       "category": "Science",
-      "title": "Deep-Sea Microbes Get a Pressure-Cooked Meal from Marine Snow",
-      "summary": "At depths of 2–6 km, hydrostatic pressure squeezes dissolved organic matter from marine snow, fueling microbial growth. Up to half the carbon leaks, challenging assumptions about carbon burial. The finding reshapes ocean carbon cycle models."
+      "title": "Newly Discovered 'Hydrogenobody' Organelle Drives Methane Burps in Cows",
+      "summary": "A tiny organelle inside gut microbes called ciliates produces hydrogen, fueling methane emissions from cows. Researchers cataloged 65 ciliate species and found that fuzzier types correlate with more methane, offering a potential target for reducing greenhouse gases."
+    },
+    {
+      "id": "2026-07-13-science-3",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Sun, 12 Jul 2026 19:49:47 EDT",
+      "mined_at": "2026-07-13T18:30:45+00:00",
+      "source_published_at": "Sun, 12 Jul 2026 19:49:47 EDT",
+      "image_url": "/article_images/article_c8e7052bf50e.webp",
+      "category": "Science",
+      "title": "Citizen Scientists Uncover the Twisty Evolutionary Path of Harvestmen Fatherhood",
+      "summary": "By combining 30 years of field data with iNaturalist observations, researchers more than doubled documented cases of parental care in harvestmen. They found paternal care evolved repeatedly, sometimes from maternal care, suggesting sexual selection plays a role."
     }
   ]
 }

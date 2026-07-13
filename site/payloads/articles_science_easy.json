@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-12-science-1",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Sun, 12 Jul 2026 08:28:41 EDT",
-      "mined_at": "2026-07-12T18:01:02+00:00",
-      "source_published_at": "Sun, 12 Jul 2026 08:28:41 EDT",
-      "image_url": "/article_images/article_e96d5c8c9226.webp",
-      "category": "Science",
-      "title": "Scientists Build a Fake Spinning Black Hole — and It Actually Works!",
-      "summary": "A team of physicists built a device that acts like a super-fast spinning black hole, but it doesn’t move at all! They used it to pull energy from waves, just like a real black hole might. This could lead to better wireless tech and help us understand the universe."
-    },
-    {
-      "id": "2026-07-12-science-2",
+      "id": "2026-07-13-science-1",
       "source": "Space.com",
-      "time_ago": "Sun, 12 Jul 2026 16:00:00 +0000",
-      "mined_at": "2026-07-12T18:01:02+00:00",
-      "source_published_at": "Sun, 12 Jul 2026 16:00:00 +0000",
-      "image_url": "/article_images/article_38ccec245a1a.webp",
+      "time_ago": "Mon, 13 Jul 2026 16:43:47 +0000",
+      "mined_at": "2026-07-13T18:30:45+00:00",
+      "source_published_at": "Mon, 13 Jul 2026 16:43:47 +0000",
+      "image_url": "/article_images/article_86c82ae0355e.webp",
       "category": "Science",
-      "title": "Why Space Games Can’t Show You How Huge Space Really Is",
-      "summary": "Space is so big that if you shrunk the sun to a grapefruit, Earth would be a tiny dot 49 feet away. Game makers have to cheat to make space fun — real travel would be boring and empty. They use tricks to balance awe and playability."
+      "title": "NASA's Moon Rocket Gets a Giant Lego Piece!",
+      "summary": "A huge rocket booster part just rolled into NASA's giant building in Florida. It's one of two that will give the Artemis III rocket over 75% of its liftoff power—enough to lift 14 jumbo jets!"
     },
     {
-      "id": "2026-07-12-science-3",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Sun, 12 Jul 2026 08:14:55 EDT",
-      "mined_at": "2026-07-12T18:01:02+00:00",
-      "source_published_at": "Sun, 12 Jul 2026 08:14:55 EDT",
-      "image_url": "/article_images/article_1650a6cd5f76.webp",
+      "id": "2026-07-13-science-2",
+      "source": "Science News Explores",
+      "time_ago": "Mon, 13 Jul 2026 10:30:00 +0000",
+      "mined_at": "2026-07-13T18:30:45+00:00",
+      "source_published_at": "Mon, 13 Jul 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_2c5d7ee0f8f1.webp",
       "category": "Science",
-      "title": "The Deep Ocean Has a Secret Snack Bar — and It’s Powered by Pressure!",
-      "summary": "Tiny particles called marine snow sink deep into the ocean, and the huge pressure squeezes out food for microbes. Scientists found that up to half the carbon leaks out, feeding deep-sea life. This changes how we think about ocean carbon storage."
+      "title": "Fuzzy Tummy Bugs Make Cows Burp Methane!",
+      "summary": "Scientists found a tiny new part inside microbes in cow stomachs that makes hydrogen gas. That gas feeds other microbes that produce methane—a powerful greenhouse gas. One cow can burp out 220 pounds of methane a year!"
+    },
+    {
+      "id": "2026-07-13-science-3",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Sun, 12 Jul 2026 19:49:47 EDT",
+      "mined_at": "2026-07-13T18:30:45+00:00",
+      "source_published_at": "Sun, 12 Jul 2026 19:49:47 EDT",
+      "image_url": "/article_images/article_c8e7052bf50e.webp",
+      "category": "Science",
+      "title": "Spider Dads: The Surprising Story of Fatherhood in Creepy-Crawlies",
+      "summary": "Citizen scientists helped discover that daddy longlegs relatives have evolved fatherly care many times. Using iNaturalist, researchers doubled the known cases of egg-guarding dads, finding the behavior appeared, vanished, and reappeared over millions of years."
     }
   ]
 }

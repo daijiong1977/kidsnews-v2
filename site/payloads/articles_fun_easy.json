@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-12-fun-1",
-      "source": "BBC Tennis",
-      "time_ago": "Sun, 12 Jul 2026 05:19:17 GMT",
-      "mined_at": "2026-07-12T18:01:02+00:00",
-      "source_published_at": "Sun, 12 Jul 2026 05:19:17 GMT",
-      "image_url": "/article_images/article_d31d2d82b494.webp",
+      "id": "2026-07-13-fun-1",
+      "source": "Live Science",
+      "time_ago": "Mon, 13 Jul 2026 15:00:00 +0000",
+      "mined_at": "2026-07-13T18:30:45+00:00",
+      "source_published_at": "Mon, 13 Jul 2026 15:00:00 +0000",
+      "image_url": "/article_images/article_236d5f80445d.webp",
       "category": "Fun",
-      "title": "Why is the World's Best Tennis Player Worried About a Guy He's Beaten 9 Times in a Row?",
-      "summary": "Jannik Sinner hasn't lost to Alexander Zverev in nine matches, but he's nervous for the Wimbledon final. Zverev just won his first Grand Slam, and that changes everything. The match is on Sunday."
+      "title": "Raspberry Sugar Found in Space!",
+      "summary": "A sugar found in raspberries was discovered near the center of the Milky Way. It hints that life's ingredients are common in space."
     },
     {
-      "id": "2026-07-12-fun-2",
-      "source": "Polygon",
-      "time_ago": "Sun, 12 Jul 2026 17:05:19 GMT",
-      "mined_at": "2026-07-12T18:01:02+00:00",
-      "source_published_at": "Sun, 12 Jul 2026 17:05:19 GMT",
-      "image_url": "/article_images/article_9593f635f06e.webp",
+      "id": "2026-07-13-fun-2",
+      "source": "DOGOnews",
+      "time_ago": "",
+      "mined_at": "2026-07-13T18:30:45+00:00",
+      "source_published_at": "",
+      "image_url": "/article_images/article_0acc5ba87dbc.webp",
       "category": "Fun",
-      "title": "Matt Damon Loves the Memes About Him Getting Stranded—and He Wants More!",
-      "summary": "Actor Matt Damon has been stranded in so many movies that it's become a joke. He says the memes are funny and he's ready to get stuck again. His new movie, The Odyssey, is in theaters July 17."
+      "title": "A Time Capsule for America's 250th Birthday!",
+      "summary": "A time capsule will be buried in Philadelphia on July 4, 2026, to be opened in 2276. It contains items from all 50 states."
     },
     {
-      "id": "2026-07-12-fun-3",
-      "source": "BBC Tennis",
-      "time_ago": "Sun, 12 Jul 2026 11:53:51 GMT",
-      "mined_at": "2026-07-12T18:01:02+00:00",
-      "source_published_at": "Sun, 12 Jul 2026 11:53:51 GMT",
-      "image_url": "/article_images/article_e9ebb3b29054.webp",
+      "id": "2026-07-13-fun-3",
+      "source": "Wired Gear",
+      "time_ago": "Mon, 13 Jul 2026 17:15:35 +0000",
+      "mined_at": "2026-07-13T18:30:45+00:00",
+      "source_published_at": "Mon, 13 Jul 2026 17:15:35 +0000",
+      "image_url": "/article_images/article_5d55ed187ac7.webp",
       "category": "Fun",
-      "title": "Oops! 10 Double Faults and a Super-Fast Loss—But This Tennis Champ Still Smiled",
-      "summary": "Alfie Hewett lost the Wimbledon wheelchair final 6-1, 6-1 to Tokito Oda. He served 10 double faults, but still joked that Oda \"didn't read the script.\" Oda has now won six Grand Slams in a row."
+      "title": "Tesla Is Building a Robotaxi for Wheelchair Users!",
+      "summary": "Tesla says it's building a wheelchair-accessible self-driving car. No robotaxi company currently offers this."
     }
   ]
 }

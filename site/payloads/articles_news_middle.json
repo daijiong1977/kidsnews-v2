@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-12-news-1",
-      "source": "NPR World",
-      "time_ago": "Sat, 11 Jul 2026 23:45:57 -0400",
-      "mined_at": "2026-07-12T18:01:02+00:00",
-      "source_published_at": "Sat, 11 Jul 2026 23:45:57 -0400",
-      "image_url": "/article_images/article_1e662b7c615d.webp",
-      "category": "News",
-      "title": "Argentina Escapes Swiss Trap as Alvarez's Rocket Sends Them to Semis",
-      "summary": "Trailing 1-1 deep into extra time, Argentina looked headed for a penalty shootout—until Julián Alvarez unleashed a stunning strike in the 112th minute. The 3-1 win sets up a semifinal clash with England. Messi's record goal streak ended at nine games."
-    },
-    {
-      "id": "2026-07-12-news-2",
-      "source": "BBC News",
-      "time_ago": "Sun, 12 Jul 2026 12:19:03 GMT",
-      "mined_at": "2026-07-12T18:01:02+00:00",
-      "source_published_at": "Sun, 12 Jul 2026 12:19:03 GMT",
-      "image_url": "/article_images/article_0cdb060ba8f4.webp",
-      "category": "News",
-      "title": "Tuchel Fumes Despite England's Gritty Win: 'We Were Sloppy and Lucky'",
-      "summary": "England edged Norway to reach the World Cup semis, but manager Thomas Tuchel blasted the performance as 'sloppy' and full of 'technical mistakes.' Jude Bellingham's brace papered over the cracks. Tuchel demands a more deliberate, patterned attacking style."
-    },
-    {
-      "id": "2026-07-12-news-3",
+      "id": "2026-07-13-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Sun, 12 Jul 2026 11:38:23 -0400",
-      "mined_at": "2026-07-12T18:01:02+00:00",
-      "source_published_at": "Sun, 12 Jul 2026 11:38:23 -0400",
-      "image_url": "/article_images/article_69d86d054030.webp",
+      "time_ago": "Mon, 13 Jul 2026 13:51:08 -0400",
+      "mined_at": "2026-07-13T18:30:45+00:00",
+      "source_published_at": "Mon, 13 Jul 2026 13:51:08 -0400",
+      "image_url": "/article_images/article_4b63a35e56b0.webp",
       "category": "News",
-      "title": "Zelenskyy Reshuffles Cabinet as PM Svyrydenko Steps Down Amid War Pressures",
-      "summary": "Ukrainian Prime Minister Yulia Svyrydenko resigned Sunday, with President Zelenskyy announcing a broader government overhaul—the fourth since Russia's full-scale invasion. Svyrydenko, 39, was offered a new role focused on a key international partner."
+      "title": "Europe's New Missile Shield: 10 Nations Pool Ukraine's Battle-Hardened Expertise",
+      "summary": "Ten European nations, led by Ukraine, announced a coalition to build an integrated ballistic missile defense system. They cite Ukraine's four-year experience fending off Russian strikes as crucial to protecting the continent from growing threats."
+    },
+    {
+      "id": "2026-07-13-news-2",
+      "source": "NPR World",
+      "time_ago": "Sun, 12 Jul 2026 20:14:03 -0400",
+      "mined_at": "2026-07-13T18:30:45+00:00",
+      "source_published_at": "Sun, 12 Jul 2026 20:14:03 -0400",
+      "image_url": "/article_images/article_c8469418871b.webp",
+      "category": "News",
+      "title": "Gus the T. rex Hits the Auction Block: Will a Museum or Billionaire Snag the $30 Million Skeleton?",
+      "summary": "A 38-foot T. rex skeleton named Gus is being auctioned at Sotheby’s in New York, with bids starting at $19 million. Discovered in South Dakota in 2021, it’s one of the most complete specimens ever found. The sale raises debate over private ownership of fossils."
+    },
+    {
+      "id": "2026-07-13-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Mon, 13 Jul 2026 16:10:55 +0000",
+      "mined_at": "2026-07-13T18:30:45+00:00",
+      "source_published_at": "Mon, 13 Jul 2026 16:10:55 +0000",
+      "image_url": "/article_images/article_671b2213e387.webp",
+      "category": "News",
+      "title": "U.S. Tightens Grip on Cuba: Tourism Ministry and Key Firms Hit with Fresh Sanctions",
+      "summary": "On July 13, the U.S. sanctioned Cuba's tourism ministry and two state-owned giants, GEMAR and GECOMEX, giving businesses until August 12 to cut ties. Over 10 million Cubans lost power last Friday amid a crippling fuel blockade."
     }
   ]
 }
