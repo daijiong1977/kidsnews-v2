@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-13-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Mon, 13 Jul 2026 13:51:08 -0400",
-      "mined_at": "2026-07-13T18:30:45+00:00",
-      "source_published_at": "Mon, 13 Jul 2026 13:51:08 -0400",
-      "image_url": "/article_images/article_4b63a35e56b0.webp",
-      "category": "News",
-      "title": "10 Countries Team Up to Build a Giant Invisible Shield Over Europe!",
-      "summary": "Ukraine and 9 other countries are forming a team to stop dangerous ballistic missiles. They want to use Ukraine’s real battle experience to build a shared defense system for all of Europe."
-    },
-    {
-      "id": "2026-07-13-news-2",
-      "source": "NPR World",
-      "time_ago": "Sun, 12 Jul 2026 20:14:03 -0400",
-      "mined_at": "2026-07-13T18:30:45+00:00",
-      "source_published_at": "Sun, 12 Jul 2026 20:14:03 -0400",
-      "image_url": "/article_images/article_c8469418871b.webp",
-      "category": "News",
-      "title": "A Real T. rex Named Gus Could Be Yours — If You Have $30 Million!",
-      "summary": "A huge T. rex skeleton named Gus is up for auction in New York. It’s 38 feet long and could sell for $30 million. The dinosaur was found in South Dakota in 2021."
-    },
-    {
-      "id": "2026-07-13-news-3",
+      "id": "2026-07-14-news-1",
       "source": "Al Jazeera",
-      "time_ago": "Mon, 13 Jul 2026 16:10:55 +0000",
-      "mined_at": "2026-07-13T18:30:45+00:00",
-      "source_published_at": "Mon, 13 Jul 2026 16:10:55 +0000",
-      "image_url": "/article_images/article_671b2213e387.webp",
+      "time_ago": "Tue, 14 Jul 2026 16:57:42 +0000",
+      "mined_at": "2026-07-14T18:06:07+00:00",
+      "source_published_at": "Tue, 14 Jul 2026 16:57:42 +0000",
+      "image_url": "/article_images/article_79da164a5c9d.webp",
       "category": "News",
-      "title": "No More U.S. Trips to Cuba? New Rules Freeze Tourism Money!",
-      "summary": "The U.S. just put sanctions on Cuba's tourism ministry and two big companies. That means American businesses have until August 12 to stop working with them. Over 10 million people in Cuba lost power last Friday."
+      "title": "Gas Prices Drop in June, But Experts Say the Relief Won’t Last",
+      "summary": "U.S. consumer prices fell in June because energy costs went down. The average gallon of gas dropped to $3.85 from $4.07 last month. But fighting in the Strait of Hormuz could push prices back up soon."
+    },
+    {
+      "id": "2026-07-14-news-2",
+      "source": "BBC News",
+      "time_ago": "Tue, 14 Jul 2026 12:12:53 GMT",
+      "mined_at": "2026-07-14T18:06:07+00:00",
+      "source_published_at": "Tue, 14 Jul 2026 12:12:53 GMT",
+      "image_url": "/article_images/article_c4c12258a901.webp",
+      "category": "News",
+      "title": "UK Wasted £10 Billion on Bad PPE That Failed to Protect Nurses and Doctors",
+      "summary": "A report says the UK wasted nearly £10 billion on masks, gowns, and gloves that didn’t protect health workers during the pandemic. The country’s emergency stockpile was almost empty when COVID hit, and rushed buying led to huge mistakes."
+    },
+    {
+      "id": "2026-07-14-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Tue, 14 Jul 2026 13:24:38 -0400",
+      "mined_at": "2026-07-14T18:06:07+00:00",
+      "source_published_at": "Tue, 14 Jul 2026 13:24:38 -0400",
+      "image_url": "/article_images/article_4734760c1887.webp",
+      "category": "News",
+      "title": "Why a Tiny Waterway Is Causing a Giant Headache for the U.S.",
+      "summary": "The Strait of Hormuz is only 21 miles wide, but 20% of the world's oil passes through it. Now, hidden missiles and drones are keeping tankers away, and experts say it might take tens of thousands of troops to fix."
     }
   ]
 }

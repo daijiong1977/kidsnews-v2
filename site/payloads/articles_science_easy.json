@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-13-science-1",
+      "id": "2026-07-14-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Tue, 14 Jul 2026 00:40:26 EDT",
+      "mined_at": "2026-07-14T18:06:07+00:00",
+      "source_published_at": "Tue, 14 Jul 2026 00:40:26 EDT",
+      "image_url": "/article_images/article_3ba890ac4519.webp",
+      "category": "Science",
+      "title": "NASA's $600 Million Plan to Build a Moon Neighborhood!",
+      "summary": "Imagine a permanent base on the Moon! NASA just picked three companies to deliver science tools in 2028, spending almost $600 million. One tool is a cookie-sized laser reflector to help spacecraft navigate."
+    },
+    {
+      "id": "2026-07-14-science-2",
       "source": "Space.com",
-      "time_ago": "Mon, 13 Jul 2026 16:43:47 +0000",
-      "mined_at": "2026-07-13T18:30:45+00:00",
-      "source_published_at": "Mon, 13 Jul 2026 16:43:47 +0000",
-      "image_url": "/article_images/article_86c82ae0355e.webp",
+      "time_ago": "Tue, 14 Jul 2026 16:00:00 +0000",
+      "mined_at": "2026-07-14T18:06:07+00:00",
+      "source_published_at": "Tue, 14 Jul 2026 16:00:00 +0000",
+      "image_url": "/article_images/article_8c37962127b3.webp",
       "category": "Science",
-      "title": "NASA's Moon Rocket Gets a Giant Lego Piece!",
-      "summary": "A huge rocket booster part just rolled into NASA's giant building in Florida. It's one of two that will give the Artemis III rocket over 75% of its liftoff power—enough to lift 14 jumbo jets!"
+      "title": "A Speedy Star's Invisible Highway Revealed!",
+      "summary": "Astronomers just mapped the magnetic field around a super-fast spinning star called the Lighthouse Pulsar. They found particles zooming along magnetic lines like cars on a highway—and the field is way neater than expected!"
     },
     {
-      "id": "2026-07-13-science-2",
-      "source": "Science News Explores",
-      "time_ago": "Mon, 13 Jul 2026 10:30:00 +0000",
-      "mined_at": "2026-07-13T18:30:45+00:00",
-      "source_published_at": "Mon, 13 Jul 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_2c5d7ee0f8f1.webp",
-      "category": "Science",
-      "title": "Fuzzy Tummy Bugs Make Cows Burp Methane!",
-      "summary": "Scientists found a tiny new part inside microbes in cow stomachs that makes hydrogen gas. That gas feeds other microbes that produce methane—a powerful greenhouse gas. One cow can burp out 220 pounds of methane a year!"
-    },
-    {
-      "id": "2026-07-13-science-3",
+      "id": "2026-07-14-science-3",
       "source": "ScienceDaily Top Environment",
-      "time_ago": "Sun, 12 Jul 2026 19:49:47 EDT",
-      "mined_at": "2026-07-13T18:30:45+00:00",
-      "source_published_at": "Sun, 12 Jul 2026 19:49:47 EDT",
-      "image_url": "/article_images/article_c8e7052bf50e.webp",
+      "time_ago": "Tue, 14 Jul 2026 02:48:52 EDT",
+      "mined_at": "2026-07-14T18:06:07+00:00",
+      "source_published_at": "Tue, 14 Jul 2026 02:48:52 EDT",
+      "image_url": "/article_images/article_33bdbc063c6a.webp",
       "category": "Science",
-      "title": "Spider Dads: The Surprising Story of Fatherhood in Creepy-Crawlies",
-      "summary": "Citizen scientists helped discover that daddy longlegs relatives have evolved fatherly care many times. Using iNaturalist, researchers doubled the known cases of egg-guarding dads, finding the behavior appeared, vanished, and reappeared over millions of years."
+      "title": "A T. rex Tooth Stuck in a Skull Tells a 66-Million-Year-Old Story!",
+      "summary": "A duck-billed dinosaur skull with a T. rex tooth still stuck in its face was found in Montana. Scientists say it shows the T. rex attacked face-to-face—like a prehistoric crime scene!"
     }
   ]
 }

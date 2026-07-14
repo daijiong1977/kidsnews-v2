@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-13-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Mon, 13 Jul 2026 13:51:08 -0400",
-      "mined_at": "2026-07-13T18:30:45+00:00",
-      "source_published_at": "Mon, 13 Jul 2026 13:51:08 -0400",
-      "image_url": "/article_images/article_4b63a35e56b0.webp",
-      "category": "News",
-      "title": "Europe's New Missile Shield: 10 Nations Pool Ukraine's Battle-Hardened Expertise",
-      "summary": "Ten European nations, led by Ukraine, announced a coalition to build an integrated ballistic missile defense system. They cite Ukraine's four-year experience fending off Russian strikes as crucial to protecting the continent from growing threats."
-    },
-    {
-      "id": "2026-07-13-news-2",
-      "source": "NPR World",
-      "time_ago": "Sun, 12 Jul 2026 20:14:03 -0400",
-      "mined_at": "2026-07-13T18:30:45+00:00",
-      "source_published_at": "Sun, 12 Jul 2026 20:14:03 -0400",
-      "image_url": "/article_images/article_c8469418871b.webp",
-      "category": "News",
-      "title": "Gus the T. rex Hits the Auction Block: Will a Museum or Billionaire Snag the $30 Million Skeleton?",
-      "summary": "A 38-foot T. rex skeleton named Gus is being auctioned at Sotheby’s in New York, with bids starting at $19 million. Discovered in South Dakota in 2021, it’s one of the most complete specimens ever found. The sale raises debate over private ownership of fossils."
-    },
-    {
-      "id": "2026-07-13-news-3",
+      "id": "2026-07-14-news-1",
       "source": "Al Jazeera",
-      "time_ago": "Mon, 13 Jul 2026 16:10:55 +0000",
-      "mined_at": "2026-07-13T18:30:45+00:00",
-      "source_published_at": "Mon, 13 Jul 2026 16:10:55 +0000",
-      "image_url": "/article_images/article_671b2213e387.webp",
+      "time_ago": "Tue, 14 Jul 2026 16:57:42 +0000",
+      "mined_at": "2026-07-14T18:06:07+00:00",
+      "source_published_at": "Tue, 14 Jul 2026 16:57:42 +0000",
+      "image_url": "/article_images/article_79da164a5c9d.webp",
       "category": "News",
-      "title": "U.S. Tightens Grip on Cuba: Tourism Ministry and Key Firms Hit with Fresh Sanctions",
-      "summary": "On July 13, the U.S. sanctioned Cuba's tourism ministry and two state-owned giants, GEMAR and GECOMEX, giving businesses until August 12 to cut ties. Over 10 million Cubans lost power last Friday amid a crippling fuel blockade."
+      "title": "June Inflation Cools as Energy Prices Dip, But Strait of Hormuz Clashes Threaten Rebound",
+      "summary": "US consumer prices fell in June, driven by a drop in energy costs, with gas averaging $3.85 per gallon. However, renewed US-Iran tensions have already pushed oil back above $80 a barrel, and analysts warn that $4 gas could return within days."
+    },
+    {
+      "id": "2026-07-14-news-2",
+      "source": "BBC News",
+      "time_ago": "Tue, 14 Jul 2026 12:12:53 GMT",
+      "mined_at": "2026-07-14T18:06:07+00:00",
+      "source_published_at": "Tue, 14 Jul 2026 12:12:53 GMT",
+      "image_url": "/article_images/article_c4c12258a901.webp",
+      "category": "News",
+      "title": "Covid Inquiry: UK Wasted £10bn on PPE That Left NHS Staff ‘Poorly Protected’",
+      "summary": "The UK Covid inquiry found that nearly £10 billion was squandered on inadequate PPE, leaving health workers vulnerable. The emergency stockpile was depleted within weeks of the pandemic, and a flawed procurement system favored connected suppliers."
+    },
+    {
+      "id": "2026-07-14-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Tue, 14 Jul 2026 13:24:38 -0400",
+      "mined_at": "2026-07-14T18:06:07+00:00",
+      "source_published_at": "Tue, 14 Jul 2026 13:24:38 -0400",
+      "image_url": "/article_images/article_4734760c1887.webp",
+      "category": "News",
+      "title": "The Strait of Hormuz Standoff: Why Iran's Hidden Arsenal Keeps a Vital Oil Route Shut",
+      "summary": "Despite months of U.S. airstrikes and threats, Iran's scattered drones and missiles still menace the Strait of Hormuz, where 20% of the world's oil normally flows. Experts say fully reopening it may require a ground invasion—or a massive, risky naval escort operation."
     }
   ]
 }
