@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-14-news-1",
-      "source": "Al Jazeera",
-      "time_ago": "Tue, 14 Jul 2026 16:57:42 +0000",
-      "mined_at": "2026-07-14T18:06:07+00:00",
-      "source_published_at": "Tue, 14 Jul 2026 16:57:42 +0000",
-      "image_url": "/article_images/article_79da164a5c9d.webp",
-      "category": "News",
-      "title": "Gas Prices Drop in June, But Experts Say the Relief Won’t Last",
-      "summary": "U.S. consumer prices fell in June because energy costs went down. The average gallon of gas dropped to $3.85 from $4.07 last month. But fighting in the Strait of Hormuz could push prices back up soon."
-    },
-    {
-      "id": "2026-07-14-news-2",
-      "source": "BBC News",
-      "time_ago": "Tue, 14 Jul 2026 12:12:53 GMT",
-      "mined_at": "2026-07-14T18:06:07+00:00",
-      "source_published_at": "Tue, 14 Jul 2026 12:12:53 GMT",
-      "image_url": "/article_images/article_c4c12258a901.webp",
-      "category": "News",
-      "title": "UK Wasted £10 Billion on Bad PPE That Failed to Protect Nurses and Doctors",
-      "summary": "A report says the UK wasted nearly £10 billion on masks, gowns, and gloves that didn’t protect health workers during the pandemic. The country’s emergency stockpile was almost empty when COVID hit, and rushed buying led to huge mistakes."
-    },
-    {
-      "id": "2026-07-14-news-3",
+      "id": "2026-07-15-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Tue, 14 Jul 2026 13:24:38 -0400",
-      "mined_at": "2026-07-14T18:06:07+00:00",
-      "source_published_at": "Tue, 14 Jul 2026 13:24:38 -0400",
-      "image_url": "/article_images/article_4734760c1887.webp",
+      "time_ago": "Wed, 15 Jul 2026 12:44:29 -0400",
+      "mined_at": "2026-07-15T18:10:11+00:00",
+      "source_published_at": "Wed, 15 Jul 2026 12:44:29 -0400",
+      "image_url": "/article_images/article_664f484ed79d.webp",
       "category": "News",
-      "title": "Why a Tiny Waterway Is Causing a Giant Headache for the U.S.",
-      "summary": "The Strait of Hormuz is only 21 miles wide, but 20% of the world's oil passes through it. Now, hidden missiles and drones are keeping tankers away, and experts say it might take tens of thousands of troops to fix."
+      "title": "Trump Visits Army War College to Talk About Big Military Tech—But There’s a Missile Shortage",
+      "summary": "President Trump spoke at a defense summit in Pennsylvania, promising investments in battlefield technology. But the war in Iran has used up many Tomahawk missiles and Patriot interceptors. It could take three years to restock."
+    },
+    {
+      "id": "2026-07-15-news-2",
+      "source": "BBC News",
+      "time_ago": "Wed, 15 Jul 2026 14:13:44 GMT",
+      "mined_at": "2026-07-15T18:10:11+00:00",
+      "source_published_at": "Wed, 15 Jul 2026 14:13:44 GMT",
+      "image_url": "/article_images/article_594f8e5295de.webp",
+      "category": "News",
+      "title": "UK Prime Minister Keir Starmer Says Goodbye in His Final Question Time—With Jokes and Tears",
+      "summary": "At his last Prime Minister’s Questions, Keir Starmer said it was the “end of my political journey.” MPs from all parties shared jokes and praise. He’ll hand over to Andy Burnham on Monday. Some allies cried."
+    },
+    {
+      "id": "2026-07-15-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Wed, 15 Jul 2026 17:14:07 +0000",
+      "mined_at": "2026-07-15T18:10:11+00:00",
+      "source_published_at": "Wed, 15 Jul 2026 17:14:07 +0000",
+      "image_url": "/article_images/article_51b50f468fb0.webp",
+      "category": "News",
+      "title": "Can the Top Lawyer Be Fair? Senators Ask Tough Questions",
+      "summary": "Imagine your lawyer also had to be fair to everyone, even people you don't like. That's the big question for Todd Blanche, Trump's former personal lawyer, now hoping to lead the whole Justice Department. Senators are worried he might only protect the president."
     }
   ]
 }

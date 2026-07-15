@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-14-science-1",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Tue, 14 Jul 2026 00:40:26 EDT",
-      "mined_at": "2026-07-14T18:06:07+00:00",
-      "source_published_at": "Tue, 14 Jul 2026 00:40:26 EDT",
-      "image_url": "/article_images/article_3ba890ac4519.webp",
-      "category": "Science",
-      "title": "NASA's $600 Million Plan to Build a Moon Neighborhood!",
-      "summary": "Imagine a permanent base on the Moon! NASA just picked three companies to deliver science tools in 2028, spending almost $600 million. One tool is a cookie-sized laser reflector to help spacecraft navigate."
-    },
-    {
-      "id": "2026-07-14-science-2",
+      "id": "2026-07-15-science-1",
       "source": "Space.com",
-      "time_ago": "Tue, 14 Jul 2026 16:00:00 +0000",
-      "mined_at": "2026-07-14T18:06:07+00:00",
-      "source_published_at": "Tue, 14 Jul 2026 16:00:00 +0000",
-      "image_url": "/article_images/article_8c37962127b3.webp",
+      "time_ago": "Wed, 15 Jul 2026 17:09:32 +0000",
+      "mined_at": "2026-07-15T18:10:11+00:00",
+      "source_published_at": "Wed, 15 Jul 2026 17:09:32 +0000",
+      "image_url": "/article_images/article_7766bafc13d6.webp",
       "category": "Science",
-      "title": "A Speedy Star's Invisible Highway Revealed!",
-      "summary": "Astronomers just mapped the magnetic field around a super-fast spinning star called the Lighthouse Pulsar. They found particles zooming along magnetic lines like cars on a highway—and the field is way neater than expected!"
+      "title": "Raspberry Sugar Found in Space! Could It Be a Clue to How Life Began?",
+      "summary": "Scientists just found a sugar called erythrulose in a dusty cloud near the center of our galaxy. It's the same sugar that gives raspberries their flavor — and it might help explain how life started on Earth."
     },
     {
-      "id": "2026-07-14-science-3",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Tue, 14 Jul 2026 02:48:52 EDT",
-      "mined_at": "2026-07-14T18:06:07+00:00",
-      "source_published_at": "Tue, 14 Jul 2026 02:48:52 EDT",
-      "image_url": "/article_images/article_33bdbc063c6a.webp",
+      "id": "2026-07-15-science-2",
+      "source": "Popular Science",
+      "time_ago": "Wed, 15 Jul 2026 11:04:00 -0400",
+      "mined_at": "2026-07-15T18:10:11+00:00",
+      "source_published_at": "Wed, 15 Jul 2026 11:04:00 -0400",
+      "image_url": "/article_images/article_12eb7cf36b7d.webp",
       "category": "Science",
-      "title": "A T. rex Tooth Stuck in a Skull Tells a 66-Million-Year-Old Story!",
-      "summary": "A duck-billed dinosaur skull with a T. rex tooth still stuck in its face was found in Montana. Scientists say it shows the T. rex attacked face-to-face—like a prehistoric crime scene!"
+      "title": "School-Bus-Sized Whale Sharks Spotted Off Florida — and They're Gentle Giants!",
+      "summary": "Scientists in Florida just filmed whale sharks — the biggest fish in the ocean — swimming near the Dry Tortugas. These gentle filter-feeders can grow up to 60 feet long, about the length of a bowling lane."
+    },
+    {
+      "id": "2026-07-15-science-3",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Wed, 15 Jul 2026 08:21:11 EDT",
+      "mined_at": "2026-07-15T18:10:11+00:00",
+      "source_published_at": "Wed, 15 Jul 2026 08:21:11 EDT",
+      "image_url": "/article_images/article_58aabf904085.webp",
+      "category": "Science",
+      "title": "A Mummy With a Secret: Ancient Egyptian Held a Page from Homer's Iliad!",
+      "summary": "Archaeologists in Egypt found a 1,600-year-old mummy with a papyrus tucked on its belly. The text? A famous part of Homer's Iliad — the first time a Greek story was used in mummification."
     }
   ]
 }

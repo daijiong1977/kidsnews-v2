@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-14-science-1",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Tue, 14 Jul 2026 00:40:26 EDT",
-      "mined_at": "2026-07-14T18:06:07+00:00",
-      "source_published_at": "Tue, 14 Jul 2026 00:40:26 EDT",
-      "image_url": "/article_images/article_3ba890ac4519.webp",
-      "category": "Science",
-      "title": "NASA Drops Nearly $600M on Four Lunar Missions to Kickstart Moon Base",
-      "summary": "NASA is accelerating its Moon Base Program with four new CLPS missions in 2028, awarding $600M to Astrobotic, Firefly, and Intuitive Machines. A cookie-sized laser reflector will serve as a permanent navigation marker."
-    },
-    {
-      "id": "2026-07-14-science-2",
+      "id": "2026-07-15-science-1",
       "source": "Space.com",
-      "time_ago": "Tue, 14 Jul 2026 16:00:00 +0000",
-      "mined_at": "2026-07-14T18:06:07+00:00",
-      "source_published_at": "Tue, 14 Jul 2026 16:00:00 +0000",
-      "image_url": "/article_images/article_8c37962127b3.webp",
+      "time_ago": "Wed, 15 Jul 2026 17:09:32 +0000",
+      "mined_at": "2026-07-15T18:10:11+00:00",
+      "source_published_at": "Wed, 15 Jul 2026 17:09:32 +0000",
+      "image_url": "/article_images/article_7766bafc13d6.webp",
       "category": "Science",
-      "title": "First-Ever Magnetic Map of a Pulsar Reveals a Cosmic Particle Highway",
-      "summary": "Using NASA's IXPE telescope, astronomers directly mapped the magnetic field around pulsar PSR J1101−6101 for the first time. They confirmed particles stream along magnetic field lines—and found the field is surprisingly orderly."
+      "title": "A Sweet Surprise in Deep Space: Raspberry Sugar Hints at Life's Cosmic Origins",
+      "summary": "Astronomers have detected erythrulose — a sugar found in raspberries — inside a molecular cloud near the Milky Way's center. It's the first true sugar ever found in the interstellar medium, and it could transform into the building blocks of DNA and RNA."
     },
     {
-      "id": "2026-07-14-science-3",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Tue, 14 Jul 2026 02:48:52 EDT",
-      "mined_at": "2026-07-14T18:06:07+00:00",
-      "source_published_at": "Tue, 14 Jul 2026 02:48:52 EDT",
-      "image_url": "/article_images/article_33bdbc063c6a.webp",
+      "id": "2026-07-15-science-2",
+      "source": "Popular Science",
+      "time_ago": "Wed, 15 Jul 2026 11:04:00 -0400",
+      "mined_at": "2026-07-15T18:10:11+00:00",
+      "source_published_at": "Wed, 15 Jul 2026 11:04:00 -0400",
+      "image_url": "/article_images/article_12eb7cf36b7d.webp",
       "category": "Science",
-      "title": "Embedded T. rex Tooth Reveals Face-to-Face Attack 66 Million Years Ago",
-      "summary": "A nearly complete Edmontosaurus skull with a broken T. rex tooth lodged in its face offers rare evidence of predatory behavior. CT scans suggest a face-to-face attack with deadly force."
+      "title": "Gentle Giants of the Gulf: Whale Sharks Filmed Off Florida's Coast",
+      "summary": "Using a baited underwater camera, researchers with Florida's Fish and Wildlife Conservation Commission recorded whale sharks near the Dry Tortugas. These endangered filter-feeders can reach 60 feet and play a crucial role in marine ecosystems."
+    },
+    {
+      "id": "2026-07-15-science-3",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Wed, 15 Jul 2026 08:21:11 EDT",
+      "mined_at": "2026-07-15T18:10:11+00:00",
+      "source_published_at": "Wed, 15 Jul 2026 08:21:11 EDT",
+      "image_url": "/article_images/article_58aabf904085.webp",
+      "category": "Science",
+      "title": "Homer's Iliad Found Inside a 1,600-Year-Old Egyptian Mummy — a First in Archaeology",
+      "summary": "At the Oxyrhynchus site in Egypt, a papyrus fragment from Book II of the Iliad was discovered deliberately placed on a Roman-era mummy's abdomen. It's the first known case of a Greek literary text used in mummification."
     }
   ]
 }

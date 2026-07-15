@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-14-news-1",
-      "source": "Al Jazeera",
-      "time_ago": "Tue, 14 Jul 2026 16:57:42 +0000",
-      "mined_at": "2026-07-14T18:06:07+00:00",
-      "source_published_at": "Tue, 14 Jul 2026 16:57:42 +0000",
-      "image_url": "/article_images/article_79da164a5c9d.webp",
-      "category": "News",
-      "title": "June Inflation Cools as Energy Prices Dip, But Strait of Hormuz Clashes Threaten Rebound",
-      "summary": "US consumer prices fell in June, driven by a drop in energy costs, with gas averaging $3.85 per gallon. However, renewed US-Iran tensions have already pushed oil back above $80 a barrel, and analysts warn that $4 gas could return within days."
-    },
-    {
-      "id": "2026-07-14-news-2",
-      "source": "BBC News",
-      "time_ago": "Tue, 14 Jul 2026 12:12:53 GMT",
-      "mined_at": "2026-07-14T18:06:07+00:00",
-      "source_published_at": "Tue, 14 Jul 2026 12:12:53 GMT",
-      "image_url": "/article_images/article_c4c12258a901.webp",
-      "category": "News",
-      "title": "Covid Inquiry: UK Wasted £10bn on PPE That Left NHS Staff ‘Poorly Protected’",
-      "summary": "The UK Covid inquiry found that nearly £10 billion was squandered on inadequate PPE, leaving health workers vulnerable. The emergency stockpile was depleted within weeks of the pandemic, and a flawed procurement system favored connected suppliers."
-    },
-    {
-      "id": "2026-07-14-news-3",
+      "id": "2026-07-15-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Tue, 14 Jul 2026 13:24:38 -0400",
-      "mined_at": "2026-07-14T18:06:07+00:00",
-      "source_published_at": "Tue, 14 Jul 2026 13:24:38 -0400",
-      "image_url": "/article_images/article_4734760c1887.webp",
+      "time_ago": "Wed, 15 Jul 2026 12:44:29 -0400",
+      "mined_at": "2026-07-15T18:10:11+00:00",
+      "source_published_at": "Wed, 15 Jul 2026 12:44:29 -0400",
+      "image_url": "/article_images/article_664f484ed79d.webp",
       "category": "News",
-      "title": "The Strait of Hormuz Standoff: Why Iran's Hidden Arsenal Keeps a Vital Oil Route Shut",
-      "summary": "Despite months of U.S. airstrikes and threats, Iran's scattered drones and missiles still menace the Strait of Hormuz, where 20% of the world's oil normally flows. Experts say fully reopening it may require a ground invasion—or a massive, risky naval escort operation."
+      "title": "At Pennsylvania Summit, Trump Touts Defense Tech Amid Depleted Missile Stockpiles",
+      "summary": "President Trump headlined a defense summit at the Army War College, highlighting battlefield tech investments. But the Iran war has drained Tomahawk and Patriot stocks; replenishment could take three years. A $1.5 trillion budget proposal is stalled in Congress."
+    },
+    {
+      "id": "2026-07-15-news-2",
+      "source": "BBC News",
+      "time_ago": "Wed, 15 Jul 2026 14:13:44 GMT",
+      "mined_at": "2026-07-15T18:10:11+00:00",
+      "source_published_at": "Wed, 15 Jul 2026 14:13:44 GMT",
+      "image_url": "/article_images/article_594f8e5295de.webp",
+      "category": "News",
+      "title": "Starmer Bows Out at Final PMQs with Tributes, Jokes, and a Standing Ovation",
+      "summary": "In his last Prime Minister’s Questions, Keir Starmer called it the “end of my political journey.” MPs across parties traded barbs for praise, with some allies in tears. He hands over to Andy Burnham on Monday after a Labour conference."
+    },
+    {
+      "id": "2026-07-15-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Wed, 15 Jul 2026 17:14:07 +0000",
+      "mined_at": "2026-07-15T18:10:11+00:00",
+      "source_published_at": "Wed, 15 Jul 2026 17:14:07 +0000",
+      "image_url": "/article_images/article_51b50f468fb0.webp",
+      "category": "News",
+      "title": "Trump's Ex-Lawyer Grilled: Can He Lead Justice Impartially?",
+      "summary": "Todd Blanche, once Trump's personal defense attorney, faced a contentious Senate hearing on July 15, 2026, as he seeks confirmation as Attorney General. Senators probed his independence after controversial moves like shielding Trump from IRS tax probes. His confirmation hangs in the balance."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-14-fun-1",
-      "source": "Billboard",
-      "time_ago": "Tue, 14 Jul 2026 17:23:29 +0000",
-      "mined_at": "2026-07-14T18:06:07+00:00",
-      "source_published_at": "Tue, 14 Jul 2026 17:23:29 +0000",
-      "image_url": "/article_images/article_6df777779681.webp",
+      "id": "2026-07-15-fun-1",
+      "source": "Live Science",
+      "time_ago": "Wed, 15 Jul 2026 17:41:50 +0000",
+      "mined_at": "2026-07-15T18:10:11+00:00",
+      "source_published_at": "Wed, 15 Jul 2026 17:41:50 +0000",
+      "image_url": "/article_images/article_0d589ca90e85.webp",
       "category": "Fun",
-      "title": "BTS Fakes a Tabloid Scandal—in a Bathroom—to Tease New Single",
-      "summary": "BTS ran fake tabloid-style newspaper ads showing all seven members at urinals, sparking curiosity for their single \"NORMAL.\" The track drops Friday on Spotify, with a video exploring life between fame and ordinary moments."
+      "title": "Tabletop Black Hole Glows, Proving Hawking Right",
+      "summary": "Physicists built a black hole analogue using light in an optical fiber and, for the first time, detected both Hawking radiation and its back reaction. The glow, at 233 nanometers, shifted the pump pulse's color, showing the black hole losing energy—just as Hawking predicted in 1974."
     },
     {
-      "id": "2026-07-14-fun-2",
-      "source": "Popular Mechanics",
-      "time_ago": "Tue, 14 Jul 2026 17:00:00 +0000",
-      "mined_at": "2026-07-14T18:06:07+00:00",
-      "source_published_at": "Tue, 14 Jul 2026 17:00:00 +0000",
-      "image_url": "/article_images/article_b17b757c5b81.webp",
+      "id": "2026-07-15-fun-2",
+      "source": "DOGOnews",
+      "time_ago": "",
+      "mined_at": "2026-07-15T18:10:11+00:00",
+      "source_published_at": "",
+      "image_url": "/article_images/article_21c749771c74.webp",
       "category": "Fun",
-      "title": "Space Balls: Australian Beachgoers Stumble Upon Rocket Debris from Orbit",
-      "summary": "Six pressurized fuel vessels, or \"space balls,\" from an unidentified spacecraft washed ashore in Queensland, Australia. The Australian Space Agency confirmed they survived re-entry and are common debris."
+      "title": "From Ancient China to a $6,696 Scoop: Ice Cream's Wild History",
+      "summary": "National Ice Cream Month traces back to 1984, but ice cream's origins are ancient. Chinese Tang Dynasty emperors ate a frozen milk dessert, and a 2014 Wisconsin festival saw a 3,010-pound scoop carved by snow sculptors. Your flavor choice might even reveal your personality."
     },
     {
-      "id": "2026-07-14-fun-3",
-      "source": "Kotaku",
-      "time_ago": "Tue, 14 Jul 2026 16:33:26 +0000",
-      "mined_at": "2026-07-14T18:06:07+00:00",
-      "source_published_at": "Tue, 14 Jul 2026 16:33:26 +0000",
-      "image_url": "/article_images/article_dfb86768ffd1.webp",
+      "id": "2026-07-15-fun-3",
+      "source": "NG Kids — Geography",
+      "time_ago": "",
+      "mined_at": "2026-07-15T18:10:11+00:00",
+      "source_published_at": "",
+      "image_url": "/article_images/article_152af670303a.webp",
       "category": "Fun",
-      "title": "Former PlayStation CEO Wants Xbox to 'Get Some of Its Mojo Back'",
-      "summary": "Shawn Layden, ex-Sony Interactive Entertainment America CEO, expressed nostalgia for the fierce Xbox-PlayStation rivalry, saying it drove innovation. His comments come as Xbox lays off 3,200 workers amid restructuring."
+      "title": "Argentina: From Gauchos to Glaciers, a South American Giant",
+      "summary": "Argentina, the world's eighth-largest country, spans the Andes, the Pampas, and Patagonia. Its capital, Buenos Aires, is called the 'Paris of South America.' Iguazú Falls stretches 1.6 miles, and Cerro Aconcagua soars to 22,384 feet. Nearly half the population lives in the Buenos Aires area."
     }
   ]
 }
