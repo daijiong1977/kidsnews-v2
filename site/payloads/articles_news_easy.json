@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-15-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Wed, 15 Jul 2026 12:44:29 -0400",
-      "mined_at": "2026-07-15T18:10:11+00:00",
-      "source_published_at": "Wed, 15 Jul 2026 12:44:29 -0400",
-      "image_url": "/article_images/article_664f484ed79d.webp",
-      "category": "News",
-      "title": "Trump Visits Army War College to Talk About Big Military Tech—But There’s a Missile Shortage",
-      "summary": "President Trump spoke at a defense summit in Pennsylvania, promising investments in battlefield technology. But the war in Iran has used up many Tomahawk missiles and Patriot interceptors. It could take three years to restock."
-    },
-    {
-      "id": "2026-07-15-news-2",
+      "id": "2026-07-16-news-1",
       "source": "BBC News",
-      "time_ago": "Wed, 15 Jul 2026 14:13:44 GMT",
-      "mined_at": "2026-07-15T18:10:11+00:00",
-      "source_published_at": "Wed, 15 Jul 2026 14:13:44 GMT",
-      "image_url": "/article_images/article_594f8e5295de.webp",
+      "time_ago": "Thu, 16 Jul 2026 10:44:03 GMT",
+      "mined_at": "2026-07-16T18:06:27+00:00",
+      "source_published_at": "Thu, 16 Jul 2026 10:44:03 GMT",
+      "image_url": "/article_images/article_8ac4bf7edc98.webp",
       "category": "News",
-      "title": "UK Prime Minister Keir Starmer Says Goodbye in His Final Question Time—With Jokes and Tears",
-      "summary": "At his last Prime Minister’s Questions, Keir Starmer said it was the “end of my political journey.” MPs from all parties shared jokes and praise. He’ll hand over to Andy Burnham on Monday. Some allies cried."
+      "title": "England vs. France: Why the Third-Place Match Is Still a Big Deal",
+      "summary": "England's World Cup dream ended, but Saturday's third-place game against France could decide the Golden Boot. Kylian Mbappe is tied with Lionel Messi at 8 goals—one more could make him top scorer!"
     },
     {
-      "id": "2026-07-15-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Wed, 15 Jul 2026 17:14:07 +0000",
-      "mined_at": "2026-07-15T18:10:11+00:00",
-      "source_published_at": "Wed, 15 Jul 2026 17:14:07 +0000",
-      "image_url": "/article_images/article_51b50f468fb0.webp",
+      "id": "2026-07-16-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Thu, 16 Jul 2026 13:30:54 -0400",
+      "mined_at": "2026-07-16T18:06:27+00:00",
+      "source_published_at": "Thu, 16 Jul 2026 13:30:54 -0400",
+      "image_url": "/article_images/article_2757b5cf75db.webp",
       "category": "News",
-      "title": "Can the Top Lawyer Be Fair? Senators Ask Tough Questions",
-      "summary": "Imagine your lawyer also had to be fair to everyone, even people you don't like. That's the big question for Todd Blanche, Trump's former personal lawyer, now hoping to lead the whole Justice Department. Senators are worried he might only protect the president."
+      "title": "President Trump Talks About the 2020 Election—Here's What You Need to Know",
+      "summary": "President Trump is giving a speech about the 2020 election, focusing on claims of foreign interference. But experts say the election was secure, and no foreign power changed any votes."
+    },
+    {
+      "id": "2026-07-16-news-3",
+      "source": "BBC News",
+      "time_ago": "Thu, 16 Jul 2026 14:12:25 GMT",
+      "mined_at": "2026-07-16T18:06:27+00:00",
+      "source_published_at": "Thu, 16 Jul 2026 14:12:25 GMT",
+      "image_url": "/article_images/article_1911b178de84.webp",
+      "category": "News",
+      "title": "Argentina's World Cup Celebration Sparks Falklands Dispute with UK",
+      "summary": "After beating England, Argentina's players held a banner saying 'The Falklands are Argentine.' The UK government fired back, saying the islands are British and the people there want to stay that way."
     }
   ]
 }

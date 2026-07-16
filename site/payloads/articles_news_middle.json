@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-15-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Wed, 15 Jul 2026 12:44:29 -0400",
-      "mined_at": "2026-07-15T18:10:11+00:00",
-      "source_published_at": "Wed, 15 Jul 2026 12:44:29 -0400",
-      "image_url": "/article_images/article_664f484ed79d.webp",
-      "category": "News",
-      "title": "At Pennsylvania Summit, Trump Touts Defense Tech Amid Depleted Missile Stockpiles",
-      "summary": "President Trump headlined a defense summit at the Army War College, highlighting battlefield tech investments. But the Iran war has drained Tomahawk and Patriot stocks; replenishment could take three years. A $1.5 trillion budget proposal is stalled in Congress."
-    },
-    {
-      "id": "2026-07-15-news-2",
+      "id": "2026-07-16-news-1",
       "source": "BBC News",
-      "time_ago": "Wed, 15 Jul 2026 14:13:44 GMT",
-      "mined_at": "2026-07-15T18:10:11+00:00",
-      "source_published_at": "Wed, 15 Jul 2026 14:13:44 GMT",
-      "image_url": "/article_images/article_594f8e5295de.webp",
+      "time_ago": "Thu, 16 Jul 2026 10:44:03 GMT",
+      "mined_at": "2026-07-16T18:06:27+00:00",
+      "source_published_at": "Thu, 16 Jul 2026 10:44:03 GMT",
+      "image_url": "/article_images/article_8ac4bf7edc98.webp",
       "category": "News",
-      "title": "Starmer Bows Out at Final PMQs with Tributes, Jokes, and a Standing Ovation",
-      "summary": "In his last Prime Minister’s Questions, Keir Starmer called it the “end of my political journey.” MPs across parties traded barbs for praise, with some allies in tears. He hands over to Andy Burnham on Monday after a Labour conference."
+      "title": "Golden Boot on the Line: England-France Third-Place Clash Carries High Stakes",
+      "summary": "England's semi-final heartbreak isn't the end: Saturday's third-place match against France could crown the Golden Boot winner. Kylian Mbappe and Lionel Messi are deadlocked at 8 goals, with Mbappe needing just one more to seize the lead."
     },
     {
-      "id": "2026-07-15-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Wed, 15 Jul 2026 17:14:07 +0000",
-      "mined_at": "2026-07-15T18:10:11+00:00",
-      "source_published_at": "Wed, 15 Jul 2026 17:14:07 +0000",
-      "image_url": "/article_images/article_51b50f468fb0.webp",
+      "id": "2026-07-16-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Thu, 16 Jul 2026 13:30:54 -0400",
+      "mined_at": "2026-07-16T18:06:27+00:00",
+      "source_published_at": "Thu, 16 Jul 2026 13:30:54 -0400",
+      "image_url": "/article_images/article_2757b5cf75db.webp",
       "category": "News",
-      "title": "Trump's Ex-Lawyer Grilled: Can He Lead Justice Impartially?",
-      "summary": "Todd Blanche, once Trump's personal defense attorney, faced a contentious Senate hearing on July 15, 2026, as he seeks confirmation as Attorney General. Senators probed his independence after controversial moves like shielding Trump from IRS tax probes. His confirmation hangs in the balance."
+      "title": "Trump's Primetime Address on 2020 Election Integrity: Separating Influence from Interference",
+      "summary": "President Trump's July 16 speech will spotlight 2020 election security, citing newly declassified intelligence. But experts maintain the election was secure, distinguishing between foreign influence campaigns and actual vote tampering."
+    },
+    {
+      "id": "2026-07-16-news-3",
+      "source": "BBC News",
+      "time_ago": "Thu, 16 Jul 2026 14:12:25 GMT",
+      "mined_at": "2026-07-16T18:06:27+00:00",
+      "source_published_at": "Thu, 16 Jul 2026 14:12:25 GMT",
+      "image_url": "/article_images/article_1911b178de84.webp",
+      "category": "News",
+      "title": "Falklands Banner at World Cup Semi-Final Ignites UK-Argentina Sovereignty Row",
+      "summary": "Argentina players' 'Las Malvinas son Argentinas' banner after their 2-1 win over England drew swift UK condemnation. Downing Street retorted that the Falklands 'definitely are' British, citing the islanders' 2013 vote."
     }
   ]
 }
