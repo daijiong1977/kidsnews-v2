@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-16-science-1",
-      "source": "Science News Explores",
-      "time_ago": "Thu, 16 Jul 2026 10:30:00 +0000",
-      "mined_at": "2026-07-16T18:06:27+00:00",
-      "source_published_at": "Thu, 16 Jul 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_cb034f594777.webp",
+      "id": "2026-07-17-science-1",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Thu, 16 Jul 2026 23:09:42 EDT",
+      "mined_at": "2026-07-17T18:07:40+00:00",
+      "source_published_at": "Thu, 16 Jul 2026 23:09:42 EDT",
+      "image_url": "/article_images/article_63a6f26d2d8b.webp",
       "category": "Science",
-      "title": "Mystery of Laos's Plain of Jars Solved: They Were Massive Burial Vessels",
-      "summary": "A newly discovered jar containing 37 individuals confirms that the Plain of Jars in Laos was a vast burial complex. The finding ends decades of speculation about the jars' purpose."
+      "title": "Goodbye Forever: 'Living Plastic' Self-Destructs in 6 Days, No Microplastics Left Behind",
+      "summary": "Engineered 'living plastic' harbors dormant bacteria that, when awakened by warm nutrients, produce two enzymes to fully degrade the material in 6 days. The process avoids microplastic formation. A wearable electrode made from it disappeared in two weeks."
     },
     {
-      "id": "2026-07-16-science-2",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Thu, 16 Jul 2026 00:16:48 EDT",
-      "mined_at": "2026-07-16T18:06:27+00:00",
-      "source_published_at": "Thu, 16 Jul 2026 00:16:48 EDT",
-      "image_url": "/article_images/article_502c9cc218de.webp",
+      "id": "2026-07-17-science-2",
+      "source": "Space.com",
+      "time_ago": "Fri, 17 Jul 2026 16:00:00 +0000",
+      "mined_at": "2026-07-17T18:07:40+00:00",
+      "source_published_at": "Fri, 17 Jul 2026 16:00:00 +0000",
+      "image_url": "/article_images/article_c6c5aeb54ace.webp",
       "category": "Science",
-      "title": "Quantum Leap: How Atom-Thin Materials Unite Light and Magnetism",
-      "summary": "A new review in Nature Materials reveals how excitons and magnons interact in van der Waals magnetic semiconductors, enabling optical control of magnetism and paving the way for advanced quantum devices."
+      "title": "Countdown to History: India's First Private Orbital Rocket Set to Launch",
+      "summary": "Skyroot Aerospace's Vikram-1, India's first privately developed orbital rocket, is scheduled to lift off July 18 from Sriharikota. The 7-story, 4-stage vehicle will carry a debris-capturing robotic arm, a tech demo, and symbolic payloads on its test flight."
     },
     {
-      "id": "2026-07-16-science-3",
-      "source": "Physics World",
-      "time_ago": "Thu, 16 Jul 2026 08:00:58 +0000",
-      "mined_at": "2026-07-16T18:06:27+00:00",
-      "source_published_at": "Thu, 16 Jul 2026 08:00:58 +0000",
-      "image_url": "/article_images/article_4482745f792d.webp",
+      "id": "2026-07-17-science-3",
+      "source": "ScienceDaily All",
+      "time_ago": "Fri, 17 Jul 2026 02:04:57 EDT",
+      "mined_at": "2026-07-17T18:07:40+00:00",
+      "source_published_at": "Fri, 17 Jul 2026 02:04:57 EDT",
+      "image_url": "/article_images/article_d9cc5e73d11a.webp",
       "category": "Science",
-      "title": "Gravitational Wave GW250114 Reveals Black Hole's Event Horizon Secrets",
-      "summary": "An exceptionally loud gravitational wave signal from a black hole merger allowed astrophysicists to directly measure the rotation frequency and surface gravity of the final black hole's event horizon for the first time."
+      "title": "A Camera That Sees the Invisible: 3D Tracking of Ghost Particles",
+      "summary": "ETH Zurich and EPFL researchers built a prototype detector that uses light field camera technology to track particles in 3D inside a single block of scintillator. It avoids the need for millions of segmented cubes, potentially slashing costs for neutrino and dark matter experiments."
     }
   ]
 }

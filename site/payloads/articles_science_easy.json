@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-16-science-1",
-      "source": "Science News Explores",
-      "time_ago": "Thu, 16 Jul 2026 10:30:00 +0000",
-      "mined_at": "2026-07-16T18:06:27+00:00",
-      "source_published_at": "Thu, 16 Jul 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_cb034f594777.webp",
+      "id": "2026-07-17-science-1",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Thu, 16 Jul 2026 23:09:42 EDT",
+      "mined_at": "2026-07-17T18:07:40+00:00",
+      "source_published_at": "Thu, 16 Jul 2026 23:09:42 EDT",
+      "image_url": "/article_images/article_63a6f26d2d8b.webp",
       "category": "Science",
-      "title": "Giant Stone Jars in Laos Weren't for Rice Wine—They Were Ancient Tombs!",
-      "summary": "Thousands of huge stone jars in Laos were a mystery for years. Now, a jar with bones from 37 people shows they were used for burials, not for storing food or wine."
+      "title": "This Plastic Eats Itself in Just 6 Days!",
+      "summary": "Scientists made a 'living plastic' that self-destructs in 6 days without leaving nasty microplastics. They hid sleepy bacteria inside, then woke them up with warm broth to eat the plastic. A wearable electrode made from it vanished in two weeks!"
     },
     {
-      "id": "2026-07-16-science-2",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Thu, 16 Jul 2026 00:16:48 EDT",
-      "mined_at": "2026-07-16T18:06:27+00:00",
-      "source_published_at": "Thu, 16 Jul 2026 00:16:48 EDT",
-      "image_url": "/article_images/article_502c9cc218de.webp",
+      "id": "2026-07-17-science-2",
+      "source": "Space.com",
+      "time_ago": "Fri, 17 Jul 2026 16:00:00 +0000",
+      "mined_at": "2026-07-17T18:07:40+00:00",
+      "source_published_at": "Fri, 17 Jul 2026 16:00:00 +0000",
+      "image_url": "/article_images/article_c6c5aeb54ace.webp",
       "category": "Science",
-      "title": "Light and Magnets Team Up in Super-Thin Materials!",
-      "summary": "Scientists found a way to make light and magnetism work together in materials only a few atoms thick. This could lead to super-fast computers and new quantum gadgets."
+      "title": "Watch History: India's First Private Rocket Blasts Off!",
+      "summary": "Skyroot Aerospace's Vikram-1, India's first privately built orbital rocket, launches July 18. It's as tall as a 7-story building and can carry 770 pounds to space. Watch live as it carries a robotic arm for grabbing space junk and even a tiny gold rocket!"
     },
     {
-      "id": "2026-07-16-science-3",
-      "source": "Physics World",
-      "time_ago": "Thu, 16 Jul 2026 08:00:58 +0000",
-      "mined_at": "2026-07-16T18:06:27+00:00",
-      "source_published_at": "Thu, 16 Jul 2026 08:00:58 +0000",
-      "image_url": "/article_images/article_4482745f792d.webp",
+      "id": "2026-07-17-science-3",
+      "source": "ScienceDaily All",
+      "time_ago": "Fri, 17 Jul 2026 02:04:57 EDT",
+      "mined_at": "2026-07-17T18:07:40+00:00",
+      "source_published_at": "Fri, 17 Jul 2026 02:04:57 EDT",
+      "image_url": "/article_images/article_d9cc5e73d11a.webp",
       "category": "Science",
-      "title": "A Super-Loud Space Rumble Gives Us a Peek Inside a Black Hole's Edge!",
-      "summary": "Scientists heard an extra-loud gravitational wave from two black holes crashing. It let them measure the spinning edge of the final black hole for the first time."
+      "title": "This Camera Sees Invisible Particles in 3D!",
+      "summary": "Scientists built a camera that can track ghostly particles like neutrinos in 3D inside a big block of special plastic. It uses a trick from light field cameras—like having thousands of tiny lenses—to see where faint flashes come from. No more millions of tiny cubes!"
     }
   ]
 }

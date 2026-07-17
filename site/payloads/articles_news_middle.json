@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-16-news-1",
-      "source": "BBC News",
-      "time_ago": "Thu, 16 Jul 2026 10:44:03 GMT",
-      "mined_at": "2026-07-16T18:06:27+00:00",
-      "source_published_at": "Thu, 16 Jul 2026 10:44:03 GMT",
-      "image_url": "/article_images/article_8ac4bf7edc98.webp",
+      "id": "2026-07-17-news-1",
+      "source": "NPR World",
+      "time_ago": "Fri, 17 Jul 2026 11:07:09 -0400",
+      "mined_at": "2026-07-17T18:07:40+00:00",
+      "source_published_at": "Fri, 17 Jul 2026 11:07:09 -0400",
+      "image_url": "/article_images/article_2ec7f143cbdb.webp",
       "category": "News",
-      "title": "Golden Boot on the Line: England-France Third-Place Clash Carries High Stakes",
-      "summary": "England's semi-final heartbreak isn't the end: Saturday's third-place match against France could crown the Golden Boot winner. Kylian Mbappe and Lionel Messi are deadlocked at 8 goals, with Mbappe needing just one more to seize the lead."
+      "title": "Wildfire smoke blankets the U.S. — here’s how a box fan and a filter can protect your lungs",
+      "summary": "Smoke from massive wildfires in Canada and Minnesota has pushed air quality to hazardous levels across a huge swath of the U.S. A DIY air purifier using a box fan and MERV 13 filter can offer crucial protection."
     },
     {
-      "id": "2026-07-16-news-2",
+      "id": "2026-07-17-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Thu, 16 Jul 2026 13:30:54 -0400",
-      "mined_at": "2026-07-16T18:06:27+00:00",
-      "source_published_at": "Thu, 16 Jul 2026 13:30:54 -0400",
-      "image_url": "/article_images/article_2757b5cf75db.webp",
+      "time_ago": "Fri, 17 Jul 2026 13:07:29 -0400",
+      "mined_at": "2026-07-17T18:07:40+00:00",
+      "source_published_at": "Fri, 17 Jul 2026 13:07:29 -0400",
+      "image_url": "/article_images/article_a9929edba0ed.webp",
       "category": "News",
-      "title": "Trump's Primetime Address on 2020 Election Integrity: Separating Influence from Interference",
-      "summary": "President Trump's July 16 speech will spotlight 2020 election security, citing newly declassified intelligence. But experts maintain the election was secure, distinguishing between foreign influence campaigns and actual vote tampering."
+      "title": "Xi Jinping calls for global AI cooperation, slams U.S. tech curbs as ‘overstretching’ security",
+      "summary": "Speaking at Shanghai’s World AI Conference, Xi Jinping urged nations to treat AI development as a ‘symphony of global cooperation’ and announced a new 29-country AI organization, seen as a counter to the U.S.-led Pax Silica."
     },
     {
-      "id": "2026-07-16-news-3",
+      "id": "2026-07-17-news-3",
       "source": "BBC News",
-      "time_ago": "Thu, 16 Jul 2026 14:12:25 GMT",
-      "mined_at": "2026-07-16T18:06:27+00:00",
-      "source_published_at": "Thu, 16 Jul 2026 14:12:25 GMT",
-      "image_url": "/article_images/article_1911b178de84.webp",
+      "time_ago": "Fri, 17 Jul 2026 17:40:32 GMT",
+      "mined_at": "2026-07-17T18:07:40+00:00",
+      "source_published_at": "Fri, 17 Jul 2026 17:40:32 GMT",
+      "image_url": "/article_images/article_1c670ea416fa.webp",
       "category": "News",
-      "title": "Falklands Banner at World Cup Semi-Final Ignites UK-Argentina Sovereignty Row",
-      "summary": "Argentina players' 'Las Malvinas son Argentinas' banner after their 2-1 win over England drew swift UK condemnation. Downing Street retorted that the Falklands 'definitely are' British, citing the islanders' 2013 vote."
+      "title": "Burnham finalizes cabinet ahead of Monday PM takeover, vows social care reform",
+      "summary": "Incoming UK Prime Minister Andy Burnham says he is finalizing his cabinet picks and will announce them Monday. He pledged to use significant political capital to reform the long-neglected social care system."
     }
   ]
 }

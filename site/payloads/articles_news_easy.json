@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-16-news-1",
-      "source": "BBC News",
-      "time_ago": "Thu, 16 Jul 2026 10:44:03 GMT",
-      "mined_at": "2026-07-16T18:06:27+00:00",
-      "source_published_at": "Thu, 16 Jul 2026 10:44:03 GMT",
-      "image_url": "/article_images/article_8ac4bf7edc98.webp",
+      "id": "2026-07-17-news-1",
+      "source": "NPR World",
+      "time_ago": "Fri, 17 Jul 2026 11:07:09 -0400",
+      "mined_at": "2026-07-17T18:07:40+00:00",
+      "source_published_at": "Fri, 17 Jul 2026 11:07:09 -0400",
+      "image_url": "/article_images/article_2ec7f143cbdb.webp",
       "category": "News",
-      "title": "England vs. France: Why the Third-Place Match Is Still a Big Deal",
-      "summary": "England's World Cup dream ended, but Saturday's third-place game against France could decide the Golden Boot. Kylian Mbappe is tied with Lionel Messi at 8 goals—one more could make him top scorer!"
+      "title": "Smoke from giant fires is choking the air — here’s a cool trick to clean it!",
+      "summary": "Huge wildfires in Canada and Minnesota are sending thick smoke across the U.S., making the air dangerous to breathe. You can build a simple air purifier with a box fan, a filter, and duct tape."
     },
     {
-      "id": "2026-07-16-news-2",
+      "id": "2026-07-17-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Thu, 16 Jul 2026 13:30:54 -0400",
-      "mined_at": "2026-07-16T18:06:27+00:00",
-      "source_published_at": "Thu, 16 Jul 2026 13:30:54 -0400",
-      "image_url": "/article_images/article_2757b5cf75db.webp",
+      "time_ago": "Fri, 17 Jul 2026 13:07:29 -0400",
+      "mined_at": "2026-07-17T18:07:40+00:00",
+      "source_published_at": "Fri, 17 Jul 2026 13:07:29 -0400",
+      "image_url": "/article_images/article_a9929edba0ed.webp",
       "category": "News",
-      "title": "President Trump Talks About the 2020 Election—Here's What You Need to Know",
-      "summary": "President Trump is giving a speech about the 2020 election, focusing on claims of foreign interference. But experts say the election was secure, and no foreign power changed any votes."
+      "title": "China’s president says AI should be a team sport, not a solo race",
+      "summary": "At a big AI conference in Shanghai, China’s leader Xi Jinping said no single country should control artificial intelligence. He announced plans to share AI tools and training with 30 developing nations."
     },
     {
-      "id": "2026-07-16-news-3",
+      "id": "2026-07-17-news-3",
       "source": "BBC News",
-      "time_ago": "Thu, 16 Jul 2026 14:12:25 GMT",
-      "mined_at": "2026-07-16T18:06:27+00:00",
-      "source_published_at": "Thu, 16 Jul 2026 14:12:25 GMT",
-      "image_url": "/article_images/article_1911b178de84.webp",
+      "time_ago": "Fri, 17 Jul 2026 17:40:32 GMT",
+      "mined_at": "2026-07-17T18:07:40+00:00",
+      "source_published_at": "Fri, 17 Jul 2026 17:40:32 GMT",
+      "image_url": "/article_images/article_1c670ea416fa.webp",
       "category": "News",
-      "title": "Argentina's World Cup Celebration Sparks Falklands Dispute with UK",
-      "summary": "After beating England, Argentina's players held a banner saying 'The Falklands are Argentine.' The UK government fired back, saying the islands are British and the people there want to stay that way."
+      "title": "Meet the UK’s next prime minister: Andy Burnham is getting ready to lead",
+      "summary": "Andy Burnham will become the UK’s new prime minister on Monday. He’s still picking his top team and says fixing social care for older and disabled people will be a big priority."
     }
   ]
 }
