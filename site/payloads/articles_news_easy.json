@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-17-news-1",
+      "id": "2026-07-18-news-1",
+      "source": "Al Jazeera",
+      "time_ago": "Sat, 18 Jul 2026 17:29:23 +0000",
+      "mined_at": "2026-07-18T18:02:32+00:00",
+      "source_published_at": "Sat, 18 Jul 2026 17:29:23 +0000",
+      "image_url": "/article_images/article_ae14d67e0289.webp",
+      "category": "News",
+      "title": "A Record Older Than Him: Josh Kerr Smashes 27-Year-Old Mile Mark!",
+      "summary": "British runner Josh Kerr just broke a world record that was set when he was a baby! He ran a mile in 3 minutes and 42.66 seconds, beating the old record by almost half a second. The crowd of 60,000 in London went wild."
+    },
+    {
+      "id": "2026-07-18-news-2",
       "source": "NPR World",
-      "time_ago": "Fri, 17 Jul 2026 11:07:09 -0400",
-      "mined_at": "2026-07-17T18:07:40+00:00",
-      "source_published_at": "Fri, 17 Jul 2026 11:07:09 -0400",
-      "image_url": "/article_images/article_2ec7f143cbdb.webp",
+      "time_ago": "Sat, 18 Jul 2026 11:30:00 -0400",
+      "mined_at": "2026-07-18T18:02:32+00:00",
+      "source_published_at": "Sat, 18 Jul 2026 11:30:00 -0400",
+      "image_url": "/article_images/article_f5f5c83d6c2c.webp",
       "category": "News",
-      "title": "Smoke from giant fires is choking the air — here’s a cool trick to clean it!",
-      "summary": "Huge wildfires in Canada and Minnesota are sending thick smoke across the U.S., making the air dangerous to breathe. You can build a simple air purifier with a box fan, a filter, and duct tape."
+      "title": "Soccer, Nails, and Dreams: The Women of the World Cup",
+      "summary": "At the 2026 World Cup, reporter Jasmine Garsd found a hidden story: women showing their love for soccer through amazing nail art. She also met a coach who was once told soccer wasn't for girls—and now helps young Muslim players chase their dreams."
     },
     {
-      "id": "2026-07-17-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Fri, 17 Jul 2026 13:07:29 -0400",
-      "mined_at": "2026-07-17T18:07:40+00:00",
-      "source_published_at": "Fri, 17 Jul 2026 13:07:29 -0400",
-      "image_url": "/article_images/article_a9929edba0ed.webp",
-      "category": "News",
-      "title": "China’s president says AI should be a team sport, not a solo race",
-      "summary": "At a big AI conference in Shanghai, China’s leader Xi Jinping said no single country should control artificial intelligence. He announced plans to share AI tools and training with 30 developing nations."
-    },
-    {
-      "id": "2026-07-17-news-3",
+      "id": "2026-07-18-news-3",
       "source": "BBC News",
-      "time_ago": "Fri, 17 Jul 2026 17:40:32 GMT",
-      "mined_at": "2026-07-17T18:07:40+00:00",
-      "source_published_at": "Fri, 17 Jul 2026 17:40:32 GMT",
-      "image_url": "/article_images/article_1c670ea416fa.webp",
+      "time_ago": "Sat, 18 Jul 2026 14:32:48 GMT",
+      "mined_at": "2026-07-18T18:02:32+00:00",
+      "source_published_at": "Sat, 18 Jul 2026 14:32:48 GMT",
+      "image_url": "/article_images/article_acad9088d43a.webp",
       "category": "News",
-      "title": "Meet the UK’s next prime minister: Andy Burnham is getting ready to lead",
-      "summary": "Andy Burnham will become the UK’s new prime minister on Monday. He’s still picking his top team and says fixing social care for older and disabled people will be a big priority."
+      "title": "Meet the UK's New Prime Minister: Andy Burnham, the Dad Dancer!",
+      "summary": "Andy Burnham is about to become the UK's new prime minister. He's known as a friendly guy who loves soccer, poetry, and dancing to New Order. But some people wonder: is he tough enough for the job?"
     }
   ]
 }

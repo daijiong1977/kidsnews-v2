@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-17-news-1",
+      "id": "2026-07-18-news-1",
+      "source": "Al Jazeera",
+      "time_ago": "Sat, 18 Jul 2026 17:29:23 +0000",
+      "mined_at": "2026-07-18T18:02:32+00:00",
+      "source_published_at": "Sat, 18 Jul 2026 17:29:23 +0000",
+      "image_url": "/article_images/article_ae14d67e0289.webp",
+      "category": "News",
+      "title": "27 Years in the Making: Kerr Shatters El Guerrouj's Mile Record in London",
+      "summary": "Josh Kerr ran a 3:42.66 mile at the London Diamond League, breaking a 27-year-old world record by 0.47 seconds. The 28-year-old Briton was paced perfectly and surged in the final 200 meters before a roaring crowd of 60,000. He became the sixth British man to hold the mark."
+    },
+    {
+      "id": "2026-07-18-news-2",
       "source": "NPR World",
-      "time_ago": "Fri, 17 Jul 2026 11:07:09 -0400",
-      "mined_at": "2026-07-17T18:07:40+00:00",
-      "source_published_at": "Fri, 17 Jul 2026 11:07:09 -0400",
-      "image_url": "/article_images/article_2ec7f143cbdb.webp",
+      "time_ago": "Sat, 18 Jul 2026 11:30:00 -0400",
+      "mined_at": "2026-07-18T18:02:32+00:00",
+      "source_published_at": "Sat, 18 Jul 2026 11:30:00 -0400",
+      "image_url": "/article_images/article_f5f5c83d6c2c.webp",
       "category": "News",
-      "title": "Wildfire smoke blankets the U.S. — here’s how a box fan and a filter can protect your lungs",
-      "summary": "Smoke from massive wildfires in Canada and Minnesota has pushed air quality to hazardous levels across a huge swath of the U.S. A DIY air purifier using a box fan and MERV 13 filter can offer crucial protection."
+      "title": "Beyond the Pitch: How Women Are Redefining World Cup Fandom",
+      "summary": "NPR reporter Jasmine Garsd discovered a vibrant subculture of women expressing soccer passion through elaborate nail art at the 2026 World Cup. She also encountered a coach who overcame gender barriers and now mentors a team of young Muslim players, revealing how the sport's soul thrives in local communities."
     },
     {
-      "id": "2026-07-17-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Fri, 17 Jul 2026 13:07:29 -0400",
-      "mined_at": "2026-07-17T18:07:40+00:00",
-      "source_published_at": "Fri, 17 Jul 2026 13:07:29 -0400",
-      "image_url": "/article_images/article_a9929edba0ed.webp",
-      "category": "News",
-      "title": "Xi Jinping calls for global AI cooperation, slams U.S. tech curbs as ‘overstretching’ security",
-      "summary": "Speaking at Shanghai’s World AI Conference, Xi Jinping urged nations to treat AI development as a ‘symphony of global cooperation’ and announced a new 29-country AI organization, seen as a counter to the U.S.-led Pax Silica."
-    },
-    {
-      "id": "2026-07-17-news-3",
+      "id": "2026-07-18-news-3",
       "source": "BBC News",
-      "time_ago": "Fri, 17 Jul 2026 17:40:32 GMT",
-      "mined_at": "2026-07-17T18:07:40+00:00",
-      "source_published_at": "Fri, 17 Jul 2026 17:40:32 GMT",
-      "image_url": "/article_images/article_1c670ea416fa.webp",
+      "time_ago": "Sat, 18 Jul 2026 14:32:48 GMT",
+      "mined_at": "2026-07-18T18:02:32+00:00",
+      "source_published_at": "Sat, 18 Jul 2026 14:32:48 GMT",
+      "image_url": "/article_images/article_acad9088d43a.webp",
       "category": "News",
-      "title": "Burnham finalizes cabinet ahead of Monday PM takeover, vows social care reform",
-      "summary": "Incoming UK Prime Minister Andy Burnham says he is finalizing his cabinet picks and will announce them Monday. He pledged to use significant political capital to reform the long-neglected social care system."
+      "title": "Nice Guy or Ruthless Plotter? Inside Andy Burnham's Rise to PM",
+      "summary": "Andy Burnham, 56, becomes UK prime minister on Monday after ousting Keir Starmer. Insiders describe him as affable yet ruthless—a Cambridge graduate, Everton fan, and poetry lover who danced to New Order at his victory event. But doubts linger about whether his charm translates into effective leadership."
     }
   ]
 }

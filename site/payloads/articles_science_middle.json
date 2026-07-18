@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-17-science-1",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Thu, 16 Jul 2026 23:09:42 EDT",
-      "mined_at": "2026-07-17T18:07:40+00:00",
-      "source_published_at": "Thu, 16 Jul 2026 23:09:42 EDT",
-      "image_url": "/article_images/article_63a6f26d2d8b.webp",
+      "id": "2026-07-18-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Fri, 17 Jul 2026 23:09:35 EDT",
+      "mined_at": "2026-07-18T18:02:32+00:00",
+      "source_published_at": "Fri, 17 Jul 2026 23:09:35 EDT",
+      "image_url": "/article_images/article_11a5d98a30d8.webp",
       "category": "Science",
-      "title": "Goodbye Forever: 'Living Plastic' Self-Destructs in 6 Days, No Microplastics Left Behind",
-      "summary": "Engineered 'living plastic' harbors dormant bacteria that, when awakened by warm nutrients, produce two enzymes to fully degrade the material in 6 days. The process avoids microplastic formation. A wearable electrode made from it disappeared in two weeks."
+      "title": "JWST Reveals How Supermassive Black Holes Keep the Cosmic Buffet Open",
+      "summary": "New JWST images show filaments of gas feeding a spinning disk around a black hole in galaxy NGC 4696. The disk spans 800 light-years and gas moves at 600 km/s—solving a decades-old fuel mystery."
     },
     {
-      "id": "2026-07-17-science-2",
+      "id": "2026-07-18-science-2",
       "source": "Space.com",
-      "time_ago": "Fri, 17 Jul 2026 16:00:00 +0000",
-      "mined_at": "2026-07-17T18:07:40+00:00",
-      "source_published_at": "Fri, 17 Jul 2026 16:00:00 +0000",
-      "image_url": "/article_images/article_c6c5aeb54ace.webp",
+      "time_ago": "Sat, 18 Jul 2026 14:00:00 +0000",
+      "mined_at": "2026-07-18T18:02:32+00:00",
+      "source_published_at": "Sat, 18 Jul 2026 14:00:00 +0000",
+      "image_url": "/article_images/article_0e9aa4e4ab9c.webp",
       "category": "Science",
-      "title": "Countdown to History: India's First Private Orbital Rocket Set to Launch",
-      "summary": "Skyroot Aerospace's Vikram-1, India's first privately developed orbital rocket, is scheduled to lift off July 18 from Sriharikota. The 7-story, 4-stage vehicle will carry a debris-capturing robotic arm, a tech demo, and symbolic payloads on its test flight."
+      "title": "Japan's RV-X Prototype Makes Historic Hop, Joining the Reusable Rocket Race",
+      "summary": "JAXA's RV-X rocket completed a 40-second, 33-foot hop on July 11, marking Japan's first step toward reusable launch vehicles. The test paves the way for the CALLISTO project with France and Germany."
     },
     {
-      "id": "2026-07-17-science-3",
-      "source": "ScienceDaily All",
-      "time_ago": "Fri, 17 Jul 2026 02:04:57 EDT",
-      "mined_at": "2026-07-17T18:07:40+00:00",
-      "source_published_at": "Fri, 17 Jul 2026 02:04:57 EDT",
-      "image_url": "/article_images/article_d9cc5e73d11a.webp",
+      "id": "2026-07-18-science-3",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Thu, 16 Jul 2026 06:52:02 EDT",
+      "mined_at": "2026-07-18T18:02:32+00:00",
+      "source_published_at": "Thu, 16 Jul 2026 06:52:02 EDT",
+      "image_url": "/article_images/article_589f7efc38cc.webp",
       "category": "Science",
-      "title": "A Camera That Sees the Invisible: 3D Tracking of Ghost Particles",
-      "summary": "ETH Zurich and EPFL researchers built a prototype detector that uses light field camera technology to track particles in 3D inside a single block of scintillator. It avoids the need for millions of segmented cubes, potentially slashing costs for neutrino and dark matter experiments."
+      "title": "Lithium Overload Reveals a Sun-Like Star's Planetary Meal",
+      "summary": "Star TOI-5882, 1,300 light-years away, shows a lithium spike—a chemical fingerprint of planetary engulfment. A nearby brown dwarf may have disrupted the planet's orbit, sending it into the star. Earth could face a similar fate in 5 billion years."
     }
   ]
 }

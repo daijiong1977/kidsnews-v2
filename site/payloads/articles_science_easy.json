@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-17-science-1",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Thu, 16 Jul 2026 23:09:42 EDT",
-      "mined_at": "2026-07-17T18:07:40+00:00",
-      "source_published_at": "Thu, 16 Jul 2026 23:09:42 EDT",
-      "image_url": "/article_images/article_63a6f26d2d8b.webp",
+      "id": "2026-07-18-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Fri, 17 Jul 2026 23:09:35 EDT",
+      "mined_at": "2026-07-18T18:02:32+00:00",
+      "source_published_at": "Fri, 17 Jul 2026 23:09:35 EDT",
+      "image_url": "/article_images/article_11a5d98a30d8.webp",
       "category": "Science",
-      "title": "This Plastic Eats Itself in Just 6 Days!",
-      "summary": "Scientists made a 'living plastic' that self-destructs in 6 days without leaving nasty microplastics. They hid sleepy bacteria inside, then woke them up with warm broth to eat the plastic. A wearable electrode made from it vanished in two weeks!"
+      "title": "Giant Space Spaghetti Feeds a Hungry Black Hole!",
+      "summary": "NASA's James Webb telescope spotted long gas noodles flowing into a black hole's spinning dinner plate. The gas moves 600 km per second—that's over 200 times faster than a race car!"
     },
     {
-      "id": "2026-07-17-science-2",
+      "id": "2026-07-18-science-2",
       "source": "Space.com",
-      "time_ago": "Fri, 17 Jul 2026 16:00:00 +0000",
-      "mined_at": "2026-07-17T18:07:40+00:00",
-      "source_published_at": "Fri, 17 Jul 2026 16:00:00 +0000",
-      "image_url": "/article_images/article_c6c5aeb54ace.webp",
+      "time_ago": "Sat, 18 Jul 2026 14:00:00 +0000",
+      "mined_at": "2026-07-18T18:02:32+00:00",
+      "source_published_at": "Sat, 18 Jul 2026 14:00:00 +0000",
+      "image_url": "/article_images/article_0e9aa4e4ab9c.webp",
       "category": "Science",
-      "title": "Watch History: India's First Private Rocket Blasts Off!",
-      "summary": "Skyroot Aerospace's Vikram-1, India's first privately built orbital rocket, launches July 18. It's as tall as a 7-story building and can carry 770 pounds to space. Watch live as it carries a robotic arm for grabbing space junk and even a tiny gold rocket!"
+      "title": "Japan's Baby Rocket Hops 33 Feet—Just Like SpaceX's First Try!",
+      "summary": "Japan's RV-X rocket prototype jumped 33 feet high and landed softly after 40 seconds. It's a tiny hop toward building reusable rockets that can fly again and again, like SpaceX's Falcon 9."
     },
     {
-      "id": "2026-07-17-science-3",
-      "source": "ScienceDaily All",
-      "time_ago": "Fri, 17 Jul 2026 02:04:57 EDT",
-      "mined_at": "2026-07-17T18:07:40+00:00",
-      "source_published_at": "Fri, 17 Jul 2026 02:04:57 EDT",
-      "image_url": "/article_images/article_d9cc5e73d11a.webp",
+      "id": "2026-07-18-science-3",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Thu, 16 Jul 2026 06:52:02 EDT",
+      "mined_at": "2026-07-18T18:02:32+00:00",
+      "source_published_at": "Thu, 16 Jul 2026 06:52:02 EDT",
+      "image_url": "/article_images/article_589f7efc38cc.webp",
       "category": "Science",
-      "title": "This Camera Sees Invisible Particles in 3D!",
-      "summary": "Scientists built a camera that can track ghostly particles like neutrinos in 3D inside a big block of special plastic. It uses a trick from light field cameras—like having thousands of tiny lenses—to see where faint flashes come from. No more millions of tiny cubes!"
+      "title": "A Star Ate a Planet—and Scientists Found the Proof in Its Belly!",
+      "summary": "Star TOI-5882 has way too much lithium, a chemical planets are rich in. Scientists think it gobbled up a planet, maybe pushed by a brown dwarf buddy. The sun might do the same to Earth in 5 billion years!"
     }
   ]
 }
