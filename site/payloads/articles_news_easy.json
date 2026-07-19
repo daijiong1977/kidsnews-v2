@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-18-news-1",
-      "source": "Al Jazeera",
-      "time_ago": "Sat, 18 Jul 2026 17:29:23 +0000",
-      "mined_at": "2026-07-18T18:02:32+00:00",
-      "source_published_at": "Sat, 18 Jul 2026 17:29:23 +0000",
-      "image_url": "/article_images/article_ae14d67e0289.webp",
-      "category": "News",
-      "title": "A Record Older Than Him: Josh Kerr Smashes 27-Year-Old Mile Mark!",
-      "summary": "British runner Josh Kerr just broke a world record that was set when he was a baby! He ran a mile in 3 minutes and 42.66 seconds, beating the old record by almost half a second. The crowd of 60,000 in London went wild."
-    },
-    {
-      "id": "2026-07-18-news-2",
+      "id": "2026-07-19-news-1",
       "source": "NPR World",
-      "time_ago": "Sat, 18 Jul 2026 11:30:00 -0400",
-      "mined_at": "2026-07-18T18:02:32+00:00",
-      "source_published_at": "Sat, 18 Jul 2026 11:30:00 -0400",
-      "image_url": "/article_images/article_f5f5c83d6c2c.webp",
+      "time_ago": "Sun, 19 Jul 2026 00:00:00 -0400",
+      "mined_at": "2026-07-19T18:04:38+00:00",
+      "source_published_at": "Sun, 19 Jul 2026 00:00:00 -0400",
+      "image_url": "/article_images/article_ab3279e76cf4.webp",
       "category": "News",
-      "title": "Soccer, Nails, and Dreams: The Women of the World Cup",
-      "summary": "At the 2026 World Cup, reporter Jasmine Garsd found a hidden story: women showing their love for soccer through amazing nail art. She also met a coach who was once told soccer wasn't for girls—and now helps young Muslim players chase their dreams."
+      "title": "Messi vs. Yamal: A World Cup Final for the Ages!",
+      "summary": "Argentina and Spain face off in the World Cup final. Can Lionel Messi, 39, win again, or will teen star Lamine Yamal, 19, lead Spain to victory?"
     },
     {
-      "id": "2026-07-18-news-3",
+      "id": "2026-07-19-news-2",
       "source": "BBC News",
-      "time_ago": "Sat, 18 Jul 2026 14:32:48 GMT",
-      "mined_at": "2026-07-18T18:02:32+00:00",
-      "source_published_at": "Sat, 18 Jul 2026 14:32:48 GMT",
-      "image_url": "/article_images/article_acad9088d43a.webp",
+      "time_ago": "Sun, 19 Jul 2026 17:23:57 GMT",
+      "mined_at": "2026-07-19T18:04:38+00:00",
+      "source_published_at": "Sun, 19 Jul 2026 17:23:57 GMT",
+      "image_url": "/article_images/article_86392d3caac4.webp",
       "category": "News",
-      "title": "Meet the UK's New Prime Minister: Andy Burnham, the Dad Dancer!",
-      "summary": "Andy Burnham is about to become the UK's new prime minister. He's known as a friendly guy who loves soccer, poetry, and dancing to New Order. But some people wonder: is he tough enough for the job?"
+      "title": "New UK Prime Minister Andy Burnham Promises 'More Breathing Room'",
+      "summary": "Andy Burnham becomes UK's new prime minister. He promises to give people 'more breathing room' on cost of living and plans to scrap digital IDs and take water and energy companies public."
+    },
+    {
+      "id": "2026-07-19-news-3",
+      "source": "NPR World",
+      "time_ago": "Sun, 19 Jul 2026 03:00:00 -0400",
+      "mined_at": "2026-07-19T18:04:38+00:00",
+      "source_published_at": "Sun, 19 Jul 2026 03:00:00 -0400",
+      "image_url": "/article_images/article_96484ea92a17.webp",
+      "category": "News",
+      "title": "MLS Hopes World Cup Fever Brings New Fans to Soccer in the U.S.",
+      "summary": "Major League Soccer wants to turn World Cup excitement into new fans. Teams are offering free tickets and running ads with Lionel Messi to attract people who haven't tried soccer yet."
     }
   ]
 }

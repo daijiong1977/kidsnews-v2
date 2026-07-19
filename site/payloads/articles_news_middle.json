@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-18-news-1",
-      "source": "Al Jazeera",
-      "time_ago": "Sat, 18 Jul 2026 17:29:23 +0000",
-      "mined_at": "2026-07-18T18:02:32+00:00",
-      "source_published_at": "Sat, 18 Jul 2026 17:29:23 +0000",
-      "image_url": "/article_images/article_ae14d67e0289.webp",
-      "category": "News",
-      "title": "27 Years in the Making: Kerr Shatters El Guerrouj's Mile Record in London",
-      "summary": "Josh Kerr ran a 3:42.66 mile at the London Diamond League, breaking a 27-year-old world record by 0.47 seconds. The 28-year-old Briton was paced perfectly and surged in the final 200 meters before a roaring crowd of 60,000. He became the sixth British man to hold the mark."
-    },
-    {
-      "id": "2026-07-18-news-2",
+      "id": "2026-07-19-news-1",
       "source": "NPR World",
-      "time_ago": "Sat, 18 Jul 2026 11:30:00 -0400",
-      "mined_at": "2026-07-18T18:02:32+00:00",
-      "source_published_at": "Sat, 18 Jul 2026 11:30:00 -0400",
-      "image_url": "/article_images/article_f5f5c83d6c2c.webp",
+      "time_ago": "Sun, 19 Jul 2026 00:00:00 -0400",
+      "mined_at": "2026-07-19T18:04:38+00:00",
+      "source_published_at": "Sun, 19 Jul 2026 00:00:00 -0400",
+      "image_url": "/article_images/article_ab3279e76cf4.webp",
       "category": "News",
-      "title": "Beyond the Pitch: How Women Are Redefining World Cup Fandom",
-      "summary": "NPR reporter Jasmine Garsd discovered a vibrant subculture of women expressing soccer passion through elaborate nail art at the 2026 World Cup. She also encountered a coach who overcame gender barriers and now mentors a team of young Muslim players, revealing how the sport's soul thrives in local communities."
+      "title": "Messi vs. Yamal: A World Cup Final Decades in the Making",
+      "summary": "Argentina and Spain clash in the World Cup final. Can Lionel Messi, 39, secure another title, or will 19-year-old Lamine Yamal lead Spain's young squad to glory?"
     },
     {
-      "id": "2026-07-18-news-3",
+      "id": "2026-07-19-news-2",
       "source": "BBC News",
-      "time_ago": "Sat, 18 Jul 2026 14:32:48 GMT",
-      "mined_at": "2026-07-18T18:02:32+00:00",
-      "source_published_at": "Sat, 18 Jul 2026 14:32:48 GMT",
-      "image_url": "/article_images/article_acad9088d43a.webp",
+      "time_ago": "Sun, 19 Jul 2026 17:23:57 GMT",
+      "mined_at": "2026-07-19T18:04:38+00:00",
+      "source_published_at": "Sun, 19 Jul 2026 17:23:57 GMT",
+      "image_url": "/article_images/article_86392d3caac4.webp",
       "category": "News",
-      "title": "Nice Guy or Ruthless Plotter? Inside Andy Burnham's Rise to PM",
-      "summary": "Andy Burnham, 56, becomes UK prime minister on Monday after ousting Keir Starmer. Insiders describe him as affable yet ruthless—a Cambridge graduate, Everton fan, and poetry lover who danced to New Order at his victory event. But doubts linger about whether his charm translates into effective leadership."
+      "title": "Andy Burnham Becomes UK Prime Minister, Vows 'More Breathing Room'",
+      "summary": "Andy Burnham is set to become the UK's seventh PM in a decade. He promises 'more breathing room' on cost of living, will scrap digital ID plans, and take water and energy companies into public ownership."
+    },
+    {
+      "id": "2026-07-19-news-3",
+      "source": "NPR World",
+      "time_ago": "Sun, 19 Jul 2026 03:00:00 -0400",
+      "mined_at": "2026-07-19T18:04:38+00:00",
+      "source_published_at": "Sun, 19 Jul 2026 03:00:00 -0400",
+      "image_url": "/article_images/article_96484ea92a17.webp",
+      "category": "News",
+      "title": "MLS Aims to Convert World Cup Fever into Long-Term Fan Growth",
+      "summary": "As the World Cup ends, MLS launches a major campaign to attract new fans. Teams like Chicago Fire hosted watch parties drawing 60,000 people, and 22 clubs offer free first tickets to convert casual viewers into regulars."
     }
   ]
 }
