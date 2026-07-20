@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-19-science-1",
-      "source": "ScienceDaily All",
-      "time_ago": "Sun, 19 Jul 2026 08:07:13 EDT",
-      "mined_at": "2026-07-19T18:04:38+00:00",
-      "source_published_at": "Sun, 19 Jul 2026 08:07:13 EDT",
-      "image_url": "/article_images/article_1d02782b218a.webp",
+      "id": "2026-07-20-science-1",
+      "source": "Science News Explores",
+      "time_ago": "Mon, 20 Jul 2026 10:30:00 +0000",
+      "mined_at": "2026-07-20T18:25:27+00:00",
+      "source_published_at": "Mon, 20 Jul 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_6409c6bc446a.webp",
       "category": "Science",
-      "title": "Is That a Secret Hum? Scientists Might Have Found Where It Comes From!",
-      "summary": "Have you ever heard a weird humming noise that nobody else can hear? Scientists studied 28 people in Germany who hear 'The Hum' to figure out if the sound comes from outside or inside our bodies."
+      "title": "Imagine Your Dog Saying 'SQUIRREL!' — Talking Pets Could Be Real One Day!",
+      "summary": "Scientists are getting closer to making animal translators! New AI and listening tools could one day let you chat with your cat or dog. A humpback whale even said 'hello' back in 2023!"
     },
     {
-      "id": "2026-07-19-science-2",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Sun, 19 Jul 2026 00:22:00 EDT",
-      "mined_at": "2026-07-19T18:04:38+00:00",
-      "source_published_at": "Sun, 19 Jul 2026 00:22:00 EDT",
-      "image_url": "/article_images/article_9cc909a0a4b7.webp",
+      "id": "2026-07-20-science-2",
+      "source": "Space.com",
+      "time_ago": "Mon, 20 Jul 2026 18:00:00 +0000",
+      "mined_at": "2026-07-20T18:25:27+00:00",
+      "source_published_at": "Mon, 20 Jul 2026 18:00:00 +0000",
+      "image_url": "/article_images/article_93d79d8a5637.webp",
       "category": "Science",
-      "title": "The Dinosaur-Killing Rock Was a Rare Space Visitor!",
-      "summary": "The giant space rock that wiped out the dinosaurs 66 million years ago was a rare type of meteorite called a CO chondrite. Scientists figured this out by studying tiny bits of nickel left behind in clay all around the world."
+      "title": "50 Years After First Mars Landing, NASA Plans to Fly Helicopters on the Red Planet!",
+      "summary": "NASA's Viking 1 landed on Mars exactly 50 years ago! Now, the space agency is sending three helicopters in 2028 to explore the skies. Rovers have already found signs of ancient water and possible life."
     },
     {
-      "id": "2026-07-19-science-3",
-      "source": "IEEE Spectrum",
-      "time_ago": "Fri, 17 Jul 2026 18:00:01 +0000",
-      "mined_at": "2026-07-19T18:04:38+00:00",
-      "source_published_at": "Fri, 17 Jul 2026 18:00:01 +0000",
-      "image_url": "/article_images/article_7cbd6083bb1c.webp",
+      "id": "2026-07-20-science-3",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Mon, 20 Jul 2026 09:23:44 EDT",
+      "mined_at": "2026-07-20T18:25:27+00:00",
+      "source_published_at": "Mon, 20 Jul 2026 09:23:44 EDT",
+      "image_url": "/article_images/article_c6cfa398bf10.webp",
       "category": "Science",
-      "title": "This Robot Builder Can Put Together Satellites in Space!",
-      "summary": "Sarah Downs, a student engineer, created a smart computer program that helps a robot put antennas on satellites in space—without using cameras! Her work with NASA and the Air Force could change how we build things in orbit."
+      "title": "Some Dinosaurs Could Stand Tall Like Giants—Until They Got Too Heavy!",
+      "summary": "Two South American long-necked dinosaurs could stand on their hind legs, especially when young. But as they grew bigger, their thigh bones got stressed. Scientists used computer models to test this."
     }
   ]
 }

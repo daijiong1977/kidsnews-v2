@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-19-fun-1",
-      "source": "Live Science",
-      "time_ago": "Sun, 19 Jul 2026 13:00:00 +0000",
-      "mined_at": "2026-07-19T18:04:38+00:00",
-      "source_published_at": "Sun, 19 Jul 2026 13:00:00 +0000",
-      "image_url": "/article_images/article_385a37719302.webp",
-      "category": "Fun",
-      "title": "Whoa! A Faraway Planet Might Have Air Like Earth!",
-      "summary": "Astronomers found helium gas escaping from a rocky planet 48 light-years away. It’s the first time we’ve seen an atmosphere on a planet in the “Goldilocks zone” where life could exist. The planet, LHS 1140 b, is a super-Earth bigger than ours."
-    },
-    {
-      "id": "2026-07-19-fun-2",
-      "source": "Popular Mechanics",
-      "time_ago": "Sat, 18 Jul 2026 13:22:49 +0000",
-      "mined_at": "2026-07-19T18:04:38+00:00",
-      "source_published_at": "Sat, 18 Jul 2026 13:22:49 +0000",
-      "image_url": "/article_images/article_9976873c459d.webp",
-      "category": "Fun",
-      "title": "Digging a Ditch, Finding a 1,300-Year-Old Treasure!",
-      "summary": "Workers in Thailand dug under a giant reclining Buddha statue and found a ceramic pot with 33 ancient gold, silver, and bronze ornaments. The treasures are from the Dvaravati period, about 1,300 years ago. They also found metal sheets with beautiful Buddha carvings."
-    },
-    {
-      "id": "2026-07-19-fun-3",
+      "id": "2026-07-20-fun-1",
       "source": "DOGOnews",
       "time_ago": "",
-      "mined_at": "2026-07-19T18:04:38+00:00",
+      "mined_at": "2026-07-20T18:25:27+00:00",
       "source_published_at": "",
-      "image_url": "/article_images/article_21c749771c74.webp",
+      "image_url": "/article_images/article_b953aaea4508.webp",
       "category": "Fun",
-      "title": "July Is Ice Cream Month! Scoop Up These Cool Facts",
-      "summary": "National Ice Cream Month started in 1984 when President Reagan made it official. Americans eat about 23 pounds of ice cream per person each year. The world’s largest scoop weighed over 3,000 pounds and was carved by snow sculptors in Wisconsin."
+      "title": "French Fry-Sized Fish Conquer a 50-Foot Waterfall!",
+      "summary": "Tiny shellear fish, no bigger than a French fry, climb a 50-foot waterfall in Africa using Velcro-like hooks on their fins. It takes them up to 10 hours, and many tumble back down!"
+    },
+    {
+      "id": "2026-07-20-fun-2",
+      "source": "Polygon",
+      "time_ago": "Mon, 20 Jul 2026 18:00:12 GMT",
+      "mined_at": "2026-07-20T18:25:27+00:00",
+      "source_published_at": "Mon, 20 Jul 2026 18:00:12 GMT",
+      "image_url": "/article_images/article_886b614fcfa0.webp",
+      "category": "Fun",
+      "title": "Solve a Murder on a Submarine Full of Goofballs!",
+      "summary": "The Mermaid Mask is a hilarious detective game where you solve a murder on a submarine. With silly suspects like a puppet salesman and a dramatic magician, it's one of the best-reviewed games of 2026."
+    },
+    {
+      "id": "2026-07-20-fun-3",
+      "source": "Billboard",
+      "time_ago": "Mon, 20 Jul 2026 18:00:54 +0000",
+      "mined_at": "2026-07-20T18:25:27+00:00",
+      "source_published_at": "Mon, 20 Jul 2026 18:00:54 +0000",
+      "image_url": "/article_images/article_a5fe1f10810a.webp",
+      "category": "Fun",
+      "title": "Which Song Ruled the Charts the Longest? You'll Never Guess!",
+      "summary": "Mariah Carey's \"All I Want for Christmas Is You\" now holds the record for the longest-running No. 1 on the Billboard Hot 100, with 22 weeks. It's a holiday hit that keeps coming back!"
     }
   ]
 }

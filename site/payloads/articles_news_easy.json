@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-19-news-1",
-      "source": "NPR World",
-      "time_ago": "Sun, 19 Jul 2026 00:00:00 -0400",
-      "mined_at": "2026-07-19T18:04:38+00:00",
-      "source_published_at": "Sun, 19 Jul 2026 00:00:00 -0400",
-      "image_url": "/article_images/article_ab3279e76cf4.webp",
+      "id": "2026-07-20-news-1",
+      "source": "Al Jazeera",
+      "time_ago": "Mon, 20 Jul 2026 17:31:43 +0000",
+      "mined_at": "2026-07-20T18:25:27+00:00",
+      "source_published_at": "Mon, 20 Jul 2026 17:31:43 +0000",
+      "image_url": "/article_images/article_dc7e624c92f4.webp",
       "category": "News",
-      "title": "Messi vs. Yamal: A World Cup Final for the Ages!",
-      "summary": "Argentina and Spain face off in the World Cup final. Can Lionel Messi, 39, win again, or will teen star Lamine Yamal, 19, lead Spain to victory?"
+      "title": "Spain Wins the Biggest World Cup Ever — But Was It Too Big?",
+      "summary": "Spain beat Argentina in the final of the first 48-team World Cup. Fans loved new teams like Cape Verde, but many booed the new hydration breaks that stopped the game for drinks."
     },
     {
-      "id": "2026-07-19-news-2",
+      "id": "2026-07-20-news-2",
       "source": "BBC News",
-      "time_ago": "Sun, 19 Jul 2026 17:23:57 GMT",
-      "mined_at": "2026-07-19T18:04:38+00:00",
-      "source_published_at": "Sun, 19 Jul 2026 17:23:57 GMT",
-      "image_url": "/article_images/article_86392d3caac4.webp",
+      "time_ago": "Mon, 20 Jul 2026 16:51:54 GMT",
+      "mined_at": "2026-07-20T18:25:27+00:00",
+      "source_published_at": "Mon, 20 Jul 2026 16:51:54 GMT",
+      "image_url": "/article_images/article_3b39992a0ba0.webp",
       "category": "News",
-      "title": "New UK Prime Minister Andy Burnham Promises 'More Breathing Room'",
-      "summary": "Andy Burnham becomes UK's new prime minister. He promises to give people 'more breathing room' on cost of living and plans to scrap digital IDs and take water and energy companies public."
+      "title": "The UK's New Prime Minister Has Big Plans — But How Will He Pay for Them?",
+      "summary": "Andy Burnham just became the UK's new PM, and he wants to help people with the cost of living, build more houses, and end rough sleeping. But these ideas cost billions of pounds, and no one knows where the money will come from."
     },
     {
-      "id": "2026-07-19-news-3",
-      "source": "NPR World",
-      "time_ago": "Sun, 19 Jul 2026 03:00:00 -0400",
-      "mined_at": "2026-07-19T18:04:38+00:00",
-      "source_published_at": "Sun, 19 Jul 2026 03:00:00 -0400",
-      "image_url": "/article_images/article_96484ea92a17.webp",
+      "id": "2026-07-20-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Mon, 20 Jul 2026 17:40:29 +0000",
+      "mined_at": "2026-07-20T18:25:27+00:00",
+      "source_published_at": "Mon, 20 Jul 2026 17:40:29 +0000",
+      "image_url": "/article_images/article_a98105ab30e6.webp",
       "category": "News",
-      "title": "MLS Hopes World Cup Fever Brings New Fans to Soccer in the U.S.",
-      "summary": "Major League Soccer wants to turn World Cup excitement into new fans. Teams are offering free tickets and running ads with Lionel Messi to attract people who haven't tried soccer yet."
+      "title": "Gas Prices Are Rising Again — Here's Why Your Family's Road Trip Just Got More Expensive",
+      "summary": "Tensions between the US and Iran are pushing gas prices up. The average price hit $4 per gallon in the US, and oil tankers are avoiding a key waterway called the Strait of Hormuz, which carries a fifth of the world's oil."
     }
   ]
 }

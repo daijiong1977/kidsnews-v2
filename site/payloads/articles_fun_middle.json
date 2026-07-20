@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-19-fun-1",
-      "source": "Live Science",
-      "time_ago": "Sun, 19 Jul 2026 13:00:00 +0000",
-      "mined_at": "2026-07-19T18:04:38+00:00",
-      "source_published_at": "Sun, 19 Jul 2026 13:00:00 +0000",
-      "image_url": "/article_images/article_385a37719302.webp",
-      "category": "Fun",
-      "title": "First Atmosphere Detected on a Rocky Planet in the Habitable Zone—A Game Changer for Alien Life Hunt",
-      "summary": "In a historic first, astronomers detected helium escaping from super-Earth LHS 1140 b, proving it has an atmosphere. Located 48 light-years away in its star’s habitable zone, this rocky world could have conditions suitable for life. The finding, published in Science, opens a new era of exoplanet exploration."
-    },
-    {
-      "id": "2026-07-19-fun-2",
-      "source": "Popular Mechanics",
-      "time_ago": "Sat, 18 Jul 2026 13:22:49 +0000",
-      "mined_at": "2026-07-19T18:04:38+00:00",
-      "source_published_at": "Sat, 18 Jul 2026 13:22:49 +0000",
-      "image_url": "/article_images/article_9976873c459d.webp",
-      "category": "Fun",
-      "title": "1,300-Year-Old Gold Treasure Unearthed Beneath Thailand’s Ancient Reclining Buddha",
-      "summary": "While digging a drainage system at Wat Thammachak Sema Ram, workers discovered a ceramic pot containing 33 gold, silver, and bronze ornaments from the Dvaravati period. Additional finds included repoussé metal sheets depicting Buddha, likely ritual offerings. The 43-foot statue dates to 657 A.D."
-    },
-    {
-      "id": "2026-07-19-fun-3",
+      "id": "2026-07-20-fun-1",
       "source": "DOGOnews",
       "time_ago": "",
-      "mined_at": "2026-07-19T18:04:38+00:00",
+      "mined_at": "2026-07-20T18:25:27+00:00",
       "source_published_at": "",
-      "image_url": "/article_images/article_21c749771c74.webp",
+      "image_url": "/article_images/article_b953aaea4508.webp",
       "category": "Fun",
-      "title": "From Ancient China to a $6,696 Scoop: Celebrate National Ice Cream Month with These Wild Facts",
-      "summary": "National Ice Cream Month, declared by President Reagan in 1984, honors a treat with a rich history. The average American eats 23 pounds annually. World records include a 3,010-pound scoop carved in Wisconsin and a $6,696 gelato in Japan featuring truffles and gold leaf."
+      "title": "Against the Current: How Tiny Fish Scale a 50-Foot Waterfall with Velcro Fins",
+      "summary": "Shellear fish under two inches long climb a 50-foot waterfall in Congo using microscopic hooks on their fins. The exhausting journey can take 10 hours, with many slipping and starting over."
+    },
+    {
+      "id": "2026-07-20-fun-2",
+      "source": "Polygon",
+      "time_ago": "Mon, 20 Jul 2026 18:00:12 GMT",
+      "mined_at": "2026-07-20T18:25:27+00:00",
+      "source_published_at": "Mon, 20 Jul 2026 18:00:12 GMT",
+      "image_url": "/article_images/article_886b614fcfa0.webp",
+      "category": "Fun",
+      "title": "The Mermaid Mask: A Murder Mystery Where Every Suspect Is a Lovable Goofball",
+      "summary": "The Mermaid Mask is a critically acclaimed point-and-click mystery game set on a submarine. With a cast of eccentric suspects and sharp comedic writing, it's one of 2026's best-reviewed games."
+    },
+    {
+      "id": "2026-07-20-fun-3",
+      "source": "Billboard",
+      "time_ago": "Mon, 20 Jul 2026 18:00:54 +0000",
+      "mined_at": "2026-07-20T18:25:27+00:00",
+      "source_published_at": "Mon, 20 Jul 2026 18:00:54 +0000",
+      "image_url": "/article_images/article_a5fe1f10810a.webp",
+      "category": "Fun",
+      "title": "Mariah Carey's Christmas Classic Breaks Record for Longest Hot 100 Reign",
+      "summary": "Mariah Carey's \"All I Want for Christmas Is You\" now holds the record for the most weeks at No. 1 on the Billboard Hot 100, with 22 weeks. It surpasses hits like \"Old Town Road\" and \"One Sweet Day.\""
     }
   ]
 }
