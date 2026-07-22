@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-21-science-1",
-      "source": "Space.com",
-      "time_ago": "Tue, 21 Jul 2026 17:00:00 +0000",
-      "mined_at": "2026-07-21T18:08:27+00:00",
-      "source_published_at": "Tue, 21 Jul 2026 17:00:00 +0000",
-      "image_url": "/article_images/article_ba997fa83f83.webp",
+      "id": "2026-07-22-science-1",
+      "source": "Science News Explores",
+      "time_ago": "Tue, 21 Jul 2026 10:30:00 +0000",
+      "mined_at": "2026-07-22T18:07:38+00:00",
+      "source_published_at": "Tue, 21 Jul 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_060b73a1afdf.webp",
       "category": "Science",
-      "title": "Moon Mission Will Livestream in 4K Thanks to Space Lasers!",
-      "summary": "NASA's Artemis III astronauts will use SpaceX's Starlink lasers to beam super-clear 4K video from the Orion spacecraft. The mission is set for late 2027."
+      "title": "Snakes on a Train! King Cobras Might Be Riding the Rails in India",
+      "summary": "Imagine a 15-foot king cobra slithering onto a train! Researchers think these giant snakes are hitching rides across India, drawn by rats that eat leftover food. One rescuer-turned-scientist found evidence in Goa."
     },
     {
-      "id": "2026-07-21-science-2",
-      "source": "Popular Science",
-      "time_ago": "Tue, 21 Jul 2026 12:49:34 -0400",
-      "mined_at": "2026-07-21T18:08:27+00:00",
-      "source_published_at": "Tue, 21 Jul 2026 12:49:34 -0400",
-      "image_url": "/article_images/article_df74e83a82fc.webp",
+      "id": "2026-07-22-science-2",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Wed, 22 Jul 2026 06:00:54 EDT",
+      "mined_at": "2026-07-22T18:07:38+00:00",
+      "source_published_at": "Wed, 22 Jul 2026 06:00:54 EDT",
+      "image_url": "/article_images/article_4440852bdca0.webp",
       "category": "Science",
-      "title": "Famous Eagle Mom Jackie Found Weak—But She's Getting Help!",
-      "summary": "Jackie, the bald eagle mom watched by millions on a live nest cam, was found weak and unable to fly. She's now being cared for at the Ojai Raptor Center in California."
+      "title": "A Tiny Chip That Could Help Self-Driving Cars See More",
+      "summary": "MIT scientists built a new lidar chip that lets self-driving cars see a wider area without moving parts. It uses tiny antennas that don't interfere with each other, making the view clearer and the sensor smaller."
     },
     {
-      "id": "2026-07-21-science-3",
-      "source": "NASA News",
-      "time_ago": "Tue, 21 Jul 2026 15:30:15 +0000",
-      "mined_at": "2026-07-21T18:08:27+00:00",
-      "source_published_at": "Tue, 21 Jul 2026 15:30:15 +0000",
-      "image_url": "/article_images/article_d804c8f78ca6.webp",
+      "id": "2026-07-22-science-3",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Wed, 22 Jul 2026 09:10:01 EDT",
+      "mined_at": "2026-07-22T18:07:38+00:00",
+      "source_published_at": "Wed, 22 Jul 2026 09:10:01 EDT",
+      "image_url": "/article_images/article_a4443ac56565.webp",
       "category": "Science",
-      "title": "NASA's Wild New Ideas: Sunshades in Space and Robot Explorers!",
-      "summary": "NASA picked 17 far-out projects for its 2026 NIAC program, including a dust cloud to cool Earth and tiny robots to explore Saturn's rings. Each gets money to study if the idea could work."
+      "title": "When Ferns Took Over the World and Set It on Fire",
+      "summary": "201 million years ago, huge volcanoes warmed the Earth, trees died, and ferns spread everywhere. Scientists found that these ferns caught fire easily, turning ancient Europe into a wildfire nightmare. They discovered this by checking the color of fossil pollen."
     }
   ]
 }
