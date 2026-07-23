@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-22-science-1",
-      "source": "Science News Explores",
-      "time_ago": "Tue, 21 Jul 2026 10:30:00 +0000",
-      "mined_at": "2026-07-22T18:07:38+00:00",
-      "source_published_at": "Tue, 21 Jul 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_060b73a1afdf.webp",
-      "category": "Science",
-      "title": "Snakes on a Train! King Cobras Might Be Riding the Rails in India",
-      "summary": "Imagine a 15-foot king cobra slithering onto a train! Researchers think these giant snakes are hitching rides across India, drawn by rats that eat leftover food. One rescuer-turned-scientist found evidence in Goa."
-    },
-    {
-      "id": "2026-07-22-science-2",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Wed, 22 Jul 2026 06:00:54 EDT",
-      "mined_at": "2026-07-22T18:07:38+00:00",
-      "source_published_at": "Wed, 22 Jul 2026 06:00:54 EDT",
-      "image_url": "/article_images/article_4440852bdca0.webp",
-      "category": "Science",
-      "title": "A Tiny Chip That Could Help Self-Driving Cars See More",
-      "summary": "MIT scientists built a new lidar chip that lets self-driving cars see a wider area without moving parts. It uses tiny antennas that don't interfere with each other, making the view clearer and the sensor smaller."
-    },
-    {
-      "id": "2026-07-22-science-3",
+      "id": "2026-07-23-science-1",
       "source": "ScienceDaily Top Environment",
-      "time_ago": "Wed, 22 Jul 2026 09:10:01 EDT",
-      "mined_at": "2026-07-22T18:07:38+00:00",
-      "source_published_at": "Wed, 22 Jul 2026 09:10:01 EDT",
-      "image_url": "/article_images/article_a4443ac56565.webp",
+      "time_ago": "Thu, 23 Jul 2026 09:55:59 EDT",
+      "mined_at": "2026-07-23T18:10:46+00:00",
+      "source_published_at": "Thu, 23 Jul 2026 09:55:59 EDT",
+      "image_url": "/article_images/article_810177f11c28.webp",
       "category": "Science",
-      "title": "When Ferns Took Over the World and Set It on Fire",
-      "summary": "201 million years ago, huge volcanoes warmed the Earth, trees died, and ferns spread everywhere. Scientists found that these ferns caught fire easily, turning ancient Europe into a wildfire nightmare. They discovered this by checking the color of fossil pollen."
+      "title": "Orcas Play Food-Smashing Game with Giant Sunfish!",
+      "summary": "Imagine a 2,000-kg fish getting smashed into thousands of pieces by two orcas working together. Scientists in the Gulf of California filmed this never-before-seen behavior for the first time. It might be how adults help kids eat—or just for fun!"
+    },
+    {
+      "id": "2026-07-23-science-2",
+      "source": "MIT Tech Review",
+      "time_ago": "Thu, 23 Jul 2026 16:58:28 +0000",
+      "mined_at": "2026-07-23T18:10:46+00:00",
+      "source_published_at": "Thu, 23 Jul 2026 16:58:28 +0000",
+      "image_url": "/article_images/article_12d5b9e2ee6d.webp",
+      "category": "Science",
+      "title": "Kidneys Kept Super-Cold for Days Work Perfectly in Pigs!",
+      "summary": "Scientists cooled pig kidneys to -4°C without freezing them, stored them for three days, and transplanted them back. The kidneys worked faster than those kept on ice. This could help solve the organ shortage—over 104,000 people in the US are waiting for a kidney."
+    },
+    {
+      "id": "2026-07-23-science-3",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Tue, 21 Jul 2026 01:10:08 EDT",
+      "mined_at": "2026-07-23T18:10:46+00:00",
+      "source_published_at": "Tue, 21 Jul 2026 01:10:08 EDT",
+      "image_url": "/article_images/article_b4f3dfe8ac2f.webp",
+      "category": "Science",
+      "title": "Mystery Bacteria Found in Super-Shy Deep-Sea Whales!",
+      "summary": "Scientists discovered three new types of bacteria in pygmy sperm whales that washed ashore. These tiny creatures, called Helicobacter, were linked to stomach ulcers. It's the first time they've been found in these elusive whales—and there might be many more unknown ocean bacteria!"
     }
   ]
 }

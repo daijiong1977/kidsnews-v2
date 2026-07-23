@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-22-science-1",
-      "source": "Science News Explores",
-      "time_ago": "Tue, 21 Jul 2026 10:30:00 +0000",
-      "mined_at": "2026-07-22T18:07:38+00:00",
-      "source_published_at": "Tue, 21 Jul 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_060b73a1afdf.webp",
-      "category": "Science",
-      "title": "Serpentine Stowaways: King Cobras May Be Commuting by Train Across India",
-      "summary": "King cobras might be using India's railways to spread into new territory. A herpetologist who started rescuing snakes as a kid found that sightings cluster near train stations. Rats chasing food scraps could be luring the snakes aboard."
-    },
-    {
-      "id": "2026-07-22-science-2",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Wed, 22 Jul 2026 06:00:54 EDT",
-      "mined_at": "2026-07-22T18:07:38+00:00",
-      "source_published_at": "Wed, 22 Jul 2026 06:00:54 EDT",
-      "image_url": "/article_images/article_4440852bdca0.webp",
-      "category": "Science",
-      "title": "MIT's New Lidar Chip Gives Autonomous Vehicles a Wider, Clearer View",
-      "summary": "MIT researchers developed a silicon-photonics chip that eliminates crosstalk between antennas, enabling lidar sensors with a broader field of view and less noise. The advance could shrink lidar systems for use in self-driving cars, drones, and construction monitoring."
-    },
-    {
-      "id": "2026-07-22-science-3",
+      "id": "2026-07-23-science-1",
       "source": "ScienceDaily Top Environment",
-      "time_ago": "Wed, 22 Jul 2026 09:10:01 EDT",
-      "mined_at": "2026-07-22T18:07:38+00:00",
-      "source_published_at": "Wed, 22 Jul 2026 09:10:01 EDT",
-      "image_url": "/article_images/article_a4443ac56565.webp",
+      "time_ago": "Thu, 23 Jul 2026 09:55:59 EDT",
+      "mined_at": "2026-07-23T18:10:46+00:00",
+      "source_published_at": "Thu, 23 Jul 2026 09:55:59 EDT",
+      "image_url": "/article_images/article_810177f11c28.webp",
       "category": "Science",
-      "title": "Ancient Ferns Fueled a Triassic Wildfire Inferno, Fossil Colors Reveal",
-      "summary": "After the end-Triassic mass extinction, ferns spread across Europe and triggered intense wildfires. Researchers used a new 'Palynomorph Darkness Index' to measure fossil pollen color, finding a dark zone that matches a spike in charcoal and smoke compounds."
+      "title": "Orcas Shatter Sunfish in Never-Before-Seen Cooperative Hunting Behavior",
+      "summary": "In the Gulf of California, orcas were filmed ramming a 2,000-kg sunfish at high speed, breaking it into thousands of fragments. This newly documented strategy may help juveniles feed or simply be play. Researchers call it a first in orca predation science."
+    },
+    {
+      "id": "2026-07-23-science-2",
+      "source": "MIT Tech Review",
+      "time_ago": "Thu, 23 Jul 2026 16:58:28 +0000",
+      "mined_at": "2026-07-23T18:10:46+00:00",
+      "source_published_at": "Thu, 23 Jul 2026 16:58:28 +0000",
+      "image_url": "/article_images/article_12d5b9e2ee6d.webp",
+      "category": "Science",
+      "title": "Supercooled Pig Kidneys Transplanted Successfully After 72 Hours in 'Landmark' Study",
+      "summary": "Using a pressure-controlled device, scientists stored pig kidneys at -4°C for up to three days without ice formation. Transplanted organs recovered faster than those kept on ice, a breakthrough that could extend organ preservation and ease the critical kidney shortage."
+    },
+    {
+      "id": "2026-07-23-science-3",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Tue, 21 Jul 2026 01:10:08 EDT",
+      "mined_at": "2026-07-23T18:10:46+00:00",
+      "source_published_at": "Tue, 21 Jul 2026 01:10:08 EDT",
+      "image_url": "/article_images/article_b4f3dfe8ac2f.webp",
+      "category": "Science",
+      "title": "Novel Helicobacter Strains Discovered in Elusive Pygmy Sperm Whales",
+      "summary": "For the first time, researchers identified three new Helicobacter genotypes in pygmy sperm whales, linking them to stomach ulcers and gastritis. The findings, from stranded whales, hint at undiscovered microbial diversity and potential health threats to vulnerable marine populations."
     }
   ]
 }

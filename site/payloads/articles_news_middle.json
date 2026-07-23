@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-22-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Wed, 22 Jul 2026 12:16:52 -0400",
-      "mined_at": "2026-07-22T18:07:38+00:00",
-      "source_published_at": "Wed, 22 Jul 2026 12:16:52 -0400",
-      "image_url": "/article_images/article_8f7f480b8186.webp",
-      "category": "News",
-      "title": "Trump Touts Baby Bonds in Georgia, But Delays and Criticism Cloud the Rollout",
-      "summary": "President Trump promoted his $1,000 baby bond program at a Georgia high school. While 6.5 million have signed up, some parents report weeks-long waits for the seed money. Critics say the program ignores immediate child poverty needs."
-    },
-    {
-      "id": "2026-07-22-news-2",
-      "source": "NPR World",
-      "time_ago": "Wed, 22 Jul 2026 11:41:39 -0400",
-      "mined_at": "2026-07-22T18:07:38+00:00",
-      "source_published_at": "Wed, 22 Jul 2026 11:41:39 -0400",
-      "image_url": "/article_images/article_2ff53318a47f.webp",
-      "category": "News",
-      "title": "From Algae to Arrests: How the Reflecting Pool Became D.C.'s Must-Watch Drama",
-      "summary": "What started as a quick $2 million resurfacing of the Lincoln Memorial Reflecting Pool has spiraled into a $14 million saga involving green algae, peeling paint, felony charges, and a 5,000% spike in Google searches."
-    },
-    {
-      "id": "2026-07-22-news-3",
+      "id": "2026-07-23-news-1",
       "source": "BBC News",
-      "time_ago": "Wed, 22 Jul 2026 12:26:03 GMT",
-      "mined_at": "2026-07-22T18:07:38+00:00",
-      "source_published_at": "Wed, 22 Jul 2026 12:26:03 GMT",
-      "image_url": "/article_images/article_d0f47098a379.webp",
+      "time_ago": "Thu, 23 Jul 2026 17:48:21 GMT",
+      "mined_at": "2026-07-23T18:10:46+00:00",
+      "source_published_at": "Thu, 23 Jul 2026 17:48:21 GMT",
+      "image_url": "/article_images/article_dedc5a4790cf.webp",
       "category": "News",
-      "title": "England Caps Bus Fares at £2 to Ease Cost-of-Living Squeeze, But Rural Gaps Remain",
-      "summary": "The UK government will cap most English bus fares at £2 from January, a £500 million bid to help households. Critics say the move ignores rural service cuts, and funding questions linger."
+      "title": "Trump Ties Saudi Nuclear Deal to Israel Recognition, Raising Stakes in the Middle East",
+      "summary": "President Trump says a U.S.-Saudi nuclear cooperation agreement hinges on Saudi Arabia joining the Abraham Accords and recognizing Israel. The deal aims for peaceful energy but stirs proliferation concerns."
+    },
+    {
+      "id": "2026-07-23-news-2",
+      "source": "NPR World",
+      "time_ago": "Thu, 23 Jul 2026 05:00:00 -0400",
+      "mined_at": "2026-07-23T18:10:46+00:00",
+      "source_published_at": "Thu, 23 Jul 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_941388470447.webp",
+      "category": "News",
+      "title": "Federal Agency Scrubs Bike Safety Resources, Sparking Outcry from Experts",
+      "summary": "The FHWA has removed bike safety countermeasures and a crash analysis tool from its website after Secretary Duffy's anti-\"DEI bike lane\" push. Safety researchers warn this undermines proven road safety strategies."
+    },
+    {
+      "id": "2026-07-23-news-3",
+      "source": "BBC News",
+      "time_ago": "Thu, 23 Jul 2026 15:31:00 GMT",
+      "mined_at": "2026-07-23T18:10:46+00:00",
+      "source_published_at": "Thu, 23 Jul 2026 15:31:00 GMT",
+      "image_url": "/article_images/article_5a577cbb7702.webp",
+      "category": "News",
+      "title": "Oil Breaches $100 as Red Sea Attacks Reignite Supply Fears",
+      "summary": "Brent crude hit $100 a barrel after Houthi strikes on tankers threatened a key Saudi export route. The spike could fuel inflation and pressure central banks to keep interest rates elevated."
     }
   ]
 }

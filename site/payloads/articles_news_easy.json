@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-22-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Wed, 22 Jul 2026 12:16:52 -0400",
-      "mined_at": "2026-07-22T18:07:38+00:00",
-      "source_published_at": "Wed, 22 Jul 2026 12:16:52 -0400",
-      "image_url": "/article_images/article_8f7f480b8186.webp",
-      "category": "News",
-      "title": "Free $1,000 for Babies? Trump Accounts Are Here, But Some Families Are Still Waiting",
-      "summary": "President Trump is giving $1,000 to babies born during his term. Over 6.5 million kids have signed up, but some parents say the money hasn't shown up yet. They're told it could take weeks."
-    },
-    {
-      "id": "2026-07-22-news-2",
-      "source": "NPR World",
-      "time_ago": "Wed, 22 Jul 2026 11:41:39 -0400",
-      "mined_at": "2026-07-22T18:07:38+00:00",
-      "source_published_at": "Wed, 22 Jul 2026 11:41:39 -0400",
-      "image_url": "/article_images/article_2ff53318a47f.webp",
-      "category": "News",
-      "title": "The Reflecting Pool Drama: Algae, Arrests, and a $14 Million Makeover",
-      "summary": "The Lincoln Memorial Reflecting Pool in D.C. was supposed to get a quick, cheap makeover. Instead, it's turned into a months-long reality show with green algae, peeling paint, arrests, and a price tag over $14 million."
-    },
-    {
-      "id": "2026-07-22-news-3",
+      "id": "2026-07-23-news-1",
       "source": "BBC News",
-      "time_ago": "Wed, 22 Jul 2026 12:26:03 GMT",
-      "mined_at": "2026-07-22T18:07:38+00:00",
-      "source_published_at": "Wed, 22 Jul 2026 12:26:03 GMT",
-      "image_url": "/article_images/article_d0f47098a379.webp",
+      "time_ago": "Thu, 23 Jul 2026 17:48:21 GMT",
+      "mined_at": "2026-07-23T18:10:46+00:00",
+      "source_published_at": "Thu, 23 Jul 2026 17:48:21 GMT",
+      "image_url": "/article_images/article_dedc5a4790cf.webp",
       "category": "News",
-      "title": "Bus Rides for Just £2! England Caps Fares to Help with Living Costs",
-      "summary": "Starting in January, most bus rides in England will cost no more than £2. The government says it will help people save money, but some worry that rural areas still don't have enough buses."
+      "title": "Trump Says Saudi Arabia Must Make Friends with Israel to Get a Nuclear Deal",
+      "summary": "President Trump says Saudi Arabia can only get help building nuclear power if it joins the Abraham Accords and officially recognizes Israel. The deal is about peaceful energy, not bombs."
+    },
+    {
+      "id": "2026-07-23-news-2",
+      "source": "NPR World",
+      "time_ago": "Thu, 23 Jul 2026 05:00:00 -0400",
+      "mined_at": "2026-07-23T18:10:46+00:00",
+      "source_published_at": "Thu, 23 Jul 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_941388470447.webp",
+      "category": "News",
+      "title": "Why Is the Government Hiding Bike Safety Info?",
+      "summary": "The U.S. Department of Transportation is removing bike safety guides and crash tools from its websites, calling some bike lanes \"DEI.\" Safety experts say this could make roads more dangerous."
+    },
+    {
+      "id": "2026-07-23-news-3",
+      "source": "BBC News",
+      "time_ago": "Thu, 23 Jul 2026 15:31:00 GMT",
+      "mined_at": "2026-07-23T18:10:46+00:00",
+      "source_published_at": "Thu, 23 Jul 2026 15:31:00 GMT",
+      "image_url": "/article_images/article_5a577cbb7702.webp",
+      "category": "News",
+      "title": "Oil Prices Hit $100 Again—Here's Why It Matters to You",
+      "summary": "Oil prices jumped to $100 a barrel after Houthi rebels attacked tankers in the Red Sea. This could make gas, food, and other stuff more expensive for families everywhere."
     }
   ]
 }
