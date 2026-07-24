@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-23-news-1",
-      "source": "BBC News",
-      "time_ago": "Thu, 23 Jul 2026 17:48:21 GMT",
-      "mined_at": "2026-07-23T18:10:46+00:00",
-      "source_published_at": "Thu, 23 Jul 2026 17:48:21 GMT",
-      "image_url": "/article_images/article_dedc5a4790cf.webp",
-      "category": "News",
-      "title": "Trump Says Saudi Arabia Must Make Friends with Israel to Get a Nuclear Deal",
-      "summary": "President Trump says Saudi Arabia can only get help building nuclear power if it joins the Abraham Accords and officially recognizes Israel. The deal is about peaceful energy, not bombs."
-    },
-    {
-      "id": "2026-07-23-news-2",
+      "id": "2026-07-24-news-1",
       "source": "NPR World",
-      "time_ago": "Thu, 23 Jul 2026 05:00:00 -0400",
-      "mined_at": "2026-07-23T18:10:46+00:00",
-      "source_published_at": "Thu, 23 Jul 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_941388470447.webp",
+      "time_ago": "Fri, 24 Jul 2026 05:00:00 -0400",
+      "mined_at": "2026-07-24T18:32:48+00:00",
+      "source_published_at": "Fri, 24 Jul 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_3281d6d1b90f.webp",
       "category": "News",
-      "title": "Why Is the Government Hiding Bike Safety Info?",
-      "summary": "The U.S. Department of Transportation is removing bike safety guides and crash tools from its websites, calling some bike lanes \"DEI.\" Safety experts say this could make roads more dangerous."
+      "title": "They Got Paid $12,000 to Move to West Virginia — and They're Staying!",
+      "summary": "Imagine getting paid to move to a place with mountains, rivers, and dark skies for stargazing! That's what happened to Ashley Eklin and others in the Ascend West Virginia program. They got $12,000 to relocate, and many are staying."
     },
     {
-      "id": "2026-07-23-news-3",
-      "source": "BBC News",
-      "time_ago": "Thu, 23 Jul 2026 15:31:00 GMT",
-      "mined_at": "2026-07-23T18:10:46+00:00",
-      "source_published_at": "Thu, 23 Jul 2026 15:31:00 GMT",
-      "image_url": "/article_images/article_5a577cbb7702.webp",
+      "id": "2026-07-24-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Fri, 24 Jul 2026 12:57:09 -0400",
+      "mined_at": "2026-07-24T18:32:48+00:00",
+      "source_published_at": "Fri, 24 Jul 2026 12:57:09 -0400",
+      "image_url": "/article_images/article_bd5312881548.webp",
       "category": "News",
-      "title": "Oil Prices Hit $100 Again—Here's Why It Matters to You",
-      "summary": "Oil prices jumped to $100 a barrel after Houthi rebels attacked tankers in the Red Sea. This could make gas, food, and other stuff more expensive for families everywhere."
+      "title": "New U.S. Tariffs Make Other Countries Mad — Here's Why",
+      "summary": "The U.S. just raised taxes on goods from countries like Australia and Japan, saying they use forced labor. But those countries say it's not true! Australia's trade minister called the tariffs \"completely unjustified.\""
+    },
+    {
+      "id": "2026-07-24-news-3",
+      "source": "BBC News",
+      "time_ago": "Fri, 24 Jul 2026 13:04:47 GMT",
+      "mined_at": "2026-07-24T18:32:48+00:00",
+      "source_published_at": "Fri, 24 Jul 2026 13:04:47 GMT",
+      "image_url": "/article_images/article_5a8fe1f19175.webp",
+      "category": "News",
+      "title": "New Prime Minister's First Week: Free Bus Rides? Cheaper Electricity?",
+      "summary": "Andy Burnham just became the UK's prime minister, and he's already making big promises. He wants to cap bus fares at £2, cut electricity bills, and end rough sleeping. But some experts wonder how he'll pay for it all."
     }
   ]
 }
