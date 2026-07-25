@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-24-news-1",
-      "source": "NPR World",
-      "time_ago": "Fri, 24 Jul 2026 05:00:00 -0400",
-      "mined_at": "2026-07-24T18:32:48+00:00",
-      "source_published_at": "Fri, 24 Jul 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_3281d6d1b90f.webp",
-      "category": "News",
-      "title": "West Virginia's $12,000 Bet Pays Off: Digital Nomads Are Putting Down Roots",
-      "summary": "Ashley Eklin moved from Chicago to a town of 3,400 in West Virginia, lured by a $12,000 incentive. She's part of Ascend West Virginia, a privately funded program that's reversing population decline by attracting remote workers with cash and outdoor recreation."
-    },
-    {
-      "id": "2026-07-24-news-2",
+      "id": "2026-07-25-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Fri, 24 Jul 2026 12:57:09 -0400",
-      "mined_at": "2026-07-24T18:32:48+00:00",
-      "source_published_at": "Fri, 24 Jul 2026 12:57:09 -0400",
-      "image_url": "/article_images/article_bd5312881548.webp",
+      "time_ago": "Fri, 24 Jul 2026 19:10:16 -0400",
+      "mined_at": "2026-07-25T17:59:40+00:00",
+      "source_published_at": "Fri, 24 Jul 2026 19:10:16 -0400",
+      "image_url": "/article_images/article_3addc369674e.webp",
       "category": "News",
-      "title": "U.S. Slaps New Tariffs on Allies, Citing Forced Labor — Trading Partners Push Back",
-      "summary": "President Trump's latest tariffs, raising rates on goods from Australia, Japan, and others to 12.5%, are based on forced labor allegations. Australia's trade minister called them \"completely unjustified,\" while China warned trade wars help no one."
+      "title": "Burnham's Breakneck First Week: A Northern Office, Tax Cuts, and a Message to the World",
+      "summary": "New UK Prime Minister Andy Burnham capped a whirlwind first week by opening a part-time office in Manchester, signaling his commitment to decentralizing power. He also announced tax cuts and faced foreign policy tests from Ukraine to Iran."
     },
     {
-      "id": "2026-07-24-news-3",
-      "source": "BBC News",
-      "time_ago": "Fri, 24 Jul 2026 13:04:47 GMT",
-      "mined_at": "2026-07-24T18:32:48+00:00",
-      "source_published_at": "Fri, 24 Jul 2026 13:04:47 GMT",
-      "image_url": "/article_images/article_5a8fe1f19175.webp",
+      "id": "2026-07-25-news-2",
+      "source": "NPR World",
+      "time_ago": "Sat, 25 Jul 2026 01:04:00 -0400",
+      "mined_at": "2026-07-25T17:59:40+00:00",
+      "source_published_at": "Sat, 25 Jul 2026 01:04:00 -0400",
+      "image_url": "/article_images/article_bf5ab3674155.webp",
       "category": "News",
-      "title": "Burnham's First Week: Big Spending Pledges, But Where's the Money Coming From?",
-      "summary": "New UK Prime Minister Andy Burnham capped bus fares at £2, cut electricity VAT, and pledged £340m to end rough sleeping. But funding details remain vague, with experts questioning if the numbers add up."
+      "title": "Trump Returns to Correspondents' Dinner with Rambling Speech, Jabs, and a 'Trump 2028' Hat",
+      "summary": "At a rescheduled White House Correspondents' Dinner, President Trump delivered an hour-long mix of humor and insults, targeting journalists and political foes. He joked about a third term and donned a 'Trump 2028' cap, while security was tightened after April's shooting scare."
+    },
+    {
+      "id": "2026-07-25-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Sat, 25 Jul 2026 08:00:26 -0400",
+      "mined_at": "2026-07-25T17:59:40+00:00",
+      "source_published_at": "Sat, 25 Jul 2026 08:00:26 -0400",
+      "image_url": "/article_images/article_4629021e76ec.webp",
+      "category": "News",
+      "title": "Fact-Check: Can Foreign Adversaries Really Hack US Voting Machines?",
+      "summary": "Homeland Security Secretary Markwayne Mullin claimed foreign adversaries can access voting machines and flip votes. Experts acknowledge vulnerabilities but stress there's no evidence of such attacks in real elections, thanks to physical safeguards and paper ballots."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-24-science-1",
-      "source": "Popular Science",
-      "time_ago": "Fri, 24 Jul 2026 14:09:46 -0400",
-      "mined_at": "2026-07-24T18:32:48+00:00",
-      "source_published_at": "Fri, 24 Jul 2026 14:09:46 -0400",
-      "image_url": "/article_images/article_2833a7f5ed69.webp",
+      "id": "2026-07-25-science-1",
+      "source": "Science News Explores",
+      "time_ago": "Thu, 23 Jul 2026 10:30:00 +0000",
+      "mined_at": "2026-07-25T17:59:40+00:00",
+      "source_published_at": "Thu, 23 Jul 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_ba3e6cd797ae.webp",
       "category": "Science",
-      "title": "We Calculated How Many Hot Dogs Fit Inside the World's Largest Hot Dog Sculpture—and It's a Lot",
-      "summary": "The 65-foot hot dog sculpture is back in NYC. With 6,000 cubic feet of interior space and an 80% packing efficiency, you could cram in about 1.75 million real wieners."
+      "title": "Ötzi the Iceman's 5,300-Year-Old Microbes Are Still Alive—and That's a Problem",
+      "summary": "Four species of yeast found on Ötzi the Iceman can grow in a lab, proving they survived millennia in ice. These dormant microbes could decompose the mummy. Researchers are studying them to protect this priceless archaeological find."
     },
     {
-      "id": "2026-07-24-science-2",
-      "source": "NASA News",
-      "time_ago": "Fri, 24 Jul 2026 16:35:46 +0000",
-      "mined_at": "2026-07-24T18:32:48+00:00",
-      "source_published_at": "Fri, 24 Jul 2026 16:35:46 +0000",
-      "image_url": "/article_images/article_094848d6c0e7.webp",
+      "id": "2026-07-25-science-2",
+      "source": "ScienceDaily All",
+      "time_ago": "Sat, 25 Jul 2026 09:17:03 EDT",
+      "mined_at": "2026-07-25T17:59:40+00:00",
+      "source_published_at": "Sat, 25 Jul 2026 09:17:03 EDT",
+      "image_url": "/article_images/article_7bea8e03f873.webp",
       "category": "Science",
-      "title": "NASA's CAPSTONE 02 Will Test Autonomous Docking and Formation Flying Around the Moon",
-      "summary": "Launching in 2027, CAPSTONE 02 will use two small spacecraft to demonstrate rendezvous and proximity operations in lunar orbit, paving the way for crewed Artemis landings."
+      "title": "How the Universe Outruns Light Without Breaking Physics",
+      "summary": "The observable universe spans 45 billion light-years despite being 13.77 billion years old. Cosmic expansion, driven by dark energy, allows space to stretch faster than light—without violating relativity. The cosmological event horizon limits what we'll ever see."
     },
     {
-      "id": "2026-07-24-science-3",
+      "id": "2026-07-25-science-3",
       "source": "Space.com",
-      "time_ago": "Fri, 24 Jul 2026 18:00:00 +0000",
-      "mined_at": "2026-07-24T18:32:48+00:00",
-      "source_published_at": "Fri, 24 Jul 2026 18:00:00 +0000",
-      "image_url": "/article_images/article_db41a8b136d3.webp",
+      "time_ago": "Sat, 25 Jul 2026 16:00:00 +0000",
+      "mined_at": "2026-07-25T17:59:40+00:00",
+      "source_published_at": "Sat, 25 Jul 2026 16:00:00 +0000",
+      "image_url": "/article_images/article_da9bbcbc45ff.webp",
       "category": "Science",
-      "title": "Star Trek: Strange New Worlds Season 4 Goes Full Jurassic with Dinosaurs and Lovecraftian Horror",
-      "summary": "Showrunners Henry Alonso Myers and Akiva Goldsman reveal Season 4's genre-bending episodes, from dinosaur encounters to a haunted starship, now streaming on Paramount+."
+      "title": "Inside the 1997 Mir Collision: Astronaut Michael Foale on a Near-Death Crisis in Space",
+      "summary": "In a new interview, astronaut Michael Foale recounts the 1997 Mir space station collision, when a Progress cargo ship crashed into the station, causing decompression. With 23 minutes of oxygen left, the crew's heroics saved the station. Foale reveals the cost-cutting that led to the disaster."
     }
   ]
 }

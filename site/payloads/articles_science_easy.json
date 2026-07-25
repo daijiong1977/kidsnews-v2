@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-24-science-1",
-      "source": "Popular Science",
-      "time_ago": "Fri, 24 Jul 2026 14:09:46 -0400",
-      "mined_at": "2026-07-24T18:32:48+00:00",
-      "source_published_at": "Fri, 24 Jul 2026 14:09:46 -0400",
-      "image_url": "/article_images/article_2833a7f5ed69.webp",
+      "id": "2026-07-25-science-1",
+      "source": "Science News Explores",
+      "time_ago": "Thu, 23 Jul 2026 10:30:00 +0000",
+      "mined_at": "2026-07-25T17:59:40+00:00",
+      "source_published_at": "Thu, 23 Jul 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_ba3e6cd797ae.webp",
       "category": "Science",
-      "title": "Could You Fit 2 Million Hot Dogs Inside a Giant Sculpture? We Did the Math!",
-      "summary": "A 65-foot-long hot dog sculpture is back in NYC. We calculated that about 1.75 million real hot dogs could squeeze inside—if you ignore the messy gaps!"
+      "title": "5,300-Year-Old Iceman Has Living Microbes on His Body!",
+      "summary": "Scientists found tiny yeast on Ötzi the Iceman that can still grow in a lab. The 5,300-year-old mummy was found in the Alps. These microbes could damage his body, so researchers want to stop them."
     },
     {
-      "id": "2026-07-24-science-2",
-      "source": "NASA News",
-      "time_ago": "Fri, 24 Jul 2026 16:35:46 +0000",
-      "mined_at": "2026-07-24T18:32:48+00:00",
-      "source_published_at": "Fri, 24 Jul 2026 16:35:46 +0000",
-      "image_url": "/article_images/article_094848d6c0e7.webp",
+      "id": "2026-07-25-science-2",
+      "source": "ScienceDaily All",
+      "time_ago": "Sat, 25 Jul 2026 09:17:03 EDT",
+      "mined_at": "2026-07-25T17:59:40+00:00",
+      "source_published_at": "Sat, 25 Jul 2026 09:17:03 EDT",
+      "image_url": "/article_images/article_7bea8e03f873.webp",
       "category": "Science",
-      "title": "NASA's New Moon Mission Will Teach Spaceships to Dance Together in Orbit!",
-      "summary": "NASA's CAPSTONE 02 mission will send two small spacecraft to the Moon in 2027. They'll practice tricky moves like chasing and flying in formation to help future astronauts dock safely."
+      "title": "The Universe Can Expand Faster Than Light—Here's How!",
+      "summary": "The universe is 13.77 billion years old, but we can see 45 billion light-years away. That's because space itself expands faster than light. Don't worry, it doesn't break Einstein's rules!"
     },
     {
-      "id": "2026-07-24-science-3",
+      "id": "2026-07-25-science-3",
       "source": "Space.com",
-      "time_ago": "Fri, 24 Jul 2026 18:00:00 +0000",
-      "mined_at": "2026-07-24T18:32:48+00:00",
-      "source_published_at": "Fri, 24 Jul 2026 18:00:00 +0000",
-      "image_url": "/article_images/article_db41a8b136d3.webp",
+      "time_ago": "Sat, 25 Jul 2026 16:00:00 +0000",
+      "mined_at": "2026-07-25T17:59:40+00:00",
+      "source_published_at": "Sat, 25 Jul 2026 16:00:00 +0000",
+      "image_url": "/article_images/article_da9bbcbc45ff.webp",
       "category": "Science",
-      "title": "Dinosaurs in Space? Star Trek's New Season Has Scary Ghosts and Puppet Trouble Too!",
-      "summary": "Star Trek: Strange New Worlds Season 4 just launched with dinosaurs, a haunted starship, and a noir mystery. Showrunners say it's their best season yet."
+      "title": "Astronaut Michael Foale Recalls the Scary Space Station Crash of 1997",
+      "summary": "In 1997, a cargo ship crashed into the Mir space station, tearing a hole and causing an air leak. Astronaut Michael Foale and his crew had only 23 minutes of oxygen left to fix it. He shares the thrilling story."
     }
   ]
 }
