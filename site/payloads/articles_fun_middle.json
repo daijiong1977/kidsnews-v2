@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-25-fun-1",
-      "source": "DOGOnews",
+      "id": "2026-07-26-fun-1",
+      "source": "Live Science",
+      "time_ago": "Sun, 26 Jul 2026 10:00:00 +0000",
+      "mined_at": "2026-07-26T17:59:51+00:00",
+      "source_published_at": "Sun, 26 Jul 2026 10:00:00 +0000",
+      "image_url": "/article_images/article_73744491968c.webp",
+      "category": "Fun",
+      "title": "Viking 1’s First Mars Photo Turns 50: The Pixelated Image That Changed Planetary Science Forever",
+      "summary": "Fifty years ago, a spacecraft called Viking 1 transmitted the first image from the surface of another planet. The grainy, black-and-white photo revealed a rocky Martian landscape — and a piece of the lander itself, proving humanity had touched another world. But the mission’s biggest question — did it find life? — remains unanswered."
+    },
+    {
+      "id": "2026-07-26-fun-2",
+      "source": "Kotaku",
+      "time_ago": "Sun, 26 Jul 2026 17:13:58 +0000",
+      "mined_at": "2026-07-26T17:59:51+00:00",
+      "source_published_at": "Sun, 26 Jul 2026 17:13:58 +0000",
+      "image_url": "/article_images/article_5e2a4959ed33.webp",
+      "category": "Fun",
+      "title": "Sony’s Disc Era Is Ending — Here’s Your Last Chance to Snag Physical PS5 Games at a Steal",
+      "summary": "With Sony confirming that the PS5 will be its last console with a disc drive, physical game collectors are facing a deadline. But a massive sale across major retailers is offering steep discounts on first-party PS5 exclusives — including Spider-Man 2 for $30 and Death Stranding 2 for $40 — making now the ideal time to stock up."
+    },
+    {
+      "id": "2026-07-26-fun-3",
+      "source": "NG Kids — Space",
       "time_ago": "",
-      "mined_at": "2026-07-25T17:59:40+00:00",
+      "mined_at": "2026-07-26T17:59:51+00:00",
       "source_published_at": "",
-      "image_url": "/article_images/article_21c749771c74.webp",
+      "image_url": "/article_images/article_0ff23169f2f9.webp",
       "category": "Fun",
-      "title": "From Emperors to World Records: The Sweet Saga of Ice Cream",
-      "summary": "July is National Ice Cream Month, but the frozen treat's history stretches back to ancient China. Discover how a luxury for the elite became an American obsession, complete with a 3,010-pound scoop and a $6,696 dessert."
-    },
-    {
-      "id": "2026-07-25-fun-2",
-      "source": "Billboard",
-      "time_ago": "Sat, 25 Jul 2026 14:00:00 +0000",
-      "mined_at": "2026-07-25T17:59:40+00:00",
-      "source_published_at": "Sat, 25 Jul 2026 14:00:00 +0000",
-      "image_url": "/article_images/article_89b6647807b8.webp",
-      "category": "Fun",
-      "title": "Fan Treasure Hunts, Shakira's Tribute, and a Stadium Homecoming: This Week in Latin Music",
-      "summary": "Natanael Cano is offering a $57,195 prize in a Mexico City QR-code hunt for loyal fans. Shakira honored immigrant World Cup workers onstage, and Fuerza Regida sold out Dodger Stadium. Plus, Karol G's foundation expands its impact."
-    },
-    {
-      "id": "2026-07-25-fun-3",
-      "source": "Wired Gear",
-      "time_ago": "Sat, 25 Jul 2026 11:00:00 +0000",
-      "mined_at": "2026-07-25T17:59:40+00:00",
-      "source_published_at": "Sat, 25 Jul 2026 11:00:00 +0000",
-      "image_url": "/article_images/article_c8b9f4b774fb.webp",
-      "category": "Fun",
-      "title": "Three Ingenious Ways to Repurpose Your Old Kindle: Spotify Remote, Smart Display, or Literary Clock",
-      "summary": "Your outdated Kindle can become a Spotify controller, a customizable smart display for weather and calendars, or a clock that displays a unique book quote for every minute. These hacks require some effort but unlock surprising potential."
+      "title": "Why Earth Is the Ultimate Cosmic Oasis — and Still Full of Surprises",
+      "summary": "Earth isn’t just our home — it’s a planetary jackpot. With liquid water, a life-shielding atmosphere, and a magnetic field that sparks auroras, it’s uniquely suited for life. Yet we’ve mapped more of Mars than our own ocean floors, proving this world still holds deep mysteries."
     }
   ]
 }

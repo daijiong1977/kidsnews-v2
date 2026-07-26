@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-25-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Fri, 24 Jul 2026 19:10:16 -0400",
-      "mined_at": "2026-07-25T17:59:40+00:00",
-      "source_published_at": "Fri, 24 Jul 2026 19:10:16 -0400",
-      "image_url": "/article_images/article_3addc369674e.webp",
-      "category": "News",
-      "title": "Burnham's Breakneck First Week: A Northern Office, Tax Cuts, and a Message to the World",
-      "summary": "New UK Prime Minister Andy Burnham capped a whirlwind first week by opening a part-time office in Manchester, signaling his commitment to decentralizing power. He also announced tax cuts and faced foreign policy tests from Ukraine to Iran."
-    },
-    {
-      "id": "2026-07-25-news-2",
+      "id": "2026-07-26-news-1",
       "source": "NPR World",
-      "time_ago": "Sat, 25 Jul 2026 01:04:00 -0400",
-      "mined_at": "2026-07-25T17:59:40+00:00",
-      "source_published_at": "Sat, 25 Jul 2026 01:04:00 -0400",
-      "image_url": "/article_images/article_bf5ab3674155.webp",
+      "time_ago": "Sun, 26 Jul 2026 05:00:00 -0400",
+      "mined_at": "2026-07-26T17:59:51+00:00",
+      "source_published_at": "Sun, 26 Jul 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_c95524ceae2f.webp",
       "category": "News",
-      "title": "Trump Returns to Correspondents' Dinner with Rambling Speech, Jabs, and a 'Trump 2028' Hat",
-      "summary": "At a rescheduled White House Correspondents' Dinner, President Trump delivered an hour-long mix of humor and insults, targeting journalists and political foes. He joked about a third term and donned a 'Trump 2028' cap, while security was tightened after April's shooting scare."
+      "title": "A 12-Year-Old Coder Built a Robot to Save His Endangered Language",
+      "summary": "Holden Hoy, 12, built a shoulder-mounted robot that speaks Anishinaabemowin, a Native language with fewer than 10,000 U.S. speakers. His mentor, Danielle Boyer, invented the SkoBot to make language learning feel like play, not homework."
     },
     {
-      "id": "2026-07-25-news-3",
-      "source": "PBS NewsHour",
-      "time_ago": "Sat, 25 Jul 2026 08:00:26 -0400",
-      "mined_at": "2026-07-25T17:59:40+00:00",
-      "source_published_at": "Sat, 25 Jul 2026 08:00:26 -0400",
-      "image_url": "/article_images/article_4629021e76ec.webp",
+      "id": "2026-07-26-news-2",
+      "source": "BBC News",
+      "time_ago": "Sun, 26 Jul 2026 05:00:14 GMT",
+      "mined_at": "2026-07-26T17:59:51+00:00",
+      "source_published_at": "Sun, 26 Jul 2026 05:00:14 GMT",
+      "image_url": "/article_images/article_bb0a1b34954d.webp",
       "category": "News",
-      "title": "Fact-Check: Can Foreign Adversaries Really Hack US Voting Machines?",
-      "summary": "Homeland Security Secretary Markwayne Mullin claimed foreign adversaries can access voting machines and flip votes. Experts acknowledge vulnerabilities but stress there's no evidence of such attacks in real elections, thanks to physical safeguards and paper ballots."
+      "title": "Burnham Refuses to Vouch for Trump, Vows to Put Britain First",
+      "summary": "In his first major interview as PM, Andy Burnham declined to say he trusts President Trump, stating he’ll voice disagreements when needed. He also ruled out an early election and wouldn’t commit to a 3% GDP defense spending target by 2030."
+    },
+    {
+      "id": "2026-07-26-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Sat, 25 Jul 2026 15:00:54 -0400",
+      "mined_at": "2026-07-26T17:59:51+00:00",
+      "source_published_at": "Sat, 25 Jul 2026 15:00:54 -0400",
+      "image_url": "/article_images/article_5df32277126b.webp",
+      "category": "News",
+      "title": "Decoding AI Labels: What ‘Open-Source’ Really Means for Models Like LLaMa and DeepSeek",
+      "summary": "AI models are labeled ‘open’ or ‘closed,’ but the reality is murkier. ‘Open-weight’ models like Meta’s LLaMa share trained parameters but not training data. True open-source AI, per the Open Source Initiative, requires releasing the data too — a massive challenge."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-25-fun-1",
-      "source": "DOGOnews",
+      "id": "2026-07-26-fun-1",
+      "source": "Live Science",
+      "time_ago": "Sun, 26 Jul 2026 10:00:00 +0000",
+      "mined_at": "2026-07-26T17:59:51+00:00",
+      "source_published_at": "Sun, 26 Jul 2026 10:00:00 +0000",
+      "image_url": "/article_images/article_73744491968c.webp",
+      "category": "Fun",
+      "title": "50 Years Ago, a Robot Took the First Photo from Mars — and It’s Still Mind-Blowing!",
+      "summary": "Imagine seeing a photo from another planet for the very first time! That’s what happened 50 years ago when NASA’s Viking 1 lander sent back the first picture from the surface of Mars. The image showed rocks, sand, and even the spacecraft’s own footpad — proof we’d really made it."
+    },
+    {
+      "id": "2026-07-26-fun-2",
+      "source": "Kotaku",
+      "time_ago": "Sun, 26 Jul 2026 17:13:58 +0000",
+      "mined_at": "2026-07-26T17:59:51+00:00",
+      "source_published_at": "Sun, 26 Jul 2026 17:13:58 +0000",
+      "image_url": "/article_images/article_5e2a4959ed33.webp",
+      "category": "Fun",
+      "title": "Grab These PlayStation Games on Disc Before They Disappear Forever!",
+      "summary": "Sony is planning to stop making game discs by 2028, so your chance to own physical copies is running out. Right now, big sales on Amazon and Best Buy have amazing PS5 games like Spider-Man 2 for just $30 — a perfect time to build your collection!"
+    },
+    {
+      "id": "2026-07-26-fun-3",
+      "source": "NG Kids — Space",
       "time_ago": "",
-      "mined_at": "2026-07-25T17:59:40+00:00",
+      "mined_at": "2026-07-26T17:59:51+00:00",
       "source_published_at": "",
-      "image_url": "/article_images/article_21c749771c74.webp",
+      "image_url": "/article_images/article_0ff23169f2f9.webp",
       "category": "Fun",
-      "title": "A Scoop of History: How Ice Cream Took Over America",
-      "summary": "Did you know a US president made July all about ice cream? From a giant 3,010-pound scoop to a $6,696 dessert, here are the coolest facts to celebrate National Ice Cream Month."
-    },
-    {
-      "id": "2026-07-25-fun-2",
-      "source": "Billboard",
-      "time_ago": "Sat, 25 Jul 2026 14:00:00 +0000",
-      "mined_at": "2026-07-25T17:59:40+00:00",
-      "source_published_at": "Sat, 25 Jul 2026 14:00:00 +0000",
-      "image_url": "/article_images/article_89b6647807b8.webp",
-      "category": "Fun",
-      "title": "Treasure Hunts, Surprise Guests, and a Stadium Dream Come True",
-      "summary": "A Mexican music star is hiding a $57,195 prize for his biggest fan. Plus, Shakira honored NYC's World Cup workers onstage, and a band sold out a huge stadium. Here are this week's most uplifting music moments."
-    },
-    {
-      "id": "2026-07-25-fun-3",
-      "source": "Wired Gear",
-      "time_ago": "Sat, 25 Jul 2026 11:00:00 +0000",
-      "mined_at": "2026-07-25T17:59:40+00:00",
-      "source_published_at": "Sat, 25 Jul 2026 11:00:00 +0000",
-      "image_url": "/article_images/article_c8b9f4b774fb.webp",
-      "category": "Fun",
-      "title": "Don't Toss That Old Kindle! Turn It Into a Spotify Remote, Smart Display, or Literary Clock",
-      "summary": "Got an old Kindle gathering dust? You can hack it to control your Spotify music, show weather and to-do lists, or even display a different book quote for every minute of the day. Here's how."
+      "title": "Earth Is the Coolest Planet (Literally and Figuratively) — Here’s Why!",
+      "summary": "You live on a planet that’s just right for life: not too hot, not too cold, with oceans, a protective atmosphere, and even pizza! Earth is the only place we know where you can find everything from tiny amoebas to giant blue whales — and you."
     }
   ]
 }

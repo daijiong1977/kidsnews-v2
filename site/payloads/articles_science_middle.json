@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-25-science-1",
-      "source": "Science News Explores",
-      "time_ago": "Thu, 23 Jul 2026 10:30:00 +0000",
-      "mined_at": "2026-07-25T17:59:40+00:00",
-      "source_published_at": "Thu, 23 Jul 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_ba3e6cd797ae.webp",
+      "id": "2026-07-26-science-1",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Sun, 26 Jul 2026 07:43:14 EDT",
+      "mined_at": "2026-07-26T17:59:51+00:00",
+      "source_published_at": "Sun, 26 Jul 2026 07:43:14 EDT",
+      "image_url": "/article_images/article_308bd5ff1f95.webp",
       "category": "Science",
-      "title": "Ötzi the Iceman's 5,300-Year-Old Microbes Are Still Alive—and That's a Problem",
-      "summary": "Four species of yeast found on Ötzi the Iceman can grow in a lab, proving they survived millennia in ice. These dormant microbes could decompose the mummy. Researchers are studying them to protect this priceless archaeological find."
+      "title": "When Fat Cells Fail: How Losing Adipose Tissue Can Trigger Diabetes",
+      "summary": "New research reveals that in a rare disease, fat cells undergo catastrophic changes—losing their ability to store lipids, becoming inflamed, and suffering mitochondrial failure. This breakdown disrupts metabolism, leading to diabetes. The findings highlight fat's crucial role as an active organ, not just passive storage."
     },
     {
-      "id": "2026-07-25-science-2",
-      "source": "ScienceDaily All",
-      "time_ago": "Sat, 25 Jul 2026 09:17:03 EDT",
-      "mined_at": "2026-07-25T17:59:40+00:00",
-      "source_published_at": "Sat, 25 Jul 2026 09:17:03 EDT",
-      "image_url": "/article_images/article_7bea8e03f873.webp",
+      "id": "2026-07-26-science-2",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Sun, 26 Jul 2026 06:14:57 EDT",
+      "mined_at": "2026-07-26T17:59:51+00:00",
+      "source_published_at": "Sun, 26 Jul 2026 06:14:57 EDT",
+      "image_url": "/article_images/article_2117c2bc41ab.webp",
       "category": "Science",
-      "title": "How the Universe Outruns Light Without Breaking Physics",
-      "summary": "The observable universe spans 45 billion light-years despite being 13.77 billion years old. Cosmic expansion, driven by dark energy, allows space to stretch faster than light—without violating relativity. The cosmological event horizon limits what we'll ever see."
+      "title": "A Cellular Tipping Point: How Microglia May Determine Alzheimer's Resilience",
+      "summary": "A study in Nature Medicine reveals that microglia, the brain's immune cells, undergo a critical state change that may decide whether Alzheimer's pathology leads to dementia. Resilient individuals—including centenarians—show distinct microglial responses, offering new therapeutic targets."
     },
     {
-      "id": "2026-07-25-science-3",
-      "source": "Space.com",
-      "time_ago": "Sat, 25 Jul 2026 16:00:00 +0000",
-      "mined_at": "2026-07-25T17:59:40+00:00",
-      "source_published_at": "Sat, 25 Jul 2026 16:00:00 +0000",
-      "image_url": "/article_images/article_da9bbcbc45ff.webp",
+      "id": "2026-07-26-science-3",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Sun, 26 Jul 2026 09:18:59 EDT",
+      "mined_at": "2026-07-26T17:59:51+00:00",
+      "source_published_at": "Sun, 26 Jul 2026 09:18:59 EDT",
+      "image_url": "/article_images/article_1c192e4b1605.webp",
       "category": "Science",
-      "title": "Inside the 1997 Mir Collision: Astronaut Michael Foale on a Near-Death Crisis in Space",
-      "summary": "In a new interview, astronaut Michael Foale recounts the 1997 Mir space station collision, when a Progress cargo ship crashed into the station, causing decompression. With 23 minutes of oxygen left, the crew's heroics saved the station. Foale reveals the cost-cutting that led to the disaster."
+      "title": "Fighting Fire with Fire: Prescribed Burns Save Giant Sequoias from Extreme Wildfires",
+      "summary": "A UC Davis study in Nature Communications shows prescribed burns dramatically boost giant sequoia survival during megafires. Trees in treated areas were four times more likely to survive the 2020-2021 fires. The research estimates 1,900 trees were saved, highlighting a critical conservation tool."
     }
   ]
 }

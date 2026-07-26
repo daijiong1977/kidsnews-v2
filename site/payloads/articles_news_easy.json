@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-25-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Fri, 24 Jul 2026 19:10:16 -0400",
-      "mined_at": "2026-07-25T17:59:40+00:00",
-      "source_published_at": "Fri, 24 Jul 2026 19:10:16 -0400",
-      "image_url": "/article_images/article_3addc369674e.webp",
-      "category": "News",
-      "title": "UK's New Prime Minister Opens a Special Office in Manchester—and It's Not Just for Show!",
-      "summary": "Britain's new leader, Andy Burnham, had a super busy first week. He cut electricity taxes, capped bus fares, and opened a second office in Manchester. He says it's about sharing power outside London."
-    },
-    {
-      "id": "2026-07-25-news-2",
+      "id": "2026-07-26-news-1",
       "source": "NPR World",
-      "time_ago": "Sat, 25 Jul 2026 01:04:00 -0400",
-      "mined_at": "2026-07-25T17:59:40+00:00",
-      "source_published_at": "Sat, 25 Jul 2026 01:04:00 -0400",
-      "image_url": "/article_images/article_bf5ab3674155.webp",
+      "time_ago": "Sun, 26 Jul 2026 05:00:00 -0400",
+      "mined_at": "2026-07-26T17:59:51+00:00",
+      "source_published_at": "Sun, 26 Jul 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_c95524ceae2f.webp",
       "category": "News",
-      "title": "Trump Cracks Jokes (and Insults) at Rescheduled White House Correspondents' Dinner",
-      "summary": "President Trump finally attended the White House Correspondents' Dinner, months after a shooting canceled it. He made jokes—some nice, some mean—and even teased running for a third term, which isn't allowed."
+      "title": "This Robot Speaks Ojibwe — and a Kid Built It!",
+      "summary": "A 12-year-old built a shoulder robot that teaches his endangered Native language. Named Sabe (Bigfoot), it answers questions like “What’s bear?” in Anishinaabemowin. Only about 10,000 people still speak it in the U.S."
     },
     {
-      "id": "2026-07-25-news-3",
-      "source": "PBS NewsHour",
-      "time_ago": "Sat, 25 Jul 2026 08:00:26 -0400",
-      "mined_at": "2026-07-25T17:59:40+00:00",
-      "source_published_at": "Sat, 25 Jul 2026 08:00:26 -0400",
-      "image_url": "/article_images/article_4629021e76ec.webp",
+      "id": "2026-07-26-news-2",
+      "source": "BBC News",
+      "time_ago": "Sun, 26 Jul 2026 05:00:14 GMT",
+      "mined_at": "2026-07-26T17:59:51+00:00",
+      "source_published_at": "Sun, 26 Jul 2026 05:00:14 GMT",
+      "image_url": "/article_images/article_bb0a1b34954d.webp",
       "category": "News",
-      "title": "Can Foreign Hackers Really Change Your Vote? What Experts Say About Voting Machine Security",
-      "summary": "A top US official said foreign enemies can hack voting machines and flip votes. But experts say while machines have weaknesses, there's no proof of real attacks. Paper ballots help keep elections safe."
+      "title": "UK’s New Prime Minister Says He’ll Speak Up to Trump",
+      "summary": "Prime Minister Andy Burnham won’t promise to always agree with President Trump. He says he’ll “call things as they develop” and do what’s right for Britain. He also ruled out an early election before 2029."
+    },
+    {
+      "id": "2026-07-26-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Sat, 25 Jul 2026 15:00:54 -0400",
+      "mined_at": "2026-07-26T17:59:51+00:00",
+      "source_published_at": "Sat, 25 Jul 2026 15:00:54 -0400",
+      "image_url": "/article_images/article_5df32277126b.webp",
+      "category": "News",
+      "title": "Open, Closed, or Open-Weight? The Secret Labels of AI",
+      "summary": "AI models have labels like “open” or “closed,” but it’s not about personality. It’s about whether their recipe (code and data) is public. Some, like Meta’s LLaMa, are called “open-weight” because they share only part of the recipe."
     }
   ]
 }
