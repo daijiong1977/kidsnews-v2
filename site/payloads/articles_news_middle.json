@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-26-news-1",
-      "source": "NPR World",
-      "time_ago": "Sun, 26 Jul 2026 05:00:00 -0400",
-      "mined_at": "2026-07-26T17:59:51+00:00",
-      "source_published_at": "Sun, 26 Jul 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_c95524ceae2f.webp",
+      "id": "2026-07-27-news-1",
+      "source": "Al Jazeera",
+      "time_ago": "Mon, 27 Jul 2026 17:20:26 +0000",
+      "mined_at": "2026-07-27T18:16:13+00:00",
+      "source_published_at": "Mon, 27 Jul 2026 17:20:26 +0000",
+      "image_url": "/article_images/article_a6c09651d523.webp",
       "category": "News",
-      "title": "A 12-Year-Old Coder Built a Robot to Save His Endangered Language",
-      "summary": "Holden Hoy, 12, built a shoulder-mounted robot that speaks Anishinaabemowin, a Native language with fewer than 10,000 U.S. speakers. His mentor, Danielle Boyer, invented the SkoBot to make language learning feel like play, not homework."
+      "title": "Mass Exodus from the ICC: Chad Becomes Fifth Nation to Quit Amid US Pressure and Bias Claims",
+      "summary": "Chad is the latest country to withdraw from the International Criminal Court, following four African neighbors and Venezuela. The withdrawals come amid intense US hostility after the ICC issued arrest warrants for Israeli leaders. Critics say the court is losing its legitimacy, while supporters warn of a crisis for international justice."
     },
     {
-      "id": "2026-07-26-news-2",
+      "id": "2026-07-27-news-2",
       "source": "BBC News",
-      "time_ago": "Sun, 26 Jul 2026 05:00:14 GMT",
-      "mined_at": "2026-07-26T17:59:51+00:00",
-      "source_published_at": "Sun, 26 Jul 2026 05:00:14 GMT",
-      "image_url": "/article_images/article_bb0a1b34954d.webp",
+      "time_ago": "Mon, 27 Jul 2026 11:50:13 GMT",
+      "mined_at": "2026-07-27T18:16:13+00:00",
+      "source_published_at": "Mon, 27 Jul 2026 11:50:13 GMT",
+      "image_url": "/article_images/article_12c1340acd1a.webp",
       "category": "News",
-      "title": "Burnham Refuses to Vouch for Trump, Vows to Put Britain First",
-      "summary": "In his first major interview as PM, Andy Burnham declined to say he trusts President Trump, stating he’ll voice disagreements when needed. He also ruled out an early election and wouldn’t commit to a 3% GDP defense spending target by 2030."
+      "title": "Jodrell Bank's Iconic Telescope Faces the Axe: Scientists Decry 'Heartbreaking' Cuts",
+      "summary": "The UK's Jodrell Bank Observatory, a UNESCO World Heritage site and Cold War relic, will cease scientific observations in 2028 due to funding cuts. The decision imperils 28 jobs and research for 3,000 scientists. Professor Brian Cox calls it \"hasty and ill-considered,\" as the iconic Lovell Telescope faces an uncertain future."
     },
     {
-      "id": "2026-07-26-news-3",
-      "source": "PBS NewsHour",
-      "time_ago": "Sat, 25 Jul 2026 15:00:54 -0400",
-      "mined_at": "2026-07-26T17:59:51+00:00",
-      "source_published_at": "Sat, 25 Jul 2026 15:00:54 -0400",
-      "image_url": "/article_images/article_5df32277126b.webp",
+      "id": "2026-07-27-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Mon, 27 Jul 2026 17:36:12 +0000",
+      "mined_at": "2026-07-27T18:16:13+00:00",
+      "source_published_at": "Mon, 27 Jul 2026 17:36:12 +0000",
+      "image_url": "/article_images/article_5eebccb2100b.webp",
       "category": "News",
-      "title": "Decoding AI Labels: What ‘Open-Source’ Really Means for Models Like LLaMa and DeepSeek",
-      "summary": "AI models are labeled ‘open’ or ‘closed,’ but the reality is murkier. ‘Open-weight’ models like Meta’s LLaMa share trained parameters but not training data. True open-source AI, per the Open Source Initiative, requires releasing the data too — a massive challenge."
+      "title": "UNESCO's Double-Edged Sword: Can a Heritage Listing Save Sebastia?",
+      "summary": "UNESCO has placed the 3,000-year-old site of Sebastia on both its World Heritage and Danger lists, citing Israeli land confiscation plans. Palestinians celebrate, but Israel calls it a political move. History shows listings alone rarely halt settlement expansion."
     }
   ]
 }

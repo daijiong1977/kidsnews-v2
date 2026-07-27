@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-26-news-1",
-      "source": "NPR World",
-      "time_ago": "Sun, 26 Jul 2026 05:00:00 -0400",
-      "mined_at": "2026-07-26T17:59:51+00:00",
-      "source_published_at": "Sun, 26 Jul 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_c95524ceae2f.webp",
+      "id": "2026-07-27-news-1",
+      "source": "Al Jazeera",
+      "time_ago": "Mon, 27 Jul 2026 17:20:26 +0000",
+      "mined_at": "2026-07-27T18:16:13+00:00",
+      "source_published_at": "Mon, 27 Jul 2026 17:20:26 +0000",
+      "image_url": "/article_images/article_a6c09651d523.webp",
       "category": "News",
-      "title": "This Robot Speaks Ojibwe — and a Kid Built It!",
-      "summary": "A 12-year-old built a shoulder robot that teaches his endangered Native language. Named Sabe (Bigfoot), it answers questions like “What’s bear?” in Anishinaabemowin. Only about 10,000 people still speak it in the U.S."
+      "title": "Why Are So Many Countries Suddenly Leaving the World's War Crimes Court?",
+      "summary": "Chad just became the fifth country to quit the International Criminal Court (ICC) in recent months. The court, which puts war criminals on trial, is facing accusations of bias and heavy pressure from the United States. Venezuela also left, saying the court isn't fair."
     },
     {
-      "id": "2026-07-26-news-2",
+      "id": "2026-07-27-news-2",
       "source": "BBC News",
-      "time_ago": "Sun, 26 Jul 2026 05:00:14 GMT",
-      "mined_at": "2026-07-26T17:59:51+00:00",
-      "source_published_at": "Sun, 26 Jul 2026 05:00:14 GMT",
-      "image_url": "/article_images/article_bb0a1b34954d.webp",
+      "time_ago": "Mon, 27 Jul 2026 11:50:13 GMT",
+      "mined_at": "2026-07-27T18:16:13+00:00",
+      "source_published_at": "Mon, 27 Jul 2026 11:50:13 GMT",
+      "image_url": "/article_images/article_12c1340acd1a.webp",
       "category": "News",
-      "title": "UK’s New Prime Minister Says He’ll Speak Up to Trump",
-      "summary": "Prime Minister Andy Burnham won’t promise to always agree with President Trump. He says he’ll “call things as they develop” and do what’s right for Britain. He also ruled out an early election before 2029."
+      "title": "The Giant Telescope That Spied on Soviet Missiles Might Be Shut Down Forever",
+      "summary": "The famous Jodrell Bank telescope in the UK, which has explored distant galaxies for nearly 70 years, could stop working in 2028 due to funding cuts. Scientists say it's a heartbreaking mistake. The telescope even helped track Soviet missiles during the Cold War and is a UNESCO World Heritage site."
     },
     {
-      "id": "2026-07-26-news-3",
-      "source": "PBS NewsHour",
-      "time_ago": "Sat, 25 Jul 2026 15:00:54 -0400",
-      "mined_at": "2026-07-26T17:59:51+00:00",
-      "source_published_at": "Sat, 25 Jul 2026 15:00:54 -0400",
-      "image_url": "/article_images/article_5df32277126b.webp",
+      "id": "2026-07-27-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Mon, 27 Jul 2026 17:36:12 +0000",
+      "mined_at": "2026-07-27T18:16:13+00:00",
+      "source_published_at": "Mon, 27 Jul 2026 17:36:12 +0000",
+      "image_url": "/article_images/article_5eebccb2100b.webp",
       "category": "News",
-      "title": "Open, Closed, or Open-Weight? The Secret Labels of AI",
-      "summary": "AI models have labels like “open” or “closed,” but it’s not about personality. It’s about whether their recipe (code and data) is public. Some, like Meta’s LLaMa, are called “open-weight” because they share only part of the recipe."
+      "title": "A 3,000-Year-Old City Gets a Superhero Shield!",
+      "summary": "UNESCO just added the ancient site of Sebastia to its World Heritage list—and its danger list! Israel wants to take over the land, but Palestinians hope this will protect the Roman ruins and olive trees. Can a title really stop bulldozers?"
     }
   ]
 }
