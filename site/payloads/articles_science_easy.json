@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-27-science-1",
+      "id": "2026-07-28-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Tue, 28 Jul 2026 02:21:24 EDT",
+      "mined_at": "2026-07-28T18:09:17+00:00",
+      "source_published_at": "Tue, 28 Jul 2026 02:21:24 EDT",
+      "image_url": "/article_images/article_ec37612dbee5.webp",
+      "category": "Science",
+      "title": "A Spacecraft Took a Selfie with Mars — and Caught a Secret in the Video!",
+      "summary": "NASA's Psyche spacecraft zoomed past Mars, snapping a month-long time-lapse video. The flyby gave it a gravity boost to reach a metal asteroid in 2029. Scientists even spotted Mars’s two tiny moons from far away!"
+    },
+    {
+      "id": "2026-07-28-science-2",
+      "source": "Science News Explores",
+      "time_ago": "Tue, 28 Jul 2026 10:30:00 +0000",
+      "mined_at": "2026-07-28T18:09:17+00:00",
+      "source_published_at": "Tue, 28 Jul 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_d11eac3082cd.webp",
+      "category": "Science",
+      "title": "Sea Slugs Don't Need Paint — They Make Rainbow Colors with Tiny Mirrors!",
+      "summary": "Nudibranchs, or sea slugs, get their super-bright colors from stacks of tiny crystals under their skin. These crystals reflect light like a mirror, creating vivid hues without any pigment. Scientists found the slugs can mix red and blue dots to look purple!"
+    },
+    {
+      "id": "2026-07-28-science-3",
       "source": "ScienceDaily All",
-      "time_ago": "Mon, 27 Jul 2026 04:06:53 EDT",
-      "mined_at": "2026-07-27T18:16:13+00:00",
-      "source_published_at": "Mon, 27 Jul 2026 04:06:53 EDT",
-      "image_url": "/article_images/article_29e64c8c8c15.webp",
+      "time_ago": "Tue, 28 Jul 2026 08:31:45 EDT",
+      "mined_at": "2026-07-28T18:09:17+00:00",
+      "source_published_at": "Tue, 28 Jul 2026 08:31:45 EDT",
+      "image_url": "/article_images/article_aa6d54b41413.webp",
       "category": "Science",
-      "title": "After 241 Days in Space, an Astronaut Finally Comes Home!",
-      "summary": "Imagine circling Earth 3,856 times! NASA astronaut Chris Williams just did that and more during his 241-day space mission. He landed safely in Kazakhstan on July 26, 2026."
-    },
-    {
-      "id": "2026-07-27-science-2",
-      "source": "Space.com",
-      "time_ago": "Mon, 27 Jul 2026 16:00:00 +0000",
-      "mined_at": "2026-07-27T18:16:13+00:00",
-      "source_published_at": "Mon, 27 Jul 2026 16:00:00 +0000",
-      "image_url": "/article_images/article_9dd265a93d19.webp",
-      "category": "Science",
-      "title": "Could a Loaf of Bread Be a Sign of Alien Life?",
-      "summary": "Scientists usually look for alien tech or tiny microbes. But what if something as simple as bread shows intelligence? A researcher says bread needs many steps to make—so finding it on another planet could mean someone smart baked it!"
-    },
-    {
-      "id": "2026-07-27-science-3",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Mon, 27 Jul 2026 08:36:16 EDT",
-      "mined_at": "2026-07-27T18:16:13+00:00",
-      "source_published_at": "Mon, 27 Jul 2026 08:36:16 EDT",
-      "image_url": "/article_images/article_99e6cc959736.webp",
-      "category": "Science",
-      "title": "A 500,000-Year-Old Elephant Bone Hammer Shows Ancient Humans Were Super Smart",
-      "summary": "Archaeologists found a hammer made from an elephant bone in England. It's 500,000 years old! Early humans used it to sharpen stone tools, proving they were clever and resourceful."
+      "title": "A Giant Ocean 'Conveyor Belt' Is Slowing Down — and It Could Make California Storms Wilder!",
+      "summary": "The AMOC, a huge Atlantic Ocean current, is weakening. New research shows this could make atmospheric rivers stronger along the California coast, bringing more floods. But Greenland might get less snow. Scientists say cutting greenhouse gases can help."
     }
   ]
 }

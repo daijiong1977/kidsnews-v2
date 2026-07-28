@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-27-fun-1",
-      "source": "/Film",
-      "time_ago": "Mon, 27 Jul 2026 17:30:00 +0000",
-      "mined_at": "2026-07-27T18:16:13+00:00",
-      "source_published_at": "Mon, 27 Jul 2026 17:30:00 +0000",
-      "image_url": "/article_images/article_1a47a77582b7.webp",
+      "id": "2026-07-28-fun-1",
+      "source": "Polygon",
+      "time_ago": "Tue, 28 Jul 2026 17:35:40 GMT",
+      "mined_at": "2026-07-28T18:09:17+00:00",
+      "source_published_at": "Tue, 28 Jul 2026 17:35:40 GMT",
+      "image_url": "/article_images/article_d435ccb8a9d5.webp",
       "category": "Fun",
-      "title": "Toy Story 5 Breaks a Billion-Dollar Record — Three Times in a Row!",
-      "summary": "Buzz, Woody, and the gang just made history! Toy Story 5 zoomed past $1 billion, making it the only animated series to have three movies in a row hit that mark. That's like filling 1,000 Olympic pools with popcorn!"
+      "title": "Ted Lasso is Back! But This Time He's Coaching a Women's Team",
+      "summary": "Ted Lasso returns to coach a women's soccer team in England. The new season starts August 5 on Apple TV, with 10 episodes full of laughs and familiar faces."
     },
     {
-      "id": "2026-07-27-fun-2",
-      "source": "Variety",
-      "time_ago": "Mon, 27 Jul 2026 17:46:11 +0000",
-      "mined_at": "2026-07-27T18:16:13+00:00",
-      "source_published_at": "Mon, 27 Jul 2026 17:46:11 +0000",
-      "image_url": "/article_images/article_d351070f87d9.webp",
+      "id": "2026-07-28-fun-2",
+      "source": "Live Science",
+      "time_ago": "Tue, 28 Jul 2026 16:09:13 +0000",
+      "mined_at": "2026-07-28T18:09:17+00:00",
+      "source_published_at": "Tue, 28 Jul 2026 16:09:13 +0000",
+      "image_url": "/article_images/article_c55492b54bea.webp",
       "category": "Fun",
-      "title": "Ryan Reynolds Dressed as Deadpool and Walked Around Comic-Con — and Nobody Knew!",
-      "summary": "Imagine meeting Deadpool at Comic-Con and then finding out it was really Ryan Reynolds! The actor snuck onto the convention floor in a gray Deadpool suit, took selfies with fans, and had zero security. He called it a 'gift.'"
+      "title": "Why Are Killer Whales Still Bumping Boats? A New Sinking Off Spain",
+      "summary": "Orcas sank another boat near Spain, the eighth since 2020. Scientists think young whales are copying each other, not seeking revenge. Sailors are told to stop their engines and let go of the wheel."
     },
     {
-      "id": "2026-07-27-fun-3",
-      "source": "DOGOnews",
-      "time_ago": "",
-      "mined_at": "2026-07-27T18:16:13+00:00",
-      "source_published_at": "",
-      "image_url": "/article_images/article_0acc5ba87dbc.webp",
+      "id": "2026-07-28-fun-3",
+      "source": "Smithsonian History",
+      "time_ago": "Tue, 28 Jul 2026 16:41:15 +0000",
+      "mined_at": "2026-07-28T18:09:17+00:00",
+      "source_published_at": "Tue, 28 Jul 2026 16:41:15 +0000",
+      "image_url": "/article_images/article_84e5b973ac06.webp",
       "category": "Fun",
-      "title": "A Time Capsule for America's 250th Birthday Will Stay Buried Until 2276!",
-      "summary": "On July 4, 2026, a super-strong time capsule will be buried in Philadelphia. It's filled with treasures from all 50 states — like a diamond, an eagle feather, and an AI prediction — and won't be opened for 250 years!"
+      "title": "Did Anyone Survive the Pompeii Volcano? A New Show Hunts for Clues",
+      "summary": "Actor Tom Hiddleston explores whether three real people escaped the eruption of Mount Vesuvius in 79 CE. The documentary mixes science and imagination to follow a teen, a businesswoman, and a soldier."
     }
   ]
 }

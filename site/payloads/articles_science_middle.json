@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-27-science-1",
+      "id": "2026-07-28-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Tue, 28 Jul 2026 02:21:24 EDT",
+      "mined_at": "2026-07-28T18:09:17+00:00",
+      "source_published_at": "Tue, 28 Jul 2026 02:21:24 EDT",
+      "image_url": "/article_images/article_ec37612dbee5.webp",
+      "category": "Science",
+      "title": "Psyche Spacecraft Slingshots Past Mars, Capturing Rare Views and Validating Instruments",
+      "summary": "NASA's Psyche mission used a Mars flyby for a gravity assist, testing its instruments on a known planet. The spacecraft detected neutrons from Mars, measured its magnetic bow shock, and imaged the planet and its moons. The data confirms the tools are ready for the metal asteroid Psyche in 2029."
+    },
+    {
+      "id": "2026-07-28-science-2",
+      "source": "Science News Explores",
+      "time_ago": "Tue, 28 Jul 2026 10:30:00 +0000",
+      "mined_at": "2026-07-28T18:09:17+00:00",
+      "source_published_at": "Tue, 28 Jul 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_d11eac3082cd.webp",
+      "category": "Science",
+      "title": "Nudibranchs' Dazzling Hues Come from Microscopic Crystal Stacks, Not Pigments",
+      "summary": "Researchers have found that nudibranchs produce their vivid colors through structural coloration — stacks of guanine crystals under the skin reflect specific wavelengths. This creates intense, pixelated hues, with some slugs reflecting up to 80% of light. The discovery explains how they achieve such bright colors with a single material."
+    },
+    {
+      "id": "2026-07-28-science-3",
       "source": "ScienceDaily All",
-      "time_ago": "Mon, 27 Jul 2026 04:06:53 EDT",
-      "mined_at": "2026-07-27T18:16:13+00:00",
-      "source_published_at": "Mon, 27 Jul 2026 04:06:53 EDT",
-      "image_url": "/article_images/article_29e64c8c8c15.webp",
+      "time_ago": "Tue, 28 Jul 2026 08:31:45 EDT",
+      "mined_at": "2026-07-28T18:09:17+00:00",
+      "source_published_at": "Tue, 28 Jul 2026 08:31:45 EDT",
+      "image_url": "/article_images/article_aa6d54b41413.webp",
       "category": "Science",
-      "title": "Eight Months, 3,856 Orbits: NASA Astronaut Returns from Critical ISS Mission",
-      "summary": "After 241 days in orbit, NASA astronaut Chris Williams is back on Earth. His mission included cancer research, spacewalks, and testing manufacturing techniques that could revolutionize electronics. He landed in Kazakhstan on July 26."
-    },
-    {
-      "id": "2026-07-27-science-2",
-      "source": "Space.com",
-      "time_ago": "Mon, 27 Jul 2026 16:00:00 +0000",
-      "mined_at": "2026-07-27T18:16:13+00:00",
-      "source_published_at": "Mon, 27 Jul 2026 16:00:00 +0000",
-      "image_url": "/article_images/article_9dd265a93d19.webp",
-      "category": "Science",
-      "title": "Beyond Radio Signals: Why Bread Could Be a Sign of Alien Intelligence",
-      "summary": "Astrobiologist Julia DeMarines proposes 'noosignatures'—evidence of intelligence that isn't technological. Using Assembly Theory, she argues that bread, requiring multiple steps from farming to baking, could reveal a thinking mind on another world."
-    },
-    {
-      "id": "2026-07-27-science-3",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Mon, 27 Jul 2026 08:36:16 EDT",
-      "mined_at": "2026-07-27T18:16:13+00:00",
-      "source_published_at": "Mon, 27 Jul 2026 08:36:16 EDT",
-      "image_url": "/article_images/article_99e6cc959736.webp",
-      "category": "Science",
-      "title": "Half-Million-Year-Old Elephant Bone Reveals Neanderthal Toolmaking Genius",
-      "summary": "A 500,000-year-old elephant bone hammer found at Boxgrove, England, is Europe's oldest known elephant bone tool. Microscopic analysis shows it was used to sharpen stone tools, highlighting early humans' sophisticated craftsmanship."
+      "title": "Weakening Atlantic Ocean Current Could Supercharge California's Atmospheric Rivers",
+      "summary": "A study in Nature Communications shows that a slowing AMOC could intensify atmospheric rivers on the U.S. West Coast by altering moisture transport and steering winds. California faces heightened flood risks, while Greenland may see reduced snowfall. Cutting emissions could mitigate these effects."
     }
   ]
 }

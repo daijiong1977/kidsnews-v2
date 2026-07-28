@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-27-news-1",
+      "id": "2026-07-28-news-1",
       "source": "Al Jazeera",
-      "time_ago": "Mon, 27 Jul 2026 17:20:26 +0000",
-      "mined_at": "2026-07-27T18:16:13+00:00",
-      "source_published_at": "Mon, 27 Jul 2026 17:20:26 +0000",
-      "image_url": "/article_images/article_a6c09651d523.webp",
+      "time_ago": "Tue, 28 Jul 2026 17:12:56 +0000",
+      "mined_at": "2026-07-28T18:09:17+00:00",
+      "source_published_at": "Tue, 28 Jul 2026 17:12:56 +0000",
+      "image_url": "/article_images/article_62f84f65c788.webp",
       "category": "News",
-      "title": "Mass Exodus from the ICC: Chad Becomes Fifth Nation to Quit Amid US Pressure and Bias Claims",
-      "summary": "Chad is the latest country to withdraw from the International Criminal Court, following four African neighbors and Venezuela. The withdrawals come amid intense US hostility after the ICC issued arrest warrants for Israeli leaders. Critics say the court is losing its legitimacy, while supporters warn of a crisis for international justice."
+      "title": "From Oval Office Clash to Patriot Missile Pact: Trump and Zelenskyy's Surprising Turn",
+      "summary": "After a public blowup last year, Trump and Zelenskyy held a \"good meeting\" at the White House, discussing joint production of Patriot missiles in Ukraine. The cooperation signals a major shift in U.S.-Ukraine relations."
     },
     {
-      "id": "2026-07-27-news-2",
+      "id": "2026-07-28-news-2",
       "source": "BBC News",
-      "time_ago": "Mon, 27 Jul 2026 11:50:13 GMT",
-      "mined_at": "2026-07-27T18:16:13+00:00",
-      "source_published_at": "Mon, 27 Jul 2026 11:50:13 GMT",
-      "image_url": "/article_images/article_12c1340acd1a.webp",
+      "time_ago": "Tue, 28 Jul 2026 15:36:29 GMT",
+      "mined_at": "2026-07-28T18:09:17+00:00",
+      "source_published_at": "Tue, 28 Jul 2026 15:36:29 GMT",
+      "image_url": "/article_images/article_ff59de902d19.webp",
       "category": "News",
-      "title": "Jodrell Bank's Iconic Telescope Faces the Axe: Scientists Decry 'Heartbreaking' Cuts",
-      "summary": "The UK's Jodrell Bank Observatory, a UNESCO World Heritage site and Cold War relic, will cease scientific observations in 2028 due to funding cuts. The decision imperils 28 jobs and research for 3,000 scientists. Professor Brian Cox calls it \"hasty and ill-considered,\" as the iconic Lovell Telescope faces an uncertain future."
+      "title": "FIFA's Private Equity Pitch Sparks UEFA Fury: 'The Soul of Football Is Not for Sale'",
+      "summary": "FIFA's plan to seek private investment in a new commercial subsidiary has drawn a blistering response from UEFA, which warns it \"crosses a line.\" The investor group is expected to be led by a firm founded by Joshua Kushner."
     },
     {
-      "id": "2026-07-27-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Mon, 27 Jul 2026 17:36:12 +0000",
-      "mined_at": "2026-07-27T18:16:13+00:00",
-      "source_published_at": "Mon, 27 Jul 2026 17:36:12 +0000",
-      "image_url": "/article_images/article_5eebccb2100b.webp",
+      "id": "2026-07-28-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Tue, 28 Jul 2026 13:01:53 -0400",
+      "mined_at": "2026-07-28T18:09:17+00:00",
+      "source_published_at": "Tue, 28 Jul 2026 13:01:53 -0400",
+      "image_url": "/article_images/article_7191efb1aeed.webp",
       "category": "News",
-      "title": "UNESCO's Double-Edged Sword: Can a Heritage Listing Save Sebastia?",
-      "summary": "UNESCO has placed the 3,000-year-old site of Sebastia on both its World Heritage and Danger lists, citing Israeli land confiscation plans. Palestinians celebrate, but Israel calls it a political move. History shows listings alone rarely halt settlement expansion."
+      "title": "Leaked Biden Tapes: Classified Info and Memory Lapses Surface from Pre-Presidency Interviews",
+      "summary": "Audio recordings from 2016–2017 reveal Joe Biden discussing classified material with his ghostwriter and occasionally struggling to recall details. The tapes were released by a conservative group after a legal battle."
     }
   ]
 }
