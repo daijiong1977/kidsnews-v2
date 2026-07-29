@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-28-news-1",
-      "source": "Al Jazeera",
-      "time_ago": "Tue, 28 Jul 2026 17:12:56 +0000",
-      "mined_at": "2026-07-28T18:09:17+00:00",
-      "source_published_at": "Tue, 28 Jul 2026 17:12:56 +0000",
-      "image_url": "/article_images/article_62f84f65c788.webp",
-      "category": "News",
-      "title": "From Yelling to Smiling: Trump and Zelenskyy Team Up to Build Missiles!",
-      "summary": "Remember when Trump and Zelenskyy had a big fight? Now they're buddies, planning to build Patriot missiles together in Ukraine. That's a huge deal for stopping Russian attacks!"
-    },
-    {
-      "id": "2026-07-28-news-2",
+      "id": "2026-07-29-news-1",
       "source": "BBC News",
-      "time_ago": "Tue, 28 Jul 2026 15:36:29 GMT",
-      "mined_at": "2026-07-28T18:09:17+00:00",
-      "source_published_at": "Tue, 28 Jul 2026 15:36:29 GMT",
-      "image_url": "/article_images/article_ff59de902d19.webp",
+      "time_ago": "Wed, 29 Jul 2026 14:37:30 GMT",
+      "mined_at": "2026-07-29T18:12:18+00:00",
+      "source_published_at": "Wed, 29 Jul 2026 14:37:30 GMT",
+      "image_url": "/article_images/article_8220d83530f5.webp",
       "category": "News",
-      "title": "FIFA's Big Money Plan Makes Europe's Soccer Bosses Furious!",
-      "summary": "FIFA wants to let private investors put money into the World Cup. But UEFA, Europe's soccer boss, says that's like selling the soul of the game. They're really mad!"
+      "title": "Half of England Is Now a Giant Dust Bowl — And You Might Not Be Able to Water Your Garden!",
+      "summary": "More than half of England is officially in a drought. Rivers are drying up, and over 20 million people can't use their garden hoses. The Environment Agency says we're using water faster than rain can refill it."
     },
     {
-      "id": "2026-07-28-news-3",
-      "source": "PBS NewsHour",
-      "time_ago": "Tue, 28 Jul 2026 13:01:53 -0400",
-      "mined_at": "2026-07-28T18:09:17+00:00",
-      "source_published_at": "Tue, 28 Jul 2026 13:01:53 -0400",
-      "image_url": "/article_images/article_7191efb1aeed.webp",
+      "id": "2026-07-29-news-2",
+      "source": "NPR World",
+      "time_ago": "Wed, 29 Jul 2026 05:00:00 -0400",
+      "mined_at": "2026-07-29T18:12:18+00:00",
+      "source_published_at": "Wed, 29 Jul 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_5246b62d64ae.webp",
       "category": "News",
-      "title": "Secret Tapes: Did Joe Biden Share Classified Info and Forget Things?",
-      "summary": "Audio tapes from 2016–2017 show Joe Biden talking to his book writer about secret government stuff. He also sometimes couldn't remember dates. A group released them after a long court fight."
+      "title": "Why Democrats Might Stop Talking About 'Saving Democracy' (and What They'll Say Instead)",
+      "summary": "A new report says Democrats are losing working-class voters because they talk too much about democracy and not enough about paychecks and safety. Researchers say the party needs to listen more and respect voters' values like hard work and patriotism."
+    },
+    {
+      "id": "2026-07-29-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Wed, 29 Jul 2026 17:32:34 +0000",
+      "mined_at": "2026-07-29T18:12:18+00:00",
+      "source_published_at": "Wed, 29 Jul 2026 17:32:34 +0000",
+      "image_url": "/article_images/article_3ed9088f14e4.webp",
+      "category": "News",
+      "title": "Dr. Fauci Stays Silent at Senate Hearing — Here's Why He Used the Fifth Amendment",
+      "summary": "Dr. Anthony Fauci refused to answer questions at a Senate hearing about COVID-19. He used the Fifth Amendment, which lets people stay silent to avoid saying something that could get them in trouble. Republicans accused him of covering up the virus's origins."
     }
   ]
 }

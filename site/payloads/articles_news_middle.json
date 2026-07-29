@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-28-news-1",
-      "source": "Al Jazeera",
-      "time_ago": "Tue, 28 Jul 2026 17:12:56 +0000",
-      "mined_at": "2026-07-28T18:09:17+00:00",
-      "source_published_at": "Tue, 28 Jul 2026 17:12:56 +0000",
-      "image_url": "/article_images/article_62f84f65c788.webp",
-      "category": "News",
-      "title": "From Oval Office Clash to Patriot Missile Pact: Trump and Zelenskyy's Surprising Turn",
-      "summary": "After a public blowup last year, Trump and Zelenskyy held a \"good meeting\" at the White House, discussing joint production of Patriot missiles in Ukraine. The cooperation signals a major shift in U.S.-Ukraine relations."
-    },
-    {
-      "id": "2026-07-28-news-2",
+      "id": "2026-07-29-news-1",
       "source": "BBC News",
-      "time_ago": "Tue, 28 Jul 2026 15:36:29 GMT",
-      "mined_at": "2026-07-28T18:09:17+00:00",
-      "source_published_at": "Tue, 28 Jul 2026 15:36:29 GMT",
-      "image_url": "/article_images/article_ff59de902d19.webp",
+      "time_ago": "Wed, 29 Jul 2026 14:37:30 GMT",
+      "mined_at": "2026-07-29T18:12:18+00:00",
+      "source_published_at": "Wed, 29 Jul 2026 14:37:30 GMT",
+      "image_url": "/article_images/article_8220d83530f5.webp",
       "category": "News",
-      "title": "FIFA's Private Equity Pitch Sparks UEFA Fury: 'The Soul of Football Is Not for Sale'",
-      "summary": "FIFA's plan to seek private investment in a new commercial subsidiary has drawn a blistering response from UEFA, which warns it \"crosses a line.\" The investor group is expected to be led by a firm founded by Joshua Kushner."
+      "title": "England's Drought Deepens: Over Half the Country Parched as Water Restrictions Tighten",
+      "summary": "The Environment Agency declared drought across more than half of England on Wednesday. Over 20 million people face hosepipe bans, rivers are running dry, and wildfire risks are soaring. Officials warn water use is outpacing nature's ability to replenish supplies."
     },
     {
-      "id": "2026-07-28-news-3",
-      "source": "PBS NewsHour",
-      "time_ago": "Tue, 28 Jul 2026 13:01:53 -0400",
-      "mined_at": "2026-07-28T18:09:17+00:00",
-      "source_published_at": "Tue, 28 Jul 2026 13:01:53 -0400",
-      "image_url": "/article_images/article_7191efb1aeed.webp",
+      "id": "2026-07-29-news-2",
+      "source": "NPR World",
+      "time_ago": "Wed, 29 Jul 2026 05:00:00 -0400",
+      "mined_at": "2026-07-29T18:12:18+00:00",
+      "source_published_at": "Wed, 29 Jul 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_5246b62d64ae.webp",
       "category": "News",
-      "title": "Leaked Biden Tapes: Classified Info and Memory Lapses Surface from Pre-Presidency Interviews",
-      "summary": "Audio recordings from 2016–2017 reveal Joe Biden discussing classified material with his ghostwriter and occasionally struggling to recall details. The tapes were released by a conservative group after a legal battle."
+      "title": "Dems' Dilemma: To Win Back Workers, Stop Talking About Democracy, Report Says",
+      "summary": "A new report argues Democrats must shift focus from 'resisting authoritarianism' to economic security if they want working-class voters. Researchers found a massive priority gap: defending democracy ranks near the bottom for workers, while paychecks and safety top their list."
+    },
+    {
+      "id": "2026-07-29-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Wed, 29 Jul 2026 17:32:34 +0000",
+      "mined_at": "2026-07-29T18:12:18+00:00",
+      "source_published_at": "Wed, 29 Jul 2026 17:32:34 +0000",
+      "image_url": "/article_images/article_3ed9088f14e4.webp",
+      "category": "News",
+      "title": "Fauci Pleads the Fifth in Fiery Senate Hearing, Fueling Partisan Firestorm Over COVID Origins",
+      "summary": "Dr. Anthony Fauci invoked his Fifth Amendment right against self-incrimination during a Senate hearing on COVID-19. Republicans, led by Rand Paul, accused him of covering up the pandemic's origins. Fauci, 85, said he feared his words would be twisted to seek criminal prosecution."
     }
   ]
 }
