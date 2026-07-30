@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-29-science-1",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Wed, 29 Jul 2026 06:15:04 EDT",
-      "mined_at": "2026-07-29T18:12:18+00:00",
-      "source_published_at": "Wed, 29 Jul 2026 06:15:04 EDT",
-      "image_url": "/article_images/article_7f3c54471a35.webp",
+      "id": "2026-07-30-science-1",
+      "source": "Space.com",
+      "time_ago": "Thu, 30 Jul 2026 17:03:10 +0000",
+      "mined_at": "2026-07-30T18:12:57+00:00",
+      "source_published_at": "Thu, 30 Jul 2026 17:03:10 +0000",
+      "image_url": "/article_images/article_90ef19e208e8.webp",
       "category": "Science",
-      "title": "Microwave Frying Slashes Oil in French Fries — Without Ruining the Crunch",
-      "summary": "Frying with microwaves could make fries healthier by cutting oil absorption. Researchers found that microwaves create internal pressure that blocks oil from seeping in, cooking fries faster while keeping them crispy. The technique uses a specialized fryer and could change how your favorite snack is made."
+      "title": "Unmasking 44 Nysa: The First Triple-Lobed Asteroid—With a Moon!",
+      "summary": "Astronomers have revealed that asteroid 44 Nysa is the first known triple-lobed body, with a tiny moon in tow. High-contrast imaging unmasked its bizarre shape after 169 years of mystery."
     },
     {
-      "id": "2026-07-29-science-2",
-      "source": "Smithsonian Science-Nature",
-      "time_ago": "Mon, 27 Jul 2026 18:22:30 +0000",
-      "mined_at": "2026-07-29T18:12:18+00:00",
-      "source_published_at": "Mon, 27 Jul 2026 18:22:30 +0000",
-      "image_url": "/article_images/article_89f4e32a1658.webp",
+      "id": "2026-07-30-science-2",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Tue, 28 Jul 2026 01:54:39 EDT",
+      "mined_at": "2026-07-30T18:12:57+00:00",
+      "source_published_at": "Tue, 28 Jul 2026 01:54:39 EDT",
+      "image_url": "/article_images/article_868b1e17efe7.webp",
       "category": "Science",
-      "title": "Five Evolutionary Secrets That Made Prehistoric Sharks Colossal",
-      "summary": "Megalodon and other giant sharks didn't just happen by chance. Paleontologists identify five key factors — from avoiding pliosaurs to cannibalizing siblings in the womb — that allowed predatory sharks to exceed 50 feet. Their rise was tied to abundant blubbery prey and the ability to cross oceans."
+      "title": "An Orphan Black Hole Shreds a Star: NASA's Swift Sees a Cosmic Exile",
+      "summary": "A supermassive black hole, 30,000 light-years from its galaxy's core, tore apart a star in a flare 10 billion times brighter than the sun. This rare tidal disruption event validates a new way to find wandering black holes."
     },
     {
-      "id": "2026-07-29-science-3",
-      "source": "Physics World",
-      "time_ago": "Wed, 29 Jul 2026 14:30:37 +0000",
-      "mined_at": "2026-07-29T18:12:18+00:00",
-      "source_published_at": "Wed, 29 Jul 2026 14:30:37 +0000",
-      "image_url": "/article_images/article_951fcce2c48b.webp",
+      "id": "2026-07-30-science-3",
+      "source": "Popular Science",
+      "time_ago": "Thu, 30 Jul 2026 12:00:00 -0400",
+      "mined_at": "2026-07-30T18:12:57+00:00",
+      "source_published_at": "Thu, 30 Jul 2026 12:00:00 -0400",
+      "image_url": "/article_images/article_44031e29186c.webp",
       "category": "Science",
-      "title": "Spider Diagrams Unlock Quantum Teleportation for High Schoolers",
-      "summary": "A UK workshop proved that 16-year-olds can master quantum teleportation using a pictorial calculus. Instead of equations, students manipulated 'spider' diagrams that are mathematically equivalent to Hilbert space formalism. The approach demystified quantum theory and sparked enthusiasm, with one student presenting the protocol to the class."
+      "title": "Signed, Sealed, Delivered: Roman Sling Bullets Taunt Rebels with a General's Name",
+      "summary": "In Catalonia, archaeologists unearthed lead sling bullets inscribed with \"CN D\"—the mark of Roman general Gnaeus Domitius Calvinus. The 2,100-year-old ammunition pinpoints the final battle of the Ceretani Revolt."
     }
   ]
 }

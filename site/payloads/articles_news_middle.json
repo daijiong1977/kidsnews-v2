@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-29-news-1",
+      "id": "2026-07-30-news-1",
       "source": "BBC News",
-      "time_ago": "Wed, 29 Jul 2026 14:37:30 GMT",
-      "mined_at": "2026-07-29T18:12:18+00:00",
-      "source_published_at": "Wed, 29 Jul 2026 14:37:30 GMT",
-      "image_url": "/article_images/article_8220d83530f5.webp",
+      "time_ago": "Thu, 30 Jul 2026 16:47:40 GMT",
+      "mined_at": "2026-07-30T18:12:57+00:00",
+      "source_published_at": "Thu, 30 Jul 2026 16:47:40 GMT",
+      "image_url": "/article_images/article_6903dfd3bbdd.webp",
       "category": "News",
-      "title": "England's Drought Deepens: Over Half the Country Parched as Water Restrictions Tighten",
-      "summary": "The Environment Agency declared drought across more than half of England on Wednesday. Over 20 million people face hosepipe bans, rivers are running dry, and wildfire risks are soaring. Officials warn water use is outpacing nature's ability to replenish supplies."
+      "title": "European Soccer Nations Threaten World Cup Boycott Over Fifa's Privatization Plan",
+      "summary": "In a stunning rebuke, all 55 European soccer associations voted to boycott World Cups if Fifa sells stakes in its tournaments to private investors. The emergency meeting's 'venomous' atmosphere signals a deepening crisis for soccer's governing body."
     },
     {
-      "id": "2026-07-29-news-2",
+      "id": "2026-07-30-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Thu, 30 Jul 2026 13:30:12 -0400",
+      "mined_at": "2026-07-30T18:12:57+00:00",
+      "source_published_at": "Thu, 30 Jul 2026 13:30:12 -0400",
+      "image_url": "/article_images/article_203e7f54d520.webp",
+      "category": "News",
+      "title": "White House Launches 'Freedom Haulers' to Train Veterans as Truckers Amid Immigrant Driver Purge",
+      "summary": "With 26,000 immigrant drivers removed from U.S. roads for English proficiency failures, the Trump administration is recruiting veterans to fill the gap. A new campaign lets recently discharged military drivers bypass CDL skills tests and offers fully funded training."
+    },
+    {
+      "id": "2026-07-30-news-3",
       "source": "NPR World",
-      "time_ago": "Wed, 29 Jul 2026 05:00:00 -0400",
-      "mined_at": "2026-07-29T18:12:18+00:00",
-      "source_published_at": "Wed, 29 Jul 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_5246b62d64ae.webp",
+      "time_ago": "Thu, 30 Jul 2026 05:00:00 -0400",
+      "mined_at": "2026-07-30T18:12:57+00:00",
+      "source_published_at": "Thu, 30 Jul 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_2c71fa6c885c.webp",
       "category": "News",
-      "title": "Dems' Dilemma: To Win Back Workers, Stop Talking About Democracy, Report Says",
-      "summary": "A new report argues Democrats must shift focus from 'resisting authoritarianism' to economic security if they want working-class voters. Researchers found a massive priority gap: defending democracy ranks near the bottom for workers, while paychecks and safety top their list."
-    },
-    {
-      "id": "2026-07-29-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Wed, 29 Jul 2026 17:32:34 +0000",
-      "mined_at": "2026-07-29T18:12:18+00:00",
-      "source_published_at": "Wed, 29 Jul 2026 17:32:34 +0000",
-      "image_url": "/article_images/article_3ed9088f14e4.webp",
-      "category": "News",
-      "title": "Fauci Pleads the Fifth in Fiery Senate Hearing, Fueling Partisan Firestorm Over COVID Origins",
-      "summary": "Dr. Anthony Fauci invoked his Fifth Amendment right against self-incrimination during a Senate hearing on COVID-19. Republicans, led by Rand Paul, accused him of covering up the pandemic's origins. Fauci, 85, said he feared his words would be twisted to seek criminal prosecution."
+      "title": "The Homeownership Dream Fades: Renter-Owner Wealth Gap Hits Record High",
+      "summary": "Home prices surged to a record $440,600 this summer, widening the wealth chasm between renters and owners to its highest level since 1989. For Millennials like Jay Washington, 38, student debt and soaring costs make buying nearly impossible."
     }
   ]
 }

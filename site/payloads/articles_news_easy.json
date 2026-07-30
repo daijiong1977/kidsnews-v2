@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-29-news-1",
+      "id": "2026-07-30-news-1",
       "source": "BBC News",
-      "time_ago": "Wed, 29 Jul 2026 14:37:30 GMT",
-      "mined_at": "2026-07-29T18:12:18+00:00",
-      "source_published_at": "Wed, 29 Jul 2026 14:37:30 GMT",
-      "image_url": "/article_images/article_8220d83530f5.webp",
+      "time_ago": "Thu, 30 Jul 2026 16:47:40 GMT",
+      "mined_at": "2026-07-30T18:12:57+00:00",
+      "source_published_at": "Thu, 30 Jul 2026 16:47:40 GMT",
+      "image_url": "/article_images/article_6903dfd3bbdd.webp",
       "category": "News",
-      "title": "Half of England Is Now a Giant Dust Bowl — And You Might Not Be Able to Water Your Garden!",
-      "summary": "More than half of England is officially in a drought. Rivers are drying up, and over 20 million people can't use their garden hoses. The Environment Agency says we're using water faster than rain can refill it."
+      "title": "Europe Says 'No Way!' to Selling the World Cup to Private Investors",
+      "summary": "Imagine if your favorite playground got sold to a company! That's what European soccer bosses say Fifa is trying to do with the World Cup. All 55 European teams voted to boycott if the plan goes ahead."
     },
     {
-      "id": "2026-07-29-news-2",
+      "id": "2026-07-30-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Thu, 30 Jul 2026 13:30:12 -0400",
+      "mined_at": "2026-07-30T18:12:57+00:00",
+      "source_published_at": "Thu, 30 Jul 2026 13:30:12 -0400",
+      "image_url": "/article_images/article_203e7f54d520.webp",
+      "category": "News",
+      "title": "Veterans Wanted: Drive Big Rigs as Immigrant Truckers Lose Licenses",
+      "summary": "The U.S. government has a new plan: train veterans to be truck drivers. This comes after about 26,000 immigrant drivers were taken off the road for not speaking English well enough. The program lets some vets skip the driving test."
+    },
+    {
+      "id": "2026-07-30-news-3",
       "source": "NPR World",
-      "time_ago": "Wed, 29 Jul 2026 05:00:00 -0400",
-      "mined_at": "2026-07-29T18:12:18+00:00",
-      "source_published_at": "Wed, 29 Jul 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_5246b62d64ae.webp",
+      "time_ago": "Thu, 30 Jul 2026 05:00:00 -0400",
+      "mined_at": "2026-07-30T18:12:57+00:00",
+      "source_published_at": "Thu, 30 Jul 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_2c71fa6c885c.webp",
       "category": "News",
-      "title": "Why Democrats Might Stop Talking About 'Saving Democracy' (and What They'll Say Instead)",
-      "summary": "A new report says Democrats are losing working-class voters because they talk too much about democracy and not enough about paychecks and safety. Researchers say the party needs to listen more and respect voters' values like hard work and patriotism."
-    },
-    {
-      "id": "2026-07-29-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Wed, 29 Jul 2026 17:32:34 +0000",
-      "mined_at": "2026-07-29T18:12:18+00:00",
-      "source_published_at": "Wed, 29 Jul 2026 17:32:34 +0000",
-      "image_url": "/article_images/article_3ed9088f14e4.webp",
-      "category": "News",
-      "title": "Dr. Fauci Stays Silent at Senate Hearing — Here's Why He Used the Fifth Amendment",
-      "summary": "Dr. Anthony Fauci refused to answer questions at a Senate hearing about COVID-19. He used the Fifth Amendment, which lets people stay silent to avoid saying something that could get them in trouble. Republicans accused him of covering up the virus's origins."
+      "title": "Why Owning a Home Feels Like a Dream for Many Young People",
+      "summary": "The gap between renters and homeowners is bigger than ever. A new report shows home prices hit $440,600, and 77% of listings are too pricey for middle-income earners. Meet Jay, 38, who worries he may never own a home."
     }
   ]
 }

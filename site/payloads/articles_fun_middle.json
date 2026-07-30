@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-29-fun-1",
-      "source": "DOGOnews",
-      "time_ago": "",
-      "mined_at": "2026-07-29T18:12:18+00:00",
-      "source_published_at": "",
-      "image_url": "/article_images/article_21c749771c74.webp",
+      "id": "2026-07-30-fun-1",
+      "source": "Wired Gear",
+      "time_ago": "Thu, 30 Jul 2026 17:06:13 +0000",
+      "mined_at": "2026-07-30T18:12:57+00:00",
+      "source_published_at": "Thu, 30 Jul 2026 17:06:13 +0000",
+      "image_url": "/article_images/article_7a5f366c11e1.webp",
       "category": "Fun",
-      "title": "From Emperors to World Records: The Scoop on National Ice Cream Month",
-      "summary": "July marks National Ice Cream Month, a tradition since 1984. The average American eats 23 pounds of ice cream yearly, and a study suggests your favorite flavor might reveal your personality — vanilla fans are adventurous!"
+      "title": "Zoox's Steering-Wheel-Free Robotaxis Get Green Light to Charge Passengers—a First in the U.S.",
+      "summary": "Zoox just scored a historic approval: its pod-like robotaxis, which lack steering wheels and pedals, can now collect fares. The Amazon-owned company will start paid rides in Las Vegas, marking a milestone for purpose-built autonomous vehicles."
     },
     {
-      "id": "2026-07-29-fun-2",
-      "source": "Rolling Stone Music",
-      "time_ago": "Wed, 29 Jul 2026 16:01:07 +0000",
-      "mined_at": "2026-07-29T18:12:18+00:00",
-      "source_published_at": "Wed, 29 Jul 2026 16:01:07 +0000",
-      "image_url": "/article_images/article_8006e68906d3.webp",
+      "id": "2026-07-30-fun-2",
+      "source": "Live Science",
+      "time_ago": "Thu, 30 Jul 2026 17:43:39 +0000",
+      "mined_at": "2026-07-30T18:12:57+00:00",
+      "source_published_at": "Thu, 30 Jul 2026 17:43:39 +0000",
+      "image_url": "/article_images/article_bf5a64523989.webp",
       "category": "Fun",
-      "title": "BTS Opts Out of 2027 Grammys, Citing Concerns Over New 'Asian Pop' Category",
-      "summary": "BTS will not submit their comeback album 'ARIRANG' for Grammy consideration, each member announced on Instagram. The move follows the Recording Academy's introduction of a Best Asian Pop Music Performance category, which some fans see as limiting."
+      "title": "Thumbnail-Sized Bird Figurines Carved 40,000 Years Ago Unearthed in German Cave",
+      "summary": "Two miniature bird carvings, no bigger than a thumbnail and crafted from mammoth ivory, have been discovered in Germany's Hohle Fels cave. The 40,000-year-old figurines reveal the astonishing artistry of Ice Age humans."
     },
     {
-      "id": "2026-07-29-fun-3",
-      "source": "DOGOnews",
-      "time_ago": "",
-      "mined_at": "2026-07-29T18:12:18+00:00",
-      "source_published_at": "",
-      "image_url": "/article_images/article_b953aaea4508.webp",
+      "id": "2026-07-30-fun-3",
+      "source": "MIT News",
+      "time_ago": "Thu, 30 Jul 2026 11:00:00 -0400",
+      "mined_at": "2026-07-30T18:12:57+00:00",
+      "source_published_at": "Thu, 30 Jul 2026 11:00:00 -0400",
+      "image_url": "/article_images/article_44db12b220f6.webp",
       "category": "Fun",
-      "title": "Against the Current: How a Fry-Sized Fish Conquers Waterfalls",
-      "summary": "New research confirms that shellear fish in the Democratic Republic of Congo scale vertical rock faces at Luvilombo Falls. Using microscopic hooks on their fins, these tiny climbers battle rushing water for up to 10 hours per ascent."
+      "title": "MIT Scientists Uncover Why Molybdenum Makes Nitrogen-Fixing Enzymes So Efficient",
+      "summary": "Two new MIT studies reveal that molybdenum, though it doesn't directly bind nitrogen, helps nearby iron atoms grip nitrogen gas more tightly. This electronic teamwork explains why molybdenum-containing nitrogenases are nature's best ammonia factories."
     }
   ]
 }
