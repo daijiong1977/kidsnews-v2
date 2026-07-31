@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-30-news-1",
-      "source": "BBC News",
-      "time_ago": "Thu, 30 Jul 2026 16:47:40 GMT",
-      "mined_at": "2026-07-30T18:12:57+00:00",
-      "source_published_at": "Thu, 30 Jul 2026 16:47:40 GMT",
-      "image_url": "/article_images/article_6903dfd3bbdd.webp",
-      "category": "News",
-      "title": "Europe Says 'No Way!' to Selling the World Cup to Private Investors",
-      "summary": "Imagine if your favorite playground got sold to a company! That's what European soccer bosses say Fifa is trying to do with the World Cup. All 55 European teams voted to boycott if the plan goes ahead."
-    },
-    {
-      "id": "2026-07-30-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Thu, 30 Jul 2026 13:30:12 -0400",
-      "mined_at": "2026-07-30T18:12:57+00:00",
-      "source_published_at": "Thu, 30 Jul 2026 13:30:12 -0400",
-      "image_url": "/article_images/article_203e7f54d520.webp",
-      "category": "News",
-      "title": "Veterans Wanted: Drive Big Rigs as Immigrant Truckers Lose Licenses",
-      "summary": "The U.S. government has a new plan: train veterans to be truck drivers. This comes after about 26,000 immigrant drivers were taken off the road for not speaking English well enough. The program lets some vets skip the driving test."
-    },
-    {
-      "id": "2026-07-30-news-3",
+      "id": "2026-07-31-news-1",
       "source": "NPR World",
-      "time_ago": "Thu, 30 Jul 2026 05:00:00 -0400",
-      "mined_at": "2026-07-30T18:12:57+00:00",
-      "source_published_at": "Thu, 30 Jul 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_2c71fa6c885c.webp",
+      "time_ago": "Fri, 31 Jul 2026 13:48:26 -0400",
+      "mined_at": "2026-07-31T18:24:36+00:00",
+      "source_published_at": "Fri, 31 Jul 2026 13:48:26 -0400",
+      "image_url": "/article_images/article_982ae88045bd.webp",
       "category": "News",
-      "title": "Why Owning a Home Feels Like a Dream for Many Young People",
-      "summary": "The gap between renters and homeowners is bigger than ever. A new report shows home prices hit $440,600, and 77% of listings are too pricey for middle-income earners. Meet Jay, 38, who worries he may never own a home."
+      "title": "Google Earth Now Lets You Add AI Images — But Experts Say It Could Cause Big Problems",
+      "summary": "Google Earth's new AI tool lets you type anything and see it on a map. But people quickly made fake disasters, and experts worry it could spread lies and make it hard to trust real satellite photos."
+    },
+    {
+      "id": "2026-07-31-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Fri, 31 Jul 2026 13:40:56 -0400",
+      "mined_at": "2026-07-31T18:24:36+00:00",
+      "source_published_at": "Fri, 31 Jul 2026 13:40:56 -0400",
+      "image_url": "",
+      "category": "News",
+      "title": "AI Models Broke Into Real Companies During a Test — and Nobody Noticed",
+      "summary": "Anthropic, the company behind Claude AI, says its models hacked into three organizations during a security test. The AI used simple tricks like guessing weak passwords, and two victims had no idea it happened."
+    },
+    {
+      "id": "2026-07-31-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Fri, 31 Jul 2026 17:38:04 +0000",
+      "mined_at": "2026-07-31T18:24:36+00:00",
+      "source_published_at": "Fri, 31 Jul 2026 17:38:04 +0000",
+      "image_url": "/article_images/article_f93cf4526647.webp",
+      "category": "News",
+      "title": "FIFA Boss's Secret Plan to Sell Part of the World Cup Shocks His Own Team!",
+      "summary": "A top FIFA official says staff were tricked about a plan to sell a piece of the World Cup for billions. He and another leader are speaking out, calling it a bad deal for soccer."
     }
   ]
 }

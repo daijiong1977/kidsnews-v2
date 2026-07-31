@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-30-science-1",
+      "id": "2026-07-31-science-1",
       "source": "Space.com",
-      "time_ago": "Thu, 30 Jul 2026 17:03:10 +0000",
-      "mined_at": "2026-07-30T18:12:57+00:00",
-      "source_published_at": "Thu, 30 Jul 2026 17:03:10 +0000",
-      "image_url": "/article_images/article_90ef19e208e8.webp",
+      "time_ago": "Fri, 31 Jul 2026 16:00:00 +0000",
+      "mined_at": "2026-07-31T18:24:36+00:00",
+      "source_published_at": "Fri, 31 Jul 2026 16:00:00 +0000",
+      "image_url": "/article_images/article_9ab9cc9e8b36.webp",
       "category": "Science",
-      "title": "Unmasking 44 Nysa: The First Triple-Lobed Asteroid—With a Moon!",
-      "summary": "Astronomers have revealed that asteroid 44 Nysa is the first known triple-lobed body, with a tiny moon in tow. High-contrast imaging unmasked its bizarre shape after 169 years of mystery."
+      "title": "NASA's New Moon Mission: Two Probes, One Cosmic Tug-of-War",
+      "summary": "NASA's CAPSTONE 02 will send two probes to the moon to test complex 'three-body orbits' where Earth and moon gravity both pull. They'll fly in formation and swap roles. Launch is set for 2027."
     },
     {
-      "id": "2026-07-30-science-2",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Tue, 28 Jul 2026 01:54:39 EDT",
-      "mined_at": "2026-07-30T18:12:57+00:00",
-      "source_published_at": "Tue, 28 Jul 2026 01:54:39 EDT",
-      "image_url": "/article_images/article_868b1e17efe7.webp",
+      "id": "2026-07-31-science-2",
+      "source": "IEEE Spectrum",
+      "time_ago": "Thu, 30 Jul 2026 14:00:03 +0000",
+      "mined_at": "2026-07-31T18:24:36+00:00",
+      "source_published_at": "Thu, 30 Jul 2026 14:00:03 +0000",
+      "image_url": "/article_images/article_1c43930da007.webp",
       "category": "Science",
-      "title": "An Orphan Black Hole Shreds a Star: NASA's Swift Sees a Cosmic Exile",
-      "summary": "A supermassive black hole, 30,000 light-years from its galaxy's core, tore apart a star in a flare 10 billion times brighter than the sun. This rare tidal disruption event validates a new way to find wandering black holes."
+      "title": "DIY Radio Telescope: Detect Dark Matter from Your Backyard",
+      "summary": "A homemade radio telescope made from roof flashing and a paint can can detect dark matter! By measuring hydrogen clouds' orbital speeds, you can see the invisible stuff that makes up most of the universe. Total cost: under $100."
     },
     {
-      "id": "2026-07-30-science-3",
-      "source": "Popular Science",
-      "time_ago": "Thu, 30 Jul 2026 12:00:00 -0400",
-      "mined_at": "2026-07-30T18:12:57+00:00",
-      "source_published_at": "Thu, 30 Jul 2026 12:00:00 -0400",
-      "image_url": "/article_images/article_44031e29186c.webp",
+      "id": "2026-07-31-science-3",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Thu, 30 Jul 2026 08:13:37 EDT",
+      "mined_at": "2026-07-31T18:24:36+00:00",
+      "source_published_at": "Thu, 30 Jul 2026 08:13:37 EDT",
+      "image_url": "/article_images/article_2c9ca2232d77.webp",
       "category": "Science",
-      "title": "Signed, Sealed, Delivered: Roman Sling Bullets Taunt Rebels with a General's Name",
-      "summary": "In Catalonia, archaeologists unearthed lead sling bullets inscribed with \"CN D\"—the mark of Roman general Gnaeus Domitius Calvinus. The 2,100-year-old ammunition pinpoints the final battle of the Ceretani Revolt."
+      "title": "Evolution's Repeat Trick: Same Leaf, Different Genes",
+      "summary": "In the Galápagos, giant daisies evolved the same lobed leaf shape multiple times—but using different genes each time. This 'parallel evolution' shows nature's creativity. Scientists studied all known Scalesia species."
     }
   ]
 }

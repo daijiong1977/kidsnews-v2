@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-30-science-1",
+      "id": "2026-07-31-science-1",
       "source": "Space.com",
-      "time_ago": "Thu, 30 Jul 2026 17:03:10 +0000",
-      "mined_at": "2026-07-30T18:12:57+00:00",
-      "source_published_at": "Thu, 30 Jul 2026 17:03:10 +0000",
-      "image_url": "/article_images/article_90ef19e208e8.webp",
+      "time_ago": "Fri, 31 Jul 2026 16:00:00 +0000",
+      "mined_at": "2026-07-31T18:24:36+00:00",
+      "source_published_at": "Fri, 31 Jul 2026 16:00:00 +0000",
+      "image_url": "/article_images/article_9ab9cc9e8b36.webp",
       "category": "Science",
-      "title": "A Three-Headed Space Rock? Meet 44 Nysa, the First Triple Asteroid!",
-      "summary": "Scientists just found the first asteroid with three lumps stuck together—and it even has a tiny moon! 44 Nysa is 47 miles wide and hides in the asteroid belt between Mars and Jupiter."
+      "title": "Two Moon Probes Will Chase Each Other in Space!",
+      "summary": "NASA is sending two probes to the moon to test tricky orbits where Earth and moon gravity both pull. They'll fly in formation and swap 'chaser' and 'target' jobs. Launch is set for 2027."
     },
     {
-      "id": "2026-07-30-science-2",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Tue, 28 Jul 2026 01:54:39 EDT",
-      "mined_at": "2026-07-30T18:12:57+00:00",
-      "source_published_at": "Tue, 28 Jul 2026 01:54:39 EDT",
-      "image_url": "/article_images/article_868b1e17efe7.webp",
+      "id": "2026-07-31-science-2",
+      "source": "IEEE Spectrum",
+      "time_ago": "Thu, 30 Jul 2026 14:00:03 +0000",
+      "mined_at": "2026-07-31T18:24:36+00:00",
+      "source_published_at": "Thu, 30 Jul 2026 14:00:03 +0000",
+      "image_url": "/article_images/article_1c43930da007.webp",
       "category": "Science",
-      "title": "A Wandering Black Hole Just Ate a Star—and It Glowed Brighter Than 10 Billion Suns!",
-      "summary": "NASA's Swift telescope caught a supermassive black hole shredding a star far from its galaxy's center. The flare was as bright as 10 billion suns and happened 750 million light-years away."
+      "title": "You Can Detect Dark Matter from Your Backyard!",
+      "summary": "A DIY radio telescope made from roof flashing and a paint can can detect dark matter! By measuring hydrogen clouds' speeds, you can see the invisible stuff that makes up most of the universe. It costs under $100."
     },
     {
-      "id": "2026-07-30-science-3",
-      "source": "Popular Science",
-      "time_ago": "Thu, 30 Jul 2026 12:00:00 -0400",
-      "mined_at": "2026-07-30T18:12:57+00:00",
-      "source_published_at": "Thu, 30 Jul 2026 12:00:00 -0400",
-      "image_url": "/article_images/article_44031e29186c.webp",
+      "id": "2026-07-31-science-3",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Thu, 30 Jul 2026 08:13:37 EDT",
+      "mined_at": "2026-07-31T18:24:36+00:00",
+      "source_published_at": "Thu, 30 Jul 2026 08:13:37 EDT",
+      "image_url": "/article_images/article_2c9ca2232d77.webp",
       "category": "Science",
-      "title": "Roman Soldiers Shot Signed Bullets at Rebels—Like Ancient Trash Talk!",
-      "summary": "Archaeologists found 2,100-year-old slingshot bullets in Spain with a Roman general's initials. They were used to crush a rebellion and send a message: \"We're in charge!\""
+      "title": "Nature's Repeat Trick: Same Leaf Shape, Different Genes!",
+      "summary": "In the Galápagos, giant daisies evolved the same leaf shape multiple times—but using different genes each time! This 'parallel evolution' shows nature's creativity. Scientists studied all known species."
     }
   ]
 }
