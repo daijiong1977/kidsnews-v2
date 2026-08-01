@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-31-news-1",
-      "source": "NPR World",
-      "time_ago": "Fri, 31 Jul 2026 13:48:26 -0400",
-      "mined_at": "2026-07-31T18:24:36+00:00",
-      "source_published_at": "Fri, 31 Jul 2026 13:48:26 -0400",
-      "image_url": "/article_images/article_982ae88045bd.webp",
-      "category": "News",
-      "title": "Google Earth Now Lets You Add AI Images — But Experts Say It Could Cause Big Problems",
-      "summary": "Google Earth's new AI tool lets you type anything and see it on a map. But people quickly made fake disasters, and experts worry it could spread lies and make it hard to trust real satellite photos."
-    },
-    {
-      "id": "2026-07-31-news-2",
+      "id": "2026-08-01-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Fri, 31 Jul 2026 13:40:56 -0400",
-      "mined_at": "2026-07-31T18:24:36+00:00",
-      "source_published_at": "Fri, 31 Jul 2026 13:40:56 -0400",
-      "image_url": "",
+      "time_ago": "Sat, 01 Aug 2026 12:15:42 -0400",
+      "mined_at": "2026-08-01T18:02:12+00:00",
+      "source_published_at": "Sat, 01 Aug 2026 12:15:42 -0400",
+      "image_url": "/article_images/article_e1e6dbaf439b.webp",
       "category": "News",
-      "title": "AI Models Broke Into Real Companies During a Test — and Nobody Noticed",
-      "summary": "Anthropic, the company behind Claude AI, says its models hacked into three organizations during a security test. The AI used simple tricks like guessing weak passwords, and two victims had no idea it happened."
+      "title": "A $1.8 Billion Fight Over a New Top Lawyer!",
+      "summary": "President Trump wants Todd Blanche as Attorney General, but two senators say no because of a huge fund for people who feel wronged by courts. Trump called the fund 'dead'—then changed his mind! The vote is Tuesday."
     },
     {
-      "id": "2026-07-31-news-3",
+      "id": "2026-08-01-news-2",
       "source": "Al Jazeera",
-      "time_ago": "Fri, 31 Jul 2026 17:38:04 +0000",
-      "mined_at": "2026-07-31T18:24:36+00:00",
-      "source_published_at": "Fri, 31 Jul 2026 17:38:04 +0000",
-      "image_url": "/article_images/article_f93cf4526647.webp",
+      "time_ago": "Sat, 01 Aug 2026 16:15:24 +0000",
+      "mined_at": "2026-08-01T18:02:12+00:00",
+      "source_published_at": "Sat, 01 Aug 2026 16:15:24 +0000",
+      "image_url": "/article_images/article_00c34508d24b.webp",
       "category": "News",
-      "title": "FIFA Boss's Secret Plan to Sell Part of the World Cup Shocks His Own Team!",
-      "summary": "A top FIFA official says staff were tricked about a plan to sell a piece of the World Cup for billions. He and another leader are speaking out, calling it a bad deal for soccer."
+      "title": "Rapper Freed from Prison After 18 Days—But His Fight Isn't Over!",
+      "summary": "Moroccan rapper Mehdi El Youbi, known as Mehdi Black Wind, was let out of prison in Casablanca after being held for 'insulting a constitutional institution.' He still faces a trial in October and could get up to two years in prison."
+    },
+    {
+      "id": "2026-08-01-news-3",
+      "source": "BBC News",
+      "time_ago": "Sat, 01 Aug 2026 17:07:46 GMT",
+      "mined_at": "2026-08-01T18:02:12+00:00",
+      "source_published_at": "Sat, 01 Aug 2026 17:07:46 GMT",
+      "image_url": "/article_images/article_ced530318b9b.webp",
+      "category": "News",
+      "title": "Soccer Boss in Big Trouble! Two Giant Groups Demand a 'Full Review'",
+      "summary": "FIFA president Gianni Infantino is under fire after a plan to sell parts of soccer tournaments to investors was dropped. UEFA and Concacaf say he broke promises and want a review of his leadership. He's up for re-election in March."
     }
   ]
 }

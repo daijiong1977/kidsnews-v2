@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-31-science-1",
+      "id": "2026-08-01-science-1",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Fri, 31 Jul 2026 21:58:37 EDT",
+      "mined_at": "2026-08-01T18:02:12+00:00",
+      "source_published_at": "Fri, 31 Jul 2026 21:58:37 EDT",
+      "image_url": "/article_images/article_d6c48f0929e8.webp",
+      "category": "Science",
+      "title": "Ghosts in the Genome: Scientists Uncover Two Hidden Human Ancestors in Our DNA",
+      "summary": "A new DNA analysis reveals two previously unknown archaic human groups that interbred with our ancestors. One ghost lineage contributed about 1% of modern human DNA and is found in all populations worldwide."
+    },
+    {
+      "id": "2026-08-01-science-2",
       "source": "Space.com",
-      "time_ago": "Fri, 31 Jul 2026 16:00:00 +0000",
-      "mined_at": "2026-07-31T18:24:36+00:00",
-      "source_published_at": "Fri, 31 Jul 2026 16:00:00 +0000",
-      "image_url": "/article_images/article_9ab9cc9e8b36.webp",
+      "time_ago": "Sat, 01 Aug 2026 16:00:00 +0000",
+      "mined_at": "2026-08-01T18:02:12+00:00",
+      "source_published_at": "Sat, 01 Aug 2026 16:00:00 +0000",
+      "image_url": "/article_images/article_964fb0b4f9d8.webp",
       "category": "Science",
-      "title": "NASA's New Moon Mission: Two Probes, One Cosmic Tug-of-War",
-      "summary": "NASA's CAPSTONE 02 will send two probes to the moon to test complex 'three-body orbits' where Earth and moon gravity both pull. They'll fly in formation and swap roles. Launch is set for 2027."
+      "title": "Before Buzz Lightyear, There Was Major Matt Mason: Could the 1960s Space Toy Finally Get a Movie?",
+      "summary": "Mattel's Major Matt Mason, a pioneering astronaut action figure from 1966, is poised for a Hollywood revival. With Tom Hanks once attached and Mattel's film division expanding, the vintage toy may soon get a live-action adaptation."
     },
     {
-      "id": "2026-07-31-science-2",
-      "source": "IEEE Spectrum",
-      "time_ago": "Thu, 30 Jul 2026 14:00:03 +0000",
-      "mined_at": "2026-07-31T18:24:36+00:00",
-      "source_published_at": "Thu, 30 Jul 2026 14:00:03 +0000",
-      "image_url": "/article_images/article_1c43930da007.webp",
+      "id": "2026-08-01-science-3",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Sat, 01 Aug 2026 09:47:24 EDT",
+      "mined_at": "2026-08-01T18:02:12+00:00",
+      "source_published_at": "Sat, 01 Aug 2026 09:47:24 EDT",
+      "image_url": "/article_images/article_e9ed16fba4b2.webp",
       "category": "Science",
-      "title": "DIY Radio Telescope: Detect Dark Matter from Your Backyard",
-      "summary": "A homemade radio telescope made from roof flashing and a paint can can detect dark matter! By measuring hydrogen clouds' orbital speeds, you can see the invisible stuff that makes up most of the universe. Total cost: under $100."
-    },
-    {
-      "id": "2026-07-31-science-3",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Thu, 30 Jul 2026 08:13:37 EDT",
-      "mined_at": "2026-07-31T18:24:36+00:00",
-      "source_published_at": "Thu, 30 Jul 2026 08:13:37 EDT",
-      "image_url": "/article_images/article_2c9ca2232d77.webp",
-      "category": "Science",
-      "title": "Evolution's Repeat Trick: Same Leaf, Different Genes",
-      "summary": "In the Galápagos, giant daisies evolved the same lobed leaf shape multiple times—but using different genes each time. This 'parallel evolution' shows nature's creativity. Scientists studied all known Scalesia species."
+      "title": "Mars' Honeycomb Mystery: Curiosity Rover Discovers a Sea of Polygonal Fractures",
+      "summary": "NASA's Curiosity rover has revealed a vast field of honeycomb-like polygons on Mars, each 1.5–3 inches wide. The formations cover the valley floor and climb a 20-foot butte, puzzling scientists about their origin."
     }
   ]
 }

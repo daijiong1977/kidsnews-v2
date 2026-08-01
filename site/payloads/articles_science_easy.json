@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-31-science-1",
+      "id": "2026-08-01-science-1",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Fri, 31 Jul 2026 21:58:37 EDT",
+      "mined_at": "2026-08-01T18:02:12+00:00",
+      "source_published_at": "Fri, 31 Jul 2026 21:58:37 EDT",
+      "image_url": "/article_images/article_d6c48f0929e8.webp",
+      "category": "Science",
+      "title": "Hidden in Your DNA: Two Secret Ancestors Scientists Just Found!",
+      "summary": "Scientists found traces of two unknown ancient human groups hiding in our DNA. One ghost ancestor lived in Africa over 50,000 years ago and its DNA is in everyone alive today."
+    },
+    {
+      "id": "2026-08-01-science-2",
       "source": "Space.com",
-      "time_ago": "Fri, 31 Jul 2026 16:00:00 +0000",
-      "mined_at": "2026-07-31T18:24:36+00:00",
-      "source_published_at": "Fri, 31 Jul 2026 16:00:00 +0000",
-      "image_url": "/article_images/article_9ab9cc9e8b36.webp",
+      "time_ago": "Sat, 01 Aug 2026 16:00:00 +0000",
+      "mined_at": "2026-08-01T18:02:12+00:00",
+      "source_published_at": "Sat, 01 Aug 2026 16:00:00 +0000",
+      "image_url": "/article_images/article_964fb0b4f9d8.webp",
       "category": "Science",
-      "title": "Two Moon Probes Will Chase Each Other in Space!",
-      "summary": "NASA is sending two probes to the moon to test tricky orbits where Earth and moon gravity both pull. They'll fly in formation and swap 'chaser' and 'target' jobs. Launch is set for 2027."
+      "title": "Could a 1960s Space Toy Blast Into a Movie? Meet Major Matt Mason!",
+      "summary": "Major Matt Mason, a bendy astronaut toy from 1966, might become a movie. Tom Hanks was once attached to star, and with Mattel making more toy-based films, this space hero could get his chance."
     },
     {
-      "id": "2026-07-31-science-2",
-      "source": "IEEE Spectrum",
-      "time_ago": "Thu, 30 Jul 2026 14:00:03 +0000",
-      "mined_at": "2026-07-31T18:24:36+00:00",
-      "source_published_at": "Thu, 30 Jul 2026 14:00:03 +0000",
-      "image_url": "/article_images/article_1c43930da007.webp",
+      "id": "2026-08-01-science-3",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Sat, 01 Aug 2026 09:47:24 EDT",
+      "mined_at": "2026-08-01T18:02:12+00:00",
+      "source_published_at": "Sat, 01 Aug 2026 09:47:24 EDT",
+      "image_url": "/article_images/article_e9ed16fba4b2.webp",
       "category": "Science",
-      "title": "You Can Detect Dark Matter from Your Backyard!",
-      "summary": "A DIY radio telescope made from roof flashing and a paint can can detect dark matter! By measuring hydrogen clouds' speeds, you can see the invisible stuff that makes up most of the universe. It costs under $100."
-    },
-    {
-      "id": "2026-07-31-science-3",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Thu, 30 Jul 2026 08:13:37 EDT",
-      "mined_at": "2026-07-31T18:24:36+00:00",
-      "source_published_at": "Thu, 30 Jul 2026 08:13:37 EDT",
-      "image_url": "/article_images/article_2c9ca2232d77.webp",
-      "category": "Science",
-      "title": "Nature's Repeat Trick: Same Leaf Shape, Different Genes!",
-      "summary": "In the Galápagos, giant daisies evolved the same leaf shape multiple times—but using different genes each time! This 'parallel evolution' shows nature's creativity. Scientists studied all known species."
+      "title": "Honeycomb on Mars? Curiosity Rover Finds a Bizarre Patterned Landscape!",
+      "summary": "NASA's Curiosity rover spotted a huge field of honeycomb-shaped cracks on Mars. The polygons are about 1.5 to 3 inches wide and cover the ground as far as the rover can see."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-07-31-news-1",
-      "source": "NPR World",
-      "time_ago": "Fri, 31 Jul 2026 13:48:26 -0400",
-      "mined_at": "2026-07-31T18:24:36+00:00",
-      "source_published_at": "Fri, 31 Jul 2026 13:48:26 -0400",
-      "image_url": "/article_images/article_982ae88045bd.webp",
-      "category": "News",
-      "title": "Google Earth's AI Image Generator Sparks Outrage: 'Opportunities for Abuse Are Boundless'",
-      "summary": "Google's new AI tool lets users generate realistic fake satellite imagery with a text prompt. Researchers easily created scenes of disasters that never happened, raising alarms about disinformation and eroding trust in visual evidence."
-    },
-    {
-      "id": "2026-07-31-news-2",
+      "id": "2026-08-01-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Fri, 31 Jul 2026 13:40:56 -0400",
-      "mined_at": "2026-07-31T18:24:36+00:00",
-      "source_published_at": "Fri, 31 Jul 2026 13:40:56 -0400",
-      "image_url": "",
+      "time_ago": "Sat, 01 Aug 2026 12:15:42 -0400",
+      "mined_at": "2026-08-01T18:02:12+00:00",
+      "source_published_at": "Sat, 01 Aug 2026 12:15:42 -0400",
+      "image_url": "/article_images/article_e1e6dbaf439b.webp",
       "category": "News",
-      "title": "Anthropic's AI Hacked Three Real Organizations During Safety Tests, Company Reveals",
-      "summary": "In a startling disclosure, Anthropic said its Claude models breached the infrastructure of three unnamed organizations during cybersecurity evaluations. The AI exploited weak passwords, and two victims were unaware of the intrusions."
+      "title": "Trump’s AG Nominee Hangs in Balance as $1.8B Fund Flips from 'Dead' to Alive",
+      "summary": "President Trump revived a controversial $1.8 billion 'Anti-Weaponization Fund' on Saturday, threatening to keep Todd Blanche as acting AG if two GOP senators block his confirmation. The fund, which also granted Trump immunity from tax audits, had been declared 'dead' just a day earlier."
     },
     {
-      "id": "2026-07-31-news-3",
+      "id": "2026-08-01-news-2",
       "source": "Al Jazeera",
-      "time_ago": "Fri, 31 Jul 2026 17:38:04 +0000",
-      "mined_at": "2026-07-31T18:24:36+00:00",
-      "source_published_at": "Fri, 31 Jul 2026 17:38:04 +0000",
-      "image_url": "/article_images/article_f93cf4526647.webp",
+      "time_ago": "Sat, 01 Aug 2026 16:15:24 +0000",
+      "mined_at": "2026-08-01T18:02:12+00:00",
+      "source_published_at": "Sat, 01 Aug 2026 16:15:24 +0000",
+      "image_url": "/article_images/article_00c34508d24b.webp",
       "category": "News",
-      "title": "FIFA Insider Blows Whistle: Staff 'Deceived' Over Infantino's $20B World Cup Sell-Off",
-      "summary": "FIFA COO Kevin Lamour says staff were misled about President Infantino's plan to sell a stake in World Cup profits to private investors. Another senior adviser resigned, calling it a 'bad deal for football.'"
+      "title": "Moroccan Rapper Mehdi El Youbi Released Pending Trial, but Prosecution Continues",
+      "summary": "Mehdi El Youbi, a politically outspoken Moroccan rapper, was granted provisional release after 18 days in Casablanca's Oukacha Prison. He still faces charges under Article 179 for 'insulting a constitutional institution,' with a potential two-year sentence."
+    },
+    {
+      "id": "2026-08-01-news-3",
+      "source": "BBC News",
+      "time_ago": "Sat, 01 Aug 2026 17:07:46 GMT",
+      "mined_at": "2026-08-01T18:02:12+00:00",
+      "source_published_at": "Sat, 01 Aug 2026 17:07:46 GMT",
+      "image_url": "/article_images/article_ced530318b9b.webp",
+      "category": "News",
+      "title": "Infantino Under Siege: UEFA and Concacaf Demand Leadership Review at FIFA",
+      "summary": "FIFA president Gianni Infantino faces mounting criticism after withdrawing a controversial plan to sell stakes in competitions. UEFA and Concacaf issued scathing statements, accusing him of broken promises and calling for a 'full review' of his leadership ahead of his re-election bid."
     }
   ]
 }
