@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-01-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Sat, 01 Aug 2026 12:15:42 -0400",
-      "mined_at": "2026-08-01T18:02:12+00:00",
-      "source_published_at": "Sat, 01 Aug 2026 12:15:42 -0400",
-      "image_url": "/article_images/article_e1e6dbaf439b.webp",
+      "id": "2026-08-02-news-1",
+      "source": "NPR World",
+      "time_ago": "Sun, 02 Aug 2026 05:00:00 -0400",
+      "mined_at": "2026-08-02T18:04:47+00:00",
+      "source_published_at": "Sun, 02 Aug 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_95346afed5aa.webp",
       "category": "News",
-      "title": "Trump’s AG Nominee Hangs in Balance as $1.8B Fund Flips from 'Dead' to Alive",
-      "summary": "President Trump revived a controversial $1.8 billion 'Anti-Weaponization Fund' on Saturday, threatening to keep Todd Blanche as acting AG if two GOP senators block his confirmation. The fund, which also granted Trump immunity from tax audits, had been declared 'dead' just a day earlier."
+      "title": "First Grader Khalib, 7, Goes on a Bird Walk with His Conservation Scientist Hero",
+      "summary": "Seven-year-old Khalib Townsend dreams of becoming a conservation scientist. With help from his mom and NPR, he met his hero, Keith Russell, for a rainy bird walk in Philadelphia. Russell shared his own path from first-grade bird lover to Audubon scientist."
     },
     {
-      "id": "2026-08-01-news-2",
-      "source": "Al Jazeera",
-      "time_ago": "Sat, 01 Aug 2026 16:15:24 +0000",
-      "mined_at": "2026-08-01T18:02:12+00:00",
-      "source_published_at": "Sat, 01 Aug 2026 16:15:24 +0000",
-      "image_url": "/article_images/article_00c34508d24b.webp",
-      "category": "News",
-      "title": "Moroccan Rapper Mehdi El Youbi Released Pending Trial, but Prosecution Continues",
-      "summary": "Mehdi El Youbi, a politically outspoken Moroccan rapper, was granted provisional release after 18 days in Casablanca's Oukacha Prison. He still faces charges under Article 179 for 'insulting a constitutional institution,' with a potential two-year sentence."
-    },
-    {
-      "id": "2026-08-01-news-3",
+      "id": "2026-08-02-news-2",
       "source": "BBC News",
-      "time_ago": "Sat, 01 Aug 2026 17:07:46 GMT",
-      "mined_at": "2026-08-01T18:02:12+00:00",
-      "source_published_at": "Sat, 01 Aug 2026 17:07:46 GMT",
-      "image_url": "/article_images/article_ced530318b9b.webp",
+      "time_ago": "Sun, 02 Aug 2026 16:45:03 GMT",
+      "mined_at": "2026-08-02T18:04:47+00:00",
+      "source_published_at": "Sun, 02 Aug 2026 16:45:03 GMT",
+      "image_url": "/article_images/article_e414b9c89d0a.webp",
       "category": "News",
-      "title": "Infantino Under Siege: UEFA and Concacaf Demand Leadership Review at FIFA",
-      "summary": "FIFA president Gianni Infantino faces mounting criticism after withdrawing a controversial plan to sell stakes in competitions. UEFA and Concacaf issued scathing statements, accusing him of broken promises and calling for a 'full review' of his leadership ahead of his re-election bid."
+      "title": "PM Burnham Vows 'Relentless' Action as Small Boat Crossings Surge Past 2,000",
+      "summary": "New UK Prime Minister Andy Burnham pledged to be 'relentless' in curbing small boat crossings after 326 people arrived on Saturday alone. The government has nearly doubled the number of officers targeting smuggling gangs and seized equipment that could have aided 72,000 illegal entries."
+    },
+    {
+      "id": "2026-08-02-news-3",
+      "source": "BBC News",
+      "time_ago": "Sun, 02 Aug 2026 14:15:07 GMT",
+      "mined_at": "2026-08-02T18:04:47+00:00",
+      "source_published_at": "Sun, 02 Aug 2026 14:15:07 GMT",
+      "image_url": "/article_images/article_9e83ac165730.webp",
+      "category": "News",
+      "title": "Fields Turn to Dust: UK Drought Threatens Food Supply and Farmers' Livelihoods",
+      "summary": "Parched fields in Northamptonshire tell a grim story: the UK's worst drought in years is slashing crop yields and forcing livestock farmers to dip into winter feed. NFU president Tom Bradshaw warns of potential food shortages and calls for urgent investment in water security."
     }
   ]
 }

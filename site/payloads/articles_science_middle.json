@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-01-science-1",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Fri, 31 Jul 2026 21:58:37 EDT",
-      "mined_at": "2026-08-01T18:02:12+00:00",
-      "source_published_at": "Fri, 31 Jul 2026 21:58:37 EDT",
-      "image_url": "/article_images/article_d6c48f0929e8.webp",
+      "id": "2026-08-02-science-1",
+      "source": "Science News Explores",
+      "time_ago": "Wed, 29 Jul 2026 10:30:00 +0000",
+      "mined_at": "2026-08-02T18:04:47+00:00",
+      "source_published_at": "Wed, 29 Jul 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_e3b2c6c0389f.webp",
       "category": "Science",
-      "title": "Ghosts in the Genome: Scientists Uncover Two Hidden Human Ancestors in Our DNA",
-      "summary": "A new DNA analysis reveals two previously unknown archaic human groups that interbred with our ancestors. One ghost lineage contributed about 1% of modern human DNA and is found in all populations worldwide."
+      "title": "Crack a Case: The Science of Blood Spatter from Your Kitchen",
+      "summary": "Forensic scientists use blood spatter to reconstruct crimes. With fake blood and a ruler, you can test how drop size changes with height. Ready to gather evidence?"
     },
     {
-      "id": "2026-08-01-science-2",
-      "source": "Space.com",
-      "time_ago": "Sat, 01 Aug 2026 16:00:00 +0000",
-      "mined_at": "2026-08-01T18:02:12+00:00",
-      "source_published_at": "Sat, 01 Aug 2026 16:00:00 +0000",
-      "image_url": "/article_images/article_964fb0b4f9d8.webp",
-      "category": "Science",
-      "title": "Before Buzz Lightyear, There Was Major Matt Mason: Could the 1960s Space Toy Finally Get a Movie?",
-      "summary": "Mattel's Major Matt Mason, a pioneering astronaut action figure from 1966, is poised for a Hollywood revival. With Tom Hanks once attached and Mattel's film division expanding, the vintage toy may soon get a live-action adaptation."
-    },
-    {
-      "id": "2026-08-01-science-3",
+      "id": "2026-08-02-science-2",
       "source": "ScienceDaily Top Technology",
-      "time_ago": "Sat, 01 Aug 2026 09:47:24 EDT",
-      "mined_at": "2026-08-01T18:02:12+00:00",
-      "source_published_at": "Sat, 01 Aug 2026 09:47:24 EDT",
-      "image_url": "/article_images/article_e9ed16fba4b2.webp",
+      "time_ago": "Sun, 02 Aug 2026 09:26:11 EDT",
+      "mined_at": "2026-08-02T18:04:47+00:00",
+      "source_published_at": "Sun, 02 Aug 2026 09:26:11 EDT",
+      "image_url": "/article_images/article_5368ba9aa85e.webp",
       "category": "Science",
-      "title": "Mars' Honeycomb Mystery: Curiosity Rover Discovers a Sea of Polygonal Fractures",
-      "summary": "NASA's Curiosity rover has revealed a vast field of honeycomb-like polygons on Mars, each 1.5–3 inches wide. The formations cover the valley floor and climb a 20-foot butte, puzzling scientists about their origin."
+      "title": "Dark Matter's Hidden Force: A Cosmic Brake, Not a Gas Pedal",
+      "summary": "A new study reveals that an attractive 'dark force' in dark matter actually suppresses the growth of cosmic structures, contradicting intuitive expectations. The finding could reshape cosmological models."
+    },
+    {
+      "id": "2026-08-02-science-3",
+      "source": "Science News Explores",
+      "time_ago": "Thu, 30 Jul 2026 10:30:00 +0000",
+      "mined_at": "2026-08-02T18:04:47+00:00",
+      "source_published_at": "Thu, 30 Jul 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_434224f089df.webp",
+      "category": "Science",
+      "title": "Bemotrizinol: The New Sunscreen Ingredient That's Been 25 Years in the Making",
+      "summary": "The FDA has approved bemotrizinol, a photostable UVA blocker used abroad for decades. It's the first new sunscreen ingredient in the U.S. in 20 years, hitting shelves this summer."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-01-science-1",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Fri, 31 Jul 2026 21:58:37 EDT",
-      "mined_at": "2026-08-01T18:02:12+00:00",
-      "source_published_at": "Fri, 31 Jul 2026 21:58:37 EDT",
-      "image_url": "/article_images/article_d6c48f0929e8.webp",
+      "id": "2026-08-02-science-1",
+      "source": "Science News Explores",
+      "time_ago": "Wed, 29 Jul 2026 10:30:00 +0000",
+      "mined_at": "2026-08-02T18:04:47+00:00",
+      "source_published_at": "Wed, 29 Jul 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_e3b2c6c0389f.webp",
       "category": "Science",
-      "title": "Hidden in Your DNA: Two Secret Ancestors Scientists Just Found!",
-      "summary": "Scientists found traces of two unknown ancient human groups hiding in our DNA. One ghost ancestor lived in Africa over 50,000 years ago and its DNA is in everyone alive today."
+      "title": "Solve a Crime with Fake Blood Spatter!",
+      "summary": "Ever wonder how detectives use blood drops to solve crimes? You can find out with a cool experiment using fake blood. See how drop size changes with height!"
     },
     {
-      "id": "2026-08-01-science-2",
-      "source": "Space.com",
-      "time_ago": "Sat, 01 Aug 2026 16:00:00 +0000",
-      "mined_at": "2026-08-01T18:02:12+00:00",
-      "source_published_at": "Sat, 01 Aug 2026 16:00:00 +0000",
-      "image_url": "/article_images/article_964fb0b4f9d8.webp",
-      "category": "Science",
-      "title": "Could a 1960s Space Toy Blast Into a Movie? Meet Major Matt Mason!",
-      "summary": "Major Matt Mason, a bendy astronaut toy from 1966, might become a movie. Tom Hanks was once attached to star, and with Mattel making more toy-based films, this space hero could get his chance."
-    },
-    {
-      "id": "2026-08-01-science-3",
+      "id": "2026-08-02-science-2",
       "source": "ScienceDaily Top Technology",
-      "time_ago": "Sat, 01 Aug 2026 09:47:24 EDT",
-      "mined_at": "2026-08-01T18:02:12+00:00",
-      "source_published_at": "Sat, 01 Aug 2026 09:47:24 EDT",
-      "image_url": "/article_images/article_e9ed16fba4b2.webp",
+      "time_ago": "Sun, 02 Aug 2026 09:26:11 EDT",
+      "mined_at": "2026-08-02T18:04:47+00:00",
+      "source_published_at": "Sun, 02 Aug 2026 09:26:11 EDT",
+      "image_url": "/article_images/article_5368ba9aa85e.webp",
       "category": "Science",
-      "title": "Honeycomb on Mars? Curiosity Rover Finds a Bizarre Patterned Landscape!",
-      "summary": "NASA's Curiosity rover spotted a huge field of honeycomb-shaped cracks on Mars. The polygons are about 1.5 to 3 inches wide and cover the ground as far as the rover can see."
+      "title": "Dark Matter's Secret Force Slows Down the Universe!",
+      "summary": "Scientists thought a hidden force in dark matter would speed up galaxy growth. But a new study shows it actually slows things down. Weird, right?"
+    },
+    {
+      "id": "2026-08-02-science-3",
+      "source": "Science News Explores",
+      "time_ago": "Thu, 30 Jul 2026 10:30:00 +0000",
+      "mined_at": "2026-08-02T18:04:47+00:00",
+      "source_published_at": "Thu, 30 Jul 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_434224f089df.webp",
+      "category": "Science",
+      "title": "New Sunscreen Ingredient Finally Approved in the U.S.!",
+      "summary": "The FDA just approved bemotrizinol, a sunscreen chemical used in Europe for 25 years. It blocks aging rays better and stays on longer. Look for it this summer!"
     }
   ]
 }
