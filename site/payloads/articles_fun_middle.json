@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-02-fun-1",
-      "source": "DOGOnews",
-      "time_ago": "",
-      "mined_at": "2026-08-02T18:04:47+00:00",
-      "source_published_at": "",
-      "image_url": "/article_images/article_21c749771c74.webp",
+      "id": "2026-08-03-fun-1",
+      "source": "Live Science",
+      "time_ago": "Mon, 03 Aug 2026 15:06:39 +0000",
+      "mined_at": "2026-08-03T18:23:25+00:00",
+      "source_published_at": "Mon, 03 Aug 2026 15:06:39 +0000",
+      "image_url": "/article_images/article_b669b94ce4ae.webp",
       "category": "Fun",
-      "title": "From Ancient China to a 3,010-Pound Scoop: The Wild History of Ice Cream",
-      "summary": "National Ice Cream Month is packed with surprising history. Did you know George Washington dropped serious cash on ice cream, or that a single scoop once weighed over 3,000 pounds? Your flavor choice might even reveal your personality."
+      "title": "Antarctica's Blood Falls Mystery: New Genetic Clues Point to Ancient Seawater Origin",
+      "summary": "The eerie red waterfall in East Antarctica might be fed by ancient seawater trapped under a glacier for over a million years. New genetic analysis of microbes in the brine reveals a strong marine signature, challenging wind-blown theories."
     },
     {
-      "id": "2026-08-02-fun-2",
-      "source": "Variety",
-      "time_ago": "Sun, 02 Aug 2026 16:46:52 +0000",
-      "mined_at": "2026-08-02T18:04:47+00:00",
-      "source_published_at": "Sun, 02 Aug 2026 16:46:52 +0000",
-      "image_url": "/article_images/article_b063e7e88452.webp",
+      "id": "2026-08-03-fun-2",
+      "source": "Billboard",
+      "time_ago": "Mon, 03 Aug 2026 17:40:18 +0000",
+      "mined_at": "2026-08-03T18:23:25+00:00",
+      "source_published_at": "Mon, 03 Aug 2026 17:40:18 +0000",
+      "image_url": "/article_images/article_4e81df7ea6ce.webp",
       "category": "Fun",
-      "title": "Spider-Man: Brand New Day Swings to Historic $927 Million Global Debut",
-      "summary": "Sony and Marvel's latest Spider-Man film shattered expectations with a $927 million worldwide opening weekend, the second-biggest ever. It dominated in China and set records on premium screens, proving Peter Parker still rules the box office."
+      "title": "Ariana Grande Breaks Silence After Announcing Hiatus: 'I Cannot Wait' to See Fans",
+      "summary": "Following news that she'll step back from the public eye after her Eternal Sunshine Tour, Ariana Grande posted an optimistic message to fans ahead of her Chicago show. The decision comes amid relentless public scrutiny, particularly about her body."
     },
     {
-      "id": "2026-08-02-fun-3",
-      "source": "Variety",
-      "time_ago": "Sun, 02 Aug 2026 16:10:35 +0000",
-      "mined_at": "2026-08-02T18:04:47+00:00",
-      "source_published_at": "Sun, 02 Aug 2026 16:10:35 +0000",
-      "image_url": "/article_images/article_d09159ffceaa.webp",
+      "id": "2026-08-03-fun-3",
+      "source": "Live Science",
+      "time_ago": "Mon, 03 Aug 2026 14:10:00 +0000",
+      "mined_at": "2026-08-03T18:23:25+00:00",
+      "source_published_at": "Mon, 03 Aug 2026 14:10:00 +0000",
+      "image_url": "/article_images/article_6c904b764762.webp",
       "category": "Fun",
-      "title": "Marvel's 'Wonder Man' Canceled Despite Signed Contracts and Cleared Schedules, Co-Creator Reveals",
-      "summary": "Andrew Guest, co-creator of the Disney+ series 'Wonder Man,' took to TikTok to clarify that the show's cancellation was not a marketing stunt. Despite signed deals and a planned production start, Disney and Marvel pulled the plug, leaving the cast and crew stunned."
+      "title": "Fecal Transplants Show Promise for Insomnia in Early Trial",
+      "summary": "A small study found that fecal microbiota transplants (FMT) significantly improved sleep efficiency in chronic insomnia patients, from 79% to 93%. The treatment also reduced nighttime awakenings, with benefits lasting up to six months."
     }
   ]
 }

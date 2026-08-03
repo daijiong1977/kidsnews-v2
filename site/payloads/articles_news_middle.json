@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-02-news-1",
+      "id": "2026-08-03-news-1",
+      "source": "PBS NewsHour",
+      "time_ago": "Mon, 03 Aug 2026 13:40:47 -0400",
+      "mined_at": "2026-08-03T18:23:25+00:00",
+      "source_published_at": "Mon, 03 Aug 2026 13:40:47 -0400",
+      "image_url": "/article_images/article_9f84c89e8932.webp",
+      "category": "News",
+      "title": "A Celestial Triple Header: Total Eclipse, Planet Parade, and Meteor Shower All on August 12",
+      "summary": "A total solar eclipse will sweep across Spain, Iceland, and Greenland on August 12, the first in mainland Spain in over a century. The same day features a six-planet alignment and the peak of the Perseid meteor shower."
+    },
+    {
+      "id": "2026-08-03-news-2",
       "source": "NPR World",
-      "time_ago": "Sun, 02 Aug 2026 05:00:00 -0400",
-      "mined_at": "2026-08-02T18:04:47+00:00",
-      "source_published_at": "Sun, 02 Aug 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_95346afed5aa.webp",
+      "time_ago": "Mon, 03 Aug 2026 10:05:24 -0400",
+      "mined_at": "2026-08-03T18:23:25+00:00",
+      "source_published_at": "Mon, 03 Aug 2026 10:05:24 -0400",
+      "image_url": "/article_images/article_ad8d39f3a3a9.webp",
       "category": "News",
-      "title": "First Grader Khalib, 7, Goes on a Bird Walk with His Conservation Scientist Hero",
-      "summary": "Seven-year-old Khalib Townsend dreams of becoming a conservation scientist. With help from his mom and NPR, he met his hero, Keith Russell, for a rainy bird walk in Philadelphia. Russell shared his own path from first-grade bird lover to Audubon scientist."
+      "title": "Pochettino Extends Contract: U.S. Men's Soccer Coach Commits Through 2030 World Cup",
+      "summary": "Mauricio Pochettino, the U.S. men's national soccer team coach, signed a new contract through the 2030 World Cup. His tenure saw a historic World Cup run with three wins and a record 50.1 million viewers for the Round of 16 match."
     },
     {
-      "id": "2026-08-02-news-2",
+      "id": "2026-08-03-news-3",
       "source": "BBC News",
-      "time_ago": "Sun, 02 Aug 2026 16:45:03 GMT",
-      "mined_at": "2026-08-02T18:04:47+00:00",
-      "source_published_at": "Sun, 02 Aug 2026 16:45:03 GMT",
-      "image_url": "/article_images/article_e414b9c89d0a.webp",
+      "time_ago": "Mon, 03 Aug 2026 17:41:27 GMT",
+      "mined_at": "2026-08-03T18:23:25+00:00",
+      "source_published_at": "Mon, 03 Aug 2026 17:41:27 GMT",
+      "image_url": "/article_images/article_57b1ff7bea67.webp",
       "category": "News",
-      "title": "PM Burnham Vows 'Relentless' Action as Small Boat Crossings Surge Past 2,000",
-      "summary": "New UK Prime Minister Andy Burnham pledged to be 'relentless' in curbing small boat crossings after 326 people arrived on Saturday alone. The government has nearly doubled the number of officers targeting smuggling gangs and seized equipment that could have aided 72,000 illegal entries."
-    },
-    {
-      "id": "2026-08-02-news-3",
-      "source": "BBC News",
-      "time_ago": "Sun, 02 Aug 2026 14:15:07 GMT",
-      "mined_at": "2026-08-02T18:04:47+00:00",
-      "source_published_at": "Sun, 02 Aug 2026 14:15:07 GMT",
-      "image_url": "/article_images/article_9e83ac165730.webp",
-      "category": "News",
-      "title": "Fields Turn to Dust: UK Drought Threatens Food Supply and Farmers' Livelihoods",
-      "summary": "Parched fields in Northamptonshire tell a grim story: the UK's worst drought in years is slashing crop yields and forcing livestock farmers to dip into winter feed. NFU president Tom Bradshaw warns of potential food shortages and calls for urgent investment in water security."
+      "title": "Strait of Hormuz Standoff: Iran Denies Direct Talks with U.S. Despite Trump's Claims",
+      "summary": "Iran says it is negotiating with Oman, not the U.S., to allow commercial shipping through the Strait of Hormuz. President Trump insists the U.S. controls the strait and that a deal is near, but Iran's denial has escalated tensions."
     }
   ]
 }

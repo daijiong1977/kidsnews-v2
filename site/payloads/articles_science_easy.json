@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-02-science-1",
-      "source": "Science News Explores",
-      "time_ago": "Wed, 29 Jul 2026 10:30:00 +0000",
-      "mined_at": "2026-08-02T18:04:47+00:00",
-      "source_published_at": "Wed, 29 Jul 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_e3b2c6c0389f.webp",
+      "id": "2026-08-03-science-1",
+      "source": "Popular Science",
+      "time_ago": "Mon, 03 Aug 2026 10:38:59 -0400",
+      "mined_at": "2026-08-03T18:23:25+00:00",
+      "source_published_at": "Mon, 03 Aug 2026 10:38:59 -0400",
+      "image_url": "/article_images/article_c759ded207a8.webp",
       "category": "Science",
-      "title": "Solve a Crime with Fake Blood Spatter!",
-      "summary": "Ever wonder how detectives use blood drops to solve crimes? You can find out with a cool experiment using fake blood. See how drop size changes with height!"
+      "title": "You Can Watch a Real Deep-Sea Mission Live Right Now!",
+      "summary": "A robot is diving 3.5 miles down in the Pacific Ocean, and you can watch it live today! The NOAA ship Okeanos is exploring near the Cook Islands. Tune in at 5:30 p.m. EDT to see deep-sea creatures and help scientists learn."
     },
     {
-      "id": "2026-08-02-science-2",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Sun, 02 Aug 2026 09:26:11 EDT",
-      "mined_at": "2026-08-02T18:04:47+00:00",
-      "source_published_at": "Sun, 02 Aug 2026 09:26:11 EDT",
-      "image_url": "/article_images/article_5368ba9aa85e.webp",
+      "id": "2026-08-03-science-2",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Mon, 03 Aug 2026 06:20:53 EDT",
+      "mined_at": "2026-08-03T18:23:25+00:00",
+      "source_published_at": "Mon, 03 Aug 2026 06:20:53 EDT",
+      "image_url": "/article_images/article_d79eb159c476.webp",
       "category": "Science",
-      "title": "Dark Matter's Secret Force Slows Down the Universe!",
-      "summary": "Scientists thought a hidden force in dark matter would speed up galaxy growth. But a new study shows it actually slows things down. Weird, right?"
+      "title": "Scientists Find New Clues to Fight Alzheimer's Disease",
+      "summary": "Scientists made two new chemical tools that can help study a protein linked to Alzheimer's. One tool turns the protein on, the other turns it off. This could help find a cure for the disease that affects millions of people."
     },
     {
-      "id": "2026-08-02-science-3",
-      "source": "Science News Explores",
-      "time_ago": "Thu, 30 Jul 2026 10:30:00 +0000",
-      "mined_at": "2026-08-02T18:04:47+00:00",
-      "source_published_at": "Thu, 30 Jul 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_434224f089df.webp",
+      "id": "2026-08-03-science-3",
+      "source": "Space.com",
+      "time_ago": "Mon, 03 Aug 2026 16:17:26 +0000",
+      "mined_at": "2026-08-03T18:23:25+00:00",
+      "source_published_at": "Mon, 03 Aug 2026 16:17:26 +0000",
+      "image_url": "/article_images/article_5d44d8c076ab.webp",
       "category": "Science",
-      "title": "New Sunscreen Ingredient Finally Approved in the U.S.!",
-      "summary": "The FDA just approved bemotrizinol, a sunscreen chemical used in Europe for 25 years. It blocks aging rays better and stays on longer. Look for it this summer!"
+      "title": "Neptune's Moons Might Be Leftovers from a Giant Crash!",
+      "summary": "Scientists think three of Neptune's moons were born from a huge collision. Neptune's biggest moon, Triton, may have smashed into other moons, and the pieces came together to form new ones. The James Webb Space Telescope found clay minerals that support this idea."
     }
   ]
 }

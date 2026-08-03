@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-02-news-1",
+      "id": "2026-08-03-news-1",
+      "source": "PBS NewsHour",
+      "time_ago": "Mon, 03 Aug 2026 13:40:47 -0400",
+      "mined_at": "2026-08-03T18:23:25+00:00",
+      "source_published_at": "Mon, 03 Aug 2026 13:40:47 -0400",
+      "image_url": "/article_images/article_9f84c89e8932.webp",
+      "category": "News",
+      "title": "Daytime Darkness! A Total Solar Eclipse Is Coming to Spain and Iceland",
+      "summary": "On August 12, the moon will block the sun over Spain, Iceland, and Greenland for up to 2 minutes and 18 seconds. It's the first total eclipse in mainland Spain in over 100 years!"
+    },
+    {
+      "id": "2026-08-03-news-2",
       "source": "NPR World",
-      "time_ago": "Sun, 02 Aug 2026 05:00:00 -0400",
-      "mined_at": "2026-08-02T18:04:47+00:00",
-      "source_published_at": "Sun, 02 Aug 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_95346afed5aa.webp",
+      "time_ago": "Mon, 03 Aug 2026 10:05:24 -0400",
+      "mined_at": "2026-08-03T18:23:25+00:00",
+      "source_published_at": "Mon, 03 Aug 2026 10:05:24 -0400",
+      "image_url": "/article_images/article_ad8d39f3a3a9.webp",
       "category": "News",
-      "title": "A 7-Year-Old Bird Lover Meets His Scientist Hero in the Rain!",
-      "summary": "Khalib, 7, loves birds and wants to save the Earth. He got to go on a rainy bird walk with real scientist Keith Russell in Philadelphia. They talked about binoculars, blackbirds, and how to turn a dream into a job."
+      "title": "Coach Pochettino Stays! U.S. Men's Soccer Team Keeps Its Star Leader Through 2030",
+      "summary": "Mauricio Pochettino, the coach of the U.S. men's soccer team, signed a new contract to stay through the 2030 World Cup. He led the team to its best World Cup ever, with three wins and a record 50.1 million TV viewers."
     },
     {
-      "id": "2026-08-02-news-2",
+      "id": "2026-08-03-news-3",
       "source": "BBC News",
-      "time_ago": "Sun, 02 Aug 2026 16:45:03 GMT",
-      "mined_at": "2026-08-02T18:04:47+00:00",
-      "source_published_at": "Sun, 02 Aug 2026 16:45:03 GMT",
-      "image_url": "/article_images/article_e414b9c89d0a.webp",
+      "time_ago": "Mon, 03 Aug 2026 17:41:27 GMT",
+      "mined_at": "2026-08-03T18:23:25+00:00",
+      "source_published_at": "Mon, 03 Aug 2026 17:41:27 GMT",
+      "image_url": "/article_images/article_57b1ff7bea67.webp",
       "category": "News",
-      "title": "UK's New Leader Says He'll Be 'Relentless' to Stop Small Boats",
-      "summary": "Prime Minister Andy Burnham promised to work hard to stop people crossing the English Channel in tiny, crowded boats. More than 2,000 have arrived since he took office two weeks ago. At least 84 died trying in 2024."
-    },
-    {
-      "id": "2026-08-02-news-3",
-      "source": "BBC News",
-      "time_ago": "Sun, 02 Aug 2026 14:15:07 GMT",
-      "mined_at": "2026-08-02T18:04:47+00:00",
-      "source_published_at": "Sun, 02 Aug 2026 14:15:07 GMT",
-      "image_url": "/article_images/article_9e83ac165730.webp",
-      "category": "News",
-      "title": "No Rain, No Grain: Why Your Breakfast Cereal Might Get Pricier",
-      "summary": "Imagine fields so dry they crack like a broken cookie. That's happening in England and Wales right now. A big drought means farmers can't grow enough wheat, oats, and veggies. The head of the farmers' union says we could see food shortages and higher prices soon."
+      "title": "Iran Says It's Talking to Oman, Not the U.S., About Reopening a Key Waterway",
+      "summary": "Iran says it is negotiating with Oman to let ships pass through the Strait of Hormuz again. President Trump says the U.S. controls the strait and wants a deal, but Iran denies talking directly to America."
     }
   ]
 }
