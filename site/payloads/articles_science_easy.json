@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-03-science-1",
-      "source": "Popular Science",
-      "time_ago": "Mon, 03 Aug 2026 10:38:59 -0400",
-      "mined_at": "2026-08-03T18:23:25+00:00",
-      "source_published_at": "Mon, 03 Aug 2026 10:38:59 -0400",
-      "image_url": "/article_images/article_c759ded207a8.webp",
+      "id": "2026-08-04-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Tue, 04 Aug 2026 07:44:58 EDT",
+      "mined_at": "2026-08-04T18:21:43+00:00",
+      "source_published_at": "Tue, 04 Aug 2026 07:44:58 EDT",
+      "image_url": "/article_images/article_b68280605fdd.webp",
       "category": "Science",
-      "title": "You Can Watch a Real Deep-Sea Mission Live Right Now!",
-      "summary": "A robot is diving 3.5 miles down in the Pacific Ocean, and you can watch it live today! The NOAA ship Okeanos is exploring near the Cook Islands. Tune in at 5:30 p.m. EDT to see deep-sea creatures and help scientists learn."
+      "title": "Quantum Particles Can Spend 'Negative Time' in a Cloud — And It's Real!",
+      "summary": "Scientists shot light particles through a cloud of atoms and found they exited before they entered — like spending negative time inside. Even the atoms agreed! The experiment proves this weird quantum effect is more than an illusion."
     },
     {
-      "id": "2026-08-03-science-2",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Mon, 03 Aug 2026 06:20:53 EDT",
-      "mined_at": "2026-08-03T18:23:25+00:00",
-      "source_published_at": "Mon, 03 Aug 2026 06:20:53 EDT",
-      "image_url": "/article_images/article_d79eb159c476.webp",
-      "category": "Science",
-      "title": "Scientists Find New Clues to Fight Alzheimer's Disease",
-      "summary": "Scientists made two new chemical tools that can help study a protein linked to Alzheimer's. One tool turns the protein on, the other turns it off. This could help find a cure for the disease that affects millions of people."
-    },
-    {
-      "id": "2026-08-03-science-3",
+      "id": "2026-08-04-science-2",
       "source": "Space.com",
-      "time_ago": "Mon, 03 Aug 2026 16:17:26 +0000",
-      "mined_at": "2026-08-03T18:23:25+00:00",
-      "source_published_at": "Mon, 03 Aug 2026 16:17:26 +0000",
-      "image_url": "/article_images/article_5d44d8c076ab.webp",
+      "time_ago": "Tue, 04 Aug 2026 17:48:57 +0000",
+      "mined_at": "2026-08-04T18:21:43+00:00",
+      "source_published_at": "Tue, 04 Aug 2026 17:48:57 +0000",
+      "image_url": "/article_images/article_12b54b0e7f3d.webp",
       "category": "Science",
-      "title": "Neptune's Moons Might Be Leftovers from a Giant Crash!",
-      "summary": "Scientists think three of Neptune's moons were born from a huge collision. Neptune's biggest moon, Triton, may have smashed into other moons, and the pieces came together to form new ones. The James Webb Space Telescope found clay minerals that support this idea."
+      "title": "August's Full Moon Will Turn Blood Red During a Stunning Eclipse!",
+      "summary": "On August 28, the full Sturgeon Moon will pass through Earth's shadow, turning a spooky red. Up to 96% of the moon will be covered! Look up late on August 27 to catch the show across the Americas, Europe, and Africa."
+    },
+    {
+      "id": "2026-08-04-science-3",
+      "source": "Science News Explores",
+      "time_ago": "Tue, 04 Aug 2026 10:30:00 +0000",
+      "mined_at": "2026-08-04T18:21:43+00:00",
+      "source_published_at": "Tue, 04 Aug 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_6a6e5471939d.webp",
+      "category": "Science",
+      "title": "Baby Birds Get a Weather Forecast While Still Inside the Egg!",
+      "summary": "Zebra finch parents sing a special 'heat call' to their unhatched chicks. This song changes the babies' brains so they can handle hot weather better after hatching. It's like a built-in weather warning!"
     }
   ]
 }

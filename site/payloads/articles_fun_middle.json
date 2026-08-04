@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-03-fun-1",
-      "source": "Live Science",
-      "time_ago": "Mon, 03 Aug 2026 15:06:39 +0000",
-      "mined_at": "2026-08-03T18:23:25+00:00",
-      "source_published_at": "Mon, 03 Aug 2026 15:06:39 +0000",
-      "image_url": "/article_images/article_b669b94ce4ae.webp",
+      "id": "2026-08-04-fun-1",
+      "source": "Popular Mechanics",
+      "time_ago": "Tue, 04 Aug 2026 13:00:00 +0000",
+      "mined_at": "2026-08-04T18:21:43+00:00",
+      "source_published_at": "Tue, 04 Aug 2026 13:00:00 +0000",
+      "image_url": "/article_images/article_3587b470e954.webp",
       "category": "Fun",
-      "title": "Antarctica's Blood Falls Mystery: New Genetic Clues Point to Ancient Seawater Origin",
-      "summary": "The eerie red waterfall in East Antarctica might be fed by ancient seawater trapped under a glacier for over a million years. New genetic analysis of microbes in the brine reveals a strong marine signature, challenging wind-blown theories."
+      "title": "A Cosmic Illusion? New Study Suggests Dark Energy Might Not Exist",
+      "summary": "A controversial new study claims the universe's acceleration is a mirage caused by our own motion through space. If true, dark energy—a cornerstone of modern cosmology—might be unnecessary. The finding hinges on a subtle correction to supernova brightness."
     },
     {
-      "id": "2026-08-03-fun-2",
-      "source": "Billboard",
-      "time_ago": "Mon, 03 Aug 2026 17:40:18 +0000",
-      "mined_at": "2026-08-03T18:23:25+00:00",
-      "source_published_at": "Mon, 03 Aug 2026 17:40:18 +0000",
-      "image_url": "/article_images/article_4e81df7ea6ce.webp",
+      "id": "2026-08-04-fun-2",
+      "source": "DOGOnews",
+      "time_ago": "",
+      "mined_at": "2026-08-04T18:21:43+00:00",
+      "source_published_at": "",
+      "image_url": "/article_images/article_0acc5ba87dbc.webp",
       "category": "Fun",
-      "title": "Ariana Grande Breaks Silence After Announcing Hiatus: 'I Cannot Wait' to See Fans",
-      "summary": "Following news that she'll step back from the public eye after her Eternal Sunshine Tour, Ariana Grande posted an optimistic message to fans ahead of her Chicago show. The decision comes amid relentless public scrutiny, particularly about her body."
+      "title": "Buried for 250 Years: Inside America's 2026 Time Capsule",
+      "summary": "Sealed on July 4, 2026, a time capsule near Independence Hall holds artifacts from all 50 states—a diamond, a Civil War eagle feather, an AI prediction—and a letter to the future. It's engineered to survive until America's 500th birthday in 2276."
     },
     {
-      "id": "2026-08-03-fun-3",
-      "source": "Live Science",
-      "time_ago": "Mon, 03 Aug 2026 14:10:00 +0000",
-      "mined_at": "2026-08-03T18:23:25+00:00",
-      "source_published_at": "Mon, 03 Aug 2026 14:10:00 +0000",
-      "image_url": "/article_images/article_6c904b764762.webp",
+      "id": "2026-08-04-fun-3",
+      "source": "Rolling Stone Music",
+      "time_ago": "Tue, 04 Aug 2026 16:45:56 +0000",
+      "mined_at": "2026-08-04T18:21:43+00:00",
+      "source_published_at": "Tue, 04 Aug 2026 16:45:56 +0000",
+      "image_url": "/article_images/article_1afffcd184e8.webp",
       "category": "Fun",
-      "title": "Fecal Transplants Show Promise for Insomnia in Early Trial",
-      "summary": "A small study found that fecal microbiota transplants (FMT) significantly improved sleep efficiency in chronic insomnia patients, from 79% to 93%. The treatment also reduced nighttime awakenings, with benefits lasting up to six months."
+      "title": "Country's Clean Sweep: How the Genre Took Over the Entire Top 5 of the Hot 100",
+      "summary": "For the first time, country songs occupy all top five spots on the Billboard Hot 100. Ella Langley's 'Choosin' Texas' leads the pack at 16 weeks at No. 1, followed by Morgan Wallen, Taylor Swift, and Stella Lefty. The historic feat caps years of genre crossover."
     }
   ]
 }

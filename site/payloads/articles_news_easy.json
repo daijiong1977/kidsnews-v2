@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-03-news-1",
+      "id": "2026-08-04-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Mon, 03 Aug 2026 13:40:47 -0400",
-      "mined_at": "2026-08-03T18:23:25+00:00",
-      "source_published_at": "Mon, 03 Aug 2026 13:40:47 -0400",
-      "image_url": "/article_images/article_9f84c89e8932.webp",
+      "time_ago": "Tue, 04 Aug 2026 10:20:59 -0400",
+      "mined_at": "2026-08-04T18:21:43+00:00",
+      "source_published_at": "Tue, 04 Aug 2026 10:20:59 -0400",
+      "image_url": "/article_images/article_cd4f8d54f607.webp",
       "category": "News",
-      "title": "Daytime Darkness! A Total Solar Eclipse Is Coming to Spain and Iceland",
-      "summary": "On August 12, the moon will block the sun over Spain, Iceland, and Greenland for up to 2 minutes and 18 seconds. It's the first total eclipse in mainland Spain in over 100 years!"
+      "title": "Battle for Michigan: Two Democrats, One Big Fight",
+      "summary": "Michigan voters are picking between two very different Democrats for Senate. Abdul El-Sayed, backed by Bernie Sanders, faces Haley Stevens, supported by party leaders. The winner takes on Republican Mike Rogers in a key race that could decide who controls the Senate."
     },
     {
-      "id": "2026-08-03-news-2",
+      "id": "2026-08-04-news-2",
       "source": "NPR World",
-      "time_ago": "Mon, 03 Aug 2026 10:05:24 -0400",
-      "mined_at": "2026-08-03T18:23:25+00:00",
-      "source_published_at": "Mon, 03 Aug 2026 10:05:24 -0400",
-      "image_url": "/article_images/article_ad8d39f3a3a9.webp",
+      "time_ago": "Tue, 04 Aug 2026 06:30:00 -0400",
+      "mined_at": "2026-08-04T18:21:43+00:00",
+      "source_published_at": "Tue, 04 Aug 2026 06:30:00 -0400",
+      "image_url": "/article_images/article_499714fdf5da.webp",
       "category": "News",
-      "title": "Coach Pochettino Stays! U.S. Men's Soccer Team Keeps Its Star Leader Through 2030",
-      "summary": "Mauricio Pochettino, the coach of the U.S. men's soccer team, signed a new contract to stay through the 2030 World Cup. He led the team to its best World Cup ever, with three wins and a record 50.1 million TV viewers."
+      "title": "Is Your 'Healthy' Snack Tricking You? The Truth About Avocado Oil",
+      "summary": "A new study found that 89% of avocado-oil products tested might be mixed with cheaper oils. Even if a label says '100% avocado oil,' it could be fake. Companies use buzzwords like 'organic' to make us think food is healthier — and charge more. Here's how to spot the tricks."
     },
     {
-      "id": "2026-08-03-news-3",
-      "source": "BBC News",
-      "time_ago": "Mon, 03 Aug 2026 17:41:27 GMT",
-      "mined_at": "2026-08-03T18:23:25+00:00",
-      "source_published_at": "Mon, 03 Aug 2026 17:41:27 GMT",
-      "image_url": "/article_images/article_57b1ff7bea67.webp",
+      "id": "2026-08-04-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Tue, 04 Aug 2026 17:50:06 +0000",
+      "mined_at": "2026-08-04T18:21:43+00:00",
+      "source_published_at": "Tue, 04 Aug 2026 17:50:06 +0000",
+      "image_url": "/article_images/article_c07a136be536.webp",
       "category": "News",
-      "title": "Iran Says It's Talking to Oman, Not the U.S., About Reopening a Key Waterway",
-      "summary": "Iran says it is negotiating with Oman to let ships pass through the Strait of Hormuz again. President Trump says the U.S. controls the strait and wants a deal, but Iran denies talking directly to America."
+      "title": "Too Hot for Lions: Tokyo Zoo Loses Three Lionesses in Record Heatwave",
+      "summary": "Three lionesses at a Tokyo zoo have died from suspected heatstroke as East Asia bakes under record heat. South Korea declared a national disaster after 19 people died. Scientists say climate change is making heatwaves longer and stronger. Even animals built for heat are struggling."
     }
   ]
 }

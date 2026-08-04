@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-03-science-1",
-      "source": "Popular Science",
-      "time_ago": "Mon, 03 Aug 2026 10:38:59 -0400",
-      "mined_at": "2026-08-03T18:23:25+00:00",
-      "source_published_at": "Mon, 03 Aug 2026 10:38:59 -0400",
-      "image_url": "/article_images/article_c759ded207a8.webp",
+      "id": "2026-08-04-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Tue, 04 Aug 2026 07:44:58 EDT",
+      "mined_at": "2026-08-04T18:21:43+00:00",
+      "source_published_at": "Tue, 04 Aug 2026 07:44:58 EDT",
+      "image_url": "/article_images/article_b68280605fdd.webp",
       "category": "Science",
-      "title": "Dive Into the Deep: Watch a Live Ocean Exploration Today",
-      "summary": "A robot is diving 3.5 miles down in the Pacific, and you can watch it live today at 5:30 p.m. EDT. The NOAA ship Okeanos is exploring near the Cook Islands to help map the seafloor and understand deep-sea ecosystems. Don't miss the livestream!"
+      "title": "Quantum 'Negative Time' Is Real: Photons Exit a Cloud Before They Enter",
+      "summary": "In a groundbreaking experiment, photons passing through a cloud of rubidium atoms appeared to spend negative time inside. Weak measurements on the atoms confirmed this counterintuitive result, challenging our understanding of time in the quantum realm."
     },
     {
-      "id": "2026-08-03-science-2",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Mon, 03 Aug 2026 06:20:53 EDT",
-      "mined_at": "2026-08-03T18:23:25+00:00",
-      "source_published_at": "Mon, 03 Aug 2026 06:20:53 EDT",
-      "image_url": "/article_images/article_d79eb159c476.webp",
-      "category": "Science",
-      "title": "Two New Chemical Tools Could Unlock Alzheimer's Secrets",
-      "summary": "Scientists created two new compounds that can control a protein linked to Alzheimer's. One blocks TAOK-1, the other activates all TAOK proteins. These tools could help researchers understand the disease better and develop new treatments. A big step toward a cure!"
-    },
-    {
-      "id": "2026-08-03-science-3",
+      "id": "2026-08-04-science-2",
       "source": "Space.com",
-      "time_ago": "Mon, 03 Aug 2026 16:17:26 +0000",
-      "mined_at": "2026-08-03T18:23:25+00:00",
-      "source_published_at": "Mon, 03 Aug 2026 16:17:26 +0000",
-      "image_url": "/article_images/article_5d44d8c076ab.webp",
+      "time_ago": "Tue, 04 Aug 2026 17:48:57 +0000",
+      "mined_at": "2026-08-04T18:21:43+00:00",
+      "source_published_at": "Tue, 04 Aug 2026 17:48:57 +0000",
+      "image_url": "/article_images/article_12b54b0e7f3d.webp",
       "category": "Science",
-      "title": "Neptune's Moons May Be the Shattered Remains of a Cosmic Collision",
-      "summary": "Three of Neptune's moons might be made from pieces of ancient icy worlds destroyed by Triton, Neptune's largest moon. The James Webb Space Telescope found clay minerals on them, suggesting a catastrophic crash. This could give us a rare look inside icy moons."
+      "title": "Blood Moon Alert: August's Sturgeon Moon Will Slip Into a Deep Eclipse",
+      "summary": "On August 28, a near-total lunar eclipse will turn the Sturgeon Moon a dramatic blood red. Visible across the Americas, Europe, and Africa, up to 96% of the lunar disk will be immersed in Earth's umbral shadow at peak."
+    },
+    {
+      "id": "2026-08-04-science-3",
+      "source": "Science News Explores",
+      "time_ago": "Tue, 04 Aug 2026 10:30:00 +0000",
+      "mined_at": "2026-08-04T18:21:43+00:00",
+      "source_published_at": "Tue, 04 Aug 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_6a6e5471939d.webp",
+      "category": "Science",
+      "title": "Zebra Finch 'Heat Calls' Reprogram Unhatched Chicks' Brains for a Warming World",
+      "summary": "When temperatures soar, zebra finches sing a rapid 'heat call' to their eggs. New research reveals this sound triggers genetic changes in the embryonic hypothalamus, altering blood flow regulation to protect against heat stress after hatching."
     }
   ]
 }
