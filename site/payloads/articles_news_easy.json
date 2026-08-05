@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-04-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Tue, 04 Aug 2026 10:20:59 -0400",
-      "mined_at": "2026-08-04T18:21:43+00:00",
-      "source_published_at": "Tue, 04 Aug 2026 10:20:59 -0400",
-      "image_url": "/article_images/article_cd4f8d54f607.webp",
-      "category": "News",
-      "title": "Battle for Michigan: Two Democrats, One Big Fight",
-      "summary": "Michigan voters are picking between two very different Democrats for Senate. Abdul El-Sayed, backed by Bernie Sanders, faces Haley Stevens, supported by party leaders. The winner takes on Republican Mike Rogers in a key race that could decide who controls the Senate."
-    },
-    {
-      "id": "2026-08-04-news-2",
+      "id": "2026-08-05-news-1",
       "source": "NPR World",
-      "time_ago": "Tue, 04 Aug 2026 06:30:00 -0400",
-      "mined_at": "2026-08-04T18:21:43+00:00",
-      "source_published_at": "Tue, 04 Aug 2026 06:30:00 -0400",
-      "image_url": "/article_images/article_499714fdf5da.webp",
+      "time_ago": "Wed, 05 Aug 2026 09:54:31 -0400",
+      "mined_at": "2026-08-05T18:20:16+00:00",
+      "source_published_at": "Wed, 05 Aug 2026 09:54:31 -0400",
+      "image_url": "/article_images/article_a07c24091f14.webp",
       "category": "News",
-      "title": "Is Your 'Healthy' Snack Tricking You? The Truth About Avocado Oil",
-      "summary": "A new study found that 89% of avocado-oil products tested might be mixed with cheaper oils. Even if a label says '100% avocado oil,' it could be fake. Companies use buzzwords like 'organic' to make us think food is healthier — and charge more. Here's how to spot the tricks."
+      "title": "Progressive Doctor Wins Michigan Senate Primary in a Nail-Biter",
+      "summary": "Dr. Abdul El-Sayed, a progressive who wants Medicare for all, narrowly won Michigan's Democratic Senate primary. He'll face Trump-backed Mike Rogers in November."
     },
     {
-      "id": "2026-08-04-news-3",
+      "id": "2026-08-05-news-2",
       "source": "Al Jazeera",
-      "time_ago": "Tue, 04 Aug 2026 17:50:06 +0000",
-      "mined_at": "2026-08-04T18:21:43+00:00",
-      "source_published_at": "Tue, 04 Aug 2026 17:50:06 +0000",
-      "image_url": "/article_images/article_c07a136be536.webp",
+      "time_ago": "Wed, 05 Aug 2026 17:06:04 +0000",
+      "mined_at": "2026-08-05T18:20:16+00:00",
+      "source_published_at": "Wed, 05 Aug 2026 17:06:04 +0000",
+      "image_url": "/article_images/article_519a15c6a21f.webp",
       "category": "News",
-      "title": "Too Hot for Lions: Tokyo Zoo Loses Three Lionesses in Record Heatwave",
-      "summary": "Three lionesses at a Tokyo zoo have died from suspected heatstroke as East Asia bakes under record heat. South Korea declared a national disaster after 19 people died. Scientists say climate change is making heatwaves longer and stronger. Even animals built for heat are struggling."
+      "title": "LIV Golf Finds a Mystery Investor to Save the League After Saudi Money Dries Up",
+      "summary": "LIV Golf has a new 'lead investor' to replace Saudi Arabia's funding. The deal will make players majority owners—a first for a big sports league."
+    },
+    {
+      "id": "2026-08-05-news-3",
+      "source": "NPR World",
+      "time_ago": "Wed, 05 Aug 2026 06:08:28 -0400",
+      "mined_at": "2026-08-05T18:20:16+00:00",
+      "source_published_at": "Wed, 05 Aug 2026 06:08:28 -0400",
+      "image_url": "/article_images/article_4b85b4fdafa0.webp",
+      "category": "News",
+      "title": "Michigan's Big Surprise: A Progressive Wins the Senate Race!",
+      "summary": "In Michigan, a progressive named Abdul El-Sayed beat a more moderate Democrat for the Senate nomination. He wants big changes like Medicare for All. But he'll face a tough Republican in November."
     }
   ]
 }

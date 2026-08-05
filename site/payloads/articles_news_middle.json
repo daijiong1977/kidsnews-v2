@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-04-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Tue, 04 Aug 2026 10:20:59 -0400",
-      "mined_at": "2026-08-04T18:21:43+00:00",
-      "source_published_at": "Tue, 04 Aug 2026 10:20:59 -0400",
-      "image_url": "/article_images/article_cd4f8d54f607.webp",
-      "category": "News",
-      "title": "Michigan Primary Tests Democratic Party's Soul — and Senate Control",
-      "summary": "Today's Michigan primary pits progressive Abdul El-Sayed against establishment-backed Haley Stevens in a race that could tip the Senate. With millions in outside spending and a bitter Gaza-war rift, the outcome will signal the party's direction — and its chances against Republican Mike Rogers in November."
-    },
-    {
-      "id": "2026-08-04-news-2",
+      "id": "2026-08-05-news-1",
       "source": "NPR World",
-      "time_ago": "Tue, 04 Aug 2026 06:30:00 -0400",
-      "mined_at": "2026-08-04T18:21:43+00:00",
-      "source_published_at": "Tue, 04 Aug 2026 06:30:00 -0400",
-      "image_url": "/article_images/article_499714fdf5da.webp",
+      "time_ago": "Wed, 05 Aug 2026 09:54:31 -0400",
+      "mined_at": "2026-08-05T18:20:16+00:00",
+      "source_published_at": "Wed, 05 Aug 2026 09:54:31 -0400",
+      "image_url": "/article_images/article_a07c24091f14.webp",
       "category": "News",
-      "title": "The 'Health Halo' Hustle: Why Your Avocado Oil Might Be a Cheap Imposter",
-      "summary": "A UC Davis study found 89% of avocado-oil products tested were adulterated with cheaper oils, exposing a widespread 'healthwashing' tactic. Companies use buzzwords and clever packaging to exploit our cognitive biases — and charge premium prices. Here's the economics behind the deception and how to outsmart it."
+      "title": "El-Sayed Edges Out Stevens in Michigan, Setting Up High-Stakes Senate Battle",
+      "summary": "Progressive Dr. Abdul El-Sayed narrowly defeated Rep. Haley Stevens in Michigan's Democratic Senate primary. He'll now face GOP's Mike Rogers in a crucial race for Senate control."
     },
     {
-      "id": "2026-08-04-news-3",
+      "id": "2026-08-05-news-2",
       "source": "Al Jazeera",
-      "time_ago": "Tue, 04 Aug 2026 17:50:06 +0000",
-      "mined_at": "2026-08-04T18:21:43+00:00",
-      "source_published_at": "Tue, 04 Aug 2026 17:50:06 +0000",
-      "image_url": "/article_images/article_c07a136be536.webp",
+      "time_ago": "Wed, 05 Aug 2026 17:06:04 +0000",
+      "mined_at": "2026-08-05T18:20:16+00:00",
+      "source_published_at": "Wed, 05 Aug 2026 17:06:04 +0000",
+      "image_url": "/article_images/article_519a15c6a21f.webp",
       "category": "News",
-      "title": "Record Heatwave Kills Three Lions in Tokyo as East Asia Swelters",
-      "summary": "Three lionesses at Tokyo's Tama Zoo died of suspected heatstroke amid a brutal East Asian heatwave. South Korea declared a national disaster after 19 deaths and a record 42.5°C. With climate change and a strengthening El Niño, scientists warn extreme heat is becoming the new normal — even for animals evolved for Africa."
+      "title": "LIV Golf Lands Mystery Investor, Players to Become Majority Owners",
+      "summary": "LIV Golf has secured an unnamed lead investor to replace Saudi Arabia's PIF, which pulled its $5 billion funding. The deal will make players majority equity holders, a first in major sports."
+    },
+    {
+      "id": "2026-08-05-news-3",
+      "source": "NPR World",
+      "time_ago": "Wed, 05 Aug 2026 06:08:28 -0400",
+      "mined_at": "2026-08-05T18:20:16+00:00",
+      "source_published_at": "Wed, 05 Aug 2026 06:08:28 -0400",
+      "image_url": "/article_images/article_4b85b4fdafa0.webp",
+      "category": "News",
+      "title": "Michigan Primary Shocker: Progressive El-Sayed Clinches Senate Nomination",
+      "summary": "Progressive Abdul El-Sayed won Michigan's Democratic Senate primary, defeating establishment-backed Haley Stevens. He campaigned on Medicare for All and criticized big money in politics. The race saw $52 million in outside spending, a staggering sum."
     }
   ]
 }
