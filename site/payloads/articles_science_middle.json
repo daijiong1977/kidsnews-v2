@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-05-science-1",
-      "source": "Space.com",
-      "time_ago": "Wed, 05 Aug 2026 17:43:30 +0000",
-      "mined_at": "2026-08-05T18:20:16+00:00",
-      "source_published_at": "Wed, 05 Aug 2026 17:43:30 +0000",
-      "image_url": "/article_images/article_9722febec32c.webp",
+      "id": "2026-08-07-science-1",
+      "source": "Science News Explores",
+      "time_ago": "Thu, 06 Aug 2026 10:30:00 +0000",
+      "mined_at": "2026-08-07T17:59:21+00:00",
+      "source_published_at": "Thu, 06 Aug 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_95b459c3da82.webp",
       "category": "Science",
-      "title": "A SpaceX Rocket Just Slammed Into the Moon — and Scientists Are Racing to See the Damage",
-      "summary": "A SpaceX Falcon 9 upper stage crashed into the moon at 5,400 mph this morning, creating a crater up to 89 feet wide. Now, lunar orbiters are trying to photograph the impact site to learn more about the moon."
+      "title": "From Plastic to Living Tissue: The Promise of Bioprinting",
+      "summary": "Bioprinting uses living cells and hydrogel “inks” to fabricate tissues layer by layer. Already, skin, cartilage, and blood vessel prototypes exist, and a 2025 trial printed a patient’s own cells directly onto her burns. The ultimate goal? Custom organs."
     },
     {
-      "id": "2026-08-05-science-2",
-      "source": "Smithsonian Science-Nature",
-      "time_ago": "Fri, 31 Jul 2026 22:33:21 +0000",
-      "mined_at": "2026-08-05T18:20:16+00:00",
-      "source_published_at": "Fri, 31 Jul 2026 22:33:21 +0000",
-      "image_url": "/article_images/article_32d3b3fd8141.webp",
+      "id": "2026-08-07-science-2",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Fri, 07 Aug 2026 00:24:49 EDT",
+      "mined_at": "2026-08-07T17:59:21+00:00",
+      "source_published_at": "Fri, 07 Aug 2026 00:24:49 EDT",
+      "image_url": "/article_images/article_a32072ae3e35.webp",
       "category": "Science",
-      "title": "From 'Public Enemy' to Cultural Icon: The Incredible Comeback of Yellowstone's Wolves",
-      "summary": "Wolves were wiped out from Yellowstone by 1926, but a historic reintroduction in 1995 brought them back. Now the park is the best place in the US to see them. Here's the story of their dramatic return."
+      "title": "Ötzi’s Living Legacy: Cold-Loving Yeasts Still Thrive on the Iceman",
+      "summary": "New research reveals that Ötzi the Iceman’s 5,300-year-old mummy hosts living, cold-adapted yeasts likely originating from the glacier. These microbes, found on his skin and in his stomach, have persisted for millennia and may have industrial potential."
     },
     {
-      "id": "2026-08-05-science-3",
-      "source": "ScienceDaily All",
-      "time_ago": "Wed, 05 Aug 2026 05:19:43 EDT",
-      "mined_at": "2026-08-05T18:20:16+00:00",
-      "source_published_at": "Wed, 05 Aug 2026 05:19:43 EDT",
-      "image_url": "/article_images/article_11d90a0a90a8.webp",
+      "id": "2026-08-07-science-3",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Fri, 07 Aug 2026 07:18:01 EDT",
+      "mined_at": "2026-08-07T17:59:21+00:00",
+      "source_published_at": "Fri, 07 Aug 2026 07:18:01 EDT",
+      "image_url": "/article_images/article_d322231eb5b9.webp",
       "category": "Science",
-      "title": "A Colossal Magma System Is Hiding Beneath Tuscany — and It's as Big as Yellowstone's",
-      "summary": "Scientists discovered a massive magma system under Tuscany, Italy, with a volume of 6,000 cubic kilometers — comparable to Yellowstone's. It was found using seismic imaging and could help locate geothermal energy and critical minerals."
+      "title": "Antarctic Isolation Experiment Reveals Surprising Social Friction",
+      "summary": "A 10-month study at Concordia Station tracked 12 crew members with surveys and wearable sensors. Contrary to expectations, more physical proximity correlated with increased conflict, mistrust, and lower perceived performance—key insights for future Mars missions."
     }
   ]
 }

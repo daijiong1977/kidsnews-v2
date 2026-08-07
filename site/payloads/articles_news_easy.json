@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-05-news-1",
-      "source": "NPR World",
-      "time_ago": "Wed, 05 Aug 2026 09:54:31 -0400",
-      "mined_at": "2026-08-05T18:20:16+00:00",
-      "source_published_at": "Wed, 05 Aug 2026 09:54:31 -0400",
-      "image_url": "/article_images/article_a07c24091f14.webp",
+      "id": "2026-08-07-news-1",
+      "source": "PBS NewsHour",
+      "time_ago": "Fri, 07 Aug 2026 12:19:26 -0400",
+      "mined_at": "2026-08-07T17:59:21+00:00",
+      "source_published_at": "Fri, 07 Aug 2026 12:19:26 -0400",
+      "image_url": "/article_images/article_856ce07eefe3.webp",
       "category": "News",
-      "title": "Progressive Doctor Wins Michigan Senate Primary in a Nail-Biter",
-      "summary": "Dr. Abdul El-Sayed, a progressive who wants Medicare for all, narrowly won Michigan's Democratic Senate primary. He'll face Trump-backed Mike Rogers in November."
+      "title": "President Trump's Grass Obsession: Why He Can't Stop Talking About Lawns",
+      "summary": "President Trump has talked about grass at least 45 times in 18 months—that's once every 12 days! From golf courses to the White House lawn, he says he's 'very good at grass.'"
     },
     {
-      "id": "2026-08-05-news-2",
-      "source": "Al Jazeera",
-      "time_ago": "Wed, 05 Aug 2026 17:06:04 +0000",
-      "mined_at": "2026-08-05T18:20:16+00:00",
-      "source_published_at": "Wed, 05 Aug 2026 17:06:04 +0000",
-      "image_url": "/article_images/article_519a15c6a21f.webp",
+      "id": "2026-08-07-news-2",
+      "source": "NPR World",
+      "time_ago": "Fri, 07 Aug 2026 05:00:00 -0400",
+      "mined_at": "2026-08-07T17:59:21+00:00",
+      "source_published_at": "Fri, 07 Aug 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_006028d0fff8.webp",
       "category": "News",
-      "title": "LIV Golf Finds a Mystery Investor to Save the League After Saudi Money Dries Up",
-      "summary": "LIV Golf has a new 'lead investor' to replace Saudi Arabia's funding. The deal will make players majority owners—a first for a big sports league."
+      "title": "Why More Grown-Up Kids Are Living With Their Parents—and Parents Are Helping Pay the Bills",
+      "summary": "Mabel Lago, 70-something, built a bigger retirement home so her 39-year-old son could live with her. A new survey says 75% of parents help their adult kids with money—about $7,000 a year on average!"
     },
     {
-      "id": "2026-08-05-news-3",
-      "source": "NPR World",
-      "time_ago": "Wed, 05 Aug 2026 06:08:28 -0400",
-      "mined_at": "2026-08-05T18:20:16+00:00",
-      "source_published_at": "Wed, 05 Aug 2026 06:08:28 -0400",
-      "image_url": "/article_images/article_4b85b4fdafa0.webp",
+      "id": "2026-08-07-news-3",
+      "source": "BBC News",
+      "time_ago": "Fri, 07 Aug 2026 17:09:32 GMT",
+      "mined_at": "2026-08-07T17:59:21+00:00",
+      "source_published_at": "Fri, 07 Aug 2026 17:09:32 GMT",
+      "image_url": "/article_images/article_d98bfafb7efa.webp",
       "category": "News",
-      "title": "Michigan's Big Surprise: A Progressive Wins the Senate Race!",
-      "summary": "In Michigan, a progressive named Abdul El-Sayed beat a more moderate Democrat for the Senate nomination. He wants big changes like Medicare for All. But he'll face a tough Republican in November."
+      "title": "Did a Famous Professor Copy His Work? Cambridge University Is Investigating!",
+      "summary": "A top professor at Cambridge University quit after people said he copied others' work and made up parts of his life story. Now the school is checking how they hire big-name teachers."
     }
   ]
 }

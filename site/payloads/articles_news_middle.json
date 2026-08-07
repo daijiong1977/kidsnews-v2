@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-05-news-1",
-      "source": "NPR World",
-      "time_ago": "Wed, 05 Aug 2026 09:54:31 -0400",
-      "mined_at": "2026-08-05T18:20:16+00:00",
-      "source_published_at": "Wed, 05 Aug 2026 09:54:31 -0400",
-      "image_url": "/article_images/article_a07c24091f14.webp",
+      "id": "2026-08-07-news-1",
+      "source": "PBS NewsHour",
+      "time_ago": "Fri, 07 Aug 2026 12:19:26 -0400",
+      "mined_at": "2026-08-07T17:59:21+00:00",
+      "source_published_at": "Fri, 07 Aug 2026 12:19:26 -0400",
+      "image_url": "/article_images/article_856ce07eefe3.webp",
       "category": "News",
-      "title": "El-Sayed Edges Out Stevens in Michigan, Setting Up High-Stakes Senate Battle",
-      "summary": "Progressive Dr. Abdul El-Sayed narrowly defeated Rep. Haley Stevens in Michigan's Democratic Senate primary. He'll now face GOP's Mike Rogers in a crucial race for Senate control."
+      "title": "From Golf Greens to the White House: Inside Trump's Unusual Grass Fixation",
+      "summary": "President Trump has mentioned grass at 45 public events in 18 months—more than the war in Iran. His obsession mixes golf-course pride with a controversial plan to pave over much of the White House lawn."
     },
     {
-      "id": "2026-08-05-news-2",
-      "source": "Al Jazeera",
-      "time_ago": "Wed, 05 Aug 2026 17:06:04 +0000",
-      "mined_at": "2026-08-05T18:20:16+00:00",
-      "source_published_at": "Wed, 05 Aug 2026 17:06:04 +0000",
-      "image_url": "/article_images/article_519a15c6a21f.webp",
+      "id": "2026-08-07-news-2",
+      "source": "NPR World",
+      "time_ago": "Fri, 07 Aug 2026 05:00:00 -0400",
+      "mined_at": "2026-08-07T17:59:21+00:00",
+      "source_published_at": "Fri, 07 Aug 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_006028d0fff8.webp",
       "category": "News",
-      "title": "LIV Golf Lands Mystery Investor, Players to Become Majority Owners",
-      "summary": "LIV Golf has secured an unnamed lead investor to replace Saudi Arabia's PIF, which pulled its $5 billion funding. The deal will make players majority equity holders, a first in major sports."
+      "title": "The Bank of Mom and Dad: Why More Parents Are Supporting Adult Children in a Tough Economy",
+      "summary": "Mabel Lago, 70, built a larger retirement home to house her 39-year-old son. A Pew survey finds 80% of Americans say it's harder for young adults to cover basic expenses—and 75% of parents help financially, averaging $7,000 a year."
     },
     {
-      "id": "2026-08-05-news-3",
-      "source": "NPR World",
-      "time_ago": "Wed, 05 Aug 2026 06:08:28 -0400",
-      "mined_at": "2026-08-05T18:20:16+00:00",
-      "source_published_at": "Wed, 05 Aug 2026 06:08:28 -0400",
-      "image_url": "/article_images/article_4b85b4fdafa0.webp",
+      "id": "2026-08-07-news-3",
+      "source": "BBC News",
+      "time_ago": "Fri, 07 Aug 2026 17:09:32 GMT",
+      "mined_at": "2026-08-07T17:59:21+00:00",
+      "source_published_at": "Fri, 07 Aug 2026 17:09:32 GMT",
+      "image_url": "/article_images/article_d98bfafb7efa.webp",
       "category": "News",
-      "title": "Michigan Primary Shocker: Progressive El-Sayed Clinches Senate Nomination",
-      "summary": "Progressive Abdul El-Sayed won Michigan's Democratic Senate primary, defeating establishment-backed Haley Stevens. He campaigned on Medicare for All and criticized big money in politics. The race saw $52 million in outside spending, a staggering sum."
+      "title": "Plagiarism Scandal Rocks Cambridge: University to Overhaul Hiring After Star Professor Quits",
+      "summary": "Cambridge University will review its senior hiring process after Prof. Jason Arday resigned amid plagiarism and CV-fabrication allegations. A group of academics demands an independent probe, citing 'massive reputational damage.'"
     }
   ]
 }
