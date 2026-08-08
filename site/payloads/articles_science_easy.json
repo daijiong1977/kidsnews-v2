@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-07-science-1",
-      "source": "Science News Explores",
-      "time_ago": "Thu, 06 Aug 2026 10:30:00 +0000",
-      "mined_at": "2026-08-07T17:59:21+00:00",
-      "source_published_at": "Thu, 06 Aug 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_95b459c3da82.webp",
-      "category": "Science",
-      "title": "Printing New Body Parts? It’s Already Happening!",
-      "summary": "Scientists are using 3-D printers and living cells to build skin, cartilage, and even blood vessels. In 2025, a robot printed a patient’s own skin cells directly onto her burns. How cool is that?"
-    },
-    {
-      "id": "2026-08-07-science-2",
+      "id": "2026-08-08-science-1",
       "source": "ScienceDaily Top Environment",
-      "time_ago": "Fri, 07 Aug 2026 00:24:49 EDT",
-      "mined_at": "2026-08-07T17:59:21+00:00",
-      "source_published_at": "Fri, 07 Aug 2026 00:24:49 EDT",
-      "image_url": "/article_images/article_a32072ae3e35.webp",
+      "time_ago": "Sat, 08 Aug 2026 10:58:54 EDT",
+      "mined_at": "2026-08-08T17:52:35+00:00",
+      "source_published_at": "Sat, 08 Aug 2026 10:58:54 EDT",
+      "image_url": "/article_images/article_29d6fe1f1f48.webp",
       "category": "Science",
-      "title": "5,300-Year-Old Iceman Has Tiny Living Passengers!",
-      "summary": "Ötzi the Iceman’s body still carries living yeasts from the glacier where he died 5,300 years ago. Scientists found these cold-loving microbes on his skin and inside his stomach—and they might even be useful for industry."
+      "title": "A Space Rock Crashed Through a Roof — and It's Teaching Us How Life Began!",
+      "summary": "A meteorite smashed through a New Jersey home's roof in 2024. Scientists found it's a super rare type that holds salty clues from an ancient asteroid — like a time capsule from space!"
     },
     {
-      "id": "2026-08-07-science-3",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Fri, 07 Aug 2026 07:18:01 EDT",
-      "mined_at": "2026-08-07T17:59:21+00:00",
-      "source_published_at": "Fri, 07 Aug 2026 07:18:01 EDT",
-      "image_url": "/article_images/article_d322231eb5b9.webp",
+      "id": "2026-08-08-science-2",
+      "source": "Popular Science",
+      "time_ago": "Sat, 08 Aug 2026 10:13:00 -0400",
+      "mined_at": "2026-08-08T17:52:35+00:00",
+      "source_published_at": "Sat, 08 Aug 2026 10:13:00 -0400",
+      "image_url": "/article_images/article_037118a1ec9b.webp",
       "category": "Science",
-      "title": "Stuck Together in Antarctica: What Happens When You Can’t Get Away?",
-      "summary": "Twelve people spent 10 months at a remote Antarctic station—and scientists tracked their every move. The surprising finding? More time together didn’t make them happier; it often led to more fights and less trust."
+      "title": "Tiny Bird Statues from the Ice Age Show That Ancient People Loved Birds Too!",
+      "summary": "Two bird figurines smaller than your thumbnail were found in a German cave. Carved from mammoth ivory 40,000 years ago, they show that even Ice Age artists paid close attention to birds."
+    },
+    {
+      "id": "2026-08-08-science-3",
+      "source": "ScienceDaily All",
+      "time_ago": "Sat, 08 Aug 2026 08:55:19 EDT",
+      "mined_at": "2026-08-08T17:52:35+00:00",
+      "source_published_at": "Sat, 08 Aug 2026 08:55:19 EDT",
+      "image_url": "/article_images/article_77afe257f53f.webp",
+      "category": "Science",
+      "title": "Think Cutting Out Sweet Foods Will Help You Eat Less Sugar? Science Says Not So Fast!",
+      "summary": "A six-month study found that eating less sweet food didn't change how much people liked sweetness or improve their health. It's sugar and calories that matter, not just sweet taste."
     }
   ]
 }

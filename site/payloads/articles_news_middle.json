@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-07-news-1",
+      "id": "2026-08-08-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Fri, 07 Aug 2026 12:19:26 -0400",
-      "mined_at": "2026-08-07T17:59:21+00:00",
-      "source_published_at": "Fri, 07 Aug 2026 12:19:26 -0400",
-      "image_url": "/article_images/article_856ce07eefe3.webp",
+      "time_ago": "Sat, 08 Aug 2026 11:39:17 -0400",
+      "mined_at": "2026-08-08T17:52:35+00:00",
+      "source_published_at": "Sat, 08 Aug 2026 11:39:17 -0400",
+      "image_url": "/article_images/article_3261b7e3ab00.webp",
       "category": "News",
-      "title": "From Golf Greens to the White House: Inside Trump's Unusual Grass Fixation",
-      "summary": "President Trump has mentioned grass at 45 public events in 18 months—more than the war in Iran. His obsession mixes golf-course pride with a controversial plan to pave over much of the White House lawn."
+      "title": "Trump's Second Shot at Restricting Birthright Citizenship Sets Up New Legal Fight",
+      "summary": "President Trump issued two executive orders narrowing birthright citizenship, targeting children of diplomats, UN employees, and birth tourists. Legal experts say the orders clash with the 14th Amendment and will face immediate court challenges."
     },
     {
-      "id": "2026-08-07-news-2",
+      "id": "2026-08-08-news-2",
       "source": "NPR World",
-      "time_ago": "Fri, 07 Aug 2026 05:00:00 -0400",
-      "mined_at": "2026-08-07T17:59:21+00:00",
-      "source_published_at": "Fri, 07 Aug 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_006028d0fff8.webp",
+      "time_ago": "Sat, 08 Aug 2026 06:30:00 -0400",
+      "mined_at": "2026-08-08T17:52:35+00:00",
+      "source_published_at": "Sat, 08 Aug 2026 06:30:00 -0400",
+      "image_url": "/article_images/article_24bec18850c2.webp",
       "category": "News",
-      "title": "The Bank of Mom and Dad: Why More Parents Are Supporting Adult Children in a Tough Economy",
-      "summary": "Mabel Lago, 70, built a larger retirement home to house her 39-year-old son. A Pew survey finds 80% of Americans say it's harder for young adults to cover basic expenses—and 75% of parents help financially, averaging $7,000 a year."
+      "title": "A League of Their Own, For Real: Women's Pro Baseball Debuts to Roaring Crowds",
+      "summary": "The Women's Pro Baseball League launched its inaugural season in Springfield, Illinois, with four teams and fans traveling from as far as South Korea. The historic opening weekend featured a first pitch by 99-year-old baseball pioneer Maybelle Blair."
     },
     {
-      "id": "2026-08-07-news-3",
-      "source": "BBC News",
-      "time_ago": "Fri, 07 Aug 2026 17:09:32 GMT",
-      "mined_at": "2026-08-07T17:59:21+00:00",
-      "source_published_at": "Fri, 07 Aug 2026 17:09:32 GMT",
-      "image_url": "/article_images/article_d98bfafb7efa.webp",
+      "id": "2026-08-08-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Sat, 08 Aug 2026 16:52:11 +0000",
+      "mined_at": "2026-08-08T17:52:35+00:00",
+      "source_published_at": "Sat, 08 Aug 2026 16:52:11 +0000",
+      "image_url": "/article_images/article_fbb6a1218f39.webp",
       "category": "News",
-      "title": "Plagiarism Scandal Rocks Cambridge: University to Overhaul Hiring After Star Professor Quits",
-      "summary": "Cambridge University will review its senior hiring process after Prof. Jason Arday resigned amid plagiarism and CV-fabrication allegations. A group of academics demands an independent probe, citing 'massive reputational damage.'"
+      "title": "Mecca Pact: Saudi Arabia, Turkey, and Pakistan Forge a New Defense Axis",
+      "summary": "Saudi Arabia, Turkey, and Pakistan signed the Makkah Joint Defence Agreement, treating an attack on one as an attack on all. Analysts call it a strategic signal aimed at Iran amid the ongoing US-Israel war, though the pact names no adversary."
     }
   ]
 }

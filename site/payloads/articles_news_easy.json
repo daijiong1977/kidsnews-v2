@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-07-news-1",
+      "id": "2026-08-08-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Fri, 07 Aug 2026 12:19:26 -0400",
-      "mined_at": "2026-08-07T17:59:21+00:00",
-      "source_published_at": "Fri, 07 Aug 2026 12:19:26 -0400",
-      "image_url": "/article_images/article_856ce07eefe3.webp",
+      "time_ago": "Sat, 08 Aug 2026 11:39:17 -0400",
+      "mined_at": "2026-08-08T17:52:35+00:00",
+      "source_published_at": "Sat, 08 Aug 2026 11:39:17 -0400",
+      "image_url": "/article_images/article_3261b7e3ab00.webp",
       "category": "News",
-      "title": "President Trump's Grass Obsession: Why He Can't Stop Talking About Lawns",
-      "summary": "President Trump has talked about grass at least 45 times in 18 months—that's once every 12 days! From golf courses to the White House lawn, he says he's 'very good at grass.'"
+      "title": "Trump Tries Again to Change Who Gets to Be a U.S. Citizen at Birth",
+      "summary": "President Trump signed new rules that could stop some babies born in the U.S. from becoming citizens. The rules target kids of diplomats, UN workers, and people who travel here just to give birth. Experts say it might not be legal."
     },
     {
-      "id": "2026-08-07-news-2",
+      "id": "2026-08-08-news-2",
       "source": "NPR World",
-      "time_ago": "Fri, 07 Aug 2026 05:00:00 -0400",
-      "mined_at": "2026-08-07T17:59:21+00:00",
-      "source_published_at": "Fri, 07 Aug 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_006028d0fff8.webp",
+      "time_ago": "Sat, 08 Aug 2026 06:30:00 -0400",
+      "mined_at": "2026-08-08T17:52:35+00:00",
+      "source_published_at": "Sat, 08 Aug 2026 06:30:00 -0400",
+      "image_url": "/article_images/article_24bec18850c2.webp",
       "category": "News",
-      "title": "Why More Grown-Up Kids Are Living With Their Parents—and Parents Are Helping Pay the Bills",
-      "summary": "Mabel Lago, 70-something, built a bigger retirement home so her 39-year-old son could live with her. A new survey says 75% of parents help their adult kids with money—about $7,000 a year on average!"
+      "title": "Girls Take the Field! First-Ever Women's Pro Baseball League Opens in Illinois",
+      "summary": "The Women's Pro Baseball League played its first game ever in Springfield, Illinois. Hundreds of fans from around the world came to cheer for teams like the Los Angeles Queens and New York Heights. The league has four teams and will play for six weeks."
     },
     {
-      "id": "2026-08-07-news-3",
-      "source": "BBC News",
-      "time_ago": "Fri, 07 Aug 2026 17:09:32 GMT",
-      "mined_at": "2026-08-07T17:59:21+00:00",
-      "source_published_at": "Fri, 07 Aug 2026 17:09:32 GMT",
-      "image_url": "/article_images/article_d98bfafb7efa.webp",
+      "id": "2026-08-08-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Sat, 08 Aug 2026 16:52:11 +0000",
+      "mined_at": "2026-08-08T17:52:35+00:00",
+      "source_published_at": "Sat, 08 Aug 2026 16:52:11 +0000",
+      "image_url": "/article_images/article_fbb6a1218f39.webp",
       "category": "News",
-      "title": "Did a Famous Professor Copy His Work? Cambridge University Is Investigating!",
-      "summary": "A top professor at Cambridge University quit after people said he copied others' work and made up parts of his life story. Now the school is checking how they hire big-name teachers."
+      "title": "Saudi Arabia, Turkey, and Pakistan Sign a 'Shield of Peace' Defense Pact",
+      "summary": "Three big countries — Saudi Arabia, Turkey, and Pakistan — signed a deal in Mecca promising to protect each other if one is attacked. They say it's for peace, but experts think it's also a warning to Iran."
     }
   ]
 }

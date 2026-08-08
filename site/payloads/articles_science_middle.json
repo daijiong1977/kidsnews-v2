@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-07-science-1",
-      "source": "Science News Explores",
-      "time_ago": "Thu, 06 Aug 2026 10:30:00 +0000",
-      "mined_at": "2026-08-07T17:59:21+00:00",
-      "source_published_at": "Thu, 06 Aug 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_95b459c3da82.webp",
-      "category": "Science",
-      "title": "From Plastic to Living Tissue: The Promise of Bioprinting",
-      "summary": "Bioprinting uses living cells and hydrogel “inks” to fabricate tissues layer by layer. Already, skin, cartilage, and blood vessel prototypes exist, and a 2025 trial printed a patient’s own cells directly onto her burns. The ultimate goal? Custom organs."
-    },
-    {
-      "id": "2026-08-07-science-2",
+      "id": "2026-08-08-science-1",
       "source": "ScienceDaily Top Environment",
-      "time_ago": "Fri, 07 Aug 2026 00:24:49 EDT",
-      "mined_at": "2026-08-07T17:59:21+00:00",
-      "source_published_at": "Fri, 07 Aug 2026 00:24:49 EDT",
-      "image_url": "/article_images/article_a32072ae3e35.webp",
+      "time_ago": "Sat, 08 Aug 2026 10:58:54 EDT",
+      "mined_at": "2026-08-08T17:52:35+00:00",
+      "source_published_at": "Sat, 08 Aug 2026 10:58:54 EDT",
+      "image_url": "/article_images/article_29d6fe1f1f48.webp",
       "category": "Science",
-      "title": "Ötzi’s Living Legacy: Cold-Loving Yeasts Still Thrive on the Iceman",
-      "summary": "New research reveals that Ötzi the Iceman’s 5,300-year-old mummy hosts living, cold-adapted yeasts likely originating from the glacier. These microbes, found on his skin and in his stomach, have persisted for millennia and may have industrial potential."
+      "title": "When a Meteorite Punched Through a Roof, It Delivered a Salty Secret About Life's Origins",
+      "summary": "A rare CM1/2 carbonaceous chondrite crashed into a New Jersey home in 2024. Its pristine salt-rich fragments reveal ancient asteroid brines — a crucial clue to how water shaped the chemistry that may have led to life."
     },
     {
-      "id": "2026-08-07-science-3",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Fri, 07 Aug 2026 07:18:01 EDT",
-      "mined_at": "2026-08-07T17:59:21+00:00",
-      "source_published_at": "Fri, 07 Aug 2026 07:18:01 EDT",
-      "image_url": "/article_images/article_d322231eb5b9.webp",
+      "id": "2026-08-08-science-2",
+      "source": "Popular Science",
+      "time_ago": "Sat, 08 Aug 2026 10:13:00 -0400",
+      "mined_at": "2026-08-08T17:52:35+00:00",
+      "source_published_at": "Sat, 08 Aug 2026 10:13:00 -0400",
+      "image_url": "/article_images/article_037118a1ec9b.webp",
       "category": "Science",
-      "title": "Antarctic Isolation Experiment Reveals Surprising Social Friction",
-      "summary": "A 10-month study at Concordia Station tracked 12 crew members with surveys and wearable sensors. Contrary to expectations, more physical proximity correlated with increased conflict, mistrust, and lower perceived performance—key insights for future Mars missions."
+      "title": "Thumbnail-Sized Bird Figurines from 40,000 Years Ago Reveal Ice Age Artists' Keen Eye",
+      "summary": "Two miniature mammoth ivory birds, each under half an inch, were unearthed in Germany's Hohle Fels cave. Dating to the Aurignacian period, they offer a rare glimpse into how early humans observed and depicted the natural world."
+    },
+    {
+      "id": "2026-08-08-science-3",
+      "source": "ScienceDaily All",
+      "time_ago": "Sat, 08 Aug 2026 08:55:19 EDT",
+      "mined_at": "2026-08-08T17:52:35+00:00",
+      "source_published_at": "Sat, 08 Aug 2026 08:55:19 EDT",
+      "image_url": "/article_images/article_77afe257f53f.webp",
+      "category": "Science",
+      "title": "New Study Challenges Advice to Cut Sweet Foods: Sweetness Itself Isn't the Enemy",
+      "summary": "A six-month trial found no difference in taste preferences or health markers between high, low, and average sweetness diets. Researchers say sugar and calorie density, not sweet taste, should be the focus of dietary guidance."
     }
   ]
 }
