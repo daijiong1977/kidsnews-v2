@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-09-science-1",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Sat, 08 Aug 2026 20:19:12 EDT",
-      "mined_at": "2026-08-09T18:06:12+00:00",
-      "source_published_at": "Sat, 08 Aug 2026 20:19:12 EDT",
-      "image_url": "/article_images/article_25a73197a70d.webp",
-      "category": "Science",
-      "title": "The Dodo Wasn't Dumb! Its Secret Super-Senses Revealed",
-      "summary": "Scientists used super-detailed scans of the only two complete dodo skulls in the world and found clues that the dodo had a great sense of smell and touch. It might have been active at dawn and dusk, not just daytime."
-    },
-    {
-      "id": "2026-08-09-science-2",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Sun, 09 Aug 2026 07:51:37 EDT",
-      "mined_at": "2026-08-09T18:06:12+00:00",
-      "source_published_at": "Sun, 09 Aug 2026 07:51:37 EDT",
-      "image_url": "/article_images/article_fd2daa4d1c8e.webp",
-      "category": "Science",
-      "title": "60,000-Year-Old Eggshell Art Shows Humans Were Math Whizzes!",
-      "summary": "Ancient people carved careful patterns on ostrich eggshells 60,000 years ago. Scientists found that over 80% of the lines follow rules like parallel lines and right angles, showing early humans thought in a geometric, organized way."
-    },
-    {
-      "id": "2026-08-09-science-3",
+      "id": "2026-08-10-science-1",
       "source": "Space.com",
-      "time_ago": "Sun, 09 Aug 2026 14:00:00 +0000",
-      "mined_at": "2026-08-09T18:06:12+00:00",
-      "source_published_at": "Sun, 09 Aug 2026 14:00:00 +0000",
-      "image_url": "/article_images/article_9a6bbb60291b.webp",
+      "time_ago": "Mon, 10 Aug 2026 17:00:00 +0000",
+      "mined_at": "2026-08-10T18:03:20+00:00",
+      "source_published_at": "Mon, 10 Aug 2026 17:00:00 +0000",
+      "image_url": "/article_images/article_cff33dd7e880.webp",
       "category": "Science",
-      "title": "A Satellite That 'Breathes' Air to Zoom Around Earth? Yes, Really!",
-      "summary": "A Spanish company plans to launch the first satellite that uses air from Earth's atmosphere as fuel. It scoops up air, heats it, and shoots it out to move. This could let satellites fly super low for better pictures and internet."
+      "title": "This Lego Spaceship Spins Just Like the Real Thing!",
+      "summary": "The new Lego Project Hail Mary set has a secret: a spinning stand that makes the crew module move in and out, just like the movie spaceship! At $99.99 with 830 pieces, it's smaller than expected but totally amaze."
+    },
+    {
+      "id": "2026-08-10-science-2",
+      "source": "Science News Explores",
+      "time_ago": "Mon, 10 Aug 2026 10:30:00 +0000",
+      "mined_at": "2026-08-10T18:03:20+00:00",
+      "source_published_at": "Mon, 10 Aug 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_a111b7a1b57e.webp",
+      "category": "Science",
+      "title": "These Planets Are Fluffier Than Cotton Candy!",
+      "summary": "Two newly found planets are as big as Jupiter but as light as cotton candy. They orbit a star 1,113 light-years away and are the puffiest worlds ever discovered. Scientists call them superpuffs."
+    },
+    {
+      "id": "2026-08-10-science-3",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Mon, 10 Aug 2026 01:57:00 EDT",
+      "mined_at": "2026-08-10T18:03:20+00:00",
+      "source_published_at": "Mon, 10 Aug 2026 01:57:00 EDT",
+      "image_url": "/article_images/article_b1114fd821a4.webp",
+      "category": "Science",
+      "title": "How Dogs and Humans Have Been Changing Each Other for 15,000 Years",
+      "summary": "A new book explores how dogs evolved alongside humans for 15,000 years. From Arctic sled dogs to tiny Chihuahuas, dogs adapted to different climates and jobs — and even changed our genes too!"
     }
   ]
 }

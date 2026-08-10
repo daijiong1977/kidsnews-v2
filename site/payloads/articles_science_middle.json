@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-09-science-1",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Sat, 08 Aug 2026 20:19:12 EDT",
-      "mined_at": "2026-08-09T18:06:12+00:00",
-      "source_published_at": "Sat, 08 Aug 2026 20:19:12 EDT",
-      "image_url": "/article_images/article_25a73197a70d.webp",
-      "category": "Science",
-      "title": "CT Scans of Rare Dodo Skulls Uncover a Sensory World We Never Knew",
-      "summary": "High-res scans of the only two complete dodo skulls reveal the extinct bird likely had a keen sense of smell, a touch-sensitive beak, and may have been active at twilight. The findings challenge the old 'dumb dodo' myth."
-    },
-    {
-      "id": "2026-08-09-science-2",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Sun, 09 Aug 2026 07:51:37 EDT",
-      "mined_at": "2026-08-09T18:06:12+00:00",
-      "source_published_at": "Sun, 09 Aug 2026 07:51:37 EDT",
-      "image_url": "/article_images/article_fd2daa4d1c8e.webp",
-      "category": "Science",
-      "title": "Engraved Ostrich Eggshells Reveal Early Humans' Geometric Mindset",
-      "summary": "A new analysis of 60,000-year-old engraved ostrich eggshells from southern Africa shows that over 80% of the markings follow geometric principles like parallelism and right angles. This suggests early Homo sapiens possessed advanced abstract thinking."
-    },
-    {
-      "id": "2026-08-09-science-3",
+      "id": "2026-08-10-science-1",
       "source": "Space.com",
-      "time_ago": "Sun, 09 Aug 2026 14:00:00 +0000",
-      "mined_at": "2026-08-09T18:06:12+00:00",
-      "source_published_at": "Sun, 09 Aug 2026 14:00:00 +0000",
-      "image_url": "/article_images/article_9a6bbb60291b.webp",
+      "time_ago": "Mon, 10 Aug 2026 17:00:00 +0000",
+      "mined_at": "2026-08-10T18:03:20+00:00",
+      "source_published_at": "Mon, 10 Aug 2026 17:00:00 +0000",
+      "image_url": "/article_images/article_cff33dd7e880.webp",
       "category": "Science",
-      "title": "World's First Air-Breathing Satellite Thruster Set for Orbital Test",
-      "summary": "Spanish startup Kreios Space is preparing to launch a satellite that uses air-breathing electric propulsion (ABEP) to operate in very low Earth orbit. The technology scoops up atmospheric air, ionizes it, and expels it as thrust, eliminating the need for onboard fuel."
+      "title": "Lego's Project Hail Mary Set Nails the Movie's Spinning Gravity Trick",
+      "summary": "The 830-piece Lego Project Hail Mary set features a clever spinning mechanism that mimics the movie's centrifugal gravity system. At $99.99, it's compact but packed with clever engineering — and zero stickers."
+    },
+    {
+      "id": "2026-08-10-science-2",
+      "source": "Science News Explores",
+      "time_ago": "Mon, 10 Aug 2026 10:30:00 +0000",
+      "mined_at": "2026-08-10T18:03:20+00:00",
+      "source_published_at": "Mon, 10 Aug 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_a111b7a1b57e.webp",
+      "category": "Science",
+      "title": "Cotton Candy Planets: The Puffiest Worlds Ever Discovered",
+      "summary": "Two Jupiter-sized exoplanets orbiting TOI 791 are the least dense ever found, with densities comparable to cotton candy. Their discovery relied on a telescope in Antarctica to measure their masses via orbital interactions."
+    },
+    {
+      "id": "2026-08-10-science-3",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Mon, 10 Aug 2026 01:57:00 EDT",
+      "mined_at": "2026-08-10T18:03:20+00:00",
+      "source_published_at": "Mon, 10 Aug 2026 01:57:00 EDT",
+      "image_url": "/article_images/article_b1114fd821a4.webp",
+      "category": "Science",
+      "title": "15,000 Years of Coevolution: How Dogs Shaped Us as Much as We Shaped Them",
+      "summary": "Professor Peter Mitchell's new book 'First Dogs' argues that dog domestication was a gradual, mutual process. From Arctic sled dogs to tropical hunters, canine diversity reflects deep partnerships with human societies."
     }
   ]
 }
