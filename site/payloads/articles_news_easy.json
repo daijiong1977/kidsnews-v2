@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-10-news-1",
-      "source": "BBC News",
-      "time_ago": "Mon, 10 Aug 2026 14:58:24 GMT",
-      "mined_at": "2026-08-10T18:03:20+00:00",
-      "source_published_at": "Mon, 10 Aug 2026 14:58:24 GMT",
-      "image_url": "/article_images/article_284e4329ff04.webp",
-      "category": "News",
-      "title": "A Famous Professor Steps Back After Questions About His Work",
-      "summary": "Jason Arday, who became Cambridge's youngest Black professor, has canceled a big talk in London. He quit his job after people said he copied others' work and questioned his achievements. He says the attention has been really hard on him and his family."
-    },
-    {
-      "id": "2026-08-10-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Mon, 10 Aug 2026 12:10:38 -0400",
-      "mined_at": "2026-08-10T18:03:20+00:00",
-      "source_published_at": "Mon, 10 Aug 2026 12:10:38 -0400",
-      "image_url": "/article_images/article_bf836162f0b8.webp",
-      "category": "News",
-      "title": "Soldiers in the Capital: Why the National Guard Is Staying in D.C. Until 2029",
-      "summary": "Imagine seeing soldiers on your walk to school every day. That’s life in Washington, D.C., where 4,600 National Guard troops will stay until 2029. The mission started as a crime emergency but now costs $1.4 billion."
-    },
-    {
-      "id": "2026-08-10-news-3",
+      "id": "2026-08-11-news-1",
       "source": "NPR World",
-      "time_ago": "Mon, 10 Aug 2026 00:01:00 -0400",
-      "mined_at": "2026-08-10T18:03:20+00:00",
-      "source_published_at": "Mon, 10 Aug 2026 00:01:00 -0400",
-      "image_url": "/article_images/article_cd94d28b2da6.webp",
+      "time_ago": "Tue, 11 Aug 2026 05:00:00 -0400",
+      "mined_at": "2026-08-11T18:05:40+00:00",
+      "source_published_at": "Tue, 11 Aug 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_cda7b5e23466.webp",
       "category": "News",
-      "title": "This Tiny Idaho Town Is Getting Super-Powered New Reactors — And They Fit on a Truck!",
-      "summary": "In Atomic City, Idaho (population 52), a startup just flipped the switch on a nuclear reactor small enough to carry on a truck. It could power 1,000 homes and is part of a big push for new, tiny nuclear plants."
+      "title": "No More Screens for Little Kids in LA Schools!",
+      "summary": "Los Angeles schools just started a big new rule: first graders and younger get zero screen time. Teachers are trying to figure out how to teach without laptops and tablets. Over 400,000 students are affected."
+    },
+    {
+      "id": "2026-08-11-news-2",
+      "source": "BBC News",
+      "time_ago": "Tue, 11 Aug 2026 14:23:52 GMT",
+      "mined_at": "2026-08-11T18:05:40+00:00",
+      "source_published_at": "Tue, 11 Aug 2026 14:23:52 GMT",
+      "image_url": "/article_images/article_47fced6ab801.webp",
+      "category": "News",
+      "title": "UK's Sizzling Summer Set to Smash Heat Records!",
+      "summary": "This summer in the UK is so hot it's about to break the all-time record. Temperatures hit 38°C in June, and there have been 37 heatwave days in a row. Millions of people face water restrictions because of a drought."
+    },
+    {
+      "id": "2026-08-11-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Tue, 11 Aug 2026 17:04:52 +0000",
+      "mined_at": "2026-08-11T18:05:40+00:00",
+      "source_published_at": "Tue, 11 Aug 2026 17:04:52 +0000",
+      "image_url": "/article_images/article_83218cc34164.webp",
+      "category": "News",
+      "title": "Big Soccer Fight Won't Stop the U-20 Women's World Cup!",
+      "summary": "Poland says the Under-20 Women's World Cup will happen next month, even though some European soccer bosses are boycotting FIFA events. Teams from France and New Zealand have already said they'll play. The tournament is a huge deal for young players."
     }
   ]
 }

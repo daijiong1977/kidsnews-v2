@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-10-science-1",
-      "source": "Space.com",
-      "time_ago": "Mon, 10 Aug 2026 17:00:00 +0000",
-      "mined_at": "2026-08-10T18:03:20+00:00",
-      "source_published_at": "Mon, 10 Aug 2026 17:00:00 +0000",
-      "image_url": "/article_images/article_cff33dd7e880.webp",
+      "id": "2026-08-11-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Mon, 10 Aug 2026 06:55:53 EDT",
+      "mined_at": "2026-08-11T18:05:40+00:00",
+      "source_published_at": "Mon, 10 Aug 2026 06:55:53 EDT",
+      "image_url": "/article_images/article_c7a20a8ff090.webp",
       "category": "Science",
-      "title": "This Lego Spaceship Spins Just Like the Real Thing!",
-      "summary": "The new Lego Project Hail Mary set has a secret: a spinning stand that makes the crew module move in and out, just like the movie spaceship! At $99.99 with 830 pieces, it's smaller than expected but totally amaze."
+      "title": "The Sun Is About to Disappear Over Europe—Here's How to Watch!",
+      "summary": "On August 12, the Moon will completely cover the Sun over parts of Europe. ESA will broadcast it live from Spain, where the sky will go dark for over a minute. You can watch telescopes and drones capture the moment online."
     },
     {
-      "id": "2026-08-10-science-2",
-      "source": "Science News Explores",
-      "time_ago": "Mon, 10 Aug 2026 10:30:00 +0000",
-      "mined_at": "2026-08-10T18:03:20+00:00",
-      "source_published_at": "Mon, 10 Aug 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_a111b7a1b57e.webp",
-      "category": "Science",
-      "title": "These Planets Are Fluffier Than Cotton Candy!",
-      "summary": "Two newly found planets are as big as Jupiter but as light as cotton candy. They orbit a star 1,113 light-years away and are the puffiest worlds ever discovered. Scientists call them superpuffs."
-    },
-    {
-      "id": "2026-08-10-science-3",
+      "id": "2026-08-11-science-2",
       "source": "ScienceDaily Top Environment",
-      "time_ago": "Mon, 10 Aug 2026 01:57:00 EDT",
-      "mined_at": "2026-08-10T18:03:20+00:00",
-      "source_published_at": "Mon, 10 Aug 2026 01:57:00 EDT",
-      "image_url": "/article_images/article_b1114fd821a4.webp",
+      "time_ago": "Mon, 10 Aug 2026 07:21:53 EDT",
+      "mined_at": "2026-08-11T18:05:40+00:00",
+      "source_published_at": "Mon, 10 Aug 2026 07:21:53 EDT",
+      "image_url": "/article_images/article_077856d90fe1.webp",
       "category": "Science",
-      "title": "How Dogs and Humans Have Been Changing Each Other for 15,000 Years",
-      "summary": "A new book explores how dogs evolved alongside humans for 15,000 years. From Arctic sled dogs to tiny Chihuahuas, dogs adapted to different climates and jobs — and even changed our genes too!"
+      "title": "Did Eating Potatoes Give Some People a Superpower?",
+      "summary": "Scientists found that Indigenous people in Peru have extra copies of a gene that helps digest starch. This likely happened because their ancestors ate lots of potatoes for thousands of years. They have more copies than anyone else studied."
+    },
+    {
+      "id": "2026-08-11-science-3",
+      "source": "Space.com",
+      "time_ago": "Tue, 11 Aug 2026 16:21:54 +0000",
+      "mined_at": "2026-08-11T18:05:40+00:00",
+      "source_published_at": "Tue, 11 Aug 2026 16:21:54 +0000",
+      "image_url": "/article_images/article_88dafaf8707f.webp",
+      "category": "Science",
+      "title": "SpaceX Just Launched 29 Satellites—and the Booster Has Flown 18 Times!",
+      "summary": "SpaceX sent 29 more Starlink satellites to space on August 11. The rocket's first stage landed on a drone ship for the 18th time. This booster has also carried astronauts, and Starlink now has over 10,900 satellites in orbit."
     }
   ]
 }

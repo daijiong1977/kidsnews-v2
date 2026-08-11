@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-10-news-1",
-      "source": "BBC News",
-      "time_ago": "Mon, 10 Aug 2026 14:58:24 GMT",
-      "mined_at": "2026-08-10T18:03:20+00:00",
-      "source_published_at": "Mon, 10 Aug 2026 14:58:24 GMT",
-      "image_url": "/article_images/article_284e4329ff04.webp",
-      "category": "News",
-      "title": "Plagiarism Allegations Force Former Cambridge Professor to Cancel Public Appearance",
-      "summary": "Jason Arday, who resigned as Cambridge's youngest Black professor amid plagiarism allegations, has canceled a September talk in London. He admitted early-career errors but said relentless scrutiny has taken a 'profound toll.' His memoir is still set for release."
-    },
-    {
-      "id": "2026-08-10-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Mon, 10 Aug 2026 12:10:38 -0400",
-      "mined_at": "2026-08-10T18:03:20+00:00",
-      "source_published_at": "Mon, 10 Aug 2026 12:10:38 -0400",
-      "image_url": "/article_images/article_bf836162f0b8.webp",
-      "category": "News",
-      "title": "A Capital Under Guard: The $1.4 Billion Deployment Shaping D.C.’s Future",
-      "summary": "More than 4,600 National Guard troops have been patrolling Washington, D.C., for a year, and their mission just got extended to 2029 at a cost of $1.4 billion. Residents and leaders are pushing back, but the city’s unique status limits their power."
-    },
-    {
-      "id": "2026-08-10-news-3",
+      "id": "2026-08-11-news-1",
       "source": "NPR World",
-      "time_ago": "Mon, 10 Aug 2026 00:01:00 -0400",
-      "mined_at": "2026-08-10T18:03:20+00:00",
-      "source_published_at": "Mon, 10 Aug 2026 00:01:00 -0400",
-      "image_url": "/article_images/article_cd94d28b2da6.webp",
+      "time_ago": "Tue, 11 Aug 2026 05:00:00 -0400",
+      "mined_at": "2026-08-11T18:05:40+00:00",
+      "source_published_at": "Tue, 11 Aug 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_cda7b5e23466.webp",
       "category": "News",
-      "title": "In the Shadow of America’s Nuclear Past, a Startup Flips the Switch on a Truck-Sized Reactor",
-      "summary": "At Idaho National Laboratory, startup Deployable Energy achieved its first sustained chain reaction in a micro reactor — a pivotal moment for a new generation of portable nuclear power. But critics warn that safety oversight is being slashed."
+      "title": "LA Schools Pull the Plug: Massive Screen-Time Limits Hit 400,000 Students",
+      "summary": "The Los Angeles Unified School District launched an unprecedented screen-time ban for its youngest students this week, with older grades to follow. Teachers are scrambling to adapt, calling the rapid rollout chaotic. The district hopes data from tracking software will guide future tweaks."
+    },
+    {
+      "id": "2026-08-11-news-2",
+      "source": "BBC News",
+      "time_ago": "Tue, 11 Aug 2026 14:23:52 GMT",
+      "mined_at": "2026-08-11T18:05:40+00:00",
+      "source_published_at": "Tue, 11 Aug 2026 14:23:52 GMT",
+      "image_url": "/article_images/article_47fced6ab801.webp",
+      "category": "News",
+      "title": "Britain's Unrelenting Heat: Summer 2026 Poised to Shatter All Records",
+      "summary": "The UK is on the brink of its hottest summer ever, with average temperatures set to surpass 2025's record. A staggering 37 consecutive heatwave days and 38°C highs have fueled a historic drought, leaving 45 million people in drought zones and 27 million facing water restrictions."
+    },
+    {
+      "id": "2026-08-11-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Tue, 11 Aug 2026 17:04:52 +0000",
+      "mined_at": "2026-08-11T18:05:40+00:00",
+      "source_published_at": "Tue, 11 Aug 2026 17:04:52 +0000",
+      "image_url": "/article_images/article_83218cc34164.webp",
+      "category": "News",
+      "title": "Poland Forges Ahead with U-20 Women's World Cup Despite UEFA's FIFA Boycott",
+      "summary": "Hosts Poland insist the Under-20 Women's World Cup will proceed in September, even as UEFA's 55 members boycott FIFA events over a governance dispute. France and New Zealand have confirmed participation, while the US is expected to attend. The tournament is a critical development stage for young players."
     }
   ]
 }

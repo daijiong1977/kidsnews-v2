@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-10-science-1",
-      "source": "Space.com",
-      "time_ago": "Mon, 10 Aug 2026 17:00:00 +0000",
-      "mined_at": "2026-08-10T18:03:20+00:00",
-      "source_published_at": "Mon, 10 Aug 2026 17:00:00 +0000",
-      "image_url": "/article_images/article_cff33dd7e880.webp",
+      "id": "2026-08-11-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Mon, 10 Aug 2026 06:55:53 EDT",
+      "mined_at": "2026-08-11T18:05:40+00:00",
+      "source_published_at": "Mon, 10 Aug 2026 06:55:53 EDT",
+      "image_url": "/article_images/article_c7a20a8ff090.webp",
       "category": "Science",
-      "title": "Lego's Project Hail Mary Set Nails the Movie's Spinning Gravity Trick",
-      "summary": "The 830-piece Lego Project Hail Mary set features a clever spinning mechanism that mimics the movie's centrifugal gravity system. At $99.99, it's compact but packed with clever engineering — and zero stickers."
+      "title": "A Total Solar Eclipse Will Sweep Across Europe—Watch It Live From Spain",
+      "summary": "On August 12, a total solar eclipse will darken a path from Greenland to Spain. ESA will broadcast the event live from the Javalambre observatory, offering telescope views and expert commentary. Totality there will last 1 minute and 21 seconds."
     },
     {
-      "id": "2026-08-10-science-2",
-      "source": "Science News Explores",
-      "time_ago": "Mon, 10 Aug 2026 10:30:00 +0000",
-      "mined_at": "2026-08-10T18:03:20+00:00",
-      "source_published_at": "Mon, 10 Aug 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_a111b7a1b57e.webp",
-      "category": "Science",
-      "title": "Cotton Candy Planets: The Puffiest Worlds Ever Discovered",
-      "summary": "Two Jupiter-sized exoplanets orbiting TOI 791 are the least dense ever found, with densities comparable to cotton candy. Their discovery relied on a telescope in Antarctica to measure their masses via orbital interactions."
-    },
-    {
-      "id": "2026-08-10-science-3",
+      "id": "2026-08-11-science-2",
       "source": "ScienceDaily Top Environment",
-      "time_ago": "Mon, 10 Aug 2026 01:57:00 EDT",
-      "mined_at": "2026-08-10T18:03:20+00:00",
-      "source_published_at": "Mon, 10 Aug 2026 01:57:00 EDT",
-      "image_url": "/article_images/article_b1114fd821a4.webp",
+      "time_ago": "Mon, 10 Aug 2026 07:21:53 EDT",
+      "mined_at": "2026-08-11T18:05:40+00:00",
+      "source_published_at": "Mon, 10 Aug 2026 07:21:53 EDT",
+      "image_url": "/article_images/article_077856d90fe1.webp",
       "category": "Science",
-      "title": "15,000 Years of Coevolution: How Dogs Shaped Us as Much as We Shaped Them",
-      "summary": "Professor Peter Mitchell's new book 'First Dogs' argues that dog domestication was a gradual, mutual process. From Arctic sled dogs to tropical hunters, canine diversity reflects deep partnerships with human societies."
+      "title": "How Ancient Potato Farming May Have Rewired Andean DNA",
+      "summary": "A study reveals that Indigenous Peruvians carry an unusually high number of AMY1 gene copies, which aids starch digestion. Researchers link this to natural selection after potato domestication 6,000–10,000 years ago. They average 10 copies, more than any other population."
+    },
+    {
+      "id": "2026-08-11-science-3",
+      "source": "Space.com",
+      "time_ago": "Tue, 11 Aug 2026 16:21:54 +0000",
+      "mined_at": "2026-08-11T18:05:40+00:00",
+      "source_published_at": "Tue, 11 Aug 2026 16:21:54 +0000",
+      "image_url": "/article_images/article_88dafaf8707f.webp",
+      "category": "Science",
+      "title": "SpaceX Launches 29 Starlink Satellites, Booster Logs 18th Flight",
+      "summary": "On August 11, SpaceX launched 29 Starlink satellites from Florida, marking the 93rd Falcon 9 mission this year. The first-stage booster, B1085, completed its 18th landing on a drone ship. Starlink now has over 10,900 active satellites in orbit."
     }
   ]
 }
