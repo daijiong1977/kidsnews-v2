@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-11-news-1",
-      "source": "NPR World",
-      "time_ago": "Tue, 11 Aug 2026 05:00:00 -0400",
-      "mined_at": "2026-08-11T18:05:40+00:00",
-      "source_published_at": "Tue, 11 Aug 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_cda7b5e23466.webp",
-      "category": "News",
-      "title": "LA Schools Pull the Plug: Massive Screen-Time Limits Hit 400,000 Students",
-      "summary": "The Los Angeles Unified School District launched an unprecedented screen-time ban for its youngest students this week, with older grades to follow. Teachers are scrambling to adapt, calling the rapid rollout chaotic. The district hopes data from tracking software will guide future tweaks."
-    },
-    {
-      "id": "2026-08-11-news-2",
+      "id": "2026-08-12-news-1",
       "source": "BBC News",
-      "time_ago": "Tue, 11 Aug 2026 14:23:52 GMT",
-      "mined_at": "2026-08-11T18:05:40+00:00",
-      "source_published_at": "Tue, 11 Aug 2026 14:23:52 GMT",
-      "image_url": "/article_images/article_47fced6ab801.webp",
+      "time_ago": "Tue, 11 Aug 2026 16:29:28 GMT",
+      "mined_at": "2026-08-12T18:07:55+00:00",
+      "source_published_at": "Tue, 11 Aug 2026 16:29:28 GMT",
+      "image_url": "/article_images/article_6676d020a089.webp",
       "category": "News",
-      "title": "Britain's Unrelenting Heat: Summer 2026 Poised to Shatter All Records",
-      "summary": "The UK is on the brink of its hottest summer ever, with average temperatures set to surpass 2025's record. A staggering 37 consecutive heatwave days and 38°C highs have fueled a historic drought, leaving 45 million people in drought zones and 27 million facing water restrictions."
+      "title": "Eclipse Glasses Sold Out? Here's How to Watch Safely Without Them",
+      "summary": "Eclipse glasses are sold out, but you can still watch Wednesday's solar eclipse using a colander or a homemade pinhole projector. Here's how to do it safely."
     },
     {
-      "id": "2026-08-11-news-3",
+      "id": "2026-08-12-news-2",
       "source": "Al Jazeera",
-      "time_ago": "Tue, 11 Aug 2026 17:04:52 +0000",
-      "mined_at": "2026-08-11T18:05:40+00:00",
-      "source_published_at": "Tue, 11 Aug 2026 17:04:52 +0000",
-      "image_url": "/article_images/article_83218cc34164.webp",
+      "time_ago": "Wed, 12 Aug 2026 16:23:28 +0000",
+      "mined_at": "2026-08-12T18:07:55+00:00",
+      "source_published_at": "Wed, 12 Aug 2026 16:23:28 +0000",
+      "image_url": "/article_images/article_c096bc7ff77f.webp",
       "category": "News",
-      "title": "Poland Forges Ahead with U-20 Women's World Cup Despite UEFA's FIFA Boycott",
-      "summary": "Hosts Poland insist the Under-20 Women's World Cup will proceed in September, even as UEFA's 55 members boycott FIFA events over a governance dispute. France and New Zealand have confirmed participation, while the US is expected to attend. The tournament is a critical development stage for young players."
+      "title": "Trump Says Pro-Israel Lobby's Power Is Fading — and Takes a Jab at Schumer",
+      "summary": "In a recent interview, President Trump claimed pro-Israel lobbying groups have lost their grip on Congress, and he made controversial remarks about Senator Chuck Schumer, calling him 'virtually a Palestinian.'"
+    },
+    {
+      "id": "2026-08-12-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Wed, 12 Aug 2026 11:24:43 -0400",
+      "mined_at": "2026-08-12T18:07:55+00:00",
+      "source_published_at": "Wed, 12 Aug 2026 11:24:43 -0400",
+      "image_url": "/article_images/article_4748d58c65e7.webp",
+      "category": "News",
+      "title": "Progressive Peggy Flanagan Wins Minnesota Senate Primary, Beating Establishment Candidate",
+      "summary": "Lt. Gov. Peggy Flanagan defeated centrist Rep. Angie Craig in Minnesota's Democratic Senate primary, a win for progressives. She'll face Republican Michele Tafoya in November."
     }
   ]
 }

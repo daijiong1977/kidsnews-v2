@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-11-news-1",
-      "source": "NPR World",
-      "time_ago": "Tue, 11 Aug 2026 05:00:00 -0400",
-      "mined_at": "2026-08-11T18:05:40+00:00",
-      "source_published_at": "Tue, 11 Aug 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_cda7b5e23466.webp",
-      "category": "News",
-      "title": "No More Screens for Little Kids in LA Schools!",
-      "summary": "Los Angeles schools just started a big new rule: first graders and younger get zero screen time. Teachers are trying to figure out how to teach without laptops and tablets. Over 400,000 students are affected."
-    },
-    {
-      "id": "2026-08-11-news-2",
+      "id": "2026-08-12-news-1",
       "source": "BBC News",
-      "time_ago": "Tue, 11 Aug 2026 14:23:52 GMT",
-      "mined_at": "2026-08-11T18:05:40+00:00",
-      "source_published_at": "Tue, 11 Aug 2026 14:23:52 GMT",
-      "image_url": "/article_images/article_47fced6ab801.webp",
+      "time_ago": "Tue, 11 Aug 2026 16:29:28 GMT",
+      "mined_at": "2026-08-12T18:07:55+00:00",
+      "source_published_at": "Tue, 11 Aug 2026 16:29:28 GMT",
+      "image_url": "/article_images/article_6676d020a089.webp",
       "category": "News",
-      "title": "UK's Sizzling Summer Set to Smash Heat Records!",
-      "summary": "This summer in the UK is so hot it's about to break the all-time record. Temperatures hit 38°C in June, and there have been 37 heatwave days in a row. Millions of people face water restrictions because of a drought."
+      "title": "No Eclipse Glasses? Try a Colander!",
+      "summary": "Can't find eclipse glasses? You can use a colander or a pinhole projector to watch Wednesday's eclipse safely. Here's how!"
     },
     {
-      "id": "2026-08-11-news-3",
+      "id": "2026-08-12-news-2",
       "source": "Al Jazeera",
-      "time_ago": "Tue, 11 Aug 2026 17:04:52 +0000",
-      "mined_at": "2026-08-11T18:05:40+00:00",
-      "source_published_at": "Tue, 11 Aug 2026 17:04:52 +0000",
-      "image_url": "/article_images/article_83218cc34164.webp",
+      "time_ago": "Wed, 12 Aug 2026 16:23:28 +0000",
+      "mined_at": "2026-08-12T18:07:55+00:00",
+      "source_published_at": "Wed, 12 Aug 2026 16:23:28 +0000",
+      "image_url": "/article_images/article_c096bc7ff77f.webp",
       "category": "News",
-      "title": "Big Soccer Fight Won't Stop the U-20 Women's World Cup!",
-      "summary": "Poland says the Under-20 Women's World Cup will happen next month, even though some European soccer bosses are boycotting FIFA events. Teams from France and New Zealand have already said they'll play. The tournament is a huge deal for young players."
+      "title": "Trump Says Pro-Israel Groups Have Less Power in Congress",
+      "summary": "President Trump says pro-Israel lobbying groups don't have as much power in Congress as they used to. He also made comments about Senator Schumer that upset many people."
+    },
+    {
+      "id": "2026-08-12-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Wed, 12 Aug 2026 11:24:43 -0400",
+      "mined_at": "2026-08-12T18:07:55+00:00",
+      "source_published_at": "Wed, 12 Aug 2026 11:24:43 -0400",
+      "image_url": "/article_images/article_4748d58c65e7.webp",
+      "category": "News",
+      "title": "Peggy Flanagan Wins Big in Minnesota Primary",
+      "summary": "Peggy Flanagan won the Democratic primary for Senate in Minnesota, beating a more moderate candidate. She's a progressive who wants to fight corporate influence."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-11-fun-1",
-      "source": "Billboard",
-      "time_ago": "Tue, 11 Aug 2026 17:33:51 +0000",
-      "mined_at": "2026-08-11T18:05:40+00:00",
-      "source_published_at": "Tue, 11 Aug 2026 17:33:51 +0000",
-      "image_url": "/article_images/article_09e1f444f1d3.webp",
+      "id": "2026-08-12-fun-1",
+      "source": "MIT News",
+      "time_ago": "Wed, 12 Aug 2026 11:00:00 -0400",
+      "mined_at": "2026-08-12T18:07:55+00:00",
+      "source_published_at": "Wed, 12 Aug 2026 11:00:00 -0400",
+      "image_url": "/article_images/article_8a369925e47e.webp",
       "category": "Fun",
-      "title": "The Rock Sings a Sweet Song for His Daughters",
-      "summary": "Dwayne 'The Rock' Johnson has a new song called 'Your Dad' for his three daughters. He co-wrote it with American Idol winner Iam Tongi. The video shows home movies of him with his girls!"
+      "title": "A Star That's Also a Black Hole? Meet the 'Black Hole Star'",
+      "summary": "Astronomers found a weird red dot in space that acts like a star but is way too bright. They think it's a black hole wrapped in a giant gas cloud, and they're calling it a 'black hole star.'"
     },
     {
-      "id": "2026-08-11-fun-2",
-      "source": "Variety",
-      "time_ago": "Tue, 11 Aug 2026 17:28:00 +0000",
-      "mined_at": "2026-08-11T18:05:40+00:00",
-      "source_published_at": "Tue, 11 Aug 2026 17:28:00 +0000",
-      "image_url": "/article_images/article_b1c4e575d007.webp",
+      "id": "2026-08-12-fun-2",
+      "source": "DOGOnews",
+      "time_ago": "",
+      "mined_at": "2026-08-12T18:07:55+00:00",
+      "source_published_at": "",
+      "image_url": "/article_images/article_76cdfe0d9bea.webp",
       "category": "Fun",
-      "title": "New Cinderella Movie 'Steps' Gets a Famous Composer",
-      "summary": "Kris Bowers will write the music for Netflix's new animated movie 'Steps,' a twist on Cinderella's evil stepsisters. It comes out November 20. The score was recorded at Abbey Road Studios!"
+      "title": "Tako the Piano-Playing Octopus Says Goodbye to the Stage",
+      "summary": "An octopus named Tako learned to play a special piano with pull-keys and a crab elevator. After six months of practice, he became a star, but now he's retiring to rest in his tank."
     },
     {
-      "id": "2026-08-11-fun-3",
-      "source": "NPR Music",
-      "time_ago": "Mon, 10 Aug 2026 13:31:09 -0400",
-      "mined_at": "2026-08-11T18:05:40+00:00",
-      "source_published_at": "Mon, 10 Aug 2026 13:31:09 -0400",
-      "image_url": "/article_images/article_80410bfe21c4.webp",
+      "id": "2026-08-12-fun-3",
+      "source": "Live Science",
+      "time_ago": "Wed, 12 Aug 2026 16:58:55 +0000",
+      "mined_at": "2026-08-12T18:07:55+00:00",
+      "source_published_at": "Wed, 12 Aug 2026 16:58:55 +0000",
+      "image_url": "/article_images/article_e05c3f2a93ca.webp",
       "category": "Fun",
-      "title": "Wait, Aretha Franklin Made a Secret Super-Album?",
-      "summary": "A forgotten 1976 movie soundtrack has Aretha Franklin singing her heart out. It's called Sparkle, and one song, \"Something He Can Feel,\" hit No. 1 on the R&B chart. Why isn't this album a bigger deal?"
+      "title": "The Dodo Wasn't Dumb—It Might Have Been a Night Owl!",
+      "summary": "Scientists scanned dodo skulls and found their brains were not small for their size. The part for seeing was tiny, like in night birds. So dodos may have been active at night, not stupid!"
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-11-fun-1",
-      "source": "Billboard",
-      "time_ago": "Tue, 11 Aug 2026 17:33:51 +0000",
-      "mined_at": "2026-08-11T18:05:40+00:00",
-      "source_published_at": "Tue, 11 Aug 2026 17:33:51 +0000",
-      "image_url": "/article_images/article_09e1f444f1d3.webp",
+      "id": "2026-08-12-fun-1",
+      "source": "MIT News",
+      "time_ago": "Wed, 12 Aug 2026 11:00:00 -0400",
+      "mined_at": "2026-08-12T18:07:55+00:00",
+      "source_published_at": "Wed, 12 Aug 2026 11:00:00 -0400",
+      "image_url": "/article_images/article_8a369925e47e.webp",
       "category": "Fun",
-      "title": "The Rock's Surprising New Gig: Singing a Tender Ballad for His Daughters",
-      "summary": "Dwayne Johnson, famous for action movies and wrestling, just released a sweet song called 'Your Dad' for his three daughters. He co-wrote it with American Idol winner Iam Tongi. The video shows home movies of him with his girls!"
+      "title": "Astronomers Discover a Mind-Bending Hybrid: The 'Black Hole Star'",
+      "summary": "A bizarre red object in the early universe has astronomers stumped. It looks like a star but shines 100 billion times brighter—impossible for normal fusion. The best explanation? A black hole wrapped in a giant gas cocoon."
     },
     {
-      "id": "2026-08-11-fun-2",
-      "source": "Variety",
-      "time_ago": "Tue, 11 Aug 2026 17:28:00 +0000",
-      "mined_at": "2026-08-11T18:05:40+00:00",
-      "source_published_at": "Tue, 11 Aug 2026 17:28:00 +0000",
-      "image_url": "/article_images/article_b1c4e575d007.webp",
+      "id": "2026-08-12-fun-2",
+      "source": "DOGOnews",
+      "time_ago": "",
+      "mined_at": "2026-08-12T18:07:55+00:00",
+      "source_published_at": "",
+      "image_url": "/article_images/article_76cdfe0d9bea.webp",
       "category": "Fun",
-      "title": "Kris Bowers to Score Netflix's 'Steps,' a Cinderella Twist",
-      "summary": "Composer Kris Bowers will score Netflix's animated movie 'Steps,' a twist on Cinderella's stepsisters. It hits Netflix on November 20. The score was recorded at Abbey Road Studios!"
+      "title": "Curtain Call for Tako: The Piano-Playing Octopus Retires",
+      "summary": "After months of viral fame, Tako the octopus has retired from music. His owner, Mattias Krantz, built a custom pull-key piano and a crab elevator to train him. Now, Tako is resting in his tank as he nears the end of his short life."
     },
     {
-      "id": "2026-08-11-fun-3",
-      "source": "NPR Music",
-      "time_ago": "Mon, 10 Aug 2026 13:31:09 -0400",
-      "mined_at": "2026-08-11T18:05:40+00:00",
-      "source_published_at": "Mon, 10 Aug 2026 13:31:09 -0400",
-      "image_url": "/article_images/article_80410bfe21c4.webp",
+      "id": "2026-08-12-fun-3",
+      "source": "Live Science",
+      "time_ago": "Wed, 12 Aug 2026 16:58:55 +0000",
+      "mined_at": "2026-08-12T18:07:55+00:00",
+      "source_published_at": "Wed, 12 Aug 2026 16:58:55 +0000",
+      "image_url": "/article_images/article_e05c3f2a93ca.webp",
       "category": "Fun",
-      "title": "The Forgotten Aretha Franklin Album That Quietly Changed Music",
-      "summary": "In 1976, Aretha Franklin recorded a soundtrack for a little-known film called Sparkle. It flopped on the pop charts but became a cult classic. One track, \"Something He Can Feel,\" hit No. 1 on the R&B chart. Why does this album deserve a second listen?"
+      "title": "Dodo Myth Busted: The 'Dumb' Bird Was Smart and Possibly Nocturnal",
+      "summary": "New brain scans of dodo skulls reveal the bird wasn't stupid—its brain was proportional to its body, like a pigeon's. Even more surprising, its tiny optic lobe suggests it may have been active at night."
     }
   ]
 }
