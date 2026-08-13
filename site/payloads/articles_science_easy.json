@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-12-science-1",
-      "source": "Popular Science",
-      "time_ago": "Wed, 12 Aug 2026 13:26:17 -0400",
-      "mined_at": "2026-08-12T18:07:55+00:00",
-      "source_published_at": "Wed, 12 Aug 2026 13:26:17 -0400",
-      "image_url": "/article_images/article_230188a98fc1.webp",
+      "id": "2026-08-13-science-1",
+      "source": "Space.com",
+      "time_ago": "Thu, 13 Aug 2026 17:00:00 +0000",
+      "mined_at": "2026-08-13T18:26:02+00:00",
+      "source_published_at": "Thu, 13 Aug 2026 17:00:00 +0000",
+      "image_url": "/article_images/article_1684fc9aaa1d.webp",
       "category": "Science",
-      "title": "Ouch! Bear Cub Gets a Paw Full of Porcupine Quills",
-      "summary": "A curious bear cub in Alaska got too close to a porcupine and ended up with a paw full of sharp quills. The cub, named 901jr, was seen on a live bear cam. The quills should fall out on their own."
+      "title": "Snap a Photo of Jupiter from Your Backyard!",
+      "summary": "You can take amazing pictures of planets with a regular telescope and camera. A trick called 'lucky imaging' stacks the sharpest video frames into one crisp photo. No fancy skills needed!"
     },
     {
-      "id": "2026-08-12-science-2",
+      "id": "2026-08-13-science-2",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Wed, 12 Aug 2026 06:15:19 EDT",
+      "mined_at": "2026-08-13T18:26:02+00:00",
+      "source_published_at": "Wed, 12 Aug 2026 06:15:19 EDT",
+      "image_url": "/article_images/article_5b1be97692b8.webp",
+      "category": "Science",
+      "title": "James Webb Spots a Cosmic Lion in Space!",
+      "summary": "The James Webb Space Telescope took a new picture of the Lion Nebula, a giant cloud of gas and dust shaped like a lion's face. It was made by a dying star that's 'cooking' the nebula from inside!"
+    },
+    {
+      "id": "2026-08-13-science-3",
       "source": "Science News Explores",
-      "time_ago": "Wed, 12 Aug 2026 10:30:00 +0000",
-      "mined_at": "2026-08-12T18:07:55+00:00",
-      "source_published_at": "Wed, 12 Aug 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_87729c6667e4.webp",
+      "time_ago": "Thu, 13 Aug 2026 10:30:00 +0000",
+      "mined_at": "2026-08-13T18:26:02+00:00",
+      "source_published_at": "Thu, 13 Aug 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_f868fc079eee.webp",
       "category": "Science",
-      "title": "This Tiny Creature Turns into a Hulk and Eats Its Family!",
-      "summary": "A tiny single-celled creature called Euplotes gigatrox can grow into a giant that eats its smaller siblings. Scientists found it in an aquarium filter. The change happens when there's lots of food, but no one knows exactly why."
-    },
-    {
-      "id": "2026-08-12-science-3",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Wed, 12 Aug 2026 07:17:51 EDT",
-      "mined_at": "2026-08-12T18:07:55+00:00",
-      "source_published_at": "Wed, 12 Aug 2026 07:17:51 EDT",
-      "image_url": "/article_images/article_0396dc33a707.webp",
-      "category": "Science",
-      "title": "Sheep's Wool Could Help Fix Broken Bones!",
-      "summary": "Scientists found that a material made from sheep's wool can help regrow bone. They tested it on rats with skull injuries. The new bone was stronger and more like natural bone than what the current best material makes."
+      "title": "What Is ADHD? It's Not a Bad Thing—It's Just a Different Brain!",
+      "summary": "ADHD is a common way brains work differently, not a 'disorder.' It affects focus and energy, but also links to creativity. About 22 million Americans have it, including 6 million kids."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-12-science-1",
-      "source": "Popular Science",
-      "time_ago": "Wed, 12 Aug 2026 13:26:17 -0400",
-      "mined_at": "2026-08-12T18:07:55+00:00",
-      "source_published_at": "Wed, 12 Aug 2026 13:26:17 -0400",
-      "image_url": "/article_images/article_230188a98fc1.webp",
+      "id": "2026-08-13-science-1",
+      "source": "Space.com",
+      "time_ago": "Thu, 13 Aug 2026 17:00:00 +0000",
+      "mined_at": "2026-08-13T18:26:02+00:00",
+      "source_published_at": "Thu, 13 Aug 2026 17:00:00 +0000",
+      "image_url": "/article_images/article_1684fc9aaa1d.webp",
       "category": "Science",
-      "title": "Curious Katmai Cub Learns a Painful Lesson from a Porcupine",
-      "summary": "A young brown bear in Katmai National Park was caught on a livestream with a paw full of porcupine quills. The cub, 901jr, is the offspring of bear 901, a finalist in last year's Fat Bear Week. The quills should eventually work their way out, but the incident highlights the risks curious cubs face."
+      "title": "Backyard Astrophotography: How to Shoot Planets Like a Pro",
+      "summary": "You can photograph Jupiter's bands and Saturn's rings with a modest telescope and camera. The trick is 'lucky imaging'—recording video and stacking the sharpest frames. No observatory needed!"
     },
     {
-      "id": "2026-08-12-science-2",
+      "id": "2026-08-13-science-2",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Wed, 12 Aug 2026 06:15:19 EDT",
+      "mined_at": "2026-08-13T18:26:02+00:00",
+      "source_published_at": "Wed, 12 Aug 2026 06:15:19 EDT",
+      "image_url": "/article_images/article_5b1be97692b8.webp",
+      "category": "Science",
+      "title": "Webb's Infrared Gaze Reveals a Cosmic Lion Sculpted by a Dying Star",
+      "summary": "The James Webb Space Telescope captured a new view of the Lion Nebula, revealing hidden dust and gas. This cosmic lion was created by a dying star whose white dwarf core 'cooks' the nebula from within."
+    },
+    {
+      "id": "2026-08-13-science-3",
       "source": "Science News Explores",
-      "time_ago": "Wed, 12 Aug 2026 10:30:00 +0000",
-      "mined_at": "2026-08-12T18:07:55+00:00",
-      "source_published_at": "Wed, 12 Aug 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_87729c6667e4.webp",
+      "time_ago": "Thu, 13 Aug 2026 10:30:00 +0000",
+      "mined_at": "2026-08-13T18:26:02+00:00",
+      "source_published_at": "Thu, 13 Aug 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_f868fc079eee.webp",
       "category": "Science",
-      "title": "Meet the Microbe That Hulks Out and Turns Cannibal",
-      "summary": "A single-celled protist named Euplotes gigatrox can transform into a supergiant that devours its own kind. Discovered in an aquarium filter in Curaçao, the microbe's transformation is triggered by abundant food. Researchers hope it offers clues to the evolution of complex life."
-    },
-    {
-      "id": "2026-08-12-science-3",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Wed, 12 Aug 2026 07:17:51 EDT",
-      "mined_at": "2026-08-12T18:07:55+00:00",
-      "source_published_at": "Wed, 12 Aug 2026 07:17:51 EDT",
-      "image_url": "/article_images/article_0396dc33a707.webp",
-      "category": "Science",
-      "title": "Wool: The Surprising New Material for Bone Repair",
-      "summary": "Researchers at King's College London have transformed sheep's wool into a scaffold that helps regrow bone. In rat studies, the keratin-based material produced bone that was more organized and structurally sound than collagen, the current gold standard. Wool is also a sustainable, often wasted resource."
+      "title": "ADHD: Not a Disorder, But a Different Way of Thinking",
+      "summary": "ADHD affects how people focus and learn, but it's a natural brain variation, not a flaw. About 22 million Americans have it, including 6 million kids. It's linked to creativity and even helped ancient foragers!"
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-12-news-1",
+      "id": "2026-08-13-news-1",
       "source": "BBC News",
-      "time_ago": "Tue, 11 Aug 2026 16:29:28 GMT",
-      "mined_at": "2026-08-12T18:07:55+00:00",
-      "source_published_at": "Tue, 11 Aug 2026 16:29:28 GMT",
-      "image_url": "/article_images/article_6676d020a089.webp",
+      "time_ago": "Thu, 13 Aug 2026 16:49:28 GMT",
+      "mined_at": "2026-08-13T18:26:02+00:00",
+      "source_published_at": "Thu, 13 Aug 2026 16:49:28 GMT",
+      "image_url": "/article_images/article_3f2186f3c022.webp",
       "category": "News",
-      "title": "Eclipse Glasses Sold Out? Here's How to Watch Safely Without Them",
-      "summary": "Eclipse glasses are sold out, but you can still watch Wednesday's solar eclipse using a colander or a homemade pinhole projector. Here's how to do it safely."
+      "title": "Record University Acceptances, But Fewer First Choices: The 2026 Results Day Story",
+      "summary": "A-level results day 2026 brought a record number of UK 18-year-olds into university, yet the first-choice acceptance rate dipped. Financial pressures loom for both students and institutions."
     },
     {
-      "id": "2026-08-12-news-2",
-      "source": "Al Jazeera",
-      "time_ago": "Wed, 12 Aug 2026 16:23:28 +0000",
-      "mined_at": "2026-08-12T18:07:55+00:00",
-      "source_published_at": "Wed, 12 Aug 2026 16:23:28 +0000",
-      "image_url": "/article_images/article_c096bc7ff77f.webp",
-      "category": "News",
-      "title": "Trump Says Pro-Israel Lobby's Power Is Fading — and Takes a Jab at Schumer",
-      "summary": "In a recent interview, President Trump claimed pro-Israel lobbying groups have lost their grip on Congress, and he made controversial remarks about Senator Chuck Schumer, calling him 'virtually a Palestinian.'"
-    },
-    {
-      "id": "2026-08-12-news-3",
+      "id": "2026-08-13-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Wed, 12 Aug 2026 11:24:43 -0400",
-      "mined_at": "2026-08-12T18:07:55+00:00",
-      "source_published_at": "Wed, 12 Aug 2026 11:24:43 -0400",
-      "image_url": "/article_images/article_4748d58c65e7.webp",
+      "time_ago": "Thu, 13 Aug 2026 13:46:48 -0400",
+      "mined_at": "2026-08-13T18:26:02+00:00",
+      "source_published_at": "Thu, 13 Aug 2026 13:46:48 -0400",
+      "image_url": "/article_images/article_441e89f7f3f3.webp",
       "category": "News",
-      "title": "Progressive Peggy Flanagan Wins Minnesota Senate Primary, Beating Establishment Candidate",
-      "summary": "Lt. Gov. Peggy Flanagan defeated centrist Rep. Angie Craig in Minnesota's Democratic Senate primary, a win for progressives. She'll face Republican Michele Tafoya in November."
+      "title": "Tariff Evasion Costs US Billions: White House Blames Transshipment",
+      "summary": "The Trump administration claims countries are dodging US tariffs by transshipping goods through third nations, costing up to $26 billion annually. China is singled out, with new AI tools deployed to catch cheats."
+    },
+    {
+      "id": "2026-08-13-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Thu, 13 Aug 2026 13:49:14 -0400",
+      "mined_at": "2026-08-13T18:26:02+00:00",
+      "source_published_at": "Thu, 13 Aug 2026 13:49:14 -0400",
+      "image_url": "/article_images/article_4bb166bfa8d8.webp",
+      "category": "News",
+      "title": "Record Heat Bakes UK and Europe: Hospitals, Wildfires, and Drought",
+      "summary": "The UK hit 38.1°C on Thursday, its hottest day of 2026, as Europe endures its fifth heat wave. Nurses are collapsing, wildfires rage, and a rare drought order is pending."
     }
   ]
 }

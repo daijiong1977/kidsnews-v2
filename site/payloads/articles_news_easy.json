@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-12-news-1",
+      "id": "2026-08-13-news-1",
       "source": "BBC News",
-      "time_ago": "Tue, 11 Aug 2026 16:29:28 GMT",
-      "mined_at": "2026-08-12T18:07:55+00:00",
-      "source_published_at": "Tue, 11 Aug 2026 16:29:28 GMT",
-      "image_url": "/article_images/article_6676d020a089.webp",
+      "time_ago": "Thu, 13 Aug 2026 16:49:28 GMT",
+      "mined_at": "2026-08-13T18:26:02+00:00",
+      "source_published_at": "Thu, 13 Aug 2026 16:49:28 GMT",
+      "image_url": "/article_images/article_3f2186f3c022.webp",
       "category": "News",
-      "title": "No Eclipse Glasses? Try a Colander!",
-      "summary": "Can't find eclipse glasses? You can use a colander or a pinhole projector to watch Wednesday's eclipse safely. Here's how!"
+      "title": "A-Level Results Are In! Here's What's Different This Year",
+      "summary": "Big news for UK teens: exam results just dropped, and more 18-year-olds than ever got into university. But fewer got their first choice. Here's what you need to know."
     },
     {
-      "id": "2026-08-12-news-2",
-      "source": "Al Jazeera",
-      "time_ago": "Wed, 12 Aug 2026 16:23:28 +0000",
-      "mined_at": "2026-08-12T18:07:55+00:00",
-      "source_published_at": "Wed, 12 Aug 2026 16:23:28 +0000",
-      "image_url": "/article_images/article_c096bc7ff77f.webp",
-      "category": "News",
-      "title": "Trump Says Pro-Israel Groups Have Less Power in Congress",
-      "summary": "President Trump says pro-Israel lobbying groups don't have as much power in Congress as they used to. He also made comments about Senator Schumer that upset many people."
-    },
-    {
-      "id": "2026-08-12-news-3",
+      "id": "2026-08-13-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Wed, 12 Aug 2026 11:24:43 -0400",
-      "mined_at": "2026-08-12T18:07:55+00:00",
-      "source_published_at": "Wed, 12 Aug 2026 11:24:43 -0400",
-      "image_url": "/article_images/article_4748d58c65e7.webp",
+      "time_ago": "Thu, 13 Aug 2026 13:46:48 -0400",
+      "mined_at": "2026-08-13T18:26:02+00:00",
+      "source_published_at": "Thu, 13 Aug 2026 13:46:48 -0400",
+      "image_url": "/article_images/article_441e89f7f3f3.webp",
       "category": "News",
-      "title": "Peggy Flanagan Wins Big in Minnesota Primary",
-      "summary": "Peggy Flanagan won the Democratic primary for Senate in Minnesota, beating a more moderate candidate. She's a progressive who wants to fight corporate influence."
+      "title": "White House Says Countries Are Sneaking Goods Past Tariffs",
+      "summary": "The Trump White House says countries are dodging US tariffs by shipping goods through other nations, costing up to $26 billion a year. China is the biggest offender, they claim."
+    },
+    {
+      "id": "2026-08-13-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Thu, 13 Aug 2026 13:49:14 -0400",
+      "mined_at": "2026-08-13T18:26:02+00:00",
+      "source_published_at": "Thu, 13 Aug 2026 13:49:14 -0400",
+      "image_url": "/article_images/article_4bb166bfa8d8.webp",
+      "category": "News",
+      "title": "UK Hits Hottest Day of the Year at 38.1°C!",
+      "summary": "The UK just had its hottest day of 2026, reaching 38.1°C in London. Nurses are collapsing in hospitals without AC, and wildfires are burning. Europe is sweltering."
     }
   ]
 }
