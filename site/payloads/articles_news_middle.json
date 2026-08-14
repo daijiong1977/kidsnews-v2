@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-13-news-1",
+      "id": "2026-08-14-news-1",
       "source": "BBC News",
-      "time_ago": "Thu, 13 Aug 2026 16:49:28 GMT",
-      "mined_at": "2026-08-13T18:26:02+00:00",
-      "source_published_at": "Thu, 13 Aug 2026 16:49:28 GMT",
-      "image_url": "/article_images/article_3f2186f3c022.webp",
+      "time_ago": "Fri, 14 Aug 2026 14:50:02 GMT",
+      "mined_at": "2026-08-14T18:02:58+00:00",
+      "source_published_at": "Fri, 14 Aug 2026 14:50:02 GMT",
+      "image_url": "/article_images/article_e9a89241b9eb.webp",
       "category": "News",
-      "title": "Record University Acceptances, But Fewer First Choices: The 2026 Results Day Story",
-      "summary": "A-level results day 2026 brought a record number of UK 18-year-olds into university, yet the first-choice acceptance rate dipped. Financial pressures loom for both students and institutions."
+      "title": "Farage Wins Clacton By-Election, Then Vanishes: What's He Hiding?",
+      "summary": "Nigel Farage won the Clacton by-election but skipped the declaration, citing a police warning about disruption. His absence has fueled speculation that he's dodging questions about Reform UK's finances, which triggered the election in the first place."
     },
     {
-      "id": "2026-08-13-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Thu, 13 Aug 2026 13:46:48 -0400",
-      "mined_at": "2026-08-13T18:26:02+00:00",
-      "source_published_at": "Thu, 13 Aug 2026 13:46:48 -0400",
-      "image_url": "/article_images/article_441e89f7f3f3.webp",
+      "id": "2026-08-14-news-2",
+      "source": "NPR World",
+      "time_ago": "Fri, 14 Aug 2026 12:54:58 -0400",
+      "mined_at": "2026-08-14T18:02:58+00:00",
+      "source_published_at": "Fri, 14 Aug 2026 12:54:58 -0400",
+      "image_url": "/article_images/article_6342117534f3.webp",
       "category": "News",
-      "title": "Tariff Evasion Costs US Billions: White House Blames Transshipment",
-      "summary": "The Trump administration claims countries are dodging US tariffs by transshipping goods through third nations, costing up to $26 billion annually. China is singled out, with new AI tools deployed to catch cheats."
+      "title": "Speed Cameras Spread to More States, and Drivers Are Fighting Back",
+      "summary": "As speed cameras proliferate in school zones across the U.S., drivers are pushing back, calling them a 'money grab.' Safety advocates say they save lives, but critics argue they're an illegal tax—and the Trump administration has sided with the critics."
     },
     {
-      "id": "2026-08-13-news-3",
-      "source": "PBS NewsHour",
-      "time_ago": "Thu, 13 Aug 2026 13:49:14 -0400",
-      "mined_at": "2026-08-13T18:26:02+00:00",
-      "source_published_at": "Thu, 13 Aug 2026 13:49:14 -0400",
-      "image_url": "/article_images/article_4bb166bfa8d8.webp",
+      "id": "2026-08-14-news-3",
+      "source": "BBC News",
+      "time_ago": "Fri, 14 Aug 2026 16:49:23 GMT",
+      "mined_at": "2026-08-14T18:02:58+00:00",
+      "source_published_at": "Fri, 14 Aug 2026 16:49:23 GMT",
+      "image_url": "/article_images/article_85b52537fb1c.webp",
       "category": "News",
-      "title": "Record Heat Bakes UK and Europe: Hospitals, Wildfires, and Drought",
-      "summary": "The UK hit 38.1°C on Thursday, its hottest day of 2026, as Europe endures its fifth heat wave. Nurses are collapsing, wildfires rage, and a rare drought order is pending."
+      "title": "UK Bans Disposable BBQs as Wildfire Risk Soars During Heatwave",
+      "summary": "The UK government has temporarily banned the sale of disposable barbecues in England, Scotland, and Wales, citing a 'significant risk to the public' as drought and heatwave conditions fuel wildfires. The move comes as the country matches last year's record of 1,017 wildfires."
     }
   ]
 }

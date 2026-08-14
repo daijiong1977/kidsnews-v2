@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-13-science-1",
+      "id": "2026-08-14-science-1",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Thu, 13 Aug 2026 05:53:05 EDT",
+      "mined_at": "2026-08-14T18:02:58+00:00",
+      "source_published_at": "Thu, 13 Aug 2026 05:53:05 EDT",
+      "image_url": "/article_images/article_17849e8f6bd4.webp",
+      "category": "Science",
+      "title": "A 236-Million-Year-Old Fossil Could Rewrite the Story of Mammalian Birth",
+      "summary": "A tiny growth line in a 236-million-year-old fossil suggests live birth evolved 90 million years earlier than we thought. Meet Chiniquodon, the ancient ancestor that might have been a live-birth pioneer."
+    },
+    {
+      "id": "2026-08-14-science-2",
       "source": "Space.com",
-      "time_ago": "Thu, 13 Aug 2026 17:00:00 +0000",
-      "mined_at": "2026-08-13T18:26:02+00:00",
-      "source_published_at": "Thu, 13 Aug 2026 17:00:00 +0000",
-      "image_url": "/article_images/article_1684fc9aaa1d.webp",
+      "time_ago": "Fri, 14 Aug 2026 17:00:00 +0000",
+      "mined_at": "2026-08-14T18:02:58+00:00",
+      "source_published_at": "Fri, 14 Aug 2026 17:00:00 +0000",
+      "image_url": "/article_images/article_4457145660bc.webp",
       "category": "Science",
-      "title": "Backyard Astrophotography: How to Shoot Planets Like a Pro",
-      "summary": "You can photograph Jupiter's bands and Saturn's rings with a modest telescope and camera. The trick is 'lucky imaging'—recording video and stacking the sharpest frames. No observatory needed!"
+      "title": "Space Force Pays Rocket Lab $397 Million for 'Flatellites' to Track Threats",
+      "summary": "Rocket Lab lands a $397 million Space Force contract to build flat satellites that track enemy planes. The 'Flatellites' will launch on the new Neutron rocket."
     },
     {
-      "id": "2026-08-13-science-2",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Wed, 12 Aug 2026 06:15:19 EDT",
-      "mined_at": "2026-08-13T18:26:02+00:00",
-      "source_published_at": "Wed, 12 Aug 2026 06:15:19 EDT",
-      "image_url": "/article_images/article_5b1be97692b8.webp",
+      "id": "2026-08-14-science-3",
+      "source": "Space.com",
+      "time_ago": "Fri, 14 Aug 2026 16:00:00 +0000",
+      "mined_at": "2026-08-14T18:02:58+00:00",
+      "source_published_at": "Fri, 14 Aug 2026 16:00:00 +0000",
+      "image_url": "/article_images/article_0bdfe833e9bb.webp",
       "category": "Science",
-      "title": "Webb's Infrared Gaze Reveals a Cosmic Lion Sculpted by a Dying Star",
-      "summary": "The James Webb Space Telescope captured a new view of the Lion Nebula, revealing hidden dust and gas. This cosmic lion was created by a dying star whose white dwarf core 'cooks' the nebula from within."
-    },
-    {
-      "id": "2026-08-13-science-3",
-      "source": "Science News Explores",
-      "time_ago": "Thu, 13 Aug 2026 10:30:00 +0000",
-      "mined_at": "2026-08-13T18:26:02+00:00",
-      "source_published_at": "Thu, 13 Aug 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_f868fc079eee.webp",
-      "category": "Science",
-      "title": "ADHD: Not a Disorder, But a Different Way of Thinking",
-      "summary": "ADHD affects how people focus and learn, but it's a natural brain variation, not a flaw. About 22 million Americans have it, including 6 million kids. It's linked to creativity and even helped ancient foragers!"
+      "title": "Can Venus Cast a Shadow? Here's How to See It for Yourself",
+      "summary": "Venus can cast a shadow, but it's faint and needs a dark sky. Here's how to catch it in September, plus other night-sky treats this week."
     }
   ]
 }

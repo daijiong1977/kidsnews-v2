@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-13-fun-1",
-      "source": "Polygon",
-      "time_ago": "Thu, 13 Aug 2026 18:01:12 GMT",
-      "mined_at": "2026-08-13T18:26:02+00:00",
-      "source_published_at": "Thu, 13 Aug 2026 18:01:12 GMT",
-      "image_url": "/article_images/article_c24aa6e93fa7.webp",
+      "id": "2026-08-14-fun-1",
+      "source": "DOGOnews",
+      "time_ago": "",
+      "mined_at": "2026-08-14T18:02:58+00:00",
+      "source_published_at": "",
+      "image_url": "/article_images/article_f1d4472d41f8.webp",
       "category": "Fun",
-      "title": "Fortnite's Sprite Spree Week: A Last-Chance Bonanza for Collectors",
-      "summary": "Fortnite is rolling out Sprite Spree Week from Aug. 15-19, with boosted spawn rates for Galaxy, Holo, Cube, and Gem sprites. Players also get a Lucky Sprite Locator, double sprite XP, and no sprite dust cost. It's a final push to complete your collection before Season 4."
+      "title": "The Perseid Meteor Shower Peaks This Week—Here's How to Watch",
+      "summary": "The Perseid meteor shower peaks August 12-13, with up to 100 meteors per hour. This year's new moon means darker skies. Grab a blanket and look up!"
     },
     {
-      "id": "2026-08-13-fun-2",
+      "id": "2026-08-14-fun-2",
+      "source": "Live Science",
+      "time_ago": "Fri, 14 Aug 2026 13:15:00 +0000",
+      "mined_at": "2026-08-14T18:02:58+00:00",
+      "source_published_at": "Fri, 14 Aug 2026 13:15:00 +0000",
+      "image_url": "/article_images/article_cbf3a909a7ee.webp",
+      "category": "Fun",
+      "title": "Can Singing Cure a Weird Burping Disorder? New Study Says Maybe",
+      "summary": "A rare disorder causing excessive burping might be helped by singing therapy, a new study suggests. Singing reduced burping more than breathing exercises, but experts question the findings."
+    },
+    {
+      "id": "2026-08-14-fun-3",
       "source": "BBC Tennis",
-      "time_ago": "Thu, 13 Aug 2026 07:24:28 GMT",
-      "mined_at": "2026-08-13T18:26:02+00:00",
-      "source_published_at": "Thu, 13 Aug 2026 07:24:28 GMT",
-      "image_url": "/article_images/article_9a87f9390e9c.webp",
+      "time_ago": "Fri, 14 Aug 2026 07:16:14 GMT",
+      "mined_at": "2026-08-14T18:02:58+00:00",
+      "source_published_at": "Fri, 14 Aug 2026 07:16:14 GMT",
+      "image_url": "/article_images/article_e7cea1faa7eb.webp",
       "category": "Fun",
-      "title": "Swiatek Battles into Canadian Open Final, Calls Season Her 'Toughest'",
-      "summary": "Iga Swiatek overcame Elina Svitolina in three sets to reach her first WTA final in a year at the Canadian Open. She'll face Elena Rybakina, who also rallied from a set down. Swiatek called this season the toughest of her life, making the victory especially sweet."
-    },
-    {
-      "id": "2026-08-13-fun-3",
-      "source": "Polygon",
-      "time_ago": "Thu, 13 Aug 2026 17:46:04 GMT",
-      "mined_at": "2026-08-13T18:26:02+00:00",
-      "source_published_at": "Thu, 13 Aug 2026 17:46:04 GMT",
-      "image_url": "/article_images/article_2440a475e541.webp",
-      "category": "Fun",
-      "title": "WIT Studio Teases New Attack on Titan Project: What Could It Be?",
-      "summary": "WIT Studio, the original animation studio behind Attack on Titan, has announced a mysterious new project reveal on Aug. 20. The cryptic post features Eren and friends, hinting at a 'special dinner.' Could it be a prequel or something else entirely?"
+      "title": "Swiatek Triumphs in Toronto, Securing First Title of a Challenging Season",
+      "summary": "Iga Swiatek defeated Elena Rybakina 6-2 6-3 in the Canadian Open final, claiming her first title of the season and 26th career title. It's a comeback after a tough year."
     }
   ]
 }

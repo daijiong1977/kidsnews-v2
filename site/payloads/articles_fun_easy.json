@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-13-fun-1",
-      "source": "Polygon",
-      "time_ago": "Thu, 13 Aug 2026 18:01:12 GMT",
-      "mined_at": "2026-08-13T18:26:02+00:00",
-      "source_published_at": "Thu, 13 Aug 2026 18:01:12 GMT",
-      "image_url": "/article_images/article_c24aa6e93fa7.webp",
+      "id": "2026-08-14-fun-1",
+      "source": "DOGOnews",
+      "time_ago": "",
+      "mined_at": "2026-08-14T18:02:58+00:00",
+      "source_published_at": "",
+      "image_url": "/article_images/article_f1d4472d41f8.webp",
       "category": "Fun",
-      "title": "Fortnite's Sprite Spree Week: Catch 'Em All Before the Season Ends!",
-      "summary": "Fortnite is boosting sprite spawns for a whole week starting Aug. 15! Galaxy, Holo, Cube, and Gem sprites will each get a day of increased odds. Plus, you'll get a Lucky Sprite Locator and double XP. Don't miss your chance to finish your collection!"
+      "title": "Catch the Perseid Meteor Shower: Nature's Fireworks Show!",
+      "summary": "The Perseid meteor shower peaks August 12-13! You could see up to 100 shooting stars an hour. Find a dark spot, look up, and make a wish!"
     },
     {
-      "id": "2026-08-13-fun-2",
+      "id": "2026-08-14-fun-2",
+      "source": "Live Science",
+      "time_ago": "Fri, 14 Aug 2026 13:15:00 +0000",
+      "mined_at": "2026-08-14T18:02:58+00:00",
+      "source_published_at": "Fri, 14 Aug 2026 13:15:00 +0000",
+      "image_url": "/article_images/article_cbf3a909a7ee.webp",
+      "category": "Fun",
+      "title": "Singing Could Help Stop Embarrassing Burps, New Study Says",
+      "summary": "A rare burping disorder might be helped by singing! A new study found that singing therapy reduced burping more than breathing exercises. But some experts aren't sure."
+    },
+    {
+      "id": "2026-08-14-fun-3",
       "source": "BBC Tennis",
-      "time_ago": "Thu, 13 Aug 2026 07:24:28 GMT",
-      "mined_at": "2026-08-13T18:26:02+00:00",
-      "source_published_at": "Thu, 13 Aug 2026 07:24:28 GMT",
-      "image_url": "/article_images/article_9a87f9390e9c.webp",
+      "time_ago": "Fri, 14 Aug 2026 07:16:14 GMT",
+      "mined_at": "2026-08-14T18:02:58+00:00",
+      "source_published_at": "Fri, 14 Aug 2026 07:16:14 GMT",
+      "image_url": "/article_images/article_e7cea1faa7eb.webp",
       "category": "Fun",
-      "title": "Swiatek Reaches First Final of Her 'Toughest Season'!",
-      "summary": "Iga Swiatek fought hard to beat Elina Svitolina and reach the Canadian Open final. She'll face Elena Rybakina, who also won a tough three-set match. It's Swiatek's first final in a year—and she says this season has been her toughest ever."
-    },
-    {
-      "id": "2026-08-13-fun-3",
-      "source": "Polygon",
-      "time_ago": "Thu, 13 Aug 2026 17:46:04 GMT",
-      "mined_at": "2026-08-13T18:26:02+00:00",
-      "source_published_at": "Thu, 13 Aug 2026 17:46:04 GMT",
-      "image_url": "/article_images/article_2440a475e541.webp",
-      "category": "Fun",
-      "title": "Attack on Titan Is Coming Back?! WIT Studio Teases a New Project!",
-      "summary": "WIT Studio just teased a new Attack on Titan announcement coming Aug. 20! The cryptic post shows Eren, Armin, Mikasa, and others. Could it be a prequel? We'll find out next week!"
+      "title": "Swiatek Wins First Title of the Season at Canadian Open",
+      "summary": "Iga Swiatek beat Elena Rybakina 6-2 6-3 in Toronto to win her first title of the season. It was her 26th career title and a big comeback after a tough year."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-13-news-1",
+      "id": "2026-08-14-news-1",
       "source": "BBC News",
-      "time_ago": "Thu, 13 Aug 2026 16:49:28 GMT",
-      "mined_at": "2026-08-13T18:26:02+00:00",
-      "source_published_at": "Thu, 13 Aug 2026 16:49:28 GMT",
-      "image_url": "/article_images/article_3f2186f3c022.webp",
+      "time_ago": "Fri, 14 Aug 2026 14:50:02 GMT",
+      "mined_at": "2026-08-14T18:02:58+00:00",
+      "source_published_at": "Fri, 14 Aug 2026 14:50:02 GMT",
+      "image_url": "/article_images/article_e9a89241b9eb.webp",
       "category": "News",
-      "title": "A-Level Results Are In! Here's What's Different This Year",
-      "summary": "Big news for UK teens: exam results just dropped, and more 18-year-olds than ever got into university. But fewer got their first choice. Here's what you need to know."
+      "title": "Nigel Farage Skips His Own Victory Party After Winning By-Election",
+      "summary": "Nigel Farage won an election in Clacton, England, but he didn't show up to celebrate. He said police warned him about a plan to disrupt the event. Some people think he's avoiding questions about his party's money problems."
     },
     {
-      "id": "2026-08-13-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Thu, 13 Aug 2026 13:46:48 -0400",
-      "mined_at": "2026-08-13T18:26:02+00:00",
-      "source_published_at": "Thu, 13 Aug 2026 13:46:48 -0400",
-      "image_url": "/article_images/article_441e89f7f3f3.webp",
+      "id": "2026-08-14-news-2",
+      "source": "NPR World",
+      "time_ago": "Fri, 14 Aug 2026 12:54:58 -0400",
+      "mined_at": "2026-08-14T18:02:58+00:00",
+      "source_published_at": "Fri, 14 Aug 2026 12:54:58 -0400",
+      "image_url": "/article_images/article_6342117534f3.webp",
       "category": "News",
-      "title": "White House Says Countries Are Sneaking Goods Past Tariffs",
-      "summary": "The Trump White House says countries are dodging US tariffs by shipping goods through other nations, costing up to $26 billion a year. China is the biggest offender, they claim."
+      "title": "Speed Cameras Are Popping Up Everywhere, and Drivers Are Not Happy",
+      "summary": "More states are putting speed cameras near schools to make roads safer. But many drivers say the cameras are just a way to make money, especially when they give tickets during school hours when kids are inside."
     },
     {
-      "id": "2026-08-13-news-3",
-      "source": "PBS NewsHour",
-      "time_ago": "Thu, 13 Aug 2026 13:49:14 -0400",
-      "mined_at": "2026-08-13T18:26:02+00:00",
-      "source_published_at": "Thu, 13 Aug 2026 13:49:14 -0400",
-      "image_url": "/article_images/article_4bb166bfa8d8.webp",
+      "id": "2026-08-14-news-3",
+      "source": "BBC News",
+      "time_ago": "Fri, 14 Aug 2026 16:49:23 GMT",
+      "mined_at": "2026-08-14T18:02:58+00:00",
+      "source_published_at": "Fri, 14 Aug 2026 16:49:23 GMT",
+      "image_url": "/article_images/article_85b52537fb1c.webp",
       "category": "News",
-      "title": "UK Hits Hottest Day of the Year at 38.1°C!",
-      "summary": "The UK just had its hottest day of 2026, reaching 38.1°C in London. Nurses are collapsing in hospitals without AC, and wildfires are burning. Europe is sweltering."
+      "title": "UK Bans Disposable BBQs Because They're Starting Wildfires",
+      "summary": "The UK has temporarily banned selling disposable barbecues because they've caused many wildfires during the hot, dry summer. The government says it's too risky, and the prime minister says the country is like a 'tinderbox.'"
     }
   ]
 }
