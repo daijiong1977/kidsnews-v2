@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-14-news-1",
-      "source": "BBC News",
-      "time_ago": "Fri, 14 Aug 2026 14:50:02 GMT",
-      "mined_at": "2026-08-14T18:02:58+00:00",
-      "source_published_at": "Fri, 14 Aug 2026 14:50:02 GMT",
-      "image_url": "/article_images/article_e9a89241b9eb.webp",
-      "category": "News",
-      "title": "Farage Wins Clacton By-Election, Then Vanishes: What's He Hiding?",
-      "summary": "Nigel Farage won the Clacton by-election but skipped the declaration, citing a police warning about disruption. His absence has fueled speculation that he's dodging questions about Reform UK's finances, which triggered the election in the first place."
-    },
-    {
-      "id": "2026-08-14-news-2",
+      "id": "2026-08-15-news-1",
       "source": "NPR World",
-      "time_ago": "Fri, 14 Aug 2026 12:54:58 -0400",
-      "mined_at": "2026-08-14T18:02:58+00:00",
-      "source_published_at": "Fri, 14 Aug 2026 12:54:58 -0400",
-      "image_url": "/article_images/article_6342117534f3.webp",
+      "time_ago": "Sat, 15 Aug 2026 06:10:00 -0400",
+      "mined_at": "2026-08-15T17:56:31+00:00",
+      "source_published_at": "Sat, 15 Aug 2026 06:10:00 -0400",
+      "image_url": "/article_images/article_c77dc8ba5164.webp",
       "category": "News",
-      "title": "Speed Cameras Spread to More States, and Drivers Are Fighting Back",
-      "summary": "As speed cameras proliferate in school zones across the U.S., drivers are pushing back, calling them a 'money grab.' Safety advocates say they save lives, but critics argue they're an illegal tax—and the Trump administration has sided with the critics."
+      "title": "Venezuelan Soccer Pro Detained for Months Despite Pending Immigration Cases",
+      "summary": "Homero Calderón, a professional soccer player from Venezuela, has been in ICE detention for nearly six months after a traffic stop. He had two pending immigration applications, but that didn't protect him from arrest. His case highlights a massive backlog of 11.3 million pending cases at USCIS."
     },
     {
-      "id": "2026-08-14-news-3",
-      "source": "BBC News",
-      "time_ago": "Fri, 14 Aug 2026 16:49:23 GMT",
-      "mined_at": "2026-08-14T18:02:58+00:00",
-      "source_published_at": "Fri, 14 Aug 2026 16:49:23 GMT",
-      "image_url": "/article_images/article_85b52537fb1c.webp",
+      "id": "2026-08-15-news-2",
+      "source": "Al Jazeera",
+      "time_ago": "Sat, 15 Aug 2026 16:39:52 +0000",
+      "mined_at": "2026-08-15T17:56:31+00:00",
+      "source_published_at": "Sat, 15 Aug 2026 16:39:52 +0000",
+      "image_url": "/article_images/article_b2f1a0ee07e1.webp",
       "category": "News",
-      "title": "UK Bans Disposable BBQs as Wildfire Risk Soars During Heatwave",
-      "summary": "The UK government has temporarily banned the sale of disposable barbecues in England, Scotland, and Wales, citing a 'significant risk to the public' as drought and heatwave conditions fuel wildfires. The move comes as the country matches last year's record of 1,017 wildfires."
+      "title": "Erdogan Says Egypt Could Join New Turkey-Saudi-Pakistan Defense Pact",
+      "summary": "Turkish President Erdogan says Egypt could join the newly signed Mecca Joint Defence Agreement, a pact between Turkey, Saudi Arabia, and Pakistan that treats an attack on one as an attack on all. The deal, signed last Friday, is open to more members, Erdogan said in an exclusive interview."
+    },
+    {
+      "id": "2026-08-15-news-3",
+      "source": "NPR World",
+      "time_ago": "Sat, 15 Aug 2026 13:25:34 -0400",
+      "mined_at": "2026-08-15T17:56:31+00:00",
+      "source_published_at": "Sat, 15 Aug 2026 13:25:34 -0400",
+      "image_url": "/article_images/article_667086780709.webp",
+      "category": "News",
+      "title": "Trump Administration Wants Private Companies to Hack Foreign Cybercriminals",
+      "summary": "A new presidential memo could authorize U.S. businesses to hack foreign cybercriminals—a job traditionally done by government agencies. The plan would let companies disrupt networks and gather intelligence, but legal details remain unclear. Some experts call it a dramatic departure from current practice."
     }
   ]
 }

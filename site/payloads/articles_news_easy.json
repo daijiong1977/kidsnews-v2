@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-14-news-1",
-      "source": "BBC News",
-      "time_ago": "Fri, 14 Aug 2026 14:50:02 GMT",
-      "mined_at": "2026-08-14T18:02:58+00:00",
-      "source_published_at": "Fri, 14 Aug 2026 14:50:02 GMT",
-      "image_url": "/article_images/article_e9a89241b9eb.webp",
-      "category": "News",
-      "title": "Nigel Farage Skips His Own Victory Party After Winning By-Election",
-      "summary": "Nigel Farage won an election in Clacton, England, but he didn't show up to celebrate. He said police warned him about a plan to disrupt the event. Some people think he's avoiding questions about his party's money problems."
-    },
-    {
-      "id": "2026-08-14-news-2",
+      "id": "2026-08-15-news-1",
       "source": "NPR World",
-      "time_ago": "Fri, 14 Aug 2026 12:54:58 -0400",
-      "mined_at": "2026-08-14T18:02:58+00:00",
-      "source_published_at": "Fri, 14 Aug 2026 12:54:58 -0400",
-      "image_url": "/article_images/article_6342117534f3.webp",
+      "time_ago": "Sat, 15 Aug 2026 06:10:00 -0400",
+      "mined_at": "2026-08-15T17:56:31+00:00",
+      "source_published_at": "Sat, 15 Aug 2026 06:10:00 -0400",
+      "image_url": "/article_images/article_c77dc8ba5164.webp",
       "category": "News",
-      "title": "Speed Cameras Are Popping Up Everywhere, and Drivers Are Not Happy",
-      "summary": "More states are putting speed cameras near schools to make roads safer. But many drivers say the cameras are just a way to make money, especially when they give tickets during school hours when kids are inside."
+      "title": "A Soccer Star Is Stuck in Jail for a Speeding Ticket?",
+      "summary": "Homero Calderón, a pro soccer player from Venezuela, has been locked up in an immigration jail for five months. He was pulled over for speeding and arrested for driving without a Florida license. His family says he's very sad and missed his daughter's first birthday."
     },
     {
-      "id": "2026-08-14-news-3",
-      "source": "BBC News",
-      "time_ago": "Fri, 14 Aug 2026 16:49:23 GMT",
-      "mined_at": "2026-08-14T18:02:58+00:00",
-      "source_published_at": "Fri, 14 Aug 2026 16:49:23 GMT",
-      "image_url": "/article_images/article_85b52537fb1c.webp",
+      "id": "2026-08-15-news-2",
+      "source": "Al Jazeera",
+      "time_ago": "Sat, 15 Aug 2026 16:39:52 +0000",
+      "mined_at": "2026-08-15T17:56:31+00:00",
+      "source_published_at": "Sat, 15 Aug 2026 16:39:52 +0000",
+      "image_url": "/article_images/article_b2f1a0ee07e1.webp",
       "category": "News",
-      "title": "UK Bans Disposable BBQs Because They're Starting Wildfires",
-      "summary": "The UK has temporarily banned selling disposable barbecues because they've caused many wildfires during the hot, dry summer. The government says it's too risky, and the prime minister says the country is like a 'tinderbox.'"
+      "title": "A New 'Super Team' of Countries Could Be Forming!",
+      "summary": "Turkey's president says Egypt might join a new defense pact with Turkey, Saudi Arabia, and Pakistan. The deal, called the Mecca Pact, says an attack on one is an attack on all—like a superhero team-up! It was signed last Friday in Mecca."
+    },
+    {
+      "id": "2026-08-15-news-3",
+      "source": "NPR World",
+      "time_ago": "Sat, 15 Aug 2026 13:25:34 -0400",
+      "mined_at": "2026-08-15T17:56:31+00:00",
+      "source_published_at": "Sat, 15 Aug 2026 13:25:34 -0400",
+      "image_url": "/article_images/article_667086780709.webp",
+      "category": "News",
+      "title": "Should Companies Be Allowed to Hack the Hackers?",
+      "summary": "President Trump wants to let private companies hack foreign cybercriminals—something only the government used to do. The plan would let businesses disrupt hackers and gather info, but many details are still unclear. Some experts worry it's a bad idea."
     }
   ]
 }

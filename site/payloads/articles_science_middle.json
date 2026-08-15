@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-14-science-1",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Thu, 13 Aug 2026 05:53:05 EDT",
-      "mined_at": "2026-08-14T18:02:58+00:00",
-      "source_published_at": "Thu, 13 Aug 2026 05:53:05 EDT",
-      "image_url": "/article_images/article_17849e8f6bd4.webp",
+      "id": "2026-08-15-science-1",
+      "source": "Space.com",
+      "time_ago": "Sat, 15 Aug 2026 14:00:00 +0000",
+      "mined_at": "2026-08-15T17:56:31+00:00",
+      "source_published_at": "Sat, 15 Aug 2026 14:00:00 +0000",
+      "image_url": "/article_images/article_cbd8995a3a84.webp",
       "category": "Science",
-      "title": "A 236-Million-Year-Old Fossil Could Rewrite the Story of Mammalian Birth",
-      "summary": "A tiny growth line in a 236-million-year-old fossil suggests live birth evolved 90 million years earlier than we thought. Meet Chiniquodon, the ancient ancestor that might have been a live-birth pioneer."
+      "title": "The 'Wow!' Signal: A 72-Second Mystery That Still Fuels the Search for Aliens",
+      "summary": "In 1977, a radio telescope caught a powerful, unexplained burst from space. It lasted 72 seconds, and it's never been repeated. Nearly 50 years later, it's still our best candidate for an alien message."
     },
     {
-      "id": "2026-08-14-science-2",
-      "source": "Space.com",
-      "time_ago": "Fri, 14 Aug 2026 17:00:00 +0000",
-      "mined_at": "2026-08-14T18:02:58+00:00",
-      "source_published_at": "Fri, 14 Aug 2026 17:00:00 +0000",
-      "image_url": "/article_images/article_4457145660bc.webp",
+      "id": "2026-08-15-science-2",
+      "source": "NASA News",
+      "time_ago": "Fri, 14 Aug 2026 20:00:38 +0000",
+      "mined_at": "2026-08-15T17:56:31+00:00",
+      "source_published_at": "Fri, 14 Aug 2026 20:00:38 +0000",
+      "image_url": "/article_images/article_b39226baad30.webp",
       "category": "Science",
-      "title": "Space Force Pays Rocket Lab $397 Million for 'Flatellites' to Track Threats",
-      "summary": "Rocket Lab lands a $397 million Space Force contract to build flat satellites that track enemy planes. The 'Flatellites' will launch on the new Neutron rocket."
+      "title": "NASA Challenges College Students to Design the Future of Lunar Living",
+      "summary": "NASA's 2027 RASC-AL competition asks university teams to propose bold concepts for sustained operations at the Moon's South Pole. Finalists win $7,500 and present to NASA experts in Florida."
     },
     {
-      "id": "2026-08-14-science-3",
-      "source": "Space.com",
-      "time_ago": "Fri, 14 Aug 2026 16:00:00 +0000",
-      "mined_at": "2026-08-14T18:02:58+00:00",
-      "source_published_at": "Fri, 14 Aug 2026 16:00:00 +0000",
-      "image_url": "/article_images/article_0bdfe833e9bb.webp",
+      "id": "2026-08-15-science-3",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Sat, 15 Aug 2026 09:25:46 EDT",
+      "mined_at": "2026-08-15T17:56:31+00:00",
+      "source_published_at": "Sat, 15 Aug 2026 09:25:46 EDT",
+      "image_url": "/article_images/article_5fafdeb082dc.webp",
       "category": "Science",
-      "title": "Can Venus Cast a Shadow? Here's How to See It for Yourself",
-      "summary": "Venus can cast a shadow, but it's faint and needs a dark sky. Here's how to catch it in September, plus other night-sky treats this week."
+      "title": "A 60-Year-Old Theory About Ants, Bees, and Wasps May Be Wrong",
+      "summary": "For decades, scientists believed a quirky genetic system called haplodiploidy explained why ants, bees, and wasps evolved complex societies. A massive new study of 69,000 species says that's not the case."
     }
   ]
 }
