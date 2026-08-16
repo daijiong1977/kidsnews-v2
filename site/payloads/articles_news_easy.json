@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-15-news-1",
-      "source": "NPR World",
-      "time_ago": "Sat, 15 Aug 2026 06:10:00 -0400",
-      "mined_at": "2026-08-15T17:56:31+00:00",
-      "source_published_at": "Sat, 15 Aug 2026 06:10:00 -0400",
-      "image_url": "/article_images/article_c77dc8ba5164.webp",
-      "category": "News",
-      "title": "A Soccer Star Is Stuck in Jail for a Speeding Ticket?",
-      "summary": "Homero Calderón, a pro soccer player from Venezuela, has been locked up in an immigration jail for five months. He was pulled over for speeding and arrested for driving without a Florida license. His family says he's very sad and missed his daughter's first birthday."
-    },
-    {
-      "id": "2026-08-15-news-2",
+      "id": "2026-08-16-news-1",
       "source": "Al Jazeera",
-      "time_ago": "Sat, 15 Aug 2026 16:39:52 +0000",
-      "mined_at": "2026-08-15T17:56:31+00:00",
-      "source_published_at": "Sat, 15 Aug 2026 16:39:52 +0000",
-      "image_url": "/article_images/article_b2f1a0ee07e1.webp",
+      "time_ago": "Sun, 16 Aug 2026 16:17:36 +0000",
+      "mined_at": "2026-08-16T17:57:44+00:00",
+      "source_published_at": "Sun, 16 Aug 2026 16:17:36 +0000",
+      "image_url": "/article_images/article_2fef58e0d72e.webp",
       "category": "News",
-      "title": "A New 'Super Team' of Countries Could Be Forming!",
-      "summary": "Turkey's president says Egypt might join a new defense pact with Turkey, Saudi Arabia, and Pakistan. The deal, called the Mecca Pact, says an attack on one is an attack on all—like a superhero team-up! It was signed last Friday in Mecca."
+      "title": "Arsenal Smash Man City 3-0 in Season Opener!",
+      "summary": "Arsenal beat Manchester City 3-0 in the Community Shield. Riccardo Calafiori scored after just 24 seconds! New City boss Enzo Maresca had a rough first game."
     },
     {
-      "id": "2026-08-15-news-3",
+      "id": "2026-08-16-news-2",
       "source": "NPR World",
-      "time_ago": "Sat, 15 Aug 2026 13:25:34 -0400",
-      "mined_at": "2026-08-15T17:56:31+00:00",
-      "source_published_at": "Sat, 15 Aug 2026 13:25:34 -0400",
-      "image_url": "/article_images/article_667086780709.webp",
+      "time_ago": "Sun, 16 Aug 2026 11:47:58 -0400",
+      "mined_at": "2026-08-16T17:57:44+00:00",
+      "source_published_at": "Sun, 16 Aug 2026 11:47:58 -0400",
+      "image_url": "/article_images/article_90837f901dde.webp",
       "category": "News",
-      "title": "Should Companies Be Allowed to Hack the Hackers?",
-      "summary": "President Trump wants to let private companies hack foreign cybercriminals—something only the government used to do. The plan would let businesses disrupt hackers and gather info, but many details are still unclear. Some experts worry it's a bad idea."
+      "title": "Tropical Storm Lala Soaks Hawaii with Huge Rain!",
+      "summary": "Tropical Storm Lala is dumping tons of rain on Hawaii. Over 130,000 homes lost power, and some places could get 35 inches of rain! One person died in a car crash."
+    },
+    {
+      "id": "2026-08-16-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Sun, 16 Aug 2026 13:14:44 -0400",
+      "mined_at": "2026-08-16T17:57:44+00:00",
+      "source_published_at": "Sun, 16 Aug 2026 13:14:44 -0400",
+      "image_url": "/article_images/article_4946b0112d97.webp",
+      "category": "News",
+      "title": "Thieves Steal Famous Renaissance Paintings in Sicily!",
+      "summary": "Thieves stole four super valuable paintings by Antonello da Messina from a museum in Sicily. The art is worth up to $92 million! Police are hunting for the robbers."
     }
   ]
 }

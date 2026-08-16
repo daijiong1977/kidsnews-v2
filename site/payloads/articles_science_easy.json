@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-15-science-1",
-      "source": "Space.com",
-      "time_ago": "Sat, 15 Aug 2026 14:00:00 +0000",
-      "mined_at": "2026-08-15T17:56:31+00:00",
-      "source_published_at": "Sat, 15 Aug 2026 14:00:00 +0000",
-      "image_url": "/article_images/article_cbd8995a3a84.webp",
+      "id": "2026-08-16-science-1",
+      "source": "Popular Science",
+      "time_ago": "Sun, 16 Aug 2026 10:24:00 -0400",
+      "mined_at": "2026-08-16T17:57:44+00:00",
+      "source_published_at": "Sun, 16 Aug 2026 10:24:00 -0400",
+      "image_url": "/article_images/article_7d14d0d5e45a.webp",
       "category": "Science",
-      "title": "A Mysterious Space Signal That Still Has Scientists Scratching Their Heads",
-      "summary": "In 1977, a telescope picked up a strange radio burst from space that lasted 72 seconds. No one has ever heard it again. Could it have been aliens?"
+      "title": "NASA's New Mars Helicopters Look Like Sci-Fi Come to Life!",
+      "summary": "NASA just showed off what its SkyFall helicopters will look like flying over Mars. Three choppers will scan for underground ice using special radar. They launch in 2028!"
     },
     {
-      "id": "2026-08-15-science-2",
-      "source": "NASA News",
-      "time_ago": "Fri, 14 Aug 2026 20:00:38 +0000",
-      "mined_at": "2026-08-15T17:56:31+00:00",
-      "source_published_at": "Fri, 14 Aug 2026 20:00:38 +0000",
-      "image_url": "/article_images/article_b39226baad30.webp",
+      "id": "2026-08-16-science-2",
+      "source": "Science News Explores",
+      "time_ago": "Wed, 12 Aug 2026 10:30:00 +0000",
+      "mined_at": "2026-08-16T17:57:44+00:00",
+      "source_published_at": "Wed, 12 Aug 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_87729c6667e4.webp",
       "category": "Science",
-      "title": "NASA Wants Your Big Idea for Living on the Moon!",
-      "summary": "NASA is asking college students to dream up cool ways to live and work on the Moon. The best teams can win $7,500 and a trip to Florida to share their ideas."
+      "title": "This Tiny Microbe Turns Into a Giant Cannibal!",
+      "summary": "Scientists found a microbe called Euplotes gigatrox that sometimes grows huge and eats its own siblings. It was discovered in an aquarium filter in Curaçao. The change happens when there's lots of food."
     },
     {
-      "id": "2026-08-15-science-3",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Sat, 15 Aug 2026 09:25:46 EDT",
-      "mined_at": "2026-08-15T17:56:31+00:00",
-      "source_published_at": "Sat, 15 Aug 2026 09:25:46 EDT",
-      "image_url": "/article_images/article_5fafdeb082dc.webp",
+      "id": "2026-08-16-science-3",
+      "source": "Popular Science",
+      "time_ago": "Sun, 16 Aug 2026 13:00:00 -0400",
+      "mined_at": "2026-08-16T17:57:44+00:00",
+      "source_published_at": "Sun, 16 Aug 2026 13:00:00 -0400",
+      "image_url": "/article_images/article_2fb146058a3c.webp",
       "category": "Science",
-      "title": "Why Do Ants and Bees Live in Big Family Groups? A 60-Year-Old Idea Might Be Wrong",
-      "summary": "Scientists used to think ants, bees, and wasps lived in huge colonies because of a special way they inherit genes. But a new study of nearly 69,000 species says that's not the whole story."
+      "title": "The World's Biggest Electric Plane Just Took Off!",
+      "summary": "A huge battery-powered plane called the X1 flew for the first time. It's as heavy as an empty school bus and can carry 30 people. The test flight used only $5 of electricity!"
     }
   ]
 }

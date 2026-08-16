@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-15-science-1",
-      "source": "Space.com",
-      "time_ago": "Sat, 15 Aug 2026 14:00:00 +0000",
-      "mined_at": "2026-08-15T17:56:31+00:00",
-      "source_published_at": "Sat, 15 Aug 2026 14:00:00 +0000",
-      "image_url": "/article_images/article_cbd8995a3a84.webp",
+      "id": "2026-08-16-science-1",
+      "source": "Popular Science",
+      "time_ago": "Sun, 16 Aug 2026 10:24:00 -0400",
+      "mined_at": "2026-08-16T17:57:44+00:00",
+      "source_published_at": "Sun, 16 Aug 2026 10:24:00 -0400",
+      "image_url": "/article_images/article_7d14d0d5e45a.webp",
       "category": "Science",
-      "title": "The 'Wow!' Signal: A 72-Second Mystery That Still Fuels the Search for Aliens",
-      "summary": "In 1977, a radio telescope caught a powerful, unexplained burst from space. It lasted 72 seconds, and it's never been repeated. Nearly 50 years later, it's still our best candidate for an alien message."
+      "title": "NASA's SkyFall Helicopters Will Scan Mars for Hidden Ice",
+      "summary": "NASA released an artist's concept of the SkyFall helicopters, set to launch in 2028. They'll use ground-penetrating radar to map subsurface ice on Mars. The mission could reveal where water is hiding."
     },
     {
-      "id": "2026-08-15-science-2",
-      "source": "NASA News",
-      "time_ago": "Fri, 14 Aug 2026 20:00:38 +0000",
-      "mined_at": "2026-08-15T17:56:31+00:00",
-      "source_published_at": "Fri, 14 Aug 2026 20:00:38 +0000",
-      "image_url": "/article_images/article_b39226baad30.webp",
+      "id": "2026-08-16-science-2",
+      "source": "Science News Explores",
+      "time_ago": "Wed, 12 Aug 2026 10:30:00 +0000",
+      "mined_at": "2026-08-16T17:57:44+00:00",
+      "source_published_at": "Wed, 12 Aug 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_87729c6667e4.webp",
       "category": "Science",
-      "title": "NASA Challenges College Students to Design the Future of Lunar Living",
-      "summary": "NASA's 2027 RASC-AL competition asks university teams to propose bold concepts for sustained operations at the Moon's South Pole. Finalists win $7,500 and present to NASA experts in Florida."
+      "title": "Meet the Microbe That Hulks Out and Eats Its Own Kind",
+      "summary": "A newly discovered protist, Euplotes gigatrox, can transform into a supergiant that cannibalizes its siblings. Found in an aquarium filter in Curaçao, the microbe's size change is triggered by abundant food. Researchers say it may offer clues to the evolution of complex life."
     },
     {
-      "id": "2026-08-15-science-3",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Sat, 15 Aug 2026 09:25:46 EDT",
-      "mined_at": "2026-08-15T17:56:31+00:00",
-      "source_published_at": "Sat, 15 Aug 2026 09:25:46 EDT",
-      "image_url": "/article_images/article_5fafdeb082dc.webp",
+      "id": "2026-08-16-science-3",
+      "source": "Popular Science",
+      "time_ago": "Sun, 16 Aug 2026 13:00:00 -0400",
+      "mined_at": "2026-08-16T17:57:44+00:00",
+      "source_published_at": "Sun, 16 Aug 2026 13:00:00 -0400",
+      "image_url": "/article_images/article_2fb146058a3c.webp",
       "category": "Science",
-      "title": "A 60-Year-Old Theory About Ants, Bees, and Wasps May Be Wrong",
-      "summary": "For decades, scientists believed a quirky genetic system called haplodiploidy explained why ants, bees, and wasps evolved complex societies. A massive new study of 69,000 species says that's not the case."
+      "title": "World's Largest Electric Plane Completes Maiden Flight",
+      "summary": "Heart Aerospace's X1, a 30-seat battery-powered aircraft, flew for 27 minutes in upstate New York. The test flight used just $5 of electricity, but the company's real goal is a hybrid-electric plane by 2031."
     }
   ]
 }

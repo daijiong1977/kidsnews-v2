@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-15-news-1",
-      "source": "NPR World",
-      "time_ago": "Sat, 15 Aug 2026 06:10:00 -0400",
-      "mined_at": "2026-08-15T17:56:31+00:00",
-      "source_published_at": "Sat, 15 Aug 2026 06:10:00 -0400",
-      "image_url": "/article_images/article_c77dc8ba5164.webp",
-      "category": "News",
-      "title": "Venezuelan Soccer Pro Detained for Months Despite Pending Immigration Cases",
-      "summary": "Homero Calderón, a professional soccer player from Venezuela, has been in ICE detention for nearly six months after a traffic stop. He had two pending immigration applications, but that didn't protect him from arrest. His case highlights a massive backlog of 11.3 million pending cases at USCIS."
-    },
-    {
-      "id": "2026-08-15-news-2",
+      "id": "2026-08-16-news-1",
       "source": "Al Jazeera",
-      "time_ago": "Sat, 15 Aug 2026 16:39:52 +0000",
-      "mined_at": "2026-08-15T17:56:31+00:00",
-      "source_published_at": "Sat, 15 Aug 2026 16:39:52 +0000",
-      "image_url": "/article_images/article_b2f1a0ee07e1.webp",
+      "time_ago": "Sun, 16 Aug 2026 16:17:36 +0000",
+      "mined_at": "2026-08-16T17:57:44+00:00",
+      "source_published_at": "Sun, 16 Aug 2026 16:17:36 +0000",
+      "image_url": "/article_images/article_2fef58e0d72e.webp",
       "category": "News",
-      "title": "Erdogan Says Egypt Could Join New Turkey-Saudi-Pakistan Defense Pact",
-      "summary": "Turkish President Erdogan says Egypt could join the newly signed Mecca Joint Defence Agreement, a pact between Turkey, Saudi Arabia, and Pakistan that treats an attack on one as an attack on all. The deal, signed last Friday, is open to more members, Erdogan said in an exclusive interview."
+      "title": "Arsenal Dominate Man City 3-0 in Community Shield Statement Win",
+      "summary": "Arsenal crushed Manchester City 3-0 in the Community Shield, with Riccardo Calafiori scoring after just 24 seconds. New City boss Enzo Maresca's debut was a disaster."
     },
     {
-      "id": "2026-08-15-news-3",
+      "id": "2026-08-16-news-2",
       "source": "NPR World",
-      "time_ago": "Sat, 15 Aug 2026 13:25:34 -0400",
-      "mined_at": "2026-08-15T17:56:31+00:00",
-      "source_published_at": "Sat, 15 Aug 2026 13:25:34 -0400",
-      "image_url": "/article_images/article_667086780709.webp",
+      "time_ago": "Sun, 16 Aug 2026 11:47:58 -0400",
+      "mined_at": "2026-08-16T17:57:44+00:00",
+      "source_published_at": "Sun, 16 Aug 2026 11:47:58 -0400",
+      "image_url": "/article_images/article_90837f901dde.webp",
       "category": "News",
-      "title": "Trump Administration Wants Private Companies to Hack Foreign Cybercriminals",
-      "summary": "A new presidential memo could authorize U.S. businesses to hack foreign cybercriminals—a job traditionally done by government agencies. The plan would let companies disrupt networks and gather intelligence, but legal details remain unclear. Some experts call it a dramatic departure from current practice."
+      "title": "Tropical Storm Lala Batters Hawaii with Torrential Rain and Power Outages",
+      "summary": "Tropical Storm Lala is hammering Hawaii with up to 35 inches of rain and hurricane-force gusts. Over 130,000 households lost power, and at least one person has died."
+    },
+    {
+      "id": "2026-08-16-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Sun, 16 Aug 2026 13:14:44 -0400",
+      "mined_at": "2026-08-16T17:57:44+00:00",
+      "source_published_at": "Sun, 16 Aug 2026 13:14:44 -0400",
+      "image_url": "/article_images/article_4946b0112d97.webp",
+      "category": "News",
+      "title": "Daring Heist: Thieves Steal Four Antonello da Messina Masterpieces from Sicilian Museum",
+      "summary": "Thieves stole four Renaissance paintings by Antonello da Messina worth up to $92 million from a museum in Messina, Sicily. The heist happened during Ferragosto celebrations."
     }
   ]
 }
