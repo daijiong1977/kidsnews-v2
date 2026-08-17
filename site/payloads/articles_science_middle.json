@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-16-science-1",
-      "source": "Popular Science",
-      "time_ago": "Sun, 16 Aug 2026 10:24:00 -0400",
-      "mined_at": "2026-08-16T17:57:44+00:00",
-      "source_published_at": "Sun, 16 Aug 2026 10:24:00 -0400",
-      "image_url": "/article_images/article_7d14d0d5e45a.webp",
+      "id": "2026-08-17-science-1",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Mon, 17 Aug 2026 08:40:17 EDT",
+      "mined_at": "2026-08-17T17:54:07+00:00",
+      "source_published_at": "Mon, 17 Aug 2026 08:40:17 EDT",
+      "image_url": "/article_images/article_cc3c5b619610.webp",
       "category": "Science",
-      "title": "NASA's SkyFall Helicopters Will Scan Mars for Hidden Ice",
-      "summary": "NASA released an artist's concept of the SkyFall helicopters, set to launch in 2028. They'll use ground-penetrating radar to map subsurface ice on Mars. The mission could reveal where water is hiding."
+      "title": "Fossils from 1.7 Billion Years Ago Could Rewrite the Story of Complex Life's Origins",
+      "summary": "Newly discovered microfossils from Canada may be the oldest complex cells ever found, pushing back the timeline for eukaryotes. The 1.7-billion-year-old specimens show possible signs of cell engulfment, a key step in evolution."
     },
     {
-      "id": "2026-08-16-science-2",
-      "source": "Science News Explores",
-      "time_ago": "Wed, 12 Aug 2026 10:30:00 +0000",
-      "mined_at": "2026-08-16T17:57:44+00:00",
-      "source_published_at": "Wed, 12 Aug 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_87729c6667e4.webp",
+      "id": "2026-08-17-science-2",
+      "source": "Space.com",
+      "time_ago": "Mon, 17 Aug 2026 16:00:00 +0000",
+      "mined_at": "2026-08-17T17:54:07+00:00",
+      "source_published_at": "Mon, 17 Aug 2026 16:00:00 +0000",
+      "image_url": "/article_images/article_a162b197c136.webp",
       "category": "Science",
-      "title": "Meet the Microbe That Hulks Out and Eats Its Own Kind",
-      "summary": "A newly discovered protist, Euplotes gigatrox, can transform into a supergiant that cannibalizes its siblings. Found in an aquarium filter in Curaçao, the microbe's size change is triggered by abundant food. Researchers say it may offer clues to the evolution of complex life."
+      "title": "Ahsoka Season 2 Trailer Reveals Release Date, Massive Battles, and More Anakin",
+      "summary": "The first trailer for Ahsoka season 2 debuted at D23, revealing a January 20, 2027 premiere on Disney Plus. It teases epic space battles, Thrawn's threat, and a larger role for Anakin Skywalker."
     },
     {
-      "id": "2026-08-16-science-3",
-      "source": "Popular Science",
-      "time_ago": "Sun, 16 Aug 2026 13:00:00 -0400",
-      "mined_at": "2026-08-16T17:57:44+00:00",
-      "source_published_at": "Sun, 16 Aug 2026 13:00:00 -0400",
-      "image_url": "/article_images/article_2fb146058a3c.webp",
+      "id": "2026-08-17-science-3",
+      "source": "MIT Tech Review",
+      "time_ago": "Mon, 17 Aug 2026 12:10:00 +0000",
+      "mined_at": "2026-08-17T17:54:07+00:00",
+      "source_published_at": "Mon, 17 Aug 2026 12:10:00 +0000",
+      "image_url": "/article_images/article_ef8356bae953.webp",
       "category": "Science",
-      "title": "World's Largest Electric Plane Completes Maiden Flight",
-      "summary": "Heart Aerospace's X1, a 30-seat battery-powered aircraft, flew for 27 minutes in upstate New York. The test flight used just $5 of electricity, but the company's real goal is a hybrid-electric plane by 2031."
+      "title": "When a Child's Robot Friend Dies: The Rise and Fall of AI Companion Toys",
+      "summary": "Moxie, a social robot for neurodivergent kids, became a lifeline for some children. But when its maker shut down, the robots stopped working, exposing the risks of AI companions that depend on corporate servers."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-16-science-1",
-      "source": "Popular Science",
-      "time_ago": "Sun, 16 Aug 2026 10:24:00 -0400",
-      "mined_at": "2026-08-16T17:57:44+00:00",
-      "source_published_at": "Sun, 16 Aug 2026 10:24:00 -0400",
-      "image_url": "/article_images/article_7d14d0d5e45a.webp",
+      "id": "2026-08-17-science-1",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Mon, 17 Aug 2026 08:40:17 EDT",
+      "mined_at": "2026-08-17T17:54:07+00:00",
+      "source_published_at": "Mon, 17 Aug 2026 08:40:17 EDT",
+      "image_url": "/article_images/article_cc3c5b619610.webp",
       "category": "Science",
-      "title": "NASA's New Mars Helicopters Look Like Sci-Fi Come to Life!",
-      "summary": "NASA just showed off what its SkyFall helicopters will look like flying over Mars. Three choppers will scan for underground ice using special radar. They launch in 2028!"
+      "title": "Tiny 1.7-Billion-Year-Old Fossils Could Unlock the Secret of How Complex Life Began",
+      "summary": "Scientists found super old fossils that might show how life went from tiny germs to big creatures like us. These fossils are 1.7 billion years old and could be the oldest complex cells ever found. They were discovered in rocks from Canada."
     },
     {
-      "id": "2026-08-16-science-2",
-      "source": "Science News Explores",
-      "time_ago": "Wed, 12 Aug 2026 10:30:00 +0000",
-      "mined_at": "2026-08-16T17:57:44+00:00",
-      "source_published_at": "Wed, 12 Aug 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_87729c6667e4.webp",
+      "id": "2026-08-17-science-2",
+      "source": "Space.com",
+      "time_ago": "Mon, 17 Aug 2026 16:00:00 +0000",
+      "mined_at": "2026-08-17T17:54:07+00:00",
+      "source_published_at": "Mon, 17 Aug 2026 16:00:00 +0000",
+      "image_url": "/article_images/article_a162b197c136.webp",
       "category": "Science",
-      "title": "This Tiny Microbe Turns Into a Giant Cannibal!",
-      "summary": "Scientists found a microbe called Euplotes gigatrox that sometimes grows huge and eats its own siblings. It was discovered in an aquarium filter in Curaçao. The change happens when there's lots of food."
+      "title": "Ahsoka Season 2 Trailer Drops with Huge Space Battles and a Release Date!",
+      "summary": "The first trailer for Star Wars: Ahsoka season 2 is here, and it's packed with action. The show returns on January 20, 2027, with more Anakin Skywalker and big space fights."
     },
     {
-      "id": "2026-08-16-science-3",
-      "source": "Popular Science",
-      "time_ago": "Sun, 16 Aug 2026 13:00:00 -0400",
-      "mined_at": "2026-08-16T17:57:44+00:00",
-      "source_published_at": "Sun, 16 Aug 2026 13:00:00 -0400",
-      "image_url": "/article_images/article_2fb146058a3c.webp",
+      "id": "2026-08-17-science-3",
+      "source": "MIT Tech Review",
+      "time_ago": "Mon, 17 Aug 2026 12:10:00 +0000",
+      "mined_at": "2026-08-17T17:54:07+00:00",
+      "source_published_at": "Mon, 17 Aug 2026 12:10:00 +0000",
+      "image_url": "/article_images/article_ef8356bae953.webp",
       "category": "Science",
-      "title": "The World's Biggest Electric Plane Just Took Off!",
-      "summary": "A huge battery-powered plane called the X1 flew for the first time. It's as heavy as an empty school bus and can carry 30 people. The test flight used only $5 of electricity!"
+      "title": "A Robot Friend That Stopped Working: What Happens When AI Toys Shut Down?",
+      "summary": "A kid named Xander had a robot friend called Moxie that helped him with feelings. But the company that made Moxie went out of business and turned off the robot's brain, leaving many kids sad."
     }
   ]
 }

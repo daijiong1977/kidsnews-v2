@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-16-news-1",
+      "id": "2026-08-17-news-1",
       "source": "Al Jazeera",
-      "time_ago": "Sun, 16 Aug 2026 16:17:36 +0000",
-      "mined_at": "2026-08-16T17:57:44+00:00",
-      "source_published_at": "Sun, 16 Aug 2026 16:17:36 +0000",
-      "image_url": "/article_images/article_2fef58e0d72e.webp",
+      "time_ago": "Mon, 17 Aug 2026 17:07:29 +0000",
+      "mined_at": "2026-08-17T17:54:07+00:00",
+      "source_published_at": "Mon, 17 Aug 2026 17:07:29 +0000",
+      "image_url": "/article_images/article_7ae78eb54aea.webp",
       "category": "News",
-      "title": "Arsenal Smash Man City 3-0 in Season Opener!",
-      "summary": "Arsenal beat Manchester City 3-0 in the Community Shield. Riccardo Calafiori scored after just 24 seconds! New City boss Enzo Maresca had a rough first game."
+      "title": "Israel's Likud Party Picks Its Team for a Super Important Election",
+      "summary": "Israel's ruling Likud party is choosing who gets to run in the next big election. Prime Minister Netanyahu gets to pick 8 spots himself, leaving only 15 up for grabs. The vote could decide the country's future."
     },
     {
-      "id": "2026-08-16-news-2",
-      "source": "NPR World",
-      "time_ago": "Sun, 16 Aug 2026 11:47:58 -0400",
-      "mined_at": "2026-08-16T17:57:44+00:00",
-      "source_published_at": "Sun, 16 Aug 2026 11:47:58 -0400",
-      "image_url": "/article_images/article_90837f901dde.webp",
-      "category": "News",
-      "title": "Tropical Storm Lala Soaks Hawaii with Huge Rain!",
-      "summary": "Tropical Storm Lala is dumping tons of rain on Hawaii. Over 130,000 homes lost power, and some places could get 35 inches of rain! One person died in a car crash."
-    },
-    {
-      "id": "2026-08-16-news-3",
+      "id": "2026-08-17-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Sun, 16 Aug 2026 13:14:44 -0400",
-      "mined_at": "2026-08-16T17:57:44+00:00",
-      "source_published_at": "Sun, 16 Aug 2026 13:14:44 -0400",
-      "image_url": "/article_images/article_4946b0112d97.webp",
+      "time_ago": "Mon, 17 Aug 2026 12:30:09 -0400",
+      "mined_at": "2026-08-17T17:54:07+00:00",
+      "source_published_at": "Mon, 17 Aug 2026 12:30:09 -0400",
+      "image_url": "/article_images/article_9ff39bdb022f.webp",
       "category": "News",
-      "title": "Thieves Steal Famous Renaissance Paintings in Sicily!",
-      "summary": "Thieves stole four super valuable paintings by Antonello da Messina from a museum in Sicily. The art is worth up to $92 million! Police are hunting for the robbers."
+      "title": "Trump's Team Has More Super-Rich People Than the Last Three Presidents Combined!",
+      "summary": "A new report says President Trump has appointed 57 people worth at least $100 million. That's more than four times the number under the last three presidents put together. Some are billionaires like Education Secretary Linda McMahon."
+    },
+    {
+      "id": "2026-08-17-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Mon, 17 Aug 2026 13:19:28 -0400",
+      "mined_at": "2026-08-17T17:54:07+00:00",
+      "source_published_at": "Mon, 17 Aug 2026 13:19:28 -0400",
+      "image_url": "/article_images/article_ca7b4c78d8a4.webp",
+      "category": "News",
+      "title": "Kushner Meets Netanyahu After Hamas Talks: Will the Gaza Ceasefire Move Forward?",
+      "summary": "Jared Kushner, President Trump's son-in-law, met with Israeli PM Netanyahu about the Gaza ceasefire plan. Hamas says it agreed, but Israel wants Hamas to fully disarm first. The lives of 2 million Palestinians hang in the balance."
     }
   ]
 }

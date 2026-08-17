@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-16-news-1",
+      "id": "2026-08-17-news-1",
       "source": "Al Jazeera",
-      "time_ago": "Sun, 16 Aug 2026 16:17:36 +0000",
-      "mined_at": "2026-08-16T17:57:44+00:00",
-      "source_published_at": "Sun, 16 Aug 2026 16:17:36 +0000",
-      "image_url": "/article_images/article_2fef58e0d72e.webp",
+      "time_ago": "Mon, 17 Aug 2026 17:07:29 +0000",
+      "mined_at": "2026-08-17T17:54:07+00:00",
+      "source_published_at": "Mon, 17 Aug 2026 17:07:29 +0000",
+      "image_url": "/article_images/article_7ae78eb54aea.webp",
       "category": "News",
-      "title": "Arsenal Dominate Man City 3-0 in Community Shield Statement Win",
-      "summary": "Arsenal crushed Manchester City 3-0 in the Community Shield, with Riccardo Calafiori scoring after just 24 seconds. New City boss Enzo Maresca's debut was a disaster."
+      "title": "Netanyahu's Likud Holds High-Stakes Primaries: Only 15 Spots Actually Up for Grabs",
+      "summary": "Israel's ruling Likud party is holding primaries for the upcoming election, but Prime Minister Netanyahu has already locked in 11 of the top 30 list spots. That leaves just 15 realistic seats for other candidates to fight over—and the stakes couldn't be higher."
     },
     {
-      "id": "2026-08-16-news-2",
-      "source": "NPR World",
-      "time_ago": "Sun, 16 Aug 2026 11:47:58 -0400",
-      "mined_at": "2026-08-16T17:57:44+00:00",
-      "source_published_at": "Sun, 16 Aug 2026 11:47:58 -0400",
-      "image_url": "/article_images/article_90837f901dde.webp",
-      "category": "News",
-      "title": "Tropical Storm Lala Batters Hawaii with Torrential Rain and Power Outages",
-      "summary": "Tropical Storm Lala is hammering Hawaii with up to 35 inches of rain and hurricane-force gusts. Over 130,000 households lost power, and at least one person has died."
-    },
-    {
-      "id": "2026-08-16-news-3",
+      "id": "2026-08-17-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Sun, 16 Aug 2026 13:14:44 -0400",
-      "mined_at": "2026-08-16T17:57:44+00:00",
-      "source_published_at": "Sun, 16 Aug 2026 13:14:44 -0400",
-      "image_url": "/article_images/article_4946b0112d97.webp",
+      "time_ago": "Mon, 17 Aug 2026 12:30:09 -0400",
+      "mined_at": "2026-08-17T17:54:07+00:00",
+      "source_published_at": "Mon, 17 Aug 2026 12:30:09 -0400",
+      "image_url": "/article_images/article_9ff39bdb022f.webp",
       "category": "News",
-      "title": "Daring Heist: Thieves Steal Four Antonello da Messina Masterpieces from Sicilian Museum",
-      "summary": "Thieves stole four Renaissance paintings by Antonello da Messina worth up to $92 million from a museum in Messina, Sicily. The heist happened during Ferragosto celebrations."
+      "title": "Trump's Administration Has More Ultrawealthy Officials Than the Last Three Presidents Combined",
+      "summary": "A new Public Citizen report reveals that 57 Trump administration officials are worth at least $100 million—more than four times the combined total under Bush, Obama, and Biden. Eight Cabinet members are in that club, including two billionaires."
+    },
+    {
+      "id": "2026-08-17-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Mon, 17 Aug 2026 13:19:28 -0400",
+      "mined_at": "2026-08-17T17:54:07+00:00",
+      "source_published_at": "Mon, 17 Aug 2026 13:19:28 -0400",
+      "image_url": "/article_images/article_ca7b4c78d8a4.webp",
+      "category": "News",
+      "title": "Kushner Shuttles Between Hamas and Netanyahu, But Gaza Ceasefire Road Map Stalls",
+      "summary": "Jared Kushner met with Israeli PM Netanyahu on Monday, a day after meeting Hamas leaders in Cairo. Hamas says it accepts the U.S.-backed road map, but Israel demands full disarmament before any withdrawal. Regional powers are condemning Israel's rejection."
     }
   ]
 }
