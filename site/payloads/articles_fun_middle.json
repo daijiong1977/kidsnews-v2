@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-17-fun-1",
-      "source": "SwimSwam",
-      "time_ago": "Mon, 17 Aug 2026 16:03:06 +0000",
-      "mined_at": "2026-08-17T17:54:07+00:00",
-      "source_published_at": "Mon, 17 Aug 2026 16:03:06 +0000",
-      "image_url": "/article_images/article_23f11a7d9295.webp",
+      "id": "2026-08-18-fun-1",
+      "source": "BBC Tennis",
+      "time_ago": "Tue, 18 Aug 2026 17:30:21 GMT",
+      "mined_at": "2026-08-18T18:02:04+00:00",
+      "source_published_at": "Tue, 18 Aug 2026 17:30:21 GMT",
+      "image_url": "/article_images/article_462c741c6980.webp",
       "category": "Fun",
-      "title": "A Fire Alarm, a 0.01-Second Gap, and a New Meet Record: Junior Pan Pacs Kicks Off with Drama",
-      "summary": "A fire alarm delayed the start, but once racing began, Gabi Brito set a meet record in the 50 fly at the Junior Pan Pacs in Vancouver. She beat Australia's Olivia Hine by just 0.28 seconds."
+      "title": "Venus Williams Lands US Open Wildcard — Will Serena Join the Party?",
+      "summary": "Venus Williams, 46, got a US Open singles wildcard. Could sister Serena join her? One spot remains, and fans are buzzing."
     },
     {
-      "id": "2026-08-17-fun-2",
-      "source": "Rolling Stone Music",
-      "time_ago": "Mon, 17 Aug 2026 16:38:31 +0000",
-      "mined_at": "2026-08-17T17:54:07+00:00",
-      "source_published_at": "Mon, 17 Aug 2026 16:38:31 +0000",
-      "image_url": "/article_images/article_d8cad107fb6f.webp",
+      "id": "2026-08-18-fun-2",
+      "source": "NPR Music",
+      "time_ago": "Tue, 18 Aug 2026 06:30:00 -0400",
+      "mined_at": "2026-08-18T18:02:04+00:00",
+      "source_published_at": "Tue, 18 Aug 2026 06:30:00 -0400",
+      "image_url": "/article_images/article_c284fd2fd7e2.webp",
       "category": "Fun",
-      "title": "After 40 Years of Silence, Ritchie Blackmore Reunites with Deep Purple for One Emotional Song",
-      "summary": "Ritchie Blackmore shocked fans by joining Deep Purple on stage for 'Smoke on the Water' at Jones Beach—his first time with the band since 1993. He called it a healing moment for old friends."
+      "title": "The Battle Over AI Music: Who Gets Paid When Machines Learn to Sing?",
+      "summary": "AI can now make songs in seconds, but who gets paid? Musicians are fighting for consent and fair pay. It's a huge battle."
     },
     {
-      "id": "2026-08-17-fun-3",
-      "source": "NG Kids — Geography",
-      "time_ago": "",
-      "mined_at": "2026-08-17T17:54:07+00:00",
-      "source_published_at": "",
-      "image_url": "/article_images/article_152af670303a.webp",
+      "id": "2026-08-18-fun-3",
+      "source": "Live Science",
+      "time_ago": "Tue, 18 Aug 2026 15:10:00 +0000",
+      "mined_at": "2026-08-18T18:02:04+00:00",
+      "source_published_at": "Tue, 18 Aug 2026 15:10:00 +0000",
+      "image_url": "/article_images/article_a11ce2f002d5.webp",
       "category": "Fun",
-      "title": "From Gauchos to Iguazú Falls: A Kid's Guide to Argentina's Wild Wonders",
-      "summary": "Argentina is South America's second-largest country, famous for its gaucho cowboys, the massive Iguazú Falls, and a capital called the 'Paris of South America.' Nearly half the population lives near Buenos Aires."
+      "title": "AI Designs Chip Components 500 Times Smaller — 'Beyond Human Intuition'",
+      "summary": "AI designed chip parts 500 times smaller than before, some as small as a bacterium. This could revolutionize computing."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-17-fun-1",
-      "source": "SwimSwam",
-      "time_ago": "Mon, 17 Aug 2026 16:03:06 +0000",
-      "mined_at": "2026-08-17T17:54:07+00:00",
-      "source_published_at": "Mon, 17 Aug 2026 16:03:06 +0000",
-      "image_url": "/article_images/article_23f11a7d9295.webp",
+      "id": "2026-08-18-fun-1",
+      "source": "BBC Tennis",
+      "time_ago": "Tue, 18 Aug 2026 17:30:21 GMT",
+      "mined_at": "2026-08-18T18:02:04+00:00",
+      "source_published_at": "Tue, 18 Aug 2026 17:30:21 GMT",
+      "image_url": "/article_images/article_462c741c6980.webp",
       "category": "Fun",
-      "title": "Fire Alarm Delay Can't Stop a Record-Smashing Swim Morning!",
-      "summary": "A fire alarm made swimmers wait 30 extra minutes, but then Gabi Brito zoomed to a new meet record in the 50 fly at the Junior Pan Pacs in Vancouver. Her time: 26.45 seconds!"
+      "title": "Venus Williams Gets a US Open Wildcard — Could Serena Join Her?",
+      "summary": "Tennis legend Venus Williams, 46, got a wildcard for the US Open singles. Could her sister Serena join her? There's one spot left!"
     },
     {
-      "id": "2026-08-17-fun-2",
-      "source": "Rolling Stone Music",
-      "time_ago": "Mon, 17 Aug 2026 16:38:31 +0000",
-      "mined_at": "2026-08-17T17:54:07+00:00",
-      "source_published_at": "Mon, 17 Aug 2026 16:38:31 +0000",
-      "image_url": "/article_images/article_d8cad107fb6f.webp",
+      "id": "2026-08-18-fun-2",
+      "source": "NPR Music",
+      "time_ago": "Tue, 18 Aug 2026 06:30:00 -0400",
+      "mined_at": "2026-08-18T18:02:04+00:00",
+      "source_published_at": "Tue, 18 Aug 2026 06:30:00 -0400",
+      "image_url": "/article_images/article_c284fd2fd7e2.webp",
       "category": "Fun",
-      "title": "Rock Star Reunion: Guitar Hero Plays with His Old Band After 40 Years!",
-      "summary": "Ritchie Blackmore, the famous guitarist, surprised everyone by playing 'Smoke on the Water' with Deep Purple for the first time in 40 years. He said it felt like old friends meeting again."
+      "title": "Who Gets Paid When AI Makes Music? A Big Fight Is Happening",
+      "summary": "AI can make songs in seconds, but who gets paid? Musicians are fighting for their rights. It's a huge battle!"
     },
     {
-      "id": "2026-08-17-fun-3",
-      "source": "NG Kids — Geography",
-      "time_ago": "",
-      "mined_at": "2026-08-17T17:54:07+00:00",
-      "source_published_at": "",
-      "image_url": "/article_images/article_152af670303a.webp",
+      "id": "2026-08-18-fun-3",
+      "source": "Live Science",
+      "time_ago": "Tue, 18 Aug 2026 15:10:00 +0000",
+      "mined_at": "2026-08-18T18:02:04+00:00",
+      "source_published_at": "Tue, 18 Aug 2026 15:10:00 +0000",
+      "image_url": "/article_images/article_a11ce2f002d5.webp",
       "category": "Fun",
-      "title": "Welcome to Argentina: Land of Gauchos, Giant Waterfalls, and Soccer Fever!",
-      "summary": "Argentina is a huge country in South America, about one-third the size of the U.S. It has cowboys called gauchos, the amazing Iguazú Falls, and more than half the people live near Buenos Aires."
+      "title": "AI Designs Tiny Chip Parts 500 Times Smaller Than Ever!",
+      "summary": "AI made chip parts 500 times smaller than before! They're so tiny, you'd need a microscope. This could change computers forever!"
     }
   ]
 }

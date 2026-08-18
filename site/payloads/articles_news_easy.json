@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-17-news-1",
+      "id": "2026-08-18-news-1",
+      "source": "NPR World",
+      "time_ago": "Tue, 18 Aug 2026 05:30:00 -0400",
+      "mined_at": "2026-08-18T18:02:04+00:00",
+      "source_published_at": "Tue, 18 Aug 2026 05:30:00 -0400",
+      "image_url": "/article_images/article_b1ef987e357f.webp",
+      "category": "News",
+      "title": "Grown-Ups Race Wacky Homemade Cars Down a Volcano in Portland!",
+      "summary": "Imagine a giant sloth head on wheels zooming down a hill! That happened at Portland's Adult Soap Box Derby, where 42 crazy cars raced for fun, not speed. Thousands cheered!"
+    },
+    {
+      "id": "2026-08-18-news-2",
       "source": "Al Jazeera",
-      "time_ago": "Mon, 17 Aug 2026 17:07:29 +0000",
-      "mined_at": "2026-08-17T17:54:07+00:00",
-      "source_published_at": "Mon, 17 Aug 2026 17:07:29 +0000",
-      "image_url": "/article_images/article_7ae78eb54aea.webp",
+      "time_ago": "Tue, 18 Aug 2026 16:09:49 +0000",
+      "mined_at": "2026-08-18T18:02:04+00:00",
+      "source_published_at": "Tue, 18 Aug 2026 16:09:49 +0000",
+      "image_url": "/article_images/article_f4eeb4316292.webp",
       "category": "News",
-      "title": "Israel's Likud Party Picks Its Team for a Super Important Election",
-      "summary": "Israel's ruling Likud party is choosing who gets to run in the next big election. Prime Minister Netanyahu gets to pick 8 spots himself, leaving only 15 up for grabs. The vote could decide the country's future."
+      "title": "Famous Soccer Coach Returns to Real Madrid in a Secret Ceremony",
+      "summary": "José Mourinho, a super famous soccer coach, came back to Real Madrid. But instead of a big party, the club did it quietly in a closed room. He says it feels like coming home."
     },
     {
-      "id": "2026-08-17-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Mon, 17 Aug 2026 12:30:09 -0400",
-      "mined_at": "2026-08-17T17:54:07+00:00",
-      "source_published_at": "Mon, 17 Aug 2026 12:30:09 -0400",
-      "image_url": "/article_images/article_9ff39bdb022f.webp",
+      "id": "2026-08-18-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Tue, 18 Aug 2026 16:12:15 +0000",
+      "mined_at": "2026-08-18T18:02:04+00:00",
+      "source_published_at": "Tue, 18 Aug 2026 16:12:15 +0000",
+      "image_url": "/article_images/article_50e6b6870f67.webp",
       "category": "News",
-      "title": "Trump's Team Has More Super-Rich People Than the Last Three Presidents Combined!",
-      "summary": "A new report says President Trump has appointed 57 people worth at least $100 million. That's more than four times the number under the last three presidents put together. Some are billionaires like Education Secretary Linda McMahon."
-    },
-    {
-      "id": "2026-08-17-news-3",
-      "source": "PBS NewsHour",
-      "time_ago": "Mon, 17 Aug 2026 13:19:28 -0400",
-      "mined_at": "2026-08-17T17:54:07+00:00",
-      "source_published_at": "Mon, 17 Aug 2026 13:19:28 -0400",
-      "image_url": "/article_images/article_ca7b4c78d8a4.webp",
-      "category": "News",
-      "title": "Kushner Meets Netanyahu After Hamas Talks: Will the Gaza Ceasefire Move Forward?",
-      "summary": "Jared Kushner, President Trump's son-in-law, met with Israeli PM Netanyahu about the Gaza ceasefire plan. Hamas says it agreed, but Israel wants Hamas to fully disarm first. The lives of 2 million Palestinians hang in the balance."
+      "title": "Disney Sues the Government, Saying It's Being Punished for Its News",
+      "summary": "Disney is taking the FCC to court because it says the government wants to take away its TV station licenses just because it doesn't like the news coverage. Disney says that's not fair."
     }
   ]
 }

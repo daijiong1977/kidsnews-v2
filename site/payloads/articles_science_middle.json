@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-17-science-1",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Mon, 17 Aug 2026 08:40:17 EDT",
-      "mined_at": "2026-08-17T17:54:07+00:00",
-      "source_published_at": "Mon, 17 Aug 2026 08:40:17 EDT",
-      "image_url": "/article_images/article_cc3c5b619610.webp",
+      "id": "2026-08-18-science-1",
+      "source": "Science News Explores",
+      "time_ago": "Tue, 18 Aug 2026 10:30:00 +0000",
+      "mined_at": "2026-08-18T18:02:04+00:00",
+      "source_published_at": "Tue, 18 Aug 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_cfe223b55c65.webp",
       "category": "Science",
-      "title": "Fossils from 1.7 Billion Years Ago Could Rewrite the Story of Complex Life's Origins",
-      "summary": "Newly discovered microfossils from Canada may be the oldest complex cells ever found, pushing back the timeline for eukaryotes. The 1.7-billion-year-old specimens show possible signs of cell engulfment, a key step in evolution."
+      "title": "It's Not Just Royal Jelly: The Wax in a Queen Bee's Crib Matters Too",
+      "summary": "Scientists discovered that the wax in a queen bee's cell is softer, less dense, and chemically different from worker cell wax. This special wax, built by 'royal nurses,' may help turn a larva into a queen."
     },
     {
-      "id": "2026-08-17-science-2",
+      "id": "2026-08-18-science-2",
       "source": "Space.com",
-      "time_ago": "Mon, 17 Aug 2026 16:00:00 +0000",
-      "mined_at": "2026-08-17T17:54:07+00:00",
-      "source_published_at": "Mon, 17 Aug 2026 16:00:00 +0000",
-      "image_url": "/article_images/article_a162b197c136.webp",
+      "time_ago": "Tue, 18 Aug 2026 17:29:19 +0000",
+      "mined_at": "2026-08-18T18:02:04+00:00",
+      "source_published_at": "Tue, 18 Aug 2026 17:29:19 +0000",
+      "image_url": "/article_images/article_2aebacf868fd.webp",
       "category": "Science",
-      "title": "Ahsoka Season 2 Trailer Reveals Release Date, Massive Battles, and More Anakin",
-      "summary": "The first trailer for Ahsoka season 2 debuted at D23, revealing a January 20, 2027 premiere on Disney Plus. It teases epic space battles, Thrawn's threat, and a larger role for Anakin Skywalker."
+      "title": "After a 24-Day Ocean Ordeal, SpaceX's Starship Floats to Christmas Island",
+      "summary": "SpaceX's Ship 40, the first Starship upper stage to survive an ocean splashdown intact, has been towed to calmer waters near Christmas Island after a 24-day journey. Engineers will now inspect it to improve future flights."
     },
     {
-      "id": "2026-08-17-science-3",
-      "source": "MIT Tech Review",
-      "time_ago": "Mon, 17 Aug 2026 12:10:00 +0000",
-      "mined_at": "2026-08-17T17:54:07+00:00",
-      "source_published_at": "Mon, 17 Aug 2026 12:10:00 +0000",
-      "image_url": "/article_images/article_ef8356bae953.webp",
+      "id": "2026-08-18-science-3",
+      "source": "Smithsonian Science-Nature",
+      "time_ago": "Tue, 18 Aug 2026 16:00:01 +0000",
+      "mined_at": "2026-08-18T18:02:04+00:00",
+      "source_published_at": "Tue, 18 Aug 2026 16:00:01 +0000",
+      "image_url": "/article_images/article_4be4dde25215.webp",
       "category": "Science",
-      "title": "When a Child's Robot Friend Dies: The Rise and Fall of AI Companion Toys",
-      "summary": "Moxie, a social robot for neurodivergent kids, became a lifeline for some children. But when its maker shut down, the robots stopped working, exposing the risks of AI companions that depend on corporate servers."
+      "title": "What If the Cosmos Evolves Like a Living Organism?",
+      "summary": "A niche theory called 'cosmological evolution' suggests universes reproduce through black holes and evolve over generations. Once dismissed, the idea is gaining attention thanks to a writer and new telescope data."
     }
   ]
 }
