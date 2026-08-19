@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-18-science-1",
-      "source": "Science News Explores",
-      "time_ago": "Tue, 18 Aug 2026 10:30:00 +0000",
-      "mined_at": "2026-08-18T18:02:04+00:00",
-      "source_published_at": "Tue, 18 Aug 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_cfe223b55c65.webp",
-      "category": "Science",
-      "title": "It's Not Just Royal Jelly: The Wax in a Queen Bee's Crib Matters Too",
-      "summary": "Scientists discovered that the wax in a queen bee's cell is softer, less dense, and chemically different from worker cell wax. This special wax, built by 'royal nurses,' may help turn a larva into a queen."
-    },
-    {
-      "id": "2026-08-18-science-2",
+      "id": "2026-08-19-science-1",
       "source": "Space.com",
-      "time_ago": "Tue, 18 Aug 2026 17:29:19 +0000",
-      "mined_at": "2026-08-18T18:02:04+00:00",
-      "source_published_at": "Tue, 18 Aug 2026 17:29:19 +0000",
-      "image_url": "/article_images/article_2aebacf868fd.webp",
+      "time_ago": "Wed, 19 Aug 2026 17:00:00 +0000",
+      "mined_at": "2026-08-19T17:59:03+00:00",
+      "source_published_at": "Wed, 19 Aug 2026 17:00:00 +0000",
+      "image_url": "/article_images/article_6df8c0e2680b.webp",
       "category": "Science",
-      "title": "After a 24-Day Ocean Ordeal, SpaceX's Starship Floats to Christmas Island",
-      "summary": "SpaceX's Ship 40, the first Starship upper stage to survive an ocean splashdown intact, has been towed to calmer waters near Christmas Island after a 24-day journey. Engineers will now inspect it to improve future flights."
+      "title": "NASA Spots the Lunar Grave of a SpaceX Rocket That Slammed Into the Moon",
+      "summary": "A SpaceX Falcon 9 upper stage hit the moon at 5,400 mph on Aug. 5. NASA's LRO has now imaged the 60-foot-wide crater near Einstein Crater."
     },
     {
-      "id": "2026-08-18-science-3",
-      "source": "Smithsonian Science-Nature",
-      "time_ago": "Tue, 18 Aug 2026 16:00:01 +0000",
-      "mined_at": "2026-08-18T18:02:04+00:00",
-      "source_published_at": "Tue, 18 Aug 2026 16:00:01 +0000",
-      "image_url": "/article_images/article_4be4dde25215.webp",
+      "id": "2026-08-19-science-2",
+      "source": "IEEE Spectrum",
+      "time_ago": "Mon, 17 Aug 2026 18:00:04 +0000",
+      "mined_at": "2026-08-19T17:59:03+00:00",
+      "source_published_at": "Mon, 17 Aug 2026 18:00:04 +0000",
+      "image_url": "/article_images/article_fa8a799c2691.webp",
       "category": "Science",
-      "title": "What If the Cosmos Evolves Like a Living Organism?",
-      "summary": "A niche theory called 'cosmological evolution' suggests universes reproduce through black holes and evolve over generations. Once dismissed, the idea is gaining attention thanks to a writer and new telescope data."
+      "title": "High School Sophomore Wins $10,000 for Tongue-Controlled Wheelchair Interface",
+      "summary": "Holly Tang's Tonguage uses a standard webcam to let users steer a wheelchair with tongue movements and click with eye blinks. She won the IEEE Presidents' Scholarship."
+    },
+    {
+      "id": "2026-08-19-science-3",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Mon, 17 Aug 2026 04:06:45 EDT",
+      "mined_at": "2026-08-19T17:59:03+00:00",
+      "source_published_at": "Mon, 17 Aug 2026 04:06:45 EDT",
+      "image_url": "/article_images/article_eef4f442d436.webp",
+      "category": "Science",
+      "title": "DNA-Based Memory Device Uses 100x Less Power, Paving Way for Brain-Like Computers",
+      "summary": "Penn State researchers built a memristor from synthetic DNA and perovskite that operates on under 0.1 volt and stays stable for weeks. It could boost AI efficiency."
     }
   ]
 }

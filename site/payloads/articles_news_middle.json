@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-18-news-1",
-      "source": "NPR World",
-      "time_ago": "Tue, 18 Aug 2026 05:30:00 -0400",
-      "mined_at": "2026-08-18T18:02:04+00:00",
-      "source_published_at": "Tue, 18 Aug 2026 05:30:00 -0400",
-      "image_url": "/article_images/article_b1ef987e357f.webp",
+      "id": "2026-08-19-news-1",
+      "source": "PBS NewsHour",
+      "time_ago": "Wed, 19 Aug 2026 13:19:12 -0400",
+      "mined_at": "2026-08-19T17:59:03+00:00",
+      "source_published_at": "Wed, 19 Aug 2026 13:19:12 -0400",
+      "image_url": "/article_images/article_1eeaee08fc6c.webp",
       "category": "News",
-      "title": "Portland's Adult Soap Box Derby: Where Gravity Meets Glitter and a Giant Sloth Head",
-      "summary": "A dragon car built from a kid's drawing, a Zamboni, and a giant sloth head all raced down an extinct volcano in Portland. The 27th Adult Soap Box Derby drew thousands for a celebration of creativity over speed."
+      "title": "Eight Black Candidates Vie for Governor in Historic Election Year",
+      "summary": "Only three Black Americans have ever been elected governor. This November, eight Black major-party candidates are on the ballot—a historic high. They represent both parties and could reshape state leadership."
     },
     {
-      "id": "2026-08-18-news-2",
-      "source": "Al Jazeera",
-      "time_ago": "Tue, 18 Aug 2026 16:09:49 +0000",
-      "mined_at": "2026-08-18T18:02:04+00:00",
-      "source_published_at": "Tue, 18 Aug 2026 16:09:49 +0000",
-      "image_url": "/article_images/article_f4eeb4316292.webp",
+      "id": "2026-08-19-news-2",
+      "source": "BBC News",
+      "time_ago": "Wed, 19 Aug 2026 14:06:42 GMT",
+      "mined_at": "2026-08-19T17:59:03+00:00",
+      "source_published_at": "Wed, 19 Aug 2026 14:06:42 GMT",
+      "image_url": "/article_images/article_a20328cbf04c.webp",
       "category": "News",
-      "title": "Mourinho's Low-Key Return to Real Madrid: A Closed-Door Homecoming",
-      "summary": "José Mourinho signed a contract until 2029 in a private ceremony, a stark contrast to Real Madrid's usual spectacle. The club, under pressure after two trophy-less years, is opting for discretion."
+      "title": "Track Defect Found at Site of Lewes Train Derailment, Investigators Say",
+      "summary": "A preliminary report says a track irregularity was found where a train derailed near Lewes, England, injuring 30 people. Hot, dry weather may have caused the clay embankment to shift. Investigators are also reviewing maintenance records."
     },
     {
-      "id": "2026-08-18-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Tue, 18 Aug 2026 16:12:15 +0000",
-      "mined_at": "2026-08-18T18:02:04+00:00",
-      "source_published_at": "Tue, 18 Aug 2026 16:12:15 +0000",
-      "image_url": "/article_images/article_50e6b6870f67.webp",
+      "id": "2026-08-19-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Wed, 19 Aug 2026 12:21:38 -0400",
+      "mined_at": "2026-08-19T17:59:03+00:00",
+      "source_published_at": "Wed, 19 Aug 2026 12:21:38 -0400",
+      "image_url": "/article_images/article_0a6012db4ffb.webp",
       "category": "News",
-      "title": "Disney Sues FCC, Alleging Political Retaliation Over ABC's Coverage",
-      "summary": "Disney filed a lawsuit against the FCC, claiming the agency's early license review of eight ABC stations is retaliation for coverage that angered President Trump. Free speech advocates are praising the move."
+      "title": "North Korea Dismisses Scaled-Back U.S. Drills, Denies Trump-Kim Talks",
+      "summary": "North Korea says reducing U.S.-South Korea military exercises changes nothing—they still see them as hostile. Kim Yo Jong, the leader's sister, also denied any communications between Trump and Kim Jong Un, despite Trump's claims."
     }
   ]
 }

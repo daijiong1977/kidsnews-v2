@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-18-news-1",
-      "source": "NPR World",
-      "time_ago": "Tue, 18 Aug 2026 05:30:00 -0400",
-      "mined_at": "2026-08-18T18:02:04+00:00",
-      "source_published_at": "Tue, 18 Aug 2026 05:30:00 -0400",
-      "image_url": "/article_images/article_b1ef987e357f.webp",
+      "id": "2026-08-19-news-1",
+      "source": "PBS NewsHour",
+      "time_ago": "Wed, 19 Aug 2026 13:19:12 -0400",
+      "mined_at": "2026-08-19T17:59:03+00:00",
+      "source_published_at": "Wed, 19 Aug 2026 13:19:12 -0400",
+      "image_url": "/article_images/article_1eeaee08fc6c.webp",
       "category": "News",
-      "title": "Grown-Ups Race Wacky Homemade Cars Down a Volcano in Portland!",
-      "summary": "Imagine a giant sloth head on wheels zooming down a hill! That happened at Portland's Adult Soap Box Derby, where 42 crazy cars raced for fun, not speed. Thousands cheered!"
+      "title": "A Record Number of Black Candidates Are Running for Governor This Year",
+      "summary": "Only three Black people have ever been elected governor in U.S. history. This year, eight Black candidates are running—the most ever. They come from both parties and many states."
     },
     {
-      "id": "2026-08-18-news-2",
-      "source": "Al Jazeera",
-      "time_ago": "Tue, 18 Aug 2026 16:09:49 +0000",
-      "mined_at": "2026-08-18T18:02:04+00:00",
-      "source_published_at": "Tue, 18 Aug 2026 16:09:49 +0000",
-      "image_url": "/article_images/article_f4eeb4316292.webp",
+      "id": "2026-08-19-news-2",
+      "source": "BBC News",
+      "time_ago": "Wed, 19 Aug 2026 14:06:42 GMT",
+      "mined_at": "2026-08-19T17:59:03+00:00",
+      "source_published_at": "Wed, 19 Aug 2026 14:06:42 GMT",
+      "image_url": "/article_images/article_a20328cbf04c.webp",
       "category": "News",
-      "title": "Famous Soccer Coach Returns to Real Madrid in a Secret Ceremony",
-      "summary": "José Mourinho, a super famous soccer coach, came back to Real Madrid. But instead of a big party, the club did it quietly in a closed room. He says it feels like coming home."
+      "title": "A Train Crash in England May Have Been Caused by a Bumpy Track",
+      "summary": "A train derailed near Lewes, England, hurting 30 people. Investigators found a defect in the track. The hot weather may have made the ground shift under the rails."
     },
     {
-      "id": "2026-08-18-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Tue, 18 Aug 2026 16:12:15 +0000",
-      "mined_at": "2026-08-18T18:02:04+00:00",
-      "source_published_at": "Tue, 18 Aug 2026 16:12:15 +0000",
-      "image_url": "/article_images/article_50e6b6870f67.webp",
+      "id": "2026-08-19-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Wed, 19 Aug 2026 12:21:38 -0400",
+      "mined_at": "2026-08-19T17:59:03+00:00",
+      "source_published_at": "Wed, 19 Aug 2026 12:21:38 -0400",
+      "image_url": "/article_images/article_0a6012db4ffb.webp",
       "category": "News",
-      "title": "Disney Sues the Government, Saying It's Being Punished for Its News",
-      "summary": "Disney is taking the FCC to court because it says the government wants to take away its TV station licenses just because it doesn't like the news coverage. Disney says that's not fair."
+      "title": "North Korea Says Smaller U.S. Drills Still Feel Threatening",
+      "summary": "The U.S. and South Korea made their military drills smaller. But North Korea's leader's sister said it doesn't change anything—they still see the drills as hostile. She also said there are no talks between Trump and Kim Jong Un."
     }
   ]
 }
