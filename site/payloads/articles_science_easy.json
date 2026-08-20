@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-19-science-1",
-      "source": "Space.com",
-      "time_ago": "Wed, 19 Aug 2026 17:00:00 +0000",
-      "mined_at": "2026-08-19T17:59:03+00:00",
-      "source_published_at": "Wed, 19 Aug 2026 17:00:00 +0000",
-      "image_url": "/article_images/article_6df8c0e2680b.webp",
+      "id": "2026-08-20-science-1",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Thu, 20 Aug 2026 03:10:38 EDT",
+      "mined_at": "2026-08-20T17:56:13+00:00",
+      "source_published_at": "Thu, 20 Aug 2026 03:10:38 EDT",
+      "image_url": "/article_images/article_7d682853335c.webp",
       "category": "Science",
-      "title": "A SpaceX Rocket Crashed Into the Moon — and NASA Found the Hole!",
-      "summary": "A leftover SpaceX rocket slammed into the moon at 5,400 mph. NASA's spacecraft spotted the new crater — it's 60 feet wide!"
+      "title": "A Rocket Crashed Into the Moon — and NASA Just Found the Hole!",
+      "summary": "A SpaceX rocket part smashed into the Moon on August 5. NASA's orbiter finally snapped a photo of the crater it left behind. The hole is about 60 feet wide and less than 10 feet deep."
     },
     {
-      "id": "2026-08-19-science-2",
-      "source": "IEEE Spectrum",
-      "time_ago": "Mon, 17 Aug 2026 18:00:04 +0000",
-      "mined_at": "2026-08-19T17:59:03+00:00",
-      "source_published_at": "Mon, 17 Aug 2026 18:00:04 +0000",
-      "image_url": "/article_images/article_fa8a799c2691.webp",
+      "id": "2026-08-20-science-2",
+      "source": "Popular Science",
+      "time_ago": "Thu, 20 Aug 2026 11:00:00 -0400",
+      "mined_at": "2026-08-20T17:56:13+00:00",
+      "source_published_at": "Thu, 20 Aug 2026 11:00:00 -0400",
+      "image_url": "/article_images/article_a8d259f8b481.webp",
       "category": "Science",
-      "title": "Teen Builds a Tongue-Controlled Wheelchair and Wins $10,000!",
-      "summary": "Holly Tang, a high school sophomore, won $10,000 for her invention: a wheelchair you can steer with your tongue and eye blinks!"
+      "title": "A Damselfly Peeking Through a Leaf Wins Big Photo Prize",
+      "summary": "A photo of an orange-tailed damselfly looking through a hole in a leaf won a big nature photo contest. The tiny insect is a sign that wetlands are healthy. Other winning photos show frogs, cuttlefish, and sea turtles."
     },
     {
-      "id": "2026-08-19-science-3",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Mon, 17 Aug 2026 04:06:45 EDT",
-      "mined_at": "2026-08-19T17:59:03+00:00",
-      "source_published_at": "Mon, 17 Aug 2026 04:06:45 EDT",
-      "image_url": "/article_images/article_eef4f442d436.webp",
+      "id": "2026-08-20-science-3",
+      "source": "Physics World",
+      "time_ago": "Thu, 20 Aug 2026 14:20:48 +0000",
+      "mined_at": "2026-08-20T17:56:13+00:00",
+      "source_published_at": "Thu, 20 Aug 2026 14:20:48 +0000",
+      "image_url": "/article_images/article_8e99161688f1.webp",
       "category": "Science",
-      "title": "Scientists Made a Computer Memory Out of DNA — It Uses 100x Less Power!",
-      "summary": "Researchers at Penn State built a memory device using DNA and a special material. It uses 100 times less power than flash drives!"
+      "title": "Mysterious 'Little Red Dots' in Space Might Be Baby Black Holes!",
+      "summary": "Astronomers found a weird glowing object called a 'black-hole star' that shines 100 billion times brighter than any normal star. It might be a baby supermassive black hole wrapped in a gas cocoon. This could explain the universe's biggest black holes."
     }
   ]
 }

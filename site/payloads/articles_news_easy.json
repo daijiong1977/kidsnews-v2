@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-19-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Wed, 19 Aug 2026 13:19:12 -0400",
-      "mined_at": "2026-08-19T17:59:03+00:00",
-      "source_published_at": "Wed, 19 Aug 2026 13:19:12 -0400",
-      "image_url": "/article_images/article_1eeaee08fc6c.webp",
+      "id": "2026-08-20-news-1",
+      "source": "NPR World",
+      "time_ago": "Thu, 20 Aug 2026 11:18:21 -0400",
+      "mined_at": "2026-08-20T17:56:13+00:00",
+      "source_published_at": "Thu, 20 Aug 2026 11:18:21 -0400",
+      "image_url": "/article_images/article_df49b69c4217.webp",
       "category": "News",
-      "title": "A Record Number of Black Candidates Are Running for Governor This Year",
-      "summary": "Only three Black people have ever been elected governor in U.S. history. This year, eight Black candidates are running—the most ever. They come from both parties and many states."
+      "title": "Race Cars Zoom Past Museums: Will the Art Be Okay?",
+      "summary": "IndyCar racers will speed up to 180 mph around Washington D.C.'s National Mall this weekend. Some people worry the vibrations could hurt the art inside museums. A giant blue rooster sculpture sits right by the track!"
     },
     {
-      "id": "2026-08-19-news-2",
+      "id": "2026-08-20-news-2",
       "source": "BBC News",
-      "time_ago": "Wed, 19 Aug 2026 14:06:42 GMT",
-      "mined_at": "2026-08-19T17:59:03+00:00",
-      "source_published_at": "Wed, 19 Aug 2026 14:06:42 GMT",
-      "image_url": "/article_images/article_a20328cbf04c.webp",
+      "time_ago": "Thu, 20 Aug 2026 14:28:32 GMT",
+      "mined_at": "2026-08-20T17:56:13+00:00",
+      "source_published_at": "Thu, 20 Aug 2026 14:28:32 GMT",
+      "image_url": "/article_images/article_9853af74d503.webp",
       "category": "News",
-      "title": "A Train Crash in England May Have Been Caused by a Bumpy Track",
-      "summary": "A train derailed near Lewes, England, hurting 30 people. Investigators found a defect in the track. The hot weather may have made the ground shift under the rails."
+      "title": "GCSE Results Are In: What's Really Going On?",
+      "summary": "This year's GCSE results look a lot like 2019's, but there are some big surprises. Nearly a quarter of maths and English exams were taken by students 17 or older who were resitting. The government calls the system \"demoralising.\""
     },
     {
-      "id": "2026-08-19-news-3",
+      "id": "2026-08-20-news-3",
       "source": "PBS NewsHour",
-      "time_ago": "Wed, 19 Aug 2026 12:21:38 -0400",
-      "mined_at": "2026-08-19T17:59:03+00:00",
-      "source_published_at": "Wed, 19 Aug 2026 12:21:38 -0400",
-      "image_url": "/article_images/article_0a6012db4ffb.webp",
+      "time_ago": "Thu, 20 Aug 2026 11:02:35 -0400",
+      "mined_at": "2026-08-20T17:56:13+00:00",
+      "source_published_at": "Thu, 20 Aug 2026 11:02:35 -0400",
+      "image_url": "/article_images/article_5b50306c6053.webp",
       "category": "News",
-      "title": "North Korea Says Smaller U.S. Drills Still Feel Threatening",
-      "summary": "The U.S. and South Korea made their military drills smaller. But North Korea's leader's sister said it doesn't change anything—they still see the drills as hostile. She also said there are no talks between Trump and Kim Jong Un."
+      "title": "Democrats Pick Three Cities for Their Big 2028 Party",
+      "summary": "The Democratic Party is choosing where to hold its huge 2028 presidential convention. They've narrowed it down to Boston, Denver, or Philadelphia. The winner will host thousands of people in August 2028."
     }
   ]
 }

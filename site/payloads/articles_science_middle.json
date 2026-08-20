@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-19-science-1",
-      "source": "Space.com",
-      "time_ago": "Wed, 19 Aug 2026 17:00:00 +0000",
-      "mined_at": "2026-08-19T17:59:03+00:00",
-      "source_published_at": "Wed, 19 Aug 2026 17:00:00 +0000",
-      "image_url": "/article_images/article_6df8c0e2680b.webp",
+      "id": "2026-08-20-science-1",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Thu, 20 Aug 2026 03:10:38 EDT",
+      "mined_at": "2026-08-20T17:56:13+00:00",
+      "source_published_at": "Thu, 20 Aug 2026 03:10:38 EDT",
+      "image_url": "/article_images/article_7d682853335c.webp",
       "category": "Science",
-      "title": "NASA Spots the Lunar Grave of a SpaceX Rocket That Slammed Into the Moon",
-      "summary": "A SpaceX Falcon 9 upper stage hit the moon at 5,400 mph on Aug. 5. NASA's LRO has now imaged the 60-foot-wide crater near Einstein Crater."
+      "title": "NASA Photographs the Crater from a SpaceX Rocket's Lunar Crash",
+      "summary": "A SpaceX Falcon 9 upper stage hit the Moon on August 5, creating a 60-foot-wide crater. NASA's Lunar Reconnaissance Orbiter captured images after a six-day wait and precise timing. The impact site was found with international help, including South Korea's Danuri orbiter."
     },
     {
-      "id": "2026-08-19-science-2",
-      "source": "IEEE Spectrum",
-      "time_ago": "Mon, 17 Aug 2026 18:00:04 +0000",
-      "mined_at": "2026-08-19T17:59:03+00:00",
-      "source_published_at": "Mon, 17 Aug 2026 18:00:04 +0000",
-      "image_url": "/article_images/article_fa8a799c2691.webp",
+      "id": "2026-08-20-science-2",
+      "source": "Popular Science",
+      "time_ago": "Thu, 20 Aug 2026 11:00:00 -0400",
+      "mined_at": "2026-08-20T17:56:13+00:00",
+      "source_published_at": "Thu, 20 Aug 2026 11:00:00 -0400",
+      "image_url": "/article_images/article_a8d259f8b481.webp",
       "category": "Science",
-      "title": "High School Sophomore Wins $10,000 for Tongue-Controlled Wheelchair Interface",
-      "summary": "Holly Tang's Tonguage uses a standard webcam to let users steer a wheelchair with tongue movements and click with eye blinks. She won the IEEE Presidents' Scholarship."
+      "title": "Peek-a-Boo Damselfly Wins Top Prize in Ecology Photo Contest",
+      "summary": "An image of an orange-tailed marsh dart damselfly peering through a leaf hole won the 2026 BMC Ecology and Evolution image competition. The photo highlights the importance of threatened wetlands. Other winners showcase frog tracking, cuttlefish mating battles, and community-led sea turtle conservation."
     },
     {
-      "id": "2026-08-19-science-3",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Mon, 17 Aug 2026 04:06:45 EDT",
-      "mined_at": "2026-08-19T17:59:03+00:00",
-      "source_published_at": "Mon, 17 Aug 2026 04:06:45 EDT",
-      "image_url": "/article_images/article_eef4f442d436.webp",
+      "id": "2026-08-20-science-3",
+      "source": "Physics World",
+      "time_ago": "Thu, 20 Aug 2026 14:20:48 +0000",
+      "mined_at": "2026-08-20T17:56:13+00:00",
+      "source_published_at": "Thu, 20 Aug 2026 14:20:48 +0000",
+      "image_url": "/article_images/article_8e99161688f1.webp",
       "category": "Science",
-      "title": "DNA-Based Memory Device Uses 100x Less Power, Paving Way for Brain-Like Computers",
-      "summary": "Penn State researchers built a memristor from synthetic DNA and perovskite that operates on under 0.1 volt and stays stable for weeks. It could boost AI efficiency."
+      "title": "Black-Hole Stars: The Secret Behind the Universe's 'Little Red Dots'?",
+      "summary": "Astronomers have found the best evidence yet for a 'black-hole star'—a newborn supermassive black hole wrapped in a dense gas cocoon—inside a mysterious little red dot from 660 million years after the Big Bang. The object, MoM-BH*-1, shines 100 billion times brighter than any known star and has an unprecedented Balmer break, suggesting a new class of astrophysical object."
     }
   ]
 }
