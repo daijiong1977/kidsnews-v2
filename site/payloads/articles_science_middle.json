@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-20-science-1",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Thu, 20 Aug 2026 03:10:38 EDT",
-      "mined_at": "2026-08-20T17:56:13+00:00",
-      "source_published_at": "Thu, 20 Aug 2026 03:10:38 EDT",
-      "image_url": "/article_images/article_7d682853335c.webp",
+      "id": "2026-08-21-science-1",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Thu, 20 Aug 2026 23:43:10 EDT",
+      "mined_at": "2026-08-21T18:19:57+00:00",
+      "source_published_at": "Thu, 20 Aug 2026 23:43:10 EDT",
+      "image_url": "/article_images/article_323c14134a3e.webp",
       "category": "Science",
-      "title": "NASA Photographs the Crater from a SpaceX Rocket's Lunar Crash",
-      "summary": "A SpaceX Falcon 9 upper stage hit the Moon on August 5, creating a 60-foot-wide crater. NASA's Lunar Reconnaissance Orbiter captured images after a six-day wait and precise timing. The impact site was found with international help, including South Korea's Danuri orbiter."
+      "title": "A Lost Mega-Cliff May Solve the Grand Canyon's Billion-Year Mystery",
+      "summary": "A colossal escarpment, formed when the supercontinent Rodinia split 800 million years ago, may have eroded away up to 8 km of rock, exposing the Grand Canyon's ancient basement. This could explain the Great Unconformity—a billion-year gap in the rock record."
     },
     {
-      "id": "2026-08-20-science-2",
-      "source": "Popular Science",
-      "time_ago": "Thu, 20 Aug 2026 11:00:00 -0400",
-      "mined_at": "2026-08-20T17:56:13+00:00",
-      "source_published_at": "Thu, 20 Aug 2026 11:00:00 -0400",
-      "image_url": "/article_images/article_a8d259f8b481.webp",
+      "id": "2026-08-21-science-2",
+      "source": "Space.com",
+      "time_ago": "Fri, 21 Aug 2026 15:37:33 +0000",
+      "mined_at": "2026-08-21T18:19:57+00:00",
+      "source_published_at": "Fri, 21 Aug 2026 15:37:33 +0000",
+      "image_url": "/article_images/article_93d75bae0a0c.webp",
       "category": "Science",
-      "title": "Peek-a-Boo Damselfly Wins Top Prize in Ecology Photo Contest",
-      "summary": "An image of an orange-tailed marsh dart damselfly peering through a leaf hole won the 2026 BMC Ecology and Evolution image competition. The photo highlights the importance of threatened wetlands. Other winners showcase frog tracking, cuttlefish mating battles, and community-led sea turtle conservation."
+      "title": "Could Dark Stars Be the Missing Link to Supermassive Black Holes?",
+      "summary": "A new theory proposes that hypothetical 'dark stars,' powered by dark matter annihilation, collapsed into massive black hole seeds in the early universe. Their mergers could explain the low-frequency gravitational wave hum detected by pulsar timing arrays."
     },
     {
-      "id": "2026-08-20-science-3",
-      "source": "Physics World",
-      "time_ago": "Thu, 20 Aug 2026 14:20:48 +0000",
-      "mined_at": "2026-08-20T17:56:13+00:00",
-      "source_published_at": "Thu, 20 Aug 2026 14:20:48 +0000",
-      "image_url": "/article_images/article_8e99161688f1.webp",
+      "id": "2026-08-21-science-3",
+      "source": "Science News Explores",
+      "time_ago": "Wed, 19 Aug 2026 10:30:00 +0000",
+      "mined_at": "2026-08-21T18:19:57+00:00",
+      "source_published_at": "Wed, 19 Aug 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_22710a712fa5.webp",
       "category": "Science",
-      "title": "Black-Hole Stars: The Secret Behind the Universe's 'Little Red Dots'?",
-      "summary": "Astronomers have found the best evidence yet for a 'black-hole star'—a newborn supermassive black hole wrapped in a dense gas cocoon—inside a mysterious little red dot from 660 million years after the Big Bang. The object, MoM-BH*-1, shines 100 billion times brighter than any known star and has an unprecedented Balmer break, suggesting a new class of astrophysical object."
+      "title": "AI as Math Tutor: Helpful Tool or Harmful Crutch?",
+      "summary": "A survey of 1,300 high-achieving math students reveals that AI can be beneficial when used to explain concepts and check work, but harmful if it replaces struggle. Teachers warn that overreliance on AI leads to poor test performance."
     }
   ]
 }

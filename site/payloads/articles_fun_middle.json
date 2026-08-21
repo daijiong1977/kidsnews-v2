@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-20-fun-1",
-      "source": "DOGOnews",
-      "time_ago": "",
-      "mined_at": "2026-08-20T17:56:13+00:00",
-      "source_published_at": "",
-      "image_url": "/article_images/article_ccbfa311361b.webp",
+      "id": "2026-08-21-fun-1",
+      "source": "Kotaku",
+      "time_ago": "Fri, 21 Aug 2026 15:02:02 +0000",
+      "mined_at": "2026-08-21T18:19:57+00:00",
+      "source_published_at": "Fri, 21 Aug 2026 15:02:02 +0000",
+      "image_url": "/article_images/article_6f7a9dfb4c5a.webp",
       "category": "Fun",
-      "title": "Record-Breaking T. Rex 'Gus' Sells for $50.1 Million, But Scientists Worry About the Future of Fossils",
-      "summary": "A nearly complete T. rex skeleton named Gus sold for a record $50.1 million at a Sotheby's auction in New York. The anonymous buyer's plans are unknown, leaving scientists concerned about research access."
+      "title": "GTA 6 Leaks Keep Coming: Hyper-Realistic Driving Footage Has Fans Hyped and 2K Furious",
+      "summary": "A persistent leaker known as Cyberleek has released another GTA 6 clip, this time showing incredibly detailed driving and stunning puddle reflections. The footage has fans excited but publisher 2K is on a legal warpath, subpoenaing Microsoft and Discord. The official reveal is set for Netflix on August 27."
     },
     {
-      "id": "2026-08-20-fun-2",
-      "source": "/Film",
-      "time_ago": "Thu, 20 Aug 2026 17:00:00 +0000",
-      "mined_at": "2026-08-20T17:56:13+00:00",
-      "source_published_at": "Thu, 20 Aug 2026 17:00:00 +0000",
-      "image_url": "/article_images/article_3a834c73c2be.webp",
-      "category": "Fun",
-      "title": "Star Trek: Strange New Worlds Casts Comedy Veterans as Orion Pirates in Puppet-Filled Episode",
-      "summary": "The latest Strange New Worlds episode features Orion pirates turning the Enterprise crew into puppets. Comedy actors Rachael Harris and Joe Lo Truglio play the Orion captain and commander, bringing humor to the sci-fi series."
-    },
-    {
-      "id": "2026-08-20-fun-3",
+      "id": "2026-08-21-fun-2",
       "source": "BBC Tennis",
-      "time_ago": "Thu, 20 Aug 2026 06:39:35 GMT",
-      "mined_at": "2026-08-20T17:56:13+00:00",
-      "source_published_at": "Thu, 20 Aug 2026 06:39:35 GMT",
-      "image_url": "/article_images/article_6ef7ce1c3e3f.webp",
+      "time_ago": "Fri, 21 Aug 2026 16:31:26 GMT",
+      "mined_at": "2026-08-21T18:19:57+00:00",
+      "source_published_at": "Fri, 21 Aug 2026 16:31:26 GMT",
+      "image_url": "/article_images/article_b75a882df3f5.webp",
       "category": "Fun",
-      "title": "Sabalenka's US Open Prep Hits Another Snag as 20-Year-Old Bejlek Stuns World No. 1 in Cincinnati",
-      "summary": "Aryna Sabalenka blew big leads in both sets and lost to Sara Bejlek at the Cincinnati Open. The 20-year-old Czech, ranked 35th, earned her first top-10 win. Sabalenka's world No. 1 ranking is now under threat."
+      "title": "Injury Woes: Sinner and Draper Withdraw from US Open, Alcaraz Returns",
+      "summary": "World No. 1 Jannik Sinner and Britain's Jack Draper have both withdrawn from the US Open due to injuries. Sinner cited a knee issue, while Draper continues to struggle with a long-term arm injury. Meanwhile, Carlos Alcaraz is set to return after a four-month absence with a wrist injury."
+    },
+    {
+      "id": "2026-08-21-fun-3",
+      "source": "Wired Gear",
+      "time_ago": "Fri, 21 Aug 2026 11:33:00 +0000",
+      "mined_at": "2026-08-21T18:19:57+00:00",
+      "source_published_at": "Fri, 21 Aug 2026 11:33:00 +0000",
+      "image_url": "/article_images/article_ca106c305693.webp",
+      "category": "Fun",
+      "title": "We Tested the Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, and Dreame",
+      "summary": "After four years of testing, the Beatbot AquaSense 2 Ultra is the top robotic pool cleaner, but at $3,000 and 29 pounds, it's not for everyone. The Dreame Z1 Pro, now just $499, offers great value, while the iGarden M1-AI can run for up to nine hours on a single charge."
     }
   ]
 }

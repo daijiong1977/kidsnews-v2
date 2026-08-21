@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-20-science-1",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Thu, 20 Aug 2026 03:10:38 EDT",
-      "mined_at": "2026-08-20T17:56:13+00:00",
-      "source_published_at": "Thu, 20 Aug 2026 03:10:38 EDT",
-      "image_url": "/article_images/article_7d682853335c.webp",
+      "id": "2026-08-21-science-1",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Thu, 20 Aug 2026 23:43:10 EDT",
+      "mined_at": "2026-08-21T18:19:57+00:00",
+      "source_published_at": "Thu, 20 Aug 2026 23:43:10 EDT",
+      "image_url": "/article_images/article_323c14134a3e.webp",
       "category": "Science",
-      "title": "A Rocket Crashed Into the Moon — and NASA Just Found the Hole!",
-      "summary": "A SpaceX rocket part smashed into the Moon on August 5. NASA's orbiter finally snapped a photo of the crater it left behind. The hole is about 60 feet wide and less than 10 feet deep."
+      "title": "A Giant Vanished Cliff May Explain the Grand Canyon's Missing Billion Years",
+      "summary": "Scientists think a mega-cliff, as tall as 10 football fields stacked, once stretched across the U.S. and wore away, exposing the Grand Canyon's oldest rocks. This could solve the mystery of a billion years of missing rock layers."
     },
     {
-      "id": "2026-08-20-science-2",
-      "source": "Popular Science",
-      "time_ago": "Thu, 20 Aug 2026 11:00:00 -0400",
-      "mined_at": "2026-08-20T17:56:13+00:00",
-      "source_published_at": "Thu, 20 Aug 2026 11:00:00 -0400",
-      "image_url": "/article_images/article_a8d259f8b481.webp",
+      "id": "2026-08-21-science-2",
+      "source": "Space.com",
+      "time_ago": "Fri, 21 Aug 2026 15:37:33 +0000",
+      "mined_at": "2026-08-21T18:19:57+00:00",
+      "source_published_at": "Fri, 21 Aug 2026 15:37:33 +0000",
+      "image_url": "/article_images/article_93d75bae0a0c.webp",
       "category": "Science",
-      "title": "A Damselfly Peeking Through a Leaf Wins Big Photo Prize",
-      "summary": "A photo of an orange-tailed damselfly looking through a hole in a leaf won a big nature photo contest. The tiny insect is a sign that wetlands are healthy. Other winning photos show frogs, cuttlefish, and sea turtles."
+      "title": "Dark Stars Might Be the Secret Seeds of Giant Black Holes",
+      "summary": "A mysterious hum of space ripples could come from 'dark stars' that collapsed long ago. These giant stars, powered by dark matter, may have turned into the seeds of supermassive black holes."
     },
     {
-      "id": "2026-08-20-science-3",
-      "source": "Physics World",
-      "time_ago": "Thu, 20 Aug 2026 14:20:48 +0000",
-      "mined_at": "2026-08-20T17:56:13+00:00",
-      "source_published_at": "Thu, 20 Aug 2026 14:20:48 +0000",
-      "image_url": "/article_images/article_8e99161688f1.webp",
+      "id": "2026-08-21-science-3",
+      "source": "Science News Explores",
+      "time_ago": "Wed, 19 Aug 2026 10:30:00 +0000",
+      "mined_at": "2026-08-21T18:19:57+00:00",
+      "source_published_at": "Wed, 19 Aug 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_22710a712fa5.webp",
       "category": "Science",
-      "title": "Mysterious 'Little Red Dots' in Space Might Be Baby Black Holes!",
-      "summary": "Astronomers found a weird glowing object called a 'black-hole star' that shines 100 billion times brighter than any normal star. It might be a baby supermassive black hole wrapped in a gas cocoon. This could explain the universe's biggest black holes."
+      "title": "AI Can Be a Great Math Tutor—If You Use It the Right Way",
+      "summary": "A survey of 1,300 top math students found that AI helps when used to explain concepts, but hurts if it just gives answers. Most students try problems on their own first and ask teachers before AI."
     }
   ]
 }

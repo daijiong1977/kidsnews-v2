@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-20-news-1",
+      "id": "2026-08-21-news-1",
       "source": "NPR World",
-      "time_ago": "Thu, 20 Aug 2026 11:18:21 -0400",
-      "mined_at": "2026-08-20T17:56:13+00:00",
-      "source_published_at": "Thu, 20 Aug 2026 11:18:21 -0400",
-      "image_url": "/article_images/article_df49b69c4217.webp",
+      "time_ago": "Fri, 21 Aug 2026 05:01:00 -0400",
+      "mined_at": "2026-08-21T18:19:57+00:00",
+      "source_published_at": "Fri, 21 Aug 2026 05:01:00 -0400",
+      "image_url": "/article_images/article_ccbb791760d6.webp",
       "category": "News",
-      "title": "IndyCar on the National Mall: A Thrill Ride or a Risk to National Treasures?",
-      "summary": "IndyCar racers will hit 180 mph around the National Mall this weekend, passing the National Gallery of Art and Smithsonian museums. Some experts fear vibrations could damage priceless art. Organizers say they've taken precautions."
+      "title": "IndyCar's Historic D.C. Race: A One-Time Spectacle on the National Mall",
+      "summary": "For the first time ever, IndyCar is racing through Washington D.C.'s National Mall this weekend. The Freedom 250 Grand Prix is a one-time event for America's 250th birthday, with 140,000 fans expected daily and speeds up to 190 mph."
     },
     {
-      "id": "2026-08-20-news-2",
+      "id": "2026-08-21-news-2",
+      "source": "Al Jazeera",
+      "time_ago": "Fri, 21 Aug 2026 17:38:06 +0000",
+      "mined_at": "2026-08-21T18:19:57+00:00",
+      "source_published_at": "Fri, 21 Aug 2026 17:38:06 +0000",
+      "image_url": "/article_images/article_4ffe8ebc2d99.webp",
+      "category": "News",
+      "title": "Arsenal Bolster Title Defense with £51m Signing of Ezri Konsa",
+      "summary": "Premier League champions Arsenal have signed England defender Ezri Konsa from Aston Villa for a reported £51 million. Konsa, 28, joins to fill the gap left by injured William Saliba and says he's \"hungry to win.\""
+    },
+    {
+      "id": "2026-08-21-news-3",
       "source": "BBC News",
-      "time_ago": "Thu, 20 Aug 2026 14:28:32 GMT",
-      "mined_at": "2026-08-20T17:56:13+00:00",
-      "source_published_at": "Thu, 20 Aug 2026 14:28:32 GMT",
-      "image_url": "/article_images/article_9853af74d503.webp",
+      "time_ago": "Fri, 21 Aug 2026 17:18:41 GMT",
+      "mined_at": "2026-08-21T18:19:57+00:00",
+      "source_published_at": "Fri, 21 Aug 2026 17:18:41 GMT",
+      "image_url": "/article_images/article_885f09d9d276.webp",
       "category": "News",
-      "title": "GCSE Results Day 2026: The Hidden Story Behind the Numbers",
-      "summary": "This year's GCSE pass rate matches 2019 exactly, but a closer look reveals a troubling trend: nearly a quarter of maths and English exams were taken by students 17 and older, many stuck in a \"demoralising\" resit cycle. Regional inequality has also widened."
-    },
-    {
-      "id": "2026-08-20-news-3",
-      "source": "PBS NewsHour",
-      "time_ago": "Thu, 20 Aug 2026 11:02:35 -0400",
-      "mined_at": "2026-08-20T17:56:13+00:00",
-      "source_published_at": "Thu, 20 Aug 2026 11:02:35 -0400",
-      "image_url": "/article_images/article_5b50306c6053.webp",
-      "category": "News",
-      "title": "Democrats Narrow 2028 Convention Sites to Boston, Denver, or Philadelphia",
-      "summary": "The Democratic Party has shortlisted Boston, Denver, and Philadelphia to host its 2028 presidential convention. The choice could have major political implications, especially in battleground Pennsylvania. A final decision is expected later this year."
+      "title": "Prince Harry and Co-Claimants Ordered to Pay Up to £34.5m in Privacy Case Costs",
+      "summary": "A High Court judge has ruled that Prince Harry and six other public figures must pay the Daily Mail's publisher up to £34.5 million in legal costs after their privacy case failed. The judge called their conduct \"unreasonable to a high degree.\""
     }
   ]
 }
