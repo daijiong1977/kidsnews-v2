@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-21-news-1",
-      "source": "NPR World",
-      "time_ago": "Fri, 21 Aug 2026 05:01:00 -0400",
-      "mined_at": "2026-08-21T18:19:57+00:00",
-      "source_published_at": "Fri, 21 Aug 2026 05:01:00 -0400",
-      "image_url": "/article_images/article_ccbb791760d6.webp",
+      "id": "2026-08-22-news-1",
+      "source": "PBS NewsHour",
+      "time_ago": "Sat, 22 Aug 2026 13:04:29 -0400",
+      "mined_at": "2026-08-22T17:55:34+00:00",
+      "source_published_at": "Sat, 22 Aug 2026 13:04:29 -0400",
+      "image_url": "/article_images/article_52616b46bb60.webp",
       "category": "News",
-      "title": "Zoom! IndyCar Racers Take Over Washington D.C.'s National Mall",
-      "summary": "Imagine race cars speeding past the Capitol building! This weekend, the first-ever IndyCar race in Washington D.C. happens on the National Mall. It's a one-time event for America's 250th birthday, and 140,000 fans are expected each day."
+      "title": "TikTok Owes $400 Million for Breaking Kids' Privacy Rules",
+      "summary": "TikTok got in big trouble for collecting kids' info without asking parents. Now it has to pay $400 million! The government says this is a big win for families. TikTok is also changing who owns part of it."
     },
     {
-      "id": "2026-08-21-news-2",
-      "source": "Al Jazeera",
-      "time_ago": "Fri, 21 Aug 2026 17:38:06 +0000",
-      "mined_at": "2026-08-21T18:19:57+00:00",
-      "source_published_at": "Fri, 21 Aug 2026 17:38:06 +0000",
-      "image_url": "/article_images/article_4ffe8ebc2d99.webp",
-      "category": "News",
-      "title": "Arsenal Snags Star Defender Ezri Konsa for a Whopping £51 Million!",
-      "summary": "Arsenal just signed England defender Ezri Konsa from Aston Villa for £51 million! He's joining the Premier League champions to help them win again. Konsa says he's hungry to win and can't wait to get started."
-    },
-    {
-      "id": "2026-08-21-news-3",
+      "id": "2026-08-22-news-2",
       "source": "BBC News",
-      "time_ago": "Fri, 21 Aug 2026 17:18:41 GMT",
-      "mined_at": "2026-08-21T18:19:57+00:00",
-      "source_published_at": "Fri, 21 Aug 2026 17:18:41 GMT",
-      "image_url": "/article_images/article_885f09d9d276.webp",
+      "time_ago": "Sat, 22 Aug 2026 16:45:02 GMT",
+      "mined_at": "2026-08-22T17:55:34+00:00",
+      "source_published_at": "Sat, 22 Aug 2026 16:45:02 GMT",
+      "image_url": "/article_images/article_f4c36d47d3dd.webp",
       "category": "News",
-      "title": "Prince Harry and Celebrities Face Huge Legal Bill After Losing Privacy Case",
-      "summary": "Prince Harry and six other famous people lost a privacy case against the Daily Mail's publisher. Now a judge says they must pay up to £34.5 million in legal costs. That's a lot of money—way more than they expected!"
+      "title": "Canada and U.S. Trade Fight: Tariffs Are Like a Tax on Stuff",
+      "summary": "Canada's leader says the U.S. is being unfair with new taxes on Canadian goods. So Canada will tax American stuff too, starting September 8. Both countries are upset, and talks broke down."
+    },
+    {
+      "id": "2026-08-22-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Sat, 22 Aug 2026 16:46:22 +0000",
+      "mined_at": "2026-08-22T17:55:34+00:00",
+      "source_published_at": "Sat, 22 Aug 2026 16:46:22 +0000",
+      "image_url": "/article_images/article_6a936b94137f.webp",
+      "category": "News",
+      "title": "A Ship Takes a Shortcut Through the Melting Arctic",
+      "summary": "South Korea sent a big container ship through the Arctic Ocean for the first time. It's a shorter route to Europe, but it's only possible because the ice is melting. Some people worry it could hurt the planet."
     }
   ]
 }

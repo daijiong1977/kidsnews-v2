@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-21-fun-1",
-      "source": "Kotaku",
-      "time_ago": "Fri, 21 Aug 2026 15:02:02 +0000",
-      "mined_at": "2026-08-21T18:19:57+00:00",
-      "source_published_at": "Fri, 21 Aug 2026 15:02:02 +0000",
-      "image_url": "/article_images/article_6f7a9dfb4c5a.webp",
-      "category": "Fun",
-      "title": "Someone Keeps Leaking GTA 6 Videos, and They Look Amazing!",
-      "summary": "A mystery person keeps posting secret videos of the new Grand Theft Auto 6 game online. The latest clip shows super-realistic driving and puddle reflections. The game company is mad, but fans are excited. The official reveal is on Netflix on August 27."
-    },
-    {
-      "id": "2026-08-21-fun-2",
+      "id": "2026-08-22-fun-1",
       "source": "BBC Tennis",
-      "time_ago": "Fri, 21 Aug 2026 16:31:26 GMT",
-      "mined_at": "2026-08-21T18:19:57+00:00",
-      "source_published_at": "Fri, 21 Aug 2026 16:31:26 GMT",
-      "image_url": "/article_images/article_b75a882df3f5.webp",
+      "time_ago": "Sat, 22 Aug 2026 14:41:20 GMT",
+      "mined_at": "2026-08-22T17:55:34+00:00",
+      "source_published_at": "Sat, 22 Aug 2026 14:41:20 GMT",
+      "image_url": "/article_images/article_cb5879984678.webp",
       "category": "Fun",
-      "title": "Two Tennis Stars Are Out of the US Open Because of Injuries",
-      "summary": "Jannik Sinner, the world's number one tennis player, and his friend Jack Draper both pulled out of the US Open because of injuries. Sinner has a knee problem, and Draper has a long-term arm injury. Sinner said he is very sad because New York is special to him."
+      "title": "Serena and Alcaraz Team Up for a Surprise Doubles Match!",
+      "summary": "Serena Williams is back! She's teaming up with Carlos Alcaraz for the US Open mixed doubles. They got a wildcard, which means they can play even though they're not ranked as a doubles team. It's a super cool pairing of two tennis legends."
     },
     {
-      "id": "2026-08-21-fun-3",
-      "source": "Wired Gear",
-      "time_ago": "Fri, 21 Aug 2026 11:33:00 +0000",
-      "mined_at": "2026-08-21T18:19:57+00:00",
-      "source_published_at": "Fri, 21 Aug 2026 11:33:00 +0000",
-      "image_url": "/article_images/article_ca106c305693.webp",
+      "id": "2026-08-22-fun-2",
+      "source": "Live Science",
+      "time_ago": "Sat, 22 Aug 2026 15:00:00 +0000",
+      "mined_at": "2026-08-22T17:55:34+00:00",
+      "source_published_at": "Sat, 22 Aug 2026 15:00:00 +0000",
+      "image_url": "/article_images/article_7c5b7d9c45e5.webp",
       "category": "Fun",
-      "title": "Robot Pool Cleaners That Do the Dirty Work for You",
-      "summary": "A pool expert tested the best robotic pool cleaners of 2026. The Beatbot AquaSense 2 Ultra is the top pick, but it costs $3,000 and weighs 29 pounds. There are cheaper options too, like the Dreame Z1 Pro for $499. These robots can clean floors, walls, and even skim the surface."
+      "title": "A 1,000-Year-Old Knight Found Buried with His Horse and Dog!",
+      "summary": "Archaeologists in Russia found a rare wooden tomb with a rich man buried alongside his horse and dog. The 10th-century grave had cool stuff like a battle ax, stirrups, and a silver brooch. It shows how medieval nobles shared burial customs."
+    },
+    {
+      "id": "2026-08-22-fun-3",
+      "source": "Popular Mechanics",
+      "time_ago": "Sat, 22 Aug 2026 15:00:00 +0000",
+      "mined_at": "2026-08-22T17:55:34+00:00",
+      "source_published_at": "Sat, 22 Aug 2026 15:00:00 +0000",
+      "image_url": "/article_images/article_94bc80847aa0.webp",
+      "category": "Fun",
+      "title": "AI Just Tackled 10 Impossible Math Problems—Can You?",
+      "summary": "AI models like OpenAI's Astra and Anthropic's Claude made progress on super hard math problems, including the Riemann hypothesis. But mathematicians are both excited and worried. You can try these brain-busters yourself—maybe you'll solve one!"
     }
   ]
 }

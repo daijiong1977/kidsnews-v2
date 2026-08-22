@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-21-fun-1",
-      "source": "Kotaku",
-      "time_ago": "Fri, 21 Aug 2026 15:02:02 +0000",
-      "mined_at": "2026-08-21T18:19:57+00:00",
-      "source_published_at": "Fri, 21 Aug 2026 15:02:02 +0000",
-      "image_url": "/article_images/article_6f7a9dfb4c5a.webp",
-      "category": "Fun",
-      "title": "GTA 6 Leaks Keep Coming: Hyper-Realistic Driving Footage Has Fans Hyped and 2K Furious",
-      "summary": "A persistent leaker known as Cyberleek has released another GTA 6 clip, this time showing incredibly detailed driving and stunning puddle reflections. The footage has fans excited but publisher 2K is on a legal warpath, subpoenaing Microsoft and Discord. The official reveal is set for Netflix on August 27."
-    },
-    {
-      "id": "2026-08-21-fun-2",
+      "id": "2026-08-22-fun-1",
       "source": "BBC Tennis",
-      "time_ago": "Fri, 21 Aug 2026 16:31:26 GMT",
-      "mined_at": "2026-08-21T18:19:57+00:00",
-      "source_published_at": "Fri, 21 Aug 2026 16:31:26 GMT",
-      "image_url": "/article_images/article_b75a882df3f5.webp",
+      "time_ago": "Sat, 22 Aug 2026 14:41:20 GMT",
+      "mined_at": "2026-08-22T17:55:34+00:00",
+      "source_published_at": "Sat, 22 Aug 2026 14:41:20 GMT",
+      "image_url": "/article_images/article_cb5879984678.webp",
       "category": "Fun",
-      "title": "Injury Woes: Sinner and Draper Withdraw from US Open, Alcaraz Returns",
-      "summary": "World No. 1 Jannik Sinner and Britain's Jack Draper have both withdrawn from the US Open due to injuries. Sinner cited a knee issue, while Draper continues to struggle with a long-term arm injury. Meanwhile, Carlos Alcaraz is set to return after a four-month absence with a wrist injury."
+      "title": "Serena Williams and Carlos Alcaraz: A Dream Team at the US Open",
+      "summary": "Tennis icon Serena Williams is partnering with Carlos Alcaraz for the US Open mixed doubles, thanks to a wildcard. The revamped event now features singles stars, sparking debate among doubles specialists. It's a must-watch pairing of generations."
     },
     {
-      "id": "2026-08-21-fun-3",
-      "source": "Wired Gear",
-      "time_ago": "Fri, 21 Aug 2026 11:33:00 +0000",
-      "mined_at": "2026-08-21T18:19:57+00:00",
-      "source_published_at": "Fri, 21 Aug 2026 11:33:00 +0000",
-      "image_url": "/article_images/article_ca106c305693.webp",
+      "id": "2026-08-22-fun-2",
+      "source": "Live Science",
+      "time_ago": "Sat, 22 Aug 2026 15:00:00 +0000",
+      "mined_at": "2026-08-22T17:55:34+00:00",
+      "source_published_at": "Sat, 22 Aug 2026 15:00:00 +0000",
+      "image_url": "/article_images/article_7c5b7d9c45e5.webp",
       "category": "Fun",
-      "title": "We Tested the Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, and Dreame",
-      "summary": "After four years of testing, the Beatbot AquaSense 2 Ultra is the top robotic pool cleaner, but at $3,000 and 29 pounds, it's not for everyone. The Dreame Z1 Pro, now just $499, offers great value, while the iGarden M1-AI can run for up to nine hours on a single charge."
+      "title": "Medieval Nobleman Buried with Horse and Dog Unearthed in Rare Russian Tomb",
+      "summary": "A 10th-century wooden chamber tomb discovered in Suzdal, Russia, contained an elite man buried with his horse, dog, and rich grave goods. The find reveals shared burial customs between medieval Norse and Russian nobility and highlights Suzdal's importance."
+    },
+    {
+      "id": "2026-08-22-fun-3",
+      "source": "Popular Mechanics",
+      "time_ago": "Sat, 22 Aug 2026 15:00:00 +0000",
+      "mined_at": "2026-08-22T17:55:34+00:00",
+      "source_published_at": "Sat, 22 Aug 2026 15:00:00 +0000",
+      "image_url": "/article_images/article_94bc80847aa0.webp",
+      "category": "Fun",
+      "title": "AI Cracks 10 Tough Math Problems, But the Riemann Hypothesis Still Stands",
+      "summary": "OpenAI's Astra and Anthropic's Claude made strides on long-standing math problems, including the Riemann hypothesis. Mathematicians are both thrilled and concerned, calling for ethical guardrails. The Riemann hypothesis remains unsolved, with a $1 million prize."
     }
   ]
 }

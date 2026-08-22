@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-21-science-1",
+      "id": "2026-08-22-science-1",
+      "source": "ScienceDaily All",
+      "time_ago": "Sat, 22 Aug 2026 08:36:23 EDT",
+      "mined_at": "2026-08-22T17:55:34+00:00",
+      "source_published_at": "Sat, 22 Aug 2026 08:36:23 EDT",
+      "image_url": "/article_images/article_7ca56668fbd4.webp",
+      "category": "Science",
+      "title": "Ancient Galaxies Are Way Bigger Than We Thought!",
+      "summary": "Scientists found that some early galaxies may be 4 times more massive than we thought. They hid lots of small stars behind bright ones, like houses behind skyscrapers!"
+    },
+    {
+      "id": "2026-08-22-science-2",
       "source": "ScienceDaily Top Environment",
-      "time_ago": "Thu, 20 Aug 2026 23:43:10 EDT",
-      "mined_at": "2026-08-21T18:19:57+00:00",
-      "source_published_at": "Thu, 20 Aug 2026 23:43:10 EDT",
-      "image_url": "/article_images/article_323c14134a3e.webp",
+      "time_ago": "Fri, 21 Aug 2026 05:28:51 EDT",
+      "mined_at": "2026-08-22T17:55:34+00:00",
+      "source_published_at": "Fri, 21 Aug 2026 05:28:51 EDT",
+      "image_url": "/article_images/article_74f721b59c15.webp",
       "category": "Science",
-      "title": "A Giant Vanished Cliff May Explain the Grand Canyon's Missing Billion Years",
-      "summary": "Scientists think a mega-cliff, as tall as 10 football fields stacked, once stretched across the U.S. and wore away, exposing the Grand Canyon's oldest rocks. This could solve the mystery of a billion years of missing rock layers."
+      "title": "Ancient Ship's Secret Waterproofing Recipe Revealed!",
+      "summary": "A 2,200-year-old Roman shipwreck shows how they waterproofed ships with pine tar and beeswax. Even pollen from the time was found stuck in the goo!"
     },
     {
-      "id": "2026-08-21-science-2",
+      "id": "2026-08-22-science-3",
       "source": "Space.com",
-      "time_ago": "Fri, 21 Aug 2026 15:37:33 +0000",
-      "mined_at": "2026-08-21T18:19:57+00:00",
-      "source_published_at": "Fri, 21 Aug 2026 15:37:33 +0000",
-      "image_url": "/article_images/article_93d75bae0a0c.webp",
+      "time_ago": "Sat, 22 Aug 2026 16:00:00 +0000",
+      "mined_at": "2026-08-22T17:55:34+00:00",
+      "source_published_at": "Sat, 22 Aug 2026 16:00:00 +0000",
+      "image_url": "/article_images/article_1a2f8ea7495f.webp",
       "category": "Science",
-      "title": "Dark Stars Might Be the Secret Seeds of Giant Black Holes",
-      "summary": "A mysterious hum of space ripples could come from 'dark stars' that collapsed long ago. These giant stars, powered by dark matter, may have turned into the seeds of supermassive black holes."
-    },
-    {
-      "id": "2026-08-21-science-3",
-      "source": "Science News Explores",
-      "time_ago": "Wed, 19 Aug 2026 10:30:00 +0000",
-      "mined_at": "2026-08-21T18:19:57+00:00",
-      "source_published_at": "Wed, 19 Aug 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_22710a712fa5.webp",
-      "category": "Science",
-      "title": "AI Can Be a Great Math Tutor—If You Use It the Right Way",
-      "summary": "A survey of 1,300 top math students found that AI helps when used to explain concepts, but hurts if it just gives answers. Most students try problems on their own first and ask teachers before AI."
+      "title": "Inside NASA's Astronaut Training Hub for the Future!",
+      "summary": "NASA's Johnson Space Center is getting ready for commercial space stations! We got a tour of Mission Control and saw how they're working with private companies."
     }
   ]
 }
