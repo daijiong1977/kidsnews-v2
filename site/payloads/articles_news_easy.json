@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-22-news-1",
+      "id": "2026-08-23-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Sat, 22 Aug 2026 13:04:29 -0400",
-      "mined_at": "2026-08-22T17:55:34+00:00",
-      "source_published_at": "Sat, 22 Aug 2026 13:04:29 -0400",
-      "image_url": "/article_images/article_52616b46bb60.webp",
+      "time_ago": "Sun, 23 Aug 2026 11:21:21 -0400",
+      "mined_at": "2026-08-23T17:49:52+00:00",
+      "source_published_at": "Sun, 23 Aug 2026 11:21:21 -0400",
+      "image_url": "/article_images/article_badee4817705.webp",
       "category": "News",
-      "title": "TikTok Owes $400 Million for Breaking Kids' Privacy Rules",
-      "summary": "TikTok got in big trouble for collecting kids' info without asking parents. Now it has to pay $400 million! The government says this is a big win for families. TikTok is also changing who owns part of it."
+      "title": "Race Cars Zoom Past Washington Monuments!",
+      "summary": "President Trump and his wife will watch IndyCar race through D.C. streets. Cars go almost 200 mph! It's part of America's 250th birthday party."
     },
     {
-      "id": "2026-08-22-news-2",
-      "source": "BBC News",
-      "time_ago": "Sat, 22 Aug 2026 16:45:02 GMT",
-      "mined_at": "2026-08-22T17:55:34+00:00",
-      "source_published_at": "Sat, 22 Aug 2026 16:45:02 GMT",
-      "image_url": "/article_images/article_f4c36d47d3dd.webp",
+      "id": "2026-08-23-news-2",
+      "source": "NPR World",
+      "time_ago": "Sun, 23 Aug 2026 08:48:05 -0400",
+      "mined_at": "2026-08-23T17:49:52+00:00",
+      "source_published_at": "Sun, 23 Aug 2026 08:48:05 -0400",
+      "image_url": "/article_images/article_6e68cabcb03a.webp",
       "category": "News",
-      "title": "Canada and U.S. Trade Fight: Tariffs Are Like a Tax on Stuff",
-      "summary": "Canada's leader says the U.S. is being unfair with new taxes on Canadian goods. So Canada will tax American stuff too, starting September 8. Both countries are upset, and talks broke down."
+      "title": "Another Storm Heads to Hawaii!",
+      "summary": "Tropical Storm Moke is bringing more rain to Hawaii after Hurricane Lala. Up to 15 inches of rain could fall. People are preparing for more flooding."
     },
     {
-      "id": "2026-08-22-news-3",
+      "id": "2026-08-23-news-3",
       "source": "Al Jazeera",
-      "time_ago": "Sat, 22 Aug 2026 16:46:22 +0000",
-      "mined_at": "2026-08-22T17:55:34+00:00",
-      "source_published_at": "Sat, 22 Aug 2026 16:46:22 +0000",
-      "image_url": "/article_images/article_6a936b94137f.webp",
+      "time_ago": "Sun, 23 Aug 2026 16:12:55 +0000",
+      "mined_at": "2026-08-23T17:49:52+00:00",
+      "source_published_at": "Sun, 23 Aug 2026 16:12:55 +0000",
+      "image_url": "/article_images/article_8a1d3add33cf.webp",
       "category": "News",
-      "title": "A Ship Takes a Shortcut Through the Melting Arctic",
-      "summary": "South Korea sent a big container ship through the Arctic Ocean for the first time. It's a shorter route to Europe, but it's only possible because the ice is melting. Some people worry it could hurt the planet."
+      "title": "Saudi Prince Visits Paris for Big Talks",
+      "summary": "Saudi Crown Prince Mohammed bin Salman is in Paris to meet with French President Macron. They'll talk about energy, conflicts, and maybe sign agreements."
     }
   ]
 }

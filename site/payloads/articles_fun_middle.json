@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-22-fun-1",
-      "source": "BBC Tennis",
-      "time_ago": "Sat, 22 Aug 2026 14:41:20 GMT",
-      "mined_at": "2026-08-22T17:55:34+00:00",
-      "source_published_at": "Sat, 22 Aug 2026 14:41:20 GMT",
-      "image_url": "/article_images/article_cb5879984678.webp",
+      "id": "2026-08-23-fun-1",
+      "source": "Polygon",
+      "time_ago": "Sun, 23 Aug 2026 17:00:14 GMT",
+      "mined_at": "2026-08-23T17:49:52+00:00",
+      "source_published_at": "Sun, 23 Aug 2026 17:00:14 GMT",
+      "image_url": "/article_images/article_70f48473a870.webp",
       "category": "Fun",
-      "title": "Serena Williams and Carlos Alcaraz: A Dream Team at the US Open",
-      "summary": "Tennis icon Serena Williams is partnering with Carlos Alcaraz for the US Open mixed doubles, thanks to a wildcard. The revamped event now features singles stars, sparking debate among doubles specialists. It's a must-watch pairing of generations."
+      "title": "Gamescom Just Became the World's Biggest Gaming Event — and It's Not Feeling the Pressure",
+      "summary": "Gamescom is now the biggest gaming event on Earth, and it's staying cool about it. This year they're adding the speedrunning marathon Games Done Quick — its first time outside North America!"
     },
     {
-      "id": "2026-08-22-fun-2",
-      "source": "Live Science",
-      "time_ago": "Sat, 22 Aug 2026 15:00:00 +0000",
-      "mined_at": "2026-08-22T17:55:34+00:00",
-      "source_published_at": "Sat, 22 Aug 2026 15:00:00 +0000",
-      "image_url": "/article_images/article_7c5b7d9c45e5.webp",
+      "id": "2026-08-23-fun-2",
+      "source": "/Film",
+      "time_ago": "Sun, 23 Aug 2026 16:00:00 +0000",
+      "mined_at": "2026-08-23T17:49:52+00:00",
+      "source_published_at": "Sun, 23 Aug 2026 16:00:00 +0000",
+      "image_url": "/article_images/article_7b02e77ea971.webp",
       "category": "Fun",
-      "title": "Medieval Nobleman Buried with Horse and Dog Unearthed in Rare Russian Tomb",
-      "summary": "A 10th-century wooden chamber tomb discovered in Suzdal, Russia, contained an elite man buried with his horse, dog, and rich grave goods. The find reveals shared burial customs between medieval Norse and Russian nobility and highlights Suzdal's importance."
+      "title": "The Author of 'Silo' Made Another Sci-Fi Show You Probably Missed — and It's Worth Finding",
+      "summary": "Hugh Howey, the author behind 'Silo,' also created 'Beacon 23,' a space-lighthouse drama starring Lena Headey and Stephan James. It only lasted two seasons, but it's a hidden gem for sci-fi fans."
     },
     {
-      "id": "2026-08-22-fun-3",
-      "source": "Popular Mechanics",
-      "time_ago": "Sat, 22 Aug 2026 15:00:00 +0000",
-      "mined_at": "2026-08-22T17:55:34+00:00",
-      "source_published_at": "Sat, 22 Aug 2026 15:00:00 +0000",
-      "image_url": "/article_images/article_94bc80847aa0.webp",
+      "id": "2026-08-23-fun-3",
+      "source": "Variety",
+      "time_ago": "Sun, 23 Aug 2026 16:30:00 +0000",
+      "mined_at": "2026-08-23T17:49:52+00:00",
+      "source_published_at": "Sun, 23 Aug 2026 16:30:00 +0000",
+      "image_url": "/article_images/article_b184f31870af.webp",
       "category": "Fun",
-      "title": "AI Cracks 10 Tough Math Problems, But the Riemann Hypothesis Still Stands",
-      "summary": "OpenAI's Astra and Anthropic's Claude made strides on long-standing math problems, including the Riemann hypothesis. Mathematicians are both thrilled and concerned, calling for ethical guardrails. The Riemann hypothesis remains unsolved, with a $1 million prize."
+      "title": "Martin Short's Triple-Threat Emmy Season: Home Movies, Grief, and a Little Bit of Betamax",
+      "summary": "Martin Short is nominated for three Emmys this year—for acting, hosting, and a documentary about his life. He even let the director use his old home movies, and Steven Spielberg chipped in too. He jokes, 'I am Mr. Emmy this year!'"
     }
   ]
 }

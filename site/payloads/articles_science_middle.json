@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-22-science-1",
+      "id": "2026-08-23-science-1",
+      "source": "Science News Explores",
+      "time_ago": "Fri, 21 Aug 2026 10:30:00 +0000",
+      "mined_at": "2026-08-23T17:49:52+00:00",
+      "source_published_at": "Fri, 21 Aug 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_ac448f511009.webp",
+      "category": "Science",
+      "title": "Fire use by ancient humans just got a whole lot older",
+      "summary": "Burnt bones in South Africa's Wonderwerk Cave suggest Homo erectus used fire up to 1.8 million years ago—almost double the previous record. Scientists used a forensic technique to spot the evidence."
+    },
+    {
+      "id": "2026-08-23-science-2",
+      "source": "Popular Science",
+      "time_ago": "Sun, 23 Aug 2026 10:04:00 -0400",
+      "mined_at": "2026-08-23T17:49:52+00:00",
+      "source_published_at": "Sun, 23 Aug 2026 10:04:00 -0400",
+      "image_url": "/article_images/article_c8ca3f591426.webp",
+      "category": "Science",
+      "title": "Ticklishness is no joke: scientists map the body's giggle zones",
+      "summary": "A new study surveyed 448 adults from three cultures and found ticklish spots are remarkably similar—neck, armpits, belly, feet. The research even connects tickling to our ape relatives."
+    },
+    {
+      "id": "2026-08-23-science-3",
       "source": "ScienceDaily All",
-      "time_ago": "Sat, 22 Aug 2026 08:36:23 EDT",
-      "mined_at": "2026-08-22T17:55:34+00:00",
-      "source_published_at": "Sat, 22 Aug 2026 08:36:23 EDT",
-      "image_url": "/article_images/article_7ca56668fbd4.webp",
+      "time_ago": "Sun, 23 Aug 2026 06:24:17 EDT",
+      "mined_at": "2026-08-23T17:49:52+00:00",
+      "source_published_at": "Sun, 23 Aug 2026 06:24:17 EDT",
+      "image_url": "/article_images/article_1fa6a260fd77.webp",
       "category": "Science",
-      "title": "JWST Reveals Early Galaxies May Be 4x More Massive Than We Thought",
-      "summary": "JWST found that some early galaxies might be 4 times more massive than we thought. They hid tons of small stars behind bright ones, like houses behind skyscrapers!"
-    },
-    {
-      "id": "2026-08-22-science-2",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Fri, 21 Aug 2026 05:28:51 EDT",
-      "mined_at": "2026-08-22T17:55:34+00:00",
-      "source_published_at": "Fri, 21 Aug 2026 05:28:51 EDT",
-      "image_url": "/article_images/article_74f721b59c15.webp",
-      "category": "Science",
-      "title": "2,200-Year-Old Shipwreck Reveals Ancient Waterproofing Secrets",
-      "summary": "A 2,200-year-old Roman shipwreck reveals how they waterproofed ships with pine tar and beeswax. Pollen trapped in the goo shows where it was repaired!"
-    },
-    {
-      "id": "2026-08-22-science-3",
-      "source": "Space.com",
-      "time_ago": "Sat, 22 Aug 2026 16:00:00 +0000",
-      "mined_at": "2026-08-22T17:55:34+00:00",
-      "source_published_at": "Sat, 22 Aug 2026 16:00:00 +0000",
-      "image_url": "/article_images/article_1a2f8ea7495f.webp",
-      "category": "Science",
-      "title": "NASA's Astronaut Hub Prepares for Commercial Space Stations",
-      "summary": "NASA's Johnson Space Center is gearing up for commercial space stations! We toured Mission Control and saw how they're working with private companies like Blue Origin."
+      "title": "A new compound burns fat without the muscle loss of popular weight-loss drugs",
+      "summary": "UC Berkeley scientists found that TOFA helps obese mice lose fat while keeping muscle, unlike GLP-1 drugs. It works by boosting energy use, and combining it with Ozempic worked even better."
     }
   ]
 }

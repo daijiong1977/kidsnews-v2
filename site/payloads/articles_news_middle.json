@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-22-news-1",
+      "id": "2026-08-23-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Sat, 22 Aug 2026 13:04:29 -0400",
-      "mined_at": "2026-08-22T17:55:34+00:00",
-      "source_published_at": "Sat, 22 Aug 2026 13:04:29 -0400",
-      "image_url": "/article_images/article_52616b46bb60.webp",
+      "time_ago": "Sun, 23 Aug 2026 11:21:21 -0400",
+      "mined_at": "2026-08-23T17:49:52+00:00",
+      "source_published_at": "Sun, 23 Aug 2026 11:21:21 -0400",
+      "image_url": "/article_images/article_badee4817705.webp",
       "category": "News",
-      "title": "TikTok's $400 Million Privacy Penalty: What It Means for Kids Online",
-      "summary": "TikTok will pay a massive $400 million to settle a lawsuit over illegally collecting children's data. The Justice Department called it a victory for families. This comes as social media giants face growing legal pressure over youth privacy."
+      "title": "Freedom 250: IndyCar Roars Through D.C. Streets",
+      "summary": "Trump and Melania watch IndyCar race through D.C. streets at 200 mph. It's part of America's 250th birthday celebrations, but critics say he's distracted from bigger issues."
     },
     {
-      "id": "2026-08-22-news-2",
-      "source": "BBC News",
-      "time_ago": "Sat, 22 Aug 2026 16:45:02 GMT",
-      "mined_at": "2026-08-22T17:55:34+00:00",
-      "source_published_at": "Sat, 22 Aug 2026 16:45:02 GMT",
-      "image_url": "/article_images/article_f4c36d47d3dd.webp",
+      "id": "2026-08-23-news-2",
+      "source": "NPR World",
+      "time_ago": "Sun, 23 Aug 2026 08:48:05 -0400",
+      "mined_at": "2026-08-23T17:49:52+00:00",
+      "source_published_at": "Sun, 23 Aug 2026 08:48:05 -0400",
+      "image_url": "/article_images/article_6e68cabcb03a.webp",
       "category": "News",
-      "title": "Trade War Heats Up: Canada Vows Dollar-for-Dollar Tariffs on U.S.",
-      "summary": "After trade talks collapsed, Canadian PM Mark Carney called Trump's new tariffs a 'miscalculation' and promised matching levies starting September 8. Both sides blame each other for the breakdown, leaving the USMCA in jeopardy."
+      "title": "Hawaii Braces for Another Storm as Moke Approaches",
+      "summary": "Tropical Storm Moke threatens Hawaii with up to 15 inches of rain, just days after Hurricane Lala caused flooding. Residents are preparing for more damage."
     },
     {
-      "id": "2026-08-22-news-3",
+      "id": "2026-08-23-news-3",
       "source": "Al Jazeera",
-      "time_ago": "Sat, 22 Aug 2026 16:46:22 +0000",
-      "mined_at": "2026-08-22T17:55:34+00:00",
-      "source_published_at": "Sat, 22 Aug 2026 16:46:22 +0000",
-      "image_url": "/article_images/article_6a936b94137f.webp",
+      "time_ago": "Sun, 23 Aug 2026 16:12:55 +0000",
+      "mined_at": "2026-08-23T17:49:52+00:00",
+      "source_published_at": "Sun, 23 Aug 2026 16:12:55 +0000",
+      "image_url": "/article_images/article_8a1d3add33cf.webp",
       "category": "News",
-      "title": "South Korea Tests Arctic Shipping Route as Ice Melts and Middle East Conflict Disrupts Trade",
-      "summary": "The PanStar Acro is making South Korea's first commercial Arctic voyage, a route that could cut Asia-Europe shipping by 7,000 km. But environmentalists warn it accelerates ice melt, and Western allies worry about ties with Russia."
+      "title": "Macron Hosts Saudi Crown Prince for Talks on Energy and Conflict",
+      "summary": "Saudi Crown Prince MBS visits Paris for talks with Macron on energy, regional conflicts, and cooperation. They'll also attend the Esports World Cup final."
     }
   ]
 }

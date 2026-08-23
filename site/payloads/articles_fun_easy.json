@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-22-fun-1",
-      "source": "BBC Tennis",
-      "time_ago": "Sat, 22 Aug 2026 14:41:20 GMT",
-      "mined_at": "2026-08-22T17:55:34+00:00",
-      "source_published_at": "Sat, 22 Aug 2026 14:41:20 GMT",
-      "image_url": "/article_images/article_cb5879984678.webp",
+      "id": "2026-08-23-fun-1",
+      "source": "Polygon",
+      "time_ago": "Sun, 23 Aug 2026 17:00:14 GMT",
+      "mined_at": "2026-08-23T17:49:52+00:00",
+      "source_published_at": "Sun, 23 Aug 2026 17:00:14 GMT",
+      "image_url": "/article_images/article_70f48473a870.webp",
       "category": "Fun",
-      "title": "Serena and Alcaraz Team Up for a Surprise Doubles Match!",
-      "summary": "Serena Williams is back! She's teaming up with Carlos Alcaraz for the US Open mixed doubles. They got a wildcard, which means they can play even though they're not ranked as a doubles team. It's a super cool pairing of two tennis legends."
+      "title": "Gamescom Is the Biggest Gaming Show Ever — and It's Not Stressed About It!",
+      "summary": "Gamescom is now the world's biggest gaming event, and it's in Germany! They're adding a speedrunning marathon called Games Done Quick. No pressure, they say — just excitement!"
     },
     {
-      "id": "2026-08-22-fun-2",
-      "source": "Live Science",
-      "time_ago": "Sat, 22 Aug 2026 15:00:00 +0000",
-      "mined_at": "2026-08-22T17:55:34+00:00",
-      "source_published_at": "Sat, 22 Aug 2026 15:00:00 +0000",
-      "image_url": "/article_images/article_7c5b7d9c45e5.webp",
+      "id": "2026-08-23-fun-2",
+      "source": "/Film",
+      "time_ago": "Sun, 23 Aug 2026 16:00:00 +0000",
+      "mined_at": "2026-08-23T17:49:52+00:00",
+      "source_published_at": "Sun, 23 Aug 2026 16:00:00 +0000",
+      "image_url": "/article_images/article_7b02e77ea971.webp",
       "category": "Fun",
-      "title": "A 1,000-Year-Old Knight Found Buried with His Horse and Dog!",
-      "summary": "Archaeologists in Russia found a rare wooden tomb with a rich man buried alongside his horse and dog. The 10th-century grave had cool stuff like a battle ax, stirrups, and a silver brooch. It shows how medieval nobles shared burial customs."
+      "title": "If You Love 'Silo,' You Should Watch This Hidden Sci-Fi Gem: 'Beacon 23'",
+      "summary": "The author of 'Silo' also wrote 'Beacon 23,' a space show about a lighthouse in space with two strangers trapped inside. It's short-lived but worth a look!"
     },
     {
-      "id": "2026-08-22-fun-3",
-      "source": "Popular Mechanics",
-      "time_ago": "Sat, 22 Aug 2026 15:00:00 +0000",
-      "mined_at": "2026-08-22T17:55:34+00:00",
-      "source_published_at": "Sat, 22 Aug 2026 15:00:00 +0000",
-      "image_url": "/article_images/article_94bc80847aa0.webp",
+      "id": "2026-08-23-fun-3",
+      "source": "Variety",
+      "time_ago": "Sun, 23 Aug 2026 16:30:00 +0000",
+      "mined_at": "2026-08-23T17:49:52+00:00",
+      "source_published_at": "Sun, 23 Aug 2026 16:30:00 +0000",
+      "image_url": "/article_images/article_b184f31870af.webp",
       "category": "Fun",
-      "title": "AI Just Tackled 10 Impossible Math Problems—Can You?",
-      "summary": "AI models like OpenAI's Astra and Anthropic's Claude made progress on super hard math problems, including the Riemann hypothesis. But mathematicians are both excited and worried. You can try these brain-busters yourself—maybe you'll solve one!"
+      "title": "Martin Short Is Mr. Emmy! (And He Has the Home Movies to Prove It)",
+      "summary": "Martin Short is nominated for three different shows this year! He even let a filmmaker use his old home movies. He says, 'I am Mr. Emmy this year!'"
     }
   ]
 }
