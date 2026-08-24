@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-23-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Sun, 23 Aug 2026 11:21:21 -0400",
-      "mined_at": "2026-08-23T17:49:52+00:00",
-      "source_published_at": "Sun, 23 Aug 2026 11:21:21 -0400",
-      "image_url": "/article_images/article_badee4817705.webp",
-      "category": "News",
-      "title": "Race Cars Zoom Past Washington Monuments!",
-      "summary": "President Trump and his wife will watch IndyCar race through D.C. streets. Cars go almost 200 mph! It's part of America's 250th birthday party."
-    },
-    {
-      "id": "2026-08-23-news-2",
+      "id": "2026-08-24-news-1",
       "source": "NPR World",
-      "time_ago": "Sun, 23 Aug 2026 08:48:05 -0400",
-      "mined_at": "2026-08-23T17:49:52+00:00",
-      "source_published_at": "Sun, 23 Aug 2026 08:48:05 -0400",
-      "image_url": "/article_images/article_6e68cabcb03a.webp",
+      "time_ago": "Mon, 24 Aug 2026 05:36:13 -0400",
+      "mined_at": "2026-08-24T17:48:23+00:00",
+      "source_published_at": "Mon, 24 Aug 2026 05:36:13 -0400",
+      "image_url": "/article_images/article_ed15822001f0.webp",
       "category": "News",
-      "title": "Another Storm Heads to Hawaii!",
-      "summary": "Tropical Storm Moke is bringing more rain to Hawaii after Hurricane Lala. Up to 15 inches of rain could fall. People are preparing for more flooding."
+      "title": "Race Cars Zoom Past the White House!",
+      "summary": "IndyCar's first-ever race in Washington, D.C. turned famous streets into a track. Florida's Kyle Kirkwood won, leading most laps. Thousands cheered as a real bald eagle flew over!"
     },
     {
-      "id": "2026-08-23-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Sun, 23 Aug 2026 16:12:55 +0000",
-      "mined_at": "2026-08-23T17:49:52+00:00",
-      "source_published_at": "Sun, 23 Aug 2026 16:12:55 +0000",
-      "image_url": "/article_images/article_8a1d3add33cf.webp",
+      "id": "2026-08-24-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Mon, 24 Aug 2026 13:02:32 -0400",
+      "mined_at": "2026-08-24T17:48:23+00:00",
+      "source_published_at": "Mon, 24 Aug 2026 13:02:32 -0400",
+      "image_url": "/article_images/article_47daba763d83.webp",
       "category": "News",
-      "title": "Saudi Prince Visits Paris for Big Talks",
-      "summary": "Saudi Crown Prince Mohammed bin Salman is in Paris to meet with French President Macron. They'll talk about energy, conflicts, and maybe sign agreements."
+      "title": "Why Weather Is Getting Wilder",
+      "summary": "Scientists say climate change is making extreme weather more common. They point to bigger wildfires, floods, and heat waves. One expert warns we might be 'the frog in boiling water.'"
+    },
+    {
+      "id": "2026-08-24-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Mon, 24 Aug 2026 17:16:10 +0000",
+      "mined_at": "2026-08-24T17:48:23+00:00",
+      "source_published_at": "Mon, 24 Aug 2026 17:16:10 +0000",
+      "image_url": "/article_images/article_458b8ce00fdd.webp",
+      "category": "News",
+      "title": "Japan and China: Trying to Be Friends Again",
+      "summary": "Japanese lawmakers visited China to fix a big fight over Taiwan. The argument started when Japan's leader said it might use military force if China attacked Taiwan. Now they're trying to talk."
     }
   ]
 }

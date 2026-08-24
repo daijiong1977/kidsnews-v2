@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-23-science-1",
-      "source": "Science News Explores",
-      "time_ago": "Fri, 21 Aug 2026 10:30:00 +0000",
-      "mined_at": "2026-08-23T17:49:52+00:00",
-      "source_published_at": "Fri, 21 Aug 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_ac448f511009.webp",
+      "id": "2026-08-24-science-1",
+      "source": "Space.com",
+      "time_ago": "Mon, 24 Aug 2026 17:00:00 +0000",
+      "mined_at": "2026-08-24T17:48:23+00:00",
+      "source_published_at": "Mon, 24 Aug 2026 17:00:00 +0000",
+      "image_url": "/article_images/article_910a58a116f7.webp",
       "category": "Science",
-      "title": "Ancient humans used fire way earlier than we thought!",
-      "summary": "Scientists found burnt bones in a South African cave that show Homo erectus used fire up to 1.8 million years ago. That's almost twice as old as the previous record. Cool, right?"
+      "title": "SpaceX Rocket About to Do Something No Rocket Has Ever Done!",
+      "summary": "A SpaceX rocket is about to launch for the 37th time — a new record! It's carrying 29 internet satellites. Watch it live early Tuesday morning!"
     },
     {
-      "id": "2026-08-23-science-2",
-      "source": "Popular Science",
-      "time_ago": "Sun, 23 Aug 2026 10:04:00 -0400",
-      "mined_at": "2026-08-23T17:49:52+00:00",
-      "source_published_at": "Sun, 23 Aug 2026 10:04:00 -0400",
-      "image_url": "/article_images/article_c8ca3f591426.webp",
+      "id": "2026-08-24-science-2",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Sun, 23 Aug 2026 23:11:22 EDT",
+      "mined_at": "2026-08-24T17:48:23+00:00",
+      "source_published_at": "Sun, 23 Aug 2026 23:11:22 EDT",
+      "image_url": "/article_images/article_fbae78ec589b.webp",
       "category": "Science",
-      "title": "Why are we ticklish? Scientists made a body map!",
-      "summary": "Researchers asked people from China, the Netherlands, and Greece where they're ticklish. They found the neck, armpits, belly, and feet are most ticklish—and it's the same across cultures!"
+      "title": "Real-Life Dragon Found in Thailand — Named After a TV Dragon!",
+      "summary": "Scientists found a new lizard in Thailand that looks like a tiny dragon. They named it Syrax, after the dragon from House of the Dragon. It's yellow-green and lives high in the mountains!"
     },
     {
-      "id": "2026-08-23-science-3",
-      "source": "ScienceDaily All",
-      "time_ago": "Sun, 23 Aug 2026 06:24:17 EDT",
-      "mined_at": "2026-08-23T17:49:52+00:00",
-      "source_published_at": "Sun, 23 Aug 2026 06:24:17 EDT",
-      "image_url": "/article_images/article_1fa6a260fd77.webp",
+      "id": "2026-08-24-science-3",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Mon, 24 Aug 2026 09:14:50 EDT",
+      "mined_at": "2026-08-24T17:48:23+00:00",
+      "source_published_at": "Mon, 24 Aug 2026 09:14:50 EDT",
+      "image_url": "/article_images/article_824e47f121f1.webp",
       "category": "Science",
-      "title": "New compound burns fat without losing muscle!",
-      "summary": "Scientists found a compound called TOFA that helps mice lose fat but keep muscle. It works differently from popular weight-loss drugs like Ozempic. Could be a new way to fight obesity!"
+      "title": "Your Medicine Might Change Your Gut for Years — Even After You Stop!",
+      "summary": "A big study found that medicines like antibiotics and anxiety drugs can change the bacteria in your gut for years after you stop taking them. That's why your gut might be different from your friend's!"
     }
   ]
 }

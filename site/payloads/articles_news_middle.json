@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-23-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Sun, 23 Aug 2026 11:21:21 -0400",
-      "mined_at": "2026-08-23T17:49:52+00:00",
-      "source_published_at": "Sun, 23 Aug 2026 11:21:21 -0400",
-      "image_url": "/article_images/article_badee4817705.webp",
-      "category": "News",
-      "title": "Freedom 250: IndyCar Roars Through D.C. Streets",
-      "summary": "Trump and Melania watch IndyCar race through D.C. streets at 200 mph. It's part of America's 250th birthday celebrations, but critics say he's distracted from bigger issues."
-    },
-    {
-      "id": "2026-08-23-news-2",
+      "id": "2026-08-24-news-1",
       "source": "NPR World",
-      "time_ago": "Sun, 23 Aug 2026 08:48:05 -0400",
-      "mined_at": "2026-08-23T17:49:52+00:00",
-      "source_published_at": "Sun, 23 Aug 2026 08:48:05 -0400",
-      "image_url": "/article_images/article_6e68cabcb03a.webp",
+      "time_ago": "Mon, 24 Aug 2026 05:36:13 -0400",
+      "mined_at": "2026-08-24T17:48:23+00:00",
+      "source_published_at": "Mon, 24 Aug 2026 05:36:13 -0400",
+      "image_url": "/article_images/article_ed15822001f0.webp",
       "category": "News",
-      "title": "Hawaii Braces for Another Storm as Moke Approaches",
-      "summary": "Tropical Storm Moke threatens Hawaii with up to 15 inches of rain, just days after Hurricane Lala caused flooding. Residents are preparing for more damage."
+      "title": "IndyCar Makes History on D.C.'s Iconic Streets",
+      "summary": "The nation's capital hosted its first IndyCar street race, the Freedom 250. Florida's Kyle Kirkwood dominated, leading 128 of 147 laps. Thousands cheered as a bald eagle soared overhead."
     },
     {
-      "id": "2026-08-23-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Sun, 23 Aug 2026 16:12:55 +0000",
-      "mined_at": "2026-08-23T17:49:52+00:00",
-      "source_published_at": "Sun, 23 Aug 2026 16:12:55 +0000",
-      "image_url": "/article_images/article_8a1d3add33cf.webp",
+      "id": "2026-08-24-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Mon, 24 Aug 2026 13:02:32 -0400",
+      "mined_at": "2026-08-24T17:48:23+00:00",
+      "source_published_at": "Mon, 24 Aug 2026 13:02:32 -0400",
+      "image_url": "/article_images/article_47daba763d83.webp",
       "category": "News",
-      "title": "Macron Hosts Saudi Crown Prince for Talks on Energy and Conflict",
-      "summary": "Saudi Crown Prince MBS visits Paris for talks with Macron on energy, regional conflicts, and cooperation. They'll also attend the Esports World Cup final."
+      "title": "Climate Change: The 'Other Big One' Is Coming",
+      "summary": "Scientists warn that climate change is making extreme weather more frequent and intense. From Australia's Black Summer to Pakistan's floods, the evidence is mounting. But will we act in time?"
+    },
+    {
+      "id": "2026-08-24-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Mon, 24 Aug 2026 17:16:10 +0000",
+      "mined_at": "2026-08-24T17:48:23+00:00",
+      "source_published_at": "Mon, 24 Aug 2026 17:16:10 +0000",
+      "image_url": "/article_images/article_458b8ce00fdd.webp",
+      "category": "News",
+      "title": "Japan's Delegation Aims to Defrost China Relations",
+      "summary": "Japanese lawmakers visited Beijing to ease tensions over Taiwan comments. The rift has disrupted trade and communication. A former diplomat called it the worst since 1972."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-23-science-1",
-      "source": "Science News Explores",
-      "time_ago": "Fri, 21 Aug 2026 10:30:00 +0000",
-      "mined_at": "2026-08-23T17:49:52+00:00",
-      "source_published_at": "Fri, 21 Aug 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_ac448f511009.webp",
+      "id": "2026-08-24-science-1",
+      "source": "Space.com",
+      "time_ago": "Mon, 24 Aug 2026 17:00:00 +0000",
+      "mined_at": "2026-08-24T17:48:23+00:00",
+      "source_published_at": "Mon, 24 Aug 2026 17:00:00 +0000",
+      "image_url": "/article_images/article_910a58a116f7.webp",
       "category": "Science",
-      "title": "Fire use by ancient humans just got a whole lot older",
-      "summary": "Burnt bones in South Africa's Wonderwerk Cave suggest Homo erectus used fire up to 1.8 million years ago—almost double the previous record. Scientists used a forensic technique to spot the evidence."
+      "title": "SpaceX Is About to Break Its Own Rocket-Reuse Record — Here's Why It Matters",
+      "summary": "A SpaceX Falcon 9 is set to launch for a record 37th time — the 100th Falcon 9 flight of 2026. It's carrying 29 Starlink satellites. Watch it live!"
     },
     {
-      "id": "2026-08-23-science-2",
-      "source": "Popular Science",
-      "time_ago": "Sun, 23 Aug 2026 10:04:00 -0400",
-      "mined_at": "2026-08-23T17:49:52+00:00",
-      "source_published_at": "Sun, 23 Aug 2026 10:04:00 -0400",
-      "image_url": "/article_images/article_c8ca3f591426.webp",
+      "id": "2026-08-24-science-2",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Sun, 23 Aug 2026 23:11:22 EDT",
+      "mined_at": "2026-08-24T17:48:23+00:00",
+      "source_published_at": "Sun, 23 Aug 2026 23:11:22 EDT",
+      "image_url": "/article_images/article_fbae78ec589b.webp",
       "category": "Science",
-      "title": "Ticklishness is no joke: scientists map the body's giggle zones",
-      "summary": "A new study surveyed 448 adults from three cultures and found ticklish spots are remarkably similar—neck, armpits, belly, feet. The research even connects tickling to our ape relatives."
+      "title": "Scientists Discover a Real-Life 'Dragon' — and It's Named After a TV Star",
+      "summary": "A new lizard species found in Thailand's high mountain forests is named Syrax, after the dragon in House of the Dragon. It's small, yellow-green, and lives only in one park."
     },
     {
-      "id": "2026-08-23-science-3",
-      "source": "ScienceDaily All",
-      "time_ago": "Sun, 23 Aug 2026 06:24:17 EDT",
-      "mined_at": "2026-08-23T17:49:52+00:00",
-      "source_published_at": "Sun, 23 Aug 2026 06:24:17 EDT",
-      "image_url": "/article_images/article_1fa6a260fd77.webp",
+      "id": "2026-08-24-science-3",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Mon, 24 Aug 2026 09:14:50 EDT",
+      "mined_at": "2026-08-24T17:48:23+00:00",
+      "source_published_at": "Mon, 24 Aug 2026 09:14:50 EDT",
+      "image_url": "/article_images/article_824e47f121f1.webp",
       "category": "Science",
-      "title": "A new compound burns fat without the muscle loss of popular weight-loss drugs",
-      "summary": "UC Berkeley scientists found that TOFA helps obese mice lose fat while keeping muscle, unlike GLP-1 drugs. It works by boosting energy use, and combining it with Ozempic worked even better."
+      "title": "Your Medications Could Be Reshaping Your Gut Microbiome for Years",
+      "summary": "A study of 2,500+ people found that many common drugs, including anxiety meds, leave lasting changes in gut bacteria even after you stop. This could affect your health for years."
     }
   ]
 }
