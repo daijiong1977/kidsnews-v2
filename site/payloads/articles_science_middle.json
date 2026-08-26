@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-24-science-1",
+      "id": "2026-08-26-science-1",
+      "source": "Science News Explores",
+      "time_ago": "Tue, 25 Aug 2026 10:30:00 +0000",
+      "mined_at": "2026-08-26T02:16:17+00:00",
+      "source_published_at": "Tue, 25 Aug 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_b34682c6680a.webp",
+      "category": "Science",
+      "title": "700,000-Year-Old Squirrel Poop Reveals a Lost Ecosystem—and a Mystery Species",
+      "summary": "Scientists thawed ice-age squirrel poop from the Yukon and found DNA inside. It reveals what they ate—including mammoth bones—and suggests the ancient squirrels may be a different species than today's."
+    },
+    {
+      "id": "2026-08-26-science-2",
       "source": "Space.com",
-      "time_ago": "Mon, 24 Aug 2026 17:00:00 +0000",
-      "mined_at": "2026-08-24T17:48:23+00:00",
-      "source_published_at": "Mon, 24 Aug 2026 17:00:00 +0000",
-      "image_url": "/article_images/article_910a58a116f7.webp",
+      "time_ago": "Tue, 25 Aug 2026 21:00:00 +0000",
+      "mined_at": "2026-08-26T02:16:17+00:00",
+      "source_published_at": "Tue, 25 Aug 2026 21:00:00 +0000",
+      "image_url": "/article_images/article_68272623bed7.webp",
       "category": "Science",
-      "title": "SpaceX Is About to Break Its Own Rocket-Reuse Record — Here's Why It Matters",
-      "summary": "A SpaceX Falcon 9 is set to launch for a record 37th time — the 100th Falcon 9 flight of 2026. It's carrying 29 Starlink satellites. Watch it live!"
+      "title": "'You Just Saved the Video Dish': Astronauts Complete Critical Spacewalk Repair",
+      "summary": "Two astronauts replaced a broken antenna on the ISS during a 6.5-hour spacewalk. Mission Control celebrated with a parody of 'Video Killed the Radio Star.' The repair restores a crucial communication link."
     },
     {
-      "id": "2026-08-24-science-2",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Sun, 23 Aug 2026 23:11:22 EDT",
-      "mined_at": "2026-08-24T17:48:23+00:00",
-      "source_published_at": "Sun, 23 Aug 2026 23:11:22 EDT",
-      "image_url": "/article_images/article_fbae78ec589b.webp",
+      "id": "2026-08-26-science-3",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Mon, 24 Aug 2026 06:31:15 EDT",
+      "mined_at": "2026-08-26T02:16:17+00:00",
+      "source_published_at": "Mon, 24 Aug 2026 06:31:15 EDT",
+      "image_url": "/article_images/article_c1cecfcdfd32.webp",
       "category": "Science",
-      "title": "Scientists Discover a Real-Life 'Dragon' — and It's Named After a TV Star",
-      "summary": "A new lizard species found in Thailand's high mountain forests is named Syrax, after the dragon in House of the Dragon. It's small, yellow-green, and lives only in one park."
-    },
-    {
-      "id": "2026-08-24-science-3",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Mon, 24 Aug 2026 09:14:50 EDT",
-      "mined_at": "2026-08-24T17:48:23+00:00",
-      "source_published_at": "Mon, 24 Aug 2026 09:14:50 EDT",
-      "image_url": "/article_images/article_824e47f121f1.webp",
-      "category": "Science",
-      "title": "Your Medications Could Be Reshaping Your Gut Microbiome for Years",
-      "summary": "A study of 2,500+ people found that many common drugs, including anxiety meds, leave lasting changes in gut bacteria even after you stop. This could affect your health for years."
+      "title": "Screen Time at Age 1 and 6 Tied to Lower Grades and Weaker Memory Later",
+      "summary": "A study of 502 kids found that heavy screen time at age 1 and age 6 was linked to poorer academic performance at 9 and weaker working memory at 10.5. Timing matters, not just total time."
     }
   ]
 }

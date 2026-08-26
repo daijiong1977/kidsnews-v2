@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-24-news-1",
-      "source": "NPR World",
-      "time_ago": "Mon, 24 Aug 2026 05:36:13 -0400",
-      "mined_at": "2026-08-24T17:48:23+00:00",
-      "source_published_at": "Mon, 24 Aug 2026 05:36:13 -0400",
-      "image_url": "/article_images/article_ed15822001f0.webp",
-      "category": "News",
-      "title": "Race Cars Zoom Past the White House!",
-      "summary": "IndyCar's first-ever race in Washington, D.C. turned famous streets into a track. Florida's Kyle Kirkwood won, leading most laps. Thousands cheered as a real bald eagle flew over!"
-    },
-    {
-      "id": "2026-08-24-news-2",
+      "id": "2026-08-26-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Mon, 24 Aug 2026 13:02:32 -0400",
-      "mined_at": "2026-08-24T17:48:23+00:00",
-      "source_published_at": "Mon, 24 Aug 2026 13:02:32 -0400",
-      "image_url": "/article_images/article_47daba763d83.webp",
+      "time_ago": "Tue, 25 Aug 2026 18:55:27 -0400",
+      "mined_at": "2026-08-26T02:16:17+00:00",
+      "source_published_at": "Tue, 25 Aug 2026 18:55:27 -0400",
+      "image_url": "/article_images/article_e5307f693160.webp",
       "category": "News",
-      "title": "Why Weather Is Getting Wilder",
-      "summary": "Scientists say climate change is making extreme weather more common. They point to bigger wildfires, floods, and heat waves. One expert warns we might be 'the frog in boiling water.'"
+      "title": "Canada Fires Back: New Tariffs on U.S. Goods!",
+      "summary": "Canada is putting new taxes on U.S. products starting September 8. This is payback for U.S. tariffs. Over 700 items will cost more, including steel and appliances."
     },
     {
-      "id": "2026-08-24-news-3",
+      "id": "2026-08-26-news-2",
       "source": "Al Jazeera",
-      "time_ago": "Mon, 24 Aug 2026 17:16:10 +0000",
-      "mined_at": "2026-08-24T17:48:23+00:00",
-      "source_published_at": "Mon, 24 Aug 2026 17:16:10 +0000",
-      "image_url": "/article_images/article_458b8ce00fdd.webp",
+      "time_ago": "Wed, 26 Aug 2026 01:43:50 +0000",
+      "mined_at": "2026-08-26T02:16:17+00:00",
+      "source_published_at": "Wed, 26 Aug 2026 01:43:50 +0000",
+      "image_url": "/article_images/article_70e5ca69696b.webp",
       "category": "News",
-      "title": "Japan and China: Trying to Be Friends Again",
-      "summary": "Japanese lawmakers visited China to fix a big fight over Taiwan. The argument started when Japan's leader said it might use military force if China attacked Taiwan. Now they're trying to talk."
+      "title": "Malaysia's Leader Says Taiwan Is Part of China—Why It Matters",
+      "summary": "Malaysia's prime minister said Taiwan is part of China, which made China happy and Taiwan upset. He also talked about using force to keep countries together. This could change how Malaysia deals with other countries."
+    },
+    {
+      "id": "2026-08-26-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Tue, 25 Aug 2026 18:52:52 -0400",
+      "mined_at": "2026-08-26T02:16:17+00:00",
+      "source_published_at": "Tue, 25 Aug 2026 18:52:52 -0400",
+      "image_url": "/article_images/article_3257ba2297fa.webp",
+      "category": "News",
+      "title": "Why Canada and the U.S. Almost Had a Deal—But Didn't",
+      "summary": "Canada and the U.S. almost made a trade deal, but talks broke down over cars and steel. Now they're heading toward a trade war. Find out what happened!"
     }
   ]
 }

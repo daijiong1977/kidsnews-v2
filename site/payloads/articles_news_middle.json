@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-24-news-1",
-      "source": "NPR World",
-      "time_ago": "Mon, 24 Aug 2026 05:36:13 -0400",
-      "mined_at": "2026-08-24T17:48:23+00:00",
-      "source_published_at": "Mon, 24 Aug 2026 05:36:13 -0400",
-      "image_url": "/article_images/article_ed15822001f0.webp",
-      "category": "News",
-      "title": "IndyCar Makes History on D.C.'s Iconic Streets",
-      "summary": "The nation's capital hosted its first IndyCar street race, the Freedom 250. Florida's Kyle Kirkwood dominated, leading 128 of 147 laps. Thousands cheered as a bald eagle soared overhead."
-    },
-    {
-      "id": "2026-08-24-news-2",
+      "id": "2026-08-26-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Mon, 24 Aug 2026 13:02:32 -0400",
-      "mined_at": "2026-08-24T17:48:23+00:00",
-      "source_published_at": "Mon, 24 Aug 2026 13:02:32 -0400",
-      "image_url": "/article_images/article_47daba763d83.webp",
+      "time_ago": "Tue, 25 Aug 2026 18:55:27 -0400",
+      "mined_at": "2026-08-26T02:16:17+00:00",
+      "source_published_at": "Tue, 25 Aug 2026 18:55:27 -0400",
+      "image_url": "/article_images/article_e5307f693160.webp",
       "category": "News",
-      "title": "Climate Change: The 'Other Big One' Is Coming",
-      "summary": "Scientists warn that climate change is making extreme weather more frequent and intense. From Australia's Black Summer to Pakistan's floods, the evidence is mounting. But will we act in time?"
+      "title": "Trade War Escalates: Canada Strikes Back with Tariffs on U.S. Goods",
+      "summary": "Canada is hitting back with tariffs on 700+ U.S. products starting Sept 8, targeting $27 billion in imports. This follows U.S. tariffs on Canadian goods. The trade war is already hurting businesses like a Michigan furniture company."
     },
     {
-      "id": "2026-08-24-news-3",
+      "id": "2026-08-26-news-2",
       "source": "Al Jazeera",
-      "time_ago": "Mon, 24 Aug 2026 17:16:10 +0000",
-      "mined_at": "2026-08-24T17:48:23+00:00",
-      "source_published_at": "Mon, 24 Aug 2026 17:16:10 +0000",
-      "image_url": "/article_images/article_458b8ce00fdd.webp",
+      "time_ago": "Wed, 26 Aug 2026 01:43:50 +0000",
+      "mined_at": "2026-08-26T02:16:17+00:00",
+      "source_published_at": "Wed, 26 Aug 2026 01:43:50 +0000",
+      "image_url": "/article_images/article_70e5ca69696b.webp",
       "category": "News",
-      "title": "Japan's Delegation Aims to Defrost China Relations",
-      "summary": "Japanese lawmakers visited Beijing to ease tensions over Taiwan comments. The rift has disrupted trade and communication. A former diplomat called it the worst since 1972."
+      "title": "Malaysia's Balancing Act: Anwar's Taiwan Remarks Spark Debate",
+      "summary": "Malaysia's PM Anwar called Taiwan 'part of China,' angering Taiwan but pleasing Beijing. He also hinted at using force for unity. This has raised questions about Malaysia's non-aligned stance and its ties with China."
+    },
+    {
+      "id": "2026-08-26-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Tue, 25 Aug 2026 18:52:52 -0400",
+      "mined_at": "2026-08-26T02:16:17+00:00",
+      "source_published_at": "Tue, 25 Aug 2026 18:52:52 -0400",
+      "image_url": "/article_images/article_3257ba2297fa.webp",
+      "category": "News",
+      "title": "Trade Talks Collapse: Canada and U.S. on the Brink of a Trade War",
+      "summary": "Canada and the U.S. were close to a trade deal, but talks broke down over cars and steel. Now they're heading toward a trade war that could hurt both economies. Here's what happened."
     }
   ]
 }
