@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-26-science-1",
+      "id": "2026-08-28-science-1",
+      "source": "Popular Science",
+      "time_ago": "Fri, 28 Aug 2026 14:04:00 -0400",
+      "mined_at": "2026-08-28T21:20:38+00:00",
+      "source_published_at": "Fri, 28 Aug 2026 14:04:00 -0400",
+      "image_url": "/article_images/article_2b3222ca09bb.webp",
+      "category": "Science",
+      "title": "Meet Bolt, the Cutest Dog at the Airport (and He Works There!)",
+      "summary": "A German shorthaired pointer named Bolt just won the TSA's Cutest Canine Contest for 2026. He works at Dallas Fort Worth airport, sniffing for explosives. He's three years old and loves his job!"
+    },
+    {
+      "id": "2026-08-28-science-2",
+      "source": "ScienceDaily All",
+      "time_ago": "Fri, 28 Aug 2026 09:54:53 EDT",
+      "mined_at": "2026-08-28T21:20:38+00:00",
+      "source_published_at": "Fri, 28 Aug 2026 09:54:53 EDT",
+      "image_url": "/article_images/article_eb2a7b4512f2.webp",
+      "category": "Science",
+      "title": "A New Space Telescope Will See 100 Times More Sky Than Hubble!",
+      "summary": "NASA's Roman Space Telescope launches in two days! It has a mirror the same size as Hubble's but can see 100 times more sky. It will help scientists study dark matter and dark energy."
+    },
+    {
+      "id": "2026-08-28-science-3",
       "source": "Science News Explores",
-      "time_ago": "Tue, 25 Aug 2026 10:30:00 +0000",
-      "mined_at": "2026-08-26T02:16:17+00:00",
-      "source_published_at": "Tue, 25 Aug 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_b34682c6680a.webp",
+      "time_ago": "Fri, 28 Aug 2026 10:30:00 +0000",
+      "mined_at": "2026-08-28T21:20:38+00:00",
+      "source_published_at": "Fri, 28 Aug 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_effd5e04a0b8.webp",
       "category": "Science",
-      "title": "Frozen Squirrel Poop Tells a 700,000-Year-Old Story",
-      "summary": "Scientists thawed ancient squirrel poop from the Yukon and found DNA inside! It shows what ice-age squirrels ate—and reveals a surprise: they might be a different species than today's squirrels."
-    },
-    {
-      "id": "2026-08-26-science-2",
-      "source": "Space.com",
-      "time_ago": "Tue, 25 Aug 2026 21:00:00 +0000",
-      "mined_at": "2026-08-26T02:16:17+00:00",
-      "source_published_at": "Tue, 25 Aug 2026 21:00:00 +0000",
-      "image_url": "/article_images/article_68272623bed7.webp",
-      "category": "Science",
-      "title": "Astronauts 'Save the Video Dish' in Spacewalk Repair",
-      "summary": "Two astronauts fixed a broken antenna on the International Space Station during a 6.5-hour spacewalk. Mission Control joked they 'saved the video dish'—just like the song 'Video Killed the Radio Star'!"
-    },
-    {
-      "id": "2026-08-26-science-3",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Mon, 24 Aug 2026 06:31:15 EDT",
-      "mined_at": "2026-08-26T02:16:17+00:00",
-      "source_published_at": "Mon, 24 Aug 2026 06:31:15 EDT",
-      "image_url": "/article_images/article_c1cecfcdfd32.webp",
-      "category": "Science",
-      "title": "Too Much Screen Time at Age 1 Could Hurt Learning Later",
-      "summary": "A new study followed kids from age 1 to 10 and found that lots of screen time at age 1 and age 6 was linked to lower grades and weaker memory later. Timing matters, not just total time!"
+      "title": "A Weird Space Object That's Not a Planet or a Moon",
+      "summary": "Astronomers found an object as big as Jupiter orbiting a brown dwarf, which orbits a star. It's the first known 'exosatellite'—a new kind of object that blurs the line between planet and moon."
     }
   ]
 }

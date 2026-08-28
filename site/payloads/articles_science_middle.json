@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-26-science-1",
+      "id": "2026-08-28-science-1",
+      "source": "Popular Science",
+      "time_ago": "Fri, 28 Aug 2026 14:04:00 -0400",
+      "mined_at": "2026-08-28T21:20:38+00:00",
+      "source_published_at": "Fri, 28 Aug 2026 14:04:00 -0400",
+      "image_url": "/article_images/article_2b3222ca09bb.webp",
+      "category": "Science",
+      "title": "Bolt the Bomb-Sniffing Dog Wins the TSA's Cutest Canine Contest",
+      "summary": "A three-year-old German shorthaired pointer named Bolt just won the TSA's Cutest Canine Contest for 2026. He sniffs for explosives at Dallas Fort Worth airport. His handler says he's a hard-working character who loves his job."
+    },
+    {
+      "id": "2026-08-28-science-2",
+      "source": "ScienceDaily All",
+      "time_ago": "Fri, 28 Aug 2026 09:54:53 EDT",
+      "mined_at": "2026-08-28T21:20:38+00:00",
+      "source_published_at": "Fri, 28 Aug 2026 09:54:53 EDT",
+      "image_url": "/article_images/article_eb2a7b4512f2.webp",
+      "category": "Science",
+      "title": "NASA's Roman Telescope: A Hubble-Sized Mirror with a 100-Times Wider View",
+      "summary": "NASA's Roman Space Telescope launches in two days. It has a mirror the same size as Hubble's but images 100 times more sky. It will study dark matter, dark energy, and directly image exoplanets."
+    },
+    {
+      "id": "2026-08-28-science-3",
       "source": "Science News Explores",
-      "time_ago": "Tue, 25 Aug 2026 10:30:00 +0000",
-      "mined_at": "2026-08-26T02:16:17+00:00",
-      "source_published_at": "Tue, 25 Aug 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_b34682c6680a.webp",
+      "time_ago": "Fri, 28 Aug 2026 10:30:00 +0000",
+      "mined_at": "2026-08-28T21:20:38+00:00",
+      "source_published_at": "Fri, 28 Aug 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_effd5e04a0b8.webp",
       "category": "Science",
-      "title": "700,000-Year-Old Squirrel Poop Reveals a Lost Ecosystem—and a Mystery Species",
-      "summary": "Scientists thawed ice-age squirrel poop from the Yukon and found DNA inside. It reveals what they ate—including mammoth bones—and suggests the ancient squirrels may be a different species than today's."
-    },
-    {
-      "id": "2026-08-26-science-2",
-      "source": "Space.com",
-      "time_ago": "Tue, 25 Aug 2026 21:00:00 +0000",
-      "mined_at": "2026-08-26T02:16:17+00:00",
-      "source_published_at": "Tue, 25 Aug 2026 21:00:00 +0000",
-      "image_url": "/article_images/article_68272623bed7.webp",
-      "category": "Science",
-      "title": "'You Just Saved the Video Dish': Astronauts Complete Critical Spacewalk Repair",
-      "summary": "Two astronauts replaced a broken antenna on the ISS during a 6.5-hour spacewalk. Mission Control celebrated with a parody of 'Video Killed the Radio Star.' The repair restores a crucial communication link."
-    },
-    {
-      "id": "2026-08-26-science-3",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Mon, 24 Aug 2026 06:31:15 EDT",
-      "mined_at": "2026-08-26T02:16:17+00:00",
-      "source_published_at": "Mon, 24 Aug 2026 06:31:15 EDT",
-      "image_url": "/article_images/article_c1cecfcdfd32.webp",
-      "category": "Science",
-      "title": "Screen Time at Age 1 and 6 Tied to Lower Grades and Weaker Memory Later",
-      "summary": "A study of 502 kids found that heavy screen time at age 1 and age 6 was linked to poorer academic performance at 9 and weaker working memory at 10.5. Timing matters, not just total time."
+      "title": "This 'Moonish Thingy' Is Blurring the Line Between Planet and Moon",
+      "summary": "Astronomers found a Jupiter-sized object orbiting a brown dwarf, which orbits a star. It's the first known 'exosatellite'—a new category that challenges our definition of a planet."
     }
   ]
 }

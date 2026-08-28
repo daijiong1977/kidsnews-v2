@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-26-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Tue, 25 Aug 2026 18:55:27 -0400",
-      "mined_at": "2026-08-26T02:16:17+00:00",
-      "source_published_at": "Tue, 25 Aug 2026 18:55:27 -0400",
-      "image_url": "/article_images/article_e5307f693160.webp",
-      "category": "News",
-      "title": "Canada Fires Back: New Tariffs on U.S. Goods!",
-      "summary": "Canada is putting new taxes on U.S. products starting September 8. This is payback for U.S. tariffs. Over 700 items will cost more, including steel and appliances."
-    },
-    {
-      "id": "2026-08-26-news-2",
+      "id": "2026-08-28-news-1",
       "source": "Al Jazeera",
-      "time_ago": "Wed, 26 Aug 2026 01:43:50 +0000",
-      "mined_at": "2026-08-26T02:16:17+00:00",
-      "source_published_at": "Wed, 26 Aug 2026 01:43:50 +0000",
-      "image_url": "/article_images/article_70e5ca69696b.webp",
+      "time_ago": "Fri, 28 Aug 2026 19:23:32 +0000",
+      "mined_at": "2026-08-28T21:20:38+00:00",
+      "source_published_at": "Fri, 28 Aug 2026 19:23:32 +0000",
+      "image_url": "/article_images/article_54939a4db678.webp",
       "category": "News",
-      "title": "Malaysia's Leader Says Taiwan Is Part of China—Why It Matters",
-      "summary": "Malaysia's prime minister said Taiwan is part of China, which made China happy and Taiwan upset. He also talked about using force to keep countries together. This could change how Malaysia deals with other countries."
+      "title": "Trump Creates First-Ever US Space Academy!",
+      "summary": "President Trump just announced a brand-new US Space Academy! It will train kids to work with NASA and the Space Force. The announcement happened at a big ceremony in Texas."
     },
     {
-      "id": "2026-08-26-news-3",
-      "source": "PBS NewsHour",
-      "time_ago": "Tue, 25 Aug 2026 18:52:52 -0400",
-      "mined_at": "2026-08-26T02:16:17+00:00",
-      "source_published_at": "Tue, 25 Aug 2026 18:52:52 -0400",
-      "image_url": "/article_images/article_3257ba2297fa.webp",
+      "id": "2026-08-28-news-2",
+      "source": "NPR World",
+      "time_ago": "Fri, 28 Aug 2026 06:54:22 -0400",
+      "mined_at": "2026-08-28T21:20:38+00:00",
+      "source_published_at": "Fri, 28 Aug 2026 06:54:22 -0400",
+      "image_url": "/article_images/article_e5eca8cf9084.webp",
       "category": "News",
-      "title": "Why Canada and the U.S. Almost Had a Deal—But Didn't",
-      "summary": "Canada and the U.S. almost made a trade deal, but talks broke down over cars and steel. Now they're heading toward a trade war. Find out what happened!"
+      "title": "Daughter Searches for Parents After Nepal Floods",
+      "summary": "A woman from North Carolina is desperately searching for her parents after terrible floods in Nepal. More than 500 people died and many are missing. She last heard from them near the border."
+    },
+    {
+      "id": "2026-08-28-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Fri, 28 Aug 2026 14:12:37 -0400",
+      "mined_at": "2026-08-28T21:20:38+00:00",
+      "source_published_at": "Fri, 28 Aug 2026 14:12:37 -0400",
+      "image_url": "/article_images/article_bdd242af1a7c.webp",
+      "category": "News",
+      "title": "Deadly Tank Explosion Could Have Been Prevented",
+      "summary": "A chemical tank that exploded at a paper mill in Washington, killing 11 people, was called 'not fit for service' 10 months before. The company didn't fix it. Now investigators are asking why."
     }
   ]
 }

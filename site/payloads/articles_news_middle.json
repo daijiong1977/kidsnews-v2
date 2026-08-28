@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-26-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Tue, 25 Aug 2026 18:55:27 -0400",
-      "mined_at": "2026-08-26T02:16:17+00:00",
-      "source_published_at": "Tue, 25 Aug 2026 18:55:27 -0400",
-      "image_url": "/article_images/article_e5307f693160.webp",
-      "category": "News",
-      "title": "Trade War Escalates: Canada Strikes Back with Tariffs on U.S. Goods",
-      "summary": "Canada is hitting back with tariffs on 700+ U.S. products starting Sept 8, targeting $27 billion in imports. This follows U.S. tariffs on Canadian goods. The trade war is already hurting businesses like a Michigan furniture company."
-    },
-    {
-      "id": "2026-08-26-news-2",
+      "id": "2026-08-28-news-1",
       "source": "Al Jazeera",
-      "time_ago": "Wed, 26 Aug 2026 01:43:50 +0000",
-      "mined_at": "2026-08-26T02:16:17+00:00",
-      "source_published_at": "Wed, 26 Aug 2026 01:43:50 +0000",
-      "image_url": "/article_images/article_70e5ca69696b.webp",
+      "time_ago": "Fri, 28 Aug 2026 19:23:32 +0000",
+      "mined_at": "2026-08-28T21:20:38+00:00",
+      "source_published_at": "Fri, 28 Aug 2026 19:23:32 +0000",
+      "image_url": "/article_images/article_54939a4db678.webp",
       "category": "News",
-      "title": "Malaysia's Balancing Act: Anwar's Taiwan Remarks Spark Debate",
-      "summary": "Malaysia's PM Anwar called Taiwan 'part of China,' angering Taiwan but pleasing Beijing. He also hinted at using force for unity. This has raised questions about Malaysia's non-aligned stance and its ties with China."
+      "title": "Trump Signs Order to Create First-Ever US Space Academy",
+      "summary": "President Trump just announced the creation of the US Space Academy, a new school to train future space leaders. The surprise announcement came during a ceremony honoring the Artemis II crew, who recently flew around the moon."
     },
     {
-      "id": "2026-08-26-news-3",
-      "source": "PBS NewsHour",
-      "time_ago": "Tue, 25 Aug 2026 18:52:52 -0400",
-      "mined_at": "2026-08-26T02:16:17+00:00",
-      "source_published_at": "Tue, 25 Aug 2026 18:52:52 -0400",
-      "image_url": "/article_images/article_3257ba2297fa.webp",
+      "id": "2026-08-28-news-2",
+      "source": "NPR World",
+      "time_ago": "Fri, 28 Aug 2026 06:54:22 -0400",
+      "mined_at": "2026-08-28T21:20:38+00:00",
+      "source_published_at": "Fri, 28 Aug 2026 06:54:22 -0400",
+      "image_url": "/article_images/article_e5eca8cf9084.webp",
       "category": "News",
-      "title": "Trade Talks Collapse: Canada and U.S. on the Brink of a Trade War",
-      "summary": "Canada and the U.S. were close to a trade deal, but talks broke down over cars and steel. Now they're heading toward a trade war that could hurt both economies. Here's what happened."
+      "title": "'It's Essentially Been One Long Day': Daughter Searches for Parents After Nepal Floods",
+      "summary": "A North Carolina doctor is desperately searching for her parents after catastrophic floods in Nepal killed over 500 people. Shreya Ahuja last heard from them near the border, and now she's pleading for help."
+    },
+    {
+      "id": "2026-08-28-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Fri, 28 Aug 2026 14:12:37 -0400",
+      "mined_at": "2026-08-28T21:20:38+00:00",
+      "source_published_at": "Fri, 28 Aug 2026 14:12:37 -0400",
+      "image_url": "/article_images/article_bdd242af1a7c.webp",
+      "category": "News",
+      "title": "Chemical Tank Called 'Unfit for Service' Before Deadly Failure, Investigators Find",
+      "summary": "A chemical tank at a Washington paper mill was flagged as unsafe 10 months before it exploded, killing 11 workers. The company didn't fix it. Now the Chemical Safety Board is investigating."
     }
   ]
 }
