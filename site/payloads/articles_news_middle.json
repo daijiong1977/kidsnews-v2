@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-28-news-1",
-      "source": "Al Jazeera",
-      "time_ago": "Fri, 28 Aug 2026 19:23:32 +0000",
-      "mined_at": "2026-08-28T21:20:38+00:00",
-      "source_published_at": "Fri, 28 Aug 2026 19:23:32 +0000",
-      "image_url": "/article_images/article_54939a4db678.webp",
-      "category": "News",
-      "title": "Trump Signs Order to Create First-Ever US Space Academy",
-      "summary": "President Trump just announced the creation of the US Space Academy, a new school to train future space leaders. The surprise announcement came during a ceremony honoring the Artemis II crew, who recently flew around the moon."
-    },
-    {
-      "id": "2026-08-28-news-2",
-      "source": "NPR World",
-      "time_ago": "Fri, 28 Aug 2026 06:54:22 -0400",
-      "mined_at": "2026-08-28T21:20:38+00:00",
-      "source_published_at": "Fri, 28 Aug 2026 06:54:22 -0400",
-      "image_url": "/article_images/article_e5eca8cf9084.webp",
-      "category": "News",
-      "title": "'It's Essentially Been One Long Day': Daughter Searches for Parents After Nepal Floods",
-      "summary": "A North Carolina doctor is desperately searching for her parents after catastrophic floods in Nepal killed over 500 people. Shreya Ahuja last heard from them near the border, and now she's pleading for help."
-    },
-    {
-      "id": "2026-08-28-news-3",
+      "id": "2026-09-05-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Fri, 28 Aug 2026 14:12:37 -0400",
-      "mined_at": "2026-08-28T21:20:38+00:00",
-      "source_published_at": "Fri, 28 Aug 2026 14:12:37 -0400",
-      "image_url": "/article_images/article_bdd242af1a7c.webp",
+      "time_ago": "Sat, 05 Sep 2026 13:33:29 -0400",
+      "mined_at": "2026-09-05T18:25:01+00:00",
+      "source_published_at": "Sat, 05 Sep 2026 13:33:29 -0400",
+      "image_url": "/article_images/article_b05e22f2e9ab.webp",
       "category": "News",
-      "title": "Chemical Tank Called 'Unfit for Service' Before Deadly Failure, Investigators Find",
-      "summary": "A chemical tank at a Washington paper mill was flagged as unsafe 10 months before it exploded, killing 11 workers. The company didn't fix it. Now the Chemical Safety Board is investigating."
+      "title": "Ceiling Collapse at Kennedy Center Fuels Debate Over Shutdown and Trump's Name",
+      "summary": "A ceiling chunk fell in the Kennedy Center's hallway, sparking fresh calls to close for renovations. The board, backed by Trump, wants a two-year shutdown, but critics say it's an excuse. No one was hurt."
+    },
+    {
+      "id": "2026-09-05-news-2",
+      "source": "BBC News",
+      "time_ago": "Sat, 05 Sep 2026 14:41:17 GMT",
+      "mined_at": "2026-09-05T18:25:01+00:00",
+      "source_published_at": "Sat, 05 Sep 2026 14:41:17 GMT",
+      "image_url": "/article_images/article_f48643fb31db.webp",
+      "category": "News",
+      "title": "Masked 'Stop the Boats' Protesters Disrupt Port of Dover",
+      "summary": "Hundreds of masked men blocked roads at the Port of Dover, chanting 'stop the boats.' Police cleared them by noon, but local MP Mike Tapp is demanding answers. No arrests were made."
+    },
+    {
+      "id": "2026-09-05-news-3",
+      "source": "BBC News",
+      "time_ago": "Sat, 05 Sep 2026 12:32:31 GMT",
+      "mined_at": "2026-09-05T18:25:01+00:00",
+      "source_published_at": "Sat, 05 Sep 2026 12:32:31 GMT",
+      "image_url": "/article_images/article_e9457c13a248.webp",
+      "category": "News",
+      "title": "Reform UK's 'Pirate Ship' Culture Under Fire After Donations Scandal",
+      "summary": "A Channel 4 undercover video cost two Reform UK figures their jobs. Insiders worry the party's 'cavalier' culture is hurting its image. Leader Nigel Farage denies any pattern of law-breaking."
     }
   ]
 }

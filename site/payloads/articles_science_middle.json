@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-28-science-1",
-      "source": "Popular Science",
-      "time_ago": "Fri, 28 Aug 2026 14:04:00 -0400",
-      "mined_at": "2026-08-28T21:20:38+00:00",
-      "source_published_at": "Fri, 28 Aug 2026 14:04:00 -0400",
-      "image_url": "/article_images/article_2b3222ca09bb.webp",
+      "id": "2026-09-05-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Thu, 03 Sep 2026 08:41:39 EDT",
+      "mined_at": "2026-09-05T18:25:01+00:00",
+      "source_published_at": "Thu, 03 Sep 2026 08:41:39 EDT",
+      "image_url": "/article_images/article_20654af92b3b.webp",
       "category": "Science",
-      "title": "Bolt the Bomb-Sniffing Dog Wins the TSA's Cutest Canine Contest",
-      "summary": "A three-year-old German shorthaired pointer named Bolt just won the TSA's Cutest Canine Contest for 2026. He sniffs for explosives at Dallas Fort Worth airport. His handler says he's a hard-working character who loves his job."
+      "title": "Saturn's New Decagon: A Giant 10-Sided Mystery",
+      "summary": "Saturn's south pole has a new giant 10-sided wave, like its famous hexagon but different. It's growing, and scientists don't know why it formed. Hubble is watching!"
     },
     {
-      "id": "2026-08-28-science-2",
-      "source": "ScienceDaily All",
-      "time_ago": "Fri, 28 Aug 2026 09:54:53 EDT",
-      "mined_at": "2026-08-28T21:20:38+00:00",
-      "source_published_at": "Fri, 28 Aug 2026 09:54:53 EDT",
-      "image_url": "/article_images/article_eb2a7b4512f2.webp",
+      "id": "2026-09-05-science-2",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Fri, 04 Sep 2026 06:56:51 EDT",
+      "mined_at": "2026-09-05T18:25:01+00:00",
+      "source_published_at": "Fri, 04 Sep 2026 06:56:51 EDT",
+      "image_url": "/article_images/article_e9ac7b431f1e.webp",
       "category": "Science",
-      "title": "NASA's Roman Telescope: A Hubble-Sized Mirror with a 100-Times Wider View",
-      "summary": "NASA's Roman Space Telescope launches in two days. It has a mirror the same size as Hubble's but images 100 times more sky. It will study dark matter, dark energy, and directly image exoplanets."
+      "title": "Giant Iceberg Survives a Head-On Collision with an Island",
+      "summary": "An iceberg as big as St. Thomas broke off Greenland's Petermann Glacier and slammed into Joe Island—but didn't break! Scientists are amazed and watching for more breaks."
     },
     {
-      "id": "2026-08-28-science-3",
-      "source": "Science News Explores",
-      "time_ago": "Fri, 28 Aug 2026 10:30:00 +0000",
-      "mined_at": "2026-08-28T21:20:38+00:00",
-      "source_published_at": "Fri, 28 Aug 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_effd5e04a0b8.webp",
+      "id": "2026-09-05-science-3",
+      "source": "Smithsonian Science-Nature",
+      "time_ago": "Wed, 02 Sep 2026 13:00:00 +0000",
+      "mined_at": "2026-09-05T18:25:01+00:00",
+      "source_published_at": "Wed, 02 Sep 2026 13:00:00 +0000",
+      "image_url": "/article_images/article_4175be013afe.webp",
       "category": "Science",
-      "title": "This 'Moonish Thingy' Is Blurring the Line Between Planet and Moon",
-      "summary": "Astronomers found a Jupiter-sized object orbiting a brown dwarf, which orbits a star. It's the first known 'exosatellite'—a new category that challenges our definition of a planet."
+      "title": "The Duck That Came Back from the Brink—But Still Needs Help",
+      "summary": "White-headed ducks have blue bills and wild dances. In Spain, they dropped to just 22 birds, but now 2,500 thrive. Yet they're still endangered globally. A conservation story in progress."
     }
   ]
 }

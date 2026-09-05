@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-08-28-news-1",
-      "source": "Al Jazeera",
-      "time_ago": "Fri, 28 Aug 2026 19:23:32 +0000",
-      "mined_at": "2026-08-28T21:20:38+00:00",
-      "source_published_at": "Fri, 28 Aug 2026 19:23:32 +0000",
-      "image_url": "/article_images/article_54939a4db678.webp",
-      "category": "News",
-      "title": "Trump Creates First-Ever US Space Academy!",
-      "summary": "President Trump just announced a brand-new US Space Academy! It will train kids to work with NASA and the Space Force. The announcement happened at a big ceremony in Texas."
-    },
-    {
-      "id": "2026-08-28-news-2",
-      "source": "NPR World",
-      "time_ago": "Fri, 28 Aug 2026 06:54:22 -0400",
-      "mined_at": "2026-08-28T21:20:38+00:00",
-      "source_published_at": "Fri, 28 Aug 2026 06:54:22 -0400",
-      "image_url": "/article_images/article_e5eca8cf9084.webp",
-      "category": "News",
-      "title": "Daughter Searches for Parents After Nepal Floods",
-      "summary": "A woman from North Carolina is desperately searching for her parents after terrible floods in Nepal. More than 500 people died and many are missing. She last heard from them near the border."
-    },
-    {
-      "id": "2026-08-28-news-3",
+      "id": "2026-09-05-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Fri, 28 Aug 2026 14:12:37 -0400",
-      "mined_at": "2026-08-28T21:20:38+00:00",
-      "source_published_at": "Fri, 28 Aug 2026 14:12:37 -0400",
-      "image_url": "/article_images/article_bdd242af1a7c.webp",
+      "time_ago": "Sat, 05 Sep 2026 13:33:29 -0400",
+      "mined_at": "2026-09-05T18:25:01+00:00",
+      "source_published_at": "Sat, 05 Sep 2026 13:33:29 -0400",
+      "image_url": "/article_images/article_b05e22f2e9ab.webp",
       "category": "News",
-      "title": "Deadly Tank Explosion Could Have Been Prevented",
-      "summary": "A chemical tank that exploded at a paper mill in Washington, killing 11 people, was called 'not fit for service' 10 months before. The company didn't fix it. Now investigators are asking why."
+      "title": "Ceiling Collapses at Kennedy Center: What Happened?",
+      "summary": "A piece of ceiling fell in the Kennedy Center's hallway, and no one was hurt. The center's board says it shows why they need to close for repairs. But some people disagree."
+    },
+    {
+      "id": "2026-09-05-news-2",
+      "source": "BBC News",
+      "time_ago": "Sat, 05 Sep 2026 14:41:17 GMT",
+      "mined_at": "2026-09-05T18:25:01+00:00",
+      "source_published_at": "Sat, 05 Sep 2026 14:41:17 GMT",
+      "image_url": "/article_images/article_f48643fb31db.webp",
+      "category": "News",
+      "title": "Protesters Block Roads at Port of Dover: What's Going On?",
+      "summary": "Hundreds of masked protesters blocked roads at the Port of Dover, chanting 'stop the boats.' Police cleared them in a few hours. No one was arrested, and the port is back to normal."
+    },
+    {
+      "id": "2026-09-05-news-3",
+      "source": "BBC News",
+      "time_ago": "Sat, 05 Sep 2026 12:32:31 GMT",
+      "mined_at": "2026-09-05T18:25:01+00:00",
+      "source_published_at": "Sat, 05 Sep 2026 12:32:31 GMT",
+      "image_url": "/article_images/article_e9457c13a248.webp",
+      "category": "News",
+      "title": "Reform UK in Trouble: Secret Filming Causes Big Problems",
+      "summary": "A secret video caused two leaders of Reform UK to lose their jobs. The party is worried it looks bad. Some insiders say they need to be more careful, like 'roundheads' instead of 'cavaliers.'"
     }
   ]
 }
