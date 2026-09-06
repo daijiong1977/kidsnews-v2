@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-05-science-1",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Thu, 03 Sep 2026 08:41:39 EDT",
-      "mined_at": "2026-09-05T18:25:01+00:00",
-      "source_published_at": "Thu, 03 Sep 2026 08:41:39 EDT",
-      "image_url": "/article_images/article_20654af92b3b.webp",
+      "id": "2026-09-06-science-1",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Sat, 05 Sep 2026 20:58:46 EDT",
+      "mined_at": "2026-09-06T17:47:36+00:00",
+      "source_published_at": "Sat, 05 Sep 2026 20:58:46 EDT",
+      "image_url": "/article_images/article_cfccc13cc875.webp",
       "category": "Science",
-      "title": "Saturn's Secret Shape: A Giant 10-Sided Storm!",
-      "summary": "Saturn has a giant 10-sided wave near its south pole! It's like the famous hexagon at the north pole, but new. Scientists are watching it grow. What will it do next?"
+      "title": "Earth's Magnetic Field Could Be a Giant Dark Matter Detector",
+      "summary": "Scientists used Earth's magnetic field to hunt for dark matter. They found some weird signals that might be dark matter, but they're not sure yet. It's like using the whole planet as a giant ear!"
     },
     {
-      "id": "2026-09-05-science-2",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Fri, 04 Sep 2026 06:56:51 EDT",
-      "mined_at": "2026-09-05T18:25:01+00:00",
-      "source_published_at": "Fri, 04 Sep 2026 06:56:51 EDT",
-      "image_url": "/article_images/article_e9ac7b431f1e.webp",
+      "id": "2026-09-06-science-2",
+      "source": "Science News Explores",
+      "time_ago": "Fri, 04 Sep 2026 10:30:00 +0000",
+      "mined_at": "2026-09-06T17:47:36+00:00",
+      "source_published_at": "Fri, 04 Sep 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_1e91afd29036.webp",
       "category": "Science",
-      "title": "Giant Iceberg Crashes Into an Island—and Survives!",
-      "summary": "A huge iceberg as big as St. Thomas broke off Greenland's Petermann Glacier. It slammed into Joe Island but didn't break! Scientists are watching what happens next."
+      "title": "Wildfires Can Be Tracked by Their Low Rumble",
+      "summary": "Scientists used special microphones to listen to a wildfire's low rumble. They could track where it spread, even when they couldn't see it. This could help spot fires early!"
     },
     {
-      "id": "2026-09-05-science-3",
-      "source": "Smithsonian Science-Nature",
-      "time_ago": "Wed, 02 Sep 2026 13:00:00 +0000",
-      "mined_at": "2026-09-05T18:25:01+00:00",
-      "source_published_at": "Wed, 02 Sep 2026 13:00:00 +0000",
-      "image_url": "/article_images/article_4175be013afe.webp",
+      "id": "2026-09-06-science-3",
+      "source": "Space.com",
+      "time_ago": "Sun, 06 Sep 2026 15:54:11 +0000",
+      "mined_at": "2026-09-06T17:47:36+00:00",
+      "source_published_at": "Sun, 06 Sep 2026 15:54:11 +0000",
+      "image_url": "/article_images/article_5d7593c16dec.webp",
       "category": "Science",
-      "title": "The Duck with a Blue Bill That Almost Disappeared—and Came Back!",
-      "summary": "White-headed ducks have bright blue bills and crazy dances. In Spain, they nearly went extinct (only 22 left!) but now there are 2,500. But they're still endangered."
+      "title": "SpaceX Launches 27 More Starlink Satellites, Rocket Lands on Ship",
+      "summary": "SpaceX sent 27 Starlink satellites into space today. The rocket's first stage landed on a drone ship in the Pacific. It's the 103rd Falcon 9 launch this year!"
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-05-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Sat, 05 Sep 2026 13:33:29 -0400",
-      "mined_at": "2026-09-05T18:25:01+00:00",
-      "source_published_at": "Sat, 05 Sep 2026 13:33:29 -0400",
-      "image_url": "/article_images/article_b05e22f2e9ab.webp",
+      "id": "2026-09-06-news-1",
+      "source": "BBC News",
+      "time_ago": "Sun, 06 Sep 2026 15:32:27 GMT",
+      "mined_at": "2026-09-06T17:47:36+00:00",
+      "source_published_at": "Sun, 06 Sep 2026 15:32:27 GMT",
+      "image_url": "/article_images/article_5ea7c78ca31e.webp",
       "category": "News",
-      "title": "Ceiling Collapse at Kennedy Center Fuels Debate Over Shutdown and Trump's Name",
-      "summary": "A ceiling chunk fell in the Kennedy Center's hallway, sparking fresh calls to close for renovations. The board, backed by Trump, wants a two-year shutdown, but critics say it's an excuse. No one was hurt."
+      "title": "US Envoys Shuttle Between Kyiv and Moscow in Push for Peace",
+      "summary": "Top US envoys met Zelensky in Kyiv after talks with Putin. They're pushing for a deal to end the war. Both sides agreed to pause strikes on capitals for 3 days. Will it work?"
     },
     {
-      "id": "2026-09-05-news-2",
-      "source": "BBC News",
-      "time_ago": "Sat, 05 Sep 2026 14:41:17 GMT",
-      "mined_at": "2026-09-05T18:25:01+00:00",
-      "source_published_at": "Sat, 05 Sep 2026 14:41:17 GMT",
-      "image_url": "/article_images/article_f48643fb31db.webp",
+      "id": "2026-09-06-news-2",
+      "source": "NPR World",
+      "time_ago": "Sun, 06 Sep 2026 06:00:00 -0400",
+      "mined_at": "2026-09-06T17:47:36+00:00",
+      "source_published_at": "Sun, 06 Sep 2026 06:00:00 -0400",
+      "image_url": "/article_images/article_ed040efd2ab0.webp",
       "category": "News",
-      "title": "Masked 'Stop the Boats' Protesters Disrupt Port of Dover",
-      "summary": "Hundreds of masked men blocked roads at the Port of Dover, chanting 'stop the boats.' Police cleared them by noon, but local MP Mike Tapp is demanding answers. No arrests were made."
+      "title": "Halal Barbecue Is Taking Over Texas, One Brisket at a Time",
+      "summary": "Texas BBQ is getting a halal makeover. Muslim pitmasters are adding their own twists, from Pakistani spices to Iraqi sausage. At least a dozen spots now serve halal meats. It's a new tradition."
     },
     {
-      "id": "2026-09-05-news-3",
-      "source": "BBC News",
-      "time_ago": "Sat, 05 Sep 2026 12:32:31 GMT",
-      "mined_at": "2026-09-05T18:25:01+00:00",
-      "source_published_at": "Sat, 05 Sep 2026 12:32:31 GMT",
-      "image_url": "/article_images/article_e9457c13a248.webp",
+      "id": "2026-09-06-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Sun, 06 Sep 2026 16:04:56 +0000",
+      "mined_at": "2026-09-06T17:47:36+00:00",
+      "source_published_at": "Sun, 06 Sep 2026 16:04:56 +0000",
+      "image_url": "/article_images/article_abfb2d476e32.webp",
       "category": "News",
-      "title": "Reform UK's 'Pirate Ship' Culture Under Fire After Donations Scandal",
-      "summary": "A Channel 4 undercover video cost two Reform UK figures their jobs. Insiders worry the party's 'cavalier' culture is hurting its image. Leader Nigel Farage denies any pattern of law-breaking."
+      "title": "Debut Dream: Maitland-Niles' 30-Yard Stunner Rescues Everton",
+      "summary": "With the last kick of the match, Ainsley Maitland-Niles smashed a 30-yard equalizer on his debut to snatch a 2-2 draw for Everton against Manchester United. The dramatic finish kept Everton unbeaten."
     }
   ]
 }

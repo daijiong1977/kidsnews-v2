@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-05-science-1",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Thu, 03 Sep 2026 08:41:39 EDT",
-      "mined_at": "2026-09-05T18:25:01+00:00",
-      "source_published_at": "Thu, 03 Sep 2026 08:41:39 EDT",
-      "image_url": "/article_images/article_20654af92b3b.webp",
+      "id": "2026-09-06-science-1",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Sat, 05 Sep 2026 20:58:46 EDT",
+      "mined_at": "2026-09-06T17:47:36+00:00",
+      "source_published_at": "Sat, 05 Sep 2026 20:58:46 EDT",
+      "image_url": "/article_images/article_cfccc13cc875.webp",
       "category": "Science",
-      "title": "Saturn's New Decagon: A Giant 10-Sided Mystery",
-      "summary": "Saturn's south pole has a new giant 10-sided wave, like its famous hexagon but different. It's growing, and scientists don't know why it formed. Hubble is watching!"
+      "title": "Earth as a Giant Dark Matter Detector? New Signals Spark Hope",
+      "summary": "Using Earth's magnetic field, scientists found mysterious signals that could be dark matter. The new limits are 100 times tighter than before. But they're not confirmed yet."
     },
     {
-      "id": "2026-09-05-science-2",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Fri, 04 Sep 2026 06:56:51 EDT",
-      "mined_at": "2026-09-05T18:25:01+00:00",
-      "source_published_at": "Fri, 04 Sep 2026 06:56:51 EDT",
-      "image_url": "/article_images/article_e9ac7b431f1e.webp",
+      "id": "2026-09-06-science-2",
+      "source": "Science News Explores",
+      "time_ago": "Fri, 04 Sep 2026 10:30:00 +0000",
+      "mined_at": "2026-09-06T17:47:36+00:00",
+      "source_published_at": "Fri, 04 Sep 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_1e91afd29036.webp",
       "category": "Science",
-      "title": "Giant Iceberg Survives a Head-On Collision with an Island",
-      "summary": "An iceberg as big as St. Thomas broke off Greenland's Petermann Glacier and slammed into Joe Island—but didn't break! Scientists are amazed and watching for more breaks."
+      "title": "Listening to Wildfires: Low-Frequency Rumbles Could Revolutionize Fire Tracking",
+      "summary": "Researchers used infrasound sensors to track a wildfire in Idaho, even when it was barely burning. This could help detect fires early, but wind might be a problem."
     },
     {
-      "id": "2026-09-05-science-3",
-      "source": "Smithsonian Science-Nature",
-      "time_ago": "Wed, 02 Sep 2026 13:00:00 +0000",
-      "mined_at": "2026-09-05T18:25:01+00:00",
-      "source_published_at": "Wed, 02 Sep 2026 13:00:00 +0000",
-      "image_url": "/article_images/article_4175be013afe.webp",
+      "id": "2026-09-06-science-3",
+      "source": "Space.com",
+      "time_ago": "Sun, 06 Sep 2026 15:54:11 +0000",
+      "mined_at": "2026-09-06T17:47:36+00:00",
+      "source_published_at": "Sun, 06 Sep 2026 15:54:11 +0000",
+      "image_url": "/article_images/article_5d7593c16dec.webp",
       "category": "Science",
-      "title": "The Duck That Came Back from the Brink—But Still Needs Help",
-      "summary": "White-headed ducks have blue bills and wild dances. In Spain, they dropped to just 22 birds, but now 2,500 thrive. Yet they're still endangered globally. A conservation story in progress."
+      "title": "SpaceX Hits 103 Falcon 9 Launches in 2026 with Another Starlink Mission",
+      "summary": "SpaceX launched 27 Starlink satellites today, marking the 103rd Falcon 9 mission of 2026. The booster landed on a drone ship for its 19th flight."
     }
   ]
 }
