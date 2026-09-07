@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-06-science-1",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Sat, 05 Sep 2026 20:58:46 EDT",
-      "mined_at": "2026-09-06T17:47:36+00:00",
-      "source_published_at": "Sat, 05 Sep 2026 20:58:46 EDT",
-      "image_url": "/article_images/article_cfccc13cc875.webp",
+      "id": "2026-09-07-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Fri, 04 Sep 2026 02:46:01 EDT",
+      "mined_at": "2026-09-07T17:45:51+00:00",
+      "source_published_at": "Fri, 04 Sep 2026 02:46:01 EDT",
+      "image_url": "/article_images/article_76e77f918353.webp",
       "category": "Science",
-      "title": "Earth's Magnetic Field Could Be a Giant Dark Matter Detector",
-      "summary": "Scientists used Earth's magnetic field to hunt for dark matter. They found some weird signals that might be dark matter, but they're not sure yet. It's like using the whole planet as a giant ear!"
+      "title": "A Mysterious Signal From Deep Underground Could Be Dark Matter — or Not",
+      "summary": "Scientists hunting for dark matter found a strange signal they can't explain yet. It might be the elusive particle, but they're not sure. More data is needed."
     },
     {
-      "id": "2026-09-06-science-2",
-      "source": "Science News Explores",
-      "time_ago": "Fri, 04 Sep 2026 10:30:00 +0000",
-      "mined_at": "2026-09-06T17:47:36+00:00",
-      "source_published_at": "Fri, 04 Sep 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_1e91afd29036.webp",
+      "id": "2026-09-07-science-2",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Fri, 04 Sep 2026 07:33:12 EDT",
+      "mined_at": "2026-09-07T17:45:51+00:00",
+      "source_published_at": "Fri, 04 Sep 2026 07:33:12 EDT",
+      "image_url": "/article_images/article_3c2bd8cc899b.webp",
       "category": "Science",
-      "title": "Wildfires Can Be Tracked by Their Low Rumble",
-      "summary": "Scientists used special microphones to listen to a wildfire's low rumble. They could track where it spread, even when they couldn't see it. This could help spot fires early!"
+      "title": "Want to Make Bolder Choices? Try Breathing Out Longer!",
+      "summary": "A new study shows that breathing out longer can make you more willing to take risks by changing your brain and heart. It might help with anxiety too."
     },
     {
-      "id": "2026-09-06-science-3",
-      "source": "Space.com",
-      "time_ago": "Sun, 06 Sep 2026 15:54:11 +0000",
-      "mined_at": "2026-09-06T17:47:36+00:00",
-      "source_published_at": "Sun, 06 Sep 2026 15:54:11 +0000",
-      "image_url": "/article_images/article_5d7593c16dec.webp",
+      "id": "2026-09-07-science-3",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Sun, 06 Sep 2026 03:28:43 EDT",
+      "mined_at": "2026-09-07T17:45:51+00:00",
+      "source_published_at": "Sun, 06 Sep 2026 03:28:43 EDT",
+      "image_url": "/article_images/article_4e9321703f72.webp",
       "category": "Science",
-      "title": "SpaceX Launches 27 More Starlink Satellites, Rocket Lands on Ship",
-      "summary": "SpaceX sent 27 Starlink satellites into space today. The rocket's first stage landed on a drone ship in the Pacific. It's the 103rd Falcon 9 launch this year!"
+      "title": "AI Is Now Controlling Fusion Energy — Faster Than Any Human Could",
+      "summary": "Scientists used AI to control a fusion experiment in milliseconds, faster than humans can react. The AI can predict problems and fix them before they happen."
     }
   ]
 }

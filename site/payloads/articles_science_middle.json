@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-06-science-1",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Sat, 05 Sep 2026 20:58:46 EDT",
-      "mined_at": "2026-09-06T17:47:36+00:00",
-      "source_published_at": "Sat, 05 Sep 2026 20:58:46 EDT",
-      "image_url": "/article_images/article_cfccc13cc875.webp",
+      "id": "2026-09-07-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Fri, 04 Sep 2026 02:46:01 EDT",
+      "mined_at": "2026-09-07T17:45:51+00:00",
+      "source_published_at": "Fri, 04 Sep 2026 02:46:01 EDT",
+      "image_url": "/article_images/article_76e77f918353.webp",
       "category": "Science",
-      "title": "Earth as a Giant Dark Matter Detector? New Signals Spark Hope",
-      "summary": "Using Earth's magnetic field, scientists found mysterious signals that could be dark matter. The new limits are 100 times tighter than before. But they're not confirmed yet."
+      "title": "Dark Matter Detector Records a Puzzling Signal — But Scientists Stay Cautious",
+      "summary": "The LZ dark matter experiment detected a single unexplained particle interaction. It could be a WIMP, but it's only 2.6 sigma — not enough for a discovery. More data will tell."
     },
     {
-      "id": "2026-09-06-science-2",
-      "source": "Science News Explores",
-      "time_ago": "Fri, 04 Sep 2026 10:30:00 +0000",
-      "mined_at": "2026-09-06T17:47:36+00:00",
-      "source_published_at": "Fri, 04 Sep 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_1e91afd29036.webp",
+      "id": "2026-09-07-science-2",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Fri, 04 Sep 2026 07:33:12 EDT",
+      "mined_at": "2026-09-07T17:45:51+00:00",
+      "source_published_at": "Fri, 04 Sep 2026 07:33:12 EDT",
+      "image_url": "/article_images/article_3c2bd8cc899b.webp",
       "category": "Science",
-      "title": "Listening to Wildfires: Low-Frequency Rumbles Could Revolutionize Fire Tracking",
-      "summary": "Researchers used infrasound sensors to track a wildfire in Idaho, even when it was barely burning. This could help detect fires early, but wind might be a problem."
+      "title": "Longer Exhales Might Make You More Daring — Science Says So",
+      "summary": "A new study found that breathing out longer increases heart rate variability and makes the brain more reward-focused, leading to riskier decisions. Could help with anxiety and depression."
     },
     {
-      "id": "2026-09-06-science-3",
-      "source": "Space.com",
-      "time_ago": "Sun, 06 Sep 2026 15:54:11 +0000",
-      "mined_at": "2026-09-06T17:47:36+00:00",
-      "source_published_at": "Sun, 06 Sep 2026 15:54:11 +0000",
-      "image_url": "/article_images/article_5d7593c16dec.webp",
+      "id": "2026-09-07-science-3",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Sun, 06 Sep 2026 03:28:43 EDT",
+      "mined_at": "2026-09-07T17:45:51+00:00",
+      "source_published_at": "Sun, 06 Sep 2026 03:28:43 EDT",
+      "image_url": "/article_images/article_4e9321703f72.webp",
       "category": "Science",
-      "title": "SpaceX Hits 103 Falcon 9 Launches in 2026 with Another Starlink Mission",
-      "summary": "SpaceX launched 27 Starlink satellites today, marking the 103rd Falcon 9 mission of 2026. The booster landed on a drone ship for its 19th flight."
+      "title": "AI Takes the Wheel in Fusion Experiments, Reacting in Milliseconds",
+      "summary": "Princeton researchers developed PACMAN, an AI framework that controls fusion plasma in ~20 milliseconds. It predicted a tearing mode 200 ms early. Tested on DIII-D tokamak."
     }
   ]
 }

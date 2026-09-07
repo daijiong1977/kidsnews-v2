@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-06-news-1",
-      "source": "BBC News",
-      "time_ago": "Sun, 06 Sep 2026 15:32:27 GMT",
-      "mined_at": "2026-09-06T17:47:36+00:00",
-      "source_published_at": "Sun, 06 Sep 2026 15:32:27 GMT",
-      "image_url": "/article_images/article_5ea7c78ca31e.webp",
-      "category": "News",
-      "title": "US Envoys Shuttle Between Kyiv and Moscow in Push for Peace",
-      "summary": "Top US envoys met Zelensky in Kyiv after talks with Putin. They're pushing for a deal to end the war. Both sides agreed to pause strikes on capitals for 3 days. Will it work?"
-    },
-    {
-      "id": "2026-09-06-news-2",
+      "id": "2026-09-07-news-1",
       "source": "NPR World",
-      "time_ago": "Sun, 06 Sep 2026 06:00:00 -0400",
-      "mined_at": "2026-09-06T17:47:36+00:00",
-      "source_published_at": "Sun, 06 Sep 2026 06:00:00 -0400",
-      "image_url": "/article_images/article_ed040efd2ab0.webp",
+      "time_ago": "Mon, 07 Sep 2026 05:00:00 -0400",
+      "mined_at": "2026-09-07T17:45:51+00:00",
+      "source_published_at": "Mon, 07 Sep 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_062a1fc76f4f.webp",
       "category": "News",
-      "title": "Halal Barbecue Is Taking Over Texas, One Brisket at a Time",
-      "summary": "Texas BBQ is getting a halal makeover. Muslim pitmasters are adding their own twists, from Pakistani spices to Iraqi sausage. At least a dozen spots now serve halal meats. It's a new tradition."
+      "title": "Rocket the Raccoon to the Rescue: How Fifth Graders Are Easing First-Day Fears",
+      "summary": "At a Los Angeles elementary school, fifth-grade \"toolbox coaches\" buddy up with nervous kindergarteners, offering tricks like deep breaths and a stuffed raccoon named Rocket. The result? Happy kids, teary parents, and a smoother first day."
     },
     {
-      "id": "2026-09-06-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Sun, 06 Sep 2026 16:04:56 +0000",
-      "mined_at": "2026-09-06T17:47:36+00:00",
-      "source_published_at": "Sun, 06 Sep 2026 16:04:56 +0000",
-      "image_url": "/article_images/article_abfb2d476e32.webp",
+      "id": "2026-09-07-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Mon, 07 Sep 2026 13:18:52 -0400",
+      "mined_at": "2026-09-07T17:45:51+00:00",
+      "source_published_at": "Mon, 07 Sep 2026 13:18:52 -0400",
+      "image_url": "/article_images/article_08393669dbce.webp",
       "category": "News",
-      "title": "Debut Dream: Maitland-Niles' 30-Yard Stunner Rescues Everton",
-      "summary": "With the last kick of the match, Ainsley Maitland-Niles smashed a 30-yard equalizer on his debut to snatch a 2-2 draw for Everton against Manchester United. The dramatic finish kept Everton unbeaten."
+      "title": "Royal Rift or Just Clarification? King Charles Sends Letter Reaffirming Harry and Meghan's Status",
+      "summary": "King Charles has sent an official letter to clarify that Prince Harry and Meghan remain non-working royals after their return to the UK. The move signals concern about a possible \"parallel royal court\" and highlights the sensitive security debate."
+    },
+    {
+      "id": "2026-09-07-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Mon, 07 Sep 2026 16:52:57 +0000",
+      "mined_at": "2026-09-07T17:45:51+00:00",
+      "source_published_at": "Mon, 07 Sep 2026 16:52:57 +0000",
+      "image_url": "/article_images/article_f52f85275388.webp",
+      "category": "News",
+      "title": "Kosovo Joins International Force for Gaza: A Step Toward Peace or More Complications?",
+      "summary": "Kosovo has signed up to contribute troops to the US-led International Stabilization Force in Gaza, joining a short list of nations. The force aims to maintain stability post-war, but disagreements over Israel's withdrawal and Hamas disarmament remain."
     }
   ]
 }

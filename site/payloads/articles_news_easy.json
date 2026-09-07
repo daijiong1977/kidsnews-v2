@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-06-news-1",
-      "source": "BBC News",
-      "time_ago": "Sun, 06 Sep 2026 15:32:27 GMT",
-      "mined_at": "2026-09-06T17:47:36+00:00",
-      "source_published_at": "Sun, 06 Sep 2026 15:32:27 GMT",
-      "image_url": "/article_images/article_5ea7c78ca31e.webp",
-      "category": "News",
-      "title": "Peace Talks in Kyiv: US Envoys Meet Zelensky",
-      "summary": "US envoys met Ukraine's president to talk peace. They also met Russia's leader. Both sides agreed to stop attacking each other's capitals for 3 days. Will it lead to peace?"
-    },
-    {
-      "id": "2026-09-06-news-2",
+      "id": "2026-09-07-news-1",
       "source": "NPR World",
-      "time_ago": "Sun, 06 Sep 2026 06:00:00 -0400",
-      "mined_at": "2026-09-06T17:47:36+00:00",
-      "source_published_at": "Sun, 06 Sep 2026 06:00:00 -0400",
-      "image_url": "/article_images/article_ed040efd2ab0.webp",
+      "time_ago": "Mon, 07 Sep 2026 05:00:00 -0400",
+      "mined_at": "2026-09-07T17:45:51+00:00",
+      "source_published_at": "Mon, 07 Sep 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_062a1fc76f4f.webp",
       "category": "News",
-      "title": "Texas BBQ Gets a Halal Makeover",
-      "summary": "Muslim pitmasters in Texas are putting a new spin on barbecue with halal meats. From brisket shawarma to 13-spice Wagyu, these spots are a hit. Even a former tech guy joined in."
+      "title": "First-Day Jitters? These Fifth Graders Have a Plan!",
+      "summary": "At one LA school, fifth graders buddy up with new kindergarteners to help them feel brave. They even have a stuffed raccoon named Rocket for comfort. It's a cool tradition that makes the first day less scary!"
     },
     {
-      "id": "2026-09-06-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Sun, 06 Sep 2026 16:04:56 +0000",
-      "mined_at": "2026-09-06T17:47:36+00:00",
-      "source_published_at": "Sun, 06 Sep 2026 16:04:56 +0000",
-      "image_url": "/article_images/article_abfb2d476e32.webp",
+      "id": "2026-09-07-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Mon, 07 Sep 2026 13:18:52 -0400",
+      "mined_at": "2026-09-07T17:45:51+00:00",
+      "source_published_at": "Mon, 07 Sep 2026 13:18:52 -0400",
+      "image_url": "/article_images/article_08393669dbce.webp",
       "category": "News",
-      "title": "Last-Second Goal Stuns United!",
-      "summary": "Everton's new player Ainsley Maitland-Niles scored a 30-yard screamer with the last kick of the game to tie Manchester United 2-2. It was his debut!"
+      "title": "King Charles Sends a Letter About Harry and Meghan: Here's What It Says",
+      "summary": "King Charles sent an official letter to make it clear that Prince Harry and Meghan are still not \"working\" royals. They won't use their royal titles for official duties. It's all about avoiding confusion!"
+    },
+    {
+      "id": "2026-09-07-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Mon, 07 Sep 2026 16:52:57 +0000",
+      "mined_at": "2026-09-07T17:45:51+00:00",
+      "source_published_at": "Mon, 07 Sep 2026 16:52:57 +0000",
+      "image_url": "/article_images/article_f52f85275388.webp",
+      "category": "News",
+      "title": "Kosovo Joins the Team! Another Country Signs Up for Gaza Peacekeeping Force",
+      "summary": "Kosovo just signed an agreement to send peacekeepers to Gaza as part of a US-led force. They join countries like Indonesia and Morocco. The goal is to help keep peace after the war."
     }
   ]
 }
