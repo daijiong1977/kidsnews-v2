@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-07-news-1",
-      "source": "NPR World",
-      "time_ago": "Mon, 07 Sep 2026 05:00:00 -0400",
-      "mined_at": "2026-09-07T17:45:51+00:00",
-      "source_published_at": "Mon, 07 Sep 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_062a1fc76f4f.webp",
-      "category": "News",
-      "title": "First-Day Jitters? These Fifth Graders Have a Plan!",
-      "summary": "At one LA school, fifth graders buddy up with new kindergarteners to help them feel brave. They even have a stuffed raccoon named Rocket for comfort. It's a cool tradition that makes the first day less scary!"
-    },
-    {
-      "id": "2026-09-07-news-2",
+      "id": "2026-09-08-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Mon, 07 Sep 2026 13:18:52 -0400",
-      "mined_at": "2026-09-07T17:45:51+00:00",
-      "source_published_at": "Mon, 07 Sep 2026 13:18:52 -0400",
-      "image_url": "/article_images/article_08393669dbce.webp",
+      "time_ago": "Tue, 08 Sep 2026 13:02:50 -0400",
+      "mined_at": "2026-09-08T17:49:19+00:00",
+      "source_published_at": "Tue, 08 Sep 2026 13:02:50 -0400",
+      "image_url": "/article_images/article_08f0157f5010.webp",
       "category": "News",
-      "title": "King Charles Sends a Letter About Harry and Meghan: Here's What It Says",
-      "summary": "King Charles sent an official letter to make it clear that Prince Harry and Meghan are still not \"working\" royals. They won't use their royal titles for official duties. It's all about avoiding confusion!"
+      "title": "Smithsonian Boss Steps Down After a Year of Fights",
+      "summary": "Lonnie Bunch, who runs the Smithsonian museums, is quitting after a big fight with President Trump. Trump wanted museums to tell history his way. Bunch leaves at the end of the year."
     },
     {
-      "id": "2026-09-07-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Mon, 07 Sep 2026 16:52:57 +0000",
-      "mined_at": "2026-09-07T17:45:51+00:00",
-      "source_published_at": "Mon, 07 Sep 2026 16:52:57 +0000",
-      "image_url": "/article_images/article_f52f85275388.webp",
+      "id": "2026-09-08-news-2",
+      "source": "NPR World",
+      "time_ago": "Tue, 08 Sep 2026 06:46:03 -0400",
+      "mined_at": "2026-09-08T17:49:19+00:00",
+      "source_published_at": "Tue, 08 Sep 2026 06:46:03 -0400",
+      "image_url": "/article_images/article_15a5d92d3b69.webp",
       "category": "News",
-      "title": "Kosovo Joins the Team! Another Country Signs Up for Gaza Peacekeeping Force",
-      "summary": "Kosovo just signed an agreement to send peacekeepers to Gaza as part of a US-led force. They join countries like Indonesia and Morocco. The goal is to help keep peace after the war."
+      "title": "Canada Fights Back: New Tariffs on U.S. Goods",
+      "summary": "Canada put big taxes on $20 billion of American stuff, fighting back in a trade war. A former Canadian leader says the U.S. is 'punching friends in the face.'"
+    },
+    {
+      "id": "2026-09-08-news-3",
+      "source": "BBC News",
+      "time_ago": "Tue, 08 Sep 2026 09:43:53 GMT",
+      "mined_at": "2026-09-08T17:49:19+00:00",
+      "source_published_at": "Tue, 08 Sep 2026 09:43:53 GMT",
+      "image_url": "/article_images/article_7cbbade86903.webp",
+      "category": "News",
+      "title": "Harry and Meghan 'Surprised' by King's Letter About Their Royal Role",
+      "summary": "Prince Harry and Meghan were surprised by a letter from King Charles saying they're still not working royals. They just moved back to the UK."
     }
   ]
 }

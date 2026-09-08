@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-07-science-1",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Fri, 04 Sep 2026 02:46:01 EDT",
-      "mined_at": "2026-09-07T17:45:51+00:00",
-      "source_published_at": "Fri, 04 Sep 2026 02:46:01 EDT",
-      "image_url": "/article_images/article_76e77f918353.webp",
+      "id": "2026-09-08-science-1",
+      "source": "ScienceDaily All",
+      "time_ago": "Tue, 08 Sep 2026 09:54:56 EDT",
+      "mined_at": "2026-09-08T17:49:19+00:00",
+      "source_published_at": "Tue, 08 Sep 2026 09:54:56 EDT",
+      "image_url": "/article_images/article_23e53735586b.webp",
       "category": "Science",
-      "title": "Dark Matter Detector Records a Puzzling Signal — But Scientists Stay Cautious",
-      "summary": "The LZ dark matter experiment detected a single unexplained particle interaction. It could be a WIMP, but it's only 2.6 sigma — not enough for a discovery. More data will tell."
+      "title": "Rattlesnake Blood Hides a Powerful Antivenom—and Scientists Cracked It",
+      "summary": "Rattlesnakes are immune to their own venom. Scientists discovered that mixing certain proteins from their blood creates an antivenom 10 times stronger than the current one. This could save thousands of lives from deadly snakebites."
     },
     {
-      "id": "2026-09-07-science-2",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Fri, 04 Sep 2026 07:33:12 EDT",
-      "mined_at": "2026-09-07T17:45:51+00:00",
-      "source_published_at": "Fri, 04 Sep 2026 07:33:12 EDT",
-      "image_url": "/article_images/article_3c2bd8cc899b.webp",
+      "id": "2026-09-08-science-2",
+      "source": "Science News Explores",
+      "time_ago": "Tue, 08 Sep 2026 10:30:00 +0000",
+      "mined_at": "2026-09-08T17:49:19+00:00",
+      "source_published_at": "Tue, 08 Sep 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_14bcaf642773.webp",
       "category": "Science",
-      "title": "Longer Exhales Might Make You More Daring — Science Says So",
-      "summary": "A new study found that breathing out longer increases heart rate variability and makes the brain more reward-focused, leading to riskier decisions. Could help with anxiety and depression."
+      "title": "Dancing Swifties Shook the Ground—and Scientists Are Listening",
+      "summary": "A Taylor Swift concert in 2023 made the ground vibrate like a minor earthquake. Scientists study these human-made seismic waves to build safer buildings and understand crowd movements. Even COVID lockdowns caused 'seismic quiet.'"
     },
     {
-      "id": "2026-09-07-science-3",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Sun, 06 Sep 2026 03:28:43 EDT",
-      "mined_at": "2026-09-07T17:45:51+00:00",
-      "source_published_at": "Sun, 06 Sep 2026 03:28:43 EDT",
-      "image_url": "/article_images/article_4e9321703f72.webp",
+      "id": "2026-09-08-science-3",
+      "source": "Space.com",
+      "time_ago": "Tue, 08 Sep 2026 17:17:42 +0000",
+      "mined_at": "2026-09-08T17:49:19+00:00",
+      "source_published_at": "Tue, 08 Sep 2026 17:17:42 +0000",
+      "image_url": "/article_images/article_b36cf5375559.webp",
       "category": "Science",
-      "title": "AI Takes the Wheel in Fusion Experiments, Reacting in Milliseconds",
-      "summary": "Princeton researchers developed PACMAN, an AI framework that controls fusion plasma in ~20 milliseconds. It predicted a tearing mode 200 ms early. Tested on DIII-D tokamak."
+      "title": "When a $264 Million Spacecraft Crashed: The Genesis Mission's Close Call",
+      "summary": "In 2004, NASA's Genesis spacecraft crashed in Utah because its parachute failed—a simple design flaw. The solar wind samples shattered, but scientists salvaged some. It was NASA's first sample-return mission since Apollo 17."
     }
   ]
 }
