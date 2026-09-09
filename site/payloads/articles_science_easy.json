@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-08-science-1",
-      "source": "ScienceDaily All",
-      "time_ago": "Tue, 08 Sep 2026 09:54:56 EDT",
-      "mined_at": "2026-09-08T17:49:19+00:00",
-      "source_published_at": "Tue, 08 Sep 2026 09:54:56 EDT",
-      "image_url": "/article_images/article_23e53735586b.webp",
+      "id": "2026-09-09-science-1",
+      "source": "Popular Science",
+      "time_ago": "Wed, 09 Sep 2026 12:01:00 -0400",
+      "mined_at": "2026-09-09T17:49:10+00:00",
+      "source_published_at": "Wed, 09 Sep 2026 12:01:00 -0400",
+      "image_url": "/article_images/article_e31dbf008ef1.webp",
       "category": "Science",
-      "title": "Snake Blood Holds a Secret Weapon Against Snakebites!",
-      "summary": "Scientists found that rattlesnake blood has special proteins that can stop venom. Mixing a few together made a super-strong antivenom—10 times stronger than the old one! This could save thousands of lives."
+      "title": "Giant Dino Footprints Found — A T. rex Took a Stroll!",
+      "summary": "Scientists found four huge footprints from an adult T. rex in North Dakota. Each print is about 3 feet long! It's the first time we have a path of T. rex tracks."
     },
     {
-      "id": "2026-09-08-science-2",
-      "source": "Science News Explores",
-      "time_ago": "Tue, 08 Sep 2026 10:30:00 +0000",
-      "mined_at": "2026-09-08T17:49:19+00:00",
-      "source_published_at": "Tue, 08 Sep 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_14bcaf642773.webp",
+      "id": "2026-09-09-science-2",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Wed, 09 Sep 2026 07:13:30 EDT",
+      "mined_at": "2026-09-09T17:49:10+00:00",
+      "source_published_at": "Wed, 09 Sep 2026 07:13:30 EDT",
+      "image_url": "/article_images/article_35a483496ca8.webp",
       "category": "Science",
-      "title": "Taylor Swift Fans Shook the Ground—Scientists Measured It!",
-      "summary": "When 70,000 Swifties danced at a concert, they made the ground shake like a tiny earthquake! Scientists study these human-made tremors to build safer buildings and understand how people move at big events."
+      "title": "Have We Found Aliens? Scientists Say 'Not So Fast!'",
+      "summary": "Scientists asked hundreds of alien experts if we've found alien life. Most said no! Only 6.6% thought we found life on a planet called K2-18b. But they're keeping an open mind."
     },
     {
-      "id": "2026-09-08-science-3",
-      "source": "Space.com",
-      "time_ago": "Tue, 08 Sep 2026 17:17:42 +0000",
-      "mined_at": "2026-09-08T17:49:19+00:00",
-      "source_published_at": "Tue, 08 Sep 2026 17:17:42 +0000",
-      "image_url": "/article_images/article_b36cf5375559.webp",
+      "id": "2026-09-09-science-3",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Wed, 09 Sep 2026 04:47:39 EDT",
+      "mined_at": "2026-09-09T17:49:10+00:00",
+      "source_published_at": "Wed, 09 Sep 2026 04:47:39 EDT",
+      "image_url": "/article_images/article_c98cd0a51af7.webp",
       "category": "Science",
-      "title": "NASA's Genesis Spacecraft Crashed—But Scientists Still Saved the Samples!",
-      "summary": "In 2004, NASA's Genesis spacecraft crashed in Utah because its parachute didn't open. The solar wind samples shattered, but scientists managed to recover some. It was NASA's first sample-return mission since Apollo!"
+      "title": "This Comet From Another Solar System Is Full of Alcohol!",
+      "summary": "A comet from outside our solar system, called 3I/ATLAS, has tons of methanol (a type of alcohol). It's one of the most methanol-rich comets ever seen!"
     }
   ]
 }

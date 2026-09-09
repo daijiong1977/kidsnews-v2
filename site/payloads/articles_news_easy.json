@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-08-news-1",
+      "id": "2026-09-09-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Tue, 08 Sep 2026 13:02:50 -0400",
-      "mined_at": "2026-09-08T17:49:19+00:00",
-      "source_published_at": "Tue, 08 Sep 2026 13:02:50 -0400",
-      "image_url": "/article_images/article_08f0157f5010.webp",
+      "time_ago": "Tue, 08 Sep 2026 20:20:23 -0400",
+      "mined_at": "2026-09-09T17:49:10+00:00",
+      "source_published_at": "Tue, 08 Sep 2026 20:20:23 -0400",
+      "image_url": "/article_images/article_3959d21f8116.webp",
       "category": "News",
-      "title": "Smithsonian Boss Steps Down After a Year of Fights",
-      "summary": "Lonnie Bunch, who runs the Smithsonian museums, is quitting after a big fight with President Trump. Trump wanted museums to tell history his way. Bunch leaves at the end of the year."
+      "title": "U.S. and Canada in a Big Trade Fight: No More Cheese or Motorcycles?",
+      "summary": "The U.S. is banning Canadian dairy, alcohol, and motorcycles. This is part of a big trade war. Canada is fighting back with its own taxes on U.S. goods."
     },
     {
-      "id": "2026-09-08-news-2",
-      "source": "NPR World",
-      "time_ago": "Tue, 08 Sep 2026 06:46:03 -0400",
-      "mined_at": "2026-09-08T17:49:19+00:00",
-      "source_published_at": "Tue, 08 Sep 2026 06:46:03 -0400",
-      "image_url": "/article_images/article_15a5d92d3b69.webp",
-      "category": "News",
-      "title": "Canada Fights Back: New Tariffs on U.S. Goods",
-      "summary": "Canada put big taxes on $20 billion of American stuff, fighting back in a trade war. A former Canadian leader says the U.S. is 'punching friends in the face.'"
-    },
-    {
-      "id": "2026-09-08-news-3",
+      "id": "2026-09-09-news-2",
       "source": "BBC News",
-      "time_ago": "Tue, 08 Sep 2026 09:43:53 GMT",
-      "mined_at": "2026-09-08T17:49:19+00:00",
-      "source_published_at": "Tue, 08 Sep 2026 09:43:53 GMT",
-      "image_url": "/article_images/article_7cbbade86903.webp",
+      "time_ago": "Wed, 09 Sep 2026 17:21:14 GMT",
+      "mined_at": "2026-09-09T17:49:10+00:00",
+      "source_published_at": "Wed, 09 Sep 2026 17:21:14 GMT",
+      "image_url": "/article_images/article_65e9f87373e3.webp",
       "category": "News",
-      "title": "Harry and Meghan 'Surprised' by King's Letter About Their Royal Role",
-      "summary": "Prince Harry and Meghan were surprised by a letter from King Charles saying they're still not working royals. They just moved back to the UK."
+      "title": "Police Investigate Reform UK Over Big Donation Trick",
+      "summary": "Police are looking into Reform UK, a British political party, for possibly breaking rules about foreign money. A secret recording showed aides suggesting a way to get a big donation."
+    },
+    {
+      "id": "2026-09-09-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Wed, 09 Sep 2026 11:45:12 -0400",
+      "mined_at": "2026-09-09T17:49:10+00:00",
+      "source_published_at": "Wed, 09 Sep 2026 11:45:12 -0400",
+      "image_url": "/article_images/article_f28d5a444cc7.webp",
+      "category": "News",
+      "title": "Big Race in New Hampshire: Sununu vs. Pappas for Senate",
+      "summary": "Two famous names are competing for a U.S. Senate seat in New Hampshire. John Sununu and Chris Pappas won their primaries and will face off in November."
     }
   ]
 }

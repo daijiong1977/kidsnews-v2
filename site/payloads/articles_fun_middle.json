@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-08-fun-1",
-      "source": "Hyperallergic",
-      "time_ago": "Tue, 08 Sep 2026 16:27:24 GMT",
-      "mined_at": "2026-09-08T17:49:19+00:00",
-      "source_published_at": "Tue, 08 Sep 2026 16:27:24 GMT",
-      "image_url": "/article_images/article_20ecf340f8a4.webp",
+      "id": "2026-09-09-fun-1",
+      "source": "Wired Gear",
+      "time_ago": "Wed, 09 Sep 2026 11:00:00 +0000",
+      "mined_at": "2026-09-09T17:49:10+00:00",
+      "source_published_at": "Wed, 09 Sep 2026 11:00:00 +0000",
+      "image_url": "/article_images/article_0261c9cc8d78.webp",
       "category": "Fun",
-      "title": "Five-Minute Museum Heist: Renoir Paintings Swiped in France",
-      "summary": "In a daring five-minute heist, thieves used an electric saw to steal two Renoir paintings from a French museum. They dropped two others while fleeing police. The artworks are worth millions—and the hunt is on!"
+      "title": "Apple's iPhone 18 Pro Just Made a Camera Change That Could Change Everything",
+      "summary": "Apple's new iPhone 18 Pro has a variable aperture camera—a first for iPhones—plus a blazing A20 Pro chip and up to 30 hours of battery. It's a big deal for photo fans."
     },
     {
-      "id": "2026-09-08-fun-2",
-      "source": "Smithsonian History",
-      "time_ago": "Tue, 08 Sep 2026 11:45:00 +0000",
-      "mined_at": "2026-09-08T17:49:19+00:00",
-      "source_published_at": "Tue, 08 Sep 2026 11:45:00 +0000",
-      "image_url": "/article_images/article_418ca5b251e9.webp",
+      "id": "2026-09-09-fun-2",
+      "source": "BBC Tennis",
+      "time_ago": "Wed, 09 Sep 2026 09:03:44 GMT",
+      "mined_at": "2026-09-09T17:49:10+00:00",
+      "source_published_at": "Wed, 09 Sep 2026 09:03:44 GMT",
+      "image_url": "/article_images/article_4a6aa833b2e4.webp",
       "category": "Fun",
-      "title": "Before 'America': The Wild Name Ideas the Founders Rejected",
-      "summary": "The United States almost had a very different name—like Alleghania or the United Colonies. Discover why the founders chose 'United States' and why the 'U' in 'United' was originally lowercase."
+      "title": "US Open Epic: Shelton Upsets Alcaraz in Latest Finish in Tournament History",
+      "summary": "Ben Shelton stunned Carlos Alcaraz in a five-set US Open quarter-final that ended at 3:34 AM—the latest finish ever. Shelton's first win over a top-three player sends him to the semis."
     },
     {
-      "id": "2026-09-08-fun-3",
-      "source": "Rolling Stone Music",
-      "time_ago": "Tue, 08 Sep 2026 16:52:42 +0000",
-      "mined_at": "2026-09-08T17:49:19+00:00",
-      "source_published_at": "Tue, 08 Sep 2026 16:52:42 +0000",
-      "image_url": "/article_images/article_5358118a26f4.webp",
+      "id": "2026-09-09-fun-3",
+      "source": "Live Science",
+      "time_ago": "Wed, 09 Sep 2026 15:00:00 +0000",
+      "mined_at": "2026-09-09T17:49:10+00:00",
+      "source_published_at": "Wed, 09 Sep 2026 15:00:00 +0000",
+      "image_url": "/article_images/article_0e9497a91396.webp",
       "category": "Fun",
-      "title": "Elton John Dusts Off Rare 1969 Gem 'Skyline Pigeon' at Rock in Rio",
-      "summary": "At Rock in Rio, Elton John performed 'Skyline Pigeon' for the first time since 2019—a song he called the first good one he wrote with Bernie Taupin. It's a hit in Brazil, and he explained why!"
+      "title": "First Denisovan Arm Bone Found in Chinese Cave Reveals 100,000 Years of History",
+      "summary": "In a Chinese cave, scientists found the first Denisovan arm bone ever, plus tools and animal bones. It shows Denisovans thrived there for 100,000 years, hunting big game."
     }
   ]
 }

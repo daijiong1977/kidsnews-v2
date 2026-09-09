@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-08-fun-1",
-      "source": "Hyperallergic",
-      "time_ago": "Tue, 08 Sep 2026 16:27:24 GMT",
-      "mined_at": "2026-09-08T17:49:19+00:00",
-      "source_published_at": "Tue, 08 Sep 2026 16:27:24 GMT",
-      "image_url": "/article_images/article_20ecf340f8a4.webp",
+      "id": "2026-09-09-fun-1",
+      "source": "Wired Gear",
+      "time_ago": "Wed, 09 Sep 2026 11:00:00 +0000",
+      "mined_at": "2026-09-09T17:49:10+00:00",
+      "source_published_at": "Wed, 09 Sep 2026 11:00:00 +0000",
+      "image_url": "/article_images/article_0261c9cc8d78.webp",
       "category": "Fun",
-      "title": "Daring Five-Minute Art Heist in France!",
-      "summary": "Thieves used an electric saw to steal two Renoir paintings from a museum in France—in just five minutes! They dropped two others while running from police. The paintings are worth millions!"
+      "title": "Apple's New iPhone 18 Pro Can Change Its Camera Like a Pro!",
+      "summary": "Apple just showed off the iPhone 18 Pro with a camera that can change its aperture—like your eye's pupil! It also has a battery that lasts up to 30 hours. Cool, right?"
     },
     {
-      "id": "2026-09-08-fun-2",
-      "source": "Smithsonian History",
-      "time_ago": "Tue, 08 Sep 2026 11:45:00 +0000",
-      "mined_at": "2026-09-08T17:49:19+00:00",
-      "source_published_at": "Tue, 08 Sep 2026 11:45:00 +0000",
-      "image_url": "/article_images/article_418ca5b251e9.webp",
+      "id": "2026-09-09-fun-2",
+      "source": "BBC Tennis",
+      "time_ago": "Wed, 09 Sep 2026 09:03:44 GMT",
+      "mined_at": "2026-09-09T17:49:10+00:00",
+      "source_published_at": "Wed, 09 Sep 2026 09:03:44 GMT",
+      "image_url": "/article_images/article_4a6aa833b2e4.webp",
       "category": "Fun",
-      "title": "What If America Was Called 'Alleghania'?",
-      "summary": "Before settling on the United States of America, the founders considered names like the United Colonies and even Alleghania! Learn how the country got its name—and why the 'U' in 'United' was once lowercase."
+      "title": "Tennis Match Ends at 3:34 AM! Shelton Beats Alcaraz in a Five-Set Thriller",
+      "summary": "Ben Shelton beat Carlos Alcaraz in a five-set tennis match that ended at 3:34 AM—the latest finish in US Open history! It lasted over four hours. Wow!"
     },
     {
-      "id": "2026-09-08-fun-3",
-      "source": "Rolling Stone Music",
-      "time_ago": "Tue, 08 Sep 2026 16:52:42 +0000",
-      "mined_at": "2026-09-08T17:49:19+00:00",
-      "source_published_at": "Tue, 08 Sep 2026 16:52:42 +0000",
-      "image_url": "/article_images/article_5358118a26f4.webp",
+      "id": "2026-09-09-fun-3",
+      "source": "Live Science",
+      "time_ago": "Wed, 09 Sep 2026 15:00:00 +0000",
+      "mined_at": "2026-09-09T17:49:10+00:00",
+      "source_published_at": "Wed, 09 Sep 2026 15:00:00 +0000",
+      "image_url": "/article_images/article_0e9497a91396.webp",
       "category": "Fun",
-      "title": "Elton John Plays Rare Song 'Skyline Pigeon' in Brazil!",
-      "summary": "Elton John surprised fans at Rock in Rio by playing 'Skyline Pigeon'—a song from 1969 he rarely performs! He told the crowd it was the first good song he wrote with Bernie Taupin."
+      "title": "Mystery Humans Lived in a Chinese Cave for 100,000 Years—We Just Found Their Arm Bone!",
+      "summary": "Scientists found a Denisovan arm bone in a Chinese cave—the first ever! They also found tools and animal bones showing these ancient humans lived there for 100,000 years."
     }
   ]
 }

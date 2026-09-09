@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-08-news-1",
+      "id": "2026-09-09-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Tue, 08 Sep 2026 13:02:50 -0400",
-      "mined_at": "2026-09-08T17:49:19+00:00",
-      "source_published_at": "Tue, 08 Sep 2026 13:02:50 -0400",
-      "image_url": "/article_images/article_08f0157f5010.webp",
+      "time_ago": "Tue, 08 Sep 2026 20:20:23 -0400",
+      "mined_at": "2026-09-09T17:49:10+00:00",
+      "source_published_at": "Tue, 08 Sep 2026 20:20:23 -0400",
+      "image_url": "/article_images/article_3959d21f8116.webp",
       "category": "News",
-      "title": "Smithsonian's Lonnie Bunch to Step Down After White House Clash Over History",
-      "summary": "Lonnie Bunch, head of the Smithsonian, is resigning after a year of tension with the White House, which accused museum leaders of being 'radical activists.' He leaves at year's end."
+      "title": "Trade War Escalates: U.S. Bans Canadian Dairy, Booze, and Motorcycles",
+      "summary": "The U.S. is banning Canadian dairy, alcohol, and motorcycles in a trade war. Canada retaliated with tariffs on $20B of U.S. goods. Leaders are digging in."
     },
     {
-      "id": "2026-09-08-news-2",
-      "source": "NPR World",
-      "time_ago": "Tue, 08 Sep 2026 06:46:03 -0400",
-      "mined_at": "2026-09-08T17:49:19+00:00",
-      "source_published_at": "Tue, 08 Sep 2026 06:46:03 -0400",
-      "image_url": "/article_images/article_15a5d92d3b69.webp",
-      "category": "News",
-      "title": "Canada Strikes Back: New Tariffs Escalate Trade War with U.S.",
-      "summary": "Canada imposed tariffs up to 50% on $20 billion of U.S. goods, matching U.S. tariffs dollar-for-dollar. Former minister Chrystia Freeland says the U.S. is 'punching friends in the face.'"
-    },
-    {
-      "id": "2026-09-08-news-3",
+      "id": "2026-09-09-news-2",
       "source": "BBC News",
-      "time_ago": "Tue, 08 Sep 2026 09:43:53 GMT",
-      "mined_at": "2026-09-08T17:49:19+00:00",
-      "source_published_at": "Tue, 08 Sep 2026 09:43:53 GMT",
-      "image_url": "/article_images/article_7cbbade86903.webp",
+      "time_ago": "Wed, 09 Sep 2026 17:21:14 GMT",
+      "mined_at": "2026-09-09T17:49:10+00:00",
+      "source_published_at": "Wed, 09 Sep 2026 17:21:14 GMT",
+      "image_url": "/article_images/article_65e9f87373e3.webp",
       "category": "News",
-      "title": "Harry and Meghan 'Surprised' by King's Letter Reaffirming Non-Working Royal Status",
-      "summary": "A letter from King Charles clarifies that Harry and Meghan remain non-working royals. The couple, who just moved back to the UK, say they were surprised by the timing."
+      "title": "Reform UK Under Criminal Investigation Over Foreign Donation Allegations",
+      "summary": "Police launched a criminal probe into Reform UK after a secret recording suggested aides plotted to accept a £500,000 foreign donation. Two top figures resigned."
+    },
+    {
+      "id": "2026-09-09-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Wed, 09 Sep 2026 11:45:12 -0400",
+      "mined_at": "2026-09-09T17:49:10+00:00",
+      "source_published_at": "Wed, 09 Sep 2026 11:45:12 -0400",
+      "image_url": "/article_images/article_f28d5a444cc7.webp",
+      "category": "News",
+      "title": "Sununu vs. Pappas: High-Stakes Senate Race in New Hampshire",
+      "summary": "John Sununu and Chris Pappas will battle for an open Senate seat in New Hampshire, a race that could determine Senate control. Both won their primaries."
     }
   ]
 }

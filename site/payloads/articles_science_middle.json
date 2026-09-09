@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-08-science-1",
-      "source": "ScienceDaily All",
-      "time_ago": "Tue, 08 Sep 2026 09:54:56 EDT",
-      "mined_at": "2026-09-08T17:49:19+00:00",
-      "source_published_at": "Tue, 08 Sep 2026 09:54:56 EDT",
-      "image_url": "/article_images/article_23e53735586b.webp",
+      "id": "2026-09-09-science-1",
+      "source": "Popular Science",
+      "time_ago": "Wed, 09 Sep 2026 12:01:00 -0400",
+      "mined_at": "2026-09-09T17:49:10+00:00",
+      "source_published_at": "Wed, 09 Sep 2026 12:01:00 -0400",
+      "image_url": "/article_images/article_e31dbf008ef1.webp",
       "category": "Science",
-      "title": "Rattlesnake Blood Hides a Powerful Antivenom—and Scientists Cracked It",
-      "summary": "Rattlesnakes are immune to their own venom. Scientists discovered that mixing certain proteins from their blood creates an antivenom 10 times stronger than the current one. This could save thousands of lives from deadly snakebites."
+      "title": "A T. rex Left Behind Its Footprints — And Scientists Are Thrilled",
+      "summary": "Four giant footprints from an adult T. rex were found in North Dakota. Each print is 3 feet long, and they show the dinosaur was just strolling at a walking pace. It's a first!"
     },
     {
-      "id": "2026-09-08-science-2",
-      "source": "Science News Explores",
-      "time_ago": "Tue, 08 Sep 2026 10:30:00 +0000",
-      "mined_at": "2026-09-08T17:49:19+00:00",
-      "source_published_at": "Tue, 08 Sep 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_14bcaf642773.webp",
+      "id": "2026-09-09-science-2",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Wed, 09 Sep 2026 07:13:30 EDT",
+      "mined_at": "2026-09-09T17:49:10+00:00",
+      "source_published_at": "Wed, 09 Sep 2026 07:13:30 EDT",
+      "image_url": "/article_images/article_35a483496ca8.webp",
       "category": "Science",
-      "title": "Dancing Swifties Shook the Ground—and Scientists Are Listening",
-      "summary": "A Taylor Swift concert in 2023 made the ground vibrate like a minor earthquake. Scientists study these human-made seismic waves to build safer buildings and understand crowd movements. Even COVID lockdowns caused 'seismic quiet.'"
+      "title": "Alien Life? Hundreds of Scientists Weigh In — And They're Cautious",
+      "summary": "A survey of astrobiologists found only 6.6% think we've found alien life on K2-18b, and 15.1% for Mars. Most are cautious, but many shifted from 'definitely no' to 'maybe'."
     },
     {
-      "id": "2026-09-08-science-3",
-      "source": "Space.com",
-      "time_ago": "Tue, 08 Sep 2026 17:17:42 +0000",
-      "mined_at": "2026-09-08T17:49:19+00:00",
-      "source_published_at": "Tue, 08 Sep 2026 17:17:42 +0000",
-      "image_url": "/article_images/article_b36cf5375559.webp",
+      "id": "2026-09-09-science-3",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Wed, 09 Sep 2026 04:47:39 EDT",
+      "mined_at": "2026-09-09T17:49:10+00:00",
+      "source_published_at": "Wed, 09 Sep 2026 04:47:39 EDT",
+      "image_url": "/article_images/article_c98cd0a51af7.webp",
       "category": "Science",
-      "title": "When a $264 Million Spacecraft Crashed: The Genesis Mission's Close Call",
-      "summary": "In 2004, NASA's Genesis spacecraft crashed in Utah because its parachute failed—a simple design flaw. The solar wind samples shattered, but scientists salvaged some. It was NASA's first sample-return mission since Apollo 17."
+      "title": "Interstellar Comet 3I/ATLAS Is Surprisingly Rich in Methanol",
+      "summary": "Comet 3I/ATLAS, from outside our solar system, has an unusually high amount of methanol. ALMA observations show it's one of the most methanol-rich comets ever seen."
     }
   ]
 }
