@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-09-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Tue, 08 Sep 2026 20:20:23 -0400",
-      "mined_at": "2026-09-09T17:49:10+00:00",
-      "source_published_at": "Tue, 08 Sep 2026 20:20:23 -0400",
-      "image_url": "/article_images/article_3959d21f8116.webp",
+      "id": "2026-09-10-news-1",
+      "source": "Al Jazeera",
+      "time_ago": "Thu, 10 Sep 2026 16:44:13 +0000",
+      "mined_at": "2026-09-10T17:32:30+00:00",
+      "source_published_at": "Thu, 10 Sep 2026 16:44:13 +0000",
+      "image_url": "/article_images/article_1e7e1f219aa0.webp",
       "category": "News",
-      "title": "Trade War Escalates: U.S. Bans Canadian Dairy, Booze, and Motorcycles",
-      "summary": "The U.S. is banning Canadian dairy, alcohol, and motorcycles in a trade war. Canada retaliated with tariffs on $20B of U.S. goods. Leaders are digging in."
+      "title": "Supreme Court Rejects Missouri's New Congressional Map",
+      "summary": "The U.S. Supreme Court blocked a Republican-drawn map in Missouri, meaning the old districts will be used in November's midterms. The fight could decide which party controls the House of Representatives."
     },
     {
-      "id": "2026-09-09-news-2",
+      "id": "2026-09-10-news-2",
+      "source": "NPR World",
+      "time_ago": "Thu, 10 Sep 2026 07:27:14 -0400",
+      "mined_at": "2026-09-10T17:32:30+00:00",
+      "source_published_at": "Thu, 10 Sep 2026 07:27:14 -0400",
+      "image_url": "/article_images/article_e68530552932.webp",
+      "category": "News",
+      "title": "Trump Vows $5,000 Payments If GOP Holds Congress",
+      "summary": "President Trump promised a $5,000 dividend to every adult citizen if Republicans keep Congress. He gave no details on funding, and experts estimate it could cost $1 trillion or more."
+    },
+    {
+      "id": "2026-09-10-news-3",
       "source": "BBC News",
-      "time_ago": "Wed, 09 Sep 2026 17:21:14 GMT",
-      "mined_at": "2026-09-09T17:49:10+00:00",
-      "source_published_at": "Wed, 09 Sep 2026 17:21:14 GMT",
-      "image_url": "/article_images/article_65e9f87373e3.webp",
+      "time_ago": "Thu, 10 Sep 2026 15:56:33 GMT",
+      "mined_at": "2026-09-10T17:32:30+00:00",
+      "source_published_at": "Thu, 10 Sep 2026 15:56:33 GMT",
+      "image_url": "/article_images/article_c792fb242bf8.webp",
       "category": "News",
-      "title": "Reform UK Under Criminal Investigation Over Foreign Donation Allegations",
-      "summary": "Police launched a criminal probe into Reform UK after a secret recording suggested aides plotted to accept a £500,000 foreign donation. Two top figures resigned."
-    },
-    {
-      "id": "2026-09-09-news-3",
-      "source": "PBS NewsHour",
-      "time_ago": "Wed, 09 Sep 2026 11:45:12 -0400",
-      "mined_at": "2026-09-09T17:49:10+00:00",
-      "source_published_at": "Wed, 09 Sep 2026 11:45:12 -0400",
-      "image_url": "/article_images/article_f28d5a444cc7.webp",
-      "category": "News",
-      "title": "Sununu vs. Pappas: High-Stakes Senate Race in New Hampshire",
-      "summary": "John Sununu and Chris Pappas will battle for an open Senate seat in New Hampshire, a race that could determine Senate control. Both won their primaries."
+      "title": "Oil Surges Past $105 as Middle East Conflict Escalates",
+      "summary": "Oil prices jumped to $105 a barrel as US-Iran fighting closed the Strait of Hormuz. Gas and borrowing costs are also rising, fueling fears of higher inflation worldwide."
     }
   ]
 }

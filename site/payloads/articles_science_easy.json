@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-09-science-1",
-      "source": "Popular Science",
-      "time_ago": "Wed, 09 Sep 2026 12:01:00 -0400",
-      "mined_at": "2026-09-09T17:49:10+00:00",
-      "source_published_at": "Wed, 09 Sep 2026 12:01:00 -0400",
-      "image_url": "/article_images/article_e31dbf008ef1.webp",
+      "id": "2026-09-10-science-1",
+      "source": "Space.com",
+      "time_ago": "Thu, 10 Sep 2026 16:00:00 +0000",
+      "mined_at": "2026-09-10T17:32:30+00:00",
+      "source_published_at": "Thu, 10 Sep 2026 16:00:00 +0000",
+      "image_url": "/article_images/article_1794b66d57bd.webp",
       "category": "Science",
-      "title": "Giant Dino Footprints Found — A T. rex Took a Stroll!",
-      "summary": "Scientists found four huge footprints from an adult T. rex in North Dakota. Each print is about 3 feet long! It's the first time we have a path of T. rex tracks."
+      "title": "3,000 Exploding Stars Just Gave Us a Big Clue About Dark Energy",
+      "summary": "Scientists studied almost 3,000 exploding stars called supernovas. Their results hint that dark energy — a mysterious force that pushes the universe apart — might be changing over time, not staying the same."
     },
     {
-      "id": "2026-09-09-science-2",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Wed, 09 Sep 2026 07:13:30 EDT",
-      "mined_at": "2026-09-09T17:49:10+00:00",
-      "source_published_at": "Wed, 09 Sep 2026 07:13:30 EDT",
-      "image_url": "/article_images/article_35a483496ca8.webp",
+      "id": "2026-09-10-science-2",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Wed, 09 Sep 2026 03:41:21 EDT",
+      "mined_at": "2026-09-10T17:32:30+00:00",
+      "source_published_at": "Wed, 09 Sep 2026 03:41:21 EDT",
+      "image_url": "/article_images/article_7f5fac417552.webp",
       "category": "Science",
-      "title": "Have We Found Aliens? Scientists Say 'Not So Fast!'",
-      "summary": "Scientists asked hundreds of alien experts if we've found alien life. Most said no! Only 6.6% thought we found life on a planet called K2-18b. But they're keeping an open mind."
+      "title": "Ancient Builders Dragged 55,000-Pound Stones 11 Miles — And We Finally Know Where From",
+      "summary": "New research shows ancient builders hauled 25-tonne stones at least 11 miles to build Britain's tallest stone row, the Devil's Arrows. Scientists traced the stones to a site called Brimham Rocks."
     },
     {
-      "id": "2026-09-09-science-3",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Wed, 09 Sep 2026 04:47:39 EDT",
-      "mined_at": "2026-09-09T17:49:10+00:00",
-      "source_published_at": "Wed, 09 Sep 2026 04:47:39 EDT",
-      "image_url": "/article_images/article_c98cd0a51af7.webp",
+      "id": "2026-09-10-science-3",
+      "source": "Science News Explores",
+      "time_ago": "Thu, 10 Sep 2026 10:30:00 +0000",
+      "mined_at": "2026-09-10T17:32:30+00:00",
+      "source_published_at": "Thu, 10 Sep 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_453fff6d4003.webp",
       "category": "Science",
-      "title": "This Comet From Another Solar System Is Full of Alcohol!",
-      "summary": "A comet from outside our solar system, called 3I/ATLAS, has tons of methanol (a type of alcohol). It's one of the most methanol-rich comets ever seen!"
+      "title": "Scientists Spy on Boobies with Tiny Backpack Cameras",
+      "summary": "Scientists traveled to a remote island to study red-footed boobies. They attached tiny cameras and trackers to the birds to learn where they fly and how they catch fish."
     }
   ]
 }

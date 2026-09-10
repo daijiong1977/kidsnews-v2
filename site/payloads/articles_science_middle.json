@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-09-science-1",
-      "source": "Popular Science",
-      "time_ago": "Wed, 09 Sep 2026 12:01:00 -0400",
-      "mined_at": "2026-09-09T17:49:10+00:00",
-      "source_published_at": "Wed, 09 Sep 2026 12:01:00 -0400",
-      "image_url": "/article_images/article_e31dbf008ef1.webp",
+      "id": "2026-09-10-science-1",
+      "source": "Space.com",
+      "time_ago": "Thu, 10 Sep 2026 16:00:00 +0000",
+      "mined_at": "2026-09-10T17:32:30+00:00",
+      "source_published_at": "Thu, 10 Sep 2026 16:00:00 +0000",
+      "image_url": "/article_images/article_1794b66d57bd.webp",
       "category": "Science",
-      "title": "A T. rex Left Behind Its Footprints — And Scientists Are Thrilled",
-      "summary": "Four giant footprints from an adult T. rex were found in North Dakota. Each print is 3 feet long, and they show the dinosaur was just strolling at a walking pace. It's a first!"
+      "title": "Dark Energy Might Not Be Constant After All, New Supernova Study Suggests",
+      "summary": "By studying nearly 3,000 exploding stars, scientists found more evidence that dark energy — the force speeding up the universe's expansion — may change over time. This challenges the standard model of cosmology."
     },
     {
-      "id": "2026-09-09-science-2",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Wed, 09 Sep 2026 07:13:30 EDT",
-      "mined_at": "2026-09-09T17:49:10+00:00",
-      "source_published_at": "Wed, 09 Sep 2026 07:13:30 EDT",
-      "image_url": "/article_images/article_35a483496ca8.webp",
+      "id": "2026-09-10-science-2",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Wed, 09 Sep 2026 03:41:21 EDT",
+      "mined_at": "2026-09-10T17:32:30+00:00",
+      "source_published_at": "Wed, 09 Sep 2026 03:41:21 EDT",
+      "image_url": "/article_images/article_7f5fac417552.webp",
       "category": "Science",
-      "title": "Alien Life? Hundreds of Scientists Weigh In — And They're Cautious",
-      "summary": "A survey of astrobiologists found only 6.6% think we've found alien life on K2-18b, and 15.1% for Mars. Most are cautious, but many shifted from 'definitely no' to 'maybe'."
+      "title": "Britain's Tallest Stone Row: Ancient Builders Hauled 25-Tonne Stones 11 Miles",
+      "summary": "Researchers traced the giant stones of the Devil's Arrows to Brimham Rocks, 18 kilometers away. The finding shows prehistoric builders made deliberate choices about where their stones came from."
     },
     {
-      "id": "2026-09-09-science-3",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Wed, 09 Sep 2026 04:47:39 EDT",
-      "mined_at": "2026-09-09T17:49:10+00:00",
-      "source_published_at": "Wed, 09 Sep 2026 04:47:39 EDT",
-      "image_url": "/article_images/article_c98cd0a51af7.webp",
+      "id": "2026-09-10-science-3",
+      "source": "Science News Explores",
+      "time_ago": "Thu, 10 Sep 2026 10:30:00 +0000",
+      "mined_at": "2026-09-10T17:32:30+00:00",
+      "source_published_at": "Thu, 10 Sep 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_453fff6d4003.webp",
       "category": "Science",
-      "title": "Interstellar Comet 3I/ATLAS Is Surprisingly Rich in Methanol",
-      "summary": "Comet 3I/ATLAS, from outside our solar system, has an unusually high amount of methanol. ALMA observations show it's one of the most methanol-rich comets ever seen."
+      "title": "Tiny Cameras Reveal the Secret Ocean Lives of Red-Footed Boobies",
+      "summary": "Scientists traveled to a remote island in the Indian Ocean and attached GPS trackers and tiny cameras to red-footed boobies. The data reveals where the birds fly and how they link land and sea ecosystems."
     }
   ]
 }
