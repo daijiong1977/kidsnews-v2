@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-10-news-1",
-      "source": "Al Jazeera",
-      "time_ago": "Thu, 10 Sep 2026 16:44:13 +0000",
-      "mined_at": "2026-09-10T17:32:30+00:00",
-      "source_published_at": "Thu, 10 Sep 2026 16:44:13 +0000",
-      "image_url": "/article_images/article_1e7e1f219aa0.webp",
+      "id": "2026-09-11-news-1",
+      "source": "PBS NewsHour",
+      "time_ago": "Fri, 11 Sep 2026 12:37:35 -0400",
+      "mined_at": "2026-09-11T17:43:04+00:00",
+      "source_published_at": "Fri, 11 Sep 2026 12:37:35 -0400",
+      "image_url": "/article_images/article_207d42e747bc.webp",
       "category": "News",
-      "title": "Supreme Court Rejects Missouri's New Congressional Map",
-      "summary": "The U.S. Supreme Court blocked a Republican-drawn map in Missouri, meaning the old districts will be used in November's midterms. The fight could decide which party controls the House of Representatives."
+      "title": "Strait of Hormuz: U.S. Makes Progress, But Iran War Drags On",
+      "summary": "The U.S. has loosened Iran's control of the Strait of Hormuz, a key oil route. But the war continues, oil prices are above $100, and experts see no clear winner. Iran's oil exports have plummeted."
     },
     {
-      "id": "2026-09-10-news-2",
+      "id": "2026-09-11-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Fri, 11 Sep 2026 13:22:48 -0400",
+      "mined_at": "2026-09-11T17:43:04+00:00",
+      "source_published_at": "Fri, 11 Sep 2026 13:22:48 -0400",
+      "image_url": "/article_images/article_3eb04394d80d.webp",
+      "category": "News",
+      "title": "Cyclospora Outbreak Ends, But the Source Remains a Mystery",
+      "summary": "U.S. officials declared an end to a record cyclospora outbreak that sickened nearly 20,000 people. It was linked to iceberg lettuce from Mexico, but the exact origin is still unknown."
+    },
+    {
+      "id": "2026-09-11-news-3",
       "source": "NPR World",
-      "time_ago": "Thu, 10 Sep 2026 07:27:14 -0400",
-      "mined_at": "2026-09-10T17:32:30+00:00",
-      "source_published_at": "Thu, 10 Sep 2026 07:27:14 -0400",
-      "image_url": "/article_images/article_e68530552932.webp",
+      "time_ago": "Fri, 11 Sep 2026 11:34:51 -0400",
+      "mined_at": "2026-09-11T17:43:04+00:00",
+      "source_published_at": "Fri, 11 Sep 2026 11:34:51 -0400",
+      "image_url": "/article_images/article_117688ee29b4.webp",
       "category": "News",
-      "title": "Trump Vows $5,000 Payments If GOP Holds Congress",
-      "summary": "President Trump promised a $5,000 dividend to every adult citizen if Republicans keep Congress. He gave no details on funding, and experts estimate it could cost $1 trillion or more."
-    },
-    {
-      "id": "2026-09-10-news-3",
-      "source": "BBC News",
-      "time_ago": "Thu, 10 Sep 2026 15:56:33 GMT",
-      "mined_at": "2026-09-10T17:32:30+00:00",
-      "source_published_at": "Thu, 10 Sep 2026 15:56:33 GMT",
-      "image_url": "/article_images/article_c792fb242bf8.webp",
-      "category": "News",
-      "title": "Oil Surges Past $105 as Middle East Conflict Escalates",
-      "summary": "Oil prices jumped to $105 a barrel as US-Iran fighting closed the Strait of Hormuz. Gas and borrowing costs are also rising, fueling fears of higher inflation worldwide."
+      "title": "CDC Under Fire: Measles Deaths, Missing Data, and a Crisis of Trust",
+      "summary": "The U.S. is facing its worst measles outbreak in decades. When Pennsylvania reported two measles deaths, the CDC removed them from its website after Health Secretary Robert F. Kennedy Jr. questioned them. Now public health experts worry: can we trust the CDC?"
     }
   ]
 }

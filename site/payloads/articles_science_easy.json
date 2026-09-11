@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-10-science-1",
-      "source": "Space.com",
-      "time_ago": "Thu, 10 Sep 2026 16:00:00 +0000",
-      "mined_at": "2026-09-10T17:32:30+00:00",
-      "source_published_at": "Thu, 10 Sep 2026 16:00:00 +0000",
-      "image_url": "/article_images/article_1794b66d57bd.webp",
-      "category": "Science",
-      "title": "3,000 Exploding Stars Just Gave Us a Big Clue About Dark Energy",
-      "summary": "Scientists studied almost 3,000 exploding stars called supernovas. Their results hint that dark energy — a mysterious force that pushes the universe apart — might be changing over time, not staying the same."
-    },
-    {
-      "id": "2026-09-10-science-2",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Wed, 09 Sep 2026 03:41:21 EDT",
-      "mined_at": "2026-09-10T17:32:30+00:00",
-      "source_published_at": "Wed, 09 Sep 2026 03:41:21 EDT",
-      "image_url": "/article_images/article_7f5fac417552.webp",
-      "category": "Science",
-      "title": "Ancient Builders Dragged 55,000-Pound Stones 11 Miles — And We Finally Know Where From",
-      "summary": "New research shows ancient builders hauled 25-tonne stones at least 11 miles to build Britain's tallest stone row, the Devil's Arrows. Scientists traced the stones to a site called Brimham Rocks."
-    },
-    {
-      "id": "2026-09-10-science-3",
+      "id": "2026-09-11-science-1",
       "source": "Science News Explores",
-      "time_ago": "Thu, 10 Sep 2026 10:30:00 +0000",
-      "mined_at": "2026-09-10T17:32:30+00:00",
-      "source_published_at": "Thu, 10 Sep 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_453fff6d4003.webp",
+      "time_ago": "Fri, 11 Sep 2026 10:30:00 +0000",
+      "mined_at": "2026-09-11T17:43:04+00:00",
+      "source_published_at": "Fri, 11 Sep 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_78f55c45781a.webp",
       "category": "Science",
-      "title": "Scientists Spy on Boobies with Tiny Backpack Cameras",
-      "summary": "Scientists traveled to a remote island to study red-footed boobies. They attached tiny cameras and trackers to the birds to learn where they fly and how they catch fish."
+      "title": "Sun's Surface Has Whirlpools That Could Spark Solar Flares",
+      "summary": "The world's biggest solar telescope just took the sharpest pictures of the sun ever. It spotted giant whirlpools of hot, charged gas that might cause solar flares. These swirls could help explain why the sun sometimes blasts out bursts of energy."
+    },
+    {
+      "id": "2026-09-11-science-2",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Fri, 11 Sep 2026 08:03:26 EDT",
+      "mined_at": "2026-09-11T17:43:04+00:00",
+      "source_published_at": "Fri, 11 Sep 2026 08:03:26 EDT",
+      "image_url": "/article_images/article_b9fe19b01568.webp",
+      "category": "Science",
+      "title": "Tiny Laser Could Make Computers Use Half the Energy",
+      "summary": "Scientists made a super tiny laser that could make computers faster and use less power. It works with light instead of electricity. In the future, thousands could fit on one chip, cutting energy use in half."
+    },
+    {
+      "id": "2026-09-11-science-3",
+      "source": "Space.com",
+      "time_ago": "Fri, 11 Sep 2026 15:00:00 +0000",
+      "mined_at": "2026-09-11T17:43:04+00:00",
+      "source_published_at": "Fri, 11 Sep 2026 15:00:00 +0000",
+      "image_url": "/article_images/article_c3fe5602de81.webp",
+      "category": "Science",
+      "title": "Star Trek Uniforms: 60 Years of Bold Fashion Choices",
+      "summary": "Star Trek turns 60 this year! The show is famous for its space adventures, but also for its ever-changing uniforms. From pastel pajamas to tight spandex, Starfleet fashion has gone through many wild looks."
     }
   ]
 }

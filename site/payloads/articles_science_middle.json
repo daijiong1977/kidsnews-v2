@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-10-science-1",
-      "source": "Space.com",
-      "time_ago": "Thu, 10 Sep 2026 16:00:00 +0000",
-      "mined_at": "2026-09-10T17:32:30+00:00",
-      "source_published_at": "Thu, 10 Sep 2026 16:00:00 +0000",
-      "image_url": "/article_images/article_1794b66d57bd.webp",
-      "category": "Science",
-      "title": "Dark Energy Might Not Be Constant After All, New Supernova Study Suggests",
-      "summary": "By studying nearly 3,000 exploding stars, scientists found more evidence that dark energy — the force speeding up the universe's expansion — may change over time. This challenges the standard model of cosmology."
-    },
-    {
-      "id": "2026-09-10-science-2",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Wed, 09 Sep 2026 03:41:21 EDT",
-      "mined_at": "2026-09-10T17:32:30+00:00",
-      "source_published_at": "Wed, 09 Sep 2026 03:41:21 EDT",
-      "image_url": "/article_images/article_7f5fac417552.webp",
-      "category": "Science",
-      "title": "Britain's Tallest Stone Row: Ancient Builders Hauled 25-Tonne Stones 11 Miles",
-      "summary": "Researchers traced the giant stones of the Devil's Arrows to Brimham Rocks, 18 kilometers away. The finding shows prehistoric builders made deliberate choices about where their stones came from."
-    },
-    {
-      "id": "2026-09-10-science-3",
+      "id": "2026-09-11-science-1",
       "source": "Science News Explores",
-      "time_ago": "Thu, 10 Sep 2026 10:30:00 +0000",
-      "mined_at": "2026-09-10T17:32:30+00:00",
-      "source_published_at": "Thu, 10 Sep 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_453fff6d4003.webp",
+      "time_ago": "Fri, 11 Sep 2026 10:30:00 +0000",
+      "mined_at": "2026-09-11T17:43:04+00:00",
+      "source_published_at": "Fri, 11 Sep 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_78f55c45781a.webp",
       "category": "Science",
-      "title": "Tiny Cameras Reveal the Secret Ocean Lives of Red-Footed Boobies",
-      "summary": "Scientists traveled to a remote island in the Indian Ocean and attached GPS trackers and tiny cameras to red-footed boobies. The data reveals where the birds fly and how they link land and sea ecosystems."
+      "title": "New Sun Images Reveal Whirlpools That May Power Solar Flares",
+      "summary": "The most detailed images of the sun ever taken show swirling plasma whirlpools on its surface. These swirls might trigger solar flares, which can disrupt technology on Earth. The discovery could help scientists predict these powerful bursts."
+    },
+    {
+      "id": "2026-09-11-science-2",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Fri, 11 Sep 2026 08:03:26 EDT",
+      "mined_at": "2026-09-11T17:43:04+00:00",
+      "source_published_at": "Fri, 11 Sep 2026 08:03:26 EDT",
+      "image_url": "/article_images/article_b9fe19b01568.webp",
+      "category": "Science",
+      "title": "Nanolaser Breakthrough Could Slash Computer Energy Use by Half",
+      "summary": "Researchers at DTU have created a nanolaser that could make computers faster and more energy-efficient by using light instead of electricity. Thousands could fit on a chip, potentially cutting energy use in half."
+    },
+    {
+      "id": "2026-09-11-science-3",
+      "source": "Space.com",
+      "time_ago": "Fri, 11 Sep 2026 15:00:00 +0000",
+      "mined_at": "2026-09-11T17:43:04+00:00",
+      "source_published_at": "Fri, 11 Sep 2026 15:00:00 +0000",
+      "image_url": "/article_images/article_c3fe5602de81.webp",
+      "category": "Science",
+      "title": "Star Trek's 60-Year Fashion Odyssey: From Pastel Pajamas to Spandex",
+      "summary": "Star Trek celebrates 60 years of uniforms that have evolved from casual sweaters to tight spandex. The colors and badges tell you a crew member's job and rank, but the designs have changed with each series."
     }
   ]
 }
