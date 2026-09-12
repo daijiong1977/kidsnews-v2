@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-11-science-1",
-      "source": "Science News Explores",
-      "time_ago": "Fri, 11 Sep 2026 10:30:00 +0000",
-      "mined_at": "2026-09-11T17:43:04+00:00",
-      "source_published_at": "Fri, 11 Sep 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_78f55c45781a.webp",
-      "category": "Science",
-      "title": "Sun's Surface Has Whirlpools That Could Spark Solar Flares",
-      "summary": "The world's biggest solar telescope just took the sharpest pictures of the sun ever. It spotted giant whirlpools of hot, charged gas that might cause solar flares. These swirls could help explain why the sun sometimes blasts out bursts of energy."
-    },
-    {
-      "id": "2026-09-11-science-2",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Fri, 11 Sep 2026 08:03:26 EDT",
-      "mined_at": "2026-09-11T17:43:04+00:00",
-      "source_published_at": "Fri, 11 Sep 2026 08:03:26 EDT",
-      "image_url": "/article_images/article_b9fe19b01568.webp",
-      "category": "Science",
-      "title": "Tiny Laser Could Make Computers Use Half the Energy",
-      "summary": "Scientists made a super tiny laser that could make computers faster and use less power. It works with light instead of electricity. In the future, thousands could fit on one chip, cutting energy use in half."
-    },
-    {
-      "id": "2026-09-11-science-3",
+      "id": "2026-09-12-science-1",
       "source": "Space.com",
-      "time_ago": "Fri, 11 Sep 2026 15:00:00 +0000",
-      "mined_at": "2026-09-11T17:43:04+00:00",
-      "source_published_at": "Fri, 11 Sep 2026 15:00:00 +0000",
-      "image_url": "/article_images/article_c3fe5602de81.webp",
+      "time_ago": "Sat, 12 Sep 2026 14:00:00 +0000",
+      "mined_at": "2026-09-12T17:34:30+00:00",
+      "source_published_at": "Sat, 12 Sep 2026 14:00:00 +0000",
+      "image_url": "/article_images/article_5a1c6c0ca1e6.webp",
       "category": "Science",
-      "title": "Star Trek Uniforms: 60 Years of Bold Fashion Choices",
-      "summary": "Star Trek turns 60 this year! The show is famous for its space adventures, but also for its ever-changing uniforms. From pastel pajamas to tight spandex, Starfleet fashion has gone through many wild looks."
+      "title": "The First Black Woman in Space: Mae Jemison's Amazing Journey",
+      "summary": "On September 12, 1992, Mae Jemison became the first Black woman to fly into space. She spent 8 days on the space shuttle Endeavour and ran 44 science experiments. She was also a doctor and an engineer!"
+    },
+    {
+      "id": "2026-09-12-science-2",
+      "source": "ScienceDaily All",
+      "time_ago": "Sat, 12 Sep 2026 10:08:20 EDT",
+      "mined_at": "2026-09-12T17:34:30+00:00",
+      "source_published_at": "Sat, 12 Sep 2026 10:08:20 EDT",
+      "image_url": "/article_images/article_f6bdbbab27b9.webp",
+      "category": "Science",
+      "title": "Tiny Sound Waves Could Save Quantum Computers",
+      "summary": "Scientists at Harvard found a new way to protect fragile quantum information using microscopic sound waves called phonons. This could help build smaller, more powerful quantum computers."
+    },
+    {
+      "id": "2026-09-12-science-3",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Fri, 11 Sep 2026 07:38:35 EDT",
+      "mined_at": "2026-09-12T17:34:30+00:00",
+      "source_published_at": "Fri, 11 Sep 2026 07:38:35 EDT",
+      "image_url": "/article_images/article_371e00a9f293.webp",
+      "category": "Science",
+      "title": "Where Have All the Wasps Gone? Scientists Are Worried",
+      "summary": "This summer, wasps are mysteriously missing in the UK. Scientists think extreme heat waves may be to blame. Wasps are important for ecosystems, so their absence is a big concern."
     }
   ]
 }

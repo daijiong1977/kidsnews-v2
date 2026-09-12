@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-11-news-1",
+      "id": "2026-09-12-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Fri, 11 Sep 2026 12:37:35 -0400",
-      "mined_at": "2026-09-11T17:43:04+00:00",
-      "source_published_at": "Fri, 11 Sep 2026 12:37:35 -0400",
-      "image_url": "/article_images/article_207d42e747bc.webp",
+      "time_ago": "Sat, 12 Sep 2026 13:11:01 -0400",
+      "mined_at": "2026-09-12T17:34:30+00:00",
+      "source_published_at": "Sat, 12 Sep 2026 13:11:01 -0400",
+      "image_url": "/article_images/article_c84172b9ccbd.webp",
       "category": "News",
-      "title": "Strait of Hormuz: U.S. Makes Progress, But Iran War Drags On",
-      "summary": "The U.S. has loosened Iran's control of the Strait of Hormuz, a key oil route. But the war continues, oil prices are above $100, and experts see no clear winner. Iran's oil exports have plummeted."
+      "title": "Trump Wades Into Ireland's Toughest Question: 'It's Going to Happen Eventually'",
+      "summary": "During a Dublin visit, President Trump said Irish reunification would be 'fantastic' — a topic U.S. presidents usually avoid. Northern Ireland has been part of the U.K. for a century, and the issue once fueled decades of violence."
     },
     {
-      "id": "2026-09-11-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Fri, 11 Sep 2026 13:22:48 -0400",
-      "mined_at": "2026-09-11T17:43:04+00:00",
-      "source_published_at": "Fri, 11 Sep 2026 13:22:48 -0400",
-      "image_url": "/article_images/article_3eb04394d80d.webp",
+      "id": "2026-09-12-news-2",
+      "source": "Al Jazeera",
+      "time_ago": "Sat, 12 Sep 2026 17:18:28 +0000",
+      "mined_at": "2026-09-12T17:34:30+00:00",
+      "source_published_at": "Sat, 12 Sep 2026 17:18:28 +0000",
+      "image_url": "/article_images/article_16f10644ac41.webp",
       "category": "News",
-      "title": "Cyclospora Outbreak Ends, But the Source Remains a Mystery",
-      "summary": "U.S. officials declared an end to a record cyclospora outbreak that sickened nearly 20,000 people. It was linked to iceberg lettuce from Mexico, but the exact origin is still unknown."
+      "title": "Unbeaten India and Sri Lanka Clash for Women's T20 Asia Cup Glory",
+      "summary": "India faces Sri Lanka in the Women's T20 Asia Cup final Sunday in Dubai. India has won a record seven titles; Sri Lanka is the defending champion. Both teams are unbeaten, and the star bowlers are tied at 11 wickets each."
     },
     {
-      "id": "2026-09-11-news-3",
-      "source": "NPR World",
-      "time_ago": "Fri, 11 Sep 2026 11:34:51 -0400",
-      "mined_at": "2026-09-11T17:43:04+00:00",
-      "source_published_at": "Fri, 11 Sep 2026 11:34:51 -0400",
-      "image_url": "/article_images/article_117688ee29b4.webp",
+      "id": "2026-09-12-news-3",
+      "source": "BBC News",
+      "time_ago": "Sat, 12 Sep 2026 16:41:09 GMT",
+      "mined_at": "2026-09-12T17:34:30+00:00",
+      "source_published_at": "Sat, 12 Sep 2026 16:41:09 GMT",
+      "image_url": "/article_images/article_924e68c39466.webp",
       "category": "News",
-      "title": "CDC Under Fire: Measles Deaths, Missing Data, and a Crisis of Trust",
-      "summary": "The U.S. is facing its worst measles outbreak in decades. When Pennsylvania reported two measles deaths, the CDC removed them from its website after Health Secretary Robert F. Kennedy Jr. questioned them. Now public health experts worry: can we trust the CDC?"
+      "title": "Reform UK's £72 Million Windfall: Two Crypto Donors, One Record, Many Questions",
+      "summary": "Reform UK received two £36 million donations in two days — more than all UK parties got last year combined. The donors are crypto investors. The party faces scrutiny over donation rules and police investigations."
     }
   ]
 }

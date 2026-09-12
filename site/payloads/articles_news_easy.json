@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-11-news-1",
+      "id": "2026-09-12-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Fri, 11 Sep 2026 12:37:35 -0400",
-      "mined_at": "2026-09-11T17:43:04+00:00",
-      "source_published_at": "Fri, 11 Sep 2026 12:37:35 -0400",
-      "image_url": "/article_images/article_207d42e747bc.webp",
+      "time_ago": "Sat, 12 Sep 2026 13:11:01 -0400",
+      "mined_at": "2026-09-12T17:34:30+00:00",
+      "source_published_at": "Sat, 12 Sep 2026 13:11:01 -0400",
+      "image_url": "/article_images/article_c84172b9ccbd.webp",
       "category": "News",
-      "title": "The Strait of Hormuz: A Water Highway That's Causing Big Trouble",
-      "summary": "The U.S. and Iran are fighting over a waterway called the Strait of Hormuz. Iran closed it, but the U.S. has now helped other countries send more oil through. Gas prices are high, and the war is still going."
+      "title": "Trump Says a United Ireland Would Be 'Fantastic' — And It's a Big Deal",
+      "summary": "President Trump visited Ireland and said he'd love to see Ireland and Northern Ireland become one country. That's a touchy topic — past U.S. presidents usually stayed quiet about it. Protests broke out in Dublin."
     },
     {
-      "id": "2026-09-11-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Fri, 11 Sep 2026 13:22:48 -0400",
-      "mined_at": "2026-09-11T17:43:04+00:00",
-      "source_published_at": "Fri, 11 Sep 2026 13:22:48 -0400",
-      "image_url": "/article_images/article_3eb04394d80d.webp",
+      "id": "2026-09-12-news-2",
+      "source": "Al Jazeera",
+      "time_ago": "Sat, 12 Sep 2026 17:18:28 +0000",
+      "mined_at": "2026-09-12T17:34:30+00:00",
+      "source_published_at": "Sat, 12 Sep 2026 17:18:28 +0000",
+      "image_url": "/article_images/article_16f10644ac41.webp",
       "category": "News",
-      "title": "A Record-Breaking Parasite Outbreak Is Over, But Where Did It Come From?",
-      "summary": "A tiny parasite called cyclospora made nearly 20,000 people sick in the U.S. this year — way more than usual. The outbreak is over, but scientists still don't know exactly how it started."
+      "title": "India vs Sri Lanka: Who Wins the Women's T20 Asia Cup Final?",
+      "summary": "India and Sri Lanka play the Women's T20 Asia Cup final on Sunday in Dubai. India has won the trophy seven times. Sri Lanka won last time and wants to keep it. Both teams are unbeaten so far."
     },
     {
-      "id": "2026-09-11-news-3",
-      "source": "NPR World",
-      "time_ago": "Fri, 11 Sep 2026 11:34:51 -0400",
-      "mined_at": "2026-09-11T17:43:04+00:00",
-      "source_published_at": "Fri, 11 Sep 2026 11:34:51 -0400",
-      "image_url": "/article_images/article_117688ee29b4.webp",
+      "id": "2026-09-12-news-3",
+      "source": "BBC News",
+      "time_ago": "Sat, 12 Sep 2026 16:41:09 GMT",
+      "mined_at": "2026-09-12T17:34:30+00:00",
+      "source_published_at": "Sat, 12 Sep 2026 16:41:09 GMT",
+      "image_url": "/article_images/article_924e68c39466.webp",
       "category": "News",
-      "title": "The CDC and the Measles Mystery: Why Some Doctors Are Worried",
-      "summary": "Measles is spreading in the U.S. more than it has in many years. When two kids died in Pennsylvania, the CDC took the deaths off its website. Now some doctors say they're worried about trusting the CDC's health information."
+      "title": "A Political Party Just Got £72 Million in Two Days — Here's Why That's a Record",
+      "summary": "Reform UK received two £36 million donations in two days — more money than all UK parties got last year combined. The donors are cryptocurrency investors. Some people worry about where political money comes from."
     }
   ]
 }

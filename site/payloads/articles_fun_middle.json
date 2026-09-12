@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-11-fun-1",
+      "id": "2026-09-12-fun-1",
+      "source": "BBC Tennis",
+      "time_ago": "Sat, 12 Sep 2026 06:05:34 GMT",
+      "mined_at": "2026-09-12T17:34:30+00:00",
+      "source_published_at": "Sat, 12 Sep 2026 06:05:34 GMT",
+      "image_url": "/article_images/article_7c481ee4a61d.webp",
+      "category": "Fun",
+      "title": "Shelton Powers Past Tiafoe to Reach Historic US Open Final",
+      "summary": "Ben Shelton came from a set down to beat Frances Tiafoe in an all-American semifinal thriller. He's the first Black American man in the US Open final since Arthur Ashe in 1972. He faces Zverev on Sunday."
+    },
+    {
+      "id": "2026-09-12-fun-2",
       "source": "DOGOnews",
       "time_ago": "",
-      "mined_at": "2026-09-11T17:43:04+00:00",
+      "mined_at": "2026-09-12T17:34:30+00:00",
       "source_published_at": "",
-      "image_url": "/article_images/article_8074e5332761.webp",
+      "image_url": "/article_images/article_2f4d1b8a5e67.webp",
       "category": "Fun",
-      "title": "Route 66 Hits 100: The 'Mother Road' That Refused to Fade Away",
-      "summary": "Route 66, the 2,400-mile highway from Chicago to Los Angeles, turns 100 on November 11, 2026. Eight states are celebrating with festivals, car shows, and a documentary tour ending in LA."
+      "title": "Space Junk Creates New Crater on the Moon",
+      "summary": "An old SpaceX rocket stage crashed into the Moon on August 5, 2026, creating a 60-foot-wide crater. Scientists are studying the impact to understand how space debris affects the lunar surface."
     },
     {
-      "id": "2026-09-11-fun-2",
-      "source": "Live Science",
-      "time_ago": "Fri, 11 Sep 2026 17:07:09 +0000",
-      "mined_at": "2026-09-11T17:43:04+00:00",
-      "source_published_at": "Fri, 11 Sep 2026 17:07:09 +0000",
-      "image_url": "/article_images/article_557e44785850.webp",
+      "id": "2026-09-12-fun-3",
+      "source": "MIT News",
+      "time_ago": "Wed, 09 Sep 2026 16:00:00 -0400",
+      "mined_at": "2026-09-12T17:34:30+00:00",
+      "source_published_at": "Wed, 09 Sep 2026 16:00:00 -0400",
+      "image_url": "/article_images/article_4dc58d9b4598.webp",
       "category": "Fun",
-      "title": "AI and Consciousness: Readers Debate Whether Machines Could Ever 'Wake Up'",
-      "summary": "A Live Science poll asked if AI could become conscious. 43% of 290+ readers said yes without guardrails, while 29% said smarter architecture is needed. One joked, 'Maybe that is how Transformers started?'"
-    },
-    {
-      "id": "2026-09-11-fun-3",
-      "source": "Billboard",
-      "time_ago": "Fri, 11 Sep 2026 17:29:11 +0000",
-      "mined_at": "2026-09-11T17:43:04+00:00",
-      "source_published_at": "Fri, 11 Sep 2026 17:29:11 +0000",
-      "image_url": "/article_images/article_9c04f885b7a2.webp",
-      "category": "Fun",
-      "title": "Def Leppard Documentary 'Long Live Def Leppard' to Rock Theaters in 2027",
-      "summary": "A new authorized documentary, 'Long Live Def Leppard,' hits theaters in early 2027. It follows the band's rise from Sheffield, England, to 110 million albums sold — and how they survived two devastating tragedies."
+      "title": "MIT's Tiny 'HITMAN' Nanoantennas Could Target Brain Cancer",
+      "summary": "MIT researchers created injectable nanoantennas that use magnetic fields to kill glioblastoma cells. In lab and animal tests, the treatment shrank tumors and extended survival without side effects."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-11-fun-1",
+      "id": "2026-09-12-fun-1",
+      "source": "BBC Tennis",
+      "time_ago": "Sat, 12 Sep 2026 06:05:34 GMT",
+      "mined_at": "2026-09-12T17:34:30+00:00",
+      "source_published_at": "Sat, 12 Sep 2026 06:05:34 GMT",
+      "image_url": "/article_images/article_7c481ee4a61d.webp",
+      "category": "Fun",
+      "title": "Ben Shelton Smashes His Way to First US Open Final",
+      "summary": "Ben Shelton beat Frances Tiafoe in a huge all-American semifinal to reach his first Grand Slam final. He's the first Black American man in the US Open final since Arthur Ashe in 1972. Next up: Alexander Zverev on Sunday."
+    },
+    {
+      "id": "2026-09-12-fun-2",
       "source": "DOGOnews",
       "time_ago": "",
-      "mined_at": "2026-09-11T17:43:04+00:00",
+      "mined_at": "2026-09-12T17:34:30+00:00",
       "source_published_at": "",
-      "image_url": "/article_images/article_8074e5332761.webp",
+      "image_url": "/article_images/article_2f4d1b8a5e67.webp",
       "category": "Fun",
-      "title": "Route 66: The 100-Year-Old Road That Still Makes People Sing",
-      "summary": "Route 66, America's famous 'Mother Road,' turns 100 on November 11, 2026. It once ran 2,400 miles from Chicago to Los Angeles, and now eight states are throwing festivals and car shows to celebrate."
+      "title": "A Rocket Part Just Smashed Into the Moon!",
+      "summary": "A piece of space junk — an old SpaceX rocket part — crashed into the Moon on August 5, 2026. It made a crater 60 feet wide! Scientists are studying it to learn about space debris."
     },
     {
-      "id": "2026-09-11-fun-2",
-      "source": "Live Science",
-      "time_ago": "Fri, 11 Sep 2026 17:07:09 +0000",
-      "mined_at": "2026-09-11T17:43:04+00:00",
-      "source_published_at": "Fri, 11 Sep 2026 17:07:09 +0000",
-      "image_url": "/article_images/article_557e44785850.webp",
+      "id": "2026-09-12-fun-3",
+      "source": "MIT News",
+      "time_ago": "Wed, 09 Sep 2026 16:00:00 -0400",
+      "mined_at": "2026-09-12T17:34:30+00:00",
+      "source_published_at": "Wed, 09 Sep 2026 16:00:00 -0400",
+      "image_url": "/article_images/article_4dc58d9b4598.webp",
       "category": "Fun",
-      "title": "Could AI Wake Up? Readers Share Their Wildest Fears and Hopes",
-      "summary": "Live Science asked readers if AI could become conscious. Over 290 people voted, and 43% said yes — if we don't have safety guardrails. One reader joked, 'Maybe that is how Transformers started?'"
-    },
-    {
-      "id": "2026-09-11-fun-3",
-      "source": "Billboard",
-      "time_ago": "Fri, 11 Sep 2026 17:29:11 +0000",
-      "mined_at": "2026-09-11T17:43:04+00:00",
-      "source_published_at": "Fri, 11 Sep 2026 17:29:11 +0000",
-      "image_url": "/article_images/article_9c04f885b7a2.webp",
-      "category": "Fun",
-      "title": "Def Leppard's Wild Ride: From Sheffield to Rock Legends in New Documentary",
-      "summary": "A new documentary called 'Long Live Def Leppard' hits theaters in early 2027. It tells how five working-class guys from Sheffield, England, sold 110 million albums and survived two heartbreaking tragedies."
+      "title": "Tiny Robots Could Help Fight Brain Cancer",
+      "summary": "Scientists at MIT made tiny nanoantennas — 100 times thinner than a hair — that can be injected to kill brain cancer cells. In tests, they shrank tumors and helped mice live longer without side effects."
     }
   ]
 }

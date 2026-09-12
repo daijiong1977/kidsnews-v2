@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-11-science-1",
-      "source": "Science News Explores",
-      "time_ago": "Fri, 11 Sep 2026 10:30:00 +0000",
-      "mined_at": "2026-09-11T17:43:04+00:00",
-      "source_published_at": "Fri, 11 Sep 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_78f55c45781a.webp",
-      "category": "Science",
-      "title": "New Sun Images Reveal Whirlpools That May Power Solar Flares",
-      "summary": "The most detailed images of the sun ever taken show swirling plasma whirlpools on its surface. These swirls might trigger solar flares, which can disrupt technology on Earth. The discovery could help scientists predict these powerful bursts."
-    },
-    {
-      "id": "2026-09-11-science-2",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Fri, 11 Sep 2026 08:03:26 EDT",
-      "mined_at": "2026-09-11T17:43:04+00:00",
-      "source_published_at": "Fri, 11 Sep 2026 08:03:26 EDT",
-      "image_url": "/article_images/article_b9fe19b01568.webp",
-      "category": "Science",
-      "title": "Nanolaser Breakthrough Could Slash Computer Energy Use by Half",
-      "summary": "Researchers at DTU have created a nanolaser that could make computers faster and more energy-efficient by using light instead of electricity. Thousands could fit on a chip, potentially cutting energy use in half."
-    },
-    {
-      "id": "2026-09-11-science-3",
+      "id": "2026-09-12-science-1",
       "source": "Space.com",
-      "time_ago": "Fri, 11 Sep 2026 15:00:00 +0000",
-      "mined_at": "2026-09-11T17:43:04+00:00",
-      "source_published_at": "Fri, 11 Sep 2026 15:00:00 +0000",
-      "image_url": "/article_images/article_c3fe5602de81.webp",
+      "time_ago": "Sat, 12 Sep 2026 14:00:00 +0000",
+      "mined_at": "2026-09-12T17:34:30+00:00",
+      "source_published_at": "Sat, 12 Sep 2026 14:00:00 +0000",
+      "image_url": "/article_images/article_5a1c6c0ca1e6.webp",
       "category": "Science",
-      "title": "Star Trek's 60-Year Fashion Odyssey: From Pastel Pajamas to Spandex",
-      "summary": "Star Trek celebrates 60 years of uniforms that have evolved from casual sweaters to tight spandex. The colors and badges tell you a crew member's job and rank, but the designs have changed with each series."
+      "title": "Mae Jemison: The First Black Woman in Space",
+      "summary": "On September 12, 1992, Mae Jemison became the first African American woman in space aboard the shuttle Endeavour. She spent 8 days in orbit, conducted 44 experiments, and later appeared on Star Trek."
+    },
+    {
+      "id": "2026-09-12-science-2",
+      "source": "ScienceDaily All",
+      "time_ago": "Sat, 12 Sep 2026 10:08:20 EDT",
+      "mined_at": "2026-09-12T17:34:30+00:00",
+      "source_published_at": "Sat, 12 Sep 2026 10:08:20 EDT",
+      "image_url": "/article_images/article_f6bdbbab27b9.webp",
+      "category": "Science",
+      "title": "Sound Waves May Solve a Major Quantum Computing Problem",
+      "summary": "Harvard researchers used microscopic sound waves called phonons to protect fragile quantum information. The technique could enable smaller, more powerful quantum computers and networks on a chip."
+    },
+    {
+      "id": "2026-09-12-science-3",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Fri, 11 Sep 2026 07:38:35 EDT",
+      "mined_at": "2026-09-12T17:34:30+00:00",
+      "source_published_at": "Fri, 11 Sep 2026 07:38:35 EDT",
+      "image_url": "/article_images/article_371e00a9f293.webp",
+      "category": "Science",
+      "title": "Wasps Are Vanishing This Summer, and Scientists Are Alarmed",
+      "summary": "In the UK, wasps are mysteriously absent this summer. Extreme heatwaves may be killing them or stunting their growth. Scientists warn their disappearance could harm ecosystems."
     }
   ]
 }
