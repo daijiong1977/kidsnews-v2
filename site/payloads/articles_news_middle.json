@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-12-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Sat, 12 Sep 2026 13:11:01 -0400",
-      "mined_at": "2026-09-12T17:34:30+00:00",
-      "source_published_at": "Sat, 12 Sep 2026 13:11:01 -0400",
-      "image_url": "/article_images/article_c84172b9ccbd.webp",
-      "category": "News",
-      "title": "Trump Wades Into Ireland's Toughest Question: 'It's Going to Happen Eventually'",
-      "summary": "During a Dublin visit, President Trump said Irish reunification would be 'fantastic' — a topic U.S. presidents usually avoid. Northern Ireland has been part of the U.K. for a century, and the issue once fueled decades of violence."
-    },
-    {
-      "id": "2026-09-12-news-2",
+      "id": "2026-09-13-news-1",
       "source": "Al Jazeera",
-      "time_ago": "Sat, 12 Sep 2026 17:18:28 +0000",
-      "mined_at": "2026-09-12T17:34:30+00:00",
-      "source_published_at": "Sat, 12 Sep 2026 17:18:28 +0000",
-      "image_url": "/article_images/article_16f10644ac41.webp",
+      "time_ago": "Sun, 13 Sep 2026 16:05:33 +0000",
+      "mined_at": "2026-09-13T17:31:48+00:00",
+      "source_published_at": "Sun, 13 Sep 2026 16:05:33 +0000",
+      "image_url": "/article_images/article_f60834fd8761.webp",
       "category": "News",
-      "title": "Unbeaten India and Sri Lanka Clash for Women's T20 Asia Cup Glory",
-      "summary": "India faces Sri Lanka in the Women's T20 Asia Cup final Sunday in Dubai. India has won a record seven titles; Sri Lanka is the defending champion. Both teams are unbeaten, and the star bowlers are tied at 11 wickets each."
+      "title": "Antonelli Takes Madrid Win as Norris's Luck Runs Out: 'That's Racing Sometimes'",
+      "summary": "Kimi Antonelli won the first Spanish Grand Prix in Madrid, extending his F1 lead to 81 points. But a seven-second McLaren pit stop cost Lando Norris a win he seemed certain to take."
     },
     {
-      "id": "2026-09-12-news-3",
-      "source": "BBC News",
-      "time_ago": "Sat, 12 Sep 2026 16:41:09 GMT",
-      "mined_at": "2026-09-12T17:34:30+00:00",
-      "source_published_at": "Sat, 12 Sep 2026 16:41:09 GMT",
-      "image_url": "/article_images/article_924e68c39466.webp",
+      "id": "2026-09-13-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Sun, 13 Sep 2026 12:12:04 -0400",
+      "mined_at": "2026-09-13T17:31:48+00:00",
+      "source_published_at": "Sun, 13 Sep 2026 12:12:04 -0400",
+      "image_url": "/article_images/article_0f60f7559457.webp",
       "category": "News",
-      "title": "Reform UK's £72 Million Windfall: Two Crypto Donors, One Record, Many Questions",
-      "summary": "Reform UK received two £36 million donations in two days — more than all UK parties got last year combined. The donors are crypto investors. The party faces scrutiny over donation rules and police investigations."
+      "title": "Plane Loses Power at Night: Wisconsin Congressman Swims From Sinking Aircraft to Safety",
+      "summary": "Rep. Tom Tiffany's small plane lost power and landed in Lake Wausau, Wisconsin, on Saturday night. He and pilot Leonard Boltz swam to shallow water before an airboat rescued them."
+    },
+    {
+      "id": "2026-09-13-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Sun, 13 Sep 2026 11:44:30 -0400",
+      "mined_at": "2026-09-13T17:31:48+00:00",
+      "source_published_at": "Sun, 13 Sep 2026 11:44:30 -0400",
+      "image_url": "/article_images/article_05541ad16abe.webp",
+      "category": "News",
+      "title": "Federal Judge Blocks FEMA's 50% Staffing Cut: 'Pulled From Thin Air'",
+      "summary": "A federal judge ruled that a Homeland Security plan to cut FEMA's staff by half was unlawful, saying the number 'appears as if pulled from thin air.' The cuts were never carried out."
     }
   ]
 }

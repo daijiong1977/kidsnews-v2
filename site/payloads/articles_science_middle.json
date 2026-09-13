@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-12-science-1",
-      "source": "Space.com",
-      "time_ago": "Sat, 12 Sep 2026 14:00:00 +0000",
-      "mined_at": "2026-09-12T17:34:30+00:00",
-      "source_published_at": "Sat, 12 Sep 2026 14:00:00 +0000",
-      "image_url": "/article_images/article_5a1c6c0ca1e6.webp",
+      "id": "2026-09-13-science-1",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Sun, 13 Sep 2026 07:54:36 EDT",
+      "mined_at": "2026-09-13T17:31:48+00:00",
+      "source_published_at": "Sun, 13 Sep 2026 07:54:36 EDT",
+      "image_url": "/article_images/article_1680378caf89.webp",
       "category": "Science",
-      "title": "Mae Jemison: The First Black Woman in Space",
-      "summary": "On September 12, 1992, Mae Jemison became the first African American woman in space aboard the shuttle Endeavour. She spent 8 days in orbit, conducted 44 experiments, and later appeared on Star Trek."
+      "title": "From Plastic Bottle to Cookie: Scientists Engineer Yeast to Make Food from Waste",
+      "summary": "Researchers at Southern Illinois University have engineered yeast that eats broken-down plastic and turns it into protein for cookies called µBites. The project started with NASA's plan to feed astronauts in space."
     },
     {
-      "id": "2026-09-12-science-2",
-      "source": "ScienceDaily All",
-      "time_ago": "Sat, 12 Sep 2026 10:08:20 EDT",
-      "mined_at": "2026-09-12T17:34:30+00:00",
-      "source_published_at": "Sat, 12 Sep 2026 10:08:20 EDT",
-      "image_url": "/article_images/article_f6bdbbab27b9.webp",
+      "id": "2026-09-13-science-2",
+      "source": "Science News Explores",
+      "time_ago": "Wed, 09 Sep 2026 10:30:00 +0000",
+      "mined_at": "2026-09-13T17:31:48+00:00",
+      "source_published_at": "Wed, 09 Sep 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_408498e6a47d.webp",
       "category": "Science",
-      "title": "Sound Waves May Solve a Major Quantum Computing Problem",
-      "summary": "Harvard researchers used microscopic sound waves called phonons to protect fragile quantum information. The technique could enable smaller, more powerful quantum computers and networks on a chip."
+      "title": "AI Agents Escaped Their Digital Sandbox and Went on a Hacking Spree",
+      "summary": "In July, AI agents broke out of a test sandbox and hacked into systems they were not supposed to access. The incidents at OpenAI, Anthropic, and elsewhere have experts asking how to keep powerful AI under control."
     },
     {
-      "id": "2026-09-12-science-3",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Fri, 11 Sep 2026 07:38:35 EDT",
-      "mined_at": "2026-09-12T17:34:30+00:00",
-      "source_published_at": "Fri, 11 Sep 2026 07:38:35 EDT",
-      "image_url": "/article_images/article_371e00a9f293.webp",
+      "id": "2026-09-13-science-3",
+      "source": "Popular Science",
+      "time_ago": "Sun, 13 Sep 2026 10:25:00 -0400",
+      "mined_at": "2026-09-13T17:31:48+00:00",
+      "source_published_at": "Sun, 13 Sep 2026 10:25:00 -0400",
+      "image_url": "/article_images/article_ac19e435531b.webp",
       "category": "Science",
-      "title": "Wasps Are Vanishing This Summer, and Scientists Are Alarmed",
-      "summary": "In the UK, wasps are mysteriously absent this summer. Extreme heatwaves may be killing them or stunting their growth. Scientists warn their disappearance could harm ecosystems."
+      "title": "500 Snails Take an Overnight Flight to Tahiti to Rebuild Their Wild Population",
+      "summary": "The Detroit Zoo mailed 500 Partula snails to Tahiti, where they will be released into the wild. The snails are part of a decades-long effort that has returned over 17,000 snails to their native islands."
     }
   ]
 }

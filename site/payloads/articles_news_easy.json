@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-12-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Sat, 12 Sep 2026 13:11:01 -0400",
-      "mined_at": "2026-09-12T17:34:30+00:00",
-      "source_published_at": "Sat, 12 Sep 2026 13:11:01 -0400",
-      "image_url": "/article_images/article_c84172b9ccbd.webp",
-      "category": "News",
-      "title": "Trump Says a United Ireland Would Be 'Fantastic' — And It's a Big Deal",
-      "summary": "President Trump visited Ireland and said he'd love to see Ireland and Northern Ireland become one country. That's a touchy topic — past U.S. presidents usually stayed quiet about it. Protests broke out in Dublin."
-    },
-    {
-      "id": "2026-09-12-news-2",
+      "id": "2026-09-13-news-1",
       "source": "Al Jazeera",
-      "time_ago": "Sat, 12 Sep 2026 17:18:28 +0000",
-      "mined_at": "2026-09-12T17:34:30+00:00",
-      "source_published_at": "Sat, 12 Sep 2026 17:18:28 +0000",
-      "image_url": "/article_images/article_16f10644ac41.webp",
+      "time_ago": "Sun, 13 Sep 2026 16:05:33 +0000",
+      "mined_at": "2026-09-13T17:31:48+00:00",
+      "source_published_at": "Sun, 13 Sep 2026 16:05:33 +0000",
+      "image_url": "/article_images/article_f60834fd8761.webp",
       "category": "News",
-      "title": "India vs Sri Lanka: Who Wins the Women's T20 Asia Cup Final?",
-      "summary": "India and Sri Lanka play the Women's T20 Asia Cup final on Sunday in Dubai. India has won the trophy seven times. Sri Lanka won last time and wants to keep it. Both teams are unbeaten so far."
+      "title": "Kimi Antonelli Wins in Madrid — But Even He Says the Other Guy Deserved It",
+      "summary": "Kimi Antonelli won the first-ever Spanish Grand Prix in Madrid, his eighth win this season. But a slow pit stop ruined Lando Norris's race, and even Antonelli said Norris deserved to win."
     },
     {
-      "id": "2026-09-12-news-3",
-      "source": "BBC News",
-      "time_ago": "Sat, 12 Sep 2026 16:41:09 GMT",
-      "mined_at": "2026-09-12T17:34:30+00:00",
-      "source_published_at": "Sat, 12 Sep 2026 16:41:09 GMT",
-      "image_url": "/article_images/article_924e68c39466.webp",
+      "id": "2026-09-13-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Sun, 13 Sep 2026 12:12:04 -0400",
+      "mined_at": "2026-09-13T17:31:48+00:00",
+      "source_published_at": "Sun, 13 Sep 2026 12:12:04 -0400",
+      "image_url": "/article_images/article_0f60f7559457.webp",
       "category": "News",
-      "title": "A Political Party Just Got £72 Million in Two Days — Here's Why That's a Record",
-      "summary": "Reform UK received two £36 million donations in two days — more money than all UK parties got last year combined. The donors are cryptocurrency investors. Some people worry about where political money comes from."
+      "title": "A Congressman's Plane Lost Power — So He Swam to Safety in a Wisconsin Lake",
+      "summary": "Congressman Tom Tiffany's small plane lost power and landed in Lake Wausau, Wisconsin, on Saturday night. He and the pilot swam to shallow water and were rescued by an airboat."
+    },
+    {
+      "id": "2026-09-13-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Sun, 13 Sep 2026 11:44:30 -0400",
+      "mined_at": "2026-09-13T17:31:48+00:00",
+      "source_published_at": "Sun, 13 Sep 2026 11:44:30 -0400",
+      "image_url": "/article_images/article_05541ad16abe.webp",
+      "category": "News",
+      "title": "Judge: Cutting FEMA's Staff in Half Was Against the Rules",
+      "summary": "A federal judge ruled that a plan to cut FEMA's staff by 50% was unlawful. Judge Susan Illston said the number 'appears as if pulled from thin air.' The cuts were never carried out."
     }
   ]
 }
