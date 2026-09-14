@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-13-news-1",
-      "source": "Al Jazeera",
-      "time_ago": "Sun, 13 Sep 2026 16:05:33 +0000",
-      "mined_at": "2026-09-13T17:31:48+00:00",
-      "source_published_at": "Sun, 13 Sep 2026 16:05:33 +0000",
-      "image_url": "/article_images/article_f60834fd8761.webp",
+      "id": "2026-09-14-news-1",
+      "source": "PBS NewsHour",
+      "time_ago": "Mon, 14 Sep 2026 11:14:42 -0400",
+      "mined_at": "2026-09-14T17:33:43+00:00",
+      "source_published_at": "Mon, 14 Sep 2026 11:14:42 -0400",
+      "image_url": "/article_images/article_96be79158833.webp",
       "category": "News",
-      "title": "Kimi Antonelli Wins in Madrid — But Even He Says the Other Guy Deserved It",
-      "summary": "Kimi Antonelli won the first-ever Spanish Grand Prix in Madrid, his eighth win this season. But a slow pit stop ruined Lando Norris's race, and even Antonelli said Norris deserved to win."
+      "title": "Big Change: Power Plants May Soon Pollute More",
+      "summary": "The EPA wants to scrap rules that limit pollution from coal and gas power plants. Supporters say it will make energy cheaper. Critics warn it could mean more asthma and hotter summers."
     },
     {
-      "id": "2026-09-13-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Sun, 13 Sep 2026 12:12:04 -0400",
-      "mined_at": "2026-09-13T17:31:48+00:00",
-      "source_published_at": "Sun, 13 Sep 2026 12:12:04 -0400",
-      "image_url": "/article_images/article_0f60f7559457.webp",
+      "id": "2026-09-14-news-2",
+      "source": "NPR World",
+      "time_ago": "Mon, 14 Sep 2026 07:00:00 -0400",
+      "mined_at": "2026-09-14T17:33:43+00:00",
+      "source_published_at": "Mon, 14 Sep 2026 07:00:00 -0400",
+      "image_url": "/article_images/article_64d38e8e72af.webp",
       "category": "News",
-      "title": "A Congressman's Plane Lost Power — So He Swam to Safety in a Wisconsin Lake",
-      "summary": "Congressman Tom Tiffany's small plane lost power and landed in Lake Wausau, Wisconsin, on Saturday night. He and the pilot swam to shallow water and were rescued by an airboat."
+      "title": "A City Gave Black Families $25,000. Now the Government Is Suing.",
+      "summary": "Evanston, Illinois, gave $25,000 grants to Black residents to make up for past housing discrimination. Now the Trump administration is trying to stop the program, saying it's unfair."
     },
     {
-      "id": "2026-09-13-news-3",
-      "source": "PBS NewsHour",
-      "time_ago": "Sun, 13 Sep 2026 11:44:30 -0400",
-      "mined_at": "2026-09-13T17:31:48+00:00",
-      "source_published_at": "Sun, 13 Sep 2026 11:44:30 -0400",
-      "image_url": "/article_images/article_05541ad16abe.webp",
+      "id": "2026-09-14-news-3",
+      "source": "BBC News",
+      "time_ago": "Mon, 14 Sep 2026 15:27:12 GMT",
+      "mined_at": "2026-09-14T17:33:43+00:00",
+      "source_published_at": "Mon, 14 Sep 2026 15:27:12 GMT",
+      "image_url": "/article_images/article_577b0760a38f.webp",
       "category": "News",
-      "title": "Judge: Cutting FEMA's Staff in Half Was Against the Rules",
-      "summary": "A federal judge ruled that a plan to cut FEMA's staff by 50% was unlawful. Judge Susan Illston said the number 'appears as if pulled from thin air.' The cuts were never carried out."
+      "title": "A British Party Got a Huge Gift. Is It Fair?",
+      "summary": "Nigel Farage's Reform UK party received £72 million from two wealthy donors. The government wants to cap donations from people living abroad, but Farage says the gifts are legal."
     }
   ]
 }

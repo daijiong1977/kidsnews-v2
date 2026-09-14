@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-13-news-1",
-      "source": "Al Jazeera",
-      "time_ago": "Sun, 13 Sep 2026 16:05:33 +0000",
-      "mined_at": "2026-09-13T17:31:48+00:00",
-      "source_published_at": "Sun, 13 Sep 2026 16:05:33 +0000",
-      "image_url": "/article_images/article_f60834fd8761.webp",
+      "id": "2026-09-14-news-1",
+      "source": "PBS NewsHour",
+      "time_ago": "Mon, 14 Sep 2026 11:14:42 -0400",
+      "mined_at": "2026-09-14T17:33:43+00:00",
+      "source_published_at": "Mon, 14 Sep 2026 11:14:42 -0400",
+      "image_url": "/article_images/article_96be79158833.webp",
       "category": "News",
-      "title": "Antonelli Takes Madrid Win as Norris's Luck Runs Out: 'That's Racing Sometimes'",
-      "summary": "Kimi Antonelli won the first Spanish Grand Prix in Madrid, extending his F1 lead to 81 points. But a seven-second McLaren pit stop cost Lando Norris a win he seemed certain to take."
+      "title": "EPA to Repeal Power Plant Emission Rules, Sparking Legal Battle",
+      "summary": "The EPA is set to scrap limits on greenhouse gases from power plants. The agency says it will cut costs and boost energy. Critics warn of health risks and more climate damage."
     },
     {
-      "id": "2026-09-13-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Sun, 13 Sep 2026 12:12:04 -0400",
-      "mined_at": "2026-09-13T17:31:48+00:00",
-      "source_published_at": "Sun, 13 Sep 2026 12:12:04 -0400",
-      "image_url": "/article_images/article_0f60f7559457.webp",
+      "id": "2026-09-14-news-2",
+      "source": "NPR World",
+      "time_ago": "Mon, 14 Sep 2026 07:00:00 -0400",
+      "mined_at": "2026-09-14T17:33:43+00:00",
+      "source_published_at": "Mon, 14 Sep 2026 07:00:00 -0400",
+      "image_url": "/article_images/article_64d38e8e72af.webp",
       "category": "News",
-      "title": "Plane Loses Power at Night: Wisconsin Congressman Swims From Sinking Aircraft to Safety",
-      "summary": "Rep. Tom Tiffany's small plane lost power and landed in Lake Wausau, Wisconsin, on Saturday night. He and pilot Leonard Boltz swam to shallow water before an airboat rescued them."
+      "title": "Evanston's Reparations Program Faces Federal Challenge",
+      "summary": "Evanston, Illinois, gave $25,000 grants to Black residents to address past housing discrimination. The Trump administration is now suing, saying the program is racially discriminatory."
     },
     {
-      "id": "2026-09-13-news-3",
-      "source": "PBS NewsHour",
-      "time_ago": "Sun, 13 Sep 2026 11:44:30 -0400",
-      "mined_at": "2026-09-13T17:31:48+00:00",
-      "source_published_at": "Sun, 13 Sep 2026 11:44:30 -0400",
-      "image_url": "/article_images/article_05541ad16abe.webp",
+      "id": "2026-09-14-news-3",
+      "source": "BBC News",
+      "time_ago": "Mon, 14 Sep 2026 15:27:12 GMT",
+      "mined_at": "2026-09-14T17:33:43+00:00",
+      "source_published_at": "Mon, 14 Sep 2026 15:27:12 GMT",
+      "image_url": "/article_images/article_577b0760a38f.webp",
       "category": "News",
-      "title": "Federal Judge Blocks FEMA's 50% Staffing Cut: 'Pulled From Thin Air'",
-      "summary": "A federal judge ruled that a Homeland Security plan to cut FEMA's staff by half was unlawful, saying the number 'appears as if pulled from thin air.' The cuts were never carried out."
+      "title": "Farage Defends £72m Donations as Parliament Debates Cap",
+      "summary": "Reform UK received £72 million from two wealthy donors. Nigel Farage says the donations are legal, but a new bill could cap overseas donations and backdate the rule."
     }
   ]
 }
