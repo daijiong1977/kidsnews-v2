@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-14-news-1",
+      "id": "2026-09-15-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Mon, 14 Sep 2026 11:14:42 -0400",
-      "mined_at": "2026-09-14T17:33:43+00:00",
-      "source_published_at": "Mon, 14 Sep 2026 11:14:42 -0400",
-      "image_url": "/article_images/article_96be79158833.webp",
+      "time_ago": "Mon, 14 Sep 2026 21:02:29 -0400",
+      "mined_at": "2026-09-15T04:11:01+00:00",
+      "source_published_at": "Mon, 14 Sep 2026 21:02:29 -0400",
+      "image_url": "/article_images/article_1c0ff38bbf4a.webp",
       "category": "News",
-      "title": "EPA to Repeal Power Plant Emission Rules, Sparking Legal Battle",
-      "summary": "The EPA is set to scrap limits on greenhouse gases from power plants. The agency says it will cut costs and boost energy. Critics warn of health risks and more climate damage."
+      "title": "Supreme Court Blocks Trump's Mail Ballot Restrictions Before Midterms",
+      "summary": "The Supreme Court rejected President Trump's attempt to restrict mail ballots just before the November midterms. The ruling lets states keep their existing mail voting systems, which account for nearly a third of all U.S. votes."
     },
     {
-      "id": "2026-09-14-news-2",
+      "id": "2026-09-15-news-2",
       "source": "NPR World",
-      "time_ago": "Mon, 14 Sep 2026 07:00:00 -0400",
-      "mined_at": "2026-09-14T17:33:43+00:00",
-      "source_published_at": "Mon, 14 Sep 2026 07:00:00 -0400",
-      "image_url": "/article_images/article_64d38e8e72af.webp",
+      "time_ago": "Mon, 14 Sep 2026 16:34:28 -0400",
+      "mined_at": "2026-09-15T04:11:01+00:00",
+      "source_published_at": "Mon, 14 Sep 2026 16:34:28 -0400",
+      "image_url": "/article_images/article_74ae07bdd0cc.webp",
       "category": "News",
-      "title": "Evanston's Reparations Program Faces Federal Challenge",
-      "summary": "Evanston, Illinois, gave $25,000 grants to Black residents to address past housing discrimination. The Trump administration is now suing, saying the program is racially discriminatory."
+      "title": "Trump's EPA Repeals Greenhouse Gas Limits on Power Plants",
+      "summary": "The EPA is repealing limits on greenhouse gas emissions from fossil fuel power plants, calling it the largest deregulatory action in U.S. power sector history. Environmental groups say they will challenge the decision in court."
     },
     {
-      "id": "2026-09-14-news-3",
-      "source": "BBC News",
-      "time_ago": "Mon, 14 Sep 2026 15:27:12 GMT",
-      "mined_at": "2026-09-14T17:33:43+00:00",
-      "source_published_at": "Mon, 14 Sep 2026 15:27:12 GMT",
-      "image_url": "/article_images/article_577b0760a38f.webp",
+      "id": "2026-09-15-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Tue, 15 Sep 2026 02:31:18 +0000",
+      "mined_at": "2026-09-15T04:11:01+00:00",
+      "source_published_at": "Tue, 15 Sep 2026 02:31:18 +0000",
+      "image_url": "/article_images/article_e4ba53f985ba.webp",
       "category": "News",
-      "title": "Farage Defends £72m Donations as Parliament Debates Cap",
-      "summary": "Reform UK received £72 million from two wealthy donors. Nigel Farage says the donations are legal, but a new bill could cap overseas donations and backdate the rule."
+      "title": "Trump Administration Suffers Double Legal Setback Over Immigration Rules",
+      "summary": "A federal judge blocked the Trump administration from imposing time limits on student and journalist visas. Meanwhile, 22 states sued to stop a rule that would deny green cards to immigrants who use public benefits."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-14-science-1",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Mon, 14 Sep 2026 09:46:25 EDT",
-      "mined_at": "2026-09-14T17:33:43+00:00",
-      "source_published_at": "Mon, 14 Sep 2026 09:46:25 EDT",
-      "image_url": "/article_images/article_0dca117c0240.webp",
+      "id": "2026-09-15-science-1",
+      "source": "Science News Explores",
+      "time_ago": "Mon, 14 Sep 2026 10:30:00 +0000",
+      "mined_at": "2026-09-15T04:11:01+00:00",
+      "source_published_at": "Mon, 14 Sep 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_e98f034b5bc7.webp",
       "category": "Science",
-      "title": "Captive Crocodiles Don't Try to Go Home — But Wild Ones Do",
-      "summary": "A new study tracked five saltwater crocodiles in Bangladesh. Three raised in captivity settled into new homes without trying to return. But a wild crocodile named Jongra swam over 30 kilometers in one day, heading straight back."
+      "title": "Monkeys May Share Our Instinct for Geometry, Study Finds",
+      "summary": "A new study shows monkeys and humans make similar mistakes when matching shapes, suggesting we're not the only species with a head for geometry. One baboon named Kalamata plays math games for hours."
     },
     {
-      "id": "2026-09-14-science-2",
+      "id": "2026-09-15-science-2",
       "source": "Space.com",
-      "time_ago": "Mon, 14 Sep 2026 16:00:00 +0000",
-      "mined_at": "2026-09-14T17:33:43+00:00",
-      "source_published_at": "Mon, 14 Sep 2026 16:00:00 +0000",
-      "image_url": "/article_images/article_bc22e981d3d3.webp",
+      "time_ago": "Mon, 14 Sep 2026 20:00:00 +0000",
+      "mined_at": "2026-09-15T04:11:01+00:00",
+      "source_published_at": "Mon, 14 Sep 2026 20:00:00 +0000",
+      "image_url": "/article_images/article_7a9100f905a7.webp",
       "category": "Science",
-      "title": "Original Star Wars Hits IMAX for Its 50th Anniversary in 2027",
-      "summary": "The original Star Wars is coming to IMAX for the first time in 2027, celebrating its 50th anniversary. A restored version will screen on Feb. 19, and a new film, Star Wars: Starfighter, arrives May 28."
+      "title": "U.S. Just Had Its Hottest Summer in 132 Years, NOAA Reports",
+      "summary": "The summer of 2026 was the hottest in the U.S. in at least 132 years, with temperatures 3°F above average. More than half the country was in drought by September, and wildfires burned across several states."
     },
     {
-      "id": "2026-09-14-science-3",
-      "source": "ScienceDaily All",
-      "time_ago": "Mon, 14 Sep 2026 10:13:47 EDT",
-      "mined_at": "2026-09-14T17:33:43+00:00",
-      "source_published_at": "Mon, 14 Sep 2026 10:13:47 EDT",
-      "image_url": "/article_images/article_68de5c51e355.webp",
+      "id": "2026-09-15-science-3",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Sun, 13 Sep 2026 09:15:56 EDT",
+      "mined_at": "2026-09-15T04:11:01+00:00",
+      "source_published_at": "Sun, 13 Sep 2026 09:15:56 EDT",
+      "image_url": "/article_images/article_b903e31dd2bb.webp",
       "category": "Science",
-      "title": "Chemistry Textbooks Have Been Teaching This Wrong for Nearly a Century",
-      "summary": "A new study says the inductive effect, a core chemistry concept, doesn't travel through 3-4 bonds as textbooks claim. It stops after one bond. Two UK exam boards are already reviewing their teaching."
+      "title": "Survey Reveals Physicists Disagree on Universe's Biggest Mysteries",
+      "summary": "The largest-ever survey of physicists found little agreement on dark matter, quantum gravity, and even the Big Bang. Only two questions won majority support, but scientists say the disagreement signals opportunity."
     }
   ]
 }
