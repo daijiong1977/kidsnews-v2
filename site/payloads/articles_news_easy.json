@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-15-news-1",
+      "id": "2026-09-16-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Tue, 15 Sep 2026 12:41:44 -0400",
-      "mined_at": "2026-09-15T17:32:56+00:00",
-      "source_published_at": "Tue, 15 Sep 2026 12:41:44 -0400",
-      "image_url": "/article_images/article_1ae2f8eb85a4.webp",
+      "time_ago": "Wed, 16 Sep 2026 13:14:15 -0400",
+      "mined_at": "2026-09-16T17:33:17+00:00",
+      "source_published_at": "Wed, 16 Sep 2026 13:14:15 -0400",
+      "image_url": "/article_images/article_9866c4b11bd3.webp",
       "category": "News",
-      "title": "Supreme Court Says Mail Ballots Can Flow Normally for Midterms",
-      "summary": "The Supreme Court rejected President Trump's plan to let the Postal Service decide who gets mail ballots. Election officials can now send ballots as planned, just in time for the midterm elections."
+      "title": "House Votes on Russia Sanctions Bill Named for Lindsey Graham",
+      "summary": "The House voted Wednesday on a big bill to punish Russia for its war in Ukraine. It's named after the late Sen. Lindsey Graham, who worked on it for a year. It would hit Russian banks and oil tankers, and make some countries pay up to 100% tariffs if they buy Russian oil."
     },
     {
-      "id": "2026-09-15-news-2",
+      "id": "2026-09-16-news-2",
       "source": "Al Jazeera",
-      "time_ago": "Tue, 15 Sep 2026 16:15:13 +0000",
-      "mined_at": "2026-09-15T17:32:56+00:00",
-      "source_published_at": "Tue, 15 Sep 2026 16:15:13 +0000",
-      "image_url": "/article_images/article_417e85f24fd1.webp",
+      "time_ago": "Wed, 16 Sep 2026 16:45:04 +0000",
+      "mined_at": "2026-09-16T17:33:17+00:00",
+      "source_published_at": "Wed, 16 Sep 2026 16:45:04 +0000",
+      "image_url": "/article_images/article_1f0a634efba4.webp",
       "category": "News",
-      "title": "Can China Help Make Peace Between Iran and the U.S.?",
-      "summary": "Iran's foreign minister is heading to Beijing on Wednesday to meet China's top diplomat. China says it wants to be a neutral peacemaker, but experts wonder if it will really step in."
+      "title": "More Than Half of Americans Worry About AI's Impact on the Environment",
+      "summary": "A new poll says 53% of Americans are very worried about AI's environmental impact — up from 41% last year. Data centers that power AI use lots of electricity and water, and people fear higher bills and water shortages. Some say the benefits are worth it, but others want communities to have a say."
     },
     {
-      "id": "2026-09-15-news-3",
-      "source": "PBS NewsHour",
-      "time_ago": "Tue, 15 Sep 2026 10:22:24 -0400",
-      "mined_at": "2026-09-15T17:32:56+00:00",
-      "source_published_at": "Tue, 15 Sep 2026 10:22:24 -0400",
-      "image_url": "/article_images/article_e16785f8dba0.webp",
+      "id": "2026-09-16-news-3",
+      "source": "BBC News",
+      "time_ago": "Wed, 16 Sep 2026 12:36:51 GMT",
+      "mined_at": "2026-09-16T17:33:17+00:00",
+      "source_published_at": "Wed, 16 Sep 2026 12:36:51 GMT",
+      "image_url": "/article_images/article_418e8514211b.webp",
       "category": "News",
-      "title": "Senate to Vote on Crypto Rules — and Trump's Billions",
-      "summary": "The Senate votes Tuesday on new rules for cryptocurrency, a $2.3 trillion market. Democrats want strong ethics safeguards to stop President Trump from profiting, but Republicans say the bill is needed to protect consumers."
+      "title": "EU Chief Backs Plan for Canada to Become 'Associate Member'",
+      "summary": "The European Union's top official wants Canada to become its first 'associate member.' Canadian Prime Minister Mark Carney is seeking a 'unique alliance' as trade talks with the U.S. collapse. The plan could take years and some EU countries aren't sure about creating a new membership type."
     }
   ]
 }

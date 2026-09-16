@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-15-fun-1",
-      "source": "Smithsonian History",
-      "time_ago": "Tue, 15 Sep 2026 11:45:00 +0000",
-      "mined_at": "2026-09-15T17:32:56+00:00",
-      "source_published_at": "Tue, 15 Sep 2026 11:45:00 +0000",
-      "image_url": "/article_images/article_2ed0c3580501.webp",
-      "category": "Fun",
-      "title": "Witch Bottles and Daisy Wheels: The Secret Magic Hidden in Old Houses",
-      "summary": "For centuries, people hid magic in their homes to ward off evil. They buried witch bottles in walls, carved stars on beams, and planted rosemary to trap witches. Some chimneys even had seats for flying witches to rest on."
-    },
-    {
-      "id": "2026-09-15-fun-2",
-      "source": "Polygon",
-      "time_ago": "Tue, 15 Sep 2026 16:26:22 GMT",
-      "mined_at": "2026-09-15T17:32:56+00:00",
-      "source_published_at": "Tue, 15 Sep 2026 16:26:22 GMT",
-      "image_url": "/article_images/article_9bed25648e51.webp",
-      "category": "Fun",
-      "title": "Jujutsu Kaisen Rumble: Survivaton Delayed to 2027—Here's What We Know",
-      "summary": "The Jujutsu Kaisen battle royale game Rumble: Survivaton has been delayed to 2027. Developed by Vampire Survivors studio poncle, it features 20+ fighters and lets you change the rules mid-match. The anime's next season is also expected in 2027."
-    },
-    {
-      "id": "2026-09-15-fun-3",
+      "id": "2026-09-16-fun-1",
       "source": "DOGOnews",
       "time_ago": "",
-      "mined_at": "2026-09-15T17:32:56+00:00",
+      "mined_at": "2026-09-16T17:33:17+00:00",
       "source_published_at": "",
-      "image_url": "/article_images/article_b3f8c5c82d50.webp",
+      "image_url": "/article_images/article_b4582bafab6b.webp",
       "category": "Fun",
-      "title": "From Shipwreck to Runway: 300-Year-Old Wood Becomes High Fashion",
-      "summary": "Scientists in Finland transformed 300-year-old shipwreck wood into two elegant dresses. Using the eco-friendly Ioncell method, they spun the wood into yarn that feels like silk and is stronger than cotton. The dresses are now on display in exhibitions."
+      "title": "Astronomers Discover Two 'Super-Puff' Planets Lighter Than Cotton Candy",
+      "summary": "Two Jupiter-sized exoplanets called TOI-791 b and c are so fluffy they're less dense than cotton candy. Volunteers spotted them in NASA data, and telescopes in Antarctica confirmed the find."
+    },
+    {
+      "id": "2026-09-16-fun-2",
+      "source": "Wired Gear",
+      "time_ago": "Wed, 16 Sep 2026 12:00:00 +0000",
+      "mined_at": "2026-09-16T17:33:17+00:00",
+      "source_published_at": "Wed, 16 Sep 2026 12:00:00 +0000",
+      "image_url": "/article_images/article_eb1a3b213e0d.webp",
+      "category": "Fun",
+      "title": "iPhone 18 Pro Review: The Camera Finally Gets a Variable Aperture",
+      "summary": "Apple's iPhone 18 Pro and Pro Max introduce a variable aperture camera that adjusts like a pupil, starting at $1,199. But with no base iPhone 18 this year, most people should wait until spring 2027."
+    },
+    {
+      "id": "2026-09-16-fun-3",
+      "source": "/Film",
+      "time_ago": "Wed, 16 Sep 2026 16:15:00 +0000",
+      "mined_at": "2026-09-16T17:33:17+00:00",
+      "source_published_at": "Wed, 16 Sep 2026 16:15:00 +0000",
+      "image_url": "/article_images/article_eb4bbb6d8a75.webp",
+      "category": "Fun",
+      "title": "Resident Evil Reboot Has No Post-Credits Scene, Director Confirms",
+      "summary": "Zach Cregger's new Resident Evil movie has no post-credits scene, so you can leave when the credits roll. The reboot tells a new story with new characters, set in the game universe."
     }
   ]
 }
