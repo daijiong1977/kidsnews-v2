@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-16-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Wed, 16 Sep 2026 13:14:15 -0400",
-      "mined_at": "2026-09-16T17:33:17+00:00",
-      "source_published_at": "Wed, 16 Sep 2026 13:14:15 -0400",
-      "image_url": "/article_images/article_9866c4b11bd3.webp",
+      "id": "2026-09-17-news-1",
+      "source": "NPR World",
+      "time_ago": "Thu, 17 Sep 2026 05:00:00 -0400",
+      "mined_at": "2026-09-17T17:32:57+00:00",
+      "source_published_at": "Thu, 17 Sep 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_62da19ef2a0b.webp",
       "category": "News",
-      "title": "House Votes on Russia Sanctions Bill Named for Lindsey Graham",
-      "summary": "The House voted Wednesday on a big bill to punish Russia for its war in Ukraine. It's named after the late Sen. Lindsey Graham, who worked on it for a year. It would hit Russian banks and oil tankers, and make some countries pay up to 100% tariffs if they buy Russian oil."
+      "title": "Houses Are Falling Into the Ocean — And One Rule Makes It Hard to Stop",
+      "summary": "In North Carolina, more than 30 beachfront homes have fallen into the ocean since 2020. One house called Sea 'n Delight is stuck on stilts in the sand. A rule says owners only get flood insurance money after a house collapses, not before."
     },
     {
-      "id": "2026-09-16-news-2",
+      "id": "2026-09-17-news-2",
       "source": "Al Jazeera",
-      "time_ago": "Wed, 16 Sep 2026 16:45:04 +0000",
-      "mined_at": "2026-09-16T17:33:17+00:00",
-      "source_published_at": "Wed, 16 Sep 2026 16:45:04 +0000",
-      "image_url": "/article_images/article_1f0a634efba4.webp",
+      "time_ago": "Thu, 17 Sep 2026 16:23:49 +0000",
+      "mined_at": "2026-09-17T17:32:57+00:00",
+      "source_published_at": "Thu, 17 Sep 2026 16:23:49 +0000",
+      "image_url": "/article_images/article_ec3115376a4b.webp",
       "category": "News",
-      "title": "More Than Half of Americans Worry About AI's Impact on the Environment",
-      "summary": "A new poll says 53% of Americans are very worried about AI's environmental impact — up from 41% last year. Data centers that power AI use lots of electricity and water, and people fear higher bills and water shortages. Some say the benefits are worth it, but others want communities to have a say."
+      "title": "Chelsea Soccer Club Has a New Boss — And a Big Goal",
+      "summary": "Chelsea, a famous English soccer club, just changed owners. Clearlake Capital now controls the team, and Todd Boehly is out. Coach Xabi Alonso says the goal is simple: win big trophies."
     },
     {
-      "id": "2026-09-16-news-3",
-      "source": "BBC News",
-      "time_ago": "Wed, 16 Sep 2026 12:36:51 GMT",
-      "mined_at": "2026-09-16T17:33:17+00:00",
-      "source_published_at": "Wed, 16 Sep 2026 12:36:51 GMT",
-      "image_url": "/article_images/article_418e8514211b.webp",
+      "id": "2026-09-17-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Thu, 17 Sep 2026 10:23:49 -0400",
+      "mined_at": "2026-09-17T17:32:57+00:00",
+      "source_published_at": "Thu, 17 Sep 2026 10:23:49 -0400",
+      "image_url": "/article_images/article_db0cb8270b73.webp",
       "category": "News",
-      "title": "EU Chief Backs Plan for Canada to Become 'Associate Member'",
-      "summary": "The European Union's top official wants Canada to become its first 'associate member.' Canadian Prime Minister Mark Carney is seeking a 'unique alliance' as trade talks with the U.S. collapse. The plan could take years and some EU countries aren't sure about creating a new membership type."
+      "title": "Senate Moves Closer to Changing College Sports Forever",
+      "summary": "The U.S. Senate voted 74-24 to move forward on a bill that would change how college athletes get paid, transfer, and go to court. It could become law soon."
     }
   ]
 }

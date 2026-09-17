@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-16-science-1",
+      "id": "2026-09-17-science-1",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Thu, 17 Sep 2026 09:00:19 EDT",
+      "mined_at": "2026-09-17T17:32:57+00:00",
+      "source_published_at": "Thu, 17 Sep 2026 09:00:19 EDT",
+      "image_url": "/article_images/article_5aae9d6498f2.webp",
+      "category": "Science",
+      "title": "Astronomers Confirm the Youngest Planet Ever Discovered",
+      "summary": "A planet less than 1 million years old has been confirmed orbiting a star 450 light-years away. Named Elias 2-24 b, it's still surrounded by the dust it formed from, challenging current planet-formation models."
+    },
+    {
+      "id": "2026-09-17-science-2",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Thu, 17 Sep 2026 09:54:19 EDT",
+      "mined_at": "2026-09-17T17:32:57+00:00",
+      "source_published_at": "Thu, 17 Sep 2026 09:54:19 EDT",
+      "image_url": "/article_images/article_6d2713820f9e.webp",
+      "category": "Science",
+      "title": "A $100 Detector That Lets You See Invisible Cosmic Particles",
+      "summary": "Physicist Spencer Axani created CosmicWatch, a $100 muon detector the size of a box of animal crackers. It's used by high school students and researchers to study particles from space."
+    },
+    {
+      "id": "2026-09-17-science-3",
       "source": "ScienceDaily All",
-      "time_ago": "Wed, 16 Sep 2026 07:03:10 EDT",
-      "mined_at": "2026-09-16T17:33:17+00:00",
-      "source_published_at": "Wed, 16 Sep 2026 07:03:10 EDT",
-      "image_url": "/article_images/article_ad8e3fd6c947.webp",
+      "time_ago": "Thu, 17 Sep 2026 10:42:52 EDT",
+      "mined_at": "2026-09-17T17:32:57+00:00",
+      "source_published_at": "Thu, 17 Sep 2026 10:42:52 EDT",
+      "image_url": "/article_images/article_9c13791f1a85.webp",
       "category": "Science",
-      "title": "Earth's Building Blocks Came from Next Door, Not the Outer Solar System",
-      "summary": "A new study says Earth formed almost entirely from inner-solar-system material — less than 2 percent came from beyond Jupiter. The researchers were \"truly astonished.\""
-    },
-    {
-      "id": "2026-09-16-science-2",
-      "source": "Smithsonian Science-Nature",
-      "time_ago": "Wed, 16 Sep 2026 13:43:20 +0000",
-      "mined_at": "2026-09-16T17:33:17+00:00",
-      "source_published_at": "Wed, 16 Sep 2026 13:43:20 +0000",
-      "image_url": "/article_images/article_a404c9c25d60.webp",
-      "category": "Science",
-      "title": "Great Lakes Sturgeon May Live 400+ Years, Study Suggests",
-      "summary": "A new study says lake sturgeon in the Great Lakes may live up to 435 years — nearly three times the previous record. One outside scientist says all sturgeon species now need a re-check."
-    },
-    {
-      "id": "2026-09-16-science-3",
-      "source": "Science News Explores",
-      "time_ago": "Wed, 16 Sep 2026 10:30:00 +0000",
-      "mined_at": "2026-09-16T17:33:17+00:00",
-      "source_published_at": "Wed, 16 Sep 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_be437b2a21fb.webp",
-      "category": "Science",
-      "title": "Orcas Are Exploding Sunfish Like Piñatas, New Footage Shows",
-      "summary": "New footage from the Gulf of California shows orcas ramming dead sunfish so hard they explode. Scientists think it may be to feed young orcas — or just for fun."
+      "title": "Kimchi Probiotic May Help Flush Nanoplastics From the Body",
+      "summary": "A bacterium found in kimchi can bind to nanoplastics in the intestine and help excrete them, a new study shows. In mice, it doubled the amount of plastic leaving the body."
     }
   ]
 }

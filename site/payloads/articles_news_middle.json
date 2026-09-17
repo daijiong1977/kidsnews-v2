@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-16-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Wed, 16 Sep 2026 13:14:15 -0400",
-      "mined_at": "2026-09-16T17:33:17+00:00",
-      "source_published_at": "Wed, 16 Sep 2026 13:14:15 -0400",
-      "image_url": "/article_images/article_9866c4b11bd3.webp",
+      "id": "2026-09-17-news-1",
+      "source": "NPR World",
+      "time_ago": "Thu, 17 Sep 2026 05:00:00 -0400",
+      "mined_at": "2026-09-17T17:32:57+00:00",
+      "source_published_at": "Thu, 17 Sep 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_62da19ef2a0b.webp",
       "category": "News",
-      "title": "House Takes Up Russia Sanctions Bill Named for Lindsey Graham",
-      "summary": "The House voted Wednesday on a sweeping Russia sanctions bill named after the late Sen. Lindsey Graham. It targets Russian banks, oil tankers, and countries buying Russian oil with up to 100% tariffs. Supporters say it cuts off Putin's war money; critics fear it hurts allies and raises prices."
+      "title": "The Insurance Rule That Keeps Doomed Beach Houses Standing",
+      "summary": "More than 30 homes have collapsed into the ocean in North Carolina since 2020. A FEMA rule pays owners only after a house falls — not before — so many wait instead of tearing them down. A fix is stalled in Congress."
     },
     {
-      "id": "2026-09-16-news-2",
+      "id": "2026-09-17-news-2",
       "source": "Al Jazeera",
-      "time_ago": "Wed, 16 Sep 2026 16:45:04 +0000",
-      "mined_at": "2026-09-16T17:33:17+00:00",
-      "source_published_at": "Wed, 16 Sep 2026 16:45:04 +0000",
-      "image_url": "/article_images/article_1f0a634efba4.webp",
+      "time_ago": "Thu, 17 Sep 2026 16:23:49 +0000",
+      "mined_at": "2026-09-17T17:32:57+00:00",
+      "source_published_at": "Thu, 17 Sep 2026 16:23:49 +0000",
+      "image_url": "/article_images/article_ec3115376a4b.webp",
       "category": "News",
-      "title": "Poll: Americans Increasingly Alarmed by AI's Environmental Footprint",
-      "summary": "A new poll finds 53% of Americans are very concerned about AI's environmental impact, up from 41% last year. Data centers that power AI use huge amounts of electricity and water, and many fear higher bills and local shortages. The debate is growing as more centers are built."
+      "title": "Chelsea's New Era: Clearlake Takes Full Control as Boehly Exits",
+      "summary": "Clearlake Capital has taken full control of Chelsea, ending Todd Boehly's chairmanship. The deal values the club at about £5 billion. Coach Xabi Alonso says the ambition is clear: win major trophies."
     },
     {
-      "id": "2026-09-16-news-3",
-      "source": "BBC News",
-      "time_ago": "Wed, 16 Sep 2026 12:36:51 GMT",
-      "mined_at": "2026-09-16T17:33:17+00:00",
-      "source_published_at": "Wed, 16 Sep 2026 12:36:51 GMT",
-      "image_url": "/article_images/article_418e8514211b.webp",
+      "id": "2026-09-17-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Thu, 17 Sep 2026 10:23:49 -0400",
+      "mined_at": "2026-09-17T17:32:57+00:00",
+      "source_published_at": "Thu, 17 Sep 2026 10:23:49 -0400",
+      "image_url": "/article_images/article_db0cb8270b73.webp",
       "category": "News",
-      "title": "EU Chief Backs Canada as First 'Associate Member'",
-      "summary": "European Commission President Ursula von der Leyen wants Canada to become the EU's first 'associate member.' Canadian PM Mark Carney seeks a 'unique alliance' as U.S. trade talks collapse. The plan could take years, and some EU members are skeptical."
+      "title": "Senate Advances Bill That Would Reshape College Sports",
+      "summary": "The Senate voted 74-24 to move forward on the Protect College Sports Act, which would set national rules for paying athletes, transfers, and lawsuits. It now heads toward a final vote."
     }
   ]
 }
