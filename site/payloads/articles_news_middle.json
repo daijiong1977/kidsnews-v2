@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-17-news-1",
+      "id": "2026-09-18-news-1",
       "source": "NPR World",
-      "time_ago": "Thu, 17 Sep 2026 05:00:00 -0400",
-      "mined_at": "2026-09-17T17:32:57+00:00",
-      "source_published_at": "Thu, 17 Sep 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_62da19ef2a0b.webp",
+      "time_ago": "Fri, 18 Sep 2026 07:00:00 -0400",
+      "mined_at": "2026-09-18T17:32:08+00:00",
+      "source_published_at": "Fri, 18 Sep 2026 07:00:00 -0400",
+      "image_url": "/article_images/article_f78823bab269.webp",
       "category": "News",
-      "title": "The Insurance Rule That Keeps Doomed Beach Houses Standing",
-      "summary": "More than 30 homes have collapsed into the ocean in North Carolina since 2020. A FEMA rule pays owners only after a house falls — not before — so many wait instead of tearing them down. A fix is stalled in Congress."
+      "title": "From a Basement to Billboard: Ms. Rachel's First Album Drops Sept. 25",
+      "summary": "Ms. Rachel — the pink-headband YouTube star with 17.2 billion views — is releasing her debut album, \"I'm So Happy,\" on Sept. 25. The 23-song record features real instruments, including cello, and she says kids deserve rich music."
     },
     {
-      "id": "2026-09-17-news-2",
-      "source": "Al Jazeera",
-      "time_ago": "Thu, 17 Sep 2026 16:23:49 +0000",
-      "mined_at": "2026-09-17T17:32:57+00:00",
-      "source_published_at": "Thu, 17 Sep 2026 16:23:49 +0000",
-      "image_url": "/article_images/article_ec3115376a4b.webp",
-      "category": "News",
-      "title": "Chelsea's New Era: Clearlake Takes Full Control as Boehly Exits",
-      "summary": "Clearlake Capital has taken full control of Chelsea, ending Todd Boehly's chairmanship. The deal values the club at about £5 billion. Coach Xabi Alonso says the ambition is clear: win major trophies."
-    },
-    {
-      "id": "2026-09-17-news-3",
+      "id": "2026-09-18-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Thu, 17 Sep 2026 10:23:49 -0400",
-      "mined_at": "2026-09-17T17:32:57+00:00",
-      "source_published_at": "Thu, 17 Sep 2026 10:23:49 -0400",
-      "image_url": "/article_images/article_db0cb8270b73.webp",
+      "time_ago": "Fri, 18 Sep 2026 12:16:11 -0400",
+      "mined_at": "2026-09-18T17:32:08+00:00",
+      "source_published_at": "Fri, 18 Sep 2026 12:16:11 -0400",
+      "image_url": "/article_images/article_9fa407e03c20.webp",
       "category": "News",
-      "title": "Senate Advances Bill That Would Reshape College Sports",
-      "summary": "The Senate voted 74-24 to move forward on the Protect College Sports Act, which would set national rules for paying athletes, transfers, and lawsuits. It now heads toward a final vote."
+      "title": "Early Voting Kicks Off as Midterms Could Flip Congress",
+      "summary": "In-person early voting began Friday in Virginia, with Idaho, Minnesota and South Dakota also opening absentee voting. The Nov. 3 midterms will decide control of Congress, with voters citing grocery prices and the war in Iran."
+    },
+    {
+      "id": "2026-09-18-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Fri, 18 Sep 2026 16:59:38 +0000",
+      "mined_at": "2026-09-18T17:32:08+00:00",
+      "source_published_at": "Fri, 18 Sep 2026 16:59:38 +0000",
+      "image_url": "/article_images/article_45d6eb5700d8.webp",
+      "category": "News",
+      "title": "UEFA and CONCACAF Challenge FIFA: Give $2.1 Billion to Member Nations",
+      "summary": "UEFA's Aleksander Ceferin and CONCACAF's Victor Montagliani want FIFA to pay each of its 211 member associations at least $10 million — about $2.1 billion total — from reserves they say will hit $6 billion."
     }
   ]
 }

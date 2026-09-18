@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-17-news-1",
+      "id": "2026-09-18-news-1",
       "source": "NPR World",
-      "time_ago": "Thu, 17 Sep 2026 05:00:00 -0400",
-      "mined_at": "2026-09-17T17:32:57+00:00",
-      "source_published_at": "Thu, 17 Sep 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_62da19ef2a0b.webp",
+      "time_ago": "Fri, 18 Sep 2026 07:00:00 -0400",
+      "mined_at": "2026-09-18T17:32:08+00:00",
+      "source_published_at": "Fri, 18 Sep 2026 07:00:00 -0400",
+      "image_url": "/article_images/article_f78823bab269.webp",
       "category": "News",
-      "title": "Houses Are Falling Into the Ocean — And One Rule Makes It Hard to Stop",
-      "summary": "In North Carolina, more than 30 beachfront homes have fallen into the ocean since 2020. One house called Sea 'n Delight is stuck on stilts in the sand. A rule says owners only get flood insurance money after a house collapses, not before."
+      "title": "Ms. Rachel Is Making a Real Album — With a Cello!",
+      "summary": "Ms. Rachel, the YouTube star with the pink headband, is releasing her first album on Sept. 25. It has 23 songs, and she wants kids to hear real instruments like the cello. Her videos have over 17.2 billion views!"
     },
     {
-      "id": "2026-09-17-news-2",
-      "source": "Al Jazeera",
-      "time_ago": "Thu, 17 Sep 2026 16:23:49 +0000",
-      "mined_at": "2026-09-17T17:32:57+00:00",
-      "source_published_at": "Thu, 17 Sep 2026 16:23:49 +0000",
-      "image_url": "/article_images/article_ec3115376a4b.webp",
-      "category": "News",
-      "title": "Chelsea Soccer Club Has a New Boss — And a Big Goal",
-      "summary": "Chelsea, a famous English soccer club, just changed owners. Clearlake Capital now controls the team, and Todd Boehly is out. Coach Xabi Alonso says the goal is simple: win big trophies."
-    },
-    {
-      "id": "2026-09-17-news-3",
+      "id": "2026-09-18-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Thu, 17 Sep 2026 10:23:49 -0400",
-      "mined_at": "2026-09-17T17:32:57+00:00",
-      "source_published_at": "Thu, 17 Sep 2026 10:23:49 -0400",
-      "image_url": "/article_images/article_db0cb8270b73.webp",
+      "time_ago": "Fri, 18 Sep 2026 12:16:11 -0400",
+      "mined_at": "2026-09-18T17:32:08+00:00",
+      "source_published_at": "Fri, 18 Sep 2026 12:16:11 -0400",
+      "image_url": "/article_images/article_9fa407e03c20.webp",
       "category": "News",
-      "title": "Senate Moves Closer to Changing College Sports Forever",
-      "summary": "The U.S. Senate voted 74-24 to move forward on a bill that would change how college athletes get paid, transfer, and go to court. It could become law soon."
+      "title": "Early Voting Starts! Americans Begin Choosing Congress for 2026",
+      "summary": "Early in-person voting began Friday in Virginia, with Idaho, Minnesota and South Dakota also opening absentee voting. The Nov. 3 midterm elections will decide who controls Congress — and voters say prices and the war in Iran are on their minds."
+    },
+    {
+      "id": "2026-09-18-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Fri, 18 Sep 2026 16:59:38 +0000",
+      "mined_at": "2026-09-18T17:32:08+00:00",
+      "source_published_at": "Fri, 18 Sep 2026 16:59:38 +0000",
+      "image_url": "/article_images/article_45d6eb5700d8.webp",
+      "category": "News",
+      "title": "Soccer Bosses Want FIFA to Share $2.1 Billion With 211 Countries",
+      "summary": "Two top soccer leaders want FIFA to give each of its 211 member countries at least $10 million — a total of about $2.1 billion. FIFA has about $6 billion saved up, and the leaders say it can afford to share."
     }
   ]
 }
