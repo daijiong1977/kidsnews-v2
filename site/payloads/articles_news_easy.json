@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-18-news-1",
+      "id": "2026-09-19-news-1",
       "source": "NPR World",
-      "time_ago": "Fri, 18 Sep 2026 07:00:00 -0400",
-      "mined_at": "2026-09-18T17:32:08+00:00",
-      "source_published_at": "Fri, 18 Sep 2026 07:00:00 -0400",
-      "image_url": "/article_images/article_f78823bab269.webp",
+      "time_ago": "Fri, 18 Sep 2026 17:13:14 -0400",
+      "mined_at": "2026-09-19T17:31:46+00:00",
+      "source_published_at": "Fri, 18 Sep 2026 17:13:14 -0400",
+      "image_url": "/article_images/article_d04a39ccc35c.webp",
       "category": "News",
-      "title": "Ms. Rachel Is Making a Real Album — With a Cello!",
-      "summary": "Ms. Rachel, the YouTube star with the pink headband, is releasing her first album on Sept. 25. It has 23 songs, and she wants kids to hear real instruments like the cello. Her videos have over 17.2 billion views!"
+      "title": "Fat Bear Week Is Back — and This Year It's Bigger Than Ever!",
+      "summary": "Sixteen brown bears in Alaska are competing to be crowned the fattest. They get ready for winter by eating tons of salmon. Voting starts September 22, and last year's champ, Chunk, weighs over 1,200 pounds!"
     },
     {
-      "id": "2026-09-18-news-2",
+      "id": "2026-09-19-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Fri, 18 Sep 2026 12:16:11 -0400",
-      "mined_at": "2026-09-18T17:32:08+00:00",
-      "source_published_at": "Fri, 18 Sep 2026 12:16:11 -0400",
-      "image_url": "/article_images/article_9fa407e03c20.webp",
+      "time_ago": "Sat, 19 Sep 2026 13:10:44 -0400",
+      "mined_at": "2026-09-19T17:31:46+00:00",
+      "source_published_at": "Sat, 19 Sep 2026 13:10:44 -0400",
+      "image_url": "/article_images/article_f5eb1c1bf1f8.webp",
       "category": "News",
-      "title": "Early Voting Starts! Americans Begin Choosing Congress for 2026",
-      "summary": "Early in-person voting began Friday in Virginia, with Idaho, Minnesota and South Dakota also opening absentee voting. The Nov. 3 midterm elections will decide who controls Congress — and voters say prices and the war in Iran are on their minds."
+      "title": "Big AI Companies Sued for Agreeing to Slow Down",
+      "summary": "A new lawsuit says four big AI companies made an illegal deal to slow down their AI development. People who pay for AI subscriptions say this makes the products less valuable. The companies haven't responded yet."
     },
     {
-      "id": "2026-09-18-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Fri, 18 Sep 2026 16:59:38 +0000",
-      "mined_at": "2026-09-18T17:32:08+00:00",
-      "source_published_at": "Fri, 18 Sep 2026 16:59:38 +0000",
-      "image_url": "/article_images/article_45d6eb5700d8.webp",
+      "id": "2026-09-19-news-3",
+      "source": "BBC News",
+      "time_ago": "Sat, 19 Sep 2026 15:19:39 GMT",
+      "mined_at": "2026-09-19T17:31:46+00:00",
+      "source_published_at": "Sat, 19 Sep 2026 15:19:39 GMT",
+      "image_url": "/article_images/article_d6f846915316.webp",
       "category": "News",
-      "title": "Soccer Bosses Want FIFA to Share $2.1 Billion With 211 Countries",
-      "summary": "Two top soccer leaders want FIFA to give each of its 211 member countries at least $10 million — a total of about $2.1 billion. FIFA has about $6 billion saved up, and the leaders say it can afford to share."
+      "title": "White House Bans Some News Reporters",
+      "summary": "President Trump banned reporters from CNN, Politico, and MS NOW from the White House. Their press badges were taken away. The news outlets say this is against the law and they will fight it."
     }
   ]
 }

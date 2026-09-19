@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-18-news-1",
+      "id": "2026-09-19-news-1",
       "source": "NPR World",
-      "time_ago": "Fri, 18 Sep 2026 07:00:00 -0400",
-      "mined_at": "2026-09-18T17:32:08+00:00",
-      "source_published_at": "Fri, 18 Sep 2026 07:00:00 -0400",
-      "image_url": "/article_images/article_f78823bab269.webp",
+      "time_ago": "Fri, 18 Sep 2026 17:13:14 -0400",
+      "mined_at": "2026-09-19T17:31:46+00:00",
+      "source_published_at": "Fri, 18 Sep 2026 17:13:14 -0400",
+      "image_url": "/article_images/article_d04a39ccc35c.webp",
       "category": "News",
-      "title": "From a Basement to Billboard: Ms. Rachel's First Album Drops Sept. 25",
-      "summary": "Ms. Rachel — the pink-headband YouTube star with 17.2 billion views — is releasing her debut album, \"I'm So Happy,\" on Sept. 25. The 23-song record features real instruments, including cello, and she says kids deserve rich music."
+      "title": "Alaska's Fat Bear Week Returns with Record Number of Cubs",
+      "summary": "Sixteen brown bears in Katmai National Park are competing to be the fattest before winter. With 37 cubs counted this year, the bracket is bigger than ever. Voting starts September 22, and last year's champion, Chunk, is back."
     },
     {
-      "id": "2026-09-18-news-2",
+      "id": "2026-09-19-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Fri, 18 Sep 2026 12:16:11 -0400",
-      "mined_at": "2026-09-18T17:32:08+00:00",
-      "source_published_at": "Fri, 18 Sep 2026 12:16:11 -0400",
-      "image_url": "/article_images/article_9fa407e03c20.webp",
+      "time_ago": "Sat, 19 Sep 2026 13:10:44 -0400",
+      "mined_at": "2026-09-19T17:31:46+00:00",
+      "source_published_at": "Sat, 19 Sep 2026 13:10:44 -0400",
+      "image_url": "/article_images/article_f5eb1c1bf1f8.webp",
       "category": "News",
-      "title": "Early Voting Kicks Off as Midterms Could Flip Congress",
-      "summary": "In-person early voting began Friday in Virginia, with Idaho, Minnesota and South Dakota also opening absentee voting. The Nov. 3 midterms will decide control of Congress, with voters citing grocery prices and the war in Iran."
+      "title": "AI Giants Face Antitrust Lawsuit Over Alleged Slowdown Agreement",
+      "summary": "A new lawsuit claims Anthropic, OpenAI, SpaceXAI, and Google illegally agreed to slow AI development. The suit, filed Friday, says this hurts consumers who pay for AI subscriptions. The companies have not yet commented."
     },
     {
-      "id": "2026-09-18-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Fri, 18 Sep 2026 16:59:38 +0000",
-      "mined_at": "2026-09-18T17:32:08+00:00",
-      "source_published_at": "Fri, 18 Sep 2026 16:59:38 +0000",
-      "image_url": "/article_images/article_45d6eb5700d8.webp",
+      "id": "2026-09-19-news-3",
+      "source": "BBC News",
+      "time_ago": "Sat, 19 Sep 2026 15:19:39 GMT",
+      "mined_at": "2026-09-19T17:31:46+00:00",
+      "source_published_at": "Sat, 19 Sep 2026 15:19:39 GMT",
+      "image_url": "/article_images/article_d6f846915316.webp",
       "category": "News",
-      "title": "UEFA and CONCACAF Challenge FIFA: Give $2.1 Billion to Member Nations",
-      "summary": "UEFA's Aleksander Ceferin and CONCACAF's Victor Montagliani want FIFA to pay each of its 211 member associations at least $10 million — about $2.1 billion total — from reserves they say will hit $6 billion."
+      "title": "Trump Bans CNN, Politico, and MS NOW from White House",
+      "summary": "President Trump banned three major news outlets from the White House, and reporters' badges were seized. The outlets call it unconstitutional and vow to fight. Press freedom groups say the ban is illegal."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-18-science-1",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Fri, 18 Sep 2026 08:07:03 EDT",
-      "mined_at": "2026-09-18T17:32:08+00:00",
-      "source_published_at": "Fri, 18 Sep 2026 08:07:03 EDT",
-      "image_url": "/article_images/article_10c388cbb50d.webp",
-      "category": "Science",
-      "title": "Slash the Guitarist Now Has a Snake Named After Him",
-      "summary": "Scientists discovered a new snake in New Guinea and named it Lielaphis slashi, after Guns N' Roses guitarist Slash — who has been a lifelong reptile fan. DNA and scale counts proved it was a brand-new species."
-    },
-    {
-      "id": "2026-09-18-science-2",
-      "source": "Science News Explores",
-      "time_ago": "Fri, 18 Sep 2026 10:30:00 +0000",
-      "mined_at": "2026-09-18T17:32:08+00:00",
-      "source_published_at": "Fri, 18 Sep 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_f46802d17a52.webp",
-      "category": "Science",
-      "title": "Sweet Tooth, Big Brain: Fruit May Have Fueled Human Evolution",
-      "summary": "A new study suggests sugary foods like fruit and honey — not just meat — helped fuel the growth of the human brain. Early ancestors' brains were apple-sized; ours are five times heavier."
-    },
-    {
-      "id": "2026-09-18-science-3",
+      "id": "2026-09-19-science-1",
       "source": "ScienceDaily All",
-      "time_ago": "Fri, 18 Sep 2026 07:50:13 EDT",
-      "mined_at": "2026-09-18T17:32:08+00:00",
-      "source_published_at": "Fri, 18 Sep 2026 07:50:13 EDT",
-      "image_url": "/article_images/article_de32a9d1b2f4.webp",
+      "time_ago": "Fri, 18 Sep 2026 07:07:25 EDT",
+      "mined_at": "2026-09-19T17:31:46+00:00",
+      "source_published_at": "Fri, 18 Sep 2026 07:07:25 EDT",
+      "image_url": "/article_images/article_77984ee4bb5c.webp",
       "category": "Science",
-      "title": "Caltech Chip Redirects Light in 74 Quadrillionths of a Second",
-      "summary": "Caltech researchers built a nanoscale device that steers one light beam with another in just 74 femtoseconds — about the time light takes to cross a human hair. It could speed up communications and computing."
+      "title": "Einstein's Gravity Tested with Exotic Muonium Atoms",
+      "summary": "Physicists in Switzerland are preparing to drop muonium—a weird, short-lived atom—to see if gravity treats it like ordinary matter. It's the first test of its kind."
+    },
+    {
+      "id": "2026-09-19-science-2",
+      "source": "Popular Science",
+      "time_ago": "Sat, 19 Sep 2026 10:00:00 -0400",
+      "mined_at": "2026-09-19T17:31:46+00:00",
+      "source_published_at": "Sat, 19 Sep 2026 10:00:00 -0400",
+      "image_url": "/article_images/article_8d4f251ad040.webp",
+      "category": "Science",
+      "title": "3D-Printed Harness Helps Injured Sea Turtle Recover",
+      "summary": "A green sea turtle named Cebu, hit by a boat, is learning to swim again with a custom 3D-printed harness and stem cell therapy at a Georgia center."
+    },
+    {
+      "id": "2026-09-19-science-3",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Thu, 17 Sep 2026 23:16:17 EDT",
+      "mined_at": "2026-09-19T17:31:46+00:00",
+      "source_published_at": "Thu, 17 Sep 2026 23:16:17 EDT",
+      "image_url": "/article_images/article_1554335e9fea.webp",
+      "category": "Science",
+      "title": "Anak Krakatau Eruption Sends Ash 50,000 Feet High, Disrupts Thousands of Flights",
+      "summary": "Indonesia's Anak Krakatau volcano erupted for over 24 hours, sending ash 10 miles high, closing eight airports, and disrupting nearly 3,000 flights."
     }
   ]
 }

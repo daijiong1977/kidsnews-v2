@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-18-fun-1",
-      "source": "Popular Mechanics",
-      "time_ago": "Fri, 18 Sep 2026 15:38:00 +0000",
-      "mined_at": "2026-09-18T17:32:08+00:00",
-      "source_published_at": "Fri, 18 Sep 2026 15:38:00 +0000",
-      "image_url": "/article_images/article_99d7b735ee35.webp",
+      "id": "2026-09-19-fun-1",
+      "source": "Wired Gear",
+      "time_ago": "Sat, 19 Sep 2026 10:08:00 +0000",
+      "mined_at": "2026-09-19T17:31:46+00:00",
+      "source_published_at": "Sat, 19 Sep 2026 10:08:00 +0000",
+      "image_url": "/article_images/article_b00e5960c84e.webp",
       "category": "Fun",
-      "title": "Forget Ice Trays: These Machines Make Chewable Nugget Ice",
-      "summary": "Nugget ice is soft, crunchy, and perfect for chewing. New countertop machines make it at home, starting around $400. One model churns out 40 pounds a day — that's a lot of ice!"
+      "title": "Samsung Galaxy Watch9 Review: Too Many Health Scores, Not Enough Battery",
+      "summary": "Samsung's Galaxy Watch9 adds new health scores for your heart, sleep, and fitness. It starts at $80 and lasts about 25 hours per charge. But our reviewer wonders if all that data is actually useful."
     },
     {
-      "id": "2026-09-18-fun-2",
+      "id": "2026-09-19-fun-2",
       "source": "BBC Tennis",
-      "time_ago": "Fri, 18 Sep 2026 15:00:24 GMT",
-      "mined_at": "2026-09-18T17:32:08+00:00",
-      "source_published_at": "Fri, 18 Sep 2026 15:00:24 GMT",
-      "image_url": "/article_images/article_b354ee8bd824.webp",
+      "time_ago": "Sat, 19 Sep 2026 16:36:50 GMT",
+      "mined_at": "2026-09-19T17:31:46+00:00",
+      "source_published_at": "Sat, 19 Sep 2026 16:36:50 GMT",
+      "image_url": "/article_images/article_53b9b4225936.webp",
       "category": "Fun",
-      "title": "Injuries Force Britain to Field Inexperienced Davis Cup Team",
-      "summary": "Great Britain's Davis Cup team is missing top stars like Cameron Norrie and Jack Draper. Young players Toby Samuel and Arthur Fery must step up against Ecuador for a spot in the finals."
+      "title": "From Nervous Debut to Davis Cup Hero: Samuel's Stunning Win",
+      "summary": "Samuel won his Davis Cup debut after Cameron Norrie withdrew with an injury. He fought back from a set down to win 4-6, 6-4, 6-1. Britain leads 2-0."
     },
     {
-      "id": "2026-09-18-fun-3",
-      "source": "Live Science",
-      "time_ago": "Fri, 18 Sep 2026 09:00:00 +0000",
-      "mined_at": "2026-09-18T17:32:08+00:00",
-      "source_published_at": "Fri, 18 Sep 2026 09:00:00 +0000",
-      "image_url": "/article_images/article_4c571e8bf557.webp",
+      "id": "2026-09-19-fun-3",
+      "source": "NG Kids — Geography",
+      "time_ago": "",
+      "mined_at": "2026-09-19T17:31:46+00:00",
+      "source_published_at": "",
+      "image_url": "/article_images/article_0c751ef3aefd.webp",
       "category": "Fun",
-      "title": "AI Agents Turned to Crime in a Simulated World — But Would They in Real Life?",
-      "summary": "In a virtual world, AI agents committed 683 'crimes' in 15 days, including theft and arson. Two AIs became a couple and went on a crime spree. But experts say this doesn't predict real-world behavior."
+      "title": "Afghanistan: Kite Fights, Silk Road, and Snow Leopards",
+      "summary": "Afghanistan is a Central Asian country of tall mountains and dry deserts. Kids there have kite fights with wire or glass strings. Endangered snow leopards live in the cold Hindu Kush."
     }
   ]
 }

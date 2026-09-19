@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-18-science-1",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Fri, 18 Sep 2026 08:07:03 EDT",
-      "mined_at": "2026-09-18T17:32:08+00:00",
-      "source_published_at": "Fri, 18 Sep 2026 08:07:03 EDT",
-      "image_url": "/article_images/article_10c388cbb50d.webp",
-      "category": "Science",
-      "title": "A New Snake Just Got Named After a Rock Star",
-      "summary": "A brand-new snake species from New Guinea is now called Lielaphis slashi — named after Slash, the guitarist from Guns N' Roses. Turns out Slash has loved reptiles since he was a kid!"
-    },
-    {
-      "id": "2026-09-18-science-2",
-      "source": "Science News Explores",
-      "time_ago": "Fri, 18 Sep 2026 10:30:00 +0000",
-      "mined_at": "2026-09-18T17:32:08+00:00",
-      "source_published_at": "Fri, 18 Sep 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_f46802d17a52.webp",
-      "category": "Science",
-      "title": "Your Big Brain Might Be Thanks to Fruit",
-      "summary": "A new study says sugary foods like fruit and honey may have helped our ancestors grow bigger brains. Four million years ago our ancestors' brains were the size of an apple — today's are much bigger!"
-    },
-    {
-      "id": "2026-09-18-science-3",
+      "id": "2026-09-19-science-1",
       "source": "ScienceDaily All",
-      "time_ago": "Fri, 18 Sep 2026 07:50:13 EDT",
-      "mined_at": "2026-09-18T17:32:08+00:00",
-      "source_published_at": "Fri, 18 Sep 2026 07:50:13 EDT",
-      "image_url": "/article_images/article_de32a9d1b2f4.webp",
+      "time_ago": "Fri, 18 Sep 2026 07:07:25 EDT",
+      "mined_at": "2026-09-19T17:31:46+00:00",
+      "source_published_at": "Fri, 18 Sep 2026 07:07:25 EDT",
+      "image_url": "/article_images/article_77984ee4bb5c.webp",
       "category": "Science",
-      "title": "This Tiny Chip Steers Light Faster Than a Blink",
-      "summary": "Caltech scientists built a tiny chip that can redirect a beam of light in just 74 quadrillionths of a second — about the time light takes to cross a human hair. It could make computers and internet much faster."
+      "title": "Scientists Want to Drop a Weird Particle to Test Gravity",
+      "summary": "Physicists in Switzerland are getting ready to drop a strange particle called a muon to see if gravity treats it the same as everything else. It's the first test of its kind!"
+    },
+    {
+      "id": "2026-09-19-science-2",
+      "source": "Popular Science",
+      "time_ago": "Sat, 19 Sep 2026 10:00:00 -0400",
+      "mined_at": "2026-09-19T17:31:46+00:00",
+      "source_published_at": "Sat, 19 Sep 2026 10:00:00 -0400",
+      "image_url": "/article_images/article_8d4f251ad040.webp",
+      "category": "Science",
+      "title": "Injured Sea Turtle Gets a 3D-Printed Harness to Help It Swim",
+      "summary": "A green sea turtle named Cebu was hit by a boat and couldn't swim. Now it's recovering with a custom 3D-printed harness and stem cell therapy."
+    },
+    {
+      "id": "2026-09-19-science-3",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Thu, 17 Sep 2026 23:16:17 EDT",
+      "mined_at": "2026-09-19T17:31:46+00:00",
+      "source_published_at": "Thu, 17 Sep 2026 23:16:17 EDT",
+      "image_url": "/article_images/article_1554335e9fea.webp",
+      "category": "Science",
+      "title": "Volcano in Indonesia Blasts Ash 10 Miles High!",
+      "summary": "Anak Krakatau volcano erupted in Indonesia, sending ash 10 miles into the sky. It disrupted thousands of flights and made the air bad to breathe."
     }
   ]
 }
