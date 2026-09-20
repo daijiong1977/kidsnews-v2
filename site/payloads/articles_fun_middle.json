@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-19-fun-1",
-      "source": "Wired Gear",
-      "time_ago": "Sat, 19 Sep 2026 10:08:00 +0000",
-      "mined_at": "2026-09-19T17:31:46+00:00",
-      "source_published_at": "Sat, 19 Sep 2026 10:08:00 +0000",
-      "image_url": "/article_images/article_b00e5960c84e.webp",
-      "category": "Fun",
-      "title": "Samsung Galaxy Watch9 Review: Too Many Health Scores, Not Enough Battery",
-      "summary": "Samsung's Galaxy Watch9 adds new health scores for your heart, sleep, and fitness. It starts at $80 and lasts about 25 hours per charge. But our reviewer wonders if all that data is actually useful."
-    },
-    {
-      "id": "2026-09-19-fun-2",
-      "source": "BBC Tennis",
-      "time_ago": "Sat, 19 Sep 2026 16:36:50 GMT",
-      "mined_at": "2026-09-19T17:31:46+00:00",
-      "source_published_at": "Sat, 19 Sep 2026 16:36:50 GMT",
-      "image_url": "/article_images/article_53b9b4225936.webp",
-      "category": "Fun",
-      "title": "From Nervous Debut to Davis Cup Hero: Samuel's Stunning Win",
-      "summary": "Samuel won his Davis Cup debut after Cameron Norrie withdrew with an injury. He fought back from a set down to win 4-6, 6-4, 6-1. Britain leads 2-0."
-    },
-    {
-      "id": "2026-09-19-fun-3",
-      "source": "NG Kids — Geography",
+      "id": "2026-09-20-fun-1",
+      "source": "DOGOnews",
       "time_ago": "",
-      "mined_at": "2026-09-19T17:31:46+00:00",
+      "mined_at": "2026-09-20T02:09:55+00:00",
       "source_published_at": "",
-      "image_url": "/article_images/article_0c751ef3aefd.webp",
+      "image_url": "/article_images/article_b4582bafab6b.webp",
       "category": "Fun",
-      "title": "Afghanistan: Kite Fights, Silk Road, and Snow Leopards",
-      "summary": "Afghanistan is a Central Asian country of tall mountains and dry deserts. Kids there have kite fights with wire or glass strings. Endangered snow leopards live in the cold Hindu Kush."
+      "title": "Astronomers Discover Cotton-Candy Planets That Defy Explanation",
+      "summary": "Two Jupiter-sized planets, TOI-791 b and c, are so fluffy they're less dense than cotton candy. Found 1,113 light-years away, they're among the rare \"super-puffs\" that puzzle scientists."
+    },
+    {
+      "id": "2026-09-20-fun-2",
+      "source": "Live Science",
+      "time_ago": "Sat, 19 Sep 2026 14:00:00 +0000",
+      "mined_at": "2026-09-20T02:09:55+00:00",
+      "source_published_at": "Sat, 19 Sep 2026 14:00:00 +0000",
+      "image_url": "/article_images/article_88b8f259b36c.webp",
+      "category": "Fun",
+      "title": "DNA Computer Solves Math in a Drop of Water",
+      "summary": "Scientists created a DNA computer that performs calculations using billions of molecules in a tiny water droplet. It's energy-efficient and could one day run inside living cells."
+    },
+    {
+      "id": "2026-09-20-fun-3",
+      "source": "Popular Mechanics",
+      "time_ago": "Sat, 19 Sep 2026 13:00:00 +0000",
+      "mined_at": "2026-09-20T02:09:55+00:00",
+      "source_published_at": "Sat, 19 Sep 2026 13:00:00 +0000",
+      "image_url": "/article_images/article_65f149a1b6c0.webp",
+      "category": "Fun",
+      "title": "Scientist Claims He Can Cure Aging in 3 Years",
+      "summary": "William Andrews, a 74-year-old molecular biologist, says he's on the brink of an anti-aging pill that could make us feel 25 again. He's been chasing this dream since age 10."
     }
   ]
 }
