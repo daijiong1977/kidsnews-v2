@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-09-20-news-1",
-      "source": "BBC News",
-      "time_ago": "Sat, 19 Sep 2026 21:01:56 GMT",
-      "mined_at": "2026-09-20T02:09:55+00:00",
-      "source_published_at": "Sat, 19 Sep 2026 21:01:56 GMT",
-      "image_url": "/article_images/article_f2c909c5378c.webp",
-      "category": "News",
-      "title": "Trump Announces 'AI Force' and AI Tsar, Calls Safety Warnings a 'Hoax'",
-      "summary": "President Trump says the U.S. will launch an 'AI Force' and appoint an AI tsar to keep America ahead of China. He calls AI safety fears a 'hoax,' but top AI leaders like Anthropic's Dario Amodei want slower, safer development."
-    },
-    {
-      "id": "2026-09-20-news-2",
       "source": "PBS NewsHour",
       "time_ago": "Sat, 19 Sep 2026 14:48:50 -0400",
-      "mined_at": "2026-09-20T02:09:55+00:00",
+      "mined_at": "2026-09-20T02:58:39+00:00",
       "source_published_at": "Sat, 19 Sep 2026 14:48:50 -0400",
       "image_url": "/article_images/article_1e167e8d083b.webp",
       "category": "News",
-      "title": "Congo Launches Ebola Vaccinations for Front-Line Workers in Bunia",
-      "summary": "Congo started vaccinating health workers against Ebola in Bunia, the epicenter of its deadliest outbreak ever. The Ervebo vaccine targets a different Ebola strain, but scientists hope it offers some protection. So far: 7,541 cases, 3,639 deaths."
+      "title": "Congo Launches Ebola Vaccine Drive for Front-Line Workers in Outbreak Epicenter",
+      "summary": "Congo began vaccinating health workers in Bunia on Saturday as it battles its deadliest Ebola outbreak ever. The vaccine, Ervebo, was designed for a different Ebola strain, so scientists are studying whether it protects against the Bundibugyo virus now spreading."
+    },
+    {
+      "id": "2026-09-20-news-2",
+      "source": "BBC News",
+      "time_ago": "Sat, 19 Sep 2026 23:00:27 GMT",
+      "mined_at": "2026-09-20T02:58:39+00:00",
+      "source_published_at": "Sat, 19 Sep 2026 23:00:27 GMT",
+      "image_url": "/article_images/article_7ffe8b5c7454.webp",
+      "category": "News",
+      "title": "US and Denmark Strike Greenland Security Deal, Ending Months of Tension",
+      "summary": "The US and Denmark announced a deal on Greenland's security Saturday, after Trump threatened to seize the island. The agreement gives the US a role in defending Greenland but recognizes Danish sovereignty. Leaders expect to sign it at the UN next week."
     },
     {
       "id": "2026-09-20-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Sun, 20 Sep 2026 01:36:43 +0000",
-      "mined_at": "2026-09-20T02:09:55+00:00",
-      "source_published_at": "Sun, 20 Sep 2026 01:36:43 +0000",
-      "image_url": "/article_images/article_c49299e905df.webp",
+      "source": "BBC News",
+      "time_ago": "Sat, 19 Sep 2026 21:01:56 GMT",
+      "mined_at": "2026-09-20T02:58:39+00:00",
+      "source_published_at": "Sat, 19 Sep 2026 21:01:56 GMT",
+      "image_url": "/article_images/article_f2c909c5378c.webp",
       "category": "News",
-      "title": "Bachelet Quits UN Race After Support Collapses in Straw Poll",
-      "summary": "Michelle Bachelet wanted to be the first woman to lead the UN in its 80-year history. After Friday's secret straw poll gave her just one encouraging vote, she dropped out."
+      "title": "Trump Announces 'AI Force' and an AI Tsar, Calls Safety Worries a 'Hoax'",
+      "summary": "President Trump says the U.S. will create an 'AI Force' and appoint an AI tsar to lead it. In a Saturday post he rejected calls to slow AI down, saying it could reach 25% of America's GDP."
     }
   ]
 }

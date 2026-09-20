@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-09-20-news-1",
-      "source": "BBC News",
-      "time_ago": "Sat, 19 Sep 2026 21:01:56 GMT",
-      "mined_at": "2026-09-20T02:09:55+00:00",
-      "source_published_at": "Sat, 19 Sep 2026 21:01:56 GMT",
-      "image_url": "/article_images/article_f2c909c5378c.webp",
-      "category": "News",
-      "title": "Trump Wants an 'AI Force' — and Says AI Fears Are a 'Hoax'",
-      "summary": "President Trump says the U.S. will start an 'AI Force' and name an AI tsar. He thinks AI could be 25% of America's economy. But some AI leaders want to slow down and make safer rules first."
-    },
-    {
-      "id": "2026-09-20-news-2",
       "source": "PBS NewsHour",
       "time_ago": "Sat, 19 Sep 2026 14:48:50 -0400",
-      "mined_at": "2026-09-20T02:09:55+00:00",
+      "mined_at": "2026-09-20T02:58:39+00:00",
       "source_published_at": "Sat, 19 Sep 2026 14:48:50 -0400",
       "image_url": "/article_images/article_1e167e8d083b.webp",
       "category": "News",
-      "title": "Congo Starts Ebola Shots for Health Workers in Outbreak's Center",
-      "summary": "Congo began vaccinating health workers against Ebola in Bunia, the center of the worst outbreak ever. The vaccine, Ervebo, is normally for a different Ebola type, but may help. So far, 7,541 cases and 3,639 deaths."
+      "title": "Congo Races to Protect Health Workers as Ebola Outbreak Grows",
+      "summary": "Congo started giving Ebola vaccines to health workers in Bunia on Saturday. This outbreak is the country's deadliest ever, with 7,541 cases and 3,639 deaths. The vaccine, called Ervebo, was made for a different type of Ebola, so scientists are still testing how well it works here."
+    },
+    {
+      "id": "2026-09-20-news-2",
+      "source": "BBC News",
+      "time_ago": "Sat, 19 Sep 2026 23:00:27 GMT",
+      "mined_at": "2026-09-20T02:58:39+00:00",
+      "source_published_at": "Sat, 19 Sep 2026 23:00:27 GMT",
+      "image_url": "/article_images/article_7ffe8b5c7454.webp",
+      "category": "News",
+      "title": "US and Denmark Reach Deal on Greenland After Trump's Threats",
+      "summary": "The US and Denmark announced a deal on Greenland's security on Saturday, after President Trump spent months threatening to take the island by force. The deal gives the US a say in Greenland's security, but Denmark keeps sovereignty. Leaders expect to sign it next week."
     },
     {
       "id": "2026-09-20-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Sun, 20 Sep 2026 01:36:43 +0000",
-      "mined_at": "2026-09-20T02:09:55+00:00",
-      "source_published_at": "Sun, 20 Sep 2026 01:36:43 +0000",
-      "image_url": "/article_images/article_c49299e905df.webp",
+      "source": "BBC News",
+      "time_ago": "Sat, 19 Sep 2026 21:01:56 GMT",
+      "mined_at": "2026-09-20T02:58:39+00:00",
+      "source_published_at": "Sat, 19 Sep 2026 21:01:56 GMT",
+      "image_url": "/article_images/article_f2c909c5378c.webp",
       "category": "News",
-      "title": "A Big Job With No Woman Ever In Charge — One Leader Just Dropped Out",
-      "summary": "Michelle Bachelet wanted to be the first woman to lead the United Nations. But after a secret vote on Friday, she quit the race. Only one of 15 countries said \"keep going.\""
+      "title": "Trump Wants an 'AI Force' — and a Special AI Boss",
+      "summary": "President Trump says the U.S. will start an 'AI Force' and pick an AI tsar (a top boss for AI). He posted this on Saturday and says AI could grow to 25% of America's economy."
     }
   ]
 }
