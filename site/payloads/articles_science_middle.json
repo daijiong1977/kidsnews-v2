@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-09-20-science-1",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Wed, 16 Sep 2026 07:03:10 EDT",
-      "mined_at": "2026-09-20T03:57:41+00:00",
-      "source_published_at": "Wed, 16 Sep 2026 07:03:10 EDT",
-      "image_url": "/article_images/article_ad8e3fd6c947.webp",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Sun, 20 Sep 2026 01:56:26 EDT",
+      "mined_at": "2026-09-20T17:33:25+00:00",
+      "source_published_at": "Sun, 20 Sep 2026 01:56:26 EDT",
+      "image_url": "/article_images/article_217ba8173fd5.webp",
       "category": "Science",
-      "title": "Earth's Building Blocks Came From Its Own Neighborhood, Study Finds",
-      "summary": "A new study says Earth formed entirely from inner Solar System material — not from beyond Jupiter as many thought. Researchers were 'truly astonished.' The finding changes how we explain Earth's water."
+      "title": "A Tooth Reveals T. rex Ran Hot — Nearly as Warm as You",
+      "summary": "By measuring chemicals inside fossil teeth, UCLA scientists found that T. rex had a body temperature of about 97°F — almost the same as a human's. That supports the idea that the giant predator was warm-blooded and active, not a sluggish reptile."
     },
     {
       "id": "2026-09-20-science-2",
-      "source": "Popular Science",
-      "time_ago": "Sat, 19 Sep 2026 08:00:00 -0400",
-      "mined_at": "2026-09-20T03:57:41+00:00",
-      "source_published_at": "Sat, 19 Sep 2026 08:00:00 -0400",
-      "image_url": "/article_images/article_69d2463a5d55.webp",
-      "category": "Science",
-      "title": "National Zoo Celebrates Three New Red Panda Cubs",
-      "summary": "Three endangered red panda cubs were born this summer at the Smithsonian's National Zoo. One is 'feisty' and huff-quacks at keepers. Fewer than 10,000 red pandas remain in the wild."
-    },
-    {
-      "id": "2026-09-20-science-3",
       "source": "Science News Explores",
       "time_ago": "Wed, 16 Sep 2026 10:30:00 +0000",
-      "mined_at": "2026-09-20T03:57:41+00:00",
+      "mined_at": "2026-09-20T17:33:25+00:00",
       "source_published_at": "Wed, 16 Sep 2026 10:30:00 +0000",
       "image_url": "/article_images/article_be437b2a21fb.webp",
       "category": "Science",
-      "title": "Orcas Turn Sunfish Into Piñatas, Scientists Discover",
-      "summary": "New footage shows orcas slamming into sunfish hard enough to make them explode. One orca holds the fish while another smashes it. Scientists think it may feed young orcas — or just be fun."
+      "title": "Killer Whales Are Literally Exploding Sunfish — Here's Why",
+      "summary": "New footage from the Gulf of California shows orcas ramming dead sunfish so hard the fish burst apart. Scientists think it may help feed young orcas — or it might just be play. One marine biologist called it 'the coolest thing I have ever seen.'"
+    },
+    {
+      "id": "2026-09-20-science-3",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Sun, 20 Sep 2026 08:24:21 EDT",
+      "mined_at": "2026-09-20T17:33:25+00:00",
+      "source_published_at": "Sun, 20 Sep 2026 08:24:21 EDT",
+      "image_url": "/article_images/article_00156ad1b461.webp",
+      "category": "Science",
+      "title": "Cat Pee Contains a Hidden Chemical 'ID Card,' Scientists Find",
+      "summary": "Researchers identified 13 unusual fatty acids in cat urine that vary from cat to cat but stay stable for the same animal. These compounds may act as a lasting chemical signature, helping cats recognize who left a scent mark — even months later."
     }
   ]
 }

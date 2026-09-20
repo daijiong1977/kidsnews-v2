@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-09-20-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Sat, 19 Sep 2026 14:48:50 -0400",
-      "mined_at": "2026-09-20T03:57:41+00:00",
-      "source_published_at": "Sat, 19 Sep 2026 14:48:50 -0400",
-      "image_url": "/article_images/article_1e167e8d083b.webp",
+      "source": "NPR World",
+      "time_ago": "Sun, 20 Sep 2026 07:00:00 -0400",
+      "mined_at": "2026-09-20T17:33:25+00:00",
+      "source_published_at": "Sun, 20 Sep 2026 07:00:00 -0400",
+      "image_url": "/article_images/article_c29adc771554.webp",
       "category": "News",
-      "title": "Congo Launches Ebola Vaccine Drive for Front-Line Workers in Outbreak Epicenter",
-      "summary": "Congo began vaccinating health workers in Bunia on Saturday as it battles its deadliest Ebola outbreak ever. The vaccine, Ervebo, was designed for a different Ebola strain, so scientists are studying whether it protects against the Bundibugyo virus now spreading."
+      "title": "An Abandoned Family Dollar Became a Free Store — With a Roller Rink Inside",
+      "summary": "In New Orleans' Lower Ninth Ward, a graffiti-covered former Family Dollar is now the New Orleans Free Store. Everything is free, and twice a week the smooth floor becomes a roller rink."
     },
     {
       "id": "2026-09-20-news-2",
       "source": "BBC News",
       "time_ago": "Sat, 19 Sep 2026 23:00:27 GMT",
-      "mined_at": "2026-09-20T03:57:41+00:00",
+      "mined_at": "2026-09-20T17:33:25+00:00",
       "source_published_at": "Sat, 19 Sep 2026 23:00:27 GMT",
       "image_url": "/article_images/article_7ffe8b5c7454.webp",
       "category": "News",
-      "title": "US and Denmark Strike Greenland Security Deal, Ending Months of Tension",
-      "summary": "The US and Denmark announced a deal on Greenland's security Saturday, after Trump threatened to seize the island. The agreement gives the US a role in defending Greenland but recognizes Danish sovereignty. Leaders expect to sign it at the UN next week."
+      "title": "US and Denmark Reach Greenland Security Deal After Trump's Threats",
+      "summary": "The US and Denmark announced a deal on Greenland's security after Trump threatened to seize the territory. Nato welcomed it, but no text has been released. It's expected to be signed next week."
     },
     {
       "id": "2026-09-20-news-3",
-      "source": "BBC News",
-      "time_ago": "Sat, 19 Sep 2026 21:01:56 GMT",
-      "mined_at": "2026-09-20T03:57:41+00:00",
-      "source_published_at": "Sat, 19 Sep 2026 21:01:56 GMT",
-      "image_url": "/article_images/article_f2c909c5378c.webp",
+      "source": "PBS NewsHour",
+      "time_ago": "Sat, 19 Sep 2026 14:48:50 -0400",
+      "mined_at": "2026-09-20T17:33:25+00:00",
+      "source_published_at": "Sat, 19 Sep 2026 14:48:50 -0400",
+      "image_url": "/article_images/article_1e167e8d083b.webp",
       "category": "News",
-      "title": "Trump Announces 'AI Force' and an AI Tsar, Calls Safety Worries a 'Hoax'",
-      "summary": "President Trump says the U.S. will create an 'AI Force' and appoint an AI tsar to lead it. In a Saturday post he rejected calls to slow AI down, saying it could reach 25% of America's GDP."
+      "title": "Congo Launches Ebola Vaccinations for Front-Line Workers in Bunia",
+      "summary": "Congo began vaccinating health workers against Ebola in Bunia, the epicenter of the fastest-growing outbreak ever. The Bundibugyo virus has no licensed vaccine, so an existing shot is being tested."
     }
   ]
 }
