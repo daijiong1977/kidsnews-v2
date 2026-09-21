@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-20-fun-1",
+      "id": "2026-09-21-fun-1",
       "source": "DOGOnews",
       "time_ago": "",
-      "mined_at": "2026-09-20T17:33:25+00:00",
+      "mined_at": "2026-09-21T17:32:52+00:00",
       "source_published_at": "",
-      "image_url": "/article_images/article_b4582bafab6b.webp",
+      "image_url": "/article_images/article_4284eb53b5da.webp",
       "category": "Fun",
-      "title": "Cotton Candy Planets: Astronomers Find Two Super-Puffs in One System",
-      "summary": "Astronomers discovered two Jupiter-sized planets less dense than cotton candy, orbiting a Sun-like star 1,113 light-years away. Only a handful of these rare 'super-puffs' are known."
+      "title": "Why Are Orcas Sinking Sailboats? Scientists Have a Wild Theory",
+      "summary": "A tiny group of orcas has been ramming and sinking sailboats off Spain and Portugal since 2020. Scientists think the whales might be playing — or practicing their hunting skills."
     },
     {
-      "id": "2026-09-20-fun-2",
+      "id": "2026-09-21-fun-2",
+      "source": "Billboard",
+      "time_ago": "Mon, 21 Sep 2026 16:34:36 +0000",
+      "mined_at": "2026-09-21T17:32:52+00:00",
+      "source_published_at": "Mon, 21 Sep 2026 16:34:36 +0000",
+      "image_url": "/article_images/article_0c8e670735b4.webp",
+      "category": "Fun",
+      "title": "Taylor Swift's Touchdown Celebration Goes Viral: 'That's My Husband'",
+      "summary": "Taylor Swift jumped from her seat and pointed to her wedding ring after Travis Kelce scored his first touchdown of the season. The Chiefs beat the Colts 33-30 in overtime."
+    },
+    {
+      "id": "2026-09-21-fun-3",
       "source": "Live Science",
-      "time_ago": "Sun, 20 Sep 2026 09:00:00 +0000",
-      "mined_at": "2026-09-20T17:33:25+00:00",
-      "source_published_at": "Sun, 20 Sep 2026 09:00:00 +0000",
-      "image_url": "/article_images/article_e1cb9771544e.webp",
+      "time_ago": "Mon, 21 Sep 2026 16:06:06 +0000",
+      "mined_at": "2026-09-21T17:32:52+00:00",
+      "source_published_at": "Mon, 21 Sep 2026 16:06:06 +0000",
+      "image_url": "/article_images/article_a4ea21c9bfda.webp",
       "category": "Fun",
-      "title": "Fire Arrows and Funeral Boats: Did Vikings Really Do That?",
-      "summary": "Movies show Vikings shooting fire arrows at funeral boats, but experts say there's no archaeological evidence. The fiery ritual may be a Hollywood invention from the 1958 film 'The Vikings.'"
-    },
-    {
-      "id": "2026-09-20-fun-3",
-      "source": "SwimSwam",
-      "time_ago": "Sun, 20 Sep 2026 15:09:40 +0000",
-      "mined_at": "2026-09-20T17:33:25+00:00",
-      "source_published_at": "Sun, 20 Sep 2026 15:09:40 +0000",
-      "image_url": "/article_images/article_250342ffa4cd.webp",
-      "category": "Fun",
-      "title": "Asian Games Day 1: Xu Jiayu Sets Record at 31, Teen Stars Shine",
-      "summary": "At the 2026 Asian Games, 31-year-old Xu Jiayu won the 100m backstroke in a record 51.98 seconds. Teen swimmer Yu Zidi and veteran Satomi Suzuki also set records on day one."
+      "title": "Southern Taurids Meteor Shower Begins: How to Catch a Fireball",
+      "summary": "The Southern Taurid meteor shower runs from Sept. 20 to Nov. 20, peaking Oct. 13-14 and Nov. 4-5. It's known for bright fireballs and slow, glowing trails."
     }
   ]
 }

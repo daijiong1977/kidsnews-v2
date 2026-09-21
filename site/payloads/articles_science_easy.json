@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-20-science-1",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Sun, 20 Sep 2026 01:56:26 EDT",
-      "mined_at": "2026-09-20T17:33:25+00:00",
-      "source_published_at": "Sun, 20 Sep 2026 01:56:26 EDT",
-      "image_url": "/article_images/article_217ba8173fd5.webp",
+      "id": "2026-09-21-science-1",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Mon, 21 Sep 2026 08:10:58 EDT",
+      "mined_at": "2026-09-21T17:32:52+00:00",
+      "source_published_at": "Mon, 21 Sep 2026 08:10:58 EDT",
+      "image_url": "/article_images/article_6a1faa01958b.webp",
       "category": "Science",
-      "title": "T. rex Was Warm Like You! Scientists Take a Dinosaur's Temperature",
-      "summary": "Scientists figured out how hot a T. rex was by testing its tooth! The giant dinosaur's body was about 97 degrees Fahrenheit — almost the same as a human's. That means T. rex was warm-blooded, not slow and cold like a lizard."
+      "title": "NASA's New Camera Is 300 Megapixels — And It Just Woke Up!",
+      "summary": "NASA turned on a giant new space camera called the Wide Field Instrument. It's 300 megapixels and can snap a patch of sky bigger than the full moon. It's flying a million miles from Earth."
     },
     {
-      "id": "2026-09-20-science-2",
-      "source": "Science News Explores",
-      "time_ago": "Wed, 16 Sep 2026 10:30:00 +0000",
-      "mined_at": "2026-09-20T17:33:25+00:00",
-      "source_published_at": "Wed, 16 Sep 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_be437b2a21fb.webp",
-      "category": "Science",
-      "title": "Orcas Smash Sunfish Like a Piñata — and Scientists Are Stunned",
-      "summary": "In the Gulf of California, scientists filmed orcas ramming dead sunfish so hard the fish exploded into pieces. It might be a way to feed baby orcas — or just killer whale fun. One researcher said she was 'absolutely gobsmacked.'"
-    },
-    {
-      "id": "2026-09-20-science-3",
+      "id": "2026-09-21-science-2",
       "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Sun, 20 Sep 2026 08:24:21 EDT",
-      "mined_at": "2026-09-20T17:33:25+00:00",
-      "source_published_at": "Sun, 20 Sep 2026 08:24:21 EDT",
-      "image_url": "/article_images/article_00156ad1b461.webp",
+      "time_ago": "Mon, 21 Sep 2026 06:12:51 EDT",
+      "mined_at": "2026-09-21T17:32:52+00:00",
+      "source_published_at": "Mon, 21 Sep 2026 06:12:51 EDT",
+      "image_url": "/article_images/article_636745326a37.webp",
       "category": "Science",
-      "title": "Cats Have a Secret 'ID Card' — Hidden in Their Pee!",
-      "summary": "Scientists found 13 special fatty acids in cat urine that work like a chemical ID card. Each cat's mix is different, and it lasts for hours. That's how cats know who left a scent mark — even months later."
+      "title": "Your Brain Might Be Two Brains in One, Scientists Say",
+      "summary": "Stanford scientists found the brain may be built from two separate systems that evolved independently. One handles breathing and heartbeat; the other handles language and math. The discovery could help study diseases like ALS."
+    },
+    {
+      "id": "2026-09-21-science-3",
+      "source": "Science News Explores",
+      "time_ago": "Mon, 21 Sep 2026 10:30:00 +0000",
+      "mined_at": "2026-09-21T17:32:52+00:00",
+      "source_published_at": "Mon, 21 Sep 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_e32dcf1955e0.webp",
+      "category": "Science",
+      "title": "Antimatter: The Universe's Disappearing Twin",
+      "summary": "Antimatter is like a mirror twin of ordinary matter. When the two meet, they destroy each other in a flash of energy. Scientists at CERN even moved antimatter in a truck for the first time."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-20-science-1",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Sun, 20 Sep 2026 01:56:26 EDT",
-      "mined_at": "2026-09-20T17:33:25+00:00",
-      "source_published_at": "Sun, 20 Sep 2026 01:56:26 EDT",
-      "image_url": "/article_images/article_217ba8173fd5.webp",
+      "id": "2026-09-21-science-1",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Mon, 21 Sep 2026 08:10:58 EDT",
+      "mined_at": "2026-09-21T17:32:52+00:00",
+      "source_published_at": "Mon, 21 Sep 2026 08:10:58 EDT",
+      "image_url": "/article_images/article_6a1faa01958b.webp",
       "category": "Science",
-      "title": "A Tooth Reveals T. rex Ran Hot — Nearly as Warm as You",
-      "summary": "By measuring chemicals inside fossil teeth, UCLA scientists found that T. rex had a body temperature of about 97°F — almost the same as a human's. That supports the idea that the giant predator was warm-blooded and active, not a sluggish reptile."
+      "title": "NASA's Roman Telescope Wakes Up a 300-Megapixel Eye on the Universe",
+      "summary": "NASA powered up a 300-megapixel infrared camera on the Roman Space Telescope. It can photograph a sky area larger than the full moon and is now a million miles from Earth."
     },
     {
-      "id": "2026-09-20-science-2",
-      "source": "Science News Explores",
-      "time_ago": "Wed, 16 Sep 2026 10:30:00 +0000",
-      "mined_at": "2026-09-20T17:33:25+00:00",
-      "source_published_at": "Wed, 16 Sep 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_be437b2a21fb.webp",
-      "category": "Science",
-      "title": "Killer Whales Are Literally Exploding Sunfish — Here's Why",
-      "summary": "New footage from the Gulf of California shows orcas ramming dead sunfish so hard the fish burst apart. Scientists think it may help feed young orcas — or it might just be play. One marine biologist called it 'the coolest thing I have ever seen.'"
-    },
-    {
-      "id": "2026-09-20-science-3",
+      "id": "2026-09-21-science-2",
       "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Sun, 20 Sep 2026 08:24:21 EDT",
-      "mined_at": "2026-09-20T17:33:25+00:00",
-      "source_published_at": "Sun, 20 Sep 2026 08:24:21 EDT",
-      "image_url": "/article_images/article_00156ad1b461.webp",
+      "time_ago": "Mon, 21 Sep 2026 06:12:51 EDT",
+      "mined_at": "2026-09-21T17:32:52+00:00",
+      "source_published_at": "Mon, 21 Sep 2026 06:12:51 EDT",
+      "image_url": "/article_images/article_636745326a37.webp",
       "category": "Science",
-      "title": "Cat Pee Contains a Hidden Chemical 'ID Card,' Scientists Find",
-      "summary": "Researchers identified 13 unusual fatty acids in cat urine that vary from cat to cat but stay stable for the same animal. These compounds may act as a lasting chemical signature, helping cats recognize who left a scent mark — even months later."
+      "title": "Stanford Study: The Human Brain May Actually Be Two Separate Organs",
+      "summary": "New Stanford research suggests the brain is built from two distinct systems that evolved separately. One controls breathing; the other handles language and abstract thought. The finding could unlock studies of ALS and SMA."
+    },
+    {
+      "id": "2026-09-21-science-3",
+      "source": "Science News Explores",
+      "time_ago": "Mon, 21 Sep 2026 10:30:00 +0000",
+      "mined_at": "2026-09-21T17:32:52+00:00",
+      "source_published_at": "Mon, 21 Sep 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_e32dcf1955e0.webp",
+      "category": "Science",
+      "title": "Antimatter: The Rare Twin of Matter That Vanishes on Contact",
+      "summary": "Antimatter is made of antiparticles with opposite charges to normal particles. When matter and antimatter meet, they annihilate. Scientists at CERN moved antiprotons in a truck for the first time in March 2026."
     }
   ]
 }
