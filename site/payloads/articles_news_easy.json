@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-21-news-1",
-      "source": "BBC News",
-      "time_ago": "Mon, 21 Sep 2026 14:06:12 GMT",
-      "mined_at": "2026-09-21T17:32:52+00:00",
-      "source_published_at": "Mon, 21 Sep 2026 14:06:12 GMT",
-      "image_url": "/article_images/article_228f64a4d4bc.webp",
+      "id": "2026-09-22-news-1",
+      "source": "NPR World",
+      "time_ago": "Mon, 21 Sep 2026 15:50:13 -0400",
+      "mined_at": "2026-09-22T08:51:23+00:00",
+      "source_published_at": "Mon, 21 Sep 2026 15:50:13 -0400",
+      "image_url": "/article_images/article_ca71a3962b40.webp",
       "category": "News",
-      "title": "Typhoon Dujuan Forces Nearly 2 Million People to Leave Home in Japan",
-      "summary": "Typhoon Dujuan hit Japan with winds of 130 km/h, forcing almost two million people to evacuate. Power went out for 50,000 homes, flights were cancelled, and even the Tokyo Game Show shut down."
+      "title": "Chicagohenge! When the Sun Lines Up With City Streets",
+      "summary": "Twice a year, the sun rises and sets exactly in line with east-west streets in Chicago and Denver. Fans call it \"Chicagohenge,\" after England's famous Stonehenge."
     },
     {
-      "id": "2026-09-21-news-2",
+      "id": "2026-09-22-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Mon, 21 Sep 2026 08:07:52 -0400",
-      "mined_at": "2026-09-21T17:32:52+00:00",
-      "source_published_at": "Mon, 21 Sep 2026 08:07:52 -0400",
-      "image_url": "/article_images/article_c9580c6a8cfd.webp",
+      "time_ago": "Mon, 21 Sep 2026 18:45:16 -0400",
+      "mined_at": "2026-09-22T08:51:23+00:00",
+      "source_published_at": "Mon, 21 Sep 2026 18:45:16 -0400",
+      "image_url": "/article_images/article_24116ca97ad7.webp",
       "category": "News",
-      "title": "World Leaders Meet at the UN to Talk About War, AI, and a Warming Planet",
-      "summary": "About 130 world leaders are meeting at the United Nations this week to tackle wars, climate change, and the rise of AI. President Trump and France's Macron speak Tuesday, but some big names are skipping."
+      "title": "Planes Frozen on the East Coast: One Broken Wire Grounds Hundreds of Flights",
+      "summary": "A broken circuit and a cut backup cable forced the FAA to stop flights at big East Coast airports on Monday. Hundreds of flights were delayed or canceled in New York and Philadelphia, right as world leaders arrived for the U.N. meeting."
     },
     {
-      "id": "2026-09-21-news-3",
+      "id": "2026-09-22-news-3",
       "source": "BBC News",
-      "time_ago": "Mon, 21 Sep 2026 15:58:53 GMT",
-      "mined_at": "2026-09-21T17:32:52+00:00",
-      "source_published_at": "Mon, 21 Sep 2026 15:58:53 GMT",
-      "image_url": "/article_images/article_ea16baaac907.webp",
+      "time_ago": "Tue, 22 Sep 2026 07:14:12 GMT",
+      "mined_at": "2026-09-22T08:51:23+00:00",
+      "source_published_at": "Tue, 22 Sep 2026 07:14:12 GMT",
+      "image_url": "/article_images/article_147ec0dad904.webp",
       "category": "News",
-      "title": "CNN, Politico, and MS NOW Sue Trump After White House Ban",
-      "summary": "Three news outlets sued the Trump administration after being barred from the White House. Trump accused them of writing \"fiction or lies.\" Major TV networks pulled out of White House coverage in response."
+      "title": "Seven Big Countries Tell Iran: Stop Arming the Houthis in Yemen",
+      "summary": "A group of seven powerful countries called the G7 says Iran must stop giving weapons to the Houthis in Yemen. The Houthis just took over a key waterway called Bab al-Mandab, and more than 120,000 people have fled their homes."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-21-science-1",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Mon, 21 Sep 2026 08:10:58 EDT",
-      "mined_at": "2026-09-21T17:32:52+00:00",
-      "source_published_at": "Mon, 21 Sep 2026 08:10:58 EDT",
-      "image_url": "/article_images/article_6a1faa01958b.webp",
+      "id": "2026-09-22-science-1",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Mon, 21 Sep 2026 23:11:46 EDT",
+      "mined_at": "2026-09-22T08:51:23+00:00",
+      "source_published_at": "Mon, 21 Sep 2026 23:11:46 EDT",
+      "image_url": "/article_images/article_412330a7ad8c.webp",
       "category": "Science",
-      "title": "NASA's Roman Telescope Wakes Up a 300-Megapixel Eye on the Universe",
-      "summary": "NASA powered up a 300-megapixel infrared camera on the Roman Space Telescope. It can photograph a sky area larger than the full moon and is now a million miles from Earth."
+      "title": "A Hidden Penguin Species Finally Steps Into the Spotlight",
+      "summary": "On the remote Kerguelen Islands, scientists discovered a penguin species that stayed hidden for over a century. DNA revealed it's not just a gentoo — it's a whole new species, the first named in 100+ years."
     },
     {
-      "id": "2026-09-21-science-2",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Mon, 21 Sep 2026 06:12:51 EDT",
-      "mined_at": "2026-09-21T17:32:52+00:00",
-      "source_published_at": "Mon, 21 Sep 2026 06:12:51 EDT",
-      "image_url": "/article_images/article_636745326a37.webp",
+      "id": "2026-09-22-science-2",
+      "source": "Popular Science",
+      "time_ago": "Mon, 21 Sep 2026 14:00:00 -0400",
+      "mined_at": "2026-09-22T08:51:23+00:00",
+      "source_published_at": "Mon, 21 Sep 2026 14:00:00 -0400",
+      "image_url": "/article_images/article_f4ab5ab385b7.webp",
       "category": "Science",
-      "title": "Stanford Study: The Human Brain May Actually Be Two Separate Organs",
-      "summary": "New Stanford research suggests the brain is built from two distinct systems that evolved separately. One controls breathing; the other handles language and abstract thought. The finding could unlock studies of ALS and SMA."
+      "title": "Opera Singers and Singing Lemurs: Same Trick, Different Branch of the Tree of Life",
+      "summary": "Scientists discovered that Madagascar's singing indri lemur opens its mouth wider for higher notes — the same technique opera singers use. The two species last shared an ancestor 74 million years ago."
     },
     {
-      "id": "2026-09-21-science-3",
+      "id": "2026-09-22-science-3",
       "source": "Science News Explores",
-      "time_ago": "Mon, 21 Sep 2026 10:30:00 +0000",
-      "mined_at": "2026-09-21T17:32:52+00:00",
-      "source_published_at": "Mon, 21 Sep 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_e32dcf1955e0.webp",
+      "time_ago": "Fri, 18 Sep 2026 10:30:00 +0000",
+      "mined_at": "2026-09-22T08:51:23+00:00",
+      "source_published_at": "Fri, 18 Sep 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_f46802d17a52.webp",
       "category": "Science",
-      "title": "Antimatter: The Rare Twin of Matter That Vanishes on Contact",
-      "summary": "Antimatter is made of antiparticles with opposite charges to normal particles. When matter and antimatter meet, they annihilate. Scientists at CERN moved antiprotons in a truck for the first time in March 2026."
+      "title": "Sweet Tooth, Big Brain: How Fruit Fueled Human Evolution",
+      "summary": "A new study suggests sugary foods like fruit and honey — not just meat — powered the growth of the human brain. Early ancestors' brains weighed about as much as a medium apple."
     }
   ]
 }

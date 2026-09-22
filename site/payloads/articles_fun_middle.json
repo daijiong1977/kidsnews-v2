@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-21-fun-1",
+      "id": "2026-09-22-fun-1",
+      "source": "/Film",
+      "time_ago": "Mon, 21 Sep 2026 20:14:02 +0000",
+      "mined_at": "2026-09-22T08:51:23+00:00",
+      "source_published_at": "Mon, 21 Sep 2026 20:14:02 +0000",
+      "image_url": "/article_images/article_773337e0c2f6.webp",
+      "category": "Fun",
+      "title": "Spider-Man's New Villain Was Almost the Shadow King Instead of Jean Grey",
+      "summary": "Spider-Man: Brand New Day almost featured the Shadow King, a creepy X-Men villain who possesses people. Marvel said no, so the writers used Jean Grey instead. The switch changed how the movie's mind control works."
+    },
+    {
+      "id": "2026-09-22-fun-2",
       "source": "DOGOnews",
       "time_ago": "",
-      "mined_at": "2026-09-21T17:32:52+00:00",
+      "mined_at": "2026-09-22T08:51:23+00:00",
       "source_published_at": "",
-      "image_url": "/article_images/article_4284eb53b5da.webp",
+      "image_url": "/article_images/article_faf37a8ae851.webp",
       "category": "Fun",
-      "title": "Why Are Orcas Sinking Sailboats? Scientists Have a Wild Theory",
-      "summary": "A tiny group of orcas has been ramming and sinking sailboats off Spain and Portugal since 2020. Scientists think the whales might be playing — or practicing their hunting skills."
+      "title": "James Cook Creates Stunning Art Using Only a Typewriter",
+      "summary": "London artist James Cook makes detailed pictures using vintage typewriters. His Wimbledon tennis court artwork took over one million keystrokes. He owns more than 100 typewriters and sells his art for up to $40,000."
     },
     {
-      "id": "2026-09-21-fun-2",
-      "source": "Billboard",
-      "time_ago": "Mon, 21 Sep 2026 16:34:36 +0000",
-      "mined_at": "2026-09-21T17:32:52+00:00",
-      "source_published_at": "Mon, 21 Sep 2026 16:34:36 +0000",
-      "image_url": "/article_images/article_0c8e670735b4.webp",
+      "id": "2026-09-22-fun-3",
+      "source": "BBC Tennis",
+      "time_ago": "Sun, 20 Sep 2026 15:08:49 GMT",
+      "mined_at": "2026-09-22T08:51:23+00:00",
+      "source_published_at": "Sun, 20 Sep 2026 15:08:49 GMT",
+      "image_url": "/article_images/article_5d1eb8586c4f.webp",
       "category": "Fun",
-      "title": "Taylor Swift's Touchdown Celebration Goes Viral: 'That's My Husband'",
-      "summary": "Taylor Swift jumped from her seat and pointed to her wedding ring after Travis Kelce scored his first touchdown of the season. The Chiefs beat the Colts 33-30 in overtime."
-    },
-    {
-      "id": "2026-09-21-fun-3",
-      "source": "Live Science",
-      "time_ago": "Mon, 21 Sep 2026 16:06:06 +0000",
-      "mined_at": "2026-09-21T17:32:52+00:00",
-      "source_published_at": "Mon, 21 Sep 2026 16:06:06 +0000",
-      "image_url": "/article_images/article_a4ea21c9bfda.webp",
-      "category": "Fun",
-      "title": "Southern Taurids Meteor Shower Begins: How to Catch a Fireball",
-      "summary": "The Southern Taurid meteor shower runs from Sept. 20 to Nov. 20, peaking Oct. 13-14 and Nov. 4-5. It's known for bright fireballs and slow, glowing trails."
+      "title": "Britain Defeats Ecuador 4-0 to Reach Davis Cup Final 8",
+      "summary": "Great Britain beat Ecuador 4-0 to reach the Davis Cup Finals for the first time since 2023. Henry Patten and Neal Skupski sealed the win in doubles, and Harry Wendelken won on his debut."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-21-science-1",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Mon, 21 Sep 2026 08:10:58 EDT",
-      "mined_at": "2026-09-21T17:32:52+00:00",
-      "source_published_at": "Mon, 21 Sep 2026 08:10:58 EDT",
-      "image_url": "/article_images/article_6a1faa01958b.webp",
+      "id": "2026-09-22-science-1",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Mon, 21 Sep 2026 23:11:46 EDT",
+      "mined_at": "2026-09-22T08:51:23+00:00",
+      "source_published_at": "Mon, 21 Sep 2026 23:11:46 EDT",
+      "image_url": "/article_images/article_412330a7ad8c.webp",
       "category": "Science",
-      "title": "NASA's New Camera Is 300 Megapixels — And It Just Woke Up!",
-      "summary": "NASA turned on a giant new space camera called the Wide Field Instrument. It's 300 megapixels and can snap a patch of sky bigger than the full moon. It's flying a million miles from Earth."
+      "title": "Surprise! Scientists Find a Brand-New Penguin Species",
+      "summary": "Scientists just named the first new penguin species in over 100 years. It's a gentoo penguin that lives on the Kerguelen Islands, nearly 2,000 miles from any town. DNA showed it's actually a different species!"
     },
     {
-      "id": "2026-09-21-science-2",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Mon, 21 Sep 2026 06:12:51 EDT",
-      "mined_at": "2026-09-21T17:32:52+00:00",
-      "source_published_at": "Mon, 21 Sep 2026 06:12:51 EDT",
-      "image_url": "/article_images/article_636745326a37.webp",
+      "id": "2026-09-22-science-2",
+      "source": "Popular Science",
+      "time_ago": "Mon, 21 Sep 2026 14:00:00 -0400",
+      "mined_at": "2026-09-22T08:51:23+00:00",
+      "source_published_at": "Mon, 21 Sep 2026 14:00:00 -0400",
+      "image_url": "/article_images/article_f4ab5ab385b7.webp",
       "category": "Science",
-      "title": "Your Brain Might Be Two Brains in One, Scientists Say",
-      "summary": "Stanford scientists found the brain may be built from two separate systems that evolved independently. One handles breathing and heartbeat; the other handles language and math. The discovery could help study diseases like ALS."
+      "title": "This Singing Lemur Uses the Same Trick as Opera Stars",
+      "summary": "The indri lemur sings like an opera star — and scientists just figured out how. It opens its mouth wider for higher notes, just like trained human singers. The two species last shared an ancestor 74 million years ago!"
     },
     {
-      "id": "2026-09-21-science-3",
+      "id": "2026-09-22-science-3",
       "source": "Science News Explores",
-      "time_ago": "Mon, 21 Sep 2026 10:30:00 +0000",
-      "mined_at": "2026-09-21T17:32:52+00:00",
-      "source_published_at": "Mon, 21 Sep 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_e32dcf1955e0.webp",
+      "time_ago": "Fri, 18 Sep 2026 10:30:00 +0000",
+      "mined_at": "2026-09-22T08:51:23+00:00",
+      "source_published_at": "Fri, 18 Sep 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_f46802d17a52.webp",
       "category": "Science",
-      "title": "Antimatter: The Universe's Disappearing Twin",
-      "summary": "Antimatter is like a mirror twin of ordinary matter. When the two meet, they destroy each other in a flash of energy. Scientists at CERN even moved antimatter in a truck for the first time."
+      "title": "Your Big Brain Might Be Thanks to Fruit and Honey",
+      "summary": "A new study says sugary foods like fruit and honey helped our ancestors grow bigger brains. Early ancestors' brains weighed about as much as a medium apple — ours are five times heavier!"
     }
   ]
 }

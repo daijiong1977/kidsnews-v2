@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-21-fun-1",
+      "id": "2026-09-22-fun-1",
+      "source": "/Film",
+      "time_ago": "Mon, 21 Sep 2026 20:14:02 +0000",
+      "mined_at": "2026-09-22T08:51:23+00:00",
+      "source_published_at": "Mon, 21 Sep 2026 20:14:02 +0000",
+      "image_url": "/article_images/article_773337e0c2f6.webp",
+      "category": "Fun",
+      "title": "Spider-Man Almost Fought a Different X-Men Villain!",
+      "summary": "Spider-Man's new movie almost had a totally different bad guy: the Shadow King, an X-Men villain. The writers even thought about using him before Marvel said no. Instead, Spider-Man fights Jean Grey!"
+    },
+    {
+      "id": "2026-09-22-fun-2",
       "source": "DOGOnews",
       "time_ago": "",
-      "mined_at": "2026-09-21T17:32:52+00:00",
+      "mined_at": "2026-09-22T08:51:23+00:00",
       "source_published_at": "",
-      "image_url": "/article_images/article_4284eb53b5da.webp",
+      "image_url": "/article_images/article_faf37a8ae851.webp",
       "category": "Fun",
-      "title": "Orcas Are Ramming Boats — And Scientists Think It's a Game",
-      "summary": "A small group of orcas keeps bumping into sailboats near Spain and Portugal — and even sinking some! Scientists think the whales might just be playing with the boats like toys."
+      "title": "This Artist Types Pictures Instead of Drawing Them",
+      "summary": "James Cook makes art with a typewriter, not a paintbrush! He typed a tennis court using over one million keystrokes. His artworks sell for thousands of dollars."
     },
     {
-      "id": "2026-09-21-fun-2",
-      "source": "Billboard",
-      "time_ago": "Mon, 21 Sep 2026 16:34:36 +0000",
-      "mined_at": "2026-09-21T17:32:52+00:00",
-      "source_published_at": "Mon, 21 Sep 2026 16:34:36 +0000",
-      "image_url": "/article_images/article_0c8e670735b4.webp",
+      "id": "2026-09-22-fun-3",
+      "source": "BBC Tennis",
+      "time_ago": "Sun, 20 Sep 2026 15:08:49 GMT",
+      "mined_at": "2026-09-22T08:51:23+00:00",
+      "source_published_at": "Sun, 20 Sep 2026 15:08:49 GMT",
+      "image_url": "/article_images/article_5d1eb8586c4f.webp",
       "category": "Fun",
-      "title": "Taylor Swift's Big Cheer: 'That's My Husband!'",
-      "summary": "Taylor Swift jumped out of her seat and pointed at her wedding ring when Travis Kelce scored a touchdown. The Chiefs beat the Colts 33-30 in overtime."
-    },
-    {
-      "id": "2026-09-21-fun-3",
-      "source": "Live Science",
-      "time_ago": "Mon, 21 Sep 2026 16:06:06 +0000",
-      "mined_at": "2026-09-21T17:32:52+00:00",
-      "source_published_at": "Mon, 21 Sep 2026 16:06:06 +0000",
-      "image_url": "/article_images/article_a4ea21c9bfda.webp",
-      "category": "Fun",
-      "title": "The Southern Taurids Are Here — Watch for Fireballs!",
-      "summary": "The Southern Taurid meteor shower runs from Sept. 20 to Nov. 20. It's slow and sparkly, with a chance of bright fireballs. Best nights: Oct. 13-14 and Nov. 4-5."
+      "title": "Great Britain Smashes Ecuador to Reach Davis Cup Finals!",
+      "summary": "Great Britain beat Ecuador 4-0 in tennis to reach the Davis Cup Finals for the first time since 2023. Henry Patten and Neal Skupski won the doubles to seal the victory."
     }
   ]
 }
