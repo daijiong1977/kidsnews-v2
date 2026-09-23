@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-22-science-1",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Mon, 21 Sep 2026 23:11:46 EDT",
-      "mined_at": "2026-09-22T08:51:23+00:00",
-      "source_published_at": "Mon, 21 Sep 2026 23:11:46 EDT",
-      "image_url": "/article_images/article_412330a7ad8c.webp",
+      "id": "2026-09-23-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Tue, 22 Sep 2026 08:52:43 EDT",
+      "mined_at": "2026-09-23T04:19:00+00:00",
+      "source_published_at": "Tue, 22 Sep 2026 08:52:43 EDT",
+      "image_url": "/article_images/article_4d9089295d05.webp",
       "category": "Science",
-      "title": "Surprise! Scientists Find a Brand-New Penguin Species",
-      "summary": "Scientists just named the first new penguin species in over 100 years. It's a gentoo penguin that lives on the Kerguelen Islands, nearly 2,000 miles from any town. DNA showed it's actually a different species!"
+      "title": "This Tiny Robot Just Did 10 Backflips in 11 Seconds!",
+      "summary": "MIT scientists made a robot bug the size of a microcassette that can flip through the air faster than ever. It uses AI to stay steady, even when wind tries to knock it off course."
     },
     {
-      "id": "2026-09-22-science-2",
-      "source": "Popular Science",
-      "time_ago": "Mon, 21 Sep 2026 14:00:00 -0400",
-      "mined_at": "2026-09-22T08:51:23+00:00",
-      "source_published_at": "Mon, 21 Sep 2026 14:00:00 -0400",
-      "image_url": "/article_images/article_f4ab5ab385b7.webp",
+      "id": "2026-09-23-science-2",
+      "source": "Smithsonian Science-Nature",
+      "time_ago": "Fri, 18 Sep 2026 14:00:00 +0000",
+      "mined_at": "2026-09-23T04:19:00+00:00",
+      "source_published_at": "Fri, 18 Sep 2026 14:00:00 +0000",
+      "image_url": "/article_images/article_97107329a62d.webp",
       "category": "Science",
-      "title": "This Singing Lemur Uses the Same Trick as Opera Stars",
-      "summary": "The indri lemur sings like an opera star — and scientists just figured out how. It opens its mouth wider for higher notes, just like trained human singers. The two species last shared an ancestor 74 million years ago!"
+      "title": "5 Ways the Dinosaur World Was Nothing Like Ours",
+      "summary": "No grass, no polar ice, and a giant supercontinent! The world of dinosaurs was totally different from Earth today—and not just because of the dinosaurs."
     },
     {
-      "id": "2026-09-22-science-3",
+      "id": "2026-09-23-science-3",
       "source": "Science News Explores",
-      "time_ago": "Fri, 18 Sep 2026 10:30:00 +0000",
-      "mined_at": "2026-09-22T08:51:23+00:00",
-      "source_published_at": "Fri, 18 Sep 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_f46802d17a52.webp",
+      "time_ago": "Tue, 22 Sep 2026 10:30:00 +0000",
+      "mined_at": "2026-09-23T04:19:00+00:00",
+      "source_published_at": "Tue, 22 Sep 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_aa9e2a97bb57.webp",
       "category": "Science",
-      "title": "Your Big Brain Might Be Thanks to Fruit and Honey",
-      "summary": "A new study says sugary foods like fruit and honey helped our ancestors grow bigger brains. Early ancestors' brains weighed about as much as a medium apple — ours are five times heavier!"
+      "title": "Fossil Poop and Footprints: The Clues Dinosaurs Left Behind",
+      "summary": "Trace fossils are footprints, burrows, and even poop that tell us how ancient animals lived. They're like a detective story written in rock!"
     }
   ]
 }

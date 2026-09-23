@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-22-science-1",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Mon, 21 Sep 2026 23:11:46 EDT",
-      "mined_at": "2026-09-22T08:51:23+00:00",
-      "source_published_at": "Mon, 21 Sep 2026 23:11:46 EDT",
-      "image_url": "/article_images/article_412330a7ad8c.webp",
+      "id": "2026-09-23-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Tue, 22 Sep 2026 08:52:43 EDT",
+      "mined_at": "2026-09-23T04:19:00+00:00",
+      "source_published_at": "Tue, 22 Sep 2026 08:52:43 EDT",
+      "image_url": "/article_images/article_4d9089295d05.webp",
       "category": "Science",
-      "title": "A Hidden Penguin Species Finally Steps Into the Spotlight",
-      "summary": "On the remote Kerguelen Islands, scientists discovered a penguin species that stayed hidden for over a century. DNA revealed it's not just a gentoo — it's a whole new species, the first named in 100+ years."
+      "title": "MIT's Robotic Insect Learns Backflips with AI, Gets 450% Faster",
+      "summary": "MIT's tiny flying robot now uses AI to perform flips and fly 450% faster. It could one day help search for survivors in collapsed buildings."
     },
     {
-      "id": "2026-09-22-science-2",
-      "source": "Popular Science",
-      "time_ago": "Mon, 21 Sep 2026 14:00:00 -0400",
-      "mined_at": "2026-09-22T08:51:23+00:00",
-      "source_published_at": "Mon, 21 Sep 2026 14:00:00 -0400",
-      "image_url": "/article_images/article_f4ab5ab385b7.webp",
+      "id": "2026-09-23-science-2",
+      "source": "Smithsonian Science-Nature",
+      "time_ago": "Fri, 18 Sep 2026 14:00:00 +0000",
+      "mined_at": "2026-09-23T04:19:00+00:00",
+      "source_published_at": "Fri, 18 Sep 2026 14:00:00 +0000",
+      "image_url": "/article_images/article_97107329a62d.webp",
       "category": "Science",
-      "title": "Opera Singers and Singing Lemurs: Same Trick, Different Branch of the Tree of Life",
-      "summary": "Scientists discovered that Madagascar's singing indri lemur opens its mouth wider for higher notes — the same technique opera singers use. The two species last shared an ancestor 74 million years ago."
+      "title": "Beyond Dinosaurs: Five Ways the Mesozoic Earth Was Alien",
+      "summary": "No grass, no ice caps, and a supercontinent—the dinosaur era was radically different from our world, even without the dinosaurs."
     },
     {
-      "id": "2026-09-22-science-3",
+      "id": "2026-09-23-science-3",
       "source": "Science News Explores",
-      "time_ago": "Fri, 18 Sep 2026 10:30:00 +0000",
-      "mined_at": "2026-09-22T08:51:23+00:00",
-      "source_published_at": "Fri, 18 Sep 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_f46802d17a52.webp",
+      "time_ago": "Tue, 22 Sep 2026 10:30:00 +0000",
+      "mined_at": "2026-09-23T04:19:00+00:00",
+      "source_published_at": "Tue, 22 Sep 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_aa9e2a97bb57.webp",
       "category": "Science",
-      "title": "Sweet Tooth, Big Brain: How Fruit Fueled Human Evolution",
-      "summary": "A new study suggests sugary foods like fruit and honey — not just meat — powered the growth of the human brain. Early ancestors' brains weighed about as much as a medium apple."
+      "title": "Trace Fossils: The Stories Ancient Animals Left in Stone",
+      "summary": "Footprints, burrows, and fossilized poop are trace fossils—clues that reveal how ancient creatures lived, not just what they looked like."
     }
   ]
 }

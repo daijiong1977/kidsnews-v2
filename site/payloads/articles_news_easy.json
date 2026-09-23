@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-22-news-1",
-      "source": "NPR World",
-      "time_ago": "Mon, 21 Sep 2026 15:50:13 -0400",
-      "mined_at": "2026-09-22T08:51:23+00:00",
-      "source_published_at": "Mon, 21 Sep 2026 15:50:13 -0400",
-      "image_url": "/article_images/article_ca71a3962b40.webp",
-      "category": "News",
-      "title": "Chicagohenge! When the Sun Lines Up With City Streets",
-      "summary": "Twice a year, the sun rises and sets exactly in line with east-west streets in Chicago and Denver. Fans call it \"Chicagohenge,\" after England's famous Stonehenge."
-    },
-    {
-      "id": "2026-09-22-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Mon, 21 Sep 2026 18:45:16 -0400",
-      "mined_at": "2026-09-22T08:51:23+00:00",
-      "source_published_at": "Mon, 21 Sep 2026 18:45:16 -0400",
-      "image_url": "/article_images/article_24116ca97ad7.webp",
-      "category": "News",
-      "title": "Planes Frozen on the East Coast: One Broken Wire Grounds Hundreds of Flights",
-      "summary": "A broken circuit and a cut backup cable forced the FAA to stop flights at big East Coast airports on Monday. Hundreds of flights were delayed or canceled in New York and Philadelphia, right as world leaders arrived for the U.N. meeting."
-    },
-    {
-      "id": "2026-09-22-news-3",
+      "id": "2026-09-23-news-1",
       "source": "BBC News",
-      "time_ago": "Tue, 22 Sep 2026 07:14:12 GMT",
-      "mined_at": "2026-09-22T08:51:23+00:00",
-      "source_published_at": "Tue, 22 Sep 2026 07:14:12 GMT",
-      "image_url": "/article_images/article_147ec0dad904.webp",
+      "time_ago": "Wed, 23 Sep 2026 02:57:00 GMT",
+      "mined_at": "2026-09-23T04:19:00+00:00",
+      "source_published_at": "Wed, 23 Sep 2026 02:57:00 GMT",
+      "image_url": "/article_images/article_67154007daef.webp",
       "category": "News",
-      "title": "Seven Big Countries Tell Iran: Stop Arming the Houthis in Yemen",
-      "summary": "A group of seven powerful countries called the G7 says Iran must stop giving weapons to the Houthis in Yemen. The Houthis just took over a key waterway called Bab al-Mandab, and more than 120,000 people have fled their homes."
+      "title": "Trump's Big Choice: Deal or 'Annihilate' Iran?",
+      "summary": "At the UN, President Trump said he could 'annihilate' Iran if no peace deal is reached. But on the same day, US and Iranian officials actually met through a mediator. Trump thinks a deal could come after November's elections."
+    },
+    {
+      "id": "2026-09-23-news-2",
+      "source": "Al Jazeera",
+      "time_ago": "Wed, 23 Sep 2026 01:20:39 +0000",
+      "mined_at": "2026-09-23T04:19:00+00:00",
+      "source_published_at": "Wed, 23 Sep 2026 01:20:39 +0000",
+      "image_url": "/article_images/article_4a7c078f8e60.webp",
+      "category": "News",
+      "title": "Ukraine's Zelenskyy Wants an 'Energy Truce' — No More Striking Power Plants",
+      "summary": "Ukraine's President Zelenskyy says he's ready to stop attacking Russian oil refineries if Russia stops hitting Ukraine's power and heating systems. He met with Trump for 40 minutes in New York. Winter is coming, and both sides are trading heavy strikes."
+    },
+    {
+      "id": "2026-09-23-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Tue, 22 Sep 2026 17:49:10 -0400",
+      "mined_at": "2026-09-23T04:19:00+00:00",
+      "source_published_at": "Tue, 22 Sep 2026 17:49:10 -0400",
+      "image_url": "/article_images/article_3c25d6671800.webp",
+      "category": "News",
+      "title": "One Broken Cable, Hundreds of Flights Cancelled: America's Air Traffic System Is 40 Years Old",
+      "summary": "A broken communications cable in Philadelphia stopped hundreds of flights across the Northeast on Monday. The backup line had been accidentally cut by railroad workers. Officials say the system is 40 years old and needs a $20 billion fix."
     }
   ]
 }

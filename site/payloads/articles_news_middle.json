@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-22-news-1",
-      "source": "NPR World",
-      "time_ago": "Mon, 21 Sep 2026 15:50:13 -0400",
-      "mined_at": "2026-09-22T08:51:23+00:00",
-      "source_published_at": "Mon, 21 Sep 2026 15:50:13 -0400",
-      "image_url": "/article_images/article_ca71a3962b40.webp",
-      "category": "News",
-      "title": "Chicagohenge: How City Streets Frame the Equinox Sun",
-      "summary": "On the fall equinox, the sun rises and sets in perfect line with east-west streets in Chicago and Denver. Nicknamed \"Chicagohenge,\" it's a modern echo of ancient sky-watching sites like Stonehenge."
-    },
-    {
-      "id": "2026-09-22-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Mon, 21 Sep 2026 18:45:16 -0400",
-      "mined_at": "2026-09-22T08:51:23+00:00",
-      "source_published_at": "Mon, 21 Sep 2026 18:45:16 -0400",
-      "image_url": "/article_images/article_24116ca97ad7.webp",
-      "category": "News",
-      "title": "One Failed Circuit, One Cut Cable: East Coast Flights Halted for Hours",
-      "summary": "A circuit failure and an accidentally cut backup cable forced the FAA to issue ground stops at major East Coast airports Monday. Hundreds of flights were delayed or canceled in New York and Philadelphia as world leaders arrived for the U.N. General Assembly."
-    },
-    {
-      "id": "2026-09-22-news-3",
+      "id": "2026-09-23-news-1",
       "source": "BBC News",
-      "time_ago": "Tue, 22 Sep 2026 07:14:12 GMT",
-      "mined_at": "2026-09-22T08:51:23+00:00",
-      "source_published_at": "Tue, 22 Sep 2026 07:14:12 GMT",
-      "image_url": "/article_images/article_147ec0dad904.webp",
+      "time_ago": "Wed, 23 Sep 2026 02:57:00 GMT",
+      "mined_at": "2026-09-23T04:19:00+00:00",
+      "source_published_at": "Wed, 23 Sep 2026 02:57:00 GMT",
+      "image_url": "/article_images/article_67154007daef.webp",
       "category": "News",
-      "title": "G7 Warns Iran to Stop Arming Houthis as Yemen Fighting Displaces 120,000",
-      "summary": "The G7 — seven major nations — demanded Iran stop arming Houthi fighters in Yemen. The Houthis recently seized the Bab al-Mandab Strait, a crucial shipping chokepoint, and the UN says over 120,000 Yemenis have been displaced."
+      "title": "Trump Threatens to 'Annihilate' Iran — While US and Iran Talk Behind the Scenes",
+      "summary": "President Trump told the UN he could 'annihilate' Iran if no deal is reached — but on the same day, US and Iranian officials held indirect talks through a Qatari mediator. Trump says a deal may come after November's elections."
+    },
+    {
+      "id": "2026-09-23-news-2",
+      "source": "Al Jazeera",
+      "time_ago": "Wed, 23 Sep 2026 01:20:39 +0000",
+      "mined_at": "2026-09-23T04:19:00+00:00",
+      "source_published_at": "Wed, 23 Sep 2026 01:20:39 +0000",
+      "image_url": "/article_images/article_4a7c078f8e60.webp",
+      "category": "News",
+      "title": "Zelenskyy Offers 'Energy Truce' with Russia — But Can It Hold?",
+      "summary": "Ukraine's President Zelenskyy says Kyiv will stop striking Russian oil refineries if Moscow stops hitting Ukraine's power grid. He met Trump for 40 minutes in New York. But a previous truce collapsed almost immediately."
+    },
+    {
+      "id": "2026-09-23-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Tue, 22 Sep 2026 17:49:10 -0400",
+      "mined_at": "2026-09-23T04:19:00+00:00",
+      "source_published_at": "Tue, 22 Sep 2026 17:49:10 -0400",
+      "image_url": "/article_images/article_3c25d6671800.webp",
+      "category": "News",
+      "title": "Broken Cable, Broken System: Aging Air Traffic Control Halts Hundreds of Flights",
+      "summary": "A failed communications switch — plus a backup line accidentally cut by railroad workers — grounded hundreds of flights across the Northeast on Monday. Officials say the 40-year-old system needs a $20 billion overhaul."
     }
   ]
 }
