@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-23-news-1",
+      "id": "2026-09-24-news-1",
+      "source": "NPR World",
+      "time_ago": "Wed, 23 Sep 2026 05:01:00 -0400",
+      "mined_at": "2026-09-24T07:18:35+00:00",
+      "source_published_at": "Wed, 23 Sep 2026 05:01:00 -0400",
+      "image_url": "/article_images/article_dd1f3b1c9912.webp",
+      "category": "News",
+      "title": "Three News Groups Take Trump to Court Over White House Ban",
+      "summary": "CNN, MS NOW, and Politico are suing President Trump after he banned them from White House events. They say it's against the First Amendment. A judge will decide."
+    },
+    {
+      "id": "2026-09-24-news-2",
       "source": "BBC News",
-      "time_ago": "Wed, 23 Sep 2026 02:57:00 GMT",
-      "mined_at": "2026-09-23T04:19:00+00:00",
-      "source_published_at": "Wed, 23 Sep 2026 02:57:00 GMT",
-      "image_url": "/article_images/article_67154007daef.webp",
+      "time_ago": "Wed, 23 Sep 2026 15:37:20 GMT",
+      "mined_at": "2026-09-24T07:18:35+00:00",
+      "source_published_at": "Wed, 23 Sep 2026 15:37:20 GMT",
+      "image_url": "/article_images/article_66a415dfdff8.webp",
       "category": "News",
-      "title": "Trump's Big Choice: Deal or 'Annihilate' Iran?",
-      "summary": "At the UN, President Trump said he could 'annihilate' Iran if no peace deal is reached. But on the same day, US and Iranian officials actually met through a mediator. Trump thinks a deal could come after November's elections."
+      "title": "Poland Says Russian Helicopter Flew Into Its Airspace for 42 Seconds",
+      "summary": "Poland says a Russian military helicopter crossed into its airspace on Wednesday for 42 seconds. Poland is part of NATO. It scrambled fighter jets in response."
     },
     {
-      "id": "2026-09-23-news-2",
+      "id": "2026-09-24-news-3",
       "source": "Al Jazeera",
-      "time_ago": "Wed, 23 Sep 2026 01:20:39 +0000",
-      "mined_at": "2026-09-23T04:19:00+00:00",
-      "source_published_at": "Wed, 23 Sep 2026 01:20:39 +0000",
-      "image_url": "/article_images/article_4a7c078f8e60.webp",
+      "time_ago": "Thu, 24 Sep 2026 05:55:26 +0000",
+      "mined_at": "2026-09-24T07:18:35+00:00",
+      "source_published_at": "Thu, 24 Sep 2026 05:55:26 +0000",
+      "image_url": "/article_images/article_319b0751b6be.webp",
       "category": "News",
-      "title": "Ukraine's Zelenskyy Wants an 'Energy Truce' — No More Striking Power Plants",
-      "summary": "Ukraine's President Zelenskyy says he's ready to stop attacking Russian oil refineries if Russia stops hitting Ukraine's power and heating systems. He met with Trump for 40 minutes in New York. Winter is coming, and both sides are trading heavy strikes."
-    },
-    {
-      "id": "2026-09-23-news-3",
-      "source": "PBS NewsHour",
-      "time_ago": "Tue, 22 Sep 2026 17:49:10 -0400",
-      "mined_at": "2026-09-23T04:19:00+00:00",
-      "source_published_at": "Tue, 22 Sep 2026 17:49:10 -0400",
-      "image_url": "/article_images/article_3c25d6671800.webp",
-      "category": "News",
-      "title": "One Broken Cable, Hundreds of Flights Cancelled: America's Air Traffic System Is 40 Years Old",
-      "summary": "A broken communications cable in Philadelphia stopped hundreds of flights across the Northeast on Monday. The backup line had been accidentally cut by railroad workers. Officials say the system is 40 years old and needs a $20 billion fix."
+      "title": "Harry Kane Wants to Try Kicking in the NFL!",
+      "summary": "England soccer captain Harry Kane says he might become an NFL kicker after he stops playing soccer. He's 33 and has scored 85 goals for England. He says kicking a football is a lot like taking a penalty."
     }
   ]
 }
