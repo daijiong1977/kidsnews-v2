@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-24-science-1",
-      "source": "ScienceDaily All",
-      "time_ago": "Wed, 23 Sep 2026 21:07:40 EDT",
-      "mined_at": "2026-09-24T07:18:35+00:00",
-      "source_published_at": "Wed, 23 Sep 2026 21:07:40 EDT",
-      "image_url": "/article_images/article_9080d1db24e5.webp",
+      "id": "2026-09-25-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Thu, 24 Sep 2026 07:19:19 EDT",
+      "mined_at": "2026-09-25T07:20:06+00:00",
+      "source_published_at": "Thu, 24 Sep 2026 07:19:19 EDT",
+      "image_url": "/article_images/article_8c56d26738c8.webp",
       "category": "Science",
-      "title": "Two Major West Coast Faults May Rupture Together, Study Finds",
-      "summary": "New research suggests the Cascadia and San Andreas faults can synchronize, with major earthquakes striking minutes or hours apart. Sediment cores show three such events in 1,500 years. If both ruptured today, multiple West Coast cities could face emergencies at once."
+      "title": "Uranus' Moon Ariel May Have Had a 100-Mile-Deep Ocean",
+      "summary": "A new study suggests Uranus' moon Ariel once hid an ocean over 100 miles deep — 40 times deeper than the Pacific. Huge cracks on its surface hint at this ancient sea."
     },
     {
-      "id": "2026-09-24-science-2",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Mon, 21 Sep 2026 09:23:10 EDT",
-      "mined_at": "2026-09-24T07:18:35+00:00",
-      "source_published_at": "Mon, 21 Sep 2026 09:23:10 EDT",
-      "image_url": "/article_images/article_5d96d684aeaf.webp",
+      "id": "2026-09-25-science-2",
+      "source": "Popular Science",
+      "time_ago": "Thu, 24 Sep 2026 16:03:00 -0400",
+      "mined_at": "2026-09-25T07:20:06+00:00",
+      "source_published_at": "Thu, 24 Sep 2026 16:03:00 -0400",
+      "image_url": "/article_images/article_60a287629ce7.webp",
       "category": "Science",
-      "title": "Black Holes of All Sizes Follow the Same Rule for Launching Jets",
-      "summary": "A new study finds that black holes — from stellar-mass to supermassive — launch powerful jets at the same critical stage of feeding. Astronomers used tidal disruption events to watch the process unfold. The key threshold is about 2% of the Eddington limit."
+      "title": "Frogs Use Bacteria as Living Armor Against a Deadly Fungus",
+      "summary": "Some tropical frogs survive a fungus that has wiped out 90 species — thanks to bacteria on their skin. When scientists removed the bacteria, the frogs got sick."
     },
     {
-      "id": "2026-09-24-science-3",
+      "id": "2026-09-25-science-3",
       "source": "Science News Explores",
-      "time_ago": "Wed, 23 Sep 2026 10:30:00 +0000",
-      "mined_at": "2026-09-24T07:18:35+00:00",
-      "source_published_at": "Wed, 23 Sep 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_c04771513201.webp",
+      "time_ago": "Thu, 24 Sep 2026 10:30:00 +0000",
+      "mined_at": "2026-09-25T07:20:06+00:00",
+      "source_published_at": "Thu, 24 Sep 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_96ed8776d90d.webp",
       "category": "Science",
-      "title": "These Seals Are Doing Oceanography (And They Don't Even Know It)",
-      "summary": "Oceanographer Lily Dove used sensors on Antarctic seals to study the Southern Ocean. The seals dive deeper than humans, collecting data on temperature and salinity that helps scientists understand climate change."
+      "title": "Leopard Bites on Ancient Jawbone Show Humans Were Once Prey",
+      "summary": "Nearly 2 million years ago, a leopard bit an early human's face. AI analysis of tooth marks on a jawbone reveals our ancestors were hunted — not just hunters."
     }
   ]
 }

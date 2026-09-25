@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-24-news-1",
-      "source": "NPR World",
-      "time_ago": "Wed, 23 Sep 2026 05:01:00 -0400",
-      "mined_at": "2026-09-24T07:18:35+00:00",
-      "source_published_at": "Wed, 23 Sep 2026 05:01:00 -0400",
-      "image_url": "/article_images/article_dd1f3b1c9912.webp",
-      "category": "News",
-      "title": "CNN, MS NOW, and Politico Sue Trump Over White House Press Ban",
-      "summary": "Three major news outlets are suing President Trump after he banned them from White House events. They say it violates the First Amendment. A federal judge will decide."
-    },
-    {
-      "id": "2026-09-24-news-2",
+      "id": "2026-09-25-news-1",
       "source": "BBC News",
-      "time_ago": "Wed, 23 Sep 2026 15:37:20 GMT",
-      "mined_at": "2026-09-24T07:18:35+00:00",
-      "source_published_at": "Wed, 23 Sep 2026 15:37:20 GMT",
-      "image_url": "/article_images/article_66a415dfdff8.webp",
+      "time_ago": "Fri, 25 Sep 2026 06:40:18 GMT",
+      "mined_at": "2026-09-25T07:20:06+00:00",
+      "source_published_at": "Fri, 25 Sep 2026 06:40:18 GMT",
+      "image_url": "/article_images/article_262b590f746f.webp",
       "category": "News",
-      "title": "Poland: Russian Military Helicopter Violated Our Airspace for 42 Seconds",
-      "summary": "Poland says a Russian Mi-8 helicopter entered its airspace for 42 seconds on Wednesday. NATO member Poland scrambled fighter jets. Russia has not commented."
+      "title": "Trump and Xi Toast Friendship at White House State Dinner, But No Deals Yet",
+      "summary": "President Trump hosted China's President Xi for a lavish state dinner, giving him a bald eagle sculpture. Both leaders promised cooperation, but experts say the visit has produced no concrete progress on major disputes."
     },
     {
-      "id": "2026-09-24-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Thu, 24 Sep 2026 05:55:26 +0000",
-      "mined_at": "2026-09-24T07:18:35+00:00",
-      "source_published_at": "Thu, 24 Sep 2026 05:55:26 +0000",
-      "image_url": "/article_images/article_319b0751b6be.webp",
+      "id": "2026-09-25-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Thu, 24 Sep 2026 18:55:06 -0400",
+      "mined_at": "2026-09-25T07:20:06+00:00",
+      "source_published_at": "Thu, 24 Sep 2026 18:55:06 -0400",
+      "image_url": "/article_images/article_1319794292cc.webp",
       "category": "News",
-      "title": "Harry Kane Eyes NFL Kicking Career After Soccer",
-      "summary": "England's all-time top scorer Harry Kane says he may become an NFL kicker after his soccer career. The 33-year-old Bayern Munich striker says penalty kicks and field goals require similar pressure and technique."
+      "title": "Trump and Xi Meet at White House: AI, Trade, Taiwan, and Iran on the Table",
+      "summary": "Chinese leader Xi Jinping visited the White House for the first time in over a decade. He and President Trump discussed trade, AI, Taiwan, and Iran — and agreed to extend a trade truce. A second U.S. arms package to Taiwan is on hold."
+    },
+    {
+      "id": "2026-09-25-news-3",
+      "source": "BBC News",
+      "time_ago": "Fri, 25 Sep 2026 03:57:09 GMT",
+      "mined_at": "2026-09-25T07:20:06+00:00",
+      "source_published_at": "Fri, 25 Sep 2026 03:57:09 GMT",
+      "image_url": "/article_images/article_3c02b4c764c9.webp",
+      "category": "News",
+      "title": "Red Carpet for Xi, But Trade Truce Only Lasts a Few Months",
+      "summary": "President Trump welcomed China's Xi Jinping to the White House with a red carpet — but Xi didn't get the year-long trade truce he wanted. The pause lasts only from November to January, leaving tariffs and Taiwan unresolved."
     }
   ]
 }

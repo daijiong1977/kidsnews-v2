@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-24-fun-1",
-      "source": "Billboard",
-      "time_ago": "Thu, 24 Sep 2026 03:35:00 +0000",
-      "mined_at": "2026-09-24T07:18:35+00:00",
-      "source_published_at": "Thu, 24 Sep 2026 03:35:00 +0000",
-      "image_url": "/article_images/article_c39bbcca083e.webp",
+      "id": "2026-09-25-fun-1",
+      "source": "Live Science",
+      "time_ago": "Thu, 24 Sep 2026 17:42:28 +0000",
+      "mined_at": "2026-09-25T07:20:06+00:00",
+      "source_published_at": "Thu, 24 Sep 2026 17:42:28 +0000",
+      "image_url": "/article_images/article_0aaf97fae183.webp",
       "category": "Fun",
-      "title": "KPop Demon Hunters Is One Week Away From a Huge Music Record",
-      "summary": "A K-pop soundtrack has been No. 1 on Billboard's soundtrack chart for 61 weeks — just one week shy of the all-time record. Only one other soundtrack has ever stayed on top longer."
+      "title": "Armored Dino Found in Japan May Have Walked from Alaska!",
+      "summary": "Scientists found a new armored dinosaur in Japan. It may have walked there from North America across an ancient land bridge. Only three of its kind have ever been found in Asia."
     },
     {
-      "id": "2026-09-24-fun-2",
-      "source": "DOGOnews",
+      "id": "2026-09-25-fun-2",
+      "source": "Live Science",
+      "time_ago": "Thu, 24 Sep 2026 10:00:00 +0000",
+      "mined_at": "2026-09-25T07:20:06+00:00",
+      "source_published_at": "Thu, 24 Sep 2026 10:00:00 +0000",
+      "image_url": "/article_images/article_773ea685423c.webp",
+      "category": "Fun",
+      "title": "A Comet from Another Star System May Hold Clues to Life",
+      "summary": "A comet called 3I/ATLAS came from outside our solar system. Scientists found organic molecules on it — the same kind that help build life. It's only the third interstellar object ever spotted."
+    },
+    {
+      "id": "2026-09-25-fun-3",
+      "source": "NG Kids — Space",
       "time_ago": "",
-      "mined_at": "2026-09-24T07:18:35+00:00",
+      "mined_at": "2026-09-25T07:20:06+00:00",
       "source_published_at": "",
-      "image_url": "/article_images/article_34d02763f293.webp",
+      "image_url": "/article_images/article_805ddc8396fc.webp",
       "category": "Fun",
-      "title": "These Chairs Grew on Trees (Really!)",
-      "summary": "In England, Gavin and Alice Munro grow furniture from living trees instead of building it in factories. Their tree-grown chairs take years to make but use way less energy."
-    },
-    {
-      "id": "2026-09-24-fun-3",
-      "source": "BBC Tennis",
-      "time_ago": "Thu, 24 Sep 2026 06:56:50 GMT",
-      "mined_at": "2026-09-24T07:18:35+00:00",
-      "source_published_at": "Thu, 24 Sep 2026 06:56:50 GMT",
-      "image_url": "/article_images/article_1c4347ab009f.webp",
-      "category": "Fun",
-      "title": "Carlos Alcaraz Smiled After a 3:34 AM Loss — Here's Why",
-      "summary": "Tennis star Carlos Alcaraz lost a five-set match at 3:34 a.m. — the latest finish in US Open history. But he walked off smiling because he was just happy to play again after a wrist injury."
+      "title": "Jupiter: The Giant Planet That Could Hold 1,300 Earths",
+      "summary": "Jupiter is the biggest planet in our solar system. It's a gas giant with no solid surface, a 300-year-old hurricane, and nearly 70 moons. One of its moons might even hide life."
     }
   ]
 }

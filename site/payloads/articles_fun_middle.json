@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-24-fun-1",
-      "source": "Billboard",
-      "time_ago": "Thu, 24 Sep 2026 03:35:00 +0000",
-      "mined_at": "2026-09-24T07:18:35+00:00",
-      "source_published_at": "Thu, 24 Sep 2026 03:35:00 +0000",
-      "image_url": "/article_images/article_c39bbcca083e.webp",
+      "id": "2026-09-25-fun-1",
+      "source": "Live Science",
+      "time_ago": "Thu, 24 Sep 2026 17:42:28 +0000",
+      "mined_at": "2026-09-25T07:20:06+00:00",
+      "source_published_at": "Thu, 24 Sep 2026 17:42:28 +0000",
+      "image_url": "/article_images/article_0aaf97fae183.webp",
       "category": "Fun",
-      "title": "KPop Demon Hunters Nears Billboard Record for Most Weeks at No. 1",
-      "summary": "The KPop Demon Hunters soundtrack has ruled Billboard's Top Soundtracks chart for 61 weeks — just one week short of the all-time record. Only one other soundtrack has ever held the top spot longer."
+      "title": "New Armored Dinosaur Discovered in Japan — And It May Have Walked from Alaska",
+      "summary": "A new species of armored dinosaur has been identified from fossils found in Japan. Scientists think its ancestors migrated from North America across an ancient land bridge. Only three nodosaurids have ever been found in Asia."
     },
     {
-      "id": "2026-09-24-fun-2",
-      "source": "DOGOnews",
+      "id": "2026-09-25-fun-2",
+      "source": "Live Science",
+      "time_ago": "Thu, 24 Sep 2026 10:00:00 +0000",
+      "mined_at": "2026-09-25T07:20:06+00:00",
+      "source_published_at": "Thu, 24 Sep 2026 10:00:00 +0000",
+      "image_url": "/article_images/article_773ea685423c.webp",
+      "category": "Fun",
+      "title": "Interstellar Comet 3I/ATLAS Carries the Building Blocks of Life",
+      "summary": "A comet from another star system, 3I/ATLAS, contains organic molecules that are key ingredients for life. It's only the third interstellar object ever found, and scientists say it shows life's building blocks are common in our galaxy."
+    },
+    {
+      "id": "2026-09-25-fun-3",
+      "source": "NG Kids — Space",
       "time_ago": "",
-      "mined_at": "2026-09-24T07:18:35+00:00",
+      "mined_at": "2026-09-25T07:20:06+00:00",
       "source_published_at": "",
-      "image_url": "/article_images/article_34d02763f293.webp",
+      "image_url": "/article_images/article_805ddc8396fc.webp",
       "category": "Fun",
-      "title": "Full Grown: The Company That Grows Furniture on Trees",
-      "summary": "In Derbyshire, England, Gavin and Alice Munro grow chairs and tables from living trees. Their method uses 25% of the energy of factory-made furniture and creates a wildlife sanctuary."
-    },
-    {
-      "id": "2026-09-24-fun-3",
-      "source": "BBC Tennis",
-      "time_ago": "Thu, 24 Sep 2026 06:56:50 GMT",
-      "mined_at": "2026-09-24T07:18:35+00:00",
-      "source_published_at": "Thu, 24 Sep 2026 06:56:50 GMT",
-      "image_url": "/article_images/article_1c4347ab009f.webp",
-      "category": "Fun",
-      "title": "Alcaraz Smiles Through 3:34 AM Loss, Calls for Schedule Change",
-      "summary": "Carlos Alcaraz lost a five-set US Open match at 3:34 a.m. — the latest finish in tournament history — but smiled because he was back after a five-month wrist injury. He wants matches to end by 11 p.m."
+      "title": "Jupiter: The Failed Star with a 300-Year-Old Hurricane",
+      "summary": "Jupiter is the largest planet in our solar system — a gas giant so big it could hold 1,300 Earths. It has nearly 70 moons, a centuries-old storm, and a moon that might hide an ocean with life."
     }
   ]
 }

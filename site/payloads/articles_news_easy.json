@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-24-news-1",
-      "source": "NPR World",
-      "time_ago": "Wed, 23 Sep 2026 05:01:00 -0400",
-      "mined_at": "2026-09-24T07:18:35+00:00",
-      "source_published_at": "Wed, 23 Sep 2026 05:01:00 -0400",
-      "image_url": "/article_images/article_dd1f3b1c9912.webp",
-      "category": "News",
-      "title": "Three News Groups Take Trump to Court Over White House Ban",
-      "summary": "CNN, MS NOW, and Politico are suing President Trump after he banned them from White House events. They say it's against the First Amendment. A judge will decide."
-    },
-    {
-      "id": "2026-09-24-news-2",
+      "id": "2026-09-25-news-1",
       "source": "BBC News",
-      "time_ago": "Wed, 23 Sep 2026 15:37:20 GMT",
-      "mined_at": "2026-09-24T07:18:35+00:00",
-      "source_published_at": "Wed, 23 Sep 2026 15:37:20 GMT",
-      "image_url": "/article_images/article_66a415dfdff8.webp",
+      "time_ago": "Fri, 25 Sep 2026 06:40:18 GMT",
+      "mined_at": "2026-09-25T07:20:06+00:00",
+      "source_published_at": "Fri, 25 Sep 2026 06:40:18 GMT",
+      "image_url": "/article_images/article_262b590f746f.webp",
       "category": "News",
-      "title": "Poland Says Russian Helicopter Flew Into Its Airspace for 42 Seconds",
-      "summary": "Poland says a Russian military helicopter crossed into its airspace on Wednesday for 42 seconds. Poland is part of NATO. It scrambled fighter jets in response."
+      "title": "Trump and Xi Share a Fancy Dinner and a Bald Eagle Statue",
+      "summary": "President Trump welcomed China's President Xi to the White House for a big state dinner. Trump gave Xi a sculpture of a bald eagle. Both leaders said they want peace and friendship, but experts say no big deals were made yet."
     },
     {
-      "id": "2026-09-24-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Thu, 24 Sep 2026 05:55:26 +0000",
-      "mined_at": "2026-09-24T07:18:35+00:00",
-      "source_published_at": "Thu, 24 Sep 2026 05:55:26 +0000",
-      "image_url": "/article_images/article_319b0751b6be.webp",
+      "id": "2026-09-25-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Thu, 24 Sep 2026 18:55:06 -0400",
+      "mined_at": "2026-09-25T07:20:06+00:00",
+      "source_published_at": "Thu, 24 Sep 2026 18:55:06 -0400",
+      "image_url": "/article_images/article_1319794292cc.webp",
       "category": "News",
-      "title": "Harry Kane Wants to Try Kicking in the NFL!",
-      "summary": "England soccer captain Harry Kane says he might become an NFL kicker after he stops playing soccer. He's 33 and has scored 85 goals for England. He says kicking a football is a lot like taking a penalty."
+      "title": "Two Leaders, One Big Meeting: Trump and Xi Talk AI, Trade, and Taiwan",
+      "summary": "China's leader Xi Jinping visited the White House for the first time in over 10 years. He and President Trump talked about trade, AI, Taiwan, and Iran. One big deal: they agreed to keep a 'trade truce' going."
+    },
+    {
+      "id": "2026-09-25-news-3",
+      "source": "BBC News",
+      "time_ago": "Fri, 25 Sep 2026 03:57:09 GMT",
+      "mined_at": "2026-09-25T07:20:06+00:00",
+      "source_published_at": "Fri, 25 Sep 2026 03:57:09 GMT",
+      "image_url": "/article_images/article_3c02b4c764c9.webp",
+      "category": "News",
+      "title": "Xi Visits Trump: Red Carpet, But Not Everything He Wanted",
+      "summary": "China's leader Xi Jinping met President Trump in Washington. Trump gave him a fancy welcome, but Xi didn't get everything he asked for. The two countries agreed to pause their tariff fight — but only until January."
     }
   ]
 }
