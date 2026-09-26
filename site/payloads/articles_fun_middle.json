@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-25-fun-1",
-      "source": "Live Science",
-      "time_ago": "Thu, 24 Sep 2026 17:42:28 +0000",
-      "mined_at": "2026-09-25T07:20:06+00:00",
-      "source_published_at": "Thu, 24 Sep 2026 17:42:28 +0000",
-      "image_url": "/article_images/article_0aaf97fae183.webp",
-      "category": "Fun",
-      "title": "New Armored Dinosaur Discovered in Japan — And It May Have Walked from Alaska",
-      "summary": "A new species of armored dinosaur has been identified from fossils found in Japan. Scientists think its ancestors migrated from North America across an ancient land bridge. Only three nodosaurids have ever been found in Asia."
-    },
-    {
-      "id": "2026-09-25-fun-2",
-      "source": "Live Science",
-      "time_ago": "Thu, 24 Sep 2026 10:00:00 +0000",
-      "mined_at": "2026-09-25T07:20:06+00:00",
-      "source_published_at": "Thu, 24 Sep 2026 10:00:00 +0000",
-      "image_url": "/article_images/article_773ea685423c.webp",
-      "category": "Fun",
-      "title": "Interstellar Comet 3I/ATLAS Carries the Building Blocks of Life",
-      "summary": "A comet from another star system, 3I/ATLAS, contains organic molecules that are key ingredients for life. It's only the third interstellar object ever found, and scientists say it shows life's building blocks are common in our galaxy."
-    },
-    {
-      "id": "2026-09-25-fun-3",
-      "source": "NG Kids — Space",
+      "id": "2026-09-26-fun-1",
+      "source": "DOGOnews",
       "time_ago": "",
-      "mined_at": "2026-09-25T07:20:06+00:00",
+      "mined_at": "2026-09-26T07:15:54+00:00",
       "source_published_at": "",
-      "image_url": "/article_images/article_805ddc8396fc.webp",
+      "image_url": "/article_images/article_fe012afa57fa.webp",
       "category": "Fun",
-      "title": "Jupiter: The Failed Star with a 300-Year-Old Hurricane",
-      "summary": "Jupiter is the largest planet in our solar system — a gas giant so big it could hold 1,300 Earths. It has nearly 70 moons, a centuries-old storm, and a moon that might hide an ocean with life."
+      "title": "Fat Bear Week Returns: The Ultimate Chubby Championship",
+      "summary": "Fat Bear Week is back! Vote online for the fattest brown bear at Katmai National Park in Alaska. The contest runs from September 22 to 29, 2026, with 16 bears competing."
+    },
+    {
+      "id": "2026-09-26-fun-2",
+      "source": "Wired Gear",
+      "time_ago": "Fri, 25 Sep 2026 20:30:40 +0000",
+      "mined_at": "2026-09-26T07:15:54+00:00",
+      "source_published_at": "Fri, 25 Sep 2026 20:30:40 +0000",
+      "image_url": "/article_images/article_cfaa791365ad.webp",
+      "category": "Fun",
+      "title": "Trailer Heist Foiled: Thieves Get 40,000 Pounds of Sand Instead of Tech",
+      "summary": "Thieves in California stole two Nvidia-branded trailers, expecting high-tech gear. They got 40,000 pounds of sand instead. The trailers were recovered, and police are investigating."
+    },
+    {
+      "id": "2026-09-26-fun-3",
+      "source": "BBC Tennis",
+      "time_ago": "Thu, 24 Sep 2026 06:56:50 GMT",
+      "mined_at": "2026-09-26T07:15:54+00:00",
+      "source_published_at": "Thu, 24 Sep 2026 06:56:50 GMT",
+      "image_url": "/article_images/article_1c4347ab009f.webp",
+      "category": "Fun",
+      "title": "Alcaraz's Smile After 3:34am Defeat: 'I Suffered, But I Enjoyed'",
+      "summary": "Carlos Alcaraz lost a five-set US Open match at 3:34am but walked off smiling. He said he missed competing after a wrist injury kept him out for months."
     }
   ]
 }

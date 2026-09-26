@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-25-science-1",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Thu, 24 Sep 2026 07:19:19 EDT",
-      "mined_at": "2026-09-25T07:20:06+00:00",
-      "source_published_at": "Thu, 24 Sep 2026 07:19:19 EDT",
-      "image_url": "/article_images/article_8c56d26738c8.webp",
-      "category": "Science",
-      "title": "A Moon of Uranus May Hide an Ocean 40 Times Deeper Than the Pacific",
-      "summary": "Scientists think Uranus' moon Ariel once had a hidden ocean over 100 miles deep. That's 40 times deeper than the Pacific Ocean! Cracks on its surface hint at this secret sea."
-    },
-    {
-      "id": "2026-09-25-science-2",
+      "id": "2026-09-26-science-1",
       "source": "Popular Science",
-      "time_ago": "Thu, 24 Sep 2026 16:03:00 -0400",
-      "mined_at": "2026-09-25T07:20:06+00:00",
-      "source_published_at": "Thu, 24 Sep 2026 16:03:00 -0400",
-      "image_url": "/article_images/article_60a287629ce7.webp",
+      "time_ago": "Fri, 25 Sep 2026 13:06:35 -0400",
+      "mined_at": "2026-09-26T07:15:54+00:00",
+      "source_published_at": "Fri, 25 Sep 2026 13:06:35 -0400",
+      "image_url": "/article_images/article_5c19b93bb7b0.webp",
       "category": "Science",
-      "title": "Frogs Wear Invisible Bacteria Armor to Fight Deadly Fungus",
-      "summary": "Some frogs survive a deadly fungus thanks to bacteria living on their skin. Scientists found that when these bacteria are removed, the frogs get sick. It's like a natural suit of armor!"
+      "title": "Weird Al Yankovic Now Has an Asteroid Named After Him",
+      "summary": "Singer Weird Al Yankovic just got an asteroid named in his honor. Asteroid (14331) Alyankovic is about 1 to 1.25 miles wide and orbits between Mars and Jupiter."
     },
     {
-      "id": "2026-09-25-science-3",
+      "id": "2026-09-26-science-2",
       "source": "Science News Explores",
-      "time_ago": "Thu, 24 Sep 2026 10:30:00 +0000",
-      "mined_at": "2026-09-25T07:20:06+00:00",
-      "source_published_at": "Thu, 24 Sep 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_96ed8776d90d.webp",
+      "time_ago": "Fri, 25 Sep 2026 10:30:00 +0000",
+      "mined_at": "2026-09-26T07:15:54+00:00",
+      "source_published_at": "Fri, 25 Sep 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_b51f549f0426.webp",
       "category": "Science",
-      "title": "When Humans Were Prey: Leopard Bites on an Ancient Jawbone",
-      "summary": "Nearly 2 million years ago, a leopard bit an early human's face. Scientists found tooth marks on a jawbone, showing our ancestors were once prey — not just hunters."
+      "title": "This Robot Rolls Up Like an Armadillo to Protect Itself",
+      "summary": "Engineers built a soft robot that curls into a ball like an armadillo. When touched, it rolls up in about a minute to protect fragile electronics inside."
+    },
+    {
+      "id": "2026-09-26-science-3",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Thu, 24 Sep 2026 23:19:34 EDT",
+      "mined_at": "2026-09-26T07:15:54+00:00",
+      "source_published_at": "Thu, 24 Sep 2026 23:19:34 EDT",
+      "image_url": "/article_images/article_ca080d26f4c9.webp",
+      "category": "Science",
+      "title": "A Dead Star Is Making a Shock Wave That Shouldn't Exist",
+      "summary": "Astronomers found a dead star creating a huge shock wave in space. Based on what we know, it shouldn't be possible. The discovery could change how we understand stars."
     }
   ]
 }

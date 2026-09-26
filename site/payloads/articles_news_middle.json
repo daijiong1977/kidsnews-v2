@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-25-news-1",
-      "source": "BBC News",
-      "time_ago": "Fri, 25 Sep 2026 06:40:18 GMT",
-      "mined_at": "2026-09-25T07:20:06+00:00",
-      "source_published_at": "Fri, 25 Sep 2026 06:40:18 GMT",
-      "image_url": "/article_images/article_262b590f746f.webp",
+      "id": "2026-09-26-news-1",
+      "source": "NPR World",
+      "time_ago": "Fri, 25 Sep 2026 10:46:28 -0400",
+      "mined_at": "2026-09-26T07:15:54+00:00",
+      "source_published_at": "Fri, 25 Sep 2026 10:46:28 -0400",
+      "image_url": "/article_images/article_14e4fedf8fbc.webp",
       "category": "News",
-      "title": "Trump and Xi Toast Friendship at White House State Dinner, But No Deals Yet",
-      "summary": "President Trump hosted China's President Xi for a lavish state dinner, giving him a bald eagle sculpture. Both leaders promised cooperation, but experts say the visit has produced no concrete progress on major disputes."
+      "title": "Hurricane Nolo: Slow, Soaking, and Strengthening Toward Hawaii",
+      "summary": "Hurricane Nolo is crawling toward Hawaii at 5 mph, and forecasters warn it could dump up to 2 feet of rain. A hurricane watch is up for the Big Island as the storm keeps getting stronger."
     },
     {
-      "id": "2026-09-25-news-2",
+      "id": "2026-09-26-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Thu, 24 Sep 2026 18:55:06 -0400",
-      "mined_at": "2026-09-25T07:20:06+00:00",
-      "source_published_at": "Thu, 24 Sep 2026 18:55:06 -0400",
-      "image_url": "/article_images/article_1319794292cc.webp",
+      "time_ago": "Fri, 25 Sep 2026 18:34:43 -0400",
+      "mined_at": "2026-09-26T07:15:54+00:00",
+      "source_published_at": "Fri, 25 Sep 2026 18:34:43 -0400",
+      "image_url": "/article_images/article_b13eb5b4f393.webp",
       "category": "News",
-      "title": "Trump and Xi Meet at White House: AI, Trade, Taiwan, and Iran on the Table",
-      "summary": "Chinese leader Xi Jinping visited the White House for the first time in over a decade. He and President Trump discussed trade, AI, Taiwan, and Iran — and agreed to extend a trade truce. A second U.S. arms package to Taiwan is on hold."
+      "title": "Supreme Court Blocks Trump-Backed Missouri Map, Citing 'Electoral Chaos'",
+      "summary": "The Supreme Court rejected a Trump-backed Missouri voting map for the third time, saying switching districts mid-election would cause chaos. Absentee voting is already underway under the old 2022 map."
     },
     {
-      "id": "2026-09-25-news-3",
+      "id": "2026-09-26-news-3",
       "source": "BBC News",
-      "time_ago": "Fri, 25 Sep 2026 03:57:09 GMT",
-      "mined_at": "2026-09-25T07:20:06+00:00",
-      "source_published_at": "Fri, 25 Sep 2026 03:57:09 GMT",
-      "image_url": "/article_images/article_3c02b4c764c9.webp",
+      "time_ago": "Sat, 26 Sep 2026 05:03:09 GMT",
+      "mined_at": "2026-09-26T07:15:54+00:00",
+      "source_published_at": "Sat, 26 Sep 2026 05:03:09 GMT",
+      "image_url": "/article_images/article_3808196cf27c.webp",
       "category": "News",
-      "title": "Red Carpet for Xi, But Trade Truce Only Lasts a Few Months",
-      "summary": "President Trump welcomed China's Xi Jinping to the White House with a red carpet — but Xi didn't get the year-long trade truce he wanted. The pause lasts only from November to January, leaving tariffs and Taiwan unresolved."
+      "title": "Iran Offers 7-Day Deal to Reopen Strait of Hormuz, but US Remains Skeptical",
+      "summary": "Iran says it can reopen the Strait of Hormuz within a week if the US meets conditions from a June agreement. The strait is a crucial oil route, and talks have collapsed before."
     }
   ]
 }

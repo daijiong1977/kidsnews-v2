@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-25-news-1",
-      "source": "BBC News",
-      "time_ago": "Fri, 25 Sep 2026 06:40:18 GMT",
-      "mined_at": "2026-09-25T07:20:06+00:00",
-      "source_published_at": "Fri, 25 Sep 2026 06:40:18 GMT",
-      "image_url": "/article_images/article_262b590f746f.webp",
+      "id": "2026-09-26-news-1",
+      "source": "NPR World",
+      "time_ago": "Fri, 25 Sep 2026 10:46:28 -0400",
+      "mined_at": "2026-09-26T07:15:54+00:00",
+      "source_published_at": "Fri, 25 Sep 2026 10:46:28 -0400",
+      "image_url": "/article_images/article_14e4fedf8fbc.webp",
       "category": "News",
-      "title": "Trump and Xi Share a Fancy Dinner and a Bald Eagle Statue",
-      "summary": "President Trump welcomed China's President Xi to the White House for a big state dinner. Trump gave Xi a sculpture of a bald eagle. Both leaders said they want peace and friendship, but experts say no big deals were made yet."
+      "title": "Hurricane Nolo Is Crawling Toward Hawaii — And It's Carrying a Lot of Rain",
+      "summary": "Hurricane Nolo is creeping toward Hawaii at just 5 mph. It might not hit land, but it could dump up to 2 feet of rain on the Big Island, and people there are getting ready now."
     },
     {
-      "id": "2026-09-25-news-2",
+      "id": "2026-09-26-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Thu, 24 Sep 2026 18:55:06 -0400",
-      "mined_at": "2026-09-25T07:20:06+00:00",
-      "source_published_at": "Thu, 24 Sep 2026 18:55:06 -0400",
-      "image_url": "/article_images/article_1319794292cc.webp",
+      "time_ago": "Fri, 25 Sep 2026 18:34:43 -0400",
+      "mined_at": "2026-09-26T07:15:54+00:00",
+      "source_published_at": "Fri, 25 Sep 2026 18:34:43 -0400",
+      "image_url": "/article_images/article_b13eb5b4f393.webp",
       "category": "News",
-      "title": "Two Leaders, One Big Meeting: Trump and Xi Talk AI, Trade, and Taiwan",
-      "summary": "China's leader Xi Jinping visited the White House for the first time in over 10 years. He and President Trump talked about trade, AI, Taiwan, and Iran. One big deal: they agreed to keep a 'trade truce' going."
+      "title": "Supreme Court Says Missouri Will Use Its Old Voting Map — For Now",
+      "summary": "The Supreme Court just said Missouri can't use a new voting map for the November election. That means voters will use the same districts as 2022 and 2024 — and absentee voting has already started."
     },
     {
-      "id": "2026-09-25-news-3",
+      "id": "2026-09-26-news-3",
       "source": "BBC News",
-      "time_ago": "Fri, 25 Sep 2026 03:57:09 GMT",
-      "mined_at": "2026-09-25T07:20:06+00:00",
-      "source_published_at": "Fri, 25 Sep 2026 03:57:09 GMT",
-      "image_url": "/article_images/article_3c02b4c764c9.webp",
+      "time_ago": "Sat, 26 Sep 2026 05:03:09 GMT",
+      "mined_at": "2026-09-26T07:15:54+00:00",
+      "source_published_at": "Sat, 26 Sep 2026 05:03:09 GMT",
+      "image_url": "/article_images/article_3808196cf27c.webp",
       "category": "News",
-      "title": "Xi Visits Trump: Red Carpet, But Not Everything He Wanted",
-      "summary": "China's leader Xi Jinping met President Trump in Washington. Trump gave him a fancy welcome, but Xi didn't get everything he asked for. The two countries agreed to pause their tariff fight — but only until January."
+      "title": "Iran Says It Can Reopen a Key Oil Waterway in Just 7 Days",
+      "summary": "Iran says it has a plan to reopen the Strait of Hormuz — a narrow sea passage where about 18 ships pass each day — within a week. But the US has to agree first, and talks have fallen apart before."
     }
   ]
 }
