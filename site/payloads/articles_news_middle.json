@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-09-26-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Sat, 26 Sep 2026 13:20:24 -0400",
-      "mined_at": "2026-09-26T22:36:56+00:00",
-      "source_published_at": "Sat, 26 Sep 2026 13:20:24 -0400",
-      "image_url": "/article_images/article_3dd25706de50.webp",
-      "category": "News",
-      "title": "Trump Uses Rare 'Pocket Rescission' to Claw Back $1 Billion",
-      "summary": "President Trump is canceling nearly $1 billion in spending Congress approved, targeting refugee services and diversity programs. A Republican senator calls it illegal. The fight is over who controls the federal purse."
-    },
-    {
-      "id": "2026-09-26-news-2",
       "source": "NPR World",
       "time_ago": "Fri, 25 Sep 2026 10:46:28 -0400",
-      "mined_at": "2026-09-26T22:36:56+00:00",
+      "mined_at": "2026-09-26T23:19:02+00:00",
       "source_published_at": "Fri, 25 Sep 2026 10:46:28 -0400",
       "image_url": "/article_images/article_14e4fedf8fbc.webp",
       "category": "News",
-      "title": "Hurricane Nolo's Slow Crawl Could Bring 2 Feet of Rain to Hawaii",
-      "summary": "Hurricane Nolo is creeping toward Hawaii at just 5 mph, with winds that could reach 140 mph. Forecasters warn of catastrophic flooding and mudslides. The Big Island is under a hurricane watch."
+      "title": "Hurricane Nolo: Slow, Strong, and Soaking Hawaii",
+      "summary": "Hurricane Nolo is moving at just 5 mph toward Hawaii. It may not make landfall, but forecasters warn of up to 2 feet of rain and \"catastrophic flooding\" on the Big Island."
+    },
+    {
+      "id": "2026-09-26-news-2",
+      "source": "BBC News",
+      "time_ago": "Sat, 26 Sep 2026 22:04:26 GMT",
+      "mined_at": "2026-09-26T23:19:02+00:00",
+      "source_published_at": "Sat, 26 Sep 2026 22:04:26 GMT",
+      "image_url": "/article_images/article_8e8dd43e1318.webp",
+      "category": "News",
+      "title": "Nor'easter Turns Streets into Rivers, Cancels Concerts Across the Northeast",
+      "summary": "A powerful nor'easter flooded New York and New Jersey on Saturday, cutting power to 100,000+ homes and cancelling 1,199 flights. A full moon made the coastal flooding even worse."
     },
     {
       "id": "2026-09-26-news-3",
-      "source": "BBC News",
-      "time_ago": "Sat, 26 Sep 2026 19:48:06 GMT",
-      "mined_at": "2026-09-26T22:36:56+00:00",
-      "source_published_at": "Sat, 26 Sep 2026 19:48:06 GMT",
-      "image_url": "/article_images/article_9e39130e88dd.webp",
+      "source": "Al Jazeera",
+      "time_ago": "Sat, 26 Sep 2026 21:51:56 +0000",
+      "mined_at": "2026-09-26T23:19:02+00:00",
+      "source_published_at": "Sat, 26 Sep 2026 21:51:56 +0000",
+      "image_url": "/article_images/article_677daa1da406.webp",
       "category": "News",
-      "title": "Pope Leo XIV Draws 700,000 to Paris Mass, Praises Youth as 'Today's Church'",
-      "summary": "An estimated 700,000 people gathered at Place de la Concorde for an open-air Mass with Pope Leo XIV. He rode down the Champs-Élysées in his popemobile and told young people they are \"today's Church.\""
+      "title": "Trump Rolls Back Fuel Economy Rules, Sparking Debate Over Cars and Climate",
+      "summary": "President Trump announced new fuel economy standards that reverse Biden-era rules. He says it will lower car prices, but the old rules aimed to cut emissions and save fuel."
     }
   ]
 }
