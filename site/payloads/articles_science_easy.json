@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-09-26-science-1",
-      "source": "Popular Science",
-      "time_ago": "Fri, 25 Sep 2026 13:06:35 -0400",
-      "mined_at": "2026-09-26T07:15:54+00:00",
-      "source_published_at": "Fri, 25 Sep 2026 13:06:35 -0400",
-      "image_url": "/article_images/article_5c19b93bb7b0.webp",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Sat, 26 Sep 2026 10:04:56 EDT",
+      "mined_at": "2026-09-26T22:36:56+00:00",
+      "source_published_at": "Sat, 26 Sep 2026 10:04:56 EDT",
+      "image_url": "/article_images/article_2bcd1be31ccf.webp",
       "category": "Science",
-      "title": "Weird Al Yankovic Now Has an Asteroid Named After Him",
-      "summary": "Singer Weird Al Yankovic just got an asteroid named in his honor. Asteroid (14331) Alyankovic is about 1 to 1.25 miles wide and orbits between Mars and Jupiter."
+      "title": "Scientists Burned Scrolls on Purpose — And It Might Unlock a Buried Library",
+      "summary": "A scientist burned scrolls on purpose to solve a 2,000-year-old mystery. If ancient ink had lead in it, X-rays can read the words without ever unrolling them."
     },
     {
       "id": "2026-09-26-science-2",
-      "source": "Science News Explores",
-      "time_ago": "Fri, 25 Sep 2026 10:30:00 +0000",
-      "mined_at": "2026-09-26T07:15:54+00:00",
-      "source_published_at": "Fri, 25 Sep 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_b51f549f0426.webp",
+      "source": "Live Science",
+      "time_ago": "Fri, 25 Sep 2026 20:56:29 +0000",
+      "mined_at": "2026-09-26T22:36:56+00:00",
+      "source_published_at": "Fri, 25 Sep 2026 20:56:29 +0000",
+      "image_url": "/article_images/article_144fa5f70625.webp",
       "category": "Science",
-      "title": "This Robot Rolls Up Like an Armadillo to Protect Itself",
-      "summary": "Engineers built a soft robot that curls into a ball like an armadillo. When touched, it rolls up in about a minute to protect fragile electronics inside."
+      "title": "NASA's New Telescope Will See What Even JWST Can't",
+      "summary": "NASA is building a new space telescope called PRIMA that sees far-infrared light — wavelengths JWST can't detect. It could launch in 2033 to study how planets and galaxies form."
     },
     {
       "id": "2026-09-26-science-3",
-      "source": "ScienceDaily Strange & Offbeat",
+      "source": "ScienceDaily Top Technology",
       "time_ago": "Thu, 24 Sep 2026 23:19:34 EDT",
-      "mined_at": "2026-09-26T07:15:54+00:00",
+      "mined_at": "2026-09-26T22:36:56+00:00",
       "source_published_at": "Thu, 24 Sep 2026 23:19:34 EDT",
       "image_url": "/article_images/article_ca080d26f4c9.webp",
       "category": "Science",
       "title": "A Dead Star Is Making a Shock Wave That Shouldn't Exist",
-      "summary": "Astronomers found a dead star creating a huge shock wave in space. Based on what we know, it shouldn't be possible. The discovery could change how we understand stars."
+      "summary": "Astronomers found a dead star creating a shock wave that shouldn't be possible. It's like a ship's wake in space — but the star has no fuel disc to power it."
     }
   ]
 }

@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-09-26-news-1",
-      "source": "NPR World",
-      "time_ago": "Fri, 25 Sep 2026 10:46:28 -0400",
-      "mined_at": "2026-09-26T07:15:54+00:00",
-      "source_published_at": "Fri, 25 Sep 2026 10:46:28 -0400",
-      "image_url": "/article_images/article_14e4fedf8fbc.webp",
+      "source": "PBS NewsHour",
+      "time_ago": "Sat, 26 Sep 2026 13:20:24 -0400",
+      "mined_at": "2026-09-26T22:36:56+00:00",
+      "source_published_at": "Sat, 26 Sep 2026 13:20:24 -0400",
+      "image_url": "/article_images/article_3dd25706de50.webp",
       "category": "News",
-      "title": "Hurricane Nolo: Slow, Soaking, and Strengthening Toward Hawaii",
-      "summary": "Hurricane Nolo is crawling toward Hawaii at 5 mph, and forecasters warn it could dump up to 2 feet of rain. A hurricane watch is up for the Big Island as the storm keeps getting stronger."
+      "title": "Trump Uses Rare 'Pocket Rescission' to Claw Back $1 Billion",
+      "summary": "President Trump is canceling nearly $1 billion in spending Congress approved, targeting refugee services and diversity programs. A Republican senator calls it illegal. The fight is over who controls the federal purse."
     },
     {
       "id": "2026-09-26-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Fri, 25 Sep 2026 18:34:43 -0400",
-      "mined_at": "2026-09-26T07:15:54+00:00",
-      "source_published_at": "Fri, 25 Sep 2026 18:34:43 -0400",
-      "image_url": "/article_images/article_b13eb5b4f393.webp",
+      "source": "NPR World",
+      "time_ago": "Fri, 25 Sep 2026 10:46:28 -0400",
+      "mined_at": "2026-09-26T22:36:56+00:00",
+      "source_published_at": "Fri, 25 Sep 2026 10:46:28 -0400",
+      "image_url": "/article_images/article_14e4fedf8fbc.webp",
       "category": "News",
-      "title": "Supreme Court Blocks Trump-Backed Missouri Map, Citing 'Electoral Chaos'",
-      "summary": "The Supreme Court rejected a Trump-backed Missouri voting map for the third time, saying switching districts mid-election would cause chaos. Absentee voting is already underway under the old 2022 map."
+      "title": "Hurricane Nolo's Slow Crawl Could Bring 2 Feet of Rain to Hawaii",
+      "summary": "Hurricane Nolo is creeping toward Hawaii at just 5 mph, with winds that could reach 140 mph. Forecasters warn of catastrophic flooding and mudslides. The Big Island is under a hurricane watch."
     },
     {
       "id": "2026-09-26-news-3",
       "source": "BBC News",
-      "time_ago": "Sat, 26 Sep 2026 05:03:09 GMT",
-      "mined_at": "2026-09-26T07:15:54+00:00",
-      "source_published_at": "Sat, 26 Sep 2026 05:03:09 GMT",
-      "image_url": "/article_images/article_3808196cf27c.webp",
+      "time_ago": "Sat, 26 Sep 2026 19:48:06 GMT",
+      "mined_at": "2026-09-26T22:36:56+00:00",
+      "source_published_at": "Sat, 26 Sep 2026 19:48:06 GMT",
+      "image_url": "/article_images/article_9e39130e88dd.webp",
       "category": "News",
-      "title": "Iran Offers 7-Day Deal to Reopen Strait of Hormuz, but US Remains Skeptical",
-      "summary": "Iran says it can reopen the Strait of Hormuz within a week if the US meets conditions from a June agreement. The strait is a crucial oil route, and talks have collapsed before."
+      "title": "Pope Leo XIV Draws 700,000 to Paris Mass, Praises Youth as 'Today's Church'",
+      "summary": "An estimated 700,000 people gathered at Place de la Concorde for an open-air Mass with Pope Leo XIV. He rode down the Champs-Élysées in his popemobile and told young people they are \"today's Church.\""
     }
   ]
 }
