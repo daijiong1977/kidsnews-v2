@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-09-26-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Sat, 26 Sep 2026 13:53:24 -0400",
-      "mined_at": "2026-09-27T00:35:39+00:00",
-      "source_published_at": "Sat, 26 Sep 2026 13:53:24 -0400",
-      "image_url": "/article_images/article_c9e3da14b53f.webp",
+      "source": "CBC World",
+      "time_ago": "Sat, 26 Sep 2026 15:33:31 EDT",
+      "mined_at": "2026-09-27T02:34:41+00:00",
+      "source_published_at": "Sat, 26 Sep 2026 15:33:31 EDT",
+      "image_url": "/article_images/article_7fb25d729571.webp",
       "category": "News",
-      "title": "U.S. and China Set Up AI Hotline After Three-Day Summit",
-      "summary": "After a three-day summit in Washington, the U.S. and China agreed to create a hotline for AI incidents and keep talking about trade and their militaries. No huge breakthroughs, but experts say the new working groups matter."
+      "title": "Slow-Moving Nor'easter Floods the Northeast, Cutting Power to 100,000",
+      "summary": "A slow, powerful nor'easter is drenching the northeast U.S. this weekend, knocking out power to about 100,000 customers. A Jersey Shore marina owner says water is inside his building for the first time since Hurricane Sandy."
     },
     {
       "id": "2026-09-26-news-2",
-      "source": "Al Jazeera",
-      "time_ago": "Sat, 26 Sep 2026 21:51:56 +0000",
-      "mined_at": "2026-09-27T00:35:39+00:00",
-      "source_published_at": "Sat, 26 Sep 2026 21:51:56 +0000",
-      "image_url": "/article_images/article_677daa1da406.webp",
+      "source": "BBC News",
+      "time_ago": "Sat, 26 Sep 2026 19:48:06 GMT",
+      "mined_at": "2026-09-27T02:34:41+00:00",
+      "source_published_at": "Sat, 26 Sep 2026 19:48:06 GMT",
+      "image_url": "/article_images/article_9e39130e88dd.webp",
       "category": "News",
-      "title": "Trump Rolls Back Biden-Era Fuel Economy Rules, Calling Them an 'EV Mandate'",
-      "summary": "President Trump announced new fuel economy standards that undo Biden-era rules requiring cars to average about 50.4 mpg by 2031. He says it will lower prices, but critics worry about pollution and falling behind on EVs."
+      "title": "Pope Leo XIV Draws 700,000 to Paris Mass, Calls Young People 'Today's Church'",
+      "summary": "Pope Leo XIV celebrated an open-air Mass in Paris on Saturday, drawing an estimated 700,000 people. He praised young people's 'enthusiasm, energy and commitment' and called them 'today's Church.'"
     },
     {
       "id": "2026-09-26-news-3",
-      "source": "BBC News",
-      "time_ago": "Sat, 26 Sep 2026 22:04:26 GMT",
-      "mined_at": "2026-09-27T00:35:39+00:00",
-      "source_published_at": "Sat, 26 Sep 2026 22:04:26 GMT",
-      "image_url": "/article_images/article_8e8dd43e1318.webp",
+      "source": "PBS NewsHour",
+      "time_ago": "Sat, 26 Sep 2026 13:20:24 -0400",
+      "mined_at": "2026-09-27T02:34:41+00:00",
+      "source_published_at": "Sat, 26 Sep 2026 13:20:24 -0400",
+      "image_url": "/article_images/article_3dd25706de50.webp",
       "category": "News",
-      "title": "Nor'easter Floods Northeast, Cancels Flights and Concerts",
-      "summary": "A powerful nor'easter flooded New York and New Jersey, forcing states of emergency and cutting power to over 100,000 homes. More than 3,600 flights were delayed or canceled, and events from football to concerts were called off."
+      "title": "Trump Uses Rare 'Pocket Rescission' to Cut $1 Billion Congress Already Approved",
+      "summary": "President Trump is canceling nearly $1 billion in spending Congress approved — for refugee services, migrant students, and minority businesses. A Republican senator calls it illegal. The Government Accountability Office agrees. The fight is heading to court."
     }
   ]
 }

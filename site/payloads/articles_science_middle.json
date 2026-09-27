@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-09-26-science-1",
-      "source": "Science News Explores",
-      "time_ago": "Fri, 25 Sep 2026 10:30:00 +0000",
-      "mined_at": "2026-09-27T00:35:39+00:00",
-      "source_published_at": "Fri, 25 Sep 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_b51f549f0426.webp",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Fri, 25 Sep 2026 09:56:06 EDT",
+      "mined_at": "2026-09-27T02:34:41+00:00",
+      "source_published_at": "Fri, 25 Sep 2026 09:56:06 EDT",
+      "image_url": "/article_images/article_539e1cb9c89d.webp",
       "category": "Science",
-      "title": "Armadillo-Inspired Robot Curls Up to Protect Fragile Tech",
-      "summary": "Engineers at NC State built a soft robot that rolls into a protective ball when touched, mimicking the three-banded armadillo. It could shield electronics in dangerous places like deep oceans or volcanoes."
+      "title": "Two New Sea Spider Species Discovered in the Salish Sea — First in Nearly 100 Years",
+      "summary": "Scientists found two new sea spider species in the Salish Sea, including one with hairy legs and red eyes. It's the first new sea spider discovery there in almost a century."
     },
     {
       "id": "2026-09-26-science-2",
-      "source": "Live Science",
-      "time_ago": "Sat, 26 Sep 2026 10:30:00 +0000",
-      "mined_at": "2026-09-27T00:35:39+00:00",
-      "source_published_at": "Sat, 26 Sep 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_33dd45559233.webp",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Thu, 24 Sep 2026 23:19:34 EDT",
+      "mined_at": "2026-09-27T02:34:41+00:00",
+      "source_published_at": "Thu, 24 Sep 2026 23:19:34 EDT",
+      "image_url": "/article_images/article_ca080d26f4c9.webp",
       "category": "Science",
-      "title": "Harvest Moon and Saturn Team Up in the Night Sky This Weekend",
-      "summary": "The Harvest Moon, the first full moon of autumn, rises Sept. 26 and 27 alongside Saturn. Look east after sunset — no telescope required for this celestial pairing."
+      "title": "Astronomers Spot a Shock Wave Around a Dead Star That Shouldn't Be There",
+      "summary": "A dead star called RXJ0528+2838 is producing a giant shock wave, but it lacks the disc that normally powers such outflows. Scientists are baffled and excited."
     },
     {
       "id": "2026-09-26-science-3",
       "source": "ScienceDaily Top Environment",
       "time_ago": "Sat, 26 Sep 2026 10:04:56 EDT",
-      "mined_at": "2026-09-27T00:35:39+00:00",
+      "mined_at": "2026-09-27T02:34:41+00:00",
       "source_published_at": "Sat, 26 Sep 2026 10:04:56 EDT",
       "image_url": "/article_images/article_2bcd1be31ccf.webp",
       "category": "Science",
-      "title": "Burning Scrolls to Read the Unreadable: A 2,000-Year-Old Mystery",
-      "summary": "Scientists burned their own papyrus scrolls to test a new way to read ancient charred ones from Herculaneum. Lead in the ink shows up on X-rays, potentially unlocking a lost library without opening it."
+      "title": "Burning Scrolls to Save Them: A New Way to Read Ancient Texts",
+      "summary": "Scientists burned their own scrolls to test a technique for reading 2,000-year-old charred scrolls from Herculaneum. Lead in the ink could make hidden writing visible without opening them."
     }
   ]
 }

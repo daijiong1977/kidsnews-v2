@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-09-26-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Sat, 26 Sep 2026 13:53:24 -0400",
-      "mined_at": "2026-09-27T00:35:39+00:00",
-      "source_published_at": "Sat, 26 Sep 2026 13:53:24 -0400",
-      "image_url": "/article_images/article_c9e3da14b53f.webp",
+      "source": "CBC World",
+      "time_ago": "Sat, 26 Sep 2026 15:33:31 EDT",
+      "mined_at": "2026-09-27T02:34:41+00:00",
+      "source_published_at": "Sat, 26 Sep 2026 15:33:31 EDT",
+      "image_url": "/article_images/article_7fb25d729571.webp",
       "category": "News",
-      "title": "Two Big Leaders Meet: Xi and Trump Agree on AI Hotline",
-      "summary": "The leaders of the U.S. and China met for three days in Washington and agreed to set up a special phone line for AI problems. They also kept talking about trade and their armies."
+      "title": "A Giant Storm Soaks the Northeast — and Even a Wedding Gets Washed Out",
+      "summary": "A slow, powerful nor'easter is flooding the northeast U.S. this weekend. About 100,000 homes lost power, and one marina owner says the water is rising inside his building for the first time since Hurricane Sandy."
     },
     {
       "id": "2026-09-26-news-2",
-      "source": "Al Jazeera",
-      "time_ago": "Sat, 26 Sep 2026 21:51:56 +0000",
-      "mined_at": "2026-09-27T00:35:39+00:00",
-      "source_published_at": "Sat, 26 Sep 2026 21:51:56 +0000",
-      "image_url": "/article_images/article_677daa1da406.webp",
+      "source": "BBC News",
+      "time_ago": "Sat, 26 Sep 2026 19:48:06 GMT",
+      "mined_at": "2026-09-27T02:34:41+00:00",
+      "source_published_at": "Sat, 26 Sep 2026 19:48:06 GMT",
+      "image_url": "/article_images/article_9e39130e88dd.webp",
       "category": "News",
-      "title": "Trump Rolls Back Fuel Rules: What It Means for Cars",
-      "summary": "President Trump announced new fuel economy standards that undo Biden-era rules. He says it will lower car prices, but the old rules aimed to cut pollution and save gas money."
+      "title": "700,000 People, One Pope, and a Giant Open-Air Mass in Paris",
+      "summary": "Pope Leo XIV celebrated a huge open-air Mass in Paris on Saturday. About 700,000 people gathered at the Place de la Concorde. The Pope praised young people's 'energy and commitment.'"
     },
     {
       "id": "2026-09-26-news-3",
-      "source": "BBC News",
-      "time_ago": "Sat, 26 Sep 2026 22:04:26 GMT",
-      "mined_at": "2026-09-27T00:35:39+00:00",
-      "source_published_at": "Sat, 26 Sep 2026 22:04:26 GMT",
-      "image_url": "/article_images/article_8e8dd43e1318.webp",
+      "source": "PBS NewsHour",
+      "time_ago": "Sat, 26 Sep 2026 13:20:24 -0400",
+      "mined_at": "2026-09-27T02:34:41+00:00",
+      "source_published_at": "Sat, 26 Sep 2026 13:20:24 -0400",
+      "image_url": "/article_images/article_3dd25706de50.webp",
       "category": "News",
-      "title": "Huge Storm Floods New York and New Jersey, Cancels Concerts",
-      "summary": "A powerful nor'easter flooded New York and New Jersey, cutting power to over 100,000 homes and canceling flights, football games, and concerts. Officials told people not to travel."
+      "title": "Trump Cancels $1 Billion in Spending — Without Asking Congress First",
+      "summary": "President Trump is canceling nearly $1 billion that Congress approved. The money was for refugee services, migrant students, and minority businesses. A Republican senator says he broke the rules — and she's not happy about it."
     }
   ]
 }
