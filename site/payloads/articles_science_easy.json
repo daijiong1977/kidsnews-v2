@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-26-science-1",
+      "id": "2026-09-27-science-1",
       "source": "ScienceDaily Top Environment",
-      "time_ago": "Sat, 26 Sep 2026 10:04:56 EDT",
-      "mined_at": "2026-09-27T03:20:52+00:00",
-      "source_published_at": "Sat, 26 Sep 2026 10:04:56 EDT",
-      "image_url": "/article_images/article_2bcd1be31ccf.webp",
+      "time_ago": "Fri, 25 Sep 2026 09:56:06 EDT",
+      "mined_at": "2026-09-27T07:17:15+00:00",
+      "source_published_at": "Fri, 25 Sep 2026 09:56:06 EDT",
+      "image_url": "/article_images/article_539e1cb9c89d.webp",
       "category": "Science",
-      "title": "Scientists Burned Their Own Scrolls to Solve a 2,000-Year-Old Mystery",
-      "summary": "When Mount Vesuvius erupted in 79 C.E., it turned a library of scrolls into blackened lumps. Now scientists think they can read them without opening them — by looking for lead in the ink."
+      "title": "Red-Eyed, Hairy-Legged Sea Spiders Found in the Salish Sea",
+      "summary": "Scientists found two brand-new sea spider species in the Salish Sea — the first in almost 100 years. One has hairy legs and bright red eyes. Its mouth looks like a tiny monster pit from a movie!"
     },
     {
-      "id": "2026-09-26-science-2",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Sat, 26 Sep 2026 10:49:45 EDT",
-      "mined_at": "2026-09-27T03:20:52+00:00",
-      "source_published_at": "Sat, 26 Sep 2026 10:49:45 EDT",
-      "image_url": "/article_images/article_bedab8f60189.webp",
+      "id": "2026-09-27-science-2",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Thu, 24 Sep 2026 23:19:34 EDT",
+      "mined_at": "2026-09-27T07:17:15+00:00",
+      "source_published_at": "Thu, 24 Sep 2026 23:19:34 EDT",
+      "image_url": "/article_images/article_ca080d26f4c9.webp",
       "category": "Science",
-      "title": "That 'Clean' Smell Might Be Filling Your Home With Tiny Particles",
-      "summary": "Scented cleaners smell fresh, but they can react with air indoors and create billions of tiny particles — small enough to reach deep into your lungs. Unscented products and open windows can help."
+      "title": "A Dead Star Is Making a Wave That Shouldn't Exist",
+      "summary": "Astronomers found a giant shock wave around a dead star called RXJ0528+2838. The problem? This star shouldn't be able to make one. It's like finding a bicycle going 300 mph."
     },
     {
-      "id": "2026-09-26-science-3",
-      "source": "Live Science",
-      "time_ago": "Fri, 25 Sep 2026 20:56:29 +0000",
-      "mined_at": "2026-09-27T03:20:52+00:00",
-      "source_published_at": "Fri, 25 Sep 2026 20:56:29 +0000",
-      "image_url": "/article_images/article_144fa5f70625.webp",
+      "id": "2026-09-27-science-3",
+      "source": "Popular Mechanics",
+      "time_ago": "Sat, 26 Sep 2026 13:00:00 +0000",
+      "mined_at": "2026-09-27T07:17:15+00:00",
+      "source_published_at": "Sat, 26 Sep 2026 13:00:00 +0000",
+      "image_url": "/article_images/article_8130bde2a92f.webp",
       "category": "Science",
-      "title": "NASA's New Telescope Could See What Even James Webb Can't",
-      "summary": "NASA is designing a new space telescope called PRIMA that sees far-infrared light — wavelengths the James Webb telescope can't detect. If approved, it could launch in 2033 to study how planets and galaxies form."
+      "title": "Scientists Made Old Memories Young Again in Mice",
+      "summary": "Scientists used a gene therapy to make memory cells in mice act young again. The memories weren't gone — the brain's \"hardware\" was just too old to reach them. Could this help people one day?"
     }
   ]
 }
