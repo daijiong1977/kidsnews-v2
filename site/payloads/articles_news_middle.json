@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-26-news-1",
-      "source": "NPR World",
-      "time_ago": "Fri, 25 Sep 2026 10:46:28 -0400",
-      "mined_at": "2026-09-26T23:19:02+00:00",
-      "source_published_at": "Fri, 25 Sep 2026 10:46:28 -0400",
-      "image_url": "/article_images/article_14e4fedf8fbc.webp",
+      "id": "2026-09-27-news-1",
+      "source": "PBS NewsHour",
+      "time_ago": "Sat, 26 Sep 2026 13:53:24 -0400",
+      "mined_at": "2026-09-27T00:21:00+00:00",
+      "source_published_at": "Sat, 26 Sep 2026 13:53:24 -0400",
+      "image_url": "/article_images/article_c9e3da14b53f.webp",
       "category": "News",
-      "title": "Hurricane Nolo: Slow, Strong, and Soaking Hawaii",
-      "summary": "Hurricane Nolo is moving at just 5 mph toward Hawaii. It may not make landfall, but forecasters warn of up to 2 feet of rain and \"catastrophic flooding\" on the Big Island."
+      "title": "U.S. and China Agree to AI Hotline After Summit",
+      "summary": "After a three-day summit in Washington, the U.S. and China agreed to create a channel for AI-related incidents and keep trade talks going. Trump said the U.S. is 'leading by a lot' in AI and won't slow down."
     },
     {
-      "id": "2026-09-26-news-2",
+      "id": "2026-09-27-news-2",
       "source": "BBC News",
-      "time_ago": "Sat, 26 Sep 2026 22:04:26 GMT",
-      "mined_at": "2026-09-26T23:19:02+00:00",
-      "source_published_at": "Sat, 26 Sep 2026 22:04:26 GMT",
-      "image_url": "/article_images/article_8e8dd43e1318.webp",
+      "time_ago": "Sat, 26 Sep 2026 19:48:06 GMT",
+      "mined_at": "2026-09-27T00:21:00+00:00",
+      "source_published_at": "Sat, 26 Sep 2026 19:48:06 GMT",
+      "image_url": "/article_images/article_9e39130e88dd.webp",
       "category": "News",
-      "title": "Nor'easter Turns Streets into Rivers, Cancels Concerts Across the Northeast",
-      "summary": "A powerful nor'easter flooded New York and New Jersey on Saturday, cutting power to 100,000+ homes and cancelling 1,199 flights. A full moon made the coastal flooding even worse."
+      "title": "Pope Leo XIV Celebrates Massive Open-Air Mass in Paris",
+      "summary": "An estimated 700,000 people attended Pope Leo XIV's open-air Mass at Place de la Concorde in Paris. He praised young people as 'today's Church' and rode down the Champs-Élysées in his popemobile."
     },
     {
-      "id": "2026-09-26-news-3",
-      "source": "Al Jazeera",
-      "time_ago": "Sat, 26 Sep 2026 21:51:56 +0000",
-      "mined_at": "2026-09-26T23:19:02+00:00",
-      "source_published_at": "Sat, 26 Sep 2026 21:51:56 +0000",
-      "image_url": "/article_images/article_677daa1da406.webp",
+      "id": "2026-09-27-news-3",
+      "source": "NPR World",
+      "time_ago": "Fri, 25 Sep 2026 11:40:57 -0400",
+      "mined_at": "2026-09-27T00:21:00+00:00",
+      "source_published_at": "Fri, 25 Sep 2026 11:40:57 -0400",
+      "image_url": "/article_images/article_d11ca2e68d8d.webp",
       "category": "News",
-      "title": "Trump Rolls Back Fuel Economy Rules, Sparking Debate Over Cars and Climate",
-      "summary": "President Trump announced new fuel economy standards that reverse Biden-era rules. He says it will lower car prices, but the old rules aimed to cut emissions and save fuel."
+      "title": "Supreme Court Revives Controversial Voter Citizenship Check",
+      "summary": "The Supreme Court allowed the Trump administration to restart a revamped data system called SAVE, which checks voters' citizenship. The system has mistakenly flagged eligible voters. The legal fight continues."
     }
   ]
 }
