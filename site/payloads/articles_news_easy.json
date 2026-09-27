@@ -4,7 +4,7 @@
       "id": "2026-09-26-news-1",
       "source": "PBS NewsHour",
       "time_ago": "Sat, 26 Sep 2026 13:53:24 -0400",
-      "mined_at": "2026-09-27T00:28:38+00:00",
+      "mined_at": "2026-09-27T00:35:39+00:00",
       "source_published_at": "Sat, 26 Sep 2026 13:53:24 -0400",
       "image_url": "/article_images/article_c9e3da14b53f.webp",
       "category": "News",
@@ -13,25 +13,25 @@
     },
     {
       "id": "2026-09-26-news-2",
-      "source": "NPR World",
-      "time_ago": "Fri, 25 Sep 2026 10:46:28 -0400",
-      "mined_at": "2026-09-27T00:28:38+00:00",
-      "source_published_at": "Fri, 25 Sep 2026 10:46:28 -0400",
-      "image_url": "/article_images/article_14e4fedf8fbc.webp",
-      "category": "News",
-      "title": "Hurricane Nolo Takes a Sharp Turn Toward Hawaii",
-      "summary": "Hurricane Nolo is heading toward Hawaii with up to 2 feet of rain. It's not expected to make landfall, but slow-moving storms can cause dangerous flooding."
-    },
-    {
-      "id": "2026-09-26-news-3",
       "source": "Al Jazeera",
       "time_ago": "Sat, 26 Sep 2026 21:51:56 +0000",
-      "mined_at": "2026-09-27T00:28:38+00:00",
+      "mined_at": "2026-09-27T00:35:39+00:00",
       "source_published_at": "Sat, 26 Sep 2026 21:51:56 +0000",
       "image_url": "/article_images/article_677daa1da406.webp",
       "category": "News",
       "title": "Trump Rolls Back Fuel Rules: What It Means for Cars",
       "summary": "President Trump announced new fuel economy standards that undo Biden-era rules. He says it will lower car prices, but the old rules aimed to cut pollution and save gas money."
+    },
+    {
+      "id": "2026-09-26-news-3",
+      "source": "BBC News",
+      "time_ago": "Sat, 26 Sep 2026 22:04:26 GMT",
+      "mined_at": "2026-09-27T00:35:39+00:00",
+      "source_published_at": "Sat, 26 Sep 2026 22:04:26 GMT",
+      "image_url": "/article_images/article_8e8dd43e1318.webp",
+      "category": "News",
+      "title": "Huge Storm Floods New York and New Jersey, Cancels Concerts",
+      "summary": "A powerful nor'easter flooded New York and New Jersey, cutting power to over 100,000 homes and canceling flights, football games, and concerts. Officials told people not to travel."
     }
   ]
 }
