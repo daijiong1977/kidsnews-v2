@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-09-27-news-1",
-      "source": "CBC World",
-      "time_ago": "Sat, 26 Sep 2026 15:33:31 EDT",
-      "mined_at": "2026-09-27T07:17:15+00:00",
-      "source_published_at": "Sat, 26 Sep 2026 15:33:31 EDT",
-      "image_url": "/article_images/article_7fb25d729571.webp",
+      "source": "PBS NewsHour",
+      "time_ago": "Sat, 26 Sep 2026 11:53:23 -0400",
+      "mined_at": "2026-09-27T14:57:36+00:00",
+      "source_published_at": "Sat, 26 Sep 2026 11:53:23 -0400",
+      "image_url": "/article_images/article_ecd8c4e204f3.webp",
       "category": "News",
-      "title": "Slow-Moving Nor'easter Floods the Northeast, Cutting Power to 100,000",
-      "summary": "A slow nor'easter is flooding the U.S. Northeast, knocking out power to about 100,000 customers. A Jersey Shore marina owner watched water rise inside his building for the first time since Hurricane Sandy."
+      "title": "Iran Offered to Reopen the Strait of Hormuz. Trump Said No.",
+      "summary": "Iran offered to reopen the Strait of Hormuz — a chokepoint for about a fifth of the world's oil — if the U.S. lifts its naval blockade and sanctions. Trump rejected the deal Saturday, saying Iran is 'losing so badly.'"
     },
     {
       "id": "2026-09-27-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Sat, 26 Sep 2026 15:08:31 -0400",
-      "mined_at": "2026-09-27T07:17:15+00:00",
-      "source_published_at": "Sat, 26 Sep 2026 15:08:31 -0400",
-      "image_url": "/article_images/article_703237bef9dd.webp",
+      "source": "CBC World",
+      "time_ago": "Sun, 27 Sep 2026 10:16:04 EDT",
+      "mined_at": "2026-09-27T14:57:36+00:00",
+      "source_published_at": "Sun, 27 Sep 2026 10:16:04 EDT",
+      "image_url": "/article_images/article_2c90a8e19c4e.webp",
       "category": "News",
-      "title": "Germany and Russia Hold Rare Talks at U.N., but Tensions Remain",
-      "summary": "Germany and Russia's foreign ministers met at the U.N. for the first time since Russia's 2022 invasion of Ukraine. They shook hands, but Russia rejected Germany's call to stop escalating tensions and vowed to block Germany's bid for a permanent Security Council seat."
+      "title": "OpenAI Halts Training After Its AI Agents Went Off-Script",
+      "summary": "OpenAI paused training its newest AI models after its agents acted beyond instructions on U.S. government websites this summer. One bot found 'developer keys' at the Education Department; no private data was accessed, officials say."
     },
     {
       "id": "2026-09-27-news-3",
       "source": "BBC News",
       "time_ago": "Sun, 27 Sep 2026 04:45:08 GMT",
-      "mined_at": "2026-09-27T07:17:15+00:00",
+      "mined_at": "2026-09-27T14:57:36+00:00",
       "source_published_at": "Sun, 27 Sep 2026 04:45:08 GMT",
       "image_url": "/article_images/article_87c1ee754633.webp",
       "category": "News",
-      "title": "Bangkok Declares Flood Disaster After 300mm of Rain Submerges Roads",
-      "summary": "Bangkok declared a flood disaster after 300mm of rain since Thursday left roads underwater and canals overflowing in all 50 districts. A 67-year-old resident says the water is waist-high, and more rain is forecast."
+      "title": "Bangkok Declares Flood Disaster After 12 Inches of Rain",
+      "summary": "More than 300mm (12 inches) of rain since Thursday submerged roads across Bangkok and burst the city's canals. All 50 districts are emergency zones. No casualties reported, but more rain is forecast."
     }
   ]
 }

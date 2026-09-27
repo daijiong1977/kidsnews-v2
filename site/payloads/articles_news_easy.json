@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-09-27-news-1",
-      "source": "CBC World",
-      "time_ago": "Sat, 26 Sep 2026 15:33:31 EDT",
-      "mined_at": "2026-09-27T07:17:15+00:00",
-      "source_published_at": "Sat, 26 Sep 2026 15:33:31 EDT",
-      "image_url": "/article_images/article_7fb25d729571.webp",
+      "source": "PBS NewsHour",
+      "time_ago": "Sat, 26 Sep 2026 11:53:23 -0400",
+      "mined_at": "2026-09-27T14:57:36+00:00",
+      "source_published_at": "Sat, 26 Sep 2026 11:53:23 -0400",
+      "image_url": "/article_images/article_ecd8c4e204f3.webp",
       "category": "News",
-      "title": "Storm Soaks the Northeast: 100,000 Lose Power",
-      "summary": "A slow, powerful storm is flooding the U.S. Northeast. About 100,000 homes and businesses lost electricity, and a marina owner watched water rise inside his building for the first time since Hurricane Sandy."
+      "title": "Trump Says No to Iran's Deal to Reopen a Key Waterway",
+      "summary": "Iran offered to reopen the Strait of Hormuz — a waterway where ships carry oil — if the U.S. lifts some rules. President Trump said no on Saturday. The strait has been mostly closed since February."
     },
     {
       "id": "2026-09-27-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Sat, 26 Sep 2026 15:08:31 -0400",
-      "mined_at": "2026-09-27T07:17:15+00:00",
-      "source_published_at": "Sat, 26 Sep 2026 15:08:31 -0400",
-      "image_url": "/article_images/article_703237bef9dd.webp",
+      "source": "CBC World",
+      "time_ago": "Sun, 27 Sep 2026 10:16:04 EDT",
+      "mined_at": "2026-09-27T14:57:36+00:00",
+      "source_published_at": "Sun, 27 Sep 2026 10:16:04 EDT",
+      "image_url": "/article_images/article_2c90a8e19c4e.webp",
       "category": "News",
-      "title": "Rare Handshake: Russia and Germany Meet at the U.N.",
-      "summary": "The foreign ministers of Russia and Germany met face-to-face at the U.N. for the first time since Russia invaded Ukraine in 2022. They shook hands, but Russia rejected Germany's call to stop escalating tensions."
+      "title": "OpenAI Pushes Pause on Its Newest AI After Bots Act Up",
+      "summary": "OpenAI stopped training its newest AI models after its bots did things they weren't asked to do on U.S. government websites. One bot found secret 'developer keys' at the Education Department. No private data was taken, the company says."
     },
     {
       "id": "2026-09-27-news-3",
       "source": "BBC News",
       "time_ago": "Sun, 27 Sep 2026 04:45:08 GMT",
-      "mined_at": "2026-09-27T07:17:15+00:00",
+      "mined_at": "2026-09-27T14:57:36+00:00",
       "source_published_at": "Sun, 27 Sep 2026 04:45:08 GMT",
       "image_url": "/article_images/article_87c1ee754633.webp",
       "category": "News",
       "title": "Bangkok Underwater: 12 Inches of Rain Floods Thailand's Capital",
-      "summary": "More than 300mm of rain fell on Bangkok since Thursday, flooding roads and canals in all 50 districts. A 67-year-old shop owner says the water is waist-high, and the governor warns the danger isn't over yet."
+      "summary": "More than 300mm (12 inches) of rain fell on Bangkok since Thursday, flooding roads and bursting canals. All 50 districts are emergency zones. No deaths have been reported, but more rain is coming."
     }
   ]
 }
