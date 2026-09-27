@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-09-26-science-1",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Fri, 25 Sep 2026 09:56:06 EDT",
-      "mined_at": "2026-09-27T02:34:41+00:00",
-      "source_published_at": "Fri, 25 Sep 2026 09:56:06 EDT",
-      "image_url": "/article_images/article_539e1cb9c89d.webp",
-      "category": "Science",
-      "title": "Two New Sea Spider Species Discovered in the Salish Sea — First in Nearly 100 Years",
-      "summary": "Scientists found two new sea spider species in the Salish Sea, including one with hairy legs and red eyes. It's the first new sea spider discovery there in almost a century."
-    },
-    {
-      "id": "2026-09-26-science-2",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Thu, 24 Sep 2026 23:19:34 EDT",
-      "mined_at": "2026-09-27T02:34:41+00:00",
-      "source_published_at": "Thu, 24 Sep 2026 23:19:34 EDT",
-      "image_url": "/article_images/article_ca080d26f4c9.webp",
-      "category": "Science",
-      "title": "Astronomers Spot a Shock Wave Around a Dead Star That Shouldn't Be There",
-      "summary": "A dead star called RXJ0528+2838 is producing a giant shock wave, but it lacks the disc that normally powers such outflows. Scientists are baffled and excited."
-    },
-    {
-      "id": "2026-09-26-science-3",
       "source": "ScienceDaily Top Environment",
       "time_ago": "Sat, 26 Sep 2026 10:04:56 EDT",
-      "mined_at": "2026-09-27T02:34:41+00:00",
+      "mined_at": "2026-09-27T03:20:52+00:00",
       "source_published_at": "Sat, 26 Sep 2026 10:04:56 EDT",
       "image_url": "/article_images/article_2bcd1be31ccf.webp",
       "category": "Science",
-      "title": "Burning Scrolls to Save Them: A New Way to Read Ancient Texts",
-      "summary": "Scientists burned their own scrolls to test a technique for reading 2,000-year-old charred scrolls from Herculaneum. Lead in the ink could make hidden writing visible without opening them."
+      "title": "They Burned Their Own Scrolls — And It Might Unlock a Lost Roman Library",
+      "summary": "A 79 C.E. volcanic eruption charred over a thousand scrolls in Herculaneum. Now researchers say a chemical trick — looking for lead in the ink — could let them read the scrolls without ever unrolling them."
+    },
+    {
+      "id": "2026-09-26-science-2",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Sat, 26 Sep 2026 10:49:45 EDT",
+      "mined_at": "2026-09-27T03:20:52+00:00",
+      "source_published_at": "Sat, 26 Sep 2026 10:49:45 EDT",
+      "image_url": "/article_images/article_bedab8f60189.webp",
+      "category": "Science",
+      "title": "The Fresh Scent of Cleaners Could Be Creating Indoor Air Pollution",
+      "summary": "Fragrance chemicals in cleaning products react with indoor ozone to form nanoparticles — billions at a time. Researchers say the dose can rival standing beside a busy road, and unscented products plus ventilation can cut exposure."
+    },
+    {
+      "id": "2026-09-26-science-3",
+      "source": "Live Science",
+      "time_ago": "Fri, 25 Sep 2026 20:56:29 +0000",
+      "mined_at": "2026-09-27T03:20:52+00:00",
+      "source_published_at": "Fri, 25 Sep 2026 20:56:29 +0000",
+      "image_url": "/article_images/article_144fa5f70625.webp",
+      "category": "Science",
+      "title": "NASA's PRIMA Telescope Would See a Slice of Space Webb Can't Reach",
+      "summary": "NASA is moving forward with PRIMA, a far-infrared telescope that would launch in 2033. It's designed to study water in planet-forming disks and galaxy evolution — science the James Webb telescope can't do."
     }
   ]
 }

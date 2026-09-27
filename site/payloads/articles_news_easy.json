@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-09-26-news-1",
-      "source": "CBC World",
-      "time_ago": "Sat, 26 Sep 2026 15:33:31 EDT",
-      "mined_at": "2026-09-27T02:34:41+00:00",
-      "source_published_at": "Sat, 26 Sep 2026 15:33:31 EDT",
-      "image_url": "/article_images/article_7fb25d729571.webp",
+      "source": "BBC News",
+      "time_ago": "Sat, 26 Sep 2026 22:04:26 GMT",
+      "mined_at": "2026-09-27T03:20:52+00:00",
+      "source_published_at": "Sat, 26 Sep 2026 22:04:26 GMT",
+      "image_url": "/article_images/article_8e8dd43e1318.webp",
       "category": "News",
-      "title": "A Giant Storm Soaks the Northeast — and Even a Wedding Gets Washed Out",
-      "summary": "A slow, powerful nor'easter is flooding the northeast U.S. this weekend. About 100,000 homes lost power, and one marina owner says the water is rising inside his building for the first time since Hurricane Sandy."
+      "title": "A Giant Storm Soaks New York and New Jersey",
+      "summary": "A huge storm called a nor'easter flooded streets in New Jersey and New York on Saturday. More than 100,000 homes lost power, and over 2,400 flights were delayed. The full moon made the flooding even worse."
     },
     {
       "id": "2026-09-26-news-2",
-      "source": "BBC News",
-      "time_ago": "Sat, 26 Sep 2026 19:48:06 GMT",
-      "mined_at": "2026-09-27T02:34:41+00:00",
-      "source_published_at": "Sat, 26 Sep 2026 19:48:06 GMT",
-      "image_url": "/article_images/article_9e39130e88dd.webp",
-      "category": "News",
-      "title": "700,000 People, One Pope, and a Giant Open-Air Mass in Paris",
-      "summary": "Pope Leo XIV celebrated a huge open-air Mass in Paris on Saturday. About 700,000 people gathered at the Place de la Concorde. The Pope praised young people's 'energy and commitment.'"
-    },
-    {
-      "id": "2026-09-26-news-3",
       "source": "PBS NewsHour",
       "time_ago": "Sat, 26 Sep 2026 13:20:24 -0400",
-      "mined_at": "2026-09-27T02:34:41+00:00",
+      "mined_at": "2026-09-27T03:20:52+00:00",
       "source_published_at": "Sat, 26 Sep 2026 13:20:24 -0400",
       "image_url": "/article_images/article_3dd25706de50.webp",
       "category": "News",
       "title": "Trump Cancels $1 Billion in Spending — Without Asking Congress First",
-      "summary": "President Trump is canceling nearly $1 billion that Congress approved. The money was for refugee services, migrant students, and minority businesses. A Republican senator says he broke the rules — and she's not happy about it."
+      "summary": "President Trump is canceling nearly $1 billion in money Congress already approved. It pays for refugee help and school programs for migrant kids. A Republican senator says that's illegal."
+    },
+    {
+      "id": "2026-09-26-news-3",
+      "source": "CBC World",
+      "time_ago": "Sat, 26 Sep 2026 10:05:01 EDT",
+      "mined_at": "2026-09-27T03:20:52+00:00",
+      "source_published_at": "Sat, 26 Sep 2026 10:05:01 EDT",
+      "image_url": "/article_images/article_5046bef6047f.webp",
+      "category": "News",
+      "title": "600,000 People Pack Paris Streets to See Pope Leo!",
+      "summary": "Pope Leo XIV rode his popemobile down the Champs-Élysées in Paris, and more than 600,000 people signed up to see him. He came to lead a huge outdoor mass at Place de la Concorde, right in the heart of the city."
     }
   ]
 }

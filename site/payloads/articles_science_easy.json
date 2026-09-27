@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-09-26-science-1",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Fri, 25 Sep 2026 09:56:06 EDT",
-      "mined_at": "2026-09-27T02:34:41+00:00",
-      "source_published_at": "Fri, 25 Sep 2026 09:56:06 EDT",
-      "image_url": "/article_images/article_539e1cb9c89d.webp",
-      "category": "Science",
-      "title": "Scientists Find 'Nightmare Fuel' Sea Spiders in the Salish Sea",
-      "summary": "Imagine a sea spider with hairy legs and bright red eyes. Scientists found two new kinds in the Salish Sea — the first in nearly 100 years! One has a mouth like a tiny monster pit."
-    },
-    {
-      "id": "2026-09-26-science-2",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Thu, 24 Sep 2026 23:19:34 EDT",
-      "mined_at": "2026-09-27T02:34:41+00:00",
-      "source_published_at": "Thu, 24 Sep 2026 23:19:34 EDT",
-      "image_url": "/article_images/article_ca080d26f4c9.webp",
-      "category": "Science",
-      "title": "Dead Star Creates a Shock Wave That Shouldn't Exist",
-      "summary": "A dead star called RXJ0528+2838 is making a giant shock wave in space — but scientists say it shouldn't be able to. It's like a ship's wake without an engine!"
-    },
-    {
-      "id": "2026-09-26-science-3",
       "source": "ScienceDaily Top Environment",
       "time_ago": "Sat, 26 Sep 2026 10:04:56 EDT",
-      "mined_at": "2026-09-27T02:34:41+00:00",
+      "mined_at": "2026-09-27T03:20:52+00:00",
       "source_published_at": "Sat, 26 Sep 2026 10:04:56 EDT",
       "image_url": "/article_images/article_2bcd1be31ccf.webp",
       "category": "Science",
-      "title": "Scientists Burned Their Own Scrolls to Read Ancient Ones",
-      "summary": "To read 2,000-year-old burned scrolls, scientists made their own fake ones and set them on fire. They discovered that lead in the ink could reveal hidden writing!"
+      "title": "Scientists Burned Their Own Scrolls to Solve a 2,000-Year-Old Mystery",
+      "summary": "When Mount Vesuvius erupted in 79 C.E., it turned a library of scrolls into blackened lumps. Now scientists think they can read them without opening them — by looking for lead in the ink."
+    },
+    {
+      "id": "2026-09-26-science-2",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Sat, 26 Sep 2026 10:49:45 EDT",
+      "mined_at": "2026-09-27T03:20:52+00:00",
+      "source_published_at": "Sat, 26 Sep 2026 10:49:45 EDT",
+      "image_url": "/article_images/article_bedab8f60189.webp",
+      "category": "Science",
+      "title": "That 'Clean' Smell Might Be Filling Your Home With Tiny Particles",
+      "summary": "Scented cleaners smell fresh, but they can react with air indoors and create billions of tiny particles — small enough to reach deep into your lungs. Unscented products and open windows can help."
+    },
+    {
+      "id": "2026-09-26-science-3",
+      "source": "Live Science",
+      "time_ago": "Fri, 25 Sep 2026 20:56:29 +0000",
+      "mined_at": "2026-09-27T03:20:52+00:00",
+      "source_published_at": "Fri, 25 Sep 2026 20:56:29 +0000",
+      "image_url": "/article_images/article_144fa5f70625.webp",
+      "category": "Science",
+      "title": "NASA's New Telescope Could See What Even James Webb Can't",
+      "summary": "NASA is designing a new space telescope called PRIMA that sees far-infrared light — wavelengths the James Webb telescope can't detect. If approved, it could launch in 2033 to study how planets and galaxies form."
     }
   ]
 }
