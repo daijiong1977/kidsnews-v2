@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-27-fun-1",
+      "id": "2026-09-26-fun-1",
+      "source": "Rolling Stone Music",
+      "time_ago": "Sat, 26 Sep 2026 20:10:45 +0000",
+      "mined_at": "2026-09-27T00:28:38+00:00",
+      "source_published_at": "Sat, 26 Sep 2026 20:10:45 +0000",
+      "image_url": "/article_images/article_a6893e8ee78f.webp",
+      "category": "Fun",
+      "title": "A 16-Year-Old Guitar Hero From Thailand Just Won America's Got Talent!",
+      "summary": "Nene Royal, a 16-year-old from Thailand, shredded her electric guitar on America's Got Talent and won the whole season. Her first audition got 21 million views online!"
+    },
+    {
+      "id": "2026-09-26-fun-2",
       "source": "BBC Tennis",
       "time_ago": "Thu, 24 Sep 2026 06:56:50 GMT",
-      "mined_at": "2026-09-27T00:21:00+00:00",
+      "mined_at": "2026-09-27T00:28:38+00:00",
       "source_published_at": "Thu, 24 Sep 2026 06:56:50 GMT",
       "image_url": "/article_images/article_1c4347ab009f.webp",
       "category": "Fun",
-      "title": "Smiling at 3:34 AM: Why Carlos Alcaraz Grinned After Losing",
-      "summary": "Carlos Alcaraz lost a five-set tennis match at 3:34 in the morning — then smiled anyway. He'd been out for five months with a wrist injury, and just being back on court made him happy."
+      "title": "Why Did Carlos Alcaraz Smile After Losing at 3:34 in the Morning?",
+      "summary": "Tennis star Carlos Alcaraz lost a five-hour match at 3:34 a.m. — then walked off smiling. He said he missed the feeling of competing after a wrist injury kept him out for months."
     },
     {
-      "id": "2026-09-27-fun-2",
-      "source": "Smithsonian History",
-      "time_ago": "Thu, 24 Sep 2026 11:45:00 +0000",
-      "mined_at": "2026-09-27T00:21:00+00:00",
-      "source_published_at": "Thu, 24 Sep 2026 11:45:00 +0000",
-      "image_url": "/article_images/article_6e419eeeb57e.webp",
+      "id": "2026-09-26-fun-3",
+      "source": "/Film",
+      "time_ago": "Sat, 26 Sep 2026 21:10:00 +0000",
+      "mined_at": "2026-09-27T00:28:38+00:00",
+      "source_published_at": "Sat, 26 Sep 2026 21:10:00 +0000",
+      "image_url": "/article_images/article_4c4c5a4740dc.webp",
       "category": "Fun",
-      "title": "The U.S. Capital for Exactly One Day — and Almost Nobody Noticed",
-      "summary": "In 1777, Lancaster, Pennsylvania, was the U.S. capital for just one day. Congress met in a courthouse, then fled west before the British could catch them."
-    },
-    {
-      "id": "2026-09-27-fun-3",
-      "source": "IndieWire",
-      "time_ago": "Sat, 26 Sep 2026 15:15:49 +0000",
-      "mined_at": "2026-09-27T00:21:00+00:00",
-      "source_published_at": "Sat, 26 Sep 2026 15:15:49 +0000",
-      "image_url": "/article_images/article_cc613eef3411.webp",
-      "category": "Fun",
-      "title": "Werewolves, Full Moons, and a New Game: Inside Robert Eggers' 'Werwulf'",
-      "summary": "Director Robert Eggers is making a werewolf movie called 'Werwulf,' out Christmas Day. It's set in a 13th-century English village and comes with an interactive game."
+      "title": "SNL Is Back! A Basketball Star Is Hosting the Big Season 52 Premiere",
+      "summary": "Saturday Night Live returns tonight with host Jalen Brunson, a New York Knicks point guard fresh off an NBA championship. KATSEYE is the musical guest."
     }
   ]
 }

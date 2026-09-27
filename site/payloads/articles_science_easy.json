@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-27-science-1",
+      "id": "2026-09-26-science-1",
+      "source": "Science News Explores",
+      "time_ago": "Fri, 25 Sep 2026 10:30:00 +0000",
+      "mined_at": "2026-09-27T00:28:38+00:00",
+      "source_published_at": "Fri, 25 Sep 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_b51f549f0426.webp",
+      "category": "Science",
+      "title": "This Robot Rolls Up Like an Armadillo to Save Your Gadgets",
+      "summary": "Engineers built a robot that curls into a ball when touched, just like an armadillo. It protects fragile electronics inside a hard shell. The whole thing takes about a minute to roll up."
+    },
+    {
+      "id": "2026-09-26-science-2",
+      "source": "Live Science",
+      "time_ago": "Sat, 26 Sep 2026 10:30:00 +0000",
+      "mined_at": "2026-09-27T00:28:38+00:00",
+      "source_published_at": "Sat, 26 Sep 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_33dd45559233.webp",
+      "category": "Science",
+      "title": "See the Harvest Moon Rise with Saturn This Weekend!",
+      "summary": "The Harvest Moon, the first full moon of autumn, rises on Sept. 26 and 27. Look east after sunset to see it near Saturn. No telescope needed!"
+    },
+    {
+      "id": "2026-09-26-science-3",
       "source": "ScienceDaily Top Environment",
       "time_ago": "Sat, 26 Sep 2026 10:04:56 EDT",
-      "mined_at": "2026-09-27T00:21:00+00:00",
+      "mined_at": "2026-09-27T00:28:38+00:00",
       "source_published_at": "Sat, 26 Sep 2026 10:04:56 EDT",
       "image_url": "/article_images/article_2bcd1be31ccf.webp",
       "category": "Science",
-      "title": "These Scientists Burned Their Own Scrolls — to Read Ancient Ones",
-      "summary": "Nearly 2,000 years ago, a volcano turned a Roman library's scrolls into blackened lumps. Now scientists burned their own scrolls on purpose to find a secret way to read the words inside without ever opening them."
-    },
-    {
-      "id": "2026-09-27-science-2",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Sat, 26 Sep 2026 09:47:38 EDT",
-      "mined_at": "2026-09-27T00:21:00+00:00",
-      "source_published_at": "Sat, 26 Sep 2026 09:47:38 EDT",
-      "image_url": "/article_images/article_2170baf78b2e.webp",
-      "category": "Science",
-      "title": "A Quantum Computer Made Matter 'Pop Into Existence' — Here's How",
-      "summary": "Scientists used a quantum computer to pull apart tiny particles until new ones suddenly popped into existence. It's one of the first times this weird physics trick has been shown in a lab."
-    },
-    {
-      "id": "2026-09-27-science-3",
-      "source": "Live Science",
-      "time_ago": "Fri, 25 Sep 2026 20:56:29 +0000",
-      "mined_at": "2026-09-27T00:21:00+00:00",
-      "source_published_at": "Fri, 25 Sep 2026 20:56:29 +0000",
-      "image_url": "/article_images/article_144fa5f70625.webp",
-      "category": "Science",
-      "title": "NASA's New Telescope Could See What Even James Webb Can't",
-      "summary": "NASA is designing a new space telescope called PRIMA that sees far-infrared light — wavelengths the James Webb telescope can't detect. If it launches in 2033, it could reveal how planets and galaxies are born."
+      "title": "Scientists Burned Their Own Scrolls to Read Ancient Ones",
+      "summary": "Researchers burned papyrus scrolls to mimic a 2,000-year-old disaster. They found that lead in ink shows up on X-rays, which could help read charred scrolls from Herculaneum without opening them."
     }
   ]
 }

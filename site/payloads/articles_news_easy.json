@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-27-news-1",
+      "id": "2026-09-26-news-1",
       "source": "PBS NewsHour",
       "time_ago": "Sat, 26 Sep 2026 13:53:24 -0400",
-      "mined_at": "2026-09-27T00:21:00+00:00",
+      "mined_at": "2026-09-27T00:28:38+00:00",
       "source_published_at": "Sat, 26 Sep 2026 13:53:24 -0400",
       "image_url": "/article_images/article_c9e3da14b53f.webp",
       "category": "News",
-      "title": "Two Big Leaders Make a Deal About AI and Trade",
-      "summary": "The leaders of the U.S. and China met for three days in Washington. They agreed to set up a special hotline for AI problems and keep talking about trade. Trump said the U.S. is still ahead in AI."
+      "title": "Two Big Leaders Meet: Xi and Trump Agree on AI Hotline",
+      "summary": "The leaders of the U.S. and China met for three days in Washington and agreed to set up a special phone line for AI problems. They also kept talking about trade and their armies."
     },
     {
-      "id": "2026-09-27-news-2",
-      "source": "BBC News",
-      "time_ago": "Sat, 26 Sep 2026 19:48:06 GMT",
-      "mined_at": "2026-09-27T00:21:00+00:00",
-      "source_published_at": "Sat, 26 Sep 2026 19:48:06 GMT",
-      "image_url": "/article_images/article_9e39130e88dd.webp",
-      "category": "News",
-      "title": "Pope Leo XIV Draws 700,000 People to Paris Mass",
-      "summary": "Pope Leo XIV celebrated an open-air Mass in Paris with an estimated 700,000 people. He praised young people's 'energy and commitment' and rode down the Champs-Élysées in his popemobile."
-    },
-    {
-      "id": "2026-09-27-news-3",
+      "id": "2026-09-26-news-2",
       "source": "NPR World",
-      "time_ago": "Fri, 25 Sep 2026 11:40:57 -0400",
-      "mined_at": "2026-09-27T00:21:00+00:00",
-      "source_published_at": "Fri, 25 Sep 2026 11:40:57 -0400",
-      "image_url": "/article_images/article_d11ca2e68d8d.webp",
+      "time_ago": "Fri, 25 Sep 2026 10:46:28 -0400",
+      "mined_at": "2026-09-27T00:28:38+00:00",
+      "source_published_at": "Fri, 25 Sep 2026 10:46:28 -0400",
+      "image_url": "/article_images/article_14e4fedf8fbc.webp",
       "category": "News",
-      "title": "Supreme Court Allows Citizenship Check System Again",
-      "summary": "The Supreme Court let the government restart a data system that checks if voters are U.S. citizens. The system has mistakenly flagged some eligible voters. The case is still going."
+      "title": "Hurricane Nolo Takes a Sharp Turn Toward Hawaii",
+      "summary": "Hurricane Nolo is heading toward Hawaii with up to 2 feet of rain. It's not expected to make landfall, but slow-moving storms can cause dangerous flooding."
+    },
+    {
+      "id": "2026-09-26-news-3",
+      "source": "Al Jazeera",
+      "time_ago": "Sat, 26 Sep 2026 21:51:56 +0000",
+      "mined_at": "2026-09-27T00:28:38+00:00",
+      "source_published_at": "Sat, 26 Sep 2026 21:51:56 +0000",
+      "image_url": "/article_images/article_677daa1da406.webp",
+      "category": "News",
+      "title": "Trump Rolls Back Fuel Rules: What It Means for Cars",
+      "summary": "President Trump announced new fuel economy standards that undo Biden-era rules. He says it will lower car prices, but the old rules aimed to cut pollution and save gas money."
     }
   ]
 }

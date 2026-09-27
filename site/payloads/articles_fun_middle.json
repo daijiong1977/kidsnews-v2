@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-27-fun-1",
+      "id": "2026-09-26-fun-1",
+      "source": "Rolling Stone Music",
+      "time_ago": "Sat, 26 Sep 2026 20:10:45 +0000",
+      "mined_at": "2026-09-27T00:28:38+00:00",
+      "source_published_at": "Sat, 26 Sep 2026 20:10:45 +0000",
+      "image_url": "/article_images/article_a6893e8ee78f.webp",
+      "category": "Fun",
+      "title": "From Phuket to Global Fame: Nene Royal Becomes First Thai Winner of America's Got Talent",
+      "summary": "Nene Royal, a 16-year-old guitarist from Thailand, won America's Got Talent and a million-dollar prize. Her viral audition has 21 million views — and she's already planning a rock album."
+    },
+    {
+      "id": "2026-09-26-fun-2",
       "source": "BBC Tennis",
       "time_ago": "Thu, 24 Sep 2026 06:56:50 GMT",
-      "mined_at": "2026-09-27T00:21:00+00:00",
+      "mined_at": "2026-09-27T00:28:38+00:00",
       "source_published_at": "Thu, 24 Sep 2026 06:56:50 GMT",
       "image_url": "/article_images/article_1c4347ab009f.webp",
       "category": "Fun",
-      "title": "Alcaraz's 3:34 AM Loss — and the Grin That Said Everything",
-      "summary": "Carlos Alcaraz lost a five-set thriller at 3:34 AM — the latest finish in US Open history. But after five months out with a wrist injury, he walked off smiling."
+      "title": "Alcaraz Loses at 3:34 A.M., Walks Off Smiling: 'I Suffered, But I Enjoyed'",
+      "summary": "Carlos Alcaraz lost a five-set US Open match at 3:34 a.m. — then smiled in the tunnel. After five months out with a wrist injury, he said he missed the feeling of competing."
     },
     {
-      "id": "2026-09-27-fun-2",
-      "source": "Smithsonian History",
-      "time_ago": "Thu, 24 Sep 2026 11:45:00 +0000",
-      "mined_at": "2026-09-27T00:21:00+00:00",
-      "source_published_at": "Thu, 24 Sep 2026 11:45:00 +0000",
-      "image_url": "/article_images/article_6e419eeeb57e.webp",
+      "id": "2026-09-26-fun-3",
+      "source": "/Film",
+      "time_ago": "Sat, 26 Sep 2026 21:10:00 +0000",
+      "mined_at": "2026-09-27T00:28:38+00:00",
+      "source_published_at": "Sat, 26 Sep 2026 21:10:00 +0000",
+      "image_url": "/article_images/article_4c4c5a4740dc.webp",
       "category": "Fun",
-      "title": "Lancaster, PA: The U.S. Capital You've Never Heard Of (It Lasted One Day)",
-      "summary": "In September 1777, Lancaster, Pennsylvania, served as the U.S. capital for a single day before Congress fled west from the advancing British army. Now it celebrates with an annual Capital Day."
-    },
-    {
-      "id": "2026-09-27-fun-3",
-      "source": "IndieWire",
-      "time_ago": "Sat, 26 Sep 2026 15:15:49 +0000",
-      "mined_at": "2026-09-27T00:21:00+00:00",
-      "source_published_at": "Sat, 26 Sep 2026 15:15:49 +0000",
-      "image_url": "/article_images/article_cc613eef3411.webp",
-      "category": "Fun",
-      "title": "Robert Eggers' 'Werwulf' Promises His Darkest Film Yet — Plus an Interactive Game",
-      "summary": "Robert Eggers' new werewolf film 'Werwulf' hits theaters December 25. Set in a 13th-century English village, it stars Aaron Taylor-Johnson and comes with a new trailer and interactive game."
+      "title": "SNL Season 52 Kicks Off Tonight with NBA Champ Jalen Brunson and KATSEYE",
+      "summary": "Saturday Night Live returns tonight for its Season 52 premiere. New York Knicks point guard Jalen Brunson hosts, fresh off an NBA championship, with KATSEYE as musical guest."
     }
   ]
 }
