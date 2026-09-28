@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-27-fun-1",
-      "source": "Science News Explores",
-      "time_ago": "Fri, 25 Sep 2026 10:30:00 +0000",
-      "mined_at": "2026-09-27T14:57:36+00:00",
-      "source_published_at": "Fri, 25 Sep 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_b51f549f0426.webp",
+      "id": "2026-09-28-fun-1",
+      "source": "CBC World",
+      "time_ago": "Sun, 27 Sep 2026 15:55:07 EDT",
+      "mined_at": "2026-09-28T07:33:56+00:00",
+      "source_published_at": "Sun, 27 Sep 2026 15:55:07 EDT",
+      "image_url": "/article_images/article_470b7d5a7995.webp",
       "category": "Fun",
-      "title": "Armadillo-Inspired Robot Rolls Into a Protective Ball",
-      "summary": "Engineers built a soft robot that copies the three-banded armadillo's famous trick: curling into a hard ball. When it senses a touch, it locks into a wheel in about a minute to protect fragile electronics."
+      "title": "McNulty Shocks the Cycling World with 'Miracle' World Championship Win",
+      "summary": "Brandon McNulty became the first American since 1993 to win cycling's elite road race world title, attacking with 33 km left in Montreal and holding on for a 13-second victory."
     },
     {
-      "id": "2026-09-27-fun-2",
+      "id": "2026-09-28-fun-2",
       "source": "DOGOnews",
       "time_ago": "",
-      "mined_at": "2026-09-27T14:57:36+00:00",
+      "mined_at": "2026-09-28T07:33:56+00:00",
       "source_published_at": "",
-      "image_url": "/article_images/article_fe012afa57fa.webp",
+      "image_url": "/article_images/article_ce089e428ce0.webp",
       "category": "Fun",
-      "title": "Fat Bear Week Returns for Its 12th Year",
-      "summary": "Fat Bear Week is back! Fans worldwide are voting for the chubbiest brown bear in Alaska's Katmai National Park. This year, 16 bears compete — including a mom raising three cubs and a returning champion."
+      "title": "Teen's Plant-Based Plastic Could Help Clean Up Microplastic Pollution",
+      "summary": "18-year-old Arya Satheesh invented Eco Purge, a bioplastic that decomposes while breaking down microplastics. Her project won a European science prize and $12,500 in funding."
     },
     {
-      "id": "2026-09-27-fun-3",
-      "source": "TIME for Kids",
-      "time_ago": "Fri, 25 Sep 2026 13:00:15 +0000",
-      "mined_at": "2026-09-27T14:57:36+00:00",
-      "source_published_at": "Fri, 25 Sep 2026 13:00:15 +0000",
-      "image_url": "/article_images/article_722d3e1c161a.webp",
+      "id": "2026-09-28-fun-3",
+      "source": "BBC Swimming",
+      "time_ago": "Wed, 23 Sep 2026 10:16:28 GMT",
+      "mined_at": "2026-09-28T07:33:56+00:00",
+      "source_published_at": "Wed, 23 Sep 2026 10:16:28 GMT",
+      "image_url": "/article_images/article_c50373e26e19.webp",
       "category": "Fun",
-      "title": "Service Star: Abhijay Potluri, 14, Teaches Coding Worldwide",
-      "summary": "At 14, Abhijay Potluri runs a nonprofit called Kids Who Teach and has taught coding to kids in four countries. He also helped raise money for families after a fire near his Massachusetts home."
+      "title": "13-Year-Old Yu Zidi Storms to Third Gold — and a New Asian Games Record",
+      "summary": "Yu Zidi, just 13, won her third gold at the Asian Games in Nagoya by crushing the 400m individual medley record. Her time of 4:28.56 beat the old mark by nearly 4.5 seconds — and only one woman in the world has swum faster this year."
     }
   ]
 }

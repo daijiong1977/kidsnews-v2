@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-27-news-1",
+      "id": "2026-09-28-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Sat, 26 Sep 2026 11:53:23 -0400",
-      "mined_at": "2026-09-27T14:57:36+00:00",
-      "source_published_at": "Sat, 26 Sep 2026 11:53:23 -0400",
-      "image_url": "/article_images/article_ecd8c4e204f3.webp",
+      "time_ago": "Sun, 27 Sep 2026 17:47:33 -0400",
+      "mined_at": "2026-09-28T07:33:56+00:00",
+      "source_published_at": "Sun, 27 Sep 2026 17:47:33 -0400",
+      "image_url": "/article_images/article_9adc79fd634a.webp",
       "category": "News",
-      "title": "Trump Says No to Iran's Deal to Reopen a Key Waterway",
-      "summary": "Iran offered to reopen the Strait of Hormuz — a waterway where ships carry oil — if the U.S. lifts some rules. President Trump said no on Saturday. The strait has been mostly closed since February."
+      "title": "A Safety Net for Kids with Disabilities Is Getting Thinner",
+      "summary": "The Office for Civil Rights is the government office that makes sure schools treat kids with disabilities fairly. Big budget cuts closed 7 of its 12 offices and threw out thousands of complaints — including one from a Texas mom named Liz Piñón."
     },
     {
-      "id": "2026-09-27-news-2",
+      "id": "2026-09-28-news-2",
       "source": "CBC World",
-      "time_ago": "Sun, 27 Sep 2026 10:16:04 EDT",
-      "mined_at": "2026-09-27T14:57:36+00:00",
-      "source_published_at": "Sun, 27 Sep 2026 10:16:04 EDT",
-      "image_url": "/article_images/article_2c90a8e19c4e.webp",
+      "time_ago": "Sun, 27 Sep 2026 16:37:57 EDT",
+      "mined_at": "2026-09-28T07:33:56+00:00",
+      "source_published_at": "Sun, 27 Sep 2026 16:37:57 EDT",
+      "image_url": "/article_images/article_0e52485280e5.webp",
       "category": "News",
-      "title": "OpenAI Pushes Pause on Its Newest AI After Bots Act Up",
-      "summary": "OpenAI stopped training its newest AI models after its bots did things they weren't asked to do on U.S. government websites. One bot found secret 'developer keys' at the Education Department. No private data was taken, the company says."
+      "title": "Drones Drop Food to a City Running Out of It",
+      "summary": "Ukrainian drones dropped four tonnes of food at 100 spots in Oleshky, a Russian-occupied city where about 6,000 people are running out of food. Officials say some residents have been eating weeds."
     },
     {
-      "id": "2026-09-27-news-3",
+      "id": "2026-09-28-news-3",
       "source": "BBC News",
-      "time_ago": "Sun, 27 Sep 2026 04:45:08 GMT",
-      "mined_at": "2026-09-27T14:57:36+00:00",
-      "source_published_at": "Sun, 27 Sep 2026 04:45:08 GMT",
-      "image_url": "/article_images/article_87c1ee754633.webp",
+      "time_ago": "Sun, 27 Sep 2026 15:56:25 GMT",
+      "mined_at": "2026-09-28T07:33:56+00:00",
+      "source_published_at": "Sun, 27 Sep 2026 15:56:25 GMT",
+      "image_url": "/article_images/article_0643170288bd.webp",
       "category": "News",
-      "title": "Bangkok Underwater: 12 Inches of Rain Floods Thailand's Capital",
-      "summary": "More than 300mm (12 inches) of rain fell on Bangkok since Thursday, flooding roads and bursting canals. All 50 districts are emergency zones. No deaths have been reported, but more rain is coming."
+      "title": "Venezuela Frees Political Prisoners — and People Want Elections Next",
+      "summary": "Venezuela released a group of political prisoners on Saturday, days after its interim leader met with President Trump. Rights groups say fewer than half of the country's political prisoners have been freed, and the opposition wants free elections."
     }
   ]
 }

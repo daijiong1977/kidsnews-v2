@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-27-science-1",
+      "id": "2026-09-28-science-1",
       "source": "ScienceDaily Top Environment",
-      "time_ago": "Sun, 27 Sep 2026 07:55:50 EDT",
-      "mined_at": "2026-09-27T14:57:36+00:00",
-      "source_published_at": "Sun, 27 Sep 2026 07:55:50 EDT",
-      "image_url": "/article_images/article_af81695fb777.webp",
+      "time_ago": "Sat, 26 Sep 2026 22:49:07 EDT",
+      "mined_at": "2026-09-28T07:33:56+00:00",
+      "source_published_at": "Sat, 26 Sep 2026 22:49:07 EDT",
+      "image_url": "/article_images/article_15a95e45b4eb.webp",
       "category": "Science",
-      "title": "Tiny 1.7-Billion-Year-Old Fossils Solve a Big Mystery About Life",
-      "summary": "Scientists found 12,000 tiny fossils in old rock cores stored in a warehouse in Darwin, Australia. The fossils show that the earliest complex life needed oxygen to survive — just like us."
+      "title": "Surprise! These Medieval Graves Weren't Family Graves After All",
+      "summary": "Scientists tested DNA from 142 people buried together in medieval Sweden. Most weren't related! In one grave, a woman had walked a famous pilgrimage route thousands of kilometers."
     },
     {
-      "id": "2026-09-27-science-2",
+      "id": "2026-09-28-science-2",
       "source": "ScienceDaily Top Technology",
-      "time_ago": "Sat, 26 Sep 2026 09:47:38 EDT",
-      "mined_at": "2026-09-27T14:57:36+00:00",
-      "source_published_at": "Sat, 26 Sep 2026 09:47:38 EDT",
-      "image_url": "/article_images/article_2170baf78b2e.webp",
+      "time_ago": "Fri, 25 Sep 2026 09:01:20 EDT",
+      "mined_at": "2026-09-28T07:33:56+00:00",
+      "source_published_at": "Fri, 25 Sep 2026 09:01:20 EDT",
+      "image_url": "/article_images/article_54757a79d80f.webp",
       "category": "Science",
-      "title": "Quantum Computer Makes Particles 'Pop Into Existence'",
-      "summary": "Scientists used a quantum computer to simulate a weird process where pulling particles apart creates new ones. It's like breaking a stretched string and watching new beads appear."
+      "title": "CERN Is Taking Apart the World's Biggest Atom Smasher",
+      "summary": "The Large Hadron Collider is a 27-km ring under Europe. Workers just started removing 28 giant magnets to install new ones that are 40% stronger. The upgrade takes years."
     },
     {
-      "id": "2026-09-27-science-3",
+      "id": "2026-09-28-science-3",
       "source": "Live Science",
-      "time_ago": "Sun, 27 Sep 2026 12:00:00 +0000",
-      "mined_at": "2026-09-27T14:57:36+00:00",
-      "source_published_at": "Sun, 27 Sep 2026 12:00:00 +0000",
-      "image_url": "/article_images/article_786d1d701b08.webp",
+      "time_ago": "Sun, 27 Sep 2026 10:00:00 +0000",
+      "mined_at": "2026-09-28T07:33:56+00:00",
+      "source_published_at": "Sun, 27 Sep 2026 10:00:00 +0000",
+      "image_url": "/article_images/article_7d875d3b0c60.webp",
       "category": "Science",
-      "title": "A Giant Cosmic 'Fart' Is Making a Zombie Star Flash",
-      "summary": "A dead star 13,000 light-years away keeps flashing X-rays at Earth. Scientists discovered it's caused by a giant plume of gas from its partner star — basically a cosmic fart."
+      "title": "James Webb Telescope Snaps a Huge Photo of a Star Nursery",
+      "summary": "The James Webb Space Telescope released one of its biggest images ever: a star-forming cloud 1,000 light-years away. It hides the tiniest brown dwarfs ever found — some only twice the mass of Jupiter."
     }
   ]
 }
