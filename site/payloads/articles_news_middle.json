@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-09-28-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Sun, 27 Sep 2026 17:47:33 -0400",
-      "mined_at": "2026-09-28T07:33:56+00:00",
-      "source_published_at": "Sun, 27 Sep 2026 17:47:33 -0400",
-      "image_url": "/article_images/article_9adc79fd634a.webp",
-      "category": "News",
-      "title": "Thousands of Disability Complaints Dismissed as Civil Rights Office Shrinks",
-      "summary": "Budget cuts closed 7 of the Office for Civil Rights' 12 regional offices and left 446 staff. From March to September 2025, about 90% of the 7,000-plus complaints marked \"resolved\" were actually dismissed without investigation, a government watchdog found."
-    },
-    {
-      "id": "2026-09-28-news-2",
-      "source": "CBC World",
-      "time_ago": "Sun, 27 Sep 2026 16:37:57 EDT",
-      "mined_at": "2026-09-28T07:33:56+00:00",
-      "source_published_at": "Sun, 27 Sep 2026 16:37:57 EDT",
-      "image_url": "/article_images/article_0e52485280e5.webp",
-      "category": "News",
-      "title": "Ukraine Airdrops Food by Drone to Starving Occupied City",
-      "summary": "Ukrainian drones dropped four tonnes of food at 100 locations in Oleshky, a Russian-occupied city where about 6,000 people remain. Officials say residents have been reduced to foraging for weeds, and Russia is accused of blocking aid."
-    },
-    {
-      "id": "2026-09-28-news-3",
       "source": "BBC News",
       "time_ago": "Sun, 27 Sep 2026 15:56:25 GMT",
-      "mined_at": "2026-09-28T07:33:56+00:00",
+      "mined_at": "2026-09-28T13:29:39+00:00",
       "source_published_at": "Sun, 27 Sep 2026 15:56:25 GMT",
       "image_url": "/article_images/article_0643170288bd.webp",
       "category": "News",
       "title": "Venezuela Releases Political Prisoners as Calls for Elections Grow",
-      "summary": "Venezuela freed a group of political prisoners Saturday, days after interim President Delcy Rodríguez met President Trump. Rights group Foro Penal says the release scheme stopped with less than half of the country's political prisoners freed, and the opposition now wants elections."
+      "summary": "Venezuelan authorities freed a group of political prisoners Saturday, human rights groups say, days after interim President Delcy Rodríguez met President Trump in New York. Opposition figures are now demanding free elections."
+    },
+    {
+      "id": "2026-09-28-news-2",
+      "source": "NPR World",
+      "time_ago": "Mon, 28 Sep 2026 05:00:00 -0400",
+      "mined_at": "2026-09-28T13:29:39+00:00",
+      "source_published_at": "Mon, 28 Sep 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_59b72672f046.webp",
+      "category": "News",
+      "title": "The 'Wild West' of AI in Schools: A Chatbot Named Jordan and a $78,650 Experiment",
+      "summary": "A Dayton, Ohio, school paid $78,650 this year for AI tools, including a moody chatbot named Jordan that asks students for advice. Research on AI in classrooms is extremely limited, a Stanford review found."
+    },
+    {
+      "id": "2026-09-28-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Sun, 27 Sep 2026 13:38:17 -0400",
+      "mined_at": "2026-09-28T13:29:39+00:00",
+      "source_published_at": "Sun, 27 Sep 2026 13:38:17 -0400",
+      "image_url": "/article_images/article_3137ed19ad30.webp",
+      "category": "News",
+      "title": "Maine's Senate Race Tests Whether Voters Still Care About Collins' Kavanaugh Vote",
+      "summary": "Senator Susan Collins faces her first election since the Supreme Court overturned Roe v. Wade. Her 2018 vote for Justice Kavanaugh is central to the race, but other issues may matter more to Maine voters."
     }
   ]
 }

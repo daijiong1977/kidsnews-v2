@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-09-28-science-1",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Sat, 26 Sep 2026 22:49:07 EDT",
-      "mined_at": "2026-09-28T07:33:56+00:00",
-      "source_published_at": "Sat, 26 Sep 2026 22:49:07 EDT",
-      "image_url": "/article_images/article_15a95e45b4eb.webp",
+      "source": "Live Science",
+      "time_ago": "Mon, 28 Sep 2026 11:00:00 +0000",
+      "mined_at": "2026-09-28T13:29:39+00:00",
+      "source_published_at": "Mon, 28 Sep 2026 11:00:00 +0000",
+      "image_url": "/article_images/article_003488993d96.webp",
       "category": "Science",
-      "title": "Ancient DNA Reveals Medieval Graves Weren't Family Burials",
-      "summary": "DNA from 142 Viking Age and medieval Swedes shows most people buried together weren't relatives. One woman, Lady 56, was buried with a shell linked to a 2,000-km pilgrimage to Spain."
+      "title": "Stone Tools and Butchered Bones Push Back the Story of Chile's First Hunters",
+      "summary": "Archaeologists in central Chile found 13,000-year-old gomphothere bones with cut marks and stone tools beside them. The site adds key evidence about when the first humans reached South America and how they hunted giant extinct animals."
     },
     {
       "id": "2026-09-28-science-2",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Fri, 25 Sep 2026 09:01:20 EDT",
-      "mined_at": "2026-09-28T07:33:56+00:00",
-      "source_published_at": "Fri, 25 Sep 2026 09:01:20 EDT",
-      "image_url": "/article_images/article_54757a79d80f.webp",
+      "source": "ScienceDaily All",
+      "time_ago": "Sat, 26 Sep 2026 07:30:49 EDT",
+      "mined_at": "2026-09-28T13:29:39+00:00",
+      "source_published_at": "Sat, 26 Sep 2026 07:30:49 EDT",
+      "image_url": "/article_images/article_86b050dc8092.webp",
       "category": "Science",
-      "title": "CERN Begins Dismantling the Large Hadron Collider for a Major Upgrade",
-      "summary": "CERN has started removing 28 superconducting magnets from the Large Hadron Collider. The new magnets will be 40% stronger, boosting collision rates and giving scientists more data."
+      "title": "The Dreaming Brain Burns Energy Even as Its Fuel Supply Rises",
+      "summary": "Researchers in Japan watched mice sleep and found a strange pattern: during REM sleep, blood flow to the brain increases, but the energy molecule neurons use actually drops. That paradox may explain why vivid dreams leave us feeling drained."
     },
     {
       "id": "2026-09-28-science-3",
-      "source": "Live Science",
-      "time_ago": "Sun, 27 Sep 2026 10:00:00 +0000",
-      "mined_at": "2026-09-28T07:33:56+00:00",
-      "source_published_at": "Sun, 27 Sep 2026 10:00:00 +0000",
-      "image_url": "/article_images/article_7d875d3b0c60.webp",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Fri, 25 Sep 2026 09:01:20 EDT",
+      "mined_at": "2026-09-28T13:29:39+00:00",
+      "source_published_at": "Fri, 25 Sep 2026 09:01:20 EDT",
+      "image_url": "/article_images/article_54757a79d80f.webp",
       "category": "Science",
-      "title": "Webb Telescope Releases One of Its Largest Images, Revealing Record-Breaking Brown Dwarfs",
-      "summary": "The James Webb Space Telescope released one of its biggest images ever: IC 348, a star-forming nebula 1,000 light-years away. It contains the least massive brown dwarfs ever found."
+      "title": "CERN Begins Swapping Out Magnets in the Large Hadron Collider",
+      "summary": "Crews at CERN have started removing 28 superconducting magnets from the Large Hadron Collider. The new magnets will be about 40% stronger, creating more particle collisions and giving scientists more data to study."
     }
   ]
 }

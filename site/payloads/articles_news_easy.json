@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-09-28-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Sun, 27 Sep 2026 17:47:33 -0400",
-      "mined_at": "2026-09-28T07:33:56+00:00",
-      "source_published_at": "Sun, 27 Sep 2026 17:47:33 -0400",
-      "image_url": "/article_images/article_9adc79fd634a.webp",
-      "category": "News",
-      "title": "A Safety Net for Kids with Disabilities Is Getting Thinner",
-      "summary": "The Office for Civil Rights is the government office that makes sure schools treat kids with disabilities fairly. Big budget cuts closed 7 of its 12 offices and threw out thousands of complaints — including one from a Texas mom named Liz Piñón."
-    },
-    {
-      "id": "2026-09-28-news-2",
-      "source": "CBC World",
-      "time_ago": "Sun, 27 Sep 2026 16:37:57 EDT",
-      "mined_at": "2026-09-28T07:33:56+00:00",
-      "source_published_at": "Sun, 27 Sep 2026 16:37:57 EDT",
-      "image_url": "/article_images/article_0e52485280e5.webp",
-      "category": "News",
-      "title": "Drones Drop Food to a City Running Out of It",
-      "summary": "Ukrainian drones dropped four tonnes of food at 100 spots in Oleshky, a Russian-occupied city where about 6,000 people are running out of food. Officials say some residents have been eating weeds."
-    },
-    {
-      "id": "2026-09-28-news-3",
       "source": "BBC News",
       "time_ago": "Sun, 27 Sep 2026 15:56:25 GMT",
-      "mined_at": "2026-09-28T07:33:56+00:00",
+      "mined_at": "2026-09-28T13:29:39+00:00",
       "source_published_at": "Sun, 27 Sep 2026 15:56:25 GMT",
       "image_url": "/article_images/article_0643170288bd.webp",
       "category": "News",
-      "title": "Venezuela Frees Political Prisoners — and People Want Elections Next",
-      "summary": "Venezuela released a group of political prisoners on Saturday, days after its interim leader met with President Trump. Rights groups say fewer than half of the country's political prisoners have been freed, and the opposition wants free elections."
+      "title": "Venezuela Frees Political Prisoners After Leader Meets Trump",
+      "summary": "Venezuela's interim government released a group of political prisoners on Saturday, rights groups say. It happened days after interim President Delcy Rodríguez met U.S. President Donald Trump in New York. Opposition figures are now pushing for free elections."
+    },
+    {
+      "id": "2026-09-28-news-2",
+      "source": "NPR World",
+      "time_ago": "Mon, 28 Sep 2026 05:00:00 -0400",
+      "mined_at": "2026-09-28T13:29:39+00:00",
+      "source_published_at": "Mon, 28 Sep 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_59b72672f046.webp",
+      "category": "News",
+      "title": "A Chatbot Named Jordan Is Talking to Kids at School",
+      "summary": "In Dayton, Ohio, some students chat with an AI named Jordan who acts moody and asks for advice. The school paid $72,600 for AI tools last year, but there's very little research on whether this helps kids."
+    },
+    {
+      "id": "2026-09-28-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Sun, 27 Sep 2026 13:38:17 -0400",
+      "mined_at": "2026-09-28T13:29:39+00:00",
+      "source_published_at": "Sun, 27 Sep 2026 13:38:17 -0400",
+      "image_url": "/article_images/article_3137ed19ad30.webp",
+      "category": "News",
+      "title": "A Big Vote in Maine: Why One Senator's Court Choice Still Matters",
+      "summary": "In Maine, voters remember Senator Susan Collins' 2018 vote for Supreme Court Justice Brett Kavanaugh. That court later ended the right to abortion. Now Collins faces her first race since then."
     }
   ]
 }

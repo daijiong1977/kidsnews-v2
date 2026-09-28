@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-09-28-science-1",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Sat, 26 Sep 2026 22:49:07 EDT",
-      "mined_at": "2026-09-28T07:33:56+00:00",
-      "source_published_at": "Sat, 26 Sep 2026 22:49:07 EDT",
-      "image_url": "/article_images/article_15a95e45b4eb.webp",
+      "source": "Live Science",
+      "time_ago": "Mon, 28 Sep 2026 11:00:00 +0000",
+      "mined_at": "2026-09-28T13:29:39+00:00",
+      "source_published_at": "Mon, 28 Sep 2026 11:00:00 +0000",
+      "image_url": "/article_images/article_003488993d96.webp",
       "category": "Science",
-      "title": "Surprise! These Medieval Graves Weren't Family Graves After All",
-      "summary": "Scientists tested DNA from 142 people buried together in medieval Sweden. Most weren't related! In one grave, a woman had walked a famous pilgrimage route thousands of kilometers."
+      "title": "13,000-Year-Old Bones Show Ancient Hunters Butchered Elephant-Like Beasts",
+      "summary": "Archaeologists in Chile found 13,000-year-old bones with cut marks from stone tools. The bones belonged to gomphotheres — extinct elephant relatives — and show that some of the first people in South America hunted and ate them."
     },
     {
       "id": "2026-09-28-science-2",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Fri, 25 Sep 2026 09:01:20 EDT",
-      "mined_at": "2026-09-28T07:33:56+00:00",
-      "source_published_at": "Fri, 25 Sep 2026 09:01:20 EDT",
-      "image_url": "/article_images/article_54757a79d80f.webp",
+      "source": "ScienceDaily All",
+      "time_ago": "Sat, 26 Sep 2026 07:30:49 EDT",
+      "mined_at": "2026-09-28T13:29:39+00:00",
+      "source_published_at": "Sat, 26 Sep 2026 07:30:49 EDT",
+      "image_url": "/article_images/article_86b050dc8092.webp",
       "category": "Science",
-      "title": "CERN Is Taking Apart the World's Biggest Atom Smasher",
-      "summary": "The Large Hadron Collider is a 27-km ring under Europe. Workers just started removing 28 giant magnets to install new ones that are 40% stronger. The upgrade takes years."
+      "title": "Why Do You Feel Tired After a Wild Dream? Scientists May Have Found Out",
+      "summary": "Scientists watched mice sleep and found something weird: during REM sleep, when we dream, the brain's fuel supply goes up — but the energy neurons actually use goes down. That may explain why vivid dreams can leave you exhausted."
     },
     {
       "id": "2026-09-28-science-3",
-      "source": "Live Science",
-      "time_ago": "Sun, 27 Sep 2026 10:00:00 +0000",
-      "mined_at": "2026-09-28T07:33:56+00:00",
-      "source_published_at": "Sun, 27 Sep 2026 10:00:00 +0000",
-      "image_url": "/article_images/article_7d875d3b0c60.webp",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Fri, 25 Sep 2026 09:01:20 EDT",
+      "mined_at": "2026-09-28T13:29:39+00:00",
+      "source_published_at": "Fri, 25 Sep 2026 09:01:20 EDT",
+      "image_url": "/article_images/article_54757a79d80f.webp",
       "category": "Science",
-      "title": "James Webb Telescope Snaps a Huge Photo of a Star Nursery",
-      "summary": "The James Webb Space Telescope released one of its biggest images ever: a star-forming cloud 1,000 light-years away. It hides the tiniest brown dwarfs ever found — some only twice the mass of Jupiter."
+      "title": "CERN Starts Taking Apart the World's Biggest Atom Smasher",
+      "summary": "The Large Hadron Collider, a 27-kilometer ring under Europe, is getting a major upgrade. Crews have started removing 28 giant magnets to replace them with stronger ones that will create more particle collisions."
     }
   ]
 }
