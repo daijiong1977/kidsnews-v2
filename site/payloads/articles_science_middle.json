@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-09-28-science-1",
-      "source": "Live Science",
-      "time_ago": "Mon, 28 Sep 2026 11:00:00 +0000",
-      "mined_at": "2026-09-28T13:29:39+00:00",
-      "source_published_at": "Mon, 28 Sep 2026 11:00:00 +0000",
-      "image_url": "/article_images/article_003488993d96.webp",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Mon, 28 Sep 2026 08:25:21 EDT",
+      "mined_at": "2026-09-29T00:48:41+00:00",
+      "source_published_at": "Mon, 28 Sep 2026 08:25:21 EDT",
+      "image_url": "/article_images/article_3c9cf892711b.webp",
       "category": "Science",
-      "title": "Stone Tools and Butchered Bones Push Back the Story of Chile's First Hunters",
-      "summary": "Archaeologists in central Chile found 13,000-year-old gomphothere bones with cut marks and stone tools beside them. The site adds key evidence about when the first humans reached South America and how they hunted giant extinct animals."
+      "title": "One Fossil Just Overturned 40 Years of Mammal Evolution",
+      "summary": "A nearly complete fossil from Mongolia's Gobi Desert shows that zhelestids — a group scientists studied for 40 years — were not early placental mammals. They belonged to a completely different branch."
     },
     {
       "id": "2026-09-28-science-2",
       "source": "ScienceDaily All",
-      "time_ago": "Sat, 26 Sep 2026 07:30:49 EDT",
-      "mined_at": "2026-09-28T13:29:39+00:00",
-      "source_published_at": "Sat, 26 Sep 2026 07:30:49 EDT",
-      "image_url": "/article_images/article_86b050dc8092.webp",
+      "time_ago": "Mon, 28 Sep 2026 08:49:59 EDT",
+      "mined_at": "2026-09-29T00:48:41+00:00",
+      "source_published_at": "Mon, 28 Sep 2026 08:49:59 EDT",
+      "image_url": "/article_images/article_3918aee45f15.webp",
       "category": "Science",
-      "title": "The Dreaming Brain Burns Energy Even as Its Fuel Supply Rises",
-      "summary": "Researchers in Japan watched mice sleep and found a strange pattern: during REM sleep, blood flow to the brain increases, but the energy molecule neurons use actually drops. That paradox may explain why vivid dreams leave us feeling drained."
+      "title": "Blood Tests Reveal Why Astronauts Get Constipated in Space",
+      "summary": "New research from the University of Copenhagen and NASA shows that gut bacteria in astronauts switch to fermenting protein within weeks in space. The likely cause: microgravity slows digestion."
     },
     {
       "id": "2026-09-28-science-3",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Fri, 25 Sep 2026 09:01:20 EDT",
-      "mined_at": "2026-09-28T13:29:39+00:00",
-      "source_published_at": "Fri, 25 Sep 2026 09:01:20 EDT",
-      "image_url": "/article_images/article_54757a79d80f.webp",
+      "source": "Live Science",
+      "time_ago": "Mon, 28 Sep 2026 17:35:48 +0000",
+      "mined_at": "2026-09-29T00:48:41+00:00",
+      "source_published_at": "Mon, 28 Sep 2026 17:35:48 +0000",
+      "image_url": "/article_images/article_55e9dcf59c9d.webp",
       "category": "Science",
-      "title": "CERN Begins Swapping Out Magnets in the Large Hadron Collider",
-      "summary": "Crews at CERN have started removing 28 superconducting magnets from the Large Hadron Collider. The new magnets will be about 40% stronger, creating more particle collisions and giving scientists more data to study."
+      "title": "Starship Reaches Orbit, Then Explodes After Splashdown",
+      "summary": "SpaceX's Starship reached orbit for the first time on Flight 14, but an engine failure cut the mission short. After splashing down in the Pacific, the rocket exploded — an outcome SpaceX had expected."
     }
   ]
 }

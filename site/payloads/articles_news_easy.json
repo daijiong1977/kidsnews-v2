@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-09-28-news-1",
-      "source": "BBC News",
-      "time_ago": "Sun, 27 Sep 2026 15:56:25 GMT",
-      "mined_at": "2026-09-28T13:29:39+00:00",
-      "source_published_at": "Sun, 27 Sep 2026 15:56:25 GMT",
-      "image_url": "/article_images/article_0643170288bd.webp",
-      "category": "News",
-      "title": "Venezuela Frees Political Prisoners After Leader Meets Trump",
-      "summary": "Venezuela's interim government released a group of political prisoners on Saturday, rights groups say. It happened days after interim President Delcy Rodríguez met U.S. President Donald Trump in New York. Opposition figures are now pushing for free elections."
-    },
-    {
-      "id": "2026-09-28-news-2",
       "source": "NPR World",
       "time_ago": "Mon, 28 Sep 2026 05:00:00 -0400",
-      "mined_at": "2026-09-28T13:29:39+00:00",
+      "mined_at": "2026-09-29T00:48:41+00:00",
       "source_published_at": "Mon, 28 Sep 2026 05:00:00 -0400",
       "image_url": "/article_images/article_59b72672f046.webp",
       "category": "News",
-      "title": "A Chatbot Named Jordan Is Talking to Kids at School",
-      "summary": "In Dayton, Ohio, some students chat with an AI named Jordan who acts moody and asks for advice. The school paid $72,600 for AI tools last year, but there's very little research on whether this helps kids."
+      "title": "A School Tried a Chatbot Named Jordan to Help Kids Talk About Feelings",
+      "summary": "A school in Dayton, Ohio, paid $72,600 for AI tools, including a chatbot named Jordan that acts grumpy so students give it advice. There is very little research on whether AI like this actually helps kids."
+    },
+    {
+      "id": "2026-09-28-news-2",
+      "source": "CBC World",
+      "time_ago": "Mon, 28 Sep 2026 04:00:00 EDT",
+      "mined_at": "2026-09-29T00:48:41+00:00",
+      "source_published_at": "Mon, 28 Sep 2026 04:00:00 EDT",
+      "image_url": "/article_images/article_52c07f65e8e2.webp",
+      "category": "News",
+      "title": "A Salmon Farm in Maine Paused Its $300 Million Project — and Blames Tariffs",
+      "summary": "A $300 million salmon farm planned for Millinocket, Maine, was about 80% finished when the company paused it indefinitely, blaming Trump's tariffs. Maine does $6 billion in trade with Canada each year."
     },
     {
       "id": "2026-09-28-news-3",
-      "source": "PBS NewsHour",
-      "time_ago": "Sun, 27 Sep 2026 13:38:17 -0400",
-      "mined_at": "2026-09-28T13:29:39+00:00",
-      "source_published_at": "Sun, 27 Sep 2026 13:38:17 -0400",
-      "image_url": "/article_images/article_3137ed19ad30.webp",
+      "source": "CBC World",
+      "time_ago": "Mon, 28 Sep 2026 18:00:28 EDT",
+      "mined_at": "2026-09-29T00:48:41+00:00",
+      "source_published_at": "Mon, 28 Sep 2026 18:00:28 EDT",
+      "image_url": "/article_images/article_1f6b064f8cfb.webp",
       "category": "News",
-      "title": "A Big Vote in Maine: Why One Senator's Court Choice Still Matters",
-      "summary": "In Maine, voters remember Senator Susan Collins' 2018 vote for Supreme Court Justice Brett Kavanaugh. That court later ended the right to abortion. Now Collins faces her first race since then."
+      "title": "Drone Strikes Hit Kyiv and Other Ukrainian Cities",
+      "summary": "Russia sent about 120 drones across Ukraine on Monday. At least nine people died, officials say, and a famous science building in Kyiv was hit."
     }
   ]
 }

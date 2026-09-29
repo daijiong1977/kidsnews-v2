@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-09-28-science-1",
-      "source": "Live Science",
-      "time_ago": "Mon, 28 Sep 2026 11:00:00 +0000",
-      "mined_at": "2026-09-28T13:29:39+00:00",
-      "source_published_at": "Mon, 28 Sep 2026 11:00:00 +0000",
-      "image_url": "/article_images/article_003488993d96.webp",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Mon, 28 Sep 2026 08:25:21 EDT",
+      "mined_at": "2026-09-29T00:48:41+00:00",
+      "source_published_at": "Mon, 28 Sep 2026 08:25:21 EDT",
+      "image_url": "/article_images/article_3c9cf892711b.webp",
       "category": "Science",
-      "title": "13,000-Year-Old Bones Show Ancient Hunters Butchered Elephant-Like Beasts",
-      "summary": "Archaeologists in Chile found 13,000-year-old bones with cut marks from stone tools. The bones belonged to gomphotheres — extinct elephant relatives — and show that some of the first people in South America hunted and ate them."
+      "title": "A 40-Year Mistake About a Tiny 'Cretaceous Rabbit'",
+      "summary": "Scientists found a nearly complete fossil in Mongolia's Gobi Desert that changes what we know about a strange ancient mammal. For 40 years, they thought it was related to humans — it wasn't."
     },
     {
       "id": "2026-09-28-science-2",
       "source": "ScienceDaily All",
-      "time_ago": "Sat, 26 Sep 2026 07:30:49 EDT",
-      "mined_at": "2026-09-28T13:29:39+00:00",
-      "source_published_at": "Sat, 26 Sep 2026 07:30:49 EDT",
-      "image_url": "/article_images/article_86b050dc8092.webp",
+      "time_ago": "Mon, 28 Sep 2026 08:49:59 EDT",
+      "mined_at": "2026-09-29T00:48:41+00:00",
+      "source_published_at": "Mon, 28 Sep 2026 08:49:59 EDT",
+      "image_url": "/article_images/article_3918aee45f15.webp",
       "category": "Science",
-      "title": "Why Do You Feel Tired After a Wild Dream? Scientists May Have Found Out",
-      "summary": "Scientists watched mice sleep and found something weird: during REM sleep, when we dream, the brain's fuel supply goes up — but the energy neurons actually use goes down. That may explain why vivid dreams can leave you exhausted."
+      "title": "Why Astronauts Get Constipated in Space — Scientists Finally Know",
+      "summary": "Blood samples from 52 astronauts show that gut bacteria start fermenting protein within weeks of arriving in space. The likely cause? Microgravity slows food moving through the intestines."
     },
     {
       "id": "2026-09-28-science-3",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Fri, 25 Sep 2026 09:01:20 EDT",
-      "mined_at": "2026-09-28T13:29:39+00:00",
-      "source_published_at": "Fri, 25 Sep 2026 09:01:20 EDT",
-      "image_url": "/article_images/article_54757a79d80f.webp",
+      "source": "Live Science",
+      "time_ago": "Mon, 28 Sep 2026 17:35:48 +0000",
+      "mined_at": "2026-09-29T00:48:41+00:00",
+      "source_published_at": "Mon, 28 Sep 2026 17:35:48 +0000",
+      "image_url": "/article_images/article_55e9dcf59c9d.webp",
       "category": "Science",
-      "title": "CERN Starts Taking Apart the World's Biggest Atom Smasher",
-      "summary": "The Large Hadron Collider, a 27-kilometer ring under Europe, is getting a major upgrade. Crews have started removing 28 giant magnets to replace them with stronger ones that will create more particle collisions."
+      "title": "Starship Reaches Orbit for the First Time — Then Explodes After Splashdown",
+      "summary": "SpaceX's Starship made it to orbit for the first time, but an engine failure cut the mission short. After splashing down in the Pacific, the rocket exploded — which was expected."
     }
   ]
 }
