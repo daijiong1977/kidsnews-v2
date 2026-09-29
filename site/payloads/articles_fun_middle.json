@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-28-fun-1",
-      "source": "Popular Science",
-      "time_ago": "Mon, 28 Sep 2026 11:45:00 -0400",
-      "mined_at": "2026-09-29T00:48:41+00:00",
-      "source_published_at": "Mon, 28 Sep 2026 11:45:00 -0400",
-      "image_url": "/article_images/article_27566e32f7ae.webp",
-      "category": "Fun",
-      "title": "A Robot Dog Outran the Average Human in a Marathon — on One Charge",
-      "summary": "Engineers in South Korea built RAIBO2, a robot dog that finished a 26.2-mile marathon in 4 hours and 20 minutes — faster than the average human — with a third of its battery to spare."
-    },
-    {
-      "id": "2026-09-28-fun-2",
-      "source": "/Film",
-      "time_ago": "Mon, 28 Sep 2026 20:28:22 +0000",
-      "mined_at": "2026-09-29T00:48:41+00:00",
-      "source_published_at": "Mon, 28 Sep 2026 20:28:22 +0000",
-      "image_url": "/article_images/article_124676edd752.webp",
-      "category": "Fun",
-      "title": "The Movie Warner Bros. Tried to Bury Is Finally Yours to Watch",
-      "summary": "Coyote vs. Acme was shelved by Warner Bros. until Ketchup Entertainment rescued it. Now the Looney Tunes legal comedy hits digital on September 29, 2026. Rent or buy it on Prime Video, Apple, and Fandango."
-    },
-    {
-      "id": "2026-09-28-fun-3",
+      "id": "2026-09-29-fun-1",
       "source": "DOGOnews",
       "time_ago": "",
-      "mined_at": "2026-09-29T00:48:41+00:00",
+      "mined_at": "2026-09-29T10:33:20+00:00",
       "source_published_at": "",
-      "image_url": "/article_images/article_4854e03a15c2.webp",
+      "image_url": "/article_images/article_ce089e428ce0.webp",
       "category": "Fun",
-      "title": "Injured Pelican Taps on Lab Door — And Scientists Answer",
-      "summary": "A brown pelican with a hook in its wing and cactus spines in its foot pecked on a NOAA lab door in Florida. Researchers removed the gear in 10 minutes and released it."
+      "title": "This Teen's Plant-Based Plastic Could Help Clean Up Microplastics",
+      "summary": "Arya Satheesh, 18, developed Eco Purge, a bioplastic that decomposes while breaking down microplastics. Her invention earned her the European regional title at The Earth Prize and $12,500."
+    },
+    {
+      "id": "2026-09-29-fun-2",
+      "source": "Polygon",
+      "time_ago": "Tue, 29 Sep 2026 09:23:48 GMT",
+      "mined_at": "2026-09-29T10:33:20+00:00",
+      "source_published_at": "Tue, 29 Sep 2026 09:23:48 GMT",
+      "image_url": "/article_images/article_e97f15b71238.webp",
+      "category": "Fun",
+      "title": "Naruto's New Anime Finally Resurfaces — Big Announcement Set for NYCC",
+      "summary": "After a three-year wait, Naruto fans will finally get news about the new anime at New York Comic Con on Oct. 10. The panel, 'Naruto: What's Next,' promises the latest on the limited series."
+    },
+    {
+      "id": "2026-09-29-fun-3",
+      "source": "Science News Explores",
+      "time_ago": "Mon, 28 Sep 2026 10:30:00 +0000",
+      "mined_at": "2026-09-29T10:33:20+00:00",
+      "source_published_at": "Mon, 28 Sep 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_11820300b556.webp",
+      "category": "Fun",
+      "title": "WALL-E vs. Reality: Why Space AI Still Needs a Human Copilot",
+      "summary": "In WALL-E, an AI named AUTO runs a whole starship. Real space AI is way more limited — it hallucinates and needs humans watching. NASA uses it for Mars rovers and satellites, but full robot independence is still far off."
     }
   ]
 }

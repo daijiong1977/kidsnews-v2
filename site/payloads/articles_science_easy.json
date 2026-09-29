@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-28-science-1",
+      "id": "2026-09-29-science-1",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Tue, 29 Sep 2026 05:58:00 EDT",
+      "mined_at": "2026-09-29T10:33:20+00:00",
+      "source_published_at": "Tue, 29 Sep 2026 05:58:00 EDT",
+      "image_url": "/article_images/article_a7001bf0541a.webp",
+      "category": "Science",
+      "title": "Saturn's Moon Shoots Out Ice Grains That Don't Match Its Ocean",
+      "summary": "A spacecraft caught ice grains blasting from Saturn's moon Enceladus. The grains had wildly different salts — but they all came from the same ocean. Scientists just figured out why."
+    },
+    {
+      "id": "2026-09-29-science-2",
       "source": "ScienceDaily Top Environment",
-      "time_ago": "Mon, 28 Sep 2026 08:25:21 EDT",
-      "mined_at": "2026-09-29T00:48:41+00:00",
-      "source_published_at": "Mon, 28 Sep 2026 08:25:21 EDT",
-      "image_url": "/article_images/article_3c9cf892711b.webp",
+      "time_ago": "Mon, 28 Sep 2026 23:12:23 EDT",
+      "mined_at": "2026-09-29T10:33:20+00:00",
+      "source_published_at": "Mon, 28 Sep 2026 23:12:23 EDT",
+      "image_url": "/article_images/article_2b4a7506d4fd.webp",
       "category": "Science",
-      "title": "A 40-Year Mistake About a Tiny 'Cretaceous Rabbit'",
-      "summary": "Scientists found a nearly complete fossil in Mongolia's Gobi Desert that changes what we know about a strange ancient mammal. For 40 years, they thought it was related to humans — it wasn't."
+      "title": "These Galápagos Sea Turtles Didn't Wander — They Stayed Home",
+      "summary": "Sea turtles are famous for epic ocean journeys. But nine tagged green sea turtles in the Galápagos barely left the neighborhood for up to 418 days. Scientists were surprised."
     },
     {
-      "id": "2026-09-28-science-2",
-      "source": "ScienceDaily All",
-      "time_ago": "Mon, 28 Sep 2026 08:49:59 EDT",
-      "mined_at": "2026-09-29T00:48:41+00:00",
-      "source_published_at": "Mon, 28 Sep 2026 08:49:59 EDT",
-      "image_url": "/article_images/article_3918aee45f15.webp",
-      "category": "Science",
-      "title": "Why Astronauts Get Constipated in Space — Scientists Finally Know",
-      "summary": "Blood samples from 52 astronauts show that gut bacteria start fermenting protein within weeks of arriving in space. The likely cause? Microgravity slows food moving through the intestines."
-    },
-    {
-      "id": "2026-09-28-science-3",
+      "id": "2026-09-29-science-3",
       "source": "Live Science",
-      "time_ago": "Mon, 28 Sep 2026 17:35:48 +0000",
-      "mined_at": "2026-09-29T00:48:41+00:00",
-      "source_published_at": "Mon, 28 Sep 2026 17:35:48 +0000",
-      "image_url": "/article_images/article_55e9dcf59c9d.webp",
+      "time_ago": "Tue, 29 Sep 2026 10:00:00 +0000",
+      "mined_at": "2026-09-29T10:33:20+00:00",
+      "source_published_at": "Tue, 29 Sep 2026 10:00:00 +0000",
+      "image_url": "/article_images/article_8c7d893f1b68.webp",
       "category": "Science",
-      "title": "Starship Reaches Orbit for the First Time — Then Explodes After Splashdown",
-      "summary": "SpaceX's Starship made it to orbit for the first time, but an engine failure cut the mission short. After splashing down in the Pacific, the rocket exploded — which was expected."
+      "title": "New Iron Minerals Could Hold Water From Earth's Birth",
+      "summary": "Scientists squished minerals between tiny diamonds and found two new iron minerals that can store water deep inside Earth. They might be a missing link in how our planet got its oceans."
     }
   ]
 }

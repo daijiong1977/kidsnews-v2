@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-28-news-1",
+      "id": "2026-09-29-news-1",
+      "source": "PBS NewsHour",
+      "time_ago": "Mon, 28 Sep 2026 18:55:54 -0400",
+      "mined_at": "2026-09-29T10:33:20+00:00",
+      "source_published_at": "Mon, 28 Sep 2026 18:55:54 -0400",
+      "image_url": "/article_images/article_33b141ef95f0.webp",
+      "category": "News",
+      "title": "US Lowers Gas Mileage Rules for New Cars",
+      "summary": "The Trump administration rolled back fuel economy rules. By 2031, new cars and trucks must average 34.9 miles per gallon instead of over 50. The government says this cuts car prices by about $1,300."
+    },
+    {
+      "id": "2026-09-29-news-2",
+      "source": "CBC World",
+      "time_ago": "Tue, 29 Sep 2026 04:00:00 EDT",
+      "mined_at": "2026-09-29T10:33:20+00:00",
+      "source_published_at": "Tue, 29 Sep 2026 04:00:00 EDT",
+      "image_url": "/article_images/article_371bcbce01d6.webp",
+      "category": "News",
+      "title": "Hackers Say They Won't Share Stolen FBI Data",
+      "summary": "A hacking group called ShinyHunters says it stole private data about thousands of FBI workers. Now the group says it won't publish the information — but it can't promise the data is safe."
+    },
+    {
+      "id": "2026-09-29-news-3",
       "source": "NPR World",
-      "time_ago": "Mon, 28 Sep 2026 05:00:00 -0400",
-      "mined_at": "2026-09-29T00:48:41+00:00",
-      "source_published_at": "Mon, 28 Sep 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_59b72672f046.webp",
+      "time_ago": "Mon, 28 Sep 2026 09:15:29 -0400",
+      "mined_at": "2026-09-29T10:33:20+00:00",
+      "source_published_at": "Mon, 28 Sep 2026 09:15:29 -0400",
+      "image_url": "/article_images/article_d5e94824f57b.webp",
       "category": "News",
-      "title": "A School Tried a Chatbot Named Jordan to Help Kids Talk About Feelings",
-      "summary": "A school in Dayton, Ohio, paid $72,600 for AI tools, including a chatbot named Jordan that acts grumpy so students give it advice. There is very little research on whether AI like this actually helps kids."
-    },
-    {
-      "id": "2026-09-28-news-2",
-      "source": "CBC World",
-      "time_ago": "Mon, 28 Sep 2026 04:00:00 EDT",
-      "mined_at": "2026-09-29T00:48:41+00:00",
-      "source_published_at": "Mon, 28 Sep 2026 04:00:00 EDT",
-      "image_url": "/article_images/article_52c07f65e8e2.webp",
-      "category": "News",
-      "title": "A Salmon Farm in Maine Paused Its $300 Million Project — and Blames Tariffs",
-      "summary": "A $300 million salmon farm planned for Millinocket, Maine, was about 80% finished when the company paused it indefinitely, blaming Trump's tariffs. Maine does $6 billion in trade with Canada each year."
-    },
-    {
-      "id": "2026-09-28-news-3",
-      "source": "CBC World",
-      "time_ago": "Mon, 28 Sep 2026 18:00:28 EDT",
-      "mined_at": "2026-09-29T00:48:41+00:00",
-      "source_published_at": "Mon, 28 Sep 2026 18:00:28 EDT",
-      "image_url": "/article_images/article_1f6b064f8cfb.webp",
-      "category": "News",
-      "title": "Drone Strikes Hit Kyiv and Other Ukrainian Cities",
-      "summary": "Russia sent about 120 drones across Ukraine on Monday. At least nine people died, officials say, and a famous science building in Kyiv was hit."
+      "title": "Starship Goes to Orbit for the First Time!",
+      "summary": "SpaceX's giant Starship rocket reached orbit for the first time on Monday, launching from Boca Chica Beach in Texas. It also dropped off 26 Starlink internet satellites before splashing down near Hawaii."
     }
   ]
 }

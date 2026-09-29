@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-28-news-1",
+      "id": "2026-09-29-news-1",
+      "source": "PBS NewsHour",
+      "time_ago": "Mon, 28 Sep 2026 18:55:54 -0400",
+      "mined_at": "2026-09-29T10:33:20+00:00",
+      "source_published_at": "Mon, 28 Sep 2026 18:55:54 -0400",
+      "image_url": "/article_images/article_33b141ef95f0.webp",
+      "category": "News",
+      "title": "Trump Rolls Back Fuel Economy Standards as Gas Prices Rise",
+      "summary": "The Trump administration reversed Biden-era fuel rules, dropping the 2031 average from over 50 mpg to 34.9 mpg. The government says it cuts car costs by about $1,300, but drivers may pay more at the pump."
+    },
+    {
+      "id": "2026-09-29-news-2",
+      "source": "CBC World",
+      "time_ago": "Tue, 29 Sep 2026 04:00:00 EDT",
+      "mined_at": "2026-09-29T10:33:20+00:00",
+      "source_published_at": "Tue, 29 Sep 2026 04:00:00 EDT",
+      "image_url": "/article_images/article_371bcbce01d6.webp",
+      "category": "News",
+      "title": "ShinyHunters Says It Won't Leak FBI Data — But Can't Control What Happens Next",
+      "summary": "A hacking group called ShinyHunters says it stole private data from thousands of FBI employees. Now it says it won't publish the data, but it already shared samples with journalists and can't promise they stay secret."
+    },
+    {
+      "id": "2026-09-29-news-3",
       "source": "NPR World",
-      "time_ago": "Mon, 28 Sep 2026 05:00:00 -0400",
-      "mined_at": "2026-09-29T00:48:41+00:00",
-      "source_published_at": "Mon, 28 Sep 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_59b72672f046.webp",
+      "time_ago": "Mon, 28 Sep 2026 09:15:29 -0400",
+      "mined_at": "2026-09-29T10:33:20+00:00",
+      "source_published_at": "Mon, 28 Sep 2026 09:15:29 -0400",
+      "image_url": "/article_images/article_d5e94824f57b.webp",
       "category": "News",
-      "title": "Dayton Schools Pay $78,650 for an AI Chatbot Named Jordan — But Research Lags Behind",
-      "summary": "A Dayton, Ohio, school district renewed a $78,650 contract for AI tools, including a chatbot named Jordan that acts moody so students give it advice. A Stanford review of 800+ papers found little evidence on how school AI affects kids."
-    },
-    {
-      "id": "2026-09-28-news-2",
-      "source": "CBC World",
-      "time_ago": "Mon, 28 Sep 2026 04:00:00 EDT",
-      "mined_at": "2026-09-29T00:48:41+00:00",
-      "source_published_at": "Mon, 28 Sep 2026 04:00:00 EDT",
-      "image_url": "/article_images/article_52c07f65e8e2.webp",
-      "category": "News",
-      "title": "Maine's $300 Million Salmon Farm Paused, Blaming Trump's Tariffs",
-      "summary": "A $300 million salmon farm in Millinocket, Maine, was 80% complete when it paused indefinitely, blaming tariff uncertainty. Maine does $6 billion in annual trade with Canada — and Sen. Susan Collins faces a tight re-election race."
-    },
-    {
-      "id": "2026-09-28-news-3",
-      "source": "CBC World",
-      "time_ago": "Mon, 28 Sep 2026 18:00:28 EDT",
-      "mined_at": "2026-09-29T00:48:41+00:00",
-      "source_published_at": "Mon, 28 Sep 2026 18:00:28 EDT",
-      "image_url": "/article_images/article_1f6b064f8cfb.webp",
-      "category": "News",
-      "title": "Deadly Drone Wave Hits Kyiv, Including a Historic Science Academy",
-      "summary": "Russia launched about 120 drones across Ukraine on Monday, officials say. At least nine people were killed, and a drone struck Kyiv's National Academy of Sciences."
+      "title": "SpaceX's Starship Reaches Orbit for the First Time",
+      "summary": "SpaceX's Starship rocket launched from Texas on Monday and reached orbit for the first time, deploying 26 Starlink satellites. An engine failed during ascent, so the flight was shortened to three hours."
     }
   ]
 }

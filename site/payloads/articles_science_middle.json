@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-28-science-1",
+      "id": "2026-09-29-science-1",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Tue, 29 Sep 2026 05:58:00 EDT",
+      "mined_at": "2026-09-29T10:33:20+00:00",
+      "source_published_at": "Tue, 29 Sep 2026 05:58:00 EDT",
+      "image_url": "/article_images/article_a7001bf0541a.webp",
+      "category": "Science",
+      "title": "Cassini's Ice Grains From Enceladus Were Stranger Than Expected — And Now We Know Why",
+      "summary": "Ice grains erupting from Saturn's moon Enceladus had wildly different salt recipes, even though they came from one ocean. Lab experiments reveal freezing speed is the secret."
+    },
+    {
+      "id": "2026-09-29-science-2",
       "source": "ScienceDaily Top Environment",
-      "time_ago": "Mon, 28 Sep 2026 08:25:21 EDT",
-      "mined_at": "2026-09-29T00:48:41+00:00",
-      "source_published_at": "Mon, 28 Sep 2026 08:25:21 EDT",
-      "image_url": "/article_images/article_3c9cf892711b.webp",
+      "time_ago": "Mon, 28 Sep 2026 23:12:23 EDT",
+      "mined_at": "2026-09-29T10:33:20+00:00",
+      "source_published_at": "Mon, 28 Sep 2026 23:12:23 EDT",
+      "image_url": "/article_images/article_2b4a7506d4fd.webp",
       "category": "Science",
-      "title": "One Fossil Just Overturned 40 Years of Mammal Evolution",
-      "summary": "A nearly complete fossil from Mongolia's Gobi Desert shows that zhelestids — a group scientists studied for 40 years — were not early placental mammals. They belonged to a completely different branch."
+      "title": "Tagged Galápagos Turtles Surprised Scientists by Staying Put for Years",
+      "summary": "Nine green sea turtles in the Galápagos were tagged for up to 418 days. None left the marine reserve. Scientists expected long migrations — instead, the turtles stayed close to home."
     },
     {
-      "id": "2026-09-28-science-2",
-      "source": "ScienceDaily All",
-      "time_ago": "Mon, 28 Sep 2026 08:49:59 EDT",
-      "mined_at": "2026-09-29T00:48:41+00:00",
-      "source_published_at": "Mon, 28 Sep 2026 08:49:59 EDT",
-      "image_url": "/article_images/article_3918aee45f15.webp",
-      "category": "Science",
-      "title": "Blood Tests Reveal Why Astronauts Get Constipated in Space",
-      "summary": "New research from the University of Copenhagen and NASA shows that gut bacteria in astronauts switch to fermenting protein within weeks in space. The likely cause: microgravity slows digestion."
-    },
-    {
-      "id": "2026-09-28-science-3",
+      "id": "2026-09-29-science-3",
       "source": "Live Science",
-      "time_ago": "Mon, 28 Sep 2026 17:35:48 +0000",
-      "mined_at": "2026-09-29T00:48:41+00:00",
-      "source_published_at": "Mon, 28 Sep 2026 17:35:48 +0000",
-      "image_url": "/article_images/article_55e9dcf59c9d.webp",
+      "time_ago": "Tue, 29 Sep 2026 10:00:00 +0000",
+      "mined_at": "2026-09-29T10:33:20+00:00",
+      "source_published_at": "Tue, 29 Sep 2026 10:00:00 +0000",
+      "image_url": "/article_images/article_8c7d893f1b68.webp",
       "category": "Science",
-      "title": "Starship Reaches Orbit, Then Explodes After Splashdown",
-      "summary": "SpaceX's Starship reached orbit for the first time on Flight 14, but an engine failure cut the mission short. After splashing down in the Pacific, the rocket exploded — an outcome SpaceX had expected."
+      "title": "Tiny Diamond Anvils Reveal Iron Minerals That Could Store Earth's Primordial Water",
+      "summary": "Scientists discovered two new iron minerals that can hold water at extreme pressures near Earth's core. They might explain how our planet's oceans formed — and how water moves deep underground."
     }
   ]
 }
