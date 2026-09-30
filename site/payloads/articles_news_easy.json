@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-29-news-1",
+      "id": "2026-09-30-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Mon, 28 Sep 2026 18:55:54 -0400",
-      "mined_at": "2026-09-29T10:33:20+00:00",
-      "source_published_at": "Mon, 28 Sep 2026 18:55:54 -0400",
-      "image_url": "/article_images/article_33b141ef95f0.webp",
+      "time_ago": "Tue, 29 Sep 2026 19:45:28 -0400",
+      "mined_at": "2026-09-30T10:32:16+00:00",
+      "source_published_at": "Tue, 29 Sep 2026 19:45:28 -0400",
+      "image_url": "/article_images/article_894ad32a0c01.webp",
       "category": "News",
-      "title": "US Lowers Gas Mileage Rules for New Cars",
-      "summary": "The Trump administration rolled back fuel economy rules. By 2031, new cars and trucks must average 34.9 miles per gallon instead of over 50. The government says this cuts car prices by about $1,300."
+      "title": "Seven People Are Running to Lead the United Nations",
+      "summary": "Seven candidates are competing to become the next secretary-general of the United Nations, and four of them are women. The winner could be the first woman to lead the 81-year-old organization."
     },
     {
-      "id": "2026-09-29-news-2",
+      "id": "2026-09-30-news-2",
       "source": "CBC World",
-      "time_ago": "Tue, 29 Sep 2026 04:00:00 EDT",
-      "mined_at": "2026-09-29T10:33:20+00:00",
-      "source_published_at": "Tue, 29 Sep 2026 04:00:00 EDT",
-      "image_url": "/article_images/article_371bcbce01d6.webp",
+      "time_ago": "Wed, 30 Sep 2026 04:00:00 EDT",
+      "mined_at": "2026-09-30T10:32:16+00:00",
+      "source_published_at": "Wed, 30 Sep 2026 04:00:00 EDT",
+      "image_url": "/article_images/article_9f31e8b3f184.webp",
       "category": "News",
-      "title": "Hackers Say They Won't Share Stolen FBI Data",
-      "summary": "A hacking group called ShinyHunters says it stole private data about thousands of FBI workers. Now the group says it won't publish the information — but it can't promise the data is safe."
+      "title": "White House Uses Taxpayer Money for Pro-Trump TV Ads",
+      "summary": "The White House is spending public money on TV ads that look like campaign ads for President Trump. The ads have cost at least $1.4 million so far and are airing during NFL games and other big shows. Even some Republicans say it's wrong."
     },
     {
-      "id": "2026-09-29-news-3",
+      "id": "2026-09-30-news-3",
       "source": "NPR World",
-      "time_ago": "Mon, 28 Sep 2026 09:15:29 -0400",
-      "mined_at": "2026-09-29T10:33:20+00:00",
-      "source_published_at": "Mon, 28 Sep 2026 09:15:29 -0400",
-      "image_url": "/article_images/article_d5e94824f57b.webp",
+      "time_ago": "Wed, 30 Sep 2026 02:16:44 -0400",
+      "mined_at": "2026-09-30T10:32:16+00:00",
+      "source_published_at": "Wed, 30 Sep 2026 02:16:44 -0400",
+      "image_url": "/article_images/article_e2a9b0251aff.webp",
       "category": "News",
-      "title": "Starship Goes to Orbit for the First Time!",
-      "summary": "SpaceX's giant Starship rocket reached orbit for the first time on Monday, launching from Boca Chica Beach in Texas. It also dropped off 26 Starlink internet satellites before splashing down near Hawaii."
+      "title": "Hurricane Polo's Leftover Rain Floods the Southwest",
+      "summary": "Hurricane Polo hit Mexico with 110 mph winds, then its leftover rain flooded New Mexico, Arizona and Utah. Hundreds of people in small towns near the Rio Grande had to leave their homes because a dam might break."
     }
   ]
 }

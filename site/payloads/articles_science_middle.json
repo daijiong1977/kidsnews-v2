@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-29-science-1",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Tue, 29 Sep 2026 05:58:00 EDT",
-      "mined_at": "2026-09-29T10:33:20+00:00",
-      "source_published_at": "Tue, 29 Sep 2026 05:58:00 EDT",
-      "image_url": "/article_images/article_a7001bf0541a.webp",
+      "id": "2026-09-30-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Mon, 28 Sep 2026 23:45:39 EDT",
+      "mined_at": "2026-09-30T10:32:16+00:00",
+      "source_published_at": "Mon, 28 Sep 2026 23:45:39 EDT",
+      "image_url": "/article_images/article_0498fcdb537a.webp",
       "category": "Science",
-      "title": "Cassini's Ice Grains From Enceladus Were Stranger Than Expected — And Now We Know Why",
-      "summary": "Ice grains erupting from Saturn's moon Enceladus had wildly different salt recipes, even though they came from one ocean. Lab experiments reveal freezing speed is the secret."
+      "title": "A Suitcase-Sized Satellite Will Hunt for the Universe's Darkest Era",
+      "summary": "CosmoCube, a small spacecraft, will orbit the Moon to detect a faint radio signal from the 150 million years before the first stars — a period no telescope has ever directly observed."
     },
     {
-      "id": "2026-09-29-science-2",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Mon, 28 Sep 2026 23:12:23 EDT",
-      "mined_at": "2026-09-29T10:33:20+00:00",
-      "source_published_at": "Mon, 28 Sep 2026 23:12:23 EDT",
-      "image_url": "/article_images/article_2b4a7506d4fd.webp",
-      "category": "Science",
-      "title": "Tagged Galápagos Turtles Surprised Scientists by Staying Put for Years",
-      "summary": "Nine green sea turtles in the Galápagos were tagged for up to 418 days. None left the marine reserve. Scientists expected long migrations — instead, the turtles stayed close to home."
-    },
-    {
-      "id": "2026-09-29-science-3",
+      "id": "2026-09-30-science-2",
       "source": "Live Science",
-      "time_ago": "Tue, 29 Sep 2026 10:00:00 +0000",
-      "mined_at": "2026-09-29T10:33:20+00:00",
-      "source_published_at": "Tue, 29 Sep 2026 10:00:00 +0000",
-      "image_url": "/article_images/article_8c7d893f1b68.webp",
+      "time_ago": "Tue, 29 Sep 2026 17:11:35 +0000",
+      "mined_at": "2026-09-30T10:32:16+00:00",
+      "source_published_at": "Tue, 29 Sep 2026 17:11:35 +0000",
+      "image_url": "/article_images/article_872ad1824213.webp",
       "category": "Science",
-      "title": "Tiny Diamond Anvils Reveal Iron Minerals That Could Store Earth's Primordial Water",
-      "summary": "Scientists discovered two new iron minerals that can hold water at extreme pressures near Earth's core. They might explain how our planet's oceans formed — and how water moves deep underground."
+      "title": "Earth's Health Check: 7 of 9 Planetary Boundaries Breached, Report Warns",
+      "summary": "A new report by 60+ scientists finds seven of Earth's nine planetary boundaries — including climate change and ocean acidification — have been breached. But researchers say there's still a window to act."
+    },
+    {
+      "id": "2026-09-30-science-3",
+      "source": "DOGOnews",
+      "time_ago": "",
+      "mined_at": "2026-09-30T10:32:16+00:00",
+      "source_published_at": "",
+      "image_url": "/article_images/article_4e1d89829534.webp",
+      "category": "Science",
+      "title": "A Shark Graveyard Hidden in Egypt's Desert",
+      "summary": "Paleontologists uncovered 14 fossilized shark teeth in Egypt's Western Desert, dating back 70 to 80 million years. The now-dry land was once a shallow tropical sea."
     }
   ]
 }

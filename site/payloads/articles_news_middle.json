@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-29-news-1",
+      "id": "2026-09-30-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Mon, 28 Sep 2026 18:55:54 -0400",
-      "mined_at": "2026-09-29T10:33:20+00:00",
-      "source_published_at": "Mon, 28 Sep 2026 18:55:54 -0400",
-      "image_url": "/article_images/article_33b141ef95f0.webp",
+      "time_ago": "Tue, 29 Sep 2026 19:45:28 -0400",
+      "mined_at": "2026-09-30T10:32:16+00:00",
+      "source_published_at": "Tue, 29 Sep 2026 19:45:28 -0400",
+      "image_url": "/article_images/article_894ad32a0c01.webp",
       "category": "News",
-      "title": "Trump Rolls Back Fuel Economy Standards as Gas Prices Rise",
-      "summary": "The Trump administration reversed Biden-era fuel rules, dropping the 2031 average from over 50 mpg to 34.9 mpg. The government says it cuts car costs by about $1,300, but drivers may pay more at the pump."
+      "title": "Race Underway to Choose the UN's Next Secretary-General",
+      "summary": "Seven candidates are running to become the next UN secretary-general, and four are women — meaning the UN could get its first female leader. The winner takes office on January 1, 2027."
     },
     {
-      "id": "2026-09-29-news-2",
+      "id": "2026-09-30-news-2",
       "source": "CBC World",
-      "time_ago": "Tue, 29 Sep 2026 04:00:00 EDT",
-      "mined_at": "2026-09-29T10:33:20+00:00",
-      "source_published_at": "Tue, 29 Sep 2026 04:00:00 EDT",
-      "image_url": "/article_images/article_371bcbce01d6.webp",
+      "time_ago": "Wed, 30 Sep 2026 04:00:00 EDT",
+      "mined_at": "2026-09-30T10:32:16+00:00",
+      "source_published_at": "Wed, 30 Sep 2026 04:00:00 EDT",
+      "image_url": "/article_images/article_9f31e8b3f184.webp",
       "category": "News",
-      "title": "ShinyHunters Says It Won't Leak FBI Data — But Can't Control What Happens Next",
-      "summary": "A hacking group called ShinyHunters says it stole private data from thousands of FBI employees. Now it says it won't publish the data, but it already shared samples with journalists and can't promise they stay secret."
+      "title": "Taxpayer-Funded Pro-Trump Ads Spark Criticism Ahead of Midterms",
+      "summary": "The White House is airing TV ads featuring President Trump, paid for with public money. The ads have cost at least $1.4 million and are drawing criticism from both Democrats and some Republicans. The midterm elections are on November 3."
     },
     {
-      "id": "2026-09-29-news-3",
+      "id": "2026-09-30-news-3",
       "source": "NPR World",
-      "time_ago": "Mon, 28 Sep 2026 09:15:29 -0400",
-      "mined_at": "2026-09-29T10:33:20+00:00",
-      "source_published_at": "Mon, 28 Sep 2026 09:15:29 -0400",
-      "image_url": "/article_images/article_d5e94824f57b.webp",
+      "time_ago": "Wed, 30 Sep 2026 02:16:44 -0400",
+      "mined_at": "2026-09-30T10:32:16+00:00",
+      "source_published_at": "Wed, 30 Sep 2026 02:16:44 -0400",
+      "image_url": "/article_images/article_e2a9b0251aff.webp",
       "category": "News",
-      "title": "SpaceX's Starship Reaches Orbit for the First Time",
-      "summary": "SpaceX's Starship rocket launched from Texas on Monday and reached orbit for the first time, deploying 26 Starlink satellites. An engine failed during ascent, so the flight was shortened to three hours."
+      "title": "Polo's Remnants Swamp the Southwest, Forcing Evacuations",
+      "summary": "After Hurricane Polo hit Mexico with 110 mph winds, its leftover rain flooded New Mexico, Arizona and Utah. Hundreds evacuated near the Rio Grande over fears a dam could fail, and helicopters rescued stranded people."
     }
   ]
 }

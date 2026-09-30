@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-29-fun-1",
+      "id": "2026-09-30-fun-1",
       "source": "DOGOnews",
       "time_ago": "",
-      "mined_at": "2026-09-29T10:33:20+00:00",
+      "mined_at": "2026-09-30T10:32:16+00:00",
       "source_published_at": "",
-      "image_url": "/article_images/article_ce089e428ce0.webp",
+      "image_url": "/article_images/article_e814d3c67b08.webp",
       "category": "Fun",
-      "title": "Teen Invents Plant-Based Plastic That Eats Microplastics",
-      "summary": "Arya Satheesh, 18, created Eco Purge — a plant-based plastic that breaks down microplastics in soil and water. Her invention won a European science prize and $12,500."
+      "title": "A 91-Year-Old Just Hiked 2,198 Miles — and Set a Record",
+      "summary": "Dale Sanders, 91, became the oldest person to hike the whole Appalachian Trail. The 2,198-mile trip took him 359 days — and he fell 71 times along the way."
     },
     {
-      "id": "2026-09-29-fun-2",
-      "source": "Polygon",
-      "time_ago": "Tue, 29 Sep 2026 09:23:48 GMT",
-      "mined_at": "2026-09-29T10:33:20+00:00",
-      "source_published_at": "Tue, 29 Sep 2026 09:23:48 GMT",
-      "image_url": "/article_images/article_e97f15b71238.webp",
+      "id": "2026-09-30-fun-2",
+      "source": "NPR World",
+      "time_ago": "Wed, 30 Sep 2026 05:00:00 -0400",
+      "mined_at": "2026-09-30T10:32:16+00:00",
+      "source_published_at": "Wed, 30 Sep 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_7e6f185776e3.webp",
       "category": "Fun",
-      "title": "Naruto Fans, Get Ready: New Anime News Is Coming!",
-      "summary": "After years of waiting, Naruto fans will finally learn about the new anime project at New York Comic Con on Oct. 10. The panel is called 'Naruto: What's Next.'"
+      "title": "Kids Across America Turned Big Questions Into Podcasts",
+      "summary": "NPR's Student Podcast Challenge got nearly 1,500 podcasts from kids in 42 states. Topics ranged from Andy Warhol to dementia to what it means to be American."
     },
     {
-      "id": "2026-09-29-fun-3",
-      "source": "Science News Explores",
-      "time_ago": "Mon, 28 Sep 2026 10:30:00 +0000",
-      "mined_at": "2026-09-29T10:33:20+00:00",
-      "source_published_at": "Mon, 28 Sep 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_11820300b556.webp",
+      "id": "2026-09-30-fun-3",
+      "source": "Billboard",
+      "time_ago": "Wed, 30 Sep 2026 09:43:50 +0000",
+      "mined_at": "2026-09-30T10:32:16+00:00",
+      "source_published_at": "Wed, 30 Sep 2026 09:43:50 +0000",
+      "image_url": "/article_images/article_80c2fc39dbc1.webp",
       "category": "Fun",
-      "title": "Space Robots Need a Tune-Up: Why AI Isn't Ready to Fly a Spaceship",
-      "summary": "In movies, AI runs whole spaceships. In real life, today's AI still makes stuff up and needs humans watching. NASA uses it for Mars rovers and satellites, but a robot that can handle space all by itself? Not yet."
+      "title": "Hailee Steinfeld Is a Witch in Her New Disney Movie 'Hexed'",
+      "summary": "Hailee Steinfeld just told Jimmy Fallon about her new Disney movie, 'Hexed.' She voices a teen witch named Billie Doe. The film comes out this Thanksgiving."
     }
   ]
 }
