@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-30-science-1",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Mon, 28 Sep 2026 23:45:39 EDT",
-      "mined_at": "2026-09-30T10:32:16+00:00",
-      "source_published_at": "Mon, 28 Sep 2026 23:45:39 EDT",
-      "image_url": "/article_images/article_0498fcdb537a.webp",
+      "id": "2026-10-01-science-1",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Tue, 29 Sep 2026 07:39:27 EDT",
+      "mined_at": "2026-10-01T10:32:21+00:00",
+      "source_published_at": "Tue, 29 Sep 2026 07:39:27 EDT",
+      "image_url": "/article_images/article_c6d7bb9666fb.webp",
       "category": "Science",
-      "title": "A Suitcase-Sized Satellite Will Hunt for the Universe's Darkest Era",
-      "summary": "CosmoCube, a small spacecraft, will orbit the Moon to detect a faint radio signal from the 150 million years before the first stars — a period no telescope has ever directly observed."
+      "title": "245-Million-Year-Old Fossil Reveals Oldest Known Reptile Digestive System",
+      "summary": "Scientists in China found a nearly complete fossil of a marine reptile with its stomach, liver and intestines preserved. At 245 million years old, it's the oldest reptile digestive system ever discovered."
     },
     {
-      "id": "2026-09-30-science-2",
+      "id": "2026-10-01-science-2",
+      "source": "Science News Explores",
+      "time_ago": "Wed, 30 Sep 2026 10:30:00 +0000",
+      "mined_at": "2026-10-01T10:32:21+00:00",
+      "source_published_at": "Wed, 30 Sep 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_5ddd330db472.webp",
+      "category": "Science",
+      "title": "Mysterious 'Cold Blob' in North Atlantic May Signal Major Ocean Current Shutdown",
+      "summary": "A patch of the North Atlantic has cooled by 1°C while the rest of the oceans warm. Scientists say it's linked to the AMOC current slowing down — a possible tipping point."
+    },
+    {
+      "id": "2026-10-01-science-3",
       "source": "Live Science",
-      "time_ago": "Tue, 29 Sep 2026 17:11:35 +0000",
-      "mined_at": "2026-09-30T10:32:16+00:00",
-      "source_published_at": "Tue, 29 Sep 2026 17:11:35 +0000",
-      "image_url": "/article_images/article_872ad1824213.webp",
+      "time_ago": "Wed, 30 Sep 2026 16:07:27 +0000",
+      "mined_at": "2026-10-01T10:32:21+00:00",
+      "source_published_at": "Wed, 30 Sep 2026 16:07:27 +0000",
+      "image_url": "/article_images/article_789c8d4336c1.webp",
       "category": "Science",
-      "title": "Earth's Health Check: 7 of 9 Planetary Boundaries Breached, Report Warns",
-      "summary": "A new report by 60+ scientists finds seven of Earth's nine planetary boundaries — including climate change and ocean acidification — have been breached. But researchers say there's still a window to act."
-    },
-    {
-      "id": "2026-09-30-science-3",
-      "source": "DOGOnews",
-      "time_ago": "",
-      "mined_at": "2026-09-30T10:32:16+00:00",
-      "source_published_at": "",
-      "image_url": "/article_images/article_4e1d89829534.webp",
-      "category": "Science",
-      "title": "A Shark Graveyard Hidden in Egypt's Desert",
-      "summary": "Paleontologists uncovered 14 fossilized shark teeth in Egypt's Western Desert, dating back 70 to 80 million years. The now-dry land was once a shallow tropical sea."
+      "title": "Astronomers Discover 'Backward' Exoplanet That Orbits Its Star Upside Down",
+      "summary": "A planet called GJ 3090 b orbits its red dwarf star in the opposite direction — one of the most misaligned orbits ever found. Scientists can't explain how it got that way."
     }
   ]
 }

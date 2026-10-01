@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-30-science-1",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Mon, 28 Sep 2026 23:45:39 EDT",
-      "mined_at": "2026-09-30T10:32:16+00:00",
-      "source_published_at": "Mon, 28 Sep 2026 23:45:39 EDT",
-      "image_url": "/article_images/article_0498fcdb537a.webp",
+      "id": "2026-10-01-science-1",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Tue, 29 Sep 2026 07:39:27 EDT",
+      "mined_at": "2026-10-01T10:32:21+00:00",
+      "source_published_at": "Tue, 29 Sep 2026 07:39:27 EDT",
+      "image_url": "/article_images/article_c6d7bb9666fb.webp",
       "category": "Science",
-      "title": "This Suitcase-Sized Spacecraft Will Listen for the Universe's First Light",
-      "summary": "A tiny spacecraft called CosmoCube will orbit the Moon to catch a faint radio signal from before the first stars existed — a period of cosmic darkness no one has ever directly observed."
+      "title": "This 245-Million-Year-Old Fossil Still Has Its Stomach Inside!",
+      "summary": "A nearly complete fossil from China shows the stomach, liver and intestines of a sea reptile that lived 245 million years ago. It's the oldest reptile digestive system ever found."
     },
     {
-      "id": "2026-09-30-science-2",
+      "id": "2026-10-01-science-2",
+      "source": "Science News Explores",
+      "time_ago": "Wed, 30 Sep 2026 10:30:00 +0000",
+      "mined_at": "2026-10-01T10:32:21+00:00",
+      "source_published_at": "Wed, 30 Sep 2026 10:30:00 +0000",
+      "image_url": "/article_images/article_5ddd330db472.webp",
+      "category": "Science",
+      "title": "One Spot in the Atlantic Ocean Is Getting Colder — And That's a Big Deal",
+      "summary": "A patch of ocean south of Greenland has cooled by about 1°C while the rest of the oceans warm. Scientists say a major current called AMOC is slowing down."
+    },
+    {
+      "id": "2026-10-01-science-3",
       "source": "Live Science",
-      "time_ago": "Tue, 29 Sep 2026 17:11:35 +0000",
-      "mined_at": "2026-09-30T10:32:16+00:00",
-      "source_published_at": "Tue, 29 Sep 2026 17:11:35 +0000",
-      "image_url": "/article_images/article_872ad1824213.webp",
+      "time_ago": "Wed, 30 Sep 2026 16:07:27 +0000",
+      "mined_at": "2026-10-01T10:32:21+00:00",
+      "source_published_at": "Wed, 30 Sep 2026 16:07:27 +0000",
+      "image_url": "/article_images/article_789c8d4336c1.webp",
       "category": "Science",
-      "title": "Earth Just Got a Health Check — and 7 of 9 Life-Support Systems Are in Trouble",
-      "summary": "A new report says seven of Earth's nine planetary boundaries — the systems that keep our planet stable — have been breached. But scientists say we still have a chance to fix things if we act fast."
-    },
-    {
-      "id": "2026-09-30-science-3",
-      "source": "DOGOnews",
-      "time_ago": "",
-      "mined_at": "2026-09-30T10:32:16+00:00",
-      "source_published_at": "",
-      "image_url": "/article_images/article_4e1d89829534.webp",
-      "category": "Science",
-      "title": "Shark Teeth Found in the Desert!",
-      "summary": "Scientists found 14 shark teeth in Egypt's desert. They're 70 to 80 million years old! Long ago, that dry land was a warm sea full of sharks."
+      "title": "This Planet Orbits Its Star Backward — And Scientists Are Stumped",
+      "summary": "Astronomers found an exoplanet called GJ 3090 b that orbits its star in the opposite direction. It's one of the most misaligned planets ever seen, and no one knows why."
     }
   ]
 }

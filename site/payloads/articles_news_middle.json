@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-30-news-1",
+      "id": "2026-10-01-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Tue, 29 Sep 2026 19:45:28 -0400",
-      "mined_at": "2026-09-30T10:32:16+00:00",
-      "source_published_at": "Tue, 29 Sep 2026 19:45:28 -0400",
-      "image_url": "/article_images/article_894ad32a0c01.webp",
+      "time_ago": "Wed, 30 Sep 2026 17:14:30 -0400",
+      "mined_at": "2026-10-01T10:32:21+00:00",
+      "source_published_at": "Wed, 30 Sep 2026 17:14:30 -0400",
+      "image_url": "/article_images/article_2732b4285f2a.webp",
       "category": "News",
-      "title": "Race Underway to Choose the UN's Next Secretary-General",
-      "summary": "Seven candidates are running to become the next UN secretary-general, and four are women — meaning the UN could get its first female leader. The winner takes office on January 1, 2027."
+      "title": "Bipartisan Senate Deal Aims to Speed Up Energy Project Approvals",
+      "summary": "Senators from both parties reached a deal to speed up permits for energy projects and make AI data centers pay for the power they use. Environmental groups say it weakens protections. A vote comes after the midterms."
     },
     {
-      "id": "2026-09-30-news-2",
+      "id": "2026-10-01-news-2",
       "source": "CBC World",
-      "time_ago": "Wed, 30 Sep 2026 04:00:00 EDT",
-      "mined_at": "2026-09-30T10:32:16+00:00",
-      "source_published_at": "Wed, 30 Sep 2026 04:00:00 EDT",
-      "image_url": "/article_images/article_9f31e8b3f184.webp",
+      "time_ago": "Wed, 30 Sep 2026 17:02:54 EDT",
+      "mined_at": "2026-10-01T10:32:21+00:00",
+      "source_published_at": "Wed, 30 Sep 2026 17:02:54 EDT",
+      "image_url": "/article_images/article_ccbb114f49dc.webp",
       "category": "News",
-      "title": "Taxpayer-Funded Pro-Trump Ads Spark Criticism Ahead of Midterms",
-      "summary": "The White House is airing TV ads featuring President Trump, paid for with public money. The ads have cost at least $1.4 million and are drawing criticism from both Democrats and some Republicans. The midterm elections are on November 3."
+      "title": "Pentagon Confirms 20% Cut to Generals and Admirals Amid Iran War",
+      "summary": "War Secretary Pete Hegseth confirmed the U.S. military will cut 20% of its generals and admirals by January 2027. He also announced a new drone command. Some lawmakers call it a 'purge.'"
     },
     {
-      "id": "2026-09-30-news-3",
+      "id": "2026-10-01-news-3",
       "source": "NPR World",
-      "time_ago": "Wed, 30 Sep 2026 02:16:44 -0400",
-      "mined_at": "2026-09-30T10:32:16+00:00",
-      "source_published_at": "Wed, 30 Sep 2026 02:16:44 -0400",
-      "image_url": "/article_images/article_e2a9b0251aff.webp",
+      "time_ago": "Thu, 01 Oct 2026 05:00:00 -0400",
+      "mined_at": "2026-10-01T10:32:21+00:00",
+      "source_published_at": "Thu, 01 Oct 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_f5a611a69ee5.webp",
       "category": "News",
-      "title": "Polo's Remnants Swamp the Southwest, Forcing Evacuations",
-      "summary": "After Hurricane Polo hit Mexico with 110 mph winds, its leftover rain flooded New Mexico, Arizona and Utah. Hundreds evacuated near the Rio Grande over fears a dam could fail, and helicopters rescued stranded people."
+      "title": "Trump Administration Reverses Decades-Old Disability Integration Mandate",
+      "summary": "The Trump administration declined to defend rules requiring people with disabilities to live in integrated settings. A judge removed 'integration' language from Section 504 regulations. Advocates call it unprecedented."
     }
   ]
 }

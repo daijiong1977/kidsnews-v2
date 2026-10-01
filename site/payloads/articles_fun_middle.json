@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-30-fun-1",
-      "source": "DOGOnews",
-      "time_ago": "",
-      "mined_at": "2026-09-30T10:32:16+00:00",
-      "source_published_at": "",
-      "image_url": "/article_images/article_e814d3c67b08.webp",
+      "id": "2026-10-01-fun-1",
+      "source": "TIME for Kids",
+      "time_ago": "Wed, 30 Sep 2026 13:26:11 +0000",
+      "mined_at": "2026-10-01T10:32:21+00:00",
+      "source_published_at": "Wed, 30 Sep 2026 13:26:11 +0000",
+      "image_url": "/article_images/article_25b95f44beb3.webp",
       "category": "Fun",
-      "title": "At 91, 'Grey Beard' Reclaims His Appalachian Trail Record",
-      "summary": "Dale Sanders, 91, just became the oldest person to hike the entire 2,198-mile Appalachian Trail. The 359-day trek included 71 falls — and one final tumble near the summit."
+      "title": "Pokémon Hits 30: How a Card-Catching Game Became the World's Biggest Franchise",
+      "summary": "Pokémon turns 30 this year. It launched in Japan on February 27, 1996, with two games, and is now the world's most valuable media franchise. Over 50,000 fans gathered in San Francisco for the World Championships."
     },
     {
-      "id": "2026-09-30-fun-2",
-      "source": "NPR World",
-      "time_ago": "Wed, 30 Sep 2026 05:00:00 -0400",
-      "mined_at": "2026-09-30T10:32:16+00:00",
-      "source_published_at": "Wed, 30 Sep 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_7e6f185776e3.webp",
+      "id": "2026-10-01-fun-2",
+      "source": "MIT News",
+      "time_ago": "Wed, 30 Sep 2026 11:00:00 -0400",
+      "mined_at": "2026-10-01T10:32:21+00:00",
+      "source_published_at": "Wed, 30 Sep 2026 11:00:00 -0400",
+      "image_url": "/article_images/article_ea039df066f8.webp",
       "category": "Fun",
-      "title": "Nearly 1,500 Student Podcasts, One Big Question: What Is America?",
-      "summary": "NPR's Student Podcast Challenge received nearly 1,500 entries from kids in 42 states. Finalists tackled memory, technology, grief, and what it means to be American."
+      "title": "New AI Conquers Stratego, a Game Where You Can't See the Enemy",
+      "summary": "Researchers from MIT and other universities built an AI that beat top human Stratego players — a first. The game hides piece identities, making it a tough test. The AI is cheaper to train and could help with cybersecurity and negotiations."
     },
     {
-      "id": "2026-09-30-fun-3",
-      "source": "Billboard",
-      "time_ago": "Wed, 30 Sep 2026 09:43:50 +0000",
-      "mined_at": "2026-09-30T10:32:16+00:00",
-      "source_published_at": "Wed, 30 Sep 2026 09:43:50 +0000",
-      "image_url": "/article_images/article_80c2fc39dbc1.webp",
+      "id": "2026-10-01-fun-3",
+      "source": "BBC Tennis",
+      "time_ago": "Wed, 30 Sep 2026 14:50:46 GMT",
+      "mined_at": "2026-10-01T10:32:21+00:00",
+      "source_published_at": "Wed, 30 Sep 2026 14:50:46 GMT",
+      "image_url": "/article_images/article_746970f79828.webp",
       "category": "Fun",
-      "title": "Hailee Steinfeld Casts a Spell: Disney's 'Hexed' and a Record-Breaking Year",
-      "summary": "Hailee Steinfeld voices a teen witch in Disney's new animated film 'Hexed,' out Thanksgiving. She told Jimmy Fallon it's a 'dream come true' after a huge year with 'Sinners.'"
+      "title": "Djokovic Battles Past Borges at China Open for First Win Since Wimbledon",
+      "summary": "Novak Djokovic beat Nuno Borges 6-3, 7-6 (7-2) at the China Open — his first win since July. The 39-year-old needed a shoulder timeout but kept his 30-match Beijing streak alive. He faces Bu Yunchaokete next."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-09-30-news-1",
+      "id": "2026-10-01-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Tue, 29 Sep 2026 19:45:28 -0400",
-      "mined_at": "2026-09-30T10:32:16+00:00",
-      "source_published_at": "Tue, 29 Sep 2026 19:45:28 -0400",
-      "image_url": "/article_images/article_894ad32a0c01.webp",
+      "time_ago": "Wed, 30 Sep 2026 17:14:30 -0400",
+      "mined_at": "2026-10-01T10:32:21+00:00",
+      "source_published_at": "Wed, 30 Sep 2026 17:14:30 -0400",
+      "image_url": "/article_images/article_2732b4285f2a.webp",
       "category": "News",
-      "title": "Seven People Are Running to Lead the United Nations",
-      "summary": "Seven candidates are competing to become the next secretary-general of the United Nations, and four of them are women. The winner could be the first woman to lead the 81-year-old organization."
+      "title": "Senators Agree on Plan to Build Energy Projects Faster",
+      "summary": "Senators from both parties made a deal to speed up building power plants and power lines. The bill would also make AI data centers pay for the extra electricity they use. A vote comes after the November elections."
     },
     {
-      "id": "2026-09-30-news-2",
+      "id": "2026-10-01-news-2",
       "source": "CBC World",
-      "time_ago": "Wed, 30 Sep 2026 04:00:00 EDT",
-      "mined_at": "2026-09-30T10:32:16+00:00",
-      "source_published_at": "Wed, 30 Sep 2026 04:00:00 EDT",
-      "image_url": "/article_images/article_9f31e8b3f184.webp",
+      "time_ago": "Wed, 30 Sep 2026 17:02:54 EDT",
+      "mined_at": "2026-10-01T10:32:21+00:00",
+      "source_published_at": "Wed, 30 Sep 2026 17:02:54 EDT",
+      "image_url": "/article_images/article_ccbb114f49dc.webp",
       "category": "News",
-      "title": "White House Uses Taxpayer Money for Pro-Trump TV Ads",
-      "summary": "The White House is spending public money on TV ads that look like campaign ads for President Trump. The ads have cost at least $1.4 million so far and are airing during NFL games and other big shows. Even some Republicans say it's wrong."
+      "title": "Pentagon to Cut 20% of Top Military Generals and Admirals",
+      "summary": "U.S. War Secretary Pete Hegseth announced the military will cut 20% of its generals and admirals by January 2027. He also created a new command for robots and drones. Some lawmakers call it a 'purge.'"
     },
     {
-      "id": "2026-09-30-news-3",
+      "id": "2026-10-01-news-3",
       "source": "NPR World",
-      "time_ago": "Wed, 30 Sep 2026 02:16:44 -0400",
-      "mined_at": "2026-09-30T10:32:16+00:00",
-      "source_published_at": "Wed, 30 Sep 2026 02:16:44 -0400",
-      "image_url": "/article_images/article_e2a9b0251aff.webp",
+      "time_ago": "Thu, 01 Oct 2026 05:00:00 -0400",
+      "mined_at": "2026-10-01T10:32:21+00:00",
+      "source_published_at": "Thu, 01 Oct 2026 05:00:00 -0400",
+      "image_url": "/article_images/article_f5a611a69ee5.webp",
       "category": "News",
-      "title": "Hurricane Polo's Leftover Rain Floods the Southwest",
-      "summary": "Hurricane Polo hit Mexico with 110 mph winds, then its leftover rain flooded New Mexico, Arizona and Utah. Hundreds of people in small towns near the Rio Grande had to leave their homes because a dam might break."
+      "title": "Trump Administration Reverses Disability Integration Rules",
+      "summary": "For 50 years, federal rules said people with disabilities should live and work in the community, not institutions. The Trump administration just took a step to reverse that. Advocates are upset."
     }
   ]
 }
