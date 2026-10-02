@@ -418,7 +418,7 @@ function ArticlePage({ articleId, onBack, onComplete, onOpenArticle, progress, s
         style={{maxWidth:1180, margin:'0 auto', padding:'24px clamp(12px, 4vw, 28px) 60px'}}>
 
         {/* ——— Title block ——— */}
-        <div style={{display:'grid', gridTemplateColumns: narrow ? '1fr' : '1.1fr 1fr', gap: narrow ? 16 : 28, alignItems:'stretch', marginBottom:24}}>
+        <div style={{display:'grid', gridTemplateColumns: !article.image || narrow ? '1fr' : '1.1fr 1fr', gap: narrow ? 16 : 28, alignItems:'stretch', marginBottom:24}}>
           <div>
             <div style={{display:'flex', gap:8, marginBottom:14, flexWrap:'wrap'}}>
               <CatChip cat={article.category}/>
@@ -452,7 +452,7 @@ function ArticlePage({ articleId, onBack, onComplete, onOpenArticle, progress, s
               </>)}
             </div>
           </div>
-          <div style={{borderRadius:22, overflow:'hidden', border:`3px solid ${catColor}`, background:`url(${article.image}) center/cover`, minHeight:220, position:'relative'}}>
+          <div style={{display: article.image ? 'block' : 'none', borderRadius:22, overflow:'hidden', border:`3px solid ${catColor}`, background: article.image ? `url(${article.image}) center/cover` : 'none', minHeight:220, position:'relative'}}>
             <div style={{position:'absolute', bottom:12, right:12, background:'rgba(255,255,255,0.9)', padding:'6px 12px', borderRadius:999, fontSize:11, fontWeight:700, color:'#6b5c80'}}>
               📷 {article.source}
             </div>

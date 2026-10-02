@@ -588,11 +588,12 @@ function PickCard({ story, picked, variant, onSelect }) {
           // minmax(240px, …) keeps a 240px image column even at 390px, which
           // leaves the headline ~126px. Stack image over text on phones.
           display:'grid',
-          gridTemplateColumns: narrow ? '1fr' : 'minmax(240px, 1.1fr) 1.4fr',
+          gridTemplateColumns: !story.image || narrow ? '1fr' : 'minmax(240px, 1.1fr) 1.4fr',
           gap:0,
         }}>
           <div style={{
             aspectRatio:'4/3', minHeight:220,
+            display: story.image ? 'block' : 'none',
             background: story.image
               ? `url(${story.image}) center/cover, ${c.color}`
               : c.color,
@@ -618,7 +619,8 @@ function PickCard({ story, picked, variant, onSelect }) {
       {checkBadge}
       <div style={{
         aspectRatio:'16/10',
-        background: story.image
+        display: story.image ? 'block' : 'none',
+            background: story.image
           ? `url(${story.image}) center/cover, ${c.color}`
           : c.color,
       }}/>
@@ -1500,7 +1502,7 @@ function HomePage({ onOpen, onOpenArchive, onOpenSearch, onResume, level, setLev
                           border:'none', padding:10, borderRadius:10, cursor:'pointer',
                           marginBottom:8,
                         }} onMouseEnter={e=>e.currentTarget.style.background='rgba(255,255,255,0.14)'} onMouseLeave={e=>e.currentTarget.style.background='rgba(255,255,255,0.06)'}>
-                          <div style={{width:56, height:56, borderRadius:10, flexShrink:0, background:`url(${alt.image}) center/cover, ${catColor}`}}/>
+                          <div style={{width:56, height:56, borderRadius:10, flexShrink:0, display: alt.image ? 'block' : 'none', background: alt.image ? `url(${alt.image}) center/cover, ${catColor}` : 'none'}}/>
                           <div style={{flex:1, minWidth:0}}>
                             <div style={{fontWeight:800, fontSize:14, lineHeight:1.25}}>{alt.title}</div>
                             <div style={{fontSize:11, opacity:0.7, fontWeight:700, marginTop:3}}>{alt.readMins} min · {alt.tag}</div>
@@ -1532,7 +1534,7 @@ function HomePage({ onOpen, onOpenArchive, onOpenSearch, onResume, level, setLev
                       width: narrow ? '100%' : 196, height: narrow ? 150 : 196,
                       order: narrow ? -1 : 0,          // image first, on its own line
                       borderRadius:16, flexShrink:0,
-                      background:`url(${a.image}) center/cover, ${catColor}`,
+                      display: a.image ? 'block' : 'none', background: a.image ? `url(${a.image}) center/cover, ${catColor}` : 'none',
                       border:`2px solid ${catColor}`,
                     }}/>
                     <button onClick={()=>onOpen(a.id)} style={{
@@ -2502,7 +2504,7 @@ function ArticleCard({ article, onOpen, read, pct, variant }) {
     >
       <div style={{
         position:'relative',
-        background:`url(${article.image}) center/cover`,
+        display: article.image ? 'block' : 'none', background: article.image ? `url(${article.image}) center/cover` : 'none',
         aspectRatio: isTall ? 'auto' : (isFeature ? '16/9' : '16/10'),
         width:'100%',
         flex: isTall ? '1 1 auto' : undefined,
