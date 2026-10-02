@@ -1,1 +1,105 @@
-{"title": "A Giant X-Ray Flash May Have Revealed a Brand-New Magnetar", "summary": "Imagine two stars the size of cities crashing together far out in space. That crash can send out a flash of light so bright we can see it from Earth — even though it happened more than 6 billion years ago, before our Sun was born!\n\nOn July 4, 2025, satellites spotted a quick burst of gamma rays (a kind of invisible light) that lasted only half a second. But then something surprising happened: a satellite called Einstein Probe kept seeing bright X-rays from the same spot for nearly 10 minutes. That's the longest-lasting X-ray flash ever seen from a crash like this.\n\nScientists think the crash was between two neutron stars — the super-dense leftovers of giant stars. When they smash together, they can form a magnetar: a tiny star with a magnetic field so strong it could mess with your phone from thousands of miles away. (Okay, maybe not exactly, but it's really, really strong.)\n\nA scientist named Niccolò Passaleva was on a train when he got the alert. He quickly used a giant telescope in Chile to study the flash. \"I was rushing against time,\" he said.\n\nThe flash came from more than 6 billion light-years away. That means the light traveled for over 6 billion years to reach us. Studying it helps scientists understand how stars are born and die — and what weird objects are hiding in space.", "why_it_matters": "It shows that a flash from an explosion older than our Sun can still teach us something new — and that scientists sometimes make big discoveries while rushing against the clock.", "image_url": "/article_images/article_9edadeb38011.webp", "keywords": [{"term": "gamma rays", "explanation": "a kind of invisible light that carries huge energy and is given off by violent events in space."}, {"term": "neutron stars", "explanation": "the super-dense leftover cores of giant stars that exploded long ago."}, {"term": "magnetar", "explanation": "a tiny star with an extremely strong magnetic field, possibly made when neutron stars crash together."}, {"term": "magnetic field", "explanation": "the invisible force around a magnet or star that pulls on certain metals and charged bits."}, {"term": "light-years", "explanation": "a way to measure space distance — how far light travels in one whole year."}, {"term": "telescope", "explanation": "a big tool that collects light so scientists can study faraway things in space."}], "questions": [{"question": "What did satellites spot on July 4, 2025?", "options": ["A quick burst of gamma rays", "A new moon", "A comet made of ice", "A giant planet"], "correct_answer": "A quick burst of gamma rays"}, {"question": "How long did the first gamma-ray burst last?", "options": ["Three hours", "Nearly 10 minutes", "Two days", "About half a second"], "correct_answer": "About half a second"}, {"question": "Which satellite kept seeing bright X-rays for nearly 10 minutes?", "options": ["Hubble", "Voyager", "Einstein Probe", "Apollo"], "correct_answer": "Einstein Probe"}, {"question": "What do scientists think crashed together to cause the flash?", "options": ["Two neutron stars", "Two planets", "Two comets", "Two moons"], "correct_answer": "Two neutron stars"}, {"question": "What is a magnetar?", "options": ["A tiny star with an incredibly strong magnetic field", "A cloud of dust and gas", "A planet that spins backwards", "A type of telescope"], "correct_answer": "A tiny star with an incredibly strong magnetic field"}, {"question": "About how far away did the flash come from?", "options": ["About 6 thousand light-years", "Just past the Moon", "About 6 million light-years", "More than 6 billion light-years"], "correct_answer": "More than 6 billion light-years"}], "background_read": ["Neutron stars are the crushed leftover cores of huge stars that blew up long ago. They are only about as wide as a city, yet a single spoonful would weigh billions of tons.", "The Einstein Probe is a space telescope launched by China with European partners to hunt for sudden bursts of X-rays and other invisible light from space.", "Chile is a long, thin country in South America, and its dry, dark mountains hold some of the world's biggest telescopes because they give super-clear views of the night sky."], "Article_Structure": ["WHO: Satellites such as the Einstein Probe, plus scientist Niccolò Passaleva and other astronomers studying the flash.", "WHAT: A half-second burst of gamma rays was followed by nearly 10 minutes of bright X-rays — the longest-lasting X-ray flash ever seen from this kind of crash — hinting a magnetar may have formed.", "WHERE: The crash happened more than 6 billion light-years from Earth, and Passaleva studied it with a giant telescope in Chile.", "WHY: The light traveled over 6 billion years to reach us, and studying it helps scientists understand how stars are born and die and what strange objects hide in space."], "perspectives": [{"perspective": "Excited astronomer", "description": "This is the longest X-ray flash ever recorded from a star smash-up, so it could be our first clear look at a brand-new magnetar being born."}, {"perspective": "Cautious scientist", "description": "One flash is not proof — astronomers will want more examples before they can be sure a magnetar really formed."}, {"perspective": "Curious observer", "description": "It's amazing that light from a crash that happened before the Sun existed arrived just in time for us to catch it."}], "mined_at": "2026-10-02T10:30:53+00:00", "source_published_at": "Wed, 30 Sep 2026 08:27:27 EDT", "source_name": "ScienceDaily Top Technology", "source_url": "https://www.sciencedaily.com/releases/2026/09/260930020252.htm", "category": "Science", "source_word_count": 670}
+{
+  "title": "A New Quantum Idea Starts With Very Unusual Helium",
+  "summary": "Static electricity can make your hair stick to a balloon. Small electrical disturbances can also cause trouble for a very different thing: a quantum computer.\n\nThese computers use units of information called qubits. Their information is delicate, and disturbances can introduce errors. Adding more qubits makes those errors harder to control.\n\nResearchers at the University of Surrey have proposed a qubit using superfluid helium-3. A superfluid is a special liquid that can flow without friction. Their design uses helium with no electric charge, which could protect it from certain electrical disturbances.\n\nThe researchers' calculations suggest error rates could be about 100 times lower than those of conventional superconducting qubits. But that is a prediction, not a result from a finished device.\n\nLead author Priya Sharma says the next step is building a prototype and testing it. The design is called SHOQ.\n\nIt might eventually work alongside other quantum technology rather than replacing everything. One possible job is quantum memory: storing information while other equipment performs calculations. For now, the exciting part is an idea ready to face an experimental test.",
+  "why_it_matters": "Errors are a challenge as quantum computers gain more qubits. This design proposes another way to protect information, but experiments must test its predictions.",
+  "image_url": "/article_images/science-s0abff2746c3022eb.webp",
+  "keywords": [
+    {
+      "term": "qubits",
+      "explanation": "Units that store quantum information."
+    },
+    {
+      "term": "superfluid",
+      "explanation": "A special liquid that can flow without friction."
+    },
+    {
+      "term": "prototype",
+      "explanation": "An early device built to test a design."
+    },
+    {
+      "term": "prediction",
+      "explanation": "An expected result that still needs testing."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What units of information do quantum computers use?",
+      "options": [
+        "Litres",
+        "Watts",
+        "Pixels",
+        "Qubits"
+      ],
+      "correct_answer": "Qubits"
+    },
+    {
+      "question": "Where did the researchers propose the design?",
+      "options": [
+        "The University of Oxford",
+        "The University of Surrey",
+        "The University of Bristol",
+        "The University of Cambridge"
+      ],
+      "correct_answer": "The University of Surrey"
+    },
+    {
+      "question": "What special liquid does the design use?",
+      "options": [
+        "Superfluid helium-3",
+        "Ordinary liquid water",
+        "Ordinary liquid nitrogen",
+        "Superfluid hydrogen"
+      ],
+      "correct_answer": "Superfluid helium-3"
+    },
+    {
+      "question": "What can a superfluid do?",
+      "options": [
+        "Flow without cooling",
+        "Flow without friction",
+        "Flow without gravity",
+        "Flow without matter"
+      ],
+      "correct_answer": "Flow without friction"
+    },
+    {
+      "question": "What stage has the new device reached?",
+      "options": [
+        "A proven memory in every computer",
+        "A design with predictions to test",
+        "A complete computer used worldwide",
+        "A finished device sold in shops"
+      ],
+      "correct_answer": "A design with predictions to test"
+    },
+    {
+      "question": "What is one possible future job for the device?",
+      "options": [
+        "Cooling household fridges",
+        "Producing electrical power",
+        "Storing quantum information",
+        "Creating ordinary paper"
+      ],
+      "correct_answer": "Storing quantum information"
+    }
+  ],
+  "background_read": [],
+  "Article_Structure": [
+    "Introduces electrical disturbances and qubit errors.",
+    "Explains the superfluid-helium design and predicted improvement.",
+    "Describes prototype testing and possible quantum-memory use."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Priya Sharma",
+      "description": "Says the next step is to build a prototype and test the predictions."
+    }
+  ],
+  "mined_at": "2026-10-02T10:18:58+00:00",
+  "source_published_at": "Thu, 01 Oct 2026 09:17:13 EDT",
+  "source_name": "ScienceDaily Top Technology",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
+  "category": "Science",
+  "source_word_count": 564,
+  "detail_status": "full"
+}

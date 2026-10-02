@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-10-02-news-1",
-      "source": "CBC World",
-      "time_ago": "Fri, 02 Oct 2026 04:00:00 EDT",
-      "mined_at": "2026-10-02T10:30:53+00:00",
-      "source_published_at": "Fri, 02 Oct 2026 04:00:00 EDT",
-      "image_url": "/article_images/article_44c0dce38d33.webp",
+      "source": "BBC News",
+      "time_ago": "Fri, 02 Oct 2026 08:54:00 GMT",
+      "mined_at": "2026-10-02T10:18:58+00:00",
+      "source_published_at": "Fri, 02 Oct 2026 08:54:00 GMT",
+      "image_url": "/article_images/news-s18babf60ceb7f9bf.webp",
       "category": "News",
-      "title": "Black Sea Attacks Threaten Global Wheat Supply",
-      "summary": "The Black Sea is the most dangerous it has been since Russia's 2022 invasion of Ukraine. More than 210 attacks on commercial ships since July have helped push combined Russian and Ukrainian wheat exports down about 60 percent."
+      "title": "A Diesel Export Threat Puts Fuel Reserves in the Spotlight",
+      "summary": "Keeping fuel at home could lower prices in one place and raise them elsewhere. The United States exports up to 1.5 million barrels of diesel a day, making its next decision important to other countries."
     },
     {
       "id": "2026-10-02-news-2",
-      "source": "BBC News",
-      "time_ago": "Fri, 02 Oct 2026 10:04:56 GMT",
-      "mined_at": "2026-10-02T10:30:53+00:00",
-      "source_published_at": "Fri, 02 Oct 2026 10:04:56 GMT",
-      "image_url": "/article_images/article_9755b951926c.webp",
+      "source": "PBS NewsHour",
+      "time_ago": "Thu, 01 Oct 2026 19:41:57 -0400",
+      "mined_at": "2026-10-02T10:18:58+00:00",
+      "source_published_at": "Thu, 01 Oct 2026 19:41:57 -0400",
+      "image_url": "/article_images/news-seab5ec16308e34c7.webp",
       "category": "News",
-      "title": "Ethiopia and Eritrea Sever Diplomatic Ties as Northern Ethiopia Fighting Escalates",
-      "summary": "Ethiopia and Eritrea have cut diplomatic relations after renewed fighting in northern Ethiopia killed more than 50 people. Ethiopia expelled 10 Eritrean diplomats, accusing them of threatening national security; Eritrea called the move \"astounding.\""
+      "title": "Campaign Claims: What the Numbers Measure Matters",
+      "summary": "An investment pledge is not the same as money already spent. PolitiFact’s review of Trump’s campaign statements compares headline figures with records, time periods and important qualifications."
     },
     {
       "id": "2026-10-02-news-3",
       "source": "CBC World",
-      "time_ago": "Thu, 01 Oct 2026 16:20:00 EDT",
-      "mined_at": "2026-10-02T10:30:53+00:00",
-      "source_published_at": "Thu, 01 Oct 2026 16:20:00 EDT",
-      "image_url": "/article_images/article_ffd0819ae73c.webp",
+      "time_ago": "Thu, 01 Oct 2026 11:52:55 EDT",
+      "mined_at": "2026-10-02T10:18:58+00:00",
+      "source_published_at": "Thu, 01 Oct 2026 11:52:55 EDT",
+      "image_url": "/article_images/news-s5352c6786a859ffb.webp",
       "category": "News",
-      "title": "Putin Threatens Nuclear Response if Kaliningrad Is Attacked, Warns Against Escalation",
-      "summary": "Russian President Vladimir Putin warned the West not to threaten Kaliningrad, a Russian territory between Poland and Lithuania. He said Russia would use all weapons, including nuclear ones, if attacked. NATO says it is a defensive alliance and nuclear threats are not helpful."
+      "title": "Two Lawsuits Seek Accountability in Renee Good’s Death",
+      "summary": "A legal filing sets out claims; it does not settle them. Renee Good’s family has brought two cases over her January death in Minneapolis, requesting different types of trials."
     }
   ]
 }

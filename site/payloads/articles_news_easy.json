@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-10-02-news-1",
-      "source": "CBC World",
-      "time_ago": "Fri, 02 Oct 2026 04:00:00 EDT",
-      "mined_at": "2026-10-02T10:30:53+00:00",
-      "source_published_at": "Fri, 02 Oct 2026 04:00:00 EDT",
-      "image_url": "/article_images/article_44c0dce38d33.webp",
+      "source": "BBC News",
+      "time_ago": "Fri, 02 Oct 2026 08:54:00 GMT",
+      "mined_at": "2026-10-02T10:18:58+00:00",
+      "source_published_at": "Fri, 02 Oct 2026 08:54:00 GMT",
+      "image_url": "/article_images/news-s18babf60ceb7f9bf.webp",
       "category": "News",
-      "title": "Black Sea Strikes Are Making It Harder to Get Wheat",
-      "summary": "The Black Sea is the most dangerous it has been since the war in Ukraine began. Since July, there have been more than 210 attacks on ships, and wheat exports from Russia and Ukraine are down about 60 percent."
+      "title": "Why Countries Are Talking About Their Stored Diesel",
+      "summary": "Fuel saved for later is suddenly in the news. President Trump may ask Europe to release stored diesel while considering limits on American exports."
     },
     {
       "id": "2026-10-02-news-2",
-      "source": "BBC News",
-      "time_ago": "Fri, 02 Oct 2026 10:04:56 GMT",
-      "mined_at": "2026-10-02T10:30:53+00:00",
-      "source_published_at": "Fri, 02 Oct 2026 10:04:56 GMT",
-      "image_url": "/article_images/article_9755b951926c.webp",
+      "source": "PBS NewsHour",
+      "time_ago": "Thu, 01 Oct 2026 19:41:57 -0400",
+      "mined_at": "2026-10-02T10:18:58+00:00",
+      "source_published_at": "Thu, 01 Oct 2026 19:41:57 -0400",
+      "image_url": "/article_images/news-seab5ec16308e34c7.webp",
       "category": "News",
-      "title": "Ethiopia and Eritrea Cut Ties as Fighting Grows in the North",
-      "summary": "Ethiopia and Eritrea have cut diplomatic ties after more than 50 people were killed in new fighting in northern Ethiopia. Ethiopia ordered 10 Eritrean diplomats to leave within 48 hours, and Eritrea responded by ending relations."
+      "title": "Big Campaign Numbers Need a Closer Look",
+      "summary": "A huge number can leave out important details. PolitiFact checked President Trump’s campaign claims, including a $22 trillion investment figure and a record number of workers."
     },
     {
       "id": "2026-10-02-news-3",
       "source": "CBC World",
-      "time_ago": "Thu, 01 Oct 2026 16:20:00 EDT",
-      "mined_at": "2026-10-02T10:30:53+00:00",
-      "source_published_at": "Thu, 01 Oct 2026 16:20:00 EDT",
-      "image_url": "/article_images/article_ffd0819ae73c.webp",
+      "time_ago": "Thu, 01 Oct 2026 11:52:55 EDT",
+      "mined_at": "2026-10-02T10:18:58+00:00",
+      "source_published_at": "Thu, 01 Oct 2026 11:52:55 EDT",
+      "image_url": "/article_images/news-s5352c6786a859ffb.webp",
       "category": "News",
-      "title": "Putin Warns the West About a Small Russian Territory Called Kaliningrad",
-      "summary": "Russia's leader, Vladimir Putin, warned NATO not to threaten Kaliningrad — a small Russian area squeezed between Poland and Lithuania. He said Russia would use every weapon it has, including nuclear ones, to defend it. NATO says it is a defensive alliance."
+      "title": "Renee Good’s Family Brings Two Cases to Court",
+      "summary": "Two new lawsuits ask a court to examine a death in Minneapolis. Renee Good’s family filed the cases against the U.S. government and immigration officials; the claims have not been decided."
     }
   ]
 }
