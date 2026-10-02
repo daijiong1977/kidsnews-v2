@@ -1,1 +1,117 @@
-{"Article_Structure":["Introduces the trailer and its song.","Describes the Cat’s fictional task.","Distinguishes the preview from the future release."],"background_read":[],"category":"Fun","detail_status":"full","image_url":"","keywords":[{"explanation":"A short preview of a film.","term":"trailer"},{"explanation":"Made using moving drawings or computer-created images.","term":"animated"},{"explanation":"Children who share a parent or parents.","term":"siblings"},{"explanation":"A tool or piece of equipment made for a purpose.","term":"device"}],"mined_at":"2026-10-02T11:39:47.889511+00:00","perspectives":[],"questions":[{"correct_answer":"A new movie trailer","options":["A new movie trailer","A new movie poster","A new cast interview","A new movie review"],"question":"What new item did the October 1 report announce?"},{"correct_answer":"Hilary Duff’s","options":["Bill Hader’s","Dr. Seuss’s","Hilary Duff’s","Gabby’s"],"question":"Whose new song does the trailer use?"},{"correct_answer":"Bill Hader","options":["Alessandro Carloni","Bill Hader","Erica Rivinoja","Hilary Duff"],"question":"Who provides the Cat’s voice?"},{"correct_answer":"They moved to a new town","options":["They lost a tennis match","They broke a swimming record","They wrote a new song","They moved to a new town"],"question":"Why are Gabby and Sebastian having a difficult time?"},{"correct_answer":"His missing device","options":["His missing device","His missing stage script","His missing ticket","His missing songbook"],"question":"What is the Cat trying to find with the children?"},{"correct_answer":"November 6, 2026","options":["October 1, 2026","November 4, 2026","November 6, 2026","October 2, 2026"],"question":"When is the North American movie release scheduled?"}],"source_evidence_kind":"full_text","source_evidence_word_count":316,"source_name":"Animation World Network","source_published_at":"2026-10-01 11:30 (publisher timezone unspecified)","source_url":"https://www.awn.com/news/new-cat-hat-trailer-brings-potato-string","source_word_count":316,"summary":"A potato on a string is part of the playful news about The Cat in the Hat. Animation World Network reported on October 1 that Warner Bros. Pictures Animation had released a new trailer for the animated film.\n\nThe trailer uses Hilary Duff’s new original song, CATastrophe. Bill Hader provides the Cat’s voice. The character comes from the book by Dr. Seuss, but this film tells a new adventure.\n\nThe Cat has an unusual job: cheer up Gabby and Sebastian, siblings having a difficult time after moving to a new town. His magical hat could be at risk if he cannot prove himself. The studio’s description presents him as a character who often takes things too far.\n\nAnimation World Network also describes a missing device called a go backer. The Cat and the children travel to a land of memories to find it. That is the film’s story setup, rather than a report about real children travelling somewhere.\n\nThe new trailer does not mean the movie has opened. The official film website lists November 6, 2026, for North American theaters, with international releases beginning November 4.\n\nFor fans, the new development is the trailer and its song. The larger adventure is still an upcoming movie, with a familiar book character trying to help children through a change.","title":"The Cat in the Hat Returns With a Song and a New Trailer","why_it_matters":"Understanding what a trailer announces helps readers separate a preview from the release of a complete film."}
+{
+  "title": "Stray Kids Reportedly Join BTS in Skipping Grammy Submissions",
+  "summary": "K-pop group Stray Kids is reportedly joining BTS in skipping the Grammy Awards process. Billboard says the company did not explain the eight-member group's decision. But it seems likely that it is a response to a new Grammy category called best Asian pop music performance.\n\nIn July, BTS said it would not take part in the Grammys. The group had just had a huge year, including an album called ARIRANG that was number one on the Billboard 200 chart for three weeks. BTS said it was protesting awards \"being divided by region or language.\"\n\nThe Recording Academy, which runs the Grammys, sees the new category differently. Its CEO, Harvey Mason Jr., said he was sad that BTS would not take part, but he respects the decision. He said artists who enter a category based on a style or place can still be considered in the general categories. He said the Asian pop category was created to celebrate the growth of pop music from Asia, and that more categories mean more artists get recognized.\n\nAfter listening sessions with the Asian music community, the academy said on Thursday, Oct. 1, that it will go ahead with the category. Mason said, \"We understand this conclusion will not satisfy everyone.\"\n\nStray Kids still have a big year. They topped the Billboard 200 twice in the past year, with the EP DO IT and the release THIS & THAT. Billboard has asked the group's representatives and the Grammys for comment.",
+  "why_it_matters": "The story shows that musicians and award groups can disagree about how to honor music from different places and languages.",
+  "image_url": "/article_images/fun-s4edd40e89c28e2f7.webp",
+  "keywords": [
+    {
+      "term": "Grammy",
+      "explanation": "A famous music award in the United States."
+    },
+    {
+      "term": "category",
+      "explanation": "A group in an award show, such as best song or best album."
+    },
+    {
+      "term": "Billboard",
+      "explanation": "A well-known music magazine that publishes charts of popular music."
+    },
+    {
+      "term": "academy",
+      "explanation": "The Recording Academy, the group that runs the Grammy Awards."
+    },
+    {
+      "term": "recognized",
+      "explanation": "Noticed and honored for good work."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Which group is reportedly skipping the Grammy process, according to Billboard?",
+      "options": [
+        "Stray Kids",
+        "The Beatles",
+        "Coldplay",
+        "Maroon 5"
+      ],
+      "correct_answer": "Stray Kids"
+    },
+    {
+      "question": "What new Grammy category is part of the story?",
+      "options": [
+        "Best school marching band",
+        "Best street dance video",
+        "Best cartoon theme song",
+        "Best Asian pop music performance"
+      ],
+      "correct_answer": "Best Asian pop music performance"
+    },
+    {
+      "question": "What did BTS say it was protesting in July?",
+      "options": [
+        "Awards \"being divided by region or language\"",
+        "Tickets costing too much money",
+        "Albums being too long to play",
+        "Concerts ending too late at night"
+      ],
+      "correct_answer": "Awards \"being divided by region or language\""
+    },
+    {
+      "question": "What does Harvey Mason Jr. say about the new category?",
+      "options": [
+        "It was created to celebrate pop music from Asia and expand recognition",
+        "It was created to make all artists leave the Grammys",
+        "It was created to keep Asian artists out of other categories",
+        "It was created to replace every other Grammy award"
+      ],
+      "correct_answer": "It was created to celebrate pop music from Asia and expand recognition"
+    },
+    {
+      "question": "What did the academy decide on Oct. 1?",
+      "options": [
+        "To go ahead with the category",
+        "To change the category to a contest",
+        "To end the category right away",
+        "To cancel the Grammy Awards"
+      ],
+      "correct_answer": "To go ahead with the category"
+    },
+    {
+      "question": "How many times did Stray Kids top the Billboard 200 in the past year?",
+      "options": [
+        "Ten times",
+        "Never",
+        "Once",
+        "Twice"
+      ],
+      "correct_answer": "Twice"
+    }
+  ],
+  "background_read": [
+    "The Billboard 200 is a weekly chart that ranks the most popular albums in the United States."
+  ],
+  "Article_Structure": [
+    "Opening: Stray Kids reportedly skip the Grammy process",
+    "Why BTS made a similar choice",
+    "How the Recording Academy explains the new category",
+    "The academy's decision to continue",
+    "Stray Kids' recent chart success"
+  ],
+  "perspectives": [
+    {
+      "perspective": "BTS",
+      "description": "In July, the group said it was protesting awards being divided by region or language."
+    },
+    {
+      "perspective": "Harvey Mason Jr., Recording Academy CEO",
+      "description": "He said the Asian pop category was created to celebrate Asian pop artistry and to expand, not divide, who is recognized."
+    }
+  ],
+  "mined_at": "2026-10-02T18:02:19+00:00",
+  "source_published_at": "Fri, 02 Oct 2026 17:47:50 +0000",
+  "source_name": "Billboard",
+  "source_url": "https://www.billboard.com/music/awards/stray-kids-join-bts-2027-grammys-boycott-1236353243/",
+  "category": "Fun",
+  "source_word_count": 558,
+  "detail_status": "full"
+}

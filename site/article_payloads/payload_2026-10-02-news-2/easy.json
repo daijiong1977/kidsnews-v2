@@ -1,1 +1,113 @@
-{"Article_Structure":["Opening: the new announcement or decision.","Explanation: the central issue and relevant background.","Closing: what is still unknown or comes next."],"background_read":[],"category":"News","detail_status":"full","image_url":"","keywords":[{"explanation":"A building containing computers that support digital services.","term":"data center"}],"mined_at":"2026-10-02T12:38:02Z","perspectives":[{"description":"Says data-center growth supports economic and technological goals, and promises community investment.","perspective":"Amazon"},{"description":"Have raised concerns about power demand, utility costs and local effects.","perspective":"Communities described by Reuters"}],"questions":[{"correct_answer":"Five years","options":["Five days","One month","Fifty years","Five years"],"question":"How long is the announced spending plan?"},{"correct_answer":"Computing equipment","options":["Only sports fields","Only farm crops","Computing equipment","Only books"],"question":"What do data centers contain?"},{"correct_answer":"Built Together","options":["Ocean Watch","Built Together","School Tomorrow","World Games"],"question":"What is the program called?"},{"correct_answer":"Electricity demand and utility costs","options":["Electricity demand and utility costs","The color of notebooks","Too many library cards","Changes to football rules"],"question":"Which concern did Reuters report?"},{"correct_answer":"Education and job training","options":["A new national anthem","Replacing all schools with apps","Buying every home in America","Education and job training"],"question":"Which is a planned use of the money?"},{"correct_answer":"A promise from a measured result","options":["Summer from winter only","A headline from a name only","A promise from a measured result","A library from a bookstore only"],"question":"What should readers distinguish?"}],"source_evidence_kind":"evidence_dossier","source_evidence_word_count":126,"source_name":"Reuters via AOL","source_published_at":"2026-10-02T09:04:00Z","source_url":"https://www.aol.com/articles/amazon-invest-1-billion-over-090258000.html","source_word_count":null,"summary":"Amazon announced a plan on October 2 to spend more than $1 billion over five years in U.S. communities where it has data centers.\n\nData centers hold computers that support online services and artificial intelligence. These buildings need electricity, and their use of resources has raised questions in nearby communities. Reuters reported concerns about power demand, utility bills and other local effects.\n\nAmazon calls its new program Built Together. The company says the money will support education, job training, energy savings and other local needs. Some planned help would go toward making schools, homes and community buildings use energy more efficiently.\n\nAmazon also says it will work with local groups to choose priorities. Its announcement describes programs that will begin rolling out in the coming months.\n\nThis is a promise about future spending, not proof that the work has already been completed. Communities will need to see which projects receive support and what results follow. The news shows how the growth of online technology can bring questions about real buildings, resources and everyday life.","title":"Amazon Promises Funds for Data Center Towns","why_it_matters":"Digital services depend on physical facilities that share resources with communities."}
+{
+  "title": "Ebola Outbreak in Congo Passes 4,000 Deaths",
+  "summary": "The Democratic Republic of the Congo, a country in central Africa, is fighting a very large outbreak of Ebola. Ebola is a dangerous disease caused by a virus. Officials announced the outbreak on May 15. Now the health ministry says more than 4,000 people have died. Its latest figures show 4,018 deaths among about 8,300 confirmed cases, which is nearly half of the cases. The outbreak is caused by a rare virus called Bundibugyo, and there is no known treatment or vaccine for it.\n\nFighting the outbreak is hard. Some health workers gathered in the city of Bunia and asked to be paid wages they are owed. Officials quickly sent them away. Some of them do surveillance work, which means finding people who were near a sick patient. Front-line workers have also gone on strike several times, and that slows the work.\n\nSafety is another problem. A senior United Nations official said soldiers burned a camp that included a transit center for Ebola patients while they were searching for weapons. About 19,000 people who were living in the camp had to leave. The official said that when a center is lost, the money and staff that built it are lost too, and the work has to start again.\n\nThere is also some news that is more hopeful. Confirmed cases have slowed, from about 850 a week in mid-July to an average of 490 a week in September. But Africa CDC says that could be partly because of insecurity and trouble getting communities to cooperate. In some places the spread has slowed down, and in others it has sped up.",
+  "why_it_matters": "A large outbreak with no known treatment shows how important it is to pay health workers, keep treatment centers safe and help communities work with doctors.",
+  "image_url": "/article_images/news-sbe3341ed35e54b2c.webp",
+  "keywords": [
+    {
+      "term": "outbreak",
+      "explanation": "A sudden rise in cases of a disease in a place."
+    },
+    {
+      "term": "vaccine",
+      "explanation": "A medicine given to help the body fight a disease before getting sick."
+    },
+    {
+      "term": "surveillance",
+      "explanation": "Careful watching and tracking, such as finding people who may have been near a sick patient."
+    },
+    {
+      "term": "strike",
+      "explanation": "When workers stop working to ask for something, such as pay."
+    },
+    {
+      "term": "United Nations",
+      "explanation": "A group of countries that work together on problems like health and peace."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What disease is spreading in the Democratic Republic of the Congo?",
+      "options": [
+        "Cholera",
+        "Ebola",
+        "Measles",
+        "Malaria"
+      ],
+      "correct_answer": "Ebola"
+    },
+    {
+      "question": "How many deaths do the latest health ministry figures show?",
+      "options": [
+        "4,018 deaths",
+        "850 deaths",
+        "19,000 deaths",
+        "8,300 deaths"
+      ],
+      "correct_answer": "4,018 deaths"
+    },
+    {
+      "question": "What does the story say about the Bundibugyo virus?",
+      "options": [
+        "It can be cured with one common pill",
+        "It has no known treatment or vaccine",
+        "It spreads only through dirty drinking water",
+        "It only infects people who work in hospitals"
+      ],
+      "correct_answer": "It has no known treatment or vaccine"
+    },
+    {
+      "question": "Why did some health workers gather in Bunia?",
+      "options": [
+        "They wanted wages they were owed",
+        "They wanted to move to a new city",
+        "They wanted longer breaks between shifts",
+        "They wanted the camp rebuilt quickly"
+      ],
+      "correct_answer": "They wanted wages they were owed"
+    },
+    {
+      "question": "What happened to the number of confirmed cases each week?",
+      "options": [
+        "It fell from about 850 to about 490",
+        "It rose from about 490 to about 850",
+        "It dropped to zero by September",
+        "It stayed the same in every month"
+      ],
+      "correct_answer": "It fell from about 850 to about 490"
+    },
+    {
+      "question": "What did Africa CDC say could partly explain the slowing numbers?",
+      "options": [
+        "Schools closing in every city",
+        "Insecurity and trouble getting communities to cooperate",
+        "Fewer people living in central Africa",
+        "A new vaccine that everyone received"
+      ],
+      "correct_answer": "Insecurity and trouble getting communities to cooperate"
+    }
+  ],
+  "background_read": [
+    "Ebola is a serious illness caused by a virus. Health workers fight it by finding sick people, caring for them safely, and tracking who they were near."
+  ],
+  "Article_Structure": [
+    "Opening: Congo's Ebola outbreak passes 4,000 deaths",
+    "The numbers and the virus",
+    "Why the response is hard: pay and strikes",
+    "Safety problems at a camp",
+    "Cases are slowing, but experts are careful"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Africa CDC",
+      "description": "It says newly confirmed cases are falling, but that could be attributed to insecurity and trouble getting communities to cooperate."
+    }
+  ],
+  "mined_at": "2026-10-02T18:02:19+00:00",
+  "source_published_at": "Fri, 02 Oct 2026 10:15:35 EDT",
+  "source_name": "CBC World",
+  "source_url": "https://www.cbc.ca/news/world/congo-outbreak-death-toll-treatment-centre-beating-9.7366690?cmp=rss",
+  "category": "News",
+  "source_word_count": 559,
+  "detail_status": "full"
+}

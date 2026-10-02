@@ -1,1 +1,117 @@
-{"Article_Structure":["The question before cells","Comparing RNA and DNA","A small chemical difference","Limits and next experiments"],"background_read":[],"category":"Science","detail_status":"full","image_url":"","keywords":[{"explanation":"A molecule that can carry genetic information and assist chemical reactions.","term":"RNA"},{"explanation":"Droplets in which molecules gather together.","term":"condensates"},{"explanation":"A thin boundary around a cell or compartment.","term":"membrane"},{"explanation":"Electrically charged magnesium atoms.","term":"magnesium ions"}],"mined_at":null,"perspectives":[],"questions":[{"correct_answer":"RNA and single strands of DNA","options":["RNA and single strands of DNA","RNA and complete living cells","DNA and cell membranes","Magnesium and oxygen gases"],"question":"What did the researchers compare?"},{"correct_answer":"About ten degrees Celsius lower than matching DNA","options":["About ten degrees Celsius higher than matching DNA","About ten degrees Celsius lower than matching DNA","At exactly the same temperature as matching DNA","Only after the matching DNA stopped forming droplets"],"question":"At what relative temperature did RNA start forming droplets?"},{"correct_answer":"They gather molecules without a surrounding membrane","options":["They contain only water","They are surrounded by a thick membrane","They gather molecules without a surrounding membrane","They prevent all molecules from meeting"],"question":"What is unusual about these condensates?"},{"correct_answer":"Magnesium ions","options":["Calcium ions","Sodium ions","Iron ions","Magnesium ions"],"question":"Which ions does the chemical group help RNA interact with?"},{"correct_answer":"They formed networks and became gel-like","options":["They formed networks and became gel-like","They changed completely into DNA","They immediately became living cells","They lost every molecule of water"],"question":"What happened to some RNA droplets?"},{"correct_answer":"July 31, 2026","options":["October 1, 2026","July 31, 2026","August 19, 2026","September 24, 2026"],"question":"When was the study published?"}],"source_evidence_kind":"full_text","source_evidence_word_count":909,"source_name":"ScienceDaily","source_published_at":"2026-10-01","source_url":"https://www.sciencedaily.com/releases/2026/09/260929053546.htm","source_word_count":909,"summary":"How could the first useful molecules gather before cells existed? Scientists are studying tiny RNA droplets to explore that question. RNA is a molecule that can carry information and help chemical reactions happen.\n\nResearchers compared RNA with single strands of DNA containing similar sequences. In their experiments, RNA started forming droplets at temperatures about ten degrees Celsius lower than the matching DNA. The droplets, called condensates, brought molecules together without a surrounding membrane.\n\nA small chemical group on RNA's sugar helps explain the difference. Called the 2′-OH group, it contains oxygen and is absent from DNA's sugar. It helps RNA interact with magnesium ions. RNA also holds fewer water molecules around its backbone, making it easier for molecules to approach each other.\n\nSome RNA droplets developed connected networks and became more like a gel. This might have helped early RNA survive, but the experiments do not prove how life began.\n\nThe study was published on July 31, 2026. The University at Buffalo described it on August 19, and ScienceDaily featured it on October 1. Researchers are now exploring droplets that could carry out basic cell activities.","title":"A Tiny Chemical Group Helps RNA Gather","why_it_matters":"The study connects small chemical differences with the formation of larger molecular compartments."}
+{
+  "title": "Eating Plan Linked to Slower Brain Aging, Study Finds",
+  "summary": "As people get older, their brains slowly change. Some parts shrink, and fluid-filled spaces called ventricles get bigger. Scientists wanted to know whether food might play a role.\n\nA new study looked at the MIND diet. It mixes parts of the Mediterranean diet with an eating plan designed to lower blood pressure. The plan stresses green leafy vegetables, other vegetables, berries, nuts, whole grains, fish, beans, olive oil and poultry. It recommends limiting butter, cheese, red meat, sweets and fried fast foods.\n\nThe researchers followed people for an average of 12 years. The people had regular health checks, answered questions about what they ate, and had MRI brain scans. An MRI is a machine that takes pictures of the inside of the body.\n\nEveryone showed the normal changes that come with age. But people whose eating matched the MIND diet more closely lost grey matter more slowly. Grey matter is brain tissue that helps with memory, learning and decision making. Each 3 point rise in diet score was linked to 20% less age-related decline, which the researchers said is like 2.5 years of delayed brain aging. Eating more berries was linked to slower growth of the ventricles. Eating more sweets and fried fast foods was linked to more shrinking in the hippocampus, a brain area involved in memory.\n\nThese results show a link, not proof that food causes the changes. The study was published in the Journal of Neurology Neurosurgery & Psychiatry.",
+  "why_it_matters": "The study adds to the idea that what people eat over many years may be connected to how their brains age, even though more research is needed to show cause and effect.",
+  "image_url": "/article_images/science-s89c190ab09886147.webp",
+  "keywords": [
+    {
+      "term": "MIND diet",
+      "explanation": "An eating plan that mixes the Mediterranean diet with a plan to lower blood pressure."
+    },
+    {
+      "term": "ventricles",
+      "explanation": "Fluid-filled spaces inside the brain."
+    },
+    {
+      "term": "MRI",
+      "explanation": "A scan that takes detailed pictures of the inside of the body without surgery."
+    },
+    {
+      "term": "grey matter",
+      "explanation": "Brain tissue that helps with memory, learning and decision making."
+    },
+    {
+      "term": "hippocampus",
+      "explanation": "A brain area involved in memory."
+    },
+    {
+      "term": "poultry",
+      "explanation": "Birds raised for food, such as chicken and turkey."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What does the MIND diet mix together?",
+      "options": [
+        "Only fruits that grow in the summer",
+        "Parts of the Mediterranean diet and a blood-pressure eating plan",
+        "Parts of a sports drink plan and a candy plan",
+        "Only foods from one country, like Italy"
+      ],
+      "correct_answer": "Parts of the Mediterranean diet and a blood-pressure eating plan"
+    },
+    {
+      "question": "How long were people followed, on average?",
+      "options": [
+        "12 weeks",
+        "20 months",
+        "2 years",
+        "12 years"
+      ],
+      "correct_answer": "12 years"
+    },
+    {
+      "question": "What is an MRI?",
+      "options": [
+        "A kind of exercise for older adults",
+        "A machine that takes pictures of the inside of the body",
+        "A special fruit used in the diet",
+        "A questionnaire about what people eat"
+      ],
+      "correct_answer": "A machine that takes pictures of the inside of the body"
+    },
+    {
+      "question": "What did people who followed the MIND diet more closely lose more slowly?",
+      "options": [
+        "Hair color",
+        "Grey matter",
+        "Their voice",
+        "Their height"
+      ],
+      "correct_answer": "Grey matter"
+    },
+    {
+      "question": "What was eating more berries linked to?",
+      "options": [
+        "Larger MRI machines",
+        "Faster growth of the brain's ventricles",
+        "Slower growth of the brain's ventricles",
+        "Faster loss of memory"
+      ],
+      "correct_answer": "Slower growth of the brain's ventricles"
+    },
+    {
+      "question": "What does the story say about the study's results?",
+      "options": [
+        "They show that only sweets affect the brain",
+        "They prove that food causes every brain change",
+        "They show a link, not proof that food causes the changes",
+        "They prove that older brains never change"
+      ],
+      "correct_answer": "They show a link, not proof that food causes the changes"
+    }
+  ],
+  "background_read": [
+    "The Mediterranean diet is based on foods commonly eaten around the Mediterranean Sea, such as vegetables, fish, beans and olive oil."
+  ],
+  "Article_Structure": [
+    "Opening: how the brain changes with age and the question about food",
+    "What the MIND diet includes",
+    "How the study was done",
+    "What researchers found about grey matter, berries and sweets",
+    "A reminder that the results show a link"
+  ],
+  "perspectives": [
+    {
+      "perspective": "The researchers",
+      "description": "They reported that higher MIND diet scores were linked to slower grey matter loss and to the equivalent of 2.5 years of delayed brain aging."
+    }
+  ],
+  "mined_at": "2026-10-02T18:02:19+00:00",
+  "source_published_at": "Thu, 01 Oct 2026 08:26:47 EDT",
+  "source_name": "ScienceDaily All",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260930225503.htm",
+  "category": "Science",
+  "source_word_count": 581,
+  "detail_status": "full"
+}

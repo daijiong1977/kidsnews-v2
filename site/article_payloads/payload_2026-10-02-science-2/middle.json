@@ -1,1 +1,119 @@
-{"Article_Structure":["Publication and question","Hidden effects in steady currents","Ultrashort experimental method","Contrasting material responses","Limits and possible uses"],"background_read":[],"category":"Science","detail_status":"full","image_url":"","keywords":[{"explanation":"The breaking apart of the electron pairs involved in superconductivity.","term":"depairing"},{"explanation":"Current passing through a given cross-sectional area.","term":"current density"},{"explanation":"An energy scale associated with breaking Cooper pairs.","term":"energy gap"},{"explanation":"Magnetic structures that can cause resistance when they move.","term":"vortices"}],"mined_at":"2026-10-02T13:21:57.520560+00:00","perspectives":[],"questions":[{"correct_answer":"Vortex motion causes resistance and heating","options":["Sample size changes during testing","Laser light strengthens electron pairs","Vortex motion causes resistance and heating","Cooling removes all magnetic structures"],"question":"Why can conventional measurements hide the intrinsic limit?"},{"correct_answer":"Current per cross-sectional area","options":["Current per cross-sectional area","Energy stored per electron pair","Temperature change per pulse","Magnetic motion per second"],"question":"What does current density describe?"},{"correct_answer":"A sharp depairing onset appeared near 2.2 times the usual limit","options":["Depairing stopped above the usual limit","A sharp depairing onset appeared near 2.2 times the usual limit","The energy gap became zero in every direction","Cooling became unnecessary below the usual limit"],"question":"What happened in NbN at seven kelvin?"},{"correct_answer":"It varies and reaches zero in some directions","options":["It stays equal across all directions","It depends only on the sample size","It increases whenever vortices move","It varies and reaches zero in some directions"],"question":"How does YBCO’s energy gap differ from NbN’s?"},{"correct_answer":"Brief pulses reveal different depairing behavior","options":["Strong pulses already power practical devices","Both materials work without any cooling","Brief pulses reveal different depairing behavior","All superconductors share one current threshold"],"question":"Which result is established by this study?"},{"correct_answer":"They created the short electrical pulses","options":["They created the short electrical pulses","They kept the samples at room temperature","They measured only steady direct currents","They eliminated the superconducting energy gaps"],"question":"What role did the laser-triggered switches play?"}],"source_evidence_kind":"full_text","source_evidence_word_count":859,"source_name":"ScienceDaily","source_published_at":"2026-10-02","source_url":"https://www.sciencedaily.com/releases/2026/09/260930225452.htm","source_word_count":859,"summary":"How much current can a superconductor really carry? The answer depends partly on how quickly researchers measure it. A study published in Nature Physics on September 24, 2026, used electrical pulses lasting a few picoseconds to examine limits that ordinary measurements can hide. ScienceDaily covered the work on October 2.\n\nBelow a suitable temperature, a superconductor carries electricity without electrical resistance. Electrons form Cooper pairs, which participate in a shared quantum state. Yet superconductivity has limits: enough current can break those pairs apart. Researchers call this process depairing.\n\nReaching that point is difficult in conventional direct-current experiments on type-II superconductors. Magnetic structures called vortices can move through the material, producing resistance and heating before the intrinsic limit becomes visible. The new experiment reduced these effects by applying current for an exceptionally short time. One picosecond is one trillionth of a second.\n\nThe team used laser-triggered switches to create electrical pulses that traveled through tiny superconducting samples. It tested NbN and YBCO, two materials with different superconducting energy gaps. The gap is an energy scale associated with breaking Cooper pairs, and its dependence on direction helps distinguish the materials.\n\nIn NbN, the gap is nearly uniform across directions. At seven kelvin, the experiment found a sharp onset of depairing at a current density about 2.2 times the conventional critical current density. Current density describes the amount of current passing through a given cross-sectional area. The result concerns these experimental conditions, rather than a universal multiplication factor for superconductors.\n\nYBCO behaved differently. Its gap varies with direction and reaches zero along certain directions. Its superconductivity weakened gradually as current increased, rather than showing the same sharp threshold. The researchers connect this contrast to the materials' different gap structures.\n\nThese observations make short electrical pulses a useful probe of microscopic behavior. They may eventually help researchers investigate devices using strong, brief currents or magnetic pulses. However, the experiment does not establish a ready-to-use technology. Both materials required cooling, neither carried unlimited current, and the study did not demonstrate room-temperature superconductivity. Testing more materials will help show how broadly the method applies.","title":"Picosecond Pulses Reveal Hidden Current Limits","why_it_matters":"Separating rapid electronic behavior from slower vortex effects offers a way to investigate superconducting materials."}
+{
+  "title": "\"Plant Armor\" Textile More Than Triples Strawberry Yields in Field Trials",
+  "summary": "Researchers at North Carolina State University say a new textile cover helped strawberry plants produce more than three times as much fruit in tunnel field trials, with no harmful effects on plant health. They add that the technology may also offer a way to reduce water use and reliance on pesticides in strawberry production.\n\nThe fabric, called Plant Armor, is placed directly over strawberry plants. Its three-dimensional structure creates a barrier that keeps insects from reaching the plants, while the layered material still allows sunlight, rain and air to pass through. In the tunnel tests, strawberries protected by Plant Armor produced yields as much as 3.56 times higher than uncovered plants. The fabric did not reduce light availability or negatively affect relative humidity.\n\nThat result surprised the team. \"To produce fruit, plants need sunlight,\" said Gabriel Olawuyi, a graduate research assistant and lead author of the paper. The researchers expected the seemingly opaque fabric to trigger a \"shade-avoidance\" response, in which a plant sends energy into stem and leaf growth instead of fruit. Instead, they found the fabric did not impede access to light at all.\n\nThe team also found that Plant Armor created a steady warming effect throughout the three growing seasons. According to Olawuyi, the extra warmth helped covered plants reach the fruiting stage earlier. Plants need a certain amount of accumulated heat, calculated as \"growing degree-days,\" to move through developmental stages, and the cover appears to enhance this. Because the fabric physically prevents insects from feeding on the plants, Olawuyi said it could also reduce the amount of conventional pesticides needed.\n\nThe idea did not begin with farming. The technology emerged from research on making military uniforms more resistant to mosquito bites and improving comfort for soldiers wearing body armor. Co-author R. Michael Roe said: \"The path to Plant Armor started with trying to make a cloth to go on a soldier's chest to make body armor more comfortable.\" He said the unexpected path shows the value of collaboration across scientific fields. The paper is published in the journal Agriculture.",
+  "why_it_matters": "The study suggests a physical cover could help protect crops from insects while raising yields, which may let farmers use fewer pesticides and less water.",
+  "image_url": "/article_images/science-s4ad5ffee3917e76f.webp",
+  "keywords": [
+    {
+      "term": "textile",
+      "explanation": "A cloth or fabric made by weaving or knitting."
+    },
+    {
+      "term": "opaque",
+      "explanation": "Not clear enough to see through, so it seems to block light."
+    },
+    {
+      "term": "shade-avoidance",
+      "explanation": "A plant response to shade in which it grows taller to reach more light."
+    },
+    {
+      "term": "growing degree-days",
+      "explanation": "A way to count how much warmth a plant has received over time."
+    },
+    {
+      "term": "conventional pesticides",
+      "explanation": "Common chemical products farmers use to control insect pests."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How much more fruit did covered strawberries produce in the best case?",
+      "options": [
+        "About 1.5 times more",
+        "Exactly the same amount",
+        "As much as 3.56 times more",
+        "About 2 times less"
+      ],
+      "correct_answer": "As much as 3.56 times more"
+    },
+    {
+      "question": "What did the researchers expect the seemingly opaque fabric to cause?",
+      "options": [
+        "Faster growth of weeds under the cover",
+        "A shade-avoidance response that favored stems and leaves",
+        "An early frost on the covered plants",
+        "A fruit color change from red to white"
+      ],
+      "correct_answer": "A shade-avoidance response that favored stems and leaves"
+    },
+    {
+      "question": "What did they find about light under the fabric?",
+      "options": [
+        "It cut the light reaching the plants by half",
+        "It made the light much brighter than before",
+        "It blocked the light every afternoon at noon",
+        "It did not impede access to light"
+      ],
+      "correct_answer": "It did not impede access to light"
+    },
+    {
+      "question": "According to Olawuyi, why did covered plants reach the fruiting stage earlier?",
+      "options": [
+        "The cover cleaned the rain before it fell",
+        "The cover shortened each day for the plants",
+        "The cover created extra warmth",
+        "The cover added fertilizer to the soil"
+      ],
+      "correct_answer": "The cover created extra warmth"
+    },
+    {
+      "question": "Why could Plant Armor reduce pesticide use?",
+      "options": [
+        "It repairs insect damage after it happens",
+        "It makes pesticides cheaper to buy",
+        "It teaches insects to leave the farm",
+        "It physically prevents insects from feeding on the plants"
+      ],
+      "correct_answer": "It physically prevents insects from feeding on the plants"
+    },
+    {
+      "question": "How did Plant Armor begin, according to co-author R. Michael Roe?",
+      "options": [
+        "With trying to make a cloth to make body armor more comfortable",
+        "With a weather study of tunnel temperatures",
+        "With a plan to design a new strawberry flavor",
+        "With a contest for young farmers in North Carolina"
+      ],
+      "correct_answer": "With trying to make a cloth to make body armor more comfortable"
+    }
+  ],
+  "background_read": [
+    "A tunnel field trial tests a plant cover in long covered tunnels where crops grow, so results show how it works in real conditions.",
+    "Pesticides are chemicals used to control pests; using fewer of them is a goal for many farmers."
+  ],
+  "Article_Structure": [
+    "Opening: the main result for strawberry yields",
+    "How Plant Armor is built and tested",
+    "The surprise about sunlight and the shade-avoidance worry",
+    "Warmth and earlier fruiting",
+    "Pesticide reduction",
+    "The unexpected military-textile origin"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Gabriel Olawuyi, graduate research assistant at North Carolina State University",
+      "description": "He said the fabric did not impede light, extra warmth helped plants fruit earlier, and the cover could reduce pesticide needs."
+    },
+    {
+      "perspective": "R. Michael Roe, North Carolina State University",
+      "description": "He said the unexpected path from military clothing research to agriculture shows the value of collaboration across scientific fields."
+    }
+  ],
+  "mined_at": "2026-10-02T18:02:19+00:00",
+  "source_published_at": "Thu, 01 Oct 2026 09:43:15 EDT",
+  "source_name": "ScienceDaily Top Environment",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260930020257.htm",
+  "category": "Science",
+  "source_word_count": 689,
+  "detail_status": "full"
+}

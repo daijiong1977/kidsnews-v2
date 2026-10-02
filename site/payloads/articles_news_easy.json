@@ -1,1 +1,37 @@
-{"articles":[{"category":"News","id":"2026-10-02-news-1","image_url":"","mined_at":"2026-10-02T12:38:02Z","source":"Supreme Court of the United States","source_published_at":"2026-10-01","summary":"The Supreme Court agreed to examine a rule about who can ask a judge for release while an immigration case continues.","time_ago":"","title":"Court Will Hear a Case About Immigration Detention"},{"category":"News","id":"2026-10-02-news-2","image_url":"","mined_at":"2026-10-02T12:38:02Z","source":"Reuters via AOL","source_published_at":"2026-10-02T09:04:00Z","summary":"Amazon says it will add more than $1 billion over five years for communities around its U.S. data centers. The benefits are still plans.","time_ago":"","title":"Amazon Promises Funds for Data Center Towns"},{"category":"News","id":"2026-10-02-news-3","image_url":"","mined_at":"2026-10-02T12:38:02Z","source":"BBC by Lana Lam, syndicated by AOL","source_published_at":"2026-10-02T04:21:00Z","summary":"A new report found differences in how four popular gaming services protect young users. The findings describe a specific period and do not show every later change.","time_ago":"","title":"Australia Reviews Safety on Online Game Platforms"}]}
+{
+  "articles": [
+    {
+      "id": "2026-10-02-news-1",
+      "source": "PBS NewsHour",
+      "time_ago": "Fri, 02 Oct 2026 13:28:25 -0400",
+      "mined_at": "2026-10-02T18:02:19+00:00",
+      "source_published_at": "Fri, 02 Oct 2026 13:28:25 -0400",
+      "image_url": "/article_images/news-sfefbbf4291af290c.webp",
+      "category": "News",
+      "title": "Senate Republicans Move Campaign Money From North Carolina to Kansas",
+      "summary": "A big Republican campaign group is pulling back in North Carolina and spending more in Kansas. The midterm elections are a month away and will help decide who controls Congress."
+    },
+    {
+      "id": "2026-10-02-news-2",
+      "source": "CBC World",
+      "time_ago": "Fri, 02 Oct 2026 10:15:35 EDT",
+      "mined_at": "2026-10-02T18:02:19+00:00",
+      "source_published_at": "Fri, 02 Oct 2026 10:15:35 EDT",
+      "image_url": "/article_images/news-sbe3341ed35e54b2c.webp",
+      "category": "News",
+      "title": "Ebola Outbreak in Congo Passes 4,000 Deaths",
+      "summary": "Congo's health ministry says more than 4,000 people have died in an Ebola outbreak. Workers face money problems and safety risks, and case numbers are slowing in some places."
+    },
+    {
+      "id": "2026-10-02-news-3",
+      "source": "BBC News",
+      "time_ago": "Fri, 02 Oct 2026 15:26:37 GMT",
+      "mined_at": "2026-10-02T18:02:19+00:00",
+      "source_published_at": "Fri, 02 Oct 2026 15:26:37 GMT",
+      "image_url": "/article_images/news-s945d58c9fb793e94.webp",
+      "category": "News",
+      "title": "Kyiv's Mayor Says Russian Strikes Are Hitting the City's Key Services",
+      "summary": "Kyiv's mayor says Russian strikes are hitting bridges, data centers and housing. A key bridge was hit again on Friday, and metro and car traffic across it has stopped."
+    }
+  ]
+}

@@ -1,1 +1,123 @@
-{"Article_Structure":["The observation","How scientists read light","Where heavier elements came from","What the result can and cannot show"],"background_read":[],"category":"Science","detail_status":"full","image_url":"","keywords":[{"explanation":"A large collection of stars, gas and other matter held together by gravity.","term":"galaxy"},{"explanation":"A basic type of substance, such as oxygen or carbon.","term":"element"},{"explanation":"Light separated into its different wavelengths.","term":"spectrum"},{"explanation":"To take in energy, such as particular wavelengths of light.","term":"absorb"},{"explanation":"The movement of ordinary matter into and out of galaxies.","term":"baryon cycling"},{"explanation":"A shift of light toward longer wavelengths; comparing shifts can reveal motion.","term":"redshift"}],"mined_at":"2026-10-02T12:37:30Z","perspectives":[],"questions":[{"correct_answer":"Three distant galaxies","options":["Three distant galaxies","Three nearby beaches","Three dinosaur eggs","Three weather balloons"],"question":"What did the researchers study?"},{"correct_answer":"James Webb Space Telescope","options":["James Webb Space Telescope","A classroom microscope","A submarine camera","A weather radar"],"question":"Which telescope supplied the observations?"},{"correct_answer":"They reveal elements that absorbed light","options":["They reveal elements that absorbed light","They show the size of Earth","They measure an astronaut’s age","They prove a planet has animals"],"question":"Why can missing colors in light be useful?"},{"correct_answer":"Moving out of the galaxies","options":["Moving out of the galaxies","Turning into telescope mirrors","Falling into Earth’s oceans","Standing completely still"],"question":"What did the gas appear to be doing?"},{"correct_answer":"Hydrogen and helium","options":["Hydrogen and helium","Gold and silver","Iron and copper","Carbon and silicon only"],"question":"Which elements dominated the early universe?"},{"correct_answer":"Some galaxies spread heavier elements early","options":["Some galaxies spread heavier elements early","Scientists found living things there","Every early galaxy behaved identically","The events happened on October 2"],"question":"Which conclusion is supported?"}],"source_evidence_kind":"full_text","source_evidence_word_count":1379,"source_name":"University of Arizona","source_published_at":"2026-09-24","source_url":"https://news.arizona.edu/news/jwst-finds-early-galaxies-were-already-seeding-universe-heavy-elements","source_word_count":1379,"summary":"Three distant galaxies offer a glimpse of the universe's early recycling system. Astronomers found evidence that carbon, oxygen and silicon were escaping into the gas around them when the universe was about 500 million years old.\n\nThe University of Arizona reported the study on September 24, and ScienceDaily highlighted it on October 2. Its subject is ancient, however: the light studied has traveled for more than 13 billion years. A publication date tells us when researchers reported a result, not when the distant event happened.\n\nThe team used observations from the James Webb Space Telescope. Looking through publicly available data, researcher Yongda Zhu identified three galaxies with useful absorption patterns. Together, the observations involved nearly 30 hours of exposure, allowing very faint details to emerge.\n\nHere is the central idea. Light from a galaxy passes through surrounding gas before reaching us. Atoms in that gas absorb particular wavelengths. The resulting gaps in the light's spectrum work as clues to the elements present. The researchers also compared the positions of these absorption features with the galaxies' own redshifts. The relative shift indicated gas flowing outward.\n\nThat movement matters because the universe did not begin with the chemical variety we see today. Hydrogen and helium dominated its early history. Stars later produced heavier elements through nuclear processes, and dying stars released material into their surroundings. Galaxies could then exchange some of that material with the wider cosmos.\n\nThe study suggests this exchange was already operating early. Scientists call the movement of ordinary matter into and out of galaxies baryon cycling. It helps connect the histories of stars, galaxies and the material that can eventually form planets.\n\nThere are limits to the conclusion. Three galaxies cannot describe every early galaxy. Detecting carbon or oxygen is also not evidence of living things. The observations may help researchers understand why stars formed from completely unenriched gas are difficult to find, but they do not settle that question. The next challenge is to learn how widespread and effective this early exchange of material was.","title":"Ancient Light Reveals Early Galactic Recycling","why_it_matters":"The study helps explain how matter became available for later stars and planets."}
+{
+  "title": "Bats May Have First Evolved in Europe 65 Million Years Ago",
+  "summary": "New research suggests that bats most likely originated in Europe during the late Paleocene, roughly 65 to 60 million years ago. For decades, researchers have debated where bats first appeared, and Africa, Asia and North America have all been proposed as possible birthplaces.\n\nAn international team of 137 researchers from 64 countries combined genomic data from every living bat family with evidence from ancient fossils. Their goal was to reconstruct the evolutionary history of the world's only mammals capable of true powered flight. The work was carried out through the Bat1K consortium, a global effort to sequence the genomes of all living bat species. The study, published in Nature, examined 103 bat genomes, including 42 newly generated chromosome-level assemblies, covering all 21 recognized bat families. The researchers also used evidence from 44 fossil bats.\n\nThe results suggest that bats first evolved in Europe and that their descendants then moved into Africa. As bats diversified, separate groups expanded into the Americas, Asia and Australia. Over time, those migrations produced the major bat lineages found around the world today.\n\nThe findings also offer clues about two defining bat features. The team analyzed the fossil bat Vielasia, which sits on the oldest branch of the bat family tree. That fossil suggests that echolocation, the use of sound to navigate and hunt in darkness, had already appeared close to the beginning of bat evolution. Taken together, the evidence indicates that both powered flight and echolocation emerged before modern bat groups began diversifying.\n\nProfessor Emma Teeling, the leading senior author and a co-founding director of Bat1K, said: \"we finally have a robust phylogenetic tree that we can now use to properly understand how and where bats' unique traits evolved.\" Senior author Professor Liliana M. Dávalos of Stony Brook University said the team's method can \"identify the oldest group of fossil bats while taking the genomic data into account.\"\n\nBats represent about one fifth of all living mammals and play important ecological roles around the world. Many species are unusually resistant to disease and can live far longer than other mammals of similar size.",
+  "why_it_matters": "A reliable bat family tree gives scientists a map for studying how traits like flight, echolocation and unusual resistance to disease developed.",
+  "image_url": "/article_images/science-s2915bd6030823d57.webp",
+  "keywords": [
+    {
+      "term": "Paleocene",
+      "explanation": "A period of Earth's history that began after the dinosaurs died out."
+    },
+    {
+      "term": "genomic data",
+      "explanation": "Information read from the full set of DNA of living things."
+    },
+    {
+      "term": "consortium",
+      "explanation": "A group of organizations or people who work together on a shared project."
+    },
+    {
+      "term": "lineages",
+      "explanation": "Lines of descent, like branches of a family tree."
+    },
+    {
+      "term": "echolocation",
+      "explanation": "Using sound echoes to find objects and move around, such as when hunting in darkness."
+    },
+    {
+      "term": "phylogenetic tree",
+      "explanation": "A diagram showing how different kinds of living things are related by evolution."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Which continents have been proposed as bat birthplaces in the past?",
+      "options": [
+        "Antarctica, Australia and Africa",
+        "Africa, Asia and North America",
+        "South America and Antarctica only",
+        "Europe and Australia only"
+      ],
+      "correct_answer": "Africa, Asia and North America"
+    },
+    {
+      "question": "What kinds of evidence did the team combine?",
+      "options": [
+        "Satellite photos and weather records",
+        "Genomic data from living bat families and fossils",
+        "Written histories and old maps of caves",
+        "Sound recordings and pictures of bat wings"
+      ],
+      "correct_answer": "Genomic data from living bat families and fossils"
+    },
+    {
+      "question": "How many recognized bat families did the 103 genomes cover?",
+      "options": [
+        "Only 4 of the bat families",
+        "All 21 recognized bat families",
+        "About half of the bat families",
+        "Just one family of fruit bats"
+      ],
+      "correct_answer": "All 21 recognized bat families"
+    },
+    {
+      "question": "According to the study, where did bats' descendants move after Europe?",
+      "options": [
+        "Into the Americas, and nowhere else",
+        "Into Asia, and then they stopped spreading",
+        "Straight to Australia, then back to Africa",
+        "Into Africa, and later other groups spread elsewhere"
+      ],
+      "correct_answer": "Into Africa, and later other groups spread elsewhere"
+    },
+    {
+      "question": "What does the evidence indicate about powered flight and echolocation?",
+      "options": [
+        "Both emerged before modern bat groups began diversifying",
+        "Echolocation came late, and flight never evolved",
+        "Both appeared only after modern bat groups formed",
+        "Flight came late, and echolocation never evolved"
+      ],
+      "correct_answer": "Both emerged before modern bat groups began diversifying"
+    },
+    {
+      "question": "What did Liliana M. Dávalos say about the team's method?",
+      "options": [
+        "It can identify the oldest group of fossil bats while using genomic data",
+        "It replaces the need to study any living bat species",
+        "It works only when scientists have no fossils to study",
+        "It proves that bats are older than every other mammal"
+      ],
+      "correct_answer": "It can identify the oldest group of fossil bats while using genomic data"
+    }
+  ],
+  "background_read": [
+    "A genome is the complete set of DNA in a living thing. Sequencing a genome means reading it letter by letter.",
+    "Fossils can show what ancient animals looked like and where they lived."
+  ],
+  "Article_Structure": [
+    "Opening: bats may have originated in Europe",
+    "The long debate and the international team",
+    "The data: genomes and fossils",
+    "How bats spread to other continents",
+    "Clues about flight and echolocation",
+    "Expert comments and why bats matter"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Professor Emma Teeling, Bat1K co-founding director",
+      "description": "She said the team now has a robust phylogenetic tree that can be used to understand where and how bats' unique traits evolved."
+    },
+    {
+      "perspective": "Professor Liliana M. Dávalos, Stony Brook University",
+      "description": "She said the team's method can identify the oldest group of fossil bats while taking the genomic data into account."
+    }
+  ],
+  "mined_at": "2026-10-02T18:02:19+00:00",
+  "source_published_at": "Wed, 30 Sep 2026 01:12:36 EDT",
+  "source_name": "ScienceDaily Top Environment",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260929053531.htm",
+  "category": "Science",
+  "source_word_count": 580,
+  "detail_status": "full"
+}

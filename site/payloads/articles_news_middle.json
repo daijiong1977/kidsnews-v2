@@ -1,1 +1,37 @@
-{"articles":[{"category":"News","id":"2026-10-02-news-1","image_url":"","mined_at":"2026-10-02T12:38:02Z","source":"Supreme Court of the United States","source_published_at":"2026-10-01","summary":"The justices accepted a case about access to bond hearings. They have not ruled on whether the challenged detention policy is lawful.","time_ago":"","title":"Supreme Court Takes Up Immigration Detention Dispute"},{"category":"News","id":"2026-10-02-news-2","image_url":"","mined_at":"2026-10-02T12:38:02Z","source":"Reuters via AOL","source_published_at":"2026-10-02T09:04:00Z","summary":"The company announced more than $1 billion in additional spending over five years. Questions about resource use and local effects remain central.","time_ago":"","title":"Amazon Pledges Community Funding Amid Data Center Debate"},{"category":"News","id":"2026-10-02-news-3","image_url":"","mined_at":"2026-10-02T12:38:02Z","source":"BBC by Lana Lam, syndicated by AOL","source_published_at":"2026-10-02T04:21:00Z","summary":"The regulator compared four gaming services and found differences in age checks, detection tools and cooperation. Company responses and the reporting period provide important context.","time_ago":"","title":"Australian Report Finds Uneven Safeguards in Online Games"}]}
+{
+  "articles": [
+    {
+      "id": "2026-10-02-news-1",
+      "source": "PBS NewsHour",
+      "time_ago": "Fri, 02 Oct 2026 13:28:25 -0400",
+      "mined_at": "2026-10-02T18:02:19+00:00",
+      "source_published_at": "Fri, 02 Oct 2026 13:28:25 -0400",
+      "image_url": "/article_images/news-sfefbbf4291af290c.webp",
+      "category": "News",
+      "title": "GOP Campaign Cash Shifts From North Carolina to Kansas as Senate Map Changes",
+      "summary": "A month before the midterms, a top Senate Republican spending group is pulling back in North Carolina and making a seven-figure ad buy in Kansas, a sign of a more defensive fight for the majority."
+    },
+    {
+      "id": "2026-10-02-news-2",
+      "source": "CBC World",
+      "time_ago": "Fri, 02 Oct 2026 10:15:35 EDT",
+      "mined_at": "2026-10-02T18:02:19+00:00",
+      "source_published_at": "Fri, 02 Oct 2026 10:15:35 EDT",
+      "image_url": "/article_images/news-sbe3341ed35e54b2c.webp",
+      "category": "News",
+      "title": "Congo's Ebola Outbreak Surpasses 4,000 Deaths Amid Violence and Mistrust",
+      "summary": "Congo says Ebola has now killed 4,018 people among about 8,300 confirmed cases. Unpaid health workers, a burned camp and limited resources are slowing the response, even as weekly cases fall."
+    },
+    {
+      "id": "2026-10-02-news-3",
+      "source": "BBC News",
+      "time_ago": "Fri, 02 Oct 2026 15:26:37 GMT",
+      "mined_at": "2026-10-02T18:02:19+00:00",
+      "source_published_at": "Fri, 02 Oct 2026 15:26:37 GMT",
+      "image_url": "/article_images/news-s945d58c9fb793e94.webp",
+      "category": "News",
+      "title": "Intensified Russian Strikes Are \"Tearing Kyiv Apart,\" Mayor Warns",
+      "summary": "Mayor Vitaliy Klitschko says Kyiv is in a \"very dramatic situation\" after repeated Russian strikes on a key bridge and recent hits on data centers. Russia says it is responding to Ukrainian attacks on its energy sites."
+    }
+  ]
+}

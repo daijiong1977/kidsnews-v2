@@ -1,1 +1,118 @@
-{"Article_Structure":["Reports the men’s result and the winning margin.","Distinguishes Cup, long-course and personal achievements.","Uses another close race and the tour to look ahead."],"background_read":[],"category":"Fun","detail_status":"full","image_url":"","keywords":[{"explanation":"The difference between two results.","term":"margin"},{"explanation":"A difference that keeps two ideas separate.","term":"distinction"},{"explanation":"The way an event is organised.","term":"format"},{"explanation":"Thought about an experience or achievement.","term":"reflection"},{"explanation":"Something someone hopes to achieve.","term":"ambition"}],"mined_at":"2026-10-02T11:39:46.145775+00:00","perspectives":[],"questions":[{"correct_answer":"0.04 seconds","options":["0.01 seconds","0.04 seconds","0.09 seconds","0.60 seconds"],"question":"How far apart were the first two men’s times?"},{"correct_answer":"Josh Liendo’s","options":["Sean Niewold’s","Egor Kornev’s","Roos Vanotterdijk’s","Josh Liendo’s"],"question":"Whose World Cup mark did McEvoy beat?"},{"correct_answer":"A new World Cup record","options":["A new national record","A new Olympic record","A new World Cup record","A new long-course world record"],"question":"How does the report describe the Baku record?"},{"correct_answer":"It was eleven years earlier","options":["It was eleven years earlier","It was set the previous week","It happened in this medley","It belonged to another swimmer"],"question":"What did McEvoy say about his earlier personal best?"},{"correct_answer":"It still lies ahead","options":["It was reached in Baku","It still lies ahead","It applies to Niewold","It was cancelled after Baku"],"question":"Which statement accurately describes his next goal?"},{"correct_answer":"Steenbergen won by 0.01 seconds","options":["Steenbergen won by 0.01 seconds","Vanotterdijk won by 0.04 seconds","Steenbergen won by 0.60 seconds","Vanotterdijk won by 0.09 seconds"],"question":"What happened in the women’s medley example?"}],"source_evidence_kind":"full_text","source_evidence_word_count":1394,"source_name":"World Aquatics","source_published_at":"2026-10-01T19:07:04Z","source_url":"https://www.worldaquatics.com/news/4585280/mcevoy-breaks-swimming-world-cup-record-as-silk-road-tour-begins-in-baku","source_word_count":1394,"summary":"A difference of four hundredths of a second decided the men’s 50-metre freestyle on the opening night of the 2026 Swimming World Cup in Baku, Azerbaijan. Australia’s Cameron McEvoy won in 20.22 seconds, with Egor Kornev close behind in 20.26. Sean Niewold finished third in 20.82.\n\nThat small margin was not the only number that mattered. McEvoy also lowered the World Cup record, previously 20.31 seconds, which Josh Liendo had set last year. The report identifies a World Cup record rather than a new world record. Keeping that distinction matters when reading a headline about a record-breaking athlete.\n\nMcEvoy is already an Olympic champion and the long-course world record holder in this event. In Baku, however, he was competing in a short-course race after several years away from that format. The result belongs to this competition and format; his other achievements describe his background.\n\nThere was a more personal reflection as well. McEvoy said it had been 11 years since his previous personal best. He spoke about being due for one. That comment describes a long wait, while the race results establish his victory and the new World Cup mark.\n\nHis next target remains unfinished. McEvoy said he would like to go below 20 seconds. A time of 20.22 seconds brought him closer, but it did not put him under that line. The statement is an ambition, not another result that has already happened.\n\nThe evening featured other tight races too. In the women’s 100-metre individual medley, Marrit Steenbergen won in 56.83 seconds, while Roos Vanotterdijk finished in 56.84. That separate race had an even smaller gap between the first two finishers.\n\nBaku opened the World Cup’s Silk Road Tour, with Tashkent and Astana still to come. McEvoy’s first race gives young sports fans several things to watch next: another close contest, a possible personal improvement, and whether his hoped-for time below 20 seconds becomes a real result.","title":"A Tiny Winning Margin and an Eleven Year Personal Best","why_it_matters":"Precise labels help readers understand which record changed and which goal is still only an ambition."}
+{
+  "title": "Severed Robot Hand Looks Like a Futuristic Thing From The Addams Family",
+  "summary": "Halloween is just around the corner, and engineers have built a spooky robot: a detached hand inspired by Thing from The Addams Family. Like its gothic sitcom predecessor, this fully articulated hand can balance on its own fingertips and creep around. It can tap keyboard keys, push small objects and even play a simple computer game while balancing on its remaining fingers. If it falls, it can recover and lift itself up from a flat position.\n\nWalking robot hands are not new, but earlier efforts mostly required changing the hand's structure, such as making every finger the same length so it could balance. Human hands have uneven fingers and an opposable thumb, which helps us use many tools but is not well suited for upright walking. A team from the Soft Robotics Lab at ETH Zurich in Switzerland set out to solve that problem, according to a recent preprint, a paper that has not yet been peer-reviewed.\n\nThe team began with an off-the-shelf mechanical hand designed for humanoid robots, with five fingers and 20 actuated joints. They mounted a battery, motion sensors and a tiny computer on the back, and the whole robot weighs 1.8 pounds. They taught it to balance in a simulation using reinforcement learning, which rewarded the software every time the hand balanced correctly. Each finger was assigned its own target position, so where and when each finger moved depended on the task.\n\nIn real-world tests, the hand crossed 14 different indoor and outdoor environments, including carpet, gravel, grass and metal, with a springy, spider-like gait. It balanced on several fingers while using the others to push a small cube. In testing, it hit the correct keys 29 out of 32 times when typing, and it played the puzzle game Sokoban by pressing arrow keys in sequence.\n\nThe team notes that these skills could serve a more important purpose than a creepy Halloween decoration. In the future, humanoid robots working in cramped areas could detach a hand and send it to retrieve an item. The researchers write: \"Giving robotic hands their own mobility could make future robots more versatile in the spaces and interfaces built for people.\" Improvements in finger control and balance might also help robot hands handle objects designed for human hands.",
+  "why_it_matters": "The work shows how engineers solve odd design problems, and it could lead to robot hands that are better at using objects made for human hands.",
+  "image_url": "/article_images/fun-s4ba4eccbc53b6517.webp",
+  "keywords": [
+    {
+      "term": "articulated",
+      "explanation": "Having joints that let parts move separately."
+    },
+    {
+      "term": "opposable thumb",
+      "explanation": "A thumb that can touch the other fingers, which helps people grip objects."
+    },
+    {
+      "term": "preprint",
+      "explanation": "A science paper shared before it has been peer-reviewed."
+    },
+    {
+      "term": "reinforcement learning",
+      "explanation": "A training method that rewards software when it makes a correct move."
+    },
+    {
+      "term": "actuated joints",
+      "explanation": "Joints that move because they are powered by motors."
+    },
+    {
+      "term": "humanoid",
+      "explanation": "Built to look or move somewhat like a human."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Why did earlier walking robot hands need design changes?",
+      "options": [
+        "They needed several extra thumbs to hold a heavy battery pack",
+        "They needed to be much larger than a normal human hand",
+        "They needed to be powered by large solar panels outside",
+        "They needed every finger to be the same length to balance"
+      ],
+      "correct_answer": "They needed every finger to be the same length to balance"
+    },
+    {
+      "question": "What kind of hand did the ETH Zurich team start with?",
+      "options": [
+        "An off-the-shelf mechanical hand for humanoid robots",
+        "A glove with small built-in lights for the dark",
+        "A hand carved by hand from a block of wood",
+        "A hand taken from a mannequin in a clothing store"
+      ],
+      "correct_answer": "An off-the-shelf mechanical hand for humanoid robots"
+    },
+    {
+      "question": "How was each finger controlled during training?",
+      "options": [
+        "A person moved the fingers by remote control",
+        "Each finger was assigned its own target position",
+        "Each finger stayed completely still until the very end",
+        "All of the fingers were forced to move together"
+      ],
+      "correct_answer": "Each finger was assigned its own target position"
+    },
+    {
+      "question": "How many environments did the hand cross in real-world tests?",
+      "options": [
+        "2 indoor rooms",
+        "20 beaches",
+        "7 school hallways",
+        "14 indoor and outdoor environments"
+      ],
+      "correct_answer": "14 indoor and outdoor environments"
+    },
+    {
+      "question": "Which game did the hand play by pressing arrow keys?",
+      "options": [
+        "Pac-Man",
+        "Minecraft",
+        "Sokoban",
+        "Chess"
+      ],
+      "correct_answer": "Sokoban"
+    },
+    {
+      "question": "What does the preprint note mean for this research?",
+      "options": [
+        "It was published in a famous textbook",
+        "It has been proven by thousands of tests",
+        "It has not yet been peer-reviewed",
+        "It was rejected by every scientist"
+      ],
+      "correct_answer": "It has not yet been peer-reviewed"
+    }
+  ],
+  "background_read": [
+    "Peer review is when other experts check a scientific paper before it is published in a journal.",
+    "Simulation training lets software practice thousands of times in a computer before it controls a real machine."
+  ],
+  "Article_Structure": [
+    "Opening: a Thing-inspired robot hand",
+    "Why walking on uneven fingers is hard",
+    "How the team built and trained the hand",
+    "What it did in real-world tests",
+    "Possible uses and what the researchers say"
+  ],
+  "perspectives": [
+    {
+      "perspective": "The researchers",
+      "description": "They write that giving robotic hands their own mobility could make future robots more versatile in spaces and interfaces built for people."
+    }
+  ],
+  "mined_at": "2026-10-02T18:02:19+00:00",
+  "source_published_at": "Fri, 02 Oct 2026 13:03:00 -0400",
+  "source_name": "Popular Science",
+  "source_url": "https://www.popsci.com/technology/robot-hand-thing-addams-family/",
+  "category": "Fun",
+  "source_word_count": 820,
+  "detail_status": "full"
+}

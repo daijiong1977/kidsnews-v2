@@ -1,1 +1,109 @@
-{"Article_Structure":["Opening: the new announcement or decision.","Explanation: the central issue and relevant background.","Closing: what is still unknown or comes next."],"background_read":[],"category":"News","detail_status":"full","image_url":"","keywords":[{"explanation":"Being held by authorities while a legal process takes place.","term":"detention"},{"explanation":"A hearing about possible release under conditions while a case continues.","term":"bond hearing"}],"mined_at":"2026-10-02T12:38:02Z","perspectives":[{"description":"Argues that federal law requires detention for people covered by its interpretation.","perspective":"Trump administration"},{"description":"Argue that people arrested inside the country should be able to request individual bond hearings.","perspective":"Challengers"}],"questions":[{"correct_answer":"Agreed to review a case","options":["Issued its final immigration decision","Changed the federal immigration law","Announced the court's final answer","Agreed to review a case"],"question":"What did the Supreme Court do on October 1?"},{"correct_answer":"Release under conditions","options":["School opening times","A new national flag","Release under conditions","Who becomes president"],"question":"What can a bond hearing consider?"},{"correct_answer":"No","options":["Only after an election","No","Yes, in every case","Only on Fridays"],"question":"Does a hearing guarantee release?"},{"correct_answer":"Courts have interpreted the law differently","options":["Courts have interpreted the law differently","All courts stopped working","No federal law exists","Every judge gave the same answer"],"question":"Why does the court disagreement matter?"},{"correct_answer":"The court will examine the dispute","options":["The final verdict is already known","The law disappears","Every person is released","The court will examine the dispute"],"question":"What does granting a petition mean here?"},{"correct_answer":"Ricardo Aparecido Barbosa da Cunha","options":["Matt Garman","Ricardo Aparecido Barbosa da Cunha","Julie Inman Grant","Lana Lam"],"question":"Who is named as the person whose case is being reviewed?"}],"source_evidence_kind":"evidence_dossier","source_evidence_word_count":89,"source_name":"Supreme Court of the United States","source_published_at":"2026-10-01","source_url":"https://www.supremecourt.gov/docket/docketfiles/html/public/26-104.html","source_word_count":null,"summary":"The U.S. Supreme Court agreed on October 1 to hear a case about immigration detention. Detention means the government keeps someone in a facility while a legal process takes place.\n\nThe case asks whether some people must stay there while their immigration cases continue, without a bond hearing. At that hearing, a judge considers whether someone may be released under conditions. A hearing does not promise release. It also does not decide whether the person may stay in the country.\n\nThe Trump administration and people challenging its policy disagree about what federal law requires. Other federal courts have also reached different answers. The Supreme Court can help settle that disagreement.\n\nThe case involves Ricardo Aparecido Barbosa da Cunha. The court's official record shows that the justices accepted the request to review his case.\n\nThat is an important first step, but it is not a final decision. The justices have not yet answered the main legal question. Their eventual answer could affect people waiting for their immigration cases to be resolved.","title":"Court Will Hear a Case About Immigration Detention","why_it_matters":"The case concerns access to a hearing and where people wait during immigration proceedings."}
+{
+  "title": "Senate Republicans Move Campaign Money From North Carolina to Kansas",
+  "summary": "Imagine you planned to spend your allowance on one thing, then decided to spend it somewhere else. Something like that is happening in this year's Senate elections.\n\nThe Senate Leadership Fund is a super PAC, a group that raises and spends money to help candidates win. It is linked to top Senate Republicans. On Friday, four people who know about the plan said the group is pulling back in North Carolina and buying a seven-figure amount of ads in Kansas. Seven figures means at least one million dollars. These people asked not to be named because they were talking about private strategy.\n\nIn North Carolina, the group had planned to spend $18 million on ads over the next month. It has already spent about $32 million there. The Associated Press says the shift suggests Republicans are less sure that their candidate, Michael Whatley, can beat Democrat Roy Cooper, a former governor.\n\nKansas has leaned Republican. Donald Trump won it by nearly 16 percentage points in the last presidential election. But the Associated Press says higher fuel costs and other money worries have made the race closer than Republicans expected. Senator Roger Marshall, a Republican, is running for another term against Democrat Adam Hamilton.\n\nThe midterm elections are on Nov. 3. They will help decide which party controls Congress. Republican campaign leaders say high fuel prices are one thing weighing on their candidates.",
+  "why_it_matters": "The Senate helps decide which laws pass, so where each party spends money shows where it thinks control of Congress could be won or lost.",
+  "image_url": "/article_images/news-sfefbbf4291af290c.webp",
+  "keywords": [
+    {
+      "term": "super PAC",
+      "explanation": "A political group that raises and spends money to help candidates win elections."
+    },
+    {
+      "term": "midterm elections",
+      "explanation": "Elections held halfway through a president's term, when voters choose members of Congress."
+    },
+    {
+      "term": "Congress",
+      "explanation": "The part of the U.S. government that makes laws. It has the Senate and the House."
+    },
+    {
+      "term": "ads",
+      "explanation": "Short messages on TV or online that try to persuade voters."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is the Senate Leadership Fund?",
+      "options": [
+        "A school group that teaches students voting",
+        "A newspaper that reports on Senate elections",
+        "A state agency that counts votes in Kansas",
+        "A super PAC that helps Republican Senate candidates"
+      ],
+      "correct_answer": "A super PAC that helps Republican Senate candidates"
+    },
+    {
+      "question": "Which two states are at the center of the money shift?",
+      "options": [
+        "North Carolina and Texas",
+        "North Carolina and Kansas",
+        "Maine and Kansas",
+        "Ohio and Kansas"
+      ],
+      "correct_answer": "North Carolina and Kansas"
+    },
+    {
+      "question": "What does \"seven figures\" mean in this story?",
+      "options": [
+        "A plan lasting seven weeks",
+        "Exactly seven hundred dollars",
+        "Seven different campaign ads",
+        "At least one million dollars"
+      ],
+      "correct_answer": "At least one million dollars"
+    },
+    {
+      "question": "How much has the group already spent in North Carolina, according to the story?",
+      "options": [
+        "About $32 million",
+        "About $11 million",
+        "About $18 million",
+        "About $16 million"
+      ],
+      "correct_answer": "About $32 million"
+    },
+    {
+      "question": "When are the midterm elections?",
+      "options": [
+        "On Oct. 13",
+        "On Sept. 9",
+        "On Nov. 3",
+        "On Dec. 3"
+      ],
+      "correct_answer": "On Nov. 3"
+    },
+    {
+      "question": "What do Republican campaign leaders say is weighing on their candidates?",
+      "options": [
+        "Rising fuel prices",
+        "A shortage of voters",
+        "Late election dates",
+        "Too few campaign ads"
+      ],
+      "correct_answer": "Rising fuel prices"
+    }
+  ],
+  "background_read": [
+    "Midterm elections happen halfway through a president's four-year term. Voters choose members of Congress, and the results can change which party has more power."
+  ],
+  "Article_Structure": [
+    "Opening: a Republican group moves money from North Carolina to Kansas",
+    "What the group is and who revealed the plan",
+    "Why North Carolina may look harder for Republicans",
+    "Why Kansas is closer than expected",
+    "What the Nov. 3 elections will decide"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Senate Republican campaign leaders",
+      "description": "They point to rising fuel prices, driven in part by the war with Iran, as one issue weighing on their candidates."
+    }
+  ],
+  "mined_at": "2026-10-02T18:02:19+00:00",
+  "source_published_at": "Fri, 02 Oct 2026 13:28:25 -0400",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/politics/senate-republicans-move-cash-from-north-carolina-to-kansas-as-battle-for-majority-shifts",
+  "category": "News",
+  "source_word_count": 506,
+  "detail_status": "full"
+}

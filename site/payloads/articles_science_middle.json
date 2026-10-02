@@ -1,1 +1,37 @@
-{"articles":[{"category":"Science","id":"2026-10-02-science-1","image_url":"","mined_at":"2026-10-02T12:37:30Z","source":"University of Arizona","source_published_at":"2026-09-24","summary":"Webb observations reveal outward-moving, element-rich gas around three early galaxies. Scientists are investigating how quickly the first galaxies changed their surroundings.","time_ago":"","title":"Ancient Light Reveals Early Galactic Recycling"},{"category":"Science","id":"2026-10-02-science-2","image_url":"","mined_at":"2026-10-02T13:21:57.520560+00:00","source":"ScienceDaily","source_published_at":"2026-10-02","summary":"Researchers used ultrashort electrical pulses to reduce interference from moving magnetic vortices. NbN and YBCO showed different patterns as superconductivity weakened.","time_ago":"","title":"Picosecond Pulses Reveal Hidden Current Limits"},{"category":"Science","id":"2026-10-02-science-3","image_url":"","mined_at":null,"source":"ScienceDaily","source_published_at":"2026-10-01","summary":"Comparisons of RNA and DNA connect a small structural difference with droplet formation and gel-like behavior, offering a testable clue to early molecular organization.","time_ago":"","title":"RNA Droplets Reveal the Power of One Chemical Group"}]}
+{
+  "articles": [
+    {
+      "id": "2026-10-02-science-1",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Wed, 30 Sep 2026 01:12:36 EDT",
+      "mined_at": "2026-10-02T18:02:19+00:00",
+      "source_published_at": "Wed, 30 Sep 2026 01:12:36 EDT",
+      "image_url": "/article_images/science-s2915bd6030823d57.webp",
+      "category": "Science",
+      "title": "Bats May Have First Evolved in Europe 65 Million Years Ago",
+      "summary": "A study in Nature combined 103 bat genomes with 44 fossils. It suggests bats originated in Europe in the late Paleocene, and that flight and echolocation appeared early."
+    },
+    {
+      "id": "2026-10-02-science-2",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Thu, 01 Oct 2026 09:43:15 EDT",
+      "mined_at": "2026-10-02T18:02:19+00:00",
+      "source_published_at": "Thu, 01 Oct 2026 09:43:15 EDT",
+      "image_url": "/article_images/science-s4ad5ffee3917e76f.webp",
+      "category": "Science",
+      "title": "\"Plant Armor\" Textile More Than Triples Strawberry Yields in Field Trials",
+      "summary": "North Carolina State University researchers say a breathable fabric cover raised strawberry yields by as much as 3.56 times in tunnel tests, and may cut pesticide use."
+    },
+    {
+      "id": "2026-10-02-science-3",
+      "source": "ScienceDaily All",
+      "time_ago": "Thu, 01 Oct 2026 08:26:47 EDT",
+      "mined_at": "2026-10-02T18:02:19+00:00",
+      "source_published_at": "Thu, 01 Oct 2026 08:26:47 EDT",
+      "image_url": "/article_images/science-s89c190ab09886147.webp",
+      "category": "Science",
+      "title": "MIND Diet Linked to Slower Brain Aging in Long-Term Study",
+      "summary": "An eating plan that blends the Mediterranean diet with a blood-pressure diet was linked to slower grey matter loss over 12 years, the equivalent of 2.5 years of delayed brain aging."
+    }
+  ]
+}

@@ -1,1 +1,37 @@
-{"articles":[{"category":"Fun","id":"2026-10-02-fun-1","image_url":"","mined_at":"2026-10-02T11:39:46.145775+00:00","source":"World Aquatics","source_published_at":"2026-10-01T19:07:04Z","summary":"The clock separated first and second place by just 0.04 seconds. McEvoy’s 20.22-second swim in Baku beat the World Cup record, while leaving his next goal—going below 20 seconds—still ahead.","time_ago":"","title":"A Tiny Winning Margin and an Eleven Year Personal Best"},{"category":"Fun","id":"2026-10-02-fun-2","image_url":"","mined_at":"2026-10-02T11:39:47.470637+00:00","source":"Japan Tennis Association","source_published_at":"2026-10-01","summary":"A 4–2 lead turned into a lost second set. Alcaraz responded to Michelsen’s strong play and unfamiliar court conditions, winning the deciding set 6–1 in his Japan Open opener.","time_ago":"","title":"A Lost Lead Gives Alcaraz a Problem to Solve"},{"category":"Fun","id":"2026-10-02-fun-3","image_url":"","mined_at":"2026-10-02T11:39:47.889511+00:00","source":"Animation World Network","source_published_at":"2026-10-01 11:30 (publisher timezone unspecified)","summary":"Hilary Duff’s CATastrophe accompanies a new preview of the animated film. The Cat’s task is to help two siblings after a move, while the full movie is scheduled for November rather than already playing.","time_ago":"","title":"A New Cat in the Hat Trailer Mixes Music With an Unusual Mission"}]}
+{
+  "articles": [
+    {
+      "id": "2026-10-02-fun-1",
+      "source": "Popular Science",
+      "time_ago": "Fri, 02 Oct 2026 13:03:00 -0400",
+      "mined_at": "2026-10-02T18:02:19+00:00",
+      "source_published_at": "Fri, 02 Oct 2026 13:03:00 -0400",
+      "image_url": "/article_images/fun-s4ba4eccbc53b6517.webp",
+      "category": "Fun",
+      "title": "Severed Robot Hand Looks Like a Futuristic Thing From The Addams Family",
+      "summary": "Engineers at ETH Zurich trained a detached robot hand to balance on its fingers, crawl across many surfaces, type and play a puzzle game, which could one day help humanoid robots."
+    },
+    {
+      "id": "2026-10-02-fun-2",
+      "source": "Billboard",
+      "time_ago": "Fri, 02 Oct 2026 17:07:38 +0000",
+      "mined_at": "2026-10-02T18:02:19+00:00",
+      "source_published_at": "Fri, 02 Oct 2026 17:07:38 +0000",
+      "image_url": "/article_images/fun-sb6701ff104ca1ec4.webp",
+      "category": "Fun",
+      "title": "Electronic Pioneer Suzanne Ciani Says \"Now I Have an Audience\"",
+      "summary": "The 80-year-old synthesizer pioneer, who created Coca-Cola's \"pop & pour\" sound, is playing her first Scotland show and a New Mexico desert festival, and says young people now share her machines."
+    },
+    {
+      "id": "2026-10-02-fun-3",
+      "source": "Billboard",
+      "time_ago": "Fri, 02 Oct 2026 17:47:50 +0000",
+      "mined_at": "2026-10-02T18:02:19+00:00",
+      "source_published_at": "Fri, 02 Oct 2026 17:47:50 +0000",
+      "image_url": "/article_images/fun-s4edd40e89c28e2f7.webp",
+      "category": "Fun",
+      "title": "Stray Kids Join BTS in Withholding Music From Grammy Consideration",
+      "summary": "Stray Kids are reportedly skipping Grammy submissions, as BTS announced in July, after the Recording Academy added a best Asian pop music performance category it says will expand recognition."
+    }
+  ]
+}

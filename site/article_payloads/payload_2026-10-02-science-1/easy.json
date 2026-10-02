@@ -1,1 +1,108 @@
-{"Article_Structure":["The observation","How scientists read light","Where heavier elements came from","What the result can and cannot show"],"background_read":[],"category":"Science","detail_status":"full","image_url":"","keywords":[{"explanation":"A large collection of stars, gas and other matter held together by gravity.","term":"galaxy"},{"explanation":"A basic type of substance, such as oxygen or carbon.","term":"element"},{"explanation":"To take in energy, such as particular wavelengths of light.","term":"absorb"}],"mined_at":"2026-10-02T12:37:30Z","perspectives":[],"questions":[{"correct_answer":"Three distant galaxies","options":["Three distant galaxies","Three nearby beaches","Three dinosaur eggs","Three weather balloons"],"question":"What did the researchers study?"},{"correct_answer":"James Webb Space Telescope","options":["James Webb Space Telescope","A classroom microscope","A submarine camera","A weather radar"],"question":"Which telescope supplied the observations?"},{"correct_answer":"They reveal elements that absorbed light","options":["They reveal elements that absorbed light","They show the size of Earth","They measure an astronaut’s age","They prove a planet has animals"],"question":"Why can missing colors in light be useful?"},{"correct_answer":"Moving out of the galaxies","options":["Moving out of the galaxies","Turning into telescope mirrors","Falling into Earth’s oceans","Standing completely still"],"question":"What did the gas appear to be doing?"},{"correct_answer":"Hydrogen and helium","options":["Hydrogen and helium","Gold and silver","Iron and copper","Carbon and silicon only"],"question":"Which elements dominated the early universe?"},{"correct_answer":"Some galaxies spread heavier elements early","options":["Some galaxies spread heavier elements early","Scientists found living things there","Every early galaxy behaved identically","The events happened on October 2"],"question":"Which conclusion is supported?"}],"source_evidence_kind":"full_text","source_evidence_word_count":1379,"source_name":"University of Arizona","source_published_at":"2026-09-24","source_url":"https://news.arizona.edu/news/jwst-finds-early-galaxies-were-already-seeding-universe-heavy-elements","source_word_count":1379,"summary":"A space telescope has helped scientists read a very old message carried by light. Three distant galaxies were already sending carbon, oxygen and other elements into nearby space when the universe was about 500 million years old.\n\nThe study appeared on September 24. ScienceDaily featured it on October 2. The galaxies did not change this week: their light has taken more than 13 billion years to reach us.\n\nResearchers used observations from the James Webb Space Telescope. As a galaxy's light passes through gas, some colors are absorbed. The missing colors help identify what the gas contains. Changes in those patterns also showed gas moving out of the galaxies.\n\nThe early universe mostly contained hydrogen and helium. Stars made heavier elements, including carbon and oxygen. When stars released material, those elements could spread and later become part of other stars and planets.\n\nThe finding helps scientists investigate how the universe changed. It does not show that life existed in these galaxies. Instead, it reveals that some important ingredients were already traveling through space surprisingly early.","title":"Early Galaxies Shared Their Elements","why_it_matters":"The study helps explain how matter became available for later stars and planets."}
+{
+  "title": "Where Did Bats Come From? Scientists Point to Europe",
+  "summary": "Bats are the only mammals that can truly fly by flapping their wings. But where did the very first bats live? Scientists have argued about this for decades. Africa, Asia and North America have all been suggested as the birthplace.\n\nNow a large international team says bats most likely began in Europe. The team included 137 researchers from 64 countries. They worked through a project called Bat1K, which aims to read the genomes of all living bat species. A genome is the full set of instructions, written in DNA, inside a living thing.\n\nThe scientists studied 103 bat genomes, including 42 new ones, covering all 21 recognized bat families. They also used evidence from 44 fossil bats. The study was published in the journal Nature.\n\nThe results suggest that bats first evolved in Europe in the late Paleocene, roughly 65 to 60 million years ago. Their descendants then moved into Africa. Later, different groups spread into the Americas, Asia and Australia. Those moves created the main kinds of bats we see around the world today.\n\nThe study also gives clues about bat abilities. A fossil bat called Vielasia sits on the oldest branch of the bat family tree. It suggests that echolocation, which means using sound to find your way and hunt in the dark, appeared close to the start of bat evolution. The evidence suggests that both flight and echolocation appeared before modern bat groups began to split apart.\n\nBats make up about one fifth of all living mammals. Scientists say the new family tree will help them learn how and where bats' special traits evolved.",
+  "why_it_matters": "Knowing where and when bats began helps scientists understand how their special traits, such as flight and echolocation, developed.",
+  "image_url": "/article_images/science-s2915bd6030823d57.webp",
+  "keywords": [
+    {
+      "term": "genomes",
+      "explanation": "A genome is the full set of DNA instructions in a living thing."
+    },
+    {
+      "term": "fossil",
+      "explanation": "The remains or traces of an ancient living thing, preserved in rock."
+    },
+    {
+      "term": "echolocation",
+      "explanation": "Using sound echoes to find your way and hunt, especially in the dark."
+    },
+    {
+      "term": "evolved",
+      "explanation": "Changed slowly over many generations to become a new kind of living thing."
+    },
+    {
+      "term": "mammals",
+      "explanation": "Animals that have fur or hair and feed their babies milk."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What special ability do bats have among mammals?",
+      "options": [
+        "They can truly fly by flapping their wings",
+        "They can breathe underwater for hours",
+        "They can live only in cold places",
+        "They can run faster than all birds"
+      ],
+      "correct_answer": "They can truly fly by flapping their wings"
+    },
+    {
+      "question": "Where does the new study say bats most likely began?",
+      "options": [
+        "North America",
+        "Asia",
+        "Europe",
+        "Africa"
+      ],
+      "correct_answer": "Europe"
+    },
+    {
+      "question": "What is Bat1K?",
+      "options": [
+        "A museum room that stores every bat fossil",
+        "A project that aims to read the genomes of all living bat species",
+        "A school contest about bats for young students",
+        "A zoo that keeps one thousand different kinds of bats"
+      ],
+      "correct_answer": "A project that aims to read the genomes of all living bat species"
+    },
+    {
+      "question": "About how long ago did bats first evolve, according to the study?",
+      "options": [
+        "Roughly 65 to 60 thousand years ago",
+        "Roughly 650 to 600 years ago",
+        "Roughly 65 to 60 million years ago",
+        "Roughly 6 to 5 million years ago"
+      ],
+      "correct_answer": "Roughly 65 to 60 million years ago"
+    },
+    {
+      "question": "What does the fossil bat Vielasia suggest?",
+      "options": [
+        "Bats first learned to fly only recently",
+        "Bats once lived only in deserts",
+        "Echolocation appeared close to the start of bat evolution",
+        "Bats used to hunt only in daylight"
+      ],
+      "correct_answer": "Echolocation appeared close to the start of bat evolution"
+    },
+    {
+      "question": "About what share of all living mammals are bats?",
+      "options": [
+        "About one hundredth",
+        "About one fifth",
+        "About one tenth",
+        "About one half"
+      ],
+      "correct_answer": "About one fifth"
+    }
+  ],
+  "background_read": [
+    "Paleocene is the name of a time in Earth's history that began after the dinosaurs died out. The late Paleocene is the later part of that time."
+  ],
+  "Article_Structure": [
+    "Opening: the question of where bats began",
+    "Who did the study and what they examined",
+    "What the results say about Europe and how bats spread",
+    "What the fossil Vielasia suggests about echolocation",
+    "Why the new family tree matters"
+  ],
+  "perspectives": [],
+  "mined_at": "2026-10-02T18:02:19+00:00",
+  "source_published_at": "Wed, 30 Sep 2026 01:12:36 EDT",
+  "source_name": "ScienceDaily Top Environment",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260929053531.htm",
+  "category": "Science",
+  "source_word_count": 580,
+  "detail_status": "full"
+}

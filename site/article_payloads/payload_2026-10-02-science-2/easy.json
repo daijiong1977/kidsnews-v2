@@ -1,1 +1,113 @@
-{"Article_Structure":["A new measurement","Why current has limits","Two different responses","What remains unproven"],"background_read":[],"category":"Science","detail_status":"full","image_url":"","keywords":[{"explanation":"A material that can carry electricity without electrical resistance under suitable conditions.","term":"superconductor"},{"explanation":"Pairs of electrons involved in superconductivity.","term":"Cooper pairs"},{"explanation":"Small magnetic structures whose movement can cause resistance.","term":"vortices"},{"explanation":"One trillionth of a second.","term":"picosecond"}],"mined_at":"2026-10-02T13:21:57.520560+00:00","perspectives":[],"questions":[{"correct_answer":"September 24, 2026","options":["September 24, 2026","October 2, 2026","September 2, 2026","October 24, 2026"],"question":"When was the study published in Nature Physics?"},{"correct_answer":"Applying brief electrical pulses","options":["Using larger samples","Applying brief electrical pulses","Raising the sample temperature","Applying a steady current"],"question":"What helped reduce the effects of moving vortices?"},{"correct_answer":"One trillionth of a second","options":["One millionth of a second","One thousandth of a second","One trillionth of a second","One billionth of a second"],"question":"How long is one picosecond?"},{"correct_answer":"It weakened gradually","options":["It weakened gradually","It stayed equally strong","It became steadily colder","It showed only a sharp change"],"question":"How did YBCO respond as current increased?"},{"correct_answer":"Cooper pairs were breaking apart","options":["Vortices had stopped forming","The sample reached room temperature","Electrical pulses became longer","Cooper pairs were breaking apart"],"question":"What did the sharp change in NbN signal?"},{"correct_answer":"The samples still needed cooling","options":["Cooling was no longer needed","The samples still needed cooling","Every current limit disappeared","Both materials behaved identically"],"question":"Which statement matches the experiment?"}],"source_evidence_kind":"full_text","source_evidence_word_count":859,"source_name":"ScienceDaily","source_published_at":"2026-10-02","source_url":"https://www.sciencedaily.com/releases/2026/09/260930225452.htm","source_word_count":859,"summary":"Scientists have used extremely short electrical pulses to explore how much current superconductors can carry. The study appeared in Nature Physics on September 24, 2026. ScienceDaily reported it on October 2.\n\nA superconductor can carry electricity without electrical resistance when it is cold enough. Inside it, electrons form Cooper pairs that work together. But even these materials have a current limit.\n\nOften, tiny magnetic structures called vortices start moving before that deeper limit is reached. Their movement causes resistance and heating. The researchers sent pulses lasting only a few picoseconds through small samples. A picosecond is one trillionth of a second. The pulses were too brief for much vortex movement.\n\nThe team tested materials called NbN and YBCO. NbN showed a sharp change after carrying more current than its usual limit. This signaled that Cooper pairs were breaking apart. YBCO weakened more gradually as current increased.\n\nThe method gives scientists another way to study the materials' inner behavior. It does not mean superconductors can carry unlimited current. The samples still needed cooling, and the result does not demonstrate superconductivity at room temperature.","title":"Tiny Pulses Test Superconductors’ Limits","why_it_matters":"Brief pulses help scientists examine behavior that slower effects can hide."}
+{
+  "title": "New Fabric \"Plant Armor\" Helps Strawberries Grow More Fruit",
+  "summary": "Strawberry plants are often attacked by insects, and farmers may use pesticides, which are chemicals that kill pests, to protect them. Researchers at North Carolina State University have developed a new fabric called Plant Armor that may help.\n\nThe fabric is placed directly over strawberry plants. Its three-dimensional structure forms a barrier that keeps insects from reaching the plants. The layered material still lets sunlight, rain and air pass through.\n\nIn tunnel field tests, strawberries covered by Plant Armor produced yields as much as 3.56 times higher than plants with no cover. The researchers say the fabric did not reduce light or harm the plants' health. Gabriel Olawuyi, a graduate research assistant and the lead author of the study, had expected a problem. He said, \"To produce fruit, plants need sunlight,\" so the team thought a darker cover might make plants grow more stems and leaves instead of fruit. But the fabric did not block the light, and fruit production went up a lot.\n\nThe fabric also kept the plants a little warmer during all three growing seasons of the study. That extra warmth helped covered plants reach the fruiting stage earlier. Because the fabric stops insects from feeding on the plants, Olawuyi said it could also reduce how much pesticide farmers need. The researchers say it may also help reduce water use.\n\nThe story behind the idea is surprising. Plant Armor grew out of research on making military uniforms more resistant to mosquito bites and making body armor more comfortable for soldiers. The study was published in the journal Agriculture.",
+  "why_it_matters": "If farmers can protect fruit from insects with a cover instead of more chemicals, they may grow more food with fewer pesticides.",
+  "image_url": "/article_images/science-s4ad5ffee3917e76f.webp",
+  "keywords": [
+    {
+      "term": "pesticides",
+      "explanation": "Chemicals that kill pests, such as insects that harm crops."
+    },
+    {
+      "term": "fabric",
+      "explanation": "Cloth made by weaving or knitting threads together."
+    },
+    {
+      "term": "yields",
+      "explanation": "The amount of fruit or crops a farm or plant produces."
+    },
+    {
+      "term": "barrier",
+      "explanation": "Something that blocks the way, like a wall."
+    },
+    {
+      "term": "growing seasons",
+      "explanation": "The parts of the year when plants grow and make fruit."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is Plant Armor?",
+      "options": [
+        "A machine that picks strawberries",
+        "A new kind of strawberry seed",
+        "A fabric placed over strawberry plants",
+        "A spray that kills all insects"
+      ],
+      "correct_answer": "A fabric placed over strawberry plants"
+    },
+    {
+      "question": "What does the fabric keep away from the plants?",
+      "options": [
+        "Insects",
+        "Rain",
+        "Sunlight",
+        "Air"
+      ],
+      "correct_answer": "Insects"
+    },
+    {
+      "question": "How much higher were yields under Plant Armor in the tests, at most?",
+      "options": [
+        "Exactly twice as high",
+        "As much as 3.56 times higher",
+        "The same as uncovered plants",
+        "About half as high"
+      ],
+      "correct_answer": "As much as 3.56 times higher"
+    },
+    {
+      "question": "What worry did Gabriel Olawuyi's team have about a darker cover?",
+      "options": [
+        "It might make strawberries turn blue",
+        "It might attract more insects to the field",
+        "It might make plants grow stems and leaves instead of fruit",
+        "It might stop farmers from walking in rows"
+      ],
+      "correct_answer": "It might make plants grow stems and leaves instead of fruit"
+    },
+    {
+      "question": "How did the fabric affect temperature?",
+      "options": [
+        "It cooled the plants every night",
+        "It kept the plants a little warmer",
+        "It made the plants freeze early",
+        "It had no effect at all"
+      ],
+      "correct_answer": "It kept the plants a little warmer"
+    },
+    {
+      "question": "What was the research behind Plant Armor first about?",
+      "options": [
+        "Building tunnels for trains",
+        "Military uniforms and body armor",
+        "Designing winter hats for farmers",
+        "Planting trees in the desert"
+      ],
+      "correct_answer": "Military uniforms and body armor"
+    }
+  ],
+  "background_read": [
+    "A field trial is a test done outdoors or in a real growing place, not just in a lab. Tunnel field tests use long covered growing tunnels."
+  ],
+  "Article_Structure": [
+    "Opening: insects and a new fabric called Plant Armor",
+    "How the fabric works",
+    "Test results and the surprise about sunlight",
+    "Extra warmth and fewer pesticides",
+    "The military research behind the idea"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Gabriel Olawuyi, lead author",
+      "description": "He said the fabric did not impede light and fruit production increased significantly, and that it could reduce the pesticides needed."
+    }
+  ],
+  "mined_at": "2026-10-02T18:02:19+00:00",
+  "source_published_at": "Thu, 01 Oct 2026 09:43:15 EDT",
+  "source_name": "ScienceDaily Top Environment",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260930020257.htm",
+  "category": "Science",
+  "source_word_count": 689,
+  "detail_status": "full"
+}

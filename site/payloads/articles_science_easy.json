@@ -1,1 +1,37 @@
-{"articles":[{"category":"Science","id":"2026-10-02-science-1","image_url":"","mined_at":"2026-10-02T12:37:30Z","source":"University of Arizona","source_published_at":"2026-09-24","summary":"Ancient light suggests that young galaxies were already sending carbon and oxygen into surrounding space. The finding helps explain how the universe gained its chemical variety.","time_ago":"","title":"Early Galaxies Shared Their Elements"},{"category":"Science","id":"2026-10-02-science-2","image_url":"","mined_at":"2026-10-02T13:21:57.520560+00:00","source":"ScienceDaily","source_published_at":"2026-10-02","summary":"Extremely brief electrical pulses reveal how two superconductors respond to strong currents. The experiment explores their inner limits while still requiring cold conditions.","time_ago":"","title":"Tiny Pulses Test Superconductors’ Limits"},{"category":"Science","id":"2026-10-02-science-3","image_url":"","mined_at":null,"source":"ScienceDaily","source_published_at":"2026-10-01","summary":"Scientists found that a small chemical group helps RNA form droplets. The research offers clues about how molecules might have gathered before cells existed.","time_ago":"","title":"A Tiny Chemical Group Helps RNA Gather"}]}
+{
+  "articles": [
+    {
+      "id": "2026-10-02-science-1",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Wed, 30 Sep 2026 01:12:36 EDT",
+      "mined_at": "2026-10-02T18:02:19+00:00",
+      "source_published_at": "Wed, 30 Sep 2026 01:12:36 EDT",
+      "image_url": "/article_images/science-s2915bd6030823d57.webp",
+      "category": "Science",
+      "title": "Where Did Bats Come From? Scientists Point to Europe",
+      "summary": "A huge international team studied bat DNA and fossils. They say bats most likely began in Europe about 65 to 60 million years ago, then spread around the world."
+    },
+    {
+      "id": "2026-10-02-science-2",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Thu, 01 Oct 2026 09:43:15 EDT",
+      "mined_at": "2026-10-02T18:02:19+00:00",
+      "source_published_at": "Thu, 01 Oct 2026 09:43:15 EDT",
+      "image_url": "/article_images/science-s4ad5ffee3917e76f.webp",
+      "category": "Science",
+      "title": "New Fabric \"Plant Armor\" Helps Strawberries Grow More Fruit",
+      "summary": "A new fabric cover keeps insects off strawberry plants but lets sunlight, rain and air through. In tests it helped plants make much more fruit."
+    },
+    {
+      "id": "2026-10-02-science-3",
+      "source": "ScienceDaily All",
+      "time_ago": "Thu, 01 Oct 2026 08:26:47 EDT",
+      "mined_at": "2026-10-02T18:02:19+00:00",
+      "source_published_at": "Thu, 01 Oct 2026 08:26:47 EDT",
+      "image_url": "/article_images/science-s89c190ab09886147.webp",
+      "category": "Science",
+      "title": "Eating Plan Linked to Slower Brain Aging, Study Finds",
+      "summary": "People who followed the MIND diet more closely lost brain tissue more slowly over about 12 years. The study found a link, but it does not prove food is the cause."
+    }
+  ]
+}

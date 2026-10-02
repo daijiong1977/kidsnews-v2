@@ -1,1 +1,127 @@
-{"Article_Structure":["Opening: the new announcement or decision.","Explanation: the central issue and relevant background.","Closing: what is still unknown or comes next."],"background_read":[],"category":"News","detail_status":"full","image_url":"","keywords":[{"explanation":"A building containing computers that support digital services.","term":"data center"}],"mined_at":"2026-10-02T12:38:02Z","perspectives":[{"description":"Says data-center growth supports economic and technological goals, and promises community investment.","perspective":"Amazon"},{"description":"Have raised concerns about power demand, utility costs and local effects.","perspective":"Communities described by Reuters"}],"questions":[{"correct_answer":"Five years","options":["Five days","One month","Fifty years","Five years"],"question":"How long is the announced spending plan?"},{"correct_answer":"Computing equipment","options":["Only sports fields","Only farm crops","Computing equipment","Only books"],"question":"What do data centers contain?"},{"correct_answer":"Built Together","options":["Ocean Watch","Built Together","School Tomorrow","World Games"],"question":"What is the program called?"},{"correct_answer":"Electricity demand and utility costs","options":["Electricity demand and utility costs","The color of notebooks","Too many library cards","Changes to football rules"],"question":"Which concern did Reuters report?"},{"correct_answer":"Education and job training","options":["A new national anthem","Replacing all schools with apps","Buying every home in America","Education and job training"],"question":"Which is a planned use of the money?"},{"correct_answer":"A promise from a measured result","options":["Summer from winter only","A headline from a name only","A promise from a measured result","A library from a bookstore only"],"question":"What should readers distinguish?"}],"source_evidence_kind":"evidence_dossier","source_evidence_word_count":126,"source_name":"Reuters via AOL","source_published_at":"2026-10-02T09:04:00Z","source_url":"https://www.aol.com/articles/amazon-invest-1-billion-over-090258000.html","source_word_count":null,"summary":"Amazon announced on October 2 that it plans to invest more than $1 billion over five years in U.S. communities where it operates data centers. The announcement comes as these large computing facilities face growing public scrutiny over electricity demand, water use and effects on nearby residents.\n\nData centers provide computing power for online services, including artificial intelligence systems. Although the services may seem invisible when someone uses an app, their equipment occupies physical buildings and depends on local infrastructure. Reuters reported that communities across the country have raised concerns about utility costs and other impacts.\n\nAmazon's program, called Built Together, sets out three broad areas of support. The company plans to help residents access education and job training, fund energy-efficiency and water projects, and provide money for priorities identified with local organizations. Amazon says participating communities will help determine how that local funding is used.\n\nIn its own announcement, the company described plans to cover remaining costs after financial aid for certain community-college certificates and degrees. It also proposed grants for energy-saving improvements in homes, schools and public buildings. These are planned programs, with rollout expected in the coming months, rather than benefits already delivered to every eligible community.\n\nAmazon Web Services chief executive Matt Garman argued that expanding data centers is important for the country's economy and future technology. The company also promised to publish information about energy and water use each year. Those statements explain Amazon's position; they do not independently establish that all concerns have been resolved.\n\nThe important distinction is between an announced commitment and a demonstrated outcome. A spending total alone cannot show whether a particular neighborhood's electricity costs, water concerns or training needs will improve. Future reporting can examine where funds go, when programs begin and what changes residents actually experience.\n\nFor students, the story connects familiar digital tools with community decisions. Schools and homes use electricity too, so planning for new computing facilities involves questions about shared resources as well as new technology.","title":"Amazon Pledges Community Funding Amid Data Center Debate","why_it_matters":"Digital services depend on physical facilities that share resources with communities."}
+{
+  "title": "Congo's Ebola Outbreak Surpasses 4,000 Deaths Amid Violence and Mistrust",
+  "summary": "The Democratic Republic of the Congo's Ebola outbreak has now recorded more than 4,000 deaths, the health ministry says, as authorities struggle to contain the virus. The latest figures, released on Thursday, show 4,018 deaths among about 8,300 confirmed cases. The outbreak, announced on May 15, is caused by the rare Bundibugyo virus, which has no known treatment or vaccine. It has become the fastest-growing Ebola outbreak in history and is now the largest ever recorded in Congo.\n\nSeveral problems are making the response harder. In Bunia, the capital of Ituri province and the heart of the outbreak, health workers gathered to demand wages they said were owed. Officials quickly dispersed them. Some of the protesters were surveillance team members, who identify people exposed to infected patients, and they held signs reading \"No money, no data!\" Front-line workers have gone on strike several times since the outbreak began.\n\nInsecurity is also a concern. A senior UN official said soldiers burned an Ebola-hit camp that housed a transit center for infected patients while they were looking for weapons near Bunia. About 19,000 people in the camp had to flee. UN Ebola coordinator Julien Harneis said building transit and treatment centers takes money and staff, which are in short supply. \"When we lose a centre, that means we lose capacity, we lose investment and we have to start again,\" he said.\n\nThe disease has also reached aid workers. Doctors Without Borders said one of its aid workers was infected and was flown to the Netherlands for treatment in a high-level isolation unit. The group says more than 50 health workers have died after contracting the virus. The World Health Organization has warned that the virus is spreading into new health zones, which stretches limited resources.\n\nThere are some signs of change. Confirmed cases have slowed, from around 850 cases and 470 deaths a week in mid-July to an average of 490 cases and 230 deaths in September. Africa CDC says the drop in newly confirmed cases could be attributed to insecurity and difficulty getting communities to cooperate. It says the spread has slowed in some areas but accelerated in others, which experts see as a delicate situation.",
+  "why_it_matters": "The story shows that stopping a disease depends on more than medicine: health workers need pay, centers need to be safe, and communities need to trust and work with responders.",
+  "image_url": "/article_images/news-sbe3341ed35e54b2c.webp",
+  "keywords": [
+    {
+      "term": "Bundibugyo virus",
+      "explanation": "A rare kind of Ebola virus that has no known treatment or vaccine, according to the story."
+    },
+    {
+      "term": "dispersed",
+      "explanation": "Sent away in different directions so a group can no longer stay together."
+    },
+    {
+      "term": "surveillance",
+      "explanation": "Careful tracking, such as identifying people exposed to infected patients."
+    },
+    {
+      "term": "transit center",
+      "explanation": "A place where infected patients stay for a short time before further care."
+    },
+    {
+      "term": "isolation unit",
+      "explanation": "A hospital area that keeps patients with serious infections apart from others."
+    },
+    {
+      "term": "delicate",
+      "explanation": "Needing careful handling because things could change quickly."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What do the latest figures from the health ministry show?",
+      "options": [
+        "8,300 deaths among about 4,018 confirmed cases",
+        "850 deaths among about 470 confirmed cases",
+        "230 deaths among about 490 confirmed cases",
+        "4,018 deaths among about 8,300 confirmed cases"
+      ],
+      "correct_answer": "4,018 deaths among about 8,300 confirmed cases"
+    },
+    {
+      "question": "What did the protesting surveillance workers' signs say?",
+      "options": [
+        "\"No money, no data!\"",
+        "\"No news, no vote!\"",
+        "\"No rest, no work!\"",
+        "\"No camps, no care!\""
+      ],
+      "correct_answer": "\"No money, no data!\""
+    },
+    {
+      "question": "What did a senior UN official say happened to the camp near Bunia?",
+      "options": [
+        "Floods washed it away last week",
+        "Doctors closed it after the cases fell",
+        "Aid workers moved it to the Netherlands",
+        "Soldiers burned it while looking for weapons"
+      ],
+      "correct_answer": "Soldiers burned it while looking for weapons"
+    },
+    {
+      "question": "According to Julien Harneis, what happens when a treatment center is lost?",
+      "options": [
+        "Patients are moved to a larger center nearby",
+        "Capacity and investment are lost and work starts again",
+        "The government pays for a new one at once",
+        "Workers quickly rebuild it with extra supplies"
+      ],
+      "correct_answer": "Capacity and investment are lost and work starts again"
+    },
+    {
+      "question": "What did Doctors Without Borders say about health workers?",
+      "options": [
+        "Most of them have left Congo for good",
+        "Only a few of them have ever been sick",
+        "More than 50 have died after contracting the virus",
+        "All of them have been vaccinated this week"
+      ],
+      "correct_answer": "More than 50 have died after contracting the virus"
+    },
+    {
+      "question": "How have confirmed cases changed since mid-July?",
+      "options": [
+        "From around 470 a week to an average of 850",
+        "From around 490 a week to an average of 850",
+        "From around 850 a week to an average of 490",
+        "From around 230 a week to an average of 470"
+      ],
+      "correct_answer": "From around 850 a week to an average of 490"
+    }
+  ],
+  "background_read": [
+    "Doctors Without Borders, also called Médecins Sans Frontières, is an international medical aid group.",
+    "Africa CDC is a health agency that supports African countries on disease problems."
+  ],
+  "Article_Structure": [
+    "Opening: the death toll and key numbers",
+    "The Bundibugyo virus and why the outbreak is so large",
+    "Pay protests and strikes among health workers",
+    "The burned camp and loss of treatment capacity",
+    "Infections among aid and health workers",
+    "Slowing cases and why experts are careful"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Julien Harneis, UN senior Ebola co-ordinator",
+      "description": "He said building transit and treatment centers is hard because money and staff are in short supply, and losing a center means starting again."
+    },
+    {
+      "perspective": "Doctors Without Borders",
+      "description": "It said the human cost of the crisis is unprecedented in the country, with communities facing the largest Ebola outbreak ever recorded there."
+    },
+    {
+      "perspective": "Africa CDC",
+      "description": "It said newly confirmed cases are falling but that could be attributed to insecurity and trouble getting communities to cooperate."
+    }
+  ],
+  "mined_at": "2026-10-02T18:02:19+00:00",
+  "source_published_at": "Fri, 02 Oct 2026 10:15:35 EDT",
+  "source_name": "CBC World",
+  "source_url": "https://www.cbc.ca/news/world/congo-outbreak-death-toll-treatment-centre-beating-9.7366690?cmp=rss",
+  "category": "News",
+  "source_word_count": 559,
+  "detail_status": "full"
+}
