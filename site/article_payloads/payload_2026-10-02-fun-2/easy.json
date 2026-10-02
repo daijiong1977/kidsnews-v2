@@ -1,117 +1,122 @@
 {
-  "title": "Engineers build a robot hand that walks like Thing",
-  "summary": "Halloween is almost here, and engineers have built a robot hand that can walk on its own. It is inspired by Thing, the creeping hand from The Addams Family. The robot hand can balance on its fingertips and creep around. It can tap keyboard keys, push small objects and even play a simple computer game while balancing on its other fingers. If it falls, it can get back up from a flat position.\n\nOther engineers have built walking robot hands before. But they had to make every finger the same length so the hand could balance. Human hands have fingers of different lengths and a thumb that faces the other fingers. That helps people use tools, but it makes walking harder.\n\nA team at the Soft Robotics Lab at ETH Zurich in Switzerland tried to solve this problem. They describe the work in a preprint, which is a paper that has not been reviewed by other scientists or accepted by a journal. The team started with a robot hand with five fingers and 20 joints that move. They added a battery, motion sensors and a tiny computer. The whole thing weighs 1.8 pounds.\n\nThe team taught the hand to balance in a computer simulation. They used reinforcement learning, which rewarded the hand each time it balanced correctly. In real tests, the hand crossed 14 different places, including carpet, gravel, grass and metal. In typing tests, it hit the right key 29 out of 32 times. It also played the puzzle game Sokoban by pressing the correct arrow keys. The team says robots working in tight spaces might one day use a hand like this to reach things.",
-  "why_it_matters": "Robots may one day work in tight places built for people. A hand that can move on its own might help them reach things, and the design could help robots handle objects made for human hands.",
-  "image_url": "/article_images/fun-sd8ed5364e2f3c69e.webp",
+  "title": "Role Model Jokes About Being Maine's Most Famous Person",
+  "summary": "Singer Role Model is probably Maine's most famous pop star right now. But is he the most famous person from Maine overall? He talked about that on the Friday premiere of the final season of Amelia Dimoldenberg's \"Chicken Shop Date.\"\n\nRole Model was born Tucker Pillsbury. On the show, he wondered whether he has the most star power of anyone from his home state. \"Anna Kendrick's from Maine,\" he pointed out. The host also noted that famous horror author Stephen King is from Maine.\n\n\"He's probably sold more stuff than me,\" Pillsbury said of King, who is one of the best-selling novelists of all time. \"Got more money.\"\n\nAfter some back-and-forth, Dimoldenberg told the singer: \"You're not as successful as Stephen King, no. That's just a fact.\"\n\n\"You're starting to hurt my feelings,\" Pillsbury replied. \"[He has a] whole different job.\"\n\nIt is still not clear who is Maine's most famous celebrity. Other possible names include actor Patrick Dempsey and sports personality Erin Andrews. Role Model may not have King's sales numbers, but he recently scored his first top 10 album on the Billboard 200 with \"Chuck Timely & The Hourglass.\" It sold 24,000 copies in the United States in its first week, according to Luminate.",
+  "why_it_matters": "Light interviews like this show how stars joke about fame and success, while the album chart shows how music success is measured.",
+  "image_url": "/article_images/fun-s9fc2419a06dfda95.webp",
   "keywords": [
     {
-      "term": "robot hand",
-      "explanation": "A machine shaped like a hand that can move on its own."
+      "term": "premiere",
+      "explanation": "The first showing of a new episode or season."
     },
     {
-      "term": "preprint",
-      "explanation": "A paper that other scientists have not yet reviewed."
+      "term": "star power",
+      "explanation": "How famous and popular a person is."
     },
     {
-      "term": "reinforcement learning",
-      "explanation": "A way of teaching software by giving rewards for correct actions."
+      "term": "horror",
+      "explanation": "A kind of story meant to be scary."
     },
     {
-      "term": "simulation",
-      "explanation": "A computer model that copies how something works."
+      "term": "novelists",
+      "explanation": "People who write novels, which are long made-up stories."
     },
     {
-      "term": "balance",
-      "explanation": "To stay steady without falling over."
+      "term": "Billboard 200",
+      "explanation": "A weekly chart of the top-selling albums in the United States."
     },
     {
-      "term": "Sokoban",
-      "explanation": "A puzzle game where you push boxes into place."
+      "term": "copies",
+      "explanation": "Single sold items, such as one album bought by one person."
     }
   ],
   "questions": [
     {
-      "question": "Which fictional character inspired the robot hand?",
+      "question": "Which show did Role Model appear on?",
       "options": [
-        "Wall-E from a Pixar film",
-        "Mickey from a cartoon",
-        "Robby from a space movie",
-        "Thing from The Addams Family"
+        "America's Got Talent",
+        "Tiny Desk",
+        "Saturday Night Live",
+        "Chicken Shop Date"
       ],
-      "correct_answer": "Thing from The Addams Family"
+      "correct_answer": "Chicken Shop Date"
     },
     {
-      "question": "Where did the engineers build the robot hand?",
+      "question": "Who is the host of the show?",
       "options": [
-        "A school in Texas",
-        "A movie studio in Hollywood",
-        "A toy factory in Florida",
-        "The Soft Robotics Lab at ETH Zurich"
+        "Dakota Johnson",
+        "Anna Kendrick",
+        "Amelia Dimoldenberg",
+        "Erin Andrews"
       ],
-      "correct_answer": "The Soft Robotics Lab at ETH Zurich"
+      "correct_answer": "Amelia Dimoldenberg"
     },
     {
-      "question": "What did the team add to the off-the-shelf robot hand?",
+      "question": "Which famous horror author did the host say is from Maine?",
       "options": [
-        "A battery, motion sensors and a tiny computer",
-        "A second thumb and a tiny engine",
-        "A light, a wrist and a long cable",
-        "Wheels, a camera and a speaker"
+        "Stephen King",
+        "Tucker Pillsbury",
+        "Anna Kendrick",
+        "Patrick Dempsey"
       ],
-      "correct_answer": "A battery, motion sensors and a tiny computer"
+      "correct_answer": "Stephen King"
     },
     {
-      "question": "How did the team teach the hand to balance?",
+      "question": "What did Pillsbury say about Stephen King?",
       "options": [
-        "By letting the hand fall many times in a gym",
-        "By copying videos of a real hand",
-        "In a computer simulation with reinforcement learning",
-        "By having people move the fingers by hand"
+        "King does not come from the state of Maine",
+        "King has probably sold more stuff than him",
+        "King has never written a best-selling book",
+        "King has sold fewer albums than him"
       ],
-      "correct_answer": "In a computer simulation with reinforcement learning"
+      "correct_answer": "King has probably sold more stuff than him"
     },
     {
-      "question": "How many times did the hand hit the right key out of 32?",
+      "question": "What did Role Model's new album achieve?",
       "options": [
-        "20",
-        "14",
-        "1.8",
-        "29"
+        "The number one album in the world",
+        "His first top 10 album on the Billboard 200",
+        "A prize for the best album cover",
+        "His first album ever to be released"
       ],
-      "correct_answer": "29"
+      "correct_answer": "His first top 10 album on the Billboard 200"
     },
     {
-      "question": "What puzzle game did the hand play?",
+      "question": "How many copies did the album sell in the United States in its first week?",
       "options": [
-        "Chess",
-        "Minesweeper",
-        "Sokoban",
-        "Tetris"
+        "Only copies sold inside Maine",
+        "Zero, because it was free online",
+        "More than any album ever",
+        "24,000"
       ],
-      "correct_answer": "Sokoban"
+      "correct_answer": "24,000"
     }
   ],
   "background_read": [
-    "Halloween is a fall holiday when people enjoy spooky stories and costumes."
+    "Maine is a state in the northeastern United States, nicknamed the Pine Tree State.",
+    "Role Model is the stage name of singer Tucker Pillsbury."
   ],
   "Article_Structure": [
-    "Opening: a Thing-inspired robot hand for Halloween",
-    "Why earlier walking robot hands needed changes",
-    "The team and the hardware they used",
-    "How the hand learned to balance",
-    "Test results and possible future uses"
+    "Opening: is Role Model Maine's most famous person?",
+    "The show and the star-power joke",
+    "Banter with the host about Stephen King",
+    "Other famous people from Maine",
+    "Role Model's top 10 album"
   ],
   "perspectives": [
     {
-      "perspective": "The researchers",
-      "description": "Write that giving robotic hands their own mobility could make future robots more versatile in spaces built for people."
+      "perspective": "Tucker Pillsbury (Role Model)",
+      "description": "He wondered if he has the most star power in Maine and said Stephen King has probably sold more than him."
+    },
+    {
+      "perspective": "Amelia Dimoldenberg, host",
+      "description": "She told him he is not as successful as Stephen King."
     }
   ],
-  "mined_at": "2026-10-02T19:13:04+00:00",
-  "source_published_at": "Fri, 02 Oct 2026 13:03:00 -0400",
-  "source_name": "Popular Science",
-  "source_url": "https://www.popsci.com/technology/robot-hand-thing-addams-family/",
+  "mined_at": "2026-10-02T23:03:11+00:00",
+  "source_published_at": "Fri, 02 Oct 2026 21:37:31 +0000",
+  "source_name": "Billboard",
+  "source_url": "https://www.billboard.com/music/pop/role-model-maine-most-famous-chicken-shop-date-video-1236353593/",
   "category": "Fun",
-  "source_word_count": 820,
+  "source_word_count": 377,
   "detail_status": "full"
 }

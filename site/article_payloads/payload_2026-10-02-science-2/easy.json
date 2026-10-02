@@ -1,111 +1,122 @@
 {
-  "title": "Sharks can hear sounds from nearly 250 feet away",
-  "summary": "The ocean is full of sound. Scientists wanted to know how far a shark swimming freely in the ocean can hear, and whether it can tell where a faraway sound comes from. A new study from Florida Atlantic University begins to answer those questions.\n\nThe researchers studied blacktip sharks in shallow coastal waters off Palm Beach County in Florida. Large numbers of these sharks gather there each winter, and the clear water let scientists watch them from above. The team placed an underwater speaker in the water. It drifted with the current as far as 19 meters from their boat. They played three groups of low-frequency sounds. They also played a control sound, which is a sound used for comparison, and it was higher than sharks are known to hear. A drone flying 40 to 50 meters above the water recorded how the sharks moved.\n\nThe sharks reacted to all three low-frequency sounds but not to the control sound. They detected the low sounds from up to 74 meters (243 feet) away. That is farther than had been shown before in free-swimming sharks. The sharks also often made quick turns away from the speaker. That means they could tell which direction the sound came from.\n\nSharks do not have a gas-filled swim bladder like many bony fish. Scientists believe sharks mostly use their inner ears. One part is called the macula neglecta, which may help them sense vibrations as sound travels through water. The study was published in Integrative Organismal Biology.",
-  "why_it_matters": "Sharks sense the world in ways people do not fully understand. Learning how they hear can help scientists understand how they find food and avoid danger.",
-  "image_url": "/article_images/science-se9dd06ab2a50f20a.webp",
+  "title": "New 'Plant Armor' Cover More Than Triples Strawberry Yields",
+  "summary": "Scientists in North Carolina have made a special fabric cover that helped strawberry plants produce more than three times as much fruit in tunnel field trials. The researchers say it may also help farmers use less water and fewer pesticides.\n\nThe fabric is called Plant Armor. It is placed directly over strawberry plants. Its three-dimensional structure forms a barrier that keeps insects from reaching the plants. The layered material still lets sunlight, rain and air pass through.\n\nIn the tunnel tests, strawberries protected by Plant Armor produced yields as much as 3.56 times higher than uncovered plants. The fabric did not reduce light or negatively affect relative humidity, which is the amount of moisture in the air.\n\n\"To produce fruit, plants need sunlight,\" said Gabriel Olawuyi, a graduate research assistant at North Carolina State University and lead author of a paper on Plant Armor. The team had expected that the seemingly opaque fabric would reduce sunlight and make plants grow more stems and leaves instead of fruit. Instead, they found the fabric did not impede access to light at all, and fruit production increased significantly.\n\nThe cover also created a steady warming effect throughout the three growing seasons. According to Olawuyi, the extra warmth helped covered plants reach the fruiting stage earlier than uncovered plants. Because Plant Armor physically prevents insects from feeding on the plants, he said it could also reduce the amount of conventional pesticides needed in fields.\n\nThe idea did not begin with farming. It came from research on making military uniforms more resistant to mosquito bites and making body armor more comfortable for soldiers. Co-author R. Michael Roe said that \"through trial and error, we arrive at a product which could triple the output of strawberry farms here in North Carolina.\" The paper is published in the journal Agriculture.",
+  "why_it_matters": "Growing more fruit while using fewer pesticides could help farmers produce food in a more efficient way, though these results come from tunnel field trials.",
+  "image_url": "/article_images/science-s4ad5ffee3917e76f.webp",
   "keywords": [
     {
-      "term": "blacktip sharks",
-      "explanation": "A kind of shark that gathers off Southeast Florida."
+      "term": "Plant Armor",
+      "explanation": "A three-dimensional fabric cover placed over strawberry plants."
     },
     {
-      "term": "underwater speaker",
-      "explanation": "A device that plays sounds under the water."
+      "term": "tunnel",
+      "explanation": "A long covered growing area used for field tests."
     },
     {
-      "term": "drone",
-      "explanation": "A flying machine without a pilot."
+      "term": "yields",
+      "explanation": "The amount of fruit that plants produce."
     },
     {
-      "term": "control sound",
-      "explanation": "A sound used for comparison in an experiment."
+      "term": "relative humidity",
+      "explanation": "The amount of moisture in the air."
     },
     {
-      "term": "swim bladder",
-      "explanation": "A gas-filled organ found in many bony fish."
+      "term": "pesticides",
+      "explanation": "Chemicals farmers use to protect plants from insects."
     },
     {
-      "term": "inner ears",
-      "explanation": "Parts inside the head that help animals sense sound and motion."
+      "term": "growing seasons",
+      "explanation": "The parts of the year when plants grow and make fruit."
     }
   ],
   "questions": [
     {
-      "question": "Which animals did the scientists study?",
+      "question": "What is Plant Armor?",
       "options": [
-        "Dolphins",
-        "Great white sharks",
-        "Blacktip sharks",
-        "Sea turtles"
+        "A fence built around a strawberry farm",
+        "A spray that keeps insects away from fields",
+        "A fabric cover placed over strawberry plants",
+        "A machine that picks ripe strawberries"
       ],
-      "correct_answer": "Blacktip sharks"
+      "correct_answer": "A fabric cover placed over strawberry plants"
     },
     {
-      "question": "What did the drone do?",
+      "question": "How did covered plants compare with uncovered plants?",
       "options": [
-        "It dropped food for the sharks",
-        "It recorded how the sharks moved",
-        "It carried sharks to a new place",
-        "It played sounds under the water"
+        "They produced slightly lower yields",
+        "They produced exactly the same amount of fruit",
+        "They produced about half as much fruit",
+        "They produced up to 3.56 times higher yields"
       ],
-      "correct_answer": "It recorded how the sharks moved"
+      "correct_answer": "They produced up to 3.56 times higher yields"
     },
     {
-      "question": "About how far away could sharks detect low sounds?",
+      "question": "What does the Plant Armor fabric let through?",
       "options": [
-        "Up to 19 meters",
-        "Up to 50 meters",
-        "Up to 74 meters (243 feet)",
-        "Up to 40 meters"
+        "Only warm air at night",
+        "Only water from sprinklers",
+        "Insects but not rainfall",
+        "Sunlight, rain and air"
       ],
-      "correct_answer": "Up to 74 meters (243 feet)"
+      "correct_answer": "Sunlight, rain and air"
     },
     {
-      "question": "What did the sharks do after the low sounds?",
+      "question": "Why could Plant Armor reduce the need for pesticides?",
       "options": [
-        "They swam in circles around the drone",
-        "Most of them stopped moving for hours",
-        "All of them swam straight to the boat",
-        "Many made quick turns away from the speaker"
+        "It makes insects fall asleep in the fields",
+        "It attracts insects to another field",
+        "It turns pesticides into plant food",
+        "It physically keeps insects from feeding on the plants"
       ],
-      "correct_answer": "Many made quick turns away from the speaker"
+      "correct_answer": "It physically keeps insects from feeding on the plants"
     },
     {
-      "question": "What was the control sound used for?",
+      "question": "How did the warming effect help covered plants?",
       "options": [
-        "To test how fast the drone could fly",
-        "To compare the sharks' reactions to sounds they cannot hear",
-        "To scare the sharks away from the beach",
-        "To call the sharks closer to the boat"
+        "They lost their leaves faster",
+        "They reached the fruiting stage earlier",
+        "They needed no water at all",
+        "They stopped growing during winter"
       ],
-      "correct_answer": "To compare the sharks' reactions to sounds they cannot hear"
+      "correct_answer": "They reached the fruiting stage earlier"
     },
     {
-      "question": "What do sharks mostly use to hear?",
+      "question": "Where did the idea for Plant Armor come from?",
       "options": [
-        "Their bright eyes",
-        "A gas-filled swim bladder",
-        "Their inner ears",
-        "Their large teeth"
+        "Research on tents that protect campers from wind",
+        "Research on rain jackets that dry quickly",
+        "Research on garden gloves that keep farmers warm",
+        "Research on mosquito-resistant uniforms and comfortable body armor"
       ],
-      "correct_answer": "Their inner ears"
+      "correct_answer": "Research on mosquito-resistant uniforms and comfortable body armor"
     }
   ],
   "background_read": [
-    "Hertz is a unit that measures how high or low a sound is. Low-frequency sounds are deep, low sounds."
+    "A tunnel field trial tests plants in covered growing areas outdoors.",
+    "Pesticides are chemicals used to protect crops from insects and other pests."
   ],
   "Article_Structure": [
-    "Opening: sound in the ocean and the question about sharks",
-    "Where and how the researchers did the test",
-    "What the sharks did and how far away they heard",
-    "How sharks hear without a swim bladder"
+    "Opening: a fabric cover boosts strawberry fruit",
+    "How Plant Armor works and what it lets through",
+    "Test results: up to 3.56 times higher yields",
+    "Why light and warmth matter, in Olawuyi's words",
+    "Where the idea came from"
   ],
-  "perspectives": [],
-  "mined_at": "2026-10-02T19:13:04+00:00",
-  "source_published_at": "Tue, 29 Sep 2026 23:58:33 EDT",
+  "perspectives": [
+    {
+      "perspective": "Gabriel Olawuyi, North Carolina State University",
+      "description": "He said the fabric did not impede light, helped plants fruit earlier and could reduce the pesticides needed."
+    },
+    {
+      "perspective": "R. Michael Roe, co-author",
+      "description": "He said the work started with making body armor more comfortable and led to a product that could triple strawberry output in North Carolina."
+    }
+  ],
+  "mined_at": "2026-10-02T23:03:11+00:00",
+  "source_published_at": "Thu, 01 Oct 2026 09:43:15 EDT",
   "source_name": "ScienceDaily Top Environment",
-  "source_url": "https://www.sciencedaily.com/releases/2026/09/260929053536.htm",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260930020257.htm",
   "category": "Science",
-  "source_word_count": 836,
+  "source_word_count": 689,
   "detail_status": "full"
 }

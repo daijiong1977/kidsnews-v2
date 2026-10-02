@@ -1,112 +1,122 @@
 {
-  "title": "NASA's Crew-13 aims for fastest U.S. trip to the space station",
-  "summary": "NASA planned to send four people to the International Space Station, and the trip could set a record. The mission is called Crew-13. A SpaceX Dragon spacecraft was scheduled to lift off at 11:10 a.m. EDT on Thursday, Oct. 1, from Cape Canaveral Space Force Station in Florida.\n\nDocking with the station was targeted for about 7 p.m. The trip from launch to docking was planned to take 7 hours and 50 minutes. If it happened as scheduled, it would be the fastest trip to the space station by a U.S. spacecraft in the station's history.\n\nFour crew members were to fly on Dragon. They are NASA astronauts Jessica Watkins and Luke Delaney, Canadian Space Agency astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov. A cosmonaut is a space traveler from Russia. They will spend an extended period aboard the station doing science and other mission activities.\n\nNASA planned to show the launch and arrival live on several platforms. After arriving, the new crew will do a brief handover with members of NASA's SpaceX Crew-12 mission. A handover is when one crew passes along information to the next. Crew-12 is expected to begin its trip back to Earth no earlier than Monday, Oct. 5. All times were Eastern and could change based on real-time operations.",
-  "why_it_matters": "Trips to the space station carry astronauts and science work to a laboratory in orbit. A faster trip would show how spaceflight planning is improving.",
-  "image_url": "/article_images/news-s5e79cf2682829e2c.webp",
+  "title": "Student Protests Disrupt Hundreds of Schools in France",
+  "summary": "Thousands of students in France have been protesting about education standards. The protests began last week in the capital, Paris, and have spread across the country. Cities including Montpellier, Nantes and Marseille have been affected.\n\nJustice Minister Gérald Darmanin said 735 of France's 3,700 schools were affected \"one way or another.\" He said the situation had \"gone from high-school student demonstrations to a public order disturbance.\" That means some protests have turned into disorder, and police have been called in.\n\nEducation Minister Édouard Geffray said the movement had been taken over by people who were not students. He told a French broadcaster that teachers had said, \"the people in front of me were not my students.\" The education ministry said \"significant damage\" had been done to school facilities, such as gates, entrances and fences. It also said at least 65 staff members were hurt.\n\nA 16-year-old protester named Lola told the AFP news agency that her school was closed that morning. She said police actions had made students angrier.\n\nThe protests come six months before France's next presidential election, a crucial time for President Emmanuel Macron.",
+  "why_it_matters": "Schools are an important public service, so large protests that close or disrupt many of them show how strongly people can disagree about education.",
+  "image_url": "/article_images/news-sa452d2282b2efb09.webp",
   "keywords": [
     {
-      "term": "International Space Station",
-      "explanation": "A large science laboratory that circles Earth."
+      "term": "protesting",
+      "explanation": "Showing in public that you disagree with something."
     },
     {
-      "term": "docking",
-      "explanation": "When one spacecraft joins to another in space."
+      "term": "education standards",
+      "explanation": "Expectations about how well schools teach students."
     },
     {
-      "term": "spacecraft",
-      "explanation": "A vehicle that travels in space."
+      "term": "public order disturbance",
+      "explanation": "A situation where crowds disrupt normal life and police are called in."
     },
     {
-      "term": "cosmonaut",
-      "explanation": "A space traveler from Russia."
+      "term": "school facilities",
+      "explanation": "Buildings and equipment at a school, such as gates and fences."
     },
     {
-      "term": "handover",
-      "explanation": "When one crew passes along information to the next."
-    },
-    {
-      "term": "mission",
-      "explanation": "A special job or trip with a goal."
+      "term": "presidential election",
+      "explanation": "A vote to choose the leader of a country."
     }
   ],
   "questions": [
     {
-      "question": "Which spacecraft was planned to carry the crew?",
+      "question": "What are the students protesting about?",
       "options": [
-        "The Space Shuttle",
-        "A Soyuz rocket",
-        "SpaceX Dragon",
-        "An Apollo capsule"
+        "School lunch menus",
+        "Summer vacation dates",
+        "Education standards",
+        "Bus ticket prices"
       ],
-      "correct_answer": "SpaceX Dragon"
+      "correct_answer": "Education standards"
     },
     {
-      "question": "How long was the trip from launch to docking planned to take?",
+      "question": "Where and when did the protests begin?",
       "options": [
-        "5 hours and 20 minutes",
-        "11 hours and 10 minutes",
-        "8 hours and 45 minutes",
-        "7 hours and 50 minutes"
+        "Last month in Nantes",
+        "This morning in Strasbourg",
+        "Last year in Marseille",
+        "Last week in Paris"
       ],
-      "correct_answer": "7 hours and 50 minutes"
+      "correct_answer": "Last week in Paris"
     },
     {
-      "question": "What would make this trip a record?",
+      "question": "How many of France's 3,700 schools were affected, according to the justice minister?",
       "options": [
-        "It would be the fastest U.S. trip to the station",
-        "It would carry the largest crew ever",
-        "It would be the first Canadian crew",
-        "It would stay the longest in space"
+        "735",
+        "1,747",
+        "700",
+        "65"
       ],
-      "correct_answer": "It would be the fastest U.S. trip to the station"
+      "correct_answer": "735"
     },
     {
-      "question": "Which space agency does Joshua Kutryk represent?",
+      "question": "Who said the movement had been taken over by non-students?",
       "options": [
-        "Roscosmos",
-        "SpaceX",
-        "Canadian Space Agency",
-        "NASA"
+        "Justice Minister Gérald Darmanin",
+        "Interior Minister Laurent Nuñez",
+        "Lola, a 16-year-old protester",
+        "Education Minister Édouard Geffray"
       ],
-      "correct_answer": "Canadian Space Agency"
+      "correct_answer": "Education Minister Édouard Geffray"
     },
     {
-      "question": "What is a cosmonaut, according to the story?",
+      "question": "What did the education ministry say about school facilities?",
       "options": [
-        "A scientist who builds Dragon",
-        "A reporter covering the launch",
-        "A flight controller at NASA",
-        "A space traveler from Russia"
+        "New buildings were opened in several cities",
+        "Extra classrooms were added for students",
+        "Repairs were finished in every school",
+        "Significant damage was done to gates, entrances and fences"
       ],
-      "correct_answer": "A space traveler from Russia"
+      "correct_answer": "Significant damage was done to gates, entrances and fences"
     },
     {
-      "question": "When is Crew-12 expected to begin its trip back to Earth?",
+      "question": "When do the protests come in relation to the election?",
       "options": [
-        "Before Crew-13 arrives",
-        "No earlier than Monday, Oct. 5",
-        "On Thursday, Oct. 1",
-        "Right after the launch"
+        "Six days after the presidential election",
+        "Two years before the next school year",
+        "Six months before the presidential election",
+        "During the counting of all the votes"
       ],
-      "correct_answer": "No earlier than Monday, Oct. 5"
+      "correct_answer": "Six months before the presidential election"
     }
   ],
   "background_read": [
-    "The International Space Station is a laboratory where astronauts live and work while it orbits Earth."
+    "France's president is elected in a national vote, and the next presidential election is about six months away.",
+    "Ministers are government leaders who are in charge of areas such as justice, education and the interior."
   ],
   "Article_Structure": [
-    "Opening: NASA plans a record-fast trip",
-    "Launch time and place",
-    "Docking plan and trip length",
-    "The four crew members",
-    "Live coverage and the handover with Crew-12"
+    "Opening: students protest about education standards",
+    "What officials say: the number of schools affected",
+    "Education minister and ministry: who is involved and what damage was reported",
+    "A student's view",
+    "Timing: protests six months before the presidential election"
   ],
-  "perspectives": [],
-  "mined_at": "2026-10-02T19:13:04+00:00",
-  "source_published_at": "Wed, 30 Sep 2026 04:36:42 EDT",
-  "source_name": "ScienceDaily All",
-  "source_url": "https://www.sciencedaily.com/releases/2026/09/260930020312.htm",
+  "perspectives": [
+    {
+      "perspective": "Gérald Darmanin, Justice Minister",
+      "description": "He said the situation had gone from high-school student demonstrations to a public order disturbance."
+    },
+    {
+      "perspective": "Édouard Geffray, Education Minister",
+      "description": "He said the movement had been taken over by people who were not students."
+    },
+    {
+      "perspective": "Lola, 16-year-old protester",
+      "description": "She said her school was closed and that police actions had made students angrier."
+    }
+  ],
+  "mined_at": "2026-10-02T23:03:11+00:00",
+  "source_published_at": "Fri, 02 Oct 2026 21:13:27 GMT",
+  "source_name": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
   "category": "News",
-  "source_word_count": 362,
+  "source_word_count": 355,
   "detail_status": "full"
 }

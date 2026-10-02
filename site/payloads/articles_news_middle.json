@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-10-02-news-1",
-      "source": "CBC World",
-      "time_ago": "Fri, 02 Oct 2026 10:15:35 EDT",
-      "mined_at": "2026-10-02T19:13:04+00:00",
-      "source_published_at": "Fri, 02 Oct 2026 10:15:35 EDT",
-      "image_url": "/article_images/news-sbe3341ed35e54b2c.webp",
+      "source": "PBS NewsHour",
+      "time_ago": "Fri, 02 Oct 2026 17:45:09 -0400",
+      "mined_at": "2026-10-02T23:03:11+00:00",
+      "source_published_at": "Fri, 02 Oct 2026 17:45:09 -0400",
+      "image_url": "/article_images/news-s42d03f43b138e60b.webp",
       "category": "News",
-      "title": "Congo's Ebola outbreak tops 4,000 deaths as unrest and mistrust grow",
-      "summary": "Congo's Ebola outbreak has recorded more than 4,000 deaths and is the fastest-growing in history. The rare Bundibugyo virus has no known treatment or vaccine, and strikes, unpaid wages and violence are hampering the response."
+      "title": "Supreme Court Term to Tackle Climate, Gun and Emergency Cases",
+      "summary": "The Supreme Court's new term includes a climate lawsuit against oil companies and a challenge to an Illinois assault weapons ban, plus fast rulings on its emergency docket."
     },
     {
       "id": "2026-10-02-news-2",
-      "source": "CBC World",
-      "time_ago": "Fri, 02 Oct 2026 07:02:33 EDT",
-      "mined_at": "2026-10-02T19:13:04+00:00",
-      "source_published_at": "Fri, 02 Oct 2026 07:02:33 EDT",
-      "image_url": "/article_images/news-s037f181bf736ee3f.webp",
+      "source": "BBC News",
+      "time_ago": "Fri, 02 Oct 2026 20:25:19 GMT",
+      "mined_at": "2026-10-02T23:03:11+00:00",
+      "source_published_at": "Fri, 02 Oct 2026 20:25:19 GMT",
+      "image_url": "/article_images/news-scaae385ae0ce9488.webp",
       "category": "News",
-      "title": "Violent protests in France over education close nearly 400 schools",
-      "summary": "About 400 schools in France are expected to remain closed Friday after protests over teacher shortages and run-down buildings turned violent. The justice minister says 2,000 people have been arrested since the protests began."
+      "title": "G7 to Release 100 Million Barrels of Oil and Diesel to Ease Prices",
+      "summary": "The G7 agreed to release 100 million barrels of oil and diesel through the IEA after President Trump threatened a U.S. diesel export ban."
     },
     {
       "id": "2026-10-02-news-3",
-      "source": "ScienceDaily All",
-      "time_ago": "Wed, 30 Sep 2026 04:36:42 EDT",
-      "mined_at": "2026-10-02T19:13:04+00:00",
-      "source_published_at": "Wed, 30 Sep 2026 04:36:42 EDT",
-      "image_url": "/article_images/news-s5e79cf2682829e2c.webp",
+      "source": "BBC News",
+      "time_ago": "Fri, 02 Oct 2026 21:13:27 GMT",
+      "mined_at": "2026-10-02T23:03:11+00:00",
+      "source_published_at": "Fri, 02 Oct 2026 21:13:27 GMT",
+      "image_url": "/article_images/news-sa452d2282b2efb09.webp",
       "category": "News",
-      "title": "NASA's Crew-13 could make the fastest U.S. trip to the ISS ever",
-      "summary": "NASA's Crew-13 mission was set to launch Thursday and could dock at the International Space Station in 7 hours and 50 minutes, the fastest U.S. trip ever. Four crew members will spend an extended period aboard the station."
+      "title": "Student Protests Over Education Standards Disrupt 700+ French Schools",
+      "summary": "Protests over education standards have spread across France and disrupted more than 700 schools, while ministers describe damage to school facilities and a growing disturbance."
     }
   ]
 }

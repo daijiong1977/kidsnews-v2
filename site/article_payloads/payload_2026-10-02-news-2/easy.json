@@ -1,125 +1,118 @@
 {
-  "title": "France closes nearly 400 schools after violent education protests",
-  "summary": "About 400 schools in France are expected to stay closed on Friday. Students have been protesting about problems in their schools, and in some places the protests have turned violent.\n\nThe protests are about teacher shortages and old, damaged school buildings. They began in the Paris region last month and have spread across the country. Dozens of people have been injured, and police have made hundreds of arrests. The protests and blockades have also become a political flashpoint, which means a point of strong disagreement. The government announced spending cuts in its 2027 budget on Thursday.\n\nJustice Minister Gérald Darmanin told RTL radio, \"There is an active and violent minority ... We're not entirely sure that they are even high school students themselves.\" He said 2,000 people had been arrested since the protests began, with about two-thirds placed in police custody, which means they were held by police.\n\nEducation Minister Édouard Geffray said \"a little over 400 schools and other educational establishments\" would stay closed on Friday. Some of the worst unrest on Thursday was in Marseille, France's second largest city. Public transport there was suspended after staff members were injured. A school was set on fire in the city of Nantes, and another school had fire damage in Le Havre.\n\nIn Saint-Denis, near Paris, crowds of young people gathered in front of police. One student held up a sign that read, \"Can we explain ourselves without being tear gassed?\" Geffray said he would meet representatives of staff unions, parent associations and student associations on Friday.",
-  "why_it_matters": "Schools are an important part of daily life. This story shows how problems like teacher shortages and damaged buildings can lead to strong protests, and why leaders and students need peaceful ways to talk.",
-  "image_url": "/article_images/news-s037f181bf736ee3f.webp",
+  "title": "G7 Nations to Release 100 Million Barrels of Oil and Diesel",
+  "summary": "Leaders of the G7, a group of major economies, have agreed to release 100 million barrels of oil and diesel. A barrel is a unit used to measure oil. The goal is to ease supply problems that have made fuel prices rise sharply.\n\nThe G7 includes the United States, the United Kingdom, Canada, Japan, Germany, Italy and France. The European Union also takes part in its meetings. The group said the release will include a \"substantial release\" of diesel in the coming days.\n\nDiesel is a fuel used by trucks, farms and many businesses. When diesel costs more, the price of food and other essentials can also go up. President Donald Trump had threatened to ban diesel exports from the U.S. That could have lowered prices for U.S. consumers before November's midterm elections, but it would have raised prices elsewhere.\n\nAfter a meeting led by French President Emmanuel Macron, the G7 agreed to release up to 100 million barrels within four months. The International Energy Agency, or IEA, will coordinate the effort. The plan includes a large diesel release within the first 20 days. G7 members also agreed not to place export restrictions on each other's energy products.\n\nMacron said the action should help bring down prices for petroleum products, especially diesel. Trump later said an export ban was \"never really on the table.\" The price of Brent crude oil, a global benchmark, briefly dropped below $100 a barrel but rose back to around $102. Before the U.S. and Israel invaded Iran, it was trading at around $73. Oil analyst Matt Smith said prices rose again after reports of renewed strikes between Saudi Arabia and the Houthis in Yemen.",
+  "why_it_matters": "Fuel prices affect the cost of moving goods, so decisions about oil and diesel can reach what families pay for food and other essentials.",
+  "image_url": "/article_images/news-scaae385ae0ce9488.webp",
   "keywords": [
     {
-      "term": "protests",
-      "explanation": "Public actions where people show they disagree with something."
+      "term": "G7",
+      "explanation": "A group of seven large economies that meet to talk about world issues."
     },
     {
-      "term": "teacher shortages",
-      "explanation": "Not having enough teachers for schools."
+      "term": "barrel",
+      "explanation": "A unit used to measure oil."
     },
     {
-      "term": "political flashpoint",
-      "explanation": "A point of strong disagreement that draws a lot of attention."
+      "term": "diesel",
+      "explanation": "A fuel used by trucks, farms and many businesses."
     },
     {
-      "term": "arrests",
-      "explanation": "When police take people into their control for a possible crime."
+      "term": "export restrictions",
+      "explanation": "Rules that limit how much of a product one country can sell to others."
     },
     {
-      "term": "custody",
-      "explanation": "Being held by police."
-    },
-    {
-      "term": "budget",
-      "explanation": "A plan for how a government will spend money."
+      "term": "International Energy Agency",
+      "explanation": "The group that will coordinate the oil release."
     }
   ],
   "questions": [
     {
-      "question": "Where did the protests begin?",
+      "question": "How much oil and diesel did the G7 agree to release?",
       "options": [
-        "Le Havre",
-        "Marseille",
-        "Nantes",
-        "The Paris region"
+        "20 million barrels",
+        "73 million barrels",
+        "100 million barrels",
+        "102 million barrels"
       ],
-      "correct_answer": "The Paris region"
+      "correct_answer": "100 million barrels"
     },
     {
-      "question": "How many people have been arrested since the protests began, according to the justice minister?",
+      "question": "Why does the price of diesel matter for food costs?",
       "options": [
-        "Hundreds",
-        "Dozens",
-        "400",
-        "2,000"
+        "Diesel is an ingredient in many packaged foods",
+        "Trucks and farms use diesel, so costs can rise",
+        "Stores pay a special tax on all diesel food",
+        "Farmers sell diesel to families at stores"
       ],
-      "correct_answer": "2,000"
+      "correct_answer": "Trucks and farms use diesel, so costs can rise"
     },
     {
-      "question": "What are the protests about?",
+      "question": "Who coordinates the release of the oil?",
       "options": [
-        "Changes to the school year and exams",
-        "Higher bus fares and longer school holidays",
-        "New rules about school uniforms and lunches",
-        "Teacher shortages and old, damaged school buildings"
+        "The European Union alone",
+        "The Brent crude committee",
+        "The White House staff",
+        "The International Energy Agency"
       ],
-      "correct_answer": "Teacher shortages and old, damaged school buildings"
+      "correct_answer": "The International Energy Agency"
     },
     {
-      "question": "What did the government announce on Thursday?",
+      "question": "How long will the release take, according to the plan?",
       "options": [
-        "A plan to hire many new teachers",
-        "Spending cuts in its 2027 budget",
-        "New school buildings across Paris",
-        "A ban on all student protests"
+        "Until the midterm elections",
+        "Up to four months",
+        "About one full year",
+        "Just a single week"
       ],
-      "correct_answer": "Spending cuts in its 2027 budget"
+      "correct_answer": "Up to four months"
     },
     {
-      "question": "What did the student's sign in Saint-Denis ask?",
+      "question": "What did the G7 agree not to do to each other?",
       "options": [
-        "Whether teachers will get higher pay",
-        "Whether schools can reopen on Friday",
-        "Whether buses will run again",
-        "Whether students can explain themselves without being tear gassed"
+        "Place export restrictions on energy products",
+        "Use diesel in farm equipment",
+        "Sell any oil to other countries",
+        "Hold meetings about fuel prices"
       ],
-      "correct_answer": "Whether students can explain themselves without being tear gassed"
+      "correct_answer": "Place export restrictions on energy products"
     },
     {
-      "question": "Who said he would meet unions, parents and students on Friday?",
+      "question": "What did Trump say about a diesel export ban after the meeting?",
       "options": [
-        "A teacher in Marseille",
-        "Education Minister Édouard Geffray",
-        "Justice Minister Gérald Darmanin",
-        "The fire crews in Nantes"
+        "It would last for several months",
+        "It was proposed by the whole G7",
+        "It was never really on the table",
+        "It would begin the very next day"
       ],
-      "correct_answer": "Education Minister Édouard Geffray"
+      "correct_answer": "It was never really on the table"
     }
   ],
   "background_read": [
-    "France is a country in Western Europe. Marseille, Nantes, Le Havre and Saint-Denis are cities there."
+    "Oil is refined into fuels such as diesel and gasoline.",
+    "Brent crude is a global benchmark, which means a price many people use to compare oil costs."
   ],
   "Article_Structure": [
-    "Opening: about 400 schools stay closed",
-    "What the protests are about and how they spread",
-    "Comments from the justice minister",
-    "Comments from the education minister and where the unrest happened",
-    "Closing: a student's sign and a planned meeting"
+    "Opening: the G7 agrees to release oil and diesel",
+    "Who is in the G7 and why diesel matters",
+    "The plan: 100 million barrels over four months",
+    "Reactions from Macron and Trump",
+    "Oil prices and what comes next"
   ],
   "perspectives": [
     {
-      "perspective": "Gérald Darmanin, Justice Minister",
-      "description": "Said an active and violent minority is involved and that it is no longer simply a protest issue."
+      "perspective": "Emmanuel Macron, French President",
+      "description": "He said the action should help bring down the prices of petroleum products, especially diesel."
     },
     {
-      "perspective": "Édouard Geffray, Education Minister",
-      "description": "Said a little over 400 schools would stay closed and that he would meet staff, parent and student groups."
-    },
-    {
-      "perspective": "A student in Saint-Denis",
-      "description": "Held up a sign asking whether students can explain themselves without being tear gassed."
+      "perspective": "Donald Trump, U.S. President",
+      "description": "He later said a diesel export ban was never really on the table."
     }
   ],
-  "mined_at": "2026-10-02T19:13:04+00:00",
-  "source_published_at": "Fri, 02 Oct 2026 07:02:33 EDT",
-  "source_name": "CBC World",
-  "source_url": "https://www.cbc.ca/news/world/france-school-protests-9.7366549?cmp=rss",
+  "mined_at": "2026-10-02T23:03:11+00:00",
+  "source_published_at": "Fri, 02 Oct 2026 20:25:19 GMT",
+  "source_name": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
   "category": "News",
-  "source_word_count": 355,
+  "source_word_count": 580,
   "detail_status": "full"
 }

@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-10-02-science-1",
-      "source": "ScienceDaily All",
-      "time_ago": "Thu, 01 Oct 2026 00:45:26 EDT",
-      "mined_at": "2026-10-02T19:13:04+00:00",
-      "source_published_at": "Thu, 01 Oct 2026 00:45:26 EDT",
-      "image_url": "/article_images/science-sfdf299916b38dfa0.webp",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Wed, 30 Sep 2026 01:12:36 EDT",
+      "mined_at": "2026-10-02T23:03:11+00:00",
+      "source_published_at": "Wed, 30 Sep 2026 01:12:36 EDT",
+      "image_url": "/article_images/science-s2915bd6030823d57.webp",
       "category": "Science",
-      "title": "Scientists find a possible weak spot in a top Alzheimer's risk gene",
-      "summary": "Two new studies suggest the Alzheimer's risk gene APOE4 can turn blood-vessel support cells into scar-making cells. Blocking one signal reversed the damage in mice."
+      "title": "Bats May Have First Appeared in Europe, Study Says",
+      "summary": "A huge study of bat genomes and fossils suggests bats first evolved in Europe about 65 million years ago, and that flight and echolocation appeared early."
     },
     {
       "id": "2026-10-02-science-2",
       "source": "ScienceDaily Top Environment",
-      "time_ago": "Tue, 29 Sep 2026 23:58:33 EDT",
-      "mined_at": "2026-10-02T19:13:04+00:00",
-      "source_published_at": "Tue, 29 Sep 2026 23:58:33 EDT",
-      "image_url": "/article_images/science-se9dd06ab2a50f20a.webp",
+      "time_ago": "Thu, 01 Oct 2026 09:43:15 EDT",
+      "mined_at": "2026-10-02T23:03:11+00:00",
+      "source_published_at": "Thu, 01 Oct 2026 09:43:15 EDT",
+      "image_url": "/article_images/science-s4ad5ffee3917e76f.webp",
       "category": "Science",
-      "title": "Sharks can hear sounds from nearly 250 feet away",
-      "summary": "Florida scientists used an underwater speaker and a drone to test blacktip sharks. The sharks noticed low sounds from up to 243 feet away and often turned away from the source."
+      "title": "New 'Plant Armor' Cover More Than Triples Strawberry Yields",
+      "summary": "A three-dimensional fabric placed over strawberry plants blocked insects and raised yields by up to 3.56 times in tunnel trials, without harming plant health."
     },
     {
       "id": "2026-10-02-science-3",
       "source": "Popular Science",
       "time_ago": "Fri, 02 Oct 2026 11:59:51 -0400",
-      "mined_at": "2026-10-02T19:13:04+00:00",
+      "mined_at": "2026-10-02T23:03:11+00:00",
       "source_published_at": "Fri, 02 Oct 2026 11:59:51 -0400",
-      "image_url": "/article_images/science-sbe2f3eb25f5f34f7.webp",
+      "image_url": "/article_images/science-sec4bc2bf8dc3759b.webp",
       "category": "Science",
-      "title": "Why big female pythons may matter most in Florida",
-      "summary": "Florida hunts invasive Burmese pythons all year, but a new study says choosing targets carefully may work better. Researchers suggest focusing on large adult females, which lay around 70 eggs at a time."
+      "title": "Big Female Pythons Cause the Most Trouble in Florida",
+      "summary": "A new scoring system suggests hunters should target large adult female Burmese pythons, and that winter hunts may be more effective than summer ones."
     }
   ]
 }

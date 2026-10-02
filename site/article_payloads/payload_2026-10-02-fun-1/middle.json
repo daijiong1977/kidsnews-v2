@@ -1,117 +1,117 @@
 {
-  "title": "First trailer for Lionel Messi's animated show 'Messi and the Giants' features music from Luck Ra",
-  "summary": "Lionel Messi is bringing his soccer legacy to a fantastical new world. Messi and the Giants, an animated Disney sports-fantasy series executive produced by the global soccer icon, revealed its first teaser on Friday, Oct. 2, at San Diego Comic-Con Málaga in Spain.\n\nThe series' theme song, \"Vamos, Vamos, Vamos,\" was recorded by four-time Billboard Argentina Hot 100 chart-topper Luck Ra, whose track is featured in the teaser. The presentation, held before more than 3,000 fans in Hall M, offered a first look at the series' mythology, characters and music.\n\nMessi and the Giants follows Leo, a 12-year-old boy who becomes trapped in an alternate reality ruled by giants. To return home, he must \"compete in high-stakes, soccer-like battles using powerful 'orbs,' defeat legendary giants, and restore the fractured realms of 'Iko,'\" according to the press release. \"Unlike everyone else, Leo can't use the world's code powers to supercharge his game, so he relies on his real strengths - skill, teamwork and determination - turning the story into an underdog adventure about courage, perseverance and believing in yourself.\" Argentinian actor Milo Burgess-Webb will voice Leo.\n\nThe Comic-Con Málaga panel included executive producers Lacey Stanton and Bryan Korn of Sony Pictures Television, director Dan Creteur of Atlantis Studios and Sergi Reitg of Sony Music Vision. Atlantis Animation is in charge of the series' animation. Messi also serves as an executive producer.\n\nThe series is set to premiere globally on Disney+ in summer 2027, with Disney Channel also scheduled to air the show in the U.S.",
-  "why_it_matters": "The show mixes sports and fantasy to tell a story about courage and teamwork, and it shows how a famous athlete can help create stories for young audiences.",
-  "image_url": "/article_images/fun-sfd732aa1ccb45201.webp",
+  "title": "Robot Hand Walks, Types and Plays Games on Its Fingers",
+  "summary": "Halloween is near, and engineers have built a robot hand that looks like Thing, the creepy walking hand from The Addams Family. This fully articulated hand can balance on its own fingertips and creep around. It also has enough finesse to tap keyboard keys, push small objects and even play a basic computer game while balancing on its remaining fingers.\n\nThis is not the first walking robot hand. Past efforts mostly worked, but they required changing the hand's structure so every finger was the same length, which was a significant design compromise. Human hands are defined by uneven fingers and an opposite thumb. That asymmetry helps us handle many tools, but it is not well suited for upright walking.\n\nA team from the Soft Robotics Lab at ETH Zurich in Switzerland set out to solve this very specific problem. They describe their work in a recent preprint, a paper that has not undergone peer review or been accepted for publication in a scientific journal. The team started with an off-the-shelf mechanical hand designed for humanoid robots, with five fingers and 20 actuated joints. Then they added a battery, several motion sensors and a tiny computer to the back of the robot. With these additions, the whole thing weighs 1.8 pounds.\n\nNext, the team taught the hand to balance, a first step toward walking. They trained it in a simulation environment using reinforcement learning, where the software rewarded the hand every time it correctly balanced on its uneven fingers. The training also taught the software each finger's unique timing.\n\nThe team then put the hand through real-world field tests. The hand traversed 14 different indoor and outdoor environments with a variety of surface textures. It moved across carpet, gravel, grass and metal with a springy, spider-like gait. The robot hand could also balance on several fingers while using the remaining ones to push a small cube forward or type on a keyboard. In testing, it correctly hit keys 29 out of 32 times. It was even able to play the puzzle-solving video game Sokoban by pressing the correct arrow keys in sequence.\n\nThe team notes that these features may serve a more important purpose than making a Halloween decoration. In the future, humanoid robots working in cramped areas could reach toward a spot they cannot get to, detach their hand and send it crawling off to retrieve an item. That is an unsettling image, but it could also mean the end of annoyingly lost screwdrivers. \"Giving robotic hands their own mobility could make future robots more versatile in the spaces and interfaces built for people,\" the researchers write in the paper.",
+  "why_it_matters": "Giving robot hands their own mobility could help future robots work in spaces and with tools made for people, as the researchers suggest.",
+  "image_url": "/article_images/fun-sfc818c49bc1bd892.webp",
   "keywords": [
     {
-      "term": "executive produced",
-      "explanation": "Helped oversee how a show is made."
+      "term": "preprint",
+      "explanation": "A science paper that has not yet been checked by other scientists or published in a journal."
     },
     {
-      "term": "teaser",
-      "explanation": "A short preview of a show."
+      "term": "off-the-shelf",
+      "explanation": "Ready-made and already available to buy."
     },
     {
-      "term": "mythology",
-      "explanation": "The background stories and rules of an imaginary world."
+      "term": "actuated joints",
+      "explanation": "Joints that are moved by motors."
     },
     {
-      "term": "alternate reality",
-      "explanation": "A different world from the one we live in."
+      "term": "reinforcement learning",
+      "explanation": "A way to teach software by giving rewards for good results."
     },
     {
-      "term": "underdog",
-      "explanation": "Someone not expected to win."
+      "term": "gait",
+      "explanation": "The way a person or robot walks."
     },
     {
-      "term": "perseverance",
-      "explanation": "Not giving up when things are hard."
+      "term": "humanoid robots",
+      "explanation": "Robots built to have a human-like shape."
     }
   ],
   "questions": [
     {
-      "question": "What kind of series is Messi and the Giants?",
+      "question": "Why was it a design compromise to make every finger the same length?",
       "options": [
-        "An animated Disney sports-fantasy series",
-        "A news show about the World Cup",
-        "A cooking show hosted by Messi",
-        "A live-action soccer documentary"
+        "Human hands naturally have uneven fingers and an opposite thumb",
+        "It made the fingers too short to reach a keyboard",
+        "It meant the hand could only be built at night",
+        "It made the hand unable to hold any battery"
       ],
-      "correct_answer": "An animated Disney sports-fantasy series"
+      "correct_answer": "Human hands naturally have uneven fingers and an opposite thumb"
     },
     {
-      "question": "Who recorded the theme song \"Vamos, Vamos, Vamos\"?",
+      "question": "Which parts did the team add to the back of the mechanical hand?",
       "options": [
-        "Lionel Messi",
-        "Sergi Reitg",
-        "Kurt Mueller",
-        "Luck Ra"
+        "A camera, a speaker and a small screen",
+        "A battery, several motion sensors and a tiny computer",
+        "A solar panel, a wheel and a light bulb",
+        "A motor, a spring and a set of tools"
       ],
-      "correct_answer": "Luck Ra"
+      "correct_answer": "A battery, several motion sensors and a tiny computer"
     },
     {
-      "question": "About how many fans were at the presentation in Hall M?",
+      "question": "How was the software rewarded during training?",
       "options": [
-        "Just the cast and crew",
-        "Only a few dozen",
-        "More than 3,000",
-        "Around a hundred"
+        "Every time the hand walked faster than it had before",
+        "Every time a person pressed a button on a keyboard",
+        "Every time the hand correctly balanced on its uneven fingers",
+        "Every time the hand picked up a heavy object"
       ],
-      "correct_answer": "More than 3,000"
+      "correct_answer": "Every time the hand correctly balanced on its uneven fingers"
     },
     {
-      "question": "What happens to Leo at the start of the story?",
+      "question": "How did the hand move across carpet, gravel, grass and metal?",
       "options": [
-        "He becomes trapped in an alternate reality ruled by giants",
-        "He moves to a new town in Spain",
-        "He wins a trophy at a soccer tournament",
-        "He meets Lionel Messi at a stadium"
+        "With a smooth slide like an ice skater",
+        "With a slow rolling motion on wheels",
+        "With long jumps like a kangaroo",
+        "With a springy, spider-like gait"
       ],
-      "correct_answer": "He becomes trapped in an alternate reality ruled by giants"
+      "correct_answer": "With a springy, spider-like gait"
     },
     {
-      "question": "According to the press release, why can't Leo use code powers?",
+      "question": "Which video game did the hand play?",
       "options": [
-        "Because he forgot how to use them",
-        "Unlike everyone else, he can't use the world's code powers",
-        "Because his teammates would not share them",
-        "Because the giants took them away"
+        "A racing game played with a toy steering wheel",
+        "A word game played with the whole alphabet",
+        "A music game played by hitting a drum pad",
+        "Sokoban, by pressing the correct arrow keys in sequence"
       ],
-      "correct_answer": "Unlike everyone else, he can't use the world's code powers"
+      "correct_answer": "Sokoban, by pressing the correct arrow keys in sequence"
     },
     {
-      "question": "Which company's channel will air the show in the U.S.?",
+      "question": "What possible future use does the team describe?",
       "options": [
-        "Billboard",
-        "Sony Pictures",
-        "Disney Channel",
-        "Atlantis Animation"
+        "A robot hand that helps visitors find a way in a museum",
+        "A robot that teaches new students how to type on keyboards",
+        "A humanoid robot detaching its hand to retrieve an item from a cramped spot",
+        "A robot using its hand to paint pictures at a home"
       ],
-      "correct_answer": "Disney Channel"
+      "correct_answer": "A humanoid robot detaching its hand to retrieve an item from a cramped spot"
     }
   ],
   "background_read": [
-    "Comic-Con is a convention where fans and creators share news about shows, movies and comics."
+    "The Addams Family is a spooky family from TV and movies. Thing is a hand that walks around on its own."
   ],
   "Article_Structure": [
-    "Opening: Messi brings soccer to a fantasy world",
-    "Theme song and presentation details",
-    "Plot: Leo and the giants",
-    "The production team at the panel",
-    "Premiere plans"
+    "Opening: a Halloween-style robot hand inspired by Thing",
+    "Why uneven fingers make upright walking hard",
+    "How the ETH Zurich team built and trained the hand",
+    "Field tests: surfaces, pushing a cube, typing and Sokoban",
+    "Possible uses and the researchers' quote"
   ],
   "perspectives": [
     {
-      "perspective": "The press release",
-      "description": "Describes the show as an underdog adventure about courage, perseverance and believing in yourself."
+      "perspective": "The researchers, in their paper",
+      "description": "They write that giving robotic hands their own mobility could make future robots more versatile in spaces and interfaces built for people."
     }
   ],
-  "mined_at": "2026-10-02T19:13:04+00:00",
-  "source_published_at": "Fri, 02 Oct 2026 18:24:01 +0000",
-  "source_name": "Billboard",
-  "source_url": "https://www.billboard.com/culture/tv-film/lionel-messi-messi-and-the-giants-trailer-luck-ra-theme-song-1236353291/",
+  "mined_at": "2026-10-02T23:03:11+00:00",
+  "source_published_at": "Fri, 02 Oct 2026 13:03:00 -0400",
+  "source_name": "Popular Science",
+  "source_url": "https://www.popsci.com/technology/robot-hand-thing-addams-family/",
   "category": "Fun",
-  "source_word_count": 359,
+  "source_word_count": 820,
   "detail_status": "full"
 }

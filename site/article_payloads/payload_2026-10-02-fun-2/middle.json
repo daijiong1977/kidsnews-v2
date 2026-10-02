@@ -1,118 +1,121 @@
 {
-  "title": "This walking robot hand looks like a futuristic Thing from 'The Addams Family'",
-  "summary": "Halloween is just around the corner, which makes it a good time to meet an Addams Family-inspired robot hand. Like Thing, the gothic sitcom's famous hand, this fully articulated hand can balance on its own fingertips and creep around. It goes a step further, too. It can tap keyboard keys, push small objects and even play a rudimentary computer game while balancing on its remaining fingers. It can also recover from a fall and lift itself up from a flat position.\n\nThis is not the first time engineers have tried a walking robot hand. Past efforts mostly worked, but they required altering the hand's structure, making each finger the same length so it could balance. Human hands are defined by their uneven fingers and opposite thumb. That asymmetry partly explains why we are so adept at handling many tools, but it is not well suited for upright walking.\n\nA team of engineers from the Soft Robotics Lab at ETH Zurich in Switzerland set out to solve that problem, as they describe in a recent preprint, which is a paper that has not undergone peer review or been accepted for publication in a scientific journal. The team started with an off-the-shelf mechanical hand designed for humanoid robots, with five fingers and 20 actuated joints. They mounted a battery, several motion sensors and a tiny computer near where the hand would normally connect to a wrist. With these additions, the whole thing weighs 1.8 pounds.\n\nThe team trained the hand in a simulation environment using reinforcement learning, where the software rewarded the hand every time it correctly balanced on its uneven fingers. Every finger was assigned its own target position, so where and when each one moved varied depending on the task.\n\nIn real-world field tests, the hand traversed 14 different indoor and outdoor environments, crossing carpet, gravel, grass and metal with a springy, spider-like gait. It could also balance on several fingers while using the others to push a small cube forward. In testing, it correctly hit keys 29 out of 32 times while typing. It was even able to play the puzzle-solving video game Sokoban by pressing the correct arrow keys in sequence.\n\nThe team notes that these abilities may serve a purpose beyond a Halloween decoration. In the future, humanoid robots working in cramped areas could reach toward a spot they cannot get to, detach their hand, and send it off to retrieve an item. \"Giving robotic hands their own mobility could make future robots more versatile in the spaces and interfaces built for people,\" the researchers write in the paper.",
-  "why_it_matters": "The work explores how robots could handle spaces and tools made for people. It is only described in a preprint so far, so other scientists have not yet reviewed it.",
-  "image_url": "/article_images/fun-sd8ed5364e2f3c69e.webp",
+  "title": "Role Model Debates Maine Fame on Chicken Shop Date",
+  "summary": "As far as current pop music goes, Role Model is probably Maine's most famous export. But what about celebrities in general? While guesting on the Friday (Oct. 2) premiere episode of Amelia Dimoldenberg's final season of \"Chicken Shop Date,\" the singer born Tucker Pillsbury pondered whether he has the most star power of everyone from his home state.\n\n\"Anna Kendrick's from Maine,\" he pointed out, while the show's host noted that famed horror author Stephen King is also from the Pine Tree State.\n\n\"He's probably sold more stuff than me,\" Pillsbury said of King, who indeed is one of the best-selling novelists of all time. \"Got more money.\"\n\nAfter a bit of back-and-forth, Dimoldenberg told the singer: \"You're not as successful as Stephen King, no. That's just a fact.\"\n\n\"You're starting to hurt my feelings,\" Pillsbury replied. \"[He has a] whole different job.\"\n\nThe jury is still out on who exactly is Maine's most famous celebrity, but other front-runners include actor Patrick Dempsey and sports personality Erin Andrews. And while Role Model may not quite have the sales numbers that King has, the musician recently scored his very first top 10 album on the Billboard 200 with \"Chuck Timely & The Hourglass,\" which amassed 24,000 copies sold in the United States in its first week out, according to Luminate.",
+  "why_it_matters": "It is a light example of how artists talk about fame, and chart numbers like first-week sales show how success is measured in music.",
+  "image_url": "/article_images/fun-s9fc2419a06dfda95.webp",
   "keywords": [
     {
-      "term": "fully articulated",
-      "explanation": "Having joints that let every part move."
+      "term": "premiere",
+      "explanation": "The first showing of a new episode or season."
     },
     {
-      "term": "asymmetry",
-      "explanation": "Having sides or parts that are not the same."
+      "term": "star power",
+      "explanation": "How famous and popular a person is."
     },
     {
-      "term": "preprint",
-      "explanation": "A paper that has not gone through peer review."
+      "term": "famed",
+      "explanation": "Very well known."
     },
     {
-      "term": "actuated joints",
-      "explanation": "Joints moved by motors."
+      "term": "novelists",
+      "explanation": "People who write novels, which are long made-up stories."
     },
     {
-      "term": "reinforcement learning",
-      "explanation": "Training software by rewarding correct actions."
+      "term": "front-runners",
+      "explanation": "People who are leading or most likely to be named the winner."
     },
     {
-      "term": "humanoid robots",
-      "explanation": "Robots built to look and move somewhat like people."
+      "term": "Billboard 200",
+      "explanation": "A weekly chart of the top-selling albums in the United States."
     }
   ],
   "questions": [
     {
-      "question": "Why did past walking robot hands change finger lengths?",
+      "question": "What is Role Model's birth name?",
       "options": [
-        "Equal fingers helped the hand balance",
-        "They wanted the fingers to match a person's",
-        "It made the hand easier to build",
-        "Longer fingers made the hand lighter"
+        "Tucker Dimoldenberg",
+        "Stephen Pillsbury",
+        "Tucker Pillsbury",
+        "Patrick Pillsbury"
       ],
-      "correct_answer": "Equal fingers helped the hand balance"
+      "correct_answer": "Tucker Pillsbury"
     },
     {
-      "question": "What makes human hands good with tools but not with walking?",
+      "question": "Whom did the host say is also from the Pine Tree State?",
       "options": [
-        "Their uneven fingers and opposite thumb",
-        "Their very large size and heavy weight",
-        "Their need for a battery",
-        "Their lack of joints in the fingers"
+        "Actor Patrick Dempsey",
+        "Horror author Stephen King",
+        "Singer Dakota Johnson",
+        "Sports host Erin Andrews"
       ],
-      "correct_answer": "Their uneven fingers and opposite thumb"
+      "correct_answer": "Horror author Stephen King"
     },
     {
-      "question": "What does a preprint mean in this story?",
+      "question": "What did Pillsbury say about Stephen King's sales and money?",
       "options": [
-        "A paper that won a science prize",
-        "A paper written only by students",
-        "A paper that was printed in a famous magazine",
-        "A paper not yet peer-reviewed or accepted by a journal"
+        "King has probably sold more and got more money",
+        "King has made less money than he has",
+        "King has never sold any books at all",
+        "King has sold exactly the same as him"
       ],
-      "correct_answer": "A paper not yet peer-reviewed or accepted by a journal"
+      "correct_answer": "King has probably sold more and got more money"
     },
     {
-      "question": "How many actuated joints did the off-the-shelf hand have?",
+      "question": "What did the host tell the singer after some back-and-forth?",
       "options": [
-        "20",
-        "32",
-        "14",
-        "29"
+        "He is not as successful as Stephen King",
+        "He should stop talking about Maine",
+        "He is the most famous person in Maine",
+        "He should write a horror book next"
       ],
-      "correct_answer": "20"
+      "correct_answer": "He is not as successful as Stephen King"
     },
     {
-      "question": "How many different environments did the hand cross in field tests?",
+      "question": "Which people are named as other front-runners for Maine's most famous celebrity?",
       "options": [
-        "29",
-        "14",
-        "20",
-        "32"
+        "Amelia Dimoldenberg and Role Model",
+        "Dakota Johnson and Luminate",
+        "Patrick Dempsey and Erin Andrews",
+        "Stephen King and Anna Kendrick"
       ],
-      "correct_answer": "14"
+      "correct_answer": "Patrick Dempsey and Erin Andrews"
     },
     {
-      "question": "What future use do the researchers suggest?",
+      "question": "According to Luminate, how many copies did the album sell in its first week?",
       "options": [
-        "A robot that plays piano concerts",
-        "A robot detaching its hand to retrieve an item in a cramped area",
-        "A hand that cooks meals in restaurants",
-        "A hand that replaces human surgeons"
+        "24,000 in the United States",
+        "More than 24,000 in Maine alone",
+        "24,000 around the whole world",
+        "Fewer than any other top 10 album"
       ],
-      "correct_answer": "A robot detaching its hand to retrieve an item in a cramped area"
+      "correct_answer": "24,000 in the United States"
     }
   ],
   "background_read": [
-    "Peer review is when other experts check a scientific paper before it is published."
+    "Maine is a state in the northeastern United States, nicknamed the Pine Tree State."
   ],
   "Article_Structure": [
-    "Opening: a Halloween-themed walking robot hand",
-    "Earlier designs and the problem with uneven fingers",
-    "ETH Zurich's hardware and weight",
-    "Training with reinforcement learning",
-    "Field tests: terrain, typing and a puzzle game",
-    "Possible future uses"
+    "Opening: Role Model and the question of Maine's most famous export",
+    "Quotes from the Chicken Shop Date episode",
+    "The Stephen King comparison",
+    "Other possible Maine celebrities",
+    "Album chart result"
   ],
   "perspectives": [
     {
-      "perspective": "The researchers",
-      "description": "Write that robotic hands with their own mobility could make future robots more versatile in spaces and interfaces built for people."
+      "perspective": "Tucker Pillsbury (Role Model)",
+      "description": "He said Anna Kendrick is from Maine and that King has probably sold more and earned more than he has."
+    },
+    {
+      "perspective": "Amelia Dimoldenberg, show host",
+      "description": "She told him he is not as successful as Stephen King, calling that a fact."
     }
   ],
-  "mined_at": "2026-10-02T19:13:04+00:00",
-  "source_published_at": "Fri, 02 Oct 2026 13:03:00 -0400",
-  "source_name": "Popular Science",
-  "source_url": "https://www.popsci.com/technology/robot-hand-thing-addams-family/",
+  "mined_at": "2026-10-02T23:03:11+00:00",
+  "source_published_at": "Fri, 02 Oct 2026 21:37:31 +0000",
+  "source_name": "Billboard",
+  "source_url": "https://www.billboard.com/music/pop/role-model-maine-most-famous-chicken-shop-date-video-1236353593/",
   "category": "Fun",
-  "source_word_count": 820,
+  "source_word_count": 377,
   "detail_status": "full"
 }
