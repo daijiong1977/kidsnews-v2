@@ -1,1 +1,111 @@
-{"title": "This AI Just Beat the Best Humans at a Game of Secret Identities", "summary": "Imagine playing a board game where you can't see any of your opponent's pieces. You only find out what they are when you bump into them — and the weaker piece gets knocked out. That game is called Stratego, and it's really hard, even for computers.\n\nNow, a new AI system has beaten top-ranked human Stratego players by a lot. No AI had ever done that before. Researchers from MIT, Carnegie Mellon, New York University, and Stanford built it. They used a trick called self-play reinforcement learning — the AI plays against itself over and over to get better.\n\nStratego is tricky because there are more than 10 to the 66th power possible piece setups. That's way more than chess! Older AI models needed millions of dollars in training and still couldn't win. This new one, called Ataraxos, is far cheaper and less demanding.\n\nWhy does it matter? The AI could someday help people make smart choices in situations with hidden information, like business negotiations or cybersecurity. Gabriele Farina, an MIT professor who worked on it, says having AI that can handle these tough, hidden-info tasks \"is a big step forward.\" The research appeared in the journal Nature.", "why_it_matters": "Games are how scientists test new ideas, so an AI that can make good choices without seeing everything might one day help your team, your doctor or your family solve tricky problems.", "image_url": "/article_images/article_ea039df066f8.webp", "keywords": [{"term": "Stratego", "explanation": "A board game where you cannot see your opponent's pieces, and you only learn what they are when two pieces bump into each other."}, {"term": "self-play reinforcement learning", "explanation": "A way for a computer to learn by playing games against itself again and again and getting a little better each time."}, {"term": "Ataraxos", "explanation": "The name of the new AI system that beat top human Stratego players."}, {"term": "hidden information", "explanation": "Facts or pieces that a player cannot see, so they have to make choices without knowing everything."}, {"term": "business negotiations", "explanation": "When people or companies talk and bargain with each other to make a deal."}, {"term": "cybersecurity", "explanation": "Keeping computers, phones and the internet safe from attackers and bad software."}], "questions": [{"question": "What is the board game described in the article called?", "options": ["Stratego", "Chess", "Battleship", "Checkers"], "correct_answer": "Stratego"}, {"question": "In Stratego, what happens when two pieces bump into each other?", "options": ["The pieces swap places", "The game ends in a tie", "The weaker piece is knocked out", "Both players lose a turn"], "correct_answer": "The weaker piece is knocked out"}, {"question": "What is the name of the new AI system?", "options": ["AlphaGo", "Deep Blue", "Borges", "Ataraxos"], "correct_answer": "Ataraxos"}, {"question": "What trick did the researchers use to train the AI?", "options": ["Watching videos of old matches", "Copying human players' moves by hand", "Self-play reinforcement learning", "Asking players to explain their plans"], "correct_answer": "Self-play reinforcement learning"}, {"question": "Which universities' researchers built the AI?", "options": ["MIT, Carnegie Mellon, New York University and Stanford", "Harvard, Princeton, Columbia and Duke", "Tokyo, Beijing, Seoul and Singapore", "Oxford, Cambridge, Harvard and Yale"], "correct_answer": "MIT, Carnegie Mellon, New York University and Stanford"}, {"question": "Where did the research appear?", "options": ["In a school newspaper", "In the journal Nature", "In a sports magazine", "On a video game website"], "correct_answer": "In the journal Nature"}], "background_read": ["Stratego grew out of an older European board game from the early 1900s and became popular after it was published in the Netherlands in the 1940s. It is a game of bluffing, because you never know what your opponent's pieces really are.", "Computers have beaten the best humans at games before: IBM's Deep Blue beat world chess champion Garry Kasparov in 1997, and Google DeepMind's AlphaGo beat Go champion Lee Sedol in 2016.", "MIT, Carnegie Mellon, New York University and Stanford (all famous science and technology universities in the United States) built this new system, and the journal Nature (one of the world's most respected science magazines) published the results."], "Article_Structure": ["WHO: Researchers from MIT, Carnegie Mellon, New York University and Stanford, including MIT professor Gabriele Farina, who built the AI called Ataraxos.", "WHAT: For the first time, an AI beat top-ranked human Stratego players by a lot, using self-play reinforcement learning instead of very expensive training.", "WHERE: At universities in the United States, with the results published in the journal Nature.", "WHY: It matters because the AI could someday help people make smart choices when they cannot see everything, such as in business negotiations or cybersecurity."], "perspectives": [{"perspective": "AI researchers", "description": "They see it as a big step forward, because the new model is much cheaper and can handle games that older AI could not win."}, {"perspective": "People worried about AI", "description": "They point out that machines are getting better at beating humans, and that the same skills could be used to trick people or attack computers."}, {"perspective": "Stratego players and game fans", "description": "Some are excited that their game is now a famous challenge for AI, while others feel the best part of the game is still the human guessing and bluffing."}], "mined_at": "2026-10-01T10:32:21+00:00", "source_published_at": "Wed, 30 Sep 2026 11:00:00 -0400", "source_name": "MIT News", "source_url": "https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930", "category": "Fun", "source_word_count": 764}
+{
+  "title": "This 3.1-Mile Table Is Made From Recycled Materials!",
+  "summary": "Picture a table so long you can't see the end of it. On September 12, 2026, about 20,000 people gathered in Bucharest, Romania, for a community meal. Their table set a new Guinness World Record for the longest table made from recycled materials.\n\nThe table was called the \"Uniting Table.\" It stretched 3.1 miles (4.99 km).\n\nBut the record was only part of the plan. The event, organized by a nonprofit called Bloom The World, was also a fundraiser. It raised more than $110,000 for Romania's first psychiatric hospital for children. Right now, children in Bucharest who need mental health care are treated in an outdated building. It has large, crowded wards that lack basic privacy. The new hospital is set to open in 2027. It will care for children with conditions such as depression, autism and ADHD.\n\nThis was the second time Bloom set this record. In 2025, the group brought 10,000 people together around a 1.7-mile (2.7 km) table made from recycled materials in Alba Iulia, Romania.\n\nSo what happens to the table when dinner is over? Bloom plans to recycle its materials again. This time, they will be used to make furniture for children.",
+  "why_it_matters": "It shows how a fun record can also help children who need care, and how old materials can be used again.",
+  "image_url": "/article_images/fun-c077.webp",
+  "keywords": [
+    {
+      "term": "Guinness World Record",
+      "explanation": "An official title given for being the best or biggest at something."
+    },
+    {
+      "term": "recycled",
+      "explanation": "Made again from old materials so they can be used a second time."
+    },
+    {
+      "term": "nonprofit",
+      "explanation": "A group that works to help others instead of making money."
+    },
+    {
+      "term": "fundraiser",
+      "explanation": "An event that collects money for a cause."
+    },
+    {
+      "term": "psychiatric hospital",
+      "explanation": "A hospital that cares for people with mental health needs."
+    },
+    {
+      "term": "furniture",
+      "explanation": "Things like chairs and tables that people use in a room."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How long was the \"Uniting Table\"?",
+      "options": [
+        "31 miles",
+        "0.31 miles",
+        "1.7 miles",
+        "3.1 miles"
+      ],
+      "correct_answer": "3.1 miles"
+    },
+    {
+      "question": "Where did about 20,000 people gather for the community meal?",
+      "options": [
+        "In Alba Iulia, Romania",
+        "In Madrid, Spain",
+        "In Bucharest, Romania",
+        "In Paris, France"
+      ],
+      "correct_answer": "In Bucharest, Romania"
+    },
+    {
+      "question": "What group organized the event?",
+      "options": [
+        "Romania Kids",
+        "Uniting Tables",
+        "Bloom The World",
+        "Guinness Club"
+      ],
+      "correct_answer": "Bloom The World"
+    },
+    {
+      "question": "What did the event raise money for?",
+      "options": [
+        "A big science museum",
+        "A school for chefs",
+        "Romania's first psychiatric hospital for children",
+        "A new sports stadium"
+      ],
+      "correct_answer": "Romania's first psychiatric hospital for children"
+    },
+    {
+      "question": "When is the new hospital set to open?",
+      "options": [
+        "2026",
+        "2030",
+        "2035",
+        "2027"
+      ],
+      "correct_answer": "2027"
+    },
+    {
+      "question": "What will Bloom make from the table's materials this time?",
+      "options": [
+        "Toys for pets",
+        "Furniture for children",
+        "Paper for books",
+        "Boats for lakes"
+      ],
+      "correct_answer": "Furniture for children"
+    }
+  ],
+  "background_read": [
+    "Bloom The World also set this record in 2025 in Alba Iulia, Romania, with 10,000 people around a 1.7-mile table.",
+    "Bucharest is the city in Romania where the latest table was built."
+  ],
+  "Article_Structure": [
+    "WHO: About 20,000 people and the nonprofit Bloom The World",
+    "WHAT: A 3.1-mile table made from recycled materials set a Guinness World Record",
+    "WHERE: Bucharest, Romania",
+    "WHY: The event also raised more than $110,000 for Romania's first psychiatric hospital for children"
+  ],
+  "perspectives": [],
+  "mined_at": "2026-10-01T23:52:32+00:00",
+  "source_published_at": "",
+  "source_name": "verified:dogonews.com",
+  "source_url": "https://www.dogonews.com/2026/9/30/giant-recycled-table-sets-guinness-world-record",
+  "category": "Fun",
+  "source_word_count": 207
+}

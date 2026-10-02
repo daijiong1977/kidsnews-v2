@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-10-01-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Wed, 30 Sep 2026 17:14:30 -0400",
-      "mined_at": "2026-10-01T10:32:21+00:00",
-      "source_published_at": "Wed, 30 Sep 2026 17:14:30 -0400",
-      "image_url": "/article_images/article_2732b4285f2a.webp",
+      "source": "verified:cbc.ca",
+      "time_ago": "Wed, 30 Sep 2026 06:15:54 EDT",
+      "mined_at": "2026-10-01T23:52:32+00:00",
+      "source_published_at": "Wed, 30 Sep 2026 06:15:54 EDT",
+      "image_url": "/article_images/news-c044.webp",
       "category": "News",
-      "title": "Senators Agree on Plan to Build Energy Projects Faster",
-      "summary": "Senators from both parties made a deal to speed up building power plants and power lines. The bill would also make AI data centers pay for the extra electricity they use. A vote comes after the November elections."
+      "title": "Officials Say Passengers and Crew Stopped a Co-Pilot on a FlyDubai Flight",
+      "summary": "Israeli officials say a FlyDubai co-pilot tried to crash a plane flying from Dubai to Tel Aviv. The captain opened the cockpit door, and passengers and crew overpowered the attacker. The plane landed safely in Saudi Arabia."
     },
     {
       "id": "2026-10-01-news-2",
-      "source": "CBC World",
-      "time_ago": "Wed, 30 Sep 2026 17:02:54 EDT",
-      "mined_at": "2026-10-01T10:32:21+00:00",
-      "source_published_at": "Wed, 30 Sep 2026 17:02:54 EDT",
-      "image_url": "/article_images/article_ccbb114f49dc.webp",
+      "source": "verified:npr.org",
+      "time_ago": "Thu, 01 Oct 2026 11:41:49 -0400",
+      "mined_at": "2026-10-01T23:52:32+00:00",
+      "source_published_at": "Thu, 01 Oct 2026 11:41:49 -0400",
+      "image_url": "/article_images/news-c020.webp",
       "category": "News",
-      "title": "Pentagon to Cut 20% of Top Military Generals and Admirals",
-      "summary": "U.S. War Secretary Pete Hegseth announced the military will cut 20% of its generals and admirals by January 2027. He also created a new command for robots and drones. Some lawmakers call it a 'purge.'"
+      "title": "Tennessee Stops an Execution and Orders a Review",
+      "summary": "Tennessee tried to carry out the execution of Christa Pike, but stopped the attempt after two doses of a drug. Governor Bill Lee has ordered a third-party review of how the state carries out the death penalty."
     },
     {
       "id": "2026-10-01-news-3",
-      "source": "NPR World",
-      "time_ago": "Thu, 01 Oct 2026 05:00:00 -0400",
-      "mined_at": "2026-10-01T10:32:21+00:00",
-      "source_published_at": "Thu, 01 Oct 2026 05:00:00 -0400",
-      "image_url": "/article_images/article_f5a611a69ee5.webp",
+      "source": "verified:cbc.ca",
+      "time_ago": "Wed, 30 Sep 2026 17:02:54 EDT",
+      "mined_at": "2026-10-01T23:52:32+00:00",
+      "source_published_at": "Wed, 30 Sep 2026 17:02:54 EDT",
+      "image_url": "/article_images/news-c046.webp",
       "category": "News",
-      "title": "Trump Administration Reverses Disability Integration Rules",
-      "summary": "For 50 years, federal rules said people with disabilities should live and work in the community, not institutions. The Trump administration just took a step to reverse that. Advocates are upset."
+      "title": "U.S. Military to Cut 20% of Its Generals and Admirals",
+      "summary": "War Secretary Pete Hegseth said the U.S. military will cut 20% of its generals and admirals by Jan. 1, 2027. He also announced a new command for autonomous and robotic systems. Two senators reacted differently."
     }
   ]
 }

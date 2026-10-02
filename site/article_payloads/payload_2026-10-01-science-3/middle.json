@@ -1,1 +1,124 @@
-{"title": "Astronomers Discover 'Backward' Exoplanet That Orbits Its Star Upside Down", "summary": "Astronomers have found an exoplanet that orbits its star backward — like a rubber duck spinning against the current in a whirlpool. The planet, called GJ 3090 b, circles a small, red star in the opposite direction of the star's spin. This is called a retrograde orbit, and it's a mystery how it formed. Normally, stars and planets form from the same rotating disk of gas and dust, called a protoplanetary disk. Newly formed objects rotate in the same direction as the disk, because flipping the direction requires a lot of energy applied in just the right way. Astronomers have seen retrograde exoplanets before, but those orbits usually happen when the gravity of other massive objects scrambles the planets' paths. This system, however, doesn't seem to have any massive objects that could have done that. \"We looked for the kind of massive companion that could have forced the planet into such an extreme orbit,\" said study co-author Yann Carteret, an astronomer at the University of Geneva. \"We may need to think differently about how this system acquired its unusual architecture.\" The team analyzed 23 hours of observations from two instruments on a 12-foot-wide (3.6 meters) telescope at La Silla Observatory in Chile. They watched the planet cross in front of its star 10 times. Each transit dimmed the starlight slightly, revealing the planet's size and orbit. The star is an M dwarf — small, cool and dim. About three-quarters of the stars in the Milky Way are M dwarfs, so studying them is key to understanding our galaxy's exoplanets. The system has two or possibly three planets smaller than Neptune, each orbiting in less than 16 days. GJ 3090 b is the innermost, completing an orbit every 2.9 days. Its orbit is misaligned by 136 degrees — nearly upside down, similar to Venus in our solar system. Because it's closest to the star, it's unlikely a massive planet or hidden binary star disturbed it. The other planets aren't upside down either. Instead, researchers suggest the planet may have been born upside down. If a lot of gas and dust from outside the system got sucked in, it might have replaced the original protoplanetary disk with a second disk at a different angle, forming the retrograde planet. \"The idea that a planetary system could be rebuilt from a second, differently oriented disk is particularly exciting,\" said co-author Vincent Bourrier. \"It suggests that the environment around a young star can play a much bigger role in determining the architecture of its planets than we might have expected.\"", "why_it_matters": "If a young star's surroundings can rebuild a planetary system from a second, differently angled disk, then how planets end up arranged may depend as much on the environment as on the star itself — which matters for working out how common solar systems like ours are, and whether any of those distant worlds could support life.", "image_url": "/article_images/article_789c8d4336c1.webp", "keywords": [{"term": "exoplanet", "explanation": "A planet that orbits a star other than our Sun."}, {"term": "retrograde orbit", "explanation": "An orbit in which a planet travels in the opposite direction to the spin of its own star."}, {"term": "protoplanetary disk", "explanation": "A spinning disk of gas and dust around a young star, where planets form."}, {"term": "M dwarf", "explanation": "A small, cool, dim star — the most common kind of star in our galaxy."}, {"term": "transit", "explanation": "When a planet passes in front of its star and briefly blocks a small amount of its light."}, {"term": "binary star", "explanation": "Two stars that orbit around each other, held together by gravity."}], "questions": [{"question": "What makes GJ 3090 b so unusual?", "options": ["It orbits two stars at once", "It is the largest planet ever found", "It has no star at all", "It orbits its star in the opposite direction to the star's spin"], "correct_answer": "It orbits its star in the opposite direction to the star's spin"}, {"question": "What is the spinning disk of gas and dust where planets normally form called?", "options": ["A stellar halo", "A protoplanetary disk", "A comet belt", "A nebular ring"], "correct_answer": "A protoplanetary disk"}, {"question": "What kind of star does GJ 3090 b orbit?", "options": ["Our Sun", "A neutron star", "A small, cool, dim red star (an M dwarf)", "A blue supergiant"], "correct_answer": "A small, cool, dim red star (an M dwarf)"}, {"question": "How long does GJ 3090 b take to complete one orbit?", "options": ["16 days", "136 days", "23 hours", "2.9 days"], "correct_answer": "2.9 days"}, {"question": "Where is the telescope the team used located?", "options": ["At La Silla Observatory in Chile", "In Earth orbit", "In Geneva, Switzerland", "In Hawaii"], "correct_answer": "At La Silla Observatory in Chile"}, {"question": "What do the researchers suggest may have caused the backward orbit?", "options": ["A second disk of gas and dust formed at a different angle", "The star exploded", "A passing comet pushed the planet", "The planet was captured from another galaxy"], "correct_answer": "A second disk of gas and dust formed at a different angle"}], "background_read": ["Astronomers confirmed the first exoplanet around a Sun-like star in the 1990s, and since then the count has grown into the thousands. Many were found using the transit method — watching for the small dip in a star's light when a planet crosses in front of it.", "Space telescopes like NASA's Kepler (which stared at one patch of sky for years and discovered thousands of planets) and TESS turned planet-hunting into a mass survey, and showed that odd, close-in worlds are common across the galaxy.", "Our own solar system is not perfectly tidy either: Venus spins in the opposite direction from most planets, and Uranus is tipped over on its side. Those quirks hint that dramatic events early in a system's life can tilt things permanently.", "GJ 3090 b orbits an M dwarf — the small, cool, dim stars that make up about three-quarters of the stars in the Milky Way (the galaxy we live in). Because M dwarfs are faint, close-in planets are relatively easy to detect, making them prime targets in the search for worlds beyond our solar system.", "The telescope sits at La Silla Observatory (a telescope site in Chile's Atacama Desert run by the European Southern Observatory), and co-author Yann Carteret is an astronomer at the University of Geneva (a Swiss university with a long history of planet-hunting)."], "Article_Structure": ["LEAD: a planet that orbits its star backwards — like a rubber duck swimming against a whirlpool", "  └─ specific: GJ 3090 b circles a small red star in the opposite direction to the star's spin", "BACKGROUND: planets normally form from a protoplanetary disk and rotate the same way it does", "  └─ why that matters: flipping direction would take a lot of energy applied in just the right way", "OBSERVATIONS", "  ├─ INSTRUMENTS: two instruments on a 3.6-metre telescope at La Silla Observatory, Chile", "  ├─ METHOD: 23 hours of observing; the planet crossed its star 10 times, each transit dimming the light", "  └─ SYSTEM: an M dwarf with two or three sub-Neptune planets, each orbiting in under 16 days; GJ 3090 b takes 2.9 days", "PUZZLE / TENSION", "  ├─ USUAL EXPLANATION: the gravity of a massive companion or hidden binary star scrambled the orbit", "  └─ PROBLEM: no such massive object was found, and the other planets are not misaligned either", "PROPOSED SOLUTION", "  └─ a second, differently angled disk of gas and dust may have rebuilt the system", "OPEN QUESTION: what really decides the architecture of a planetary system?"], "perspectives": [{"perspective": "Enthusiastic astronomers", "description": "For them the finding is exciting because it challenges the tidy textbook picture of planet formation and shows that a modest telescope and long observation campaigns can still turn up surprises. It also matters because M dwarfs are the most common stars, so understanding their planets means understanding most planetary systems in the galaxy."}, {"perspective": "Cautious researchers", "description": "They would note that the evidence rests on a single system and 10 transits, and that the 'second disk' idea is a hypothesis with no direct observation behind it. Other explanations — an undiscovered companion, or the star's own spin axis being measured imperfectly — cannot yet be ruled out."}, {"perspective": "Analytical view", "description": "Retrograde and highly misaligned planets have been seen before, usually blamed on gravitational chaos caused by a massive neighbour. What makes GJ 3090 b different is the apparent absence of such a neighbour, suggesting planetary systems are messier and more varied than our own orderly solar system implies."}, {"perspective": "Forward-looking", "description": "The next step is to hunt for any hidden massive companion with more precise instruments, watch more transits, and check whether other star systems show signs of being reshaped by a second disk. Each new example would test whether this is a rare accident or a common way planets are born."}], "mined_at": "2026-10-01T10:32:21+00:00", "source_published_at": "Wed, 30 Sep 2026 16:07:27 +0000", "source_name": "Live Science", "source_url": "https://www.livescience.com/space/exoplanets/we-may-need-to-think-differently-star-system-with-backward-planet-moving-the-wrong-way-around-its-star-has-scientists-puzzled", "category": "Science", "source_word_count": 846}
+{
+  "title": "Two New Giant Stick Insect Species Found in Australia",
+  "summary": "Scientists have identified two previously unrecognized species of large stick insects in Australia, showing that even in some of the country's most closely studied environments, new species are still waiting to be found.\n\nA University of Sydney team reexamined the Australian members of the stick insect genus (a scientific grouping of related species) Anchiale. Their findings, published in Austral Entomology, show that insects previously classified as just two species actually represent five. Together, they occur from northern New South Wales along coastal Queensland and into tropical northern Australia.\n\nOne of the new species, Anchiale mabiensis, was found in Queensland's critically endangered Mabi rainforest on the Atherton Tablelands. Its eggs contain an unusual structural lid that has not previously been documented in any stick insect or its closest relatives.\n\nThe researchers also restored a third species that had gone unrecognized for decades. A large stick insect that both scientists and insect enthusiasts knew well had been incorrectly identified. They combined DNA analysis, museum specimens, field surveys, citizen science observations, and studies of insects raised in captivity. The evidence showed it is a separate species, now called Anchiale robusta.\n\n\"Taxonomy is often a bit like detective work. Even among some of Australia's most photographed and frequently reported insects, we're still finding species that have escaped scientific recognition,\" said Dr. Braxton Jones, lead author and a Postdoctoral Research Associate at the University of Sydney.\n\nThat is notable because these insects are far from unknown. More than 1,000 citizen science observations have been submitted through iNaturalist and the Atlas of Living Australia, and the insects have been studied scientifically for decades. Even so, the researchers say much of Australia's insect diversity remains undocumented.\n\nThe revised classification may also have practical value. One stick insect known for occasionally reaching plague-like population levels and stripping leaves from trees was found to represent more than one species. Distinguishing between them could help researchers and land managers better understand and manage future impacts on forestry and agriculture.\n\nThe study also points to another possible new species from Cape York. Researchers believe it may be undescribed, but they need additional specimens before they can confirm its identity. Dr. Jones said the findings show why it matters to protect threatened ecosystems and document biodiversity \"before we lose species without us having even discovered them.\"",
+  "why_it_matters": "The study shows that new species can still be found among well-known and often photographed animals. Telling similar species apart may also help land managers understand future impacts on forestry and agriculture.",
+  "image_url": "/article_images/science-c055.webp",
+  "keywords": [
+    {
+      "term": "genus",
+      "explanation": "A scientific grouping of related species."
+    },
+    {
+      "term": "previously unrecognized",
+      "explanation": "Not noticed or accepted by scientists before."
+    },
+    {
+      "term": "critically endangered",
+      "explanation": "At very high risk of being lost forever."
+    },
+    {
+      "term": "citizen science",
+      "explanation": "Observations contributed by everyday people to help research."
+    },
+    {
+      "term": "incorrectly identified",
+      "explanation": "Given the wrong name or placed in the wrong group."
+    },
+    {
+      "term": "biodiversity",
+      "explanation": "The wide variety of living things in a place."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Where was the study published?",
+      "options": [
+        "Austral Entomology",
+        "Nature Weekly",
+        "Queensland Review",
+        "Science Bulletin"
+      ],
+      "correct_answer": "Austral Entomology"
+    },
+    {
+      "question": "What did the researchers learn about insects once classified as two species?",
+      "options": [
+        "They actually represent three families",
+        "They actually represent five species",
+        "They actually represent one species",
+        "They are all extinct"
+      ],
+      "correct_answer": "They actually represent five species"
+    },
+    {
+      "question": "Where was Anchiale mabiensis found?",
+      "options": [
+        "Western Australia's desert",
+        "Queensland's critically endangered Mabi rainforest",
+        "Victoria's snowy mountains",
+        "Tasmania's coastal wetlands"
+      ],
+      "correct_answer": "Queensland's critically endangered Mabi rainforest"
+    },
+    {
+      "question": "Which methods helped show the large stick insect was a separate species?",
+      "options": [
+        "Only photographs taken from satellites",
+        "Only reports from farmers",
+        "DNA analysis, museum specimens, field surveys, citizen science and insects raised in captivity",
+        "Only a single museum specimen"
+      ],
+      "correct_answer": "DNA analysis, museum specimens, field surveys, citizen science and insects raised in captivity"
+    },
+    {
+      "question": "How many citizen science observations have been submitted through iNaturalist and the Atlas of Living Australia?",
+      "options": [
+        "Exactly 50",
+        "More than 1,000",
+        "Fewer than 100",
+        "About 10"
+      ],
+      "correct_answer": "More than 1,000"
+    },
+    {
+      "question": "Why do the researchers need more specimens from Cape York?",
+      "options": [
+        "To confirm a possible new species",
+        "To count the farms",
+        "To build a museum",
+        "To plant new trees"
+      ],
+      "correct_answer": "To confirm a possible new species"
+    }
+  ],
+  "background_read": [
+    "Anchiale is a genus of stick insects, and the study reexamined the Australian members of that genus.",
+    "The Mabi rainforest is on the Atherton Tablelands in Queensland and is described as critically endangered.",
+    "iNaturalist and the Atlas of Living Australia are places where people submit observations."
+  ],
+  "Article_Structure": [
+    "LEAD: Scientists identified two previously unrecognized species of large stick insects in Australia",
+    "  ├─ KEY FINDING: Insects once classified as two species represent five",
+    "  │   ├─ Anchiale mabiensis: found in the Mabi rainforest, with an unusual lid on its eggs",
+    "  │   └─ Anchiale robusta: a large stick insect incorrectly identified for decades",
+    "  ├─ METHODS: DNA analysis, museum specimens, field surveys, citizen science and captive insects",
+    "  ├─ WHY IT MAY MATTER: Distinguishing species could help manage impacts on forestry and agriculture",
+    "  └─ OPEN QUESTION: A possible new species from Cape York needs more specimens"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Dr. Braxton Jones",
+      "description": "Said taxonomy is often a bit like detective work and that scientists are still finding species that have escaped recognition."
+    },
+    {
+      "perspective": "Dr. Braxton Jones",
+      "description": "Said the findings show why it is important to protect threatened ecosystems and document biodiversity before species are lost without being discovered."
+    }
+  ],
+  "mined_at": "2026-10-01T23:52:32+00:00",
+  "source_published_at": "Thu, 01 Oct 2026 09:59:22 EDT",
+  "source_name": "verified:sciencedaily.com",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260930020315.htm",
+  "category": "Science",
+  "source_word_count": 474
+}

@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-10-01-science-1",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Tue, 29 Sep 2026 07:39:27 EDT",
-      "mined_at": "2026-10-01T10:32:21+00:00",
-      "source_published_at": "Tue, 29 Sep 2026 07:39:27 EDT",
-      "image_url": "/article_images/article_c6d7bb9666fb.webp",
+      "source": "verified:sciencedaily.com",
+      "time_ago": "Wed, 30 Sep 2026 08:27:27 EDT",
+      "mined_at": "2026-10-01T23:52:32+00:00",
+      "source_published_at": "Wed, 30 Sep 2026 08:27:27 EDT",
+      "image_url": "/article_images/science-c050.webp",
       "category": "Science",
-      "title": "245-Million-Year-Old Fossil Reveals Oldest Known Reptile Digestive System",
-      "summary": "Scientists in China found a nearly complete fossil of a marine reptile with its stomach, liver and intestines preserved. At 245 million years old, it's the oldest reptile digestive system ever discovered."
+      "title": "A 10-Minute X-Ray Flash May Mark the Birth of a Magnetar",
+      "summary": "An X-ray flash from a neutron star merger lasted nearly ten minutes, the longest of its kind observed. Researchers say the collision may have formed a magnetar, a neutron star with a huge magnetic field."
     },
     {
       "id": "2026-10-01-science-2",
-      "source": "Science News Explores",
-      "time_ago": "Wed, 30 Sep 2026 10:30:00 +0000",
-      "mined_at": "2026-10-01T10:32:21+00:00",
-      "source_published_at": "Wed, 30 Sep 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_5ddd330db472.webp",
+      "source": "verified:sciencedaily.com",
+      "time_ago": "Tue, 29 Sep 2026 08:02:30 EDT",
+      "mined_at": "2026-10-01T23:52:32+00:00",
+      "source_published_at": "Tue, 29 Sep 2026 08:02:30 EDT",
+      "image_url": "/article_images/science-c051.webp",
       "category": "Science",
-      "title": "Mysterious 'Cold Blob' in North Atlantic May Signal Major Ocean Current Shutdown",
-      "summary": "A patch of the North Atlantic has cooled by 1°C while the rest of the oceans warm. Scientists say it's linked to the AMOC current slowing down — a possible tipping point."
+      "title": "Researchers Demonstrate a New Way to Identify the Quantum W State",
+      "summary": "Researchers at Kyoto and Hiroshima Universities developed and tested an entangled measurement that can identify the W state of three photons. It could contribute to quantum teleportation and computing."
     },
     {
       "id": "2026-10-01-science-3",
-      "source": "Live Science",
-      "time_ago": "Wed, 30 Sep 2026 16:07:27 +0000",
-      "mined_at": "2026-10-01T10:32:21+00:00",
-      "source_published_at": "Wed, 30 Sep 2026 16:07:27 +0000",
-      "image_url": "/article_images/article_789c8d4336c1.webp",
+      "source": "verified:sciencedaily.com",
+      "time_ago": "Thu, 01 Oct 2026 09:59:22 EDT",
+      "mined_at": "2026-10-01T23:52:32+00:00",
+      "source_published_at": "Thu, 01 Oct 2026 09:59:22 EDT",
+      "image_url": "/article_images/science-c055.webp",
       "category": "Science",
-      "title": "Astronomers Discover 'Backward' Exoplanet That Orbits Its Star Upside Down",
-      "summary": "A planet called GJ 3090 b orbits its red dwarf star in the opposite direction — one of the most misaligned orbits ever found. Scientists can't explain how it got that way."
+      "title": "Two New Giant Stick Insect Species Found in Australia",
+      "summary": "Researchers identified two new large stick insect species in Australia, one with lidded eggs. A third, familiar species had been misidentified for decades. What was once counted as two species is really five."
     }
   ]
 }

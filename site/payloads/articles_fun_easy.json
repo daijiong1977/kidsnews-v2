@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-10-01-fun-1",
-      "source": "TIME for Kids",
-      "time_ago": "Wed, 30 Sep 2026 13:26:11 +0000",
-      "mined_at": "2026-10-01T10:32:21+00:00",
-      "source_published_at": "Wed, 30 Sep 2026 13:26:11 +0000",
-      "image_url": "/article_images/article_25b95f44beb3.webp",
+      "source": "verified:bbc.co.uk",
+      "time_ago": "Wed, 30 Sep 2026 14:50:46 GMT",
+      "mined_at": "2026-10-01T23:52:32+00:00",
+      "source_published_at": "Wed, 30 Sep 2026 14:50:46 GMT",
+      "image_url": "/article_images/fun-c083.webp",
       "category": "Fun",
-      "title": "Pokémon Turns 30 — and Pikachu's Party Is Still Going",
-      "summary": "Pokémon just turned 30! It started in Japan on February 27, 1996, with two video games. Now it's the world's most valuable media franchise, and 50,000 fans partied at the World Championships in San Francisco."
+      "title": "Djokovic Wins in Beijing for First Victory Since Wimbledon",
+      "summary": "Novak Djokovic beat Nuno Borges 6-3, 7-6 (7-2) at the China Open. It was his first win since the Wimbledon semi-finals in July and his 30th straight win in Beijing. He took a medical timeout for his right shoulder."
     },
     {
       "id": "2026-10-01-fun-2",
-      "source": "MIT News",
-      "time_ago": "Wed, 30 Sep 2026 11:00:00 -0400",
-      "mined_at": "2026-10-01T10:32:21+00:00",
-      "source_published_at": "Wed, 30 Sep 2026 11:00:00 -0400",
-      "image_url": "/article_images/article_ea039df066f8.webp",
+      "source": "verified:dogonews.com",
+      "time_ago": "",
+      "mined_at": "2026-10-01T23:52:32+00:00",
+      "source_published_at": "",
+      "image_url": "/article_images/fun-c077.webp",
       "category": "Fun",
-      "title": "This AI Just Beat the Best Humans at a Game of Secret Identities",
-      "summary": "MIT and other researchers built an AI that beat top human players at Stratego, a board game where you can't see your opponent's pieces. It's cheaper to train than older AI and could help with real-world problems like cybersecurity."
+      "title": "This 3.1-Mile Table Is Made From Recycled Materials!",
+      "summary": "About 20,000 people sat down to eat at one very long table in Bucharest, Romania. The 3.1-mile table was made from recycled materials and set a Guinness World Record. The event raised more than $110,000."
     },
     {
       "id": "2026-10-01-fun-3",
-      "source": "BBC Tennis",
-      "time_ago": "Wed, 30 Sep 2026 14:50:46 GMT",
-      "mined_at": "2026-10-01T10:32:21+00:00",
-      "source_published_at": "Wed, 30 Sep 2026 14:50:46 GMT",
-      "image_url": "/article_images/article_746970f79828.webp",
+      "source": "verified:dogonews.com",
+      "time_ago": "",
+      "mined_at": "2026-10-01T23:52:32+00:00",
+      "source_published_at": "",
+      "image_url": "/article_images/fun-c076.webp",
       "category": "Fun",
-      "title": "Djokovic Wins First Match Since Wimbledon at China Open",
-      "summary": "Novak Djokovic beat Nuno Borges at the China Open for his first win since July. The 39-year-old needed a medical timeout for his shoulder but still won in straight sets. It was his 30th straight victory in Beijing."
+      "title": "NASA Wants to Build a Base on the Moon",
+      "summary": "NASA has announced a $20 billion plan to build a permanent Moon base near the south pole. Robots go first, starting in 2026. A permanent outpost phase begins in 2032, with a nuclear power plant planned for the long lunar nights."
     }
   ]
 }

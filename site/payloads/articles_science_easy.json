@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-10-01-science-1",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Tue, 29 Sep 2026 07:39:27 EDT",
-      "mined_at": "2026-10-01T10:32:21+00:00",
-      "source_published_at": "Tue, 29 Sep 2026 07:39:27 EDT",
-      "image_url": "/article_images/article_c6d7bb9666fb.webp",
+      "source": "verified:sciencedaily.com",
+      "time_ago": "Wed, 30 Sep 2026 08:27:27 EDT",
+      "mined_at": "2026-10-01T23:52:32+00:00",
+      "source_published_at": "Wed, 30 Sep 2026 08:27:27 EDT",
+      "image_url": "/article_images/science-c050.webp",
       "category": "Science",
-      "title": "This 245-Million-Year-Old Fossil Still Has Its Stomach Inside!",
-      "summary": "A nearly complete fossil from China shows the stomach, liver and intestines of a sea reptile that lived 245 million years ago. It's the oldest reptile digestive system ever found."
+      "title": "A Star Crash Glowed in X-Rays for Nearly 10 Minutes",
+      "summary": "Astronomers saw an X-ray flash that lasted nearly ten minutes. It may have come from two neutron stars merging and forming a magnetar, a spinning star with a huge magnetic field."
     },
     {
       "id": "2026-10-01-science-2",
-      "source": "Science News Explores",
-      "time_ago": "Wed, 30 Sep 2026 10:30:00 +0000",
-      "mined_at": "2026-10-01T10:32:21+00:00",
-      "source_published_at": "Wed, 30 Sep 2026 10:30:00 +0000",
-      "image_url": "/article_images/article_5ddd330db472.webp",
+      "source": "verified:sciencedaily.com",
+      "time_ago": "Tue, 29 Sep 2026 08:02:30 EDT",
+      "mined_at": "2026-10-01T23:52:32+00:00",
+      "source_published_at": "Tue, 29 Sep 2026 08:02:30 EDT",
+      "image_url": "/article_images/science-c051.webp",
       "category": "Science",
-      "title": "One Spot in the Atlantic Ocean Is Getting Colder — And That's a Big Deal",
-      "summary": "A patch of ocean south of Greenland has cooled by about 1°C while the rest of the oceans warm. Scientists say a major current called AMOC is slowing down."
+      "title": "A New Way to Spot a Tricky Quantum Link",
+      "summary": "Researchers in Japan demonstrated an entangled measurement that can identify a type of quantum link called a W state, using three photons. It could help future quantum technologies."
     },
     {
       "id": "2026-10-01-science-3",
-      "source": "Live Science",
-      "time_ago": "Wed, 30 Sep 2026 16:07:27 +0000",
-      "mined_at": "2026-10-01T10:32:21+00:00",
-      "source_published_at": "Wed, 30 Sep 2026 16:07:27 +0000",
-      "image_url": "/article_images/article_789c8d4336c1.webp",
+      "source": "verified:sciencedaily.com",
+      "time_ago": "Thu, 01 Oct 2026 09:59:22 EDT",
+      "mined_at": "2026-10-01T23:52:32+00:00",
+      "source_published_at": "Thu, 01 Oct 2026 09:59:22 EDT",
+      "image_url": "/article_images/science-c055.webp",
       "category": "Science",
-      "title": "This Planet Orbits Its Star Backward — And Scientists Are Stumped",
-      "summary": "Astronomers found an exoplanet called GJ 3090 b that orbits its star in the opposite direction. It's one of the most misaligned planets ever seen, and no one knows why."
+      "title": "Surprise! These Stick Insects Were Hiding in Plain Sight",
+      "summary": "Scientists in Australia found two new stick insect species. One has eggs with a special lid. They also gave a new name to a familiar stick insect that had been misidentified for decades."
     }
   ]
 }

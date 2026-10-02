@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-10-01-fun-1",
-      "source": "TIME for Kids",
-      "time_ago": "Wed, 30 Sep 2026 13:26:11 +0000",
-      "mined_at": "2026-10-01T10:32:21+00:00",
-      "source_published_at": "Wed, 30 Sep 2026 13:26:11 +0000",
-      "image_url": "/article_images/article_25b95f44beb3.webp",
+      "source": "verified:bbc.co.uk",
+      "time_ago": "Wed, 30 Sep 2026 14:50:46 GMT",
+      "mined_at": "2026-10-01T23:52:32+00:00",
+      "source_published_at": "Wed, 30 Sep 2026 14:50:46 GMT",
+      "image_url": "/article_images/fun-c083.webp",
       "category": "Fun",
-      "title": "Pokémon Hits 30: How a Card-Catching Game Became the World's Biggest Franchise",
-      "summary": "Pokémon turns 30 this year. It launched in Japan on February 27, 1996, with two games, and is now the world's most valuable media franchise. Over 50,000 fans gathered in San Francisco for the World Championships."
+      "title": "At 39, Djokovic Wins First Match Since Wimbledon Despite Shoulder Treatment",
+      "summary": "Novak Djokovic beat Nuno Borges 6-3, 7-6 (7-2) at the China Open for his first win since the Wimbledon semi-finals in July and his 30th straight victory in Beijing. He needed a medical timeout for his right shoulder."
     },
     {
       "id": "2026-10-01-fun-2",
-      "source": "MIT News",
-      "time_ago": "Wed, 30 Sep 2026 11:00:00 -0400",
-      "mined_at": "2026-10-01T10:32:21+00:00",
-      "source_published_at": "Wed, 30 Sep 2026 11:00:00 -0400",
-      "image_url": "/article_images/article_ea039df066f8.webp",
+      "source": "verified:dogonews.com",
+      "time_ago": "",
+      "mined_at": "2026-10-01T23:52:32+00:00",
+      "source_published_at": "",
+      "image_url": "/article_images/fun-c077.webp",
       "category": "Fun",
-      "title": "New AI Conquers Stratego, a Game Where You Can't See the Enemy",
-      "summary": "Researchers from MIT and other universities built an AI that beat top human Stratego players — a first. The game hides piece identities, making it a tough test. The AI is cheaper to train and could help with cybersecurity and negotiations."
+      "title": "About 20,000 People, One 3.1-Mile Table and a New World Record in Romania",
+      "summary": "About 20,000 people ate at a 3.1-mile table made from recycled materials in Bucharest, Romania, setting a Guinness World Record. The meal raised more than $110,000 for the country's first psychiatric hospital for children."
     },
     {
       "id": "2026-10-01-fun-3",
-      "source": "BBC Tennis",
-      "time_ago": "Wed, 30 Sep 2026 14:50:46 GMT",
-      "mined_at": "2026-10-01T10:32:21+00:00",
-      "source_published_at": "Wed, 30 Sep 2026 14:50:46 GMT",
-      "image_url": "/article_images/article_746970f79828.webp",
+      "source": "verified:dogonews.com",
+      "time_ago": "",
+      "mined_at": "2026-10-01T23:52:32+00:00",
+      "source_published_at": "",
+      "image_url": "/article_images/fun-c076.webp",
       "category": "Fun",
-      "title": "Djokovic Battles Past Borges at China Open for First Win Since Wimbledon",
-      "summary": "Novak Djokovic beat Nuno Borges 6-3, 7-6 (7-2) at the China Open — his first win since July. The 39-year-old needed a shoulder timeout but kept his 30-match Beijing streak alive. He faces Bu Yunchaokete next."
+      "title": "NASA Announces $20 Billion \"Ignition\" Plan for a Permanent Moon Base",
+      "summary": "NASA announced \"Ignition,\" a $20 billion plan for a permanent Moon base near the lunar south pole. Robotic missions start in 2026, and a permanent outpost phase begins in 2032."
     }
   ]
 }
