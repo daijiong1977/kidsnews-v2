@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-01-science-1",
-      "source": "verified:sciencedaily.com",
+      "id": "2026-10-02-science-1",
+      "source": "ScienceDaily Top Technology",
       "time_ago": "Wed, 30 Sep 2026 08:27:27 EDT",
-      "mined_at": "2026-10-01T23:52:32+00:00",
+      "mined_at": "2026-10-02T10:30:53+00:00",
       "source_published_at": "Wed, 30 Sep 2026 08:27:27 EDT",
-      "image_url": "/article_images/science-c050.webp",
+      "image_url": "/article_images/article_9edadeb38011.webp",
       "category": "Science",
-      "title": "A Star Crash Glowed in X-Rays for Nearly 10 Minutes",
-      "summary": "Astronomers saw an X-ray flash that lasted nearly ten minutes. It may have come from two neutron stars merging and forming a magnetar, a spinning star with a huge magnetic field."
+      "title": "A Giant X-Ray Flash May Have Revealed a Brand-New Magnetar",
+      "summary": "Astronomers saw a giant X-ray flash that lasted 10 minutes — way longer than normal. They think it came from two super-dense stars crashing together and forming a magnetar, a star with a magnetic field billions of times stronger than Earth's."
     },
     {
-      "id": "2026-10-01-science-2",
-      "source": "verified:sciencedaily.com",
-      "time_ago": "Tue, 29 Sep 2026 08:02:30 EDT",
-      "mined_at": "2026-10-01T23:52:32+00:00",
-      "source_published_at": "Tue, 29 Sep 2026 08:02:30 EDT",
-      "image_url": "/article_images/science-c051.webp",
+      "id": "2026-10-02-science-2",
+      "source": "Live Science",
+      "time_ago": "Thu, 01 Oct 2026 16:10:41 +0000",
+      "mined_at": "2026-10-02T10:30:53+00:00",
+      "source_published_at": "Thu, 01 Oct 2026 16:10:41 +0000",
+      "image_url": "/article_images/article_252cff6c592c.webp",
       "category": "Science",
-      "title": "A New Way to Spot a Tricky Quantum Link",
-      "summary": "Researchers in Japan demonstrated an entangled measurement that can identify a type of quantum link called a W state, using three photons. It could help future quantum technologies."
+      "title": "World's Smallest Crocodiles Caught on Camera Hunting Bats in a Cave",
+      "summary": "For the first time, scientists filmed dwarf crocodiles sneaking up on bats in a pitch-black cave in Gabon. The crocs live in bat poop, have orange skin, and are evolving in a totally wild way."
     },
     {
-      "id": "2026-10-01-science-3",
-      "source": "verified:sciencedaily.com",
-      "time_ago": "Thu, 01 Oct 2026 09:59:22 EDT",
-      "mined_at": "2026-10-01T23:52:32+00:00",
-      "source_published_at": "Thu, 01 Oct 2026 09:59:22 EDT",
-      "image_url": "/article_images/science-c055.webp",
+      "id": "2026-10-02-science-3",
+      "source": "CBC World",
+      "time_ago": "Thu, 01 Oct 2026 11:24:37 EDT",
+      "mined_at": "2026-10-02T10:30:53+00:00",
+      "source_published_at": "Thu, 01 Oct 2026 11:24:37 EDT",
+      "image_url": "/article_images/article_aa40e068f613.webp",
       "category": "Science",
-      "title": "Surprise! These Stick Insects Were Hiding in Plain Sight",
-      "summary": "Scientists in Australia found two new stick insect species. One has eggs with a special lid. They also gave a new name to a familiar stick insect that had been misidentified for decades."
+      "title": "Swiss Glaciers Are Melting Fast — and It's Getting Worse",
+      "summary": "Switzerland's glaciers lost 5.5% of their ice this year, the second-biggest drop ever. In just five years, they've shrunk by nearly a fifth. Scientists say human-caused warming is to blame."
     }
   ]
 }

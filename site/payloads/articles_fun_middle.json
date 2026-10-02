@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-01-fun-1",
-      "source": "verified:bbc.co.uk",
-      "time_ago": "Wed, 30 Sep 2026 14:50:46 GMT",
-      "mined_at": "2026-10-01T23:52:32+00:00",
-      "source_published_at": "Wed, 30 Sep 2026 14:50:46 GMT",
-      "image_url": "/article_images/fun-c083.webp",
+      "id": "2026-10-02-fun-1",
+      "source": "BBC Tennis",
+      "time_ago": "Thu, 01 Oct 2026 16:40:52 GMT",
+      "mined_at": "2026-10-02T10:30:53+00:00",
+      "source_published_at": "Thu, 01 Oct 2026 16:40:52 GMT",
+      "image_url": "/article_images/article_df4dfe2bcf30.webp",
       "category": "Fun",
-      "title": "At 39, Djokovic Wins First Match Since Wimbledon Despite Shoulder Treatment",
-      "summary": "Novak Djokovic beat Nuno Borges 6-3, 7-6 (7-2) at the China Open for his first win since the Wimbledon semi-finals in July and his 30th straight victory in Beijing. He needed a medical timeout for his right shoulder."
+      "title": "Equal Pay Smash: Tennis Levels the Court for Men and Women",
+      "summary": "The WTA announced that all combined 1,000-level tennis events will award equal prize money to men and women starting next year. The Italian, Canadian, and Cincinnati Opens are now on board, joining the Grand Slams."
     },
     {
-      "id": "2026-10-01-fun-2",
-      "source": "verified:dogonews.com",
-      "time_ago": "",
-      "mined_at": "2026-10-01T23:52:32+00:00",
-      "source_published_at": "",
-      "image_url": "/article_images/fun-c077.webp",
+      "id": "2026-10-02-fun-2",
+      "source": "/Film",
+      "time_ago": "Thu, 01 Oct 2026 22:11:33 +0000",
+      "mined_at": "2026-10-02T10:30:53+00:00",
+      "source_published_at": "Thu, 01 Oct 2026 22:11:33 +0000",
+      "image_url": "/article_images/article_48d6dda111f4.webp",
       "category": "Fun",
-      "title": "About 20,000 People, One 3.1-Mile Table and a New World Record in Romania",
-      "summary": "About 20,000 people ate at a 3.1-mile table made from recycled materials in Bucharest, Romania, setting a Guinness World Record. The meal raised more than $110,000 for the country's first psychiatric hospital for children."
+      "title": "VisionQuest Trailer Reveals Marvel's Most Mysterious Mercenary",
+      "summary": "Marvel's new series \"VisionQuest\" premieres October 14 on Disney+. The trailer introduces Paladin, a mercenary with almost no known backstory, who is hunting Vision for a bounty."
     },
     {
-      "id": "2026-10-01-fun-3",
-      "source": "verified:dogonews.com",
-      "time_ago": "",
-      "mined_at": "2026-10-01T23:52:32+00:00",
-      "source_published_at": "",
-      "image_url": "/article_images/fun-c076.webp",
+      "id": "2026-10-02-fun-3",
+      "source": "Rolling Stone Music",
+      "time_ago": "Fri, 02 Oct 2026 04:22:32 +0000",
+      "mined_at": "2026-10-02T10:30:53+00:00",
+      "source_published_at": "Fri, 02 Oct 2026 04:22:32 +0000",
+      "image_url": "/article_images/article_d975b34c2512.webp",
       "category": "Fun",
-      "title": "NASA Announces $20 Billion \"Ignition\" Plan for a Permanent Moon Base",
-      "summary": "NASA announced \"Ignition,\" a $20 billion plan for a permanent Moon base near the lunar south pole. Robotic missions start in 2026, and a permanent outpost phase begins in 2032."
+      "title": "Noah Kahan's Hunger Games Song Is About Grief and Hope",
+      "summary": "Noah Kahan released \"Draw You Out,\" his song for the Hunger Games prequel \"Sunrise on the Reaping.\" The track, co-produced by Aaron Dessner, arrives before the album drops November 13 and the film opens November 20."
     }
   ]
 }

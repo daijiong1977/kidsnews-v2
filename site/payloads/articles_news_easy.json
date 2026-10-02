@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-01-news-1",
-      "source": "verified:cbc.ca",
-      "time_ago": "Wed, 30 Sep 2026 06:15:54 EDT",
-      "mined_at": "2026-10-01T23:52:32+00:00",
-      "source_published_at": "Wed, 30 Sep 2026 06:15:54 EDT",
-      "image_url": "/article_images/news-c044.webp",
+      "id": "2026-10-02-news-1",
+      "source": "CBC World",
+      "time_ago": "Fri, 02 Oct 2026 04:00:00 EDT",
+      "mined_at": "2026-10-02T10:30:53+00:00",
+      "source_published_at": "Fri, 02 Oct 2026 04:00:00 EDT",
+      "image_url": "/article_images/article_44c0dce38d33.webp",
       "category": "News",
-      "title": "Officials Say Passengers and Crew Stopped a Co-Pilot on a FlyDubai Flight",
-      "summary": "Israeli officials say a FlyDubai co-pilot tried to crash a plane flying from Dubai to Tel Aviv. The captain opened the cockpit door, and passengers and crew overpowered the attacker. The plane landed safely in Saudi Arabia."
+      "title": "Black Sea Strikes Are Making It Harder to Get Wheat",
+      "summary": "The Black Sea is the most dangerous it has been since the war in Ukraine began. Since July, there have been more than 210 attacks on ships, and wheat exports from Russia and Ukraine are down about 60 percent."
     },
     {
-      "id": "2026-10-01-news-2",
-      "source": "verified:npr.org",
-      "time_ago": "Thu, 01 Oct 2026 11:41:49 -0400",
-      "mined_at": "2026-10-01T23:52:32+00:00",
-      "source_published_at": "Thu, 01 Oct 2026 11:41:49 -0400",
-      "image_url": "/article_images/news-c020.webp",
+      "id": "2026-10-02-news-2",
+      "source": "BBC News",
+      "time_ago": "Fri, 02 Oct 2026 10:04:56 GMT",
+      "mined_at": "2026-10-02T10:30:53+00:00",
+      "source_published_at": "Fri, 02 Oct 2026 10:04:56 GMT",
+      "image_url": "/article_images/article_9755b951926c.webp",
       "category": "News",
-      "title": "Tennessee Stops an Execution and Orders a Review",
-      "summary": "Tennessee tried to carry out the execution of Christa Pike, but stopped the attempt after two doses of a drug. Governor Bill Lee has ordered a third-party review of how the state carries out the death penalty."
+      "title": "Ethiopia and Eritrea Cut Ties as Fighting Grows in the North",
+      "summary": "Ethiopia and Eritrea have cut diplomatic ties after more than 50 people were killed in new fighting in northern Ethiopia. Ethiopia ordered 10 Eritrean diplomats to leave within 48 hours, and Eritrea responded by ending relations."
     },
     {
-      "id": "2026-10-01-news-3",
-      "source": "verified:cbc.ca",
-      "time_ago": "Wed, 30 Sep 2026 17:02:54 EDT",
-      "mined_at": "2026-10-01T23:52:32+00:00",
-      "source_published_at": "Wed, 30 Sep 2026 17:02:54 EDT",
-      "image_url": "/article_images/news-c046.webp",
+      "id": "2026-10-02-news-3",
+      "source": "CBC World",
+      "time_ago": "Thu, 01 Oct 2026 16:20:00 EDT",
+      "mined_at": "2026-10-02T10:30:53+00:00",
+      "source_published_at": "Thu, 01 Oct 2026 16:20:00 EDT",
+      "image_url": "/article_images/article_ffd0819ae73c.webp",
       "category": "News",
-      "title": "U.S. Military to Cut 20% of Its Generals and Admirals",
-      "summary": "War Secretary Pete Hegseth said the U.S. military will cut 20% of its generals and admirals by Jan. 1, 2027. He also announced a new command for autonomous and robotic systems. Two senators reacted differently."
+      "title": "Putin Warns the West About a Small Russian Territory Called Kaliningrad",
+      "summary": "Russia's leader, Vladimir Putin, warned NATO not to threaten Kaliningrad — a small Russian area squeezed between Poland and Lithuania. He said Russia would use every weapon it has, including nuclear ones, to defend it. NATO says it is a defensive alliance."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-01-science-1",
-      "source": "verified:sciencedaily.com",
+      "id": "2026-10-02-science-1",
+      "source": "ScienceDaily Top Technology",
       "time_ago": "Wed, 30 Sep 2026 08:27:27 EDT",
-      "mined_at": "2026-10-01T23:52:32+00:00",
+      "mined_at": "2026-10-02T10:30:53+00:00",
       "source_published_at": "Wed, 30 Sep 2026 08:27:27 EDT",
-      "image_url": "/article_images/science-c050.webp",
+      "image_url": "/article_images/article_9edadeb38011.webp",
       "category": "Science",
-      "title": "A 10-Minute X-Ray Flash May Mark the Birth of a Magnetar",
-      "summary": "An X-ray flash from a neutron star merger lasted nearly ten minutes, the longest of its kind observed. Researchers say the collision may have formed a magnetar, a neutron star with a huge magnetic field."
+      "title": "Record-Breaking X-Ray Flash Could Be the Birth Cry of a Magnetar",
+      "summary": "A 10-minute X-ray flash from a neutron star merger may be the first clear sign of a magnetar forming. The event happened over 6 billion light-years away and was caught by the Einstein Probe satellite."
     },
     {
-      "id": "2026-10-01-science-2",
-      "source": "verified:sciencedaily.com",
-      "time_ago": "Tue, 29 Sep 2026 08:02:30 EDT",
-      "mined_at": "2026-10-01T23:52:32+00:00",
-      "source_published_at": "Tue, 29 Sep 2026 08:02:30 EDT",
-      "image_url": "/article_images/science-c051.webp",
+      "id": "2026-10-02-science-2",
+      "source": "Live Science",
+      "time_ago": "Thu, 01 Oct 2026 16:10:41 +0000",
+      "mined_at": "2026-10-02T10:30:53+00:00",
+      "source_published_at": "Thu, 01 Oct 2026 16:10:41 +0000",
+      "image_url": "/article_images/article_252cff6c592c.webp",
       "category": "Science",
-      "title": "Researchers Demonstrate a New Way to Identify the Quantum W State",
-      "summary": "Researchers at Kyoto and Hiroshima Universities developed and tested an entangled measurement that can identify the W state of three photons. It could contribute to quantum teleportation and computing."
+      "title": "Watch: Dwarf Crocodiles Ambush Bats in a Pitch-Black Cave",
+      "summary": "Scientists have filmed dwarf crocodiles hunting bats in Gabon's Abanda Caves — a behavior never seen before. The crocs live in bat guano, have orange skin, and may be evolving into a new species."
     },
     {
-      "id": "2026-10-01-science-3",
-      "source": "verified:sciencedaily.com",
-      "time_ago": "Thu, 01 Oct 2026 09:59:22 EDT",
-      "mined_at": "2026-10-01T23:52:32+00:00",
-      "source_published_at": "Thu, 01 Oct 2026 09:59:22 EDT",
-      "image_url": "/article_images/science-c055.webp",
+      "id": "2026-10-02-science-3",
+      "source": "CBC World",
+      "time_ago": "Thu, 01 Oct 2026 11:24:37 EDT",
+      "mined_at": "2026-10-02T10:30:53+00:00",
+      "source_published_at": "Thu, 01 Oct 2026 11:24:37 EDT",
+      "image_url": "/article_images/article_aa40e068f613.webp",
       "category": "Science",
-      "title": "Two New Giant Stick Insect Species Found in Australia",
-      "summary": "Researchers identified two new large stick insect species in Australia, one with lidded eggs. A third, familiar species had been misidentified for decades. What was once counted as two species is really five."
+      "title": "Switzerland's Glaciers Lost 5.5% of Their Ice This Year — and They May Not Survive",
+      "summary": "Swiss glaciers shrank by 5.5% this year, the second-worst drop on record. In five years, they've lost nearly a fifth of their volume. Scientists say human-caused warming is entirely to blame."
     }
   ]
 }

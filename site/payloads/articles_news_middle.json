@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-01-news-1",
-      "source": "verified:cbc.ca",
-      "time_ago": "Wed, 30 Sep 2026 06:15:54 EDT",
-      "mined_at": "2026-10-01T23:52:32+00:00",
-      "source_published_at": "Wed, 30 Sep 2026 06:15:54 EDT",
-      "image_url": "/article_images/news-c044.webp",
+      "id": "2026-10-02-news-1",
+      "source": "CBC World",
+      "time_ago": "Fri, 02 Oct 2026 04:00:00 EDT",
+      "mined_at": "2026-10-02T10:30:53+00:00",
+      "source_published_at": "Fri, 02 Oct 2026 04:00:00 EDT",
+      "image_url": "/article_images/article_44c0dce38d33.webp",
       "category": "News",
-      "title": "Officials Say Captain and Passengers Stopped Co-Pilot's Attempt to Crash FlyDubai Plane",
-      "summary": "Israeli officials say a FlyDubai co-pilot tried to crash a Dubai–Tel Aviv flight after stabbing the captain. Netanyahu said the injured captain opened the cockpit door so passengers and crew could overpower the attacker. The plane landed safely in Saudi Arabia."
+      "title": "Black Sea Attacks Threaten Global Wheat Supply",
+      "summary": "The Black Sea is the most dangerous it has been since Russia's 2022 invasion of Ukraine. More than 210 attacks on commercial ships since July have helped push combined Russian and Ukrainian wheat exports down about 60 percent."
     },
     {
-      "id": "2026-10-01-news-2",
-      "source": "verified:npr.org",
-      "time_ago": "Thu, 01 Oct 2026 11:41:49 -0400",
-      "mined_at": "2026-10-01T23:52:32+00:00",
-      "source_published_at": "Thu, 01 Oct 2026 11:41:49 -0400",
-      "image_url": "/article_images/news-c020.webp",
+      "id": "2026-10-02-news-2",
+      "source": "BBC News",
+      "time_ago": "Fri, 02 Oct 2026 10:04:56 GMT",
+      "mined_at": "2026-10-02T10:30:53+00:00",
+      "source_published_at": "Fri, 02 Oct 2026 10:04:56 GMT",
+      "image_url": "/article_images/article_9755b951926c.webp",
       "category": "News",
-      "title": "Tennessee Halts Execution After Two Lethal Injections; Governor Orders Review",
-      "summary": "Tennessee halted the execution of Christa Pike on Wednesday night after two doses of pentobarbital. Governor Bill Lee has ordered a third-party review and canceled the other execution planned for later this year."
+      "title": "Ethiopia and Eritrea Sever Diplomatic Ties as Northern Ethiopia Fighting Escalates",
+      "summary": "Ethiopia and Eritrea have cut diplomatic relations after renewed fighting in northern Ethiopia killed more than 50 people. Ethiopia expelled 10 Eritrean diplomats, accusing them of threatening national security; Eritrea called the move \"astounding.\""
     },
     {
-      "id": "2026-10-01-news-3",
-      "source": "verified:cbc.ca",
-      "time_ago": "Wed, 30 Sep 2026 17:02:54 EDT",
-      "mined_at": "2026-10-01T23:52:32+00:00",
-      "source_published_at": "Wed, 30 Sep 2026 17:02:54 EDT",
-      "image_url": "/article_images/news-c046.webp",
+      "id": "2026-10-02-news-3",
+      "source": "CBC World",
+      "time_ago": "Thu, 01 Oct 2026 16:20:00 EDT",
+      "mined_at": "2026-10-02T10:30:53+00:00",
+      "source_published_at": "Thu, 01 Oct 2026 16:20:00 EDT",
+      "image_url": "/article_images/article_ffd0819ae73c.webp",
       "category": "News",
-      "title": "Hegseth Announces 20% Cut to Generals and Admirals, New Robotics Command",
-      "summary": "War Secretary Pete Hegseth announced the military will cut 20% of its generals and admirals by Jan. 1, 2027, and create a new four-star command for autonomous and robotic systems. A Democratic and a Republican senator responded."
+      "title": "Putin Threatens Nuclear Response if Kaliningrad Is Attacked, Warns Against Escalation",
+      "summary": "Russian President Vladimir Putin warned the West not to threaten Kaliningrad, a Russian territory between Poland and Lithuania. He said Russia would use all weapons, including nuclear ones, if attacked. NATO says it is a defensive alliance and nuclear threats are not helpful."
     }
   ]
 }
