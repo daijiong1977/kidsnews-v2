@@ -1,113 +1,117 @@
 {
-  "title": "Electronic Music Pioneer Suzanne Ciani, 80, Finds an Audience at Last",
-  "summary": "Suzanne Ciani is 80 years old, and she helped shape electronic music. Electronic music is made with machines such as synthesizers instead of only regular instruments like guitars or drums.\n\nCiani was born in Ohio and studied music composition at UC Berkeley. There she met Don Buchla, who designed synthesizers, and she became one of the first people to master his Buchla modular analog synthesizer.\n\nIn 1974 she founded a company called Ciani/Musica. It made sounds for brands such as AT&T, General Electric and Coca-Cola. She created the soda's \"pop & pour\" sound logo and the Columbia Pictures intro score. She has released more than 25 studio and live albums and has five Grammy nominations, all in the new age category.\n\nCiani told Billboard that when she was starting out, she was excited about electronic music and thought the whole world would be too. Instead, she says, she ran into a wall, because nobody knew what the machine was or where the sound was coming from. \"I had no audience then. Now I have an audience,\" she said. \"The kids know what's going on. They have the machines.\"\n\nToday she is playing live shows. This weekend she performs her first concert in Scotland, at the Sonica Festival in Glasgow. In early November she will play Atomika, a new science and music festival in the desert outside Roswell, New Mexico. She is also selling her house after 34 years because she wants a new chapter. She says the basis of technology is change.",
-  "why_it_matters": "Ciani's story shows how a new kind of music and technology can start small, take years to be understood, and later inspire many young people.",
-  "image_url": "/article_images/fun-sb6701ff104ca1ec4.webp",
+  "title": "Engineers build a robot hand that walks like Thing",
+  "summary": "Halloween is almost here, and engineers have built a robot hand that can walk on its own. It is inspired by Thing, the creeping hand from The Addams Family. The robot hand can balance on its fingertips and creep around. It can tap keyboard keys, push small objects and even play a simple computer game while balancing on its other fingers. If it falls, it can get back up from a flat position.\n\nOther engineers have built walking robot hands before. But they had to make every finger the same length so the hand could balance. Human hands have fingers of different lengths and a thumb that faces the other fingers. That helps people use tools, but it makes walking harder.\n\nA team at the Soft Robotics Lab at ETH Zurich in Switzerland tried to solve this problem. They describe the work in a preprint, which is a paper that has not been reviewed by other scientists or accepted by a journal. The team started with a robot hand with five fingers and 20 joints that move. They added a battery, motion sensors and a tiny computer. The whole thing weighs 1.8 pounds.\n\nThe team taught the hand to balance in a computer simulation. They used reinforcement learning, which rewarded the hand each time it balanced correctly. In real tests, the hand crossed 14 different places, including carpet, gravel, grass and metal. In typing tests, it hit the right key 29 out of 32 times. It also played the puzzle game Sokoban by pressing the correct arrow keys. The team says robots working in tight spaces might one day use a hand like this to reach things.",
+  "why_it_matters": "Robots may one day work in tight places built for people. A hand that can move on its own might help them reach things, and the design could help robots handle objects made for human hands.",
+  "image_url": "/article_images/fun-sd8ed5364e2f3c69e.webp",
   "keywords": [
     {
-      "term": "synthesizer",
-      "explanation": "An electronic instrument that makes many kinds of sounds."
+      "term": "robot hand",
+      "explanation": "A machine shaped like a hand that can move on its own."
     },
     {
-      "term": "composition",
-      "explanation": "The art of writing music."
+      "term": "preprint",
+      "explanation": "A paper that other scientists have not yet reviewed."
     },
     {
-      "term": "sound logo",
-      "explanation": "A short sound that makes people think of a brand."
+      "term": "reinforcement learning",
+      "explanation": "A way of teaching software by giving rewards for correct actions."
     },
     {
-      "term": "Grammy",
-      "explanation": "A famous music award in the United States."
+      "term": "simulation",
+      "explanation": "A computer model that copies how something works."
     },
     {
-      "term": "festival",
-      "explanation": "A big event where many performers play music or show art."
+      "term": "balance",
+      "explanation": "To stay steady without falling over."
+    },
+    {
+      "term": "Sokoban",
+      "explanation": "A puzzle game where you push boxes into place."
     }
   ],
   "questions": [
     {
-      "question": "How old is Suzanne Ciani in the story?",
+      "question": "Which fictional character inspired the robot hand?",
       "options": [
-        "50 years old",
-        "80 years old",
-        "100 years old",
-        "18 years old"
+        "Wall-E from a Pixar film",
+        "Mickey from a cartoon",
+        "Robby from a space movie",
+        "Thing from The Addams Family"
       ],
-      "correct_answer": "80 years old"
+      "correct_answer": "Thing from The Addams Family"
     },
     {
-      "question": "What did she create for Coca-Cola?",
+      "question": "Where did the engineers build the robot hand?",
       "options": [
-        "The soda's \"pop & pour\" sound logo",
-        "A TV cartoon about the soda",
-        "A bottle shape with a new curve",
-        "A brand-new soda flavor for kids"
+        "A school in Texas",
+        "A movie studio in Hollywood",
+        "A toy factory in Florida",
+        "The Soft Robotics Lab at ETH Zurich"
       ],
-      "correct_answer": "The soda's \"pop & pour\" sound logo"
+      "correct_answer": "The Soft Robotics Lab at ETH Zurich"
     },
     {
-      "question": "Which instrument did she become one of the first to master?",
+      "question": "What did the team add to the off-the-shelf robot hand?",
       "options": [
-        "The Buchla modular analog synthesizer",
-        "A concert grand piano from a big hall",
-        "A loud marching band drum with sticks",
-        "A classical guitar made in old Spain"
+        "A battery, motion sensors and a tiny computer",
+        "A second thumb and a tiny engine",
+        "A light, a wrist and a long cable",
+        "Wheels, a camera and a speaker"
       ],
-      "correct_answer": "The Buchla modular analog synthesizer"
+      "correct_answer": "A battery, motion sensors and a tiny computer"
     },
     {
-      "question": "What did Ciani say about her early days in electronic music?",
+      "question": "How did the team teach the hand to balance?",
       "options": [
-        "She became famous on her very first day of work",
-        "She only played music for her family at home",
-        "She stopped making music for many long years",
-        "She ran into a wall because few people understood the machines"
+        "By letting the hand fall many times in a gym",
+        "By copying videos of a real hand",
+        "In a computer simulation with reinforcement learning",
+        "By having people move the fingers by hand"
       ],
-      "correct_answer": "She ran into a wall because few people understood the machines"
+      "correct_answer": "In a computer simulation with reinforcement learning"
     },
     {
-      "question": "Where does she perform her first concert in Scotland?",
+      "question": "How many times did the hand hit the right key out of 32?",
       "options": [
-        "At a big stadium in the city of London",
-        "At a castle in the city of Edinburgh",
-        "At a school in the town of Aberdeen",
-        "At the Sonica Festival in Glasgow"
+        "20",
+        "14",
+        "1.8",
+        "29"
       ],
-      "correct_answer": "At the Sonica Festival in Glasgow"
+      "correct_answer": "29"
     },
     {
-      "question": "What does Ciani say about young people today?",
+      "question": "What puzzle game did the hand play?",
       "options": [
-        "The kids should wait until they are older first",
-        "The kids do not like any kind of electronic music",
-        "The kids are too busy to listen to new music",
-        "The kids know what's going on and have the machines"
+        "Chess",
+        "Minesweeper",
+        "Sokoban",
+        "Tetris"
       ],
-      "correct_answer": "The kids know what's going on and have the machines"
+      "correct_answer": "Sokoban"
     }
   ],
   "background_read": [
-    "A synthesizer is an electronic instrument. It can copy the sound of other instruments or make completely new sounds."
+    "Halloween is a fall holiday when people enjoy spooky stories and costumes."
   ],
   "Article_Structure": [
-    "Opening: who Suzanne Ciani is",
-    "Her training and the synthesizer she mastered",
-    "Her company, Coca-Cola sound and awards",
-    "What she says about having an audience now",
-    "Upcoming shows and her new chapter"
+    "Opening: a Thing-inspired robot hand for Halloween",
+    "Why earlier walking robot hands needed changes",
+    "The team and the hardware they used",
+    "How the hand learned to balance",
+    "Test results and possible future uses"
   ],
   "perspectives": [
     {
-      "perspective": "Suzanne Ciani",
-      "description": "She says she once had no audience for electronic music, but now young people know what is going on and have the machines."
+      "perspective": "The researchers",
+      "description": "Write that giving robotic hands their own mobility could make future robots more versatile in spaces built for people."
     }
   ],
-  "mined_at": "2026-10-02T18:02:19+00:00",
-  "source_published_at": "Fri, 02 Oct 2026 17:07:38 +0000",
-  "source_name": "Billboard",
-  "source_url": "https://www.billboard.com/music/music-news/suzanne-ciani-electronic-pioneer-interview-1236352628/",
+  "mined_at": "2026-10-02T19:13:04+00:00",
+  "source_published_at": "Fri, 02 Oct 2026 13:03:00 -0400",
+  "source_name": "Popular Science",
+  "source_url": "https://www.popsci.com/technology/robot-hand-thing-addams-family/",
   "category": "Fun",
-  "source_word_count": 1010,
+  "source_word_count": 820,
   "detail_status": "full"
 }

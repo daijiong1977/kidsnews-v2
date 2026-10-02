@@ -1,113 +1,111 @@
 {
-  "title": "New Fabric \"Plant Armor\" Helps Strawberries Grow More Fruit",
-  "summary": "Strawberry plants are often attacked by insects, and farmers may use pesticides, which are chemicals that kill pests, to protect them. Researchers at North Carolina State University have developed a new fabric called Plant Armor that may help.\n\nThe fabric is placed directly over strawberry plants. Its three-dimensional structure forms a barrier that keeps insects from reaching the plants. The layered material still lets sunlight, rain and air pass through.\n\nIn tunnel field tests, strawberries covered by Plant Armor produced yields as much as 3.56 times higher than plants with no cover. The researchers say the fabric did not reduce light or harm the plants' health. Gabriel Olawuyi, a graduate research assistant and the lead author of the study, had expected a problem. He said, \"To produce fruit, plants need sunlight,\" so the team thought a darker cover might make plants grow more stems and leaves instead of fruit. But the fabric did not block the light, and fruit production went up a lot.\n\nThe fabric also kept the plants a little warmer during all three growing seasons of the study. That extra warmth helped covered plants reach the fruiting stage earlier. Because the fabric stops insects from feeding on the plants, Olawuyi said it could also reduce how much pesticide farmers need. The researchers say it may also help reduce water use.\n\nThe story behind the idea is surprising. Plant Armor grew out of research on making military uniforms more resistant to mosquito bites and making body armor more comfortable for soldiers. The study was published in the journal Agriculture.",
-  "why_it_matters": "If farmers can protect fruit from insects with a cover instead of more chemicals, they may grow more food with fewer pesticides.",
-  "image_url": "/article_images/science-s4ad5ffee3917e76f.webp",
+  "title": "Sharks can hear sounds from nearly 250 feet away",
+  "summary": "The ocean is full of sound. Scientists wanted to know how far a shark swimming freely in the ocean can hear, and whether it can tell where a faraway sound comes from. A new study from Florida Atlantic University begins to answer those questions.\n\nThe researchers studied blacktip sharks in shallow coastal waters off Palm Beach County in Florida. Large numbers of these sharks gather there each winter, and the clear water let scientists watch them from above. The team placed an underwater speaker in the water. It drifted with the current as far as 19 meters from their boat. They played three groups of low-frequency sounds. They also played a control sound, which is a sound used for comparison, and it was higher than sharks are known to hear. A drone flying 40 to 50 meters above the water recorded how the sharks moved.\n\nThe sharks reacted to all three low-frequency sounds but not to the control sound. They detected the low sounds from up to 74 meters (243 feet) away. That is farther than had been shown before in free-swimming sharks. The sharks also often made quick turns away from the speaker. That means they could tell which direction the sound came from.\n\nSharks do not have a gas-filled swim bladder like many bony fish. Scientists believe sharks mostly use their inner ears. One part is called the macula neglecta, which may help them sense vibrations as sound travels through water. The study was published in Integrative Organismal Biology.",
+  "why_it_matters": "Sharks sense the world in ways people do not fully understand. Learning how they hear can help scientists understand how they find food and avoid danger.",
+  "image_url": "/article_images/science-se9dd06ab2a50f20a.webp",
   "keywords": [
     {
-      "term": "pesticides",
-      "explanation": "Chemicals that kill pests, such as insects that harm crops."
+      "term": "blacktip sharks",
+      "explanation": "A kind of shark that gathers off Southeast Florida."
     },
     {
-      "term": "fabric",
-      "explanation": "Cloth made by weaving or knitting threads together."
+      "term": "underwater speaker",
+      "explanation": "A device that plays sounds under the water."
     },
     {
-      "term": "yields",
-      "explanation": "The amount of fruit or crops a farm or plant produces."
+      "term": "drone",
+      "explanation": "A flying machine without a pilot."
     },
     {
-      "term": "barrier",
-      "explanation": "Something that blocks the way, like a wall."
+      "term": "control sound",
+      "explanation": "A sound used for comparison in an experiment."
     },
     {
-      "term": "growing seasons",
-      "explanation": "The parts of the year when plants grow and make fruit."
+      "term": "swim bladder",
+      "explanation": "A gas-filled organ found in many bony fish."
+    },
+    {
+      "term": "inner ears",
+      "explanation": "Parts inside the head that help animals sense sound and motion."
     }
   ],
   "questions": [
     {
-      "question": "What is Plant Armor?",
+      "question": "Which animals did the scientists study?",
       "options": [
-        "A machine that picks strawberries",
-        "A new kind of strawberry seed",
-        "A fabric placed over strawberry plants",
-        "A spray that kills all insects"
+        "Dolphins",
+        "Great white sharks",
+        "Blacktip sharks",
+        "Sea turtles"
       ],
-      "correct_answer": "A fabric placed over strawberry plants"
+      "correct_answer": "Blacktip sharks"
     },
     {
-      "question": "What does the fabric keep away from the plants?",
+      "question": "What did the drone do?",
       "options": [
-        "Insects",
-        "Rain",
-        "Sunlight",
-        "Air"
+        "It dropped food for the sharks",
+        "It recorded how the sharks moved",
+        "It carried sharks to a new place",
+        "It played sounds under the water"
       ],
-      "correct_answer": "Insects"
+      "correct_answer": "It recorded how the sharks moved"
     },
     {
-      "question": "How much higher were yields under Plant Armor in the tests, at most?",
+      "question": "About how far away could sharks detect low sounds?",
       "options": [
-        "Exactly twice as high",
-        "As much as 3.56 times higher",
-        "The same as uncovered plants",
-        "About half as high"
+        "Up to 19 meters",
+        "Up to 50 meters",
+        "Up to 74 meters (243 feet)",
+        "Up to 40 meters"
       ],
-      "correct_answer": "As much as 3.56 times higher"
+      "correct_answer": "Up to 74 meters (243 feet)"
     },
     {
-      "question": "What worry did Gabriel Olawuyi's team have about a darker cover?",
+      "question": "What did the sharks do after the low sounds?",
       "options": [
-        "It might make strawberries turn blue",
-        "It might attract more insects to the field",
-        "It might make plants grow stems and leaves instead of fruit",
-        "It might stop farmers from walking in rows"
+        "They swam in circles around the drone",
+        "Most of them stopped moving for hours",
+        "All of them swam straight to the boat",
+        "Many made quick turns away from the speaker"
       ],
-      "correct_answer": "It might make plants grow stems and leaves instead of fruit"
+      "correct_answer": "Many made quick turns away from the speaker"
     },
     {
-      "question": "How did the fabric affect temperature?",
+      "question": "What was the control sound used for?",
       "options": [
-        "It cooled the plants every night",
-        "It kept the plants a little warmer",
-        "It made the plants freeze early",
-        "It had no effect at all"
+        "To test how fast the drone could fly",
+        "To compare the sharks' reactions to sounds they cannot hear",
+        "To scare the sharks away from the beach",
+        "To call the sharks closer to the boat"
       ],
-      "correct_answer": "It kept the plants a little warmer"
+      "correct_answer": "To compare the sharks' reactions to sounds they cannot hear"
     },
     {
-      "question": "What was the research behind Plant Armor first about?",
+      "question": "What do sharks mostly use to hear?",
       "options": [
-        "Building tunnels for trains",
-        "Military uniforms and body armor",
-        "Designing winter hats for farmers",
-        "Planting trees in the desert"
+        "Their bright eyes",
+        "A gas-filled swim bladder",
+        "Their inner ears",
+        "Their large teeth"
       ],
-      "correct_answer": "Military uniforms and body armor"
+      "correct_answer": "Their inner ears"
     }
   ],
   "background_read": [
-    "A field trial is a test done outdoors or in a real growing place, not just in a lab. Tunnel field tests use long covered growing tunnels."
+    "Hertz is a unit that measures how high or low a sound is. Low-frequency sounds are deep, low sounds."
   ],
   "Article_Structure": [
-    "Opening: insects and a new fabric called Plant Armor",
-    "How the fabric works",
-    "Test results and the surprise about sunlight",
-    "Extra warmth and fewer pesticides",
-    "The military research behind the idea"
+    "Opening: sound in the ocean and the question about sharks",
+    "Where and how the researchers did the test",
+    "What the sharks did and how far away they heard",
+    "How sharks hear without a swim bladder"
   ],
-  "perspectives": [
-    {
-      "perspective": "Gabriel Olawuyi, lead author",
-      "description": "He said the fabric did not impede light and fruit production increased significantly, and that it could reduce the pesticides needed."
-    }
-  ],
-  "mined_at": "2026-10-02T18:02:19+00:00",
-  "source_published_at": "Thu, 01 Oct 2026 09:43:15 EDT",
+  "perspectives": [],
+  "mined_at": "2026-10-02T19:13:04+00:00",
+  "source_published_at": "Tue, 29 Sep 2026 23:58:33 EDT",
   "source_name": "ScienceDaily Top Environment",
-  "source_url": "https://www.sciencedaily.com/releases/2026/09/260930020257.htm",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260929053536.htm",
   "category": "Science",
-  "source_word_count": 689,
+  "source_word_count": 836,
   "detail_status": "full"
 }

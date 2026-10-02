@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-10-02-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Fri, 02 Oct 2026 13:28:25 -0400",
-      "mined_at": "2026-10-02T18:02:19+00:00",
-      "source_published_at": "Fri, 02 Oct 2026 13:28:25 -0400",
-      "image_url": "/article_images/news-sfefbbf4291af290c.webp",
+      "source": "CBC World",
+      "time_ago": "Fri, 02 Oct 2026 10:15:35 EDT",
+      "mined_at": "2026-10-02T19:13:04+00:00",
+      "source_published_at": "Fri, 02 Oct 2026 10:15:35 EDT",
+      "image_url": "/article_images/news-sbe3341ed35e54b2c.webp",
       "category": "News",
-      "title": "Senate Republicans Move Campaign Money From North Carolina to Kansas",
-      "summary": "A big Republican campaign group is pulling back in North Carolina and spending more in Kansas. The midterm elections are a month away and will help decide who controls Congress."
+      "title": "Congo's Ebola outbreak passes 4,000 deaths",
+      "summary": "Congo's Ebola outbreak has caused more than 4,000 deaths, health officials say. The rare Bundibugyo virus has no known treatment or vaccine, and unpaid wages and unrest are making the response harder."
     },
     {
       "id": "2026-10-02-news-2",
       "source": "CBC World",
-      "time_ago": "Fri, 02 Oct 2026 10:15:35 EDT",
-      "mined_at": "2026-10-02T18:02:19+00:00",
-      "source_published_at": "Fri, 02 Oct 2026 10:15:35 EDT",
-      "image_url": "/article_images/news-sbe3341ed35e54b2c.webp",
+      "time_ago": "Fri, 02 Oct 2026 07:02:33 EDT",
+      "mined_at": "2026-10-02T19:13:04+00:00",
+      "source_published_at": "Fri, 02 Oct 2026 07:02:33 EDT",
+      "image_url": "/article_images/news-s037f181bf736ee3f.webp",
       "category": "News",
-      "title": "Ebola Outbreak in Congo Passes 4,000 Deaths",
-      "summary": "Congo's health ministry says more than 4,000 people have died in an Ebola outbreak. Workers face money problems and safety risks, and case numbers are slowing in some places."
+      "title": "France closes nearly 400 schools after violent education protests",
+      "summary": "About 400 schools in France are expected to stay closed Friday after student protests over teacher shortages and run-down buildings turned violent in some places. The justice minister says 2,000 people have been arrested."
     },
     {
       "id": "2026-10-02-news-3",
-      "source": "BBC News",
-      "time_ago": "Fri, 02 Oct 2026 15:26:37 GMT",
-      "mined_at": "2026-10-02T18:02:19+00:00",
-      "source_published_at": "Fri, 02 Oct 2026 15:26:37 GMT",
-      "image_url": "/article_images/news-s945d58c9fb793e94.webp",
+      "source": "ScienceDaily All",
+      "time_ago": "Wed, 30 Sep 2026 04:36:42 EDT",
+      "mined_at": "2026-10-02T19:13:04+00:00",
+      "source_published_at": "Wed, 30 Sep 2026 04:36:42 EDT",
+      "image_url": "/article_images/news-s5e79cf2682829e2c.webp",
       "category": "News",
-      "title": "Kyiv's Mayor Says Russian Strikes Are Hitting the City's Key Services",
-      "summary": "Kyiv's mayor says Russian strikes are hitting bridges, data centers and housing. A key bridge was hit again on Friday, and metro and car traffic across it has stopped."
+      "title": "NASA's Crew-13 aims for fastest U.S. trip to the space station",
+      "summary": "NASA planned for Crew-13 to reach the International Space Station in 7 hours and 50 minutes, which would be the fastest U.S. trip ever. Four crew members will spend an extended period aboard."
     }
   ]
 }

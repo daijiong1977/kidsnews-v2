@@ -1,121 +1,112 @@
 {
-  "title": "Kyiv's Mayor Says Russian Strikes Are Hitting the City's Key Services",
-  "summary": "Kyiv, the capital of Ukraine, is under heavy attack from Russia. The city's mayor, Vitaliy Klitschko, says the strikes are \"tearing Kyiv apart.\" He calls the situation \"very dramatic.\" He says Russia is hitting critical services such as logistics and housing.\n\nOne big target has been the Pivdennyi bridge. It is one of the main routes across the Dnipro River, which divides the western and eastern parts of the city. A Russian drone hit the bridge overnight. On Friday evening it was hit again, the fourth time in two days. Now no metro trains or cars can cross it. There are also restrictions on Kyiv's two other key bridges, so traffic jams have spread across the city. About three million people live in Kyiv, and many of them rely on the metro.\n\nData centers, which store information for the internet, have also been hit recently. That caused internet outages. Ukraine's state emergency service said one person was killed when a residential building was hit overnight.\n\nThe leaders describe the attacks in different ways. The mayor says Russia wants to \"sow panic.\" Ukrainian President Volodymyr Zelensky says Russian President Vladimir Putin decided in early September that \"there are no rules now.\" Putin says Russia is answering Ukraine's strikes on Russian energy sites and oil refineries.\n\nAfter a crisis meeting of Kyiv's defence council, Klitschko said the city would get through this with the joint efforts of the people who care about it.",
-  "why_it_matters": "Attacks on bridges, internet and housing affect how ordinary people travel, communicate and live every day.",
-  "image_url": "/article_images/news-s945d58c9fb793e94.webp",
+  "title": "NASA's Crew-13 aims for fastest U.S. trip to the space station",
+  "summary": "NASA planned to send four people to the International Space Station, and the trip could set a record. The mission is called Crew-13. A SpaceX Dragon spacecraft was scheduled to lift off at 11:10 a.m. EDT on Thursday, Oct. 1, from Cape Canaveral Space Force Station in Florida.\n\nDocking with the station was targeted for about 7 p.m. The trip from launch to docking was planned to take 7 hours and 50 minutes. If it happened as scheduled, it would be the fastest trip to the space station by a U.S. spacecraft in the station's history.\n\nFour crew members were to fly on Dragon. They are NASA astronauts Jessica Watkins and Luke Delaney, Canadian Space Agency astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov. A cosmonaut is a space traveler from Russia. They will spend an extended period aboard the station doing science and other mission activities.\n\nNASA planned to show the launch and arrival live on several platforms. After arriving, the new crew will do a brief handover with members of NASA's SpaceX Crew-12 mission. A handover is when one crew passes along information to the next. Crew-12 is expected to begin its trip back to Earth no earlier than Monday, Oct. 5. All times were Eastern and could change based on real-time operations.",
+  "why_it_matters": "Trips to the space station carry astronauts and science work to a laboratory in orbit. A faster trip would show how spaceflight planning is improving.",
+  "image_url": "/article_images/news-s5e79cf2682829e2c.webp",
   "keywords": [
     {
-      "term": "mayor",
-      "explanation": "The leader of a city."
+      "term": "International Space Station",
+      "explanation": "A large science laboratory that circles Earth."
     },
     {
-      "term": "drone",
-      "explanation": "An aircraft that flies without a pilot on board."
+      "term": "docking",
+      "explanation": "When one spacecraft joins to another in space."
     },
     {
-      "term": "data centers",
-      "explanation": "Buildings full of computers that store and send information for the internet."
+      "term": "spacecraft",
+      "explanation": "A vehicle that travels in space."
     },
     {
-      "term": "outages",
-      "explanation": "Times when a service such as the internet stops working."
+      "term": "cosmonaut",
+      "explanation": "A space traveler from Russia."
     },
     {
-      "term": "metro",
-      "explanation": "An underground train system in a city."
+      "term": "handover",
+      "explanation": "When one crew passes along information to the next."
+    },
+    {
+      "term": "mission",
+      "explanation": "A special job or trip with a goal."
     }
   ],
   "questions": [
     {
-      "question": "Who is Vitaliy Klitschko?",
+      "question": "Which spacecraft was planned to carry the crew?",
       "options": [
-        "A reporter for the BBC",
-        "The president of Ukraine",
-        "The mayor of Kyiv",
-        "The president of Russia"
+        "The Space Shuttle",
+        "A Soyuz rocket",
+        "SpaceX Dragon",
+        "An Apollo capsule"
       ],
-      "correct_answer": "The mayor of Kyiv"
+      "correct_answer": "SpaceX Dragon"
     },
     {
-      "question": "Which structure was hit again on Friday evening?",
+      "question": "How long was the trip from launch to docking planned to take?",
       "options": [
-        "The city's main school",
-        "The Dnipro River dam",
-        "The Pivdennyi bridge",
-        "The central train station"
+        "5 hours and 20 minutes",
+        "11 hours and 10 minutes",
+        "8 hours and 45 minutes",
+        "7 hours and 50 minutes"
       ],
-      "correct_answer": "The Pivdennyi bridge"
+      "correct_answer": "7 hours and 50 minutes"
     },
     {
-      "question": "What cannot cross the bridge now?",
+      "question": "What would make this trip a record?",
       "options": [
-        "Metro trains and cars",
-        "Only large trucks",
-        "Only people on bikes",
-        "Boats and ferries"
+        "It would be the fastest U.S. trip to the station",
+        "It would carry the largest crew ever",
+        "It would be the first Canadian crew",
+        "It would stay the longest in space"
       ],
-      "correct_answer": "Metro trains and cars"
+      "correct_answer": "It would be the fastest U.S. trip to the station"
     },
     {
-      "question": "What happened after data centers were hit?",
+      "question": "Which space agency does Joshua Kutryk represent?",
       "options": [
-        "Schools gave out free computers",
-        "All the lights stayed on",
-        "The metro ran faster",
-        "There were internet outages"
+        "Roscosmos",
+        "SpaceX",
+        "Canadian Space Agency",
+        "NASA"
       ],
-      "correct_answer": "There were internet outages"
+      "correct_answer": "Canadian Space Agency"
     },
     {
-      "question": "About how many people live in Kyiv, according to the story?",
+      "question": "What is a cosmonaut, according to the story?",
       "options": [
-        "About thirty thousand",
-        "About three thousand",
-        "About three million",
-        "About three hundred"
+        "A scientist who builds Dragon",
+        "A reporter covering the launch",
+        "A flight controller at NASA",
+        "A space traveler from Russia"
       ],
-      "correct_answer": "About three million"
+      "correct_answer": "A space traveler from Russia"
     },
     {
-      "question": "What does Putin say about the attacks?",
+      "question": "When is Crew-12 expected to begin its trip back to Earth?",
       "options": [
-        "They are only a practice exercise",
-        "They answer Ukraine's strikes on Russian energy sites",
-        "They were started by the mayor of Kyiv",
-        "They are a mistake that will stop soon"
+        "Before Crew-13 arrives",
+        "No earlier than Monday, Oct. 5",
+        "On Thursday, Oct. 1",
+        "Right after the launch"
       ],
-      "correct_answer": "They answer Ukraine's strikes on Russian energy sites"
+      "correct_answer": "No earlier than Monday, Oct. 5"
     }
   ],
   "background_read": [
-    "The Dnipro River runs through Kyiv and splits the city into western and eastern parts, so bridges are very important for getting around."
+    "The International Space Station is a laboratory where astronauts live and work while it orbits Earth."
   ],
   "Article_Structure": [
-    "Opening: the mayor warns about Russian strikes",
-    "The bridge that was hit again and what that means for traffic",
-    "Data centers, internet outages and a death reported by officials",
-    "How leaders describe the attacks",
-    "The mayor's closing message"
+    "Opening: NASA plans a record-fast trip",
+    "Launch time and place",
+    "Docking plan and trip length",
+    "The four crew members",
+    "Live coverage and the handover with Crew-12"
   ],
-  "perspectives": [
-    {
-      "perspective": "Vitaliy Klitschko",
-      "description": "The Kyiv mayor says Russia wants to sow panic and that the city will prevail through joint efforts."
-    },
-    {
-      "perspective": "Vladimir Putin",
-      "description": "The Russian president says Russia's attacks are a response to Ukraine's strikes on Russian energy sites."
-    },
-    {
-      "perspective": "Volodymyr Zelensky",
-      "description": "The Ukrainian president says Putin decided in early September that there are no rules now."
-    }
-  ],
-  "mined_at": "2026-10-02T18:02:19+00:00",
-  "source_published_at": "Fri, 02 Oct 2026 15:26:37 GMT",
-  "source_name": "BBC News",
-  "source_url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
+  "perspectives": [],
+  "mined_at": "2026-10-02T19:13:04+00:00",
+  "source_published_at": "Wed, 30 Sep 2026 04:36:42 EDT",
+  "source_name": "ScienceDaily All",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260930020312.htm",
   "category": "News",
-  "source_word_count": 456,
+  "source_word_count": 362,
   "detail_status": "full"
 }

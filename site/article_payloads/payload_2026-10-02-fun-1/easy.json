@@ -1,117 +1,111 @@
 {
-  "title": "A Robot Hand Like Thing Can Walk, Type and Play a Game",
-  "summary": "Halloween is almost here, and engineers have built a robot that looks like Thing, the creepy hand from The Addams Family. It is a robot hand with no arm or body. It can balance on its own fingertips and creep along the ground.\n\nA team at the Soft Robotics Lab at ETH Zurich in Switzerland built it. They started with a robot hand that has five fingers and 20 moving joints. Then they added a battery, motion sensors and a tiny computer on the back. With those extras, the whole thing weighs 1.8 pounds.\n\nTeaching the hand to balance was tricky, because human hands have fingers of different lengths. The team trained the software in a computer simulation using reinforcement learning, which gives the software a reward each time it does something right.\n\nThen the team tested the hand in 14 different places, indoors and outdoors. It crept across carpet, gravel, grass and metal with a springy, spider-like walk. It could also push a small cube while balancing on its other fingers. It even typed on a keyboard, hitting the right key 29 out of 32 times. And it played a puzzle video game called Sokoban by pressing the arrow keys in the right order.\n\nThe team says the idea could be useful later. A humanoid robot working in a tight space might send its detached hand to fetch something it cannot reach. The researchers wrote that giving robotic hands their own mobility could make future robots more versatile. The work is a preprint, which means other scientists have not yet reviewed it.",
-  "why_it_matters": "Robots that can reach into tight spaces or handle tools made for people could be more helpful in the future.",
-  "image_url": "/article_images/fun-s4ba4eccbc53b6517.webp",
+  "title": "Lionel Messi's animated show shows its first teaser",
+  "summary": "Soccer star Lionel Messi is helping to make an animated show. It is called Messi and the Giants. It is a Disney sports-fantasy series, and Messi is one of its executive producers, which means he helps guide how the show is made. The show shared its first teaser on Friday, Oct. 2, at San Diego Comic-Con Málaga in Spain.\n\nThe show's theme song is \"Vamos, Vamos, Vamos.\" It was recorded by singer Luck Ra, who has topped the Billboard Argentina Hot 100 chart four times. His song is in the teaser. More than 3,000 fans in Hall M got a first look at the show's story, characters and music.\n\nThe story follows Leo, a 12-year-old boy who becomes trapped in an alternate reality ruled by giants. To return home, he must \"compete in high-stakes, soccer-like battles using powerful 'orbs,' defeat legendary giants, and restore the fractured realms of 'Iko,'\" according to the press release. Leo cannot use the world's code powers to supercharge his game. Instead, he relies on his real strengths: skill, teamwork and determination. The story is an underdog adventure about courage, perseverance and believing in yourself. Argentinian actor Milo Burgess-Webb will voice Leo.\n\nThe series is set to premiere around the world on Disney+ in summer 2027. Disney Channel is also scheduled to air it in the U.S.",
+  "why_it_matters": "Many young fans know Messi from soccer. This show uses a fantasy story to talk about teamwork, courage and believing in yourself.",
+  "image_url": "/article_images/fun-sfd732aa1ccb45201.webp",
   "keywords": [
     {
-      "term": "robot",
-      "explanation": "A machine that can do tasks, often controlled by a computer."
+      "term": "executive producers",
+      "explanation": "People who help guide how a show is made."
     },
     {
-      "term": "simulation",
-      "explanation": "A computer program that imitates real life so a machine can practice safely."
+      "term": "teaser",
+      "explanation": "A short first preview of a show."
     },
     {
-      "term": "reinforcement learning",
-      "explanation": "A way to train software by giving it a reward each time it does something right."
+      "term": "theme song",
+      "explanation": "The main song of a show."
     },
     {
-      "term": "keyboard",
-      "explanation": "The set of keys used to type on a computer."
+      "term": "alternate reality",
+      "explanation": "A different world from the one we live in."
     },
     {
-      "term": "preprint",
-      "explanation": "A science paper shared before other scientists have reviewed it."
+      "term": "underdog",
+      "explanation": "Someone who is not expected to win."
     },
     {
-      "term": "humanoid",
-      "explanation": "Shaped somewhat like a human, with parts such as a head, arms and hands."
+      "term": "premiere",
+      "explanation": "The first time a show is shown to the public."
     }
   ],
   "questions": [
     {
-      "question": "Which character inspired the robot hand?",
+      "question": "Who is helping to make the animated show?",
       "options": [
-        "Mickey Mouse",
-        "Spider-Man",
-        "Scooby-Doo",
-        "Thing from The Addams Family"
+        "Actor Milo Burgess-Webb",
+        "Soccer star Lionel Messi",
+        "Singer Luck Ra",
+        "Director Dan Creteur"
       ],
-      "correct_answer": "Thing from The Addams Family"
+      "correct_answer": "Soccer star Lionel Messi"
     },
     {
-      "question": "Where is the Soft Robotics Lab that built the hand?",
+      "question": "Where was the first teaser shown?",
       "options": [
-        "A school in Japan",
-        "A zoo in Canada",
-        "A museum in Italy",
-        "ETH Zurich in Switzerland"
+        "A movie theater in Los Angeles",
+        "A TV studio in Switzerland",
+        "A soccer stadium in Argentina",
+        "San Diego Comic-Con Málaga in Spain"
       ],
-      "correct_answer": "ETH Zurich in Switzerland"
+      "correct_answer": "San Diego Comic-Con Málaga in Spain"
     },
     {
-      "question": "How much does the robot hand weigh with its battery and computer?",
+      "question": "What is Leo's problem in the story?",
       "options": [
-        "180 pounds",
-        "1.8 pounds",
-        "18 pounds",
-        "0.2 pounds"
+        "He is trapped in a world ruled by giants",
+        "He cannot find his soccer team",
+        "He lost his voice before a big game",
+        "He has to move to a new school"
       ],
-      "correct_answer": "1.8 pounds"
+      "correct_answer": "He is trapped in a world ruled by giants"
     },
     {
-      "question": "How did the team train the hand to balance?",
+      "question": "What does Leo rely on instead of code powers?",
       "options": [
-        "By copying a video of a spider",
-        "By building it out of rubber bands",
-        "By letting children play with it",
-        "In a computer simulation with rewards"
+        "The help of the giants",
+        "Faster shoes and a stronger ball",
+        "Skill, teamwork and determination",
+        "Magic orbs and secret maps"
       ],
-      "correct_answer": "In a computer simulation with rewards"
+      "correct_answer": "Skill, teamwork and determination"
     },
     {
-      "question": "How often did the hand hit the correct key when typing?",
+      "question": "Who recorded the theme song?",
       "options": [
-        "29 out of 32 times",
-        "10 out of 32 times",
-        "32 out of 32 times",
-        "5 out of 32 times"
+        "Lionel Messi",
+        "Milo Burgess-Webb",
+        "Luck Ra",
+        "Leo"
       ],
-      "correct_answer": "29 out of 32 times"
+      "correct_answer": "Luck Ra"
     },
     {
-      "question": "What could a humanoid robot do with a detachable hand in the future?",
+      "question": "When is the series set to premiere on Disney+?",
       "options": [
-        "Plant it in the ground like a flower",
-        "Throw it as a toy for pets",
-        "Send it to fetch something it cannot reach",
-        "Use it to turn off the sun"
+        "Summer 2027",
+        "This winter",
+        "Next week",
+        "Later this month"
       ],
-      "correct_answer": "Send it to fetch something it cannot reach"
+      "correct_answer": "Summer 2027"
     }
   ],
   "background_read": [
-    "Thing is a funny, creepy hand character from The Addams Family, a spooky family comedy that is popular around Halloween."
+    "A press release is a statement that a company sends out to share news."
   ],
   "Article_Structure": [
-    "Opening: a Thing-like robot hand for Halloween",
-    "Who built it and what it is made of",
-    "How the team taught it to balance",
-    "What it can do in tests",
-    "Possible future uses and a note about the preprint"
+    "Opening: Messi's animated show shows its first teaser",
+    "The theme song and the Comic-Con Málaga presentation",
+    "The story of Leo and the giants",
+    "Release plans on Disney+ and Disney Channel"
   ],
-  "perspectives": [
-    {
-      "perspective": "The researchers",
-      "description": "They wrote that giving robotic hands their own mobility could make future robots more versatile."
-    }
-  ],
-  "mined_at": "2026-10-02T18:02:19+00:00",
-  "source_published_at": "Fri, 02 Oct 2026 13:03:00 -0400",
-  "source_name": "Popular Science",
-  "source_url": "https://www.popsci.com/technology/robot-hand-thing-addams-family/",
+  "perspectives": [],
+  "mined_at": "2026-10-02T19:13:04+00:00",
+  "source_published_at": "Fri, 02 Oct 2026 18:24:01 +0000",
+  "source_name": "Billboard",
+  "source_url": "https://www.billboard.com/culture/tv-film/lionel-messi-messi-and-the-giants-trailer-luck-ra-theme-song-1236353291/",
   "category": "Fun",
-  "source_word_count": 820,
+  "source_word_count": 359,
   "detail_status": "full"
 }

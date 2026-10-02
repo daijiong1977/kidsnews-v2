@@ -1,108 +1,117 @@
 {
-  "title": "Where Did Bats Come From? Scientists Point to Europe",
-  "summary": "Bats are the only mammals that can truly fly by flapping their wings. But where did the very first bats live? Scientists have argued about this for decades. Africa, Asia and North America have all been suggested as the birthplace.\n\nNow a large international team says bats most likely began in Europe. The team included 137 researchers from 64 countries. They worked through a project called Bat1K, which aims to read the genomes of all living bat species. A genome is the full set of instructions, written in DNA, inside a living thing.\n\nThe scientists studied 103 bat genomes, including 42 new ones, covering all 21 recognized bat families. They also used evidence from 44 fossil bats. The study was published in the journal Nature.\n\nThe results suggest that bats first evolved in Europe in the late Paleocene, roughly 65 to 60 million years ago. Their descendants then moved into Africa. Later, different groups spread into the Americas, Asia and Australia. Those moves created the main kinds of bats we see around the world today.\n\nThe study also gives clues about bat abilities. A fossil bat called Vielasia sits on the oldest branch of the bat family tree. It suggests that echolocation, which means using sound to find your way and hunt in the dark, appeared close to the start of bat evolution. The evidence suggests that both flight and echolocation appeared before modern bat groups began to split apart.\n\nBats make up about one fifth of all living mammals. Scientists say the new family tree will help them learn how and where bats' special traits evolved.",
-  "why_it_matters": "Knowing where and when bats began helps scientists understand how their special traits, such as flight and echolocation, developed.",
-  "image_url": "/article_images/science-s2915bd6030823d57.webp",
+  "title": "Scientists find a possible weak spot in a top Alzheimer's risk gene",
+  "summary": "Alzheimer's disease slowly harms memory, thinking and behavior. It affects more than 7 million older adults in the United States. Scientists at Mount Sinai have found new clues about a gene called APOE4. It is the strongest known genetic risk factor for Alzheimer's, which means people who carry it have a higher chance of getting the disease.\n\nResearchers have known for years that blood vessels in the brain get weaker as Alzheimer's gets worse, especially in people who carry APOE4. What was less clear is why. Many people treated the damage to the brain's blood flow as a result of the disease, not something that might help drive it.\n\nTwo new studies, published in Cell and Cell Stem Cell, point to a different idea. In the first study, the team built a map of the cells in the blood vessels of the human brain. They found that APOE4 changed the behavior of pericytes. Pericytes normally help keep small blood vessels steady. With APOE4, they changed into cells that make scar tissue. This led to more amyloid, an abnormal protein, building up around the blood vessels. That could get in the way of blood flow.\n\nThe scientists also found that this process may be reversible. When they blocked a signal called TGF-β, pericyte coverage was restored, and there was less scarring and amyloid. They saw the same result in older mice that carry APOE4.\n\nIn the second study, the team used miBrains, which are three-dimensional human brain tissue made from stem cells. miBrains with APOE4 built up more of an abnormal protein called alpha-synuclein. The team also found cholesterol collecting inside astrocytes, which are support cells in the brain. The researchers say these findings reveal new targets for treatments.",
+  "why_it_matters": "Alzheimer's affects many older adults and their families. Finding a part of the process that may be reversible gives scientists new ideas to test in the search for treatments.",
+  "image_url": "/article_images/science-sfdf299916b38dfa0.webp",
   "keywords": [
     {
-      "term": "genomes",
-      "explanation": "A genome is the full set of DNA instructions in a living thing."
+      "term": "APOE4",
+      "explanation": "A gene that is the strongest known genetic risk factor for Alzheimer's."
     },
     {
-      "term": "fossil",
-      "explanation": "The remains or traces of an ancient living thing, preserved in rock."
+      "term": "pericytes",
+      "explanation": "Cells that help keep small blood vessels steady."
     },
     {
-      "term": "echolocation",
-      "explanation": "Using sound echoes to find your way and hunt, especially in the dark."
+      "term": "amyloid",
+      "explanation": "An abnormal protein that can build up in the brain."
     },
     {
-      "term": "evolved",
-      "explanation": "Changed slowly over many generations to become a new kind of living thing."
+      "term": "miBrains",
+      "explanation": "Three-dimensional human brain tissue made from stem cells."
     },
     {
-      "term": "mammals",
-      "explanation": "Animals that have fur or hair and feed their babies milk."
+      "term": "stem cells",
+      "explanation": "Special cells that can grow into many other kinds of cells."
+    },
+    {
+      "term": "astrocytes",
+      "explanation": "Support cells in the brain."
     }
   ],
   "questions": [
     {
-      "question": "What special ability do bats have among mammals?",
+      "question": "What is APOE4?",
       "options": [
-        "They can truly fly by flapping their wings",
-        "They can breathe underwater for hours",
-        "They can live only in cold places",
-        "They can run faster than all birds"
+        "The strongest known genetic risk factor for Alzheimer's",
+        "A cell that makes scar tissue",
+        "A medicine that treats brain disease",
+        "A kind of brain tissue made in labs"
       ],
-      "correct_answer": "They can truly fly by flapping their wings"
+      "correct_answer": "The strongest known genetic risk factor for Alzheimer's"
     },
     {
-      "question": "Where does the new study say bats most likely began?",
+      "question": "What did APOE4 do to pericytes in the study?",
       "options": [
-        "North America",
-        "Asia",
-        "Europe",
-        "Africa"
+        "It made them grow into brand new neurons",
+        "It made them join together with stem cells",
+        "It made them carry much more oxygen",
+        "It changed them into cells that make scar tissue"
       ],
-      "correct_answer": "Europe"
+      "correct_answer": "It changed them into cells that make scar tissue"
     },
     {
-      "question": "What is Bat1K?",
+      "question": "What happened when scientists blocked the TGF-β signal?",
       "options": [
-        "A museum room that stores every bat fossil",
-        "A project that aims to read the genomes of all living bat species",
-        "A school contest about bats for young students",
-        "A zoo that keeps one thousand different kinds of bats"
+        "Pericyte coverage was restored and scarring and amyloid went down",
+        "The brain tissue stopped growing in the lab",
+        "The blood vessels stopped carrying any blood",
+        "The mice quickly lost most of their memory"
       ],
-      "correct_answer": "A project that aims to read the genomes of all living bat species"
+      "correct_answer": "Pericyte coverage was restored and scarring and amyloid went down"
     },
     {
-      "question": "About how long ago did bats first evolve, according to the study?",
+      "question": "What are miBrains?",
       "options": [
-        "Roughly 65 to 60 thousand years ago",
-        "Roughly 650 to 600 years ago",
-        "Roughly 65 to 60 million years ago",
-        "Roughly 6 to 5 million years ago"
+        "Tiny robots that travel inside blood vessels",
+        "Pills that are used to treat Alzheimer's disease",
+        "Photos that doctors take of living human brains",
+        "Three-dimensional human brain tissue made from stem cells"
       ],
-      "correct_answer": "Roughly 65 to 60 million years ago"
+      "correct_answer": "Three-dimensional human brain tissue made from stem cells"
     },
     {
-      "question": "What does the fossil bat Vielasia suggest?",
+      "question": "Which journals published the two studies?",
       "options": [
-        "Bats first learned to fly only recently",
-        "Bats once lived only in deserts",
-        "Echolocation appeared close to the start of bat evolution",
-        "Bats used to hunt only in daylight"
+        "Lancet and Neuron",
+        "Cell and Cell Stem Cell",
+        "Nature and Science",
+        "Brain and Mind Weekly"
       ],
-      "correct_answer": "Echolocation appeared close to the start of bat evolution"
+      "correct_answer": "Cell and Cell Stem Cell"
     },
     {
-      "question": "About what share of all living mammals are bats?",
+      "question": "How many older adults in the United States are affected by Alzheimer's?",
       "options": [
-        "About one hundredth",
-        "About one fifth",
-        "About one tenth",
-        "About one half"
+        "More than 7 million",
+        "Only a few thousand",
+        "About half a million",
+        "Nearly all of them"
       ],
-      "correct_answer": "About one fifth"
+      "correct_answer": "More than 7 million"
     }
   ],
   "background_read": [
-    "Paleocene is the name of a time in Earth's history that began after the dinosaurs died out. The late Paleocene is the later part of that time."
+    "A gene is a set of instructions in your cells. A risk factor is something that raises the chance of getting a disease."
   ],
   "Article_Structure": [
-    "Opening: the question of where bats began",
-    "Who did the study and what they examined",
-    "What the results say about Europe and how bats spread",
-    "What the fossil Vielasia suggests about echolocation",
-    "Why the new family tree matters"
+    "Opening: scientists study how APOE4 may harm the brain",
+    "Background: what was known about blood vessels and Alzheimer's",
+    "First study: pericytes turn into scar-making cells and the process may be reversed",
+    "Second study: miBrains and cholesterol in astrocytes",
+    "Closing: new targets for treatment"
   ],
-  "perspectives": [],
-  "mined_at": "2026-10-02T18:02:19+00:00",
-  "source_published_at": "Wed, 30 Sep 2026 01:12:36 EDT",
-  "source_name": "ScienceDaily Top Environment",
-  "source_url": "https://www.sciencedaily.com/releases/2026/09/260929053531.htm",
+  "perspectives": [
+    {
+      "perspective": "Researchers at Mount Sinai",
+      "description": "Say the findings reveal new targets for treatments and point to processes that may be reversible."
+    }
+  ],
+  "mined_at": "2026-10-02T19:13:04+00:00",
+  "source_published_at": "Thu, 01 Oct 2026 00:45:26 EDT",
+  "source_name": "ScienceDaily All",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260930225450.htm",
   "category": "Science",
-  "source_word_count": 580,
+  "source_word_count": 824,
   "detail_status": "full"
 }

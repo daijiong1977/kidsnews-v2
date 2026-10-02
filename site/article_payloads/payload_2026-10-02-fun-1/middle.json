@@ -1,118 +1,117 @@
 {
-  "title": "Severed Robot Hand Looks Like a Futuristic Thing From The Addams Family",
-  "summary": "Halloween is just around the corner, and engineers have built a spooky robot: a detached hand inspired by Thing from The Addams Family. Like its gothic sitcom predecessor, this fully articulated hand can balance on its own fingertips and creep around. It can tap keyboard keys, push small objects and even play a simple computer game while balancing on its remaining fingers. If it falls, it can recover and lift itself up from a flat position.\n\nWalking robot hands are not new, but earlier efforts mostly required changing the hand's structure, such as making every finger the same length so it could balance. Human hands have uneven fingers and an opposable thumb, which helps us use many tools but is not well suited for upright walking. A team from the Soft Robotics Lab at ETH Zurich in Switzerland set out to solve that problem, according to a recent preprint, a paper that has not yet been peer-reviewed.\n\nThe team began with an off-the-shelf mechanical hand designed for humanoid robots, with five fingers and 20 actuated joints. They mounted a battery, motion sensors and a tiny computer on the back, and the whole robot weighs 1.8 pounds. They taught it to balance in a simulation using reinforcement learning, which rewarded the software every time the hand balanced correctly. Each finger was assigned its own target position, so where and when each finger moved depended on the task.\n\nIn real-world tests, the hand crossed 14 different indoor and outdoor environments, including carpet, gravel, grass and metal, with a springy, spider-like gait. It balanced on several fingers while using the others to push a small cube. In testing, it hit the correct keys 29 out of 32 times when typing, and it played the puzzle game Sokoban by pressing arrow keys in sequence.\n\nThe team notes that these skills could serve a more important purpose than a creepy Halloween decoration. In the future, humanoid robots working in cramped areas could detach a hand and send it to retrieve an item. The researchers write: \"Giving robotic hands their own mobility could make future robots more versatile in the spaces and interfaces built for people.\" Improvements in finger control and balance might also help robot hands handle objects designed for human hands.",
-  "why_it_matters": "The work shows how engineers solve odd design problems, and it could lead to robot hands that are better at using objects made for human hands.",
-  "image_url": "/article_images/fun-s4ba4eccbc53b6517.webp",
+  "title": "First trailer for Lionel Messi's animated show 'Messi and the Giants' features music from Luck Ra",
+  "summary": "Lionel Messi is bringing his soccer legacy to a fantastical new world. Messi and the Giants, an animated Disney sports-fantasy series executive produced by the global soccer icon, revealed its first teaser on Friday, Oct. 2, at San Diego Comic-Con Málaga in Spain.\n\nThe series' theme song, \"Vamos, Vamos, Vamos,\" was recorded by four-time Billboard Argentina Hot 100 chart-topper Luck Ra, whose track is featured in the teaser. The presentation, held before more than 3,000 fans in Hall M, offered a first look at the series' mythology, characters and music.\n\nMessi and the Giants follows Leo, a 12-year-old boy who becomes trapped in an alternate reality ruled by giants. To return home, he must \"compete in high-stakes, soccer-like battles using powerful 'orbs,' defeat legendary giants, and restore the fractured realms of 'Iko,'\" according to the press release. \"Unlike everyone else, Leo can't use the world's code powers to supercharge his game, so he relies on his real strengths - skill, teamwork and determination - turning the story into an underdog adventure about courage, perseverance and believing in yourself.\" Argentinian actor Milo Burgess-Webb will voice Leo.\n\nThe Comic-Con Málaga panel included executive producers Lacey Stanton and Bryan Korn of Sony Pictures Television, director Dan Creteur of Atlantis Studios and Sergi Reitg of Sony Music Vision. Atlantis Animation is in charge of the series' animation. Messi also serves as an executive producer.\n\nThe series is set to premiere globally on Disney+ in summer 2027, with Disney Channel also scheduled to air the show in the U.S.",
+  "why_it_matters": "The show mixes sports and fantasy to tell a story about courage and teamwork, and it shows how a famous athlete can help create stories for young audiences.",
+  "image_url": "/article_images/fun-sfd732aa1ccb45201.webp",
   "keywords": [
     {
-      "term": "articulated",
-      "explanation": "Having joints that let parts move separately."
+      "term": "executive produced",
+      "explanation": "Helped oversee how a show is made."
     },
     {
-      "term": "opposable thumb",
-      "explanation": "A thumb that can touch the other fingers, which helps people grip objects."
+      "term": "teaser",
+      "explanation": "A short preview of a show."
     },
     {
-      "term": "preprint",
-      "explanation": "A science paper shared before it has been peer-reviewed."
+      "term": "mythology",
+      "explanation": "The background stories and rules of an imaginary world."
     },
     {
-      "term": "reinforcement learning",
-      "explanation": "A training method that rewards software when it makes a correct move."
+      "term": "alternate reality",
+      "explanation": "A different world from the one we live in."
     },
     {
-      "term": "actuated joints",
-      "explanation": "Joints that move because they are powered by motors."
+      "term": "underdog",
+      "explanation": "Someone not expected to win."
     },
     {
-      "term": "humanoid",
-      "explanation": "Built to look or move somewhat like a human."
+      "term": "perseverance",
+      "explanation": "Not giving up when things are hard."
     }
   ],
   "questions": [
     {
-      "question": "Why did earlier walking robot hands need design changes?",
+      "question": "What kind of series is Messi and the Giants?",
       "options": [
-        "They needed several extra thumbs to hold a heavy battery pack",
-        "They needed to be much larger than a normal human hand",
-        "They needed to be powered by large solar panels outside",
-        "They needed every finger to be the same length to balance"
+        "An animated Disney sports-fantasy series",
+        "A news show about the World Cup",
+        "A cooking show hosted by Messi",
+        "A live-action soccer documentary"
       ],
-      "correct_answer": "They needed every finger to be the same length to balance"
+      "correct_answer": "An animated Disney sports-fantasy series"
     },
     {
-      "question": "What kind of hand did the ETH Zurich team start with?",
+      "question": "Who recorded the theme song \"Vamos, Vamos, Vamos\"?",
       "options": [
-        "An off-the-shelf mechanical hand for humanoid robots",
-        "A glove with small built-in lights for the dark",
-        "A hand carved by hand from a block of wood",
-        "A hand taken from a mannequin in a clothing store"
+        "Lionel Messi",
+        "Sergi Reitg",
+        "Kurt Mueller",
+        "Luck Ra"
       ],
-      "correct_answer": "An off-the-shelf mechanical hand for humanoid robots"
+      "correct_answer": "Luck Ra"
     },
     {
-      "question": "How was each finger controlled during training?",
+      "question": "About how many fans were at the presentation in Hall M?",
       "options": [
-        "A person moved the fingers by remote control",
-        "Each finger was assigned its own target position",
-        "Each finger stayed completely still until the very end",
-        "All of the fingers were forced to move together"
+        "Just the cast and crew",
+        "Only a few dozen",
+        "More than 3,000",
+        "Around a hundred"
       ],
-      "correct_answer": "Each finger was assigned its own target position"
+      "correct_answer": "More than 3,000"
     },
     {
-      "question": "How many environments did the hand cross in real-world tests?",
+      "question": "What happens to Leo at the start of the story?",
       "options": [
-        "2 indoor rooms",
-        "20 beaches",
-        "7 school hallways",
-        "14 indoor and outdoor environments"
+        "He becomes trapped in an alternate reality ruled by giants",
+        "He moves to a new town in Spain",
+        "He wins a trophy at a soccer tournament",
+        "He meets Lionel Messi at a stadium"
       ],
-      "correct_answer": "14 indoor and outdoor environments"
+      "correct_answer": "He becomes trapped in an alternate reality ruled by giants"
     },
     {
-      "question": "Which game did the hand play by pressing arrow keys?",
+      "question": "According to the press release, why can't Leo use code powers?",
       "options": [
-        "Pac-Man",
-        "Minecraft",
-        "Sokoban",
-        "Chess"
+        "Because he forgot how to use them",
+        "Unlike everyone else, he can't use the world's code powers",
+        "Because his teammates would not share them",
+        "Because the giants took them away"
       ],
-      "correct_answer": "Sokoban"
+      "correct_answer": "Unlike everyone else, he can't use the world's code powers"
     },
     {
-      "question": "What does the preprint note mean for this research?",
+      "question": "Which company's channel will air the show in the U.S.?",
       "options": [
-        "It was published in a famous textbook",
-        "It has been proven by thousands of tests",
-        "It has not yet been peer-reviewed",
-        "It was rejected by every scientist"
+        "Billboard",
+        "Sony Pictures",
+        "Disney Channel",
+        "Atlantis Animation"
       ],
-      "correct_answer": "It has not yet been peer-reviewed"
+      "correct_answer": "Disney Channel"
     }
   ],
   "background_read": [
-    "Peer review is when other experts check a scientific paper before it is published in a journal.",
-    "Simulation training lets software practice thousands of times in a computer before it controls a real machine."
+    "Comic-Con is a convention where fans and creators share news about shows, movies and comics."
   ],
   "Article_Structure": [
-    "Opening: a Thing-inspired robot hand",
-    "Why walking on uneven fingers is hard",
-    "How the team built and trained the hand",
-    "What it did in real-world tests",
-    "Possible uses and what the researchers say"
+    "Opening: Messi brings soccer to a fantasy world",
+    "Theme song and presentation details",
+    "Plot: Leo and the giants",
+    "The production team at the panel",
+    "Premiere plans"
   ],
   "perspectives": [
     {
-      "perspective": "The researchers",
-      "description": "They write that giving robotic hands their own mobility could make future robots more versatile in spaces and interfaces built for people."
+      "perspective": "The press release",
+      "description": "Describes the show as an underdog adventure about courage, perseverance and believing in yourself."
     }
   ],
-  "mined_at": "2026-10-02T18:02:19+00:00",
-  "source_published_at": "Fri, 02 Oct 2026 13:03:00 -0400",
-  "source_name": "Popular Science",
-  "source_url": "https://www.popsci.com/technology/robot-hand-thing-addams-family/",
+  "mined_at": "2026-10-02T19:13:04+00:00",
+  "source_published_at": "Fri, 02 Oct 2026 18:24:01 +0000",
+  "source_name": "Billboard",
+  "source_url": "https://www.billboard.com/culture/tv-film/lionel-messi-messi-and-the-giants-trailer-luck-ra-theme-song-1236353291/",
   "category": "Fun",
-  "source_word_count": 820,
+  "source_word_count": 359,
   "detail_status": "full"
 }

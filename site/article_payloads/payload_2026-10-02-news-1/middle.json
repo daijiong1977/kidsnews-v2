@@ -1,119 +1,125 @@
 {
-  "title": "GOP Campaign Cash Shifts From North Carolina to Kansas as Senate Map Changes",
-  "summary": "The biggest campaign spending group for Senate Republicans is moving money out of North Carolina and into Kansas. The shift shows how the party's effort to keep its Senate majority has become more defensive just a month before the midterm elections.\n\nThe Senate Leadership Fund is a super PAC, a political group that can raise and spend money to influence elections, and it is aligned with top Senate Republicans. Four people with direct knowledge of the decision disclosed it Friday, speaking anonymously to discuss internal strategy. The group will make a seven-figure advertising buy in Kansas and is pulling back in North Carolina.\n\nThe Associated Press reports that the move signals a lack of confidence that Michael Whatley, a former Republican National Committee chairman and Trump's choice for the Senate race in North Carolina, can beat Democratic former Gov. Roy Cooper. According to AdImpact, which tracks ad reservations, the fund had planned to spend $18 million in North Carolina over the next month. It has already spent about $32 million there.\n\nKansas is a state that Trump won by nearly 16 percentage points in the last presidential election. Sen. Roger Marshall, a Republican seeking a second term, won his first race in 2020 by more than 11 percentage points. Diesel costs and other economic concerns have made the state more competitive than Republicans expected, AP reports. Marshall faces Democratic nominee Adam Hamilton, the leader of the nation's largest United Methodist Church.\n\nRepublicans began this election cycle believing they had more chances to flip Democratic-held seats than they had incumbents at serious risk. Now they are spending money in states where Trump won comfortably in 2024.\n\nSenate Republican campaign leaders have pointed to spiking fuel prices, driven in part by the war with Iran, as one issue weighing on their candidates. Trump said last month, while campaigning with Whatley, that higher fuel prices were \"a very inexpensive price to pay\" for preventing Iran from acquiring a nuclear weapon. Gas prices are near historic highs, but they remain below the nationwide record set in 2022.\n\nThe midterm elections on Nov. 3 will help determine control of Congress. The party that holds the Senate majority has more power to decide which bills and nominees move forward.",
-  "why_it_matters": "Where a party spends its last campaign money shows which races it thinks are close, and the Senate majority helps decide which bills and nominees move forward.",
-  "image_url": "/article_images/news-sfefbbf4291af290c.webp",
+  "title": "Congo's Ebola outbreak tops 4,000 deaths as unrest and mistrust grow",
+  "summary": "The Democratic Republic of the Congo's Ebola outbreak has recorded more than 4,000 deaths, authorities said, as they struggle to contain the spread of the virus. The health ministry said on Thursday that 4,018 people have died. That is nearly half of the 8,300 confirmed cases, in what has become the fastest-growing Ebola outbreak in history.\n\nCongo announced the outbreak on May 15. It is caused by the rare Bundibugyo virus, which has no known treatment or vaccine.\n\nSeveral problems are making the response harder. Some health workers gathered in Bunia, the capital of northeastern Ituri province and the heart of the outbreak. They were demanding payment for wages owed but were quickly dispersed by officials. The group included surveillance team members, who identify people exposed to infected patients. They waved placards saying, \"No money, no data!\" and \"No payment for months.\" Front-line workers have gone on strike several times since the outbreak began.\n\nA senior UN official said an Ebola-hit camp housing a transit centre for infected patients was burned by soldiers earlier this week as they were looking for weapons in Kigonze, on the outskirts of Bunia. The incident forced 19,000 people in the camp to flee. Julien Harneis, the UN senior Ebola co-ordinator, said creating Ebola transit and treatment centres has been a struggle, requiring money and staff, all of which are in short supply. \"When we lose a centre, that means we lose capacity, we lose investment and we have to start again. And above all, it means that people do not get access to the care that they really need,\" Harneis said.\n\nAn aid worker with Médecins Sans Frontières, known in English as Doctors Without Borders, was infected with Ebola while working in Congo, the group said. The worker was flown to the Netherlands and transferred to a high-level isolation unit. More than 50 health workers have died after contracting the virus.\n\nThe World Health Organization has recently raised the alarm about the virus's rapid spread into new health zones, stretching limited resources. Africa CDC said the number of newly confirmed cases is falling, but that could be attributed to insecurity and challenges in getting communities to co-operate in some of the hot spots. While the spread of the disease has slowed down in some areas, it has accelerated in others. Confirmed cases have slowed in recent weeks, from around 850 cases and 470 deaths a week in mid-July to an average of 490 cases and 230 deaths in September.",
+  "why_it_matters": "A large outbreak tests how well health systems, aid groups and governments can work together. When workers go unpaid or areas are unsafe, finding cases and treating patients becomes harder.",
+  "image_url": "/article_images/news-sbe3341ed35e54b2c.webp",
   "keywords": [
     {
-      "term": "super PAC",
-      "explanation": "A political committee that can raise and spend money to influence elections."
+      "term": "Bundibugyo",
+      "explanation": "The rare type of Ebola virus causing this outbreak."
     },
     {
-      "term": "anonymously",
-      "explanation": "Without giving a name, often so people can talk about private plans."
+      "term": "surveillance",
+      "explanation": "Work to identify people exposed to infected patients."
     },
     {
-      "term": "incumbents",
-      "explanation": "Officeholders who are running again for the job they already have."
+      "term": "vaccine",
+      "explanation": "A medicine given before illness to help the body fight a germ."
     },
     {
-      "term": "majority",
-      "explanation": "More than half of the seats, which lets a party control what the Senate does."
+      "term": "dispersed",
+      "explanation": "Made to leave and spread out."
     },
     {
-      "term": "competitive",
-      "explanation": "Close enough that either party could win."
+      "term": "transit centre",
+      "explanation": "A place that holds infected patients before they move on to treatment."
+    },
+    {
+      "term": "health zones",
+      "explanation": "Local areas used to organize health care."
     }
   ],
   "questions": [
     {
-      "question": "Who disclosed the Senate Leadership Fund's decision?",
+      "question": "Which city did the health workers gather in to ask for wages?",
       "options": [
-        "Michael Whatley in a TV interview",
-        "The group in a public press conference",
-        "Four people with direct knowledge, speaking anonymously",
-        "Roy Cooper's campaign team in a statement"
+        "Leiden",
+        "Bunia",
+        "Ituri",
+        "Kigonze"
       ],
-      "correct_answer": "Four people with direct knowledge, speaking anonymously"
+      "correct_answer": "Bunia"
     },
     {
-      "question": "According to AdImpact, how much had the group planned to spend in North Carolina over the next month?",
+      "question": "Who identifies people exposed to infected patients?",
       "options": [
-        "$16 million",
-        "$18 million",
-        "$32 million",
-        "$11 million"
+        "Surveillance team members",
+        "Officials who broke up the gathering",
+        "Staff at the Leiden medical center",
+        "Soldiers searching for weapons"
       ],
-      "correct_answer": "$18 million"
+      "correct_answer": "Surveillance team members"
     },
     {
-      "question": "What does the move signal, according to the Associated Press?",
+      "question": "What did Julien Harneis say is in short supply?",
       "options": [
-        "Doubt that Whatley can beat Cooper",
-        "Belief that North Carolina is already won",
-        "Anger that Cooper left the race",
-        "A plan to replace Whatley before Election Day"
+        "Food and clean water",
+        "Roads and vehicles",
+        "Money and staff",
+        "Soldiers and police"
       ],
-      "correct_answer": "Doubt that Whatley can beat Cooper"
+      "correct_answer": "Money and staff"
     },
     {
-      "question": "What has helped make Kansas more competitive than Republicans expected?",
+      "question": "What did Africa CDC say could explain the fall in newly confirmed cases?",
       "options": [
-        "A new candidate entering the race late",
-        "Diesel costs and other economic concerns",
-        "Fewer voters registering this year",
-        "A change in the state's voting laws"
+        "A new vaccine given to health workers",
+        "Insecurity and challenges getting communities to co-operate",
+        "Fewer flights leaving the country",
+        "Officials closing the transit centres"
       ],
-      "correct_answer": "Diesel costs and other economic concerns"
+      "correct_answer": "Insecurity and challenges getting communities to co-operate"
     },
     {
-      "question": "How did Republicans view the Senate map when this election cycle began?",
+      "question": "Where was the infected aid worker flown for treatment?",
       "options": [
-        "They had more chances to flip seats than seats at risk",
-        "They hoped to run only in states Trump lost",
-        "They planned to avoid spending money on any ads",
-        "They expected to lose most of their Senate seats soon"
+        "Uganda",
+        "France",
+        "Canada",
+        "The Netherlands"
       ],
-      "correct_answer": "They had more chances to flip seats than seats at risk"
+      "correct_answer": "The Netherlands"
     },
     {
-      "question": "What did Trump say about higher fuel prices while campaigning with Whatley?",
+      "question": "What was the average number of confirmed cases a week in September?",
       "options": [
-        "They would likely fall soon once the November election was over",
-        "They were a very inexpensive price to pay to stop Iran",
-        "They were mostly caused by diesel costs in Kansas farm country",
-        "They were not a topic that voters cared about at all"
+        "850",
+        "230",
+        "470",
+        "490"
       ],
-      "correct_answer": "They were a very inexpensive price to pay to stop Iran"
+      "correct_answer": "490"
     }
   ],
   "background_read": [
-    "A super PAC is an outside group. It can spend money to support candidates, but it is separate from the candidates' own campaigns.",
-    "Midterm elections take place halfway through a president's term and decide who sits in Congress."
+    "Ebola is a serious disease that can spread through direct contact with the body fluids of a sick person."
   ],
   "Article_Structure": [
-    "Opening: the Senate Republican money shift and why it looks defensive",
-    "Who made and disclosed the decision",
-    "What the move says about North Carolina",
-    "Why Kansas has become more competitive",
-    "Fuel prices and what Republican leaders and Trump said",
-    "What control of the Senate means"
+    "Opening: deaths pass 4,000 and the outbreak is described as the fastest-growing in history",
+    "Background: the Bundibugyo virus and the date it was announced",
+    "Obstacles: unpaid health workers, strikes and a burned camp",
+    "Impact on aid workers and the spread to new health zones",
+    "Trends: weekly cases have slowed, but unevenly"
   ],
   "perspectives": [
     {
-      "perspective": "Senate Republican campaign leaders",
-      "description": "They have pointed to spiking fuel prices, driven in part by the war with Iran, as one issue weighing on their candidates."
+      "perspective": "Julien Harneis, UN senior Ebola co-ordinator",
+      "description": "Said losing a centre means losing capacity and investment, and people do not get the care they need."
     },
     {
-      "perspective": "President Donald Trump",
-      "description": "While campaigning with Whatley, he said higher fuel prices were \"a very inexpensive price to pay\" for preventing Iran from acquiring a nuclear weapon."
+      "perspective": "Médecins Sans Frontières",
+      "description": "Said the human cost of the crisis is unprecedented in the country."
+    },
+    {
+      "perspective": "Africa CDC",
+      "description": "Said falling case numbers could be attributed to insecurity and difficulty getting communities to co-operate."
     }
   ],
-  "mined_at": "2026-10-02T18:02:19+00:00",
-  "source_published_at": "Fri, 02 Oct 2026 13:28:25 -0400",
-  "source_name": "PBS NewsHour",
-  "source_url": "https://www.pbs.org/newshour/politics/senate-republicans-move-cash-from-north-carolina-to-kansas-as-battle-for-majority-shifts",
+  "mined_at": "2026-10-02T19:13:04+00:00",
+  "source_published_at": "Fri, 02 Oct 2026 10:15:35 EDT",
+  "source_name": "CBC World",
+  "source_url": "https://www.cbc.ca/news/world/congo-outbreak-death-toll-treatment-centre-beating-9.7366690?cmp=rss",
   "category": "News",
-  "source_word_count": 506,
+  "source_word_count": 559,
   "detail_status": "full"
 }

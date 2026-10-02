@@ -1,114 +1,118 @@
 {
-  "title": "Electronic Pioneer Suzanne Ciani Says \"Now I Have an Audience\"",
-  "summary": "Suzanne Ciani was not only present at the beginning of electronic music, but helped develop the technology that became the basis of an entire global genre. Now 80 years old, she is performing her first ever concert in Scotland this weekend, and then she will play a festival in the desert outside Roswell, New Mexico.\n\nBorn in Ohio, Ciani earned a master's degree in composition at UC Berkeley, where she met synthesizer designer Don Buchla. She became one of the first people to master the Buchla modular analog synthesizer. In 1974 she founded Ciani/Musica, where she developed sounds for brands including AT&T, General Electric and Coca-Cola. The soda's \"pop & pour\" sound logo was her creation, and so was the Columbia Pictures intro score. She has released more than 25 studio and live albums and received five Grammy nominations, all in the new age category.\n\nIn recent years, Ciani has had what Billboard calls a late career renaissance, thanks to her live modular synthesizer performances. They have brought her into the dance and electronic festival circuit. This weekend she plays Glasgow's Sonica Festival, a longstanding art and experimental music festival. In early November she will play Atomika, a new science and music festival in the remote desert outside Roswell.\n\nSpeaking to Billboard over Zoom from her home in Northern California, Ciani said she is selling her house after 34 years because she wanted a new chapter. \"The basis of technology is change,\" she said. The first music she remembers owning was a stack of classical records her mother brought home, including a Rachmaninoff piano concerto and a Grieg piano concerto. She listened to them morning, noon and night.\n\nAsked what album she would recommend to someone new to electronic music, she chose her own Buchla Concerts 1975. She said it came from a cassette tape of a live concert, and that what interests her most is live performance.\n\nCiani said that when she began, she thought the whole world was excited about the new instruments, but \"ran into a wall\" because nobody knew what the machine was. \"I had no audience then. Now I have an audience. The kids know what's going on. They have the machines. Nobody had them back then.\"",
-  "why_it_matters": "Her story shows how pioneers in new technology may feel alone at first, then see later generations adopt the tools they helped create.",
-  "image_url": "/article_images/fun-sb6701ff104ca1ec4.webp",
+  "title": "This walking robot hand looks like a futuristic Thing from 'The Addams Family'",
+  "summary": "Halloween is just around the corner, which makes it a good time to meet an Addams Family-inspired robot hand. Like Thing, the gothic sitcom's famous hand, this fully articulated hand can balance on its own fingertips and creep around. It goes a step further, too. It can tap keyboard keys, push small objects and even play a rudimentary computer game while balancing on its remaining fingers. It can also recover from a fall and lift itself up from a flat position.\n\nThis is not the first time engineers have tried a walking robot hand. Past efforts mostly worked, but they required altering the hand's structure, making each finger the same length so it could balance. Human hands are defined by their uneven fingers and opposite thumb. That asymmetry partly explains why we are so adept at handling many tools, but it is not well suited for upright walking.\n\nA team of engineers from the Soft Robotics Lab at ETH Zurich in Switzerland set out to solve that problem, as they describe in a recent preprint, which is a paper that has not undergone peer review or been accepted for publication in a scientific journal. The team started with an off-the-shelf mechanical hand designed for humanoid robots, with five fingers and 20 actuated joints. They mounted a battery, several motion sensors and a tiny computer near where the hand would normally connect to a wrist. With these additions, the whole thing weighs 1.8 pounds.\n\nThe team trained the hand in a simulation environment using reinforcement learning, where the software rewarded the hand every time it correctly balanced on its uneven fingers. Every finger was assigned its own target position, so where and when each one moved varied depending on the task.\n\nIn real-world field tests, the hand traversed 14 different indoor and outdoor environments, crossing carpet, gravel, grass and metal with a springy, spider-like gait. It could also balance on several fingers while using the others to push a small cube forward. In testing, it correctly hit keys 29 out of 32 times while typing. It was even able to play the puzzle-solving video game Sokoban by pressing the correct arrow keys in sequence.\n\nThe team notes that these abilities may serve a purpose beyond a Halloween decoration. In the future, humanoid robots working in cramped areas could reach toward a spot they cannot get to, detach their hand, and send it off to retrieve an item. \"Giving robotic hands their own mobility could make future robots more versatile in the spaces and interfaces built for people,\" the researchers write in the paper.",
+  "why_it_matters": "The work explores how robots could handle spaces and tools made for people. It is only described in a preprint so far, so other scientists have not yet reviewed it.",
+  "image_url": "/article_images/fun-sd8ed5364e2f3c69e.webp",
   "keywords": [
     {
-      "term": "modular analog synthesizer",
-      "explanation": "An instrument built from separate electronic parts that are connected to make sounds."
+      "term": "fully articulated",
+      "explanation": "Having joints that let every part move."
     },
     {
-      "term": "sound logo",
-      "explanation": "A short sound that stands for a brand, like a musical signature."
+      "term": "asymmetry",
+      "explanation": "Having sides or parts that are not the same."
     },
     {
-      "term": "renaissance",
-      "explanation": "A new period of interest and success."
+      "term": "preprint",
+      "explanation": "A paper that has not gone through peer review."
     },
     {
-      "term": "circuit",
-      "explanation": "A series of events or places where performers appear, such as festivals."
+      "term": "actuated joints",
+      "explanation": "Joints moved by motors."
     },
     {
-      "term": "cassette tape",
-      "explanation": "A small tape used to record and play audio before digital music."
+      "term": "reinforcement learning",
+      "explanation": "Training software by rewarding correct actions."
+    },
+    {
+      "term": "humanoid robots",
+      "explanation": "Robots built to look and move somewhat like people."
     }
   ],
   "questions": [
     {
-      "question": "Where did Ciani earn her master's degree?",
+      "question": "Why did past walking robot hands change finger lengths?",
       "options": [
-        "Roswell College",
-        "UC Berkeley",
-        "Glasgow University",
-        "Ohio State"
+        "Equal fingers helped the hand balance",
+        "They wanted the fingers to match a person's",
+        "It made the hand easier to build",
+        "Longer fingers made the hand lighter"
       ],
-      "correct_answer": "UC Berkeley"
+      "correct_answer": "Equal fingers helped the hand balance"
     },
     {
-      "question": "Which sound creations are credited to Ciani?",
+      "question": "What makes human hands good with tools but not with walking?",
       "options": [
-        "The \"pop & pour\" logo and the Columbia Pictures intro score",
-        "The Hollywood sign and a cartoon theme",
-        "A radio jingle and a video game boss",
-        "A police siren and a train whistle"
+        "Their uneven fingers and opposite thumb",
+        "Their very large size and heavy weight",
+        "Their need for a battery",
+        "Their lack of joints in the fingers"
       ],
-      "correct_answer": "The \"pop & pour\" logo and the Columbia Pictures intro score"
+      "correct_answer": "Their uneven fingers and opposite thumb"
     },
     {
-      "question": "How many Grammy nominations has she received, and in which category?",
+      "question": "What does a preprint mean in this story?",
       "options": [
-        "Three, in the hip-hop category",
-        "One, in the classical category",
-        "Five, all in the new age category",
-        "Ten, in the country category"
+        "A paper that won a science prize",
+        "A paper written only by students",
+        "A paper that was printed in a famous magazine",
+        "A paper not yet peer-reviewed or accepted by a journal"
       ],
-      "correct_answer": "Five, all in the new age category"
+      "correct_answer": "A paper not yet peer-reviewed or accepted by a journal"
     },
     {
-      "question": "Why is she selling her house, according to Ciani?",
+      "question": "How many actuated joints did the off-the-shelf hand have?",
       "options": [
-        "She is moving closer to her school",
-        "She plans to move to Scotland",
-        "She wants to build a bigger studio",
-        "She wanted a new chapter after 34 years"
+        "20",
+        "32",
+        "14",
+        "29"
       ],
-      "correct_answer": "She wanted a new chapter after 34 years"
+      "correct_answer": "20"
     },
     {
-      "question": "What was the first music she remembers owning?",
+      "question": "How many different environments did the hand cross in field tests?",
       "options": [
-        "A pop single from the radio",
-        "A rock album from a friend",
-        "Classical records her mother brought home",
-        "A cassette of her own concert"
+        "29",
+        "14",
+        "20",
+        "32"
       ],
-      "correct_answer": "Classical records her mother brought home"
+      "correct_answer": "14"
     },
     {
-      "question": "What does the Atomika festival combine?",
+      "question": "What future use do the researchers suggest?",
       "options": [
-        "Cooking and sports",
-        "Movies and fashion",
-        "Dance and painting",
-        "Science and music"
+        "A robot that plays piano concerts",
+        "A robot detaching its hand to retrieve an item in a cramped area",
+        "A hand that cooks meals in restaurants",
+        "A hand that replaces human surgeons"
       ],
-      "correct_answer": "Science and music"
+      "correct_answer": "A robot detaching its hand to retrieve an item in a cramped area"
     }
   ],
   "background_read": [
-    "Modular synthesizers are made of separate parts, called modules, that musicians connect with cables to shape sounds.",
-    "The Grammy Awards honor musicians in many categories, including new age music."
+    "Peer review is when other experts check a scientific paper before it is published."
   ],
   "Article_Structure": [
-    "Opening: Ciani's role in electronic music and her upcoming concerts",
-    "Her education, company and famous sounds",
-    "Her late career renaissance and festivals",
-    "Interview comments about her house and early music",
-    "Her recommended album and her thoughts about audiences"
+    "Opening: a Halloween-themed walking robot hand",
+    "Earlier designs and the problem with uneven fingers",
+    "ETH Zurich's hardware and weight",
+    "Training with reinforcement learning",
+    "Field tests: terrain, typing and a puzzle game",
+    "Possible future uses"
   ],
   "perspectives": [
     {
-      "perspective": "Suzanne Ciani",
-      "description": "She says she thought the whole world was excited about the machines when she started, ran into a wall, and now finds that the kids know what is going on."
+      "perspective": "The researchers",
+      "description": "Write that robotic hands with their own mobility could make future robots more versatile in spaces and interfaces built for people."
     }
   ],
-  "mined_at": "2026-10-02T18:02:19+00:00",
-  "source_published_at": "Fri, 02 Oct 2026 17:07:38 +0000",
-  "source_name": "Billboard",
-  "source_url": "https://www.billboard.com/music/music-news/suzanne-ciani-electronic-pioneer-interview-1236352628/",
+  "mined_at": "2026-10-02T19:13:04+00:00",
+  "source_published_at": "Fri, 02 Oct 2026 13:03:00 -0400",
+  "source_name": "Popular Science",
+  "source_url": "https://www.popsci.com/technology/robot-hand-thing-addams-family/",
   "category": "Fun",
-  "source_word_count": 1010,
+  "source_word_count": 820,
   "detail_status": "full"
 }

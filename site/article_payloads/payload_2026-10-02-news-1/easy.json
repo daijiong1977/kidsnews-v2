@@ -1,109 +1,120 @@
 {
-  "title": "Senate Republicans Move Campaign Money From North Carolina to Kansas",
-  "summary": "Imagine you planned to spend your allowance on one thing, then decided to spend it somewhere else. Something like that is happening in this year's Senate elections.\n\nThe Senate Leadership Fund is a super PAC, a group that raises and spends money to help candidates win. It is linked to top Senate Republicans. On Friday, four people who know about the plan said the group is pulling back in North Carolina and buying a seven-figure amount of ads in Kansas. Seven figures means at least one million dollars. These people asked not to be named because they were talking about private strategy.\n\nIn North Carolina, the group had planned to spend $18 million on ads over the next month. It has already spent about $32 million there. The Associated Press says the shift suggests Republicans are less sure that their candidate, Michael Whatley, can beat Democrat Roy Cooper, a former governor.\n\nKansas has leaned Republican. Donald Trump won it by nearly 16 percentage points in the last presidential election. But the Associated Press says higher fuel costs and other money worries have made the race closer than Republicans expected. Senator Roger Marshall, a Republican, is running for another term against Democrat Adam Hamilton.\n\nThe midterm elections are on Nov. 3. They will help decide which party controls Congress. Republican campaign leaders say high fuel prices are one thing weighing on their candidates.",
-  "why_it_matters": "The Senate helps decide which laws pass, so where each party spends money shows where it thinks control of Congress could be won or lost.",
-  "image_url": "/article_images/news-sfefbbf4291af290c.webp",
+  "title": "Congo's Ebola outbreak passes 4,000 deaths",
+  "summary": "The Democratic Republic of the Congo, a country in central Africa, is facing a very large Ebola outbreak. Ebola is a serious disease caused by a virus. Congo announced the outbreak on May 15. The health ministry said on Thursday that 4,018 people have died. That is nearly half of the 8,300 confirmed cases. It is the fastest-growing Ebola outbreak in history. The virus is a rare type called Bundibugyo, and there is no known treatment or vaccine for it.\n\nFighting the outbreak is hard. In the city of Bunia, some health workers gathered to ask for wages they are owed. Officials quickly sent them away. Some of them do surveillance work, which means finding people who were near a sick patient. Front-line workers have gone on strike several times since the outbreak began.\n\nSafety is another problem. A senior United Nations official said soldiers burned a camp that included a transit centre for Ebola patients while they were searching for weapons. About 19,000 people in the camp had to leave. Julien Harneis, the UN senior Ebola co-ordinator, said that when a centre is lost, its capacity and investment are lost too, and the work has to start again. More than 50 health workers have died after catching the virus.\n\nThere are some signs of change. Confirmed cases have slowed, from around 850 cases a week in mid-July to an average of 490 a week in September. But Africa CDC said this could be because of insecurity and trouble getting communities to co-operate. In some places the spread has slowed, and in others it has sped up.",
+  "why_it_matters": "Ebola outbreaks affect whole communities. Unpaid workers, strikes and unsafe areas can slow the work of finding and helping sick people, so health care needs steady money, staff and safety.",
+  "image_url": "/article_images/news-sbe3341ed35e54b2c.webp",
   "keywords": [
     {
-      "term": "super PAC",
-      "explanation": "A political group that raises and spends money to help candidates win elections."
+      "term": "outbreak",
+      "explanation": "A sudden rise in the number of people with a disease in one place."
     },
     {
-      "term": "midterm elections",
-      "explanation": "Elections held halfway through a president's term, when voters choose members of Congress."
+      "term": "vaccine",
+      "explanation": "A medicine given before illness to help the body fight a germ."
     },
     {
-      "term": "Congress",
-      "explanation": "The part of the U.S. government that makes laws. It has the Senate and the House."
+      "term": "surveillance",
+      "explanation": "Finding and tracking people who may have been near a sick patient."
     },
     {
-      "term": "ads",
-      "explanation": "Short messages on TV or online that try to persuade voters."
+      "term": "wages",
+      "explanation": "Money paid to workers for their jobs."
+    },
+    {
+      "term": "strike",
+      "explanation": "When workers stop working to ask for a change."
+    },
+    {
+      "term": "Bundibugyo",
+      "explanation": "The name of the rare Ebola virus type in this outbreak."
     }
   ],
   "questions": [
     {
-      "question": "What is the Senate Leadership Fund?",
+      "question": "When did Congo announce the Ebola outbreak?",
       "options": [
-        "A school group that teaches students voting",
-        "A newspaper that reports on Senate elections",
-        "A state agency that counts votes in Kansas",
-        "A super PAC that helps Republican Senate candidates"
+        "May 15",
+        "July 15",
+        "June 15",
+        "August 15"
       ],
-      "correct_answer": "A super PAC that helps Republican Senate candidates"
+      "correct_answer": "May 15"
     },
     {
-      "question": "Which two states are at the center of the money shift?",
+      "question": "How many people have died, according to the health ministry?",
       "options": [
-        "North Carolina and Texas",
-        "North Carolina and Kansas",
-        "Maine and Kansas",
-        "Ohio and Kansas"
+        "4,018",
+        "19,000",
+        "490",
+        "8,300"
       ],
-      "correct_answer": "North Carolina and Kansas"
+      "correct_answer": "4,018"
     },
     {
-      "question": "What does \"seven figures\" mean in this story?",
+      "question": "What does surveillance work mean in this story?",
       "options": [
-        "A plan lasting seven weeks",
-        "Exactly seven hundred dollars",
-        "Seven different campaign ads",
-        "At least one million dollars"
+        "Giving vaccines to every sick patient",
+        "Finding people who were near a sick patient",
+        "Building new centres for patients",
+        "Flying sick people to another country"
       ],
-      "correct_answer": "At least one million dollars"
+      "correct_answer": "Finding people who were near a sick patient"
     },
     {
-      "question": "How much has the group already spent in North Carolina, according to the story?",
+      "question": "What did some health workers in Bunia ask for?",
       "options": [
-        "About $32 million",
-        "About $11 million",
-        "About $18 million",
-        "About $16 million"
+        "More camps for patients",
+        "Help from soldiers",
+        "Wages they are owed",
+        "A vaccine for Ebola"
       ],
-      "correct_answer": "About $32 million"
+      "correct_answer": "Wages they are owed"
     },
     {
-      "question": "When are the midterm elections?",
+      "question": "About how many people had to leave the camp?",
       "options": [
-        "On Oct. 13",
-        "On Sept. 9",
-        "On Nov. 3",
-        "On Dec. 3"
+        "4,018",
+        "19,000",
+        "850",
+        "8,300"
       ],
-      "correct_answer": "On Nov. 3"
+      "correct_answer": "19,000"
     },
     {
-      "question": "What do Republican campaign leaders say is weighing on their candidates?",
+      "question": "What did Africa CDC say about falling case numbers?",
       "options": [
-        "Rising fuel prices",
-        "A shortage of voters",
-        "Late election dates",
-        "Too few campaign ads"
+        "It proves the outbreak is over now",
+        "It is only because of a new vaccine",
+        "It could be because of insecurity and trouble reaching communities",
+        "It happened because workers stopped striking"
       ],
-      "correct_answer": "Rising fuel prices"
+      "correct_answer": "It could be because of insecurity and trouble reaching communities"
     }
   ],
   "background_read": [
-    "Midterm elections happen halfway through a president's four-year term. Voters choose members of Congress, and the results can change which party has more power."
+    "Ebola is a serious disease that can spread through direct contact with the body fluids of a sick person."
   ],
   "Article_Structure": [
-    "Opening: a Republican group moves money from North Carolina to Kansas",
-    "What the group is and who revealed the plan",
-    "Why North Carolina may look harder for Republicans",
-    "Why Kansas is closer than expected",
-    "What the Nov. 3 elections will decide"
+    "Opening: the outbreak passes 4,000 deaths",
+    "Background: the rare Bundibugyo virus and when the outbreak was announced",
+    "Problems: unpaid wages, strikes and a burned camp",
+    "Latest signs: cases have slowed in some places but not in others"
   ],
   "perspectives": [
     {
-      "perspective": "Senate Republican campaign leaders",
-      "description": "They point to rising fuel prices, driven in part by the war with Iran, as one issue weighing on their candidates."
+      "perspective": "Julien Harneis, UN senior Ebola co-ordinator",
+      "description": "Said that building Ebola centres is hard because money and staff are in short supply, and losing a centre means starting again."
+    },
+    {
+      "perspective": "Africa CDC",
+      "description": "Said newly confirmed cases are falling, but insecurity and trouble getting communities to co-operate may be part of the reason."
     }
   ],
-  "mined_at": "2026-10-02T18:02:19+00:00",
-  "source_published_at": "Fri, 02 Oct 2026 13:28:25 -0400",
-  "source_name": "PBS NewsHour",
-  "source_url": "https://www.pbs.org/newshour/politics/senate-republicans-move-cash-from-north-carolina-to-kansas-as-battle-for-majority-shifts",
+  "mined_at": "2026-10-02T19:13:04+00:00",
+  "source_published_at": "Fri, 02 Oct 2026 10:15:35 EDT",
+  "source_name": "CBC World",
+  "source_url": "https://www.cbc.ca/news/world/congo-outbreak-death-toll-treatment-centre-beating-9.7366690?cmp=rss",
   "category": "News",
-  "source_word_count": 506,
+  "source_word_count": 559,
   "detail_status": "full"
 }

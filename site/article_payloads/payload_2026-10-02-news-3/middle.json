@@ -1,122 +1,113 @@
 {
-  "title": "Intensified Russian Strikes Are \"Tearing Kyiv Apart,\" Mayor Warns",
-  "summary": "The mayor of Kyiv has warned that intensified Russian drone and missile strikes are \"tearing Kyiv apart.\" Vitaliy Klitschko said the Ukrainian capital is in a \"very dramatic situation\" as Russia hits its critical infrastructure, logistics, housing and other key facilities. He spoke after Kyiv's defence council held a crisis meeting.\n\nThe latest attacks focused on the Pivdennyi (Southern) bridge, one of the main transport arteries across the Dnipro River, which divides western and eastern Kyiv. A Russian drone hit the bridge overnight, and on Friday evening it was struck again, the fourth time in two days. All metro and automobile traffic is now suspended across the bridge, causing major delays, and restrictions are in place on Kyiv's two other key bridges. The city has an estimated population of about three million, and many residents rely heavily on the metro network. Kyiv's data centers have also been hit recently, causing internet outages. Ukraine's state emergencies service said one person was killed when a multi-storey residential building was hit overnight.\n\nKlitschko said Russia's aim is to \"sow panic,\" but he said the capital would prevail through the joint efforts of those who love it and care for it.\n\nUkrainian President Volodymyr Zelensky said Russian President Vladimir Putin decided in early September that \"there are no rules now\" when attacking Ukraine. In an excerpt from an interview with the Financial Times, Zelensky said Russia has failed to occupy Ukraine, so it is now carrying out massive attacks, and that Russians \"want people to flee their cities.\"\n\nPutin insisted that Russia's attacks on Ukrainian economic targets are a direct response to Ukraine's strikes on Russian oil refineries and ships in the Black Sea. \"Now from every direction we're receiving calls 'let's stop'. But they started it,\" Putin said. The BBC notes that Russia was the first to launch attacks on energy facilities, and that it has ramped up attacks on Ukrainian energy infrastructure every winter since the full-scale invasion in 2022.",
-  "why_it_matters": "Repeated strikes on bridges, data centers and housing show how war can disrupt daily life for millions of people far from the front line.",
-  "image_url": "/article_images/news-s945d58c9fb793e94.webp",
+  "title": "NASA's Crew-13 could make the fastest U.S. trip to the ISS ever",
+  "summary": "NASA's Crew-13 mission was getting ready to launch. The SpaceX Dragon spacecraft was scheduled to lift off at 11:10 a.m. EDT on Thursday, Oct. 1, from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida.\n\nDocking with the International Space Station was targeted for about 7 p.m. The planned journey from launch to docking would take 7 hours and 50 minutes. If it happened as scheduled, it would be the fastest trip to the space station by a U.S. spacecraft in the station's history.\n\nFour crew members were to fly on Dragon. They are NASA astronauts Jessica Watkins and Luke Delaney, Canadian Space Agency astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov. They will spend an extended period aboard the station conducting science and other mission activities.\n\nNASA planned to broadcast the mission across several platforms. Launch coverage was to begin at 9:20 a.m. After the main launch broadcast ends, NASA will provide audio-only communications involving Crew-13, the space station and flight controllers while Dragon travels toward the orbiting laboratory. A postlaunch news conference was set for 12:45 p.m. Arrival coverage was to begin at 5:20 p.m., with docking targeted for 7 p.m. at the forward-facing port of the station's Harmony module. Hatch opening followed by welcome remarks was planned for 8:45 p.m.\n\nAfter entering the space station, the Crew-13 astronauts and cosmonaut will complete a brief handover with members of NASA's SpaceX Crew-12 mission. Crew-12 is expected to begin its journey back to Earth no earlier than Monday, Oct. 5. NASA plans to release further information about the Crew-12 return after Crew-13 has arrived at the station.\n\nIn-person events are limited to media representatives who have already received credentials. All times are Eastern and subject to change based on real-time operations.",
+  "why_it_matters": "Crews rotate on the space station so science work can continue. A schedule shows how many steps, from launch to hatch opening, must fit together carefully.",
+  "image_url": "/article_images/news-s5e79cf2682829e2c.webp",
   "keywords": [
     {
-      "term": "critical infrastructure",
-      "explanation": "Basic systems a city needs to work, such as roads, power and communications."
+      "term": "Docking",
+      "explanation": "The joining of one spacecraft to another in space."
     },
     {
-      "term": "arteries",
-      "explanation": "A main route, like a main blood vessel carrying traffic across the city."
+      "term": "cosmonaut",
+      "explanation": "A space traveler from Russia."
     },
     {
-      "term": "data centers",
-      "explanation": "Buildings full of computers that store and move information for the internet."
+      "term": "handover",
+      "explanation": "Passing along information from one crew to the next."
     },
     {
-      "term": "occupy",
-      "explanation": "To take over and control a place by force."
+      "term": "flight controllers",
+      "explanation": "People on the ground who guide a space mission."
     },
     {
-      "term": "full-scale invasion",
-      "explanation": "A large attack by a country's army across another country's border."
+      "term": "Harmony module",
+      "explanation": "A part of the space station where Dragon plans to dock."
+    },
+    {
+      "term": "hatch",
+      "explanation": "A door between a spacecraft and the station."
     }
   ],
   "questions": [
     {
-      "question": "What did Mayor Klitschko call the situation in Kyiv?",
+      "question": "Where was the launch scheduled to take place?",
       "options": [
-        "A \"quiet week\"",
-        "A \"temporary problem\"",
-        "A \"normal winter delay\"",
-        "A \"very dramatic situation\""
+        "Cape Canaveral Space Force Station in Florida",
+        "Vandenberg Space Force Base in California",
+        "Baikonur in Kazakhstan",
+        "Johnson Space Center in Houston"
       ],
-      "correct_answer": "A \"very dramatic situation\""
+      "correct_answer": "Cape Canaveral Space Force Station in Florida"
     },
     {
-      "question": "What happened to the Pivdennyi bridge on Friday evening?",
+      "question": "How many crew members were to fly on Dragon?",
       "options": [
-        "It was struck again, the fourth time in two days",
-        "It was closed for a planned safety inspection by city workers",
-        "It was struck for the very first time that week",
-        "It was repaired and fully reopened to all traffic again"
+        "Four",
+        "Six",
+        "Three",
+        "Two"
       ],
-      "correct_answer": "It was struck again, the fourth time in two days"
+      "correct_answer": "Four"
     },
     {
-      "question": "According to Klitschko, what is Russia's aim?",
+      "question": "Which part of the station was the docking port on?",
       "options": [
-        "To close all schools",
-        "To help rebuild roads",
-        "To end the war quickly",
-        "To sow panic"
+        "The airlock used for spacewalks",
+        "The top port of a science lab",
+        "The rear-facing port of a Russian module",
+        "The forward-facing port of the Harmony module"
       ],
-      "correct_answer": "To sow panic"
+      "correct_answer": "The forward-facing port of the Harmony module"
     },
     {
-      "question": "What did Zelensky say Putin decided in early September?",
+      "question": "What will NASA provide after the main launch broadcast ends?",
       "options": [
-        "That the war should stop",
-        "That \"there are no rules now\"",
-        "That trade should resume",
-        "That bridges would be rebuilt"
+        "No coverage until the next morning",
+        "Audio-only communications with Crew-13 and flight controllers",
+        "A tour of the launch tower",
+        "Live video from inside the engine"
       ],
-      "correct_answer": "That \"there are no rules now\""
+      "correct_answer": "Audio-only communications with Crew-13 and flight controllers"
     },
     {
-      "question": "How does Putin explain Russia's attacks on Ukrainian economic targets?",
+      "question": "Who may attend events in person?",
       "options": [
-        "As a reaction to the mayor's crisis meeting in the capital",
-        "As a reply to a Financial Times interview with Zelensky",
-        "As a response to Ukraine's strikes on Russian oil refineries and Black Sea ships",
-        "As a plan to protect Kyiv's bridges from a flood"
+        "Anyone who buys a ticket",
+        "Only the families of the crew",
+        "Students from nearby schools",
+        "Only media representatives who already received credentials"
       ],
-      "correct_answer": "As a response to Ukraine's strikes on Russian oil refineries and Black Sea ships"
+      "correct_answer": "Only media representatives who already received credentials"
     },
     {
-      "question": "What does the BBC add about energy attacks?",
+      "question": "What will the Crew-13 members do after entering the station?",
       "options": [
-        "Russia was first to launch such attacks on energy facilities",
-        "Only winter storms have damaged the energy sites",
-        "Ukraine was first to launch such attacks on energy facilities",
-        "Neither side has ever attacked any energy facilities"
+        "Start the trip back to Earth",
+        "Hold a news conference on the ground",
+        "Complete a brief handover with Crew-12 members",
+        "Launch a second spacecraft"
       ],
-      "correct_answer": "Russia was first to launch such attacks on energy facilities"
+      "correct_answer": "Complete a brief handover with Crew-12 members"
     }
   ],
   "background_read": [
-    "The Dnipro River divides Kyiv into western and eastern parts, so only a few bridges carry most of the traffic between them.",
-    "Russia launched a full-scale invasion of Ukraine in 2022."
+    "A U.S. spacecraft is one built and operated by an American organization."
   ],
   "Article_Structure": [
-    "Opening: the mayor's warning",
-    "The bridge strikes, traffic suspensions and recent data center hits",
-    "The mayor's message about panic and unity",
-    "Zelensky's account of Russian aims",
-    "Putin's explanation and the BBC's added context"
+    "Opening: Crew-13 is getting ready to launch",
+    "Launch details and planned record trip",
+    "The four crew members",
+    "NASA's broadcast and coverage schedule",
+    "What happens after arrival, including the Crew-12 handover",
+    "Closing: limits on in-person events"
   ],
-  "perspectives": [
-    {
-      "perspective": "Vitaliy Klitschko, Kyiv mayor",
-      "description": "He says Russia's aim is to sow panic and that Kyiv will prevail through the joint efforts of those who care for it."
-    },
-    {
-      "perspective": "Volodymyr Zelensky, Ukrainian president",
-      "description": "He says Putin decided in early September that there are no rules now, and that Russians want people to flee their cities."
-    },
-    {
-      "perspective": "Vladimir Putin, Russian president",
-      "description": "He insists the attacks are a direct response to Ukraine's strikes on Russian oil refineries and ships in the Black Sea, and said \"But they started it.\""
-    }
-  ],
-  "mined_at": "2026-10-02T18:02:19+00:00",
-  "source_published_at": "Fri, 02 Oct 2026 15:26:37 GMT",
-  "source_name": "BBC News",
-  "source_url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
+  "perspectives": [],
+  "mined_at": "2026-10-02T19:13:04+00:00",
+  "source_published_at": "Wed, 30 Sep 2026 04:36:42 EDT",
+  "source_name": "ScienceDaily All",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260930020312.htm",
   "category": "News",
-  "source_word_count": 456,
+  "source_word_count": 362,
   "detail_status": "full"
 }

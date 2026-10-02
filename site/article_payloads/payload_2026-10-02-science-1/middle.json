@@ -1,123 +1,122 @@
 {
-  "title": "Bats May Have First Evolved in Europe 65 Million Years Ago",
-  "summary": "New research suggests that bats most likely originated in Europe during the late Paleocene, roughly 65 to 60 million years ago. For decades, researchers have debated where bats first appeared, and Africa, Asia and North America have all been proposed as possible birthplaces.\n\nAn international team of 137 researchers from 64 countries combined genomic data from every living bat family with evidence from ancient fossils. Their goal was to reconstruct the evolutionary history of the world's only mammals capable of true powered flight. The work was carried out through the Bat1K consortium, a global effort to sequence the genomes of all living bat species. The study, published in Nature, examined 103 bat genomes, including 42 newly generated chromosome-level assemblies, covering all 21 recognized bat families. The researchers also used evidence from 44 fossil bats.\n\nThe results suggest that bats first evolved in Europe and that their descendants then moved into Africa. As bats diversified, separate groups expanded into the Americas, Asia and Australia. Over time, those migrations produced the major bat lineages found around the world today.\n\nThe findings also offer clues about two defining bat features. The team analyzed the fossil bat Vielasia, which sits on the oldest branch of the bat family tree. That fossil suggests that echolocation, the use of sound to navigate and hunt in darkness, had already appeared close to the beginning of bat evolution. Taken together, the evidence indicates that both powered flight and echolocation emerged before modern bat groups began diversifying.\n\nProfessor Emma Teeling, the leading senior author and a co-founding director of Bat1K, said: \"we finally have a robust phylogenetic tree that we can now use to properly understand how and where bats' unique traits evolved.\" Senior author Professor Liliana M. Dávalos of Stony Brook University said the team's method can \"identify the oldest group of fossil bats while taking the genomic data into account.\"\n\nBats represent about one fifth of all living mammals and play important ecological roles around the world. Many species are unusually resistant to disease and can live far longer than other mammals of similar size.",
-  "why_it_matters": "A reliable bat family tree gives scientists a map for studying how traits like flight, echolocation and unusual resistance to disease developed.",
-  "image_url": "/article_images/science-s2915bd6030823d57.webp",
+  "title": "Alzheimer's risk gene APOE4 may have a reversible weakness",
+  "summary": "Mount Sinai researchers have uncovered new details about how APOE4, the strongest known genetic risk factor for Alzheimer's disease, may contribute to brain damage. Two studies published in Cell and Cell Stem Cell show that the gene can damage blood vessels in the brain and encourage the accumulation of abnormal proteins associated with neurodegenerative disease. The findings point to disease processes that may be reversible and highlight a new human brain tissue platform derived from stem cells that could speed up the search for treatments.\n\nAlzheimer's disease gradually damages memory, thinking and behavior, and affects more than 7 million older adults in the United States. Researchers have known for years that blood vessels in the brain deteriorate as Alzheimer's progresses, especially in people who carry APOE4. What has been less clear is why this happens and whether the vascular damage contributes directly to the disease. Damage to the brain's circulation has often been treated as a consequence of Alzheimer's rather than as a process that could help drive it.\n\nFor the Cell study published on September 24, the scientists combined existing datasets to build a single cell transcriptomic atlas of blood vessels in the human brain. The map showed patterns of gene activity across the different cells that create and support the brain's vascular system. The team found that APOE4 altered the behavior of pericytes, cells that normally help stabilize small blood vessels and support the blood brain barrier. In the presence of APOE4, the pericytes changed into myofibroblast-like cells that produce scar tissue. That promoted vascular fibrosis and increased the buildup of amyloid around blood vessels, which could interfere with blood flow.\n\nThe researchers also found evidence that this process could be reversed. Blocking TGF-β signaling, which plays a role in communication between cells and in tissue remodeling, restored pericyte coverage while reducing fibrosis and amyloid around blood vessels. The result was reproduced in aged APOE4 mice.\n\n\"Damage to the brain's blood vessels is not simply a late consequence of Alzheimer's disease; it is a biologically active process caused by APOE4 that may be reversible,\" said corresponding author Joel W. Blanchard of the Icahn School of Medicine at Mount Sinai. \"These findings reveal new therapeutic targets for preserving vascular function and limiting amyloid accumulation.\"\n\nA major part of the research relied on miBrains, three dimensional human brain tissue developed by the Mount Sinai team from induced pluripotent stem cells. miBrains include all of the major cell types in the human brain, including neurons, supporting glial cells, myelin producing cells, and cells that make up blood vessels.\n\nIn the Cell Stem Cell study, miBrains carrying APOE4 developed higher amounts of abnormal alpha-synuclein, a protein most strongly associated with Lewy body dementia and Parkinson's disease. The experiments revealed that APOE4 causes cholesterol to accumulate inside astrocytes, support cells that perform several essential functions in maintaining brain health.",
+  "why_it_matters": "The studies suggest blood-vessel damage may help drive Alzheimer's instead of only following it. If that is confirmed, it could point scientists toward new treatments, though the reversal was shown in mice and lab-grown tissue.",
+  "image_url": "/article_images/science-sfdf299916b38dfa0.webp",
   "keywords": [
     {
-      "term": "Paleocene",
-      "explanation": "A period of Earth's history that began after the dinosaurs died out."
+      "term": "pericytes",
+      "explanation": "Cells that help stabilize small blood vessels."
     },
     {
-      "term": "genomic data",
-      "explanation": "Information read from the full set of DNA of living things."
+      "term": "fibrosis",
+      "explanation": "A buildup of scar-like tissue."
     },
     {
-      "term": "consortium",
-      "explanation": "A group of organizations or people who work together on a shared project."
+      "term": "amyloid",
+      "explanation": "An abnormal protein that can build up in the brain."
     },
     {
-      "term": "lineages",
-      "explanation": "Lines of descent, like branches of a family tree."
+      "term": "TGF-β signaling",
+      "explanation": "A signal that plays a role in communication between cells and in tissue remodeling."
     },
     {
-      "term": "echolocation",
-      "explanation": "Using sound echoes to find objects and move around, such as when hunting in darkness."
+      "term": "miBrains",
+      "explanation": "Three dimensional human brain tissue grown from stem cells."
     },
     {
-      "term": "phylogenetic tree",
-      "explanation": "A diagram showing how different kinds of living things are related by evolution."
+      "term": "astrocytes",
+      "explanation": "Support cells that help maintain brain health."
     }
   ],
   "questions": [
     {
-      "question": "Which continents have been proposed as bat birthplaces in the past?",
+      "question": "How was damage to the brain's circulation often treated before?",
       "options": [
-        "Antarctica, Australia and Africa",
-        "Africa, Asia and North America",
-        "South America and Antarctica only",
-        "Europe and Australia only"
+        "As the main cause of every single case of Alzheimer's",
+        "As something that only ever affects people who are young",
+        "As a consequence of Alzheimer's rather than a process that could help drive it",
+        "As a harmless change that came along with normal aging"
       ],
-      "correct_answer": "Africa, Asia and North America"
+      "correct_answer": "As a consequence of Alzheimer's rather than a process that could help drive it"
     },
     {
-      "question": "What kinds of evidence did the team combine?",
+      "question": "What did the single cell atlas show?",
       "options": [
-        "Satellite photos and weather records",
-        "Genomic data from living bat families and fossils",
-        "Written histories and old maps of caves",
-        "Sound recordings and pictures of bat wings"
+        "How many people in the whole country carry the APOE4 gene",
+        "Patterns of gene activity across the cells that create and support brain blood vessels",
+        "Which foods change gene activity in the human brain",
+        "The exact age at which each person gets Alzheimer's disease"
       ],
-      "correct_answer": "Genomic data from living bat families and fossils"
+      "correct_answer": "Patterns of gene activity across the cells that create and support brain blood vessels"
     },
     {
-      "question": "How many recognized bat families did the 103 genomes cover?",
+      "question": "What did pericytes change into in the presence of APOE4?",
       "options": [
-        "Only 4 of the bat families",
-        "All 21 recognized bat families",
-        "About half of the bat families",
-        "Just one family of fruit bats"
+        "Cells that clean up amyloid around vessels",
+        "Neurons that store memories for a long time",
+        "Stem cells that repair the damaged vessels",
+        "Myofibroblast-like cells that produce scar tissue"
       ],
-      "correct_answer": "All 21 recognized bat families"
+      "correct_answer": "Myofibroblast-like cells that produce scar tissue"
     },
     {
-      "question": "According to the study, where did bats' descendants move after Europe?",
+      "question": "What was reproduced in aged APOE4 mice?",
       "options": [
-        "Into the Americas, and nowhere else",
-        "Into Asia, and then they stopped spreading",
-        "Straight to Australia, then back to Africa",
-        "Into Africa, and later other groups spread elsewhere"
+        "Reduced fibrosis and amyloid after blocking TGF-β signaling",
+        "The buildup of cholesterol in the blood",
+        "The loss of all of the pericytes",
+        "The growth of several new brain regions"
       ],
-      "correct_answer": "Into Africa, and later other groups spread elsewhere"
+      "correct_answer": "Reduced fibrosis and amyloid after blocking TGF-β signaling"
     },
     {
-      "question": "What does the evidence indicate about powered flight and echolocation?",
+      "question": "Which protein built up more in miBrains carrying APOE4?",
       "options": [
-        "Both emerged before modern bat groups began diversifying",
-        "Echolocation came late, and flight never evolved",
-        "Both appeared only after modern bat groups formed",
-        "Flight came late, and echolocation never evolved"
+        "Collagen",
+        "Alpha-synuclein",
+        "Hemoglobin",
+        "Insulin"
       ],
-      "correct_answer": "Both emerged before modern bat groups began diversifying"
+      "correct_answer": "Alpha-synuclein"
     },
     {
-      "question": "What did Liliana M. Dávalos say about the team's method?",
+      "question": "What accumulates inside astrocytes because of APOE4, according to the experiments?",
       "options": [
-        "It can identify the oldest group of fossil bats while using genomic data",
-        "It replaces the need to study any living bat species",
-        "It works only when scientists have no fossils to study",
-        "It proves that bats are older than every other mammal"
+        "Cholesterol",
+        "Alpha-synuclein",
+        "Scar tissue",
+        "Myelin"
       ],
-      "correct_answer": "It can identify the oldest group of fossil bats while using genomic data"
+      "correct_answer": "Cholesterol"
     }
   ],
   "background_read": [
-    "A genome is the complete set of DNA in a living thing. Sequencing a genome means reading it letter by letter.",
-    "Fossils can show what ancient animals looked like and where they lived."
+    "Neurodegenerative diseases are conditions in which brain cells slowly lose their function."
   ],
   "Article_Structure": [
-    "Opening: bats may have originated in Europe",
-    "The long debate and the international team",
-    "The data: genomes and fossils",
-    "How bats spread to other continents",
-    "Clues about flight and echolocation",
-    "Expert comments and why bats matter"
+    "Overview: two studies on APOE4 and brain damage",
+    "Background: Alzheimer's and why the cause of blood-vessel damage was unclear",
+    "Cell study: atlas, pericytes, scarring and amyloid",
+    "Evidence that the process can be reversed in mice",
+    "Quotes from the researchers",
+    "miBrains and the Cell Stem Cell study on alpha-synuclein and cholesterol"
   ],
   "perspectives": [
     {
-      "perspective": "Professor Emma Teeling, Bat1K co-founding director",
-      "description": "She said the team now has a robust phylogenetic tree that can be used to understand where and how bats' unique traits evolved."
+      "perspective": "Joel W. Blanchard, corresponding author",
+      "description": "Said damage to the brain's blood vessels is a biologically active process caused by APOE4 that may be reversible."
     },
     {
-      "perspective": "Professor Liliana M. Dávalos, Stony Brook University",
-      "description": "She said the team's method can identify the oldest group of fossil bats while taking the genomic data into account."
+      "perspective": "Braxton R. Schuldt, first author",
+      "description": "Said the experiments blocked the protein buildup process, revealing possible new treatment strategies."
     }
   ],
-  "mined_at": "2026-10-02T18:02:19+00:00",
-  "source_published_at": "Wed, 30 Sep 2026 01:12:36 EDT",
-  "source_name": "ScienceDaily Top Environment",
-  "source_url": "https://www.sciencedaily.com/releases/2026/09/260929053531.htm",
+  "mined_at": "2026-10-02T19:13:04+00:00",
+  "source_published_at": "Thu, 01 Oct 2026 00:45:26 EDT",
+  "source_name": "ScienceDaily All",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260930225450.htm",
   "category": "Science",
-  "source_word_count": 580,
+  "source_word_count": 824,
   "detail_status": "full"
 }

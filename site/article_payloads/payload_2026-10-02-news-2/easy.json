@@ -1,113 +1,125 @@
 {
-  "title": "Ebola Outbreak in Congo Passes 4,000 Deaths",
-  "summary": "The Democratic Republic of the Congo, a country in central Africa, is fighting a very large outbreak of Ebola. Ebola is a dangerous disease caused by a virus. Officials announced the outbreak on May 15. Now the health ministry says more than 4,000 people have died. Its latest figures show 4,018 deaths among about 8,300 confirmed cases, which is nearly half of the cases. The outbreak is caused by a rare virus called Bundibugyo, and there is no known treatment or vaccine for it.\n\nFighting the outbreak is hard. Some health workers gathered in the city of Bunia and asked to be paid wages they are owed. Officials quickly sent them away. Some of them do surveillance work, which means finding people who were near a sick patient. Front-line workers have also gone on strike several times, and that slows the work.\n\nSafety is another problem. A senior United Nations official said soldiers burned a camp that included a transit center for Ebola patients while they were searching for weapons. About 19,000 people who were living in the camp had to leave. The official said that when a center is lost, the money and staff that built it are lost too, and the work has to start again.\n\nThere is also some news that is more hopeful. Confirmed cases have slowed, from about 850 a week in mid-July to an average of 490 a week in September. But Africa CDC says that could be partly because of insecurity and trouble getting communities to cooperate. In some places the spread has slowed down, and in others it has sped up.",
-  "why_it_matters": "A large outbreak with no known treatment shows how important it is to pay health workers, keep treatment centers safe and help communities work with doctors.",
-  "image_url": "/article_images/news-sbe3341ed35e54b2c.webp",
+  "title": "France closes nearly 400 schools after violent education protests",
+  "summary": "About 400 schools in France are expected to stay closed on Friday. Students have been protesting about problems in their schools, and in some places the protests have turned violent.\n\nThe protests are about teacher shortages and old, damaged school buildings. They began in the Paris region last month and have spread across the country. Dozens of people have been injured, and police have made hundreds of arrests. The protests and blockades have also become a political flashpoint, which means a point of strong disagreement. The government announced spending cuts in its 2027 budget on Thursday.\n\nJustice Minister Gérald Darmanin told RTL radio, \"There is an active and violent minority ... We're not entirely sure that they are even high school students themselves.\" He said 2,000 people had been arrested since the protests began, with about two-thirds placed in police custody, which means they were held by police.\n\nEducation Minister Édouard Geffray said \"a little over 400 schools and other educational establishments\" would stay closed on Friday. Some of the worst unrest on Thursday was in Marseille, France's second largest city. Public transport there was suspended after staff members were injured. A school was set on fire in the city of Nantes, and another school had fire damage in Le Havre.\n\nIn Saint-Denis, near Paris, crowds of young people gathered in front of police. One student held up a sign that read, \"Can we explain ourselves without being tear gassed?\" Geffray said he would meet representatives of staff unions, parent associations and student associations on Friday.",
+  "why_it_matters": "Schools are an important part of daily life. This story shows how problems like teacher shortages and damaged buildings can lead to strong protests, and why leaders and students need peaceful ways to talk.",
+  "image_url": "/article_images/news-s037f181bf736ee3f.webp",
   "keywords": [
     {
-      "term": "outbreak",
-      "explanation": "A sudden rise in cases of a disease in a place."
+      "term": "protests",
+      "explanation": "Public actions where people show they disagree with something."
     },
     {
-      "term": "vaccine",
-      "explanation": "A medicine given to help the body fight a disease before getting sick."
+      "term": "teacher shortages",
+      "explanation": "Not having enough teachers for schools."
     },
     {
-      "term": "surveillance",
-      "explanation": "Careful watching and tracking, such as finding people who may have been near a sick patient."
+      "term": "political flashpoint",
+      "explanation": "A point of strong disagreement that draws a lot of attention."
     },
     {
-      "term": "strike",
-      "explanation": "When workers stop working to ask for something, such as pay."
+      "term": "arrests",
+      "explanation": "When police take people into their control for a possible crime."
     },
     {
-      "term": "United Nations",
-      "explanation": "A group of countries that work together on problems like health and peace."
+      "term": "custody",
+      "explanation": "Being held by police."
+    },
+    {
+      "term": "budget",
+      "explanation": "A plan for how a government will spend money."
     }
   ],
   "questions": [
     {
-      "question": "What disease is spreading in the Democratic Republic of the Congo?",
+      "question": "Where did the protests begin?",
       "options": [
-        "Cholera",
-        "Ebola",
-        "Measles",
-        "Malaria"
+        "Le Havre",
+        "Marseille",
+        "Nantes",
+        "The Paris region"
       ],
-      "correct_answer": "Ebola"
+      "correct_answer": "The Paris region"
     },
     {
-      "question": "How many deaths do the latest health ministry figures show?",
+      "question": "How many people have been arrested since the protests began, according to the justice minister?",
       "options": [
-        "4,018 deaths",
-        "850 deaths",
-        "19,000 deaths",
-        "8,300 deaths"
+        "Hundreds",
+        "Dozens",
+        "400",
+        "2,000"
       ],
-      "correct_answer": "4,018 deaths"
+      "correct_answer": "2,000"
     },
     {
-      "question": "What does the story say about the Bundibugyo virus?",
+      "question": "What are the protests about?",
       "options": [
-        "It can be cured with one common pill",
-        "It has no known treatment or vaccine",
-        "It spreads only through dirty drinking water",
-        "It only infects people who work in hospitals"
+        "Changes to the school year and exams",
+        "Higher bus fares and longer school holidays",
+        "New rules about school uniforms and lunches",
+        "Teacher shortages and old, damaged school buildings"
       ],
-      "correct_answer": "It has no known treatment or vaccine"
+      "correct_answer": "Teacher shortages and old, damaged school buildings"
     },
     {
-      "question": "Why did some health workers gather in Bunia?",
+      "question": "What did the government announce on Thursday?",
       "options": [
-        "They wanted wages they were owed",
-        "They wanted to move to a new city",
-        "They wanted longer breaks between shifts",
-        "They wanted the camp rebuilt quickly"
+        "A plan to hire many new teachers",
+        "Spending cuts in its 2027 budget",
+        "New school buildings across Paris",
+        "A ban on all student protests"
       ],
-      "correct_answer": "They wanted wages they were owed"
+      "correct_answer": "Spending cuts in its 2027 budget"
     },
     {
-      "question": "What happened to the number of confirmed cases each week?",
+      "question": "What did the student's sign in Saint-Denis ask?",
       "options": [
-        "It fell from about 850 to about 490",
-        "It rose from about 490 to about 850",
-        "It dropped to zero by September",
-        "It stayed the same in every month"
+        "Whether teachers will get higher pay",
+        "Whether schools can reopen on Friday",
+        "Whether buses will run again",
+        "Whether students can explain themselves without being tear gassed"
       ],
-      "correct_answer": "It fell from about 850 to about 490"
+      "correct_answer": "Whether students can explain themselves without being tear gassed"
     },
     {
-      "question": "What did Africa CDC say could partly explain the slowing numbers?",
+      "question": "Who said he would meet unions, parents and students on Friday?",
       "options": [
-        "Schools closing in every city",
-        "Insecurity and trouble getting communities to cooperate",
-        "Fewer people living in central Africa",
-        "A new vaccine that everyone received"
+        "A teacher in Marseille",
+        "Education Minister Édouard Geffray",
+        "Justice Minister Gérald Darmanin",
+        "The fire crews in Nantes"
       ],
-      "correct_answer": "Insecurity and trouble getting communities to cooperate"
+      "correct_answer": "Education Minister Édouard Geffray"
     }
   ],
   "background_read": [
-    "Ebola is a serious illness caused by a virus. Health workers fight it by finding sick people, caring for them safely, and tracking who they were near."
+    "France is a country in Western Europe. Marseille, Nantes, Le Havre and Saint-Denis are cities there."
   ],
   "Article_Structure": [
-    "Opening: Congo's Ebola outbreak passes 4,000 deaths",
-    "The numbers and the virus",
-    "Why the response is hard: pay and strikes",
-    "Safety problems at a camp",
-    "Cases are slowing, but experts are careful"
+    "Opening: about 400 schools stay closed",
+    "What the protests are about and how they spread",
+    "Comments from the justice minister",
+    "Comments from the education minister and where the unrest happened",
+    "Closing: a student's sign and a planned meeting"
   ],
   "perspectives": [
     {
-      "perspective": "Africa CDC",
-      "description": "It says newly confirmed cases are falling, but that could be attributed to insecurity and trouble getting communities to cooperate."
+      "perspective": "Gérald Darmanin, Justice Minister",
+      "description": "Said an active and violent minority is involved and that it is no longer simply a protest issue."
+    },
+    {
+      "perspective": "Édouard Geffray, Education Minister",
+      "description": "Said a little over 400 schools would stay closed and that he would meet staff, parent and student groups."
+    },
+    {
+      "perspective": "A student in Saint-Denis",
+      "description": "Held up a sign asking whether students can explain themselves without being tear gassed."
     }
   ],
-  "mined_at": "2026-10-02T18:02:19+00:00",
-  "source_published_at": "Fri, 02 Oct 2026 10:15:35 EDT",
+  "mined_at": "2026-10-02T19:13:04+00:00",
+  "source_published_at": "Fri, 02 Oct 2026 07:02:33 EDT",
   "source_name": "CBC World",
-  "source_url": "https://www.cbc.ca/news/world/congo-outbreak-death-toll-treatment-centre-beating-9.7366690?cmp=rss",
+  "source_url": "https://www.cbc.ca/news/world/france-school-protests-9.7366549?cmp=rss",
   "category": "News",
-  "source_word_count": 559,
+  "source_word_count": 355,
   "detail_status": "full"
 }
