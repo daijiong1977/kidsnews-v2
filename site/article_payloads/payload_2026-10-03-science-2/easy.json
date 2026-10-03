@@ -1,113 +1,114 @@
 {
-  "title": "Australian stick insects turn out to be five species, not two",
-  "summary": "How can a large, often photographed insect still surprise scientists? In Australia, some stick insects looked familiar, but their identities needed another careful check.\n\nA University of Sydney team studied Australian insects in the group called Anchiale. Insects previously classified as two species turned out to represent five separate species. They live from northern New South Wales along coastal Queensland and into tropical northern Australia.\n\nThe team identified two previously unrecognized species and restored recognition of a third. One large insect had been incorrectly identified for decades. It is now recognized as its own species, Anchiale robusta.\n\nThe researchers gathered several kinds of clues. They studied DNA, the material that carries inherited information, alongside museum specimens, field surveys and insects raised in captivity. They also used observations shared by members of the public.\n\nOne newly described species, Anchiale mabiensis, lives in Queensland’s critically endangered Mabi rainforest. Its eggs have an unusual lid structure that had not previously been recorded in stick insects or their closest relatives.\n\nKnowing which species is which can matter outside a museum. Some stick insects sometimes become so numerous that they strip leaves from trees. One insect associated with these outbreaks turned out to include more than one species. Telling them apart could help people understand effects on forests and farming.\n\nThe team also suspects another new species lives in Cape York. More specimens are needed before that possibility can be confirmed.",
-  "why_it_matters": "Identifying species more accurately can reveal overlooked insect diversity and could help people understand effects on forests and farming.",
-  "image_url": "/article_images/science-sb3cf17d340a6a901.webp",
+  "title": "A Model Shows How California’s Earthquake ‘Gate’ Works",
+  "summary": "A meeting point between two California fault systems can act a little like a gate, scientists report. Sometimes an earthquake rupture stops there. Under other conditions, it can continue onto the next fault system.\n\nA fault is a break in Earth’s crust where sections of rock can move past one another. When those sections become stuck, stress can build. An earthquake can happen when stored energy is released and the rocks move. A rupture is the breaking and movement that spreads along a fault during an earthquake.\n\nThe new study focuses on the San Andreas and San Jacinto fault systems. They come close together at Cajon Pass, northeast of Los Angeles. Researchers used a computer model to explore about 1,000 years of earthquake activity there.\n\nThe model suggests that stress in parts of the system now matches or exceeds the highest levels in its simulated history. These results are estimates from a model.\n\nPast earthquakes show why the junction matters. In 1857, the Fort Tejon earthquake’s rupture stopped at Cajon Pass. In 1812, the Wrightwood earthquake’s rupture passed through the junction and involved both systems.\n\nThe researchers call Cajon Pass an earthquake gate because its behavior depends on changing stress conditions. It does not always block a rupture or always let one through.\n\nThe study helps scientists understand how stress builds and moves between faults over centuries.",
+  "why_it_matters": "Understanding how stress changes near a fault junction helps scientists study why an earthquake rupture may stop or continue onto another fault system.",
+  "image_url": "/article_images/science-s14333c1bb8ba23cc.webp",
   "keywords": [
     {
-      "term": "species",
-      "explanation": "A distinct kind of living thing."
+      "term": "fault",
+      "explanation": "A break in Earth’s crust where rock can move."
     },
     {
-      "term": "DNA",
-      "explanation": "Material in living things that carries inherited information."
+      "term": "crust",
+      "explanation": "Earth’s outer rocky layer."
     },
     {
-      "term": "specimens",
-      "explanation": "Examples of animals or other living things collected for study."
+      "term": "stress",
+      "explanation": "Force acting on rock that can build while it is stuck."
     },
     {
-      "term": "captivity",
-      "explanation": "Being kept and cared for by people instead of living in the wild."
+      "term": "rupture",
+      "explanation": "Breaking and movement spreading along a fault during an earthquake."
     },
     {
-      "term": "outbreaks",
-      "explanation": "Periods when the number of these insects becomes unusually large."
+      "term": "model",
+      "explanation": "A computer simulation used to explore how something works."
     },
     {
-      "term": "confirmed",
-      "explanation": "Checked and shown to be correct."
+      "term": "junction",
+      "explanation": "A place where different parts meet or connect."
     }
   ],
   "questions": [
     {
-      "question": "How many separate species did the team recognize among insects previously classified as two species?",
+      "question": "Which two fault systems does the study focus on?",
       "options": [
-        "Four species",
-        "Six species",
-        "Five species",
-        "Three species"
+        "San Andreas and Wrightwood",
+        "San Jacinto and Fort Tejon",
+        "Wrightwood and Fort Tejon",
+        "San Andreas and San Jacinto"
       ],
-      "correct_answer": "Five species"
+      "correct_answer": "San Andreas and San Jacinto"
     },
     {
-      "question": "Which university’s team studied the stick insects?",
+      "question": "Where do the two fault systems come close together?",
       "options": [
-        "The University of Melbourne",
-        "The University of Queensland",
-        "The University of Adelaide",
-        "The University of Sydney"
+        "At Cajon Pass, southeast of Los Angeles",
+        "At Cajon Pass, northeast of Los Angeles",
+        "At Cajon Pass, southwest of Los Angeles",
+        "At Cajon Pass, northwest of Los Angeles"
       ],
-      "correct_answer": "The University of Sydney"
+      "correct_answer": "At Cajon Pass, northeast of Los Angeles"
     },
     {
-      "question": "What happened to the insect called Anchiale robusta?",
+      "question": "About how much earthquake history did the researchers model?",
       "options": [
-        "It was moved to another rainforest.",
-        "It was recognized as a separate species.",
-        "It was confirmed to live in Cape York.",
-        "It was found only in museum collections."
+        "About 500 years",
+        "About 100 years",
+        "About 5,000 years",
+        "About 1,000 years"
       ],
-      "correct_answer": "It was recognized as a separate species."
+      "correct_answer": "About 1,000 years"
     },
     {
-      "question": "What is unusual about the eggs of Anchiale mabiensis?",
+      "question": "What can happen when sections of rock become stuck?",
       "options": [
-        "They have a distinctive lid structure.",
-        "They have a bright striped pattern.",
-        "They have a soft feathery covering.",
-        "They have a smooth square shape."
+        "The crust becomes liquid.",
+        "The fault closes forever.",
+        "Stress can build.",
+        "Stress always disappears."
       ],
-      "correct_answer": "They have a distinctive lid structure."
+      "correct_answer": "Stress can build."
     },
     {
-      "question": "Why could telling the outbreak-related species apart be useful?",
+      "question": "What happened to the Fort Tejon earthquake’s rupture in 1857?",
       "options": [
-        "It could explain changes in ocean water.",
-        "It could help explain effects on forests.",
-        "It could reveal how birds choose nests.",
-        "It could help plan new museum buildings."
+        "It crossed both fault systems.",
+        "It stopped at Cajon Pass.",
+        "It stopped before reaching either fault.",
+        "It continued onto the next system."
       ],
-      "correct_answer": "It could help explain effects on forests."
+      "correct_answer": "It stopped at Cajon Pass."
     },
     {
-      "question": "What does the team need to confirm the possible new species in Cape York?",
+      "question": "Why do researchers compare Cajon Pass to a gate?",
       "options": [
-        "More photographs of nearby trees",
-        "More records of farming methods",
-        "More specimens of the insects",
-        "More maps of rainforest paths"
+        "It can stop or allow a rupture.",
+        "It always lets ruptures continue.",
+        "It prevents stress from building.",
+        "It always stops every rupture."
       ],
-      "correct_answer": "More specimens of the insects"
+      "correct_answer": "It can stop or allow a rupture."
     }
   ],
   "background_read": [
-    "DNA carries inherited information. In this study, researchers examined it alongside specimens and observations.",
-    "Scientists can discover that a familiar animal belongs to a species that was not previously recognized."
+    "Earth’s crust is its outer rocky layer. A fault is a break where rock can move.",
+    "The earthquake gate is a comparison: changing stress conditions can affect whether a rupture stops or continues."
   ],
   "Article_Structure": [
-    "Opens with a question about how familiar insects can surprise scientists.",
-    "Explains the change from two recognized species to five.",
-    "Describes the evidence and two named species.",
-    "Explains possible benefits for forests and farming.",
-    "Ends with a possible species that needs further study."
+    "Introduces the earthquake gate comparison.",
+    "Explains faults, stress and ruptures.",
+    "Names the fault systems and describes the model.",
+    "Reports the model’s stress estimates.",
+    "Compares two past earthquakes.",
+    "Explains what scientists can learn from the study."
   ],
   "perspectives": [],
-  "mined_at": "2026-10-03T14:21:37+00:00",
-  "source_published_at": "Thu, 01 Oct 2026 09:59:22 EDT",
-  "source_name": "ScienceDaily Strange & Offbeat",
-  "source_url": "https://www.sciencedaily.com/releases/2026/09/260930020315.htm",
+  "mined_at": "2026-10-03T16:58:50+00:00",
+  "source_published_at": "Fri, 02 Oct 2026 00:58:10 EDT",
+  "source_name": "ScienceDaily All",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261001095521.htm",
   "category": "Science",
-  "source_word_count": 474,
+  "source_word_count": 683,
   "detail_status": "full"
 }

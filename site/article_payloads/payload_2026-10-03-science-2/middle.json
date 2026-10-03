@@ -1,119 +1,122 @@
 {
-  "title": "A fresh look at Australian stick insects reveals overlooked species",
-  "summary": "Discovering a species does not always mean finding an animal nobody has seen before. Sometimes the animal has been photographed, collected and studied for years, but scientists have placed it in the wrong group. A new study of Australian stick insects shows how that can happen.\n\nResearchers at the University of Sydney reexamined Australian members of Anchiale, a genus, or group of closely related species. Insects previously classified as just two species actually represent five. Together, they occur from northern New South Wales along coastal Queensland and into tropical northern Australia.\n\nThe team identified two previously unrecognized species and restored recognition of a third that had gone unrecognized for decades. The findings were published in Austral Entomology.\n\nOne particularly surprising case involved a large insect already familiar to scientists and insect enthusiasts. Evidence showed that it had been incorrectly identified for decades. It is now recognized as a separate species, Anchiale robusta.\n\nTo untangle these identities, the researchers combined DNA analysis with museum specimens, field surveys, citizen science observations and studies of insects raised in captivity. DNA provides inherited biological information, while specimens and observations let researchers compare the animals themselves. Using several kinds of evidence helped them examine distinctions that earlier classifications had missed.\n\nThere was already plenty of information to work with. More than 1,000 citizen science observations had been submitted through iNaturalist and the Atlas of Living Australia. Yet the study found overlooked diversity among insects that had also received decades of scientific attention.\n\nAnother newly described species, Anchiale mabiensis, comes from the critically endangered Mabi rainforest on Queensland’s Atherton Tablelands. Its eggs have a distinctive structural lid. The researchers say this feature had not previously been documented in any stick insect or its closest relatives.\n\nThe revised classification could also help forestry and agriculture. One stick insect known for occasional large population outbreaks, during which insects strip leaves from trees, turned out to represent more than one species. Distinguishing those species could help researchers and land managers better understand and manage future impacts.\n\nThe team also identified a possible additional species from Cape York. Its identity remains unconfirmed because more specimens are needed.\n\nLead author Dr. Braxton Jones described taxonomy, the science of identifying and classifying organisms, as detective work. He said the findings show how much scientists still have to learn about insect diversity. He also emphasized protecting threatened ecosystems and documenting species before they disappear without being recognized.",
-  "why_it_matters": "The study shows that even well-studied insects can include overlooked species. More accurate classification could also help researchers and land managers understand and manage effects on forestry and agriculture.",
-  "image_url": "/article_images/science-sb3cf17d340a6a901.webp",
+  "title": "California Fault Model Explores a Changing ‘Earthquake Gate’",
+  "summary": "Earthquake faults do not always act independently. At Cajon Pass, northeast of Los Angeles, the San Andreas and San Jacinto fault systems come close together. A new study describes this junction as an earthquake gate whose behavior changes as stress builds and shifts.\n\nA fault is a break in Earth’s crust along which rock can move. Sections may become stuck while forces continue pushing them. This allows stress to accumulate until movement releases stored energy in an earthquake. A rupture is the breaking and movement that spreads along a fault during that event.\n\nAn international team led by Dr. Liliane Burkhard of the University of Bern modeled roughly 1,000 years of earthquakes along the two Southern California fault systems. The study was published in the Journal of Geophysical Research: Solid Earth.\n\nIts results suggest that stress in parts of the system has reached, and in some places exceeded, the highest values found in the model’s 1,000-year history. These findings are estimates produced by a simulation.\n\nThe researchers built a physics-based, four-dimensional earthquake cycle model. Here, four dimensions means three dimensions of space plus time. The model tracks how earthquakes change stress on neighboring fault sections, how stress accumulates during quiet periods, and how deeper crustal layers gradually relax after large ruptures.\n\nTo reconstruct past activity, the team incorporated evidence from radiocarbon dating, unusual tree-ring patterns and historical accounts of ruptures that broke the ground surface. Combining those records with physics allowed them to explore changes across centuries.\n\nCajon Pass was a central focus because a rupture reaching the junction can behave in different ways. During the magnitude 7.9 Fort Tejon earthquake in 1857, the rupture stopped there rather than continuing onto the San Jacinto Fault. The Wrightwood earthquake in 1812 behaved differently, passing through the junction and rupturing both systems.\n\nBurkhard explains that Cajon Pass responds to stress conditions, which change over centuries. The gate description therefore does not mean there is a fixed barrier underground. Whether a rupture stops or continues depends on stress conditions around the junction.\n\nThe broader Los Angeles region has not experienced a comparable major earthquake since 1857, according to the source, while stress has continued building along parts of the system. This study helps researchers investigate how connected faults respond to that long-term buildup.",
+  "why_it_matters": "The study helps researchers understand how stress changes across connected Southern California faults and how those conditions may affect a rupture at Cajon Pass.",
+  "image_url": "/article_images/science-s14333c1bb8ba23cc.webp",
   "keywords": [
     {
-      "term": "genus",
-      "explanation": "A group of closely related species."
+      "term": "junction",
+      "explanation": "A place where different parts meet or connect."
     },
     {
-      "term": "classification",
-      "explanation": "The way scientists organize living things into groups."
+      "term": "accumulate",
+      "explanation": "To build up over time."
     },
     {
-      "term": "specimens",
-      "explanation": "Collected examples of living things used for scientific study."
+      "term": "rupture",
+      "explanation": "Breaking and movement spreading along a fault during an earthquake."
     },
     {
-      "term": "diversity",
-      "explanation": "The variety of different living things."
+      "term": "simulation",
+      "explanation": "A computer representation used to explore how a system behaves."
     },
     {
-      "term": "taxonomy",
-      "explanation": "The science of identifying and classifying organisms."
+      "term": "radiocarbon",
+      "explanation": "A radioactive form of carbon used to estimate the age of once-living material."
     },
     {
-      "term": "ecosystems",
-      "explanation": "Living things and their surroundings interacting together."
+      "term": "estimates",
+      "explanation": "Approximate values worked out using available information."
     }
   ],
   "questions": [
     {
-      "question": "What was the study’s main finding about Australian Anchiale insects?",
+      "question": "Who led the international research team?",
       "options": [
-        "Two recognized species belonged to five.",
-        "Five recognized species belonged to two.",
-        "Four recognized species belonged to three.",
-        "Three recognized species belonged to four."
+        "Dr. Liliane Burkhard of the University of Hawaiʻi",
+        "Dr. Liliane Burkhard of the University of Bern",
+        "Dr. Liliane Burkhard of the U.S. Geological Survey",
+        "Dr. Liliane Burkhard of UC San Diego"
       ],
-      "correct_answer": "Two recognized species belonged to five."
+      "correct_answer": "Dr. Liliane Burkhard of the University of Bern"
     },
     {
-      "question": "Which set of evidence did researchers use to examine the insects’ identities?",
+      "question": "What does four-dimensional mean in this study’s model?",
       "options": [
-        "Tree measurements, rainfall records and star maps",
-        "Satellite images, rock samples and ocean surveys",
-        "Weather charts, soil samples and river surveys",
-        "DNA analysis, museum specimens and field surveys"
+        "Four separate dimensions of space",
+        "Four separate periods of earthquake history",
+        "Two dimensions of space plus two faults",
+        "Three dimensions of space plus time"
       ],
-      "correct_answer": "DNA analysis, museum specimens and field surveys"
+      "correct_answer": "Three dimensions of space plus time"
     },
     {
-      "question": "What information had the public already contributed?",
+      "question": "Which set of evidence helped reconstruct past earthquake activity?",
       "options": [
-        "More than 1,000 rainforest weather forecasts",
-        "More than 1,000 citizen science observations",
-        "More than 1,000 agricultural planning reports",
-        "More than 1,000 museum building proposals"
+        "Radiocarbon dating, tree-ring patterns and historical accounts",
+        "Satellite photographs, traffic records and population surveys",
+        "Ocean temperatures, rainfall records and wind measurements",
+        "Soil temperatures, river levels and weather forecasts"
       ],
-      "correct_answer": "More than 1,000 citizen science observations"
+      "correct_answer": "Radiocarbon dating, tree-ring patterns and historical accounts"
     },
     {
-      "question": "Where does the newly described Anchiale mabiensis come from?",
+      "question": "What do the model’s results suggest about stress in parts of the system?",
       "options": [
-        "The coastal forests of northern New South Wales",
-        "The mountain forests around the city of Sydney",
-        "The tropical forests of the Cape York region",
-        "The Mabi rainforest on the Atherton Tablelands"
+        "It disappears completely after each modeled earthquake.",
+        "It remains unchanged throughout the model’s history.",
+        "It matches or exceeds the model’s historical highs.",
+        "It stays below the model’s lowest historical values."
       ],
-      "correct_answer": "The Mabi rainforest on the Atherton Tablelands"
+      "correct_answer": "It matches or exceeds the model’s historical highs."
     },
     {
-      "question": "Why does the possible additional species from Cape York remain unconfirmed?",
+      "question": "How did the two historical ruptures behave at Cajon Pass?",
       "options": [
-        "Researchers still need additional specimens.",
-        "Researchers still need new rainfall records.",
-        "Researchers still need museum floor plans.",
-        "Researchers still need forestry proposals."
+        "Fort Tejon stopped; Wrightwood passed through.",
+        "Fort Tejon passed through; Wrightwood stopped.",
+        "Both Fort Tejon and Wrightwood stopped.",
+        "Both Fort Tejon and Wrightwood passed through."
       ],
-      "correct_answer": "Researchers still need additional specimens."
+      "correct_answer": "Fort Tejon stopped; Wrightwood passed through."
     },
     {
-      "question": "What did Dr. Braxton Jones compare taxonomy to?",
+      "question": "According to Burkhard, what affects Cajon Pass’s behavior?",
       "options": [
-        "Building a shelter",
-        "Predicting the weather",
-        "Solving a detective case",
-        "Planning a journey"
+        "A fixed barrier that never changes",
+        "The names given to the fault systems",
+        "Stress conditions that change over centuries",
+        "The number of researchers studying it"
       ],
-      "correct_answer": "Solving a detective case"
+      "correct_answer": "Stress conditions that change over centuries"
     }
   ],
   "background_read": [
-    "A genus groups closely related species. Taxonomy is the science of identifying and classifying organisms.",
-    "Citizen science observations are observations shared by members of the public. This study used them alongside other evidence."
+    "A rupture is the breaking and movement that spreads along a fault during an earthquake.",
+    "The model follows changes through three dimensions of space and through time.",
+    "The study’s stress findings are estimates from a simulation."
   ],
   "Article_Structure": [
-    "Introduces how a familiar animal can have an overlooked scientific identity.",
-    "Reports the revised species count and publication.",
-    "Explains the recognition of Anchiale robusta and the research methods.",
-    "Describes existing public observations and the unusual eggs of Anchiale mabiensis.",
-    "Discusses possible benefits for forestry and agriculture and an unconfirmed species.",
-    "Closes with Dr. Braxton Jones’s views on taxonomy and protecting ecosystems."
+    "Introduces the connected faults and Cajon Pass.",
+    "Defines faults, stress buildup and ruptures.",
+    "Identifies the research team and publication.",
+    "Presents the model’s stress estimates.",
+    "Explains the model and the historical evidence.",
+    "Compares the Fort Tejon and Wrightwood ruptures.",
+    "Attributes the changing gate explanation to Burkhard.",
+    "Connects the study to long-term stress buildup."
   ],
   "perspectives": [
     {
-      "perspective": "Dr. Braxton Jones",
-      "description": "He compared taxonomy to detective work and said the discoveries show how much remains to be learned about insect diversity. He emphasized protecting threatened ecosystems and documenting species before they disappear without being recognized."
+      "perspective": "Dr. Liliane Burkhard",
+      "description": "Burkhard explains that Cajon Pass responds to stress conditions that change over centuries, so the junction can stop a rupture or allow it to continue."
     }
   ],
-  "mined_at": "2026-10-03T14:21:37+00:00",
-  "source_published_at": "Thu, 01 Oct 2026 09:59:22 EDT",
-  "source_name": "ScienceDaily Strange & Offbeat",
-  "source_url": "https://www.sciencedaily.com/releases/2026/09/260930020315.htm",
+  "mined_at": "2026-10-03T16:58:50+00:00",
+  "source_published_at": "Fri, 02 Oct 2026 00:58:10 EDT",
+  "source_name": "ScienceDaily All",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261001095521.htm",
   "category": "Science",
-  "source_word_count": 474,
+  "source_word_count": 683,
   "detail_status": "full"
 }

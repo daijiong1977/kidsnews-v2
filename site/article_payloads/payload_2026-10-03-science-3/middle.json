@@ -1,114 +1,127 @@
 {
-  "title": "Magnetic fossils suggest an ancient creature could navigate 97 million years ago",
-  "summary": "Birds, fish and insects can use Earth’s magnetic field to help find their way. This ability, called magnetoreception, is still one of nature’s least understood senses. Researchers now suggest that microscopic fossils may preserve evidence of a magnetic navigation system from 97 million years ago.\n\nThe structures, known as magnetofossils, were recovered from ancient seafloor sediments in the North Atlantic Ocean. They resemble spearheads, spindles, bullets and needles, and each is no larger than a bacterial cell. Scientists believe they have a biological origin, but the organism that produced them remains unknown.\n\nResearchers from the University of Cambridge and the Helmholtz Zentrum Berlin created the first three-dimensional images of the magnetic structure inside these fossils. Their analysis revealed features that appear particularly suited to detecting both the direction and strength of Earth’s magnetic field. Together, those signals could have helped a creature determine its location and direction of travel.\n\nThe findings, reported in Communications Earth & Environment, support the possibility that the fossils were part of an ancient animal navigation system. Navigation means finding your location and your way from one place to another.\n\nOne leading explanation for magnetic sensing involves magnetite, a magnetic mineral that may form tiny crystals inside animals. These crystals could align with Earth’s field, acting like microscopic compass needles. Some bacteria already use chains of magnetic particles to orient themselves and swim toward their preferred water depth.\n\nThe bacterial particles are about 50 to 100 nanometers wide. A nanometer is one billionth of a meter. The magnetofossils in this study are roughly 10 to 20 times larger than the particles bacteria use. Their unusual size had previously led scientists to suggest that they might have served as protective spines.\n\nComputer simulations hinted that the structures had more complex magnetic properties. To investigate, the researchers used a new imaging method that maps the arrangement of tiny magnetic fields throughout a particle. Earlier techniques using conventional X rays could not effectively penetrate these large magnetofossils to produce such images.\n\nThe work used a technique developed by Claire Donnelly at the Max Planck Institute, with measurements performed at the Diamond X-ray facility in Oxford.\n\nThe resulting magnetic maps support the navigation explanation, but they do not identify the creature. The study offers a possible window into the evolution of magnetic sensing while leaving an important mystery for future research.",
-  "why_it_matters": "The study may help explain the evolution of magnetic sensing by examining ancient structures that appear suited to navigation.",
-  "image_url": "/article_images/science-s71c53e4722590702.webp",
+  "title": "Manatees and Sand Tiger Sharks Use Gas to Stay Afloat",
+  "summary": "Flatulence, the release of gas from the body’s lower opening, might seem like an unlikely survival tool. Yet some aquatic animals use the gas inside their bodies to help control their position in the water.\n\nFlorida manatees provide one example. According to data scientist and animal-flatulence author Nick Caruso, they can store gas in their guts. The gas may come from swallowed air or from digestion. Because gas is less dense than water, it increases buoyancy: the tendency to float rather than sink.\n\nManatees mainly eat seagrass in Florida’s shallow waters. These plants are difficult to digest, so the animals rely on a large hindgut, the rear part of the digestive tract. Microbes living there help break down the food, producing gas in the process.\n\nThe animals also have strong abdominal muscles and a powerful diaphragm, the muscle involved in breathing. These muscles can compress gas in the intestines and force some out. Releasing gas can help a manatee dive deeper. What people might dismiss as an awkward bodily function can therefore play a practical role underwater.\n\nSand tiger sharks use air for buoyancy too, but their method differs. Many bony fish have a swim bladder, an organ containing gas that helps them float. Sharks and rays lack both bones and swim bladders. Sharks’ oily livers help support them because oil is lighter than water, although many sharks still keep swimming to avoid sinking.\n\nMarine conservation biologist David Shiffman explains that sand tiger sharks can sometimes hover instead. They gulp air at the surface and use it to help them stay in the water column. Shiffman says these sharks have been observed expelling air through their cloaca.\n\nA cloaca is an opening used for waste and reproduction. Birds, reptiles, amphibians, sharks and some fish have one. Most mammals, by contrast, have separate routes for urine and feces. These anatomical differences mean that gas does not leave every animal in exactly the same way.\n\nSome turtles have another unusual use for a cloaca that is separate from flatulence. Zoologist Dani Rabaiotti explains that they pump water into it, allowing oxygen from the water to enter their blood. Australia’s white-throated snapping turtle obtains 48 percent of its oxygen this way when in water.\n\nThese examples show why studying animal bodies can turn a funny question into useful biology. Gas storage, gas release and oxygen uptake are different processes, but each can help explain how particular animals function underwater.",
+  "why_it_matters": "The article connects buoyancy, digestion and oxygen uptake to concrete animal examples, showing how different body processes help animals function underwater.",
+  "image_url": "/article_images/science-scb74a7aa9ae74b51.webp",
   "keywords": [
     {
-      "term": "magnetoreception",
-      "explanation": "The ability to sense Earth’s magnetic field."
+      "term": "Flatulence",
+      "explanation": "The release of gas through the body’s lower opening."
     },
     {
-      "term": "magnetofossils",
-      "explanation": "Tiny magnetic structures preserved from ancient life."
+      "term": "buoyancy",
+      "explanation": "The tendency to float rather than sink."
     },
     {
-      "term": "magnetite",
-      "explanation": "A magnetic mineral that may help animals sense magnetic fields."
+      "term": "hindgut",
+      "explanation": "The rear part of the digestive tract."
     },
     {
-      "term": "nanometer",
-      "explanation": "A unit of length equal to one billionth of a meter."
+      "term": "Microbes",
+      "explanation": "Tiny living things that help manatees break down food."
     },
     {
-      "term": "simulations",
-      "explanation": "Computer models used to explore how something might work."
+      "term": "diaphragm",
+      "explanation": "A muscle involved in breathing."
     },
     {
-      "term": "evolution",
-      "explanation": "Changes in living things over many generations."
+      "term": "cloaca",
+      "explanation": "An opening used for waste and reproduction in some animals."
     }
   ],
   "questions": [
     {
-      "question": "What is magnetoreception?",
+      "question": "According to Nick Caruso, where can gas in a manatee’s gut come from?",
       "options": [
-        "The ability to sense changes in water temperature.",
-        "The ability to sense distant sounds underwater.",
-        "The ability to sense light through thick sediment.",
-        "The ability to sense Earth’s magnetic field."
+        "Blood or surrounding sand",
+        "Seawater or liver oil",
+        "Skin or breathing muscles",
+        "Swallowed air or digestion"
       ],
-      "correct_answer": "The ability to sense Earth’s magnetic field."
+      "correct_answer": "Swallowed air or digestion"
     },
     {
-      "question": "What did the three-dimensional images suggest about the fossils?",
+      "question": "What happens as microbes break down food in a manatee’s hindgut?",
       "options": [
-        "They could detect magnetic direction and strength.",
-        "They could detect water movement and pressure.",
-        "They could detect ocean temperature and depth.",
-        "They could detect sunlight direction and brightness."
+        "They store liver oil.",
+        "They form a swim bladder.",
+        "They remove oxygen.",
+        "They produce gas."
       ],
-      "correct_answer": "They could detect magnetic direction and strength."
+      "correct_answer": "They produce gas."
     },
     {
-      "question": "What do magnetic particle chains help some bacteria do?",
+      "question": "How can a manatee’s strong muscles help it dive deeper?",
       "options": [
-        "Make thicker layers of seafloor sediment.",
-        "Swim toward their preferred water depth.",
-        "Grow larger protective spines around themselves.",
-        "Change the strength of Earth’s magnetic field."
+        "They squeeze some gas out.",
+        "They pump water into its blood.",
+        "They move oil into its gut.",
+        "They pull air into its lungs."
       ],
-      "correct_answer": "Swim toward their preferred water depth."
+      "correct_answer": "They squeeze some gas out."
     },
     {
-      "question": "What purpose had scientists previously suggested for the large magnetofossils?",
+      "question": "Which structure helps many bony fish float but is absent in sharks?",
       "options": [
-        "They might have served as protective spines.",
-        "They might have served as light-sensitive eyes.",
-        "They might have served as sound-making organs.",
-        "They might have served as food-storage chambers."
+        "An oily liver",
+        "A swim bladder",
+        "An abdominal muscle",
+        "A digestive tract"
       ],
-      "correct_answer": "They might have served as protective spines."
+      "correct_answer": "A swim bladder"
     },
     {
-      "question": "Why could earlier techniques not produce the needed magnetic images?",
+      "question": "What does Shiffman say sand tiger sharks have been observed doing?",
       "options": [
-        "Conventional X rays could not effectively penetrate the particles.",
-        "Researchers could not locate the fossils’ original ocean sediments.",
-        "Computer simulations could not calculate the fossils’ exact age.",
-        "Magnetic minerals could not align with Earth’s magnetic field."
+        "Expelling air through their cloacas",
+        "Making gas by digesting seagrass",
+        "Taking oxygen through their cloacas",
+        "Moving air into their swim bladders"
       ],
-      "correct_answer": "Conventional X rays could not effectively penetrate the particles."
+      "correct_answer": "Expelling air through their cloacas"
     },
     {
-      "question": "What contribution did Claire Donnelly make to the work?",
+      "question": "When in water, what share of its oxygen does Australia’s white-throated snapping turtle obtain through its cloaca?",
       "options": [
-        "She discovered the fossils’ protective function.",
-        "She developed the technique used in the study.",
-        "She identified the organism that made the fossils.",
-        "She established the preferred depth of bacteria."
+        "About one quarter",
+        "About three quarters",
+        "All of its oxygen",
+        "Exactly 48 percent"
       ],
-      "correct_answer": "She developed the technique used in the study."
+      "correct_answer": "Exactly 48 percent"
     }
   ],
   "background_read": [
-    "Birds, fish and insects can use Earth’s magnetic field to help navigate.",
-    "Magnetite crystals could act like microscopic compass needles.",
-    "The study’s findings were reported in Communications Earth & Environment."
+    "Gas is less dense than water, which helps explain its role in buoyancy.",
+    "Many bony fish have swim bladders; sharks and rays do not.",
+    "Oxygen uptake through a turtle’s cloaca differs from releasing gas through that opening."
   ],
   "Article_Structure": [
-    "Introduces magnetoreception and the 97-million-year-old evidence.",
-    "Describes the magnetofossils and their possible navigation function.",
-    "Explains magnetite sensing and compares bacterial particles with the fossils.",
-    "Describes the imaging challenge, new technique and measurement location.",
-    "Ends with the unknown organism and the study’s possible contribution to understanding magnetic sensing."
+    "Introduces flatulence and the role of gas in controlling position underwater.",
+    "Explains manatee gas storage, digestion and muscle-controlled gas release.",
+    "Compares bony fish with sharks and explains how sand tiger sharks use swallowed air.",
+    "Defines a cloaca and describes oxygen uptake in some turtles.",
+    "Connects the examples to the study of how animal bodies function."
   ],
-  "perspectives": [],
-  "mined_at": "2026-10-03T14:21:37+00:00",
-  "source_published_at": "Fri, 02 Oct 2026 07:54:34 EDT",
-  "source_name": "ScienceDaily Strange & Offbeat",
-  "source_url": "https://www.sciencedaily.com/releases/2026/09/260930020329.htm",
+  "perspectives": [
+    {
+      "perspective": "Nick Caruso",
+      "description": "He explains that Florida manatees store gas from swallowed air or digestion and that gas increases their buoyancy."
+    },
+    {
+      "perspective": "David Shiffman",
+      "description": "He explains that sand tiger sharks gulp air to hover and have been observed expelling air through their cloacas."
+    },
+    {
+      "perspective": "Dani Rabaiotti",
+      "description": "She explains that some turtles pump water into their cloacas, allowing oxygen from the water to enter their blood."
+    }
+  ],
+  "mined_at": "2026-10-03T16:58:50+00:00",
+  "source_published_at": "Thu, 01 Oct 2026 10:30:00 +0000",
+  "source_name": "Science News Explores",
+  "source_url": "https://www.snexplores.org/article/animal-farting-fish-manatee-gas",
   "category": "Science",
-  "source_word_count": 648,
+  "source_word_count": 768,
   "detail_status": "full"
 }

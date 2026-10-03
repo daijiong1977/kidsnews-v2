@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-10-03-science-1",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Fri, 02 Oct 2026 08:21:30 EDT",
-      "mined_at": "2026-10-03T14:21:37+00:00",
-      "source_published_at": "Fri, 02 Oct 2026 08:21:30 EDT",
-      "image_url": "/article_images/science-s0465c8ca20bba81e.webp",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Sat, 03 Oct 2026 09:34:11 EDT",
+      "mined_at": "2026-10-03T16:58:50+00:00",
+      "source_published_at": "Sat, 03 Oct 2026 09:34:11 EDT",
+      "image_url": "/article_images/science-sc62c0a234d4cdd9d.webp",
       "category": "Science",
-      "title": "Roman telescope passes steady-pointing tests and sees its first stars",
-      "summary": "NASA’s Roman telescope passed tests of its steady pointing, and its Coronagraph Instrument received cosmic light for the first time. Early star images will help engineers prepare for more demanding observations."
+      "title": "Juice Gets a Gravity Boost from Earth",
+      "summary": "ESA’s Juice spacecraft passed Earth on September 28, using gravity to change direction and gain speed. The encounter also helped teams test instruments for studying Jupiter’s icy moons."
     },
     {
       "id": "2026-10-03-science-2",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Thu, 01 Oct 2026 09:59:22 EDT",
-      "mined_at": "2026-10-03T14:21:37+00:00",
-      "source_published_at": "Thu, 01 Oct 2026 09:59:22 EDT",
-      "image_url": "/article_images/science-sb3cf17d340a6a901.webp",
+      "source": "ScienceDaily All",
+      "time_ago": "Fri, 02 Oct 2026 00:58:10 EDT",
+      "mined_at": "2026-10-03T16:58:50+00:00",
+      "source_published_at": "Fri, 02 Oct 2026 00:58:10 EDT",
+      "image_url": "/article_images/science-s14333c1bb8ba23cc.webp",
       "category": "Science",
-      "title": "Australian stick insects turn out to be five species, not two",
-      "summary": "Researchers found that Australian stick insects classified as two species actually belong to five. Their detective work identified two new species, including one whose eggs have an unusual lid structure."
+      "title": "A Model Shows How California’s Earthquake ‘Gate’ Works",
+      "summary": "Scientists modeled 1,000 years of earthquakes on two Southern California fault systems. Their results suggest that stress near a key junction can affect whether a rupture stops or continues."
     },
     {
       "id": "2026-10-03-science-3",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Fri, 02 Oct 2026 07:54:34 EDT",
-      "mined_at": "2026-10-03T14:21:37+00:00",
-      "source_published_at": "Fri, 02 Oct 2026 07:54:34 EDT",
-      "image_url": "/article_images/science-s71c53e4722590702.webp",
+      "source": "Science News Explores",
+      "time_ago": "Thu, 01 Oct 2026 10:30:00 +0000",
+      "mined_at": "2026-10-03T16:58:50+00:00",
+      "source_published_at": "Thu, 01 Oct 2026 10:30:00 +0000",
+      "image_url": "/article_images/science-scb74a7aa9ae74b51.webp",
       "category": "Science",
-      "title": "Tiny ancient fossils may reveal an early magnetic navigation system",
-      "summary": "Researchers examined magnetic fossils dating back 97 million years. Their internal structures suggest that an unknown ancient creature may have used Earth’s magnetic field to navigate."
+      "title": "How Gas Helps Some Animals Float",
+      "summary": "Gas can do useful jobs underwater. Manatees can store it in their guts to float more easily, while sand tiger sharks gulp air that helps them hover."
     }
   ]
 }

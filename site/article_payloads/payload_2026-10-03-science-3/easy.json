@@ -1,112 +1,117 @@
 {
-  "title": "Tiny ancient fossils may reveal an early magnetic navigation system",
-  "summary": "Some animals can find their way using Earth’s magnetic field. Now tiny fossils may offer clues about how long this ability has existed.\n\nResearchers studied magnetic fossils dating back 97 million years. They were found in ancient seafloor sediments in the North Atlantic Ocean. The fossils have shapes like spearheads, spindles, bullets and needles. Each is no larger than a bacterial cell.\n\nScientists think a living organism made these structures, but they do not know which organism it was. Their purpose has also been uncertain.\n\nA team from the University of Cambridge and the Helmholtz Zentrum Berlin made the first three-dimensional images of the magnetic structures inside the fossils. The results suggest that the structures were well suited to detecting both the direction and strength of Earth’s magnetic field.\n\nThat information could have helped an ancient animal work out where it was and which way to travel. Navigation means finding your location and your way from one place to another.\n\nSome bacteria already use tiny magnetic particles as internal compass needles. But the fossils studied here are about 10 to 20 times larger than the particles used by bacteria.\n\nScientists had earlier suggested that these larger structures might have been protective spines. The new magnetic images support a different possibility: navigation. The creature’s identity is still unknown, and the findings may help scientists understand how animals developed the ability to sense Earth’s magnetic field.",
-  "why_it_matters": "The fossils may help scientists understand how long animals have used Earth’s magnetic field to find their way.",
-  "image_url": "/article_images/science-s71c53e4722590702.webp",
+  "title": "How Gas Helps Some Animals Float",
+  "summary": "Passing gas may make people giggle, but for some animals it has a useful job. Gas inside their bodies can help them stay afloat.\n\nFlorida manatees mainly eat seagrass, which is tough to digest. Tiny living things called microbes help break it down in the animals’ large guts. This process produces gas. Manatees can also swallow air.\n\nGas is less dense than water. Having more gas inside makes a manatee more buoyant, meaning it floats more easily. Its strong belly muscles and diaphragm, the muscle used in breathing, can squeeze gas in its intestines. Releasing some of that gas can help it dive deeper.\n\nSand tiger sharks use air in a different way. Many bony fish have a swim bladder, a gas-filled organ that helps them float. Sharks do not have swim bladders. Their oily livers help support them in the water, but many sharks keep swimming to avoid sinking.\n\nMarine conservation biologist David Shiffman explains that a sand tiger shark can gulp air at the ocean’s surface and use it to hover in the water. He says these sharks have been observed releasing air through an opening called a cloaca, which also handles waste and reproduction.\n\nSome turtles use their cloacas for another surprising purpose. They pump water into the opening, and oxygen from that water enters their blood. This is different from releasing gas.\n\nAn everyday bodily process can reveal some clever ways animals live underwater.",
+  "why_it_matters": "These examples help explain how animal bodies work underwater and how gas can help animals float.",
+  "image_url": "/article_images/science-scb74a7aa9ae74b51.webp",
   "keywords": [
     {
-      "term": "fossils",
-      "explanation": "Preserved remains or traces of life from long ago."
+      "term": "microbes",
+      "explanation": "Tiny living things that can help break down food."
     },
     {
-      "term": "sediments",
-      "explanation": "Material that settles in layers, such as on the seafloor."
+      "term": "buoyant",
+      "explanation": "Able to float easily."
     },
     {
-      "term": "organism",
-      "explanation": "A living thing."
+      "term": "diaphragm",
+      "explanation": "A muscle used in breathing."
     },
     {
-      "term": "navigation",
-      "explanation": "Finding your location and your way between places."
+      "term": "swim bladder",
+      "explanation": "A gas-filled organ that helps many bony fish float."
     },
     {
-      "term": "particles",
-      "explanation": "Very small pieces of material."
+      "term": "hover",
+      "explanation": "Stay in one place in the water."
     },
     {
-      "term": "protective",
-      "explanation": "Helping keep something safe from harm."
+      "term": "cloaca",
+      "explanation": "An opening in some animals used for waste and reproduction."
     }
   ],
   "questions": [
     {
-      "question": "How old are the magnetic fossils researchers studied?",
+      "question": "What do Florida manatees mainly eat?",
       "options": [
-        "About 79 million years old.",
-        "About 19 million years old.",
-        "About 37 million years old.",
-        "About 97 million years old."
+        "Crabs",
+        "Seagrass",
+        "Sea snails",
+        "Small fish"
       ],
-      "correct_answer": "About 97 million years old."
+      "correct_answer": "Seagrass"
     },
     {
-      "question": "Where were the fossils found?",
+      "question": "What helps manatees break down tough seagrass?",
       "options": [
-        "In ancient North Atlantic seafloor sediments.",
-        "In ancient Arctic coastal beach sands.",
-        "In ancient Indian Ocean coral reefs.",
-        "In ancient South Pacific seafloor sediments."
+        "Air above the water",
+        "Water around their bodies",
+        "Oil in their livers",
+        "Microbes in their guts"
       ],
-      "correct_answer": "In ancient North Atlantic seafloor sediments."
+      "correct_answer": "Microbes in their guts"
     },
     {
-      "question": "What did the team make images of?",
+      "question": "Why does gas help a manatee float?",
       "options": [
-        "The swimming movements of living bacteria.",
-        "The protective spines of modern animals.",
-        "The magnetic structures inside the fossils.",
-        "The sediment layers around ocean islands."
+        "Gas is colder than water.",
+        "Gas is saltier than water.",
+        "Gas is less dense than water.",
+        "Gas is heavier than water."
       ],
-      "correct_answer": "The magnetic structures inside the fossils."
+      "correct_answer": "Gas is less dense than water."
     },
     {
-      "question": "What two features of Earth’s magnetic field might the structures detect?",
+      "question": "What can releasing some gas help a manatee do?",
       "options": [
-        "Its temperature and color.",
-        "Its speed and brightness.",
-        "Its direction and strength.",
-        "Its weight and texture."
+        "Swim toward shore",
+        "Dive deeper",
+        "Warm its body",
+        "Eat tougher plants"
       ],
-      "correct_answer": "Its direction and strength."
+      "correct_answer": "Dive deeper"
     },
     {
-      "question": "How does the size of these fossils compare with bacteria’s magnetic particles?",
+      "question": "How does a sand tiger shark get air that helps it hover?",
       "options": [
-        "They are about two to three times larger.",
-        "They are about 10 to 20 times larger.",
-        "They are about 10 to 20 times smaller.",
-        "They are about two to three times smaller."
+        "It gathers air from sand.",
+        "It takes air from seagrass.",
+        "It draws air from its liver.",
+        "It gulps air at the surface."
       ],
-      "correct_answer": "They are about 10 to 20 times larger."
+      "correct_answer": "It gulps air at the surface."
     },
     {
-      "question": "What remains unknown about the fossils?",
+      "question": "What enters some turtles’ blood when they pump water into their cloacas?",
       "options": [
-        "Which organism made them.",
-        "Whether they have shapes.",
-        "Which ocean held them.",
-        "Whether images were made."
+        "Oxygen from the water",
+        "Oil from the water",
+        "Food from the water",
+        "Salt from the water"
       ],
-      "correct_answer": "Which organism made them."
+      "correct_answer": "Oxygen from the water"
     }
   ],
   "background_read": [
-    "Some animals use Earth’s magnetic field to help find their way.",
-    "Some bacteria use tiny magnetic particles like internal compass needles."
+    "Buoyancy describes how easily something floats.",
+    "Taking oxygen from water is a different process from releasing gas."
   ],
   "Article_Structure": [
-    "Introduces magnetic sensing and the ancient fossils.",
-    "Describes the fossils’ location, shapes and unknown maker.",
-    "Explains the new images and possible navigation function.",
-    "Compares the fossils with bacterial particles and explains the remaining uncertainty."
+    "Introduces gas as something useful for underwater animals.",
+    "Explains how manatees produce gas and use it to float or dive.",
+    "Compares swim bladders with the air used by sand tiger sharks.",
+    "Describes how some turtles take oxygen from water through their cloacas."
   ],
-  "perspectives": [],
-  "mined_at": "2026-10-03T14:21:37+00:00",
-  "source_published_at": "Fri, 02 Oct 2026 07:54:34 EDT",
-  "source_name": "ScienceDaily Strange & Offbeat",
-  "source_url": "https://www.sciencedaily.com/releases/2026/09/260930020329.htm",
+  "perspectives": [
+    {
+      "perspective": "David Shiffman",
+      "description": "He explains that sand tiger sharks gulp air to help them hover and have been observed releasing it through their cloacas."
+    }
+  ],
+  "mined_at": "2026-10-03T16:58:50+00:00",
+  "source_published_at": "Thu, 01 Oct 2026 10:30:00 +0000",
+  "source_name": "Science News Explores",
+  "source_url": "https://www.snexplores.org/article/animal-farting-fish-manatee-gas",
   "category": "Science",
-  "source_word_count": 648,
+  "source_word_count": 768,
   "detail_status": "full"
 }

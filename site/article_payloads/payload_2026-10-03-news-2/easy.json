@@ -1,109 +1,117 @@
 {
-  "title": "Judge temporarily stops border construction in Texas' Big Bend region",
-  "summary": "A federal judge has temporarily stopped border wall construction and related projects in Texas' Big Bend region. The decision includes Big Bend National Park, known for its landscapes, limestone cliffs and clear views of the night sky.\n\nJudge Kathleen Cardone issued the ruling on Friday. It covers a border region about 500 miles long. The pause gives the court time to consider a lawsuit. It is not a final decision about whether the projects can go ahead.\n\nAn environmental organization, supporters of a historic church and a river guide brought the case. They argue that the Department of Homeland Security wrongly set aside rules protecting nature, cultural places and archaeological sites. Archaeology is the study of past people through objects and places they left behind.\n\nThe construction plans are part of the Trump administration's wider border project. Landowners, businesses and environmental groups have opposed work in Big Bend. Republicans and Democrats also objected after land clearing began inside the park in August.\n\nThe administration says it is reviewing plans for the national park. Federal agencies did not immediately answer requests for comment on Friday's ruling.\n\nPark advocates welcomed the pause. They asked officials to repair damage already done and discuss other plans with local residents.",
-  "why_it_matters": "The ruling affects construction in a national park and the surrounding region. The case concerns rules meant to protect nature and cultural places.",
-  "image_url": "/article_images/news-sa395eb961b871376.webp",
+  "title": "Driverless Taxi Cameras Raise Questions About Rider Privacy",
+  "summary": "A taxi without a driver may still have someone checking what happens inside. Companies including Waymo, Zoox and Tesla use cameras in their driverless taxis, sometimes called robotaxis.\n\nOutside cameras help these cars notice the road around them. Inside cameras serve different purposes. Companies say they help keep riders safe, check that passengers follow rules, find lost items and check whether a car needs cleaning.\n\nWaymo says it uses automatic technology to help staff spot possible rule violations. Human workers have also used the car's speaker system to check whether passengers were old enough to ride alone.\n\nZoox says its inside cameras record the whole ride. Its policies allow personal information to help run rides and improve its service. Tesla's documents say a green sign appears on the car's screen when its camera is active. Riders can choose to share inside video and sound through an app setting. The documents say early access riders automatically agree to sharing. Tesla did not tell WIRED whether that program had ended.\n\nThe companies say workers view camera footage only when needed. They also say personal information may be given to police or regulators.\n\nPrivacy means having some control over personal information. Privacy experts say few clear US rules govern this kind of monitoring. Matthew Guariglia of the Electronic Frontier Foundation is concerned about how much information companies collect and what happens to it afterward.",
+  "why_it_matters": "Passengers may share personal information during a ride. Knowing how cameras work helps them understand questions about who can view or use that information.",
+  "image_url": "/article_images/news-s7d3653cd16daa1a2.webp",
   "keywords": [
     {
-      "term": "temporarily",
-      "explanation": "For a limited time."
+      "term": "robotaxis",
+      "explanation": "Taxis that drive without a human driver."
     },
     {
-      "term": "ruling",
-      "explanation": "A decision made by a court."
+      "term": "passengers",
+      "explanation": "People traveling in a vehicle."
     },
     {
-      "term": "lawsuit",
-      "explanation": "A dispute brought to a court for a decision."
+      "term": "violations",
+      "explanation": "Actions that break rules."
     },
     {
-      "term": "Archaeology",
-      "explanation": "The study of past people through objects and places they left behind."
+      "term": "footage",
+      "explanation": "Video recorded by a camera."
     },
     {
-      "term": "advocates",
-      "explanation": "People who speak up in support of something."
+      "term": "Privacy",
+      "explanation": "Having some control over personal information."
+    },
+    {
+      "term": "monitoring",
+      "explanation": "Watching or checking what happens."
     }
   ],
   "questions": [
     {
-      "question": "What did the judge temporarily stop in Big Bend?",
+      "question": "What do outside cameras help robotaxis notice?",
       "options": [
-        "Business openings and local markets",
-        "Border wall construction and related projects",
-        "Church repairs and historical research",
-        "Park visits and guided walking tours"
+        "The road around them",
+        "The riders beside them",
+        "The belongings inside them",
+        "The seats within them"
       ],
-      "correct_answer": "Border wall construction and related projects"
+      "correct_answer": "The road around them"
     },
     {
-      "question": "About how long is the border region covered by the ruling?",
+      "question": "Why have Waymo workers used the car's speaker system?",
       "options": [
-        "About 1,000 miles",
-        "About 100 miles",
-        "About 250 miles",
-        "About 500 miles"
+        "To explain passengers' bills",
+        "To check passengers' ages",
+        "To announce passengers' arrival",
+        "To ask about passengers' destinations"
       ],
-      "correct_answer": "About 500 miles"
+      "correct_answer": "To check passengers' ages"
     },
     {
-      "question": "What does the article say about the court's decision?",
+      "question": "What does Zoox say its inside cameras record?",
       "options": [
-        "It permanently ends the border projects.",
-        "It gives time to consider the lawsuit.",
-        "It approves construction throughout the park.",
-        "It settles every claim in the case."
+        "The whole ride",
+        "Only the ride's beginning",
+        "Only the ride's ending",
+        "The time between rides"
       ],
-      "correct_answer": "It gives time to consider the lawsuit."
+      "correct_answer": "The whole ride"
     },
     {
-      "question": "Who brought the lawsuit?",
+      "question": "What do Tesla's documents say appears when the camera is active?",
       "options": [
-        "An environmental group, church supporters and a river guide",
-        "Federal agencies, researchers and local officials",
-        "Businesses, road builders and park guides",
-        "Landowners, park visitors and local teachers"
+        "A red mark on the seat",
+        "A blue light on the door",
+        "A yellow notice in the app",
+        "A green sign on the screen"
       ],
-      "correct_answer": "An environmental group, church supporters and a river guide"
+      "correct_answer": "A green sign on the screen"
     },
     {
-      "question": "What do the people bringing the case argue?",
+      "question": "When do the companies say workers view camera footage?",
       "options": [
-        "Officials wrongly limited visits to churches.",
-        "Officials wrongly set aside protective rules.",
-        "Officials wrongly closed local public schools.",
-        "Officials wrongly canceled night sky tours."
+        "Before every booking",
+        "Only when needed",
+        "Throughout every ride",
+        "After every stop"
       ],
-      "correct_answer": "Officials wrongly set aside protective rules."
+      "correct_answer": "Only when needed"
     },
     {
-      "question": "What did park advocates ask officials to do?",
+      "question": "What concern does Matthew Guariglia raise?",
       "options": [
-        "Build roads and expand nearby businesses",
-        "Close trails and stop meetings with residents",
-        "Repair damage and discuss other plans",
-        "Expand parking and add more park tours"
+        "How companies collect information and use it",
+        "How passengers book rides and pay fares",
+        "How workers clean cars and find belongings",
+        "How cars choose routes and avoid traffic"
       ],
-      "correct_answer": "Repair damage and discuss other plans"
+      "correct_answer": "How companies collect information and use it"
     }
   ],
   "background_read": [
-    "Archaeology studies past people through the objects and places they left behind.",
-    "The construction pause is temporary; the court has not made a final decision about the projects."
+    "Robotaxis are driverless taxis. Their outside cameras help them notice the road.",
+    "Recording a ride and having a worker view it are different actions. The article describes both."
   ],
   "Article_Structure": [
-    "Introduces the construction pause and the national park.",
-    "Explains the ruling's size and temporary status.",
-    "Identifies the lawsuit's participants and their argument.",
-    "Describes opposition and the administration's review.",
-    "Ends with park advocates' requests."
+    "Introduces driverless taxis and their cameras.",
+    "Explains the different purposes of outside and inside cameras.",
+    "Describes Waymo, Zoox and Tesla practices.",
+    "Explains information sharing and privacy concerns."
   ],
-  "perspectives": [],
-  "mined_at": "2026-10-03T14:21:37+00:00",
-  "source_published_at": "Fri, 02 Oct 2026 19:10:59 -0400",
-  "source_name": "PBS NewsHour",
-  "source_url": "https://www.pbs.org/newshour/nation/judge-halts-border-wall-construction-in-texas-big-bend-region-for-now",
+  "perspectives": [
+    {
+      "perspective": "Matthew Guariglia",
+      "description": "He is concerned about how much information companies collect and what they do with it afterward."
+    }
+  ],
+  "mined_at": "2026-10-03T16:58:50+00:00",
+  "source_published_at": "Fri, 02 Oct 2026 10:30:00 +0000",
+  "source_name": "Wired Gear",
+  "source_url": "https://www.wired.com/story/when-the-robotaxis-are-watching-you/",
   "category": "News",
-  "source_word_count": 745,
+  "source_word_count": 1007,
   "detail_status": "full"
 }

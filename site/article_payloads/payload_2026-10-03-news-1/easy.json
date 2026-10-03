@@ -1,111 +1,114 @@
 {
-  "title": "Philadelphia science museum closes as supporters seek a way back",
-  "summary": "A Philadelphia museum that has introduced generations of children to dinosaurs and nature has closed to visitors. Families crowded into the Academy of Natural Sciences Museum during its final weeks in September.\n\nThe Academy was founded in 1812 and opened to the public in 1828. In 1868, it became the first place in the world to display a dinosaur skeleton. Its exhibits also included live animals and scenes showing mammals in their habitats.\n\nDrexel University took financial responsibility for the Academy in 2011. The university says costs rose and visitor numbers fell after the pandemic. The museum had already reduced its hours and cancelled its 2026 summer camp.\n\nSupporters want to bring it back. A petition to keep the museum open gathered more than 114,000 signatures. Shortly before the September 30 closing date, the William Penn Foundation offered funding for one year. This temporary help could provide time to seek a lasting solution.\n\nDrexel says it is exploring that offer, but reopening would need a plan to support the museum over time. Philadelphia's city council also plans public hearings to examine the closure and possible solutions.\n\nThe Academy holds more than 19 million scientific specimens, or samples used for study. Drexel says students and researchers will keep access to the collection. Public access remains unclear.",
-  "why_it_matters": "The closure affects a place where children learned about dinosaurs and nature. Reopening and future public access remain uncertain.",
+  "title": "Philadelphia Science Museum Closes as Supporters Seek to Reopen It",
+  "summary": "A familiar place for Philadelphia families has closed its doors. The Academy of Natural Sciences Museum announced on September 1 that it would close at the end of the month. Many families came for one last visit before the September 30 closure.\n\nThe Academy was founded in 1812 and opened to the public in 1828. In 1868, it became the first place in the world to display a dinosaur skeleton. Visitors could also explore animal displays and see live animals.\n\nDrexel University has been responsible for the Academy's finances since 2011. It said costs had risen and fewer people had visited since the pandemic. During the final weeks, however, crowds grew sharply.\n\nSupporters organized marches and a petition with more than 114,000 signatures. The William Penn Foundation offered a year of temporary funding. Drexel said it was exploring that offer, but would need a lasting financial plan before considering reopening.\n\nThe Academy holds more than 19 million scientific specimens. These are samples, such as fossils and plants, that researchers study. Drexel said students and researchers would keep access to the collection. Public access remains unclear.\n\nPhiladelphia's city council also plans public hearings to examine the closure and possible solutions. Whether or when the museum will reopen remains uncertain.",
+  "why_it_matters": "The closure affects a place where generations of children explored natural history. Access to the collection for the public and the museum's possible reopening remain uncertain.",
   "image_url": "/article_images/news-s770d67111cf3ae7a.webp",
   "keywords": [
     {
-      "term": "habitats",
-      "explanation": "Places where animals or plants naturally live."
+      "term": "finances",
+      "explanation": "Money an organization has, receives and spends."
     },
     {
       "term": "petition",
       "explanation": "A written request that people sign to show support."
     },
     {
-      "term": "funding",
-      "explanation": "Money provided to support an activity or organization."
-    },
-    {
       "term": "temporary",
       "explanation": "Lasting for a limited time."
     },
     {
-      "term": "hearings",
-      "explanation": "Meetings held to gather information and listen to people."
+      "term": "specimens",
+      "explanation": "Samples that scientists collect and study."
     },
     {
-      "term": "specimens",
-      "explanation": "Samples used for study."
+      "term": "access",
+      "explanation": "The ability or permission to enter or use something."
+    },
+    {
+      "term": "hearings",
+      "explanation": "Meetings where officials listen to information and views."
     }
   ],
   "questions": [
     {
-      "question": "In which city is the museum?",
+      "question": "When did the museum close?",
       "options": [
-        "Baltimore",
-        "Boston",
-        "Pittsburgh",
-        "Philadelphia"
+        "At the start of 2011.",
+        "At the end of 1868.",
+        "On September 1.",
+        "On September 30."
       ],
-      "correct_answer": "Philadelphia"
+      "correct_answer": "On September 30."
     },
     {
       "question": "What did the Academy first display in 1868?",
       "options": [
-        "A collection of paintings",
-        "A model of a spaceship",
-        "A display of engines",
-        "A dinosaur skeleton"
+        "A collection of live animals.",
+        "A dinosaur skeleton.",
+        "A collection of animal paintings.",
+        "A display of plant samples."
       ],
-      "correct_answer": "A dinosaur skeleton"
+      "correct_answer": "A dinosaur skeleton."
     },
     {
-      "question": "What does Drexel say happened after the pandemic?",
+      "question": "What financial problem did Drexel describe?",
       "options": [
-        "Costs fell and visitor numbers fell.",
-        "Costs fell and visitor numbers rose.",
-        "Costs rose and visitor numbers rose.",
-        "Costs rose and visitor numbers fell."
+        "Lower costs and larger crowds.",
+        "Lower costs and fewer visitors.",
+        "Higher costs and larger crowds.",
+        "Higher costs and fewer visitors."
       ],
-      "correct_answer": "Costs rose and visitor numbers fell."
+      "correct_answer": "Higher costs and fewer visitors."
     },
     {
-      "question": "How long would the foundation's offered funding last?",
+      "question": "What did the William Penn Foundation offer?",
       "options": [
-        "Ten years",
-        "One year",
-        "One month",
-        "Five years"
+        "A year of free museum tickets.",
+        "A year of extra public hearings.",
+        "A year of temporary funding.",
+        "A year of traveling exhibits."
       ],
-      "correct_answer": "One year"
+      "correct_answer": "A year of temporary funding."
+    },
+    {
+      "question": "Who did Drexel say would keep access to the collection?",
+      "options": [
+        "March organizers and visitors.",
+        "Students and researchers.",
+        "Tourists and local families.",
+        "Donors and petition signers."
+      ],
+      "correct_answer": "Students and researchers."
     },
     {
       "question": "What does Philadelphia's city council plan to do?",
       "options": [
-        "Organize new summer camps",
-        "Build new dinosaur exhibits",
-        "Take over museum tours",
-        "Hold public hearings"
+        "Organize new dinosaur displays.",
+        "Offer free tickets to visitors.",
+        "Hold hearings about the closure.",
+        "Move the collection to schools."
       ],
-      "correct_answer": "Hold public hearings"
-    },
-    {
-      "question": "Who does Drexel say will keep access to the collection?",
-      "options": [
-        "Students and researchers",
-        "Athletes and coaches",
-        "Tourists and tour guides",
-        "Shoppers and shop owners"
-      ],
-      "correct_answer": "Students and researchers"
+      "correct_answer": "Hold hearings about the closure."
     }
   ],
-  "background_read": [],
+  "background_read": [
+    "The Academy was founded in 1812 and opened to the public in 1828.",
+    "Scientific specimens include samples such as fossils and plants."
+  ],
   "Article_Structure": [
-    "Introduces the museum's closure and families' final visits.",
+    "Introduces the museum's closure and final family visits.",
     "Describes the Academy's history and exhibits.",
-    "Explains Drexel's account of costs and attendance.",
-    "Reports the petition, funding offer and planned hearings.",
-    "Ends with collection access and uncertainty for the public."
+    "Explains Drexel's account of financial difficulties.",
+    "Reports supporters' efforts and the temporary funding offer.",
+    "Explains collection access and planned city hearings."
   ],
   "perspectives": [
     {
       "perspective": "Drexel University",
-      "description": "Says costs rose and attendance fell after the pandemic, and that reopening would require a long-term financial plan."
+      "description": "Drexel said costs had risen and attendance had fallen since the pandemic. It said a lasting financial plan was needed before considering reopening."
     }
   ],
-  "mined_at": "2026-10-03T14:21:37+00:00",
+  "mined_at": "2026-10-03T16:58:50+00:00",
   "source_published_at": "Sat, 03 Oct 2026 07:00:00 -0400",
   "source_name": "NPR World",
   "source_url": "https://www.npr.org/2026/10/03/nx-s1-5989716/philadelphia-academy-natural-sciences-museum-closure",

@@ -1,108 +1,113 @@
 {
-  "title": "Roman telescope passes steady-pointing tests and sees its first stars",
-  "summary": "Taking a sharp picture of space requires a very steady telescope. NASA’s Nancy Grace Roman Space Telescope has now passed important tests of the system that helps it stay pointed at its targets.\n\nFrom September 15 to 21, engineers tested Roman’s fine-guidance system. It watches guide stars, whose positions are already known accurately. About four times each second, it reports their positions to the system that controls the telescope’s direction. This lets Roman correct tiny movements while collecting light.\n\nThe telescope stayed steady to better than one hundred-thousandth of a degree. That is roughly like keeping a laser pointed at a U.S. dime from about 240 kilometers away!\n\nOn September 22, Roman’s Coronagraph Instrument received light from space for the first time. A coronagraph reduces a star’s bright light so scientists can study much fainter planets and dusty disks around stars. Even tiny movements could let unwanted starlight spoil an image.\n\nThe first test looked at a faint star in the Large Magellanic Cloud, a neighboring galaxy. Its detectors were kept warmer than their final working temperature to help prevent contamination from sticking to them. This made the image noisier.\n\nFor a second observation on September 27, engineers cooled the detectors and saw multiple stars. These were early checks of focus and pointing. More complicated tests are still needed before the instrument’s future science observations.",
-  "why_it_matters": "Steady pointing and focused images help prepare Roman to study faint objects in space.",
-  "image_url": "/article_images/science-s0465c8ca20bba81e.webp",
+  "title": "Juice Gets a Gravity Boost from Earth",
+  "summary": "How can a spacecraft speed up without burning lots of fuel? It can get help from a planet’s gravity. On September 28, the European Space Agency’s Juice spacecraft used Earth for just such a boost on its journey toward Jupiter.\n\nThis move is called a gravity assist. A carefully chosen path past a planet lets its gravity change a spacecraft’s speed and direction. Earth’s pull turned Juice’s path by 20 degrees and increased its speed by 3.5 kilometers per second.\n\nAt its closest point, Juice passed 8,640 kilometers above the Indian Ocean. Its monitoring cameras took a series of pictures. During the four weeks before the encounter, controllers needed just one small adjustment to its course.\n\nSaving fuel matters. Juice will need fuel later for observations around Jupiter and its icy moons. The spacecraft is scheduled to make 35 close passes by Ganymede, Callisto and Europa.\n\nEarth also served as a practice target for Juice’s science tools. Teams planned activities for its 10 instruments, including checks to make sure their measurements work as expected. Such checks are called calibration.\n\nThe team had to choose activities carefully. While Juice was in Earth’s shadow, it relied only on battery power. The visit also gave scientists a chance to learn how the instruments behave in space.\n\nFor Juice, a trip past home was both a helpful push and a rehearsal for the science ahead.",
+  "why_it_matters": "The Earth visit helped Juice save fuel and gave teams a chance to check the instruments that will study Jupiter’s icy moons.",
+  "image_url": "/article_images/science-sc62c0a234d4cdd9d.webp",
   "keywords": [
     {
-      "term": "guide stars",
-      "explanation": "Stars with accurately known positions that help a telescope keep its direction."
+      "term": "gravity",
+      "explanation": "The pull that objects with mass have on one another."
     },
     {
-      "term": "coronagraph",
-      "explanation": "An instrument that reduces bright starlight so fainter objects can be studied."
+      "term": "spacecraft",
+      "explanation": "A vehicle designed to travel in space."
     },
     {
-      "term": "detectors",
-      "explanation": "Parts of an instrument that sense light."
+      "term": "course",
+      "explanation": "The path a vehicle follows."
     },
     {
-      "term": "contamination",
-      "explanation": "Unwanted material that can stick to an instrument."
+      "term": "instruments",
+      "explanation": "Tools used to make scientific measurements."
     },
     {
-      "term": "galaxy",
-      "explanation": "A large collection of stars."
+      "term": "calibration",
+      "explanation": "Checks and adjustments that help a tool measure correctly."
+    },
+    {
+      "term": "rehearsal",
+      "explanation": "Practice to prepare for a later activity."
     }
   ],
   "questions": [
     {
-      "question": "What does Roman’s fine-guidance system watch?",
+      "question": "Which planet supplied Juice’s gravity boost on September 28?",
       "options": [
-        "Galaxies with bright centers",
-        "Clouds with changing shapes",
-        "Stars with known positions",
-        "Planets with dusty rings"
+        "Mars",
+        "Earth",
+        "Saturn",
+        "Jupiter"
       ],
-      "correct_answer": "Stars with known positions"
+      "correct_answer": "Earth"
     },
     {
-      "question": "How often does the system report the guide stars’ positions?",
+      "question": "What did Earth’s gravity change during the encounter?",
       "options": [
-        "About four times each second",
-        "About four times each minute",
-        "About four times each hour",
-        "About four times each day"
+        "Juice’s size and shape",
+        "Juice’s speed and direction",
+        "Juice’s batteries and fuel tanks",
+        "Juice’s instruments and cameras"
       ],
-      "correct_answer": "About four times each second"
+      "correct_answer": "Juice’s speed and direction"
     },
     {
-      "question": "What does a coronagraph reduce?",
+      "question": "Where was Juice at its closest point to Earth?",
       "options": [
-        "A telescope’s collecting time",
-        "A star’s bright light",
-        "A galaxy’s apparent size",
-        "A detector’s working temperature"
+        "Above the Atlantic Ocean",
+        "Above the Arctic Ocean",
+        "Above the Indian Ocean",
+        "Above the Pacific Ocean"
       ],
-      "correct_answer": "A star’s bright light"
+      "correct_answer": "Above the Indian Ocean"
     },
     {
-      "question": "Where was the faint star in the first test?",
+      "question": "Why is saving fuel useful for Juice?",
       "options": [
-        "In the telescope’s guidance system",
-        "In a dusty disk around a star",
-        "In the Large Magellanic Cloud",
-        "In a group of nearby planets"
+        "It needs fuel to create new moons.",
+        "It needs fuel to strengthen Earth’s gravity.",
+        "It needs fuel for later observations.",
+        "It needs fuel to enlarge its cameras."
       ],
-      "correct_answer": "In the Large Magellanic Cloud"
+      "correct_answer": "It needs fuel for later observations."
     },
     {
-      "question": "Why were the detectors kept warmer during the first test?",
+      "question": "What are the instrument checks called?",
       "options": [
-        "To help increase image noise",
-        "To help reduce bright starlight",
-        "To help correct tiny movements",
-        "To help prevent contamination"
+        "Navigation",
+        "Calibration",
+        "Communication",
+        "Transportation"
       ],
-      "correct_answer": "To help prevent contamination"
+      "correct_answer": "Calibration"
     },
     {
-      "question": "What did engineers see after cooling the detectors for the second observation?",
+      "question": "What supplied Juice’s power while it was in Earth’s shadow?",
       "options": [
-        "Multiple stars",
-        "Multiple nearby galaxies",
-        "Multiple dusty disks",
-        "Multiple planets"
+        "Jupiter’s moons",
+        "Its cameras",
+        "Earth’s oceans",
+        "Its batteries"
       ],
-      "correct_answer": "Multiple stars"
+      "correct_answer": "Its batteries"
     }
   ],
   "background_read": [
-    "A steady telescope can collect light while keeping its target in the same direction.",
-    "Bright starlight can make much fainter objects around a star difficult to study."
+    "A gravity assist uses a planet’s gravity to change a spacecraft’s speed and direction.",
+    "Calibration helps teams check that scientific instruments measure as expected."
   ],
   "Article_Structure": [
-    "Introduces Roman’s successful steady-pointing tests.",
-    "Explains how guide stars help correct tiny movements.",
-    "Describes the coronagraph’s purpose and first star observations.",
-    "Ends with the need for more complicated tests."
+    "Opens with a question about gaining speed while using little fuel.",
+    "Explains the gravity assist and describes Juice’s Earth encounter.",
+    "Connects saved fuel with planned observations of Jupiter’s moons.",
+    "Describes instrument checks and battery use in Earth’s shadow.",
+    "Ends by describing the encounter as preparation for future science."
   ],
   "perspectives": [],
-  "mined_at": "2026-10-03T14:21:37+00:00",
-  "source_published_at": "Fri, 02 Oct 2026 08:21:30 EDT",
-  "source_name": "ScienceDaily Top Technology",
-  "source_url": "https://www.sciencedaily.com/releases/2026/10/261001214057.htm",
+  "mined_at": "2026-10-03T16:58:50+00:00",
+  "source_published_at": "Sat, 03 Oct 2026 09:34:11 EDT",
+  "source_name": "ScienceDaily Most Popular",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm",
   "category": "Science",
-  "source_word_count": 892,
+  "source_word_count": 642,
   "detail_status": "full"
 }

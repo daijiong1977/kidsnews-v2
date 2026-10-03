@@ -1,123 +1,123 @@
 {
-  "title": "Court pauses Big Bend border projects while legal challenge continues",
-  "summary": "A federal judge in Texas has temporarily blocked the Trump administration from building a border wall and related infrastructure across the Big Bend region. The ruling includes Big Bend National Park and a much larger stretch of the border with Mexico.\n\nJudge Kathleen Cardone's Friday decision covers the roughly 500-mile Big Bend sector, about a quarter of the southern border with Mexico. The projects are part of a $46 billion administration effort involving steel walls, vehicle barriers, roads and surveillance technology.\n\nThe court order is a temporary injunction: in this case, a direction to stop construction while the legal dispute proceeds. Cardone said the people bringing the lawsuit were likely to succeed on at least one claim and could face serious harm that could not easily be undone without a pause. Her ruling does not settle the whole case.\n\nAn environmental organization, advocates for a historic church in Ruidosa and a river guide brought the lawsuit. They argue that the Department of Homeland Security acted wrongly by using waivers to bypass rules protecting the environment, culture and archaeology. A waiver sets aside a requirement that would otherwise apply.\n\nLandowners, businesses and environmentalists have joined opposition to the projects. Critics say the region's remote location and rugged landscape already discourage unauthorized border crossings. Opposition to construction in the national park has included both Republicans and Democrats.\n\nAfter bulldozers cleared land inside the park in August, Customs and Border Protection paused work there. That earlier pause expired on September 30. The administration says it is reevaluating its plans for the park, but has not announced what it will do.\n\nThe court's new ruling also covers areas upriver and downriver, where projects would largely cross private land. The government has sought landowners' permission to survey and build there.\n\nCustoms and Border Protection and the Department of Homeland Security did not immediately respond to requests for comment. Park advocates welcomed the ruling and urged officials to repair existing damage, meet local residents and develop alternative plans. For now, construction is paused while the legal challenge continues.",
-  "why_it_matters": "The decision affects a national park and projects planned largely across private land nearby. It also raises a legal question about bypassing environmental and cultural protections.",
-  "image_url": "/article_images/news-sa395eb961b871376.webp",
+  "title": "Robotaxi Cameras Put Passenger Privacy Under Scrutiny",
+  "summary": "Driverless taxis rely on cameras to navigate, but some cameras face the passengers instead of the road. Reporting by WIRED examines how those interior recordings are used and why privacy specialists want clearer rules.\n\nCompanies say cabin cameras help protect riders and enforce service rules. They can also help workers check cleanliness or locate belongings left behind. Waymo employees have used vehicle intercoms to ask passengers whether they were old enough to travel alone, including some adult passengers.\n\nWaymo says automated technology helps its teams identify possible violations. A company patent describes camera systems performing checks before, during and after rides. However, its spokesperson did not confirm whether that particular patented system is being used. A patent describes an invention; it does not establish that the invention is operating in a product.\n\nZoox says its interior cameras record the entire ride. Its policies allow personal data to support operations and develop or improve its product. The company also says it might record conversations between passengers and support workers, but does not save those conversation recordings.\n\nTesla's Robotaxi documents say a green indicator appears on the central touchscreen when the camera is active. Riders can opt into sharing cabin video and audio through the app's privacy settings. The documents also say early access participants automatically opt into data sharing. Tesla did not answer WIRED's questions about whether that program had ended.\n\nWaymo, Zoox and Tesla say human staff view interior cameras only when necessary. Their policies also allow personal data, including recordings, to be provided to law enforcement or regulators. Waymo says government agencies seeking data are directed to follow valid legal processes.\n\nJustin Brookman of Consumer Reports says vehicles without drivers need ways to check passenger behavior, but also need limits on monitoring. Privacy experts say few clear US rules govern this kind of surveillance. Matthew Guariglia of the Electronic Frontier Foundation is concerned about companies collecting information and finding reasons to sell it.\n\nPassengers often agree to lengthy app terms before booking. That leaves an important question: what information does a ride collect, and how much control does the passenger have over its later use?",
+  "why_it_matters": "Cameras can help companies manage driverless rides while collecting passenger information. The article explains why experts want clearer limits on how that information is collected and used.",
+  "image_url": "/article_images/news-s7d3653cd16daa1a2.webp",
   "keywords": [
     {
-      "term": "infrastructure",
-      "explanation": "Built structures and systems, such as roads and barriers."
+      "term": "interior",
+      "explanation": "Inside a vehicle or another space."
     },
     {
-      "term": "injunction",
-      "explanation": "A court order requiring an action to stop or be taken."
+      "term": "intercoms",
+      "explanation": "Systems that let people speak through connected microphones and speakers."
     },
     {
-      "term": "waiver",
-      "explanation": "Permission to set aside a requirement that would otherwise apply."
+      "term": "automated",
+      "explanation": "Working automatically through technology."
+    },
+    {
+      "term": "patent",
+      "explanation": "A legal right that protects an invention."
+    },
+    {
+      "term": "regulators",
+      "explanation": "Authorities that oversee whether rules are followed."
     },
     {
       "term": "surveillance",
-      "explanation": "Watching or monitoring places or activities."
-    },
-    {
-      "term": "rugged",
-      "explanation": "Rough and difficult to travel across."
-    },
-    {
-      "term": "reevaluating",
-      "explanation": "Examining something again before deciding what to do."
+      "explanation": "Monitoring people or activities, such as through cameras."
     }
   ],
   "questions": [
     {
-      "question": "How much of the southern border does the Big Bend sector account for?",
+      "question": "Which use of cabin cameras do companies describe?",
       "options": [
-        "About one half",
-        "About three quarters",
-        "About one tenth",
-        "About one quarter"
+        "Measuring distances to buildings",
+        "Reading signs beside roads",
+        "Choosing routes around traffic",
+        "Checking cleanliness inside vehicles"
       ],
-      "correct_answer": "About one quarter"
+      "correct_answer": "Checking cleanliness inside vehicles"
     },
     {
-      "question": "What does the temporary injunction do in this case?",
+      "question": "What remained unconfirmed about Waymo's patented camera system?",
       "options": [
-        "Stops construction while the legal dispute proceeds",
-        "Ends the lawsuit while land surveys continue",
-        "Transfers park ownership while negotiations continue",
-        "Approves construction while officials review plans"
+        "Whether it includes checks during rides",
+        "Whether it is being used",
+        "Whether it involves interior cameras",
+        "Whether it describes an invention"
       ],
-      "correct_answer": "Stops construction while the legal dispute proceeds"
+      "correct_answer": "Whether it is being used"
     },
     {
-      "question": "What did Judge Cardone say about the lawsuit?",
+      "question": "What does Zoox say about recordings of conversations with support workers?",
       "options": [
-        "The plaintiffs could proceed only after construction was complete.",
-        "The plaintiffs had already succeeded on every disputed claim.",
-        "The plaintiffs needed to withdraw all their disputed claims.",
-        "The plaintiffs were likely to succeed on at least one claim."
+        "They are never recorded or shared",
+        "They may be recorded but are not saved",
+        "They are always recorded and saved",
+        "They are saved only between rides"
       ],
-      "correct_answer": "The plaintiffs were likely to succeed on at least one claim."
+      "correct_answer": "They may be recorded but are not saved"
     },
     {
-      "question": "What government action does the lawsuit challenge?",
+      "question": "What do Tesla's documents say about early access participants?",
       "options": [
-        "Using permits to expand guided park visits",
-        "Using waivers to bypass protective rules",
-        "Using surveys to change the river's name",
-        "Using contracts to repair a historic church"
+        "They automatically get extra app settings",
+        "They automatically see recorded videos",
+        "They automatically receive shorter rides",
+        "They automatically opt into data sharing"
       ],
-      "correct_answer": "Using waivers to bypass protective rules"
+      "correct_answer": "They automatically opt into data sharing"
     },
     {
-      "question": "What do critics say already discourages unauthorized border crossings?",
+      "question": "What does Waymo say government agencies seeking data are directed to do?",
       "options": [
-        "The region's busy roads and large towns",
-        "The region's church buildings and park tours",
-        "The region's remote location and rugged landscape",
-        "The region's bright lights and shopping centers"
+        "Follow valid legal processes",
+        "Join the early access program",
+        "Contact passengers through intercoms",
+        "Change the app's privacy settings"
       ],
-      "correct_answer": "The region's remote location and rugged landscape"
+      "correct_answer": "Follow valid legal processes"
     },
     {
-      "question": "When did the earlier pause on work inside the park expire?",
+      "question": "Which position does Justin Brookman express?",
       "options": [
-        "On September 15",
-        "On October 15",
-        "On August 30",
-        "On September 30"
+        "Cars need longer rides and fewer stops",
+        "Workers need more recordings and larger screens",
+        "Cars need behavior checks and monitoring limits",
+        "Riders need clearer routes and lower fares"
       ],
-      "correct_answer": "On September 30"
+      "correct_answer": "Cars need behavior checks and monitoring limits"
     }
   ],
   "background_read": [
-    "A waiver sets aside a requirement that would otherwise apply.",
-    "The temporary injunction pauses construction while the dispute continues; it does not settle the whole case."
+    "A patent describes a protected invention. Its existence does not establish that a company uses the invention in a product.",
+    "The article distinguishes recordings of an entire ride from recordings of conversations with support workers."
   ],
   "Article_Structure": [
-    "Introduces the ruling and the area it covers.",
-    "Places the projects within the wider border construction effort.",
-    "Explains the injunction and the judge's reasoning.",
-    "Describes the lawsuit's challenge to protective-rule waivers.",
-    "Reports opposition, the earlier park pause and the administration's review.",
-    "Explains effects on private land and ends with advocates' requests."
+    "Introduces WIRED's reporting on cameras facing robotaxi passengers.",
+    "Explains company descriptions of safety and service uses.",
+    "Examines Waymo's patent and the uncertainty about its use.",
+    "Compares Zoox and Tesla recording and sharing practices.",
+    "Describes access by staff and government agencies.",
+    "Presents named experts' concerns and closes with a question about passenger control."
   ],
   "perspectives": [
     {
-      "perspective": "Judge Kathleen Cardone",
-      "description": "She said the plaintiffs were likely to succeed on at least one claim and could suffer serious, irreparable harm without an injunction."
+      "perspective": "Justin Brookman",
+      "description": "He says vehicles without drivers need ways to check passenger behavior and limits on monitoring."
     },
     {
-      "perspective": "Tiernan Sittenfeld",
-      "description": "She called for officials to repair damage in Big Bend, meet border communities and find alternative solutions."
+      "perspective": "Matthew Guariglia",
+      "description": "He is concerned about companies collecting more information and finding reasons to sell it."
     }
   ],
-  "mined_at": "2026-10-03T14:21:37+00:00",
-  "source_published_at": "Fri, 02 Oct 2026 19:10:59 -0400",
-  "source_name": "PBS NewsHour",
-  "source_url": "https://www.pbs.org/newshour/nation/judge-halts-border-wall-construction-in-texas-big-bend-region-for-now",
+  "mined_at": "2026-10-03T16:58:50+00:00",
+  "source_published_at": "Fri, 02 Oct 2026 10:30:00 +0000",
+  "source_name": "Wired Gear",
+  "source_url": "https://www.wired.com/story/when-the-robotaxis-are-watching-you/",
   "category": "News",
-  "source_word_count": 745,
+  "source_word_count": 1007,
   "detail_status": "full"
 }

@@ -1,112 +1,113 @@
 {
-  "title": "Pikachu plush returns from a real space trip",
-  "summary": "A special Pikachu plush toy spent 67 days aboard the International Space Station. The European Space Agency, or ESA, announced the trip on September 19, 2026.\n\nThe toy travelled to the station on April 11 in a Cygnus cargo spacecraft. Cargo means supplies or other things being carried. It returned to Earth on June 17 aboard a SpaceX Dragon cargo spacecraft.\n\nWhile in orbit, Pikachu made about 1,040 trips around Earth. An orbit is the path an object follows around a planet or another body in space.\n\nThe journey is part of a project celebrating World Space Week 2026, which runs from October 4 to 10. An exhibition brings Pokémon characters together with real information about European space missions and life on the station.\n\nThe exhibition began in Paris in late September. It will travel to museums and other places across Europe through April 2027.\n\nParticipating European science and space museums will also offer special Pokémon GO activities. ESA hopes the project will encourage children and teenagers to become curious about space and science.",
-  "why_it_matters": "The project connects a familiar Pokémon character with information about real space missions. ESA hopes this will encourage children and teenagers to explore space and science.",
-  "image_url": "/article_images/fun-s53962724ddb28dca.webp",
+  "title": "A giant recycled table brings thousands together",
+  "summary": "How long can a dinner table be? In Bucharest, Romania, one stretched for 3.1 miles, or 4.99 kilometers!\n\nAbout 20,000 people gathered for a community meal at the Uniting Table on September 12, 2026. It earned a Guinness World Record for the longest table made from recycled materials. Recycled materials have been used before and are put to use again.\n\nThe nonprofit group Bloom The World organized the event. A nonprofit works toward a cause instead of sharing profits with owners. This meal raised more than $110,000 for Romania's first psychiatric hospital for children. Such a hospital provides specialist care for mental health and related needs.\n\nThe new hospital is planned to open in 2027. Children needing mental health care in Bucharest currently use an outdated building with crowded wards and little privacy.\n\nBloom also set this record in 2025, with a shorter table in Alba Iulia, Romania.\n\nThe latest table's journey is not finished. Bloom plans to recycle its materials again, turning them into furniture for children.",
+  "why_it_matters": "The meal brought people together and raised money for children's care. The table's materials are also planned to become children's furniture.",
+  "image_url": "/article_images/fun-s7a8f655afcee91f0.webp",
   "keywords": [
     {
-      "term": "plush",
-      "explanation": "Made from soft, fuzzy fabric."
+      "term": "community",
+      "explanation": "A group of people connected by a place or shared interests."
     },
     {
-      "term": "cargo",
-      "explanation": "Supplies or other things carried by a vehicle."
+      "term": "recycled",
+      "explanation": "Processed after use so the materials can be used again."
     },
     {
-      "term": "orbit",
-      "explanation": "The path an object follows around another object in space."
+      "term": "nonprofit",
+      "explanation": "An organization that works for a cause instead of sharing profits with owners."
     },
     {
-      "term": "exhibition",
-      "explanation": "A collection of displays for people to visit."
+      "term": "psychiatric",
+      "explanation": "Related to medical care for mental health."
     },
     {
-      "term": "Participating",
-      "explanation": "Taking part in an activity."
+      "term": "privacy",
+      "explanation": "Having personal space and keeping personal matters to yourself."
     },
     {
-      "term": "curious",
-      "explanation": "Wanting to learn or find out more."
+      "term": "furniture",
+      "explanation": "Objects such as tables, chairs and beds."
     }
   ],
   "questions": [
     {
-      "question": "Where did the Pikachu plush spend 67 days?",
+      "question": "Where did people gather at the Uniting Table in 2026?",
       "options": [
-        "ESA's headquarters on Earth",
-        "A museum in Paris",
-        "The International Space Station",
-        "A European science exhibition"
+        "Rome, Italy",
+        "Alba Iulia, Romania",
+        "Bucharest, Romania",
+        "Paris, France"
       ],
-      "correct_answer": "The International Space Station"
+      "correct_answer": "Bucharest, Romania"
     },
     {
-      "question": "Which spacecraft carried the toy back to Earth?",
+      "question": "How long was the table at the 2026 meal?",
       "options": [
-        "A SpaceX Dragon cargo spacecraft",
-        "A museum display spacecraft",
-        "A Cygnus cargo spacecraft",
-        "A Pokémon game spacecraft"
+        "About 2.1 miles",
+        "About 4.1 miles",
+        "About 1.1 miles",
+        "About 3.1 miles"
       ],
-      "correct_answer": "A SpaceX Dragon cargo spacecraft"
+      "correct_answer": "About 3.1 miles"
     },
     {
-      "question": "About how many trips around Earth did Pikachu make?",
+      "question": "What did the meal raise money for?",
       "options": [
-        "About 440 trips",
-        "About 740 trips",
-        "About 140 trips",
-        "About 1,040 trips"
+        "A new children's library",
+        "A new children's theater",
+        "A new children's hospital",
+        "A new children's museum"
       ],
-      "correct_answer": "About 1,040 trips"
+      "correct_answer": "A new children's hospital"
     },
     {
-      "question": "When does World Space Week 2026 take place?",
+      "question": "When is the new hospital planned to open?",
       "options": [
-        "September 11 to 17",
-        "October 11 to 17",
-        "October 4 to 10",
-        "September 4 to 10"
+        "In 2027",
+        "In 2025",
+        "In 2026",
+        "In 2028"
       ],
-      "correct_answer": "October 4 to 10"
+      "correct_answer": "In 2027"
     },
     {
-      "question": "Where did the exhibition begin?",
+      "question": "According to the article, what does a nonprofit work toward?",
       "options": [
-        "Rome",
-        "London",
-        "Madrid",
-        "Paris"
+        "Sharing profits with owners",
+        "Selling shares to owners",
+        "Supporting a cause",
+        "Paying profits to investors"
       ],
-      "correct_answer": "Paris"
+      "correct_answer": "Supporting a cause"
     },
     {
-      "question": "What does ESA hope children and teenagers will become curious about?",
+      "question": "What does Bloom plan to make from the table's materials?",
       "options": [
-        "Music and theatre",
-        "Sports and exercise",
-        "Cooking and gardening",
-        "Space and science"
+        "Shelters for animals",
+        "Equipment for cooks",
+        "Benches for parks",
+        "Furniture for children"
       ],
-      "correct_answer": "Space and science"
+      "correct_answer": "Furniture for children"
     }
   ],
   "background_read": [
-    "Cargo means supplies or other things being carried.",
-    "An orbit is the path an object follows around a planet or another body in space."
+    "A nonprofit works toward a cause instead of sharing profits with owners.",
+    "A psychiatric hospital provides specialist care for mental health and related needs."
   ],
   "Article_Structure": [
-    "Introduces the Pikachu plush's stay on the space station.",
-    "Explains its spacecraft journeys and trips around Earth.",
-    "Describes the World Space Week exhibition and European tour.",
-    "Ends with museum game activities and ESA's educational hope."
+    "Opens with the table's unusual length.",
+    "Describes the gathering and its world record.",
+    "Explains the organizer, fundraising and planned hospital.",
+    "Mentions Bloom's earlier record.",
+    "Ends with the plan to turn the materials into children's furniture."
   ],
   "perspectives": [],
-  "mined_at": "2026-10-03T14:21:37+00:00",
+  "mined_at": "2026-10-03T16:58:50+00:00",
   "source_published_at": "",
   "source_name": "DOGOnews",
-  "source_url": "https://www.dogonews.com/2026/10/2/pikachu-takes-a-trip-to-the-international-space-station",
+  "source_url": "https://www.dogonews.com/2026/9/30/giant-recycled-table-sets-guinness-world-record",
   "category": "Fun",
-  "source_word_count": 259,
+  "source_word_count": 207,
   "detail_status": "full"
 }
