@@ -1,118 +1,115 @@
 {
-  "title": "Scientists Study How a Queen Mole-Rat's Scent Shapes Colony Life",
-  "summary": "Naked mole-rats share work within their colonies. Some members search for food, while others care for the young. The queen has babies. A study found that a chemical scent produced by queens helps keep other colony members from fighting or reproducing.\n\nGary Lewin, a neuroscientist at the Max Delbrück Center in Berlin, Germany, studies how naked mole-rats use their senses. He previously discovered that they use scent to identify mole-rats from other colonies. That raised another question: do odors also matter within a colony?\n\nLewin and his team identified isopropyl myristate, a chemical produced only by queens among the mole-rats they studied. It triggered activity in the animals' olfactory cortex, the brain region that processes smells. This gave the researchers a clue that the animals could detect the chemical.\n\nTo investigate its effects, the team removed a queen from her colony. They then applied isopropyl myristate to the colony every day for three months. Lewin reported that there was no fighting or mating throughout that period. Mating is part of animal reproduction.\n\nWhen the researchers stopped adding the odor, the mole-rats began fighting. A few weeks later, mating occurred and a new queen emerged. The experiment showed that the chemical could affect colony behavior even while the queen was absent. The team shared its findings in the journal Nature.\n\nA separate experiment examined reproduction more closely. The researchers separated male and female pairs from the colony. They exposed some pairs to the queen's scent and left others without it. After four weeks, none of the females exposed to the scent had mated. In the group without the scent, five of six females were pregnant.\n\nBlood tests revealed changes in female mole-rats' hormones, chemical signals that influence body functions. Isopropyl myristate lowered progesterone levels and raised prolactin levels. The researchers linked these changes to the prevention of pregnancy.\n\nThe team also found that queens produced the chemical only when pregnant or preparing to become pregnant. Together, the experiments help explain how a scent connects a queen's reproductive condition with the behavior and reproduction of other colony members.",
-  "why_it_matters": "The study helps explain how a chemical signal can connect a queen's reproductive condition with behavior and reproduction elsewhere in her colony.",
-  "image_url": "/article_images/science-sbb0740274f1b2e5c.webp",
+  "title": "Looped boat propellers are being tested to reduce noise that can disrupt whales",
+  "summary": "For whales, sound is an essential source of information. Calls help them communicate, coordinate and find food. In quiet conditions, whales can hear one another’s calls from hundreds of miles away. Human-made ocean noise can interfere with those sounds.\n\nCommercial shipping produces low-frequency noise that overlaps with the frequencies many whales use. Frequency describes how rapidly a sound vibrates and is measured in hertz. Different marine species use different frequency ranges to communicate.\n\nNoise can also complicate feeding. Researchers found an association between louder surroundings and changes in orca hunting: the animals were more likely to search for food but less likely to catch a fish they pursued. Such findings help explain the interest in quieter vessels.\n\nAn important source of propeller noise is cavitation. When a propeller spins through water, it can create tiny bubbles that collapse, releasing energy as sharp pressure waves. Millions of these bubbles can form and collapse each second, adding up to substantial underwater sound.\n\nDetroit-based Sharrow Marine has developed blades that form twisting loops rather than ending in free tips. The company says this reduces tip vortices, the swirling flows created near blade ends, and therefore reduces cavitation.\n\nSharrow claims independent testing has shown underwater noise reductions of up to seven decibels in the frequency range whales use to communicate. Decibels express sound levels. The company also reports other reductions across broader frequency ranges, but says results vary with frequency, application and operating conditions. These figures are company-reported claims, rather than proof of a particular benefit to whales.\n\nThe distinction between sound above and below water matters. A boat that sounds quieter to its passengers is not automatically quieter where marine animals listen. Underwater measurements are needed to assess that question.\n\nSharrow Marine is partnering with Ocean Alliance to test its propellers during research expeditions near whales. The work is still early, and whether the design meaningfully improves animals’ communication or feeding remains to be investigated.\n\nFounder Greg Sharrow originally approached the problem while trying to film a violinist within an orchestra using a drone. Its buzzing interfered with recording. His search for a quieter propeller eventually shifted toward boats, with more than 640 prototypes developed before a partnership with the University of Michigan.\n\nThe tests near whales will explore a question that sound measurements alone cannot settle: how might quieter propellers affect the animals?",
+  "why_it_matters": "Shipping noise can interfere with sounds whales use. Testing the propellers near whales could clarify whether reported noise reductions lead to benefits for communication or feeding.",
+  "image_url": "/article_images/science-sf6f0e64e5b28e0e7.webp",
   "keywords": [
     {
-      "term": "neuroscientist",
-      "explanation": "A scientist who studies the brain and nervous system."
+      "term": "frequency",
+      "explanation": "How rapidly a sound vibrates, measured in hertz."
     },
     {
-      "term": "olfactory",
-      "explanation": "Related to the sense of smell."
+      "term": "association",
+      "explanation": "A link between things observed together; it does not by itself show that one causes the other."
     },
     {
-      "term": "reproduction",
-      "explanation": "The process of having young."
+      "term": "cavitation",
+      "explanation": "The formation and collapse of tiny bubbles in water, which can produce sound."
     },
     {
-      "term": "hormones",
-      "explanation": "Chemical signals that influence body functions."
+      "term": "vortices",
+      "explanation": "Swirling flows of water or air."
     },
     {
-      "term": "progesterone",
-      "explanation": "One of the hormones measured in the female mole-rats."
+      "term": "decibels",
+      "explanation": "Units used to express sound levels."
     },
     {
-      "term": "prolactin",
-      "explanation": "Another hormone measured in the female mole-rats."
+      "term": "prototypes",
+      "explanation": "Early versions of a design made to try out and improve."
     }
   ],
   "questions": [
     {
-      "question": "What earlier finding led Lewin to study odors within a colony?",
+      "question": "Why can commercial shipping noise interfere with whale communication?",
       "options": [
-        "Mole-rats use scent to identify outsiders.",
-        "Mole-rats use touch to choose a queen.",
-        "Mole-rats use sound to identify food.",
-        "Mole-rats use light to find their young."
+        "It overlaps with light whales can see.",
+        "It changes the depth of ocean water.",
+        "It changes the direction of ocean currents.",
+        "It overlaps with frequencies whales use."
       ],
-      "correct_answer": "Mole-rats use scent to identify outsiders."
+      "correct_answer": "It overlaps with frequencies whales use."
     },
     {
-      "question": "What does the olfactory cortex do?",
+      "question": "What hunting pattern did researchers associate with louder surroundings?",
       "options": [
-        "It processes smells.",
-        "It moves muscles.",
-        "It processes sounds.",
-        "It digests food."
+        "Less searching and more successful catches",
+        "Less searching and fewer successful catches",
+        "More searching and more successful catches",
+        "More searching and fewer successful catches"
       ],
-      "correct_answer": "It processes smells."
+      "correct_answer": "More searching and fewer successful catches"
     },
     {
-      "question": "What did researchers do after removing the queen?",
+      "question": "According to Sharrow Marine, how do its looped blades reduce cavitation?",
       "options": [
-        "They returned the queen every night.",
-        "They tested a new odor every week.",
-        "They added the chemical every day.",
-        "They moved the colony every month."
+        "By directing whale calls toward the surface",
+        "By reducing swirling flows near blade ends",
+        "By increasing bubble formation behind boats",
+        "By moving the propellers above the water"
       ],
-      "correct_answer": "They added the chemical every day."
+      "correct_answer": "By reducing swirling flows near blade ends"
     },
     {
-      "question": "What did Lewin report during the three-month chemical treatment?",
+      "question": "What underwater noise reduction does Sharrow claim independent tests found in the range whales use?",
       "options": [
-        "Frequent fighting but no mating.",
-        "No fighting but frequent mating.",
-        "Frequent fighting and frequent mating.",
-        "No fighting and no mating."
+        "Up to three decibels",
+        "Up to seven decibels",
+        "Up to twenty decibels",
+        "Up to fifteen decibels"
       ],
-      "correct_answer": "No fighting and no mating."
+      "correct_answer": "Up to seven decibels"
     },
     {
-      "question": "What was observed after four weeks in the pairs exposed to the scent?",
+      "question": "Why are underwater sound measurements needed?",
       "options": [
-        "Every female had become a queen.",
-        "All pairs had rejoined the colony.",
-        "None of the females had mated.",
-        "Five of six females were pregnant."
+        "Whales hear only the sounds made by drones.",
+        "Quieter passenger areas guarantee quieter water.",
+        "Sound frequencies cannot be measured on boats.",
+        "Quieter passenger areas may not mean quieter water."
       ],
-      "correct_answer": "None of the females had mated."
+      "correct_answer": "Quieter passenger areas may not mean quieter water."
     },
     {
-      "question": "How did the chemical affect the two hormones measured?",
+      "question": "What remains uncertain while tests near whales are still early?",
       "options": [
-        "Both progesterone and prolactin fell.",
-        "Progesterone rose and prolactin fell.",
-        "Both progesterone and prolactin rose.",
-        "Progesterone fell and prolactin rose."
+        "Whether Greg first worked on quieter drones",
+        "Whether the blades form twisting loops",
+        "Whether the company works with Ocean Alliance",
+        "Whether whale communication or feeding improves"
       ],
-      "correct_answer": "Progesterone fell and prolactin rose."
+      "correct_answer": "Whether whale communication or feeding improves"
     }
   ],
   "background_read": [
-    "The olfactory cortex is a brain region that processes smells.",
-    "Hormones are chemical signals that influence body functions, including reproduction."
+    "Frequency is measured in hertz and describes how rapidly a sound vibrates. Decibels express sound levels.",
+    "Different marine species communicate using different frequency ranges.",
+    "Measurements above water and underwater answer different questions about boat noise."
   ],
   "Article_Structure": [
-    "Introduces colony roles and the study's main finding.",
-    "Explains Lewin's earlier research and the chemical's effect on the brain.",
-    "Describes a colony experiment with the queen absent.",
-    "Compares pairs exposed to the scent with pairs without it.",
-    "Connects hormone changes and the queen's reproductive condition to the findings."
+    "Introduces whale communication and overlapping shipping noise.",
+    "Describes the reported association between noise and orca hunting.",
+    "Explains cavitation and Sharrow Marine’s proposed design solution.",
+    "Attributes noise-reduction figures to the company and explains their limits.",
+    "Describes the Ocean Alliance partnership and questions about animal benefits.",
+    "Traces the invention from drone recording to boat propeller prototypes."
   ],
-  "perspectives": [
-    {
-      "perspective": "Gary Lewin",
-      "description": "He reported that the colony showed no fighting or mating during the three months when researchers added the queen's scent."
-    }
-  ],
-  "mined_at": "2026-10-03T19:42:26+00:00",
-  "source_published_at": "Fri, 02 Oct 2026 10:30:00 +0000",
-  "source_name": "Science News Explores",
-  "source_url": "https://www.snexplores.org/article/naked-mole-rat-queen-smell",
+  "perspectives": [],
+  "mined_at": "2026-10-03T22:44:47+00:00",
+  "source_published_at": "Sat, 03 Oct 2026 08:01:00 -0400",
+  "source_name": "Popular Science",
+  "source_url": "https://www.popsci.com/environment/boat-propeller-whales-noise-pollution/",
   "category": "Science",
-  "source_word_count": 699,
+  "source_word_count": 1419,
   "detail_status": "full"
 }

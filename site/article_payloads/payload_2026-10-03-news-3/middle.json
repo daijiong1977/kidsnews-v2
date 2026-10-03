@@ -1,122 +1,128 @@
 {
-  "title": "Ohio Truck Factory Layoffs Put Jobs in Focus Before Election",
-  "summary": "Nearly 1,400 people were laid off on Wednesday at what had been the Navistar truck factory in Springfield, Ohio. The layoffs came three days before President Donald Trump's planned Saturday rally at a nearby high school. Their scale was roughly equal to an entire year of job growth in the greater Dayton area.\n\nKyle Bos, 30, was among the workers who lost their jobs. He has two daughters, with a third due in January. He said five items at the grocery store now cost as much as a full cart once did. This was his description of the pressure rising prices were putting on his family.\n\nBos is a United Auto Workers member who describes himself as a centrist. He indicated that he had voted for Trump three times, but said he no longer supported the president. The layoffs were one reason he planned to spend the final weeks before the November election canvassing for Democrats. Canvassing means talking with people to seek their votes.\n\nThe election will test the support of working-class voters who helped Trump and Republicans win power. In Ohio, Republican Senator Jon Husted faces former Democratic Senator Sherrod Brown. Their race could help determine which party controls the Senate.\n\nThe Dayton area has lost about half of its 90,000 factory jobs since 1990, according to federal data. More recently, its economy has improved as Wright-Patterson Air Force Base expanded. The base directly employs 38,000 people, and its innovations have attracted aerospace companies, including Electra.\n\nTrump said manufacturing was returning during a visit to a Texas truck plant. The White House cited Electra's $850 million investment and announcements from Honda and Stellantis as evidence that Trump's policies were creating jobs.\n\nJeff Hoagland, CEO of the Dayton Development Coalition, offered a longer view of the area's growth. He said Republicans and Democrats alike had recognized Wright-Patterson's value over the past two decades. He also explained that economic development takes time.",
-  "why_it_matters": "The layoffs show how employment and household costs can shape voters' concerns, while the area's recent growth provides context for claims about the economy.",
-  "image_url": "/article_images/news-s42228a435aa5689d.webp",
+  "title": "Ohio Truck Factory Layoffs Highlight a Region's Uneven Economic Change",
+  "summary": "Nearly 1,400 workers were laid off on Wednesday, September 30, at a Springfield, Ohio, truck factory formerly known as Navistar. The job losses were large enough to roughly erase an entire year's employment growth in the greater Dayton area, according to the report.\n\nThe layoffs affected families. Worker Kyle Bos, who has two daughters and another child due in January, described rising grocery costs alongside losing his job. Bos, a United Auto Workers member, said he planned to campaign for Democrats before November's election. He had voted for President Donald Trump three times but said he was done supporting him.\n\nThe layoffs came three days before Trump's Saturday rally at a nearby high school. Trump has been arguing that the economy is stronger than many voters believe. At a Texas truck plant on Thursday, he said manufacturing was returning and blamed poor public relations for negative views of the economy.\n\nDayton's industrial history helps explain why factory employment matters locally. The Wright brothers' airplane, the cash register, the stepladder and the electric car starter were all invented in the city. Yet federal data show that the surrounding area has lost about half of the 90,000 factory jobs it had in 1990.\n\nThe report describes production shifting to places where auto parts could be made more cheaply, with the trend accelerating after China joined the World Trade Organization. The region's economy has since developed other sources of employment.\n\nWright-Patterson Air Force Base has expanded and directly employs 38,000 people. Innovations associated with the base have attracted aerospace businesses, including Joby Aviation, Sierra Nevada Corporation and Electra. Aerospace businesses work on aircraft and related technology.\n\nThe White House cited Electra's $850 million investment and announcements from Honda, Stellantis and other companies as evidence that Trump's policies were creating jobs. Jeff Hoagland, who leads the Dayton Development Coalition, said the region's recovery reflected recognition by both Republicans and Democrats of Wright-Patterson's value over two decades.\n\nHoagland emphasized that economic development takes time. The layoffs and new investments show how different parts of one region's economy can move in different directions.",
+  "why_it_matters": "The story connects family income, regional employment and election choices. It shows how factory job losses and investment in other industries can occur in the same region.",
+  "image_url": "/article_images/news-se699621ba3835a59.webp",
   "keywords": [
     {
-      "term": "layoffs",
-      "explanation": "Job losses that happen when an employer cuts positions."
+      "term": "employment",
+      "explanation": "Work that people do for pay."
     },
     {
-      "term": "centrist",
-      "explanation": "Someone whose political views are generally near the middle."
-    },
-    {
-      "term": "canvassing",
-      "explanation": "Talking with people to seek their votes."
-    },
-    {
-      "term": "aerospace",
-      "explanation": "Related to aircraft and spacecraft."
-    },
-    {
-      "term": "investment",
-      "explanation": "Money put into a business or project to help it develop."
+      "term": "campaign",
+      "explanation": "Work to persuade people to support a candidate or party."
     },
     {
       "term": "manufacturing",
       "explanation": "Making products, often in factories."
+    },
+    {
+      "term": "production",
+      "explanation": "The process of making goods."
+    },
+    {
+      "term": "innovations",
+      "explanation": "New ideas, methods or technologies."
+    },
+    {
+      "term": "investment",
+      "explanation": "Money put into a business or project to help it develop."
     }
   ],
   "questions": [
     {
-      "question": "How did the layoffs compare with the area's job growth?",
+      "question": "When did the Springfield truck factory layoffs happen?",
       "options": [
-        "They roughly equaled a year's growth",
-        "They roughly equaled a week's growth",
-        "They roughly equaled a month's growth",
-        "They roughly equaled a decade's growth"
+        "Three days before Trump's nearby rally",
+        "Three weeks before Trump's nearby rally",
+        "Three days after Trump's nearby rally",
+        "Three weeks after Trump's nearby rally"
       ],
-      "correct_answer": "They roughly equaled a year's growth"
+      "correct_answer": "Three days before Trump's nearby rally"
     },
     {
-      "question": "What did Bos's grocery comparison describe?",
+      "question": "What political plan did Kyle Bos describe?",
       "options": [
-        "Changes in factory hours",
-        "Growth in aircraft orders",
-        "Pressure from rising prices",
-        "Support for Senate candidates"
+        "Campaigning for Democrats before November's election",
+        "Campaigning for Republicans before November's election",
+        "Running for the House in November's election",
+        "Running for the Senate in November's election"
       ],
-      "correct_answer": "Pressure from rising prices"
+      "correct_answer": "Campaigning for Democrats before November's election"
     },
     {
-      "question": "What does canvassing mean in the article?",
+      "question": "What did Trump blame for negative views of the economy?",
       "options": [
-        "Talking with people to seek votes",
-        "Speaking with companies to sell planes",
-        "Working with stores to lower prices",
-        "Meeting with workers to build trucks"
+        "Lower factory productivity",
+        "Poor public relations",
+        "Less grocery shopping",
+        "Fewer aircraft inventions"
       ],
-      "correct_answer": "Talking with people to seek votes"
+      "correct_answer": "Poor public relations"
     },
     {
-      "question": "Who are the candidates in the Ohio Senate race described?",
+      "question": "What does the article report about factory employment since 1990?",
       "options": [
-        "Jeff Hoagland and Jon Husted",
-        "Sherrod Brown and Kyle Bos",
-        "Jon Husted and Sherrod Brown",
-        "Kyle Bos and Donald Trump"
+        "The area lost about half its factory jobs",
+        "The area kept nearly all its factory jobs",
+        "The area doubled its number of factory jobs",
+        "The area added about half as many factory jobs"
       ],
-      "correct_answer": "Jon Husted and Sherrod Brown"
+      "correct_answer": "The area lost about half its factory jobs"
     },
     {
-      "question": "Which investment did the White House cite as evidence of job creation?",
+      "question": "What helped attract aerospace businesses to the area?",
       "options": [
-        "Honda's $850 million investment",
-        "Navistar's $850 million investment",
-        "Electra's $850 million investment",
-        "Stellantis's $850 million investment"
+        "Innovations associated with Wright-Patterson",
+        "Public relations associated with the rally",
+        "Price changes associated with grocery stores",
+        "Campaigns associated with November's election"
       ],
-      "correct_answer": "Electra's $850 million investment"
+      "correct_answer": "Innovations associated with Wright-Patterson"
     },
     {
-      "question": "What did Hoagland say about Wright-Patterson's value?",
+      "question": "How did Hoagland explain the region's recovery?",
       "options": [
-        "Only Republicans had recognized it",
-        "Only Democrats had recognized it",
-        "Both parties had recognized it",
-        "Neither party had recognized it"
+        "Both parties recognized Wright-Patterson's value over time",
+        "Only Democrats recognized Wright-Patterson's value over time",
+        "Neither party recognized Wright-Patterson's value over time",
+        "Only Republicans recognized Wright-Patterson's value over time"
       ],
-      "correct_answer": "Both parties had recognized it"
+      "correct_answer": "Both parties recognized Wright-Patterson's value over time"
     }
   ],
   "background_read": [
-    "Canvassing involves talking with people to seek their votes.",
-    "The article connects a local employment story with the November election and an Ohio Senate race."
+    "Manufacturing means making products, often in factories.",
+    "Aerospace businesses work on aircraft and related technology.",
+    "The article describes both factory job losses and other sources of employment in the Dayton region."
   ],
   "Article_Structure": [
-    "Introduces the layoffs, their scale and the planned rally.",
-    "Explains Bos's family pressures and changed political support.",
-    "Connects the story to an Ohio Senate race.",
-    "Describes long-term factory losses and recent aerospace growth.",
-    "Closes with attributed claims about policies and economic development."
+    "The opening gives the layoffs' date, location and scale.",
+    "The next section describes Kyle Bos's family concerns and political plans.",
+    "The article explains the timing of Trump's rally and attributes his economic position.",
+    "It reviews Dayton's industrial history and the decline in factory employment.",
+    "It describes Wright-Patterson's expansion and the aerospace businesses it attracted.",
+    "The ending attributes the White House's investment claims and Hoagland's explanation of recovery."
   ],
   "perspectives": [
     {
       "perspective": "Kyle Bos",
-      "description": "He said he no longer supported Trump and planned to canvass for Democrats, with the layoffs contributing to his decision."
+      "description": "He described rising grocery costs and losing his job. After voting for Trump three times, he said he planned to campaign for Democrats."
     },
     {
       "perspective": "Donald Trump",
-      "description": "He said manufacturing was returning during his visit to a Texas truck plant."
+      "description": "He argued that manufacturing was returning and blamed poor public relations for negative views of the economy."
+    },
+    {
+      "perspective": "The White House",
+      "description": "It cited Electra's investment and other company announcements as evidence that Trump's policies were creating jobs."
     },
     {
       "perspective": "Jeff Hoagland",
-      "description": "He credited recognition of the base's value by both parties over two decades and said economic development takes time."
+      "description": "He credited both parties with recognizing Wright-Patterson's value over two decades and emphasized that economic development takes time."
     }
   ],
-  "mined_at": "2026-10-03T19:42:26+00:00",
+  "mined_at": "2026-10-03T22:44:47+00:00",
   "source_published_at": "Sat, 03 Oct 2026 12:50:47 -0400",
   "source_name": "PBS NewsHour",
   "source_url": "https://www.pbs.org/newshour/politics/a-gut-punch-in-ohio-nearly-1400-laid-off-at-truck-factory-just-days-before-trump-rally",

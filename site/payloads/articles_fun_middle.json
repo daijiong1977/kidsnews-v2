@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-10-03-fun-1",
-      "source": "DOGOnews",
-      "time_ago": "",
-      "mined_at": "2026-10-03T19:42:26+00:00",
-      "source_published_at": "",
-      "image_url": "/article_images/fun-s53962724ddb28dca.webp",
-      "category": "Fun",
-      "title": "Pikachu Plush Completes 67-Day Space Station Visit",
-      "summary": "A Pikachu plush spent 67 days on the ISS and orbited Earth about 1,040 times. ESA's World Space Week celebration includes a traveling exhibit and Pokémon GO activities at participating museums in Europe."
-    },
-    {
-      "id": "2026-10-03-fun-2",
       "source": "BBC Tennis",
       "time_ago": "Fri, 02 Oct 2026 16:23:39 GMT",
-      "mined_at": "2026-10-03T19:42:26+00:00",
+      "mined_at": "2026-10-03T22:44:47+00:00",
       "source_published_at": "Fri, 02 Oct 2026 16:23:39 GMT",
       "image_url": "/article_images/fun-s89bafb11c629117f.webp",
       "category": "Fun",
-      "title": "Djokovic Rallies and Sabalenka Wins at China Open",
-      "summary": "Novak Djokovic recovered from a set down to beat Bu Yunchaokete in Beijing. Aryna Sabalenka won her opener and spoke about being easier on herself."
+      "title": "Sabalenka opens China Open with victory and discusses self-pressure",
+      "summary": "Aryna Sabalenka beat Renata Zarazua to begin her China Open campaign. She explained that demanding more from herself can motivate her but can also drain her energy."
+    },
+    {
+      "id": "2026-10-03-fun-2",
+      "source": "CBC World",
+      "time_ago": "Sat, 03 Oct 2026 04:00:00 EDT",
+      "mined_at": "2026-10-03T22:44:47+00:00",
+      "source_published_at": "Sat, 03 Oct 2026 04:00:00 EDT",
+      "image_url": "/article_images/fun-s4c4f8c5294dab3b2.webp",
+      "category": "Fun",
+      "title": "Quebec teenager celebrates Ella's victory at World Dairy Expo",
+      "summary": "Alyson Doiron's favourite cow, Ella, won a top prize on Sunday at Wisconsin's World Dairy Expo, where Canadian and American farms competed."
     },
     {
       "id": "2026-10-03-fun-3",
-      "source": "DOGOnews",
-      "time_ago": "",
-      "mined_at": "2026-10-03T19:42:26+00:00",
-      "source_published_at": "",
-      "image_url": "/article_images/fun-s7a8f655afcee91f0.webp",
+      "source": "Variety",
+      "time_ago": "Sat, 03 Oct 2026 21:00:00 +0000",
+      "mined_at": "2026-10-03T22:44:47+00:00",
+      "source_published_at": "Sat, 03 Oct 2026 21:00:00 +0000",
+      "image_url": "/article_images/fun-sc5a07b079982290f.webp",
       "category": "Fun",
-      "title": "Romania's 3.1-Mile Recycled Table Sets World Record",
-      "summary": "A community meal at a 3.1-mile recycled table in Bucharest set a Guinness World Record and raised more than $110,000 for a new children's psychiatric hospital."
+      "title": "RuneScape animation project aims to bring Gielinor to the screen",
+      "summary": "Lyrical Animation is developing a RuneScape series with Jagex and creator Charlie White. The early project aims to bring the game's fantasy world to existing fans and new audiences."
     }
   ]
 }

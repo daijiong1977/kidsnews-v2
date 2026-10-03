@@ -1,114 +1,116 @@
 {
-  "title": "Philadelphia's Academy Museum Closes Despite Offer of Temporary Funding",
-  "summary": "The Academy of Natural Sciences museum in Philadelphia closed on September 30. The Academy was founded in 1812 and opened to the public in 1828. In 1868, it became the first place in the world to display a dinosaur skeleton.\n\nFor generations, visiting the museum has been a family tradition. When the closure was announced on September 1, thousands of families came for a final visit. Alexandria McCormick visited with her husband and six children. She said her childhood visits inspired her love of natural history, and she was sad that her children might not have similar experiences.\n\nDrexel University took over financial responsibility for the Academy in 2011. Drexel said costs rose and attendance declined after the pandemic. During the museum's final weeks, however, attendance increased sharply and revenue was more than 20 times higher than last September.\n\nSome supporters criticized Drexel for giving only one month's notice and for not explaining how much it would cost to keep the museum open. Drexel said it remained deeply committed to protecting the Academy's legacy.\n\nThe Academy holds more than 19 million scientific specimens. These are samples kept for study, including Thomas Jefferson's fossil collection and plant samples gathered by Lewis and Clark. The collection also includes 73,000 holotype specimens: preserved samples scientists use as references for defining and naming species. Drexel said it would preserve access for students and researchers, but access for the general public remains unclear.\n\nLess than a week before the closing date, the William Penn Foundation offered one year of bridge funding. Bridge funding is temporary financial support that provides time to explore a lasting solution. Drexel said it was exploring possible work with the foundation but needed a plan for long-term sustainability before considering reopening.\n\nPhiladelphia's city council proposed zoning changes to make selling the museum building or converting it to other uses more difficult. It also plans public hearings to investigate how the closure happened and consider possible solutions. Whether the museum will reopen remains uncertain.",
-  "why_it_matters": "The museum has provided families with opportunities to learn about natural history and holds specimens used for scientific study. Its closure raises questions about public access and how it could operate in the future.",
-  "image_url": "/article_images/news-s5a36fd24c18eeea0.webp",
+  "title": "Philadelphia's Academy of Natural Sciences Museum Closes, Prompting Efforts to Reopen",
+  "summary": "Philadelphia's Academy of Natural Sciences Museum closed on September 30, 2026, leaving families and community leaders asking whether its public exhibits can return. The announcement came on September 1, giving visitors about a month to make a final trip.\n\nFounded in 1812, the Academy opened to the public in 1828. It became the first place in the world to display a dinosaur skeleton in 1868. Its exhibits also included mammal dioramas, which are scenes showing animals in their habitats, live animals and changing displays.\n\nDrexel University took financial responsibility for the Academy in 2011. It said costs rose and attendance fell after the pandemic. Drexel has faced its own financial pressures, including declining university enrollment and a budget shortfall reported in 2024.\n\nThe museum reduced hours and laid off some staff in 2025. It later canceled its 2026 summer camp. Yet attendance surged during its final weeks, and revenue was more than 20 times higher than the previous September.\n\nSupporters held rallies and marches and gathered more than 114,000 petition signatures. Some criticized Drexel for giving little notice and not explaining what keeping the museum open would cost. Drexel said it remained committed to protecting the Academy's legacy.\n\nLess than a week before closing, the William Penn Foundation offered a year of bridge funding: temporary money intended to allow time to find a lasting solution. Drexel said it was exploring that possibility but would need a plan for long-term financial stability before considering reopening.\n\nThe Academy's collection contains more than 19 million specimens, including plant samples gathered by Lewis and Clark. It also holds 73,000 holotypes, preserved reference samples scientists use to define and name species. Drexel says students and researchers will retain access, but access for the general public remains uncertain.\n\nPhiladelphia's city council proposed zoning changes that would make selling the building or converting it to other uses harder. It also plans public hearings to investigate the closure and possible solutions. These efforts leave the museum's future an open question.",
+  "why_it_matters": "The closure limits public visits to a longstanding natural history museum. The funding offer and city proposals concern whether its exhibits can reopen while its scientific collection remains available for study.",
+  "image_url": "/article_images/news-s51efe7166290af82.webp",
   "keywords": [
     {
-      "term": "specimens",
-      "explanation": "Samples preserved for scientific study."
-    },
-    {
-      "term": "holotype",
-      "explanation": "A reference specimen used to define and name a species."
+      "term": "dioramas",
+      "explanation": "Displays showing scenes, such as animals in their habitats."
     },
     {
       "term": "revenue",
-      "explanation": "Money an organization receives."
+      "explanation": "Money an organization brings in before subtracting costs."
     },
     {
-      "term": "sustainability",
-      "explanation": "The ability to keep operating over the long term."
+      "term": "bridge funding",
+      "explanation": "Temporary money that allows time to seek a lasting financial solution."
+    },
+    {
+      "term": "holotypes",
+      "explanation": "Preserved reference specimens used to define and name species."
     },
     {
       "term": "zoning",
-      "explanation": "Rules about how land and buildings may be used."
+      "explanation": "Local rules about how land and buildings may be used."
+    },
+    {
+      "term": "legacy",
+      "explanation": "The lasting importance of an organization's history and work."
     }
   ],
   "questions": [
     {
-      "question": "When did the Academy open to the public?",
+      "question": "What did the Academy first display in 1868?",
       "options": [
-        "In 1828",
-        "In 1812",
-        "In 2011",
-        "In 1868"
+        "A dinosaur skeleton",
+        "A railway engine",
+        "A telescope collection",
+        "A spacecraft model"
       ],
-      "correct_answer": "In 1828"
+      "correct_answer": "A dinosaur skeleton"
     },
     {
-      "question": "How did revenue in the final weeks compare with last September?",
+      "question": "What financial pressures did Drexel say followed the pandemic?",
       "options": [
-        "It was more than 20 times higher.",
-        "It stayed at the same level.",
-        "It was about twice as high.",
-        "It fell to about half as much."
+        "Falling costs and rising attendance",
+        "Rising costs and rising attendance",
+        "Rising costs and falling attendance",
+        "Falling costs and falling attendance"
       ],
-      "correct_answer": "It was more than 20 times higher."
+      "correct_answer": "Rising costs and falling attendance"
     },
     {
-      "question": "What are holotype specimens used for?",
+      "question": "What happened to attendance during the museum's final weeks?",
       "options": [
-        "Counting and tracking visitors",
-        "Setting and checking budgets",
-        "Planning and building exhibits",
-        "Defining and naming species"
+        "It stayed about the same.",
+        "It rose sharply during the period.",
+        "It declined throughout the period.",
+        "It stopped being counted entirely."
+      ],
+      "correct_answer": "It rose sharply during the period."
+    },
+    {
+      "question": "What would the foundation's bridge funding allow time for?",
+      "options": [
+        "Building a new university campus",
+        "Finding a lasting financial solution",
+        "Replacing all the museum's exhibits",
+        "Moving the collection to another city"
+      ],
+      "correct_answer": "Finding a lasting financial solution"
+    },
+    {
+      "question": "What are holotypes used for?",
+      "options": [
+        "Setting prices for museum tickets",
+        "Defining and naming species",
+        "Counting visitors to public exhibits",
+        "Planning changes to local zoning"
       ],
       "correct_answer": "Defining and naming species"
     },
     {
-      "question": "What was the purpose of the offered bridge funding?",
+      "question": "What would the proposed zoning changes make harder?",
       "options": [
-        "To allow staff to launch overseas museums",
-        "To allow students to collect new fossils",
-        "To allow space to install larger exhibits",
-        "To allow time to explore lasting solutions"
+        "Selling the building or changing its use",
+        "Displaying skeletons or teaching visitors",
+        "Holding hearings or gathering signatures",
+        "Studying specimens or naming species"
       ],
-      "correct_answer": "To allow time to explore lasting solutions"
-    },
-    {
-      "question": "What did Drexel say it needed before considering reopening?",
-      "options": [
-        "A plan for collecting more fossils",
-        "A plan for a new dinosaur display",
-        "A plan for moving to another city",
-        "A plan for long-term sustainability"
-      ],
-      "correct_answer": "A plan for long-term sustainability"
-    },
-    {
-      "question": "What would the city council's proposed zoning changes make harder?",
-      "options": [
-        "Studying or naming the preserved species",
-        "Offering or accepting temporary funding",
-        "Selling or converting the museum building",
-        "Counting or recording the museum visitors"
-      ],
-      "correct_answer": "Selling or converting the museum building"
+      "correct_answer": "Selling the building or changing its use"
     }
   ],
   "background_read": [
-    "The Academy first displayed a dinosaur skeleton in 1868.",
-    "Bridge funding provides temporary support while lasting solutions are explored."
+    "Dioramas show scenes of animals in their habitats.",
+    "Bridge funding provides temporary support while a lasting solution is explored.",
+    "Holotypes serve as reference specimens for defining and naming species."
   ],
   "Article_Structure": [
-    "Introduces the closure and the Academy's historical milestones.",
-    "Describes family visits following the announcement.",
-    "Explains financial pressures and presents criticism alongside Drexel's response.",
-    "Describes scientific collections and uncertainty about public access.",
-    "Explains the funding offer, reopening conditions and city council proposals."
+    "Introduces the closure date and the notice given to visitors.",
+    "Describes the Academy's history and educational exhibits.",
+    "Explains financial pressures, service cuts and the final attendance surge.",
+    "Presents supporters' criticism and Drexel's response.",
+    "Explains the bridge funding offer and reopening conditions.",
+    "Ends with collection access, proposed zoning changes and planned hearings."
   ],
   "perspectives": [
     {
-      "perspective": "Alexandria McCormick",
-      "description": "She said childhood visits inspired her love of natural history and expressed sadness that her children might not have similar experiences."
-    },
-    {
       "perspective": "Drexel University",
-      "description": "It cited rising costs and declining attendance, affirmed its commitment to the Academy's legacy, and said reopening required a sustainable long-term plan."
+      "description": "Drexel said it remained committed to the Academy's legacy and needed a plan for long-term financial stability before considering reopening."
     }
   ],
-  "mined_at": "2026-10-03T19:42:26+00:00",
+  "mined_at": "2026-10-03T22:44:47+00:00",
   "source_published_at": "Sat, 03 Oct 2026 07:00:00 -0400",
   "source_name": "NPR World",
   "source_url": "https://www.npr.org/2026/10/03/nx-s1-5989716/philadelphia-academy-natural-sciences-museum-closure",

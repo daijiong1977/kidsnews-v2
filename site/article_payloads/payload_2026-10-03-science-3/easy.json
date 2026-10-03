@@ -1,112 +1,112 @@
 {
-  "title": "A Queen Mole-Rat's Scent Helps Keep Her Colony Calm",
-  "summary": "Naked mole-rats live together in groups called colonies. Some members search for food. Others care for the young. The queen has babies. A study found that a special scent from the queen helps keep other members from fighting or reproducing, which means having young.\n\nGary Lewin studies how naked mole-rats use their senses. He is a scientist at the Max Delbrück Center in Berlin, Germany. He had found that these animals use scent to recognize mole-rats from other colonies. His team wanted to learn whether smells also matter within a colony.\n\nThe researchers found a chemical called isopropyl myristate that only the queens produced among the mole-rats they studied. It activated the part of the animals' brains that handles smells.\n\nTo test the chemical, the team removed a queen from her colony. They then added the chemical every day for three months. During that time, the animals did not fight or mate. Mating is part of animal reproduction. When the team stopped adding the scent, fighting began. A few weeks later, the animals began mating, and a new queen emerged.\n\nIn another experiment, the researchers separated male and female pairs from the colony. Some pairs received the queen's scent; others did not. After four weeks, none of the females exposed to the scent had mated. Five of the six females without it were pregnant.\n\nThe team also found that the chemical changed hormones in female mole-rats. Hormones are chemical signals in the body. These findings help explain how a queen's scent can affect life in a colony.",
-  "why_it_matters": "The experiments help explain how a queen's scent affects both behavior and reproduction in a naked mole-rat colony.",
-  "image_url": "/article_images/science-sbb0740274f1b2e5c.webp",
+  "title": "Looped boat propellers could help quiet the ocean for whales",
+  "summary": "Whales use sound to find food and communicate. In quiet water, they can hear one another’s calls from hundreds of miles away. But the ocean also carries noise from ships and other human activities.\n\nSome shipping noise overlaps with the low sounds whales use. That can make important calls harder to hear.\n\nOne source of boat noise is the propeller, the spinning part that pushes a boat through water. Fast-moving propellers can create tiny bubbles that collapse and release sharp bursts of sound. This process is called cavitation.\n\nA Detroit company, Sharrow Marine, has designed a different propeller. Instead of blades with open tips, its blades form twisting loops. The company says this reduces swirling water near the tips and creates less cavitation.\n\nSharrow reports that independent tests found reductions of up to seven decibels in underwater noise within the sound range whales use to communicate. Decibels measure sound levels. The amount of noise reduction can vary with the sound’s pitch and how the equipment is used.\n\nThe company is now working with Ocean Alliance to test the propellers on research trips near whales. It is still early, so quieter measurements do not yet prove better lives for the animals.\n\nThe idea began with a different puzzle. Founder Greg Sharrow wanted to film a violinist using a drone without its loud buzzing. Thinking about quieter blades led him from flying machines to boats—and a possible way to make the ocean easier to hear.",
+  "why_it_matters": "Whales rely on sound. Testing quieter propellers could help researchers learn whether changing boat equipment reduces interference with whale communication.",
+  "image_url": "/article_images/science-sf6f0e64e5b28e0e7.webp",
   "keywords": [
     {
-      "term": "colonies",
-      "explanation": "Groups of animals that live together."
+      "term": "communicate",
+      "explanation": "Share information with others."
     },
     {
-      "term": "scent",
-      "explanation": "A smell."
+      "term": "propeller",
+      "explanation": "A spinning part that pushes a boat through water."
     },
     {
-      "term": "reproducing",
-      "explanation": "Having young."
+      "term": "cavitation",
+      "explanation": "The forming and collapsing of tiny bubbles in water, which can make noise."
     },
     {
-      "term": "chemical",
-      "explanation": "A substance with a particular makeup."
+      "term": "decibels",
+      "explanation": "Units used to measure sound levels."
     },
     {
-      "term": "pregnant",
-      "explanation": "Having developing young inside the body."
+      "term": "pitch",
+      "explanation": "How high or low a sound is."
     },
     {
-      "term": "hormones",
-      "explanation": "Chemical signals in the body."
+      "term": "drone",
+      "explanation": "A flying machine without a pilot riding inside."
     }
   ],
   "questions": [
     {
-      "question": "What work do some naked mole-rats do in their colony?",
+      "question": "What do whales use sound to do?",
       "options": [
-        "Measure their hormones.",
-        "Add the test chemical.",
-        "Study their brains.",
-        "Search for food."
+        "Warm water and make bubbles",
+        "Move boats and guide drones",
+        "Find food and communicate",
+        "Change color and stay hidden"
       ],
-      "correct_answer": "Search for food."
+      "correct_answer": "Find food and communicate"
     },
     {
-      "question": "What did Lewin's team want to learn about smells?",
+      "question": "How can shipping noise affect whale calls?",
       "options": [
-        "Whether they change the food.",
-        "Whether they reach other cities.",
-        "Whether they matter within a colony.",
-        "Whether they come from the young."
+        "It can make calls harder to hear.",
+        "It can make calls last longer.",
+        "It can make calls higher in pitch.",
+        "It can make calls travel farther."
       ],
-      "correct_answer": "Whether they matter within a colony."
+      "correct_answer": "It can make calls harder to hear."
     },
     {
-      "question": "Which part of the body did the chemical activate?",
+      "question": "What creates bursts of sound during cavitation?",
       "options": [
-        "The brain part that handles sounds.",
-        "The brain part that handles smells.",
-        "The part that digests the food.",
-        "The part that moves the legs."
+        "Tiny bubbles collapsing",
+        "Drone cameras recording",
+        "Whale calls overlapping",
+        "Boat passengers speaking"
       ],
-      "correct_answer": "The brain part that handles smells."
+      "correct_answer": "Tiny bubbles collapsing"
     },
     {
-      "question": "How long did researchers add the chemical every day?",
+      "question": "What shape do Sharrow Marine’s propeller blades form?",
       "options": [
-        "For six months.",
-        "For one week.",
-        "For three months.",
-        "For four weeks."
+        "Flat squares",
+        "Straight rods",
+        "Twisting loops",
+        "Round disks"
       ],
-      "correct_answer": "For three months."
+      "correct_answer": "Twisting loops"
     },
     {
-      "question": "What began when researchers stopped adding the scent?",
+      "question": "Who is working with Sharrow Marine to test the propellers near whales?",
       "options": [
-        "Testing by a new team.",
-        "Feeding by the researchers.",
-        "Care for a new colony.",
-        "Fighting among the mole-rats."
+        "Greg’s orchestra",
+        "Ocean Alliance",
+        "Boat passengers",
+        "Drone filmmakers"
       ],
-      "correct_answer": "Fighting among the mole-rats."
+      "correct_answer": "Ocean Alliance"
     },
     {
-      "question": "What happened to five of the six females without the scent in the pair experiment?",
+      "question": "What first led Greg Sharrow to think about quieter propellers?",
       "options": [
-        "They received the scent.",
-        "They were pregnant.",
-        "They became new queens.",
-        "They joined another colony."
+        "Hearing whale calls from a ship",
+        "Measuring noise on research trips",
+        "Filming a violinist with a drone",
+        "Testing bubbles in ocean water"
       ],
-      "correct_answer": "They were pregnant."
+      "correct_answer": "Filming a violinist with a drone"
     }
   ],
   "background_read": [
-    "A colony is a group of animals living together. Naked mole-rats in this article share tasks such as finding food and caring for young.",
-    "Reproduction means having young. Hormones are chemical signals in the body."
+    "A propeller spins to push a boat through water.",
+    "Decibels measure sound levels; pitch describes how high or low a sound is."
   ],
   "Article_Structure": [
-    "Introduces colony teamwork and the queen's scent.",
-    "Explains Lewin's question and the chemical his team found.",
-    "Describes the colony experiment and what happened when the scent stopped.",
-    "Describes the pair experiment and introduces hormone changes."
+    "Explains how whales use sound and how shipping noise can interfere.",
+    "Describes cavitation and the company’s looped propeller design.",
+    "Presents the company’s noise claims and the early tests near whales.",
+    "Ends with the drone-recording problem that inspired the idea."
   ],
   "perspectives": [],
-  "mined_at": "2026-10-03T19:42:26+00:00",
-  "source_published_at": "Fri, 02 Oct 2026 10:30:00 +0000",
-  "source_name": "Science News Explores",
-  "source_url": "https://www.snexplores.org/article/naked-mole-rat-queen-smell",
+  "mined_at": "2026-10-03T22:44:47+00:00",
+  "source_published_at": "Sat, 03 Oct 2026 08:01:00 -0400",
+  "source_name": "Popular Science",
+  "source_url": "https://www.popsci.com/environment/boat-propeller-whales-noise-pollution/",
   "category": "Science",
-  "source_word_count": 699,
+  "source_word_count": 1419,
   "detail_status": "full"
 }

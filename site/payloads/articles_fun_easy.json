@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-10-03-fun-1",
-      "source": "DOGOnews",
-      "time_ago": "",
-      "mined_at": "2026-10-03T19:42:26+00:00",
-      "source_published_at": "",
-      "image_url": "/article_images/fun-s53962724ddb28dca.webp",
-      "category": "Fun",
-      "title": "Pikachu Plush Visits the Space Station",
-      "summary": "A Pikachu plush spent 67 days on the International Space Station. ESA is celebrating World Space Week with a space science exhibit and Pokémon GO activities in Europe."
-    },
-    {
-      "id": "2026-10-03-fun-2",
       "source": "BBC Tennis",
       "time_ago": "Fri, 02 Oct 2026 16:23:39 GMT",
-      "mined_at": "2026-10-03T19:42:26+00:00",
+      "mined_at": "2026-10-03T22:44:47+00:00",
       "source_published_at": "Fri, 02 Oct 2026 16:23:39 GMT",
       "image_url": "/article_images/fun-s89bafb11c629117f.webp",
       "category": "Fun",
-      "title": "Djokovic Comes Back to Win in Beijing",
-      "summary": "Novak Djokovic came back after losing the first set to beat Bu Yunchaokete at the China Open. Aryna Sabalenka also won her opening match."
+      "title": "Sabalenka wins in China and works on being kinder to herself",
+      "summary": "Aryna Sabalenka won her opening China Open match in 63 minutes. She said high expectations can help her but also use up her energy."
+    },
+    {
+      "id": "2026-10-03-fun-2",
+      "source": "CBC World",
+      "time_ago": "Sat, 03 Oct 2026 04:00:00 EDT",
+      "mined_at": "2026-10-03T22:44:47+00:00",
+      "source_published_at": "Sat, 03 Oct 2026 04:00:00 EDT",
+      "image_url": "/article_images/fun-s4c4f8c5294dab3b2.webp",
+      "category": "Fun",
+      "title": "Canadian teenager and her favourite cow win a top dairy prize",
+      "summary": "Canadian teenager Alyson Doiron celebrated when her favourite cow, Ella, won a top prize on Sunday at the World Dairy Expo in Wisconsin."
     },
     {
       "id": "2026-10-03-fun-3",
-      "source": "DOGOnews",
-      "time_ago": "",
-      "mined_at": "2026-10-03T19:42:26+00:00",
-      "source_published_at": "",
-      "image_url": "/article_images/fun-s7a8f655afcee91f0.webp",
+      "source": "Variety",
+      "time_ago": "Sat, 03 Oct 2026 21:00:00 +0000",
+      "mined_at": "2026-10-03T22:44:47+00:00",
+      "source_published_at": "Sat, 03 Oct 2026 21:00:00 +0000",
+      "image_url": "/article_images/fun-sc5a07b079982290f.webp",
       "category": "Fun",
-      "title": "Giant Recycled Table Sets World Record",
-      "summary": "About 20,000 people gathered at a record-setting recycled table in Romania. The meal raised more than $110,000 for a new children's mental health hospital."
+      "title": "RuneScape's fantasy world may become an animated series",
+      "summary": "Lyrical Animation is developing a RuneScape series with Jagex and creator Charlie White. The project is in its early stages, with more details expected in 2027."
     }
   ]
 }

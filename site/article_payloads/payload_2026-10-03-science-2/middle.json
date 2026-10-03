@@ -1,128 +1,124 @@
 {
-  "title": "Looped Propeller Design Aims to Reduce Noise Near Whales",
-  "summary": "A Detroit-based company called Sharrow Marine is partnering with marine conservation organization Ocean Alliance to test quieter boat propellers on research expeditions near whales. The work is still at an early stage, but it could help explore a way to reduce underwater noise from boats.\n\nNoise pollution is not limited to crowded streets. Large shipping boats, deep-sea mining equipment and offshore oil rigs have changed the ocean's sound environment. Whales rely on calls to coordinate with one another, find food and locate mates. When the water is quiet, they can hear calls from hundreds of miles away. However, commercial shipping produces noise that overlaps with the low-frequency sounds whales use to communicate.\n\nMichelle Fournet, an acoustic ecologist and ocean noise pollution expert at the University of New Hampshire, described this interference to Popular Science. She compared persistent ocean noise to someone repeatedly using a jackhammer outside a window. Research described in the source also linked louder noise around orcas with a lower chance of catching fish they chased.\n\nMuch of the disruptive noise from boat propellers comes from cavitation. When a screw-shaped propeller spins quickly, tiny bubbles form behind it. As these bubbles pop, they release energy and create hissing or crackling sounds. A single propeller can produce and pop millions of bubbles per second.\n\nSharrow's design replaces blades with free-standing tips with looped blades that twist like a ribbon. The company says the design produces fewer tip vortices, or swirling flows at the blade tips, reducing cavitation. It claims independent testing showed underwater noise reductions of up to seven decibels in the frequency range whales use to communicate. Decibels measure sound levels. These are company-reported findings; the source does not provide the full testing methods or results.\n\nGreg Sharrow, the company's founder and CEO, says the amount of noise reduction varies with frequency, application and operating conditions. Measurements above water also cannot establish how much quieter a boat sounds to whales underwater. That distinction matters when assessing possible benefits for marine animals.\n\nThe idea originally grew from Sharrow's work recording orchestras. He wanted to film a violinist using a camera drone inside an orchestra, but its buzzing interfered with the music. Thinking about a propeller without separate blade tips led him to consider boats too. Early prototypes were tested in a fish tank. He says he made more than 640 prototypes before partnering with the University of Michigan, which led to testing on a small boat.\n\nOcean Alliance CEO Iain Kerr supports approaches that benefit the environment, animals and boat users. Greg Sharrow believes quieter vessel noise could help marine animals hear one another with less interference. The research partnership is exploring the design near whales; benefits for their communication have not yet been established in the supplied report.",
-  "why_it_matters": "The design offers a possible way to reduce boat noise that overlaps with whale calls. Underwater testing matters because quieter sound above water alone cannot establish benefits for whales.",
-  "image_url": "/article_images/science-sf6f0e64e5b28e0e7.webp",
+  "title": "Kelvin waves can raise West Coast sea levels and increase erosion risks",
+  "summary": "An AP report forecasts a series of warm-water pulses along the United States’ West Coast from October through February. Called Kelvin waves, these broad bulges of water could add to flooding and beach erosion when combined with high tides, storms and other ocean waves.\n\nExperts forecast a sea-level increase of six inches to a foot as the pulses move north along California toward Oregon and Washington. The report describes a travel speed of about six miles per hour. These are predictions, rather than confirmed outcomes for every coastal community.\n\nKelvin waves do not resemble breaking surf, and they are not tsunamis. Scientist Dillon Amaya describes their shape as more like a large pancake: much wider than it is deep. He says the water bulge extends 12 to 20 miles offshore and about 200 meters down. People cannot see it with the naked eye as a distinct wave, and it does not make boats rise and fall like ordinary surface waves.\n\nThe process starts with changes in winds along the equator. Normally, trade winds push Pacific water west toward Asia. If those winds weaken or reverse, a bulge of water moves back east toward South America. Once it reaches the coastline, it travels north and south along the Americas.\n\nThese waves are a common feature of El Niño, a naturally occurring climate pattern involving warmer ocean waters. Experts say the especially strong El Niño described in the report could intensify the effects.\n\nThe key concern is the starting height of the sea. If water levels are already six inches above normal, a high tide or storm surge begins from that raised baseline. A storm surge is a rise in sea level associated with a storm. Combining these effects can bring water farther onto the coast.\n\nSome communities already face shrinking beaches and rising sea levels. US Geological Survey research oceanographer Sean Vitousek says higher water, larger North Pacific waves expected during El Niño and large spring tides could combine to cause exceptional erosion. Erosion is the wearing away of material such as beach sand. Spring tides are especially large tides; the term does not refer only to the spring season.\n\nThe waves also change conditions below the surface. They increase ocean temperatures and push colder, nutrient-rich water deeper, affecting marine life.\n\nAs more pulses arrive, the raised water level can strengthen the effects of other coastal processes. The resulting impacts depend on how these conditions combine.",
+  "why_it_matters": "The article explains how broad ocean pulses can raise the starting water level for tides and storms, increasing erosion and flooding risks for coastal communities.",
+  "image_url": "/article_images/science-s0e244120559ea3f2.webp",
   "keywords": [
     {
-      "term": "expeditions",
-      "explanation": "Trips made for a purpose, such as research."
+      "term": "pulses",
+      "explanation": "Separate movements or surges that arrive in a series."
     },
     {
-      "term": "low-frequency",
-      "explanation": "Describes sounds with slow vibrations and a low pitch."
+      "term": "offshore",
+      "explanation": "Away from the shore, out at sea."
     },
     {
-      "term": "cavitation",
-      "explanation": "The forming and popping of tiny bubbles near a propeller."
+      "term": "equator",
+      "explanation": "The imaginary line around Earth halfway between the poles."
     },
     {
-      "term": "vortices",
-      "explanation": "Swirling flows of water or air."
+      "term": "baseline",
+      "explanation": "A starting level used to understand later changes."
     },
     {
-      "term": "decibels",
-      "explanation": "Units used to measure sound levels."
+      "term": "erosion",
+      "explanation": "The wearing away of material such as beach sand."
     },
     {
-      "term": "prototypes",
-      "explanation": "Early versions of a design made for testing."
+      "term": "intensify",
+      "explanation": "Make something stronger."
     }
   ],
   "questions": [
     {
-      "question": "Which organization is partnering with Sharrow Marine on research trips?",
+      "question": "What period does the AP report forecast for the series of Kelvin waves?",
       "options": [
-        "University of New Hampshire",
-        "Ford Motor Company",
-        "University of Michigan",
-        "Ocean Alliance"
+        "March through July",
+        "June through September",
+        "January through April",
+        "October through February"
       ],
-      "correct_answer": "Ocean Alliance"
+      "correct_answer": "October through February"
     },
     {
-      "question": "Why can commercial shipping noise interfere with whale communication?",
+      "question": "How fast does the report say the pulses travel?",
       "options": [
-        "It increases the depth whales swim at.",
-        "It changes the routes whales travel.",
-        "It overlaps with the sounds whales use.",
-        "It removes the food whales search for."
+        "About six miles per hour",
+        "About two miles per hour",
+        "About ten miles per hour",
+        "About twenty miles per hour"
       ],
-      "correct_answer": "It overlaps with the sounds whales use."
+      "correct_answer": "About six miles per hour"
     },
     {
-      "question": "According to the company, how do looped blades reduce cavitation?",
+      "question": "Why does Dillon Amaya compare a Kelvin wave to a large pancake?",
       "options": [
-        "They produce fewer tip vortices.",
-        "They move boats without water.",
-        "They stop all propeller movement.",
-        "They collect bubbles in a tank."
+        "It is much colder than its surroundings.",
+        "It is much faster than ordinary winds.",
+        "It is much steeper than breaking surf.",
+        "It is much wider than it is deep."
       ],
-      "correct_answer": "They produce fewer tip vortices."
+      "correct_answer": "It is much wider than it is deep."
     },
     {
-      "question": "What underwater noise reduction does the company report in whales' communication range?",
+      "question": "What happens after the water bulge reaches South America’s coastline?",
       "options": [
-        "Up to fifteen decibels",
-        "Up to seven decibels",
-        "Up to twenty-four decibels",
-        "Up to twenty decibels"
+        "It travels west across the Pacific.",
+        "It spreads inland along river valleys.",
+        "It stays still beneath the coastal boats.",
+        "It travels north and south along the coasts."
       ],
-      "correct_answer": "Up to seven decibels"
+      "correct_answer": "It travels north and south along the coasts."
     },
     {
-      "question": "Why does the article distinguish measurements above water from those underwater?",
+      "question": "What does a raised sea-level baseline mean for a storm surge?",
       "options": [
-        "Above-water results cannot establish what whales hear underwater.",
-        "Above-water results can replace research expeditions near whales.",
-        "Above-water results can explain every change in whale calls.",
-        "Above-water results cannot measure any noise from boat propellers."
+        "The surge starts from a higher water level.",
+        "The surge changes the direction of trade winds.",
+        "The surge stops larger waves from reaching beaches.",
+        "The surge carries colder water toward the surface."
       ],
-      "correct_answer": "Above-water results cannot establish what whales hear underwater."
+      "correct_answer": "The surge starts from a higher water level."
     },
     {
-      "question": "Where were Greg Sharrow's early propeller prototypes tested?",
+      "question": "Which combination does Sean Vitousek say could cause exceptional erosion?",
       "options": [
-        "Inside an orchestra hall",
-        "Near a shipping port",
-        "Near an oil rig",
-        "Inside a fish tank"
+        "Lower water, weaker winds and smaller tides",
+        "Higher water, larger waves and large spring tides",
+        "Warmer rivers, deeper bays and steadier trade winds",
+        "Colder water, wider beaches and slower currents"
       ],
-      "correct_answer": "Inside a fish tank"
+      "correct_answer": "Higher water, larger waves and large spring tides"
     }
   ],
   "background_read": [
-    "Whales rely on calls to coordinate, find food and locate mates.",
-    "Cavitation bubbles release energy and produce sound when they pop.",
-    "The company says noise reductions depend on frequency, application and operating conditions."
+    "A storm surge is a rise in sea level associated with a storm.",
+    "Spring tides are especially large tides; their name does not mean they happen only in spring.",
+    "El Niño is a naturally occurring climate pattern involving warmer ocean waters."
   ],
   "Article_Structure": [
-    "Introduces the partnership to test quieter propellers near whales.",
-    "Explains underwater noise and its interference with whale calls.",
-    "Describes cavitation and the proposed looped-blade solution.",
-    "Attributes test claims to the company and explains measurement limits.",
-    "Traces the design from orchestra filming to boat prototypes.",
-    "Ends with attributed hopes and the limits of the reported evidence."
+    "Opens with the forecast and its possible coastal effects.",
+    "Gives the predicted rise, route and travel speed.",
+    "Uses Amaya’s comparison to explain the waves’ broad shape.",
+    "Explains formation through changing equatorial winds.",
+    "Connects El Niño and a raised sea-level baseline to erosion risks.",
+    "Ends with effects below the surface and interacting coastal conditions."
   ],
   "perspectives": [
     {
-      "perspective": "Michelle Fournet",
-      "description": "She describes persistent ocean noise as disruptive, comparing it to repeated jackhammer noise outside a window."
+      "perspective": "Dillon Amaya",
+      "description": "He compares Kelvin waves to a large pancake because they are much wider than they are deep, and says they do not make boats rise and fall like ordinary waves."
     },
     {
-      "perspective": "Greg Sharrow",
-      "description": "He believes reducing vessel noise where it overlaps with animal communication could help marine animals hear one another."
-    },
-    {
-      "perspective": "Iain Kerr",
-      "description": "He supports approaches that benefit the environment, animals and boat users."
+      "perspective": "Sean Vitousek",
+      "description": "He says higher sea levels, larger North Pacific waves expected during El Niño and large spring tides could combine to cause exceptional erosion."
     }
   ],
-  "mined_at": "2026-10-03T19:42:26+00:00",
-  "source_published_at": "Sat, 03 Oct 2026 08:01:00 -0400",
-  "source_name": "Popular Science",
-  "source_url": "https://www.popsci.com/environment/boat-propeller-whales-noise-pollution/",
+  "mined_at": "2026-10-03T22:44:47+00:00",
+  "source_published_at": "Sat, 03 Oct 2026 15:45:08 -0400",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/science/what-to-know-about-the-kelvin-wave-raising-the-sea-level-along-the-west-coast",
   "category": "Science",
-  "source_word_count": 1419,
+  "source_word_count": 610,
   "detail_status": "full"
 }

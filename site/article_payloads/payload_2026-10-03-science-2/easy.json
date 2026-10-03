@@ -1,123 +1,118 @@
 {
-  "title": "A Quieter Boat Propeller Could Help Whales Hear Each Other",
-  "summary": "A Detroit company called Sharrow Marine is working with Ocean Alliance, a marine conservation organization, to test quieter boat propellers on research trips near whales. The tests are still at an early stage.\n\nNoise pollution happens underwater as well as on busy streets. Large ships and other human-made machines add sound to the ocean. When the ocean is quiet, whales can hear each other's calls from hundreds of miles away. They use these calls to communicate and find food. Noise from shipping overlaps with the low sounds whales use, making their calls harder to hear.\n\nMuch of a boat's noise comes from its propeller, the spinning part that pushes it through water. A process called cavitation happens when tiny bubbles form behind a fast-spinning propeller. When the bubbles pop, they make hissing or crackling sounds.\n\nInstead of blades with separate tips, Sharrow's design uses looped blades that twist like a ribbon. The company says this shape reduces cavitation. It claims independent testing found underwater noise reductions of up to seven decibels in the sound range whales use to communicate. Decibels are units used to measure sound levels. The company says results vary with operating conditions.\n\nThe idea began with a different problem. Greg Sharrow, the company's founder and CEO, wanted to film a violinist inside an orchestra using a camera drone. The drone's buzzing would interfere with the music. He began thinking about a propeller without separate blade tips, then realized the idea could also work on boats. His early boat propeller tests took place in a fish tank.\n\nOcean Alliance CEO Iain Kerr supports solutions that benefit animals, the environment and boat users. The research trips will explore the quieter design near whales. Whether it meaningfully improves whales' ability to hear one another remains an open question.",
-  "why_it_matters": "Whales depend on hearing calls. Testing quieter boat parts could help researchers explore ways to reduce noise that interferes with those calls.",
-  "image_url": "/article_images/science-sf6f0e64e5b28e0e7.webp",
+  "title": "Kelvin waves can raise water levels along the US West Coast",
+  "summary": "Some ocean waves never curl over and crash onto a beach. Kelvin waves are broad bulges of water that move through the ocean and can raise the sea level along a coast.\n\nIn an AP report, experts forecast a series of these waves along the United States’ West Coast from October through February. They predict water levels could rise by six inches to a foot as the waves travel north along California toward Oregon and Washington.\n\nThese waves are not tsunamis. They are so broad that people cannot see them as an ordinary wave, and they do not make boats bob up and down, says scientist Dillon Amaya.\n\nThe process begins with winds near the equator, the imaginary line around Earth’s middle. Winds usually push Pacific water west toward Asia. When those winds weaken or reverse, a bulge of water can move east. After reaching South America, it travels along the coast to the north and south.\n\nKelvin waves are common during El Niño, a natural climate pattern involving warmer ocean water. Experts say the especially strong El Niño described in the report could increase their effects.\n\nA higher sea level gives tides and storms a higher starting point. That can increase flooding and erosion, the wearing away of beaches. Some coastal communities already face these problems.\n\nThe waves also warm the ocean and push cold, nutrient-rich water deeper, affecting marine life. Their effects will depend partly on how they combine with tides, storms and other waves.",
+  "why_it_matters": "Understanding Kelvin waves helps explain why tides and storms can bring more water onto beaches when the sea level is already higher.",
+  "image_url": "/article_images/science-s0e244120559ea3f2.webp",
   "keywords": [
     {
-      "term": "conservation",
-      "explanation": "Protecting nature and living things."
+      "term": "bulges",
+      "explanation": "Parts that swell outward or rise above their surroundings."
     },
     {
-      "term": "propeller",
-      "explanation": "A spinning part that pushes a boat through water."
+      "term": "forecast",
+      "explanation": "Predict what may happen."
     },
     {
-      "term": "cavitation",
-      "explanation": "The forming and popping of tiny bubbles near a propeller."
+      "term": "equator",
+      "explanation": "The imaginary line around Earth’s middle."
     },
     {
-      "term": "looped",
-      "explanation": "Shaped into a curve that joins back to itself."
+      "term": "reverse",
+      "explanation": "Change to the opposite direction."
     },
     {
-      "term": "decibels",
-      "explanation": "Units used to measure sound levels."
+      "term": "erosion",
+      "explanation": "The wearing away of material, such as beach sand."
     },
     {
-      "term": "drone",
-      "explanation": "A flying machine with no pilot riding inside."
+      "term": "nutrient-rich",
+      "explanation": "Containing many substances that living things need to grow."
     }
   ],
   "questions": [
     {
-      "question": "What are Sharrow Marine and Ocean Alliance testing near whales?",
+      "question": "What are Kelvin waves?",
       "options": [
-        "Smaller underwater cameras",
-        "Quieter boat propellers",
-        "Lighter recording equipment",
-        "Faster research boats"
+        "Broad bulges of ocean water",
+        "Strong gusts of coastal wind",
+        "Narrow streams of river water",
+        "Thick layers of floating ice"
       ],
-      "correct_answer": "Quieter boat propellers"
+      "correct_answer": "Broad bulges of ocean water"
     },
     {
-      "question": "Why can shipping noise cause problems for whales?",
+      "question": "How much could water levels rise in the report’s forecast?",
       "options": [
-        "It makes the ocean water less salty.",
-        "It makes their calls harder to hear.",
-        "It makes their swimming harder to see.",
-        "It makes the ocean floor less rocky."
+        "One inch to three inches",
+        "Two feet to three feet",
+        "Six inches to a foot",
+        "Four inches to five inches"
       ],
-      "correct_answer": "It makes their calls harder to hear."
+      "correct_answer": "Six inches to a foot"
     },
     {
-      "question": "What makes hissing or crackling sounds during cavitation?",
+      "question": "Which way are the waves forecast to travel along California?",
       "options": [
-        "Tiny bubbles popping",
-        "Research boats turning",
-        "Looped blades bending",
-        "Camera drones landing"
+        "West toward Asian shores",
+        "South toward South America",
+        "East toward inland mountain ranges",
+        "North toward Oregon and Washington"
       ],
-      "correct_answer": "Tiny bubbles popping"
+      "correct_answer": "North toward Oregon and Washington"
     },
     {
-      "question": "How is Sharrow's propeller shaped?",
+      "question": "What can allow a bulge of Pacific water to move east?",
       "options": [
-        "It has flat wheels.",
-        "It has square paddles.",
-        "It has straight tubes.",
-        "It has looped blades."
+        "The winds weakening or reversing",
+        "The coastal beaches growing wider",
+        "The ocean water becoming colder",
+        "The boats moving up and down"
       ],
-      "correct_answer": "It has looped blades."
+      "correct_answer": "The winds weakening or reversing"
     },
     {
-      "question": "What first led Greg Sharrow to think about quieter propellers?",
+      "question": "Why can a higher sea level increase flooding?",
       "options": [
-        "Measuring shipping noise near a port",
-        "Filming a violinist with a drone",
-        "Recording whale calls from a boat",
-        "Watching bubbles inside a fish tank"
+        "It makes beaches grow more sand.",
+        "It gives storms a higher starting point.",
+        "It makes winds blow toward Asia.",
+        "It gives boats a faster travel speed."
       ],
-      "correct_answer": "Filming a violinist with a drone"
+      "correct_answer": "It gives storms a higher starting point."
     },
     {
-      "question": "What does the article say about benefits for whale communication?",
+      "question": "What happens to cold, nutrient-rich water as these waves pass?",
       "options": [
-        "They end all shipping noise.",
-        "They replace the whales' calls.",
-        "They remain an open question.",
-        "They occur in every condition."
+        "It gets pushed deeper down.",
+        "It turns into floating ice.",
+        "It moves onto sandy beaches.",
+        "It gathers inside river mouths."
       ],
-      "correct_answer": "They remain an open question."
+      "correct_answer": "It gets pushed deeper down."
     }
   ],
   "background_read": [
-    "Whales use calls to communicate and find food.",
-    "Sound levels can be measured in decibels.",
-    "The company says noise reductions vary with operating conditions."
+    "El Niño is a natural climate pattern involving warmer ocean water.",
+    "Erosion means the wearing away of material, including beach sand."
   ],
   "Article_Structure": [
-    "Introduces the research partnership and its early tests.",
-    "Explains why underwater noise matters to whales.",
-    "Describes cavitation and the looped propeller design.",
-    "Explains how a drone filming problem inspired the invention.",
-    "Ends with support for the idea and the unanswered question about whale communication."
+    "Introduces Kelvin waves as broad bulges of water.",
+    "Presents the report’s West Coast forecast.",
+    "Explains their appearance and how changing winds form them.",
+    "Connects the waves to El Niño and coastal effects.",
+    "Describes changes to water below the surface."
   ],
   "perspectives": [
     {
-      "perspective": "Greg Sharrow",
-      "description": "He says the propeller idea began with a noisy camera drone and could also be used on boats."
-    },
-    {
-      "perspective": "Iain Kerr",
-      "description": "He supports solutions that benefit animals, the environment and boat users."
+      "perspective": "Dillon Amaya",
+      "description": "He says Kelvin waves cannot be seen as ordinary waves and do not make boats bob up and down."
     }
   ],
-  "mined_at": "2026-10-03T19:42:26+00:00",
-  "source_published_at": "Sat, 03 Oct 2026 08:01:00 -0400",
-  "source_name": "Popular Science",
-  "source_url": "https://www.popsci.com/environment/boat-propeller-whales-noise-pollution/",
+  "mined_at": "2026-10-03T22:44:47+00:00",
+  "source_published_at": "Sat, 03 Oct 2026 15:45:08 -0400",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/science/what-to-know-about-the-kelvin-wave-raising-the-sea-level-along-the-west-coast",
   "category": "Science",
-  "source_word_count": 1419,
+  "source_word_count": 610,
   "detail_status": "full"
 }
