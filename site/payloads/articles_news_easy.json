@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-02-news-1",
+      "id": "2026-10-03-news-1",
+      "source": "CBC World",
+      "time_ago": "Fri, 02 Oct 2026 04:00:00 EDT",
+      "mined_at": "2026-10-03T10:29:33+00:00",
+      "source_published_at": "Fri, 02 Oct 2026 04:00:00 EDT",
+      "image_url": "/article_images/article_44c0dce38d33.webp",
+      "category": "News",
+      "title": "Why the Black Sea Is So Dangerous Right Now — And Why It Affects Your Bread",
+      "summary": "The Black Sea is the most dangerous it has been since the war in Ukraine began. More than 210 strikes hit ships between July and September. Russia and Ukraine grow a quarter of the world's wheat, and exports are down 60%."
+    },
+    {
+      "id": "2026-10-03-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Fri, 02 Oct 2026 17:45:09 -0400",
-      "mined_at": "2026-10-02T23:03:11+00:00",
-      "source_published_at": "Fri, 02 Oct 2026 17:45:09 -0400",
-      "image_url": "/article_images/news-s42d03f43b138e60b.webp",
+      "time_ago": "Fri, 02 Oct 2026 19:10:59 -0400",
+      "mined_at": "2026-10-03T10:29:33+00:00",
+      "source_published_at": "Fri, 02 Oct 2026 19:10:59 -0400",
+      "image_url": "/article_images/article_e5b4a775139f.webp",
       "category": "News",
-      "title": "Supreme Court Starts New Term With Big Cases to Watch",
-      "summary": "The Supreme Court returns Monday for a new term with major cases on climate lawsuits and gun laws, and justices also handle fast emergency requests."
+      "title": "Judge Pauses Border Wall Construction in Texas' Big Bend for Now",
+      "summary": "A federal judge temporarily blocked the Trump administration from building a border wall across Texas' Big Bend region. The area includes Big Bend National Park and stretches about 500 miles. The judge said opponents could suffer serious harm without a pause."
     },
     {
-      "id": "2026-10-02-news-2",
-      "source": "BBC News",
-      "time_ago": "Fri, 02 Oct 2026 20:25:19 GMT",
-      "mined_at": "2026-10-02T23:03:11+00:00",
-      "source_published_at": "Fri, 02 Oct 2026 20:25:19 GMT",
-      "image_url": "/article_images/news-scaae385ae0ce9488.webp",
+      "id": "2026-10-03-news-3",
+      "source": "CBC World",
+      "time_ago": "Fri, 02 Oct 2026 10:15:35 EDT",
+      "mined_at": "2026-10-03T10:29:33+00:00",
+      "source_published_at": "Fri, 02 Oct 2026 10:15:35 EDT",
+      "image_url": "/article_images/article_5ffd5713122d.webp",
       "category": "News",
-      "title": "G7 Nations to Release 100 Million Barrels of Oil and Diesel",
-      "summary": "The G7 agreed to release 100 million barrels of oil and diesel to ease high fuel prices, after President Trump threatened to ban U.S. diesel exports."
-    },
-    {
-      "id": "2026-10-02-news-3",
-      "source": "BBC News",
-      "time_ago": "Fri, 02 Oct 2026 21:13:27 GMT",
-      "mined_at": "2026-10-02T23:03:11+00:00",
-      "source_published_at": "Fri, 02 Oct 2026 21:13:27 GMT",
-      "image_url": "/article_images/news-sa452d2282b2efb09.webp",
-      "category": "News",
-      "title": "Student Protests Disrupt Hundreds of Schools in France",
-      "summary": "Student protests over education standards have disrupted 735 of France's 3,700 schools, and French ministers are responding to the unrest."
+      "title": "Ebola Outbreak in Congo Passes 4,000 Deaths",
+      "summary": "Congo's Ebola outbreak has killed more than 4,000 people — the fastest-growing ever. Health workers are protesting because they haven't been paid for months, and a treatment camp was burned down."
     }
   ]
 }

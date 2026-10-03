@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-02-fun-1",
-      "source": "Popular Science",
-      "time_ago": "Fri, 02 Oct 2026 13:03:00 -0400",
-      "mined_at": "2026-10-02T23:03:11+00:00",
-      "source_published_at": "Fri, 02 Oct 2026 13:03:00 -0400",
-      "image_url": "/article_images/fun-sfc818c49bc1bd892.webp",
+      "id": "2026-10-03-fun-1",
+      "source": "BBC Tennis",
+      "time_ago": "Thu, 01 Oct 2026 16:40:52 GMT",
+      "mined_at": "2026-10-03T10:29:33+00:00",
+      "source_published_at": "Thu, 01 Oct 2026 16:40:52 GMT",
+      "image_url": "/article_images/article_df4dfe2bcf30.webp",
       "category": "Fun",
-      "title": "This Robot Hand Walks on Its Fingers Like a Creepy Thing",
-      "summary": "Engineers in Switzerland built a robot hand that can balance on its fingers, type on a keyboard and even play a simple video game. It is inspired by the spooky hand called Thing."
+      "title": "Tennis Says: Same Big Prize Money for Women and Men",
+      "summary": "Starting next year, women and men will win the same prize money at all the biggest tennis events outside the Grand Slams. That includes the Italian Open, Canadian Open and Cincinnati Open. The WTA says it's a major milestone for fairness."
     },
     {
-      "id": "2026-10-02-fun-2",
-      "source": "Billboard",
-      "time_ago": "Fri, 02 Oct 2026 21:37:31 +0000",
-      "mined_at": "2026-10-02T23:03:11+00:00",
-      "source_published_at": "Fri, 02 Oct 2026 21:37:31 +0000",
-      "image_url": "/article_images/fun-s9fc2419a06dfda95.webp",
+      "id": "2026-10-03-fun-2",
+      "source": "TIME for Kids",
+      "time_ago": "Thu, 01 Oct 2026 12:55:59 +0000",
+      "mined_at": "2026-10-03T10:29:33+00:00",
+      "source_published_at": "Thu, 01 Oct 2026 12:55:59 +0000",
+      "image_url": "/article_images/article_a62bbcb037de.webp",
       "category": "Fun",
-      "title": "Role Model Jokes About Being Maine's Most Famous Person",
-      "summary": "Singer Role Model appeared on Chicken Shop Date and joked about whether he is Maine's most famous celebrity, mentioning Stephen King and Anna Kendrick. His new album reached the top 10."
+      "title": "A Lion in a Banana-Leaf Hat: Meet the Mascot of Africa's First Olympics",
+      "summary": "The 2026 Youth Olympic Games are coming to Senegal — the first Olympics ever held in Africa. About 2,700 young athletes will compete, and the mascot is a lion named Ayo, designed by a 16-year-old student."
     },
     {
-      "id": "2026-10-02-fun-3",
-      "source": "Billboard",
-      "time_ago": "Fri, 02 Oct 2026 22:09:27 +0000",
-      "mined_at": "2026-10-02T23:03:11+00:00",
-      "source_published_at": "Fri, 02 Oct 2026 22:09:27 +0000",
-      "image_url": "/article_images/fun-s4ea03f20c443e65b.webp",
+      "id": "2026-10-03-fun-3",
+      "source": "TIME for Kids",
+      "time_ago": "Wed, 30 Sep 2026 13:26:31 +0000",
+      "mined_at": "2026-10-03T10:29:33+00:00",
+      "source_published_at": "Wed, 30 Sep 2026 13:26:31 +0000",
+      "image_url": "/article_images/article_64e8b1be57e0.webp",
       "category": "Fun",
-      "title": "Doobie Brothers Singer Reconnects With Son He Placed for Adoption",
-      "summary": "Michael McDonald of the Doobie Brothers reconnected with Michael Goessling, the son he placed for adoption as a teenager. Goessling is 59 and learned his father's identity last year."
+      "title": "Pokémon Fans Take Over San Francisco",
+      "summary": "50,000 Pokémon fans filled San Francisco for the World Championships. Kid Reporter Adam met a champion who practices all the time, and even saw a life-size motorcycle Pokémon blink!"
     }
   ]
 }

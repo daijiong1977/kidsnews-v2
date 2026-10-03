@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-02-news-1",
+      "id": "2026-10-03-news-1",
+      "source": "CBC World",
+      "time_ago": "Fri, 02 Oct 2026 04:00:00 EDT",
+      "mined_at": "2026-10-03T10:29:33+00:00",
+      "source_published_at": "Fri, 02 Oct 2026 04:00:00 EDT",
+      "image_url": "/article_images/article_44c0dce38d33.webp",
+      "category": "News",
+      "title": "Black Sea Strikes Threaten Global Grain Supply as Exports Drop 60%",
+      "summary": "More than 210 strikes on commercial ships have hit the Black Sea since July, according to maritime risk firm Ambrey. Russia and Ukraine supply about a quarter of the world's wheat, and their combined exports are down 60% from last year."
+    },
+    {
+      "id": "2026-10-03-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Fri, 02 Oct 2026 17:45:09 -0400",
-      "mined_at": "2026-10-02T23:03:11+00:00",
-      "source_published_at": "Fri, 02 Oct 2026 17:45:09 -0400",
-      "image_url": "/article_images/news-s42d03f43b138e60b.webp",
+      "time_ago": "Fri, 02 Oct 2026 19:10:59 -0400",
+      "mined_at": "2026-10-03T10:29:33+00:00",
+      "source_published_at": "Fri, 02 Oct 2026 19:10:59 -0400",
+      "image_url": "/article_images/article_e5b4a775139f.webp",
       "category": "News",
-      "title": "Supreme Court Term to Tackle Climate, Gun and Emergency Cases",
-      "summary": "The Supreme Court's new term includes a climate lawsuit against oil companies and a challenge to an Illinois assault weapons ban, plus fast rulings on its emergency docket."
+      "title": "Federal Judge Temporarily Blocks Border Wall in Texas' Big Bend Region",
+      "summary": "A federal judge paused the Trump administration's border wall project across Texas' Big Bend region, including Big Bend National Park. The $46 billion effort covers about 500 miles. Opponents say the government bypassed environmental and cultural protection laws."
     },
     {
-      "id": "2026-10-02-news-2",
-      "source": "BBC News",
-      "time_ago": "Fri, 02 Oct 2026 20:25:19 GMT",
-      "mined_at": "2026-10-02T23:03:11+00:00",
-      "source_published_at": "Fri, 02 Oct 2026 20:25:19 GMT",
-      "image_url": "/article_images/news-scaae385ae0ce9488.webp",
+      "id": "2026-10-03-news-3",
+      "source": "CBC World",
+      "time_ago": "Fri, 02 Oct 2026 10:15:35 EDT",
+      "mined_at": "2026-10-03T10:29:33+00:00",
+      "source_published_at": "Fri, 02 Oct 2026 10:15:35 EDT",
+      "image_url": "/article_images/article_5ffd5713122d.webp",
       "category": "News",
-      "title": "G7 to Release 100 Million Barrels of Oil and Diesel to Ease Prices",
-      "summary": "The G7 agreed to release 100 million barrels of oil and diesel through the IEA after President Trump threatened a U.S. diesel export ban."
-    },
-    {
-      "id": "2026-10-02-news-3",
-      "source": "BBC News",
-      "time_ago": "Fri, 02 Oct 2026 21:13:27 GMT",
-      "mined_at": "2026-10-02T23:03:11+00:00",
-      "source_published_at": "Fri, 02 Oct 2026 21:13:27 GMT",
-      "image_url": "/article_images/news-sa452d2282b2efb09.webp",
-      "category": "News",
-      "title": "Student Protests Over Education Standards Disrupt 700+ French Schools",
-      "summary": "Protests over education standards have spread across France and disrupted more than 700 schools, while ministers describe damage to school facilities and a growing disturbance."
+      "title": "Congo's Ebola Outbreak Becomes Deadliest Ever, Topping 4,000 Deaths",
+      "summary": "Congo's Ebola outbreak has now killed more than 4,000 people — the fastest-growing ever. Health workers are striking over unpaid wages, and a treatment camp was burned, forcing 19,000 people to flee."
     }
   ]
 }
