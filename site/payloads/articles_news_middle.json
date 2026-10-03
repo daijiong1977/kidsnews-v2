@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-10-03-news-1",
-      "source": "CBC World",
-      "time_ago": "Fri, 02 Oct 2026 04:00:00 EDT",
-      "mined_at": "2026-10-03T10:29:33+00:00",
-      "source_published_at": "Fri, 02 Oct 2026 04:00:00 EDT",
-      "image_url": "/article_images/article_44c0dce38d33.webp",
+      "source": "NPR World",
+      "time_ago": "Sat, 03 Oct 2026 07:00:00 -0400",
+      "mined_at": "2026-10-03T14:21:37+00:00",
+      "source_published_at": "Sat, 03 Oct 2026 07:00:00 -0400",
+      "image_url": "/article_images/news-s770d67111cf3ae7a.webp",
       "category": "News",
-      "title": "Black Sea Strikes Threaten Global Grain Supply as Exports Drop 60%",
-      "summary": "More than 210 strikes on commercial ships have hit the Black Sea since July, according to maritime risk firm Ambrey. Russia and Ukraine supply about a quarter of the world's wheat, and their combined exports are down 60% from last year."
+      "title": "Philadelphia museum closes despite campaign and temporary funding offer",
+      "summary": "The Academy of Natural Sciences Museum has closed after financial difficulties. Supporters, a foundation and Philadelphia's city council are pursuing possible ways to restore public access."
     },
     {
       "id": "2026-10-03-news-2",
       "source": "PBS NewsHour",
       "time_ago": "Fri, 02 Oct 2026 19:10:59 -0400",
-      "mined_at": "2026-10-03T10:29:33+00:00",
+      "mined_at": "2026-10-03T14:21:37+00:00",
       "source_published_at": "Fri, 02 Oct 2026 19:10:59 -0400",
-      "image_url": "/article_images/article_e5b4a775139f.webp",
+      "image_url": "/article_images/news-sa395eb961b871376.webp",
       "category": "News",
-      "title": "Federal Judge Temporarily Blocks Border Wall in Texas' Big Bend Region",
-      "summary": "A federal judge paused the Trump administration's border wall project across Texas' Big Bend region, including Big Bend National Park. The $46 billion effort covers about 500 miles. Opponents say the government bypassed environmental and cultural protection laws."
+      "title": "Court pauses Big Bend border projects while legal challenge continues",
+      "summary": "A federal court temporarily halted border infrastructure work across Texas' Big Bend region. A lawsuit challenges the government's decision to bypass environmental, cultural and archaeological protections."
     },
     {
       "id": "2026-10-03-news-3",
-      "source": "CBC World",
-      "time_ago": "Fri, 02 Oct 2026 10:15:35 EDT",
-      "mined_at": "2026-10-03T10:29:33+00:00",
-      "source_published_at": "Fri, 02 Oct 2026 10:15:35 EDT",
-      "image_url": "/article_images/article_5ffd5713122d.webp",
+      "source": "PBS NewsHour",
+      "time_ago": "Fri, 02 Oct 2026 18:55:34 -0400",
+      "mined_at": "2026-10-03T14:21:37+00:00",
+      "source_published_at": "Fri, 02 Oct 2026 18:55:34 -0400",
+      "image_url": "/article_images/news-s3f063f954ea7b3d8.webp",
       "category": "News",
-      "title": "Congo's Ebola Outbreak Becomes Deadliest Ever, Topping 4,000 Deaths",
-      "summary": "Congo's Ebola outbreak has now killed more than 4,000 people — the fastest-growing ever. Health workers are striking over unpaid wages, and a treatment camp was burned, forcing 19,000 people to flee."
+      "title": "September hiring slows, while Fed official stresses inflation concerns",
+      "summary": "US employers added 29,000 jobs in September, below expectations. Cleveland Fed president Beth Hammack cautioned against judging one report alone and highlighted pressure from prices rising faster than wages."
     }
   ]
 }

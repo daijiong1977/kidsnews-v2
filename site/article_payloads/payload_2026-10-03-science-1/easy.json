@@ -1,1 +1,108 @@
-{"title": "Chocolate in Georgia? Ancient Pots Say Yes — 1,000 Years Ago!", "summary": "Imagine biting into a chocolate bar. Now imagine that same treat reaching people in Georgia 1,000 years ago — long before any grocery store existed.\n\nScientists just found the earliest known traces of cacao east of the Mississippi River. They studied tiny pieces of ancient pottery found near the Etowah Indian Mounds in Georgia. The pots were used at a big feast about 1,000 years ago.\n\nCacao is the plant that gives us chocolate. It comes from Mesoamerica — warm, tropical places like southern Mexico. But Etowah is far from those places. So how did cacao get there?\n\nMaybe travelers carried it. Maybe it was traded from person to person, like a relay race across the continent. Scientists aren't sure yet.\n\nOne cool clue: the cacao DNA on the pots was old and broken down — not fresh. That means it wasn't from a scientist eating a candy bar nearby! The team even got permission from the Muscogee people, who hold Etowah sacred, to study the pottery.\n\nWhat does this tell us? The ancient Southeast wasn't isolated. People were connected through trade and travel. As archaeologist Adam King says, \"The Indigenous world of the Southeast was an international world.\" Pretty amazing for 1,000 years ago!", "why_it_matters": "Learning that people traded and traveled long distances 1,000 years ago can change how you think in history class — the past was far more connected than it looks.", "image_url": "/article_images/article_753547db7aa0.webp", "keywords": [{"term": "cacao", "explanation": "The tropical plant whose seeds are used to make chocolate."}, {"term": "archaeologist", "explanation": "A scientist who studies old objects and places to learn how people lived long ago."}, {"term": "Etowah Indian Mounds", "explanation": "Large earthen hills in Georgia built long ago by Native Americans, where people held big gatherings."}, {"term": "Mesoamerica", "explanation": "The warm, tropical region of southern Mexico and Central America."}, {"term": "sacred", "explanation": "So special and holy that it must be treated with great respect."}, {"term": "Indigenous", "explanation": "The first people who lived in a land, long before others came."}], "questions": [{"question": "What did scientists find near the Etowah Indian Mounds in Georgia?", "options": ["A chocolate bar left by a scientist", "A grocery store from 1,000 years ago", "A hidden candy factory", "The earliest known traces of cacao east of the Mississippi River"], "correct_answer": "The earliest known traces of cacao east of the Mississippi River"}, {"question": "Where does the cacao plant come from?", "options": ["Georgia", "Europe", "Africa", "Mesoamerica, such as southern Mexico"], "correct_answer": "Mesoamerica, such as southern Mexico"}, {"question": "About how long ago was the big feast where the pots were used?", "options": ["100 years ago", "5 years ago", "1,000 years ago", "10,000 years ago"], "correct_answer": "1,000 years ago"}, {"question": "Why do scientists say the cacao wasn't left by someone eating a candy bar nearby?", "options": ["The pots were brand new", "The DNA was old and broken down", "There was no cacao at all", "The candy bar was still there"], "correct_answer": "The DNA was old and broken down"}, {"question": "Who gave the team permission to study the pottery?", "options": ["The Muscogee people", "The travelers", "The scientists' school", "The grocery store"], "correct_answer": "The Muscogee people"}, {"question": "What did archaeologist Adam King say about the ancient Southeast?", "options": ["It was cut off from everyone", "It was only full of farmers", "It was an international world", "It was completely empty"], "correct_answer": "It was an international world"}], "background_read": ["Chocolate comes from cacao, and long before candy bars existed, people in Mesoamerica (the warm region of southern Mexico and Central America) ground up cacao beans and drank them as a bitter, spicy drink.", "Cacao was so valuable there that the beans were sometimes used like money.", "Georgia is a U.S. state in the Southeast, and the Etowah Indian Mounds there are big earthen hills built long ago by Native Americans."], "Article_Structure": ["WHO: Scientists studying tiny pieces of ancient pottery, with permission from the Muscogee people, plus archaeologist Adam King.", "WHAT: They found the earliest known traces of cacao — the chocolate plant — east of the Mississippi River, used at a feast about 1,000 years ago.", "WHERE: At the Etowah Indian Mounds in Georgia, far from cacao's home in Mesoamerica.", "WHY: It shows the ancient Southeast was connected to faraway places through trade and travel, not isolated."], "perspectives": [{"perspective": "Excited archaeologists", "description": "Scientists say the pots prove the ancient Southeast was an 'international world' linked by trade with distant places."}, {"perspective": "Muscogee people", "description": "The Muscogee hold Etowah sacred, so the team asked their permission before studying the pottery — a reminder that ancient sites belong to living communities too."}, {"perspective": "Curious but unsure scientists", "description": "Nobody knows exactly how cacao traveled so far; it may have been passed from person to person like a relay race, and researchers are still trying to find out."}], "mined_at": "2026-10-03T10:29:33+00:00", "source_published_at": "Fri, 02 Oct 2026 18:15:00 +0000", "source_name": "Smithsonian Science-Nature", "source_url": "https://www.smithsonianmag.com/science-nature/ancient-pottery-reveals-the-earliest-known-traces-of-chocolate-east-of-the-mississippi-painting-a-picture-of-connection-in-the-americas-180989559/", "category": "Science", "source_word_count": 993}
+{
+  "title": "Roman telescope passes steady-pointing tests and sees its first stars",
+  "summary": "Taking a sharp picture of space requires a very steady telescope. NASA’s Nancy Grace Roman Space Telescope has now passed important tests of the system that helps it stay pointed at its targets.\n\nFrom September 15 to 21, engineers tested Roman’s fine-guidance system. It watches guide stars, whose positions are already known accurately. About four times each second, it reports their positions to the system that controls the telescope’s direction. This lets Roman correct tiny movements while collecting light.\n\nThe telescope stayed steady to better than one hundred-thousandth of a degree. That is roughly like keeping a laser pointed at a U.S. dime from about 240 kilometers away!\n\nOn September 22, Roman’s Coronagraph Instrument received light from space for the first time. A coronagraph reduces a star’s bright light so scientists can study much fainter planets and dusty disks around stars. Even tiny movements could let unwanted starlight spoil an image.\n\nThe first test looked at a faint star in the Large Magellanic Cloud, a neighboring galaxy. Its detectors were kept warmer than their final working temperature to help prevent contamination from sticking to them. This made the image noisier.\n\nFor a second observation on September 27, engineers cooled the detectors and saw multiple stars. These were early checks of focus and pointing. More complicated tests are still needed before the instrument’s future science observations.",
+  "why_it_matters": "Steady pointing and focused images help prepare Roman to study faint objects in space.",
+  "image_url": "/article_images/science-s0465c8ca20bba81e.webp",
+  "keywords": [
+    {
+      "term": "guide stars",
+      "explanation": "Stars with accurately known positions that help a telescope keep its direction."
+    },
+    {
+      "term": "coronagraph",
+      "explanation": "An instrument that reduces bright starlight so fainter objects can be studied."
+    },
+    {
+      "term": "detectors",
+      "explanation": "Parts of an instrument that sense light."
+    },
+    {
+      "term": "contamination",
+      "explanation": "Unwanted material that can stick to an instrument."
+    },
+    {
+      "term": "galaxy",
+      "explanation": "A large collection of stars."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What does Roman’s fine-guidance system watch?",
+      "options": [
+        "Galaxies with bright centers",
+        "Clouds with changing shapes",
+        "Stars with known positions",
+        "Planets with dusty rings"
+      ],
+      "correct_answer": "Stars with known positions"
+    },
+    {
+      "question": "How often does the system report the guide stars’ positions?",
+      "options": [
+        "About four times each second",
+        "About four times each minute",
+        "About four times each hour",
+        "About four times each day"
+      ],
+      "correct_answer": "About four times each second"
+    },
+    {
+      "question": "What does a coronagraph reduce?",
+      "options": [
+        "A telescope’s collecting time",
+        "A star’s bright light",
+        "A galaxy’s apparent size",
+        "A detector’s working temperature"
+      ],
+      "correct_answer": "A star’s bright light"
+    },
+    {
+      "question": "Where was the faint star in the first test?",
+      "options": [
+        "In the telescope’s guidance system",
+        "In a dusty disk around a star",
+        "In the Large Magellanic Cloud",
+        "In a group of nearby planets"
+      ],
+      "correct_answer": "In the Large Magellanic Cloud"
+    },
+    {
+      "question": "Why were the detectors kept warmer during the first test?",
+      "options": [
+        "To help increase image noise",
+        "To help reduce bright starlight",
+        "To help correct tiny movements",
+        "To help prevent contamination"
+      ],
+      "correct_answer": "To help prevent contamination"
+    },
+    {
+      "question": "What did engineers see after cooling the detectors for the second observation?",
+      "options": [
+        "Multiple stars",
+        "Multiple nearby galaxies",
+        "Multiple dusty disks",
+        "Multiple planets"
+      ],
+      "correct_answer": "Multiple stars"
+    }
+  ],
+  "background_read": [
+    "A steady telescope can collect light while keeping its target in the same direction.",
+    "Bright starlight can make much fainter objects around a star difficult to study."
+  ],
+  "Article_Structure": [
+    "Introduces Roman’s successful steady-pointing tests.",
+    "Explains how guide stars help correct tiny movements.",
+    "Describes the coronagraph’s purpose and first star observations.",
+    "Ends with the need for more complicated tests."
+  ],
+  "perspectives": [],
+  "mined_at": "2026-10-03T14:21:37+00:00",
+  "source_published_at": "Fri, 02 Oct 2026 08:21:30 EDT",
+  "source_name": "ScienceDaily Top Technology",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261001214057.htm",
+  "category": "Science",
+  "source_word_count": 892,
+  "detail_status": "full"
+}

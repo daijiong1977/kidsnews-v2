@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-10-03-news-1",
-      "source": "CBC World",
-      "time_ago": "Fri, 02 Oct 2026 04:00:00 EDT",
-      "mined_at": "2026-10-03T10:29:33+00:00",
-      "source_published_at": "Fri, 02 Oct 2026 04:00:00 EDT",
-      "image_url": "/article_images/article_44c0dce38d33.webp",
+      "source": "NPR World",
+      "time_ago": "Sat, 03 Oct 2026 07:00:00 -0400",
+      "mined_at": "2026-10-03T14:21:37+00:00",
+      "source_published_at": "Sat, 03 Oct 2026 07:00:00 -0400",
+      "image_url": "/article_images/news-s770d67111cf3ae7a.webp",
       "category": "News",
-      "title": "Why the Black Sea Is So Dangerous Right Now — And Why It Affects Your Bread",
-      "summary": "The Black Sea is the most dangerous it has been since the war in Ukraine began. More than 210 strikes hit ships between July and September. Russia and Ukraine grow a quarter of the world's wheat, and exports are down 60%."
+      "title": "Philadelphia science museum closes as supporters seek a way back",
+      "summary": "Philadelphia's Academy of Natural Sciences Museum has closed to visitors. A foundation offered a year of funding, but reopening would require a longer-term plan."
     },
     {
       "id": "2026-10-03-news-2",
       "source": "PBS NewsHour",
       "time_ago": "Fri, 02 Oct 2026 19:10:59 -0400",
-      "mined_at": "2026-10-03T10:29:33+00:00",
+      "mined_at": "2026-10-03T14:21:37+00:00",
       "source_published_at": "Fri, 02 Oct 2026 19:10:59 -0400",
-      "image_url": "/article_images/article_e5b4a775139f.webp",
+      "image_url": "/article_images/news-sa395eb961b871376.webp",
       "category": "News",
-      "title": "Judge Pauses Border Wall Construction in Texas' Big Bend for Now",
-      "summary": "A federal judge temporarily blocked the Trump administration from building a border wall across Texas' Big Bend region. The area includes Big Bend National Park and stretches about 500 miles. The judge said opponents could suffer serious harm without a pause."
+      "title": "Judge temporarily stops border construction in Texas' Big Bend region",
+      "summary": "A federal judge has temporarily blocked border construction across Texas' Big Bend region. The ruling includes the national park and comes during a legal challenge over protective rules."
     },
     {
       "id": "2026-10-03-news-3",
-      "source": "CBC World",
-      "time_ago": "Fri, 02 Oct 2026 10:15:35 EDT",
-      "mined_at": "2026-10-03T10:29:33+00:00",
-      "source_published_at": "Fri, 02 Oct 2026 10:15:35 EDT",
-      "image_url": "/article_images/article_5ffd5713122d.webp",
+      "source": "PBS NewsHour",
+      "time_ago": "Fri, 02 Oct 2026 18:55:34 -0400",
+      "mined_at": "2026-10-03T14:21:37+00:00",
+      "source_published_at": "Fri, 02 Oct 2026 18:55:34 -0400",
+      "image_url": "/article_images/news-s3f063f954ea7b3d8.webp",
       "category": "News",
-      "title": "Ebola Outbreak in Congo Passes 4,000 Deaths",
-      "summary": "Congo's Ebola outbreak has killed more than 4,000 people — the fastest-growing ever. Health workers are protesting because they haven't been paid for months, and a treatment camp was burned down."
+      "title": "US hiring slows as families face rising prices",
+      "summary": "US employers added 29,000 jobs in September, and unemployment rose slightly. A Federal Reserve official says price increases remain a concern even as unemployment stays relatively low."
     }
   ]
 }
