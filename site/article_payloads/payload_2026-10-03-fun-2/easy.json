@@ -1,117 +1,113 @@
 {
-  "title": "Pikachu plush returns from a space adventure",
-  "summary": "Pikachu has been on quite a trip! A plush version of the Pokémon character spent 67 days on the International Space Station, according to the European Space Agency, or ESA.\n\nThe toy travelled to the station on a Cygnus cargo spacecraft on April 11. It returned to Earth aboard a SpaceX Dragon cargo spacecraft on June 17. Cargo spacecraft carry supplies and other items. During its stay, Pikachu made about 1,040 trips around Earth.\n\nESA revealed the adventure on September 19, 2026. The project was designed to help launch World Space Week, held from October 4 to 10 in 2026.\n\nA special exhibition mixes Pokémon characters with real space science. Visitors can learn about European space missions, life on the station and studies of the Sun and Solar System.\n\nThe exhibition began in Paris in late September. It is planned to visit museums and other places across Europe through April 2027.\n\nESA hopes the little space traveller will encourage children and teenagers to become curious about science.",
-  "why_it_matters": "The project connects a familiar character with information about space missions and life on the space station. ESA hopes this will encourage children and teenagers to explore science.",
-  "image_url": "/article_images/fun-s53962724ddb28dca.webp",
+  "title": "Djokovic Comes Back to Win in Beijing",
+  "summary": "Novak Djokovic had a tough match at the China Open in Beijing. He lost the first set to China's Bu Yunchaokete. Then he came back to win 4-6, 7-6, 6-2. The match lasted two hours and 52 minutes.\n\nDjokovic is 39 years old. He has won the China Open six times. He has won all 31 matches he has played in Beijing.\n\nIn the second set, Djokovic needed a medical timeout. He also spoke with a trainer. He went on to win the tie-break 7-2. Then he won four games in a row in the final set. He finished with a backhand winner.\n\nNext, Djokovic will play either Alexander Zverev or Shang Juncheng for a place in the quarter-finals.\n\nIn the women's event, Aryna Sabalenka won her first match. She beat Renata Zarazua 6-1, 6-3. Sabalenka hit 11 aces. The match took 63 minutes.\n\nSabalenka is the world number two. She said expecting more from herself can help her improve, but it can also use up her energy. She is trying to be easier on herself.\n\nSabalenka will play Nikola Bartunkova next. Bartunkova is a 20-year-old from the Czech Republic. She came close to beating Sabalenka at the Berlin Open in June.\n\nIn other matches, Mirra Andreeva beat Yuan Yue. Daniil Medvedev also won. British doubles pair Julian Cash and Lloyd Glasspool won their match too.",
+  "why_it_matters": "The matches show how players can recover after a difficult start. Sabalenka's comments also describe how high expectations can both help a player and use up energy.",
+  "image_url": "/article_images/fun-s89bafb11c629117f.webp",
   "keywords": [
     {
-      "term": "plush",
-      "explanation": "A soft toy made from fabric."
+      "term": "set",
+      "explanation": "A part of a tennis match made up of games."
     },
     {
-      "term": "cargo",
-      "explanation": "Supplies or other items carried by a vehicle."
+      "term": "tie-break",
+      "explanation": "A special scoring game used to decide a tied set."
     },
     {
-      "term": "spacecraft",
-      "explanation": "A vehicle that travels in space."
+      "term": "backhand",
+      "explanation": "A tennis stroke made with the back of the hitting hand facing forward."
     },
     {
-      "term": "exhibition",
-      "explanation": "A collection of displays for people to visit."
+      "term": "aces",
+      "explanation": "Serves that win points without the other player touching the ball."
     },
     {
-      "term": "missions",
-      "explanation": "Planned journeys or activities with a particular purpose."
-    },
-    {
-      "term": "curious",
-      "explanation": "Wanting to learn or find out more."
+      "term": "doubles",
+      "explanation": "Tennis played by two teams of two players."
     }
   ],
   "questions": [
     {
-      "question": "Where did the Pikachu plush spend 67 days?",
+      "question": "Who did Djokovic beat in this match?",
       "options": [
-        "On the surface of the Moon",
-        "On the International Space Station",
-        "At the exhibition in Paris",
-        "At a museum in Europe"
+        "Alexander Zverev",
+        "Bu Yunchaokete",
+        "Daniil Medvedev",
+        "Shang Juncheng"
       ],
-      "correct_answer": "On the International Space Station"
+      "correct_answer": "Bu Yunchaokete"
     },
     {
-      "question": "Which spacecraft carried Pikachu back to Earth?",
+      "question": "How long did Djokovic's match last?",
       "options": [
-        "A Cygnus cargo spacecraft",
-        "A spacecraft carrying passengers",
-        "A SpaceX Dragon cargo spacecraft",
-        "A spacecraft studying the Sun"
+        "One hour and 12 minutes",
+        "Two hours and 12 minutes",
+        "Two hours and 52 minutes",
+        "One hour and 52 minutes"
       ],
-      "correct_answer": "A SpaceX Dragon cargo spacecraft"
+      "correct_answer": "Two hours and 52 minutes"
     },
     {
-      "question": "About how many trips around Earth did Pikachu make?",
+      "question": "What happened to Djokovic in the first set?",
       "options": [
-        "About 400 trips",
-        "About 1,040 trips",
-        "About 140 trips",
-        "About 4,100 trips"
+        "He won the set.",
+        "He took a timeout.",
+        "He won a tie-break.",
+        "He lost the set."
       ],
-      "correct_answer": "About 1,040 trips"
+      "correct_answer": "He lost the set."
     },
     {
-      "question": "When is World Space Week held in 2026?",
+      "question": "How many aces did Sabalenka hit?",
       "options": [
-        "From April 4 to 10",
-        "From October 4 to 10",
-        "From June 4 to 10",
-        "From September 4 to 10"
+        "Three aces",
+        "Twelve aces",
+        "Six aces",
+        "Eleven aces"
       ],
-      "correct_answer": "From October 4 to 10"
+      "correct_answer": "Eleven aces"
     },
     {
-      "question": "What does the special exhibition combine?",
+      "question": "What did Sabalenka say about expecting more from herself?",
       "options": [
-        "Pokémon characters and ocean science",
-        "Pokémon characters and music history",
-        "Pokémon characters and sports history",
-        "Pokémon characters and space science"
+        "It helps her predict the final score.",
+        "It always makes matches feel easier.",
+        "It can help but also use up energy.",
+        "It means she no longer needs practice."
       ],
-      "correct_answer": "Pokémon characters and space science"
+      "correct_answer": "It can help but also use up energy."
     },
     {
-      "question": "What does ESA hope the project will encourage?",
+      "question": "Who will Sabalenka play next?",
       "options": [
-        "Children's curiosity about fashion",
-        "Children's interest in music",
-        "Children's interest in cooking",
-        "Children's curiosity about science"
+        "Mirra Andreeva",
+        "Renata Zarazua",
+        "Nikola Bartunkova",
+        "Yuan Yue"
       ],
-      "correct_answer": "Children's curiosity about science"
+      "correct_answer": "Nikola Bartunkova"
     }
   ],
   "background_read": [
-    "Cargo spacecraft carry supplies and other items.",
-    "The exhibition introduces European space missions, space station life and studies of the Sun and Solar System."
+    "Tennis matches are divided into sets, and sets are divided into games.",
+    "In doubles, two players work together on each side of the court."
   ],
   "Article_Structure": [
-    "The opening introduces the plush toy's stay on the International Space Station.",
-    "The next paragraph describes its spacecraft journeys and trips around Earth.",
-    "The article links the project to World Space Week and explains the exhibition.",
-    "The ending gives the tour plans and ESA's hope of encouraging scientific curiosity."
+    "The opening gives Djokovic's opponent, result and match length.",
+    "The next paragraphs describe his Beijing record and comeback.",
+    "The article then covers Sabalenka's win and comments about herself.",
+    "The ending names her next opponent and gives other results."
   ],
   "perspectives": [
     {
-      "perspective": "European Space Agency",
-      "description": "ESA hopes the project will encourage children and teenagers to become curious about space and science."
+      "perspective": "Aryna Sabalenka",
+      "description": "She said expecting more from herself can help her move forward but can also drain her energy. She is trying to be easier on herself."
     }
   ],
-  "mined_at": "2026-10-03T16:58:50+00:00",
-  "source_published_at": "",
-  "source_name": "DOGOnews",
-  "source_url": "https://www.dogonews.com/2026/10/2/pikachu-takes-a-trip-to-the-international-space-station",
+  "mined_at": "2026-10-03T19:42:26+00:00",
+  "source_published_at": "Fri, 02 Oct 2026 16:23:39 GMT",
+  "source_name": "BBC Tennis",
+  "source_url": "https://www.bbc.co.uk/sport/tennis/articles/c52e9dkmm7ylo?at_medium=RSS&at_campaign=rss",
   "category": "Fun",
-  "source_word_count": 259,
+  "source_word_count": 462,
   "detail_status": "full"
 }

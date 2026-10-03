@@ -1,114 +1,123 @@
 {
-  "title": "A Model Shows How California’s Earthquake ‘Gate’ Works",
-  "summary": "A meeting point between two California fault systems can act a little like a gate, scientists report. Sometimes an earthquake rupture stops there. Under other conditions, it can continue onto the next fault system.\n\nA fault is a break in Earth’s crust where sections of rock can move past one another. When those sections become stuck, stress can build. An earthquake can happen when stored energy is released and the rocks move. A rupture is the breaking and movement that spreads along a fault during an earthquake.\n\nThe new study focuses on the San Andreas and San Jacinto fault systems. They come close together at Cajon Pass, northeast of Los Angeles. Researchers used a computer model to explore about 1,000 years of earthquake activity there.\n\nThe model suggests that stress in parts of the system now matches or exceeds the highest levels in its simulated history. These results are estimates from a model.\n\nPast earthquakes show why the junction matters. In 1857, the Fort Tejon earthquake’s rupture stopped at Cajon Pass. In 1812, the Wrightwood earthquake’s rupture passed through the junction and involved both systems.\n\nThe researchers call Cajon Pass an earthquake gate because its behavior depends on changing stress conditions. It does not always block a rupture or always let one through.\n\nThe study helps scientists understand how stress builds and moves between faults over centuries.",
-  "why_it_matters": "Understanding how stress changes near a fault junction helps scientists study why an earthquake rupture may stop or continue onto another fault system.",
-  "image_url": "/article_images/science-s14333c1bb8ba23cc.webp",
+  "title": "A Quieter Boat Propeller Could Help Whales Hear Each Other",
+  "summary": "A Detroit company called Sharrow Marine is working with Ocean Alliance, a marine conservation organization, to test quieter boat propellers on research trips near whales. The tests are still at an early stage.\n\nNoise pollution happens underwater as well as on busy streets. Large ships and other human-made machines add sound to the ocean. When the ocean is quiet, whales can hear each other's calls from hundreds of miles away. They use these calls to communicate and find food. Noise from shipping overlaps with the low sounds whales use, making their calls harder to hear.\n\nMuch of a boat's noise comes from its propeller, the spinning part that pushes it through water. A process called cavitation happens when tiny bubbles form behind a fast-spinning propeller. When the bubbles pop, they make hissing or crackling sounds.\n\nInstead of blades with separate tips, Sharrow's design uses looped blades that twist like a ribbon. The company says this shape reduces cavitation. It claims independent testing found underwater noise reductions of up to seven decibels in the sound range whales use to communicate. Decibels are units used to measure sound levels. The company says results vary with operating conditions.\n\nThe idea began with a different problem. Greg Sharrow, the company's founder and CEO, wanted to film a violinist inside an orchestra using a camera drone. The drone's buzzing would interfere with the music. He began thinking about a propeller without separate blade tips, then realized the idea could also work on boats. His early boat propeller tests took place in a fish tank.\n\nOcean Alliance CEO Iain Kerr supports solutions that benefit animals, the environment and boat users. The research trips will explore the quieter design near whales. Whether it meaningfully improves whales' ability to hear one another remains an open question.",
+  "why_it_matters": "Whales depend on hearing calls. Testing quieter boat parts could help researchers explore ways to reduce noise that interferes with those calls.",
+  "image_url": "/article_images/science-sf6f0e64e5b28e0e7.webp",
   "keywords": [
     {
-      "term": "fault",
-      "explanation": "A break in Earth’s crust where rock can move."
+      "term": "conservation",
+      "explanation": "Protecting nature and living things."
     },
     {
-      "term": "crust",
-      "explanation": "Earth’s outer rocky layer."
+      "term": "propeller",
+      "explanation": "A spinning part that pushes a boat through water."
     },
     {
-      "term": "stress",
-      "explanation": "Force acting on rock that can build while it is stuck."
+      "term": "cavitation",
+      "explanation": "The forming and popping of tiny bubbles near a propeller."
     },
     {
-      "term": "rupture",
-      "explanation": "Breaking and movement spreading along a fault during an earthquake."
+      "term": "looped",
+      "explanation": "Shaped into a curve that joins back to itself."
     },
     {
-      "term": "model",
-      "explanation": "A computer simulation used to explore how something works."
+      "term": "decibels",
+      "explanation": "Units used to measure sound levels."
     },
     {
-      "term": "junction",
-      "explanation": "A place where different parts meet or connect."
+      "term": "drone",
+      "explanation": "A flying machine with no pilot riding inside."
     }
   ],
   "questions": [
     {
-      "question": "Which two fault systems does the study focus on?",
+      "question": "What are Sharrow Marine and Ocean Alliance testing near whales?",
       "options": [
-        "San Andreas and Wrightwood",
-        "San Jacinto and Fort Tejon",
-        "Wrightwood and Fort Tejon",
-        "San Andreas and San Jacinto"
+        "Smaller underwater cameras",
+        "Quieter boat propellers",
+        "Lighter recording equipment",
+        "Faster research boats"
       ],
-      "correct_answer": "San Andreas and San Jacinto"
+      "correct_answer": "Quieter boat propellers"
     },
     {
-      "question": "Where do the two fault systems come close together?",
+      "question": "Why can shipping noise cause problems for whales?",
       "options": [
-        "At Cajon Pass, southeast of Los Angeles",
-        "At Cajon Pass, northeast of Los Angeles",
-        "At Cajon Pass, southwest of Los Angeles",
-        "At Cajon Pass, northwest of Los Angeles"
+        "It makes the ocean water less salty.",
+        "It makes their calls harder to hear.",
+        "It makes their swimming harder to see.",
+        "It makes the ocean floor less rocky."
       ],
-      "correct_answer": "At Cajon Pass, northeast of Los Angeles"
+      "correct_answer": "It makes their calls harder to hear."
     },
     {
-      "question": "About how much earthquake history did the researchers model?",
+      "question": "What makes hissing or crackling sounds during cavitation?",
       "options": [
-        "About 500 years",
-        "About 100 years",
-        "About 5,000 years",
-        "About 1,000 years"
+        "Tiny bubbles popping",
+        "Research boats turning",
+        "Looped blades bending",
+        "Camera drones landing"
       ],
-      "correct_answer": "About 1,000 years"
+      "correct_answer": "Tiny bubbles popping"
     },
     {
-      "question": "What can happen when sections of rock become stuck?",
+      "question": "How is Sharrow's propeller shaped?",
       "options": [
-        "The crust becomes liquid.",
-        "The fault closes forever.",
-        "Stress can build.",
-        "Stress always disappears."
+        "It has flat wheels.",
+        "It has square paddles.",
+        "It has straight tubes.",
+        "It has looped blades."
       ],
-      "correct_answer": "Stress can build."
+      "correct_answer": "It has looped blades."
     },
     {
-      "question": "What happened to the Fort Tejon earthquake’s rupture in 1857?",
+      "question": "What first led Greg Sharrow to think about quieter propellers?",
       "options": [
-        "It crossed both fault systems.",
-        "It stopped at Cajon Pass.",
-        "It stopped before reaching either fault.",
-        "It continued onto the next system."
+        "Measuring shipping noise near a port",
+        "Filming a violinist with a drone",
+        "Recording whale calls from a boat",
+        "Watching bubbles inside a fish tank"
       ],
-      "correct_answer": "It stopped at Cajon Pass."
+      "correct_answer": "Filming a violinist with a drone"
     },
     {
-      "question": "Why do researchers compare Cajon Pass to a gate?",
+      "question": "What does the article say about benefits for whale communication?",
       "options": [
-        "It can stop or allow a rupture.",
-        "It always lets ruptures continue.",
-        "It prevents stress from building.",
-        "It always stops every rupture."
+        "They end all shipping noise.",
+        "They replace the whales' calls.",
+        "They remain an open question.",
+        "They occur in every condition."
       ],
-      "correct_answer": "It can stop or allow a rupture."
+      "correct_answer": "They remain an open question."
     }
   ],
   "background_read": [
-    "Earth’s crust is its outer rocky layer. A fault is a break where rock can move.",
-    "The earthquake gate is a comparison: changing stress conditions can affect whether a rupture stops or continues."
+    "Whales use calls to communicate and find food.",
+    "Sound levels can be measured in decibels.",
+    "The company says noise reductions vary with operating conditions."
   ],
   "Article_Structure": [
-    "Introduces the earthquake gate comparison.",
-    "Explains faults, stress and ruptures.",
-    "Names the fault systems and describes the model.",
-    "Reports the model’s stress estimates.",
-    "Compares two past earthquakes.",
-    "Explains what scientists can learn from the study."
+    "Introduces the research partnership and its early tests.",
+    "Explains why underwater noise matters to whales.",
+    "Describes cavitation and the looped propeller design.",
+    "Explains how a drone filming problem inspired the invention.",
+    "Ends with support for the idea and the unanswered question about whale communication."
   ],
-  "perspectives": [],
-  "mined_at": "2026-10-03T16:58:50+00:00",
-  "source_published_at": "Fri, 02 Oct 2026 00:58:10 EDT",
-  "source_name": "ScienceDaily All",
-  "source_url": "https://www.sciencedaily.com/releases/2026/10/261001095521.htm",
+  "perspectives": [
+    {
+      "perspective": "Greg Sharrow",
+      "description": "He says the propeller idea began with a noisy camera drone and could also be used on boats."
+    },
+    {
+      "perspective": "Iain Kerr",
+      "description": "He supports solutions that benefit animals, the environment and boat users."
+    }
+  ],
+  "mined_at": "2026-10-03T19:42:26+00:00",
+  "source_published_at": "Sat, 03 Oct 2026 08:01:00 -0400",
+  "source_name": "Popular Science",
+  "source_url": "https://www.popsci.com/environment/boat-propeller-whales-noise-pollution/",
   "category": "Science",
-  "source_word_count": 683,
+  "source_word_count": 1419,
   "detail_status": "full"
 }

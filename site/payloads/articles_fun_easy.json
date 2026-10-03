@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-10-03-fun-1",
-      "source": "BBC Tennis",
-      "time_ago": "Fri, 02 Oct 2026 16:23:39 GMT",
-      "mined_at": "2026-10-03T16:58:50+00:00",
-      "source_published_at": "Fri, 02 Oct 2026 16:23:39 GMT",
-      "image_url": "/article_images/fun-s89bafb11c629117f.webp",
-      "category": "Fun",
-      "title": "Djokovic fights back to win in Beijing",
-      "summary": "Novak Djokovic recovered after losing the first set to beat Bu Yunchaokete at the China Open. His winning record in Beijing reached 31 matches."
-    },
-    {
-      "id": "2026-10-03-fun-2",
       "source": "DOGOnews",
       "time_ago": "",
-      "mined_at": "2026-10-03T16:58:50+00:00",
+      "mined_at": "2026-10-03T19:42:26+00:00",
       "source_published_at": "",
       "image_url": "/article_images/fun-s53962724ddb28dca.webp",
       "category": "Fun",
-      "title": "Pikachu plush returns from a space adventure",
-      "summary": "A Pikachu plush spent 67 days on the International Space Station, according to ESA. Its journey is part of a project introducing children to real space science."
+      "title": "Pikachu Plush Visits the Space Station",
+      "summary": "A Pikachu plush spent 67 days on the International Space Station. ESA is celebrating World Space Week with a space science exhibit and Pokémon GO activities in Europe."
+    },
+    {
+      "id": "2026-10-03-fun-2",
+      "source": "BBC Tennis",
+      "time_ago": "Fri, 02 Oct 2026 16:23:39 GMT",
+      "mined_at": "2026-10-03T19:42:26+00:00",
+      "source_published_at": "Fri, 02 Oct 2026 16:23:39 GMT",
+      "image_url": "/article_images/fun-s89bafb11c629117f.webp",
+      "category": "Fun",
+      "title": "Djokovic Comes Back to Win in Beijing",
+      "summary": "Novak Djokovic came back after losing the first set to beat Bu Yunchaokete at the China Open. Aryna Sabalenka also won her opening match."
     },
     {
       "id": "2026-10-03-fun-3",
       "source": "DOGOnews",
       "time_ago": "",
-      "mined_at": "2026-10-03T16:58:50+00:00",
+      "mined_at": "2026-10-03T19:42:26+00:00",
       "source_published_at": "",
       "image_url": "/article_images/fun-s7a8f655afcee91f0.webp",
       "category": "Fun",
-      "title": "A giant recycled table brings thousands together",
-      "summary": "About 20,000 people gathered at a record-breaking recycled table in Romania. The meal raised more than $110,000 for a new children's psychiatric hospital."
+      "title": "Giant Recycled Table Sets World Record",
+      "summary": "About 20,000 people gathered at a record-setting recycled table in Romania. The meal raised more than $110,000 for a new children's mental health hospital."
     }
   ]
 }

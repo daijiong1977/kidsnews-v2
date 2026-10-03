@@ -1,111 +1,119 @@
 {
-  "title": "Juice Gets a Gravity Boost from Earth",
-  "summary": "How can a spacecraft speed up without burning lots of fuel? It can get help from a planet’s gravity. On September 28, the European Space Agency’s Juice spacecraft used Earth for just such a boost on its journey toward Jupiter.\n\nThis move is called a gravity assist. A carefully chosen path past a planet lets its gravity change a spacecraft’s speed and direction. Earth’s pull turned Juice’s path by 20 degrees and increased its speed by 3.5 kilometers per second.\n\nAt its closest point, Juice passed 8,640 kilometers above the Indian Ocean. Its monitoring cameras took a series of pictures. During the four weeks before the encounter, controllers needed just one small adjustment to its course.\n\nSaving fuel matters. Juice will need fuel later for observations around Jupiter and its icy moons. The spacecraft is scheduled to make 35 close passes by Ganymede, Callisto and Europa.\n\nEarth also served as a practice target for Juice’s science tools. Teams planned activities for its 10 instruments, including checks to make sure their measurements work as expected. Such checks are called calibration.\n\nThe team had to choose activities carefully. While Juice was in Earth’s shadow, it relied only on battery power. The visit also gave scientists a chance to learn how the instruments behave in space.\n\nFor Juice, a trip past home was both a helpful push and a rehearsal for the science ahead.",
-  "why_it_matters": "The Earth visit helped Juice save fuel and gave teams a chance to check the instruments that will study Jupiter’s icy moons.",
-  "image_url": "/article_images/science-sc62c0a234d4cdd9d.webp",
+  "title": "Juice Spacecraft Uses Earth's Gravity to Head Toward Jupiter",
+  "summary": "A spacecraft named Juice got a boost from Earth on September 28. Juice is short for Jupiter Icy Moons Explorer, a mission run by the European Space Agency, or ESA. It used Earth's gravity to bend its path toward Jupiter and gain speed. This is called a gravity assist, and it helps save fuel.\n\nThe flyby changed Juice's direction by 20 degrees and increased its speed by 3.5 kilometers per second. During the four weeks before the encounter, controllers needed only one small course correction. They had set aside six chances to adjust its path.\n\nAt its closest point, Juice passed 8,640 kilometers above the Indian Ocean. Its monitoring cameras took a series of pictures.\n\nAngela Dietz, Juice's Spacecraft Operations Manager, explained that careful planning meant the team used only a small amount of the fuel reserved for this flyby. That leaves more fuel for studying Jupiter's icy moons later.\n\nChanging direction was the main goal, but the flyby also let the team test Juice's science instruments. Earlier testing opportunities came during a lunar-Earth gravity assist in 2024 and observations of Comet 3I/ATLAS in 2025.\n\nTeams spent months planning when each of Juice's 10 instruments could work. Project scientist Claire Vallat explained that the team had to choose which activities came first. For example, Juice relied only on battery power while in Earth's shadow. Tests that helped prepare the instruments for Jupiter received priority.\n\nAt Jupiter, Juice is scheduled to make 35 flybys of the large moons Ganymede, Callisto and Europa. Earth served as a rehearsal to help scientists prepare for those encounters.\n\nJuice also spent several days traveling through Earth's magnetotail. This is the long part of Earth's magnetic field that stretches away from the Sun.",
+  "why_it_matters": "The Earth flyby saved fuel and helped scientists test instruments before Juice studies Jupiter's icy moons.",
+  "image_url": "/article_images/science-s27968997ec0f5b9f.webp",
   "keywords": [
-    {
-      "term": "gravity",
-      "explanation": "The pull that objects with mass have on one another."
-    },
     {
       "term": "spacecraft",
       "explanation": "A vehicle designed to travel in space."
     },
     {
-      "term": "course",
-      "explanation": "The path a vehicle follows."
+      "term": "gravity assist",
+      "explanation": "Using a planet's gravity to change a spacecraft's path and speed."
+    },
+    {
+      "term": "course correction",
+      "explanation": "An adjustment to the path a spacecraft follows."
     },
     {
       "term": "instruments",
-      "explanation": "Tools used to make scientific measurements."
-    },
-    {
-      "term": "calibration",
-      "explanation": "Checks and adjustments that help a tool measure correctly."
+      "explanation": "Tools used to make scientific observations or measurements."
     },
     {
       "term": "rehearsal",
-      "explanation": "Practice to prepare for a later activity."
+      "explanation": "Practice that helps prepare for a later activity."
+    },
+    {
+      "term": "magnetotail",
+      "explanation": "The long part of Earth's magnetic field stretching away from the Sun."
     }
   ],
   "questions": [
     {
-      "question": "Which planet supplied Juice’s gravity boost on September 28?",
+      "question": "Which planet is Juice traveling toward?",
       "options": [
         "Mars",
-        "Earth",
+        "Venus",
         "Saturn",
         "Jupiter"
       ],
-      "correct_answer": "Earth"
+      "correct_answer": "Jupiter"
     },
     {
-      "question": "What did Earth’s gravity change during the encounter?",
+      "question": "What helped Juice change its path and gain speed?",
       "options": [
-        "Juice’s size and shape",
-        "Juice’s speed and direction",
-        "Juice’s batteries and fuel tanks",
-        "Juice’s instruments and cameras"
+        "Earth's sunlight",
+        "Earth's oceans",
+        "Earth's gravity",
+        "Earth's clouds"
       ],
-      "correct_answer": "Juice’s speed and direction"
+      "correct_answer": "Earth's gravity"
     },
     {
-      "question": "Where was Juice at its closest point to Earth?",
+      "question": "How many small course corrections did controllers need in the four weeks before the flyby?",
       "options": [
-        "Above the Atlantic Ocean",
-        "Above the Arctic Ocean",
-        "Above the Indian Ocean",
-        "Above the Pacific Ocean"
+        "Two corrections",
+        "Four corrections",
+        "One correction",
+        "Six corrections"
       ],
-      "correct_answer": "Above the Indian Ocean"
+      "correct_answer": "One correction"
     },
     {
-      "question": "Why is saving fuel useful for Juice?",
+      "question": "Which ocean was below Juice at its closest point to Earth?",
       "options": [
-        "It needs fuel to create new moons.",
-        "It needs fuel to strengthen Earth’s gravity.",
-        "It needs fuel for later observations.",
-        "It needs fuel to enlarge its cameras."
+        "The Pacific Ocean",
+        "The Indian Ocean",
+        "The Atlantic Ocean",
+        "The Arctic Ocean"
       ],
-      "correct_answer": "It needs fuel for later observations."
+      "correct_answer": "The Indian Ocean"
     },
     {
-      "question": "What are the instrument checks called?",
+      "question": "What supplied Juice's power while it was in Earth's shadow?",
       "options": [
-        "Navigation",
-        "Calibration",
-        "Communication",
-        "Transportation"
+        "Sunlight alone",
+        "Water power alone",
+        "Wind power alone",
+        "Battery power alone"
       ],
-      "correct_answer": "Calibration"
+      "correct_answer": "Battery power alone"
     },
     {
-      "question": "What supplied Juice’s power while it was in Earth’s shadow?",
+      "question": "How many flybys of Jupiter's large moons is Juice scheduled to make?",
       "options": [
-        "Jupiter’s moons",
-        "Its cameras",
-        "Earth’s oceans",
-        "Its batteries"
+        "20 flybys",
+        "35 flybys",
+        "50 flybys",
+        "10 flybys"
       ],
-      "correct_answer": "Its batteries"
+      "correct_answer": "35 flybys"
     }
   ],
   "background_read": [
-    "A gravity assist uses a planet’s gravity to change a spacecraft’s speed and direction.",
-    "Calibration helps teams check that scientific instruments measure as expected."
+    "A gravity assist uses a planet's gravity to change a spacecraft's path and speed.",
+    "Earth's magnetotail is part of its magnetic field and stretches away from the Sun."
   ],
   "Article_Structure": [
-    "Opens with a question about gaining speed while using little fuel.",
-    "Explains the gravity assist and describes Juice’s Earth encounter.",
-    "Connects saved fuel with planned observations of Jupiter’s moons.",
-    "Describes instrument checks and battery use in Earth’s shadow.",
-    "Ends by describing the encounter as preparation for future science."
+    "Introduces Juice and explains its gravity assist.",
+    "Reports changes in direction and speed, navigation work and the closest approach.",
+    "Explains fuel savings and science instrument testing.",
+    "Connects the Earth rehearsal to future moon flybys and describes the magnetotail."
   ],
-  "perspectives": [],
-  "mined_at": "2026-10-03T16:58:50+00:00",
+  "perspectives": [
+    {
+      "perspective": "Angela Dietz",
+      "description": "She explained that careful planning reduced fuel use, leaving more for observations of Jupiter's icy moons."
+    },
+    {
+      "perspective": "Claire Vallat",
+      "description": "She explained that the team prioritized instrument activities that helped prepare Juice for work at Jupiter."
+    }
+  ],
+  "mined_at": "2026-10-03T19:42:26+00:00",
   "source_published_at": "Sat, 03 Oct 2026 09:34:11 EDT",
-  "source_name": "ScienceDaily Most Popular",
+  "source_name": "ScienceDaily All",
   "source_url": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm",
   "category": "Science",
   "source_word_count": 642,

@@ -1,109 +1,105 @@
 {
-  "title": "A giant recycled table brings thousands together",
-  "summary": "How long can a dinner table be? In Bucharest, Romania, one stretched for 3.1 miles, or 4.99 kilometers!\n\nAbout 20,000 people gathered for a community meal at the Uniting Table on September 12, 2026. It earned a Guinness World Record for the longest table made from recycled materials. Recycled materials have been used before and are put to use again.\n\nThe nonprofit group Bloom The World organized the event. A nonprofit works toward a cause instead of sharing profits with owners. This meal raised more than $110,000 for Romania's first psychiatric hospital for children. Such a hospital provides specialist care for mental health and related needs.\n\nThe new hospital is planned to open in 2027. Children needing mental health care in Bucharest currently use an outdated building with crowded wards and little privacy.\n\nBloom also set this record in 2025, with a shorter table in Alba Iulia, Romania.\n\nThe latest table's journey is not finished. Bloom plans to recycle its materials again, turning them into furniture for children.",
-  "why_it_matters": "The meal brought people together and raised money for children's care. The table's materials are also planned to become children's furniture.",
+  "title": "Giant Recycled Table Sets World Record",
+  "summary": "On September 12, 2026, about 20,000 people gathered in Bucharest, Romania. They shared a meal at a very long table called the \"Uniting Table.\" The table stretched 3.1 miles, or 4.99 kilometers. It set a new Guinness World Record for the longest table made from recycled materials.\n\nBut the world record was only part of the goal. A nonprofit group called Bloom The World organized the event. It also raised more than $110,000 for Romania's first psychiatric hospital for children. This is a hospital that provides mental health care.\n\nChildren in Bucharest who need this care are currently treated in an old facility. It has large, crowded wards with little privacy. The new hospital is planned to open in 2027. It will care for children with conditions such as depression, autism, and ADHD.\n\nThis was the second time Bloom achieved this record. In 2025, the group brought together 10,000 people around a 1.7-mile table made from recycled materials. That event was in Alba Iulia, Romania. It focused on bringing people together and raising environmental awareness.\n\nBloom plans to recycle the materials from the latest table again. This time, they will be used to make children's furniture.",
+  "why_it_matters": "The meal brought people together, raised money for children's mental health care, and used materials that Bloom plans to recycle again.",
   "image_url": "/article_images/fun-s7a8f655afcee91f0.webp",
   "keywords": [
     {
-      "term": "community",
-      "explanation": "A group of people connected by a place or shared interests."
-    },
-    {
       "term": "recycled",
-      "explanation": "Processed after use so the materials can be used again."
+      "explanation": "Processed so materials can be used again."
     },
     {
       "term": "nonprofit",
-      "explanation": "An organization that works for a cause instead of sharing profits with owners."
+      "explanation": "An organization that works for a purpose rather than to make money for owners."
     },
     {
       "term": "psychiatric",
-      "explanation": "Related to medical care for mental health."
+      "explanation": "Related to care for mental health conditions."
+    },
+    {
+      "term": "wards",
+      "explanation": "Areas in a hospital where patients receive care."
     },
     {
       "term": "privacy",
-      "explanation": "Having personal space and keeping personal matters to yourself."
+      "explanation": "Having personal space away from other people's view."
     },
     {
-      "term": "furniture",
-      "explanation": "Objects such as tables, chairs and beds."
+      "term": "awareness",
+      "explanation": "Knowing about and understanding something."
     }
   ],
   "questions": [
     {
-      "question": "Where did people gather at the Uniting Table in 2026?",
+      "question": "Where did people gather for the 2026 meal?",
       "options": [
-        "Rome, Italy",
-        "Alba Iulia, Romania",
+        "At a furniture shop",
         "Bucharest, Romania",
-        "Paris, France"
+        "Alba Iulia, Romania",
+        "At the new hospital"
       ],
       "correct_answer": "Bucharest, Romania"
     },
     {
-      "question": "How long was the table at the 2026 meal?",
+      "question": "What record did the Uniting Table set?",
       "options": [
-        "About 2.1 miles",
-        "About 4.1 miles",
-        "About 1.1 miles",
-        "About 3.1 miles"
+        "The largest collection of children's furniture",
+        "The most meals served in a hospital",
+        "The longest table made from recycled materials",
+        "The longest table made from new materials"
       ],
-      "correct_answer": "About 3.1 miles"
+      "correct_answer": "The longest table made from recycled materials"
     },
     {
-      "question": "What did the meal raise money for?",
+      "question": "Which group organized the event?",
       "options": [
-        "A new children's library",
-        "A new children's theater",
-        "A new children's hospital",
-        "A new children's museum"
+        "The new hospital",
+        "Guinness World Records",
+        "A furniture company",
+        "Bloom The World"
       ],
-      "correct_answer": "A new children's hospital"
+      "correct_answer": "Bloom The World"
+    },
+    {
+      "question": "What was the money raised for?",
+      "options": [
+        "A factory making recycled tables",
+        "A children's mental health hospital",
+        "A park in Alba Iulia",
+        "A new community dining hall"
+      ],
+      "correct_answer": "A children's mental health hospital"
     },
     {
       "question": "When is the new hospital planned to open?",
       "options": [
-        "In 2027",
-        "In 2025",
         "In 2026",
-        "In 2028"
+        "In 2025",
+        "In 2024",
+        "In 2027"
       ],
       "correct_answer": "In 2027"
     },
     {
-      "question": "According to the article, what does a nonprofit work toward?",
+      "question": "What does Bloom plan to make from the latest table's materials?",
       "options": [
-        "Sharing profits with owners",
-        "Selling shares to owners",
-        "Supporting a cause",
-        "Paying profits to investors"
+        "Playground paths",
+        "Children's furniture",
+        "Community signs",
+        "Hospital uniforms"
       ],
-      "correct_answer": "Supporting a cause"
-    },
-    {
-      "question": "What does Bloom plan to make from the table's materials?",
-      "options": [
-        "Shelters for animals",
-        "Equipment for cooks",
-        "Benches for parks",
-        "Furniture for children"
-      ],
-      "correct_answer": "Furniture for children"
+      "correct_answer": "Children's furniture"
     }
   ],
-  "background_read": [
-    "A nonprofit works toward a cause instead of sharing profits with owners.",
-    "A psychiatric hospital provides specialist care for mental health and related needs."
-  ],
+  "background_read": [],
   "Article_Structure": [
-    "Opens with the table's unusual length.",
-    "Describes the gathering and its world record.",
-    "Explains the organizer, fundraising and planned hospital.",
-    "Mentions Bloom's earlier record.",
-    "Ends with the plan to turn the materials into children's furniture."
+    "Introduces the community meal and the table's world record.",
+    "Explains the fundraiser and the planned children's hospital.",
+    "Describes the group's earlier record in 2025.",
+    "Ends with the plan to recycle the table into children's furniture."
   ],
   "perspectives": [],
-  "mined_at": "2026-10-03T16:58:50+00:00",
+  "mined_at": "2026-10-03T19:42:26+00:00",
   "source_published_at": "",
   "source_name": "DOGOnews",
   "source_url": "https://www.dogonews.com/2026/9/30/giant-recycled-table-sets-guinness-world-record",

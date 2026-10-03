@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-10-03-science-1",
-      "source": "ScienceDaily Most Popular",
+      "source": "ScienceDaily All",
       "time_ago": "Sat, 03 Oct 2026 09:34:11 EDT",
-      "mined_at": "2026-10-03T16:58:50+00:00",
+      "mined_at": "2026-10-03T19:42:26+00:00",
       "source_published_at": "Sat, 03 Oct 2026 09:34:11 EDT",
-      "image_url": "/article_images/science-sc62c0a234d4cdd9d.webp",
+      "image_url": "/article_images/science-s27968997ec0f5b9f.webp",
       "category": "Science",
-      "title": "Earth’s Gravity Redirects Juice Toward Jupiter",
-      "summary": "Juice’s September 28 Earth flyby increased its speed by 3.5 kilometers per second while saving fuel. Mission teams also used the encounter to calibrate instruments for future observations at Jupiter."
+      "title": "ESA's Juice Gains Speed During Earth Flyby Toward Jupiter",
+      "summary": "Juice passed 8,640 kilometers above Earth on September 28. The gravity assist saved fuel, increased its speed and provided a chance to test instruments for Jupiter."
     },
     {
       "id": "2026-10-03-science-2",
-      "source": "ScienceDaily All",
-      "time_ago": "Fri, 02 Oct 2026 00:58:10 EDT",
-      "mined_at": "2026-10-03T16:58:50+00:00",
-      "source_published_at": "Fri, 02 Oct 2026 00:58:10 EDT",
-      "image_url": "/article_images/science-s14333c1bb8ba23cc.webp",
+      "source": "Popular Science",
+      "time_ago": "Sat, 03 Oct 2026 08:01:00 -0400",
+      "mined_at": "2026-10-03T19:42:26+00:00",
+      "source_published_at": "Sat, 03 Oct 2026 08:01:00 -0400",
+      "image_url": "/article_images/science-sf6f0e64e5b28e0e7.webp",
       "category": "Science",
-      "title": "California Fault Model Explores a Changing ‘Earthquake Gate’",
-      "summary": "A 1,000-year simulation suggests unusually high stress in parts of two Southern California fault systems. It also explores how conditions at Cajon Pass can influence whether a rupture crosses between them."
+      "title": "Looped Propeller Design Aims to Reduce Noise Near Whales",
+      "summary": "Sharrow Marine reports lower underwater noise from its looped propellers and is working with Ocean Alliance to test the design near whales."
     },
     {
       "id": "2026-10-03-science-3",
       "source": "Science News Explores",
-      "time_ago": "Thu, 01 Oct 2026 10:30:00 +0000",
-      "mined_at": "2026-10-03T16:58:50+00:00",
-      "source_published_at": "Thu, 01 Oct 2026 10:30:00 +0000",
-      "image_url": "/article_images/science-scb74a7aa9ae74b51.webp",
+      "time_ago": "Fri, 02 Oct 2026 10:30:00 +0000",
+      "mined_at": "2026-10-03T19:42:26+00:00",
+      "source_published_at": "Fri, 02 Oct 2026 10:30:00 +0000",
+      "image_url": "/article_images/science-sbb0740274f1b2e5c.webp",
       "category": "Science",
-      "title": "Manatees and Sand Tiger Sharks Use Gas to Stay Afloat",
-      "summary": "Gas is more than a digestive byproduct for some aquatic animals. Manatees can adjust gas in their guts, and sand tiger sharks swallow air that helps them hover underwater."
+      "title": "Scientists Study How a Queen Mole-Rat's Scent Shapes Colony Life",
+      "summary": "Researchers tested a queen naked mole-rat's scent and found effects on colony behavior, female hormones and reproduction."
     }
   ]
 }

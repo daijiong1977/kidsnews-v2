@@ -1,127 +1,118 @@
 {
-  "title": "Manatees and Sand Tiger Sharks Use Gas to Stay Afloat",
-  "summary": "Flatulence, the release of gas from the body’s lower opening, might seem like an unlikely survival tool. Yet some aquatic animals use the gas inside their bodies to help control their position in the water.\n\nFlorida manatees provide one example. According to data scientist and animal-flatulence author Nick Caruso, they can store gas in their guts. The gas may come from swallowed air or from digestion. Because gas is less dense than water, it increases buoyancy: the tendency to float rather than sink.\n\nManatees mainly eat seagrass in Florida’s shallow waters. These plants are difficult to digest, so the animals rely on a large hindgut, the rear part of the digestive tract. Microbes living there help break down the food, producing gas in the process.\n\nThe animals also have strong abdominal muscles and a powerful diaphragm, the muscle involved in breathing. These muscles can compress gas in the intestines and force some out. Releasing gas can help a manatee dive deeper. What people might dismiss as an awkward bodily function can therefore play a practical role underwater.\n\nSand tiger sharks use air for buoyancy too, but their method differs. Many bony fish have a swim bladder, an organ containing gas that helps them float. Sharks and rays lack both bones and swim bladders. Sharks’ oily livers help support them because oil is lighter than water, although many sharks still keep swimming to avoid sinking.\n\nMarine conservation biologist David Shiffman explains that sand tiger sharks can sometimes hover instead. They gulp air at the surface and use it to help them stay in the water column. Shiffman says these sharks have been observed expelling air through their cloaca.\n\nA cloaca is an opening used for waste and reproduction. Birds, reptiles, amphibians, sharks and some fish have one. Most mammals, by contrast, have separate routes for urine and feces. These anatomical differences mean that gas does not leave every animal in exactly the same way.\n\nSome turtles have another unusual use for a cloaca that is separate from flatulence. Zoologist Dani Rabaiotti explains that they pump water into it, allowing oxygen from the water to enter their blood. Australia’s white-throated snapping turtle obtains 48 percent of its oxygen this way when in water.\n\nThese examples show why studying animal bodies can turn a funny question into useful biology. Gas storage, gas release and oxygen uptake are different processes, but each can help explain how particular animals function underwater.",
-  "why_it_matters": "The article connects buoyancy, digestion and oxygen uptake to concrete animal examples, showing how different body processes help animals function underwater.",
-  "image_url": "/article_images/science-scb74a7aa9ae74b51.webp",
+  "title": "Scientists Study How a Queen Mole-Rat's Scent Shapes Colony Life",
+  "summary": "Naked mole-rats share work within their colonies. Some members search for food, while others care for the young. The queen has babies. A study found that a chemical scent produced by queens helps keep other colony members from fighting or reproducing.\n\nGary Lewin, a neuroscientist at the Max Delbrück Center in Berlin, Germany, studies how naked mole-rats use their senses. He previously discovered that they use scent to identify mole-rats from other colonies. That raised another question: do odors also matter within a colony?\n\nLewin and his team identified isopropyl myristate, a chemical produced only by queens among the mole-rats they studied. It triggered activity in the animals' olfactory cortex, the brain region that processes smells. This gave the researchers a clue that the animals could detect the chemical.\n\nTo investigate its effects, the team removed a queen from her colony. They then applied isopropyl myristate to the colony every day for three months. Lewin reported that there was no fighting or mating throughout that period. Mating is part of animal reproduction.\n\nWhen the researchers stopped adding the odor, the mole-rats began fighting. A few weeks later, mating occurred and a new queen emerged. The experiment showed that the chemical could affect colony behavior even while the queen was absent. The team shared its findings in the journal Nature.\n\nA separate experiment examined reproduction more closely. The researchers separated male and female pairs from the colony. They exposed some pairs to the queen's scent and left others without it. After four weeks, none of the females exposed to the scent had mated. In the group without the scent, five of six females were pregnant.\n\nBlood tests revealed changes in female mole-rats' hormones, chemical signals that influence body functions. Isopropyl myristate lowered progesterone levels and raised prolactin levels. The researchers linked these changes to the prevention of pregnancy.\n\nThe team also found that queens produced the chemical only when pregnant or preparing to become pregnant. Together, the experiments help explain how a scent connects a queen's reproductive condition with the behavior and reproduction of other colony members.",
+  "why_it_matters": "The study helps explain how a chemical signal can connect a queen's reproductive condition with behavior and reproduction elsewhere in her colony.",
+  "image_url": "/article_images/science-sbb0740274f1b2e5c.webp",
   "keywords": [
     {
-      "term": "Flatulence",
-      "explanation": "The release of gas through the body’s lower opening."
+      "term": "neuroscientist",
+      "explanation": "A scientist who studies the brain and nervous system."
     },
     {
-      "term": "buoyancy",
-      "explanation": "The tendency to float rather than sink."
+      "term": "olfactory",
+      "explanation": "Related to the sense of smell."
     },
     {
-      "term": "hindgut",
-      "explanation": "The rear part of the digestive tract."
+      "term": "reproduction",
+      "explanation": "The process of having young."
     },
     {
-      "term": "Microbes",
-      "explanation": "Tiny living things that help manatees break down food."
+      "term": "hormones",
+      "explanation": "Chemical signals that influence body functions."
     },
     {
-      "term": "diaphragm",
-      "explanation": "A muscle involved in breathing."
+      "term": "progesterone",
+      "explanation": "One of the hormones measured in the female mole-rats."
     },
     {
-      "term": "cloaca",
-      "explanation": "An opening used for waste and reproduction in some animals."
+      "term": "prolactin",
+      "explanation": "Another hormone measured in the female mole-rats."
     }
   ],
   "questions": [
     {
-      "question": "According to Nick Caruso, where can gas in a manatee’s gut come from?",
+      "question": "What earlier finding led Lewin to study odors within a colony?",
       "options": [
-        "Blood or surrounding sand",
-        "Seawater or liver oil",
-        "Skin or breathing muscles",
-        "Swallowed air or digestion"
+        "Mole-rats use scent to identify outsiders.",
+        "Mole-rats use touch to choose a queen.",
+        "Mole-rats use sound to identify food.",
+        "Mole-rats use light to find their young."
       ],
-      "correct_answer": "Swallowed air or digestion"
+      "correct_answer": "Mole-rats use scent to identify outsiders."
     },
     {
-      "question": "What happens as microbes break down food in a manatee’s hindgut?",
+      "question": "What does the olfactory cortex do?",
       "options": [
-        "They store liver oil.",
-        "They form a swim bladder.",
-        "They remove oxygen.",
-        "They produce gas."
+        "It processes smells.",
+        "It moves muscles.",
+        "It processes sounds.",
+        "It digests food."
       ],
-      "correct_answer": "They produce gas."
+      "correct_answer": "It processes smells."
     },
     {
-      "question": "How can a manatee’s strong muscles help it dive deeper?",
+      "question": "What did researchers do after removing the queen?",
       "options": [
-        "They squeeze some gas out.",
-        "They pump water into its blood.",
-        "They move oil into its gut.",
-        "They pull air into its lungs."
+        "They returned the queen every night.",
+        "They tested a new odor every week.",
+        "They added the chemical every day.",
+        "They moved the colony every month."
       ],
-      "correct_answer": "They squeeze some gas out."
+      "correct_answer": "They added the chemical every day."
     },
     {
-      "question": "Which structure helps many bony fish float but is absent in sharks?",
+      "question": "What did Lewin report during the three-month chemical treatment?",
       "options": [
-        "An oily liver",
-        "A swim bladder",
-        "An abdominal muscle",
-        "A digestive tract"
+        "Frequent fighting but no mating.",
+        "No fighting but frequent mating.",
+        "Frequent fighting and frequent mating.",
+        "No fighting and no mating."
       ],
-      "correct_answer": "A swim bladder"
+      "correct_answer": "No fighting and no mating."
     },
     {
-      "question": "What does Shiffman say sand tiger sharks have been observed doing?",
+      "question": "What was observed after four weeks in the pairs exposed to the scent?",
       "options": [
-        "Expelling air through their cloacas",
-        "Making gas by digesting seagrass",
-        "Taking oxygen through their cloacas",
-        "Moving air into their swim bladders"
+        "Every female had become a queen.",
+        "All pairs had rejoined the colony.",
+        "None of the females had mated.",
+        "Five of six females were pregnant."
       ],
-      "correct_answer": "Expelling air through their cloacas"
+      "correct_answer": "None of the females had mated."
     },
     {
-      "question": "When in water, what share of its oxygen does Australia’s white-throated snapping turtle obtain through its cloaca?",
+      "question": "How did the chemical affect the two hormones measured?",
       "options": [
-        "About one quarter",
-        "About three quarters",
-        "All of its oxygen",
-        "Exactly 48 percent"
+        "Both progesterone and prolactin fell.",
+        "Progesterone rose and prolactin fell.",
+        "Both progesterone and prolactin rose.",
+        "Progesterone fell and prolactin rose."
       ],
-      "correct_answer": "Exactly 48 percent"
+      "correct_answer": "Progesterone fell and prolactin rose."
     }
   ],
   "background_read": [
-    "Gas is less dense than water, which helps explain its role in buoyancy.",
-    "Many bony fish have swim bladders; sharks and rays do not.",
-    "Oxygen uptake through a turtle’s cloaca differs from releasing gas through that opening."
+    "The olfactory cortex is a brain region that processes smells.",
+    "Hormones are chemical signals that influence body functions, including reproduction."
   ],
   "Article_Structure": [
-    "Introduces flatulence and the role of gas in controlling position underwater.",
-    "Explains manatee gas storage, digestion and muscle-controlled gas release.",
-    "Compares bony fish with sharks and explains how sand tiger sharks use swallowed air.",
-    "Defines a cloaca and describes oxygen uptake in some turtles.",
-    "Connects the examples to the study of how animal bodies function."
+    "Introduces colony roles and the study's main finding.",
+    "Explains Lewin's earlier research and the chemical's effect on the brain.",
+    "Describes a colony experiment with the queen absent.",
+    "Compares pairs exposed to the scent with pairs without it.",
+    "Connects hormone changes and the queen's reproductive condition to the findings."
   ],
   "perspectives": [
     {
-      "perspective": "Nick Caruso",
-      "description": "He explains that Florida manatees store gas from swallowed air or digestion and that gas increases their buoyancy."
-    },
-    {
-      "perspective": "David Shiffman",
-      "description": "He explains that sand tiger sharks gulp air to hover and have been observed expelling air through their cloacas."
-    },
-    {
-      "perspective": "Dani Rabaiotti",
-      "description": "She explains that some turtles pump water into their cloacas, allowing oxygen from the water to enter their blood."
+      "perspective": "Gary Lewin",
+      "description": "He reported that the colony showed no fighting or mating during the three months when researchers added the queen's scent."
     }
   ],
-  "mined_at": "2026-10-03T16:58:50+00:00",
-  "source_published_at": "Thu, 01 Oct 2026 10:30:00 +0000",
+  "mined_at": "2026-10-03T19:42:26+00:00",
+  "source_published_at": "Fri, 02 Oct 2026 10:30:00 +0000",
   "source_name": "Science News Explores",
-  "source_url": "https://www.snexplores.org/article/animal-farting-fish-manatee-gas",
+  "source_url": "https://www.snexplores.org/article/naked-mole-rat-queen-smell",
   "category": "Science",
-  "source_word_count": 768,
+  "source_word_count": 699,
   "detail_status": "full"
 }

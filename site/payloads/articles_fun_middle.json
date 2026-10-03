@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-10-03-fun-1",
-      "source": "BBC Tennis",
-      "time_ago": "Fri, 02 Oct 2026 16:23:39 GMT",
-      "mined_at": "2026-10-03T16:58:50+00:00",
-      "source_published_at": "Fri, 02 Oct 2026 16:23:39 GMT",
-      "image_url": "/article_images/fun-s89bafb11c629117f.webp",
-      "category": "Fun",
-      "title": "Djokovic recovers from a tough start to extend Beijing winning run",
-      "summary": "Novak Djokovic beat Bu Yunchaokete in nearly three hours to reach the China Open's third round. Aryna Sabalenka also advanced with a 6-1, 6-3 opening victory."
-    },
-    {
-      "id": "2026-10-03-fun-2",
       "source": "DOGOnews",
       "time_ago": "",
-      "mined_at": "2026-10-03T16:58:50+00:00",
+      "mined_at": "2026-10-03T19:42:26+00:00",
       "source_published_at": "",
       "image_url": "/article_images/fun-s53962724ddb28dca.webp",
       "category": "Fun",
-      "title": "Pikachu's space trip connects Pokémon with a science exhibition",
-      "summary": "ESA reported that a Pikachu plush orbited Earth about 1,040 times during its space station stay. A travelling exhibition combines Pokémon characters with real space science."
+      "title": "Pikachu Plush Completes 67-Day Space Station Visit",
+      "summary": "A Pikachu plush spent 67 days on the ISS and orbited Earth about 1,040 times. ESA's World Space Week celebration includes a traveling exhibit and Pokémon GO activities at participating museums in Europe."
+    },
+    {
+      "id": "2026-10-03-fun-2",
+      "source": "BBC Tennis",
+      "time_ago": "Fri, 02 Oct 2026 16:23:39 GMT",
+      "mined_at": "2026-10-03T19:42:26+00:00",
+      "source_published_at": "Fri, 02 Oct 2026 16:23:39 GMT",
+      "image_url": "/article_images/fun-s89bafb11c629117f.webp",
+      "category": "Fun",
+      "title": "Djokovic Rallies and Sabalenka Wins at China Open",
+      "summary": "Novak Djokovic recovered from a set down to beat Bu Yunchaokete in Beijing. Aryna Sabalenka won her opener and spoke about being easier on herself."
     },
     {
       "id": "2026-10-03-fun-3",
       "source": "DOGOnews",
       "time_ago": "",
-      "mined_at": "2026-10-03T16:58:50+00:00",
+      "mined_at": "2026-10-03T19:42:26+00:00",
       "source_published_at": "",
       "image_url": "/article_images/fun-s7a8f655afcee91f0.webp",
       "category": "Fun",
-      "title": "Romania's record recycled table raises funds for children's hospital",
-      "summary": "A 4.99-kilometer table made from recycled materials set a Guinness World Record in Bucharest. Its community meal raised more than $110,000 for specialist children's care."
+      "title": "Romania's 3.1-Mile Recycled Table Sets World Record",
+      "summary": "A community meal at a 3.1-mile recycled table in Bucharest set a Guinness World Record and raised more than $110,000 for a new children's psychiatric hospital."
     }
   ]
 }

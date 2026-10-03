@@ -1,117 +1,112 @@
 {
-  "title": "How Gas Helps Some Animals Float",
-  "summary": "Passing gas may make people giggle, but for some animals it has a useful job. Gas inside their bodies can help them stay afloat.\n\nFlorida manatees mainly eat seagrass, which is tough to digest. Tiny living things called microbes help break it down in the animals’ large guts. This process produces gas. Manatees can also swallow air.\n\nGas is less dense than water. Having more gas inside makes a manatee more buoyant, meaning it floats more easily. Its strong belly muscles and diaphragm, the muscle used in breathing, can squeeze gas in its intestines. Releasing some of that gas can help it dive deeper.\n\nSand tiger sharks use air in a different way. Many bony fish have a swim bladder, a gas-filled organ that helps them float. Sharks do not have swim bladders. Their oily livers help support them in the water, but many sharks keep swimming to avoid sinking.\n\nMarine conservation biologist David Shiffman explains that a sand tiger shark can gulp air at the ocean’s surface and use it to hover in the water. He says these sharks have been observed releasing air through an opening called a cloaca, which also handles waste and reproduction.\n\nSome turtles use their cloacas for another surprising purpose. They pump water into the opening, and oxygen from that water enters their blood. This is different from releasing gas.\n\nAn everyday bodily process can reveal some clever ways animals live underwater.",
-  "why_it_matters": "These examples help explain how animal bodies work underwater and how gas can help animals float.",
-  "image_url": "/article_images/science-scb74a7aa9ae74b51.webp",
+  "title": "A Queen Mole-Rat's Scent Helps Keep Her Colony Calm",
+  "summary": "Naked mole-rats live together in groups called colonies. Some members search for food. Others care for the young. The queen has babies. A study found that a special scent from the queen helps keep other members from fighting or reproducing, which means having young.\n\nGary Lewin studies how naked mole-rats use their senses. He is a scientist at the Max Delbrück Center in Berlin, Germany. He had found that these animals use scent to recognize mole-rats from other colonies. His team wanted to learn whether smells also matter within a colony.\n\nThe researchers found a chemical called isopropyl myristate that only the queens produced among the mole-rats they studied. It activated the part of the animals' brains that handles smells.\n\nTo test the chemical, the team removed a queen from her colony. They then added the chemical every day for three months. During that time, the animals did not fight or mate. Mating is part of animal reproduction. When the team stopped adding the scent, fighting began. A few weeks later, the animals began mating, and a new queen emerged.\n\nIn another experiment, the researchers separated male and female pairs from the colony. Some pairs received the queen's scent; others did not. After four weeks, none of the females exposed to the scent had mated. Five of the six females without it were pregnant.\n\nThe team also found that the chemical changed hormones in female mole-rats. Hormones are chemical signals in the body. These findings help explain how a queen's scent can affect life in a colony.",
+  "why_it_matters": "The experiments help explain how a queen's scent affects both behavior and reproduction in a naked mole-rat colony.",
+  "image_url": "/article_images/science-sbb0740274f1b2e5c.webp",
   "keywords": [
     {
-      "term": "microbes",
-      "explanation": "Tiny living things that can help break down food."
+      "term": "colonies",
+      "explanation": "Groups of animals that live together."
     },
     {
-      "term": "buoyant",
-      "explanation": "Able to float easily."
+      "term": "scent",
+      "explanation": "A smell."
     },
     {
-      "term": "diaphragm",
-      "explanation": "A muscle used in breathing."
+      "term": "reproducing",
+      "explanation": "Having young."
     },
     {
-      "term": "swim bladder",
-      "explanation": "A gas-filled organ that helps many bony fish float."
+      "term": "chemical",
+      "explanation": "A substance with a particular makeup."
     },
     {
-      "term": "hover",
-      "explanation": "Stay in one place in the water."
+      "term": "pregnant",
+      "explanation": "Having developing young inside the body."
     },
     {
-      "term": "cloaca",
-      "explanation": "An opening in some animals used for waste and reproduction."
+      "term": "hormones",
+      "explanation": "Chemical signals in the body."
     }
   ],
   "questions": [
     {
-      "question": "What do Florida manatees mainly eat?",
+      "question": "What work do some naked mole-rats do in their colony?",
       "options": [
-        "Crabs",
-        "Seagrass",
-        "Sea snails",
-        "Small fish"
+        "Measure their hormones.",
+        "Add the test chemical.",
+        "Study their brains.",
+        "Search for food."
       ],
-      "correct_answer": "Seagrass"
+      "correct_answer": "Search for food."
     },
     {
-      "question": "What helps manatees break down tough seagrass?",
+      "question": "What did Lewin's team want to learn about smells?",
       "options": [
-        "Air above the water",
-        "Water around their bodies",
-        "Oil in their livers",
-        "Microbes in their guts"
+        "Whether they change the food.",
+        "Whether they reach other cities.",
+        "Whether they matter within a colony.",
+        "Whether they come from the young."
       ],
-      "correct_answer": "Microbes in their guts"
+      "correct_answer": "Whether they matter within a colony."
     },
     {
-      "question": "Why does gas help a manatee float?",
+      "question": "Which part of the body did the chemical activate?",
       "options": [
-        "Gas is colder than water.",
-        "Gas is saltier than water.",
-        "Gas is less dense than water.",
-        "Gas is heavier than water."
+        "The brain part that handles sounds.",
+        "The brain part that handles smells.",
+        "The part that digests the food.",
+        "The part that moves the legs."
       ],
-      "correct_answer": "Gas is less dense than water."
+      "correct_answer": "The brain part that handles smells."
     },
     {
-      "question": "What can releasing some gas help a manatee do?",
+      "question": "How long did researchers add the chemical every day?",
       "options": [
-        "Swim toward shore",
-        "Dive deeper",
-        "Warm its body",
-        "Eat tougher plants"
+        "For six months.",
+        "For one week.",
+        "For three months.",
+        "For four weeks."
       ],
-      "correct_answer": "Dive deeper"
+      "correct_answer": "For three months."
     },
     {
-      "question": "How does a sand tiger shark get air that helps it hover?",
+      "question": "What began when researchers stopped adding the scent?",
       "options": [
-        "It gathers air from sand.",
-        "It takes air from seagrass.",
-        "It draws air from its liver.",
-        "It gulps air at the surface."
+        "Testing by a new team.",
+        "Feeding by the researchers.",
+        "Care for a new colony.",
+        "Fighting among the mole-rats."
       ],
-      "correct_answer": "It gulps air at the surface."
+      "correct_answer": "Fighting among the mole-rats."
     },
     {
-      "question": "What enters some turtles’ blood when they pump water into their cloacas?",
+      "question": "What happened to five of the six females without the scent in the pair experiment?",
       "options": [
-        "Oxygen from the water",
-        "Oil from the water",
-        "Food from the water",
-        "Salt from the water"
+        "They received the scent.",
+        "They were pregnant.",
+        "They became new queens.",
+        "They joined another colony."
       ],
-      "correct_answer": "Oxygen from the water"
+      "correct_answer": "They were pregnant."
     }
   ],
   "background_read": [
-    "Buoyancy describes how easily something floats.",
-    "Taking oxygen from water is a different process from releasing gas."
+    "A colony is a group of animals living together. Naked mole-rats in this article share tasks such as finding food and caring for young.",
+    "Reproduction means having young. Hormones are chemical signals in the body."
   ],
   "Article_Structure": [
-    "Introduces gas as something useful for underwater animals.",
-    "Explains how manatees produce gas and use it to float or dive.",
-    "Compares swim bladders with the air used by sand tiger sharks.",
-    "Describes how some turtles take oxygen from water through their cloacas."
+    "Introduces colony teamwork and the queen's scent.",
+    "Explains Lewin's question and the chemical his team found.",
+    "Describes the colony experiment and what happened when the scent stopped.",
+    "Describes the pair experiment and introduces hormone changes."
   ],
-  "perspectives": [
-    {
-      "perspective": "David Shiffman",
-      "description": "He explains that sand tiger sharks gulp air to help them hover and have been observed releasing it through their cloacas."
-    }
-  ],
-  "mined_at": "2026-10-03T16:58:50+00:00",
-  "source_published_at": "Thu, 01 Oct 2026 10:30:00 +0000",
+  "perspectives": [],
+  "mined_at": "2026-10-03T19:42:26+00:00",
+  "source_published_at": "Fri, 02 Oct 2026 10:30:00 +0000",
   "source_name": "Science News Explores",
-  "source_url": "https://www.snexplores.org/article/animal-farting-fish-manatee-gas",
+  "source_url": "https://www.snexplores.org/article/naked-mole-rat-queen-smell",
   "category": "Science",
-  "source_word_count": 768,
+  "source_word_count": 699,
   "detail_status": "full"
 }

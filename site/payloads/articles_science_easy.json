@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-10-03-science-1",
-      "source": "ScienceDaily Most Popular",
+      "source": "ScienceDaily All",
       "time_ago": "Sat, 03 Oct 2026 09:34:11 EDT",
-      "mined_at": "2026-10-03T16:58:50+00:00",
+      "mined_at": "2026-10-03T19:42:26+00:00",
       "source_published_at": "Sat, 03 Oct 2026 09:34:11 EDT",
-      "image_url": "/article_images/science-sc62c0a234d4cdd9d.webp",
+      "image_url": "/article_images/science-s27968997ec0f5b9f.webp",
       "category": "Science",
-      "title": "Juice Gets a Gravity Boost from Earth",
-      "summary": "ESA’s Juice spacecraft passed Earth on September 28, using gravity to change direction and gain speed. The encounter also helped teams test instruments for studying Jupiter’s icy moons."
+      "title": "Juice Spacecraft Uses Earth's Gravity to Head Toward Jupiter",
+      "summary": "Juice used Earth's gravity to change direction and gain speed on its way to Jupiter. The flyby also helped its team test science instruments."
     },
     {
       "id": "2026-10-03-science-2",
-      "source": "ScienceDaily All",
-      "time_ago": "Fri, 02 Oct 2026 00:58:10 EDT",
-      "mined_at": "2026-10-03T16:58:50+00:00",
-      "source_published_at": "Fri, 02 Oct 2026 00:58:10 EDT",
-      "image_url": "/article_images/science-s14333c1bb8ba23cc.webp",
+      "source": "Popular Science",
+      "time_ago": "Sat, 03 Oct 2026 08:01:00 -0400",
+      "mined_at": "2026-10-03T19:42:26+00:00",
+      "source_published_at": "Sat, 03 Oct 2026 08:01:00 -0400",
+      "image_url": "/article_images/science-sf6f0e64e5b28e0e7.webp",
       "category": "Science",
-      "title": "A Model Shows How California’s Earthquake ‘Gate’ Works",
-      "summary": "Scientists modeled 1,000 years of earthquakes on two Southern California fault systems. Their results suggest that stress near a key junction can affect whether a rupture stops or continues."
+      "title": "A Quieter Boat Propeller Could Help Whales Hear Each Other",
+      "summary": "Sharrow Marine and Ocean Alliance are testing looped boat propellers near whales to explore a design that may reduce underwater noise."
     },
     {
       "id": "2026-10-03-science-3",
       "source": "Science News Explores",
-      "time_ago": "Thu, 01 Oct 2026 10:30:00 +0000",
-      "mined_at": "2026-10-03T16:58:50+00:00",
-      "source_published_at": "Thu, 01 Oct 2026 10:30:00 +0000",
-      "image_url": "/article_images/science-scb74a7aa9ae74b51.webp",
+      "time_ago": "Fri, 02 Oct 2026 10:30:00 +0000",
+      "mined_at": "2026-10-03T19:42:26+00:00",
+      "source_published_at": "Fri, 02 Oct 2026 10:30:00 +0000",
+      "image_url": "/article_images/science-sbb0740274f1b2e5c.webp",
       "category": "Science",
-      "title": "How Gas Helps Some Animals Float",
-      "summary": "Gas can do useful jobs underwater. Manatees can store it in their guts to float more easily, while sand tiger sharks gulp air that helps them hover."
+      "title": "A Queen Mole-Rat's Scent Helps Keep Her Colony Calm",
+      "summary": "Experiments found that a queen naked mole-rat's scent helps prevent fighting and affects reproduction in her colony."
     }
   ]
 }

@@ -1,122 +1,128 @@
 {
-  "title": "California Fault Model Explores a Changing ‘Earthquake Gate’",
-  "summary": "Earthquake faults do not always act independently. At Cajon Pass, northeast of Los Angeles, the San Andreas and San Jacinto fault systems come close together. A new study describes this junction as an earthquake gate whose behavior changes as stress builds and shifts.\n\nA fault is a break in Earth’s crust along which rock can move. Sections may become stuck while forces continue pushing them. This allows stress to accumulate until movement releases stored energy in an earthquake. A rupture is the breaking and movement that spreads along a fault during that event.\n\nAn international team led by Dr. Liliane Burkhard of the University of Bern modeled roughly 1,000 years of earthquakes along the two Southern California fault systems. The study was published in the Journal of Geophysical Research: Solid Earth.\n\nIts results suggest that stress in parts of the system has reached, and in some places exceeded, the highest values found in the model’s 1,000-year history. These findings are estimates produced by a simulation.\n\nThe researchers built a physics-based, four-dimensional earthquake cycle model. Here, four dimensions means three dimensions of space plus time. The model tracks how earthquakes change stress on neighboring fault sections, how stress accumulates during quiet periods, and how deeper crustal layers gradually relax after large ruptures.\n\nTo reconstruct past activity, the team incorporated evidence from radiocarbon dating, unusual tree-ring patterns and historical accounts of ruptures that broke the ground surface. Combining those records with physics allowed them to explore changes across centuries.\n\nCajon Pass was a central focus because a rupture reaching the junction can behave in different ways. During the magnitude 7.9 Fort Tejon earthquake in 1857, the rupture stopped there rather than continuing onto the San Jacinto Fault. The Wrightwood earthquake in 1812 behaved differently, passing through the junction and rupturing both systems.\n\nBurkhard explains that Cajon Pass responds to stress conditions, which change over centuries. The gate description therefore does not mean there is a fixed barrier underground. Whether a rupture stops or continues depends on stress conditions around the junction.\n\nThe broader Los Angeles region has not experienced a comparable major earthquake since 1857, according to the source, while stress has continued building along parts of the system. This study helps researchers investigate how connected faults respond to that long-term buildup.",
-  "why_it_matters": "The study helps researchers understand how stress changes across connected Southern California faults and how those conditions may affect a rupture at Cajon Pass.",
-  "image_url": "/article_images/science-s14333c1bb8ba23cc.webp",
+  "title": "Looped Propeller Design Aims to Reduce Noise Near Whales",
+  "summary": "A Detroit-based company called Sharrow Marine is partnering with marine conservation organization Ocean Alliance to test quieter boat propellers on research expeditions near whales. The work is still at an early stage, but it could help explore a way to reduce underwater noise from boats.\n\nNoise pollution is not limited to crowded streets. Large shipping boats, deep-sea mining equipment and offshore oil rigs have changed the ocean's sound environment. Whales rely on calls to coordinate with one another, find food and locate mates. When the water is quiet, they can hear calls from hundreds of miles away. However, commercial shipping produces noise that overlaps with the low-frequency sounds whales use to communicate.\n\nMichelle Fournet, an acoustic ecologist and ocean noise pollution expert at the University of New Hampshire, described this interference to Popular Science. She compared persistent ocean noise to someone repeatedly using a jackhammer outside a window. Research described in the source also linked louder noise around orcas with a lower chance of catching fish they chased.\n\nMuch of the disruptive noise from boat propellers comes from cavitation. When a screw-shaped propeller spins quickly, tiny bubbles form behind it. As these bubbles pop, they release energy and create hissing or crackling sounds. A single propeller can produce and pop millions of bubbles per second.\n\nSharrow's design replaces blades with free-standing tips with looped blades that twist like a ribbon. The company says the design produces fewer tip vortices, or swirling flows at the blade tips, reducing cavitation. It claims independent testing showed underwater noise reductions of up to seven decibels in the frequency range whales use to communicate. Decibels measure sound levels. These are company-reported findings; the source does not provide the full testing methods or results.\n\nGreg Sharrow, the company's founder and CEO, says the amount of noise reduction varies with frequency, application and operating conditions. Measurements above water also cannot establish how much quieter a boat sounds to whales underwater. That distinction matters when assessing possible benefits for marine animals.\n\nThe idea originally grew from Sharrow's work recording orchestras. He wanted to film a violinist using a camera drone inside an orchestra, but its buzzing interfered with the music. Thinking about a propeller without separate blade tips led him to consider boats too. Early prototypes were tested in a fish tank. He says he made more than 640 prototypes before partnering with the University of Michigan, which led to testing on a small boat.\n\nOcean Alliance CEO Iain Kerr supports approaches that benefit the environment, animals and boat users. Greg Sharrow believes quieter vessel noise could help marine animals hear one another with less interference. The research partnership is exploring the design near whales; benefits for their communication have not yet been established in the supplied report.",
+  "why_it_matters": "The design offers a possible way to reduce boat noise that overlaps with whale calls. Underwater testing matters because quieter sound above water alone cannot establish benefits for whales.",
+  "image_url": "/article_images/science-sf6f0e64e5b28e0e7.webp",
   "keywords": [
     {
-      "term": "junction",
-      "explanation": "A place where different parts meet or connect."
+      "term": "expeditions",
+      "explanation": "Trips made for a purpose, such as research."
     },
     {
-      "term": "accumulate",
-      "explanation": "To build up over time."
+      "term": "low-frequency",
+      "explanation": "Describes sounds with slow vibrations and a low pitch."
     },
     {
-      "term": "rupture",
-      "explanation": "Breaking and movement spreading along a fault during an earthquake."
+      "term": "cavitation",
+      "explanation": "The forming and popping of tiny bubbles near a propeller."
     },
     {
-      "term": "simulation",
-      "explanation": "A computer representation used to explore how a system behaves."
+      "term": "vortices",
+      "explanation": "Swirling flows of water or air."
     },
     {
-      "term": "radiocarbon",
-      "explanation": "A radioactive form of carbon used to estimate the age of once-living material."
+      "term": "decibels",
+      "explanation": "Units used to measure sound levels."
     },
     {
-      "term": "estimates",
-      "explanation": "Approximate values worked out using available information."
+      "term": "prototypes",
+      "explanation": "Early versions of a design made for testing."
     }
   ],
   "questions": [
     {
-      "question": "Who led the international research team?",
+      "question": "Which organization is partnering with Sharrow Marine on research trips?",
       "options": [
-        "Dr. Liliane Burkhard of the University of Hawaiʻi",
-        "Dr. Liliane Burkhard of the University of Bern",
-        "Dr. Liliane Burkhard of the U.S. Geological Survey",
-        "Dr. Liliane Burkhard of UC San Diego"
+        "University of New Hampshire",
+        "Ford Motor Company",
+        "University of Michigan",
+        "Ocean Alliance"
       ],
-      "correct_answer": "Dr. Liliane Burkhard of the University of Bern"
+      "correct_answer": "Ocean Alliance"
     },
     {
-      "question": "What does four-dimensional mean in this study’s model?",
+      "question": "Why can commercial shipping noise interfere with whale communication?",
       "options": [
-        "Four separate dimensions of space",
-        "Four separate periods of earthquake history",
-        "Two dimensions of space plus two faults",
-        "Three dimensions of space plus time"
+        "It increases the depth whales swim at.",
+        "It changes the routes whales travel.",
+        "It overlaps with the sounds whales use.",
+        "It removes the food whales search for."
       ],
-      "correct_answer": "Three dimensions of space plus time"
+      "correct_answer": "It overlaps with the sounds whales use."
     },
     {
-      "question": "Which set of evidence helped reconstruct past earthquake activity?",
+      "question": "According to the company, how do looped blades reduce cavitation?",
       "options": [
-        "Radiocarbon dating, tree-ring patterns and historical accounts",
-        "Satellite photographs, traffic records and population surveys",
-        "Ocean temperatures, rainfall records and wind measurements",
-        "Soil temperatures, river levels and weather forecasts"
+        "They produce fewer tip vortices.",
+        "They move boats without water.",
+        "They stop all propeller movement.",
+        "They collect bubbles in a tank."
       ],
-      "correct_answer": "Radiocarbon dating, tree-ring patterns and historical accounts"
+      "correct_answer": "They produce fewer tip vortices."
     },
     {
-      "question": "What do the model’s results suggest about stress in parts of the system?",
+      "question": "What underwater noise reduction does the company report in whales' communication range?",
       "options": [
-        "It disappears completely after each modeled earthquake.",
-        "It remains unchanged throughout the model’s history.",
-        "It matches or exceeds the model’s historical highs.",
-        "It stays below the model’s lowest historical values."
+        "Up to fifteen decibels",
+        "Up to seven decibels",
+        "Up to twenty-four decibels",
+        "Up to twenty decibels"
       ],
-      "correct_answer": "It matches or exceeds the model’s historical highs."
+      "correct_answer": "Up to seven decibels"
     },
     {
-      "question": "How did the two historical ruptures behave at Cajon Pass?",
+      "question": "Why does the article distinguish measurements above water from those underwater?",
       "options": [
-        "Fort Tejon stopped; Wrightwood passed through.",
-        "Fort Tejon passed through; Wrightwood stopped.",
-        "Both Fort Tejon and Wrightwood stopped.",
-        "Both Fort Tejon and Wrightwood passed through."
+        "Above-water results cannot establish what whales hear underwater.",
+        "Above-water results can replace research expeditions near whales.",
+        "Above-water results can explain every change in whale calls.",
+        "Above-water results cannot measure any noise from boat propellers."
       ],
-      "correct_answer": "Fort Tejon stopped; Wrightwood passed through."
+      "correct_answer": "Above-water results cannot establish what whales hear underwater."
     },
     {
-      "question": "According to Burkhard, what affects Cajon Pass’s behavior?",
+      "question": "Where were Greg Sharrow's early propeller prototypes tested?",
       "options": [
-        "A fixed barrier that never changes",
-        "The names given to the fault systems",
-        "Stress conditions that change over centuries",
-        "The number of researchers studying it"
+        "Inside an orchestra hall",
+        "Near a shipping port",
+        "Near an oil rig",
+        "Inside a fish tank"
       ],
-      "correct_answer": "Stress conditions that change over centuries"
+      "correct_answer": "Inside a fish tank"
     }
   ],
   "background_read": [
-    "A rupture is the breaking and movement that spreads along a fault during an earthquake.",
-    "The model follows changes through three dimensions of space and through time.",
-    "The study’s stress findings are estimates from a simulation."
+    "Whales rely on calls to coordinate, find food and locate mates.",
+    "Cavitation bubbles release energy and produce sound when they pop.",
+    "The company says noise reductions depend on frequency, application and operating conditions."
   ],
   "Article_Structure": [
-    "Introduces the connected faults and Cajon Pass.",
-    "Defines faults, stress buildup and ruptures.",
-    "Identifies the research team and publication.",
-    "Presents the model’s stress estimates.",
-    "Explains the model and the historical evidence.",
-    "Compares the Fort Tejon and Wrightwood ruptures.",
-    "Attributes the changing gate explanation to Burkhard.",
-    "Connects the study to long-term stress buildup."
+    "Introduces the partnership to test quieter propellers near whales.",
+    "Explains underwater noise and its interference with whale calls.",
+    "Describes cavitation and the proposed looped-blade solution.",
+    "Attributes test claims to the company and explains measurement limits.",
+    "Traces the design from orchestra filming to boat prototypes.",
+    "Ends with attributed hopes and the limits of the reported evidence."
   ],
   "perspectives": [
     {
-      "perspective": "Dr. Liliane Burkhard",
-      "description": "Burkhard explains that Cajon Pass responds to stress conditions that change over centuries, so the junction can stop a rupture or allow it to continue."
+      "perspective": "Michelle Fournet",
+      "description": "She describes persistent ocean noise as disruptive, comparing it to repeated jackhammer noise outside a window."
+    },
+    {
+      "perspective": "Greg Sharrow",
+      "description": "He believes reducing vessel noise where it overlaps with animal communication could help marine animals hear one another."
+    },
+    {
+      "perspective": "Iain Kerr",
+      "description": "He supports approaches that benefit the environment, animals and boat users."
     }
   ],
-  "mined_at": "2026-10-03T16:58:50+00:00",
-  "source_published_at": "Fri, 02 Oct 2026 00:58:10 EDT",
-  "source_name": "ScienceDaily All",
-  "source_url": "https://www.sciencedaily.com/releases/2026/10/261001095521.htm",
+  "mined_at": "2026-10-03T19:42:26+00:00",
+  "source_published_at": "Sat, 03 Oct 2026 08:01:00 -0400",
+  "source_name": "Popular Science",
+  "source_url": "https://www.popsci.com/environment/boat-propeller-whales-noise-pollution/",
   "category": "Science",
-  "source_word_count": 683,
+  "source_word_count": 1419,
   "detail_status": "full"
 }
