@@ -1,0 +1,123 @@
+{
+  "title": "Trump heads to Ohio to support Husted in close Senate race",
+  "summary": "President Donald Trump was heading to Ohio on Saturday, October 3, 2026, for a campaign rally near Dayton. He wanted to support Republicans before the November 3 elections. Senator Jon Husted faces Democrat Sherrod Brown in a close race.\n\nHusted was chosen to fill JD Vance’s Senate seat when Vance became vice president. Now Husted wants to win the seat in an election. Brown served three terms in the Senate. He wants to return after losing to Republican Bernie Moreno two years ago.\n\nThis race could help decide which party controls the Senate. Democrats see Ohio as important to winning a majority, or more than half the seats. Senator Tim Scott, who leads the Senate Republicans’ campaign committee, said this week that the race was about even.\n\nThe economy is a big issue. Trump says it is doing better than voters think. But polls show Americans are unhappy with how he handles it. People near Dayton worry about living costs. Nearly 1,400 workers recently lost jobs at a truck factory in nearby Springfield.\n\nThe candidates also disagree about data centers. These buildings hold computers for services like artificial intelligence (AI). Some voters worry about electricity prices, farmland and water supplies.\n\nBrown criticized Husted’s work to bring data centers to Ohio, including tax breaks for technology companies. Scott said Husted supports careful development and would oppose a project if the community did not want it. Trump supports data centers. He says they help the United States compete with China in AI.\n\nOhio’s governor race is also close. Republican Vivek Ramaswamy, a business owner and former presidential candidate, faces Democrat Dr. Amy Acton, Ohio’s former health director. Ramaswamy has raised much more money, but the race remains competitive with weeks before voting day.",
+  "why_it_matters": "Ohio’s close Senate race could help decide which party controls the Senate. The campaigns also discuss living costs and how data centers could affect communities.",
+  "image_url": "/article_images/news-s34634abe30355e94.webp",
+  "keywords": [
+    {
+      "term": "campaign rally",
+      "explanation": "An event where a candidate or supporter speaks to people and asks for their support."
+    },
+    {
+      "term": "majority",
+      "explanation": "More than half of a group, such as the seats in the Senate."
+    },
+    {
+      "term": "economy",
+      "explanation": "The way jobs, money, goods and services work together."
+    },
+    {
+      "term": "data centers",
+      "explanation": "Buildings that hold computers used for services such as artificial intelligence."
+    },
+    {
+      "term": "tax breaks",
+      "explanation": "Rules that allow a person or company to pay less tax."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Why was Trump heading to Ohio?",
+      "options": [
+        "To support Sherrod Brown",
+        "To take JD Vance’s Senate seat",
+        "To support Republicans before the November 3 elections",
+        "To become Ohio’s governor"
+      ],
+      "correct_answer": "To support Republicans before the November 3 elections"
+    },
+    {
+      "question": "Who is running against Jon Husted?",
+      "options": [
+        "Sherrod Brown",
+        "JD Vance",
+        "Tim Scott",
+        "Vivek Ramaswamy"
+      ],
+      "correct_answer": "Sherrod Brown"
+    },
+    {
+      "question": "How did Husted first get his current Senate seat?",
+      "options": [
+        "He was chosen to fill the seat after Vance became vice president.",
+        "He won it from Amy Acton.",
+        "He won it from Bernie Moreno two years ago.",
+        "He replaced Tim Scott as campaign committee leader."
+      ],
+      "correct_answer": "He was chosen to fill the seat after Vance became vice president."
+    },
+    {
+      "question": "Why could Ohio’s Senate race matter beyond Ohio?",
+      "options": [
+        "It will decide who runs the Springfield factory.",
+        "It could help decide which party controls the Senate.",
+        "It will choose the next president.",
+        "It will choose China’s AI leaders."
+      ],
+      "correct_answer": "It could help decide which party controls the Senate."
+    },
+    {
+      "question": "What happened recently at a truck factory near Dayton?",
+      "options": [
+        "It hired Sherrod Brown.",
+        "Nearly 1,400 workers lost their jobs.",
+        "It stopped using electricity.",
+        "It became a data center."
+      ],
+      "correct_answer": "Nearly 1,400 workers lost their jobs."
+    },
+    {
+      "question": "What do some voters worry about when discussing data centers?",
+      "options": [
+        "Electricity prices, farmland and water supplies",
+        "The number of terms Brown served",
+        "The date of the November election",
+        "Who becomes vice president"
+      ],
+      "correct_answer": "Electricity prices, farmland and water supplies"
+    }
+  ],
+  "background_read": [],
+  "Article_Structure": [
+    "Opening: Trump’s planned rally and support for Republican candidates.",
+    "Candidate history: How Husted got his seat and why Brown wants to return.",
+    "Stakes: How the race could affect control of the Senate.",
+    "Campaign issues: The economy, job losses and disagreements about data centers.",
+    "Closing: Ohio’s competitive governor race."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Trump",
+      "description": "He says the economy is doing better than voters think and supports data centers as a way to compete with China in AI."
+    },
+    {
+      "perspective": "Brown",
+      "description": "He criticized Husted’s work to bring data centers to Ohio, including tax breaks for technology companies."
+    },
+    {
+      "perspective": "Scott’s defense of Husted",
+      "description": "Scott said Husted supports careful development and would oppose a project if the community did not want it."
+    },
+    {
+      "perspective": "Some voters",
+      "description": "They worry about living costs and the possible effects of data centers on electricity prices, farmland and water supplies."
+    }
+  ],
+  "mined_at": "2026-10-04T11:41:49+00:00",
+  "source_published_at": "Sat, 03 Oct 2026 16:53:07 -0400",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/politics/trump-rallies-in-ohio-to-boost-jon-husted-in-a-tight-senate-race-against-sherrod-brown",
+  "category": "News",
+  "source_word_count": 749,
+  "detail_status": "full"
+}

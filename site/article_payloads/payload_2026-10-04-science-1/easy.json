@@ -1,0 +1,113 @@
+{
+  "title": "Juice Uses Earth’s Gravity on Its Way to Jupiter",
+  "summary": "The European Space Agency’s Jupiter Icy Moons Explorer, called Juice, passed Earth on September 28, 2026. Earth’s gravity helped change its path toward Jupiter. This used very little fuel.\n\nThe move is called a gravity assist. A planet’s gravity can change a spacecraft’s speed and direction. Juice turned by 20 degrees and gained 3.5 kilometres per second in speed.\n\nAt its closest point, Juice was 8,640 kilometres above the Indian Ocean. Its cameras took pictures as it passed.\n\nThe team planned carefully. In the four weeks before the visit, controllers made just one small change to Juice’s path. They had planned six possible chances to make changes.\n\nAngela Dietz, Juice’s spacecraft operations manager, said this planning helped save fuel. The saved fuel leaves more for studying Jupiter’s icy moons.\n\nScientists also checked Juice’s instruments, the tools it uses to take measurements. Checking and adjusting these tools is called calibration. Earth was useful for these tests because scientists know it well.\n\nTeams spent months planning tests with the groups responsible for Juice’s 10 scientific instruments. They had to share the spacecraft’s time, power and other resources.\n\nJuice project scientist Claire Vallat said the journey gives only a few chances to test the tools in conditions scientists understand well. In Earth’s shadow, Juice used only battery power. Teams chose tests that would help prepare the tools for Jupiter.\n\nJuice also spent several days in Earth’s magnetotail. This is the long part of Earth’s magnetic field that reaches away from the Sun.\n\nJuice is scheduled to pass Jupiter’s moons Ganymede, Callisto and Europa 35 times in total. Planning began years ago. Its Europa visits are expected in the early 2030s.\n\nThe Earth visit was a practice run. It helped scientists learn how the tools work in space and prepare to study future measurements. Controllers are continuing to track Juice closely through October 10.",
+  "why_it_matters": "Saving fuel leaves more for studying Jupiter’s icy moons. Testing the tools near Earth also helps scientists prepare for future measurements.",
+  "image_url": "/article_images/science-s27968997ec0f5b9f.webp",
+  "keywords": [
+    {
+      "term": "gravity assist",
+      "explanation": "A move that uses a planet’s gravity to change a spacecraft’s speed and direction."
+    },
+    {
+      "term": "instruments",
+      "explanation": "Tools that the spacecraft uses to take measurements."
+    },
+    {
+      "term": "calibration",
+      "explanation": "Checking and adjusting tools used for measurements."
+    },
+    {
+      "term": "magnetotail",
+      "explanation": "The long part of Earth’s magnetic field that reaches away from the Sun."
+    }
+  ],
+  "questions": [
+    {
+      "question": "When did Juice pass Earth?",
+      "options": [
+        "September 28, 2026",
+        "September 28, 2030",
+        "October 10, 2026",
+        "In the early 2030s"
+      ],
+      "correct_answer": "September 28, 2026"
+    },
+    {
+      "question": "What helped Juice change its path toward Jupiter?",
+      "options": [
+        "Earth’s gravity",
+        "Its scientific instruments",
+        "The Indian Ocean",
+        "Its cameras"
+      ],
+      "correct_answer": "Earth’s gravity"
+    },
+    {
+      "question": "How many small changes did controllers make to Juice’s path in the four weeks before the visit?",
+      "options": [
+        "One",
+        "Thirty-five",
+        "Six",
+        "Ten"
+      ],
+      "correct_answer": "One"
+    },
+    {
+      "question": "Why was Earth useful for testing Juice’s tools?",
+      "options": [
+        "It supplied extra fuel.",
+        "It gave Juice sunlight all the time.",
+        "It had no magnetic field.",
+        "Scientists know Earth well."
+      ],
+      "correct_answer": "Scientists know Earth well."
+    },
+    {
+      "question": "What powered Juice while it was in Earth’s shadow?",
+      "options": [
+        "Battery power alone",
+        "Earth’s magnetic field",
+        "Fuel from the icy moons",
+        "Its cameras"
+      ],
+      "correct_answer": "Battery power alone"
+    },
+    {
+      "question": "Which three moons is Juice scheduled to pass?",
+      "options": [
+        "Europa, Earth and Callisto",
+        "Ganymede, Callisto and Europa",
+        "Ganymede, Jupiter and Earth",
+        "Earth, Jupiter and the Sun"
+      ],
+      "correct_answer": "Ganymede, Callisto and Europa"
+    }
+  ],
+  "background_read": [
+    "A gravity assist uses a planet’s gravity to change a spacecraft’s speed and direction.",
+    "Calibration means checking and adjusting instruments used to take measurements."
+  ],
+  "Article_Structure": [
+    "Opening: Juice passes Earth and uses its gravity to change its path.",
+    "Flight details: The article gives changes in speed and direction, height above Earth and planning details.",
+    "Science tests: Teams check the instruments and manage time and power.",
+    "Future plans: The Earth visit helps prepare Juice for its planned moon visits."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Angela Dietz",
+      "description": "She said careful planning helped Juice save fuel for studying Jupiter’s icy moons."
+    },
+    {
+      "perspective": "Claire Vallat",
+      "description": "She said the journey offers only a few chances to test the tools in conditions scientists understand well."
+    }
+  ],
+  "mined_at": "2026-10-04T11:41:49+00:00",
+  "source_published_at": "Sat, 03 Oct 2026 09:34:11 EDT",
+  "source_name": "ScienceDaily All",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm",
+  "category": "Science",
+  "source_word_count": 642,
+  "detail_status": "full"
+}

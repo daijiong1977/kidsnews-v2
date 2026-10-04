@@ -1,0 +1,119 @@
+{
+  "title": "Juice Uses Earth’s Gravity to Help It Reach Jupiter",
+  "summary": "The European Space Agency’s Jupiter Icy Moons Explorer, known as Juice, passed Earth on September 28, 2026. The spacecraft used Earth’s gravity to change its route toward Jupiter while using very little fuel.\n\nThis kind of move is called a gravity assist. A planet’s gravity can help change a spacecraft’s speed and direction. During this flyby, Juice’s direction changed by 20 degrees, and its speed increased by 3.5 kilometres per second.\n\nAt its closest point, Juice was 8,640 kilometres above the Indian Ocean. Its monitoring cameras took a series of pictures during the encounter.\n\nReaching the right path required careful planning. In the four weeks before the flyby, mission controllers made just one small course correction. They had set aside six possible opportunities to make adjustments.\n\nAngela Dietz, Juice’s spacecraft operations manager, said the team’s planning helped it use only a small amount of the fuel reserved for the flyby. Saving that fuel leaves more available for observations of Jupiter’s icy moons.\n\nThe Earth visit also gave scientists a chance to check Juice’s instruments. Calibration means checking and adjusting instruments so their measurements can be used reliably. Earth provided a familiar planet for these tests.\n\nTeams spent months planning activities with the groups responsible for Juice’s 10 scientific instruments. They had to decide how to use the spacecraft’s available time, power and other resources.\n\nJuice project scientist Claire Vallat explained that the journey offers only a few chances to test the instruments under well-understood conditions. When Juice passed through Earth’s shadow, it relied on battery power alone. The teams gave priority to tests that would help prepare the instruments for Jupiter.\n\nThe spacecraft also spent several days travelling through Earth’s magnetotail. This is the long part of Earth’s magnetic field that stretches away from the Sun.\n\nJuice is scheduled to make 35 flybys of Jupiter’s moons Ganymede, Callisto and Europa. Planning for those encounters began years ago. Its Europa visits are expected in the early 2030s.\n\nThe Earth flyby served as a rehearsal, helping scientists learn how the instruments work in space and prepare to study future measurements. Controllers are continuing their close tracking of Juice through October 10.",
+  "why_it_matters": "The flyby conserved fuel for observations of Jupiter’s icy moons and gave scientists a chance to test instruments under familiar conditions before future encounters.",
+  "image_url": "/article_images/science-s27968997ec0f5b9f.webp",
+  "keywords": [
+    {
+      "term": "gravity assist",
+      "explanation": "Using a planet’s gravity to change a spacecraft’s speed and direction."
+    },
+    {
+      "term": "course correction",
+      "explanation": "An adjustment to a spacecraft’s path."
+    },
+    {
+      "term": "calibration",
+      "explanation": "Checking and adjusting instruments so their measurements can be used reliably."
+    },
+    {
+      "term": "magnetotail",
+      "explanation": "The long part of Earth’s magnetic field that stretches away from the Sun."
+    },
+    {
+      "term": "flyby",
+      "explanation": "An encounter in which a spacecraft passes a planet or moon."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How did Juice’s speed change during the Earth flyby?",
+      "options": [
+        "It increased by 3.5 kilometres per second.",
+        "It decreased by 3.5 kilometres per second.",
+        "It stayed the same.",
+        "It increased by 20 kilometres per second."
+      ],
+      "correct_answer": "It increased by 3.5 kilometres per second."
+    },
+    {
+      "question": "Where was Juice at its closest point to Earth?",
+      "options": [
+        "20 kilometres above Ganymede",
+        "8,640 kilometres above the Indian Ocean",
+        "3.5 kilometres above the Indian Ocean",
+        "8,640 kilometres above Europa"
+      ],
+      "correct_answer": "8,640 kilometres above the Indian Ocean"
+    },
+    {
+      "question": "How many possible adjustment opportunities had controllers set aside before the flyby?",
+      "options": [
+        "Six",
+        "Four",
+        "Ten",
+        "One"
+      ],
+      "correct_answer": "Six"
+    },
+    {
+      "question": "According to Angela Dietz, what was a benefit of saving fuel during the flyby?",
+      "options": [
+        "It left more fuel available for observations of Jupiter’s icy moons.",
+        "It supplied power in Earth’s shadow.",
+        "It removed the need for instrument tests.",
+        "It ended the need to track Juice."
+      ],
+      "correct_answer": "It left more fuel available for observations of Jupiter’s icy moons."
+    },
+    {
+      "question": "Which tests did teams give priority to during the Earth encounter?",
+      "options": [
+        "Tests that would cancel the Europa visits",
+        "Tests that would stop Juice from entering the magnetotail",
+        "Tests that would replace all 10 instruments",
+        "Tests that would help prepare the instruments for Jupiter"
+      ],
+      "correct_answer": "Tests that would help prepare the instruments for Jupiter"
+    },
+    {
+      "question": "When are Juice’s Europa visits expected?",
+      "options": [
+        "On October 10",
+        "In the early 2030s",
+        "On September 28, 2026",
+        "During the four weeks before the Earth flyby"
+      ],
+      "correct_answer": "In the early 2030s"
+    }
+  ],
+  "background_read": [
+    "A planet’s gravity can change a spacecraft’s speed and direction during a gravity assist.",
+    "Earth provided a familiar planet for checking and adjusting Juice’s instruments.",
+    "Earth’s magnetotail is the part of its magnetic field that stretches away from the Sun."
+  ],
+  "Article_Structure": [
+    "Main event: Juice uses Earth’s gravity to change its route toward Jupiter.",
+    "Encounter details: Changes in direction and speed, closest altitude and camera observations are described.",
+    "Mission planning: Course corrections and fuel savings show how controllers prepared for the flyby.",
+    "Instrument preparation: Calibration, resource planning and battery use explain the scientific tests.",
+    "Future mission: Planned moon flybys and continued tracking connect the Earth rehearsal to later observations."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Angela Dietz, Juice’s spacecraft operations manager",
+      "description": "She credited the team’s planning with using only a small amount of the fuel reserved for the flyby."
+    },
+    {
+      "perspective": "Claire Vallat, Juice project scientist",
+      "description": "She explained that the journey provides only a few opportunities to test instruments under well-understood conditions."
+    }
+  ],
+  "mined_at": "2026-10-04T11:41:49+00:00",
+  "source_published_at": "Sat, 03 Oct 2026 09:34:11 EDT",
+  "source_name": "ScienceDaily All",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm",
+  "category": "Science",
+  "source_word_count": 642,
+  "detail_status": "full"
+}

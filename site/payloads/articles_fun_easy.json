@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-03-fun-1",
+      "id": "2026-10-04-fun-1",
+      "source": "Kotaku",
+      "time_ago": "Sat, 03 Oct 2026 20:03:47 +0000",
+      "mined_at": "2026-10-04T11:41:49+00:00",
+      "source_published_at": "Sat, 03 Oct 2026 20:03:47 +0000",
+      "image_url": "/article_images/fun-sf8da80bffa0f7a50.webp",
+      "category": "Fun",
+      "title": "Pictures of Phil Tippett’s Movie Work Appear Online",
+      "summary": "An unnamed fan shared pictures and videos of Phil Tippett’s movie work, including Star Wars creatures and material from other films."
+    },
+    {
+      "id": "2026-10-04-fun-2",
       "source": "BBC Tennis",
-      "time_ago": "Fri, 02 Oct 2026 16:23:39 GMT",
-      "mined_at": "2026-10-03T22:44:47+00:00",
-      "source_published_at": "Fri, 02 Oct 2026 16:23:39 GMT",
-      "image_url": "/article_images/fun-s89bafb11c629117f.webp",
+      "time_ago": "Sun, 04 Oct 2026 07:30:23 GMT",
+      "mined_at": "2026-10-04T11:41:49+00:00",
+      "source_published_at": "Sun, 04 Oct 2026 07:30:23 GMT",
+      "image_url": "/article_images/fun-s8f6149bafa36f2cb.webp",
       "category": "Fun",
-      "title": "Sabalenka wins in China and works on being kinder to herself",
-      "summary": "Aryna Sabalenka won her opening China Open match in 63 minutes. She said high expectations can help her but also use up her energy."
+      "title": "Nikola Bartunkova beats Aryna Sabalenka at China Open",
+      "summary": "Nikola Bartunkova surprised world number two Aryna Sabalenka with a 6-4, 6-3 win at the China Open. She will play Sinja Kraus next."
     },
     {
-      "id": "2026-10-03-fun-2",
-      "source": "CBC World",
-      "time_ago": "Sat, 03 Oct 2026 04:00:00 EDT",
-      "mined_at": "2026-10-03T22:44:47+00:00",
-      "source_published_at": "Sat, 03 Oct 2026 04:00:00 EDT",
-      "image_url": "/article_images/fun-s4c4f8c5294dab3b2.webp",
+      "id": "2026-10-04-fun-3",
+      "source": "Kotaku",
+      "time_ago": "Sat, 03 Oct 2026 21:26:58 +0000",
+      "mined_at": "2026-10-04T11:41:49+00:00",
+      "source_published_at": "Sat, 03 Oct 2026 21:26:58 +0000",
+      "image_url": "/article_images/fun-sf987bac6bd08ba40.webp",
       "category": "Fun",
-      "title": "Canadian teenager and her favourite cow win a top dairy prize",
-      "summary": "Canadian teenager Alyson Doiron celebrated when her favourite cow, Ella, won a top prize on Sunday at the World Dairy Expo in Wisconsin."
-    },
-    {
-      "id": "2026-10-03-fun-3",
-      "source": "Variety",
-      "time_ago": "Sat, 03 Oct 2026 21:00:00 +0000",
-      "mined_at": "2026-10-03T22:44:47+00:00",
-      "source_published_at": "Sat, 03 Oct 2026 21:00:00 +0000",
-      "image_url": "/article_images/fun-sc5a07b079982290f.webp",
-      "category": "Fun",
-      "title": "RuneScape's fantasy world may become an animated series",
-      "summary": "Lyrical Animation is developing a RuneScape series with Jagex and creator Charlie White. The project is in its early stages, with more details expected in 2027."
+      "title": "Viewers Say AI Used an Existing Bot in StarCraft Contest",
+      "summary": "Viewers said GPT-6 Astra used an existing bot in a StarCraft contest. The creator said he was restoring its earlier code so it could keep playing."
     }
   ]
 }

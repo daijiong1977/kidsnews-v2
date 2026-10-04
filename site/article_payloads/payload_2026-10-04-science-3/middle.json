@@ -1,0 +1,120 @@
+{
+  "title": "Scientists use “empty space” to strengthen superconductivity",
+  "summary": "Researchers have shown that tiny quantum fluctuations in a vacuum can strengthen superconductivity. Their study describes a new way to control how certain materials behave. The source report, published on October 3, 2026, says this is the first experimental demonstration of the effect.\n\nA superconductor is a material that can carry electric current without electrical resistance under certain conditions. Its critical temperature is the temperature below which it becomes superconducting. Raising this temperature means the material can stay superconducting in slightly warmer conditions.\n\nThe study, published in Nature, was led by Changgan Zeng and Guanghui Cheng at the University of Science and Technology of China. Researchers from Shanghai Jiao Tong University, the Massachusetts Institute of Technology and other collaborators also took part.\n\nThe experiment explored a surprising idea: empty space is not completely still. In quantum physics, even a vacuum in its lowest energy state has tiny fluctuations. Scientists have already observed effects of these fluctuations in other experiments.\n\nZeng explained that vacuum fluctuations in ordinary free space are generally too weak to produce visible effects in large systems of materials. To strengthen their influence, the team used a specially designed structure called a terahertz dark cavity. It reshapes the electromagnetic environment around a material.\n\nThe researchers placed a superconducting material called NbSe2 inside this cavity. They then compared its superconducting behavior inside and outside the structure.\n\nIn a device with six layers of NbSe2, the critical temperature increased by up to 5.4%. Cheng reported that the critical current and critical magnetic field also increased significantly near the superconducting transition. These describe limits on the current and magnetic field the material can handle while remaining superconducting.\n\nThe team changed several parts of the setup to check other possible explanations. These checks allowed them to rule out effects such as strain, damage to the material and certain influences from nearby metal.\n\nAnother clue came from the cavity’s frequency. The improvement reached a peak at a particular frequency instead of changing smoothly. Zeng said this provided strong experimental evidence that the superconducting state was interacting with the cavity’s electromagnetic modes. The findings open a new path for studying and controlling unusual states of matter.",
+  "why_it_matters": "The findings describe a new way to control material behavior by changing its electromagnetic environment. The experiment strengthened superconductivity and opened a path for studying unusual states of matter.",
+  "image_url": "/article_images/science-s024ddcf0d278f017.webp",
+  "keywords": [
+    {
+      "term": "superconductivity",
+      "explanation": "The ability of a material to carry electric current without electrical resistance under certain conditions."
+    },
+    {
+      "term": "critical temperature",
+      "explanation": "The temperature below which a material becomes superconducting."
+    },
+    {
+      "term": "vacuum fluctuations",
+      "explanation": "Tiny quantum fluctuations present even in a vacuum’s lowest energy state."
+    },
+    {
+      "term": "terahertz dark cavity",
+      "explanation": "A specially designed structure that reshapes the electromagnetic environment around a material."
+    },
+    {
+      "term": "critical magnetic field",
+      "explanation": "A limit on the magnetic field a material can handle while remaining superconducting."
+    },
+    {
+      "term": "electromagnetic modes",
+      "explanation": "Patterns of electromagnetic activity in the cavity that the superconducting state was interacting with, according to Zeng’s interpretation of the evidence."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What does the source report published on October 3, 2026, say about the study?",
+      "options": [
+        "It shows that empty space has no activity",
+        "It proves every material can become superconducting",
+        "It is the first discovery of any vacuum fluctuation",
+        "It is the first experimental demonstration of this effect"
+      ],
+      "correct_answer": "It is the first experimental demonstration of this effect"
+    },
+    {
+      "question": "Where was the study published?",
+      "options": [
+        "In Nature",
+        "In the source report only",
+        "At Shanghai Jiao Tong University",
+        "At the Massachusetts Institute of Technology"
+      ],
+      "correct_answer": "In Nature"
+    },
+    {
+      "question": "According to Zeng, why did the team use a specially designed cavity?",
+      "options": [
+        "To damage the NbSe2 before measuring it",
+        "To remove the material’s electromagnetic surroundings",
+        "To prevent any comparison with conditions outside the cavity",
+        "To strengthen the influence of ordinarily weak vacuum fluctuations"
+      ],
+      "correct_answer": "To strengthen the influence of ordinarily weak vacuum fluctuations"
+    },
+    {
+      "question": "Which result was reported for the device with six layers of NbSe2?",
+      "options": [
+        "Its critical temperature fell by 5.4%",
+        "Its critical temperature increased by up to 5.4%",
+        "Its number of layers increased by 5.4%",
+        "Its electrical resistance increased by up to 5.4%"
+      ],
+      "correct_answer": "Its critical temperature increased by up to 5.4%"
+    },
+    {
+      "question": "Which possible explanations did the experimental checks rule out?",
+      "options": [
+        "All changes in critical current and critical magnetic field",
+        "The existence of vacuum fluctuations",
+        "Every possible influence from the electromagnetic environment",
+        "Strain, material damage and certain influences from nearby metal"
+      ],
+      "correct_answer": "Strain, material damage and certain influences from nearby metal"
+    },
+    {
+      "question": "What did Zeng say the peak at a particular cavity frequency supported?",
+      "options": [
+        "The claim that frequency had no effect",
+        "The claim that the improvement changed smoothly",
+        "The claim that nearby metal damaged the material",
+        "Interaction between the superconducting state and the cavity’s electromagnetic modes"
+      ],
+      "correct_answer": "Interaction between the superconducting state and the cavity’s electromagnetic modes"
+    }
+  ],
+  "background_read": [],
+  "Article_Structure": [
+    "The introduction states the finding and attributes the claim of a first experimental demonstration to the source report.",
+    "Definitions explain superconductivity and critical temperature.",
+    "The article identifies the study’s publication, leaders and collaborators.",
+    "The experiment section explains vacuum fluctuations, the cavity and the inside-versus-outside comparison.",
+    "The results section reports temperature, current and magnetic-field changes.",
+    "The closing describes experimental checks, frequency evidence and the implications for studying unusual states of matter."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Changgan Zeng",
+      "description": "Zeng explained that ordinary free-space vacuum fluctuations are generally too weak to produce visible effects in large material systems. He interpreted the frequency peak as strong evidence of interaction with the cavity’s electromagnetic modes."
+    },
+    {
+      "perspective": "Guanghui Cheng",
+      "description": "Cheng reported significant increases in critical current and critical magnetic field near the superconducting transition."
+    }
+  ],
+  "mined_at": "2026-10-04T11:41:49+00:00",
+  "source_published_at": "Sat, 03 Oct 2026 08:03:23 EDT",
+  "source_name": "ScienceDaily Top Technology",
+  "source_url": "https://www.sciencedaily.com/releases/2026/09/260930225456.htm",
+  "category": "Science",
+  "source_word_count": 583,
+  "detail_status": "full"
+}

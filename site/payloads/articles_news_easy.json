@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-03-news-1",
+      "id": "2026-10-04-news-1",
+      "source": "BBC News",
+      "time_ago": "Sun, 04 Oct 2026 11:03:20 GMT",
+      "mined_at": "2026-10-04T11:41:49+00:00",
+      "source_published_at": "Sun, 04 Oct 2026 11:03:20 GMT",
+      "image_url": "/article_images/news-sb0ee1d6d3c2c078f.webp",
+      "category": "News",
+      "title": "Brazil votes as Lula and Flávio Bolsonaro lead the polls",
+      "summary": "Brazil began voting on 4 October 2026. Lula and Flávio Bolsonaro lead the polls. A second vote looks likely, but the result is uncertain."
+    },
+    {
+      "id": "2026-10-04-news-2",
       "source": "NPR World",
-      "time_ago": "Sat, 03 Oct 2026 07:00:00 -0400",
-      "mined_at": "2026-10-03T22:44:47+00:00",
-      "source_published_at": "Sat, 03 Oct 2026 07:00:00 -0400",
-      "image_url": "/article_images/news-s51efe7166290af82.webp",
+      "time_ago": "Fri, 02 Oct 2026 17:44:07 -0400",
+      "mined_at": "2026-10-04T11:41:49+00:00",
+      "source_published_at": "Fri, 02 Oct 2026 17:44:07 -0400",
+      "image_url": "/article_images/news-sc3f0be693deea0c5.webp",
       "category": "News",
-      "title": "Philadelphia's Academy of Natural Sciences Museum Closes as Supporters Seek Reopening",
-      "summary": "Philadelphia's Academy of Natural Sciences Museum closed on September 30. A foundation offered a year of temporary funding, but reopening would require a plan to pay costs over time."
+      "title": "Protesters Question Trump’s Plan for a Huge Arch",
+      "summary": "Veterans and lawmakers protested Trump’s planned 250-foot arch. They questioned its size, cost and location. A lawsuit continues, and federal approval is still pending."
     },
     {
-      "id": "2026-10-03-news-2",
+      "id": "2026-10-04-news-3",
       "source": "PBS NewsHour",
-      "time_ago": "Sat, 03 Oct 2026 13:43:38 -0400",
-      "mined_at": "2026-10-03T22:44:47+00:00",
-      "source_published_at": "Sat, 03 Oct 2026 13:43:38 -0400",
-      "image_url": "/article_images/news-se41c0976287bb686.webp",
+      "time_ago": "Sat, 03 Oct 2026 16:53:07 -0400",
+      "mined_at": "2026-10-04T11:41:49+00:00",
+      "source_published_at": "Sat, 03 Oct 2026 16:53:07 -0400",
+      "image_url": "/article_images/news-s34634abe30355e94.webp",
       "category": "News",
-      "title": "Trump Urges Calls to Senator Cotton Over Daylight Saving Time",
-      "summary": "Trump urged Americans to contact Senator Tom Cotton about keeping daylight saving time all year. Cotton opposes the plan, citing darker winter mornings for children going to school."
-    },
-    {
-      "id": "2026-10-03-news-3",
-      "source": "PBS NewsHour",
-      "time_ago": "Sat, 03 Oct 2026 12:50:47 -0400",
-      "mined_at": "2026-10-03T22:44:47+00:00",
-      "source_published_at": "Sat, 03 Oct 2026 12:50:47 -0400",
-      "image_url": "/article_images/news-se699621ba3835a59.webp",
-      "category": "News",
-      "title": "Nearly 1,400 Workers Lose Jobs at an Ohio Truck Factory",
-      "summary": "Nearly 1,400 workers were laid off at a truck factory in Springfield, Ohio, on September 30. The Dayton region has also attracted aerospace businesses after years of declining factory employment."
+      "title": "Trump heads to Ohio to support Husted in close Senate race",
+      "summary": "Trump’s October 3 visit aimed to help Jon Husted in Ohio’s close Senate race against Sherrod Brown. Living costs and data centers are big issues."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-03-fun-1",
+      "id": "2026-10-04-fun-1",
+      "source": "Kotaku",
+      "time_ago": "Sat, 03 Oct 2026 20:03:47 +0000",
+      "mined_at": "2026-10-04T11:41:49+00:00",
+      "source_published_at": "Sat, 03 Oct 2026 20:03:47 +0000",
+      "image_url": "/article_images/fun-sf8da80bffa0f7a50.webp",
+      "category": "Fun",
+      "title": "Behind-the-Scenes Star Wars Collection Appears Online",
+      "summary": "An unnamed buyer shared a collection of Phil Tippett’s film-effects archives, including behind-the-scenes Star Wars images and material from other movies."
+    },
+    {
+      "id": "2026-10-04-fun-2",
       "source": "BBC Tennis",
-      "time_ago": "Fri, 02 Oct 2026 16:23:39 GMT",
-      "mined_at": "2026-10-03T22:44:47+00:00",
-      "source_published_at": "Fri, 02 Oct 2026 16:23:39 GMT",
-      "image_url": "/article_images/fun-s89bafb11c629117f.webp",
+      "time_ago": "Sun, 04 Oct 2026 07:30:23 GMT",
+      "mined_at": "2026-10-04T11:41:49+00:00",
+      "source_published_at": "Sun, 04 Oct 2026 07:30:23 GMT",
+      "image_url": "/article_images/fun-s8f6149bafa36f2cb.webp",
       "category": "Fun",
-      "title": "Sabalenka opens China Open with victory and discusses self-pressure",
-      "summary": "Aryna Sabalenka beat Renata Zarazua to begin her China Open campaign. She explained that demanding more from herself can motivate her but can also drain her energy."
+      "title": "Nikola Bartunkova beats Aryna Sabalenka at China Open",
+      "summary": "Nikola Bartunkova beat world number two Aryna Sabalenka 6-4, 6-3 at the China Open and will face Sinja Kraus next."
     },
     {
-      "id": "2026-10-03-fun-2",
-      "source": "CBC World",
-      "time_ago": "Sat, 03 Oct 2026 04:00:00 EDT",
-      "mined_at": "2026-10-03T22:44:47+00:00",
-      "source_published_at": "Sat, 03 Oct 2026 04:00:00 EDT",
-      "image_url": "/article_images/fun-s4c4f8c5294dab3b2.webp",
+      "id": "2026-10-04-fun-3",
+      "source": "Kotaku",
+      "time_ago": "Sat, 03 Oct 2026 21:26:58 +0000",
+      "mined_at": "2026-10-04T11:41:49+00:00",
+      "source_published_at": "Sat, 03 Oct 2026 21:26:58 +0000",
+      "image_url": "/article_images/fun-sf987bac6bd08ba40.webp",
       "category": "Fun",
-      "title": "Quebec teenager celebrates Ella's victory at World Dairy Expo",
-      "summary": "Alyson Doiron's favourite cow, Ella, won a top prize on Sunday at Wisconsin's World Dairy Expo, where Canadian and American farms competed."
-    },
-    {
-      "id": "2026-10-03-fun-3",
-      "source": "Variety",
-      "time_ago": "Sat, 03 Oct 2026 21:00:00 +0000",
-      "mined_at": "2026-10-03T22:44:47+00:00",
-      "source_published_at": "Sat, 03 Oct 2026 21:00:00 +0000",
-      "image_url": "/article_images/fun-sc5a07b079982290f.webp",
-      "category": "Fun",
-      "title": "RuneScape animation project aims to bring Gielinor to the screen",
-      "summary": "Lyrical Animation is developing a RuneScape series with Jagex and creator Charlie White. The early project aims to bring the game's fantasy world to existing fans and new audiences."
+      "title": "AI Coding Contest Reports a Rule-Breaking Move in StarCraft",
+      "summary": "Viewers reported that GPT-6 Astra used an existing bot during a StarCraft coding contest. The organizer restored its earlier code and let it continue."
     }
   ]
 }
