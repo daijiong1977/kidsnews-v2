@@ -1,119 +1,116 @@
 {
-  "title": "Juice Uses Earth’s Gravity to Help It Reach Jupiter",
-  "summary": "The European Space Agency’s Jupiter Icy Moons Explorer, known as Juice, passed Earth on September 28, 2026. The spacecraft used Earth’s gravity to change its route toward Jupiter while using very little fuel.\n\nThis kind of move is called a gravity assist. A planet’s gravity can help change a spacecraft’s speed and direction. During this flyby, Juice’s direction changed by 20 degrees, and its speed increased by 3.5 kilometres per second.\n\nAt its closest point, Juice was 8,640 kilometres above the Indian Ocean. Its monitoring cameras took a series of pictures during the encounter.\n\nReaching the right path required careful planning. In the four weeks before the flyby, mission controllers made just one small course correction. They had set aside six possible opportunities to make adjustments.\n\nAngela Dietz, Juice’s spacecraft operations manager, said the team’s planning helped it use only a small amount of the fuel reserved for the flyby. Saving that fuel leaves more available for observations of Jupiter’s icy moons.\n\nThe Earth visit also gave scientists a chance to check Juice’s instruments. Calibration means checking and adjusting instruments so their measurements can be used reliably. Earth provided a familiar planet for these tests.\n\nTeams spent months planning activities with the groups responsible for Juice’s 10 scientific instruments. They had to decide how to use the spacecraft’s available time, power and other resources.\n\nJuice project scientist Claire Vallat explained that the journey offers only a few chances to test the instruments under well-understood conditions. When Juice passed through Earth’s shadow, it relied on battery power alone. The teams gave priority to tests that would help prepare the instruments for Jupiter.\n\nThe spacecraft also spent several days travelling through Earth’s magnetotail. This is the long part of Earth’s magnetic field that stretches away from the Sun.\n\nJuice is scheduled to make 35 flybys of Jupiter’s moons Ganymede, Callisto and Europa. Planning for those encounters began years ago. Its Europa visits are expected in the early 2030s.\n\nThe Earth flyby served as a rehearsal, helping scientists learn how the instruments work in space and prepare to study future measurements. Controllers are continuing their close tracking of Juice through October 10.",
-  "why_it_matters": "The flyby conserved fuel for observations of Jupiter’s icy moons and gave scientists a chance to test instruments under familiar conditions before future encounters.",
-  "image_url": "/article_images/science-s27968997ec0f5b9f.webp",
+  "title": "A New Clue to the Puzzle of the Expanding Universe",
+  "summary": "Scientists know the universe is expanding, but they disagree about how fast. Two of the best ways to measure the speed, called the Hubble constant, give answers that do not match. This puzzle is known as the Hubble tension.\n\nOne method uses the cosmic microwave background, the faint afterglow of the Big Bang. Telescopes such as the Planck Space Telescope measured tiny patterns in this ancient light. Using a model of the universe, those patterns predict an expansion rate of about 67 kilometers per second per megaparsec.\n\nThe second method is more direct. It measures how fast faraway galaxies move away from us, using the brightness of exploding stars called supernovae. Because these supernovae have a known brightness, how dim they look shows how far away they are. Observations with the Hubble and James Webb space telescopes give a higher value of about 73. The difference may seem small, but it is statistically very significant. If both methods are correct, the standard model of the universe may be missing something.\n\nA team of researchers wondered whether tiny magnetic fields from the very early universe could help. Scientists have studied these \"primordial\" fields for years. The team's idea is that such fields would have changed how the first hydrogen formed, making matter slightly clumpy. That would shift the moment the universe became transparent. It would also change the \"cosmic ruler\" used to measure distances, which could ease the tension.\n\nFor the first time, the team ran full three-dimensional simulations of the early universe with magnetic fields and tested the results against observations. Their idea remained possible. They found a mild preference for these fields, which they say is not yet a discovery, but a meaningful hint.",
+  "why_it_matters": "If both measurements are right, the standard model of the universe must be missing something important, so a new idea like this could lead to better understanding.",
+  "image_url": "/article_images/science-s449539b4fa6b1f38.webp",
   "keywords": [
     {
-      "term": "gravity assist",
-      "explanation": "Using a planet’s gravity to change a spacecraft’s speed and direction."
+      "term": "Hubble constant",
+      "explanation": "The number that describes how fast the universe is expanding."
     },
     {
-      "term": "course correction",
-      "explanation": "An adjustment to a spacecraft’s path."
+      "term": "Planck Space Telescope",
+      "explanation": "A telescope that measured tiny patterns in the faint afterglow of the Big Bang."
     },
     {
-      "term": "calibration",
-      "explanation": "Checking and adjusting instruments so their measurements can be used reliably."
+      "term": "supernovae",
+      "explanation": "Exploding stars."
     },
     {
-      "term": "magnetotail",
-      "explanation": "The long part of Earth’s magnetic field that stretches away from the Sun."
+      "term": "primordial",
+      "explanation": "From the very earliest times."
     },
     {
-      "term": "flyby",
-      "explanation": "An encounter in which a spacecraft passes a planet or moon."
+      "term": "simulations",
+      "explanation": "Computer programs that copy how something works."
+    },
+    {
+      "term": "cosmic ruler",
+      "explanation": "The pattern used to measure distances in the universe."
     }
   ],
   "questions": [
     {
-      "question": "How did Juice’s speed change during the Earth flyby?",
+      "question": "What is the Hubble constant used for?",
       "options": [
-        "It increased by 3.5 kilometres per second.",
-        "It decreased by 3.5 kilometres per second.",
-        "It stayed the same.",
-        "It increased by 20 kilometres per second."
+        "Measuring the size of black holes",
+        "Measuring how fast the universe is expanding",
+        "Counting the planets in the Solar System",
+        "Timing the Moon's orbit"
       ],
-      "correct_answer": "It increased by 3.5 kilometres per second."
+      "correct_answer": "Measuring how fast the universe is expanding"
     },
     {
-      "question": "Where was Juice at its closest point to Earth?",
+      "question": "What expansion rate do patterns in the cosmic microwave background predict?",
       "options": [
-        "20 kilometres above Ganymede",
-        "8,640 kilometres above the Indian Ocean",
-        "3.5 kilometres above the Indian Ocean",
-        "8,640 kilometres above Europa"
+        "About 31",
+        "About 67",
+        "About 73",
+        "About 120"
       ],
-      "correct_answer": "8,640 kilometres above the Indian Ocean"
+      "correct_answer": "About 67"
     },
     {
-      "question": "How many possible adjustment opportunities had controllers set aside before the flyby?",
+      "question": "Why do supernovae help with the second method?",
       "options": [
-        "Six",
-        "Four",
-        "Ten",
-        "One"
+        "They are the biggest stars",
+        "They make galaxies move",
+        "They give off magnetic fields",
+        "Their known brightness shows how far away they are"
       ],
-      "correct_answer": "Six"
+      "correct_answer": "Their known brightness shows how far away they are"
     },
     {
-      "question": "According to Angela Dietz, what was a benefit of saving fuel during the flyby?",
+      "question": "What do the researchers say the difference between the two values is?",
       "options": [
-        "It left more fuel available for observations of Jupiter’s icy moons.",
-        "It supplied power in Earth’s shadow.",
-        "It removed the need for instrument tests.",
-        "It ended the need to track Juice."
+        "Statistically very significant",
+        "Too small to matter",
+        "An error in the telescopes",
+        "Caused by the Moon"
       ],
-      "correct_answer": "It left more fuel available for observations of Jupiter’s icy moons."
+      "correct_answer": "Statistically very significant"
     },
     {
-      "question": "Which tests did teams give priority to during the Earth encounter?",
+      "question": "What did primordial magnetic fields possibly change?",
       "options": [
-        "Tests that would cancel the Europa visits",
-        "Tests that would stop Juice from entering the magnetotail",
-        "Tests that would replace all 10 instruments",
-        "Tests that would help prepare the instruments for Jupiter"
+        "How the first hydrogen formed in the early universe",
+        "The shape of Earth",
+        "The brightness of the Sun",
+        "The path of the Planck telescope"
       ],
-      "correct_answer": "Tests that would help prepare the instruments for Jupiter"
+      "correct_answer": "How the first hydrogen formed in the early universe"
     },
     {
-      "question": "When are Juice’s Europa visits expected?",
+      "question": "What was new about the team's simulations?",
       "options": [
-        "On October 10",
-        "In the early 2030s",
-        "On September 28, 2026",
-        "During the four weeks before the Earth flyby"
+        "They only looked at the Moon",
+        "They were done by telescopes in space",
+        "They were full three-dimensional runs of the early universe with magnetic fields",
+        "They used no computers"
       ],
-      "correct_answer": "In the early 2030s"
+      "correct_answer": "They were full three-dimensional runs of the early universe with magnetic fields"
     }
   ],
-  "background_read": [
-    "A planet’s gravity can change a spacecraft’s speed and direction during a gravity assist.",
-    "Earth provided a familiar planet for checking and adjusting Juice’s instruments.",
-    "Earth’s magnetotail is the part of its magnetic field that stretches away from the Sun."
-  ],
+  "background_read": [],
   "Article_Structure": [
-    "Main event: Juice uses Earth’s gravity to change its route toward Jupiter.",
-    "Encounter details: Changes in direction and speed, closest altitude and camera observations are described.",
-    "Mission planning: Course corrections and fuel savings show how controllers prepared for the flyby.",
-    "Instrument preparation: Calibration, resource planning and battery use explain the scientific tests.",
-    "Future mission: Planned moon flybys and continued tracking connect the Earth rehearsal to later observations."
+    "Opening: scientists disagree about the expansion speed",
+    "Method one: the cosmic microwave background",
+    "Method two: supernovae and space telescopes",
+    "The Hubble tension",
+    "Primordial magnetic fields and the new idea",
+    "Simulations and a mild, early hint"
   ],
   "perspectives": [
     {
-      "perspective": "Angela Dietz, Juice’s spacecraft operations manager",
-      "description": "She credited the team’s planning with using only a small amount of the fuel reserved for the flyby."
-    },
-    {
-      "perspective": "Claire Vallat, Juice project scientist",
-      "description": "She explained that the journey provides only a few opportunities to test instruments under well-understood conditions."
+      "perspective": "The research team",
+      "description": "Say the data show a mild preference for primordial magnetic fields, a meaningful hint rather than a discovery."
     }
   ],
-  "mined_at": "2026-10-04T11:41:49+00:00",
-  "source_published_at": "Sat, 03 Oct 2026 09:34:11 EDT",
+  "mined_at": "2026-10-05T01:27:30+00:00",
+  "source_published_at": "Sun, 04 Oct 2026 08:05:54 EDT",
   "source_name": "ScienceDaily All",
-  "source_url": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261002080026.htm",
   "category": "Science",
-  "source_word_count": 642,
+  "source_word_count": 776,
   "detail_status": "full"
 }

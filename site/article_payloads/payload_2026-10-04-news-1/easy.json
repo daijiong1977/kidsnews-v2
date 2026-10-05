@@ -1,118 +1,109 @@
 {
-  "title": "Brazil votes as Lula and Flávio Bolsonaro lead the polls",
-  "summary": "People in Brazil began voting on 4 October 2026. Twelve candidates want to be president. Current president Luiz Inácio Lula da Silva and Flávio Bolsonaro lead opinion polls—surveys asking people whom they support.\n\nLula belongs to the left-wing Workers’ Party. Flávio is a right-wing politician and former president Jair Bolsonaro’s son. Left-wing and right-wing mean different ideas about running a country.\n\nFour years ago, Lula beat Jair Bolsonaro by a small amount. Jair is not running now. He is under house arrest after being found guilty of planning to overturn the election result. He cannot post on social media or make public statements. The source says he supports his son’s campaign.\n\nOnly Lula and Flávio have at least 10% support in polls. Surveys suggest a second vote, called a run-off, is very likely. But many voters had not decided shortly before election day. Someone could still win in the first round.\n\nAlmost 160 million Brazilians can vote. People can start voting at 16. Those aged 18 to 70 who can read and write must vote or face a fine. Polls usually ask only thousands of people, so results may be very different.\n\nLula is 80 and has been president three times. During his first two terms, from 2003 to 2010, many praised his Bolsa Família cash-support programme for helping millions leave poverty. His later convictions for corruption and money laundering were cancelled in 2021. He has always denied those crimes.\n\nSome environmentalists have criticised recent actions. Lula says oil money can help pay for cleaner energy. He says he still plans to end fossil-fuel use eventually. His government points to satellite information suggesting Amazon forest loss in the first half of 2026 reached its lowest level in ten years.",
-  "why_it_matters": "Almost 160 million Brazilians can vote in an election to choose their president. Polls give clues about support, but the result is still uncertain.",
-  "image_url": "/article_images/news-sb0ee1d6d3c2c078f.webp",
+  "title": "President Names Jay Clayton to Lead New White House AI Group",
+  "summary": "President Donald Trump said on Sunday that Jay Clayton has a new job. Clayton is the director of national intelligence. Now he is also the White House \"AI czar.\" Trump shared the news on Truth Social. He said Clayton will lead a new group called the \"Super Intelligence Force.\" Trump wrote that it will \"ensure that America continues to lead the World in Super Intelligence.\"\n\nThe group will work with many people, such as consumers, religious organizations and companies that run important systems like power and water. Trump named other members too. They are Andrew Ferguson, Scott Kupor and Emil Michael.\n\nSome tech leaders have warned that fast-moving AI could be risky. Trump has mostly brushed those warnings aside. On Tuesday, he met with AI company leaders at the White House. He said several of them signed a voluntary agreement. It includes reviews of their work.\n\nNo one knows yet what Clayton's new job will mean for the AI industry. Congress has not passed a broad law about AI. Last month, Clayton said super intelligence is a national security issue.",
+  "why_it_matters": "AI is a fast-changing technology that affects many people, so choices about who leads the government's work on it can matter to families and schools.",
+  "image_url": "/article_images/news-s43b34ca6859940b6.webp",
   "keywords": [
     {
-      "term": "candidate",
-      "explanation": "Someone who wants to be chosen for a position, such as president."
+      "term": "AI czar",
+      "explanation": "A person chosen to lead the government's work on AI."
     },
     {
-      "term": "opinion polls",
-      "explanation": "Surveys that ask people whom they support."
+      "term": "Truth Social",
+      "explanation": "The social media site where Trump shared the news."
     },
     {
-      "term": "run-off",
-      "explanation": "A second round of voting."
+      "term": "consumers",
+      "explanation": "People who buy and use products."
     },
     {
-      "term": "house arrest",
-      "explanation": "Being required to stay at home by the authorities."
+      "term": "voluntary",
+      "explanation": "Something people choose to do, not something they are forced to do."
     },
     {
-      "term": "poverty",
-      "explanation": "Not having enough money for basic needs."
+      "term": "Congress",
+      "explanation": "The part of the U.S. government that makes laws."
+    },
+    {
+      "term": "national security",
+      "explanation": "Keeping a country safe."
     }
   ],
   "questions": [
     {
-      "question": "When did people in Brazil begin voting?",
+      "question": "Who is the new White House \"AI czar\"?",
       "options": [
-        "In the first half of 2010",
-        "4 October 2026",
-        "During 2003",
-        "4 October 2021"
+        "Emil Michael",
+        "Jay Clayton",
+        "Andrew Ferguson",
+        "Scott Kupor"
       ],
-      "correct_answer": "4 October 2026"
+      "correct_answer": "Jay Clayton"
     },
     {
-      "question": "How is Flávio Bolsonaro related to Jair Bolsonaro?",
+      "question": "Where did Trump share the news?",
       "options": [
-        "He is Jair’s father.",
-        "They are cousins.",
-        "He is Jair’s brother.",
-        "He is Jair’s son."
+        "On Truth Social",
+        "In a TV movie",
+        "At a school meeting",
+        "In a Senate vote"
       ],
-      "correct_answer": "He is Jair’s son."
+      "correct_answer": "On Truth Social"
     },
     {
-      "question": "What do surveys suggest is very likely?",
+      "question": "What is the new group called?",
       "options": [
-        "Jair Bolsonaro becoming a candidate",
-        "All twelve candidates winning",
-        "A second vote, called a run-off",
-        "An election with no voters"
+        "The National Tech Board",
+        "The AI Safety Team",
+        "The Super Intelligence Force",
+        "The Power and Water Club"
       ],
-      "correct_answer": "A second vote, called a run-off"
+      "correct_answer": "The Super Intelligence Force"
     },
     {
-      "question": "Which people must vote or face a fine?",
+      "question": "What did several AI company leaders sign?",
       "options": [
-        "People aged 18 to 70 who can read and write",
-        "Only people who are 16",
-        "Everyone over 70",
-        "Only the twelve candidates"
+        "A school rule",
+        "A voluntary agreement",
+        "A new federal law",
+        "A deal to sell computers"
       ],
-      "correct_answer": "People aged 18 to 70 who can read and write"
+      "correct_answer": "A voluntary agreement"
     },
     {
-      "question": "Why might the election results be very different from the polls?",
+      "question": "What has Congress not passed yet?",
       "options": [
-        "Polls decide who becomes president.",
-        "Polls count only the candidates.",
-        "Polls ask every Brazilian.",
-        "Polls usually ask only thousands of people."
+        "A broad law about AI",
+        "A budget for the White House",
+        "A rule about power and water",
+        "A law naming a czar"
       ],
-      "correct_answer": "Polls usually ask only thousands of people."
+      "correct_answer": "A broad law about AI"
     },
     {
-      "question": "What does Lula say oil money can help pay for?",
+      "question": "What did Clayton say last month about super intelligence?",
       "options": [
-        "Cleaner energy",
-        "His son’s campaign",
-        "Voting fines",
-        "More opinion polls"
+        "It is a national security issue",
+        "It is only a video game",
+        "It should be banned",
+        "It is too cheap to build"
       ],
-      "correct_answer": "Cleaner energy"
+      "correct_answer": "It is a national security issue"
     }
   ],
   "background_read": [],
   "Article_Structure": [
-    "The opening gives the voting date and names the two poll leaders.",
-    "The next paragraphs explain the candidates’ political groups and Jair Bolsonaro’s situation.",
-    "The middle explains the possible second vote, voting rules and limits of polls.",
-    "The ending describes Lula’s record on poverty, court convictions and the environment."
+    "Opening: Trump names Jay Clayton the White House AI czar",
+    "The new Super Intelligence Force and its members",
+    "Warnings from tech leaders and the voluntary agreement",
+    "What is still unclear and Clayton's comment"
   ],
-  "perspectives": [
-    {
-      "perspective": "Voters who had not decided",
-      "description": "Many voters had not chosen whom to support shortly before election day."
-    },
-    {
-      "perspective": "Some environmentalists",
-      "description": "They have criticised recent actions."
-    },
-    {
-      "perspective": "Lula",
-      "description": "He says oil money can help pay for cleaner energy and that he plans to end fossil-fuel use eventually."
-    }
-  ],
-  "mined_at": "2026-10-04T11:41:49+00:00",
-  "source_published_at": "Sun, 04 Oct 2026 11:03:20 GMT",
-  "source_name": "BBC News",
-  "source_url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+  "perspectives": [],
+  "mined_at": "2026-10-05T01:27:30+00:00",
+  "source_published_at": "Sun, 04 Oct 2026 14:36:48 -0400",
+  "source_name": "NPR World",
+  "source_url": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
   "category": "News",
-  "source_word_count": 601,
+  "source_word_count": 507,
   "detail_status": "full"
 }

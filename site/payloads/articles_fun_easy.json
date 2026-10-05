@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-10-04-fun-1",
-      "source": "Kotaku",
-      "time_ago": "Sat, 03 Oct 2026 20:03:47 +0000",
-      "mined_at": "2026-10-04T11:41:49+00:00",
-      "source_published_at": "Sat, 03 Oct 2026 20:03:47 +0000",
-      "image_url": "/article_images/fun-sf8da80bffa0f7a50.webp",
+      "source": "BBC Tennis",
+      "time_ago": "Sun, 04 Oct 2026 14:47:14 GMT",
+      "mined_at": "2026-10-05T01:27:30+00:00",
+      "source_published_at": "Sun, 04 Oct 2026 14:47:14 GMT",
+      "image_url": "/article_images/fun-s3e7802a1a7c3097f.webp",
       "category": "Fun",
-      "title": "Pictures of Phil Tippett’s Movie Work Appear Online",
-      "summary": "An unnamed fan shared pictures and videos of Phil Tippett’s movie work, including Star Wars creatures and material from other films."
+      "title": "Djokovic Battles Back to Beat Zverev at the China Open",
+      "summary": "Novak Djokovic came from a set down to beat Alexander Zverev and reach the China Open semi-finals."
     },
     {
       "id": "2026-10-04-fun-2",
-      "source": "BBC Tennis",
-      "time_ago": "Sun, 04 Oct 2026 07:30:23 GMT",
-      "mined_at": "2026-10-04T11:41:49+00:00",
-      "source_published_at": "Sun, 04 Oct 2026 07:30:23 GMT",
-      "image_url": "/article_images/fun-s8f6149bafa36f2cb.webp",
+      "source": "Billboard",
+      "time_ago": "Mon, 05 Oct 2026 00:42:16 +0000",
+      "mined_at": "2026-10-05T01:27:30+00:00",
+      "source_published_at": "Mon, 05 Oct 2026 00:42:16 +0000",
+      "image_url": "/article_images/fun-s962c3bc75e40758b.webp",
       "category": "Fun",
-      "title": "Nikola Bartunkova beats Aryna Sabalenka at China Open",
-      "summary": "Nikola Bartunkova surprised world number two Aryna Sabalenka with a 6-4, 6-3 win at the China Open. She will play Sinja Kraus next."
+      "title": "Shakira's Madrid Concert Sets an Amazon Music Livestream Record",
+      "summary": "Shakira's October 3 Madrid show, with surprise guest Dua Lipa, became the most-viewed livestream by a female artist on Amazon Music."
     },
     {
       "id": "2026-10-04-fun-3",
-      "source": "Kotaku",
-      "time_ago": "Sat, 03 Oct 2026 21:26:58 +0000",
-      "mined_at": "2026-10-04T11:41:49+00:00",
-      "source_published_at": "Sat, 03 Oct 2026 21:26:58 +0000",
-      "image_url": "/article_images/fun-sf987bac6bd08ba40.webp",
+      "source": "/Film",
+      "time_ago": "Sun, 04 Oct 2026 21:00:00 +0000",
+      "mined_at": "2026-10-05T01:27:30+00:00",
+      "source_published_at": "Sun, 04 Oct 2026 21:00:00 +0000",
+      "image_url": "/article_images/fun-s067ed79d67847149.webp",
       "category": "Fun",
-      "title": "Viewers Say AI Used an Existing Bot in StarCraft Contest",
-      "summary": "Viewers said GPT-6 Astra used an existing bot in a StarCraft contest. The creator said he was restoring its earlier code so it could keep playing."
+      "title": "Daniel Radcliffe and the Art of Playing a \"Weird Little Guy\"",
+      "summary": "A writer recommends Daniel Radcliffe's film \"Swiss Army Man\" on Netflix as an example of his post-Harry Potter career of unusual roles."
     }
   ]
 }

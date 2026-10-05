@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-10-04-news-1",
-      "source": "BBC News",
-      "time_ago": "Sun, 04 Oct 2026 11:03:20 GMT",
-      "mined_at": "2026-10-04T11:41:49+00:00",
-      "source_published_at": "Sun, 04 Oct 2026 11:03:20 GMT",
-      "image_url": "/article_images/news-sb0ee1d6d3c2c078f.webp",
+      "source": "NPR World",
+      "time_ago": "Sun, 04 Oct 2026 14:36:48 -0400",
+      "mined_at": "2026-10-05T01:27:30+00:00",
+      "source_published_at": "Sun, 04 Oct 2026 14:36:48 -0400",
+      "image_url": "/article_images/news-s43b34ca6859940b6.webp",
       "category": "News",
-      "title": "Brazil votes as Lula and Flávio Bolsonaro lead the polls",
-      "summary": "Brazil began voting on 4 October 2026. Lula and Flávio Bolsonaro lead the polls. A second vote looks likely, but the result is uncertain."
+      "title": "President Names Jay Clayton to Lead New White House AI Group",
+      "summary": "President Trump named Jay Clayton, the director of national intelligence, to lead a new White House group about advanced AI."
     },
     {
       "id": "2026-10-04-news-2",
-      "source": "NPR World",
-      "time_ago": "Fri, 02 Oct 2026 17:44:07 -0400",
-      "mined_at": "2026-10-04T11:41:49+00:00",
-      "source_published_at": "Fri, 02 Oct 2026 17:44:07 -0400",
-      "image_url": "/article_images/news-sc3f0be693deea0c5.webp",
+      "source": "BBC News",
+      "time_ago": "Mon, 05 Oct 2026 00:27:06 GMT",
+      "mined_at": "2026-10-05T01:27:30+00:00",
+      "source_published_at": "Mon, 05 Oct 2026 00:27:06 GMT",
+      "image_url": "/article_images/news-s152891da77fe19c4.webp",
       "category": "News",
-      "title": "Protesters Question Trump’s Plan for a Huge Arch",
-      "summary": "Veterans and lawmakers protested Trump’s planned 250-foot arch. They questioned its size, cost and location. A lawsuit continues, and federal approval is still pending."
+      "title": "Brazil's Presidential Election Heads to a Run-Off",
+      "summary": "No one won more than half the votes in Brazil's first round, so Flávio Bolsonaro and President Lula will face off on October 25."
     },
     {
       "id": "2026-10-04-news-3",
       "source": "PBS NewsHour",
-      "time_ago": "Sat, 03 Oct 2026 16:53:07 -0400",
-      "mined_at": "2026-10-04T11:41:49+00:00",
-      "source_published_at": "Sat, 03 Oct 2026 16:53:07 -0400",
-      "image_url": "/article_images/news-s34634abe30355e94.webp",
+      "time_ago": "Sun, 04 Oct 2026 12:42:31 -0400",
+      "mined_at": "2026-10-05T01:27:30+00:00",
+      "source_published_at": "Sun, 04 Oct 2026 12:42:31 -0400",
+      "image_url": "/article_images/news-sf66417298cf1a699.webp",
       "category": "News",
-      "title": "Trump heads to Ohio to support Husted in close Senate race",
-      "summary": "Trump’s October 3 visit aimed to help Jon Husted in Ohio’s close Senate race against Sherrod Brown. Living costs and data centers are big issues."
+      "title": "Bosnia Holds Elections as Leader Declares Victory for His Party",
+      "summary": "A Bosnian Serb leader declared victory for his party while votes were still being counted."
     }
   ]
 }

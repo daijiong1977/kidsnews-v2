@@ -1,118 +1,110 @@
 {
-  "title": "Scientists use “empty space” to strengthen superconductivity",
-  "summary": "Scientists have shown that tiny changes called quantum fluctuations in empty space can strengthen superconductivity. The source report, published on October 3, 2026, calls this the first experiment to show the effect.\n\nA superconductor is a material that carries electric current without electrical resistance under certain conditions. Its critical temperature is the temperature below which it becomes superconducting. Raising this temperature lets it work in slightly warmer conditions.\n\nThe study appeared in Nature. Changgan Zeng and Guanghui Cheng at the University of Science and Technology of China led it. Researchers from Shanghai Jiao Tong University, the Massachusetts Institute of Technology and other partners also helped.\n\nThe team studied a surprising idea: empty space, called a vacuum, is not completely still. Even at its lowest energy, it has tiny quantum fluctuations. Scientists have seen effects of these fluctuations in other experiments.\n\nZeng explained that these fluctuations in ordinary empty space are usually too weak to have visible effects on large systems of materials. The team used a special structure called a terahertz dark cavity to strengthen their influence. It changes the electromagnetic surroundings of a material.\n\nThey put a superconducting material called NbSe2 inside the cavity. They compared how it worked inside and outside.\n\nIn a device with six layers of NbSe2, the critical temperature rose by up to 5.4%. Cheng reported that the critical current and critical magnetic field also rose greatly near the point where superconductivity begins. These are limits on the current and magnetic field the material can handle while staying superconducting.\n\nThe researchers changed parts of the experiment to test other explanations. Their checks ruled out effects such as strain, material damage and certain effects from nearby metal.\n\nThe improvement was greatest at one particular cavity frequency. Zeng said this was strong evidence that the superconducting state was interacting with electromagnetic patterns in the cavity. The findings offer a new way to study and control unusual states of matter.",
-  "why_it_matters": "The experiment offers a new way to study and control superconductivity. A higher critical temperature allows the material to remain superconducting in slightly warmer conditions.",
-  "image_url": "/article_images/science-s024ddcf0d278f017.webp",
+  "title": "A New Light-Powered Material Makes Hydrogen From Water",
+  "summary": "Chemists at Oregon State University found a new way to make hydrogen from water using light. Kyriakos Stylianou led the work. His team built a material called a photocatalyst. It can produce hydrogen quickly and efficiently.\n\nHydrogen is used in fuel cells for vehicles. It is also used to make ammonia, refine metals and manufacture plastics.\n\nA catalyst speeds up a chemical reaction without being permanently changed. A photocatalyst is switched on by light. After it absorbs light, it can use that energy to drive reactions faster.\n\nThe material is called BVR-19. It has an unusual sulfur-to-sulfur bond that briefly breaks in light. Stylianou said it does not need an extra expensive metal catalyst. It also forms on its own in water at room temperature.\n\nMost hydrogen today is made from natural gas, which releases carbon dioxide. It costs about $1.50 per kilogram, while \"green\" hydrogen costs roughly $5 per kilogram. Stylianou said the work gives new design rules that could help lower the cost of green hydrogen.",
+  "why_it_matters": "Cheaper green hydrogen could help reduce the greenhouse gases that come from making hydrogen the usual way.",
+  "image_url": "/article_images/science-s55372708ed9d71c9.webp",
   "keywords": [
     {
-      "term": "superconductor",
-      "explanation": "A material that carries electric current without electrical resistance under certain conditions."
+      "term": "hydrogen",
+      "explanation": "A light gas that can be used as a clean fuel."
     },
     {
-      "term": "critical temperature",
-      "explanation": "The temperature below which a material becomes superconducting."
+      "term": "photocatalyst",
+      "explanation": "A material that uses light to speed up a chemical reaction."
     },
     {
-      "term": "vacuum",
-      "explanation": "Empty space that still has tiny quantum fluctuations."
+      "term": "catalyst",
+      "explanation": "A substance that speeds up a reaction without being permanently changed."
     },
     {
-      "term": "quantum fluctuations",
-      "explanation": "Tiny changes that happen even in a vacuum at its lowest energy."
+      "term": "fuel cells",
+      "explanation": "Devices that turn fuel into electricity."
     },
     {
-      "term": "terahertz dark cavity",
-      "explanation": "The special structure used to change a material’s electromagnetic surroundings."
+      "term": "natural gas",
+      "explanation": "A fuel that comes from underground."
     },
     {
-      "term": "critical current",
-      "explanation": "A limit on the current a material can handle while staying superconducting."
+      "term": "carbon dioxide",
+      "explanation": "A gas that is released when many fuels are made or burned."
     }
   ],
   "questions": [
     {
-      "question": "What can a superconductor do under certain conditions?",
+      "question": "What does the new material make from water?",
       "options": [
-        "Stop quantum fluctuations",
-        "Remove all magnetic fields",
-        "Turn metal into empty space",
-        "Carry electric current without electrical resistance"
+        "Hydrogen",
+        "Plastic",
+        "Oxygen only",
+        "Natural gas"
       ],
-      "correct_answer": "Carry electric current without electrical resistance"
+      "correct_answer": "Hydrogen"
     },
     {
-      "question": "Who led the study?",
+      "question": "What switches on a photocatalyst?",
       "options": [
-        "Changgan Zeng and Guanghui Cheng",
-        "All the other partners",
-        "Only researchers from Shanghai Jiao Tong University",
-        "Only researchers from the Massachusetts Institute of Technology"
+        "Light",
+        "Sound",
+        "Magnets",
+        "Heat from a fire"
       ],
-      "correct_answer": "Changgan Zeng and Guanghui Cheng"
+      "correct_answer": "Light"
     },
     {
-      "question": "What material did the researchers put inside the cavity?",
+      "question": "What is the material called?",
       "options": [
-        "A wooden block",
-        "NbSe2",
-        "A piece of glass",
-        "A plastic sheet"
+        "BVR-19",
+        "MaD-5",
+        "H2O-7",
+        "OSU-100"
       ],
-      "correct_answer": "NbSe2"
+      "correct_answer": "BVR-19"
     },
     {
-      "question": "How much did the critical temperature rise in the six-layer device?",
+      "question": "What does the material not need?",
       "options": [
-        "Up to 5.4%",
-        "It did not rise",
-        "Exactly 5.4 degrees",
-        "Up to 54%"
+        "Water",
+        "An extra expensive metal catalyst",
+        "A lab at Oregon State",
+        "Light"
       ],
-      "correct_answer": "Up to 5.4%"
+      "correct_answer": "An extra expensive metal catalyst"
     },
     {
-      "question": "Why did the team change parts of the experiment?",
+      "question": "Where does the material form on its own?",
       "options": [
-        "To stop the material carrying current",
-        "To remove all six layers",
-        "To test other explanations for the results",
-        "To change the study’s publication date"
+        "In space",
+        "In a hot oven",
+        "In water at room temperature",
+        "In frozen air"
       ],
-      "correct_answer": "To test other explanations for the results"
+      "correct_answer": "In water at room temperature"
     },
     {
-      "question": "When was the improvement greatest?",
+      "question": "How much does green hydrogen cost, roughly?",
       "options": [
-        "Only after the material was damaged",
-        "At one particular cavity frequency",
-        "At all cavity frequencies equally",
-        "Outside the cavity at every frequency"
+        "$5 per kilogram",
+        "$1.50 per kilogram",
+        "$50 per kilogram",
+        "Nothing at all"
       ],
-      "correct_answer": "At one particular cavity frequency"
+      "correct_answer": "$5 per kilogram"
     }
   ],
   "background_read": [],
   "Article_Structure": [
-    "The opening presents the finding and the source report’s date.",
-    "The article explains superconductors and critical temperature, then names the study leaders and partners.",
-    "It explains vacuum fluctuations and describes the cavity experiment.",
-    "It reports the results, checks of other explanations and frequency evidence."
+    "Opening: Oregon State chemists make hydrogen from water with light",
+    "What hydrogen is used for",
+    "What a catalyst and photocatalyst do",
+    "The BVR-19 material and its advantages",
+    "Costs and why the work could matter"
   ],
-  "perspectives": [
-    {
-      "perspective": "Changgan Zeng",
-      "description": "Zeng explained why the team strengthened the influence of vacuum fluctuations and said the frequency result provided strong evidence of interaction with the cavity."
-    },
-    {
-      "perspective": "Guanghui Cheng",
-      "description": "Cheng reported that the critical current and critical magnetic field also rose greatly near the point where superconductivity begins."
-    }
-  ],
-  "mined_at": "2026-10-04T11:41:49+00:00",
-  "source_published_at": "Sat, 03 Oct 2026 08:03:23 EDT",
-  "source_name": "ScienceDaily Top Technology",
-  "source_url": "https://www.sciencedaily.com/releases/2026/09/260930225456.htm",
+  "perspectives": [],
+  "mined_at": "2026-10-05T01:27:30+00:00",
+  "source_published_at": "Sun, 04 Oct 2026 07:11:24 EDT",
+  "source_name": "ScienceDaily Top Environment",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261001214017.htm",
   "category": "Science",
-  "source_word_count": 583,
+  "source_word_count": 591,
   "detail_status": "full"
 }

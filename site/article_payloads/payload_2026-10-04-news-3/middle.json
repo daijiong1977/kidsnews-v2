@@ -1,132 +1,120 @@
 {
-  "title": "Trump visits Ohio to support Husted in close Senate race",
-  "summary": "President Donald Trump was heading to Ohio on Saturday, October 3, 2026, for a campaign rally near Dayton. His visit aimed to support Republican candidates ahead of the November 3 elections, including Senator Jon Husted, who faces Democrat Sherrod Brown in a closely watched race.\n\nHusted was appointed to the Senate after JD Vance left his seat to become vice president. Now Husted is running to win the seat in an election. Brown, who served three terms in the Senate, is trying to return after losing to Republican Bernie Moreno two years ago.\n\nThe Ohio contest matters because it could help decide which party controls the Senate. Democrats have identified Ohio as an important state for winning a majority. Senator Tim Scott, who leads the Senate Republicans’ campaign committee, said this week that the race between Husted and Brown was about even.\n\nThe economy is another major campaign issue. Trump has argued at rallies that the economy is doing better than voters believe. However, polls show that Americans are unhappy with his handling of it. People in the Dayton area are concerned about living costs, and nearly 1,400 workers recently lost their jobs at a nearby Springfield truck factory.\n\nThe candidates also disagree over data centers. These large buildings hold computers that support services such as artificial intelligence. Some voters worry about their effects on electricity prices, farmland and water supplies.\n\nBrown has criticized Husted’s role in bringing data centers to Ohio, including tax breaks for technology companies. Scott defended Husted, saying he supports responsible development and would oppose a project if the community did not want it. Trump strongly supports data centers, arguing that they help the United States compete with China in artificial intelligence.\n\nOhio also has a close race for governor. Republican Vivek Ramaswamy, a business owner and former presidential candidate, faces Democrat Dr. Amy Acton, the state’s former health director. Despite Ramaswamy’s large fundraising advantage, the contest remains competitive with weeks left before voting day.",
-  "why_it_matters": "The Ohio Senate contest could influence which party controls the Senate. Economic concerns and disagreements over data centers are major campaign issues, while the state also has a competitive governor race.",
-  "image_url": "/article_images/news-s34634abe30355e94.webp",
+  "title": "Bosnia Holds Elections as Leader Declares Victory for His Party",
+  "summary": "Voters in Bosnia and Herzegovina went to the polls on Sunday in an election shaped by money worries, the country's hopes of joining the European Union, and long-standing divisions between ethnic groups. Those divisions date back to a war in the early 1990s.\n\nMilorad Dodik, a Bosnian Serb nationalist politician, declared victory for his party. Dodik was not on the ballot. He was banned from public office after being convicted last year of defying decisions by the international official who oversees the 1995 peace agreement that ended the war. Even so, he has been central to the campaign. He supports Russia and has called for parts of the country to separate, which has made some people fear new instability.\n\nWith nearly 90 percent of votes counted, Dodik's ally Zeljka Cvijanovic had more than 55 percent for the Serb seat on Bosnia's three-member presidency. She led her nearest opponent by about 30 points. At a news conference, Dodik gave credit to U.S. President Donald Trump's 2024 election win and to Russian President Vladimir Putin's support. \"No one should ask us to change our politics,\" he said.\n\nOther candidates also claimed victory before counting was finished. They included Darijana Filipovic for the Croat seat and Denis Becirovic for the Bosniak seat, who held a lead of fewer than three percentage points. Around 3.4 million people were eligible to vote.\n\nBosnia's government was built by a U.S.-brokered peace deal to balance the Bosniak, Serb and Croat communities. Many people vote along ethnic lines, which has slowed progress toward joining the EU. This was the first Bosnian election to use electronic voter identification and ballot scanners to help prevent cheating. These are not final results.",
+  "why_it_matters": "The election shows how Bosnia's political system, built to balance different communities, still faces ethnic divisions that slow its progress toward joining the EU.",
+  "image_url": "/article_images/news-sf66417298cf1a699.webp",
   "keywords": [
     {
-      "term": "appointed",
-      "explanation": "Chosen to fill a position rather than winning it in an election."
+      "term": "nationalist",
+      "explanation": "A person who puts strong focus on the interests of their own nation or group."
     },
     {
-      "term": "majority",
-      "explanation": "More than half of the seats or members in a group."
+      "term": "ballot",
+      "explanation": "The list of choices voters see when they vote."
     },
     {
-      "term": "campaign committee",
-      "explanation": "A group that organizes support for candidates during elections."
+      "term": "separate",
+      "explanation": "To split away from a larger group or country."
     },
     {
-      "term": "data centers",
-      "explanation": "Large buildings containing computers that support services such as artificial intelligence."
+      "term": "presidency",
+      "explanation": "The office of president; in Bosnia it has three members."
     },
     {
-      "term": "tax breaks",
-      "explanation": "Measures that reduce the amount of tax a person or company must pay."
+      "term": "peace deal",
+      "explanation": "An agreement that ends a war."
     },
     {
-      "term": "fundraising advantage",
-      "explanation": "Having raised more money for a campaign than an opponent."
+      "term": "ethnic lines",
+      "explanation": "Divisions based on the group someone belongs to."
     }
   ],
   "questions": [
     {
-      "question": "When was Trump heading to Ohio for the campaign rally?",
+      "question": "What shaped Bosnia's Sunday election?",
       "options": [
-        "October 3, 2026",
-        "Two years before Brown’s defeat",
-        "After the November 3 elections",
-        "November 3, 2026"
+        "A big storm that closed roads",
+        "A new national flag and anthem",
+        "A change in the school year for all students",
+        "Money worries, hopes of joining the EU, and ethnic divisions"
       ],
-      "correct_answer": "October 3, 2026"
+      "correct_answer": "Money worries, hopes of joining the EU, and ethnic divisions"
     },
     {
-      "question": "Which Republican defeated Brown two years ago?",
+      "question": "Why was Dodik banned from public office?",
       "options": [
-        "Jon Husted",
-        "Tim Scott",
-        "Bernie Moreno",
-        "JD Vance"
+        "He lost an earlier election badly",
+        "He asked to leave office himself",
+        "He was convicted last year of defying an international official's decisions",
+        "He was too old to run for any office"
       ],
-      "correct_answer": "Bernie Moreno"
+      "correct_answer": "He was convicted last year of defying an international official's decisions"
     },
     {
-      "question": "How did Tim Scott describe the Husted–Brown race this week?",
+      "question": "How many members does Bosnia's presidency have?",
       "options": [
-        "Certain to be won by Brown",
-        "No longer competitive",
-        "Already won by Husted",
-        "About even"
+        "One",
+        "Twelve",
+        "Three",
+        "Five"
       ],
-      "correct_answer": "About even"
+      "correct_answer": "Three"
     },
     {
-      "question": "What contrast does the article describe about the economy?",
+      "question": "Who did Dodik give credit to for his party's win?",
       "options": [
-        "Brown praises the economy, while Husted says the factory is hiring.",
-        "Trump says the economy is doing better than voters believe, but polls show unhappiness with his handling of it.",
-        "Scott says living costs have disappeared, while Trump disagrees.",
-        "Acton says data centers have solved all concerns about jobs."
+        "Trump's 2024 election win and Putin's support",
+        "The Bosnian army and the police",
+        "The courts in the capital Sarajevo",
+        "The European Union and the United Nations"
       ],
-      "correct_answer": "Trump says the economy is doing better than voters believe, but polls show unhappiness with his handling of it."
+      "correct_answer": "Trump's 2024 election win and Putin's support"
     },
     {
-      "question": "According to Scott, when would Husted oppose a data center project?",
+      "question": "Which new technology was used in this election for the first time?",
       "options": [
-        "Only after the governor election ended",
-        "Whenever it involved computers",
-        "Whenever it used artificial intelligence",
-        "If the community did not want it"
+        "Voting by phone app from home",
+        "Voting from space stations",
+        "Electronic voter identification and ballot scanners",
+        "Robot poll workers at every site"
       ],
-      "correct_answer": "If the community did not want it"
+      "correct_answer": "Electronic voter identification and ballot scanners"
     },
     {
-      "question": "What does the article say about Ohio’s governor race?",
+      "question": "What made some people fear new instability?",
       "options": [
-        "It remains competitive despite Ramaswamy’s large fundraising advantage.",
-        "Acton has withdrawn from the contest.",
-        "Brown has the largest fundraising advantage.",
-        "Ramaswamy and Husted are competing for governor."
+        "A teachers' strike across the country",
+        "A flood in the capital city",
+        "A new tax on all goods",
+        "Dodik's pro-Russia stance and calls for parts of the country to separate"
       ],
-      "correct_answer": "It remains competitive despite Ramaswamy’s large fundraising advantage."
+      "correct_answer": "Dodik's pro-Russia stance and calls for parts of the country to separate"
     }
   ],
   "background_read": [],
   "Article_Structure": [
-    "Lead: Trump’s Ohio visit, the election date and the Husted–Brown contest.",
-    "Candidate background: Husted’s appointment and Brown’s previous Senate service and defeat.",
-    "National significance: The possible effect on Senate control and Scott’s assessment of the race.",
-    "Economic concerns: Trump’s argument, polling, living costs and factory job losses.",
-    "Data center debate: Voter concerns, Brown’s criticism, Scott’s defense and Trump’s support.",
-    "Related contest: The competitive governor race between Ramaswamy and Acton."
+    "Opening: the vote and the pressures behind it",
+    "Who Dodik is and why he is banned from office",
+    "Vote counts and Dodik's comments",
+    "Other candidates claiming victory",
+    "The peace deal system, ethnic voting and new technology",
+    "Closing: results are not final"
   ],
   "perspectives": [
     {
-      "perspective": "Democrats",
-      "description": "They identify Ohio as an important state for winning a Senate majority."
+      "perspective": "Milorad Dodik",
+      "description": "Said, \"No one should ask us to change our politics,\" and credited Trump and Putin."
     },
     {
-      "perspective": "Trump",
-      "description": "He argues that the economy is doing better than voters believe and that data centers help the United States compete with China in artificial intelligence."
-    },
-    {
-      "perspective": "Brown",
-      "description": "He criticizes Husted’s role in bringing data centers to Ohio, including tax breaks for technology companies."
-    },
-    {
-      "perspective": "Scott’s defense of Husted",
-      "description": "Scott says Husted supports responsible development and would oppose a project unwanted by the community."
-    },
-    {
-      "perspective": "Voter concerns",
-      "description": "People in the Dayton area are concerned about living costs, and some voters worry about data centers’ effects on electricity prices, farmland and water supplies."
+      "perspective": "People worried about instability",
+      "description": "Fear that his separatist rhetoric could lead to renewed instability in Bosnia."
     }
   ],
-  "mined_at": "2026-10-04T11:41:49+00:00",
-  "source_published_at": "Sat, 03 Oct 2026 16:53:07 -0400",
+  "mined_at": "2026-10-05T01:27:30+00:00",
+  "source_published_at": "Sun, 04 Oct 2026 12:42:31 -0400",
   "source_name": "PBS NewsHour",
-  "source_url": "https://www.pbs.org/newshour/politics/trump-rallies-in-ohio-to-boost-jon-husted-in-a-tight-senate-race-against-sherrod-brown",
+  "source_url": "https://www.pbs.org/newshour/world/bosnia-votes-as-pro-russian-politician-looms-large-and-ethnic-tensions-simmer",
   "category": "News",
-  "source_word_count": 749,
+  "source_word_count": 724,
   "detail_status": "full"
 }

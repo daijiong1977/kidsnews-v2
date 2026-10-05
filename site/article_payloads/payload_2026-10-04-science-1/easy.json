@@ -1,113 +1,109 @@
 {
-  "title": "Juice Uses Earth’s Gravity on Its Way to Jupiter",
-  "summary": "The European Space Agency’s Jupiter Icy Moons Explorer, called Juice, passed Earth on September 28, 2026. Earth’s gravity helped change its path toward Jupiter. This used very little fuel.\n\nThe move is called a gravity assist. A planet’s gravity can change a spacecraft’s speed and direction. Juice turned by 20 degrees and gained 3.5 kilometres per second in speed.\n\nAt its closest point, Juice was 8,640 kilometres above the Indian Ocean. Its cameras took pictures as it passed.\n\nThe team planned carefully. In the four weeks before the visit, controllers made just one small change to Juice’s path. They had planned six possible chances to make changes.\n\nAngela Dietz, Juice’s spacecraft operations manager, said this planning helped save fuel. The saved fuel leaves more for studying Jupiter’s icy moons.\n\nScientists also checked Juice’s instruments, the tools it uses to take measurements. Checking and adjusting these tools is called calibration. Earth was useful for these tests because scientists know it well.\n\nTeams spent months planning tests with the groups responsible for Juice’s 10 scientific instruments. They had to share the spacecraft’s time, power and other resources.\n\nJuice project scientist Claire Vallat said the journey gives only a few chances to test the tools in conditions scientists understand well. In Earth’s shadow, Juice used only battery power. Teams chose tests that would help prepare the tools for Jupiter.\n\nJuice also spent several days in Earth’s magnetotail. This is the long part of Earth’s magnetic field that reaches away from the Sun.\n\nJuice is scheduled to pass Jupiter’s moons Ganymede, Callisto and Europa 35 times in total. Planning began years ago. Its Europa visits are expected in the early 2030s.\n\nThe Earth visit was a practice run. It helped scientists learn how the tools work in space and prepare to study future measurements. Controllers are continuing to track Juice closely through October 10.",
-  "why_it_matters": "Saving fuel leaves more for studying Jupiter’s icy moons. Testing the tools near Earth also helps scientists prepare for future measurements.",
-  "image_url": "/article_images/science-s27968997ec0f5b9f.webp",
+  "title": "A New Clue to the Puzzle of the Expanding Universe",
+  "summary": "Scientists know the universe is expanding, but they disagree about how fast. Two of the best ways to measure the speed disagree. This is the Hubble tension.\n\nOne way uses the cosmic microwave background, the faint afterglow of the Big Bang. It predicts an expansion rate of about 67. The other way measures how fast faraway galaxies move away from us, using exploding stars called supernovae. Hubble and James Webb space telescope observations give a higher value of about 73. The gap is statistically very significant.\n\nA team of researchers wondered whether tiny magnetic fields from the very early universe could help. They are called primordial magnetic fields. The idea is that they changed how the first hydrogen formed. That would shift the moment the universe became transparent and change the \"cosmic ruler\" used to measure distances.\n\nThe team ran three-dimensional simulations and tested them against observations. Their idea stayed possible. They found a mild preference for these fields, which they say is not yet a discovery, but a meaningful hint.",
+  "why_it_matters": "The puzzle suggests that scientists' best model of the universe may be missing something, so solving it could change how we understand the universe.",
+  "image_url": "/article_images/science-s449539b4fa6b1f38.webp",
   "keywords": [
     {
-      "term": "gravity assist",
-      "explanation": "A move that uses a planet’s gravity to change a spacecraft’s speed and direction."
+      "term": "Hubble tension",
+      "explanation": "The disagreement between two ways of measuring how fast the universe expands."
     },
     {
-      "term": "instruments",
-      "explanation": "Tools that the spacecraft uses to take measurements."
+      "term": "cosmic microwave background",
+      "explanation": "The faint afterglow of the Big Bang."
     },
     {
-      "term": "calibration",
-      "explanation": "Checking and adjusting tools used for measurements."
+      "term": "supernovae",
+      "explanation": "Exploding stars."
     },
     {
-      "term": "magnetotail",
-      "explanation": "The long part of Earth’s magnetic field that reaches away from the Sun."
+      "term": "space telescope",
+      "explanation": "A telescope that works in space to see far-away objects."
+    },
+    {
+      "term": "magnetic fields",
+      "explanation": "Invisible areas around magnets where magnetic forces act."
+    },
+    {
+      "term": "simulations",
+      "explanation": "Computer programs that copy how something works."
     }
   ],
   "questions": [
     {
-      "question": "When did Juice pass Earth?",
+      "question": "What puzzle do scientists call the Hubble tension?",
       "options": [
-        "September 28, 2026",
-        "September 28, 2030",
-        "October 10, 2026",
-        "In the early 2030s"
+        "Two ways of measuring how fast the universe expands disagree",
+        "Why telescopes need special glass",
+        "How many stars are in the Milky Way galaxy",
+        "Why the Moon changes shape each month"
       ],
-      "correct_answer": "September 28, 2026"
+      "correct_answer": "Two ways of measuring how fast the universe expands disagree"
     },
     {
-      "question": "What helped Juice change its path toward Jupiter?",
+      "question": "What is the cosmic microwave background?",
       "options": [
-        "Earth’s gravity",
-        "Its scientific instruments",
-        "The Indian Ocean",
-        "Its cameras"
+        "The faint afterglow of the Big Bang",
+        "A star that exploded long ago",
+        "A kind of dust floating in space",
+        "A new kind of space telescope"
       ],
-      "correct_answer": "Earth’s gravity"
+      "correct_answer": "The faint afterglow of the Big Bang"
     },
     {
-      "question": "How many small changes did controllers make to Juice’s path in the four weeks before the visit?",
+      "question": "What value does the afterglow method predict?",
       "options": [
-        "One",
-        "Thirty-five",
-        "Six",
-        "Ten"
+        "About 67",
+        "About 7",
+        "About 100",
+        "About 73"
       ],
-      "correct_answer": "One"
+      "correct_answer": "About 67"
     },
     {
-      "question": "Why was Earth useful for testing Juice’s tools?",
+      "question": "What do the Hubble and James Webb telescopes help measure?",
       "options": [
-        "It supplied extra fuel.",
-        "It gave Juice sunlight all the time.",
-        "It had no magnetic field.",
-        "Scientists know Earth well."
+        "How cold outer space can get",
+        "The age of the Moon's surface",
+        "How fast faraway galaxies move away from us",
+        "The weather on the planet Mars"
       ],
-      "correct_answer": "Scientists know Earth well."
+      "correct_answer": "How fast faraway galaxies move away from us"
     },
     {
-      "question": "What powered Juice while it was in Earth’s shadow?",
+      "question": "What did the team's idea say tiny magnetic fields might change?",
       "options": [
-        "Battery power alone",
-        "Earth’s magnetic field",
-        "Fuel from the icy moons",
-        "Its cameras"
+        "How the first hydrogen formed",
+        "The size of planet Earth",
+        "The color of all the stars",
+        "The speed of light in space"
       ],
-      "correct_answer": "Battery power alone"
+      "correct_answer": "How the first hydrogen formed"
     },
     {
-      "question": "Which three moons is Juice scheduled to pass?",
+      "question": "What do the researchers say about their result?",
       "options": [
-        "Europa, Earth and Callisto",
-        "Ganymede, Callisto and Europa",
-        "Ganymede, Jupiter and Earth",
-        "Earth, Jupiter and the Sun"
+        "It has been completely ruled out",
+        "It is a fully proven discovery",
+        "It is a hint, not yet a discovery",
+        "It solved the whole puzzle for good"
       ],
-      "correct_answer": "Ganymede, Callisto and Europa"
+      "correct_answer": "It is a hint, not yet a discovery"
     }
   ],
-  "background_read": [
-    "A gravity assist uses a planet’s gravity to change a spacecraft’s speed and direction.",
-    "Calibration means checking and adjusting instruments used to take measurements."
-  ],
+  "background_read": [],
   "Article_Structure": [
-    "Opening: Juice passes Earth and uses its gravity to change its path.",
-    "Flight details: The article gives changes in speed and direction, height above Earth and planning details.",
-    "Science tests: Teams check the instruments and manage time and power.",
-    "Future plans: The Earth visit helps prepare Juice for its planned moon visits."
+    "Opening: the universe is expanding, but how fast?",
+    "Two ways to measure the speed and the Hubble tension",
+    "The idea of tiny magnetic fields from the early universe",
+    "Simulations, testing and what the team found"
   ],
-  "perspectives": [
-    {
-      "perspective": "Angela Dietz",
-      "description": "She said careful planning helped Juice save fuel for studying Jupiter’s icy moons."
-    },
-    {
-      "perspective": "Claire Vallat",
-      "description": "She said the journey offers only a few chances to test the tools in conditions scientists understand well."
-    }
-  ],
-  "mined_at": "2026-10-04T11:41:49+00:00",
-  "source_published_at": "Sat, 03 Oct 2026 09:34:11 EDT",
+  "perspectives": [],
+  "mined_at": "2026-10-05T01:27:30+00:00",
+  "source_published_at": "Sun, 04 Oct 2026 08:05:54 EDT",
   "source_name": "ScienceDaily All",
-  "source_url": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261002080026.htm",
   "category": "Science",
-  "source_word_count": 642,
+  "source_word_count": 776,
   "detail_status": "full"
 }
