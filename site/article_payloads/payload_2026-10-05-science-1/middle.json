@@ -1,0 +1,111 @@
+{
+  "title": "Juice Spacecraft Uses Earth as a Slingshot Toward Jupiter",
+  "summary": "A European spacecraft called Juice just zoomed past Earth and used our planet's gravity to speed up on its long trip to Jupiter. Juice, short for Jupiter Icy Moons Explorer, belongs to the European Space Agency, or ESA.\n\nOn September 28, Juice passed just 8,640 kilometers above the Indian Ocean. This move is called a gravity assist. As the spacecraft swung close to Earth, our planet's gravity bent its path by 20 degrees and boosted its speed by 3.5 kilometers per second. Best of all, it used very little fuel.\n\nTo line up the flyby, mission controllers needed to make only one small course correction, even though they had set aside six chances. \"Thanks to our very careful planning, we used only a small amount of the propellant reserved for this flyby,\" said Angela Dietz, Juice's spacecraft operations manager. Saving fuel matters because Juice will need it later to study Jupiter's moons.\n\nThe flyby was also a chance to practice. Juice carries 10 science instruments, and teams spent months planning when each one could be switched on to test it using Earth as a real target. Project scientist Claire Vallat explained that the journey offers only a few chances to check the instruments in well-understood conditions. Juice also spent several days traveling through Earth's magnetotail, the long tail of our planet's magnetic field that stretches away from the Sun.\n\nThe real challenge is still ahead. At Jupiter, Juice is scheduled to make 35 flybys of three large icy moons: Ganymede, Callisto and Europa. Planning for the Europa flybys began about 10 years ago, and Juice will finally pass that moon in the early 2030s.",
+  "why_it_matters": "Gravity assists let missions reach distant worlds while saving fuel for science, and Juice's tests prepare it to study moons that may hold clues about icy worlds.",
+  "image_url": "/article_images/science-s35f8dfb62d0f1b6b.webp",
+  "keywords": [
+    {
+      "term": "gravity assist",
+      "explanation": "Using a planet's gravity to change a spacecraft's speed and path."
+    },
+    {
+      "term": "propellant",
+      "explanation": "Fuel a spacecraft uses to move."
+    },
+    {
+      "term": "course correction",
+      "explanation": "A small adjustment to a spacecraft's path."
+    },
+    {
+      "term": "magnetotail",
+      "explanation": "The long extension of Earth's magnetic field stretching away from the Sun."
+    },
+    {
+      "term": "ESA",
+      "explanation": "The European Space Agency."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What does the name Juice stand for?",
+      "options": [
+        "Journey Into Space Expedition",
+        "Jupiter Icy Moons Explorer",
+        "Just Using Ice",
+        "Jupiter Ice Unit"
+      ],
+      "correct_answer": "Jupiter Icy Moons Explorer"
+    },
+    {
+      "question": "How close did Juice pass above the Indian Ocean?",
+      "options": [
+        "8,640 kilometers",
+        "86 kilometers",
+        "Exactly 1 kilometer",
+        "864,000 kilometers"
+      ],
+      "correct_answer": "8,640 kilometers"
+    },
+    {
+      "question": "By how much did the flyby change Juice's direction?",
+      "options": [
+        "20 degrees",
+        "180 degrees",
+        "90 degrees",
+        "2 degrees"
+      ],
+      "correct_answer": "20 degrees"
+    },
+    {
+      "question": "How many course corrections did controllers need out of six chances?",
+      "options": [
+        "One",
+        "Four",
+        "None",
+        "All six"
+      ],
+      "correct_answer": "One"
+    },
+    {
+      "question": "Who explained that the journey offers only a few chances to check the instruments?",
+      "options": [
+        "Angela Dietz",
+        "Daniel Vimont",
+        "Claire Vallat",
+        "Elizabeth Catlos"
+      ],
+      "correct_answer": "Claire Vallat"
+    },
+    {
+      "question": "Which three moons will Juice study?",
+      "options": [
+        "The Moon, Mars and Venus",
+        "Ganymede, Callisto and Europa",
+        "Titan, Io and Phobos",
+        "Triton, Charon and Deimos"
+      ],
+      "correct_answer": "Ganymede, Callisto and Europa"
+    }
+  ],
+  "background_read": [],
+  "Article_Structure": [
+    "Lead: Juice uses Earth as a slingshot",
+    "Details of the September 28 flyby",
+    "Precise navigation and fuel savings",
+    "Testing 10 instruments and the magnetotail",
+    "The challenge ahead at Jupiter's icy moons"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Angela Dietz, Juice spacecraft operations manager",
+      "description": "Says careful planning meant only a small amount of reserved propellant was used."
+    }
+  ],
+  "mined_at": "2026-10-05T10:21:35+00:00",
+  "source_published_at": "Sat, 03 Oct 2026 09:34:11 EDT",
+  "source_name": "ScienceDaily Top Technology",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm",
+  "category": "Science",
+  "source_word_count": 642,
+  "detail_status": "full"
+}

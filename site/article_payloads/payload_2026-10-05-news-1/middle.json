@@ -1,0 +1,119 @@
+{
+  "title": "Some Voters Are Asking AI Chatbots for Help With Their Ballots",
+  "summary": "Voting in the 2026 midterm elections has already started in the United States, and some voters are trying something new to get ready. They are asking AI chatbots to help them research the candidates and races on their ballots, NPR reports.\n\nIn Morgantown, West Virginia, Adam Johnson, 40, spent hours one September evening going over his ballot with ChatGPT, a chatbot made by the company OpenAI. He asked it to list every race on his ballot and then to compare candidates based on the values he cares about. Johnson said the chatbot is \"kind of a people pleaser\" that tends to speak positively about whatever he leans toward.\n\nOther voters told NPR they use chatbots to learn about smaller local races that get little news coverage, to make tables comparing candidates, and to check whether claims they see online are true. Lisa Veldran, 65, of Madison, Wisconsin, used Google's Gemini chatbot to compare two candidates for governor. She said it can be a research tool, but people should remember who pays to build these bots and why. In Pennsylvania, author Lakshmi Iyer used the chatbot Claude to build a volunteer website that helps voters look up who is on their ballot.\n\nExperts urge caution. Rafael Batista, a fellow at Johns Hopkins University who studies how AI shapes people's experiences, said chatbots may pick information that pushes users further toward what they already believe. Because AI companies do not explain how their models choose sources, he said, it is hard to know what biases they carry. OpenAI said it monitors its models to keep answers politically neutral.\n\nChatbots can also \"hallucinate,\" which means giving false or made-up answers. Batista suggested that voters keep their personal preferences hidden when they ask questions.",
+  "why_it_matters": "As AI tools become part of how people learn about elections, understanding their strengths and weaknesses helps voters make informed choices.",
+  "image_url": "/article_images/news-s1a8d3e1ebab59637.webp",
+  "keywords": [
+    {
+      "term": "midterm elections",
+      "explanation": "U.S. elections held halfway through a president's term."
+    },
+    {
+      "term": "bias",
+      "explanation": "A leaning that can make information unfair or one-sided."
+    },
+    {
+      "term": "hallucinate",
+      "explanation": "When a chatbot gives false or made-up answers."
+    },
+    {
+      "term": "politically neutral",
+      "explanation": "Not favoring any political side."
+    },
+    {
+      "term": "chatbot",
+      "explanation": "A computer program that answers typed questions."
+    }
+  ],
+  "questions": [
+    {
+      "question": "According to NPR, what new thing are some voters trying?",
+      "options": [
+        "Voting only by mail",
+        "Voting twice",
+        "Skipping local races",
+        "Asking AI chatbots to research their ballots"
+      ],
+      "correct_answer": "Asking AI chatbots to research their ballots"
+    },
+    {
+      "question": "Which company makes ChatGPT?",
+      "options": [
+        "Johns Hopkins",
+        "Google",
+        "NPR",
+        "OpenAI"
+      ],
+      "correct_answer": "OpenAI"
+    },
+    {
+      "question": "What did Lisa Veldran use Gemini to do?",
+      "options": [
+        "Plan meals",
+        "Build a voter website",
+        "Find a job",
+        "Compare two candidates for governor"
+      ],
+      "correct_answer": "Compare two candidates for governor"
+    },
+    {
+      "question": "What did Veldran say people should remember about chatbots?",
+      "options": [
+        "That they never use the internet",
+        "That they are always right",
+        "Who pays to build them and why",
+        "That they only speak Spanish"
+      ],
+      "correct_answer": "Who pays to build them and why"
+    },
+    {
+      "question": "Why does Rafael Batista say it is hard to know chatbots' biases?",
+      "options": [
+        "Voters hide their questions",
+        "Chatbots refuse to talk about politics",
+        "Chatbots are too new to test",
+        "AI companies do not explain how their models choose sources"
+      ],
+      "correct_answer": "AI companies do not explain how their models choose sources"
+    },
+    {
+      "question": "What did Batista suggest voters do when asking chatbots questions?",
+      "options": [
+        "Keep their personal preferences hidden",
+        "Ask the same question twice",
+        "Only ask about the Senate",
+        "Share all their opinions first"
+      ],
+      "correct_answer": "Keep their personal preferences hidden"
+    }
+  ],
+  "background_read": [],
+  "Article_Structure": [
+    "Lead: voters turn to AI chatbots during the midterms",
+    "Example: Adam Johnson researches his ballot with ChatGPT",
+    "Other uses: local races, comparison tables and a voter website",
+    "Expert caution about bias and persuasion",
+    "Chatbot mistakes and advice for voters"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Voters",
+      "description": "Find chatbots useful for researching candidates and checking claims, while staying aware of their limits."
+    },
+    {
+      "perspective": "Rafael Batista, Johns Hopkins University",
+      "description": "Says chatbots may reinforce what users already believe and their biases are hard to see."
+    },
+    {
+      "perspective": "OpenAI",
+      "description": "Says it monitors its models to keep answers politically neutral."
+    }
+  ],
+  "mined_at": "2026-10-05T10:21:35+00:00",
+  "source_published_at": "Mon, 05 Oct 2026 05:00:00 -0400",
+  "source_name": "NPR World",
+  "source_url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
+  "category": "News",
+  "source_word_count": 1229,
+  "detail_status": "full"
+}

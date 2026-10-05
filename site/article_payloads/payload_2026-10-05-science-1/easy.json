@@ -1,0 +1,106 @@
+{
+  "title": "A Spacecraft Uses Earth to Speed Toward Jupiter",
+  "summary": "A European spacecraft named Juice just zoomed past Earth. It used our planet's gravity like a slingshot to speed up on its trip to Jupiter. Juice belongs to the European Space Agency, or ESA.\n\nOn September 28, Juice flew just 8,640 kilometers above the Indian Ocean. Earth's gravity bent its path by 20 degrees and made it go 3.5 kilometers per second faster. It used very little fuel.\n\nThe team made only one small change to Juice's path before the flyby. Saving fuel matters, because Juice will need it later at Jupiter.\n\nThe flyby was also practice time. Juice has 10 science tools, and the team tested them by looking at Earth. Juice also flew through Earth's magnetotail, a long tail of our planet's magnetic field.\n\nAt Jupiter, Juice will fly past three icy moons, Ganymede, Callisto and Europa, 35 times. It will reach Europa in the early 2030s.",
+  "why_it_matters": "It shows how scientists use gravity to travel far in space without using much fuel.",
+  "image_url": "/article_images/science-s35f8dfb62d0f1b6b.webp",
+  "keywords": [
+    {
+      "term": "spacecraft",
+      "explanation": "A machine that travels in space."
+    },
+    {
+      "term": "gravity",
+      "explanation": "The force that pulls things toward a planet."
+    },
+    {
+      "term": "slingshot",
+      "explanation": "A way of using a planet's pull to speed up and change direction."
+    },
+    {
+      "term": "magnetotail",
+      "explanation": "The long tail of Earth's magnetic field that points away from the Sun."
+    },
+    {
+      "term": "moon",
+      "explanation": "A natural object that travels around a planet."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Where is the Juice spacecraft going?",
+      "options": [
+        "Saturn",
+        "The Sun",
+        "Mars",
+        "Jupiter"
+      ],
+      "correct_answer": "Jupiter"
+    },
+    {
+      "question": "Which space agency does Juice belong to?",
+      "options": [
+        "The European Space Agency",
+        "A weather agency",
+        "A U.S. school",
+        "A toy company"
+      ],
+      "correct_answer": "The European Space Agency"
+    },
+    {
+      "question": "When did Juice fly past Earth?",
+      "options": [
+        "On New Year's Day",
+        "Last summer in July",
+        "It has not flown past yet",
+        "On September 28"
+      ],
+      "correct_answer": "On September 28"
+    },
+    {
+      "question": "What did Earth's gravity do to Juice?",
+      "options": [
+        "Turned it into a moon",
+        "Bent its path and made it faster",
+        "Stopped it",
+        "Pulled it down to land"
+      ],
+      "correct_answer": "Bent its path and made it faster"
+    },
+    {
+      "question": "Why does saving fuel matter?",
+      "options": [
+        "Juice will need it later at Jupiter",
+        "Fuel is used to make pictures",
+        "Fuel keeps the team warm",
+        "Juice is coming back to Earth tomorrow"
+      ],
+      "correct_answer": "Juice will need it later at Jupiter"
+    },
+    {
+      "question": "How many times will Juice fly past Jupiter's icy moons?",
+      "options": [
+        "35",
+        "100",
+        "3",
+        "10"
+      ],
+      "correct_answer": "35"
+    }
+  ],
+  "background_read": [],
+  "Article_Structure": [
+    "Juice zooms past Earth",
+    "How the slingshot worked",
+    "Saving fuel",
+    "Testing science tools",
+    "Plans at Jupiter"
+  ],
+  "perspectives": [],
+  "mined_at": "2026-10-05T10:21:35+00:00",
+  "source_published_at": "Sat, 03 Oct 2026 09:34:11 EDT",
+  "source_name": "ScienceDaily Top Technology",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm",
+  "category": "Science",
+  "source_word_count": 642,
+  "detail_status": "full"
+}

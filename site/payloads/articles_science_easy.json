@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-04-science-1",
-      "source": "ScienceDaily All",
-      "time_ago": "Sun, 04 Oct 2026 08:05:54 EDT",
-      "mined_at": "2026-10-05T01:27:30+00:00",
-      "source_published_at": "Sun, 04 Oct 2026 08:05:54 EDT",
-      "image_url": "/article_images/science-s449539b4fa6b1f38.webp",
+      "id": "2026-10-05-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Sat, 03 Oct 2026 09:34:11 EDT",
+      "mined_at": "2026-10-05T10:21:35+00:00",
+      "source_published_at": "Sat, 03 Oct 2026 09:34:11 EDT",
+      "image_url": "/article_images/science-s35f8dfb62d0f1b6b.webp",
       "category": "Science",
-      "title": "A New Clue to the Puzzle of the Expanding Universe",
-      "summary": "Tiny magnetic fields from the early universe could help explain why two ways of measuring cosmic expansion disagree."
+      "title": "A Spacecraft Uses Earth to Speed Toward Jupiter",
+      "summary": "The Juice spacecraft swung past Earth and used its gravity to speed up toward Jupiter."
     },
     {
-      "id": "2026-10-04-science-2",
-      "source": "Science News Explores",
-      "time_ago": "Fri, 02 Oct 2026 10:30:00 +0000",
-      "mined_at": "2026-10-05T01:27:30+00:00",
-      "source_published_at": "Fri, 02 Oct 2026 10:30:00 +0000",
-      "image_url": "/article_images/science-sbb0740274f1b2e5c.webp",
-      "category": "Science",
-      "title": "How a Naked Mole-Rat Queen's Scent Keeps the Peace",
-      "summary": "Scientists found that a chemical made only by naked mole-rat queens stops other colony members from fighting or mating."
-    },
-    {
-      "id": "2026-10-04-science-3",
+      "id": "2026-10-05-science-2",
       "source": "ScienceDaily Top Environment",
-      "time_ago": "Sun, 04 Oct 2026 07:11:24 EDT",
-      "mined_at": "2026-10-05T01:27:30+00:00",
-      "source_published_at": "Sun, 04 Oct 2026 07:11:24 EDT",
-      "image_url": "/article_images/science-s55372708ed9d71c9.webp",
+      "time_ago": "Sun, 04 Oct 2026 08:41:43 EDT",
+      "mined_at": "2026-10-05T10:21:35+00:00",
+      "source_published_at": "Sun, 04 Oct 2026 08:41:43 EDT",
+      "image_url": "/article_images/science-s382ccfcf4bff1fa0.webp",
       "category": "Science",
-      "title": "A New Light-Powered Material Makes Hydrogen From Water",
-      "summary": "Oregon State chemists built a light-activated material that makes hydrogen from water without an extra expensive metal catalyst."
+      "title": "Oklahoma's Hidden Meteor Crater Is Younger Than Scientists Thought",
+      "summary": "Tiny crystals show a meteor crater under Oklahoma is about 370 million years old, not 467.5 million."
+    },
+    {
+      "id": "2026-10-05-science-3",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Sun, 04 Oct 2026 07:50:46 EDT",
+      "mined_at": "2026-10-05T10:21:35+00:00",
+      "source_published_at": "Sun, 04 Oct 2026 07:50:46 EDT",
+      "image_url": "/article_images/science-s7a245de94166e8fd.webp",
+      "category": "Science",
+      "title": "A Forgotten Forest Experiment Grew Giant Trees",
+      "summary": "An old Australian experiment found that thinning a forest helped the remaining trees grow huge."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-04-news-1",
+      "id": "2026-10-05-news-1",
       "source": "NPR World",
-      "time_ago": "Sun, 04 Oct 2026 14:36:48 -0400",
-      "mined_at": "2026-10-05T01:27:30+00:00",
-      "source_published_at": "Sun, 04 Oct 2026 14:36:48 -0400",
-      "image_url": "/article_images/news-s43b34ca6859940b6.webp",
+      "time_ago": "Mon, 05 Oct 2026 05:00:00 -0400",
+      "mined_at": "2026-10-05T10:21:35+00:00",
+      "source_published_at": "Mon, 05 Oct 2026 05:00:00 -0400",
+      "image_url": "/article_images/news-s1a8d3e1ebab59637.webp",
       "category": "News",
-      "title": "President Names Jay Clayton to Lead New White House AI Group",
-      "summary": "President Trump named intelligence director Jay Clayton to lead a new White House group on advanced AI."
+      "title": "Some Voters Are Asking AI Chatbots for Help With Their Ballots",
+      "summary": "Some U.S. voters are using AI chatbots to research candidates, but experts warn the tools can be too agreeable and sometimes wrong."
     },
     {
-      "id": "2026-10-04-news-2",
-      "source": "BBC News",
-      "time_ago": "Mon, 05 Oct 2026 00:27:06 GMT",
-      "mined_at": "2026-10-05T01:27:30+00:00",
-      "source_published_at": "Mon, 05 Oct 2026 00:27:06 GMT",
-      "image_url": "/article_images/news-s152891da77fe19c4.webp",
+      "id": "2026-10-05-news-2",
+      "source": "NPR World",
+      "time_ago": "Mon, 05 Oct 2026 05:00:00 -0400",
+      "mined_at": "2026-10-05T10:21:35+00:00",
+      "source_published_at": "Mon, 05 Oct 2026 05:00:00 -0400",
+      "image_url": "/article_images/news-se4205d2e982ebb32.webp",
       "category": "News",
-      "title": "Brazil's Presidential Election Heads to a Run-Off",
-      "summary": "No one won a majority in Brazil's first round, so Flávio Bolsonaro and President Lula will face off on October 25."
+      "title": "A Very Strong El Niño Could Shake Up Weather Around the World",
+      "summary": "Forecasters say this year's El Niño could be the strongest on record, shifting rain and temperatures around the world."
     },
     {
-      "id": "2026-10-04-news-3",
+      "id": "2026-10-05-news-3",
       "source": "PBS NewsHour",
-      "time_ago": "Sun, 04 Oct 2026 12:42:31 -0400",
-      "mined_at": "2026-10-05T01:27:30+00:00",
-      "source_published_at": "Sun, 04 Oct 2026 12:42:31 -0400",
-      "image_url": "/article_images/news-sf66417298cf1a699.webp",
+      "time_ago": "Sun, 04 Oct 2026 17:37:37 -0400",
+      "mined_at": "2026-10-05T10:21:35+00:00",
+      "source_published_at": "Sun, 04 Oct 2026 17:37:37 -0400",
+      "image_url": "/article_images/news-s15acf451ce2d3d83.webp",
       "category": "News",
-      "title": "Bosnia Holds Elections as Leader Declares Victory for His Party",
-      "summary": "A Bosnian Serb leader declared victory for his party as votes were still being counted."
+      "title": "U.S. Bombers Leave a British Air Base After a Security Scare",
+      "summary": "The U.S. Air Force has moved its bombers out of a British base after an investigation into a suspected attack plan."
     }
   ]
 }
