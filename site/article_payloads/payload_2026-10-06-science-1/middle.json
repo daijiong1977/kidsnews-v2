@@ -1,0 +1,118 @@
+{
+  "title": "NASA Mission Will Check Whether a Moon Pit Leads to a Giant Cave",
+  "summary": "There is a large hole on the Moon called the Marius Hill Pit. Scientists think it might open into a huge cave or lava tube hidden underground. Now NASA has chosen a project to find out.\n\nThe project is called GIMLI, short for Geophysical Instruments for Marius Lunar pit Investigation. It is led by Than Putzig, a scientist at the Planetary Science Institute, or PSI. The company Honeybee Robotics will build much of the equipment, and the Norwegian Space Agency will provide a radar. The instruments will travel to the Moon on a lander and a rover.\n\nA lava tube is a tunnel formed by flowing lava long ago. Lava tubes are common on Earth, and scientists studying the Moon from orbit have found strong signs that caves and lava tubes may exist beneath its surface too.\n\nGIMLI will use several tools to look underground. Ground-penetrating radar sends signals into the ground. Seismic sensors measure vibrations that travel through rock. A gravimeter measures tiny changes in gravity. Cameras will photograph the surface and the walls of the pit. Together, these tools could show whether an empty space stretches away from the pit and how big it is.\n\nPutzig said seismic studies like this have hardly been done on the Moon since the Apollo astronauts did them.\n\nA cave could someday protect astronauts from radiation and from the Moon's extreme temperature changes. It could also hold clues about the Moon's volcanic past. \"Confirming a substantial lava tube would give us an insight into how volcanism operated on the Moon,\" said PSI scientist Gareth Morgan.\n\nEven if there is no cave, the mission could help explain how the pit formed and how lava once flowed across the Moon.",
+  "why_it_matters": "Finding a large cave on the Moon could help plan safer places for future astronauts and teach scientists how the Moon's volcanoes shaped it.",
+  "image_url": "/article_images/science-s7cf6d86803fb9922.webp",
+  "keywords": [
+    {
+      "term": "lava tube",
+      "explanation": "A lava tube is a natural tunnel left behind when flowing lava drains away."
+    },
+    {
+      "term": "rover",
+      "explanation": "A rover is a vehicle that drives across the surface of another world to explore it."
+    },
+    {
+      "term": "Ground-penetrating radar",
+      "explanation": "Ground-penetrating radar sends radio signals into the ground and listens for echoes to map what is below."
+    },
+    {
+      "term": "Seismic",
+      "explanation": "Seismic describes vibrations that travel through the ground, like those from earthquakes."
+    },
+    {
+      "term": "gravimeter",
+      "explanation": "A gravimeter is an instrument that measures tiny differences in the pull of gravity."
+    },
+    {
+      "term": "radiation",
+      "explanation": "Radiation is invisible energy from space that can harm living things."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is the name of the pit that GIMLI will study?",
+      "options": [
+        "The Marius Hill Pit",
+        "The Honeybee Crater",
+        "The Apollo Pit",
+        "The Putzig Hole"
+      ],
+      "correct_answer": "The Marius Hill Pit"
+    },
+    {
+      "question": "Who leads the GIMLI project?",
+      "options": [
+        "An Apollo astronaut",
+        "Gareth Morgan",
+        "Than Putzig",
+        "The Norwegian Space Agency"
+      ],
+      "correct_answer": "Than Putzig"
+    },
+    {
+      "question": "What will the Norwegian Space Agency provide?",
+      "options": [
+        "The rocket",
+        "A radar",
+        "The cameras",
+        "The rover"
+      ],
+      "correct_answer": "A radar"
+    },
+    {
+      "question": "What does a gravimeter measure?",
+      "options": [
+        "Tiny changes in gravity",
+        "Wind speed",
+        "Sound",
+        "Temperature"
+      ],
+      "correct_answer": "Tiny changes in gravity"
+    },
+    {
+      "question": "How could a Moon cave help astronauts someday?",
+      "options": [
+        "It could provide drinking water",
+        "It could protect them from radiation and extreme temperature changes",
+        "It could make rocket fuel",
+        "It could grow food"
+      ],
+      "correct_answer": "It could protect them from radiation and extreme temperature changes"
+    },
+    {
+      "question": "What could the mission learn even if there is no cave?",
+      "options": [
+        "Nothing at all",
+        "How the pit formed and how lava once flowed",
+        "How old the Sun is",
+        "Whether aliens live on the Moon"
+      ],
+      "correct_answer": "How the pit formed and how lava once flowed"
+    }
+  ],
+  "background_read": [
+    "Long ago, lava flowed across parts of the Moon, and when the outside of a lava flow cooled while hot lava kept moving underneath, it could leave behind an empty tunnel called a lava tube.",
+    "Pits on the Moon are places where the surface has opened up, and some may lead into these hidden tunnels.",
+    "Scientists have studied pits like the Marius Hill Pit from orbit, but tools on the surface can measure what lies underground much more directly.",
+    "Caves are interesting for future astronauts because the Moon has no thick air to block radiation or soften its extreme temperature changes."
+  ],
+  "Article_Structure": [
+    "LEAD: A large hole on the Moon might open into a hidden cave or lava tube",
+    "KEY EVENT: NASA chose the GIMLI project to find out",
+    "  ├─ WHO: Than Putzig of the Planetary Science Institute, Honeybee Robotics, Norwegian Space Agency",
+    "  ├─ WHERE: The Marius Hill Pit on the Moon",
+    "  └─ HOW: Radar, seismic sensors, a gravimeter and cameras on a lander and rover",
+    "WHY IT IS INTERESTING: A cave could shelter astronauts and hold clues to the Moon's volcanic past",
+    "EXPERT VIEW: Gareth Morgan says a lava tube would reveal how volcanism worked on the Moon",
+    "OPEN QUESTION: Does an empty space really stretch away from the pit, and how big is it?"
+  ],
+  "perspectives": [],
+  "mined_at": "2026-10-06T10:27:18+00:00",
+  "source_published_at": "Mon, 05 Oct 2026 00:47:40 EDT",
+  "source_name": "ScienceDaily All",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261003234013.htm",
+  "category": "Science",
+  "source_word_count": 826,
+  "detail_status": "full"
+}

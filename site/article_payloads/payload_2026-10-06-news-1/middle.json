@@ -1,0 +1,131 @@
+{
+  "title": "Supreme Court Hears Big Climate Change Case From Boulder, Colorado",
+  "summary": "The U.S. Supreme Court heard arguments on Monday in a major case about climate change. The case could shape how communities try to hold industries responsible for problems they say those industries helped cause.\n\nOfficials in Boulder, Colorado, sued two energy companies, Suncor and ExxonMobil. Boulder wants the companies to pay for the costs of natural disasters that local officials say are caused by climate change. The lawsuit claims the companies were deceptive in how they marketed and sold fossil fuels, such as oil and gas.\n\nThe energy companies say they are not responsible. Their lawyer, Kannon Shanmugam, told the court that more than two dozen similar cases are going on around the country. The companies argue that these cases could bankrupt the industry, hurt consumers and lead to billions of dollars in damages.\n\nOnly eight of the nine justices heard the case. Justice Samuel Alito stepped aside because he owns stock in oil and gas companies. If the eight justices split 4-4, an earlier ruling would stay in place. In that ruling, the Colorado Supreme Court said Boulder's lawsuit could go forward.\n\nAmy Howe, a Supreme Court expert for PBS NewsHour, said it was hard to tell how the court would decide. Some conservative justices worried that a win for Boulder could open the door to many similar lawsuits. Howe said a decision may not come until early next year.\n\nIf the court rules against Boulder, the other similar lawsuits might not be able to go forward either. That is why many people are watching this case closely.\n\nThis was the first case of the court's new term. Later this term, the justices will also hear cases about bans on certain rifles and about immigration rules.",
+  "why_it_matters": "The ruling could decide whether communities can make energy companies pay for climate-related damage, affecting more than two dozen similar lawsuits across the country.",
+  "image_url": "/article_images/news-s3aaba3d484864c3b.webp",
+  "keywords": [
+    {
+      "term": "arguments",
+      "explanation": "In court, arguments are the reasons lawyers give to try to convince judges to rule their way."
+    },
+    {
+      "term": "deceptive",
+      "explanation": "Deceptive means trying to make people believe something that is not true."
+    },
+    {
+      "term": "fossil fuels",
+      "explanation": "Fossil fuels are fuels like oil, gas and coal that formed from ancient plants and animals."
+    },
+    {
+      "term": "bankrupt",
+      "explanation": "To bankrupt a business means to leave it without enough money to pay what it owes."
+    },
+    {
+      "term": "justices",
+      "explanation": "Justices are the judges who sit on the Supreme Court."
+    },
+    {
+      "term": "term",
+      "explanation": "A court's term is the period of months when it hears and decides cases."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Which city brought the lawsuit against the energy companies?",
+      "options": [
+        "Cook County, Illinois",
+        "Denver, Colorado",
+        "Houston, Texas",
+        "Boulder, Colorado"
+      ],
+      "correct_answer": "Boulder, Colorado"
+    },
+    {
+      "question": "Which two companies are being sued?",
+      "options": [
+        "ExxonMobil and Chevron",
+        "Chevron and Suncor",
+        "Shell and BP",
+        "Suncor and ExxonMobil"
+      ],
+      "correct_answer": "Suncor and ExxonMobil"
+    },
+    {
+      "question": "Why did Justice Samuel Alito step aside from the case?",
+      "options": [
+        "He retired from the court",
+        "He lives in Boulder",
+        "He owns stock in oil and gas companies",
+        "He was sick"
+      ],
+      "correct_answer": "He owns stock in oil and gas companies"
+    },
+    {
+      "question": "What happens if the eight justices split 4-4?",
+      "options": [
+        "Congress decides the case",
+        "The case starts over",
+        "The energy companies automatically win",
+        "The Colorado Supreme Court's ruling stays in place"
+      ],
+      "correct_answer": "The Colorado Supreme Court's ruling stays in place"
+    },
+    {
+      "question": "About how many similar cases did the companies' lawyer say are going on around the country?",
+      "options": [
+        "Five",
+        "Only this one",
+        "About one hundred",
+        "More than two dozen"
+      ],
+      "correct_answer": "More than two dozen"
+    },
+    {
+      "question": "When might the court announce its decision, according to Amy Howe?",
+      "options": [
+        "Later this week",
+        "In ten years",
+        "Early next year",
+        "It already decided"
+      ],
+      "correct_answer": "Early next year"
+    }
+  ],
+  "background_read": [
+    "The Supreme Court is the highest court in the United States, and its nine justices decide hard legal questions after lower courts have already ruled.",
+    "Climate change is the long-term warming of Earth, which scientists link mainly to burning fossil fuels such as oil, gas and coal.",
+    "Before reaching the Supreme Court, Boulder's lawsuit against Suncor and ExxonMobil was allowed to go forward by the Colorado Supreme Court.",
+    "When a justice steps aside from a case, the remaining justices decide it, and a tie leaves the lower court's ruling in place."
+  ],
+  "Article_Structure": [
+    "LEAD: The Supreme Court heard arguments Monday in a major climate change case",
+    "KEY EVENT: Boulder, Colorado, wants Suncor and ExxonMobil to pay for climate-related disaster costs",
+    "  ├─ WHO: Boulder officials, two energy companies, eight justices",
+    "  ├─ WHERE: U.S. Supreme Court",
+    "  └─ WHEN: Monday, the first case of the new term",
+    "EVIDENCE: Boulder says the companies were deceptive about fossil fuels; the companies say they are not responsible",
+    "DETAIL: Justice Alito stepped aside, so a 4-4 tie would keep the Colorado ruling in place",
+    "OPEN QUESTION: A decision may not come until early next year, and it could affect more than two dozen similar cases"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Boulder officials",
+      "description": "They say climate change caused costly natural disasters and that the energy companies were deceptive in marketing and selling fossil fuels, so the companies should help pay."
+    },
+    {
+      "perspective": "Energy companies",
+      "description": "They say they are not responsible and that similar cases could bankrupt the industry, hurt consumers and lead to billions of dollars in damages."
+    },
+    {
+      "perspective": "Some conservative justices",
+      "description": "They worried that a win for Boulder could open the door to many similar lawsuits."
+    }
+  ],
+  "mined_at": "2026-10-06T10:27:18+00:00",
+  "source_published_at": "Mon, 05 Oct 2026 18:55:51 -0400",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/show/supreme-court-hears-case-on-holding-energy-companies-liable-for-climate-change",
+  "category": "News",
+  "source_word_count": 817,
+  "detail_status": "full"
+}

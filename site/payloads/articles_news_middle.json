@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-05-news-1",
-      "source": "NPR World",
-      "time_ago": "Mon, 05 Oct 2026 05:00:00 -0400",
-      "mined_at": "2026-10-05T10:21:35+00:00",
-      "source_published_at": "Mon, 05 Oct 2026 05:00:00 -0400",
-      "image_url": "/article_images/news-s1a8d3e1ebab59637.webp",
-      "category": "News",
-      "title": "Some Voters Are Asking AI Chatbots for Help With Their Ballots",
-      "summary": "Some U.S. voters are using AI chatbots to research candidates, but experts warn the tools can be too agreeable and sometimes wrong."
-    },
-    {
-      "id": "2026-10-05-news-2",
-      "source": "NPR World",
-      "time_ago": "Mon, 05 Oct 2026 05:00:00 -0400",
-      "mined_at": "2026-10-05T10:21:35+00:00",
-      "source_published_at": "Mon, 05 Oct 2026 05:00:00 -0400",
-      "image_url": "/article_images/news-se4205d2e982ebb32.webp",
-      "category": "News",
-      "title": "A Very Strong El Niño Could Shake Up Weather Around the World",
-      "summary": "Forecasters say this year's El Niño could be the strongest on record, shifting rain and temperatures around the world."
-    },
-    {
-      "id": "2026-10-05-news-3",
+      "id": "2026-10-06-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Sun, 04 Oct 2026 17:37:37 -0400",
-      "mined_at": "2026-10-05T10:21:35+00:00",
-      "source_published_at": "Sun, 04 Oct 2026 17:37:37 -0400",
-      "image_url": "/article_images/news-s15acf451ce2d3d83.webp",
+      "time_ago": "Mon, 05 Oct 2026 18:55:51 -0400",
+      "mined_at": "2026-10-06T10:27:18+00:00",
+      "source_published_at": "Mon, 05 Oct 2026 18:55:51 -0400",
+      "image_url": "/article_images/news-s3aaba3d484864c3b.webp",
       "category": "News",
-      "title": "U.S. Bombers Leave a British Air Base After a Security Scare",
-      "summary": "The U.S. Air Force has moved its bombers out of a British base after an investigation into a suspected attack plan."
+      "title": "Supreme Court Hears Big Climate Change Case From Boulder, Colorado",
+      "summary": "The Supreme Court heard a case about whether Boulder, Colorado, can make two energy companies pay for climate-related disaster costs."
+    },
+    {
+      "id": "2026-10-06-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Mon, 05 Oct 2026 22:03:16 -0400",
+      "mined_at": "2026-10-06T10:27:18+00:00",
+      "source_published_at": "Mon, 05 Oct 2026 22:03:16 -0400",
+      "image_url": "/article_images/news-s74cc283a1047ed45.webp",
+      "category": "News",
+      "title": "Is It a Person or a Computer? Experts Share Tips on Young Kids and AI",
+      "summary": "Experts say parents can help young children learn that AI assistants like Alexa and Siri are computers, not people."
+    },
+    {
+      "id": "2026-10-06-news-3",
+      "source": "BBC News",
+      "time_ago": "Tue, 06 Oct 2026 09:01:51 GMT",
+      "mined_at": "2026-10-06T10:27:18+00:00",
+      "source_published_at": "Tue, 06 Oct 2026 09:01:51 GMT",
+      "image_url": "/article_images/news-s7997f7507f525829.webp",
+      "category": "News",
+      "title": "Quebec Elects a Party That Wants Independence From Canada",
+      "summary": "Quebec's Parti Québécois, which wants independence from Canada, is projected to lead a minority government after Monday's election."
     }
   ]
 }

@@ -1,0 +1,127 @@
+{
+  "title": "This Year's El Niño Is Breaking Records, and It May Grow Stronger",
+  "summary": "Scientists say the El Niño that formed this year is already the most intense ever recorded, based on daily ocean temperatures. And it probably has not reached its peak yet.\n\nAn El Niño is a natural climate pattern. It forms in the central and eastern Pacific Ocean near the equator, the imaginary line around the middle of Earth. During an El Niño, the ocean there becomes warmer than normal and releases huge amounts of heat into the air. That can affect weather around the world, bringing droughts, floods, heat waves and strong storms.\n\nBy September 21, the sea surface where El Niños form was 3.08 degrees Celsius (5.54 degrees Fahrenheit) warmer than the average from 1991 to 2020. \"It has been a remarkable event,\" said Nathaniel Johnson, a climate scientist at the National Oceanic and Atmospheric Administration, or NOAA. He expects this El Niño to peak \"within the next few months.\"\n\nNOAA has not officially called it a record yet. That is because NOAA now uses a newer way to measure El Niños. By that measure, the El Niño of 1997 and 1998 is still stronger. But NOAA's own forecast suggests that record could soon be broken too.\n\nJohnson said this year has already brought a quieter Atlantic hurricane season, a busier Pacific hurricane season and droughts in Central America. By late fall, the southern United States may get more rain, while the Pacific Northwest may be drier than normal.\n\nScientists are still debating how climate change affects El Niño. Climate scientist Nathan Lenssen said Earth's warming has put more energy into the oceans.\n\nEl Niños usually last about a year. After a big one, the opposite pattern, called La Niña, often follows.",
+  "why_it_matters": "A record El Niño can shift rain, storms and temperatures around the world, including in the United States, and scientists are still working out how a warming planet changes these patterns.",
+  "image_url": "/article_images/science-s2c673e3ce1ea262f.webp",
+  "keywords": [
+    {
+      "term": "climate pattern",
+      "explanation": "A climate pattern is a repeating change in ocean and air conditions that affects weather over months or years."
+    },
+    {
+      "term": "equator",
+      "explanation": "The equator is the imaginary line around the middle of Earth, halfway between the North and South Poles."
+    },
+    {
+      "term": "droughts",
+      "explanation": "Droughts are long periods with much less rain than normal."
+    },
+    {
+      "term": "peak",
+      "explanation": "The peak is the highest or strongest point something reaches."
+    },
+    {
+      "term": "La Niña",
+      "explanation": "La Niña is the opposite of El Niño, when the same part of the Pacific becomes cooler than normal."
+    },
+    {
+      "term": "Pacific Northwest",
+      "explanation": "The Pacific Northwest is the region of the United States that includes Washington and Oregon."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Where do El Niños form?",
+      "options": [
+        "In the Indian Ocean near Africa",
+        "In the central and eastern Pacific Ocean near the equator",
+        "In the Atlantic Ocean near Europe",
+        "In the Arctic Ocean"
+      ],
+      "correct_answer": "In the central and eastern Pacific Ocean near the equator"
+    },
+    {
+      "question": "By September 21, how much warmer than the 1991-2020 average was the sea surface where El Niños form?",
+      "options": [
+        "0.5 degrees Celsius",
+        "10 degrees Celsius",
+        "1 degree Fahrenheit",
+        "3.08 degrees Celsius"
+      ],
+      "correct_answer": "3.08 degrees Celsius"
+    },
+    {
+      "question": "When does Nathaniel Johnson expect this El Niño to peak?",
+      "options": [
+        "In ten years",
+        "It already peaked",
+        "Next summer",
+        "Within the next few months"
+      ],
+      "correct_answer": "Within the next few months"
+    },
+    {
+      "question": "Why has NOAA not officially called it a record yet?",
+      "options": [
+        "It uses a newer way to measure El Niños",
+        "It thinks El Niño is over",
+        "It has not measured the ocean",
+        "It is waiting for a vote"
+      ],
+      "correct_answer": "It uses a newer way to measure El Niños"
+    },
+    {
+      "question": "Which of these has this year's El Niño already brought, according to Johnson?",
+      "options": [
+        "No changes at all",
+        "Snow in Central America",
+        "A quieter Atlantic hurricane season",
+        "A busier Atlantic hurricane season"
+      ],
+      "correct_answer": "A quieter Atlantic hurricane season"
+    },
+    {
+      "question": "What often follows a big El Niño?",
+      "options": [
+        "La Niña",
+        "An ice age",
+        "A volcano",
+        "Another El Niño right away"
+      ],
+      "correct_answer": "La Niña"
+    }
+  ],
+  "background_read": [
+    "El Niño and La Niña are two opposite phases of a natural back-and-forth pattern in the tropical Pacific Ocean.",
+    "Normally, winds push warm surface water toward the western Pacific, but during an El Niño those winds weaken and warm water spreads east along the equator.",
+    "Because the Pacific is so huge, that extra warm water releases enough heat to shift rain, storms and temperatures in many parts of the world.",
+    "Scientists track El Niño by measuring sea-surface temperatures and comparing them with long-term averages."
+  ],
+  "Article_Structure": [
+    "LEAD: This year's El Niño is already the most intense on record by daily ocean temperatures",
+    "KEY CONCEPT: El Niño is a natural climate pattern in the tropical Pacific that releases ocean heat",
+    "  ├─ WHERE: Central and eastern Pacific Ocean near the equator",
+    "  └─ WHEN: By September 21, the sea surface was 3.08 degrees Celsius above average",
+    "EVIDENCE: NOAA scientist Nathaniel Johnson calls it remarkable and expects a peak within months",
+    "TWIST: By NOAA's newer measure, the 1997-1998 El Niño is still stronger for now",
+    "EFFECTS: Quieter Atlantic and busier Pacific hurricane seasons, droughts in Central America",
+    "OPEN QUESTION: How climate change affects El Niño is still debated"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Nathaniel Johnson, NOAA climate scientist",
+      "description": "He calls the event remarkable, expects it to peak within months and says scientists have not agreed on how climate change affects El Niño."
+    },
+    {
+      "perspective": "Nathan Lenssen, climate scientist",
+      "description": "He says Earth's warming has put more energy into the oceans."
+    }
+  ],
+  "mined_at": "2026-10-06T10:27:18+00:00",
+  "source_published_at": "Mon, 05 Oct 2026 10:30:00 +0000",
+  "source_name": "Science News Explores",
+  "source_url": "https://www.snexplores.org/article/record-breaking-2026-el-nino",
+  "category": "Science",
+  "source_word_count": 879,
+  "detail_status": "full"
+}

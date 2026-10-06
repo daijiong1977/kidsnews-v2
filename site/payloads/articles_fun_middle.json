@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-05-fun-1",
+      "id": "2026-10-06-fun-1",
+      "source": "DOGOnews",
+      "time_ago": "",
+      "mined_at": "2026-10-06T10:27:18+00:00",
+      "source_published_at": "",
+      "image_url": "/article_images/fun-s25987818fd158ab9.webp",
+      "category": "Fun",
+      "title": "Pikachu Went to Space, and Now It Is Helping Celebrate World Space Week",
+      "summary": "A Pikachu plush spent 67 days on the space station, and ESA is using it to celebrate World Space Week with a Pokémon exhibit."
+    },
+    {
+      "id": "2026-10-06-fun-2",
       "source": "BBC Tennis",
-      "time_ago": "Sun, 04 Oct 2026 07:30:23 GMT",
-      "mined_at": "2026-10-05T10:21:35+00:00",
-      "source_published_at": "Sun, 04 Oct 2026 07:30:23 GMT",
-      "image_url": "/article_images/fun-s25b7ee65330de90d.webp",
+      "time_ago": "Tue, 06 Oct 2026 09:06:44 GMT",
+      "mined_at": "2026-10-06T10:27:18+00:00",
+      "source_published_at": "Tue, 06 Oct 2026 09:06:44 GMT",
+      "image_url": "/article_images/fun-s0d1422ec213bd001.webp",
       "category": "Fun",
-      "title": "Big Upsets at the China Open as Sabalenka Falls to Bartunkova",
-      "summary": "Rising Czech player Nikola Bartunkova upset world number two Aryna Sabalenka, a day after the top seed also lost in Beijing."
+      "title": "Tennis Star Jannik Sinner Ends His Season Early to Rest His Knee",
+      "summary": "World number one Jannik Sinner is ending his 2026 tennis season early to get treatment for his right knee."
     },
     {
-      "id": "2026-10-05-fun-2",
-      "source": "Polygon",
-      "time_ago": "Mon, 05 Oct 2026 08:58:50 GMT",
-      "mined_at": "2026-10-05T10:21:35+00:00",
-      "source_published_at": "Mon, 05 Oct 2026 08:58:50 GMT",
-      "image_url": "/article_images/fun-se033b3f009a6129e.webp",
+      "id": "2026-10-06-fun-3",
+      "source": "NPR Music",
+      "time_ago": "Fri, 02 Oct 2026 17:54:54 -0400",
+      "mined_at": "2026-10-06T10:27:18+00:00",
+      "source_published_at": "Fri, 02 Oct 2026 17:54:54 -0400",
+      "image_url": "/article_images/fun-s40209242b9ba29cf.webp",
       "category": "Fun",
-      "title": "New Lord of the Rings Movie Is Still on Its Way",
-      "summary": "Warner Bros. says Stephen Colbert's Lord of the Rings movie is still in development, despite a rumor that it was paused."
-    },
-    {
-      "id": "2026-10-05-fun-3",
-      "source": "Variety",
-      "time_ago": "Mon, 05 Oct 2026 07:30:00 +0000",
-      "mined_at": "2026-10-05T10:21:35+00:00",
-      "source_published_at": "Mon, 05 Oct 2026 07:30:00 +0000",
-      "image_url": "/article_images/fun-sc951c1f7ff8fd34d.webp",
-      "category": "Fun",
-      "title": "\"The Chase\" Goes on a Treasure Hunt Around Europe",
-      "summary": "ITV Studios is turning quiz show \"The Chase\" into a puzzle-filled treasure hunt across Europe, one of 10 new shows it announced."
+      "title": "Kitchen Singers Become Surprise Social Media Stars",
+      "summary": "The Tonics, a group of mostly dads and grandfathers who sing in their kitchens, now have nearly 100,000 Instagram followers."
     }
   ]
 }

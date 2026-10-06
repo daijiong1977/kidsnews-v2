@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-05-fun-1",
+      "id": "2026-10-06-fun-1",
+      "source": "DOGOnews",
+      "time_ago": "",
+      "mined_at": "2026-10-06T10:27:18+00:00",
+      "source_published_at": "",
+      "image_url": "/article_images/fun-s25987818fd158ab9.webp",
+      "category": "Fun",
+      "title": "Pikachu Went to Space!",
+      "summary": "A Pikachu plush spent 67 days on the space station, and now it is part of a World Space Week exhibit."
+    },
+    {
+      "id": "2026-10-06-fun-2",
       "source": "BBC Tennis",
-      "time_ago": "Sun, 04 Oct 2026 07:30:23 GMT",
-      "mined_at": "2026-10-05T10:21:35+00:00",
-      "source_published_at": "Sun, 04 Oct 2026 07:30:23 GMT",
-      "image_url": "/article_images/fun-s25b7ee65330de90d.webp",
+      "time_ago": "Tue, 06 Oct 2026 09:06:44 GMT",
+      "mined_at": "2026-10-06T10:27:18+00:00",
+      "source_published_at": "Tue, 06 Oct 2026 09:06:44 GMT",
+      "image_url": "/article_images/fun-s0d1422ec213bd001.webp",
       "category": "Fun",
-      "title": "Surprise Wins Shake Up the China Open",
-      "summary": "Young Czech player Nikola Bartunkova beat world number two Aryna Sabalenka at the China Open."
+      "title": "Tennis Star Jannik Sinner Takes a Break to Heal His Knee",
+      "summary": "World number one Jannik Sinner is ending his 2026 season early to get treatment for his knee."
     },
     {
-      "id": "2026-10-05-fun-2",
-      "source": "Polygon",
-      "time_ago": "Mon, 05 Oct 2026 08:58:50 GMT",
-      "mined_at": "2026-10-05T10:21:35+00:00",
-      "source_published_at": "Mon, 05 Oct 2026 08:58:50 GMT",
-      "image_url": "/article_images/fun-se033b3f009a6129e.webp",
+      "id": "2026-10-06-fun-3",
+      "source": "NPR Music",
+      "time_ago": "Fri, 02 Oct 2026 17:54:54 -0400",
+      "mined_at": "2026-10-06T10:27:18+00:00",
+      "source_published_at": "Fri, 02 Oct 2026 17:54:54 -0400",
+      "image_url": "/article_images/fun-s40209242b9ba29cf.webp",
       "category": "Fun",
-      "title": "A New Lord of the Rings Movie Is Still Being Made",
-      "summary": "Warner Bros. says a new Lord of the Rings movie with Stephen Colbert is still being made."
-    },
-    {
-      "id": "2026-10-05-fun-3",
-      "source": "Variety",
-      "time_ago": "Mon, 05 Oct 2026 07:30:00 +0000",
-      "mined_at": "2026-10-05T10:21:35+00:00",
-      "source_published_at": "Mon, 05 Oct 2026 07:30:00 +0000",
-      "image_url": "/article_images/fun-sc951c1f7ff8fd34d.webp",
-      "category": "Fun",
-      "title": "\"The Chase\" Becomes a Treasure Hunt Around Europe",
-      "summary": "A new version of the quiz show \"The Chase\" will send players on a puzzle hunt across Europe."
+      "title": "Singing Dads Become Surprise Stars Online",
+      "summary": "The Tonics, a group of singing dads and grandfathers, now have almost 100,000 Instagram followers."
     }
   ]
 }
