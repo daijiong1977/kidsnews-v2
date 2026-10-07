@@ -1,0 +1,114 @@
+{
+  "title": "Rosalind Franklin Knew Her Famous DNA Photo Was Special, Study Says",
+  "summary": "DNA carries the instructions for every living thing. In 1962, three scientists won a Nobel Prize for showing that DNA is shaped like a double helix, a twisted ladder. Their work used X-ray photos taken by another scientist, Rosalind Franklin.\n\nA new study looked at Franklin's notes and photos. Historian Alistair Sponsel and scientist Brian Sutton say she understood more than people thought.\n\nHer most famous picture is called Photograph 51. Some stories said she did not think it was important. But her notes for an earlier photo, Photograph 49, mention a possible helix shape. The same day she saw it, she started a sharper photo of the same sample.\n\nSponsel said her extra effort was \"a sign she knew she had something really important on her hands.\"\n\nFranklin died in 1958, which made her unable to share the later prize. The study suggests she found DNA's helix shape, but not the full double helix.",
+  "why_it_matters": "It reminds us that everyone who helps with a discovery deserves credit.",
+  "image_url": "/article_images/science-s28e9249720ec1d64.webp",
+  "keywords": [
+    {
+      "term": "DNA",
+      "explanation": "The tiny code inside living things that tells them how to grow and work."
+    },
+    {
+      "term": "Nobel Prize",
+      "explanation": "A famous award for great work in science, peace or writing."
+    },
+    {
+      "term": "double helix",
+      "explanation": "A shape like a twisted ladder."
+    },
+    {
+      "term": "X-ray",
+      "explanation": "A special kind of light that can make pictures of things we cannot see."
+    },
+    {
+      "term": "Historian",
+      "explanation": "A person who studies the past."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What shape is DNA?",
+      "options": [
+        "A star",
+        "A double helix, like a twisted ladder",
+        "A circle",
+        "A square"
+      ],
+      "correct_answer": "A double helix, like a twisted ladder"
+    },
+    {
+      "question": "Whose X-ray photos did the prize-winning scientists use?",
+      "options": [
+        "Brian Sutton's",
+        "Alistair Sponsel's",
+        "Nobody's",
+        "Rosalind Franklin's"
+      ],
+      "correct_answer": "Rosalind Franklin's"
+    },
+    {
+      "question": "What is Franklin's most famous picture called?",
+      "options": [
+        "Photograph 49",
+        "Photograph 51",
+        "Photograph 1962",
+        "Photograph 1"
+      ],
+      "correct_answer": "Photograph 51"
+    },
+    {
+      "question": "What did her notes for Photograph 49 mention?",
+      "options": [
+        "A birthday",
+        "A possible helix shape",
+        "The weather",
+        "A broken machine"
+      ],
+      "correct_answer": "A possible helix shape"
+    },
+    {
+      "question": "What did she do the same day she saw Photograph 49?",
+      "options": [
+        "Started a sharper photo of the same sample",
+        "Went on vacation",
+        "Threw it away",
+        "Won a prize"
+      ],
+      "correct_answer": "Started a sharper photo of the same sample"
+    },
+    {
+      "question": "What does the study say Franklin found?",
+      "options": [
+        "A new planet",
+        "Nothing",
+        "DNA's helix shape, but not the full double helix",
+        "The full double helix"
+      ],
+      "correct_answer": "DNA's helix shape, but not the full double helix"
+    }
+  ],
+  "background_read": [
+    "DNA is found inside the cells of every living thing and works like an instruction book.",
+    "Scientists can shine X-rays at tiny things and study the patterns to learn their shape.",
+    "Learning DNA's shape helped scientists understand how living things pass traits to their children."
+  ],
+  "Article_Structure": [
+    "WHO: Rosalind Franklin, studied by historian Alistair Sponsel and scientist Brian Sutton",
+    "WHAT: A study says she knew her DNA photos showed something important",
+    "WHERE: In her notes and photos, including Photograph 49 and Photograph 51",
+    "WHY: To correct old stories that said she did not understand her own photos"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Alistair Sponsel",
+      "description": "Says her extra effort was a sign she knew she had something really important."
+    }
+  ],
+  "mined_at": "2026-10-07T10:28:40+00:00",
+  "source_published_at": "Tue, 06 Oct 2026 17:33:06 +0000",
+  "source_name": "Live Science",
+  "source_url": "https://www.livescience.com/health/she-knew-she-had-something-really-important-on-her-hands-rosalind-franklin-figured-out-dnas-helical-structure-before-watson-and-crick-study-suggests",
+  "category": "Science",
+  "source_word_count": 847,
+  "detail_status": "full"
+}

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-06-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Mon, 05 Oct 2026 18:55:51 -0400",
-      "mined_at": "2026-10-06T10:27:18+00:00",
-      "source_published_at": "Mon, 05 Oct 2026 18:55:51 -0400",
-      "image_url": "/article_images/news-s3aaba3d484864c3b.webp",
+      "id": "2026-10-07-news-1",
+      "source": "NPR World",
+      "time_ago": "Wed, 07 Oct 2026 05:00:00 -0400",
+      "mined_at": "2026-10-07T10:28:40+00:00",
+      "source_published_at": "Wed, 07 Oct 2026 05:00:00 -0400",
+      "image_url": "/article_images/news-s1246d0e777ba018e.webp",
       "category": "News",
-      "title": "Supreme Court Hears Big Climate Change Case From Boulder, Colorado",
-      "summary": "The Supreme Court heard a case about whether Boulder, Colorado, can make two energy companies pay for climate-related disaster costs."
+      "title": "New Federal Data Shows How U.S. Public School Students Are Doing",
+      "summary": "A big federal survey of more than 97,000 public schools shows more preschoolers, more suspensions and a teacher workforce less diverse than students."
     },
     {
-      "id": "2026-10-06-news-2",
+      "id": "2026-10-07-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Mon, 05 Oct 2026 22:03:16 -0400",
-      "mined_at": "2026-10-06T10:27:18+00:00",
-      "source_published_at": "Mon, 05 Oct 2026 22:03:16 -0400",
-      "image_url": "/article_images/news-s74cc283a1047ed45.webp",
+      "time_ago": "Tue, 06 Oct 2026 19:51:58 -0400",
+      "mined_at": "2026-10-07T10:28:40+00:00",
+      "source_published_at": "Tue, 06 Oct 2026 19:51:58 -0400",
+      "image_url": "/article_images/news-s148579a0938d01dd.webp",
       "category": "News",
-      "title": "Is It a Person or a Computer? Experts Share Tips on Young Kids and AI",
-      "summary": "Experts say parents can help young children learn that AI assistants like Alexa and Siri are computers, not people."
+      "title": "ABC Asks Judge to Stop Early Government Review of Its TV Station Licenses",
+      "summary": "ABC told a federal judge that an early FCC review of its station licenses threatens free speech. The government says the court is the wrong place for the case."
     },
     {
-      "id": "2026-10-06-news-3",
-      "source": "BBC News",
-      "time_ago": "Tue, 06 Oct 2026 09:01:51 GMT",
-      "mined_at": "2026-10-06T10:27:18+00:00",
-      "source_published_at": "Tue, 06 Oct 2026 09:01:51 GMT",
-      "image_url": "/article_images/news-s7997f7507f525829.webp",
+      "id": "2026-10-07-news-3",
+      "source": "NPR World",
+      "time_ago": "Wed, 07 Oct 2026 05:00:00 -0400",
+      "mined_at": "2026-10-07T10:28:40+00:00",
+      "source_published_at": "Wed, 07 Oct 2026 05:00:00 -0400",
+      "image_url": "/article_images/news-sa59d1c2676c20d73.webp",
       "category": "News",
-      "title": "Quebec Elects a Party That Wants Independence From Canada",
-      "summary": "Quebec's Parti Québécois, which wants independence from Canada, is projected to lead a minority government after Monday's election."
+      "title": "Leaders From Both Parties Back a New Bike and Walking Bridge Over the Ohio River",
+      "summary": "Ohio and West Virginia towns want to replace a closed, rusted bridge with one that carries a cross-country bike and walking trail."
     }
   ]
 }

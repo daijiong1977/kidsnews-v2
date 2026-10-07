@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-06-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Mon, 05 Oct 2026 18:55:51 -0400",
-      "mined_at": "2026-10-06T10:27:18+00:00",
-      "source_published_at": "Mon, 05 Oct 2026 18:55:51 -0400",
-      "image_url": "/article_images/news-s3aaba3d484864c3b.webp",
+      "id": "2026-10-07-news-1",
+      "source": "NPR World",
+      "time_ago": "Wed, 07 Oct 2026 05:00:00 -0400",
+      "mined_at": "2026-10-07T10:28:40+00:00",
+      "source_published_at": "Wed, 07 Oct 2026 05:00:00 -0400",
+      "image_url": "/article_images/news-s1246d0e777ba018e.webp",
       "category": "News",
-      "title": "Supreme Court Hears a Big Case About Climate Change",
-      "summary": "The Supreme Court heard Boulder, Colorado's case asking two energy companies to pay for climate disaster costs."
+      "title": "Big School Survey Shows More Preschoolers and More Suspensions",
+      "summary": "A big government survey of public schools found more kids in preschool, more suspensions and teachers who look very different from their students."
     },
     {
-      "id": "2026-10-06-news-2",
+      "id": "2026-10-07-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Mon, 05 Oct 2026 22:03:16 -0400",
-      "mined_at": "2026-10-06T10:27:18+00:00",
-      "source_published_at": "Mon, 05 Oct 2026 22:03:16 -0400",
-      "image_url": "/article_images/news-s74cc283a1047ed45.webp",
+      "time_ago": "Tue, 06 Oct 2026 19:51:58 -0400",
+      "mined_at": "2026-10-07T10:28:40+00:00",
+      "source_published_at": "Tue, 06 Oct 2026 19:51:58 -0400",
+      "image_url": "/article_images/news-s148579a0938d01dd.webp",
       "category": "News",
-      "title": "Is It a Person or a Computer? Tips for Little Kids and AI",
-      "summary": "Experts say parents can help little kids learn that AI helpers like Alexa and Siri are computers, not people."
+      "title": "ABC Asks a Judge to Stop an Early Check of Its TV Licenses",
+      "summary": "ABC says an early government check of its TV licenses goes against free speech. A judge will decide later."
     },
     {
-      "id": "2026-10-06-news-3",
-      "source": "BBC News",
-      "time_ago": "Tue, 06 Oct 2026 09:01:51 GMT",
-      "mined_at": "2026-10-06T10:27:18+00:00",
-      "source_published_at": "Tue, 06 Oct 2026 09:01:51 GMT",
-      "image_url": "/article_images/news-s7997f7507f525829.webp",
+      "id": "2026-10-07-news-3",
+      "source": "NPR World",
+      "time_ago": "Wed, 07 Oct 2026 05:00:00 -0400",
+      "mined_at": "2026-10-07T10:28:40+00:00",
+      "source_published_at": "Wed, 07 Oct 2026 05:00:00 -0400",
+      "image_url": "/article_images/news-sa59d1c2676c20d73.webp",
       "category": "News",
-      "title": "Quebec Picks a Party That Wants to Leave Canada",
-      "summary": "Quebec's Parti Québécois, which wants independence from Canada, is expected to lead a minority government."
+      "title": "Two Towns Want a New Bridge for Bikes and Walkers",
+      "summary": "Leaders in Ohio and West Virginia want a new bridge with a bike and walking path to replace an old, closed one."
     }
   ]
 }

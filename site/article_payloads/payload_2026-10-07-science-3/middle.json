@@ -1,0 +1,123 @@
+{
+  "title": "New Study Says Rosalind Franklin Knew Her Famous DNA Photo Was Important",
+  "summary": "DNA is the molecule that carries the instructions for every living thing. In 1962, three scientists, Francis Crick, James Watson and Maurice Wilkins, won a Nobel Prize for discovering that DNA is shaped like a double helix, a twisted ladder. But their work depended on X-ray photographs taken by another scientist, Rosalind Franklin.\n\nA new study suggests Franklin understood more than she was given credit for. Historian Alistair Sponsel of the Science History Institute in Philadelphia and scientist Brian Sutton of King's College London studied her notes and photos. Their work was published Monday in the Journal of the History of Biology.\n\nFranklin's most famous image is called Photograph 51, taken in May 1952. Some stories said it was an experimental shot she thought was unimportant. Watson also suggested she was good at taking pictures but bad at understanding them.\n\nThe new research tells a different story. Franklin first photographed the DNA sample in Photograph 49, and her notes for that picture mention a possible helical shape. The same day she saw it, she started a new, sharper photo of the same sample: Photograph 51.\n\n\"She took it because she wanted to get a really refined version,\" Sponsel told Live Science. That effort, he said, is \"a sign she knew she had something really important on her hands.\"\n\nThe researchers say Franklin chose to study another form of DNA first because it seemed to hold more data. During that time, Wilkins showed Watson her photographs. Watson and Crick then built their double helix model.\n\nFranklin died in 1958, which made her ineligible for the later prize. Live Science notes the study suggests she found DNA's helical shape, not the full double helix.",
+  "why_it_matters": "The study changes how people remember who contributed to one of the biggest discoveries in biology. It shows that credit in science can depend on how stories are told, and that careful historical research can correct them.",
+  "image_url": "/article_images/science-s28e9249720ec1d64.webp",
+  "keywords": [
+    {
+      "term": "molecule",
+      "explanation": "The smallest unit of a substance, made of atoms joined together."
+    },
+    {
+      "term": "double helix",
+      "explanation": "A shape like a twisted ladder, made of two strands winding around each other."
+    },
+    {
+      "term": "X-ray",
+      "explanation": "A kind of invisible light that can pass through many materials and be used to make images."
+    },
+    {
+      "term": "historian",
+      "explanation": "A person who studies and writes about the past."
+    },
+    {
+      "term": "ineligible",
+      "explanation": "Not allowed to receive or take part in something because of a rule."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Who won the 1962 Nobel Prize for the double helix discovery?",
+      "options": [
+        "Rosalind Franklin alone",
+        "Marie Curie",
+        "Alistair Sponsel and Brian Sutton",
+        "Francis Crick, James Watson and Maurice Wilkins"
+      ],
+      "correct_answer": "Francis Crick, James Watson and Maurice Wilkins"
+    },
+    {
+      "question": "What is Franklin's most famous image called?",
+      "options": [
+        "Photograph 62",
+        "Photograph 51",
+        "Photograph 49",
+        "The Helix Picture"
+      ],
+      "correct_answer": "Photograph 51"
+    },
+    {
+      "question": "What did Franklin's notes for Photograph 49 mention?",
+      "options": [
+        "A possible helical shape",
+        "Nothing about shape",
+        "A broken camera",
+        "A new planet"
+      ],
+      "correct_answer": "A possible helical shape"
+    },
+    {
+      "question": "What did Franklin do the same day she saw Photograph 49?",
+      "options": [
+        "She sent it to Watson",
+        "She started a new, sharper photo of the same sample",
+        "She published a paper",
+        "She stopped working on DNA"
+      ],
+      "correct_answer": "She started a new, sharper photo of the same sample"
+    },
+    {
+      "question": "Why did Franklin study another form of DNA first?",
+      "options": [
+        "It was easier to find",
+        "Watson told her to",
+        "It seemed to hold more data",
+        "Her camera only worked on it"
+      ],
+      "correct_answer": "It seemed to hold more data"
+    },
+    {
+      "question": "According to the study, what did Franklin find?",
+      "options": [
+        "DNA's helical shape, not the full double helix",
+        "The full double helix",
+        "That DNA is not in cells",
+        "That DNA is flat"
+      ],
+      "correct_answer": "DNA's helical shape, not the full double helix"
+    }
+  ],
+  "background_read": [
+    "DNA is the molecule inside cells that carries the instructions for how living things grow and work.",
+    "X-ray crystallography is a method in which scientists shine X-rays at a sample and study the patterns the rays make to figure out the shape of molecules.",
+    "Knowing DNA's twisted-ladder shape helped scientists understand how genetic information is copied and passed on.",
+    "Historians of science study old notebooks, letters and photographs to learn who made a discovery and how it happened."
+  ],
+  "Article_Structure": [
+    "LEAD: Rosalind Franklin's X-ray photos were key to the double helix discovery",
+    "KEY EVENT: New study in the Journal of the History of Biology re-examines her notes and photos",
+    "  ├─ WHO: Historian Alistair Sponsel and scientist Brian Sutton",
+    "  └─ WHAT: Photograph 49 notes mention a possible helix; Photograph 51 was a sharper follow-up",
+    "OLD VIEW: Stories said she thought Photograph 51 was unimportant and could not interpret her data",
+    "NEW VIEW: Taking a refined photo was a sign she knew it was important",
+    "CONTEXT: Wilkins showed Watson her photos while she studied another DNA form",
+    "LIMIT: She found the helical shape, not the full double helix; she died in 1958"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Alistair Sponsel, Science History Institute",
+      "description": "Says Franklin took Photograph 51 to get a refined version, a sign she knew she had something important."
+    },
+    {
+      "perspective": "James Watson",
+      "description": "Suggested Franklin was good at taking pictures but bad at understanding them, a view the new study challenges."
+    }
+  ],
+  "mined_at": "2026-10-07T10:28:40+00:00",
+  "source_published_at": "Tue, 06 Oct 2026 17:33:06 +0000",
+  "source_name": "Live Science",
+  "source_url": "https://www.livescience.com/health/she-knew-she-had-something-really-important-on-her-hands-rosalind-franklin-figured-out-dnas-helical-structure-before-watson-and-crick-study-suggests",
+  "category": "Science",
+  "source_word_count": 847,
+  "detail_status": "full"
+}

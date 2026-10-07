@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-06-science-1",
-      "source": "ScienceDaily All",
-      "time_ago": "Mon, 05 Oct 2026 00:47:40 EDT",
-      "mined_at": "2026-10-06T10:27:18+00:00",
-      "source_published_at": "Mon, 05 Oct 2026 00:47:40 EDT",
-      "image_url": "/article_images/science-s7cf6d86803fb9922.webp",
+      "id": "2026-10-07-science-1",
+      "source": "Popular Science",
+      "time_ago": "Tue, 06 Oct 2026 19:00:00 -0400",
+      "mined_at": "2026-10-07T10:28:40+00:00",
+      "source_published_at": "Tue, 06 Oct 2026 19:00:00 -0400",
+      "image_url": "/article_images/science-sda854333992752ca.webp",
       "category": "Science",
-      "title": "NASA Mission Will Check Whether a Moon Pit Leads to a Giant Cave",
-      "summary": "NASA picked a project called GIMLI to find out whether a pit on the Moon opens into a hidden lava tube cave."
+      "title": "A Crocodile Missing Its Snout Tip Gets a Name Inspired by the Great Sphinx",
+      "summary": "Scientists say a crocodile skull found in Egypt in the 1920s is a new extinct species. Like the Sphinx's nose, the tip of its snout is missing."
     },
     {
-      "id": "2026-10-06-science-2",
-      "source": "Science News Explores",
-      "time_ago": "Mon, 05 Oct 2026 10:30:00 +0000",
-      "mined_at": "2026-10-06T10:27:18+00:00",
-      "source_published_at": "Mon, 05 Oct 2026 10:30:00 +0000",
-      "image_url": "/article_images/science-s2c673e3ce1ea262f.webp",
+      "id": "2026-10-07-science-2",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Tue, 06 Oct 2026 08:04:50 EDT",
+      "mined_at": "2026-10-07T10:28:40+00:00",
+      "source_published_at": "Tue, 06 Oct 2026 08:04:50 EDT",
+      "image_url": "/article_images/science-s2883c36d603b2acc.webp",
       "category": "Science",
-      "title": "This Year's El Niño Is Breaking Records, and It May Grow Stronger",
-      "summary": "Ocean temperatures show 2026's El Niño is the most intense on record by one measure, and scientists expect it to strengthen."
+      "title": "Scientists See Tiny Particles Make Ripples in the Universe's First 'Soup'",
+      "summary": "Physicists at CERN found clear evidence that the super-hot matter from the universe's first moments behaves like a liquid, with particles leaving wakes like a duck on water."
     },
     {
-      "id": "2026-10-06-science-3",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Thu, 01 Oct 2026 09:59:22 EDT",
-      "mined_at": "2026-10-06T10:27:18+00:00",
-      "source_published_at": "Thu, 01 Oct 2026 09:59:22 EDT",
-      "image_url": "/article_images/science-s4929cd529f0490c0.webp",
+      "id": "2026-10-07-science-3",
+      "source": "Live Science",
+      "time_ago": "Tue, 06 Oct 2026 17:33:06 +0000",
+      "mined_at": "2026-10-07T10:28:40+00:00",
+      "source_published_at": "Tue, 06 Oct 2026 17:33:06 +0000",
+      "image_url": "/article_images/science-s28e9249720ec1d64.webp",
       "category": "Science",
-      "title": "Scientists Find New Giant Stick Insects Hiding in Plain Sight",
-      "summary": "Australian scientists found that two kinds of giant stick insects were really five, including a new species with lidded eggs."
+      "title": "New Study Says Rosalind Franklin Knew Her Famous DNA Photo Was Important",
+      "summary": "Historians studied Rosalind Franklin's notes and photos and say she understood DNA's helical shape before Watson and Crick built their famous model."
     }
   ]
 }
