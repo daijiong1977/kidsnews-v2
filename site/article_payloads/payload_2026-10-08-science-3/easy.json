@@ -1,0 +1,113 @@
+{
+  "title": "Did a Science Machine Spot Dark Matter? Scientists Aren't Sure Yet",
+  "summary": "Dark matter is something invisible. Scientists think it makes up most of the matter in space. They know it is there because its gravity pulls on stars. But no one has ever seen it directly.\n\nNow, a machine called LZ may have spotted it for the first time. LZ is in South Dakota. It has a big tank filled with liquid xenon, a chemical element. If a dark matter particle bumped into an atom in the tank, it would make a tiny flash of light that sensors could see.\n\nScientists looked through 220 days of data. They found just one event that might be dark matter. It was recorded in June 2023.\n\n\"Absolutely fascinating,\" said Rick Gaitskell, a physicist on the LZ team.\n\nBut one event is not enough to be sure. Scientists need more data before they can say they have really found dark matter.",
+  "why_it_matters": "It shows that good scientists check their work and wait for more proof before saying they found something.",
+  "image_url": "/article_images/science-s69a0db35ad6c164f.webp",
+  "keywords": [
+    {
+      "term": "invisible",
+      "explanation": "Not able to be seen."
+    },
+    {
+      "term": "gravity",
+      "explanation": "The force that pulls things toward each other."
+    },
+    {
+      "term": "particle",
+      "explanation": "A super tiny piece of something."
+    },
+    {
+      "term": "xenon",
+      "explanation": "A rare chemical element used in the LZ machine's tank."
+    },
+    {
+      "term": "physicist",
+      "explanation": "A scientist who studies matter, energy and forces."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is dark matter?",
+      "options": [
+        "A new planet",
+        "A black rock",
+        "Something invisible in space",
+        "A kind of cloud"
+      ],
+      "correct_answer": "Something invisible in space"
+    },
+    {
+      "question": "How do scientists know dark matter is there?",
+      "options": [
+        "They can see it glow",
+        "It smells strange",
+        "It makes loud sounds",
+        "Its gravity pulls on stars"
+      ],
+      "correct_answer": "Its gravity pulls on stars"
+    },
+    {
+      "question": "What is the machine in the story called?",
+      "options": [
+        "Webb",
+        "Theia",
+        "Fusus",
+        "LZ"
+      ],
+      "correct_answer": "LZ"
+    },
+    {
+      "question": "Where is the machine?",
+      "options": [
+        "In Japan",
+        "In South Dakota",
+        "In a school",
+        "On the Moon"
+      ],
+      "correct_answer": "In South Dakota"
+    },
+    {
+      "question": "How many days of data did the scientists look through?",
+      "options": [
+        "2",
+        "50",
+        "1,000",
+        "220"
+      ],
+      "correct_answer": "220"
+    },
+    {
+      "question": "Why aren't scientists sure yet?",
+      "options": [
+        "Dark matter is not real",
+        "One event is not enough to be sure",
+        "The machine broke",
+        "They lost the data"
+      ],
+      "correct_answer": "One event is not enough to be sure"
+    }
+  ],
+  "background_read": [
+    "Scientists know there is a lot of invisible stuff in space because its pull changes how stars move.",
+    "They build special machines to try to catch it, because they cannot see it with telescopes."
+  ],
+  "Article_Structure": [
+    "WHO: Scientists working with the LZ machine, including physicist Rick Gaitskell",
+    "WHAT: They may have spotted one sign of dark matter, but they are not sure yet",
+    "WHERE: A machine with a tank of liquid xenon in South Dakota",
+    "WHY: To finally find the invisible stuff that makes up most of the matter in space"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Rick Gaitskell, LZ team physicist",
+      "description": "Calls the possible sign absolutely fascinating."
+    }
+  ],
+  "mined_at": "2026-10-08T10:25:57+00:00",
+  "source_published_at": "Wed, 07 Oct 2026 10:30:00 +0000",
+  "source_name": "Science News Explores",
+  "source_url": "https://www.snexplores.org/article/lz-find-glimpse-dark-matter",
+  "category": "Science",
+  "source_word_count": 648,
+  "detail_status": "full"
+}

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-07-news-1",
-      "source": "NPR World",
-      "time_ago": "Wed, 07 Oct 2026 05:00:00 -0400",
-      "mined_at": "2026-10-07T10:28:40+00:00",
-      "source_published_at": "Wed, 07 Oct 2026 05:00:00 -0400",
-      "image_url": "/article_images/news-s1246d0e777ba018e.webp",
+      "id": "2026-10-08-news-1",
+      "source": "CBC World",
+      "time_ago": "Wed, 07 Oct 2026 18:09:53 EDT",
+      "mined_at": "2026-10-08T10:25:57+00:00",
+      "source_published_at": "Wed, 07 Oct 2026 18:09:53 EDT",
+      "image_url": "/article_images/news-sb9bab3cb17950981.webp",
       "category": "News",
-      "title": "Big School Survey Shows More Preschoolers and More Suspensions",
-      "summary": "A big government survey of public schools found more kids in preschool, more suspensions and teachers who look very different from their students."
+      "title": "A Big Storm Called Isaias Is Heading for the U.S. Gulf Coast",
+      "summary": "Tropical Storm Isaias may become a hurricane and reach the U.S. Gulf Coast late Friday or early Saturday."
     },
     {
-      "id": "2026-10-07-news-2",
+      "id": "2026-10-08-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Tue, 06 Oct 2026 19:51:58 -0400",
-      "mined_at": "2026-10-07T10:28:40+00:00",
-      "source_published_at": "Tue, 06 Oct 2026 19:51:58 -0400",
-      "image_url": "/article_images/news-s148579a0938d01dd.webp",
+      "time_ago": "Wed, 07 Oct 2026 18:40:20 -0400",
+      "mined_at": "2026-10-08T10:25:57+00:00",
+      "source_published_at": "Wed, 07 Oct 2026 18:40:20 -0400",
+      "image_url": "/article_images/news-se612bc3162f9e7ae.webp",
       "category": "News",
-      "title": "ABC Asks a Judge to Stop an Early Check of Its TV Licenses",
-      "summary": "ABC says an early government check of its TV licenses goes against free speech. A judge will decide later."
+      "title": "Two People Running for Georgia Governor Hold a TV Debate",
+      "summary": "Keisha Lance Bottoms and Rick Jackson, who want to be Georgia's next governor, answered voters' questions in their only TV debate."
     },
     {
-      "id": "2026-10-07-news-3",
+      "id": "2026-10-08-news-3",
       "source": "NPR World",
-      "time_ago": "Wed, 07 Oct 2026 05:00:00 -0400",
-      "mined_at": "2026-10-07T10:28:40+00:00",
-      "source_published_at": "Wed, 07 Oct 2026 05:00:00 -0400",
-      "image_url": "/article_images/news-sa59d1c2676c20d73.webp",
+      "time_ago": "Thu, 08 Oct 2026 05:00:00 -0400",
+      "mined_at": "2026-10-08T10:25:57+00:00",
+      "source_published_at": "Thu, 08 Oct 2026 05:00:00 -0400",
+      "image_url": "/article_images/news-sea87e310cc6bfac9.webp",
       "category": "News",
-      "title": "Two Towns Want a New Bridge for Bikes and Walkers",
-      "summary": "Leaders in Ohio and West Virginia want a new bridge with a bike and walking path to replace an old, closed one."
+      "title": "Police Are Using More Computer Tools to Watch Cities",
+      "summary": "More police departments are using AI software that combines many cameras and data in one place, and some experts worry about privacy."
     }
   ]
 }

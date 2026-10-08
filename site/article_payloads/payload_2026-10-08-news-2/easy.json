@@ -1,0 +1,121 @@
+{
+  "title": "Two People Running for Georgia Governor Hold a TV Debate",
+  "summary": "This year, 36 states are choosing a governor. A governor is the leader of a state. In Georgia, the two main candidates met this week for their only debate on TV.\n\nOne candidate is Keisha Lance Bottoms, a Democrat who used to be the mayor of Atlanta. The other is Rick Jackson, a Republican businessman. Right now, Jackson is a little ahead in the polls.\n\nVoters got to ask the candidates questions. They asked about the cost of living, cameras that read license plates, data centers, pay and a government health program called Medicaid.\n\nBottoms said Jackson has claimed he does not disagree with any of President Donald Trump's policies. Jackson did not say Trump's name. He compared himself to Georgia's current governor, Brian Kemp. Trump has endorsed Jackson.\n\nJackson's supporters said they like that he is a businessman and not a longtime politician. He is also spending lots of money on TV ads.\n\nToday, the U.S. has 26 Republican governors and 24 Democratic governors.",
+  "why_it_matters": "The governor helps make decisions about things kids use every day, like schools and roads.",
+  "image_url": "/article_images/news-se612bc3162f9e7ae.webp",
+  "keywords": [
+    {
+      "term": "governor",
+      "explanation": "The leader of a U.S. state's government."
+    },
+    {
+      "term": "candidates",
+      "explanation": "People who are trying to win an election."
+    },
+    {
+      "term": "debate",
+      "explanation": "An event where people running for office answer questions and share their different ideas."
+    },
+    {
+      "term": "polls",
+      "explanation": "Surveys that ask people whom they plan to vote for."
+    },
+    {
+      "term": "endorsed",
+      "explanation": "Said in public that he supports someone."
+    },
+    {
+      "term": "politician",
+      "explanation": "A person whose job is working in government or running for office."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How many states are choosing a governor this year?",
+      "options": [
+        "50",
+        "10",
+        "36",
+        "24"
+      ],
+      "correct_answer": "36"
+    },
+    {
+      "question": "Which job did Keisha Lance Bottoms have before?",
+      "options": [
+        "Mayor of Atlanta",
+        "TV reporter",
+        "Governor of Georgia",
+        "Teacher"
+      ],
+      "correct_answer": "Mayor of Atlanta"
+    },
+    {
+      "question": "What is Rick Jackson's background?",
+      "options": [
+        "He is a doctor",
+        "He is a mayor",
+        "He is a Republican businessman",
+        "He is a football coach"
+      ],
+      "correct_answer": "He is a Republican businessman"
+    },
+    {
+      "question": "Who did Rick Jackson compare himself to?",
+      "options": [
+        "Brian Kemp, Georgia's current governor",
+        "Abraham Lincoln",
+        "Keisha Lance Bottoms",
+        "Joe Biden"
+      ],
+      "correct_answer": "Brian Kemp, Georgia's current governor"
+    },
+    {
+      "question": "Who asked the candidates questions?",
+      "options": [
+        "Students",
+        "Voters",
+        "Movie stars",
+        "Other governors"
+      ],
+      "correct_answer": "Voters"
+    },
+    {
+      "question": "How many Republican governors does the U.S. have today?",
+      "options": [
+        "50",
+        "24",
+        "36",
+        "26"
+      ],
+      "correct_answer": "26"
+    }
+  ],
+  "background_read": [
+    "A governor is the leader of a state, chosen by the people who vote there.",
+    "Before an election, candidates often hold debates so voters can hear their ideas and compare them."
+  ],
+  "Article_Structure": [
+    "WHO: Democrat Keisha Lance Bottoms and Republican Rick Jackson",
+    "WHAT: Their only TV debate in the race for governor, where voters asked questions",
+    "WHERE: Georgia, one of 36 states choosing a governor this year",
+    "WHY: To help voters compare the candidates before they choose Georgia's next leader"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Keisha Lance Bottoms",
+      "description": "Says Jackson has claimed he does not disagree with any of President Trump's policies."
+    },
+    {
+      "perspective": "Rick Jackson's supporters",
+      "description": "Like that he is a businessman and not a longtime politician."
+    }
+  ],
+  "mined_at": "2026-10-08T10:25:57+00:00",
+  "source_published_at": "Wed, 07 Oct 2026 18:40:20 -0400",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/show/georgia-governors-debate-highlights-voterss-top-concerns",
+  "category": "News",
+  "source_word_count": 646,
+  "detail_status": "full"
+}

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-07-science-1",
-      "source": "Popular Science",
-      "time_ago": "Tue, 06 Oct 2026 19:00:00 -0400",
-      "mined_at": "2026-10-07T10:28:40+00:00",
-      "source_published_at": "Tue, 06 Oct 2026 19:00:00 -0400",
-      "image_url": "/article_images/science-sda854333992752ca.webp",
+      "id": "2026-10-08-science-1",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Wed, 07 Oct 2026 09:09:15 EDT",
+      "mined_at": "2026-10-08T10:25:57+00:00",
+      "source_published_at": "Wed, 07 Oct 2026 09:09:15 EDT",
+      "image_url": "/article_images/science-s69b9a76463466d8f.webp",
       "category": "Science",
-      "title": "A Crocodile Missing Its Snout Tip Gets a Name Inspired by the Great Sphinx",
-      "summary": "Scientists say a crocodile skull found in Egypt in the 1920s is a new extinct species. Like the Sphinx's nose, the tip of its snout is missing."
+      "title": "Webb Telescope Spots Signs of Giant Crashes Around Young Stars",
+      "summary": "NASA's James Webb Space Telescope studied dusty disks around young stars and found signs that Mars-sized worlds may be crashing together."
     },
     {
-      "id": "2026-10-07-science-2",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Tue, 06 Oct 2026 08:04:50 EDT",
-      "mined_at": "2026-10-07T10:28:40+00:00",
-      "source_published_at": "Tue, 06 Oct 2026 08:04:50 EDT",
-      "image_url": "/article_images/science-s2883c36d603b2acc.webp",
+      "id": "2026-10-08-science-2",
+      "source": "DOGOnews",
+      "time_ago": "",
+      "mined_at": "2026-10-08T10:25:57+00:00",
+      "source_published_at": "",
+      "image_url": "/article_images/science-s18744ca395d65e08.webp",
       "category": "Science",
-      "title": "Scientists See Tiny Particles Make Ripples in the Universe's First 'Soup'",
-      "summary": "Physicists at CERN found clear evidence that the super-hot matter from the universe's first moments behaves like a liquid, with particles leaving wakes like a duck on water."
+      "title": "Giraffes Can Do Simple Math, Scientists Find",
+      "summary": "Scientists in Barcelona found that zoo giraffes can keep track of small numbers of carrots, showing they can do simple math."
     },
     {
-      "id": "2026-10-07-science-3",
-      "source": "Live Science",
-      "time_ago": "Tue, 06 Oct 2026 17:33:06 +0000",
-      "mined_at": "2026-10-07T10:28:40+00:00",
-      "source_published_at": "Tue, 06 Oct 2026 17:33:06 +0000",
-      "image_url": "/article_images/science-s28e9249720ec1d64.webp",
+      "id": "2026-10-08-science-3",
+      "source": "Science News Explores",
+      "time_ago": "Wed, 07 Oct 2026 10:30:00 +0000",
+      "mined_at": "2026-10-08T10:25:57+00:00",
+      "source_published_at": "Wed, 07 Oct 2026 10:30:00 +0000",
+      "image_url": "/article_images/science-s69a0db35ad6c164f.webp",
       "category": "Science",
-      "title": "New Study Says Rosalind Franklin Knew Her Famous DNA Photo Was Important",
-      "summary": "Historians studied Rosalind Franklin's notes and photos and say she understood DNA's helical shape before Watson and Crick built their famous model."
+      "title": "Did Scientists Just Spot Dark Matter? One Clue Has Physicists Excited",
+      "summary": "An underground detector called LZ may have spotted a single sign of dark matter, but scientists say they need more data to be sure."
     }
   ]
 }

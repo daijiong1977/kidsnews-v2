@@ -1,0 +1,127 @@
+{
+  "title": "Webb Telescope Spots Signs of Giant Crashes Around Young Stars",
+  "summary": "Scientists think our Moon formed after a huge crash long ago. The young Earth collided with a Mars-sized object called Theia, and some of the debris later came together to form the Moon. Now, NASA's James Webb Space Telescope is helping astronomers study young star systems where similar crashes may be happening.\n\nA team led by Kate Su of the Space Science Institute in Boulder, Colorado, studied 21 rare \"extreme debris disks.\" These are clouds of unusually warm dust close to young stars, in the area where rocky planets like Earth orbit in our own solar system. Five came from older data collected by NASA's retired Spitzer Space Telescope, and 16 were studied with Webb. The findings were published on October 1 in The Astrophysical Journal.\n\n\"This is the first time we have gathered enough systems to truly understand this subclass that we call extreme debris disks,\" Su said.\n\nScientists estimate that only about 1% of young stars show signs of this stage. Our own solar system may have gone through it, too.\n\nThe researchers studied the minerals in the dust and found two groups. About one-third of the disks are rich in silica, a material found in volcanic glass called obsidian. The team says these likely formed after extremely powerful crashes between Mars-sized worlds, strong enough to turn a lot of rock into vapor. The other two-thirds have little silica. They seem to come from gentler crashes, including glancing blows between Moon-sized objects.\n\nThe silica-rich disks were found only around stars younger than 300 million years. The silica-poor disks appear around stars of many different ages.\n\n\"We have no other way to study these planetary embryos directly because they are too small,\" said Agnes Kospal of Konkoly Observatory in Budapest, Hungary, a co-author of the study.",
+  "why_it_matters": "Watching crashes around young stars helps scientists understand how Earth and the Moon formed. It shows that building planets can be a violent process.",
+  "image_url": "/article_images/science-s69b9a76463466d8f.webp",
+  "keywords": [
+    {
+      "term": "debris disks",
+      "explanation": "Rings of dust and rocky pieces that circle a star."
+    },
+    {
+      "term": "silica",
+      "explanation": "A common material made of silicon and oxygen that is found in sand and glass."
+    },
+    {
+      "term": "obsidian",
+      "explanation": "A shiny black glass that forms when lava cools very quickly."
+    },
+    {
+      "term": "vapor",
+      "explanation": "A substance in the form of a gas."
+    },
+    {
+      "term": "minerals",
+      "explanation": "Natural solid substances that make up rocks."
+    },
+    {
+      "term": "planetary embryos",
+      "explanation": "Young, growing objects that may one day become planets."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What object do scientists think crashed into the young Earth?",
+      "options": [
+        "A comet named Spitzer",
+        "Theia",
+        "Jupiter",
+        "Mars"
+      ],
+      "correct_answer": "Theia"
+    },
+    {
+      "question": "How many extreme debris disks did the team study in total?",
+      "options": [
+        "300",
+        "5",
+        "21",
+        "16"
+      ],
+      "correct_answer": "21"
+    },
+    {
+      "question": "About what share of young stars show signs of this dusty stage?",
+      "options": [
+        "About one-third",
+        "About 1%",
+        "Almost all",
+        "About half"
+      ],
+      "correct_answer": "About 1%"
+    },
+    {
+      "question": "What do scientists think created the silica-rich disks?",
+      "options": [
+        "Volcanoes on Earth",
+        "Extremely powerful crashes between Mars-sized worlds",
+        "Gentle bumps between tiny pebbles",
+        "Exploding stars"
+      ],
+      "correct_answer": "Extremely powerful crashes between Mars-sized worlds"
+    },
+    {
+      "question": "Around which stars were silica-rich disks found?",
+      "options": [
+        "Only our Sun",
+        "Stars of all ages",
+        "Only very old stars",
+        "Only stars younger than 300 million years"
+      ],
+      "correct_answer": "Only stars younger than 300 million years"
+    },
+    {
+      "question": "Where were the findings published?",
+      "options": [
+        "Space Kids Weekly",
+        "A NASA comic book",
+        "The Astrophysical Journal",
+        "Science News Explores"
+      ],
+      "correct_answer": "The Astrophysical Journal"
+    }
+  ],
+  "background_read": [
+    "The James Webb Space Telescope is a large space telescope that sees infrared light, which lets it study warm dust that is hard to see with ordinary light.",
+    "Planets form inside disks of gas and dust that circle young stars, where rocky pieces crash and stick together to build bigger bodies.",
+    "After most of the gas is gone, the leftover dust and rubble form what astronomers call a debris disk.",
+    "Studying these disks helps scientists understand how rocky planets like Earth, and our Moon, came to be."
+  ],
+  "Article_Structure": [
+    "LEAD: Webb is helping astronomers study young star systems where huge crashes may be happening",
+    "BACKGROUND: The Moon likely formed after young Earth collided with Mars-sized Theia",
+    "KEY STUDY: 21 extreme debris disks, 16 studied with Webb and 5 from Spitzer data",
+    "  ├─ WHO: A team led by Kate Su of the Space Science Institute",
+    "  └─ WHEN: Published October 1 in The Astrophysical Journal",
+    "EVIDENCE: Silica-rich disks point to powerful crashes; silica-poor disks to gentler ones",
+    "  └─ AGE CLUE: Silica-rich disks only around stars younger than 300 million years",
+    "OPEN QUESTION: Planetary embryos are too small to study directly"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Kate Su, lead author",
+      "description": "Says this is the first time enough extreme debris disks have been gathered to truly understand them."
+    },
+    {
+      "perspective": "Agnes Kospal, co-author",
+      "description": "Says studying the dust is the only way to learn about planetary embryos, which are too small to see directly."
+    }
+  ],
+  "mined_at": "2026-10-08T10:25:57+00:00",
+  "source_published_at": "Wed, 07 Oct 2026 09:09:15 EDT",
+  "source_name": "ScienceDaily Most Popular",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm",
+  "category": "Science",
+  "source_word_count": 750,
+  "detail_status": "full"
+}

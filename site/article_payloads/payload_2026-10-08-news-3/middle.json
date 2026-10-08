@@ -1,0 +1,134 @@
+{
+  "title": "Police Surveillance Software Is Growing, and Experts Are Debating It",
+  "summary": "Across the United States, hundreds of police departments have real-time crime centers. These are central hubs where officers can watch and combine information from many sources at once. Many of these centers are now powered by artificial intelligence (AI) software, such as a tool called Fusus from the company Axon.\n\nFusus pulls together video and data from police body cameras, police car cameras, 911 calls, gunshot detectors and surveillance cameras. Sometimes it also includes cameras from private businesses that choose to take part. In 2024, just over 100 law enforcement agencies used Fusus, according to the news site 404 Media. Axon says that number has more than doubled since then.\n\nPolice officers say the tool saves time. Benjamin Weir, a captain with the Oklahoma City Police Department, said having everything in one place helps analysts work faster.\n\nRecently, Flock cameras, which automatically read car license plates, have faced strong criticism. But privacy experts say tools like Fusus raise even bigger questions. Rachel Levinson-Waldman of New York University's Brennan Center for Justice said watching someone used to take time, staff and effort, which created natural limits. As that gets easier, she said, it becomes simpler to look at many people at once. Experts also warn the technology can sweep up innocent people by mistake.\n\nPolice told NPR they understand these worries but believe the benefits of stopping and solving crime are greater. Axon's CEO, Rick Smith, said the company values privacy and called the software \"a tool to amplify human ability, not to replace human judgment.\"\n\nCourts have not yet decided where the legal limits are. Law professor Andrew Guthrie Ferguson said lawmakers could set rules, such as limiting how long data is stored or requiring regular checks.",
+  "why_it_matters": "Decisions about police technology affect both public safety and the privacy of everyone in a community. The rules set now could shape how much people are watched in the future.",
+  "image_url": "/article_images/news-sea87e310cc6bfac9.webp",
+  "keywords": [
+    {
+      "term": "surveillance",
+      "explanation": "Closely watching people or places, often with cameras."
+    },
+    {
+      "term": "artificial intelligence",
+      "explanation": "Computer technology that can do tasks that usually need human thinking."
+    },
+    {
+      "term": "analysts",
+      "explanation": "People whose job is to study information and find what is important."
+    },
+    {
+      "term": "law enforcement",
+      "explanation": "Police and other officials whose job is to make sure laws are followed."
+    },
+    {
+      "term": "privacy",
+      "explanation": "The right to keep your personal life and information to yourself."
+    },
+    {
+      "term": "amplify",
+      "explanation": "To make something bigger or stronger."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is a real-time crime center?",
+      "options": [
+        "A courtroom for quick trials",
+        "A central hub where officers combine information from many sources",
+        "A police training school",
+        "A phone app for reporting crimes"
+      ],
+      "correct_answer": "A central hub where officers combine information from many sources"
+    },
+    {
+      "question": "Which company makes the Fusus software?",
+      "options": [
+        "Flock",
+        "NPR",
+        "Axon",
+        "404 Media"
+      ],
+      "correct_answer": "Axon"
+    },
+    {
+      "question": "About how many law enforcement agencies used Fusus in 2024?",
+      "options": [
+        "None",
+        "Just over 100",
+        "About 10",
+        "Exactly 1,000"
+      ],
+      "correct_answer": "Just over 100"
+    },
+    {
+      "question": "What do Flock cameras do?",
+      "options": [
+        "Fly over cities",
+        "Automatically read car license plates",
+        "Detect gunshots",
+        "Record 911 calls"
+      ],
+      "correct_answer": "Automatically read car license plates"
+    },
+    {
+      "question": "What worry did Rachel Levinson-Waldman raise?",
+      "options": [
+        "Police have too few officers",
+        "As watching gets easier, it becomes simpler to look at many people at once",
+        "The cameras cost too much",
+        "AI software is too slow"
+      ],
+      "correct_answer": "As watching gets easier, it becomes simpler to look at many people at once"
+    },
+    {
+      "question": "What rule did law professor Andrew Guthrie Ferguson say lawmakers could make?",
+      "options": [
+        "Hiring more judges",
+        "Banning all cameras",
+        "Closing every crime center",
+        "Limiting how long data is stored"
+      ],
+      "correct_answer": "Limiting how long data is stored"
+    }
+  ],
+  "background_read": [
+    "Police departments collect information from many sources, such as cameras, emergency calls and reports from officers.",
+    "A real-time crime center is a central room where staff can see much of that information at the same time, which can help police respond faster.",
+    "In the United States, people have a right to privacy, and courts help decide when government watching goes too far.",
+    "As technology makes it easier to collect and combine data, communities debate how to balance safety and privacy."
+  ],
+  "Article_Structure": [
+    "LEAD: Hundreds of U.S. police departments run real-time crime centers, many now powered by AI software",
+    "KEY TOOL: Axon's Fusus combines body cameras, car cameras, 911 calls, gunshot detectors and other cameras",
+    "  ├─ GROWTH: Just over 100 agencies in 2024, more than doubled since, according to Axon",
+    "  └─ SUPPORTERS: Police say it saves time and helps stop and solve crime",
+    "CONCERNS: Privacy experts say easier surveillance can sweep up innocent people",
+    "RESPONSE: Axon's CEO says it is a tool to amplify human ability, not replace human judgment",
+    "OPEN QUESTION: Courts have not set legal limits; lawmakers could add rules"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Police officers",
+      "description": "Say the software saves time and that its benefits for stopping and solving crime outweigh the risks."
+    },
+    {
+      "perspective": "Rachel Levinson-Waldman, Brennan Center for Justice",
+      "description": "Worries that removing the natural limits on surveillance makes it easy to look at many people at once."
+    },
+    {
+      "perspective": "Rick Smith, Axon CEO",
+      "description": "Says the company values privacy and that the tool amplifies human ability rather than replacing human judgment."
+    },
+    {
+      "perspective": "Andrew Guthrie Ferguson, law professor",
+      "description": "Says lawmakers could set limits, such as on how long data is stored or by requiring regular checks."
+    }
+  ],
+  "mined_at": "2026-10-08T10:25:57+00:00",
+  "source_published_at": "Thu, 08 Oct 2026 05:00:00 -0400",
+  "source_name": "NPR World",
+  "source_url": "https://www.npr.org/2026/10/08/nx-s1-5981343/beyond-flock-police-ai-surveillance-tools",
+  "category": "News",
+  "source_word_count": 908,
+  "detail_status": "full"
+}

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-07-news-1",
-      "source": "NPR World",
-      "time_ago": "Wed, 07 Oct 2026 05:00:00 -0400",
-      "mined_at": "2026-10-07T10:28:40+00:00",
-      "source_published_at": "Wed, 07 Oct 2026 05:00:00 -0400",
-      "image_url": "/article_images/news-s1246d0e777ba018e.webp",
+      "id": "2026-10-08-news-1",
+      "source": "CBC World",
+      "time_ago": "Wed, 07 Oct 2026 18:09:53 EDT",
+      "mined_at": "2026-10-08T10:25:57+00:00",
+      "source_published_at": "Wed, 07 Oct 2026 18:09:53 EDT",
+      "image_url": "/article_images/news-sb9bab3cb17950981.webp",
       "category": "News",
-      "title": "New Federal Data Shows How U.S. Public School Students Are Doing",
-      "summary": "A big federal survey of more than 97,000 public schools shows more preschoolers, more suspensions and a teacher workforce less diverse than students."
+      "title": "Tropical Storm Isaias Heads Toward the U.S. Gulf Coast",
+      "summary": "Tropical Storm Isaias is expected to become a hurricane and reach the U.S. Gulf Coast late Friday or early Saturday, and communities are getting ready."
     },
     {
-      "id": "2026-10-07-news-2",
+      "id": "2026-10-08-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Tue, 06 Oct 2026 19:51:58 -0400",
-      "mined_at": "2026-10-07T10:28:40+00:00",
-      "source_published_at": "Tue, 06 Oct 2026 19:51:58 -0400",
-      "image_url": "/article_images/news-s148579a0938d01dd.webp",
+      "time_ago": "Wed, 07 Oct 2026 18:40:20 -0400",
+      "mined_at": "2026-10-08T10:25:57+00:00",
+      "source_published_at": "Wed, 07 Oct 2026 18:40:20 -0400",
+      "image_url": "/article_images/news-se612bc3162f9e7ae.webp",
       "category": "News",
-      "title": "ABC Asks Judge to Stop Early Government Review of Its TV Station Licenses",
-      "summary": "ABC told a federal judge that an early FCC review of its station licenses threatens free speech. The government says the court is the wrong place for the case."
+      "title": "Georgia's Governor Candidates Meet for Their Only TV Debate",
+      "summary": "Democrat Keisha Lance Bottoms and Republican Rick Jackson, who are running for governor of Georgia, answered voters' questions in their only televised debate."
     },
     {
-      "id": "2026-10-07-news-3",
+      "id": "2026-10-08-news-3",
       "source": "NPR World",
-      "time_ago": "Wed, 07 Oct 2026 05:00:00 -0400",
-      "mined_at": "2026-10-07T10:28:40+00:00",
-      "source_published_at": "Wed, 07 Oct 2026 05:00:00 -0400",
-      "image_url": "/article_images/news-sa59d1c2676c20d73.webp",
+      "time_ago": "Thu, 08 Oct 2026 05:00:00 -0400",
+      "mined_at": "2026-10-08T10:25:57+00:00",
+      "source_published_at": "Thu, 08 Oct 2026 05:00:00 -0400",
+      "image_url": "/article_images/news-sea87e310cc6bfac9.webp",
       "category": "News",
-      "title": "Leaders From Both Parties Back a New Bike and Walking Bridge Over the Ohio River",
-      "summary": "Ohio and West Virginia towns want to replace a closed, rusted bridge with one that carries a cross-country bike and walking trail."
+      "title": "Police Surveillance Software Is Growing, and Experts Are Debating It",
+      "summary": "More police departments are using AI software that combines camera feeds and data in one place, and privacy experts are raising questions about it."
     }
   ]
 }

@@ -1,0 +1,121 @@
+{
+  "title": "Police Are Using More Computer Tools to Watch Cities",
+  "summary": "Hundreds of police departments in the U.S. have real-time crime centers. These are places where officers can see information from many sources at once. Many now use artificial intelligence, or AI, software. One tool is called Fusus. It is made by a company named Axon.\n\nFusus brings together videos and information from police body cameras, police car cameras, 911 calls and other cameras. In 2024, just over 100 police agencies used it. Axon says that number has more than doubled since then.\n\nPolice say the tool saves time and helps them solve crimes. But some experts are worried. They say it is becoming very easy to watch lots of people, and innocent people could be swept up by mistake.\n\nAxon's leader, Rick Smith, said the company values privacy. Courts have not yet decided where the limits should be. One law professor said lawmakers could make rules, such as limiting how long information is kept.",
+  "why_it_matters": "Cameras are in many places people go every day, so rules about how they are used affect everyone's privacy.",
+  "image_url": "/article_images/news-sea87e310cc6bfac9.webp",
+  "keywords": [
+    {
+      "term": "real-time",
+      "explanation": "Happening right now, at the same moment."
+    },
+    {
+      "term": "artificial intelligence",
+      "explanation": "Computer technology that can do jobs that usually need human thinking."
+    },
+    {
+      "term": "software",
+      "explanation": "Programs that tell a computer what to do."
+    },
+    {
+      "term": "innocent",
+      "explanation": "Not guilty of doing anything wrong."
+    },
+    {
+      "term": "privacy",
+      "explanation": "The right to keep your personal life and information to yourself."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is the name of the police software in the story?",
+      "options": [
+        "Fusion",
+        "Flock",
+        "Fusus",
+        "Fido"
+      ],
+      "correct_answer": "Fusus"
+    },
+    {
+      "question": "Which company makes the software?",
+      "options": [
+        "Axon",
+        "A school",
+        "NPR",
+        "A car company"
+      ],
+      "correct_answer": "Axon"
+    },
+    {
+      "question": "About how many police agencies used the tool in 2024?",
+      "options": [
+        "None",
+        "About 5",
+        "Just over 100",
+        "Exactly 1 million"
+      ],
+      "correct_answer": "Just over 100"
+    },
+    {
+      "question": "What do police say the tool does?",
+      "options": [
+        "Saves time and helps solve crimes",
+        "Cleans the streets",
+        "Teaches math",
+        "Makes cars go faster"
+      ],
+      "correct_answer": "Saves time and helps solve crimes"
+    },
+    {
+      "question": "What are some experts worried about?",
+      "options": [
+        "That AI is too funny",
+        "That it is becoming very easy to watch lots of people",
+        "That police have too many cars",
+        "That cameras are too small"
+      ],
+      "correct_answer": "That it is becoming very easy to watch lots of people"
+    },
+    {
+      "question": "What rule did one law professor suggest?",
+      "options": [
+        "Limiting how long information is kept",
+        "Turning off all phones",
+        "No more police",
+        "Only one camera per city"
+      ],
+      "correct_answer": "Limiting how long information is kept"
+    }
+  ],
+  "background_read": [
+    "Police use cameras and phone calls to learn what is happening in a city so they can help people quickly.",
+    "New computer tools can put all of that information in one place, so people are talking about how to keep both safety and privacy."
+  ],
+  "Article_Structure": [
+    "WHO: Police departments, the company Axon and privacy experts",
+    "WHAT: Police are using more AI software that combines videos and information from many cameras and calls",
+    "WHERE: Real-time crime centers in hundreds of U.S. police departments",
+    "WHY: Police say it saves time and helps solve crimes, but experts worry about privacy"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Police",
+      "description": "Say the tool saves time and helps them solve crimes."
+    },
+    {
+      "perspective": "Privacy experts",
+      "description": "Worry it is becoming too easy to watch lots of people, including innocent people."
+    },
+    {
+      "perspective": "Rick Smith, Axon's leader",
+      "description": "Says the company values privacy."
+    }
+  ],
+  "mined_at": "2026-10-08T10:25:57+00:00",
+  "source_published_at": "Thu, 08 Oct 2026 05:00:00 -0400",
+  "source_name": "NPR World",
+  "source_url": "https://www.npr.org/2026/10/08/nx-s1-5981343/beyond-flock-police-ai-surveillance-tools",
+  "category": "News",
+  "source_word_count": 908,
+  "detail_status": "full"
+}
