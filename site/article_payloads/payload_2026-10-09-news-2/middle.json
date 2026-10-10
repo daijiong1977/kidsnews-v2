@@ -1,0 +1,132 @@
+{
+  "title": "Human Rights Judge Navi Pillay Wins the Nobel Peace Prize",
+  "summary": "Navi Pillay, a judge and human rights lawyer from South Africa, has won the 2026 Nobel Peace Prize. The prize was announced on Friday.\n\nThe Nobel Committee called Pillay a \"legal pioneer\" with exceptional courage and integrity. It said it chose her at a time when \"institutions of international law are under political attack.\" International law is the set of rules countries agree to follow, including rules meant to protect people during wars.\n\nPillay grew up in South Africa under apartheid, a system that treated people unfairly based on their race. She is of Indian descent and faced deep discrimination. Allan Ngari of the group Human Rights Watch said her rise to the top of the legal world should inspire people from disadvantaged communities everywhere.\n\nPillay has had a long career in world courts. She is now a judge on the International Court of Justice, a United Nations court. She once led the UN's human rights office. She was also a judge at the International Criminal Court and at a special court set up to deal with crimes committed during the 1994 genocide in Rwanda.\n\nStephen Rapp, a former US ambassador for war crimes issues, worked in courtrooms where Pillay was a judge. He said her rulings in Rwanda helped the world treat harm done to women and girls during war as a serious crime for the first time. He said her work has always been based on facts and the law, with deep respect for victims and survivors.\n\nPillay heard the news while at a center in Nuremberg, Germany, where the first trials of Nazi leaders took place 80 years ago. Hours after the announcement, the US government announced sanctions on the International Criminal Court.",
+  "why_it_matters": "The prize highlights the role of international courts at a time when the Nobel Committee says they are under political attack, and the same day the US sanctioned one of those courts.",
+  "image_url": "/article_images/news-s3c6522ac98fa129a.webp",
+  "keywords": [
+    {
+      "term": "international law",
+      "explanation": "Rules that countries agree to follow when dealing with each other, including rules for wartime."
+    },
+    {
+      "term": "apartheid",
+      "explanation": "A former system of laws in South Africa that separated people by race and treated non-white people unfairly."
+    },
+    {
+      "term": "discrimination",
+      "explanation": "Treating people unfairly because of who they are, such as their race."
+    },
+    {
+      "term": "genocide",
+      "explanation": "An effort to destroy a whole group of people because of their nationality, ethnicity, race or religion."
+    },
+    {
+      "term": "integrity",
+      "explanation": "Being honest and sticking to strong moral principles."
+    },
+    {
+      "term": "sanctions",
+      "explanation": "Penalties a government places on a country, group or person to pressure them."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Which country is Navi Pillay from?",
+      "options": [
+        "India",
+        "Germany",
+        "Rwanda",
+        "South Africa"
+      ],
+      "correct_answer": "South Africa"
+    },
+    {
+      "question": "What did the Nobel Committee call Pillay?",
+      "options": [
+        "A brave soldier",
+        "A famous author",
+        "A great president",
+        "A legal pioneer"
+      ],
+      "correct_answer": "A legal pioneer"
+    },
+    {
+      "question": "What court is Pillay a judge on now?",
+      "options": [
+        "The US Supreme Court",
+        "A court in Nuremberg",
+        "The International Court of Justice",
+        "South Africa's highest court"
+      ],
+      "correct_answer": "The International Court of Justice"
+    },
+    {
+      "question": "What was apartheid?",
+      "options": [
+        "A type of court",
+        "A United Nations office",
+        "A peace treaty",
+        "A system that treated people unfairly based on race"
+      ],
+      "correct_answer": "A system that treated people unfairly based on race"
+    },
+    {
+      "question": "Where was Pillay when she heard the news?",
+      "options": [
+        "At the United Nations in New York",
+        "At a center in Nuremberg, Germany",
+        "At home in South Africa",
+        "In Washington, D.C."
+      ],
+      "correct_answer": "At a center in Nuremberg, Germany"
+    },
+    {
+      "question": "What happened hours after the prize was announced?",
+      "options": [
+        "The Rwanda court closed",
+        "The US announced sanctions on the International Criminal Court",
+        "South Africa held an election",
+        "Pillay retired"
+      ],
+      "correct_answer": "The US announced sanctions on the International Criminal Court"
+    }
+  ],
+  "background_read": [
+    "The Nobel Peace Prize is a famous international award given each year to a person or group who has worked to promote peace.",
+    "International courts, such as the International Court of Justice and the International Criminal Court, are places where disputes between countries are settled or people are tried for the most serious crimes.",
+    "South Africa's apartheid system kept people apart by race and denied many people equal rights until it ended in the 1990s.",
+    "After the genocide in Rwanda, a special international court was set up to hold those responsible accountable."
+  ],
+  "Article_Structure": [
+    "LEAD: Judge Navi Pillay wins the 2026 Nobel Peace Prize",
+    "KEY EVENT: Nobel Committee praises her as a legal pioneer",
+    "  ├─ WHO: Navi Pillay, South African judge and human rights lawyer",
+    "  ├─ WHEN: Announced Friday",
+    "  └─ WHY: Committee says international law institutions are under political attack",
+    "BACKGROUND: Grew up under apartheid and faced discrimination",
+    "CAREER: International Court of Justice, UN human rights office, ICC, Rwanda tribunal",
+    "EVIDENCE: Stephen Rapp says her Rwanda rulings changed how harm to women in war is treated",
+    "CONTEXT: Hours later, the US announced sanctions on the ICC"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Nobel Committee",
+      "description": "Calls Pillay a legal pioneer and says international law institutions are under political attack."
+    },
+    {
+      "perspective": "Allan Ngari, Human Rights Watch",
+      "description": "Says her rise should inspire people from disadvantaged communities."
+    },
+    {
+      "perspective": "Stephen Rapp, former US ambassador",
+      "description": "Says her work is based on facts and the law and respects victims and survivors."
+    }
+  ],
+  "mined_at": "2026-10-10T03:38:28+00:00",
+  "source_published_at": "Fri, 09 Oct 2026 18:40:03 -0400",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/show/navi-pillay-wins-nobel-peace-prize-after-long-career-of-investigating-war-crimes",
+  "category": "News",
+  "source_word_count": 762,
+  "detail_status": "full"
+}

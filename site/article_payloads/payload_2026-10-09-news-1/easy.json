@@ -1,0 +1,117 @@
+{
+  "title": "Trump Makes a Deal to Get Diesel Fuel From Russia",
+  "summary": "President Donald Trump says he has made a deal to bring Russian diesel fuel to the United States. Diesel is a fuel used by trucks, trains and farm machines.\n\nFuel prices in America have gone up a lot in recent months. The BBC says this is linked to a war involving Iran that began in February.\n\nOn Friday, Trump said Russian President Vladimir Putin agreed to send 300,000 tonnes of diesel right away, then 500,000 tonnes in November and another million tonnes later. The US is pausing some trade penalties, called sanctions, until April 7.\n\nNot everyone thinks the plan will work. An expert named Tim Armitage said the first delivery is \"relatively small\" and will not change prices at the gas pump much.\n\nUkraine has been fighting against Russia's invasion. Ukraine's President Volodymyr Zelensky called the deal a gift to Putin and said it \"will not work for peace.\" The United Kingdom said it will keep supporting Ukraine.",
+  "why_it_matters": "Fuel prices affect how much families pay for gas, food and other things they buy every day.",
+  "image_url": "/article_images/news-s65decc2e3f79d51e.webp",
+  "keywords": [
+    {
+      "term": "diesel",
+      "explanation": "A fuel used by trucks, trains and farm machines."
+    },
+    {
+      "term": "sanctions",
+      "explanation": "Penalties that limit trade with a country to pressure it."
+    },
+    {
+      "term": "tonnes",
+      "explanation": "A unit of weight; one tonne is about 2,205 pounds."
+    },
+    {
+      "term": "invasion",
+      "explanation": "When an army goes into another country by force."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is diesel used for?",
+      "options": [
+        "Trucks, trains and farm machines",
+        "Heating swimming pools",
+        "Cooking food",
+        "Making paper"
+      ],
+      "correct_answer": "Trucks, trains and farm machines"
+    },
+    {
+      "question": "Who did Trump say agreed to send the diesel?",
+      "options": [
+        "The BBC",
+        "Volodymyr Zelensky",
+        "Tim Armitage",
+        "Vladimir Putin"
+      ],
+      "correct_answer": "Vladimir Putin"
+    },
+    {
+      "question": "How much diesel will be sent right away?",
+      "options": [
+        "100 tonnes",
+        "A million tonnes",
+        "300,000 tonnes",
+        "500,000 tonnes"
+      ],
+      "correct_answer": "300,000 tonnes"
+    },
+    {
+      "question": "Until when is the US pausing some sanctions?",
+      "options": [
+        "February",
+        "April 7",
+        "Next week",
+        "November"
+      ],
+      "correct_answer": "April 7"
+    },
+    {
+      "question": "What did expert Tim Armitage say?",
+      "options": [
+        "The first delivery is relatively small",
+        "Prices will drop a lot",
+        "The deal is illegal",
+        "Russia has no diesel"
+      ],
+      "correct_answer": "The first delivery is relatively small"
+    },
+    {
+      "question": "What did Zelensky say about the deal?",
+      "options": [
+        "He did not comment",
+        "It is a great idea",
+        "It will help Ukraine",
+        "It will not work for peace"
+      ],
+      "correct_answer": "It will not work for peace"
+    }
+  ],
+  "background_read": [
+    "Diesel and gasoline are made from oil, and their prices can rise when there are wars or shortages around the world.",
+    "Russia invaded Ukraine, so many countries put sanctions on Russia to limit the money it makes selling fuel."
+  ],
+  "Article_Structure": [
+    "WHO: President Donald Trump, Russian President Vladimir Putin and Ukraine's President Volodymyr Zelensky",
+    "WHAT: A deal to bring Russian diesel to the United States in several deliveries",
+    "WHERE: The United States and Russia, with reaction from Ukraine and the United Kingdom",
+    "WHY: To try to lower high fuel prices in America"
+  ],
+  "perspectives": [
+    {
+      "perspective": "President Trump",
+      "description": "Says the deal will help bring down fuel prices."
+    },
+    {
+      "perspective": "Ukraine's President Zelensky",
+      "description": "Calls it a gift to Putin that will not work for peace."
+    },
+    {
+      "perspective": "Expert Tim Armitage",
+      "description": "Says the first delivery is too small to change prices much."
+    }
+  ],
+  "mined_at": "2026-10-10T03:38:28+00:00",
+  "source_published_at": "Sat, 10 Oct 2026 00:45:51 GMT",
+  "source_name": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+  "category": "News",
+  "source_word_count": 597,
+  "detail_status": "full"
+}

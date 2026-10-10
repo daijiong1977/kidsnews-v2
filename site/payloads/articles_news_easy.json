@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-08-news-1",
-      "source": "CBC World",
-      "time_ago": "Wed, 07 Oct 2026 18:09:53 EDT",
-      "mined_at": "2026-10-08T10:25:57+00:00",
-      "source_published_at": "Wed, 07 Oct 2026 18:09:53 EDT",
-      "image_url": "/article_images/news-sb9bab3cb17950981.webp",
+      "id": "2026-10-09-news-1",
+      "source": "BBC News",
+      "time_ago": "Sat, 10 Oct 2026 00:45:51 GMT",
+      "mined_at": "2026-10-10T03:38:28+00:00",
+      "source_published_at": "Sat, 10 Oct 2026 00:45:51 GMT",
+      "image_url": "/article_images/news-s65decc2e3f79d51e.webp",
       "category": "News",
-      "title": "A Big Storm Called Isaias Is Heading for the U.S. Gulf Coast",
-      "summary": "Tropical Storm Isaias may become a hurricane and reach the U.S. Gulf Coast late Friday or early Saturday."
+      "title": "Trump Makes a Deal to Get Diesel Fuel From Russia",
+      "summary": "President Trump made a deal to buy Russian diesel to help lower US fuel prices, but Ukraine's leader and some experts criticized it."
     },
     {
-      "id": "2026-10-08-news-2",
+      "id": "2026-10-09-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Wed, 07 Oct 2026 18:40:20 -0400",
-      "mined_at": "2026-10-08T10:25:57+00:00",
-      "source_published_at": "Wed, 07 Oct 2026 18:40:20 -0400",
-      "image_url": "/article_images/news-se612bc3162f9e7ae.webp",
+      "time_ago": "Fri, 09 Oct 2026 18:40:03 -0400",
+      "mined_at": "2026-10-10T03:38:28+00:00",
+      "source_published_at": "Fri, 09 Oct 2026 18:40:03 -0400",
+      "image_url": "/article_images/news-s3c6522ac98fa129a.webp",
       "category": "News",
-      "title": "Two People Running for Georgia Governor Hold a TV Debate",
-      "summary": "Keisha Lance Bottoms and Rick Jackson, who want to be Georgia's next governor, answered voters' questions in their only TV debate."
+      "title": "Judge Navi Pillay Wins the Nobel Peace Prize",
+      "summary": "South African judge Navi Pillay won the Nobel Peace Prize for her long work in world courts protecting human rights."
     },
     {
-      "id": "2026-10-08-news-3",
-      "source": "NPR World",
-      "time_ago": "Thu, 08 Oct 2026 05:00:00 -0400",
-      "mined_at": "2026-10-08T10:25:57+00:00",
-      "source_published_at": "Thu, 08 Oct 2026 05:00:00 -0400",
-      "image_url": "/article_images/news-sea87e310cc6bfac9.webp",
+      "id": "2026-10-09-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Fri, 09 Oct 2026 18:35:16 -0400",
+      "mined_at": "2026-10-10T03:38:28+00:00",
+      "source_published_at": "Fri, 09 Oct 2026 18:35:16 -0400",
+      "image_url": "/article_images/news-s99abc2777db0a5dc.webp",
       "category": "News",
-      "title": "Police Are Using More Computer Tools to Watch Cities",
-      "summary": "More police departments are using AI software that combines many cameras and data in one place, and some experts worry about privacy."
+      "title": "How Election Workers Make Sure Votes Are Counted Right",
+      "summary": "Election workers in Utah test counting machines with practice ballots and carefully track every mail ballot to make sure votes are counted correctly."
     }
   ]
 }

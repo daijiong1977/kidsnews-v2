@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-08-news-1",
-      "source": "CBC World",
-      "time_ago": "Wed, 07 Oct 2026 18:09:53 EDT",
-      "mined_at": "2026-10-08T10:25:57+00:00",
-      "source_published_at": "Wed, 07 Oct 2026 18:09:53 EDT",
-      "image_url": "/article_images/news-sb9bab3cb17950981.webp",
+      "id": "2026-10-09-news-1",
+      "source": "BBC News",
+      "time_ago": "Sat, 10 Oct 2026 00:45:51 GMT",
+      "mined_at": "2026-10-10T03:38:28+00:00",
+      "source_published_at": "Sat, 10 Oct 2026 00:45:51 GMT",
+      "image_url": "/article_images/news-s65decc2e3f79d51e.webp",
       "category": "News",
-      "title": "Tropical Storm Isaias Heads Toward the U.S. Gulf Coast",
-      "summary": "Tropical Storm Isaias is expected to become a hurricane and reach the U.S. Gulf Coast late Friday or early Saturday, and communities are getting ready."
+      "title": "Trump Makes a Deal to Buy Russian Diesel to Lower Fuel Prices",
+      "summary": "President Trump announced a deal to import Russian diesel to ease high US fuel prices, but Ukraine's leader called it a gift to Russia and experts doubt it will lower prices much."
     },
     {
-      "id": "2026-10-08-news-2",
+      "id": "2026-10-09-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Wed, 07 Oct 2026 18:40:20 -0400",
-      "mined_at": "2026-10-08T10:25:57+00:00",
-      "source_published_at": "Wed, 07 Oct 2026 18:40:20 -0400",
-      "image_url": "/article_images/news-se612bc3162f9e7ae.webp",
+      "time_ago": "Fri, 09 Oct 2026 18:40:03 -0400",
+      "mined_at": "2026-10-10T03:38:28+00:00",
+      "source_published_at": "Fri, 09 Oct 2026 18:40:03 -0400",
+      "image_url": "/article_images/news-s3c6522ac98fa129a.webp",
       "category": "News",
-      "title": "Georgia's Governor Candidates Meet for Their Only TV Debate",
-      "summary": "Democrat Keisha Lance Bottoms and Republican Rick Jackson, who are running for governor of Georgia, answered voters' questions in their only televised debate."
+      "title": "Human Rights Judge Navi Pillay Wins the Nobel Peace Prize",
+      "summary": "South African judge Navi Pillay won the Nobel Peace Prize for a lifetime of work in international courts protecting human rights."
     },
     {
-      "id": "2026-10-08-news-3",
-      "source": "NPR World",
-      "time_ago": "Thu, 08 Oct 2026 05:00:00 -0400",
-      "mined_at": "2026-10-08T10:25:57+00:00",
-      "source_published_at": "Thu, 08 Oct 2026 05:00:00 -0400",
-      "image_url": "/article_images/news-sea87e310cc6bfac9.webp",
+      "id": "2026-10-09-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Fri, 09 Oct 2026 18:35:16 -0400",
+      "mined_at": "2026-10-10T03:38:28+00:00",
+      "source_published_at": "Fri, 09 Oct 2026 18:35:16 -0400",
+      "image_url": "/article_images/news-s99abc2777db0a5dc.webp",
       "category": "News",
-      "title": "Police Surveillance Software Is Growing, and Experts Are Debating It",
-      "summary": "More police departments are using AI software that combines camera feeds and data in one place, and privacy experts are raising questions about it."
+      "title": "How Election Workers Test Voting Machines Before Ballots Are Counted",
+      "summary": "Election officials in Utah test voting machines with practice ballots and track every mail ballot step by step, explaining why they say voters can trust the process."
     }
   ]
 }
