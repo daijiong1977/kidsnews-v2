@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-09-fun-1",
-      "source": "BBC Tennis",
-      "time_ago": "Fri, 09 Oct 2026 12:50:28 GMT",
-      "mined_at": "2026-10-10T03:38:28+00:00",
-      "source_published_at": "Fri, 09 Oct 2026 12:50:28 GMT",
-      "image_url": "/article_images/fun-s5a537b39048adcc2.webp",
+      "id": "2026-10-10-fun-1",
+      "source": "Science News Explores",
+      "time_ago": "Fri, 09 Oct 2026 10:30:00 +0000",
+      "mined_at": "2026-10-10T10:26:32+00:00",
+      "source_published_at": "Fri, 09 Oct 2026 10:30:00 +0000",
+      "image_url": "/article_images/fun-s2c267073aa28729e.webp",
       "category": "Fun",
-      "title": "Djokovic Loses to Hurkacz in Shanghai Days After Winning in Beijing",
-      "summary": "Novak Djokovic lost to Hubert Hurkacz for the first time in nine meetings at the Shanghai Masters, just three days after winning the China Open."
+      "title": "Dog Brains Can Tell Angry Faces From Fearful Ones",
+      "summary": "MRI scans suggest dogs can tell apart some human facial emotions, including anger and fear."
     },
     {
-      "id": "2026-10-09-fun-2",
-      "source": "NPR Music",
-      "time_ago": "Wed, 07 Oct 2026 05:00:00 -0400",
-      "mined_at": "2026-10-10T03:38:28+00:00",
-      "source_published_at": "Wed, 07 Oct 2026 05:00:00 -0400",
-      "image_url": "/article_images/fun-s3693bf70eb940a1d.webp",
+      "id": "2026-10-10-fun-2",
+      "source": "Billboard",
+      "time_ago": "Sat, 10 Oct 2026 08:25:05 +0000",
+      "mined_at": "2026-10-10T10:26:32+00:00",
+      "source_published_at": "Sat, 10 Oct 2026 08:25:05 +0000",
+      "image_url": "/article_images/fun-seda3d3a0fd581aae.webp",
       "category": "Fun",
-      "title": "BTS Star RM Shares His Art Collection, and Fans Flock to the Museum",
-      "summary": "BTS leader RM is showing his personal art collection at the San Francisco Museum of Modern Art, drawing crowds of fans, some visiting an art museum for the first time."
+      "title": "Ashnikko Covers Gwen Stefani Hit on Triple J’s Like A Version",
+      "summary": "Ashnikko debuted on triple j’s Like A Version with a theatrical cover of Gwen Stefani’s “What You Waiting For?”"
     },
     {
-      "id": "2026-10-09-fun-3",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Wed, 07 Oct 2026 08:46:44 EDT",
-      "mined_at": "2026-10-10T03:38:28+00:00",
-      "source_published_at": "Wed, 07 Oct 2026 08:46:44 EDT",
-      "image_url": "/article_images/fun-sc2bf2d855cca604d.webp",
+      "id": "2026-10-10-fun-3",
+      "source": "Wired Gear",
+      "time_ago": "Sat, 10 Oct 2026 09:00:00 +0000",
+      "mined_at": "2026-10-10T10:26:32+00:00",
+      "source_published_at": "Sat, 10 Oct 2026 09:00:00 +0000",
+      "image_url": "/article_images/fun-s1e375d5591ecea3b.webp",
       "category": "Fun",
-      "title": "Zoo Lions Act More Like Wild Lions With a Feast-and-Fast Menu",
-      "summary": "An Australian study found zoo lions given occasional whole-animal meals ate, rested and moved in patterns much more like wild lions."
+      "title": "Woodpecker-Inspired Bike Helmet Tops Safety Rankings",
+      "summary": "Pikio’s woodpecker-inspired Oblik helmet earned Virginia Tech’s best STAR safety score among tested lids."
     }
   ]
 }

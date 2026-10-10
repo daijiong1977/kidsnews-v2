@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-09-news-1",
-      "source": "BBC News",
-      "time_ago": "Sat, 10 Oct 2026 00:45:51 GMT",
-      "mined_at": "2026-10-10T03:38:28+00:00",
-      "source_published_at": "Sat, 10 Oct 2026 00:45:51 GMT",
-      "image_url": "/article_images/news-s65decc2e3f79d51e.webp",
+      "id": "2026-10-10-news-1",
+      "source": "NPR World",
+      "time_ago": "Fri, 09 Oct 2026 05:00:00 -0400",
+      "mined_at": "2026-10-10T10:26:32+00:00",
+      "source_published_at": "Fri, 09 Oct 2026 05:00:00 -0400",
+      "image_url": "/article_images/news-sf86d8ae1c0218ce1.webp",
       "category": "News",
-      "title": "Trump Makes a Deal to Get Diesel Fuel From Russia",
-      "summary": "President Trump made a deal to buy Russian diesel to help lower US fuel prices, but Ukraine's leader and some experts criticized it."
+      "title": "Girl’s Podcast About Dyslexia Wins Big Prize",
+      "summary": "Long Island seventh-grader Cora Walsh won NPR’s middle-school podcast prize about dyslexia."
     },
     {
-      "id": "2026-10-09-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Fri, 09 Oct 2026 18:40:03 -0400",
-      "mined_at": "2026-10-10T03:38:28+00:00",
-      "source_published_at": "Fri, 09 Oct 2026 18:40:03 -0400",
-      "image_url": "/article_images/news-s3c6522ac98fa129a.webp",
+      "id": "2026-10-10-news-2",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Thu, 08 Oct 2026 23:56:28 EDT",
+      "mined_at": "2026-10-10T10:26:32+00:00",
+      "source_published_at": "Thu, 08 Oct 2026 23:56:28 EDT",
+      "image_url": "/article_images/news-sff3ed8e732a8278f.webp",
       "category": "News",
-      "title": "Judge Navi Pillay Wins the Nobel Peace Prize",
-      "summary": "South African judge Navi Pillay won the Nobel Peace Prize for her long work in world courts protecting human rights."
+      "title": "Crew-12 Astronauts Splash Down After Long Mission",
+      "summary": "Crew-12 returned safely after 237 days and more than 100 million miles in space."
     },
     {
-      "id": "2026-10-09-news-3",
-      "source": "PBS NewsHour",
-      "time_ago": "Fri, 09 Oct 2026 18:35:16 -0400",
-      "mined_at": "2026-10-10T03:38:28+00:00",
-      "source_published_at": "Fri, 09 Oct 2026 18:35:16 -0400",
-      "image_url": "/article_images/news-s99abc2777db0a5dc.webp",
+      "id": "2026-10-10-news-3",
+      "source": "CBC World",
+      "time_ago": "Fri, 09 Oct 2026 10:53:11 EDT",
+      "mined_at": "2026-10-10T10:26:32+00:00",
+      "source_published_at": "Fri, 09 Oct 2026 10:53:11 EDT",
+      "image_url": "/article_images/news-s0656a3fd9d6417b6.webp",
       "category": "News",
-      "title": "How Election Workers Make Sure Votes Are Counted Right",
-      "summary": "Election workers in Utah test counting machines with practice ballots and carefully track every mail ballot to make sure votes are counted correctly."
+      "title": "Judge Says U.S. Must Help Bring Man Home",
+      "summary": "A judge ordered U.S. officials to help return an Arizona man sent to Equatorial Guinea."
     }
   ]
 }

@@ -1,0 +1,117 @@
+{
+  "title": "Woodpecker-Inspired Bike Helmet Tops Safety Rankings",
+  "summary": "A small Vancouver company called Pikio Labs has taken the top spot in Virginia Tech’s bike-helmet safety ratings with a design inspired by woodpeckers.\n\nHelmet tests once focused mainly on straight-on hits. Researchers also care about twisting forces during a crash, which can raise concussion risk. Virginia Tech’s STAR ratings measure both kinds of impact and score lower as better. The Pikio Si Oblik helmet scored 4.61, well ahead of the previous best Canyon Deflectr at 6.82.\n\nFounder Daniel Abram spent years studying impact protection, including work at Simon Fraser University and earlier companies. The Oblik system divides the usual foam liner into sections that can flex, move, or detach on hard hits, helping manage both direct and twisting forces. Dual-density foam absorbs straight impacts.\n\nOther designs take different approaches. MIPS uses a low-friction layer that can shift slightly at the start of an impact. Some rivals use floating outer panels. Abram says a typical helmet may have about eight to 10 parts, while the Pikio Si uses around 80, which helps explain its $379 price.\n\nIn a WIRED road test, the medium-size helmet weighed 279 grams, felt comfortable, and had 17 vents. If a helmet is seriously crashed, it must be replaced; Pikio has offered a discount when damaged helmets are returned for study. Abram said four returned helmets had already helped the company learn and had protected riders.\n\nWhether Oblik becomes a widely licensed technology remains to be seen, but for now it gives other makers a new safety score to chase.",
+  "why_it_matters": "Better helmet design can reduce injury risk for kids and adults who bike. Independent test scores help families compare safety claims with measured results.",
+  "image_url": "/article_images/fun-s1e375d5591ecea3b.webp",
+  "keywords": [
+    {
+      "term": "Oblik",
+      "explanation": "Pikio’s helmet system that uses foam sections which can move or detach."
+    },
+    {
+      "term": "MIPS",
+      "explanation": "A common helmet layer made to reduce twisting forces in a crash."
+    },
+    {
+      "term": "STAR",
+      "explanation": "Virginia Tech’s rating system for comparing bike-helmet crash performance."
+    },
+    {
+      "term": "concussion",
+      "explanation": "A brain injury that can happen when the head is hit or twisted hard."
+    },
+    {
+      "term": "Virginia Tech",
+      "explanation": "The university lab that tests and ranks bicycle helmets for safety."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What score did the Pikio Si Oblik receive?",
+      "options": [
+        "379",
+        "4.61",
+        "6.82",
+        "279"
+      ],
+      "correct_answer": "4.61"
+    },
+    {
+      "question": "What animal inspired the design?",
+      "options": [
+        "Woodpeckers",
+        "Giraffes",
+        "Border collies",
+        "T. rex"
+      ],
+      "correct_answer": "Woodpeckers"
+    },
+    {
+      "question": "About how many parts does the Pikio Si use?",
+      "options": [
+        "Exactly two",
+        "One thousand",
+        "Around 80",
+        "Eight to 10"
+      ],
+      "correct_answer": "Around 80"
+    },
+    {
+      "question": "What is the listed price?",
+      "options": [
+        "$379",
+        "$100 million",
+        "$4.61",
+        "$12"
+      ],
+      "correct_answer": "$379"
+    },
+    {
+      "question": "Who is the founder named in the article?",
+      "options": [
+        "Cora Walsh",
+        "Aaron Sorkin",
+        "Daniel Abram",
+        "Laura Cuaya"
+      ],
+      "correct_answer": "Daniel Abram"
+    },
+    {
+      "question": "In STAR scoring described here, what is better?",
+      "options": [
+        "No score at all",
+        "A higher score only",
+        "Only red helmets",
+        "A lower score"
+      ],
+      "correct_answer": "A lower score"
+    }
+  ],
+  "background_read": [
+    "Bike helmets use a hard shell and foam to absorb energy when a rider’s head hits something.",
+    "Modern tests look at both straight hits and twisting forces that can contribute to concussions.",
+    "Independent lab ratings help shoppers compare helmets beyond the legal minimum.",
+    "A helmet that takes a serious crash usually needs to be replaced because the foam is designed to crush once."
+  ],
+  "Article_Structure": [
+    "LEAD: Woodpecker-inspired Pikio helmet tops Virginia Tech ratings",
+    "KEY EVENT: Si Oblik scores 4.61 versus prior best 6.82",
+    "HOW IT WORKS: Sectioned foam can flex, move, or detach",
+    "COST: About 80 parts; $379 price",
+    "REAL WORLD: Crashed helmets replaced; returned units studied",
+    "OPEN QUESTION: Whether Oblik becomes widely licensed like other systems"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Daniel Abram",
+      "description": "Links the design to years of impact research and explains multi-part foam behavior."
+    }
+  ],
+  "mined_at": "2026-10-10T10:26:32+00:00",
+  "source_published_at": "Sat, 10 Oct 2026 09:00:00 +0000",
+  "source_name": "Wired Gear",
+  "source_url": "https://www.wired.com/story/how-this-tiny-startup-pikio-built-the-worlds-safest-bike-helmet/",
+  "category": "Fun",
+  "source_word_count": 1081,
+  "detail_status": "full"
+}

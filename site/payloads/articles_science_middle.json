@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-09-science-1",
-      "source": "ScienceDaily All",
-      "time_ago": "Thu, 08 Oct 2026 23:56:28 EDT",
-      "mined_at": "2026-10-10T03:38:28+00:00",
-      "source_published_at": "Thu, 08 Oct 2026 23:56:28 EDT",
-      "image_url": "/article_images/science-s053bdb5734e0a1a5.webp",
+      "id": "2026-10-10-science-1",
+      "source": "Smithsonian Science-Nature",
+      "time_ago": "Wed, 07 Oct 2026 17:15:01 +0000",
+      "mined_at": "2026-10-10T10:26:32+00:00",
+      "source_published_at": "Wed, 07 Oct 2026 17:15:01 +0000",
+      "image_url": "/article_images/science-s9c44b17c070e0821.webp",
       "category": "Science",
-      "title": "Astronauts Return to Earth After 237 Days and 100 Million Miles in Space",
-      "summary": "NASA's Crew-12 astronauts splashed down safely after 237 days on the space station, where they ran experiments to help future Moon and Mars missions."
+      "title": "Five Discoveries That Changed How We Picture T. Rex",
+      "summary": "New research on arms, lips, hunting, and metabolism keeps changing the scientific picture of Tyrannosaurus rex."
     },
     {
-      "id": "2026-10-09-science-2",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Thu, 08 Oct 2026 08:47:46 EDT",
-      "mined_at": "2026-10-10T03:38:28+00:00",
-      "source_published_at": "Thu, 08 Oct 2026 08:47:46 EDT",
-      "image_url": "/article_images/science-sdb95942a56ffd7f5.webp",
+      "id": "2026-10-10-science-2",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Fri, 09 Oct 2026 06:20:23 EDT",
+      "mined_at": "2026-10-10T10:26:32+00:00",
+      "source_published_at": "Fri, 09 Oct 2026 06:20:23 EDT",
+      "image_url": "/article_images/science-sa364c4475b0932cb.webp",
       "category": "Science",
-      "title": "Fossils Show an Early Human Relative Lived in Africa Earlier Than Thought",
-      "summary": "Fossils from a South African cave suggest Homo erectus lived there about 2 million years ago, around 200,000 years earlier than long believed."
+      "title": "Hidden “In-Between” Materials May Aid Batteries and Solar Fuels",
+      "summary": "Scientists found temporary material phases, including a new bismuth vanadate form, that may help batteries and solar fuels."
     },
     {
-      "id": "2026-10-09-science-3",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Thu, 08 Oct 2026 09:18:54 EDT",
-      "mined_at": "2026-10-10T03:38:28+00:00",
-      "source_published_at": "Thu, 08 Oct 2026 09:18:54 EDT",
-      "image_url": "/article_images/science-s30b9da888489515e.webp",
+      "id": "2026-10-10-science-3",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Thu, 08 Oct 2026 22:37:22 EDT",
+      "mined_at": "2026-10-10T10:26:32+00:00",
+      "source_published_at": "Thu, 08 Oct 2026 22:37:22 EDT",
+      "image_url": "/article_images/science-s412e818536720d9b.webp",
       "category": "Science",
-      "title": "Bright Yellow 'Golden Tree' Coral Is So Strange It Needed a New Family",
-      "summary": "Scientists found a bright yellow, tree-shaped coral off Costa Rica so unusual that they created a new coral family and gave it an Elvish name meaning golden tree."
+      "title": "October Night Sky Brings Hidden Jupiter and Meteor Showers",
+      "summary": "October features a Jupiter occultation and the Draconid and Orionid meteor showers for naked-eye skywatching."
     }
   ]
 }

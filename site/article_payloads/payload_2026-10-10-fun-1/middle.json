@@ -1,0 +1,118 @@
+{
+  "title": "Dog Brains Can Tell Angry Faces From Fearful Ones",
+  "summary": "Dogs already seem to know when a leash or a jingling key means a walk. A new study suggests they can also tell some human emotions apart just by looking at faces.\n\nLaura Cuaya, a neuroscientist at the University of Vienna in Austria, and her team trained 14 family dogs to lie still inside an MRI scanner that measures brain activity. The dogs included border collies and golden retrievers. Cuaya said the animals were very good at the task.\n\nIn one test, dogs saw photos of unfamiliar people looking happy or neutral. Happy faces lit up a reward-related brain area more than neutral faces. In another test, the dogs saw faces showing different negative feelings. Their brains responded differently to angry or sad faces than to fearful ones.\n\nThe researchers reported the results August 10 in the journal iScience. Cuaya says this is the first evidence that dogs can distinguish among negative emotions on human faces, not only “good” versus “bad.” Earlier work had already shown positive and negative expressions activate different brain regions.\n\nCuaya cautions that the findings may not apply to every breed, because this study focused on border collies and golden retrievers. Her group is also studying how dog brains react to a sound thought to be like dog laughter. They are not planning similar MRI work with cats, which are harder to keep still in a scanner.\n\nThe research offers another reason to smile at a pup you meet—they might read more of your face than you think.",
+  "why_it_matters": "Understanding how dogs read faces can deepen respect for pets as emotional partners. It also shows how careful brain science tests ideas about animal minds.",
+  "image_url": "/article_images/fun-s2c267073aa28729e.webp",
+  "keywords": [
+    {
+      "term": "MRI",
+      "explanation": "A scanner that uses magnets to show activity inside the brain or body."
+    },
+    {
+      "term": "neuroscientist",
+      "explanation": "A researcher who studies brains and how they work."
+    },
+    {
+      "term": "iScience",
+      "explanation": "The scientific journal that published this dog-brain study."
+    },
+    {
+      "term": "border collies",
+      "explanation": "A smart herding dog breed used in this brain-scan study."
+    },
+    {
+      "term": "golden retrievers",
+      "explanation": "A friendly dog breed also included in the face-reading experiments."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How many family dogs were in the study?",
+      "options": [
+        "14",
+        "2",
+        "100",
+        "1,500"
+      ],
+      "correct_answer": "14"
+    },
+    {
+      "question": "What machine measured the dogs’ brain activity?",
+      "options": [
+        "A podcast microphone",
+        "An MRI scanner",
+        "A bicycle helmet",
+        "A weather satellite"
+      ],
+      "correct_answer": "An MRI scanner"
+    },
+    {
+      "question": "What happened with happy versus neutral faces?",
+      "options": [
+        "Happy faces lit up a reward region more",
+        "Dogs fell asleep only for happy faces",
+        "Only cats responded",
+        "Nothing changed at all"
+      ],
+      "correct_answer": "Happy faces lit up a reward region more"
+    },
+    {
+      "question": "Which journal published the findings?",
+      "options": [
+        "Sotheby’s catalog",
+        "WIRED only",
+        "Nature Communications",
+        "iScience"
+      ],
+      "correct_answer": "iScience"
+    },
+    {
+      "question": "Which breeds did the study focus on?",
+      "options": [
+        "Only wolves",
+        "Only poodles",
+        "Only cats",
+        "Border collies and golden retrievers"
+      ],
+      "correct_answer": "Border collies and golden retrievers"
+    },
+    {
+      "question": "Who led the described research team?",
+      "options": [
+        "Jessica Meir",
+        "Daniel Abram",
+        "Laura Cuaya",
+        "Cora Walsh"
+      ],
+      "correct_answer": "Laura Cuaya"
+    }
+  ],
+  "background_read": [
+    "Dogs are highly social animals that pay close attention to human voices, gestures, and faces.",
+    "Brain scanners can show which areas become more active while an animal looks at pictures.",
+    "Scientists compare responses to different emotional faces to learn what animals can tell apart.",
+    "Results from a few breeds do not automatically apply to every dog."
+  ],
+  "Article_Structure": [
+    "LEAD: Dog brains distinguish some human facial emotions",
+    "KEY EVENT: MRI study of 14 trained family dogs",
+    "  ├─ TEST: Happy vs neutral faces",
+    "  └─ TEST: Different negative emotions",
+    "FINDING: First evidence dogs separate negative face emotions in this way",
+    "LIMIT: Focused on border collies and golden retrievers",
+    "NEXT: Related work on dog laughter sounds"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Laura Cuaya",
+      "description": "Says dogs may process emotional face information in more detail than once thought, with breed limits."
+    }
+  ],
+  "mined_at": "2026-10-10T10:26:32+00:00",
+  "source_published_at": "Fri, 09 Oct 2026 10:30:00 +0000",
+  "source_name": "Science News Explores",
+  "source_url": "https://www.snexplores.org/article/dogs-read-anger-fear-emotion-human-faces",
+  "category": "Fun",
+  "source_word_count": 770,
+  "detail_status": "full"
+}

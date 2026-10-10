@@ -1,0 +1,118 @@
+{
+  "title": "Five Discoveries That Changed How We Picture T. Rex",
+  "summary": "Tyrannosaurus rex has been famous since it was named in 1905. Paleontologists are still updating the picture of this Cretaceous predator, from how it looked to how it lived.\n\nEarly ideas showed a slow, swamp-dwelling giant with a dragging tail. Cassius Morrison, a paleontologist at University College London, says that older view imagined continuous battles among sluggish dinosaurs. Newer research paints T. rex as more active and warm-blooded, possibly with feathers, and as an animal that both hunted and scavenged.\n\nOne long puzzle was its tiny arms. Scientists once wondered why such a large hunter had such small forelimbs. Fossils of related dinosaurs and a T. rex forearm found in 1988 showed it had two fingers, not three. A study of theropod arms published in May argued the small arms were a tradeoff: a huge, powerful head needed space for neck muscles, and oversized arms would have made the animal too front-heavy.\n\nTeeth are another update. Many movies show T. rex with teeth always visible. A 2023 study of a close relative suggested lips may have covered the teeth when the mouth was closed, helping protect enamel, more like some modern lizards than crocodiles that live much of their lives in water.\n\nHow T. rex hunted is still debated. Research indicates it was not a long-distance sprinter—top speed estimates are around 12 miles per hour—but it could turn well and likely used short bursts as an ambush hunter. Tooth marks in healed bones suggest it attacked living prey, while bone fragments in fossil dung show it also ate large carcasses.\n\nScientists also study body temperature and metabolism to estimate how much food such a giant needed. Together, these findings keep rewriting the story of the “tyrant lizard king.”",
+  "why_it_matters": "Famous dinosaurs are good examples of how science updates old ideas with new evidence. Learning that pictures change helps kids treat museum stories as living research, not fixed cartoons.",
+  "image_url": "/article_images/science-s9c44b17c070e0821.webp",
+  "keywords": [
+    {
+      "term": "paleontologists",
+      "explanation": "Scientists who study fossils of ancient life."
+    },
+    {
+      "term": "Cretaceous",
+      "explanation": "A long-ago period of Earth’s history when T. rex lived."
+    },
+    {
+      "term": "theropod",
+      "explanation": "A group of mostly meat-eating dinosaurs that walked on two legs."
+    },
+    {
+      "term": "ambush",
+      "explanation": "A hunting style that uses a sudden short attack rather than a long chase."
+    },
+    {
+      "term": "metabolism",
+      "explanation": "How an animal’s body uses energy from food."
+    }
+  ],
+  "questions": [
+    {
+      "question": "When was T. rex named?",
+      "options": [
+        "1988",
+        "May of this year only",
+        "1905",
+        "2023"
+      ],
+      "correct_answer": "1905"
+    },
+    {
+      "question": "How many fingers do fossils show on T. rex hands?",
+      "options": [
+        "Two",
+        "None",
+        "Five",
+        "Three"
+      ],
+      "correct_answer": "Two"
+    },
+    {
+      "question": "About what top speed does the article cite?",
+      "options": [
+        "About 12 miles per hour",
+        "2 miles per hour",
+        "100 miles per hour",
+        "60 miles per hour"
+      ],
+      "correct_answer": "About 12 miles per hour"
+    },
+    {
+      "question": "What did a 2023 study suggest about T. rex teeth?",
+      "options": [
+        "They were made of metal",
+        "They never grew back",
+        "They glowed in the dark",
+        "Lips may have covered them when the mouth was closed"
+      ],
+      "correct_answer": "Lips may have covered them when the mouth was closed"
+    },
+    {
+      "question": "Where does Cassius Morrison work, per the article?",
+      "options": [
+        "NASA",
+        "Sotheby’s",
+        "Virginia Tech",
+        "University College London"
+      ],
+      "correct_answer": "University College London"
+    },
+    {
+      "question": "What tradeoff do scientists link to small arms?",
+      "options": [
+        "Faster swimming",
+        "Room for a massive head and neck muscles",
+        "Making tools",
+        "Better tree climbing"
+      ],
+      "correct_answer": "Room for a massive head and neck muscles"
+    }
+  ],
+  "background_read": [
+    "Tyrannosaurus rex is one of the best-studied large predatory dinosaurs.",
+    "Fossil bones, tooth marks, and comparisons with relatives help scientists test ideas about how it looked and lived.",
+    "Scientific pictures of famous dinosaurs change when new fossils and studies appear.",
+    "Questions about speed, diet, and body coverings are still active research topics."
+  ],
+  "Article_Structure": [
+    "LEAD: Research keeps rewriting the public picture of T. rex",
+    "KEY UPDATES: Arms, lips, hunting style, metabolism questions",
+    "  ├─ ARMS: Two fingers; biomechanical tradeoff with huge head",
+    "  └─ LIPS: 2023 study suggests covered teeth when mouth closed",
+    "HUNTING: ~12 mph; ambush bursts plus scavenging evidence",
+    "EVIDENCE: Fossils, healed bite marks, bone fragments in dung",
+    "OPEN QUESTION: Exact food needs and body-temperature details"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Cassius Morrison",
+      "description": "Describes how early savage slow-dinosaur ideas gave way to a different predator picture."
+    }
+  ],
+  "mined_at": "2026-10-10T10:26:32+00:00",
+  "source_published_at": "Wed, 07 Oct 2026 17:15:01 +0000",
+  "source_name": "Smithsonian Science-Nature",
+  "source_url": "https://www.smithsonianmag.com/science-nature/five-discoveries-that-changed-our-understanding-of-t-rex-forever-from-warm-blood-to-lips-180989634/",
+  "category": "Science",
+  "source_word_count": 1434,
+  "detail_status": "full"
+}

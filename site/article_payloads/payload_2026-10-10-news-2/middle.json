@@ -1,0 +1,122 @@
+{
+  "title": "NASA’s Crew-12 Astronauts Splash Down After 237 Days",
+  "summary": "Four astronauts from NASA’s SpaceX Crew-12 mission have returned to Earth after more than seven months on the International Space Station. Their spacecraft splashed down Thursday in the Pacific Ocean near Los Angeles.\n\nThe crew spent 237 days in orbit, traveled more than 100 million miles, and circled Earth more than 3,792 times. NASA Administrator Jared Isaacman thanked the team and their families, saying the mission advanced science and showed the skills needed for future exploration.\n\nThe returning crew included NASA astronauts Jessica Meir and Jack Hathaway, European Space Agency astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev. The capsule touched down at 8:34 a.m. Pacific time. SpaceX recovery teams brought the astronauts aboard specialized ships. After medical checks, they were expected to travel to NASA’s Johnson Space Center in Houston.\n\nCrew-12 launched on February 13 and docked with the station the next day. For Meir and Fedyaev, it was a second spaceflight. For Hathaway and Adenot, it was their first.\n\nOn the station, the astronauts spent hundreds of hours on research that could support future trips to the Moon and Mars and help people on Earth. Projects included studying stem cells in space, testing ways to make IV fluids when needed, and looking at nutrition and blood flow in microgravity.\n\nMeir also completed four spacewalks during the mission, bringing her career total to seven. That ranks her third among NASA women for career spacewalks, behind Peggy Whitson and Suni Williams.\n\nNASA planned a news conference at Johnson Space Center on October 15 for the crew to discuss the flight.",
+  "why_it_matters": "Long station flights build skills and science needed for future Moon and Mars trips. Safe crew returns also show how complex teamwork on Earth supports exploration.",
+  "image_url": "/article_images/news-sff3ed8e732a8278f.webp",
+  "keywords": [
+    {
+      "term": "microgravity",
+      "explanation": "The near-weightless condition people feel while circling Earth in space."
+    },
+    {
+      "term": "spacewalks",
+      "explanation": "Trips outside a spacecraft while wearing a spacesuit."
+    },
+    {
+      "term": "International Space Station",
+      "explanation": "A large orbiting lab where astronauts from several countries live and work."
+    },
+    {
+      "term": "cosmonaut",
+      "explanation": "A space flyer trained by Russia’s space program."
+    },
+    {
+      "term": "stem cells",
+      "explanation": "Special body cells that can develop into many kinds of other cells."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How many days did Crew-12 spend in orbit?",
+      "options": [
+        "15 days",
+        "237 days",
+        "100 days",
+        "3,792 days"
+      ],
+      "correct_answer": "237 days"
+    },
+    {
+      "question": "Where did the spacecraft splash down?",
+      "options": [
+        "Atlantic Ocean near Florida",
+        "Indian Ocean",
+        "Pacific Ocean near Los Angeles",
+        "Gulf of Mexico"
+      ],
+      "correct_answer": "Pacific Ocean near Los Angeles"
+    },
+    {
+      "question": "About how many miles did the crew travel?",
+      "options": [
+        "More than 100 million",
+        "Fewer than 10,000",
+        "Exactly 237 miles",
+        "About one million"
+      ],
+      "correct_answer": "More than 100 million"
+    },
+    {
+      "question": "Who completed four spacewalks on this mission?",
+      "options": [
+        "Jack Hathaway",
+        "Andrey Fedyaev",
+        "Sophie Adenot",
+        "Jessica Meir"
+      ],
+      "correct_answer": "Jessica Meir"
+    },
+    {
+      "question": "When did Crew-12 launch?",
+      "options": [
+        "July 4",
+        "February 13",
+        "Thursday only",
+        "October 15"
+      ],
+      "correct_answer": "February 13"
+    },
+    {
+      "question": "How many times did they circle Earth, according to the article?",
+      "options": [
+        "Twelve times",
+        "Once",
+        "More than 3,792 times",
+        "Exactly 100 times"
+      ],
+      "correct_answer": "More than 3,792 times"
+    }
+  ],
+  "background_read": [
+    "Crew spacecraft can ferry astronauts to the International Space Station for months-long research stays.",
+    "Returning capsules often land in the ocean so recovery ships can pick up the crew.",
+    "Station research tests how humans and equipment handle long spaceflight before deeper exploration.",
+    "Spacewalks let astronauts work on the outside of the station in spacesuits."
+  ],
+  "Article_Structure": [
+    "LEAD: Crew-12 splashes down after 237-day station mission",
+    "KEY EVENT: Pacific landing near Los Angeles at 8:34 a.m. PDT",
+    "  ├─ WHO: Meir, Hathaway, Adenot, Fedyaev",
+    "  └─ TRAVEL: 100+ million miles; 3,792+ orbits",
+    "SCIENCE: Stem cells, IV fluids, nutrition, blood-flow studies",
+    "MILESTONE: Meir’s four spacewalks; career total seven",
+    "NEXT: News conference planned October 15 in Houston"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Jared Isaacman",
+      "description": "Thanked the crew and partners for advancing science and repeatable spaceflight skills."
+    },
+    {
+      "perspective": "Dana Weigel",
+      "description": "Said station work supports solar-system exploration and welcomed the crew home."
+    }
+  ],
+  "mined_at": "2026-10-10T10:26:32+00:00",
+  "source_published_at": "Thu, 08 Oct 2026 23:56:28 EDT",
+  "source_name": "ScienceDaily Top Technology",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261008232629.htm",
+  "category": "News",
+  "source_word_count": 594,
+  "detail_status": "full"
+}

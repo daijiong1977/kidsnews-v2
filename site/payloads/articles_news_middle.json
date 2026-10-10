@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-09-news-1",
-      "source": "BBC News",
-      "time_ago": "Sat, 10 Oct 2026 00:45:51 GMT",
-      "mined_at": "2026-10-10T03:38:28+00:00",
-      "source_published_at": "Sat, 10 Oct 2026 00:45:51 GMT",
-      "image_url": "/article_images/news-s65decc2e3f79d51e.webp",
+      "id": "2026-10-10-news-1",
+      "source": "NPR World",
+      "time_ago": "Fri, 09 Oct 2026 05:00:00 -0400",
+      "mined_at": "2026-10-10T10:26:32+00:00",
+      "source_published_at": "Fri, 09 Oct 2026 05:00:00 -0400",
+      "image_url": "/article_images/news-sf86d8ae1c0218ce1.webp",
       "category": "News",
-      "title": "Trump Makes a Deal to Buy Russian Diesel to Lower Fuel Prices",
-      "summary": "President Trump announced a deal to import Russian diesel to ease high US fuel prices, but Ukraine's leader called it a gift to Russia and experts doubt it will lower prices much."
+      "title": "Middle Schooler’s Dyslexia Podcast Wins National Contest",
+      "summary": "Long Island seventh-grader Cora Walsh won NPR’s middle-school podcast prize with her story about living with dyslexia."
     },
     {
-      "id": "2026-10-09-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Fri, 09 Oct 2026 18:40:03 -0400",
-      "mined_at": "2026-10-10T03:38:28+00:00",
-      "source_published_at": "Fri, 09 Oct 2026 18:40:03 -0400",
-      "image_url": "/article_images/news-s3c6522ac98fa129a.webp",
+      "id": "2026-10-10-news-2",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Thu, 08 Oct 2026 23:56:28 EDT",
+      "mined_at": "2026-10-10T10:26:32+00:00",
+      "source_published_at": "Thu, 08 Oct 2026 23:56:28 EDT",
+      "image_url": "/article_images/news-sff3ed8e732a8278f.webp",
       "category": "News",
-      "title": "Human Rights Judge Navi Pillay Wins the Nobel Peace Prize",
-      "summary": "South African judge Navi Pillay won the Nobel Peace Prize for a lifetime of work in international courts protecting human rights."
+      "title": "NASA’s Crew-12 Astronauts Splash Down After 237 Days",
+      "summary": "Crew-12 astronauts returned safely to the Pacific after 237 days and more than 100 million miles in space."
     },
     {
-      "id": "2026-10-09-news-3",
-      "source": "PBS NewsHour",
-      "time_ago": "Fri, 09 Oct 2026 18:35:16 -0400",
-      "mined_at": "2026-10-10T03:38:28+00:00",
-      "source_published_at": "Fri, 09 Oct 2026 18:35:16 -0400",
-      "image_url": "/article_images/news-s99abc2777db0a5dc.webp",
+      "id": "2026-10-10-news-3",
+      "source": "CBC World",
+      "time_ago": "Fri, 09 Oct 2026 10:53:11 EDT",
+      "mined_at": "2026-10-10T10:26:32+00:00",
+      "source_published_at": "Fri, 09 Oct 2026 10:53:11 EDT",
+      "image_url": "/article_images/news-s0656a3fd9d6417b6.webp",
       "category": "News",
-      "title": "How Election Workers Test Voting Machines Before Ballots Are Counted",
-      "summary": "Election officials in Utah test voting machines with practice ballots and track every mail ballot step by step, explaining why they say voters can trust the process."
+      "title": "Judge Orders U.S. to Help Bring Deported Arizona Man Home",
+      "summary": "A U.S. judge ordered Homeland Security to help return an Arizona man deported to Equatorial Guinea this year."
     }
   ]
 }
