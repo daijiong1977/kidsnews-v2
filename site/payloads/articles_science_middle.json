@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-10-science-1",
-      "source": "Smithsonian Science-Nature",
-      "time_ago": "Wed, 07 Oct 2026 17:15:01 +0000",
-      "mined_at": "2026-10-10T10:26:32+00:00",
-      "source_published_at": "Wed, 07 Oct 2026 17:15:01 +0000",
-      "image_url": "/article_images/science-s9c44b17c070e0821.webp",
+      "id": "2026-10-11-science-1",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Thu, 08 Oct 2026 09:31:39 EDT",
+      "mined_at": "2026-10-11T10:24:14+00:00",
+      "source_published_at": "Thu, 08 Oct 2026 09:31:39 EDT",
+      "image_url": "/article_images/science-s85330d060dd8c93a.webp",
       "category": "Science",
-      "title": "Five Discoveries That Changed How We Picture T. Rex",
-      "summary": "New research on arms, lips, hunting, and metabolism keeps changing the scientific picture of Tyrannosaurus rex."
+      "title": "Tiny Pond Creature Uses DNA Stop Signals in a Surprising New Way",
+      "summary": "Researchers found a pond protist that turns usual DNA stop signals into amino-acid codes, challenging long-held genetic rules."
     },
     {
-      "id": "2026-10-10-science-2",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Fri, 09 Oct 2026 06:20:23 EDT",
-      "mined_at": "2026-10-10T10:26:32+00:00",
-      "source_published_at": "Fri, 09 Oct 2026 06:20:23 EDT",
-      "image_url": "/article_images/science-sa364c4475b0932cb.webp",
+      "id": "2026-10-11-science-2",
+      "source": "DOGOnews",
+      "time_ago": "",
+      "mined_at": "2026-10-11T10:24:14+00:00",
+      "source_published_at": "",
+      "image_url": "/article_images/science-s689f1c53678044e2.webp",
       "category": "Science",
-      "title": "Hidden “In-Between” Materials May Aid Batteries and Solar Fuels",
-      "summary": "Scientists found temporary material phases, including a new bismuth vanadate form, that may help batteries and solar fuels."
+      "title": "Homeowner Digging a Terrace Finds Record Viking Silver Hoard in Denmark",
+      "summary": "A Danish backyard dig for a terrace uncovered about 700 Viking Age silver objects—the largest silver hoard found in Denmark."
     },
     {
-      "id": "2026-10-10-science-3",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Thu, 08 Oct 2026 22:37:22 EDT",
-      "mined_at": "2026-10-10T10:26:32+00:00",
-      "source_published_at": "Thu, 08 Oct 2026 22:37:22 EDT",
-      "image_url": "/article_images/science-s412e818536720d9b.webp",
+      "id": "2026-10-11-science-3",
+      "source": "Popular Science",
+      "time_ago": "Fri, 09 Oct 2026 15:45:00 -0400",
+      "mined_at": "2026-10-11T10:24:14+00:00",
+      "source_published_at": "Fri, 09 Oct 2026 15:45:00 -0400",
+      "image_url": "/article_images/science-s09ce98a6dc85fee2.webp",
       "category": "Science",
-      "title": "October Night Sky Brings Hidden Jupiter and Meteor Showers",
-      "summary": "October features a Jupiter occultation and the Draconid and Orionid meteor showers for naked-eye skywatching."
+      "title": "Wavy Walls and Roofs May Soften Hurricane Wind Forces",
+      "summary": "Wind-tunnel tests show deeply wavy walls and roofs can cut peak hurricane wind pressure at corners by up to about 60 percent versus flat designs."
     }
   ]
 }

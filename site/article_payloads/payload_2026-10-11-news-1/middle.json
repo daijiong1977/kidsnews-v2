@@ -1,0 +1,130 @@
+{
+  "title": "Justice Department Looks Into TV Networks Pausing Trump Pool Coverage",
+  "summary": "The U.S. Justice Department says it is investigating several major television networks over whether they broke competition laws when they briefly stopped sharing White House \"pool\" coverage of President Donald Trump.\n\nIn a press pool, a few reporters cover an event and share notes, photos, or video with many other newsrooms. Last month, five networks paused that shared presidential coverage for several days. They did so after the Trump administration took away credentials from reporters at CNN, MS Now, and Politico.\n\nThe Justice Department asked ABC, CBS, CNN, NBC, and Fox News for messages about the pool. Officials said a coordinated pause might violate the Sherman Act, a law meant to stop companies from joining together in ways that unfairly limit competition.\n\nA department spokesperson said the Antitrust Division is investigating whether the news organizations violated antitrust laws. The networks have not yet commented, according to the report.\n\nEarlier, Trump blocked those three outlets from White House access after accusing them of unfair coverage. A judge later ordered access restored after the outlets sued, saying the ban violated First Amendment press protections. The First Amendment limits the government from restricting press freedom based on the content of coverage.\n\nThe story also notes other recent fights over press access, including a February move to change who manages the White House press pool and a separate dispute involving the Associated Press. For kids learning civics, the core idea is that courts, newsrooms, and government agencies are arguing about how shared presidential coverage and competition rules should work.",
+  "why_it_matters": "Shared White House coverage and competition rules shape what news many families can see. Understanding press pools and antitrust helps kids follow how democracy and media work together.",
+  "image_url": "/article_images/news-s1954d8feef948a3f.webp",
+  "keywords": [
+    {
+      "term": "Justice Department",
+      "explanation": "The part of the U.S. government that enforces federal laws and investigates possible violations."
+    },
+    {
+      "term": "competition laws",
+      "explanation": "Rules meant to stop companies from unfairly limiting rivals or shoppers' choices."
+    },
+    {
+      "term": "press pool",
+      "explanation": "A small group of reporters who cover an event and share their notes or video with many newsrooms."
+    },
+    {
+      "term": "Sherman Act",
+      "explanation": "A U.S. law that bars companies from joining together in monopolistic business practices."
+    },
+    {
+      "term": "antitrust",
+      "explanation": "Legal efforts to prevent unfair control of a market by one company or a cooperating group."
+    },
+    {
+      "term": "First Amendment",
+      "explanation": "The part of the U.S. Constitution that protects freedoms such as speech and the press."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Which U.S. agency is investigating the TV networks?",
+      "options": [
+        "NASA",
+        "The Justice Department",
+        "The Postal Service",
+        "The State Department"
+      ],
+      "correct_answer": "The Justice Department"
+    },
+    {
+      "question": "What is a press pool?",
+      "options": [
+        "A list of banned books",
+        "A swimming pool at the White House",
+        "Reporters who share coverage with many newsrooms",
+        "A type of camera lens"
+      ],
+      "correct_answer": "Reporters who share coverage with many newsrooms"
+    },
+    {
+      "question": "Which law did officials mention in connection with the pause?",
+      "options": [
+        "The Homestead Act",
+        "The Sherman Act",
+        "The Clean Air Act",
+        "The Stamp Act"
+      ],
+      "correct_answer": "The Sherman Act"
+    },
+    {
+      "question": "What happened after three outlets sued over lost credentials?",
+      "options": [
+        "A judge ordered access restored",
+        "The networks moved overseas",
+        "Congress banned pool coverage",
+        "All TV news was canceled"
+      ],
+      "correct_answer": "A judge ordered access restored"
+    },
+    {
+      "question": "According to the article, have the networks commented yet?",
+      "options": [
+        "They fired all reporters",
+        "They have not yet commented",
+        "They admitted guilt",
+        "They sued the viewers"
+      ],
+      "correct_answer": "They have not yet commented"
+    },
+    {
+      "question": "What does the First Amendment protect in this story's framing?",
+      "options": [
+        "Press freedom from content-based government discrimination",
+        "Free baseball tickets",
+        "Unlimited TV advertising",
+        "Secret court meetings only"
+      ],
+      "correct_answer": "Press freedom from content-based government discrimination"
+    }
+  ],
+  "background_read": [
+    "A White House press pool is a small team of journalists who cover the president and share notes or video with many other newsrooms.",
+    "Competition, or antitrust, laws try to stop companies from working together in ways that unfairly limit rivals.",
+    "In the United States, courts also weigh First Amendment protections that limit government control of the press based on what stories say.",
+    "When credentials or shared coverage change, newsrooms, agencies, and judges may all become involved."
+  ],
+  "Article_Structure": [
+    "LEAD: Justice Department investigates TV networks over paused Trump pool coverage",
+    "KEY EVENT: Five networks briefly stopped sharing presidential pool material",
+    "  ├─ TRIGGER: Credentials withdrawn from CNN, MS Now, and Politico reporters",
+    "  └─ LEGAL ANGLE: Possible Sherman Act / antitrust questions about a coordinated pause",
+    "EVIDENCE: DoJ requests communications; spokesperson says it is an investigation; networks silent so far",
+    "CONTEXT: Earlier access fight; judge restored credentials after First Amendment lawsuit",
+    "OPEN QUESTION: Whether the pause violated competition laws"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Justice Department spokesperson",
+      "description": "Says the Antitrust Division is investigating whether the news organizations violated antitrust laws."
+    },
+    {
+      "perspective": "Television networks",
+      "description": "Have not yet commented, according to the report."
+    },
+    {
+      "perspective": "CNN, MS Now, and Politico (earlier lawsuit)",
+      "description": "Argued that restricted White House access violated First Amendment rights."
+    }
+  ],
+  "mined_at": "2026-10-11T10:24:14+00:00",
+  "source_published_at": "Sun, 11 Oct 2026 05:05:43 GMT",
+  "source_name": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+  "category": "News",
+  "source_word_count": 381,
+  "detail_status": "full"
+}

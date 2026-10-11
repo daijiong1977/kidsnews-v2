@@ -1,0 +1,134 @@
+{
+  "title": "Close House Race in Southwest Washington Could Help Decide Congress",
+  "summary": "One of the tightest U.S. House races this year is in Washington state's 3rd Congressional District, a mix of cities, factories, farms, and coastal towns. Control of the House of Representatives could partly depend on who wins there.\n\nDemocratic Rep. Marie Gluesenkamp Perez flipped the seat blue in 2022, even though President Trump has won the district three times. Her Republican challenger is state Sen. John Braun, who owns a small company that builds emergency vehicles. Both candidates describe themselves as moderates who back manufacturing, natural resources, and small businesses.\n\nBraun told NPR the district is not predictable and candidates must earn votes. Longview Mayor Erik Halvorson said voters often split tickets: Trump can win the area while Gluesenkamp Perez also wins on the same ballot. He said people want leaders who show up and understand local problems.\n\nLocal issues include tariffs that raise costs for builders and exporters, housing prices in growing Vancouver, and tough times for coastal shellfish farms and fishing towns. Kathleen Nisbet, who runs Goose Point Oysters in Bay Center, said her farm faces many agency fees and has lost more than half of its international sales amid trade tensions with Asian countries. Ilwaco, once centered on natural resources, now leans more on tourism and hospitality.\n\nSome Democrats in Clark County are unhappy with Gluesenkamp Perez over certain votes, and she faced a left-leaning primary challenge before advancing. She defended a vote for the SAVE Act, saying she supports requiring that only U.S. citizens vote. Braun has Trump's endorsement but says he would break with broad, \"indiscriminate\" tariffs.\n\nBoth sides see the seat as important: Democrats want to keep it to chase a House majority, while Republicans want it to help advance Trump's agenda.",
+  "why_it_matters": "Close House races decide who writes national laws on jobs, trade, and services. Kids can see how local factories, farms, and towns connect to Congress.",
+  "image_url": "/article_images/news-s6dee1bc1fe8e1c6f.webp",
+  "keywords": [
+    {
+      "term": "House",
+      "explanation": "Short for the U.S. House of Representatives, which helps make national laws."
+    },
+    {
+      "term": "Congressional District",
+      "explanation": "A geographic area that elects one member of the House."
+    },
+    {
+      "term": "tariffs",
+      "explanation": "Taxes on imported goods that can raise prices for materials and products."
+    },
+    {
+      "term": "manufacturing",
+      "explanation": "Making goods in factories, such as vehicles or other products."
+    },
+    {
+      "term": "shellfish",
+      "explanation": "Water animals with shells, such as oysters, that people farm and sell."
+    },
+    {
+      "term": "hospitality",
+      "explanation": "Businesses that serve visitors, such as restaurants, motels, and shops."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Which state's 3rd District is featured?",
+      "options": [
+        "Florida",
+        "Texas",
+        "Washington",
+        "Maine"
+      ],
+      "correct_answer": "Washington"
+    },
+    {
+      "question": "Who is the Democratic incumbent?",
+      "options": [
+        "John Braun",
+        "Marie Gluesenkamp Perez",
+        "Erik Halvorson",
+        "Kathleen Nisbet"
+      ],
+      "correct_answer": "Marie Gluesenkamp Perez"
+    },
+    {
+      "question": "What business does John Braun own?",
+      "options": [
+        "A newspaper",
+        "A pizza chain",
+        "A software startup",
+        "An emergency vehicle manufacturing company"
+      ],
+      "correct_answer": "An emergency vehicle manufacturing company"
+    },
+    {
+      "question": "What local industry problem does Kathleen Nisbet describe?",
+      "options": [
+        "A surplus of fishing boats",
+        "Too many tourists buying oysters",
+        "Free housing for farmers",
+        "Lost international shellfish sales amid trade tensions"
+      ],
+      "correct_answer": "Lost international shellfish sales amid trade tensions"
+    },
+    {
+      "question": "Why do both parties care about this seat?",
+      "options": [
+        "It chooses the next Supreme Court justice alone",
+        "It could affect which party controls the House",
+        "It sets gasoline prices nationwide",
+        "It elects the U.N. ambassador"
+      ],
+      "correct_answer": "It could affect which party controls the House"
+    },
+    {
+      "question": "What does Mayor Halvorson say about voting in the area?",
+      "options": [
+        "Only cities can vote",
+        "Everyone must vote one party only",
+        "Voters can split tickets between president and Congress",
+        "Ballots are counted overseas"
+      ],
+      "correct_answer": "Voters can split tickets between president and Congress"
+    }
+  ],
+  "background_read": [
+    "The U.S. House of Representatives is divided into districts, and each district elects one member.",
+    "A competitive district can still vote for different parties for president and for Congress on the same ballot.",
+    "Local economies—factories, farms, ports, and small towns—often shape what voters care about most.",
+    "Control of the House depends on winning many such seats across the country."
+  ],
+  "Article_Structure": [
+    "LEAD: Competitive House race in Washington's 3rd District could influence House control",
+    "KEY EVENT: Incumbent Democrat Marie Gluesenkamp Perez faces Republican John Braun",
+    "  ├─ WHO: Moderate small-business owners on both sides",
+    "  └─ WHERE: Mix of Vancouver, industrial towns, and Pacific coastal communities",
+    "EVIDENCE: Local voices on tariffs, housing costs, oyster farms, and tourism",
+    "TENSION: Some Democrats upset with Perez's votes; Braun backs Trump but criticizes broad tariffs",
+    "OPEN QUESTION: Which candidate better matches independent-minded district voters"
+  ],
+  "perspectives": [
+    {
+      "perspective": "John Braun",
+      "description": "Says the district is unpredictable and candidates must earn votes; criticizes indiscriminate tariffs."
+    },
+    {
+      "perspective": "Erik Halvorson",
+      "description": "Says voters split tickets and want authentic leaders who understand local issues."
+    },
+    {
+      "perspective": "Kathleen Nisbet",
+      "description": "Says regulations and lost Asian sales hurt shellfish farms and community resilience."
+    },
+    {
+      "perspective": "Marie Gluesenkamp Perez",
+      "description": "Defended her SAVE Act vote as supporting that only U.S. citizens vote."
+    }
+  ],
+  "mined_at": "2026-10-11T10:24:14+00:00",
+  "source_published_at": "Sun, 11 Oct 2026 05:00:00 -0400",
+  "source_name": "NPR World",
+  "source_url": "https://www.npr.org/2026/10/11/nx-s1-5968691/midterm-elections-washington-congressional-district",
+  "category": "News",
+  "source_word_count": 1957,
+  "detail_status": "full"
+}

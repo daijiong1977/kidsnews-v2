@@ -1,0 +1,122 @@
+{
+  "title": "Wavy Walls and Roofs May Soften Hurricane Wind Forces",
+  "summary": "Engineers in Florida are testing a simple idea for storm-prone homes: give walls and roofs gentle waves, like ocean ripples, instead of flat surfaces.\n\nHurricane winds and related flooding cost U.S. households about $34 billion a year, according to the Congressional Budget Office. Extra bracing and rounded corners can help, but they can be expensive. Researchers at Florida A&M University and Florida State University published wind-tunnel results in the journal Engineering Structures.\n\nThey 3D-printed low-rise building models—some flat, some with wave depths of 5 percent, 7.5 percent, and 10 percent of the building's height. For a 20-foot-tall building, a 10 percent wave would stick out about 2 feet. In the tunnel, every wavy model faced lower wind loads than the flat one. The deepest waves cut peak pressure near roof and wall corners by about 40 to 60 percent. Those corners are where damaging forces often gather.\n\nWhy? Wind rushing over a flat roof can form one big swirling vortex that creates strong suction and can help peel a roof off. Over waves, the air skips like a stone on water, making many smaller swirls instead of one powerful one, so extreme suction spots are weaker.\n\n\"These nonconventional building shapes reduce the damage from worst-case severe weather scenarios,\" said co-author Pedro Fernández-Cabán, a Florida State University civil engineer. \"It's another tool for engineers and designers to protect against wind damage.\"\n\nThe team cautions the study measured surface pressure on models. They are running more tests and computer models to refine wave shapes. If results hold, wavy designs could become a practical option for communities facing stronger storms.",
+  "why_it_matters": "Strong storms threaten homes where families live. Clever shapes could be another affordable way engineers protect roofs and walls.",
+  "image_url": "/article_images/science-s09ce98a6dc85fee2.webp",
+  "keywords": [
+    {
+      "term": "wind-tunnel",
+      "explanation": "A lab device that blows controlled air over models to study wind forces."
+    },
+    {
+      "term": "peak pressure",
+      "explanation": "The highest push or pull of wind on a surface during a test."
+    },
+    {
+      "term": "vortex",
+      "explanation": "A swirling pocket of air that can create strong suction on a roof."
+    },
+    {
+      "term": "suction",
+      "explanation": "An upward pulling force when low pressure above meets higher pressure below."
+    },
+    {
+      "term": "civil engineer",
+      "explanation": "An engineer who designs and studies buildings and other structures."
+    },
+    {
+      "term": "Hurricane",
+      "explanation": "A powerful tropical storm with very strong winds that can damage buildings."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What building feature did engineers test against hurricane winds?",
+      "options": [
+        "Underground trampolines",
+        "Glass floors only",
+        "Wavy walls and roofs",
+        "Giant umbrellas only"
+      ],
+      "correct_answer": "Wavy walls and roofs"
+    },
+    {
+      "question": "How did they test the models?",
+      "options": [
+        "By flying them on kites",
+        "In a wind tunnel",
+        "Only with computer games",
+        "By floating them in a pool"
+      ],
+      "correct_answer": "In a wind tunnel"
+    },
+    {
+      "question": "How much did the deepest waves cut peak corner pressure?",
+      "options": [
+        "More than 99 percent always",
+        "Zero percent",
+        "About 40 to 60 percent",
+        "Exactly 1 percent"
+      ],
+      "correct_answer": "About 40 to 60 percent"
+    },
+    {
+      "question": "Why can flat roofs suffer strong upward forces?",
+      "options": [
+        "A large vortex creates suction",
+        "Roofs turn into boats",
+        "Winds push only sideways forever",
+        "Gravity reverses"
+      ],
+      "correct_answer": "A large vortex creates suction"
+    },
+    {
+      "question": "Who is quoted as a study co-author?",
+      "options": [
+        "A chef",
+        "A fashion designer",
+        "Pedro Fernández-Cabán",
+        "A soccer coach"
+      ],
+      "correct_answer": "Pedro Fernández-Cabán"
+    },
+    {
+      "question": "What do researchers still plan to do?",
+      "options": [
+        "Only paint buildings blue",
+        "Stop studying storms",
+        "More experiments and computer modeling",
+        "Ban all houses"
+      ],
+      "correct_answer": "More experiments and computer modeling"
+    }
+  ],
+  "background_read": [
+    "Hurricane winds push and pull hardest on sharp edges and corners of buildings.",
+    "Engineers use wind tunnels to blow air over scale models and measure pressure.",
+    "A large swirling vortex over a flat roof can create strong upward suction.",
+    "Changing a building's outer shape is one way designers try to lower those peak forces."
+  ],
+  "Article_Structure": [
+    "LEAD: Wavy building shapes may cut hurricane wind pressure",
+    "KEY EVENT: FAMU/FSU team wind-tunnel tests 3D-printed models",
+    "  ├─ DESIGNS: Flat vs. wave amplitudes up to 10% of height",
+    "  └─ RESULT: Deepest waves cut peak corner pressure ~40–60%",
+    "EVIDENCE: Explanation of vortex suction on flat roofs vs. smaller swirls on waves",
+    "CAUTION: Surface-pressure study; more flow tests planned",
+    "OPEN QUESTION: Whether real houses will adopt wavy designs"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Pedro Fernández-Cabán",
+      "description": "Says nonconventional shapes reduce damage risk and give designers another wind-protection tool."
+    }
+  ],
+  "mined_at": "2026-10-11T10:24:14+00:00",
+  "source_published_at": "Fri, 09 Oct 2026 15:45:00 -0400",
+  "source_name": "Popular Science",
+  "source_url": "https://www.popsci.com/technology/wave-shaped-buildings-hurricane-winds/",
+  "category": "Science",
+  "source_word_count": 708,
+  "detail_status": "full"
+}

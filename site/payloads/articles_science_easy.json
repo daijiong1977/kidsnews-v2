@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-10-science-1",
-      "source": "Smithsonian Science-Nature",
-      "time_ago": "Wed, 07 Oct 2026 17:15:01 +0000",
-      "mined_at": "2026-10-10T10:26:32+00:00",
-      "source_published_at": "Wed, 07 Oct 2026 17:15:01 +0000",
-      "image_url": "/article_images/science-s9c44b17c070e0821.webp",
+      "id": "2026-10-11-science-1",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Thu, 08 Oct 2026 09:31:39 EDT",
+      "mined_at": "2026-10-11T10:24:14+00:00",
+      "source_published_at": "Thu, 08 Oct 2026 09:31:39 EDT",
+      "image_url": "/article_images/science-s85330d060dd8c93a.webp",
       "category": "Science",
-      "title": "New Clues Change the Picture of T. Rex",
-      "summary": "Fossils and studies keep updating ideas about T. rex arms, lips, speed, and lifestyle."
+      "title": "Tiny Pond Creature Breaks Usual DNA \"Stop\" Rules",
+      "summary": "A microscopic pond protist turns usual DNA stop signals into amino-acid codes."
     },
     {
-      "id": "2026-10-10-science-2",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Fri, 09 Oct 2026 06:20:23 EDT",
-      "mined_at": "2026-10-10T10:26:32+00:00",
-      "source_published_at": "Fri, 09 Oct 2026 06:20:23 EDT",
-      "image_url": "/article_images/science-sa364c4475b0932cb.webp",
+      "id": "2026-10-11-science-2",
+      "source": "DOGOnews",
+      "time_ago": "",
+      "mined_at": "2026-10-11T10:24:14+00:00",
+      "source_published_at": "",
+      "image_url": "/article_images/science-s689f1c53678044e2.webp",
       "category": "Science",
-      "title": "Hidden Materials May Help Batteries and Solar Fuels",
-      "summary": "Scientists found temporary material forms that may help solar fuels and future batteries."
+      "title": "Backyard Dig Turns Up Huge Viking Silver Treasure",
+      "summary": "A Danish homeowner digging for a terrace found about 700 Viking Age silver objects."
     },
     {
-      "id": "2026-10-10-science-3",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Thu, 08 Oct 2026 22:37:22 EDT",
-      "mined_at": "2026-10-10T10:26:32+00:00",
-      "source_published_at": "Thu, 08 Oct 2026 22:37:22 EDT",
-      "image_url": "/article_images/science-s412e818536720d9b.webp",
+      "id": "2026-10-11-science-3",
+      "source": "Popular Science",
+      "time_ago": "Fri, 09 Oct 2026 15:45:00 -0400",
+      "mined_at": "2026-10-11T10:24:14+00:00",
+      "source_published_at": "Fri, 09 Oct 2026 15:45:00 -0400",
+      "image_url": "/article_images/science-s09ce98a6dc85fee2.webp",
       "category": "Science",
-      "title": "October Skies Bring Hidden Jupiter and Meteor Showers",
-      "summary": "October features a Jupiter occultation and the Draconid and Orionid meteor showers."
+      "title": "Wavy Walls May Help Homes Stand Up to Hurricane Winds",
+      "summary": "Wind-tunnel tests show wavy walls and roofs can greatly lower peak hurricane wind pressure at corners."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-10-news-1",
+      "id": "2026-10-11-news-1",
+      "source": "BBC News",
+      "time_ago": "Sun, 11 Oct 2026 05:05:43 GMT",
+      "mined_at": "2026-10-11T10:24:14+00:00",
+      "source_published_at": "Sun, 11 Oct 2026 05:05:43 GMT",
+      "image_url": "/article_images/news-s1954d8feef948a3f.webp",
+      "category": "News",
+      "title": "U.S. Checks If TV Networks Broke Rules on Trump Coverage",
+      "summary": "The Justice Department is investigating whether TV networks broke competition laws when they paused shared White House coverage."
+    },
+    {
+      "id": "2026-10-11-news-2",
       "source": "NPR World",
-      "time_ago": "Fri, 09 Oct 2026 05:00:00 -0400",
-      "mined_at": "2026-10-10T10:26:32+00:00",
-      "source_published_at": "Fri, 09 Oct 2026 05:00:00 -0400",
-      "image_url": "/article_images/news-sf86d8ae1c0218ce1.webp",
+      "time_ago": "Sun, 11 Oct 2026 05:00:00 -0400",
+      "mined_at": "2026-10-11T10:24:14+00:00",
+      "source_published_at": "Sun, 11 Oct 2026 05:00:00 -0400",
+      "image_url": "/article_images/news-s6dee1bc1fe8e1c6f.webp",
       "category": "News",
-      "title": "Girl’s Podcast About Dyslexia Wins Big Prize",
-      "summary": "Long Island seventh-grader Cora Walsh won NPR’s middle-school podcast prize about dyslexia."
+      "title": "Close House Race in Washington State Could Matter a Lot",
+      "summary": "A competitive House race in southwest Washington pits Democrat Marie Gluesenkamp Perez against Republican John Braun."
     },
     {
-      "id": "2026-10-10-news-2",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Thu, 08 Oct 2026 23:56:28 EDT",
-      "mined_at": "2026-10-10T10:26:32+00:00",
-      "source_published_at": "Thu, 08 Oct 2026 23:56:28 EDT",
-      "image_url": "/article_images/news-sff3ed8e732a8278f.webp",
+      "id": "2026-10-11-news-3",
+      "source": "MIT News",
+      "time_ago": "Thu, 08 Oct 2026 00:00:00 -0400",
+      "mined_at": "2026-10-11T10:24:14+00:00",
+      "source_published_at": "Thu, 08 Oct 2026 00:00:00 -0400",
+      "image_url": "/article_images/news-sc487bec02152097f.webp",
       "category": "News",
-      "title": "Crew-12 Astronauts Splash Down After Long Mission",
-      "summary": "Crew-12 returned safely after 237 days and more than 100 million miles in space."
-    },
-    {
-      "id": "2026-10-10-news-3",
-      "source": "CBC World",
-      "time_ago": "Fri, 09 Oct 2026 10:53:11 EDT",
-      "mined_at": "2026-10-10T10:26:32+00:00",
-      "source_published_at": "Fri, 09 Oct 2026 10:53:11 EDT",
-      "image_url": "/article_images/news-s0656a3fd9d6417b6.webp",
-      "category": "News",
-      "title": "Judge Says U.S. Must Help Bring Man Home",
-      "summary": "A judge ordered U.S. officials to help return an Arizona man sent to Equatorial Guinea."
+      "title": "MIT Teacher Uses AI to Help Data Centers Use Less Power",
+      "summary": "An MIT professor uses AI to make data centers more efficient so they use less electricity."
     }
   ]
 }

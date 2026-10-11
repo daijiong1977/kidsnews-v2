@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-10-news-1",
+      "id": "2026-10-11-news-1",
+      "source": "BBC News",
+      "time_ago": "Sun, 11 Oct 2026 05:05:43 GMT",
+      "mined_at": "2026-10-11T10:24:14+00:00",
+      "source_published_at": "Sun, 11 Oct 2026 05:05:43 GMT",
+      "image_url": "/article_images/news-s1954d8feef948a3f.webp",
+      "category": "News",
+      "title": "Justice Department Looks Into TV Networks Pausing Trump Pool Coverage",
+      "summary": "The Justice Department is investigating whether TV networks broke competition laws when they paused shared White House pool coverage of President Trump."
+    },
+    {
+      "id": "2026-10-11-news-2",
       "source": "NPR World",
-      "time_ago": "Fri, 09 Oct 2026 05:00:00 -0400",
-      "mined_at": "2026-10-10T10:26:32+00:00",
-      "source_published_at": "Fri, 09 Oct 2026 05:00:00 -0400",
-      "image_url": "/article_images/news-sf86d8ae1c0218ce1.webp",
+      "time_ago": "Sun, 11 Oct 2026 05:00:00 -0400",
+      "mined_at": "2026-10-11T10:24:14+00:00",
+      "source_published_at": "Sun, 11 Oct 2026 05:00:00 -0400",
+      "image_url": "/article_images/news-s6dee1bc1fe8e1c6f.webp",
       "category": "News",
-      "title": "Middle Schooler’s Dyslexia Podcast Wins National Contest",
-      "summary": "Long Island seventh-grader Cora Walsh won NPR’s middle-school podcast prize with her story about living with dyslexia."
+      "title": "Close House Race in Southwest Washington Could Help Decide Congress",
+      "summary": "A competitive House race in Washington state's 3rd District pits incumbent Democrat Marie Gluesenkamp Perez against Republican John Braun, with local jobs and tariffs in focus."
     },
     {
-      "id": "2026-10-10-news-2",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Thu, 08 Oct 2026 23:56:28 EDT",
-      "mined_at": "2026-10-10T10:26:32+00:00",
-      "source_published_at": "Thu, 08 Oct 2026 23:56:28 EDT",
-      "image_url": "/article_images/news-sff3ed8e732a8278f.webp",
+      "id": "2026-10-11-news-3",
+      "source": "MIT News",
+      "time_ago": "Thu, 08 Oct 2026 00:00:00 -0400",
+      "mined_at": "2026-10-11T10:24:14+00:00",
+      "source_published_at": "Thu, 08 Oct 2026 00:00:00 -0400",
+      "image_url": "/article_images/news-sc487bec02152097f.webp",
       "category": "News",
-      "title": "NASA’s Crew-12 Astronauts Splash Down After 237 Days",
-      "summary": "Crew-12 astronauts returned safely to the Pacific after 237 days and more than 100 million miles in space."
-    },
-    {
-      "id": "2026-10-10-news-3",
-      "source": "CBC World",
-      "time_ago": "Fri, 09 Oct 2026 10:53:11 EDT",
-      "mined_at": "2026-10-10T10:26:32+00:00",
-      "source_published_at": "Fri, 09 Oct 2026 10:53:11 EDT",
-      "image_url": "/article_images/news-s0656a3fd9d6417b6.webp",
-      "category": "News",
-      "title": "Judge Orders U.S. to Help Bring Deported Arizona Man Home",
-      "summary": "A U.S. judge ordered Homeland Security to help return an Arizona man deported to Equatorial Guinea this year."
+      "title": "MIT Professor Uses AI to Make Power-Hungry Data Centers More Efficient",
+      "summary": "MIT's Christina Delimitrou uses machine learning to run data centers more efficiently so they use less power as cloud demand grows."
     }
   ]
 }
