@@ -1,0 +1,123 @@
+{
+  "title": "Astronaut Photographs a Patch of 'Moon Rock' on Earth",
+  "summary": "When you look up at the Moon, you can see bright, light-colored areas called the highlands. Much of that brightness comes from a rock called anorthosite. Now an astronaut has photographed a giant patch of the same kind of rock right here on Earth.\n\nOn August 28, 2026, an astronaut aboard the International Space Station took a picture of the Saririaky anorthosite massif in southern Madagascar, an island country off the east coast of Africa. A massif is a large body of rock. Seen from space, this one forms a bright, roughly circular shape that stands out against the dry land around it. It covers about 100 square kilometers, or 40 square miles.\n\nAnorthosite is an igneous rock, which means it forms from melted rock that cools and hardens. This type forms underground, where it cools slowly. That slow cooling gives its minerals time to grow into fairly large crystals. Besides Madagascar, big deposits are also found in eastern Canada, Scandinavia and southern India.\n\nScientists think the Saririaky rock formed at least 600 million years ago. The rocks around it tell an exciting story, too. Long ago, pieces of land crashed together to form Gondwana, a giant supercontinent that included parts of today's Africa, India, Madagascar, Australia and Antarctica. The heat and pressure from those collisions bent and stretched the rocks in this area, almost like warm clay.\n\nSome researchers think another patch of anorthosite about 60 kilometers to the north was once joined to Saririaky. They suggest the original rock was pulled apart into two pieces as the land around it shifted.\n\nStudying Moon-like rocks on Earth can also help scientists learn more about how the Moon formed and changed over time.",
+  "why_it_matters": "Rocks on Earth that match the Moon's surface let scientists study lunar history without leaving the planet. The site also records how ancient continents collided.",
+  "image_url": "/article_images/science-s157782d23cac631b.webp",
+  "keywords": [
+    {
+      "term": "highlands",
+      "explanation": "The bright, higher, older areas of the Moon's surface."
+    },
+    {
+      "term": "anorthosite",
+      "explanation": "A light-colored rock that makes up much of the Moon's bright highlands."
+    },
+    {
+      "term": "massif",
+      "explanation": "A large, solid body of rock."
+    },
+    {
+      "term": "igneous",
+      "explanation": "Describes rock that forms when melted rock cools and hardens."
+    },
+    {
+      "term": "crystals",
+      "explanation": "Solid pieces with a regular repeating pattern, like those that grow in minerals."
+    },
+    {
+      "term": "supercontinent",
+      "explanation": "A giant landmass made when several continents join together."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What rock makes up much of the Moon's bright highlands?",
+      "options": [
+        "Granite",
+        "Marble",
+        "Limestone",
+        "Anorthosite"
+      ],
+      "correct_answer": "Anorthosite"
+    },
+    {
+      "question": "Where was the astronaut when taking the photo?",
+      "options": [
+        "On the Moon",
+        "On the International Space Station",
+        "At a lab in Madagascar",
+        "In an airplane over Canada"
+      ],
+      "correct_answer": "On the International Space Station"
+    },
+    {
+      "question": "In which country is the Saririaky massif?",
+      "options": [
+        "Norway",
+        "India",
+        "Madagascar",
+        "Canada"
+      ],
+      "correct_answer": "Madagascar"
+    },
+    {
+      "question": "Why does anorthosite have fairly large crystals?",
+      "options": [
+        "It is made by people",
+        "It falls from space",
+        "It forms in ice",
+        "It cools slowly underground"
+      ],
+      "correct_answer": "It cools slowly underground"
+    },
+    {
+      "question": "About how old do scientists think the Saririaky rock is?",
+      "options": [
+        "About 60 years",
+        "About 6,000 years",
+        "Exactly 1 million years",
+        "At least 600 million years"
+      ],
+      "correct_answer": "At least 600 million years"
+    },
+    {
+      "question": "What was Gondwana?",
+      "options": [
+        "A space station module",
+        "A giant supercontinent",
+        "A type of crystal",
+        "A Moon crater"
+      ],
+      "correct_answer": "A giant supercontinent"
+    }
+  ],
+  "background_read": [
+    "Astronauts on the International Space Station orbit Earth and often take photos of interesting places on the ground below.",
+    "Rocks are grouped by how they form, and igneous rocks form when melted rock cools, either on the surface or deep underground.",
+    "Earth's continents slowly move, and long ago some of them crashed together to form a giant supercontinent called Gondwana.",
+    "Because the Moon's bright highlands are made of anorthosite, studying the same rock on Earth helps scientists understand the Moon."
+  ],
+  "Article_Structure": [
+    "LEAD: Astronaut photographs Moon-like rock on Earth",
+    "KEY EVENT: August 28, 2026 photo of the Saririaky anorthosite massif",
+    "  ├─ WHERE: Southern Madagascar, seen from the International Space Station",
+    "  └─ WHAT: A bright, roughly circular patch of about 40 square miles",
+    "EXPLANATION: Anorthosite is an igneous rock that cools slowly underground",
+    "HISTORY: Formed at least 600 million years ago; reshaped as Gondwana came together",
+    "HYPOTHESIS: A second patch to the north may once have been joined to it",
+    "OPEN QUESTION: What can Earth's anorthosite teach us about how the Moon formed?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Some researchers",
+      "description": "Suggest another anorthosite patch about 60 kilometers north was once connected to Saririaky and was pulled apart."
+    }
+  ],
+  "mined_at": "2026-10-12T10:19:39+00:00",
+  "source_published_at": "Sun, 11 Oct 2026 11:30:06 EDT",
+  "source_name": "ScienceDaily Top Environment",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261008102707.htm",
+  "category": "Science",
+  "source_word_count": 555,
+  "detail_status": "full"
+}

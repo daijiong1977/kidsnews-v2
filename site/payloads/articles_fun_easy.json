@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-11-fun-1",
-      "source": "Popular Science",
-      "time_ago": "Sat, 10 Oct 2026 10:10:00 -0400",
-      "mined_at": "2026-10-11T10:24:14+00:00",
-      "source_published_at": "Sat, 10 Oct 2026 10:10:00 -0400",
-      "image_url": "/article_images/fun-s30faba0a6fbe0e1a.webp",
+      "id": "2026-10-12-fun-1",
+      "source": "Rolling Stone Music",
+      "time_ago": "Sun, 11 Oct 2026 19:49:58 +0000",
+      "mined_at": "2026-10-12T10:19:39+00:00",
+      "source_published_at": "Sun, 11 Oct 2026 19:49:58 +0000",
+      "image_url": "/article_images/fun-s5eec245a0429df7d.webp",
       "category": "Fun",
-      "title": "Rare Orange Baby Sea Turtle Looks Like Pumpkin Spice",
-      "summary": "A rare orange-toned loggerhead hatchling in Florida was nicknamed ‘pumpkin spice.’"
+      "title": "Singer Sombr Brings Out His Music Hero",
+      "summary": "At a concert in Los Angeles, Sombr surprised fans by bringing out Lindsey Buckingham of Fleetwood Mac."
     },
     {
-      "id": "2026-10-11-fun-2",
-      "source": "IndieWire",
-      "time_ago": "Sun, 11 Oct 2026 00:22:01 +0000",
-      "mined_at": "2026-10-11T10:24:14+00:00",
-      "source_published_at": "Sun, 11 Oct 2026 00:22:01 +0000",
-      "image_url": "/article_images/fun-se5b432198ae4f034.webp",
+      "id": "2026-10-12-fun-2",
+      "source": "Kotaku",
+      "time_ago": "Sun, 11 Oct 2026 20:52:57 +0000",
+      "mined_at": "2026-10-12T10:19:39+00:00",
+      "source_published_at": "Sun, 11 Oct 2026 20:52:57 +0000",
+      "image_url": "/article_images/fun-s931da00e8edc86ef.webp",
       "category": "Fun",
-      "title": "New DARCYS Awards Celebrate Disability Stories in Movies and TV",
-      "summary": "The first DARCYS awards honored films and shows for authentic disability representation."
+      "title": "An Old Space Game Is Coming Back",
+      "summary": "A video game producer announced a new, improved version of the 1990s space game Wing Commander 3."
     },
     {
-      "id": "2026-10-11-fun-3",
-      "source": "BBC Tennis",
-      "time_ago": "Fri, 09 Oct 2026 11:18:22 GMT",
-      "mined_at": "2026-10-11T10:24:14+00:00",
-      "source_published_at": "Fri, 09 Oct 2026 11:18:22 GMT",
-      "image_url": "/article_images/fun-s343d2f7d44f52e49.webp",
+      "id": "2026-10-12-fun-3",
+      "source": "Science News Explores",
+      "time_ago": "Wed, 07 Oct 2026 10:30:00 +0000",
+      "mined_at": "2026-10-12T10:19:39+00:00",
+      "source_published_at": "Wed, 07 Oct 2026 10:30:00 +0000",
+      "image_url": "/article_images/fun-s2970521c6b207b53.webp",
       "category": "Fun",
-      "title": "Wimbledon Boss Jokes Security Would Stop Disruptive Influencers",
-      "summary": "Wimbledon’s CEO jokes that security would stop mid-match influencer shoots while still allowing carefully managed creators."
+      "title": "Try This Eye Trick: See Colors That Are Not There",
+      "summary": "Stare at a colored picture, then look at something white, and you will see a ghostly image in different colors."
     }
   ]
 }

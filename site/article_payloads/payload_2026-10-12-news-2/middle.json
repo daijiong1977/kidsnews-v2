@@ -1,0 +1,132 @@
+{
+  "title": "Trump Announces 'Energy Ceasefire' Between Russia and Ukraine",
+  "summary": "On Sunday, U.S. President Donald Trump said Russia and Ukraine had agreed to an \"energy ceasefire.\" A ceasefire is an agreement to stop attacking. This one would mean the two countries stop striking each other's power plants and other energy sites. Russia and Ukraine have been at war for about four and a half years.\n\nTrump's short social media post said the ceasefire began right away, and added, \"Do not break it!\" He did not give any other details. Russia did not immediately comment.\n\nUkrainian President Volodymyr Zelenskyy said Ukraine \"welcomed\" the announcement as \"good news for everyone.\" But he said Russia was still attacking energy sites in Kyiv, Ukraine's capital, and in the city of Kharkiv, using drones and bombs. He said a power plant in Kharkiv was attacked that evening.\n\nZelenskyy said Ukraine was \"ready to refrain from striking Russian energy infrastructure\" if Russia did the same. Earlier on Sunday, he asked Trump to press Russia to stop hitting Ukraine's energy system. Ukrainian officials say Russia has tried to cut off power, heat and water to wear down people during the war.\n\nThis is not the first such announcement. On September 14, Trump said both countries had agreed not to hit each other's energy sites, but nothing came of that plan.\n\nThe two leaders have also disagreed in public. On Saturday, Trump said it was time for Ukraine to get a new president. Zelenskyy answered that choosing a leader is up to Ukraine's people. Ukraine's constitution does not allow elections while the country is under martial law, which is special wartime rule.\n\nOn Friday, Trump also made a deal to buy diesel fuel from Russia to try to lower high U.S. fuel prices. Ukrainian and European officials criticized that deal.",
+  "why_it_matters": "Attacks on power plants can leave families without electricity, heat and water, so a real energy ceasefire could protect civilians. Whether this announcement holds will show how much U.S. diplomacy can change the war.",
+  "image_url": "/article_images/news-s9771452b70be6030.webp",
+  "keywords": [
+    {
+      "term": "ceasefire",
+      "explanation": "An agreement to stop fighting or attacking."
+    },
+    {
+      "term": "infrastructure",
+      "explanation": "The basic systems a country needs, such as power plants, pipes and roads."
+    },
+    {
+      "term": "refrain",
+      "explanation": "To hold back from doing something."
+    },
+    {
+      "term": "constitution",
+      "explanation": "A country's most important set of laws and rules."
+    },
+    {
+      "term": "martial law",
+      "explanation": "Special rule during war or emergency when the military has extra power and normal rules change."
+    },
+    {
+      "term": "diesel",
+      "explanation": "A type of fuel used by trucks, trains and some cars."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What did President Trump announce on Sunday?",
+      "options": [
+        "An energy ceasefire between Russia and Ukraine",
+        "The end of the war",
+        "New elections in Ukraine",
+        "A trade deal with Ukraine"
+      ],
+      "correct_answer": "An energy ceasefire between Russia and Ukraine"
+    },
+    {
+      "question": "What would an energy ceasefire stop?",
+      "options": [
+        "Attacks on power plants and other energy sites",
+        "Social media posts",
+        "All school classes",
+        "Trade in food"
+      ],
+      "correct_answer": "Attacks on power plants and other energy sites"
+    },
+    {
+      "question": "What did Zelenskyy say Russia was still doing after the announcement?",
+      "options": [
+        "Sending food aid",
+        "Holding peace talks in Kyiv",
+        "Building new power plants",
+        "Attacking energy sites in Kyiv and Kharkiv"
+      ],
+      "correct_answer": "Attacking energy sites in Kyiv and Kharkiv"
+    },
+    {
+      "question": "What happened after Trump's similar announcement on September 14?",
+      "options": [
+        "Nothing came of that plan",
+        "Ukraine held elections",
+        "The war ended",
+        "Russia agreed publicly"
+      ],
+      "correct_answer": "Nothing came of that plan"
+    },
+    {
+      "question": "Why can't Ukraine hold elections right now, according to the article?",
+      "options": [
+        "It has no voting machines",
+        "Its president refuses to leave",
+        "Russia must approve them",
+        "Its constitution does not allow elections under martial law"
+      ],
+      "correct_answer": "Its constitution does not allow elections under martial law"
+    },
+    {
+      "question": "What deal did Trump make on Friday?",
+      "options": [
+        "To sell drones to Ukraine",
+        "To buy diesel fuel from Russia",
+        "To build a power plant in Kharkiv",
+        "To end martial law"
+      ],
+      "correct_answer": "To buy diesel fuel from Russia"
+    }
+  ],
+  "background_read": [
+    "Russia launched a full invasion of its neighbor Ukraine, and the two countries have been fighting ever since.",
+    "Both sides have attacked energy sites such as power plants, which can leave people without electricity, heat or water.",
+    "A ceasefire is a promise to stop certain attacks, but it only works if both sides follow it.",
+    "The United States has tried to help the two countries reach deals that could reduce the fighting."
+  ],
+  "Article_Structure": [
+    "LEAD: Trump announces an 'energy ceasefire' between Russia and Ukraine",
+    "KEY EVENT: Short social media post, no details given",
+    "  ├─ WHO: Trump, Zelenskyy, Russia (no immediate comment)",
+    "  └─ WHEN: Sunday, after about four and a half years of war",
+    "EVIDENCE: Zelenskyy reports continued Russian attacks on Kyiv and Kharkiv energy sites",
+    "CONTEXT: A similar September 14 claim led nowhere",
+    "  ├─ DISPUTE: Trump says Ukraine needs a new president; Zelenskyy says that is for Ukrainians to decide",
+    "  └─ DIESEL DEAL: U.S. agreement to buy Russian diesel criticized by Ukraine and Europe",
+    "OPEN QUESTION: Will Russia actually stop striking energy sites?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "President Donald Trump",
+      "description": "Says Russia and Ukraine agreed to an energy ceasefire that takes effect immediately."
+    },
+    {
+      "perspective": "Ukrainian President Volodymyr Zelenskyy",
+      "description": "Welcomes the announcement and says Ukraine will stop striking Russian energy sites if Russia does the same, but reports continued attacks."
+    },
+    {
+      "perspective": "Ukrainian and European officials",
+      "description": "Criticized the U.S. deal to buy Russian diesel."
+    }
+  ],
+  "mined_at": "2026-10-12T10:19:39+00:00",
+  "source_published_at": "Sun, 11 Oct 2026 17:25:24 -0400",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/world/trump-claims-russia-and-ukraine-agree-to-energy-ceasefire-despite-continued-attacks",
+  "category": "News",
+  "source_word_count": 770,
+  "detail_status": "full"
+}

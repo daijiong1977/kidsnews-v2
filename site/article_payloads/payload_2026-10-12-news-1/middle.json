@@ -1,0 +1,131 @@
+{
+  "title": "Storm Rachel Weakens but Keeps Soaking the Southwest",
+  "summary": "Rachel, a storm that brought flooding and damage to Southern California over the weekend, has weakened. On Sunday, the National Weather Service said Rachel had been downgraded to a post-tropical storm. That means it no longer has the structure of a tropical storm, but it can still bring heavy rain and wind.\n\nAs the storm moved inland across the desert Southwest, the weather service said the region was still at risk of flash floods. Strong waves called high surf were also expected to keep hitting coastal towns.\n\nIn California beach cities such as Long Beach and Newport Beach, big waves broke through sand walls, called berms, that had been built to keep the ocean back. Some oceanfront homes were partly underwater. Flood warnings covered much of the California coast, from San Diego up to the San Francisco Bay area.\n\nFarther inland, rockslides blocked some roads for a while. Las Vegas broke a daily rainfall record on Sunday, and the weather service issued a flood watch for much of Utah, including Salt Lake City.\n\nForecasters warned that Rachel may be a preview of the months ahead. They expect this winter to bring the strongest El Niño on record. El Niño is a weather pattern in which parts of the Pacific Ocean become warmer than usual, which can change rain and storms around the world. Forecasters say it could bring record rainfall, huge waves and mudslides to California into next year.\n\nCalifornia is getting ready. Last month, Governor Gavin Newsom issued an emergency proclamation to release money and resources. The state is putting more than 4 million sandbags in place, along with portable flood barriers and rock to repair levees, which are walls that hold back water. Workers are also inspecting dams and strengthening beach piers.",
+  "why_it_matters": "Rachel shows how one storm can affect several states, and it may be an early sign of a stormy El Niño winter. Preparing early with sandbags, levee repairs and dam checks can help protect communities.",
+  "image_url": "/article_images/news-s50d4cf0506261381.webp",
+  "keywords": [
+    {
+      "term": "downgraded",
+      "explanation": "Moved to a lower, weaker category."
+    },
+    {
+      "term": "post-tropical storm",
+      "explanation": "A storm that has lost the warm-centered structure of a tropical storm but can still bring rain and wind."
+    },
+    {
+      "term": "flash floods",
+      "explanation": "Sudden floods that rise very quickly after heavy rain."
+    },
+    {
+      "term": "berms",
+      "explanation": "Raised walls of sand or soil built to hold back water."
+    },
+    {
+      "term": "El Niño",
+      "explanation": "A weather pattern in which parts of the Pacific Ocean become warmer than usual, changing storms around the world."
+    },
+    {
+      "term": "levees",
+      "explanation": "Walls or banks built along water to keep it from flooding land."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What did the National Weather Service say happened to Rachel on Sunday?",
+      "options": [
+        "It moved back out to sea",
+        "It was downgraded to a post-tropical storm",
+        "It became a hurricane",
+        "It stopped raining everywhere"
+      ],
+      "correct_answer": "It was downgraded to a post-tropical storm"
+    },
+    {
+      "question": "What broke through the sand berms in Long Beach and Newport Beach?",
+      "options": [
+        "Rockslides",
+        "Heavy surf",
+        "Melting snow",
+        "Strong earthquakes"
+      ],
+      "correct_answer": "Heavy surf"
+    },
+    {
+      "question": "Which city broke a daily rainfall record on Sunday?",
+      "options": [
+        "Salt Lake City",
+        "San Francisco",
+        "San Diego",
+        "Las Vegas"
+      ],
+      "correct_answer": "Las Vegas"
+    },
+    {
+      "question": "What do forecasters expect this winter?",
+      "options": [
+        "No rain at all in California",
+        "A long heat wave in Utah",
+        "The weakest storm season ever",
+        "The strongest El Niño on record"
+      ],
+      "correct_answer": "The strongest El Niño on record"
+    },
+    {
+      "question": "How many sandbags is California putting in place?",
+      "options": [
+        "Exactly 400",
+        "More than 4 million",
+        "About 40,000",
+        "About 4,000"
+      ],
+      "correct_answer": "More than 4 million"
+    },
+    {
+      "question": "What is El Niño, according to the article?",
+      "options": [
+        "A storm that only hits Utah",
+        "A rule from the governor",
+        "A weather pattern where parts of the Pacific Ocean get warmer than usual",
+        "A new type of sandbag"
+      ],
+      "correct_answer": "A weather pattern where parts of the Pacific Ocean get warmer than usual"
+    }
+  ],
+  "background_read": [
+    "Tropical storms form over warm ocean water and get their energy from it, so they usually weaken after they move over land or cooler water.",
+    "Forecasters at the National Weather Service track storms and issue warnings and watches so people know when flooding is possible.",
+    "El Niño is a natural pattern in which parts of the Pacific Ocean warm up, shifting where heavy rain and storms are likely to fall.",
+    "Communities prepare for floods with sandbags, barriers and strong levees that help keep rising water away from homes."
+  ],
+  "Article_Structure": [
+    "LEAD: Rachel weakens to a post-tropical storm after flooding Southern California",
+    "KEY EVENT: National Weather Service downgrade on Sunday",
+    "  ├─ WHERE: Coastal California, the desert Southwest, Las Vegas and Utah",
+    "  └─ IMPACT: Flooded oceanfront homes, rockslides on roads, a Las Vegas rain record",
+    "EVIDENCE: Flood warnings from San Diego to the Bay Area and a flood watch for Utah",
+    "CONTEXT: Forecasters expect the strongest El Niño on record this winter",
+    "RESPONSE: California's emergency proclamation, sandbags, flood barriers, dam inspections",
+    "OPEN QUESTION: How many more storms will El Niño bring to California?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "National Weather Service",
+      "description": "Warns that flash floods and high surf remain risks even though Rachel has weakened."
+    },
+    {
+      "perspective": "Forecasters",
+      "description": "Say Rachel may be a preview of a record El Niño winter with heavy rain and mudslides."
+    },
+    {
+      "perspective": "California state government",
+      "description": "Is preparing with an emergency proclamation, sandbags, flood barriers and infrastructure checks."
+    }
+  ],
+  "mined_at": "2026-10-12T10:19:39+00:00",
+  "source_published_at": "Sun, 11 Oct 2026 19:54:21 -0400",
+  "source_name": "NPR World",
+  "source_url": "https://www.npr.org/2026/10/11/nx-s1-5998124/tropical-storm-rachel-downgraded-as-high-winds-and-rain-turn-inward",
+  "category": "News",
+  "source_word_count": 508,
+  "detail_status": "full"
+}

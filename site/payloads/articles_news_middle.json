@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-11-news-1",
-      "source": "BBC News",
-      "time_ago": "Sun, 11 Oct 2026 05:05:43 GMT",
-      "mined_at": "2026-10-11T10:24:14+00:00",
-      "source_published_at": "Sun, 11 Oct 2026 05:05:43 GMT",
-      "image_url": "/article_images/news-s1954d8feef948a3f.webp",
-      "category": "News",
-      "title": "Justice Department Looks Into TV Networks Pausing Trump Pool Coverage",
-      "summary": "The Justice Department is investigating whether TV networks broke competition laws when they paused shared White House pool coverage of President Trump."
-    },
-    {
-      "id": "2026-10-11-news-2",
+      "id": "2026-10-12-news-1",
       "source": "NPR World",
-      "time_ago": "Sun, 11 Oct 2026 05:00:00 -0400",
-      "mined_at": "2026-10-11T10:24:14+00:00",
-      "source_published_at": "Sun, 11 Oct 2026 05:00:00 -0400",
-      "image_url": "/article_images/news-s6dee1bc1fe8e1c6f.webp",
+      "time_ago": "Sun, 11 Oct 2026 19:54:21 -0400",
+      "mined_at": "2026-10-12T10:19:39+00:00",
+      "source_published_at": "Sun, 11 Oct 2026 19:54:21 -0400",
+      "image_url": "/article_images/news-s50d4cf0506261381.webp",
       "category": "News",
-      "title": "Close House Race in Southwest Washington Could Help Decide Congress",
-      "summary": "A competitive House race in Washington state's 3rd District pits incumbent Democrat Marie Gluesenkamp Perez against Republican John Braun, with local jobs and tariffs in focus."
+      "title": "Storm Rachel Weakens but Keeps Soaking the Southwest",
+      "summary": "Rachel brought flooding to Southern California and record rain to Las Vegas, and forecasters say a strong El Niño could bring more storms this winter."
     },
     {
-      "id": "2026-10-11-news-3",
-      "source": "MIT News",
-      "time_ago": "Thu, 08 Oct 2026 00:00:00 -0400",
-      "mined_at": "2026-10-11T10:24:14+00:00",
-      "source_published_at": "Thu, 08 Oct 2026 00:00:00 -0400",
-      "image_url": "/article_images/news-sc487bec02152097f.webp",
+      "id": "2026-10-12-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Sun, 11 Oct 2026 17:25:24 -0400",
+      "mined_at": "2026-10-12T10:19:39+00:00",
+      "source_published_at": "Sun, 11 Oct 2026 17:25:24 -0400",
+      "image_url": "/article_images/news-s9771452b70be6030.webp",
       "category": "News",
-      "title": "MIT Professor Uses AI to Make Power-Hungry Data Centers More Efficient",
-      "summary": "MIT's Christina Delimitrou uses machine learning to run data centers more efficiently so they use less power as cloud demand grows."
+      "title": "Trump Announces 'Energy Ceasefire' Between Russia and Ukraine",
+      "summary": "President Trump said Russia and Ukraine agreed to stop attacking energy sites, but he gave no details, and Ukraine reported more attacks afterward."
+    },
+    {
+      "id": "2026-10-12-news-3",
+      "source": "NPR World",
+      "time_ago": "Mon, 12 Oct 2026 05:00:00 -0400",
+      "mined_at": "2026-10-12T10:19:39+00:00",
+      "source_published_at": "Mon, 12 Oct 2026 05:00:00 -0400",
+      "image_url": "/article_images/news-s467ef871fb76dd3e.webp",
+      "category": "News",
+      "title": "New Limits on Chinese Drones Leave Police Facing Higher Costs",
+      "summary": "The U.S. government is limiting Chinese-made drones, but many police departments rely on them for rescues and say American ones cost much more."
     }
   ]
 }

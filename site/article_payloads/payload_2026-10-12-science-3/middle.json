@@ -1,0 +1,134 @@
+{
+  "title": "Colors and Gases Could Help Scientists Find Tiny Alien Life",
+  "summary": "If life exists on other worlds, it is probably tiny, one-celled life called microbes. Scientists are studying tough microbes on Earth to learn what clues might reveal life somewhere else.\n\nOne place they are looking is Venus. Its surface is hot enough to melt lead, so life as we know it could not survive there. But high in Venus's clouds, 48 to 60 kilometers (30 to 37 miles) up, temperatures and pressures are similar to Earth's. Scientists have spotted possible traces of gases such as oxygen, methane and phosphine there. In 2021, researchers at the Massachusetts Institute of Technology suggested that microbes might survive in those clouds by drying out when they sink into hotter layers, then reviving in cooler, wetter ones.\n\nOne of those researchers, Noelle Bryan, had collected microbes from Earth's stratosphere, a harsh layer of air high above the ground. Those microbes seemed to survive extreme drying.\n\nSome of Bryan's bacteria make colorful pigments that protect them from harmful ultraviolet light. Lígia Coelho, an astrobiologist at Cornell University, found that these pigments absorb or reflect certain colors of light. Future telescopes might look for similar color patterns on planets around distant stars.\n\nMars is another target. Andrew Schuerger of the University of Florida and Rachel Harris of NASA and Harvard found a microbe called Methanosarcina barkeri that can live without oxygen and still make methane gas at low, Mars-like air pressure. Rovers have detected methane on Mars. Schuerger says a rover might only need to drill about 20 centimeters, or 8 inches, to reach Martian microbes, if they exist.\n\nNASA scientist Lynn Rothschild even wonders whether Martian windstorms might carry microbes around, the way a fence catches blowing leaves.",
+  "why_it_matters": "Studying tough microbes on Earth helps scientists decide what signs to look for on other worlds. It could shape how future telescopes and rovers search for life.",
+  "image_url": "/article_images/science-s2b0930654f9b4dd8.webp",
+  "keywords": [
+    {
+      "term": "microbes",
+      "explanation": "Living things so small you need a microscope to see them."
+    },
+    {
+      "term": "stratosphere",
+      "explanation": "A high layer of Earth's atmosphere, above where airplanes usually fly."
+    },
+    {
+      "term": "pigments",
+      "explanation": "Natural substances that give something its color."
+    },
+    {
+      "term": "ultraviolet",
+      "explanation": "A kind of invisible light from the Sun that can harm living cells."
+    },
+    {
+      "term": "astrobiologist",
+      "explanation": "A scientist who studies whether life could exist beyond Earth."
+    },
+    {
+      "term": "methane",
+      "explanation": "A gas that some microbes make; it can be a sign of life."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Why can't life as we know it survive on Venus's surface?",
+      "options": [
+        "It has too much water",
+        "It is covered in ice",
+        "It is hot enough to melt lead",
+        "It has no clouds"
+      ],
+      "correct_answer": "It is hot enough to melt lead"
+    },
+    {
+      "question": "How high above Venus's surface are the clouds that interest scientists?",
+      "options": [
+        "500 kilometers",
+        "1 to 2 kilometers",
+        "48 to 60 kilometers",
+        "Only a few meters"
+      ],
+      "correct_answer": "48 to 60 kilometers"
+    },
+    {
+      "question": "Where did Noelle Bryan collect tough microbes?",
+      "options": [
+        "Deep in the ocean",
+        "In Earth's stratosphere",
+        "On Mars",
+        "Inside a volcano"
+      ],
+      "correct_answer": "In Earth's stratosphere"
+    },
+    {
+      "question": "What do some bacteria's colorful pigments do?",
+      "options": [
+        "Help them fly",
+        "Protect them from harmful ultraviolet light",
+        "Turn them into gas",
+        "Make them taste sweet"
+      ],
+      "correct_answer": "Protect them from harmful ultraviolet light"
+    },
+    {
+      "question": "What can the microbe Methanosarcina barkeri do at low, Mars-like pressure?",
+      "options": [
+        "Glow in the dark",
+        "Make methane gas",
+        "Freeze water",
+        "Make oxygen"
+      ],
+      "correct_answer": "Make methane gas"
+    },
+    {
+      "question": "How deep might a rover need to drill to reach Martian microbes, according to Schuerger?",
+      "options": [
+        "It cannot be done",
+        "About 20 centimeters",
+        "About 2 kilometers",
+        "About 20 meters"
+      ],
+      "correct_answer": "About 20 centimeters"
+    }
+  ],
+  "background_read": [
+    "Astrobiology is the science of looking for life beyond Earth, and scientists think the first alien life we find might be tiny microbes.",
+    "Venus has a scorching surface, but its upper clouds are milder, which is why some scientists wonder if microbes could survive there.",
+    "Mars has thin air and no oxygen in its atmosphere, so scientists study tough Earth microbes to see what could survive there.",
+    "Telescopes and rovers can detect gases and colors from far away, which may give clues about whether life is present."
+  ],
+  "Article_Structure": [
+    "LEAD: Earth microbes give clues for finding tiny alien life",
+    "KEY IDEA: Life elsewhere is probably one-celled microbes",
+    "  ├─ VENUS: Mild cloud layers may host microbes that survive drying out",
+    "  └─ DISTANT PLANETS: Pigment colors could be spotted by future telescopes",
+    "EVIDENCE: Stratosphere microbes survive drying; pigments reflect certain colors of light",
+    "MARS: Methanosarcina barkeri makes methane at low pressure; rovers have found methane",
+    "OPEN QUESTION: Could Martian windstorms carry microbes, and could a rover catch them?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "MIT researchers including Noelle Bryan",
+      "description": "Suggested microbes might survive in Venus's clouds by drying out and reviving."
+    },
+    {
+      "perspective": "Lígia Coelho, Cornell astrobiologist",
+      "description": "Hopes to look for pigment color patterns on distant planets."
+    },
+    {
+      "perspective": "Andrew Schuerger, University of Florida",
+      "description": "Says a rover might only need to drill about 20 centimeters to reach Martian microbes, if they exist."
+    },
+    {
+      "perspective": "Lynn Rothschild, NASA",
+      "description": "Wonders whether Martian windstorms might carry microbes from place to place."
+    }
+  ],
+  "mined_at": "2026-10-12T10:19:39+00:00",
+  "source_published_at": "Thu, 08 Oct 2026 10:30:00 +0000",
+  "source_name": "Science News Explores",
+  "source_url": "https://www.snexplores.org/article/clues-life-venus-mars",
+  "category": "Science",
+  "source_word_count": 784,
+  "detail_status": "full"
+}
