@@ -1,0 +1,127 @@
+{
+  "title": "Why a 100-Year-Old Mushroom Disease Is So Hard to Stop",
+  "summary": "White button mushrooms show up in salads, snacks and everyday meals. But for more than 100 years, growers have struggled with a disease that damages them. Now scientists at the University of Florida think they know why it has been so hard to stop.\n\nThe disease is called bacterial blotch. It causes brown or yellow spots on mushrooms, which makes them harder to sell. It can also mean farms grow fewer mushrooms and that the mushrooms spoil sooner. Sometimes the spots do not even appear until after the mushrooms have been shipped to grocery stores.\n\nFor years, scientists mainly blamed one type of bacteria. But the new study found the disease is much more complicated.\n\nThe research team collected sick mushrooms from several mushroom farms across the southern United States. They used DNA sequencing, which reads the genetic code of living things, along with chemical tests and regular lab tests to figure out which bacteria were present.\n\n\"We found more than 17 different species of pathogenic bacteria associated with the disease,\" said Sameerika Mudiyanselage, the study's lead author. Pathogenic means able to cause disease. Two well-known bacteria were the most common, but the team also found a surprisingly large amount of another group of bacteria that had never been linked to this disease before.\n\nThese bacteria can thrive in the humid, carefully controlled indoor rooms where mushrooms are grown. Because many different bacteria may be involved, treatments aimed at just one kind may not work well. That could explain why growers have seen inconsistent results.\n\nSamuel Martins, a plant scientist and co-author, said his team is working on better ways to detect the disease and more sustainable solutions to help mushroom farms across the country.",
+  "why_it_matters": "Knowing all the bacteria behind a crop disease helps farmers protect a popular food and could lead to treatments that actually work.",
+  "image_url": "/article_images/science-s0b3c9c22238845f0.webp",
+  "keywords": [
+    {
+      "term": "bacterial blotch",
+      "explanation": "A disease caused by bacteria that leaves brown or yellow spots on mushrooms."
+    },
+    {
+      "term": "DNA sequencing",
+      "explanation": "A lab method that reads the genetic code of a living thing to identify it."
+    },
+    {
+      "term": "Pathogenic",
+      "explanation": "Pathogenic means able to cause disease."
+    },
+    {
+      "term": "species",
+      "explanation": "A group of living things that are the same kind and share key traits."
+    },
+    {
+      "term": "sustainable",
+      "explanation": "Able to keep working over time without harming the environment or using up resources."
+    },
+    {
+      "term": "inconsistent",
+      "explanation": "Not the same each time; sometimes working and sometimes not."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is the name of the mushroom disease in the article?",
+      "options": [
+        "Bacterial blotch",
+        "White mold",
+        "Mushroom rust",
+        "Leaf spot"
+      ],
+      "correct_answer": "Bacterial blotch"
+    },
+    {
+      "question": "What do the spots from this disease look like?",
+      "options": [
+        "Green and fuzzy",
+        "Bright red",
+        "Black and shiny",
+        "Brown or yellow"
+      ],
+      "correct_answer": "Brown or yellow"
+    },
+    {
+      "question": "Which university did the study?",
+      "options": [
+        "University of Delaware",
+        "Penn State",
+        "Harvard University",
+        "University of Florida"
+      ],
+      "correct_answer": "University of Florida"
+    },
+    {
+      "question": "How many species of pathogenic bacteria did the team find linked to the disease?",
+      "options": [
+        "Only one",
+        "Exactly 100",
+        "More than 17",
+        "About five"
+      ],
+      "correct_answer": "More than 17"
+    },
+    {
+      "question": "Why might treatments for this disease have given inconsistent results?",
+      "options": [
+        "Farmers stopped using treatments",
+        "The spots only appear in winter",
+        "Many different bacteria may be involved, so targeting one kind may not work",
+        "Mushrooms grow too quickly"
+      ],
+      "correct_answer": "Many different bacteria may be involved, so targeting one kind may not work"
+    },
+    {
+      "question": "Which tool did the researchers use to read the genetic code of the bacteria?",
+      "options": [
+        "DNA sequencing",
+        "X-ray imaging",
+        "Weather radar",
+        "A telescope"
+      ],
+      "correct_answer": "DNA sequencing"
+    }
+  ],
+  "background_read": [
+    "Mushrooms are fungi, not plants, and farms usually grow them indoors in damp, carefully controlled rooms.",
+    "Bacteria are tiny living things too small to see without a microscope; most are harmless, but some can cause disease in people, animals or crops.",
+    "When a disease is caused by several kinds of bacteria instead of one, a treatment aimed at a single kind may miss the others.",
+    "Scientists use DNA tests to tell different kinds of bacteria apart, much like reading a name tag inside each cell."
+  ],
+  "Article_Structure": [
+    "LEAD: Scientists learn why a 100-year-old mushroom disease is so hard to stop",
+    "KEY FINDING: Bacterial blotch involves more than 17 species of harmful bacteria, not just one",
+    "  ├─ WHO: University of Florida researchers, led by Sameerika Mudiyanselage with Samuel Martins",
+    "  └─ WHERE: Mushroom farms across the southern United States",
+    "METHOD: DNA sequencing, chemical tests and regular lab tests on sick mushrooms",
+    "EVIDENCE: Two well-known bacteria dominated, plus a large amount of a group never linked to the disease",
+    "MEANING: Treatments aimed at one kind of bacteria may not work, explaining inconsistent results",
+    "NEXT STEP: Better detection and more sustainable solutions for mushroom farms"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Sameerika Mudiyanselage (lead author)",
+      "description": "The team found more than 17 species of pathogenic bacteria linked to the disease."
+    },
+    {
+      "perspective": "Samuel Martins (co-author)",
+      "description": "His team is developing better ways to detect the disease and more sustainable solutions for mushroom farms."
+    }
+  ],
+  "mined_at": "2026-10-13T10:22:51+00:00",
+  "source_published_at": "Sun, 11 Oct 2026 16:01:25 EDT",
+  "source_name": "ScienceDaily Top Environment",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261008102716.htm",
+  "category": "Science",
+  "source_word_count": 707,
+  "detail_status": "full"
+}

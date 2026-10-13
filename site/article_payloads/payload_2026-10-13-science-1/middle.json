@@ -1,0 +1,118 @@
+{
+  "title": "Scientists Build a Clock That Keeps Itself on Time Using Atomic Nuclei",
+  "summary": "Scientists in Vienna, Austria, have built the world's first self-stabilizing nuclear clock. Someday, this new kind of clock could measure time even more precisely than today's best atomic clocks.\n\nAtomic clocks keep time using electrons, the tiny particles that move around the center of an atom. The new clock uses the nucleus instead. The nucleus is the atom's center, and it is much less affected by disturbances from its surroundings.\n\nThe clock depends on a special element called thorium. The nucleus of an atom can exist in different energy states, but switching between them usually takes a huge amount of energy. Thorium is unusual. Two of its energy states are very close together, so scientists can switch the nucleus between them using laser light.\n\nIn April 2024, a team led by Professor Thorsten Schumm at TU Wien, working with a team led by Professor Ekkehard Peik at PTB Braunschweig, showed for the first time that lasers could excite thorium nuclei. Later that year, they linked their equipment to a regular atomic clock. But the clock still could not keep itself accurate on its own.\n\nNow it can. The researchers shine a laser onto a special crystal containing thorium atoms. The laser light vibrates at a steady rhythm that can be used to measure time. But that rhythm can drift a little, for example when the temperature changes.\n\nThe thorium nuclei only absorb the laser light when it has exactly the right frequency. If the laser starts to drift, the nuclei absorb less light. The system notices this and automatically nudges the laser back on track.\n\nThe team showed the clock could run steadily for more than 24 hours without help. Better clocks could help scientists make extremely precise measurements.",
+  "why_it_matters": "Extremely precise clocks let scientists make better measurements, and a clock that keeps itself on track could one day outperform today's best atomic clocks.",
+  "image_url": "/article_images/science-se7589426b5393197.webp",
+  "keywords": [
+    {
+      "term": "nucleus",
+      "explanation": "The tiny, dense center of an atom."
+    },
+    {
+      "term": "electrons",
+      "explanation": "Tiny particles with a negative charge that move around the center of an atom."
+    },
+    {
+      "term": "thorium",
+      "explanation": "A natural chemical element whose atoms have a special nucleus useful for this clock."
+    },
+    {
+      "term": "frequency",
+      "explanation": "How many times something, like a wave of light, vibrates each second."
+    },
+    {
+      "term": "self-stabilizing",
+      "explanation": "Able to keep itself steady and correct without outside help."
+    },
+    {
+      "term": "energy states",
+      "explanation": "Different levels of energy that a particle or nucleus can have."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Where was the first self-stabilizing nuclear clock built?",
+      "options": [
+        "Boston, United States",
+        "Vienna, Austria",
+        "Paris, France",
+        "Tokyo, Japan"
+      ],
+      "correct_answer": "Vienna, Austria"
+    },
+    {
+      "question": "What part of the atom does the new clock use to keep time?",
+      "options": [
+        "The electrons",
+        "The neutrinos",
+        "The outer shell",
+        "The nucleus"
+      ],
+      "correct_answer": "The nucleus"
+    },
+    {
+      "question": "Which element makes this nuclear clock possible?",
+      "options": [
+        "Helium",
+        "Gold",
+        "Thorium",
+        "Carbon"
+      ],
+      "correct_answer": "Thorium"
+    },
+    {
+      "question": "What can make the laser's rhythm drift a little?",
+      "options": [
+        "Bright sunlight",
+        "The time of day",
+        "Loud sounds",
+        "Changes in temperature"
+      ],
+      "correct_answer": "Changes in temperature"
+    },
+    {
+      "question": "How does the clock know the laser has drifted?",
+      "options": [
+        "A person checks it every hour",
+        "The thorium nuclei absorb less light",
+        "An atomic clock sends a signal",
+        "The crystal changes color"
+      ],
+      "correct_answer": "The thorium nuclei absorb less light"
+    },
+    {
+      "question": "How long did the team show the clock could run steadily without help?",
+      "options": [
+        "More than 24 hours",
+        "About one minute",
+        "Exactly one hour",
+        "One full year"
+      ],
+      "correct_answer": "More than 24 hours"
+    }
+  ],
+  "background_read": [
+    "Atomic clocks are the most precise clocks people use today, and they help run things like GPS navigation and internet networks.",
+    "They keep time by measuring the extremely steady vibrations linked to electrons in atoms.",
+    "Every atom has a nucleus at its center, and switching a nucleus between energy states usually takes far more energy than a laser can give.",
+    "Thorium is a rare exception, which is why scientists have spent years trying to build a clock around its nucleus."
+  ],
+  "Article_Structure": [
+    "LEAD: Scientists in Vienna build the world's first self-stabilizing nuclear clock",
+    "KEY IDEA: The clock uses the atom's nucleus instead of its electrons",
+    "  ├─ WHY THORIUM: Two of its nuclear energy states are close enough to switch with laser light",
+    "  └─ WHO: Teams led by Thorsten Schumm at TU Wien and Ekkehard Peik at PTB Braunschweig",
+    "HISTORY: 2024 experiments first excited thorium nuclei with lasers and linked them to an atomic clock",
+    "HOW IT WORKS: A laser shines on a thorium crystal; if the laser drifts, the nuclei absorb less light and the system corrects it",
+    "EVIDENCE: The clock ran steadily for more than 24 hours without help",
+    "OPEN QUESTION: Will nuclear clocks one day beat the best atomic clocks?"
+  ],
+  "perspectives": [],
+  "mined_at": "2026-10-13T10:22:51+00:00",
+  "source_published_at": "Sat, 10 Oct 2026 23:06:35 EDT",
+  "source_name": "ScienceDaily Top Technology",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261008102701.htm",
+  "category": "Science",
+  "source_word_count": 682,
+  "detail_status": "full"
+}

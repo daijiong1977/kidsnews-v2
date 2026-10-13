@@ -1,0 +1,135 @@
+{
+  "title": "Water Becomes Arizona Voters' Top Election Worry",
+  "summary": "For many voters in Arizona, the biggest worry before this fall's midterm elections is not prices, immigration or education. It is water.\n\nArizona is in a long drought, which means the area has had much less rain than usual for a long time. Canals carry water through the desert city of Phoenix, but that water is becoming harder to come by. This summer, the federal government made deep cuts to the amount of Colorado River water that Arizona cities receive.\n\nFor the first time, worries about water are the top concern for Arizona voters, according to a recent survey from a group called the Center for the Future of Arizona. Sybil Francis of the Center for the Future of Arizona said water has been part of political conversations before, but she does not remember candidates for governor talking about it this much.\n\nNow candidates are facing more questions about how to protect the state's water in the future. In a close race for a U.S. House seat, Democratic candidate Amish Shah said Arizona needs to save water, fight for its fair share and stop using water for data centers. Data centers are large buildings full of computers that run websites and online services. His Republican opponent, Jay Feely, said the economy and the cost of living are still the top issues, but that water is a big concern too. He said water affects data centers, home building and new businesses.\n\nOne parent, Victoria Richardson, said she worries about how much water data centers use. She said she wants to make sure there are enough resources for future generations.\n\nAccording to one analysis, data centers use only a small share of Arizona's water. Farming uses about 75 percent of the state's water.",
+  "why_it_matters": "Water shortages affect homes, farms and businesses across the desert West, so how leaders plan for less water could shape life in Arizona for future generations.",
+  "image_url": "/article_images/news-s9ecd0ecdaf1035df.webp",
+  "keywords": [
+    {
+      "term": "drought",
+      "explanation": "A long period with much less rain than normal, which leaves less water for people and plants."
+    },
+    {
+      "term": "midterm elections",
+      "explanation": "Elections held in the middle of a president's term, when voters choose members of Congress and other leaders."
+    },
+    {
+      "term": "Canals",
+      "explanation": "Canals are human-made channels that carry water from one place to another."
+    },
+    {
+      "term": "survey",
+      "explanation": "A set of questions asked to many people to learn what they think."
+    },
+    {
+      "term": "data centers",
+      "explanation": "Large buildings full of computers that run websites and online services."
+    },
+    {
+      "term": "analysis",
+      "explanation": "A careful study of information to understand what it shows."
+    }
+  ],
+  "questions": [
+    {
+      "question": "According to the article, what is the top concern for many Arizona voters before the midterm elections?",
+      "options": [
+        "Immigration",
+        "Water",
+        "Education",
+        "Prices"
+      ],
+      "correct_answer": "Water"
+    },
+    {
+      "question": "Which group's survey found that water is now the top concern for Arizona voters?",
+      "options": [
+        "The city of Phoenix",
+        "The U.S. Geological Survey",
+        "A national farming group",
+        "The Center for the Future of Arizona"
+      ],
+      "correct_answer": "The Center for the Future of Arizona"
+    },
+    {
+      "question": "What did the federal government do this summer?",
+      "options": [
+        "It ended the drought with new dams",
+        "It built new canals in Phoenix",
+        "It banned data centers in Arizona",
+        "It made deep cuts to the Colorado River water that Arizona cities receive"
+      ],
+      "correct_answer": "It made deep cuts to the Colorado River water that Arizona cities receive"
+    },
+    {
+      "question": "What did Democratic candidate Amish Shah say Arizona should stop doing?",
+      "options": [
+        "Using water for data centers",
+        "Building new homes",
+        "Holding elections",
+        "Growing crops"
+      ],
+      "correct_answer": "Using water for data centers"
+    },
+    {
+      "question": "What did Republican candidate Jay Feely say are still the top issues?",
+      "options": [
+        "Water and drought",
+        "The economy and the cost of living",
+        "Roads and bridges",
+        "Schools and teachers"
+      ],
+      "correct_answer": "The economy and the cost of living"
+    },
+    {
+      "question": "According to one analysis, about how much of Arizona's water does farming use?",
+      "options": [
+        "About half",
+        "About 25 percent",
+        "About 75 percent",
+        "About 10 percent"
+      ],
+      "correct_answer": "About 75 percent"
+    }
+  ],
+  "background_read": [
+    "The Colorado River flows through several western states and supplies water to millions of people, including many in Arizona's cities and farms.",
+    "A drought happens when an area gets much less rain or snow than normal for a long time, which can shrink rivers and lakes.",
+    "Midterm elections take place halfway through a president's term, when voters choose members of Congress, governors and other leaders.",
+    "In a desert state like Arizona, water for homes, farms and businesses depends heavily on rivers and the canals that carry their water."
+  ],
+  "Article_Structure": [
+    "LEAD: Water has become the biggest election worry for many Arizona voters",
+    "KEY EVENT: A survey finds water is voters' top concern for the first time",
+    "  ├─ WHO: Arizona voters, the Center for the Future of Arizona, candidates Amish Shah and Jay Feely",
+    "  ├─ WHERE: Arizona, including the desert city of Phoenix",
+    "  └─ WHY: A long drought and deep federal cuts to Colorado River water",
+    "DEBATE: Shah wants to save water and stop using it for data centers; Feely says the economy comes first but water matters",
+    "EVIDENCE: One analysis says farming uses about 75 percent of the state's water, data centers only a small share",
+    "OPEN QUESTION: How will Arizona's leaders secure enough water for the future?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Amish Shah (Democratic candidate)",
+      "description": "Arizona must save water, fight for its fair share and stop using water for data centers."
+    },
+    {
+      "perspective": "Jay Feely (Republican candidate)",
+      "description": "The economy and cost of living are still the top issues, but water is a big concern that affects data centers, home building and new businesses."
+    },
+    {
+      "perspective": "Victoria Richardson (parent)",
+      "description": "Worried about how much water data centers use and wants enough resources for future generations."
+    },
+    {
+      "perspective": "Sybil Francis (Center for the Future of Arizona)",
+      "description": "Water has been discussed before, but candidates for governor have not talked about it this much in the past."
+    }
+  ],
+  "mined_at": "2026-10-13T10:22:51+00:00",
+  "source_published_at": "Mon, 12 Oct 2026 18:40:51 -0400",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/show/water-access-becomes-a-top-election-concern-for-arizona-voters",
+  "category": "News",
+  "source_word_count": 542,
+  "detail_status": "full"
+}

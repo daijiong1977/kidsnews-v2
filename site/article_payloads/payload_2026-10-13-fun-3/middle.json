@@ -1,0 +1,118 @@
+{
+  "title": "Voyager 1 Is About to Reach One Light-Day From Earth",
+  "summary": "When NASA launched Voyager 1 in 1977, it was expected to last just five years. Almost 50 years later, the spacecraft is still working, and it is about to reach an amazing milestone.\n\nVoyager 1 travels at about 38,000 miles per hour. It has already traveled more than 15.8 billion miles through space. If it keeps going on its current path, it will be one light-day from Earth on November 18, 2026. A light-day is the distance light travels in one day, about 16 billion miles. Voyager 1 will be the first human-made object ever to reach that distance.\n\nThe spacecraft's first job was to study Jupiter and Saturn. It flew past both giant planets and sent back detailed pictures and information about their rings, moons and atmospheres. Because Voyager 1 was still in good shape, NASA decided to send it on into deep space.\n\nIn 2012, Voyager 1 crossed into interstellar space. That is the region far beyond the Sun, where the Sun's energy becomes very weak.\n\nVoyager 1 still sends information back to Earth, but its nuclear power source is slowly making less electricity. To save energy, NASA engineers have been turning off some of its science instruments. On April 17, 2026, they shut off an instrument that measured charged particles. It had helped scientists understand how space weather changes far from Earth. Voyager 1 now has two instruments still working.\n\nNASA is also looking for other ways to help the spacecraft last longer as its power weakens. If those efforts work, Voyager 1 could keep collecting valuable information for many more years.",
+  "why_it_matters": "Voyager 1 shows how carefully built machines can keep exploring for decades, sending back information from places no other spacecraft has reached.",
+  "image_url": "/article_images/fun-s7cadbb33e97836ba.webp",
+  "keywords": [
+    {
+      "term": "light-day",
+      "explanation": "The distance light travels in one day, about 16 billion miles."
+    },
+    {
+      "term": "interstellar space",
+      "explanation": "The area between stars, far beyond the edge of the Sun's influence."
+    },
+    {
+      "term": "milestone",
+      "explanation": "An important point or achievement along the way."
+    },
+    {
+      "term": "atmospheres",
+      "explanation": "The layers of gas that surround planets."
+    },
+    {
+      "term": "instruments",
+      "explanation": "Scientific tools on a spacecraft that measure or record things."
+    },
+    {
+      "term": "charged particles",
+      "explanation": "Tiny bits of matter that carry electricity, often streaming through space."
+    }
+  ],
+  "questions": [
+    {
+      "question": "When did NASA launch Voyager 1?",
+      "options": [
+        "2012",
+        "1977",
+        "1969",
+        "2026"
+      ],
+      "correct_answer": "1977"
+    },
+    {
+      "question": "How long was Voyager 1 originally expected to last?",
+      "options": [
+        "Five years",
+        "One year",
+        "Fifty years",
+        "Ten years"
+      ],
+      "correct_answer": "Five years"
+    },
+    {
+      "question": "On what date is Voyager 1 expected to reach one light-day from Earth?",
+      "options": [
+        "October 13, 2026",
+        "November 18, 2026",
+        "January 1, 2027",
+        "April 17, 2026"
+      ],
+      "correct_answer": "November 18, 2026"
+    },
+    {
+      "question": "Which two planets did Voyager 1 first study?",
+      "options": [
+        "Jupiter and Saturn",
+        "Mercury and Earth",
+        "Mars and Venus",
+        "Uranus and Neptune"
+      ],
+      "correct_answer": "Jupiter and Saturn"
+    },
+    {
+      "question": "Why have NASA engineers been turning off some of Voyager 1's instruments?",
+      "options": [
+        "Because they were broken from the start",
+        "Because the mission is over",
+        "To save energy as its power source weakens",
+        "To make it fly faster"
+      ],
+      "correct_answer": "To save energy as its power source weakens"
+    },
+    {
+      "question": "How many science instruments does Voyager 1 still have working?",
+      "options": [
+        "One",
+        "Two",
+        "Ten",
+        "None"
+      ],
+      "correct_answer": "Two"
+    }
+  ],
+  "background_read": [
+    "Voyager 1 is a robotic space probe, a spacecraft with no people on board that is controlled by engineers on Earth.",
+    "Light is the fastest thing in the universe, so scientists use the distance it travels in a set time to describe huge distances in space.",
+    "Spacecraft that travel far from the Sun cannot rely on sunlight for power, so Voyager 1 uses a nuclear power source that slowly weakens over time.",
+    "Signals from Voyager 1 take a very long time to reach Earth because it is so far away, and huge antennas on Earth listen for them."
+  ],
+  "Article_Structure": [
+    "LEAD: Voyager 1, launched in 1977, is about to reach a record distance",
+    "KEY EVENT: Expected to be one light-day, about 16 billion miles, from Earth on November 18, 2026",
+    "  ├─ SPEED: About 38,000 miles per hour",
+    "  └─ RECORD: First human-made object to reach that distance",
+    "HISTORY: Studied Jupiter and Saturn, then entered interstellar space in 2012",
+    "CHALLENGE: Its nuclear power source makes less electricity each year",
+    "EVIDENCE: Engineers shut off a charged-particle instrument on April 17, 2026; two instruments still work",
+    "WHAT'S NEXT: NASA is looking for ways to help the spacecraft last longer"
+  ],
+  "perspectives": [],
+  "mined_at": "2026-10-13T10:22:51+00:00",
+  "source_published_at": "",
+  "source_name": "DOGOnews",
+  "source_url": "https://www.dogonews.com/2026/10/12/nasas-voyager-1-spacecraft-approaches-deep-space-milestone",
+  "category": "Fun",
+  "source_word_count": 256,
+  "detail_status": "full"
+}
