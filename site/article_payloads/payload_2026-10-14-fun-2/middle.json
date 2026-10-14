@@ -1,0 +1,127 @@
+{
+  "title": "Could Spider-Man Really Turn Off His Powers? Real Science Says Maybe",
+  "summary": "Slight movie spoilers ahead! In Spider-Man: Brand New Day, Peter Parker has troubling symptoms caused by spider DNA from the bite that gave him his powers. He wants to get rid of some of his spider traits but keep others. So he visits Bruce Banner, who invented a device to keep his alter ego, the Hulk, in check. It is a superpower inhibitor.\n\nThe movie device is based on real science. Small interfering RNAs, or siRNAs, are real molecules that can turn off certain genes. The U.S. Food and Drug Administration has approved at least eight siRNA treatments for genetic diseases.\n\nHere is how they work. Genes are pieces of DNA that hold instructions for building a living thing. A cell copies those instructions into messenger RNA, or mRNA. Then other parts of the cell read the mRNA to build proteins, which do jobs in the body. An siRNA grabs onto a specific mRNA and marks it to be chopped up. That stops the protein from being made, which silences the gene.\n\nAnastasia Khvorova, a chemical biologist at the University of Massachusetts Chan Medical School, says shutting down foreign DNA, such as spider DNA, is something siRNAs do well. If Spider-Man's powers came from one gene, one siRNA could work. But Peter wants to shut off several traits, like making web silk and super-strong senses. It is rare for one gene to control such different traits, so he would probably need a mix of siRNAs.\n\nJudy Lieberman, an immunologist at Boston Children's Hospital, says slowing a protein down might let Spider-Man control how strong his powers are. But no one has been able to tune siRNAs that precisely yet.",
+  "why_it_matters": "The movie shows how real gene-silencing medicine works, a tool already used to treat genetic diseases and still being improved.",
+  "image_url": "/article_images/fun-s3953c5aa3af9a52b.webp",
+  "keywords": [
+    {
+      "term": "inhibitor",
+      "explanation": "Something that slows down or blocks a process."
+    },
+    {
+      "term": "molecules",
+      "explanation": "The tiny building blocks that make up substances."
+    },
+    {
+      "term": "genes",
+      "explanation": "Pieces of DNA that carry instructions for how a living thing grows and works."
+    },
+    {
+      "term": "proteins",
+      "explanation": "Molecules that do many jobs inside the body, built from a cell's instructions."
+    },
+    {
+      "term": "immunologist",
+      "explanation": "A scientist who studies the immune system, the body's defense against germs."
+    },
+    {
+      "term": "alter ego",
+      "explanation": "A second identity or personality, like a superhero's other self."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Why does Peter Parker want a superpower inhibitor in the movie?",
+      "options": [
+        "To talk to animals",
+        "To fly",
+        "To turn off some of his spider traits",
+        "To become stronger"
+      ],
+      "correct_answer": "To turn off some of his spider traits"
+    },
+    {
+      "question": "Who invented the device to keep his alter ego in check?",
+      "options": [
+        "Anastasia Khvorova",
+        "Bruce Banner",
+        "Judy Lieberman",
+        "Peter Parker"
+      ],
+      "correct_answer": "Bruce Banner"
+    },
+    {
+      "question": "What do small interfering RNAs, or siRNAs, do?",
+      "options": [
+        "Make extra DNA",
+        "Build new cells",
+        "Give people superpowers",
+        "Turn off certain genes"
+      ],
+      "correct_answer": "Turn off certain genes"
+    },
+    {
+      "question": "How many siRNA treatments has the FDA approved, according to the article?",
+      "options": [
+        "Exactly two",
+        "None",
+        "Over 1,000",
+        "At least eight"
+      ],
+      "correct_answer": "At least eight"
+    },
+    {
+      "question": "Why would Peter probably need a mix of siRNAs?",
+      "options": [
+        "Because one gene rarely controls such different traits",
+        "Because spiders have no DNA",
+        "Because the movie says so",
+        "Because siRNAs only last one day"
+      ],
+      "correct_answer": "Because one gene rarely controls such different traits"
+    },
+    {
+      "question": "What does Judy Lieberman say no one can do yet?",
+      "options": [
+        "Tune siRNAs precisely enough to control the level of powers",
+        "Treat any disease",
+        "Make siRNAs at all",
+        "Find spider DNA"
+      ],
+      "correct_answer": "Tune siRNAs precisely enough to control the level of powers"
+    }
+  ],
+  "background_read": [
+    "In the comics and movies, Peter Parker gains his powers after being bitten by a special spider, which is how he becomes Spider-Man.",
+    "Every living cell carries DNA, and cells copy parts of it into messenger RNA so they can build the proteins that give a living thing its traits.",
+    "RNA interference is a natural way cells turn down certain genes, and scientists have learned to design small interfering RNAs to silence genes that cause disease.",
+    "Science fiction often borrows real research, which can be a fun way to learn how the real science works and where its limits are."
+  ],
+  "Article_Structure": [
+    "LEAD: Spider-Man: Brand New Day features a superpower inhibitor",
+    "KEY EVENT: Peter Parker wants to switch off some spider traits",
+    "  ├─ WHO: Peter Parker and Bruce Banner",
+    "  └─ HOW: A device based on small interfering RNAs",
+    "REAL SCIENCE: siRNAs mark specific mRNAs to be chopped up, silencing genes",
+    "EVIDENCE: The FDA has approved at least eight siRNA treatments",
+    "EXPERT VIEWS: Khvorova says he would need a mix of siRNAs; Lieberman says slowing proteins could help",
+    "OPEN QUESTION: Can siRNAs ever be tuned precisely enough?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Anastasia Khvorova, chemical biologist",
+      "description": "Says siRNAs are good at shutting down foreign DNA but Peter would likely need a mix to tackle several traits."
+    },
+    {
+      "perspective": "Judy Lieberman, immunologist",
+      "description": "Says slowing protein production might help control the powers, but no one can tune siRNAs that precisely yet."
+    }
+  ],
+  "mined_at": "2026-10-14T10:25:56+00:00",
+  "source_published_at": "Mon, 12 Oct 2026 10:30:00 +0000",
+  "source_name": "Science News Explores",
+  "source_url": "https://www.snexplores.org/article/spider-man-rna-turn-off-superpowers",
+  "category": "Fun",
+  "source_word_count": 740,
+  "detail_status": "full"
+}

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-13-fun-1",
-      "source": "BBC Tennis",
-      "time_ago": "Sun, 11 Oct 2026 14:43:58 GMT",
-      "mined_at": "2026-10-13T10:22:51+00:00",
-      "source_published_at": "Sun, 11 Oct 2026 14:43:58 GMT",
-      "image_url": "/article_images/fun-s6889a06ac9fea60f.webp",
+      "id": "2026-10-14-fun-1",
+      "source": "Popular Science",
+      "time_ago": "Tue, 13 Oct 2026 14:01:16 -0400",
+      "mined_at": "2026-10-14T10:25:56+00:00",
+      "source_published_at": "Tue, 13 Oct 2026 14:01:16 -0400",
+      "image_url": "/article_images/fun-s304e894eb9e815c0.webp",
       "category": "Fun",
-      "title": "Zheng Qinwen Makes History and Sings Karaoke After China Open Win",
-      "summary": "Zheng Qinwen became the first Chinese woman to win the China Open, then sang karaoke for her home crowd."
+      "title": "Watch Polar Bears Live as They Wait for the Ice in Canada",
+      "summary": "Eight livestreams from Churchill, Canada, let viewers watch polar bears wait for sea ice, plus northern lights and ravens."
     },
     {
-      "id": "2026-10-13-fun-2",
-      "source": "/Film",
-      "time_ago": "Tue, 13 Oct 2026 08:10:00 +0000",
-      "mined_at": "2026-10-13T10:22:51+00:00",
-      "source_published_at": "Tue, 13 Oct 2026 08:10:00 +0000",
-      "image_url": "/article_images/fun-sd70ad38f10f4bdae.webp",
+      "id": "2026-10-14-fun-2",
+      "source": "Science News Explores",
+      "time_ago": "Mon, 12 Oct 2026 10:30:00 +0000",
+      "mined_at": "2026-10-14T10:25:56+00:00",
+      "source_published_at": "Mon, 12 Oct 2026 10:30:00 +0000",
+      "image_url": "/article_images/fun-s3953c5aa3af9a52b.webp",
       "category": "Fun",
-      "title": "Goku's Five Strongest Dragon Ball Forms, Ranked",
-      "summary": "A /Film writer ranks the most powerful transformations of Goku, the famous hero of the Dragon Ball anime."
+      "title": "Could Spider-Man Really Turn Off His Powers? Real Science Says Maybe",
+      "summary": "Spider-Man's power-blocking device in Brand New Day is based on real gene-silencing molecules called siRNAs."
     },
     {
-      "id": "2026-10-13-fun-3",
-      "source": "DOGOnews",
-      "time_ago": "",
-      "mined_at": "2026-10-13T10:22:51+00:00",
-      "source_published_at": "",
-      "image_url": "/article_images/fun-s7cadbb33e97836ba.webp",
+      "id": "2026-10-14-fun-3",
+      "source": "Popular Science",
+      "time_ago": "Tue, 13 Oct 2026 17:02:00 -0400",
+      "mined_at": "2026-10-14T10:25:56+00:00",
+      "source_published_at": "Tue, 13 Oct 2026 17:02:00 -0400",
+      "image_url": "/article_images/fun-sd7e9f8089bbf55aa.webp",
       "category": "Fun",
-      "title": "Voyager 1 Is About to Reach One Light-Day From Earth",
-      "summary": "NASA's Voyager 1, launched in 1977, is expected to become the first human-made object one light-day from Earth on Nov. 18, 2026."
+      "title": "The Holy Grail of Baseball Cards Is Up for Auction",
+      "summary": "A rare Honus Wagner baseball card from more than 100 years ago is up for auction, with bids already over $1 million."
     }
   ]
 }

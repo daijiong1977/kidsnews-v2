@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-13-science-1",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Sat, 10 Oct 2026 23:06:35 EDT",
-      "mined_at": "2026-10-13T10:22:51+00:00",
-      "source_published_at": "Sat, 10 Oct 2026 23:06:35 EDT",
-      "image_url": "/article_images/science-se7589426b5393197.webp",
+      "id": "2026-10-14-science-1",
+      "source": "Science News Explores",
+      "time_ago": "Mon, 12 Oct 2026 10:30:00 +0000",
+      "mined_at": "2026-10-14T10:25:56+00:00",
+      "source_published_at": "Mon, 12 Oct 2026 10:30:00 +0000",
+      "image_url": "/article_images/science-s15bf148ad7328c1b.webp",
       "category": "Science",
-      "title": "Scientists Build a Clock That Keeps Itself on Time Using Atomic Nuclei",
-      "summary": "A team in Vienna made the first self-stabilizing nuclear clock, which uses thorium nuclei to keep a laser ticking steadily."
+      "title": "2026 Science Nobel Prizes Honor a Light Switch for the Brain, Ghostly Particles and Mirror-Image Molecules",
+      "summary": "The 2026 science Nobel Prizes honored a light switch for brain cells, ghostly space particles and mirror-image molecules."
     },
     {
-      "id": "2026-10-13-science-2",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Sun, 11 Oct 2026 16:01:25 EDT",
-      "mined_at": "2026-10-13T10:22:51+00:00",
-      "source_published_at": "Sun, 11 Oct 2026 16:01:25 EDT",
-      "image_url": "/article_images/science-s0b3c9c22238845f0.webp",
+      "id": "2026-10-14-science-2",
+      "source": "ScienceDaily All",
+      "time_ago": "Wed, 14 Oct 2026 01:44:39 EDT",
+      "mined_at": "2026-10-14T10:25:56+00:00",
+      "source_published_at": "Wed, 14 Oct 2026 01:44:39 EDT",
+      "image_url": "/article_images/science-sad06aaa0282c6502.webp",
       "category": "Science",
-      "title": "Why a 100-Year-Old Mushroom Disease Is So Hard to Stop",
-      "summary": "Scientists found that a mushroom disease called bacterial blotch involves more than 17 kinds of harmful bacteria, not just one."
+      "title": "Giant Ancient Snake From India May Have Been One of the Longest Ever",
+      "summary": "Fossils from India show an ancient snake called Vasuki indicus may have grown about as long as the giant Titanoboa."
     },
     {
-      "id": "2026-10-13-science-3",
-      "source": "Popular Mechanics",
-      "time_ago": "Mon, 12 Oct 2026 13:30:00 +0000",
-      "mined_at": "2026-10-13T10:22:51+00:00",
-      "source_published_at": "Mon, 12 Oct 2026 13:30:00 +0000",
-      "image_url": "/article_images/science-sad0fbc9cc379c86f.webp",
+      "id": "2026-10-14-science-3",
+      "source": "ScienceDaily All",
+      "time_ago": "Tue, 13 Oct 2026 07:27:24 EDT",
+      "mined_at": "2026-10-14T10:25:56+00:00",
+      "source_published_at": "Tue, 13 Oct 2026 07:27:24 EDT",
+      "image_url": "/article_images/science-se38c19b93ea41341.webp",
       "category": "Science",
-      "title": "Why Some People Hear Music That Isn't Really Playing",
-      "summary": "A new study looked at 80 people who hear songs that are not there, and found the tunes often come from long-ago memories."
+      "title": "Webb Telescope Finds an Ancient Galaxy Cluster That Grew Surprisingly Fast",
+      "summary": "The Webb telescope found that an ancient galaxy cluster packed in more mass than scientists' models predicted."
     }
   ]
 }

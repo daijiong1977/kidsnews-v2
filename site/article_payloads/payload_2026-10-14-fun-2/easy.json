@@ -1,0 +1,122 @@
+{
+  "title": "Could Spider-Man Really Turn Off His Powers?",
+  "summary": "Small movie spoilers ahead! In Spider-Man: Brand New Day, Peter Parker has problems caused by spider DNA from the bite that gave him powers. He wants to turn off some spider traits and keep others. Bruce Banner, who becomes the Hulk, has built a superpower inhibitor that could help.\n\nThe movie idea is based on real science. Tiny molecules called siRNAs can turn off certain genes. Genes are instructions in our DNA. Cells copy those instructions and use them to build proteins. An siRNA grabs a copy and marks it to be chopped up, so the protein is not made. Doctors already use at least eight siRNA treatments for diseases.\n\nScientist Anastasia Khvorova says siRNAs are good at shutting down foreign DNA, like spider DNA. But Peter wants to stop several different traits, so he would probably need a mix of siRNAs. Scientist Judy Lieberman says no one can control siRNAs that precisely yet.",
+  "why_it_matters": "A superhero movie can help you learn how real medicine works inside your own body.",
+  "image_url": "/article_images/fun-s3953c5aa3af9a52b.webp",
+  "keywords": [
+    {
+      "term": "spoilers",
+      "explanation": "Details that tell you what happens in a movie or story before you see it."
+    },
+    {
+      "term": "DNA",
+      "explanation": "The instructions inside every cell that tell a living thing how to grow and work."
+    },
+    {
+      "term": "inhibitor",
+      "explanation": "Something that blocks or slows something down."
+    },
+    {
+      "term": "molecules",
+      "explanation": "Very tiny pieces that make up everything."
+    },
+    {
+      "term": "genes",
+      "explanation": "Parts of DNA that hold instructions for things like eye color."
+    },
+    {
+      "term": "proteins",
+      "explanation": "Tiny parts made by cells that do many jobs in the body."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is the name of the new movie?",
+      "options": [
+        "Spider Island",
+        "The Hulk Returns",
+        "Spider-Man: Brand New Day",
+        "Web World"
+      ],
+      "correct_answer": "Spider-Man: Brand New Day"
+    },
+    {
+      "question": "What does Peter Parker want to do?",
+      "options": [
+        "Move to a new city",
+        "Turn off some spider traits",
+        "Get more powers",
+        "Become the Hulk"
+      ],
+      "correct_answer": "Turn off some spider traits"
+    },
+    {
+      "question": "Who built a superpower inhibitor?",
+      "options": [
+        "Peter Parker",
+        "A spider",
+        "A doctor at a hospital",
+        "Bruce Banner"
+      ],
+      "correct_answer": "Bruce Banner"
+    },
+    {
+      "question": "What do siRNAs do?",
+      "options": [
+        "Make spiders",
+        "Build houses",
+        "Give people powers",
+        "Turn off certain genes"
+      ],
+      "correct_answer": "Turn off certain genes"
+    },
+    {
+      "question": "How many siRNA treatments do doctors already use?",
+      "options": [
+        "At least eight",
+        "None",
+        "Exactly one",
+        "Thousands"
+      ],
+      "correct_answer": "At least eight"
+    },
+    {
+      "question": "What does scientist Judy Lieberman say?",
+      "options": [
+        "siRNAs are dangerous candy",
+        "No one can control siRNAs that precisely yet",
+        "DNA is not real",
+        "Spider-Man is real"
+      ],
+      "correct_answer": "No one can control siRNAs that precisely yet"
+    }
+  ],
+  "background_read": [
+    "In the movies, Peter Parker gets superpowers after a spider bites him, and he becomes Spider-Man.",
+    "Every living thing has DNA, which works like an instruction book for building and running its body.",
+    "Scientists have learned to make tiny molecules that can switch off certain instructions to help treat some diseases."
+  ],
+  "Article_Structure": [
+    "WHO: Peter Parker in the movie, and scientists Anastasia Khvorova and Judy Lieberman",
+    "WHAT: A movie device that blocks powers is based on real molecules called siRNAs",
+    "WHERE: In Spider-Man: Brand New Day and in real science labs",
+    "WHY: siRNAs can turn off genes, so they might block spider DNA"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Anastasia Khvorova, scientist",
+      "description": "Says siRNAs are good at shutting down foreign DNA, but Peter would need a mix of them."
+    },
+    {
+      "perspective": "Judy Lieberman, scientist",
+      "description": "Says no one can control siRNAs that precisely yet."
+    }
+  ],
+  "mined_at": "2026-10-14T10:25:56+00:00",
+  "source_published_at": "Mon, 12 Oct 2026 10:30:00 +0000",
+  "source_name": "Science News Explores",
+  "source_url": "https://www.snexplores.org/article/spider-man-rna-turn-off-superpowers",
+  "category": "Fun",
+  "source_word_count": 740,
+  "detail_status": "full"
+}

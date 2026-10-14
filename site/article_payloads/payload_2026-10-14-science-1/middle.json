@@ -1,0 +1,118 @@
+{
+  "title": "2026 Science Nobel Prizes Honor a Light Switch for the Brain, Ghostly Particles and Mirror-Image Molecules",
+  "summary": "Every year, two groups in Stockholm, Sweden, announce the Nobel Prizes in science, some of the most respected awards on Earth. The 2026 prizes went to work in biology, physics and chemistry.\n\nThe physics prize went to the man behind the IceCube Neutrino Observatory at the South Pole. IceCube led to the discovery of neutrinos, tiny ghostly particles, coming from beyond our solar system. The chemistry prize honored work on making certain handed molecules. Like your left and right hands, these molecules are mirror images of each other.\n\nThe prize in physiology or medicine went to Karl Deisseroth, Peter Hegemann and Georg Nagel. They developed a way to control nerve cells with light, called optogenetics.\n\nThe human brain has nearly 90 billion neurons, or nerve cells. They connect through about 100 trillion links. Scientists had long hoped for a tool to turn specific neurons on or off with great precision.\n\nThe story began with a tiny green alga, a living thing made of just one cell. In the early 2000s, Hegemann and Nagel, who worked in Germany, studied a protein in the alga's eye spot called channelrhodopsin. When light hits this protein, it opens like a tiny gate and lets charged particles flow into the cell. That creates an electrical signal.\n\nDeisseroth, a neuroscientist at Stanford University in California, was part of a team that put the gene for this protein into nerve cells. When they shined light on the cells, the cells reacted right away. In mice, the team used blue light to control whisker movements.\n\nOptogenetics changed brain science. Researchers say it could help them find treatments for conditions such as blindness, depression and dementia.",
+  "why_it_matters": "These prizes show how curiosity about simple things, like an alga's eye spot or tiny particles from space, can open new ways to understand the brain and the universe.",
+  "image_url": "/article_images/science-s15bf148ad7328c1b.webp",
+  "keywords": [
+    {
+      "term": "neutrinos",
+      "explanation": "Extremely tiny particles that zip through space and almost never bump into anything."
+    },
+    {
+      "term": "optogenetics",
+      "explanation": "A method that uses light to turn specific nerve cells on or off."
+    },
+    {
+      "term": "neurons",
+      "explanation": "Nerve cells that send signals in the brain and body."
+    },
+    {
+      "term": "alga",
+      "explanation": "A simple plant-like living thing that usually lives in water; the plural is algae."
+    },
+    {
+      "term": "protein",
+      "explanation": "A type of molecule that does important jobs inside living cells."
+    },
+    {
+      "term": "gene",
+      "explanation": "A piece of DNA that holds instructions for making something in a living thing."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Which three fields did the 2026 science Nobel Prizes cover?",
+      "options": [
+        "Geology, weather and space travel",
+        "Math, art and history",
+        "Biology, physics and chemistry",
+        "Computers, robots and AI"
+      ],
+      "correct_answer": "Biology, physics and chemistry"
+    },
+    {
+      "question": "What did the IceCube Neutrino Observatory help discover?",
+      "options": [
+        "Neutrinos coming from beyond our solar system",
+        "Dinosaur fossils",
+        "A new planet",
+        "A cure for the flu"
+      ],
+      "correct_answer": "Neutrinos coming from beyond our solar system"
+    },
+    {
+      "question": "Where is the IceCube Neutrino Observatory?",
+      "options": [
+        "Stockholm",
+        "Stanford University",
+        "The South Pole",
+        "The Moon"
+      ],
+      "correct_answer": "The South Pole"
+    },
+    {
+      "question": "What does optogenetics use to control nerve cells?",
+      "options": [
+        "Sound",
+        "Light",
+        "Magnets",
+        "Heat"
+      ],
+      "correct_answer": "Light"
+    },
+    {
+      "question": "Where did the light-sensitive protein channelrhodopsin come from?",
+      "options": [
+        "A deep-sea fish",
+        "A rat's brain",
+        "A mushroom",
+        "A tiny green alga"
+      ],
+      "correct_answer": "A tiny green alga"
+    },
+    {
+      "question": "What did Deisseroth's team control in mice using blue light?",
+      "options": [
+        "Their fur growth",
+        "Their eye color",
+        "Their whisker movements",
+        "Their heartbeat"
+      ],
+      "correct_answer": "Their whisker movements"
+    }
+  ],
+  "background_read": [
+    "The Nobel Prizes are famous international awards, and each year the science prizes honor discoveries in physics, chemistry, and physiology or medicine.",
+    "The winners are chosen by expert groups in Stockholm, Sweden, and the prizes often go to work done years earlier that later proved very important.",
+    "Neurons in the brain communicate using tiny electrical signals, so a tool that can start those signals on command lets scientists test what each brain circuit does.",
+    "Optogenetics grew from basic research on a single-celled green alga, showing how studying simple living things can lead to big advances."
+  ],
+  "Article_Structure": [
+    "LEAD: The 2026 science Nobel Prizes honored work in biology, physics and chemistry",
+    "PHYSICS: The man behind the IceCube Neutrino Observatory at the South Pole",
+    "CHEMISTRY: Work on making certain handed, mirror-image molecules",
+    "KEY EVENT: Medicine prize for optogenetics",
+    "  ├─ WHO: Karl Deisseroth, Peter Hegemann and Georg Nagel",
+    "  └─ HOW: A light-sensitive alga protein, channelrhodopsin, put into nerve cells",
+    "EVIDENCE: Light switched on nerve cells and controlled mouse whiskers",
+    "OPEN QUESTION: Could optogenetics lead to treatments for blindness, depression and dementia?"
+  ],
+  "perspectives": [],
+  "mined_at": "2026-10-14T10:25:56+00:00",
+  "source_published_at": "Mon, 12 Oct 2026 10:30:00 +0000",
+  "source_name": "Science News Explores",
+  "source_url": "https://www.snexplores.org/article/science-nobel-prizes-2026",
+  "category": "Science",
+  "source_word_count": 709,
+  "detail_status": "full"
+}

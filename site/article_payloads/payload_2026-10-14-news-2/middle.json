@@ -1,0 +1,131 @@
+{
+  "title": "Judge Says White House Cannot Ban News Outlets Over Their Coverage, for Now",
+  "summary": "A federal judge ruled late Tuesday that President Trump cannot ban news organizations from covering him at the White House just because he does not like their reporting. The ruling lasts at least until the case goes to a full trial.\n\nLast month, the Trump administration took away the White House press passes of more than 70 journalists from CNN, MS NOW and Politico. The three news organizations sued. In September, Judge Timothy J. Kelly gave them a temporary order letting their reporters back in while the case continued.\n\nIn his new decision, Kelly found that the ban likely broke the reporters' free speech rights in two ways. He also found it likely broke their right to due process, which means a fair warning and a fair chance to object before being punished. Both rights are part of the Bill of Rights in the U.S. Constitution.\n\nThe Justice Department had argued that the ban was about national security. Kelly, who was appointed by Trump, did not accept that argument. He pointed to the president's own public comments and social media posts. He wrote that Trump likely banned the reporters because he believes their reporting is inaccurate and unfair to him, and that this is a form of unlawful punishment.\n\nKelly also wrote that his decision does not mean Trump's concerns about fairness in the media are unfounded.\n\nTheodore Boutrous, a lawyer for the news outlets, praised the ruling. He said the ban harmed his clients, free speech and the public. The White House did not immediately respond to NPR's request for comment.\n\nThe ruling did not settle one issue. CNN has sometimes been kept out of small spaces, such as the Oval Office and Air Force One, where only a few reporters can fit at once.",
+  "why_it_matters": "The case tests whether a government can punish reporters for coverage it dislikes, which affects how freely the public can learn about its leaders.",
+  "image_url": "/article_images/news-scb3866aa8366dfc0.webp",
+  "keywords": [
+    {
+      "term": "press passes",
+      "explanation": "Special badges that let reporters enter places like the White House to cover the news."
+    },
+    {
+      "term": "temporary order",
+      "explanation": "A judge's command that lasts only for a short time while a case continues."
+    },
+    {
+      "term": "due process",
+      "explanation": "The right to fair treatment, including a warning and a chance to respond, before being punished."
+    },
+    {
+      "term": "Bill of Rights",
+      "explanation": "The first ten amendments to the U.S. Constitution, which protect basic freedoms."
+    },
+    {
+      "term": "national security",
+      "explanation": "Keeping a country and its people safe from threats."
+    },
+    {
+      "term": "unlawful",
+      "explanation": "Against the law."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What did the judge rule President Trump cannot do?",
+      "options": [
+        "Give interviews to CNN",
+        "Hold press conferences",
+        "Ban news organizations from the White House because he dislikes their reporting",
+        "Travel on Air Force One"
+      ],
+      "correct_answer": "Ban news organizations from the White House because he dislikes their reporting"
+    },
+    {
+      "question": "About how many journalists lost their White House press passes?",
+      "options": [
+        "Exactly 3",
+        "Fewer than 10",
+        "More than 70",
+        "About 500"
+      ],
+      "correct_answer": "More than 70"
+    },
+    {
+      "question": "Which three news organizations sued?",
+      "options": [
+        "ABC, CBS and NBC",
+        "Fox, Reuters and AP",
+        "CNN, MS NOW and Politico",
+        "PBS, NPR and BBC"
+      ],
+      "correct_answer": "CNN, MS NOW and Politico"
+    },
+    {
+      "question": "What reason did the Justice Department give for the ban?",
+      "options": [
+        "Building repairs",
+        "Budget cuts",
+        "Too many reporters",
+        "National security"
+      ],
+      "correct_answer": "National security"
+    },
+    {
+      "question": "What did Judge Kelly use to reach his conclusion?",
+      "options": [
+        "The reporters' salaries",
+        "The president's own public comments and social media posts",
+        "Reports from other countries",
+        "Opinion polls"
+      ],
+      "correct_answer": "The president's own public comments and social media posts"
+    },
+    {
+      "question": "Which issue did the ruling NOT settle?",
+      "options": [
+        "Who the judge is",
+        "Whether the reporters could enter the press area",
+        "CNN being kept out of small spaces like the Oval Office and Air Force One",
+        "Whether the case can go to trial"
+      ],
+      "correct_answer": "CNN being kept out of small spaces like the Oval Office and Air Force One"
+    }
+  ],
+  "background_read": [
+    "The First Amendment, part of the Bill of Rights, protects freedom of speech and freedom of the press in the United States.",
+    "Reporters who cover the president regularly carry White House press passes, which let them work in the press area and attend briefings.",
+    "When people believe the government has broken their rights, they can sue in federal court, where a judge can order a pause while the case goes on.",
+    "In this case, the president took away the passes of reporters from CNN, MS NOW and Politico, and the news outlets went to court to get them back."
+  ],
+  "Article_Structure": [
+    "LEAD: A federal judge ruled the White House cannot ban news outlets over their coverage, for now",
+    "KEY EVENT: Judge Timothy J. Kelly's decision late Tuesday",
+    "  ├─ WHO: More than 70 journalists from CNN, MS NOW and Politico",
+    "  └─ WHEN: Passes taken last month; temporary order in September",
+    "REASONING: The ban likely broke free speech and due process rights in the Bill of Rights",
+    "EVIDENCE: The president's own comments and social media posts",
+    "OTHER SIDE: The Justice Department argued national security; Kelly said Trump's fairness concerns are not unfounded",
+    "OPEN QUESTION: Access to small spaces like the Oval Office and Air Force One"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Judge Timothy J. Kelly",
+      "description": "Found the ban likely broke free speech and due process rights and was a form of unlawful punishment."
+    },
+    {
+      "perspective": "Justice Department",
+      "description": "Argued that the ban was about national security."
+    },
+    {
+      "perspective": "Theodore Boutrous, lawyer for the news outlets",
+      "description": "Praised the ruling and said the ban harmed his clients, free speech and the public."
+    }
+  ],
+  "mined_at": "2026-10-14T10:25:56+00:00",
+  "source_published_at": "Wed, 14 Oct 2026 03:16:02 -0400",
+  "source_name": "NPR World",
+  "source_url": "https://www.npr.org/2026/10/14/nx-s1-6001398/white-house-media-ban",
+  "category": "News",
+  "source_word_count": 1352,
+  "detail_status": "full"
+}

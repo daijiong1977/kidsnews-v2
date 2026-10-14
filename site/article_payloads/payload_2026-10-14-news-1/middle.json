@@ -1,0 +1,131 @@
+{
+  "title": "Millions of Kids Now Have Trump Accounts, but New Rules Raise Questions",
+  "summary": "The U.S. Treasury Department has created Trump Accounts for every eligible child in the country. More than 60 million children were enrolled automatically. That adds to about seven million children whose parents had already signed them up since the program started in July.\n\nA Trump Account is an investment account for a child. Over time it turns into an IRA, which is a kind of savings account for retirement. The idea is that money put in while a child is young can grow for many years.\n\nThe expansion also came with new rules. Under the original plan written by Congress, money in the accounts went into low-cost index funds. An index fund holds small pieces of many companies at once. Money from parents and employers still goes into those funds.\n\nNow, however, donors can also give individual stocks, which are shares in a single company. Families cannot choose or reject these stocks, and they must keep them for five years. Donors can also aim gifts at certain groups of children, based on where they live or how old they are. All donated money must go through a nonprofit, and the Treasury Department must approve it.\n\nWall Street Journal reporter Richard Rubin told PBS NewsHour that the changes are totally different from the first plan. He said many people expect wealthy individuals to make these gifts. Michael Dell and his wife, Susan, have already given more than $6 billion in cash.\n\nThe Treasury Department says the changes will encourage more donors to give and help families feel invested in companies. It also says automatic enrollment helps children from lower-income families, who may not have signed up on their own. Rubin said data supports that idea. He also said some experts have raised concerns about the stock rules.",
+  "why_it_matters": "The program puts money for the future in the names of tens of millions of children, and the new rules change who decides how that money is invested.",
+  "image_url": "/article_images/news-s0b6e1805f691f9cf.webp",
+  "keywords": [
+    {
+      "term": "eligible",
+      "explanation": "Allowed to take part because you meet the rules."
+    },
+    {
+      "term": "investment",
+      "explanation": "Money put into something with the hope that it will grow over time."
+    },
+    {
+      "term": "IRA",
+      "explanation": "A special savings account that people use to save money for when they retire."
+    },
+    {
+      "term": "index funds",
+      "explanation": "Investments that hold small pieces of many different companies at once."
+    },
+    {
+      "term": "stocks",
+      "explanation": "Shares that make someone a part owner of a company."
+    },
+    {
+      "term": "nonprofit",
+      "explanation": "An organization that uses its money for a cause instead of making a profit for owners."
+    }
+  ],
+  "questions": [
+    {
+      "question": "About how many children were enrolled in Trump Accounts automatically?",
+      "options": [
+        "Exactly 5,000",
+        "About 250",
+        "More than 60 million",
+        "About seven million"
+      ],
+      "correct_answer": "More than 60 million"
+    },
+    {
+      "question": "What does a Trump Account turn into over time?",
+      "options": [
+        "A college loan",
+        "A checking account",
+        "A credit card",
+        "An IRA, a kind of retirement savings account"
+      ],
+      "correct_answer": "An IRA, a kind of retirement savings account"
+    },
+    {
+      "question": "Under the original plan, where did money in the accounts go?",
+      "options": [
+        "Savings bonds",
+        "Gold coins",
+        "Low-cost index funds",
+        "Single company stocks chosen by donors"
+      ],
+      "correct_answer": "Low-cost index funds"
+    },
+    {
+      "question": "What must families do with stocks that donors give?",
+      "options": [
+        "Give them to a nonprofit",
+        "Sell them right away",
+        "Keep them for five years",
+        "Choose which ones they want"
+      ],
+      "correct_answer": "Keep them for five years"
+    },
+    {
+      "question": "Who has already given more than $6 billion in cash?",
+      "options": [
+        "Michael and Susan Dell",
+        "Richard Rubin",
+        "The Treasury Department",
+        "Congress"
+      ],
+      "correct_answer": "Michael and Susan Dell"
+    },
+    {
+      "question": "According to the Treasury Department, who does automatic enrollment help?",
+      "options": [
+        "Banks",
+        "Only wealthy donors",
+        "Children from lower-income families",
+        "Retired adults"
+      ],
+      "correct_answer": "Children from lower-income families"
+    }
+  ],
+  "background_read": [
+    "A Trump Account is an investment account the U.S. government sets up for a child, and over time it turns into a retirement savings account called an IRA.",
+    "Congress created the program, and the Treasury Department, which manages the government's money, runs it.",
+    "Investing early matters because money left in the stock market for many years can grow, though stock values can also go down.",
+    "Before this expansion, about seven million children had joined because their parents signed them up, and now the government has enrolled more than 60 million others automatically."
+  ],
+  "Article_Structure": [
+    "LEAD: The Treasury Department created Trump Accounts for every eligible child",
+    "KEY EVENT: More than 60 million children were enrolled automatically",
+    "  ├─ WHO: The U.S. Treasury Department and families of eligible children",
+    "  └─ WHEN: The program started in July; about seven million had already joined",
+    "EXPLANATION: A Trump Account is an investment account that becomes an IRA",
+    "NEW RULES: Donors can give individual stocks that families must keep for five years",
+    "EVIDENCE: Reporter Richard Rubin says the changes are totally different; the Dells gave more than $6 billion in cash",
+    "OPEN QUESTION: Experts have raised concerns about the stock rules"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Treasury Department",
+      "description": "Says the changes will encourage more donors and help families feel invested in companies, and that automatic enrollment helps lower-income children."
+    },
+    {
+      "perspective": "Richard Rubin, Wall Street Journal reporter",
+      "description": "Says the new rules are totally different from the first plan and that data supports the benefits of automatic enrollment."
+    },
+    {
+      "perspective": "Some experts",
+      "description": "Have raised concerns about the rules for donated stocks."
+    }
+  ],
+  "mined_at": "2026-10-14T10:25:56+00:00",
+  "source_published_at": "Tue, 13 Oct 2026 18:30:36 -0400",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/show/trump-accounts-expand-to-millions-of-children-but-new-rules-raise-questions",
+  "category": "News",
+  "source_word_count": 636,
+  "detail_status": "full"
+}

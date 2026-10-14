@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-13-news-1",
+      "id": "2026-10-14-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Mon, 12 Oct 2026 18:40:51 -0400",
-      "mined_at": "2026-10-13T10:22:51+00:00",
-      "source_published_at": "Mon, 12 Oct 2026 18:40:51 -0400",
-      "image_url": "/article_images/news-s9ecd0ecdaf1035df.webp",
+      "time_ago": "Tue, 13 Oct 2026 18:30:36 -0400",
+      "mined_at": "2026-10-14T10:25:56+00:00",
+      "source_published_at": "Tue, 13 Oct 2026 18:30:36 -0400",
+      "image_url": "/article_images/news-s0b6e1805f691f9cf.webp",
       "category": "News",
-      "title": "Water Becomes Arizona Voters' Top Election Worry",
-      "summary": "A survey says water is now the biggest concern for many Arizona voters as a long drought continues."
+      "title": "Millions of Kids Now Have Trump Accounts, but New Rules Raise Questions",
+      "summary": "More than 60 million children were automatically given Trump Accounts, but new rules about donated stocks are raising questions."
     },
     {
-      "id": "2026-10-13-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Mon, 12 Oct 2026 18:25:39 -0400",
-      "mined_at": "2026-10-13T10:22:51+00:00",
-      "source_published_at": "Mon, 12 Oct 2026 18:25:39 -0400",
-      "image_url": "/article_images/news-s738a698f1314f498.webp",
+      "id": "2026-10-14-news-2",
+      "source": "NPR World",
+      "time_ago": "Wed, 14 Oct 2026 03:16:02 -0400",
+      "mined_at": "2026-10-14T10:25:56+00:00",
+      "source_published_at": "Wed, 14 Oct 2026 03:16:02 -0400",
+      "image_url": "/article_images/news-scb3866aa8366dfc0.webp",
       "category": "News",
-      "title": "Smithsonian's American Latino Museum Gets a Permanent Home",
-      "summary": "The National Museum of the American Latino will move into a 145-year-old building on the National Mall."
+      "title": "Judge Says White House Cannot Ban News Outlets Over Their Coverage, for Now",
+      "summary": "A judge ruled that the White House cannot ban CNN, MS NOW and Politico reporters because of their coverage, at least until a trial."
     },
     {
-      "id": "2026-10-13-news-3",
-      "source": "CBC World",
-      "time_ago": "Mon, 12 Oct 2026 07:06:42 EDT",
-      "mined_at": "2026-10-13T10:22:51+00:00",
-      "source_published_at": "Mon, 12 Oct 2026 07:06:42 EDT",
-      "image_url": "/article_images/news-s7d7ed863516daab7.webp",
+      "id": "2026-10-14-news-3",
+      "source": "NPR World",
+      "time_ago": "Tue, 13 Oct 2026 05:00:00 -0400",
+      "mined_at": "2026-10-14T10:25:56+00:00",
+      "source_published_at": "Tue, 13 Oct 2026 05:00:00 -0400",
+      "image_url": "/article_images/news-sed4f3527d9fe20ea.webp",
       "category": "News",
-      "title": "Two American Economists Win the Nobel Prize in Economics",
-      "summary": "Robert E. Hall and Michael Woodford were honored for ideas that help governments handle sudden problems in the economy."
+      "title": "Massachusetts Voters Will Decide Whether Towns Must Allow Smaller Homes",
+      "summary": "Massachusetts voters will decide whether towns must allow homes on smaller lots to help ease a housing shortage."
     }
   ]
 }
