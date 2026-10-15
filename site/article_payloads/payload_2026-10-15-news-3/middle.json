@@ -1,0 +1,127 @@
+{
+  "title": "Social Security Payments Will Rise 3.6 Percent in 2027",
+  "summary": "Millions of Americans who get Social Security payments will receive a raise next year. The Social Security Administration's yearly cost-of-living adjustment, often called the COLA, will be 3.6 percent for 2027, based on inflation data. The Associated Press reported that this amounts to a little more than $900 next year.\n\nSocial Security is a government program that sends monthly payments to people who are 62 or older and to people with a disability or blindness. Some family members of workers who have died can also receive payments.\n\nThe COLA is a math formula tied to consumer prices. It is meant to help payments keep up with inflation, which is the rise in the cost of everyday things. The Bureau of Labor Statistics compares average prices from July through September with the same months a year earlier. When inflation is high, the COLA is bigger. When inflation is low, it is smaller. The new amount takes effect in January.\n\nShai Akabas of the Bipartisan Policy Center said next year's increase is \"not wildly outside of the norm.\" He explained that inflation has stayed above the Federal Reserve's 2 percent goal since 2021, so recent COLAs have also been higher.\n\nExperts said the raise may not feel the same for everyone. Older adults often spend more on health care than younger people, and the formula is based on the costs of working city residents, not retired people. Akabas said a rise in Medicare costs could take a bite out of the increase. He also said that because gas prices are high, people who drive a lot may feel the raise is not enough.\n\nIn a poll by the group AARP, about 7 in 10 older adults said an increase between 5 and 8 percent would be enough to help with expenses.",
+  "why_it_matters": "Millions of older Americans depend on Social Security, so the size of the yearly raise affects whether they can keep up with rising prices.",
+  "image_url": "/article_images/news-s59bcb9ce6f86f346.webp",
+  "keywords": [
+    {
+      "term": "cost-of-living adjustment",
+      "explanation": "A cost-of-living adjustment is a raise in payments meant to match rising prices."
+    },
+    {
+      "term": "inflation",
+      "explanation": "Inflation is the rise in prices over time, which makes money buy less."
+    },
+    {
+      "term": "disability",
+      "explanation": "A disability is a condition that makes some everyday activities, like walking or seeing, harder."
+    },
+    {
+      "term": "formula",
+      "explanation": "A formula is a set math rule used to work out an answer."
+    },
+    {
+      "term": "Medicare",
+      "explanation": "Medicare is a U.S. government health insurance program mainly for people 65 and older."
+    },
+    {
+      "term": "poll",
+      "explanation": "A poll is a survey that asks many people the same questions to learn what they think."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How much will Social Security payments rise for 2027?",
+      "options": [
+        "3.6 percent",
+        "5 percent",
+        "2 percent",
+        "8 percent"
+      ],
+      "correct_answer": "3.6 percent"
+    },
+    {
+      "question": "Who can receive Social Security payments, according to the article?",
+      "options": [
+        "People 62 or older and people with a disability or blindness",
+        "Only children",
+        "Anyone who owns a car",
+        "Only farmers"
+      ],
+      "correct_answer": "People 62 or older and people with a disability or blindness"
+    },
+    {
+      "question": "Which months does the Bureau of Labor Statistics compare to set the COLA?",
+      "options": [
+        "April through June",
+        "October through December",
+        "January through March",
+        "July through September"
+      ],
+      "correct_answer": "July through September"
+    },
+    {
+      "question": "When does the new amount take effect?",
+      "options": [
+        "Next summer",
+        "Right away",
+        "In January",
+        "In 2030"
+      ],
+      "correct_answer": "In January"
+    },
+    {
+      "question": "Why might the raise not feel like enough for some older adults?",
+      "options": [
+        "The raise was canceled",
+        "Prices are falling quickly",
+        "They no longer need money",
+        "They spend more on health care, and the formula is based on working city residents"
+      ],
+      "correct_answer": "They spend more on health care, and the formula is based on working city residents"
+    },
+    {
+      "question": "In the AARP poll, what increase did about 7 in 10 older adults say would be enough?",
+      "options": [
+        "Exactly 3.6 percent",
+        "More than 20 percent",
+        "Between 5 and 8 percent",
+        "Between 1 and 2 percent"
+      ],
+      "correct_answer": "Between 5 and 8 percent"
+    }
+  ],
+  "background_read": [
+    "Social Security is a U.S. government program that pays monthly benefits, mostly to retired workers, using money collected from workers' paychecks.",
+    "Because prices tend to rise over time, a fixed payment would buy less each year, so Social Security adds a yearly cost-of-living adjustment.",
+    "The adjustment is figured with a formula based on consumer prices from July through September, compared with the same months a year earlier.",
+    "Many older people rely on these payments for rent, food and health care, so the size of the yearly raise matters to millions of households."
+  ],
+  "Article_Structure": [
+    "LEAD: Social Security payments will rise 3.6 percent in 2027.",
+    "KEY EVENT: The yearly cost-of-living adjustment (COLA) is set",
+    "  ├─ WHO: People 62 or older, people with a disability or blindness, some family members",
+    "  ├─ HOW: A formula comparing July-September prices with a year earlier",
+    "  └─ WHEN: Takes effect in January",
+    "EXPERT VIEW: Shai Akabas says the raise is \"not wildly outside of the norm\"",
+    "CONCERNS: Health care costs, Medicare costs and gas prices may reduce how much the raise helps",
+    "OPEN QUESTION: Will the raise be enough? Many older adults told AARP 5 to 8 percent would be needed."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Shai Akabas, Bipartisan Policy Center",
+      "description": "He says the increase is normal given recent inflation, but Medicare costs and high gas prices may make it feel different for different people."
+    },
+    {
+      "perspective": "Older adults in the AARP poll",
+      "description": "About 7 in 10 said an increase between 5 and 8 percent would be enough to help with expenses."
+    }
+  ],
+  "mined_at": "2026-10-15T10:32:15+00:00",
+  "source_published_at": "Wed, 14 Oct 2026 18:31:37 -0400",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/economy/what-is-the-social-security-cola-for-2027-heres-how-it-could-affect-you",
+  "category": "News",
+  "source_word_count": 656,
+  "detail_status": "full"
+}

@@ -1,0 +1,127 @@
+{
+  "title": "New Report Shows Prices Rising Faster Than Expected",
+  "summary": "Prices in the United States are going up faster than experts expected, according to a new inflation report released on Wednesday. Inflation means that the cost of everyday things, like food, gas and clothing, rises over time, so the same amount of money buys less.\n\nThe report's main measure, called the Consumer Price Index, showed prices were 3.7 percent higher than a year ago. That was a faster rise than the month before.\n\nPBS NewsHour spoke with Heather Long, the chief economist at Navy Federal Credit Union. She said about half of the increase came from high gas and diesel prices. But she said the other half came from many other things, including medical care, dental care, toys, clothing, software and car repairs. In her view, that is why the report caused alarm: the rise is spreading to many kinds of goods and could take a long time to ease.\n\nA measure called core inflation, which leaves out energy and food prices, also edged higher. Long said this shows the problem is bigger than gas and oil. She said she expects the Federal Reserve, which helps manage the economy, will have to raise interest rates again. Mortgage rates, which people pay on loans to buy homes, are already above 7.5 percent.\n\nLong also pointed out that prices are rising by 3.7 percent while wages are growing by only about 3 percent. That means many families' paychecks are not keeping up.\n\nPeople interviewed by the program described watching their budgets closely. A veteran in South Dakota said he must choose carefully between food, rent and other costs. A farmer in California said rising diesel costs are hard to plan for.\n\nThe report comes three weeks before the midterm elections, when the cost of living is an important issue for many voters.",
+  "why_it_matters": "When prices rise faster than paychecks, families can afford less, and the cost of living has become an important issue just before the midterm elections.",
+  "image_url": "/article_images/news-sa6aa413a98d32080.webp",
+  "keywords": [
+    {
+      "term": "inflation",
+      "explanation": "Inflation is when prices for goods and services rise over time, so money buys less."
+    },
+    {
+      "term": "Consumer Price Index",
+      "explanation": "The Consumer Price Index is a measure that tracks how the prices of common goods and services change."
+    },
+    {
+      "term": "economist",
+      "explanation": "An economist is an expert who studies how money, jobs and trade work."
+    },
+    {
+      "term": "interest rates",
+      "explanation": "Interest rates are the extra cost people pay for borrowing money, shown as a percentage."
+    },
+    {
+      "term": "Mortgage",
+      "explanation": "A mortgage is a large loan people take out to buy a home and pay back over many years."
+    },
+    {
+      "term": "wages",
+      "explanation": "Wages are the money workers are paid for their jobs."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How much higher were prices than a year ago, according to the report?",
+      "options": [
+        "2 percent",
+        "3.7 percent",
+        "7.5 percent",
+        "3 percent"
+      ],
+      "correct_answer": "3.7 percent"
+    },
+    {
+      "question": "According to Heather Long, about how much of the increase came from gas and diesel prices?",
+      "options": [
+        "About half",
+        "About a quarter",
+        "None of it",
+        "Almost all"
+      ],
+      "correct_answer": "About half"
+    },
+    {
+      "question": "What does core inflation leave out?",
+      "options": [
+        "Rent and housing",
+        "Toys and clothing",
+        "Energy and food prices",
+        "Medical and dental care"
+      ],
+      "correct_answer": "Energy and food prices"
+    },
+    {
+      "question": "What does Long expect the Federal Reserve to do?",
+      "options": [
+        "Cancel the midterm elections",
+        "Lower gas prices",
+        "Raise interest rates again",
+        "Print new coins"
+      ],
+      "correct_answer": "Raise interest rates again"
+    },
+    {
+      "question": "Why are many families' paychecks not keeping up?",
+      "options": [
+        "Because the report was delayed",
+        "Because toys became free",
+        "Because mortgage rates fell",
+        "Because wages are growing by about 3 percent while prices rise 3.7 percent"
+      ],
+      "correct_answer": "Because wages are growing by about 3 percent while prices rise 3.7 percent"
+    },
+    {
+      "question": "Which person described rising diesel costs as hard to plan for?",
+      "options": [
+        "Heather Long",
+        "A veteran in South Dakota",
+        "A teacher in Texas",
+        "A farmer in California"
+      ],
+      "correct_answer": "A farmer in California"
+    }
+  ],
+  "background_read": [
+    "Inflation measures how quickly the prices of everyday goods and services rise over time.",
+    "The Consumer Price Index tracks the prices of a large basket of common items, such as food, gas, clothing and medical care, and compares them with a year earlier.",
+    "The Federal Reserve is the central bank of the United States, and it can raise interest rates to make borrowing more expensive, which can slow price increases.",
+    "When prices rise faster than wages, families can afford less with the money they earn, which is why the cost of living often matters to voters."
+  ],
+  "Article_Structure": [
+    "LEAD: A new inflation report shows US prices rising faster than experts expected.",
+    "KEY EVENT: Consumer Price Index up 3.7 percent from a year ago",
+    "  ├─ WHO: Economist Heather Long of Navy Federal Credit Union, speaking to PBS NewsHour",
+    "  ├─ WHAT: About half from gas and diesel; the rest from medical care, toys, clothing, software, car repairs",
+    "  └─ WHEN: Report released Wednesday, three weeks before the midterm elections",
+    "EVIDENCE: Core inflation also edged higher; mortgage rates above 7.5 percent; wages up only about 3 percent",
+    "IMPACT: A veteran and a farmer describe watching budgets and planning for diesel costs",
+    "OPEN QUESTION: How long will it take for broad price increases to ease?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Heather Long, economist",
+      "description": "She says the rise is broad, spreading beyond gas and oil, and expects the Federal Reserve will have to raise interest rates again."
+    },
+    {
+      "perspective": "Families feeling the pressure",
+      "description": "A veteran in South Dakota and a farmer in California describe carefully budgeting for food, rent and diesel."
+    }
+  ],
+  "mined_at": "2026-10-15T10:32:15+00:00",
+  "source_published_at": "Wed, 14 Oct 2026 18:55:14 -0400",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/show/economist-breaks-down-new-inflation-report-and-whats-driving-prices-higher",
+  "category": "News",
+  "source_word_count": 715,
+  "detail_status": "full"
+}

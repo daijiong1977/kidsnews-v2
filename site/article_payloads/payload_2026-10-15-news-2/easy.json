@@ -1,0 +1,118 @@
+{
+  "title": "Ukraine's Military Has Less Access to Starlink",
+  "summary": "Ukraine's military has lost some access to Starlink, Ukrainian officials say. Starlink is a satellite internet system that Ukraine has used during its war with Russia.\n\nStarlink is run by Elon Musk's company SpaceX. It uses more than 11,000 satellites that circle close to Earth. A safer military version is called Starshield.\n\nIt is not clear why the limits started. On Wednesday, Musk wrote on X that Starshield is owned and controlled by the U.S. government. He said any limits would have been ordered by the U.S. military and the president. The U.S. government had not answered yet, CBC News reported.\n\nAn adviser to Ukraine's president said the limits included a speed limit on Starlink equipment on drones. Ukraine uses the network for drones, air defense and supplies.\n\nExperts say Starlink helps soldiers talk with faraway leaders, and it is very hard for enemies to block.",
+  "why_it_matters": "It shows how internet from space has become very important, even helping a country stay connected during a war.",
+  "image_url": "/article_images/news-scb4ba149d27217ec.webp",
+  "keywords": [
+    {
+      "term": "satellite",
+      "explanation": "A satellite is a machine in space that circles Earth and sends signals."
+    },
+    {
+      "term": "military",
+      "explanation": "The military is a country's army and other armed forces."
+    },
+    {
+      "term": "drones",
+      "explanation": "Drones are flying machines controlled from far away, with no pilot on board."
+    },
+    {
+      "term": "air defense",
+      "explanation": "Air defense is the work of protecting an area from attacks from the sky."
+    },
+    {
+      "term": "block",
+      "explanation": "To block a signal means to stop it from getting through."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What has Ukraine's military lost some access to?",
+      "options": [
+        "Its schools",
+        "Starlink",
+        "Television",
+        "Its airplanes"
+      ],
+      "correct_answer": "Starlink"
+    },
+    {
+      "question": "Which company runs Starlink?",
+      "options": [
+        "SpaceX",
+        "YouTube",
+        "NASA",
+        "Nintendo"
+      ],
+      "correct_answer": "SpaceX"
+    },
+    {
+      "question": "About how many satellites does Starlink use?",
+      "options": [
+        "More than 11,000",
+        "Exactly 500",
+        "About 2",
+        "Only 10"
+      ],
+      "correct_answer": "More than 11,000"
+    },
+    {
+      "question": "What is the military version of Starlink called?",
+      "options": [
+        "Moonlink",
+        "Starboat",
+        "Starshield",
+        "Skynet"
+      ],
+      "correct_answer": "Starshield"
+    },
+    {
+      "question": "Who did Musk say owns and controls Starshield?",
+      "options": [
+        "Ukraine",
+        "A school",
+        "The U.S. government",
+        "Russia"
+      ],
+      "correct_answer": "The U.S. government"
+    },
+    {
+      "question": "Why do experts say Starlink is helpful?",
+      "options": [
+        "It helps soldiers talk with faraway leaders and is hard to block",
+        "It makes food",
+        "It works only in cities",
+        "It is very cheap"
+      ],
+      "correct_answer": "It helps soldiers talk with faraway leaders and is hard to block"
+    }
+  ],
+  "background_read": [
+    "Starlink sends internet signals from many satellites in space to dishes on the ground.",
+    "Because it works from space, it can help people connect where phone lines are broken, such as in a war zone.",
+    "Russia and Ukraine have been at war, and Ukraine's military has used Starlink to stay in touch."
+  ],
+  "Article_Structure": [
+    "WHO: Ukraine's military, Elon Musk and his company SpaceX",
+    "WHAT: Ukraine's military has lost some access to Starlink satellite internet",
+    "WHERE: Ukraine, during its war with Russia",
+    "WHY: It is not clear; Musk says any limits would have been ordered by the U.S. government"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Elon Musk",
+      "description": "He says the U.S. military and president would have ordered any limits."
+    },
+    {
+      "perspective": "Ukrainian officials",
+      "description": "They say the military has lost some access, including a speed limit on drone equipment."
+    }
+  ],
+  "mined_at": "2026-10-15T10:32:15+00:00",
+  "source_published_at": "Thu, 15 Oct 2026 04:00:00 EDT",
+  "source_name": "CBC World",
+  "source_url": "https://www.cbc.ca/news/world/ukraine-starlink-elon-musk-9.7380594?cmp=rss",
+  "category": "News",
+  "source_word_count": 588,
+  "detail_status": "full"
+}

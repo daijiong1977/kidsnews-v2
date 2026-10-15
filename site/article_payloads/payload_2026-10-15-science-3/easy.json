@@ -1,0 +1,109 @@
+{
+  "title": "AI Finds Thousands of Hidden Steps for Turning CO2 Into Fuel",
+  "summary": "Carbon dioxide, or CO2, is a gas that comes from burning fuels. Scientists want to turn it into useful things, like a fuel called methanol. Researchers at the Indian Institute of Science used artificial intelligence, or AI, to help.\n\nTo change CO2, scientists mix it with hydrogen and use a helper material called a catalyst. In this study, the catalyst was copper. The change happens in many tiny steps called reactions.\n\nThe team started with 152 reactions. Then their AI helped them find many more, for a total of 9,389.\n\nThe bigger list worked much better. The small list gave the wrong answer about what would be made. The big list matched real experiments and predicted about 40 times more CO2 being changed.\n\nThe team also found a surprise. Hydrogen could sometimes join in as a whole molecule instead of splitting apart first. This could help scientists design better catalysts.",
+  "why_it_matters": "Finding new ways to turn a waste gas into fuel could help scientists make useful things from something we usually throw away.",
+  "image_url": "/article_images/science-sc1f611b471ec1d63.webp",
+  "keywords": [
+    {
+      "term": "carbon dioxide",
+      "explanation": "Carbon dioxide is a gas that comes from burning fuels, and we also breathe it out."
+    },
+    {
+      "term": "methanol",
+      "explanation": "Methanol is a kind of fuel."
+    },
+    {
+      "term": "artificial intelligence",
+      "explanation": "Artificial intelligence, or AI, is computer technology that can learn and solve problems."
+    },
+    {
+      "term": "catalyst",
+      "explanation": "A catalyst is a helper material that makes a chemical change happen faster."
+    },
+    {
+      "term": "molecule",
+      "explanation": "A molecule is a tiny group of atoms stuck together."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What gas did the scientists want to change into something useful?",
+      "options": [
+        "Carbon dioxide",
+        "Helium",
+        "Steam",
+        "Oxygen"
+      ],
+      "correct_answer": "Carbon dioxide"
+    },
+    {
+      "question": "What fuel did they want to make?",
+      "options": [
+        "Wood",
+        "Methanol",
+        "Gasoline",
+        "Coal"
+      ],
+      "correct_answer": "Methanol"
+    },
+    {
+      "question": "What was the catalyst in this study?",
+      "options": [
+        "Gold",
+        "Copper",
+        "Paper",
+        "Glass"
+      ],
+      "correct_answer": "Copper"
+    },
+    {
+      "question": "How many reactions did the team start with?",
+      "options": [
+        "2",
+        "9,389",
+        "40",
+        "152"
+      ],
+      "correct_answer": "152"
+    },
+    {
+      "question": "How many reactions were there in the end?",
+      "options": [
+        "10",
+        "9,389",
+        "40",
+        "152"
+      ],
+      "correct_answer": "9,389"
+    },
+    {
+      "question": "What surprise did the team find about hydrogen?",
+      "options": [
+        "It disappears",
+        "It can join in as a whole molecule",
+        "It makes the reaction stop",
+        "It turns into gold"
+      ],
+      "correct_answer": "It can join in as a whole molecule"
+    }
+  ],
+  "background_read": [
+    "Carbon dioxide is a gas that comes from burning fuels like gasoline.",
+    "Scientists want to recycle it into useful things, such as fuel.",
+    "Chemical changes happen in many small steps called reactions."
+  ],
+  "Article_Structure": [
+    "WHO: Researchers at the Indian Institute of Science",
+    "WHAT: Used AI to find 9,389 reactions for turning carbon dioxide into methanol",
+    "WHERE: In India, using computer models and a copper catalyst",
+    "WHY: To find better ways to turn a waste gas into useful fuel"
+  ],
+  "perspectives": [],
+  "mined_at": "2026-10-15T10:32:15+00:00",
+  "source_published_at": "Tue, 13 Oct 2026 20:01:11 EDT",
+  "source_name": "ScienceDaily Top Technology",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261013015758.htm",
+  "category": "Science",
+  "source_word_count": 816,
+  "detail_status": "full"
+}

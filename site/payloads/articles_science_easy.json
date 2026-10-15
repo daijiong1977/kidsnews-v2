@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-14-science-1",
-      "source": "Science News Explores",
-      "time_ago": "Mon, 12 Oct 2026 10:30:00 +0000",
-      "mined_at": "2026-10-14T10:25:56+00:00",
-      "source_published_at": "Mon, 12 Oct 2026 10:30:00 +0000",
-      "image_url": "/article_images/science-s15bf148ad7328c1b.webp",
+      "id": "2026-10-15-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Wed, 14 Oct 2026 06:38:46 EDT",
+      "mined_at": "2026-10-15T10:32:15+00:00",
+      "source_published_at": "Wed, 14 Oct 2026 06:38:46 EDT",
+      "image_url": "/article_images/science-s0c232ad515378f3b.webp",
       "category": "Science",
-      "title": "2026 Science Nobel Prizes Go to Brain Light Switches, Ghost Particles and Mirror Molecules",
-      "summary": "The 2026 science Nobel Prizes honored a light switch for brain cells, ghostly particles and mirror-image molecules."
+      "title": "Rocks From the Moon's Far Side Help Solve a Mystery",
+      "summary": "Rocks from the Moon's far side suggest Earth's gravity heated one side more, giving the Moon two different faces."
     },
     {
-      "id": "2026-10-14-science-2",
-      "source": "ScienceDaily All",
-      "time_ago": "Wed, 14 Oct 2026 01:44:39 EDT",
-      "mined_at": "2026-10-14T10:25:56+00:00",
-      "source_published_at": "Wed, 14 Oct 2026 01:44:39 EDT",
-      "image_url": "/article_images/science-sad06aaa0282c6502.webp",
+      "id": "2026-10-15-science-2",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Wed, 14 Oct 2026 18:51:56 EDT",
+      "mined_at": "2026-10-15T10:32:15+00:00",
+      "source_published_at": "Wed, 14 Oct 2026 18:51:56 EDT",
+      "image_url": "/article_images/science-s8afaac0be4229649.webp",
       "category": "Science",
-      "title": "Giant Ancient Snake From India May Have Been Super Long",
-      "summary": "Fossils show an ancient snake from India may have been about as long as the giant Titanoboa."
+      "title": "A Forgotten Fossil Turns Out to Be a New Dinosaur",
+      "summary": "A skull fossil forgotten for nearly 100 years is a new clawed dinosaur, the first of its kind found in Europe."
     },
     {
-      "id": "2026-10-14-science-3",
-      "source": "ScienceDaily All",
-      "time_ago": "Tue, 13 Oct 2026 07:27:24 EDT",
-      "mined_at": "2026-10-14T10:25:56+00:00",
-      "source_published_at": "Tue, 13 Oct 2026 07:27:24 EDT",
-      "image_url": "/article_images/science-se38c19b93ea41341.webp",
+      "id": "2026-10-15-science-3",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Tue, 13 Oct 2026 20:01:11 EDT",
+      "mined_at": "2026-10-15T10:32:15+00:00",
+      "source_published_at": "Tue, 13 Oct 2026 20:01:11 EDT",
+      "image_url": "/article_images/science-sc1f611b471ec1d63.webp",
       "category": "Science",
-      "title": "Webb Telescope Finds a Giant Galaxy Group That Grew Too Fast",
-      "summary": "The Webb telescope found an ancient galaxy cluster with more mass in its center than scientists expected."
+      "title": "AI Finds Thousands of Hidden Steps for Turning CO2 Into Fuel",
+      "summary": "Scientists used AI to find 9,389 reactions that help turn carbon dioxide into the fuel methanol."
     }
   ]
 }

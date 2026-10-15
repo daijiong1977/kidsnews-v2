@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-14-news-1",
+      "id": "2026-10-15-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Tue, 13 Oct 2026 18:30:36 -0400",
-      "mined_at": "2026-10-14T10:25:56+00:00",
-      "source_published_at": "Tue, 13 Oct 2026 18:30:36 -0400",
-      "image_url": "/article_images/news-s0b6e1805f691f9cf.webp",
+      "time_ago": "Wed, 14 Oct 2026 18:55:14 -0400",
+      "mined_at": "2026-10-15T10:32:15+00:00",
+      "source_published_at": "Wed, 14 Oct 2026 18:55:14 -0400",
+      "image_url": "/article_images/news-sa6aa413a98d32080.webp",
       "category": "News",
-      "title": "Millions of Kids Now Have Trump Accounts",
-      "summary": "More than 60 million kids now have Trump Accounts, and new rules let donors give stocks."
+      "title": "Prices Are Rising Faster Than Expected",
+      "summary": "A new report shows US prices are 3.7 percent higher than last year, rising faster than experts expected."
     },
     {
-      "id": "2026-10-14-news-2",
-      "source": "NPR World",
-      "time_ago": "Wed, 14 Oct 2026 03:16:02 -0400",
-      "mined_at": "2026-10-14T10:25:56+00:00",
-      "source_published_at": "Wed, 14 Oct 2026 03:16:02 -0400",
-      "image_url": "/article_images/news-scb3866aa8366dfc0.webp",
+      "id": "2026-10-15-news-2",
+      "source": "CBC World",
+      "time_ago": "Thu, 15 Oct 2026 04:00:00 EDT",
+      "mined_at": "2026-10-15T10:32:15+00:00",
+      "source_published_at": "Thu, 15 Oct 2026 04:00:00 EDT",
+      "image_url": "/article_images/news-scb4ba149d27217ec.webp",
       "category": "News",
-      "title": "Judge Says White House Cannot Ban Reporters Over Their News",
-      "summary": "A judge ruled the White House cannot ban reporters from CNN, MS NOW and Politico over their coverage, for now."
+      "title": "Ukraine's Military Has Less Access to Starlink",
+      "summary": "Ukraine's military has lost some access to Starlink, and Elon Musk says any limits came from the U.S. government."
     },
     {
-      "id": "2026-10-14-news-3",
-      "source": "NPR World",
-      "time_ago": "Tue, 13 Oct 2026 05:00:00 -0400",
-      "mined_at": "2026-10-14T10:25:56+00:00",
-      "source_published_at": "Tue, 13 Oct 2026 05:00:00 -0400",
-      "image_url": "/article_images/news-sed4f3527d9fe20ea.webp",
+      "id": "2026-10-15-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Wed, 14 Oct 2026 18:31:37 -0400",
+      "mined_at": "2026-10-15T10:32:15+00:00",
+      "source_published_at": "Wed, 14 Oct 2026 18:31:37 -0400",
+      "image_url": "/article_images/news-s59bcb9ce6f86f346.webp",
       "category": "News",
-      "title": "Massachusetts Will Vote on Allowing Smaller Homes",
-      "summary": "Massachusetts voters will decide whether towns must allow homes on smaller pieces of land."
+      "title": "Social Security Payments Will Go Up 3.6 Percent",
+      "summary": "Social Security payments will rise 3.6 percent in 2027 to help people keep up with rising prices."
     }
   ]
 }
