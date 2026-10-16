@@ -1,0 +1,122 @@
+{
+  "title": "Scientists Listen to Animal Sounds to Help Protect Wildlife",
+  "summary": "Animals make all kinds of sounds. Birds, mammals, insects, reptiles, frogs, fish and even crustaceans call out to find mates, defend their territory or warn others. A science called bioacoustics studies how living things make, send and hear sounds, and it is becoming a powerful tool for protecting endangered species.\n\nScientists can strap audio recorders to trees or set them on the ocean floor. Once in place, the recorders capture sounds without disturbing wildlife. By listening, researchers can learn which species live in an area, estimate how many there are, and find where they are, which can help reduce conflicts between animals and people.\n\nJonathan Growcott is a biologist who studies large meat-eating animals. Finding predators in the wild is hard, and common methods involve driving for hours looking for footprints or using camera traps. Growcott wondered if scientists could listen for the animals, too. \"These sounds travel many kilometers,\" he said.\n\nAs a PhD student at the University of Exeter in England, Growcott ran the first large-scale sound survey of African carnivores. His team placed 50 recorders across 450 square kilometers, or 175 square miles, of Nyerere National Park in Tanzania.\n\nHe started with leopards, which are secretive and active at night. Leopards make deep roars that sound like sawing wood. By placing recorders next to cameras, he matched leopards to their roars. A computer model could tell leopards apart by their roars with 93 percent accuracy.\n\nThen he studied lions. Using artificial intelligence, he found lions make two types of roars: the familiar full-throated roar and a shorter, lower one he called an \"intermediary\" roar. He also built an AI tool he calls \"Shazam for lions.\" It identified individual lions by their roars with more than 95 percent accuracy.",
+  "why_it_matters": "Listening to wildlife lets scientists count and track hard-to-find animals without disturbing them, which can help protect species at risk of extinction.",
+  "image_url": "/article_images/science-s3d606b66bedd5732.webp",
+  "keywords": [
+    {
+      "term": "bioacoustics",
+      "explanation": "The science of how living things make, send and hear sounds."
+    },
+    {
+      "term": "crustaceans",
+      "explanation": "Animals with hard shells and jointed legs, such as crabs, lobsters and shrimp."
+    },
+    {
+      "term": "endangered",
+      "explanation": "At serious risk of disappearing forever."
+    },
+    {
+      "term": "carnivores",
+      "explanation": "Animals that mainly eat other animals."
+    },
+    {
+      "term": "camera traps",
+      "explanation": "Cameras set up in the wild that take pictures automatically when an animal passes."
+    },
+    {
+      "term": "accuracy",
+      "explanation": "How often a measurement or guess turns out to be correct."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is bioacoustics?",
+      "options": [
+        "The study of animal bones",
+        "The study of plants",
+        "The study of weather",
+        "The study of how living things make, send and hear sounds"
+      ],
+      "correct_answer": "The study of how living things make, send and hear sounds"
+    },
+    {
+      "question": "Where did Growcott's team place its recorders?",
+      "options": [
+        "The Amazon rainforest",
+        "Nyerere National Park in Tanzania",
+        "A zoo in England",
+        "Yellowstone National Park"
+      ],
+      "correct_answer": "Nyerere National Park in Tanzania"
+    },
+    {
+      "question": "How many recorders did the team use?",
+      "options": [
+        "450",
+        "175",
+        "5",
+        "50"
+      ],
+      "correct_answer": "50"
+    },
+    {
+      "question": "What do leopard roars sound like?",
+      "options": [
+        "Sawing wood",
+        "Birdsong",
+        "Thunder",
+        "Whistling"
+      ],
+      "correct_answer": "Sawing wood"
+    },
+    {
+      "question": "What did Growcott name the lion roar he described as shorter and lower?",
+      "options": [
+        "The intermediary roar",
+        "The night roar",
+        "The baby roar",
+        "The sawing roar"
+      ],
+      "correct_answer": "The intermediary roar"
+    },
+    {
+      "question": "How accurately could the 'Shazam for lions' tool identify individual lions?",
+      "options": [
+        "About 50 percent",
+        "About 75 percent",
+        "93 percent",
+        "More than 95 percent"
+      ],
+      "correct_answer": "More than 95 percent"
+    }
+  ],
+  "background_read": [
+    "Conservation scientists need to know where animals live and how many there are before they can protect them.",
+    "Large predators such as lions and leopards roam over wide areas and are often hard to spot, especially at night.",
+    "Sound can travel long distances, so recorders can pick up calls from animals that cameras never see.",
+    "Artificial intelligence can be trained on many recordings to find patterns, such as the unique features of one animal's voice."
+  ],
+  "Article_Structure": [
+    "LEAD: Scientists are using animal sounds to help protect endangered species",
+    "KEY IDEA: Recorders capture sounds without disturbing wildlife, revealing which species live where",
+    "  ├─ WHO: Biologist Jonathan Growcott, University of Exeter",
+    "  └─ WHERE: Nyerere National Park, Tanzania",
+    "EVIDENCE: Leopards identified by roar with 93 percent accuracy; lions identified with more than 95 percent accuracy",
+    "DISCOVERY: Lions make two roar types, including a newly described intermediary roar",
+    "OPEN QUESTION: Could sound tracking work for many more species?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Jonathan Growcott, biologist",
+      "description": "Believes scientists can listen for predators as well as look for signs of them, because their sounds travel many kilometers."
+    }
+  ],
+  "mined_at": "2026-10-16T10:24:32+00:00",
+  "source_published_at": "Thu, 15 Oct 2026 10:30:00 +0000",
+  "source_name": "Science News Explores",
+  "source_url": "https://www.snexplores.org/article/bioacoustic-animal-sounds-conservation",
+  "category": "Science",
+  "source_word_count": 734,
+  "detail_status": "full"
+}

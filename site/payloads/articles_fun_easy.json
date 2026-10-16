@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-15-fun-1",
-      "source": "Polygon",
-      "time_ago": "Thu, 15 Oct 2026 09:39:02 GMT",
-      "mined_at": "2026-10-15T10:32:15+00:00",
-      "source_published_at": "Thu, 15 Oct 2026 09:39:02 GMT",
-      "image_url": "/article_images/fun-s0c35f18ba40dc075.webp",
+      "id": "2026-10-16-fun-1",
+      "source": "BBC Tennis",
+      "time_ago": "Fri, 16 Oct 2026 08:45:06 GMT",
+      "mined_at": "2026-10-16T10:24:32+00:00",
+      "source_published_at": "Fri, 16 Oct 2026 08:45:06 GMT",
+      "image_url": "/article_images/fun-saedc054248db745a.webp",
       "category": "Fun",
-      "title": "Fire Emblem: Fortune's Weave Is Getting New Stories",
-      "summary": "Fire Emblem: Fortune's Weave is getting new weapons, outfits, characters and four new story routes."
+      "title": "Sonay Kartal's Comeback Reaches the Wuhan Semifinals",
+      "summary": "Britain's Sonay Kartal beat Elina Svitolina to reach the Wuhan Open semifinals after a long injury."
     },
     {
-      "id": "2026-10-15-fun-2",
-      "source": "Billboard",
-      "time_ago": "Thu, 15 Oct 2026 03:53:43 +0000",
-      "mined_at": "2026-10-15T10:32:15+00:00",
-      "source_published_at": "Thu, 15 Oct 2026 03:53:43 +0000",
-      "image_url": "/article_images/fun-sc82b2ae9033c98cc.webp",
+      "id": "2026-10-16-fun-2",
+      "source": "Variety",
+      "time_ago": "Fri, 16 Oct 2026 09:08:16 +0000",
+      "mined_at": "2026-10-16T10:24:32+00:00",
+      "source_published_at": "Fri, 16 Oct 2026 09:08:16 +0000",
+      "image_url": "/article_images/fun-sbc8da4655a558097.webp",
       "category": "Fun",
-      "title": "'Tattoo (Remix)' Video Hits One Billion Views",
-      "summary": "Rauw Alejandro and Camilo's 'Tattoo (Remix)' video has passed one billion views on YouTube."
+      "title": "Movie Secrets From 'The Mandalorian and Grogu'",
+      "summary": "An effects expert shared how 'The Mandalorian and Grogu' used stop-motion puppets and a new look for Rotta the Hutt."
     },
     {
-      "id": "2026-10-15-fun-3",
-      "source": "BBC Swimming",
-      "time_ago": "Wed, 14 Oct 2026 19:04:46 GMT",
-      "mined_at": "2026-10-15T10:32:15+00:00",
-      "source_published_at": "Wed, 14 Oct 2026 19:04:46 GMT",
-      "image_url": "/article_images/fun-s2b89771de6befbbb.webp",
+      "id": "2026-10-16-fun-3",
+      "source": "Wired Gear",
+      "time_ago": "Fri, 16 Oct 2026 01:22:51 +0000",
+      "mined_at": "2026-10-16T10:24:32+00:00",
+      "source_published_at": "Fri, 16 Oct 2026 01:22:51 +0000",
+      "image_url": "/article_images/fun-sc8e20d05c06b9625.webp",
       "category": "Fun",
-      "title": "Swimmer Archie Goodburn Helps Get New Help for Brain Cancer Patients",
-      "summary": "After swimmer Archie Goodburn asked for help, the UK government announced new plans for brain cancer care."
+      "title": "Tesla Shows a Sports Car That Can Lift Into the Air",
+      "summary": "Tesla showed off its Roadster 2 in Texas, where a demonstration car used thrusters to lift into the air."
     }
   ]
 }

@@ -1,0 +1,114 @@
+{
+  "title": "Tesla Shows a Sports Car That Can Lift Into the Air",
+  "summary": "Can a car fly? On Thursday night, Tesla and its CEO, Elon Musk, showed off the new Roadster 2 at an event in McGregor, Texas. The event was at a rocket testing site run by SpaceX, another company Musk leads.\n\nDuring the show, the car rose into the air with a jerky puff of steam. At one point, it seemed to float several feet above a Tesla truck. Tesla says four thrusters, powered by gas stored in the car, make this possible.\n\nTesla said the car could go from 0 to 60 miles per hour in one second. Musk said, \"This is not necessarily a safety-optimized car.\"\n\nTesla says it will start making the Roadster 2 in 2028. The car was first announced in 2017 and was supposed to come out in 2020. Tesla did not say how much it will cost. There will be three versions, and only one is meant to lift into the air.",
+  "why_it_matters": "It shows how engineers try wild new ideas, but safety still matters for anything people ride in.",
+  "image_url": "/article_images/fun-sc8e20d05c06b9625.webp",
+  "keywords": [
+    {
+      "term": "CEO",
+      "explanation": "The person in charge of running a company."
+    },
+    {
+      "term": "thrusters",
+      "explanation": "Parts that push something by blasting out gas."
+    },
+    {
+      "term": "safety-optimized",
+      "explanation": "Designed with safety as the most important goal."
+    },
+    {
+      "term": "versions",
+      "explanation": "Different types of the same product."
+    },
+    {
+      "term": "announced",
+      "explanation": "Told the public about something officially."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Where did Tesla show off the Roadster 2?",
+      "options": [
+        "New York City",
+        "Chicago, Illinois",
+        "Paris, France",
+        "McGregor, Texas"
+      ],
+      "correct_answer": "McGregor, Texas"
+    },
+    {
+      "question": "How many thrusters does Tesla say make the car lift up?",
+      "options": [
+        "Four",
+        "Ten",
+        "Two",
+        "One"
+      ],
+      "correct_answer": "Four"
+    },
+    {
+      "question": "How fast does Tesla say the car can go from 0 to 60 miles per hour?",
+      "options": [
+        "One hour",
+        "Ten seconds",
+        "One second",
+        "One minute"
+      ],
+      "correct_answer": "One second"
+    },
+    {
+      "question": "When does Tesla say it will start making the car?",
+      "options": [
+        "2028",
+        "2050",
+        "2017",
+        "2020"
+      ],
+      "correct_answer": "2028"
+    },
+    {
+      "question": "What did Musk say about the car?",
+      "options": [
+        "It is very cheap",
+        "It is the slowest car",
+        "It is not necessarily a safety-optimized car",
+        "It can swim"
+      ],
+      "correct_answer": "It is not necessarily a safety-optimized car"
+    },
+    {
+      "question": "How many versions of the car will there be?",
+      "options": [
+        "Five",
+        "One",
+        "Ten",
+        "Three"
+      ],
+      "correct_answer": "Three"
+    }
+  ],
+  "background_read": [
+    "Tesla is a company that makes electric cars, which run on batteries.",
+    "SpaceX is a company that builds and tests rockets.",
+    "Thrusters push gas out one way so a vehicle moves the other way."
+  ],
+  "Article_Structure": [
+    "WHO: Tesla and its CEO, Elon Musk",
+    "WHAT: They showed off the Roadster 2, which lifted into the air",
+    "WHERE: A rocket testing site in McGregor, Texas",
+    "WHY: To show the car's new thrusters to the public"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Elon Musk, Tesla CEO",
+      "description": "Said the car is not necessarily a safety-optimized car."
+    }
+  ],
+  "mined_at": "2026-10-16T10:24:32+00:00",
+  "source_published_at": "Fri, 16 Oct 2026 01:22:51 +0000",
+  "source_name": "Wired Gear",
+  "source_url": "https://www.wired.com/story/tesla-roadster-2-launch/",
+  "category": "Fun",
+  "source_word_count": 705,
+  "detail_status": "full"
+}

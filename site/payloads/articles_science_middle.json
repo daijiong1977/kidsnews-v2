@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-15-science-1",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Wed, 14 Oct 2026 06:38:46 EDT",
-      "mined_at": "2026-10-15T10:32:15+00:00",
-      "source_published_at": "Wed, 14 Oct 2026 06:38:46 EDT",
-      "image_url": "/article_images/science-s0c232ad515378f3b.webp",
+      "id": "2026-10-16-science-1",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Thu, 15 Oct 2026 08:40:44 EDT",
+      "mined_at": "2026-10-16T10:24:32+00:00",
+      "source_published_at": "Thu, 15 Oct 2026 08:40:44 EDT",
+      "image_url": "/article_images/science-s8d031e56769abe89.webp",
       "category": "Science",
-      "title": "Far Side Moon Rocks Help Explain the Moon's Two Faces",
-      "summary": "Rocks from the Moon's far side suggest that uneven heating from Earth's gravity helped give the Moon two very different sides."
+      "title": "Arctic Sea Ice Keeps Shrinking and Getting Thinner",
+      "summary": "Satellite records show Arctic sea ice is shrinking in both summer and winter and becoming younger and thinner."
     },
     {
-      "id": "2026-10-15-science-2",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Wed, 14 Oct 2026 18:51:56 EDT",
-      "mined_at": "2026-10-15T10:32:15+00:00",
-      "source_published_at": "Wed, 14 Oct 2026 18:51:56 EDT",
-      "image_url": "/article_images/science-s8afaac0be4229649.webp",
+      "id": "2026-10-16-science-2",
+      "source": "Science News Explores",
+      "time_ago": "Thu, 15 Oct 2026 10:30:00 +0000",
+      "mined_at": "2026-10-16T10:24:32+00:00",
+      "source_published_at": "Thu, 15 Oct 2026 10:30:00 +0000",
+      "image_url": "/article_images/science-s3d606b66bedd5732.webp",
       "category": "Science",
-      "title": "Fossil Forgotten in a Museum Drawer Reveals a New Dinosaur",
-      "summary": "A skull fossil overlooked for nearly a century is a new claw-armed dinosaur and the first megaraptoran found in Europe."
+      "title": "Scientists Listen to Animal Sounds to Help Protect Wildlife",
+      "summary": "Scientists are using recordings of animal sounds, like lion and leopard roars, to track and protect wildlife."
     },
     {
-      "id": "2026-10-15-science-3",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Tue, 13 Oct 2026 20:01:11 EDT",
-      "mined_at": "2026-10-15T10:32:15+00:00",
-      "source_published_at": "Tue, 13 Oct 2026 20:01:11 EDT",
-      "image_url": "/article_images/science-sc1f611b471ec1d63.webp",
+      "id": "2026-10-16-science-3",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Thu, 15 Oct 2026 08:52:05 EDT",
+      "mined_at": "2026-10-16T10:24:32+00:00",
+      "source_published_at": "Thu, 15 Oct 2026 08:52:05 EDT",
+      "image_url": "/article_images/science-s330d01a214343c3a.webp",
       "category": "Science",
-      "title": "Computers Find Thousands of Hidden Steps in Turning CO2 Into Fuel",
-      "summary": "Using AI, scientists found 9,389 reactions involved in turning carbon dioxide into methanol, including a surprising role for hydrogen."
+      "title": "The Brain Keeps Working on Language Even Under Anesthesia",
+      "summary": "Baylor researchers found that even under general anesthesia, the brain can recognize types of words and predict what comes next in a story."
     }
   ]
 }

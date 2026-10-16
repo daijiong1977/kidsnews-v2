@@ -1,0 +1,123 @@
+{
+  "title": "The Brain Keeps Working on Language Even Under Anesthesia",
+  "summary": "When people have surgery, doctors often give them general anesthesia, medicine that makes them fully unconscious so they do not feel or remember anything. Scientists used to think the brain did very little thinking in that state. A new study suggests it does much more than expected.\n\nResearchers at Baylor College of Medicine in Texas published their findings in the journal Nature. \"Our findings show that the brain is far more active and capable during unconsciousness than previously thought,\" said Dr. Sameer Sheth, a brain surgeon who led the work.\n\nThe team studied patients who were having surgery for epilepsy while under general anesthesia. They focused on the hippocampus, a part of the brain that helps with learning and forming new memories. Using tiny recording tools called Neuropixels probes, they measured signals from hundreds of individual brain cells, called neurons, at the same time.\n\nFirst, the scientists played a series of repeating tones, with an occasional different sound mixed in. The patients' neurons reacted differently to the unexpected sounds. They even got better at telling the odd sounds apart as the test went on. That suggests some basic learning was still happening.\n\nNext, the researchers played short stories. Patterns of brain activity carried information about different kinds of words, such as nouns, verbs and adjectives. The activity also held clues about which words would come next in a sentence. \"The brain appears to anticipate what comes next in a story, even without conscious awareness,\" Sheth said.\n\nThis kind of prediction is usually studied in people who are awake. The researchers say the findings could help scientists better understand memory and language. They could also lead to new technology that helps people communicate after brain injuries.",
+  "why_it_matters": "The study challenges the idea that the unconscious brain does little, and it could help scientists build tools that help people communicate after brain injuries.",
+  "image_url": "/article_images/science-s330d01a214343c3a.webp",
+  "keywords": [
+    {
+      "term": "anesthesia",
+      "explanation": "Medicine doctors use so patients do not feel pain, sometimes making them fully unconscious."
+    },
+    {
+      "term": "unconscious",
+      "explanation": "Not awake or aware of what is happening around you."
+    },
+    {
+      "term": "epilepsy",
+      "explanation": "A brain condition that causes repeated seizures."
+    },
+    {
+      "term": "hippocampus",
+      "explanation": "A part of the brain that helps with learning and forming new memories."
+    },
+    {
+      "term": "neurons",
+      "explanation": "Cells in the brain and nerves that send signals to each other."
+    },
+    {
+      "term": "anticipate",
+      "explanation": "To expect or predict something before it happens."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Which institution did this research?",
+      "options": [
+        "Cornell University",
+        "NASA",
+        "Harvard University",
+        "Baylor College of Medicine"
+      ],
+      "correct_answer": "Baylor College of Medicine"
+    },
+    {
+      "question": "In which journal were the findings published?",
+      "options": [
+        "Science Advances",
+        "JGR Biogeosciences",
+        "Nature",
+        "Communications Biology"
+      ],
+      "correct_answer": "Nature"
+    },
+    {
+      "question": "Which part of the brain did the team focus on?",
+      "options": [
+        "The eyes",
+        "The spinal cord",
+        "The heart",
+        "The hippocampus"
+      ],
+      "correct_answer": "The hippocampus"
+    },
+    {
+      "question": "What tools did the researchers use to measure brain cells?",
+      "options": [
+        "X-ray machines",
+        "Stethoscopes",
+        "Thermometers",
+        "Neuropixels probes"
+      ],
+      "correct_answer": "Neuropixels probes"
+    },
+    {
+      "question": "What happened when unexpected tones were played?",
+      "options": [
+        "Patients woke up",
+        "Neurons reacted differently and got better at telling them apart",
+        "Neurons ignored them",
+        "The tones stopped"
+      ],
+      "correct_answer": "Neurons reacted differently and got better at telling them apart"
+    },
+    {
+      "question": "What did the brain activity reveal during the stories?",
+      "options": [
+        "Kinds of words and clues about the next word",
+        "Nothing at all",
+        "Only the volume of sounds",
+        "The colors patients imagined"
+      ],
+      "correct_answer": "Kinds of words and clues about the next word"
+    }
+  ],
+  "background_read": [
+    "General anesthesia uses medicine to put patients into a deep, sleep-like state so they feel no pain and form no memories during surgery.",
+    "The brain works through billions of neurons that send tiny electrical signals, which scientists can record with very small sensors.",
+    "During some epilepsy surgeries, doctors already need to place tools inside the brain, which can give researchers rare chances to measure activity directly.",
+    "When people listen to speech, the brain is known to guess upcoming words based on what it has already heard."
+  ],
+  "Article_Structure": [
+    "LEAD: The brain may keep processing language even under general anesthesia",
+    "KEY STUDY: Baylor researchers recorded hundreds of neurons in the hippocampus of patients during epilepsy surgery",
+    "  ├─ WHO: Dr. Sameer Sheth and colleagues",
+    "  └─ WHERE: Published in the journal Nature",
+    "EVIDENCE 1: Neurons reacted to unexpected tones and improved over time, suggesting learning",
+    "EVIDENCE 2: During stories, activity reflected word types and predicted upcoming words",
+    "POSSIBLE USES: Better understanding of memory and language; technology to help people communicate after brain injuries",
+    "OPEN QUESTION: How much thinking happens without conscious awareness?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Dr. Sameer Sheth, Baylor College of Medicine",
+      "description": "Says the brain is far more active and capable during unconsciousness than previously thought."
+    }
+  ],
+  "mined_at": "2026-10-16T10:24:32+00:00",
+  "source_published_at": "Thu, 15 Oct 2026 08:52:05 EDT",
+  "source_name": "ScienceDaily Strange & Offbeat",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261015003440.htm",
+  "category": "Science",
+  "source_word_count": 680,
+  "detail_status": "full"
+}

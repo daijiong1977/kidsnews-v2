@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-15-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Wed, 14 Oct 2026 18:55:14 -0400",
-      "mined_at": "2026-10-15T10:32:15+00:00",
-      "source_published_at": "Wed, 14 Oct 2026 18:55:14 -0400",
-      "image_url": "/article_images/news-sa6aa413a98d32080.webp",
-      "category": "News",
-      "title": "Prices Are Rising Faster Than Expected",
-      "summary": "A new report shows US prices are 3.7 percent higher than last year, rising faster than experts expected."
-    },
-    {
-      "id": "2026-10-15-news-2",
+      "id": "2026-10-16-news-1",
       "source": "CBC World",
       "time_ago": "Thu, 15 Oct 2026 04:00:00 EDT",
-      "mined_at": "2026-10-15T10:32:15+00:00",
+      "mined_at": "2026-10-16T10:24:32+00:00",
       "source_published_at": "Thu, 15 Oct 2026 04:00:00 EDT",
-      "image_url": "/article_images/news-scb4ba149d27217ec.webp",
+      "image_url": "/article_images/news-s66cc170c1a7da21f.webp",
       "category": "News",
-      "title": "Ukraine's Military Has Less Access to Starlink",
-      "summary": "Ukraine's military has lost some access to Starlink, and Elon Musk says any limits came from the U.S. government."
+      "title": "Rising Prices Worry Voters Before a Big US Election",
+      "summary": "Many US voters are worried about rising prices before the November 3 midterm elections."
     },
     {
-      "id": "2026-10-15-news-3",
-      "source": "PBS NewsHour",
-      "time_ago": "Wed, 14 Oct 2026 18:31:37 -0400",
-      "mined_at": "2026-10-15T10:32:15+00:00",
-      "source_published_at": "Wed, 14 Oct 2026 18:31:37 -0400",
-      "image_url": "/article_images/news-s59bcb9ce6f86f346.webp",
+      "id": "2026-10-16-news-2",
+      "source": "BBC News",
+      "time_ago": "Fri, 16 Oct 2026 05:00:17 GMT",
+      "mined_at": "2026-10-16T10:24:32+00:00",
+      "source_published_at": "Fri, 16 Oct 2026 05:00:17 GMT",
+      "image_url": "/article_images/news-s52cf7d1d1a9bf008.webp",
       "category": "News",
-      "title": "Social Security Payments Will Go Up 3.6 Percent",
-      "summary": "Social Security payments will rise 3.6 percent in 2027 to help people keep up with rising prices."
+      "title": "More Ships Attacked Near an Important Oil Waterway",
+      "summary": "Attacks on ships near the Strait of Hormuz reached a weekly high, and oil shipments have slowed."
+    },
+    {
+      "id": "2026-10-16-news-3",
+      "source": "NPR World",
+      "time_ago": "Fri, 16 Oct 2026 02:27:30 -0400",
+      "mined_at": "2026-10-16T10:24:32+00:00",
+      "source_published_at": "Fri, 16 Oct 2026 02:27:30 -0400",
+      "image_url": "/article_images/news-sdf4c2b2981e17752.webp",
+      "category": "News",
+      "title": "Barn Owls Make a Surprise Home in Manhattan",
+      "summary": "A family of barn owls is nesting in Manhattan for the first time in recorded history."
     }
   ]
 }

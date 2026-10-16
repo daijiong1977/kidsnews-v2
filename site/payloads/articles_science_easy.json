@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-15-science-1",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Wed, 14 Oct 2026 06:38:46 EDT",
-      "mined_at": "2026-10-15T10:32:15+00:00",
-      "source_published_at": "Wed, 14 Oct 2026 06:38:46 EDT",
-      "image_url": "/article_images/science-s0c232ad515378f3b.webp",
+      "id": "2026-10-16-science-1",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Thu, 15 Oct 2026 08:40:44 EDT",
+      "mined_at": "2026-10-16T10:24:32+00:00",
+      "source_published_at": "Thu, 15 Oct 2026 08:40:44 EDT",
+      "image_url": "/article_images/science-s8d031e56769abe89.webp",
       "category": "Science",
-      "title": "Rocks From the Moon's Far Side Help Solve a Mystery",
-      "summary": "Rocks from the Moon's far side suggest Earth's gravity heated one side more, giving the Moon two different faces."
+      "title": "Arctic Sea Ice Is Shrinking and Getting Thinner",
+      "summary": "Satellites show Arctic sea ice is shrinking in summer and winter and getting thinner."
     },
     {
-      "id": "2026-10-15-science-2",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Wed, 14 Oct 2026 18:51:56 EDT",
-      "mined_at": "2026-10-15T10:32:15+00:00",
-      "source_published_at": "Wed, 14 Oct 2026 18:51:56 EDT",
-      "image_url": "/article_images/science-s8afaac0be4229649.webp",
+      "id": "2026-10-16-science-2",
+      "source": "Science News Explores",
+      "time_ago": "Thu, 15 Oct 2026 10:30:00 +0000",
+      "mined_at": "2026-10-16T10:24:32+00:00",
+      "source_published_at": "Thu, 15 Oct 2026 10:30:00 +0000",
+      "image_url": "/article_images/science-s3d606b66bedd5732.webp",
       "category": "Science",
-      "title": "A Forgotten Fossil Turns Out to Be a New Dinosaur",
-      "summary": "A skull fossil forgotten for nearly 100 years is a new clawed dinosaur, the first of its kind found in Europe."
+      "title": "Scientists Listen to Roars to Help Protect Wild Animals",
+      "summary": "Scientists are recording lion and leopard roars to track and protect wild animals."
     },
     {
-      "id": "2026-10-15-science-3",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Tue, 13 Oct 2026 20:01:11 EDT",
-      "mined_at": "2026-10-15T10:32:15+00:00",
-      "source_published_at": "Tue, 13 Oct 2026 20:01:11 EDT",
-      "image_url": "/article_images/science-sc1f611b471ec1d63.webp",
+      "id": "2026-10-16-science-3",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Thu, 15 Oct 2026 08:52:05 EDT",
+      "mined_at": "2026-10-16T10:24:32+00:00",
+      "source_published_at": "Thu, 15 Oct 2026 08:52:05 EDT",
+      "image_url": "/article_images/science-s330d01a214343c3a.webp",
       "category": "Science",
-      "title": "AI Finds Thousands of Hidden Steps for Turning CO2 Into Fuel",
-      "summary": "Scientists used AI to find 9,389 reactions that help turn carbon dioxide into the fuel methanol."
+      "title": "The Brain Still Listens to Stories During Surgery Sleep",
+      "summary": "Scientists found the brain can still recognize words and predict what comes next, even under anesthesia."
     }
   ]
 }

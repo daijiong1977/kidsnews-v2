@@ -1,0 +1,114 @@
+{
+  "title": "Scientists Listen to Roars to Help Protect Wild Animals",
+  "summary": "Animals make lots of sounds. They call to find mates, protect their homes or warn others. Scientists can record these sounds to learn which animals live in a place and how many there are. This science is called bioacoustics.\n\nJonathan Growcott is a biologist who studies big meat-eating animals. Finding them in the wild is hard. So he decided to listen for them. His team put 50 sound recorders in Nyerere National Park in Tanzania, in Africa.\n\nFirst he studied leopards. Their deep roars sound like sawing wood. A computer model could tell leopards apart by their roars 93 percent of the time.\n\nThen he studied lions. Using artificial intelligence, he found lions make two kinds of roars. He also built a tool he calls \"Shazam for lions.\" It could identify a single lion by its roar more than 95 percent of the time.",
+  "why_it_matters": "Listening to animals can help scientists protect wildlife that kids love, like lions and leopards.",
+  "image_url": "/article_images/science-s3d606b66bedd5732.webp",
+  "keywords": [
+    {
+      "term": "bioacoustics",
+      "explanation": "The science of studying the sounds animals make."
+    },
+    {
+      "term": "biologist",
+      "explanation": "A scientist who studies living things."
+    },
+    {
+      "term": "recorders",
+      "explanation": "Machines that capture and save sounds."
+    },
+    {
+      "term": "artificial intelligence",
+      "explanation": "Computer programs that can learn patterns and make decisions."
+    },
+    {
+      "term": "identify",
+      "explanation": "To find out exactly who or what something is."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is bioacoustics?",
+      "options": [
+        "Studying weather",
+        "Studying rocks",
+        "Studying animal sounds",
+        "Studying stars"
+      ],
+      "correct_answer": "Studying animal sounds"
+    },
+    {
+      "question": "How many sound recorders did the team use?",
+      "options": [
+        "15",
+        "50",
+        "500",
+        "5"
+      ],
+      "correct_answer": "50"
+    },
+    {
+      "question": "Where is Nyerere National Park?",
+      "options": [
+        "Tanzania",
+        "Canada",
+        "Brazil",
+        "Japan"
+      ],
+      "correct_answer": "Tanzania"
+    },
+    {
+      "question": "What do leopard roars sound like?",
+      "options": [
+        "Whistles",
+        "Sawing wood",
+        "Ringing bells",
+        "Rain"
+      ],
+      "correct_answer": "Sawing wood"
+    },
+    {
+      "question": "How many kinds of roars do lions make, according to the study?",
+      "options": [
+        "Two",
+        "Ten",
+        "One",
+        "Five"
+      ],
+      "correct_answer": "Two"
+    },
+    {
+      "question": "What did Growcott call his lion tool?",
+      "options": [
+        "Big Cat Camera",
+        "Roar Radio",
+        "Lion Finder",
+        "Shazam for lions"
+      ],
+      "correct_answer": "Shazam for lions"
+    }
+  ],
+  "background_read": [
+    "Scientists need to know where wild animals live and how many there are so they can protect them.",
+    "Big cats like lions and leopards are hard to see, especially at night.",
+    "Sounds can travel far, so recorders can hear animals that people cannot see."
+  ],
+  "Article_Structure": [
+    "WHO: Biologist Jonathan Growcott and his team",
+    "WHAT: They used sound recorders and computers to identify leopards and lions by their roars",
+    "WHERE: Nyerere National Park in Tanzania, Africa",
+    "WHY: Listening helps scientists find and protect animals that are hard to see"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Jonathan Growcott, biologist",
+      "description": "Decided to listen for big cats because finding them in the wild is hard."
+    }
+  ],
+  "mined_at": "2026-10-16T10:24:32+00:00",
+  "source_published_at": "Thu, 15 Oct 2026 10:30:00 +0000",
+  "source_name": "Science News Explores",
+  "source_url": "https://www.snexplores.org/article/bioacoustic-animal-sounds-conservation",
+  "category": "Science",
+  "source_word_count": 734,
+  "detail_status": "full"
+}
