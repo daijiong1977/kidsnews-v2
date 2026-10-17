@@ -1,0 +1,127 @@
+{
+  "title": "Justice Department warns California officials about counting some ballots",
+  "summary": "The U.S. Justice Department is warning election officials in California that they could face criminal investigation if they count ballots from people the federal government suspects are not U.S. citizens.\n\nIn the United States, only citizens may vote in federal elections. Noncitizen voting in a federal election is a federal crime.\n\nThe warning came in a letter on Friday, October 16, from Trent McCotter, the acting deputy attorney general. It was sent to the Los Angeles County Counsel's office and copied to California Secretary of State Shirley Weber and Los Angeles County Registrar Dean Logan. The letter says people who knowingly count ballots from individuals that federal agencies have identified as noncitizens \"risk becoming aiders and abettors to a federal crime.\"\n\nOne day earlier, the Trump administration sued California. The lawsuit asks the state not to count mail ballots from about 20,000 people the federal government calls \"likely\" noncitizens until their immigration status is confirmed. California mails ballots to all registered voters. Weber said the administration has provided no evidence to support its claim about the list. The offices that received the letter did not immediately respond to requests for comment.\n\nThe Justice Department has charged about 90 people with election misconduct so far this year, including 50 accused of voting as noncitizens. More than 227 million people were registered to vote nationwide in 2024. Earlier this year, the administration said Nevada had 1,500 noncitizen voters, but after checking, the number of registered noncitizens there turned out to be zero.\n\nThe midterm election is on November 3. California has more than 23 million registered voters, and several of its close congressional races could help decide which party controls the U.S. House.",
+  "why_it_matters": "The dispute is about who gets to decide how votes are counted, the federal government or the states, and it could affect close races that help decide control of the U.S. House.",
+  "image_url": "/article_images/news-s3e22009a79e63d97.webp",
+  "keywords": [
+    {
+      "term": "criminal investigation",
+      "explanation": "A criminal investigation is when officials gather evidence to find out whether someone broke the law."
+    },
+    {
+      "term": "noncitizen",
+      "explanation": "A noncitizen is a person living in a country who is not a legal citizen of that country."
+    },
+    {
+      "term": "aiders and abettors",
+      "explanation": "Aiders and abettors are people who help someone else commit a crime."
+    },
+    {
+      "term": "lawsuit",
+      "explanation": "A lawsuit is a case brought to a court so a judge can settle a disagreement."
+    },
+    {
+      "term": "immigration status",
+      "explanation": "Immigration status describes whether a person is a citizen, a legal resident or something else in a country."
+    },
+    {
+      "term": "misconduct",
+      "explanation": "Misconduct means behavior that breaks rules or laws."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Who sent the letter warning California officials?",
+      "options": [
+        "The Nevada secretary of state",
+        "Trent McCotter, the acting deputy attorney general",
+        "Shirley Weber",
+        "Dean Logan"
+      ],
+      "correct_answer": "Trent McCotter, the acting deputy attorney general"
+    },
+    {
+      "question": "About how many people are on the federal government's list of \"likely\" noncitizens in the lawsuit?",
+      "options": [
+        "20,000",
+        "90",
+        "1,500",
+        "23 million"
+      ],
+      "correct_answer": "20,000"
+    },
+    {
+      "question": "What happened one day before the letter was sent?",
+      "options": [
+        "The election took place",
+        "Nevada removed 1,500 voters",
+        "The Trump administration sued California",
+        "California canceled mail voting"
+      ],
+      "correct_answer": "The Trump administration sued California"
+    },
+    {
+      "question": "What did Shirley Weber say about the list?",
+      "options": [
+        "It was correct",
+        "She had already removed everyone on it",
+        "It included only Nevada voters",
+        "The administration has provided no evidence to support its claim"
+      ],
+      "correct_answer": "The administration has provided no evidence to support its claim"
+    },
+    {
+      "question": "What turned out to be true about Nevada's claimed 1,500 noncitizen voters?",
+      "options": [
+        "Half were real",
+        "The number of registered noncitizens was zero",
+        "They moved to California",
+        "All were charged"
+      ],
+      "correct_answer": "The number of registered noncitizens was zero"
+    },
+    {
+      "question": "When is the midterm election?",
+      "options": [
+        "October 16",
+        "It has not been scheduled",
+        "Next spring",
+        "November 3"
+      ],
+      "correct_answer": "November 3"
+    }
+  ],
+  "background_read": [
+    "In the United States, only citizens are allowed to vote in federal elections, such as elections for Congress.",
+    "States run their own elections, including deciding how ballots are mailed out, checked and counted.",
+    "The U.S. Justice Department is the part of the federal government that enforces federal laws and can bring criminal cases.",
+    "When the federal government and a state disagree about election rules, the dispute can end up in court, as it has here with a lawsuit against California."
+  ],
+  "Article_Structure": [
+    "LEAD: The Justice Department warns California election officials they could face criminal investigation for counting ballots from suspected noncitizens.",
+    "KEY EVENT: A letter sent on Friday, October 16",
+    "  ├─ WHO: Acting Deputy Attorney General Trent McCotter, to Los Angeles County officials and Secretary of State Shirley Weber",
+    "  └─ WHAT: Counting such ballots could make officials \"aiders and abettors to a federal crime\"",
+    "BACKGROUND: A day earlier, the administration sued California over mail ballots from about 20,000 people it calls likely noncitizens",
+    "RESPONSE: Weber says no evidence has been provided for the list",
+    "EVIDENCE: About 90 election-misconduct charges this year, 50 for noncitizen voting; a Nevada claim of 1,500 turned out to be zero",
+    "OPEN QUESTION: How the dispute will affect counting before the November 3 midterm election"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Justice Department",
+      "description": "Says knowingly counting ballots from people federal agencies identify as noncitizens could make officials helpers in a federal crime."
+    },
+    {
+      "perspective": "California Secretary of State Shirley Weber",
+      "description": "Says the administration has provided no evidence to support its claim about the list of likely noncitizens."
+    }
+  ],
+  "mined_at": "2026-10-17T10:25:26+00:00",
+  "source_published_at": "Fri, 16 Oct 2026 19:30:20 -0400",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/politics/doj-says-california-officials-who-process-ballots-from-suspected-noncitizens-risk-prosecution",
+  "category": "News",
+  "source_word_count": 706,
+  "detail_status": "full"
+}

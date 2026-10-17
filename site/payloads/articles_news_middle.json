@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-16-news-1",
-      "source": "CBC World",
-      "time_ago": "Thu, 15 Oct 2026 04:00:00 EDT",
-      "mined_at": "2026-10-16T10:24:32+00:00",
-      "source_published_at": "Thu, 15 Oct 2026 04:00:00 EDT",
-      "image_url": "/article_images/news-s66cc170c1a7da21f.webp",
+      "id": "2026-10-17-news-1",
+      "source": "PBS NewsHour",
+      "time_ago": "Fri, 16 Oct 2026 19:30:20 -0400",
+      "mined_at": "2026-10-17T10:25:26+00:00",
+      "source_published_at": "Fri, 16 Oct 2026 19:30:20 -0400",
+      "image_url": "/article_images/news-s3e22009a79e63d97.webp",
       "category": "News",
-      "title": "Rising Prices Become a Big Issue in the US Midterm Elections",
-      "summary": "Polls show many US voters are worried about rising prices as the November 3 midterm elections approach."
+      "title": "Justice Department warns California officials about counting some ballots",
+      "summary": "The Justice Department warned California officials they could face investigation for counting ballots from suspected noncitizens."
     },
     {
-      "id": "2026-10-16-news-2",
-      "source": "BBC News",
-      "time_ago": "Fri, 16 Oct 2026 05:00:17 GMT",
-      "mined_at": "2026-10-16T10:24:32+00:00",
-      "source_published_at": "Fri, 16 Oct 2026 05:00:17 GMT",
-      "image_url": "/article_images/news-s52cf7d1d1a9bf008.webp",
-      "category": "News",
-      "title": "Ship Attacks Near the Strait of Hormuz Reach a Weekly High",
-      "summary": "Attacks on ships near the Strait of Hormuz hit a weekly record, and oil shipments through the waterway have slowed."
-    },
-    {
-      "id": "2026-10-16-news-3",
+      "id": "2026-10-17-news-2",
       "source": "NPR World",
-      "time_ago": "Fri, 16 Oct 2026 02:27:30 -0400",
-      "mined_at": "2026-10-16T10:24:32+00:00",
-      "source_published_at": "Fri, 16 Oct 2026 02:27:30 -0400",
-      "image_url": "/article_images/news-sdf4c2b2981e17752.webp",
+      "time_ago": "Sat, 17 Oct 2026 04:20:00 -0400",
+      "mined_at": "2026-10-17T10:25:26+00:00",
+      "source_published_at": "Sat, 17 Oct 2026 04:20:00 -0400",
+      "image_url": "/article_images/news-s7fd4124a99c26d4f.webp",
       "category": "News",
-      "title": "A Rare Family of Barn Owls Moves Into Manhattan",
-      "summary": "For the first time in recorded history, a family of barn owls is nesting in Manhattan, and New Yorkers are flocking to see them."
+      "title": "Strong winds push fast-moving fire into California coastal towns",
+      "summary": "Wind-driven fires burned homes in Southern California, and about 16,000 people were told to evacuate."
+    },
+    {
+      "id": "2026-10-17-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Fri, 16 Oct 2026 19:58:48 -0400",
+      "mined_at": "2026-10-17T10:25:26+00:00",
+      "source_published_at": "Fri, 16 Oct 2026 19:58:48 -0400",
+      "image_url": "/article_images/news-s1980492dc192cf3a.webp",
+      "category": "News",
+      "title": "Countries fall short on money to protect nature before big U.N. meeting",
+      "summary": "Countries have raised less than half the money they promised for nature as a U.N. biodiversity meeting begins."
     }
   ]
 }

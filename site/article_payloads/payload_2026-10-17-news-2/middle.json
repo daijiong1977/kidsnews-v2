@@ -1,0 +1,123 @@
+{
+  "title": "Strong winds push fast-moving fire into California coastal towns",
+  "summary": "A fast-moving fire pushed by strong winds burned at least six homes in Southern California on Friday, October 16, and led thousands of people to leave their neighborhoods.\n\nThe blaze, called the Norte Fire, started in the coastal city of San Clemente. The wind then drove it into the nearby city of San Juan Capistrano in Orange County. By Friday night, about 16,000 residents had been ordered to evacuate, said Fire Chief TJ McGovern of the Orange County Fire Authority. Each city opened an evacuation shelter.\n\nFirefighters sprayed water on burning homes, and some homeowners wet down their own roofs before leaving. Two firefighters were taken to the hospital with heat-related injuries, officials said. As of Friday evening, the fire covered less than one square mile. Officials have not said how it started.\n\n\"Had these winds been a little bit stronger, a little bit different direction, this could have been a whole lot worse,\" said San Clemente Mayor Rick Loeffler.\n\nThe Norte Fire was one of several fires in the region. They were fanned by dry, warm winds called Santa Anas, which blow from inland areas toward the coast. Conditions that raise fire risk were expected to last through Saturday night, the National Weather Service said.\n\nBecause power equipment has started some serious wildfires in the past, utilities sometimes turn off electricity during dry, windy weather. More than 118,000 customers in California were without power on Friday. A separate fire near the Marine Corps base Camp Pendleton closed part of Interstate 5 for hours, slowing travel across the region.\n\nNine schools in San Juan Capistrano were also closed on Friday.",
+  "why_it_matters": "Wind-driven fires can grow fast near homes, so warnings, evacuations and power shutoffs affect hundreds of thousands of people even when a fire stays small.",
+  "image_url": "/article_images/news-s7fd4124a99c26d4f.webp",
+  "keywords": [
+    {
+      "term": "evacuate",
+      "explanation": "To evacuate means to leave a place quickly to get away from danger."
+    },
+    {
+      "term": "evacuation shelter",
+      "explanation": "An evacuation shelter is a safe place where people can stay after leaving their homes during an emergency."
+    },
+    {
+      "term": "blaze",
+      "explanation": "A blaze is a large, strong fire."
+    },
+    {
+      "term": "fanned",
+      "explanation": "Fanned means made stronger by moving air, the way wind feeds a fire."
+    },
+    {
+      "term": "Santa Anas",
+      "explanation": "Santa Anas are dry, warm winds in Southern California that blow from inland areas toward the coast."
+    },
+    {
+      "term": "utilities",
+      "explanation": "Utilities are companies that provide services such as electricity, water or gas."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is the name of the fire that spread into San Juan Capistrano?",
+      "options": [
+        "The Santa Ana Fire",
+        "The Pendleton Fire",
+        "The Orange Fire",
+        "The Norte Fire"
+      ],
+      "correct_answer": "The Norte Fire"
+    },
+    {
+      "question": "In which city did the fire start?",
+      "options": [
+        "Dana Point",
+        "San Diego",
+        "Los Angeles",
+        "San Clemente"
+      ],
+      "correct_answer": "San Clemente"
+    },
+    {
+      "question": "About how many residents had been ordered to evacuate by Friday night?",
+      "options": [
+        "118,000",
+        "600",
+        "6,000",
+        "16,000"
+      ],
+      "correct_answer": "16,000"
+    },
+    {
+      "question": "Why were two firefighters taken to the hospital?",
+      "options": [
+        "Officials did not say",
+        "They had heat-related injuries",
+        "They breathed in smoke at a school",
+        "They were in a car crash"
+      ],
+      "correct_answer": "They had heat-related injuries"
+    },
+    {
+      "question": "Why do utilities sometimes turn off electricity during dry, windy weather?",
+      "options": [
+        "Because power equipment has started serious wildfires in the past",
+        "So schools can close",
+        "To help firefighters see better at night",
+        "To save money"
+      ],
+      "correct_answer": "Because power equipment has started serious wildfires in the past"
+    },
+    {
+      "question": "What did a separate fire near Camp Pendleton cause?",
+      "options": [
+        "A heat advisory to end",
+        "The Norte Fire to stop",
+        "Part of Interstate 5 to close for hours",
+        "A new shelter to close"
+      ],
+      "correct_answer": "Part of Interstate 5 to close for hours"
+    }
+  ],
+  "background_read": [
+    "Wildfires need fuel, such as dry plants, plus heat and oxygen, and strong winds can carry sparks far ahead of the flames.",
+    "In Southern California, dry, warm Santa Ana winds blow from inland areas toward the coast and can make fires spread very quickly.",
+    "When a fire threatens homes, officials order evacuations so people can get to safety while firefighters work.",
+    "Because power equipment has started serious wildfires before, utilities sometimes shut off electricity during dry, windy weather to lower the risk."
+  ],
+  "Article_Structure": [
+    "LEAD: A wind-driven fire burned at least six homes in Southern California on Friday, October 16.",
+    "KEY EVENT: The Norte Fire spread from San Clemente into San Juan Capistrano",
+    "  ├─ WHO: About 16,000 residents ordered to evacuate; Fire Chief TJ McGovern gave the number",
+    "  └─ WHERE: Coastal Orange County, with shelters in each city",
+    "DETAILS: Two firefighters treated for heat-related injuries; fire under one square mile; cause unknown",
+    "CAUSE OF SPREAD: Dry, warm Santa Ana winds; fire risk expected through Saturday night",
+    "WIDER EFFECTS: More than 118,000 customers without power, part of Interstate 5 closed, nine schools closed",
+    "OPEN QUESTION: How the fire started"
+  ],
+  "perspectives": [
+    {
+      "perspective": "San Clemente Mayor Rick Loeffler",
+      "description": "Said the fire could have been much worse if the winds had been a bit stronger or blown in a different direction."
+    }
+  ],
+  "mined_at": "2026-10-17T10:25:26+00:00",
+  "source_published_at": "Sat, 17 Oct 2026 04:20:00 -0400",
+  "source_name": "NPR World",
+  "source_url": "https://www.npr.org/2026/10/17/g-s1-148569/coastal-homes-burn-in-california-fires",
+  "category": "News",
+  "source_word_count": 650,
+  "detail_status": "full"
+}

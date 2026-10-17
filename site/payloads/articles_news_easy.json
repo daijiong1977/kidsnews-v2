@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-16-news-1",
-      "source": "CBC World",
-      "time_ago": "Thu, 15 Oct 2026 04:00:00 EDT",
-      "mined_at": "2026-10-16T10:24:32+00:00",
-      "source_published_at": "Thu, 15 Oct 2026 04:00:00 EDT",
-      "image_url": "/article_images/news-s66cc170c1a7da21f.webp",
+      "id": "2026-10-17-news-1",
+      "source": "PBS NewsHour",
+      "time_ago": "Fri, 16 Oct 2026 19:30:20 -0400",
+      "mined_at": "2026-10-17T10:25:26+00:00",
+      "source_published_at": "Fri, 16 Oct 2026 19:30:20 -0400",
+      "image_url": "/article_images/news-s3e22009a79e63d97.webp",
       "category": "News",
-      "title": "Rising Prices Worry Voters Before a Big US Election",
-      "summary": "Many US voters are worried about rising prices before the November 3 midterm elections."
+      "title": "U.S. warns California about counting some ballots",
+      "summary": "The U.S. government warned California officials about counting ballots from people it thinks are not citizens."
     },
     {
-      "id": "2026-10-16-news-2",
-      "source": "BBC News",
-      "time_ago": "Fri, 16 Oct 2026 05:00:17 GMT",
-      "mined_at": "2026-10-16T10:24:32+00:00",
-      "source_published_at": "Fri, 16 Oct 2026 05:00:17 GMT",
-      "image_url": "/article_images/news-s52cf7d1d1a9bf008.webp",
-      "category": "News",
-      "title": "More Ships Attacked Near an Important Oil Waterway",
-      "summary": "Attacks on ships near the Strait of Hormuz reached a weekly high, and oil shipments have slowed."
-    },
-    {
-      "id": "2026-10-16-news-3",
+      "id": "2026-10-17-news-2",
       "source": "NPR World",
-      "time_ago": "Fri, 16 Oct 2026 02:27:30 -0400",
-      "mined_at": "2026-10-16T10:24:32+00:00",
-      "source_published_at": "Fri, 16 Oct 2026 02:27:30 -0400",
-      "image_url": "/article_images/news-sdf4c2b2981e17752.webp",
+      "time_ago": "Sat, 17 Oct 2026 04:20:00 -0400",
+      "mined_at": "2026-10-17T10:25:26+00:00",
+      "source_published_at": "Sat, 17 Oct 2026 04:20:00 -0400",
+      "image_url": "/article_images/news-s7fd4124a99c26d4f.webp",
       "category": "News",
-      "title": "Barn Owls Make a Surprise Home in Manhattan",
-      "summary": "A family of barn owls is nesting in Manhattan for the first time in recorded history."
+      "title": "Strong winds spread a fire in California",
+      "summary": "Strong winds pushed a fire into two California cities, and about 16,000 people had to leave home."
+    },
+    {
+      "id": "2026-10-17-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Fri, 16 Oct 2026 19:58:48 -0400",
+      "mined_at": "2026-10-17T10:25:26+00:00",
+      "source_published_at": "Fri, 16 Oct 2026 19:58:48 -0400",
+      "image_url": "/article_images/news-s1980492dc192cf3a.webp",
+      "category": "News",
+      "title": "Countries are behind on money to protect nature",
+      "summary": "Countries have raised less than half the money they promised to protect nature."
     }
   ]
 }

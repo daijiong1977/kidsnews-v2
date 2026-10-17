@@ -1,0 +1,109 @@
+{
+  "title": "Strong winds spread a fire in California",
+  "summary": "A fast fire burned at least six homes in Southern California on Friday, October 16. Strong winds pushed the fire, called the Norte Fire.\n\nIt started in the beach city of San Clemente. Then the wind carried it into the nearby city of San Juan Capistrano. About 16,000 people were told to leave their homes and go somewhere safe. Each city opened a shelter.\n\nFirefighters sprayed water on homes. Two firefighters went to the hospital because of the heat. Officials do not yet know how the fire started.\n\nThe winds are called Santa Anas. They are dry, warm winds that blow toward the coast. The risk of fires was expected to stay high through Saturday night.\n\nTo help prevent fires, power companies turned off electricity for some people. More than 118,000 customers had no power. Nine schools in San Juan Capistrano were closed on Friday.",
+  "why_it_matters": "Knowing why fires spread and why people leave home early helps families stay safe in an emergency.",
+  "image_url": "/article_images/news-s7fd4124a99c26d4f.webp",
+  "keywords": [
+    {
+      "term": "shelter",
+      "explanation": "A shelter is a safe place where people can stay during an emergency."
+    },
+    {
+      "term": "firefighters",
+      "explanation": "Firefighters are trained workers who put out fires and help keep people safe."
+    },
+    {
+      "term": "Santa Anas",
+      "explanation": "Santa Anas are dry, warm winds in Southern California that blow toward the coast."
+    },
+    {
+      "term": "electricity",
+      "explanation": "Electricity is the power that runs lights and machines in homes and schools."
+    },
+    {
+      "term": "customers",
+      "explanation": "Customers are people or homes that pay a company for a service, like power."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is the fire called?",
+      "options": [
+        "The Norte Fire",
+        "The Orange Fire",
+        "The Santa Fire",
+        "The Beach Fire"
+      ],
+      "correct_answer": "The Norte Fire"
+    },
+    {
+      "question": "Where did the fire start?",
+      "options": [
+        "San Clemente",
+        "Los Angeles",
+        "San Juan Capistrano",
+        "San Diego"
+      ],
+      "correct_answer": "San Clemente"
+    },
+    {
+      "question": "About how many people were told to leave their homes?",
+      "options": [
+        "6",
+        "16,000",
+        "118,000",
+        "1,600"
+      ],
+      "correct_answer": "16,000"
+    },
+    {
+      "question": "Why did two firefighters go to the hospital?",
+      "options": [
+        "Because of the heat",
+        "Because of a broken truck",
+        "Nobody knows",
+        "Because of a car crash"
+      ],
+      "correct_answer": "Because of the heat"
+    },
+    {
+      "question": "What are Santa Anas?",
+      "options": [
+        "Dry, warm winds that blow toward the coast",
+        "Beach cities",
+        "Shelters for families",
+        "Fire trucks"
+      ],
+      "correct_answer": "Dry, warm winds that blow toward the coast"
+    },
+    {
+      "question": "How many schools in San Juan Capistrano were closed on Friday?",
+      "options": [
+        "Two",
+        "Sixteen",
+        "Six",
+        "Nine"
+      ],
+      "correct_answer": "Nine"
+    }
+  ],
+  "background_read": [
+    "Fires spread faster when plants are dry and strong winds blow sparks to new places.",
+    "When a fire comes close to homes, officials tell people to leave so they can stay safe while firefighters work.",
+    "Power companies sometimes turn off electricity in dry, windy weather so their equipment does not start a fire."
+  ],
+  "Article_Structure": [
+    "WHO: About 16,000 people told to leave home, plus firefighters and power companies",
+    "WHAT: The Norte Fire burned at least six homes on Friday, October 16",
+    "WHERE: San Clemente and San Juan Capistrano in Southern California",
+    "WHY: Strong, dry Santa Ana winds pushed the fire quickly"
+  ],
+  "perspectives": [],
+  "mined_at": "2026-10-17T10:25:26+00:00",
+  "source_published_at": "Sat, 17 Oct 2026 04:20:00 -0400",
+  "source_name": "NPR World",
+  "source_url": "https://www.npr.org/2026/10/17/g-s1-148569/coastal-homes-burn-in-california-fires",
+  "category": "News",
+  "source_word_count": 650,
+  "detail_status": "full"
+}

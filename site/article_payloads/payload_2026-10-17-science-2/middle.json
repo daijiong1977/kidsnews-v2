@@ -1,0 +1,118 @@
+{
+  "title": "Big and small black holes seem to follow the same rule for blasting jets",
+  "summary": "Black holes come in very different sizes. Some weigh about 10 times as much as the Sun, while others weigh millions of times more. Now astronomers say both kinds seem to follow the same rule when they shoot powerful jets of material into space.\n\nThe study was published in the journal Nature Astronomy. It was led by Dr. Adelle Goodwin of Curtin University's International Centre of Radio Astronomy Research in Australia, with Dr. Andrew Mummery of the Institute for Advanced Study in Princeton.\n\nThe scientists studied rare events called tidal disruption events, when a supermassive black hole pulls a star apart. Sometimes the black hole sends out a jet right away. Other times it stays quiet for months or even years before a jet suddenly appears.\n\n\"We were looking at these events and asking why the timing was so different,\" Goodwin said.\n\nUsing telescopes in Australia, the United States, India, South Africa and space, the team found an answer. The delayed jets appeared when the black hole's feeding rate dropped to a certain critical point. Scientists already knew that same point mattered for much smaller black holes.\n\nThe key idea came to the two researchers during a conversation in Madrid while they were attending a science conference.\n\nNot everything near a black hole falls inside. Some material is launched back into space. \"You can think of it as a black hole burp,\" Goodwin said, \"except these burps can blast material across enormous distances and influence the galaxies around them.\"\n\nThe researchers say the rule could help astronomers predict when these outbursts will happen. It also supports the long-held idea that black holes of every size follow the same basic laws of physics.",
+  "why_it_matters": "If black holes of every size follow the same physics, scientists can use small, fast-changing ones to understand giant ones that shape whole galaxies.",
+  "image_url": "/article_images/science-s0b708318fa472d47.webp",
+  "keywords": [
+    {
+      "term": "black holes",
+      "explanation": "Black holes are places in space where gravity is so strong that nothing, not even light, can escape."
+    },
+    {
+      "term": "supermassive",
+      "explanation": "Supermassive describes the largest black holes, which can weigh millions of times more than the Sun."
+    },
+    {
+      "term": "tidal disruption events",
+      "explanation": "Tidal disruption events happen when a black hole's gravity stretches and pulls apart a star that gets too close."
+    },
+    {
+      "term": "critical point",
+      "explanation": "A critical point is a special level at which something important starts to change."
+    },
+    {
+      "term": "outbursts",
+      "explanation": "Outbursts are sudden, powerful releases of energy or material."
+    },
+    {
+      "term": "astronomers",
+      "explanation": "Astronomers are scientists who study stars, planets and other objects in space."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Who led the study?",
+      "options": [
+        "Dr. Adelle Goodwin",
+        "Dr. Andrew Mummery",
+        "A team in Madrid",
+        "NASA"
+      ],
+      "correct_answer": "Dr. Adelle Goodwin"
+    },
+    {
+      "question": "What is a tidal disruption event?",
+      "options": [
+        "When a supermassive black hole pulls a star apart",
+        "When the Sun makes a jet",
+        "When a telescope breaks",
+        "When two galaxies crash"
+      ],
+      "correct_answer": "When a supermassive black hole pulls a star apart"
+    },
+    {
+      "question": "When did the delayed jets appear?",
+      "options": [
+        "Exactly one day after the star was pulled apart",
+        "When a new star was born",
+        "Only on black holes near the Sun",
+        "When the black hole's feeding rate dropped to a certain critical point"
+      ],
+      "correct_answer": "When the black hole's feeding rate dropped to a certain critical point"
+    },
+    {
+      "question": "Where did the key idea come to the two researchers?",
+      "options": [
+        "On a space station",
+        "At a telescope in South Africa",
+        "During a conversation in Madrid at a science conference",
+        "In a lab in Australia"
+      ],
+      "correct_answer": "During a conversation in Madrid at a science conference"
+    },
+    {
+      "question": "What did Goodwin compare the jets to?",
+      "options": [
+        "A black hole sneeze",
+        "A volcano",
+        "A rocket launch",
+        "A black hole burp"
+      ],
+      "correct_answer": "A black hole burp"
+    },
+    {
+      "question": "In which journal was the study published?",
+      "options": [
+        "Nature Astronomy",
+        "Ecology",
+        "Science Advances",
+        "Popular Science"
+      ],
+      "correct_answer": "Nature Astronomy"
+    }
+  ],
+  "background_read": [
+    "A black hole is a region of space where gravity is so strong that nothing, not even light, can escape once it crosses the edge.",
+    "Small black holes can form when huge stars collapse, while supermassive black holes sit at the centers of most large galaxies.",
+    "As gas or pieces of a star swirl toward a black hole, some material can be thrown back out in fast, narrow streams called jets.",
+    "Astronomers use telescopes that detect radio waves and other kinds of light to spot these jets, because the black hole itself cannot be seen."
+  ],
+  "Article_Structure": [
+    "LEAD: Black holes of very different sizes appear to follow the same rule when launching jets.",
+    "KEY EVENT: A study in Nature Astronomy",
+    "  ├─ WHO: Dr. Adelle Goodwin of Curtin University and Dr. Andrew Mummery of the Institute for Advanced Study",
+    "  └─ WHAT: Studied tidal disruption events where a supermassive black hole pulls a star apart",
+    "PUZZLE: Some jets appear right away, others months or years later",
+    "EVIDENCE: Delayed jets appeared when the feeding rate dropped to the same critical point known from smaller black holes",
+    "EXPLANATION: Some material is launched back out, which Goodwin calls \"a black hole burp\"",
+    "OPEN QUESTION: Can the rule help astronomers predict future outbursts?"
+  ],
+  "perspectives": [],
+  "mined_at": "2026-10-17T10:25:26+00:00",
+  "source_published_at": "Fri, 16 Oct 2026 06:45:33 EDT",
+  "source_name": "ScienceDaily Top Technology",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261014015507.htm",
+  "category": "Science",
+  "source_word_count": 572,
+  "detail_status": "full"
+}

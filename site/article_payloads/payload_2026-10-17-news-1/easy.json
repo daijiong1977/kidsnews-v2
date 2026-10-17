@@ -1,0 +1,122 @@
+{
+  "title": "U.S. warns California about counting some ballots",
+  "summary": "The U.S. Justice Department sent a warning to election officials in California. It says they could be investigated if they count ballots from people the government thinks are not U.S. citizens.\n\nOnly U.S. citizens may vote in federal elections. It is a crime for noncitizens to vote in them.\n\nThe letter came on Friday, October 16. It was sent to officials in Los Angeles County and to California's top election official, Secretary of State Shirley Weber.\n\nOne day earlier, the Trump administration sued California. It wants the state to hold back mail ballots from about 20,000 people it calls \"likely\" noncitizens until their status is checked. Weber said the government has given no proof for its list.\n\nThe Justice Department says 50 people have been charged this year with voting as noncitizens. Earlier this year, the government said Nevada had 1,500 noncitizen voters, but checks found zero.\n\nThe election is on November 3.",
+  "why_it_matters": "Fair rules for counting votes help make sure every eligible person's vote is counted the right way.",
+  "image_url": "/article_images/news-s3e22009a79e63d97.webp",
+  "keywords": [
+    {
+      "term": "election officials",
+      "explanation": "Election officials are the people who run elections and count the votes."
+    },
+    {
+      "term": "ballots",
+      "explanation": "Ballots are the papers or forms people use to vote."
+    },
+    {
+      "term": "citizens",
+      "explanation": "Citizens are people who officially belong to a country and have rights there, like voting."
+    },
+    {
+      "term": "federal",
+      "explanation": "Federal means having to do with the national government of the whole United States."
+    },
+    {
+      "term": "sued",
+      "explanation": "Sued means took someone to court to settle a disagreement."
+    },
+    {
+      "term": "proof",
+      "explanation": "Proof is information that shows something is true."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Which state got the warning?",
+      "options": [
+        "Texas",
+        "Oregon",
+        "California",
+        "Nevada"
+      ],
+      "correct_answer": "California"
+    },
+    {
+      "question": "Who may vote in federal elections?",
+      "options": [
+        "Anyone who lives in the U.S.",
+        "Only people in California",
+        "Only government workers",
+        "Only U.S. citizens"
+      ],
+      "correct_answer": "Only U.S. citizens"
+    },
+    {
+      "question": "When was the letter sent?",
+      "options": [
+        "Last year",
+        "Friday, October 16",
+        "November 3",
+        "Monday, October 12"
+      ],
+      "correct_answer": "Friday, October 16"
+    },
+    {
+      "question": "About how many people are on the government's list?",
+      "options": [
+        "20,000",
+        "50",
+        "1,500",
+        "1 million"
+      ],
+      "correct_answer": "20,000"
+    },
+    {
+      "question": "What did Shirley Weber say?",
+      "options": [
+        "Voting is canceled",
+        "The government has given no proof for its list",
+        "The list is correct",
+        "She will not count any ballots"
+      ],
+      "correct_answer": "The government has given no proof for its list"
+    },
+    {
+      "question": "What did checks in Nevada find?",
+      "options": [
+        "1,500 noncitizen voters",
+        "Zero noncitizen voters",
+        "The checks were not finished",
+        "50 noncitizen voters"
+      ],
+      "correct_answer": "Zero noncitizen voters"
+    }
+  ],
+  "background_read": [
+    "In the United States, only citizens are allowed to vote in federal elections.",
+    "Each state runs its own elections, including mailing out and counting ballots.",
+    "The U.S. Justice Department is the part of the national government that makes sure federal laws are followed."
+  ],
+  "Article_Structure": [
+    "WHO: The U.S. Justice Department and election officials in California, including Secretary of State Shirley Weber",
+    "WHAT: A warning that officials could be investigated for counting ballots from people the government thinks are not citizens",
+    "WHERE: California, especially Los Angeles County",
+    "WHY: The government says only citizens may vote in federal elections and wants about 20,000 mail ballots held back until checked"
+  ],
+  "perspectives": [
+    {
+      "perspective": "U.S. Justice Department",
+      "description": "Warns officials not to count ballots from people it thinks are not citizens."
+    },
+    {
+      "perspective": "Shirley Weber",
+      "description": "Says the government has given no proof for its list."
+    }
+  ],
+  "mined_at": "2026-10-17T10:25:26+00:00",
+  "source_published_at": "Fri, 16 Oct 2026 19:30:20 -0400",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/politics/doj-says-california-officials-who-process-ballots-from-suspected-noncitizens-risk-prosecution",
+  "category": "News",
+  "source_word_count": 706,
+  "detail_status": "full"
+}
