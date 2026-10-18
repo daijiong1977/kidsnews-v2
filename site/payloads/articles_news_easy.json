@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-17-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Fri, 16 Oct 2026 19:30:20 -0400",
-      "mined_at": "2026-10-17T10:25:26+00:00",
-      "source_published_at": "Fri, 16 Oct 2026 19:30:20 -0400",
-      "image_url": "/article_images/news-s3e22009a79e63d97.webp",
+      "id": "2026-10-18-news-1",
+      "source": "BBC News",
+      "time_ago": "Sun, 18 Oct 2026 01:10:25 GMT",
+      "mined_at": "2026-10-18T10:24:33+00:00",
+      "source_published_at": "Sun, 18 Oct 2026 01:10:25 GMT",
+      "image_url": "/article_images/news-s40a70052f11c71ca.webp",
       "category": "News",
-      "title": "U.S. warns California about counting some ballots",
-      "summary": "The U.S. government warned California officials about counting ballots from people it thinks are not citizens."
+      "title": "President Trump Pauses Penalties on Russia",
+      "summary": "President Trump paused some sanctions on Russia for 60 days, and lawmakers from both parties criticized it."
     },
     {
-      "id": "2026-10-17-news-2",
-      "source": "NPR World",
-      "time_ago": "Sat, 17 Oct 2026 04:20:00 -0400",
-      "mined_at": "2026-10-17T10:25:26+00:00",
-      "source_published_at": "Sat, 17 Oct 2026 04:20:00 -0400",
-      "image_url": "/article_images/news-s7fd4124a99c26d4f.webp",
+      "id": "2026-10-18-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Sat, 17 Oct 2026 14:26:29 -0400",
+      "mined_at": "2026-10-18T10:24:33+00:00",
+      "source_published_at": "Sat, 17 Oct 2026 14:26:29 -0400",
+      "image_url": "/article_images/news-scbc90626f195b88a.webp",
       "category": "News",
-      "title": "Strong winds spread a fire in California",
-      "summary": "Strong winds pushed a fire into two California cities, and about 16,000 people had to leave home."
+      "title": "People Rally Across the US to Get Voters to Vote Early",
+      "summary": "Rallies across the US encouraged people to vote early before the November 3 midterm elections."
     },
     {
-      "id": "2026-10-17-news-3",
-      "source": "PBS NewsHour",
-      "time_ago": "Fri, 16 Oct 2026 19:58:48 -0400",
-      "mined_at": "2026-10-17T10:25:26+00:00",
-      "source_published_at": "Fri, 16 Oct 2026 19:58:48 -0400",
-      "image_url": "/article_images/news-s1980492dc192cf3a.webp",
+      "id": "2026-10-18-news-3",
+      "source": "Smithsonian Science-Nature",
+      "time_ago": "Fri, 16 Oct 2026 17:15:00 +0000",
+      "mined_at": "2026-10-18T10:24:33+00:00",
+      "source_published_at": "Fri, 16 Oct 2026 17:15:00 +0000",
+      "image_url": "/article_images/news-se2acc40db72e7cc4.webp",
       "category": "News",
-      "title": "Countries are behind on money to protect nature",
-      "summary": "Countries have raised less than half the money they promised to protect nature."
+      "title": "Old Dams Come Down, and Fish Swim Back",
+      "summary": "Removing old dams in the Northeast is helping river herring swim back home."
     }
   ]
 }

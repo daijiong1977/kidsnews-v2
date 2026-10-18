@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-17-science-1",
-      "source": "ScienceDaily All",
-      "time_ago": "Thu, 15 Oct 2026 23:45:22 EDT",
-      "mined_at": "2026-10-17T10:25:26+00:00",
-      "source_published_at": "Thu, 15 Oct 2026 23:45:22 EDT",
-      "image_url": "/article_images/science-sffdab933b844854a.webp",
+      "id": "2026-10-18-science-1",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Sat, 17 Oct 2026 09:05:02 EDT",
+      "mined_at": "2026-10-18T10:24:33+00:00",
+      "source_published_at": "Sat, 17 Oct 2026 09:05:02 EDT",
+      "image_url": "/article_images/science-sc06f52c458670271.webp",
       "category": "Science",
-      "title": "A crayfish contest leads to a science puzzle",
-      "summary": "A friendly crayfish contest helped scientists learn that North American crayfish seem to have a size limit."
+      "title": "This Bird's Wings Are Made for Sharp Turns",
+      "summary": "Scientists found the nightjar's wings are built for sharp turns, and the bird pushes forward even when raising its wings."
     },
     {
-      "id": "2026-10-17-science-2",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Fri, 16 Oct 2026 06:45:33 EDT",
-      "mined_at": "2026-10-17T10:25:26+00:00",
-      "source_published_at": "Fri, 16 Oct 2026 06:45:33 EDT",
-      "image_url": "/article_images/science-s0b708318fa472d47.webp",
+      "id": "2026-10-18-science-2",
+      "source": "Science News Explores",
+      "time_ago": "Fri, 16 Oct 2026 10:30:00 +0000",
+      "mined_at": "2026-10-18T10:24:33+00:00",
+      "source_published_at": "Fri, 16 Oct 2026 10:30:00 +0000",
+      "image_url": "/article_images/science-s4a2df72c7c500e0b.webp",
       "category": "Science",
-      "title": "Big and small black holes follow the same rule",
-      "summary": "Scientists found that black holes of all sizes seem to follow the same rule when they shoot out jets."
+      "title": "A Desert Plant That Cools Itself by 'Sweating'",
+      "summary": "Scientists found that a Death Valley shrub survives extreme heat by releasing water vapor to cool its leaves."
     },
     {
-      "id": "2026-10-17-science-3",
-      "source": "Popular Science",
-      "time_ago": "Fri, 16 Oct 2026 14:20:47 -0400",
-      "mined_at": "2026-10-17T10:25:26+00:00",
-      "source_published_at": "Fri, 16 Oct 2026 14:20:47 -0400",
-      "image_url": "/article_images/science-s5720591f2bf9ff69.webp",
+      "id": "2026-10-18-science-3",
+      "source": "Popular Mechanics",
+      "time_ago": "Fri, 16 Oct 2026 20:51:31 +0000",
+      "mined_at": "2026-10-18T10:24:33+00:00",
+      "source_published_at": "Fri, 16 Oct 2026 20:51:31 +0000",
+      "image_url": "/article_images/science-s6efe6ae0acf14224.webp",
       "category": "Science",
-      "title": "Ancient pollen tells the story of ice age footprints",
-      "summary": "Tiny pollen grains show the people who made ancient New Mexico footprints lived through fast changes."
+      "title": "Kodak Once Had a Nuclear Machine in Its Basement",
+      "summary": "From 1975 to 2006, Kodak used a carefully controlled nuclear machine to make neutrons for testing materials."
     }
   ]
 }

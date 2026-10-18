@@ -1,0 +1,135 @@
+{
+  "title": "Trump Pauses Russia Sanctions, Drawing Criticism From Both Parties",
+  "summary": "President Donald Trump has paused a number of sanctions on Russia just two days before they were set to begin. Sanctions are penalties, such as limits on money and trade, that countries use to pressure another country to change its actions.\n\nThe sanctions were passed by the US Congress and signed into law by Trump in September. They were meant to put pressure on Russia over its war in Ukraine. The law also targeted senior Russian figures, including President Vladimir Putin, as well as Russian banks and a group of ships that Russia uses to get around existing trade limits.\n\nOn Friday night, Trump signed an executive order saying that suspending some of the sanctions was in the US national interest. Secretary of State Marco Rubio said the pause would last 60 days, so the administration can study how the sanctions might affect the US and world economy.\n\nUkraine's President Volodymyr Zelensky said it was unfortunate that the US decided to \"completely disregard\" the sanctions. He said they \"could have helped enormously\" in pressuring Russia to end the war. He also said Russian attacks overnight had hit 15 Ukrainian energy sites, causing power cuts in several regions.\n\nA Russian envoy, Kirill Dmitriev, praised Trump's order. He said the sanctions would have caused \"serious damage\" to the US and global markets.\n\nThe decision drew criticism from lawmakers in both major US parties. Democrats such as Virginia Congressman Don Beyer said Trump was turning his back on Ukraine. Some Republicans also disagreed. Texas Senator Ted Cruz called it a mistake, and Texas Senator John Cornyn called it \"reckless.\"\n\nRelations between the US and Ukraine were already tense. Last week, the US agreed to a deal to import Russian diesel fuel, and Ukraine has accused the Trump administration of withdrawing key military support.",
+  "why_it_matters": "The decision shows how a president can change how a law passed by Congress is carried out, and it affects the pressure on Russia over its war in Ukraine.",
+  "image_url": "/article_images/news-s40a70052f11c71ca.webp",
+  "keywords": [
+    {
+      "term": "sanctions",
+      "explanation": "Penalties, such as limits on trade or money, that countries use to pressure another country."
+    },
+    {
+      "term": "executive order",
+      "explanation": "A rule a president issues directly, without Congress passing a new law."
+    },
+    {
+      "term": "national interest",
+      "explanation": "What a government believes is best for its own country."
+    },
+    {
+      "term": "disregard",
+      "explanation": "To ignore something or treat it as unimportant."
+    },
+    {
+      "term": "envoy",
+      "explanation": "A person sent to represent a country in talks with others."
+    },
+    {
+      "term": "import",
+      "explanation": "To bring goods into a country from another country."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How long did Secretary of State Marco Rubio say the pause would last?",
+      "options": [
+        "Six months",
+        "60 days",
+        "Until the war ends",
+        "30 days"
+      ],
+      "correct_answer": "60 days"
+    },
+    {
+      "question": "When were the sanctions signed into law?",
+      "options": [
+        "Last week",
+        "On Friday night",
+        "In January",
+        "In September"
+      ],
+      "correct_answer": "In September"
+    },
+    {
+      "question": "How many Ukrainian energy sites did Zelensky say were hit in overnight attacks?",
+      "options": [
+        "50",
+        "5",
+        "10",
+        "15"
+      ],
+      "correct_answer": "15"
+    },
+    {
+      "question": "Who praised Trump's order?",
+      "options": [
+        "Russian envoy Kirill Dmitriev",
+        "Congressman Don Beyer",
+        "Senator Ted Cruz",
+        "President Volodymyr Zelensky"
+      ],
+      "correct_answer": "Russian envoy Kirill Dmitriev"
+    },
+    {
+      "question": "Which word did Senator John Cornyn use to describe the move?",
+      "options": [
+        "Smart",
+        "Reckless",
+        "Necessary",
+        "Historic"
+      ],
+      "correct_answer": "Reckless"
+    },
+    {
+      "question": "What deal did the US agree to last week?",
+      "options": [
+        "A deal to sell planes to Ukraine",
+        "A deal to end the war",
+        "A deal to build new ships",
+        "A deal to import Russian diesel fuel"
+      ],
+      "correct_answer": "A deal to import Russian diesel fuel"
+    }
+  ],
+  "background_read": [
+    "Russia invaded Ukraine, and the two countries have been at war, with Ukraine asking other nations for help.",
+    "Sanctions are a tool countries use instead of fighting: they limit trade, banking or travel to put economic pressure on a government.",
+    "In the United States, Congress can pass sanctions as a law, while the president leads foreign policy and can issue executive orders.",
+    "Because Congress had passed these sanctions as a law, pausing them caused disagreement with many lawmakers."
+  ],
+  "Article_Structure": [
+    "LEAD: Trump paused several Russia sanctions two days before they would start",
+    "KEY EVENT: Executive order signed Friday night suspending some sanctions",
+    "  ├─ WHO: President Donald Trump; Secretary of State Marco Rubio",
+    "  ├─ WHAT: A 60-day pause to study effects on the US and world economy",
+    "  └─ TARGETS: Senior Russian figures, Russian banks and ships that get around trade limits",
+    "REACTIONS: Zelensky calls it unfortunate; Russian envoy Dmitriev praises it; lawmakers in both parties object",
+    "CONTEXT: US-Ukraine relations already tense after a Russian diesel import deal",
+    "OPEN QUESTION: What will happen after the 60-day review?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Trump administration",
+      "description": "Says pausing some sanctions is in the US national interest and wants 60 days to study the economic effects."
+    },
+    {
+      "perspective": "Ukraine's President Volodymyr Zelensky",
+      "description": "Says the sanctions could have helped enormously to pressure Russia to end the war."
+    },
+    {
+      "perspective": "Russian envoy Kirill Dmitriev",
+      "description": "Praised the order and said the sanctions would have caused serious damage to markets."
+    },
+    {
+      "perspective": "Critics in Congress",
+      "description": "Democrats such as Don Beyer and Republicans such as Ted Cruz and John Cornyn opposed the pause."
+    }
+  ],
+  "mined_at": "2026-10-18T10:24:33+00:00",
+  "source_published_at": "Sun, 18 Oct 2026 01:10:25 GMT",
+  "source_name": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+  "category": "News",
+  "source_word_count": 486,
+  "detail_status": "full"
+}

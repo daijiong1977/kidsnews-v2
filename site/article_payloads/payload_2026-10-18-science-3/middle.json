@@ -1,0 +1,123 @@
+{
+  "title": "Kodak Once Kept a Special Nuclear Device in Its Basement",
+  "summary": "For about 30 years, the camera and film company Eastman Kodak kept an unusual machine in a secure basement in Rochester, New York. It was a nuclear device about the size of a refrigerator, and it was used for research.\n\nKodak turned the device on in 1975. It was the country's first californium neutron flux multiplier, or CFX. Its job was to make a steady stream of neutrons, tiny particles found in the centers of atoms.\n\nKodak used the neutrons in two ways. First, it could test chemicals to find out exactly what was in them. Second, it could make neutron images, which work a bit like X-rays. X-rays have trouble showing light materials like water or film, but neutrons can show them. Put simply, if an X-ray shows you the crack in a pipe, neutrons will show you the leak.\n\nThe machine started with a tiny amount of a lab-made material, californium-252, which gives off neutrons on its own. Because californium is very expensive, its neutrons were sent through 52 plates of highly enriched uranium. When neutrons hit uranium atoms, some atoms split and released more neutrons. This made the stream up to 30 times stronger.\n\nThat might sound like a nuclear reactor, but there was a key difference. The CFX was designed so it could not keep a chain reaction going by itself. Without the californium, the process would fade out.\n\nThe device ran until 2006 behind walls two feet thick, under government security rules. Kodak and officials said it was tightly controlled. When it was taken apart, the uranium plates were carefully moved to a government facility. When news of the machine spread in 2012, many people were alarmed, but the real story is a clever piece of Cold War engineering.",
+  "why_it_matters": "The story shows how nuclear science has been used as a research tool, and why careful safety rules matter when handling powerful materials.",
+  "image_url": "/article_images/science-s6efe6ae0acf14224.webp",
+  "keywords": [
+    {
+      "term": "neutrons",
+      "explanation": "Tiny particles with no electric charge found in the centers of atoms."
+    },
+    {
+      "term": "uranium",
+      "explanation": "A heavy metal element whose atoms can split and release energy."
+    },
+    {
+      "term": "chain reaction",
+      "explanation": "A process where each step sets off more steps, so it keeps going by itself."
+    },
+    {
+      "term": "X-rays",
+      "explanation": "Invisible rays used to take pictures of the inside of things, such as bones."
+    },
+    {
+      "term": "facility",
+      "explanation": "A building or place set up for a special purpose."
+    },
+    {
+      "term": "Cold War",
+      "explanation": "A long period of tension between the United States and the Soviet Union without a direct full-scale war between them."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Where was Kodak's nuclear device kept?",
+      "options": [
+        "On a ship at sea",
+        "On the roof of a factory",
+        "In a desert lab in Nevada",
+        "In a secure basement in Rochester, New York"
+      ],
+      "correct_answer": "In a secure basement in Rochester, New York"
+    },
+    {
+      "question": "In what year did Kodak turn the device on?",
+      "options": [
+        "2012",
+        "1955",
+        "1975",
+        "2006"
+      ],
+      "correct_answer": "1975"
+    },
+    {
+      "question": "What was the main job of the CFX?",
+      "options": [
+        "To make electricity for the city",
+        "To develop photos",
+        "To make a steady stream of neutrons",
+        "To power Kodak's cameras"
+      ],
+      "correct_answer": "To make a steady stream of neutrons"
+    },
+    {
+      "question": "Why were the neutrons sent through uranium plates?",
+      "options": [
+        "To make the device glow",
+        "To hide it from visitors",
+        "To cool the machine down",
+        "Because californium is very expensive, and the plates boosted the stream"
+      ],
+      "correct_answer": "Because californium is very expensive, and the plates boosted the stream"
+    },
+    {
+      "question": "What was the key difference between the CFX and a nuclear reactor?",
+      "options": [
+        "It used no uranium at all",
+        "It ran on solar power",
+        "It could not keep a chain reaction going by itself",
+        "It was much bigger"
+      ],
+      "correct_answer": "It could not keep a chain reaction going by itself"
+    },
+    {
+      "question": "What happened to the uranium plates when the device was taken apart?",
+      "options": [
+        "They were carefully moved to a government facility",
+        "They were thrown away",
+        "They were sold to another company",
+        "They were buried in the basement"
+      ],
+      "correct_answer": "They were carefully moved to a government facility"
+    }
+  ],
+  "background_read": [
+    "Atoms have a center called a nucleus, made of protons and neutrons.",
+    "In heavy elements like uranium, a nucleus can split when hit by a neutron, releasing energy and more neutrons; this splitting is called fission.",
+    "If each split causes enough new splits, a chain reaction keeps going, which is how nuclear reactors work.",
+    "Scientists also use neutrons as a tool to see inside materials and find out what they are made of."
+  ],
+  "Article_Structure": [
+    "LEAD: Kodak kept a refrigerator-sized nuclear device in a Rochester basement for about 30 years",
+    "KEY FACT: The CFX, turned on in 1975, made a steady stream of neutrons",
+    "  ├─ USE 1: Testing chemicals to learn what they contain",
+    "  └─ USE 2: Neutron images that show light materials X-rays miss",
+    "HOW IT WORKED: Californium-252 neutrons passed through 52 uranium plates, boosting the stream up to 30 times",
+    "SAFETY: Designed so it could not keep a chain reaction going; ran until 2006 under government rules",
+    "AFTERMATH: Plates moved to a government facility; news in 2012 alarmed many people",
+    "CONCLUSION: A clever piece of Cold War engineering"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Kodak and officials",
+      "description": "Said the device was tightly controlled."
+    }
+  ],
+  "mined_at": "2026-10-18T10:24:33+00:00",
+  "source_published_at": "Fri, 16 Oct 2026 20:51:31 +0000",
+  "source_name": "Popular Mechanics",
+  "source_url": "https://www.popularmechanics.com/science/energy/a74163543/kodak-secret-nuclear-reactor/",
+  "category": "Science",
+  "source_word_count": 936,
+  "detail_status": "full"
+}

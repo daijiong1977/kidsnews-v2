@@ -1,0 +1,128 @@
+{
+  "title": "Taking Down Old Dams Is Helping Fish Return to Northeastern Rivers",
+  "summary": "Across the northeastern United States, old dams are coming out of streams and rivers, and fish called river herring are coming back.\n\nA dam is a wall that blocks a river to hold back water. Dams can store water for farms and homes or make electricity. But they can also stop fish from swimming upstream to lay their eggs. Some fish, like alewives, spend part of their lives in the ocean and part in rivers.\n\nBeginning in the 1600s, colonists in the East built many dams to power mills. By the mid-1800s, more than 65,000 mills lined eastern creeks. Scientists have calculated that over four centuries, New England's dams have cost its ecosystems nearly 20 billion pounds of alewives.\n\nNow that is changing. Since 1912, more than 2,300 dams have been removed from US waterways, most of them in the last 25 years. Big projects in the West, such as the Klamath River in California and Oregon, get the most attention. But most removals happen in eastern states. In 2024, Pennsylvania alone removed 27 old dams.\n\nNathan Furey, a fish biologist at the University of New Hampshire, says that for the first time in history, barriers are being removed faster than new ones are built. Still, at least 35,000 dams block fish runs in the Northeast.\n\nThe results can be big. In 2025, about six million river herring returned to Maine's Penobscot River, 12 years after two dams there came down. That was double the number from two years earlier.\n\nOn New Hampshire's Bellamy River, where two old dams were removed, Furey's team puts tiny tags, about the size of a grain of rice, in alewives to count how many make it upstream.\n\nScientists say small streams matter too. \"A cold-water tributary just a quarter-mile long could be really important,\" says Joshua Royte of the Nature Conservancy.",
+  "why_it_matters": "Removing old dams can bring back fish that were blocked for centuries, showing that damaged rivers and ecosystems can recover.",
+  "image_url": "/article_images/news-se2acc40db72e7cc4.webp",
+  "keywords": [
+    {
+      "term": "alewives",
+      "explanation": "A kind of river herring that spends part of its life in the ocean and part in rivers."
+    },
+    {
+      "term": "ecosystems",
+      "explanation": "Communities of living things and the places where they live."
+    },
+    {
+      "term": "barriers",
+      "explanation": "Things that block the way."
+    },
+    {
+      "term": "upstream",
+      "explanation": "Toward the start of a river, against the flow of the water."
+    },
+    {
+      "term": "biologist",
+      "explanation": "A scientist who studies living things."
+    },
+    {
+      "term": "tributary",
+      "explanation": "A smaller stream or river that flows into a bigger one."
+    }
+  ],
+  "questions": [
+    {
+      "question": "About how many dams have been removed from US waterways since 1912?",
+      "options": [
+        "Exactly 35,000",
+        "More than 65,000",
+        "About 200",
+        "More than 2,300"
+      ],
+      "correct_answer": "More than 2,300"
+    },
+    {
+      "question": "How many river herring returned to Maine's Penobscot River in 2025?",
+      "options": [
+        "About six thousand",
+        "About 600",
+        "About six million",
+        "About 60 million"
+      ],
+      "correct_answer": "About six million"
+    },
+    {
+      "question": "Why did colonists in the East build many dams starting in the 1600s?",
+      "options": [
+        "To make swimming pools",
+        "To power mills",
+        "To water desert farms",
+        "To stop floods in cities"
+      ],
+      "correct_answer": "To power mills"
+    },
+    {
+      "question": "How many old dams did Pennsylvania remove in 2024?",
+      "options": [
+        "270",
+        "27",
+        "12",
+        "2"
+      ],
+      "correct_answer": "27"
+    },
+    {
+      "question": "What does Nathan Furey's team put in alewives on the Bellamy River?",
+      "options": [
+        "Tiny tags about the size of a grain of rice",
+        "Colored paint",
+        "Radio collars",
+        "Small cameras"
+      ],
+      "correct_answer": "Tiny tags about the size of a grain of rice"
+    },
+    {
+      "question": "According to Joshua Royte, what could be really important even though it is short?",
+      "options": [
+        "A long canal",
+        "A deep lake",
+        "A large new dam",
+        "A cold-water tributary just a quarter-mile long"
+      ],
+      "correct_answer": "A cold-water tributary just a quarter-mile long"
+    }
+  ],
+  "background_read": [
+    "Dams are walls built across rivers to store water, control floods or power machines and generators.",
+    "Fish such as river herring live part of their lives in the ocean and swim up rivers to lay eggs, so a dam can cut them off from the places they need.",
+    "In the Northeast, many small dams were built long ago to power mills that are no longer used.",
+    "Removing old dams lets rivers flow freely again, so fish can return."
+  ],
+  "Article_Structure": [
+    "LEAD: Old dams are being removed in the Northeast, and river herring are returning",
+    "BACKGROUND: Dams block fish like alewives from swimming upstream to lay eggs",
+    "  ├─ HISTORY: Colonists built dams for mills; more than 65,000 mills by the mid-1800s",
+    "  └─ COST: Nearly 20 billion pounds of alewives lost over four centuries",
+    "KEY TREND: More than 2,300 US dams removed since 1912, most in the last 25 years",
+    "EVIDENCE: About six million river herring returned to Maine's Penobscot River in 2025",
+    "  ├─ WHO: Fish biologist Nathan Furey tags alewives on New Hampshire's Bellamy River",
+    "  └─ WHERE: Most removals happen in eastern states, such as Pennsylvania",
+    "OPEN QUESTION: What about the at least 35,000 dams still blocking fish in the Northeast?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Nathan Furey, fish biologist",
+      "description": "Says that for the first time in history, barriers are being removed faster than new ones are built."
+    },
+    {
+      "perspective": "Joshua Royte, Nature Conservancy",
+      "description": "Says even small streams, like a short cold-water tributary, can be really important."
+    }
+  ],
+  "mined_at": "2026-10-18T10:24:33+00:00",
+  "source_published_at": "Fri, 16 Oct 2026 17:15:00 +0000",
+  "source_name": "Smithsonian Science-Nature",
+  "source_url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+  "category": "News",
+  "source_word_count": 1779,
+  "detail_status": "full"
+}

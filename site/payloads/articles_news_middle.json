@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-17-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Fri, 16 Oct 2026 19:30:20 -0400",
-      "mined_at": "2026-10-17T10:25:26+00:00",
-      "source_published_at": "Fri, 16 Oct 2026 19:30:20 -0400",
-      "image_url": "/article_images/news-s3e22009a79e63d97.webp",
+      "id": "2026-10-18-news-1",
+      "source": "BBC News",
+      "time_ago": "Sun, 18 Oct 2026 01:10:25 GMT",
+      "mined_at": "2026-10-18T10:24:33+00:00",
+      "source_published_at": "Sun, 18 Oct 2026 01:10:25 GMT",
+      "image_url": "/article_images/news-s40a70052f11c71ca.webp",
       "category": "News",
-      "title": "Justice Department warns California officials about counting some ballots",
-      "summary": "The Justice Department warned California officials they could face investigation for counting ballots from suspected noncitizens."
+      "title": "Trump Pauses Russia Sanctions, Drawing Criticism From Both Parties",
+      "summary": "President Trump paused new sanctions on Russia for 60 days, and leaders in Ukraine and in both US parties criticized the move."
     },
     {
-      "id": "2026-10-17-news-2",
-      "source": "NPR World",
-      "time_ago": "Sat, 17 Oct 2026 04:20:00 -0400",
-      "mined_at": "2026-10-17T10:25:26+00:00",
-      "source_published_at": "Sat, 17 Oct 2026 04:20:00 -0400",
-      "image_url": "/article_images/news-s7fd4124a99c26d4f.webp",
+      "id": "2026-10-18-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Sat, 17 Oct 2026 14:26:29 -0400",
+      "mined_at": "2026-10-18T10:24:33+00:00",
+      "source_published_at": "Sat, 17 Oct 2026 14:26:29 -0400",
+      "image_url": "/article_images/news-scbc90626f195b88a.webp",
       "category": "News",
-      "title": "Strong winds push fast-moving fire into California coastal towns",
-      "summary": "Wind-driven fires burned homes in Southern California, and about 16,000 people were told to evacuate."
+      "title": "Rallies Across the US Encourage People to Vote Early",
+      "summary": "No Kings rallies across the US urged people to vote early before the November 3 midterm elections."
     },
     {
-      "id": "2026-10-17-news-3",
-      "source": "PBS NewsHour",
-      "time_ago": "Fri, 16 Oct 2026 19:58:48 -0400",
-      "mined_at": "2026-10-17T10:25:26+00:00",
-      "source_published_at": "Fri, 16 Oct 2026 19:58:48 -0400",
-      "image_url": "/article_images/news-s1980492dc192cf3a.webp",
+      "id": "2026-10-18-news-3",
+      "source": "Smithsonian Science-Nature",
+      "time_ago": "Fri, 16 Oct 2026 17:15:00 +0000",
+      "mined_at": "2026-10-18T10:24:33+00:00",
+      "source_published_at": "Fri, 16 Oct 2026 17:15:00 +0000",
+      "image_url": "/article_images/news-se2acc40db72e7cc4.webp",
       "category": "News",
-      "title": "Countries fall short on money to protect nature before big U.N. meeting",
-      "summary": "Countries have raised less than half the money they promised for nature as a U.N. biodiversity meeting begins."
+      "title": "Taking Down Old Dams Is Helping Fish Return to Northeastern Rivers",
+      "summary": "Removing old dams in the Northeast is helping river herring swim back to rivers they once filled."
     }
   ]
 }

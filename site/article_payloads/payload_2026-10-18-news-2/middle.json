@@ -1,0 +1,135 @@
+{
+  "title": "Rallies Across the US Encourage People to Vote Early",
+  "summary": "On Saturday, people gathered in cities and towns across the United States for rallies urging voters to cast their ballots early in the midterm elections. Midterm elections happen halfway through a president's four-year term. This year, Election Day is November 3.\n\nThe rallies were organized by the No Kings network, a group opposed to President Donald Trump. Organizers described the hundreds of events as nonpartisan, meaning not tied to one political party. However, the rallies built on nearly two years of No Kings marches by people unhappy with Trump's presidency.\n\nIn Washington, D.C., a band played for what appeared to be a few hundred people near the Lincoln Memorial. Even though the weather was chilly, many people in caps and coats danced. Signs in the crowd said \"VOTE EARLY\" and \"HANDS OFF MY VOTE!\" Rallies also took place in New York City and Atlanta.\n\nIn Atlanta, City Councilman Michael Julian Bond asked the crowd to encourage others to vote. He compared voting to a superpower. \"You don't see Superman giving up his power,\" he said. \"Be a super hero, use your power. Go to the polls and vote.\"\n\nVoting by mail has become a topic of disagreement. Trump has long been suspicious of mail voting and has claimed, without evidence, that fraud cost him the 2020 presidential election. On Thursday, his administration sued election officials in California. It asked a judge to stop the state from counting mail-in ballots from people the federal government has identified as \"likely\" noncitizens until their immigration status can be confirmed.\n\nThe same day, three Democratic senators wrote to Attorney General Todd Blanche. They asked the Justice Department to promise not to seize ballots or other election materials before the midterm results are certified.",
+  "why_it_matters": "The rallies and the lawsuit show how Americans are debating how voting should work, which shapes who chooses the country's leaders.",
+  "image_url": "/article_images/news-scbc90626f195b88a.webp",
+  "keywords": [
+    {
+      "term": "midterm elections",
+      "explanation": "US elections held halfway through a president's four-year term."
+    },
+    {
+      "term": "nonpartisan",
+      "explanation": "Not supporting or belonging to any one political party."
+    },
+    {
+      "term": "ballots",
+      "explanation": "The papers or forms people use to cast their votes."
+    },
+    {
+      "term": "noncitizens",
+      "explanation": "People living in a country who are not citizens of it."
+    },
+    {
+      "term": "certified",
+      "explanation": "Officially confirmed as correct and final."
+    },
+    {
+      "term": "sued",
+      "explanation": "Took someone to court to settle a disagreement."
+    }
+  ],
+  "questions": [
+    {
+      "question": "When is Election Day this year, according to the article?",
+      "options": [
+        "November 30",
+        "October 17",
+        "November 3",
+        "December 3"
+      ],
+      "correct_answer": "November 3"
+    },
+    {
+      "question": "Which group organized the rallies?",
+      "options": [
+        "The Justice Department",
+        "California election officials",
+        "A band from Atlanta",
+        "The No Kings network"
+      ],
+      "correct_answer": "The No Kings network"
+    },
+    {
+      "question": "What did Atlanta City Councilman Michael Julian Bond compare voting to?",
+      "options": [
+        "A school test",
+        "A superpower",
+        "A sports game",
+        "A long trip"
+      ],
+      "correct_answer": "A superpower"
+    },
+    {
+      "question": "What did the Trump administration ask a judge to do?",
+      "options": [
+        "Ban rallies near the Lincoln Memorial",
+        "Stop California from counting mail-in ballots from people identified as likely noncitizens until their status is confirmed",
+        "Cancel the midterm elections",
+        "Close polling places in California"
+      ],
+      "correct_answer": "Stop California from counting mail-in ballots from people identified as likely noncitizens until their status is confirmed"
+    },
+    {
+      "question": "What did three Democratic senators ask the Justice Department to promise?",
+      "options": [
+        "To move Election Day",
+        "To hold more rallies",
+        "Not to seize ballots or election materials before results are certified",
+        "To count votes faster"
+      ],
+      "correct_answer": "Not to seize ballots or election materials before results are certified"
+    },
+    {
+      "question": "What was the weather like at the Washington, D.C., rally?",
+      "options": [
+        "Very hot",
+        "Chilly",
+        "Snowy",
+        "Stormy"
+      ],
+      "correct_answer": "Chilly"
+    }
+  ],
+  "background_read": [
+    "In the United States, midterm elections take place halfway through a president's four-year term, and voters choose members of Congress and many state leaders.",
+    "Many states let people vote early, in person or by mail, before Election Day.",
+    "The No Kings network has organized marches for nearly two years by people unhappy with President Trump's presidency.",
+    "Mail voting has become a point of disagreement, with Trump questioning it and some senators asking the Justice Department not to seize ballots."
+  ],
+  "Article_Structure": [
+    "LEAD: No Kings rallies across the US urged early voting in the midterms",
+    "KEY EVENT: Hundreds of events held Saturday, billed as nonpartisan",
+    "  ├─ WHERE: Washington, D.C., Atlanta, New York City and other places",
+    "  ├─ WHO: No Kings network; Atlanta Councilman Michael Julian Bond",
+    "  └─ WHEN: Ahead of Election Day on November 3",
+    "CONTEXT: Disagreement over mail voting; Trump administration sued California election officials",
+    "RESPONSE: Three Democratic senators asked the Justice Department not to seize ballots",
+    "OPEN QUESTION: How will the mail-ballot dispute affect the midterms?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "No Kings organizers",
+      "description": "Describe the events as nonpartisan and urge people to vote early."
+    },
+    {
+      "perspective": "Michael Julian Bond, Atlanta councilman",
+      "description": "Says voting is a power people should use, like a superhero."
+    },
+    {
+      "perspective": "President Donald Trump",
+      "description": "Has long been suspicious of mail voting and claimed without evidence that fraud cost him the 2020 election."
+    },
+    {
+      "perspective": "Three Democratic senators",
+      "description": "Asked the Justice Department to promise not to seize ballots before results are certified."
+    }
+  ],
+  "mined_at": "2026-10-18T10:24:33+00:00",
+  "source_published_at": "Sat, 17 Oct 2026 14:26:29 -0400",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/nation/no-kings-rallies-across-u-s-urge-voters-to-cast-ballots-early-ahead-of-midterms",
+  "category": "News",
+  "source_word_count": 480,
+  "detail_status": "full"
+}
