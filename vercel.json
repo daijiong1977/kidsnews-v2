@@ -2,13 +2,36 @@
   "cleanUrls": true,
   "trailingSlash": false,
   "rewrites": [
-    { "source": "/archive/:path*", "destination": "/" }
+    {
+      "source": "/podcast/feed.xml",
+      "destination": "https://lfknsvavhiqrsasdfyrs.supabase.co/storage/v1/object/public/podcast/kidsnews/feed.xml"
+    },
+    {
+      "source": "/archive/:path*",
+      "destination": "/"
+    }
   ],
   "headers": [
     {
+      "source": "/podcast/feed.xml",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, s-maxage=60, must-revalidate"
+        },
+        {
+          "key": "Content-Type",
+          "value": "application/rss+xml; charset=utf-8"
+        }
+      ]
+    },
+    {
       "source": "/(.*\\.(?:jsx|json|webp|png|jpg|svg|css|js|html))",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=300, must-revalidate" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=300, must-revalidate"
+        }
       ]
     }
   ]
