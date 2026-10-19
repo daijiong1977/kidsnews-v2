@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-18-news-1",
+      "id": "2026-10-19-news-1",
       "source": "BBC News",
-      "time_ago": "Sun, 18 Oct 2026 01:10:25 GMT",
-      "mined_at": "2026-10-18T10:24:33+00:00",
-      "source_published_at": "Sun, 18 Oct 2026 01:10:25 GMT",
-      "image_url": "/article_images/news-s40a70052f11c71ca.webp",
+      "time_ago": "Mon, 19 Oct 2026 09:24:33 GMT",
+      "mined_at": "2026-10-19T10:24:10+00:00",
+      "source_published_at": "Mon, 19 Oct 2026 09:24:33 GMT",
+      "image_url": "/article_images/news-s452ddc779ce49296.webp",
       "category": "News",
-      "title": "Trump Pauses Russia Sanctions, Drawing Criticism From Both Parties",
-      "summary": "President Trump paused new sanctions on Russia for 60 days, and leaders in Ukraine and in both US parties criticized the move."
+      "title": "Alberta Votes on Whether to Hold a Separation Referendum",
+      "summary": "People in the Canadian province of Alberta are voting on whether to hold a later vote on leaving Canada."
     },
     {
-      "id": "2026-10-18-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Sat, 17 Oct 2026 14:26:29 -0400",
-      "mined_at": "2026-10-18T10:24:33+00:00",
-      "source_published_at": "Sat, 17 Oct 2026 14:26:29 -0400",
-      "image_url": "/article_images/news-scbc90626f195b88a.webp",
+      "id": "2026-10-19-news-2",
+      "source": "NPR World",
+      "time_ago": "Sun, 18 Oct 2026 22:09:43 -0400",
+      "mined_at": "2026-10-19T10:24:10+00:00",
+      "source_published_at": "Sun, 18 Oct 2026 22:09:43 -0400",
+      "image_url": "/article_images/news-sa95ec9daaf3963ef.webp",
       "category": "News",
-      "title": "Rallies Across the US Encourage People to Vote Early",
-      "summary": "No Kings rallies across the US urged people to vote early before the November 3 midterm elections."
+      "title": "Trump Plans to Close and Rebuild a Public Golf Course in Washington",
+      "summary": "President Trump says a public golf course near the White House will close for about 15 months for renovation, despite a court case."
     },
     {
-      "id": "2026-10-18-news-3",
-      "source": "Smithsonian Science-Nature",
-      "time_ago": "Fri, 16 Oct 2026 17:15:00 +0000",
-      "mined_at": "2026-10-18T10:24:33+00:00",
-      "source_published_at": "Fri, 16 Oct 2026 17:15:00 +0000",
-      "image_url": "/article_images/news-se2acc40db72e7cc4.webp",
+      "id": "2026-10-19-news-3",
+      "source": "BBC News",
+      "time_ago": "Mon, 19 Oct 2026 06:00:18 GMT",
+      "mined_at": "2026-10-19T10:24:10+00:00",
+      "source_published_at": "Mon, 19 Oct 2026 06:00:18 GMT",
+      "image_url": "/article_images/news-s78024a5b4f7dfa25.webp",
       "category": "News",
-      "title": "Taking Down Old Dams Is Helping Fish Return to Northeastern Rivers",
-      "summary": "Removing old dams in the Northeast is helping river herring swim back to rivers they once filled."
+      "title": "Food Aid Program Cuts Help for Families in Gaza",
+      "summary": "The World Food Programme says a lack of money is forcing it to help far fewer people in Gaza."
     }
   ]
 }

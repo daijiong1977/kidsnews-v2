@@ -1,0 +1,125 @@
+{
+  "title": "Food Aid Program Cuts Help for Families in Gaza",
+  "summary": "The World Food Programme, or WFP, is a United Nations agency that gives food to people in need. It says it must \"drastically reduce lifesaving assistance\" in Gaza because it does not have enough money.\n\nThe number of people the WFP helps there will drop by about a third, from 1.6 million to 1.1 million. Hot meals served each day by community kitchens will fall from 250,000 to 150,000. Families in some hard-to-reach areas will get a meal every other day instead of every day. The number of people receiving bags of flour and ration boxes each month will fall from 1.1 million to 600,000.\n\nThe WFP's Palestine director, Shaun Hughes, said the cuts are about money, \"not because the needs are coming down, or because we don't have access - we do.\" The agency received less than half as much funding for its Palestinian work in 2026 as in earlier years. It says it urgently needs $450 million to keep its most important work going for the next six months.\n\nNearly all of Gaza's 2.1 million people have been forced from their homes, and two-thirds depend on food aid. A ceasefire between Hamas and Israel was agreed a year ago, but violence has continued and living conditions remain very hard. Food markets have supplies, but more than 80% of people have no jobs, so few can afford to buy food.\n\nParents in Gaza worry about the change. Mervat al-Satari, a mother of five living in a camp, asked, \"How will we provide for the little ones?\" Sawsan Bahloul, a mother of three, said kitchen portions of pasta or lentils were already too small for her family.\n\nThe cuts come as winter approaches.",
+  "why_it_matters": "Aid groups depend on donations from governments, and when money runs short, families who rely on that help may not get enough to eat. The story shows how funding decisions far away affect children's daily meals.",
+  "image_url": "/article_images/news-s78024a5b4f7dfa25.webp",
+  "keywords": [
+    {
+      "term": "agency",
+      "explanation": "An agency is an organization that does a specific job, often for a government or a group like the United Nations."
+    },
+    {
+      "term": "lifesaving assistance",
+      "explanation": "Lifesaving assistance is help, such as food, that people need to survive."
+    },
+    {
+      "term": "ration",
+      "explanation": "A ration is a fixed amount of food or supplies given to each person or family."
+    },
+    {
+      "term": "ceasefire",
+      "explanation": "A ceasefire is an agreement to stop fighting."
+    },
+    {
+      "term": "funding",
+      "explanation": "Funding is money given to pay for a program or project."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What does the World Food Programme do?",
+      "options": [
+        "It gives food to people in need",
+        "It runs schools in Gaza",
+        "It builds houses",
+        "It sells food to markets"
+      ],
+      "correct_answer": "It gives food to people in need"
+    },
+    {
+      "question": "Why is the WFP cutting aid in Gaza?",
+      "options": [
+        "Because it lost access to Gaza",
+        "Because winter is ending",
+        "Because needs are going down",
+        "Because it does not have enough money"
+      ],
+      "correct_answer": "Because it does not have enough money"
+    },
+    {
+      "question": "How many people will the WFP help after the cuts?",
+      "options": [
+        "600,000 meals",
+        "1.1 million",
+        "2.1 million",
+        "1.6 million"
+      ],
+      "correct_answer": "1.1 million"
+    },
+    {
+      "question": "How many daily hot meals will community kitchens serve after the cuts?",
+      "options": [
+        "1 million",
+        "250,000",
+        "150,000",
+        "50,000"
+      ],
+      "correct_answer": "150,000"
+    },
+    {
+      "question": "Why can few people in Gaza buy food even though markets have supplies?",
+      "options": [
+        "More than 80% of people have no jobs",
+        "Food is not allowed in markets",
+        "Markets are closed at night",
+        "People prefer kitchen meals"
+      ],
+      "correct_answer": "More than 80% of people have no jobs"
+    },
+    {
+      "question": "How much money does the WFP say it urgently needs for the next six months?",
+      "options": [
+        "$45 million",
+        "$450 million",
+        "$4.5 billion",
+        "$1.6 million"
+      ],
+      "correct_answer": "$450 million"
+    }
+  ],
+  "background_read": [
+    "Gaza is a small Palestinian territory along the Mediterranean Sea, and after years of conflict most of its people have been forced from their homes.",
+    "The World Food Programme is the United Nations agency that delivers food in emergencies, and it depends on money donated by governments and others.",
+    "When donations fall, the agency has to decide how to share less food among many people, which can mean smaller or less frequent meals.",
+    "A ceasefire between Hamas and Israel was agreed, but living conditions remain very hard, so many families still depend on aid."
+  ],
+  "Article_Structure": [
+    "LEAD: The WFP must drastically reduce food aid in Gaza because of a funding shortage",
+    "KEY EVENT: help drops from 1.6 million to 1.1 million people",
+    "  ├─ WHO: the UN World Food Programme, director Shaun Hughes, families in Gaza",
+    "  ├─ WHERE: Gaza",
+    "  └─ WHEN: as winter approaches",
+    "DETAILS: fewer hot meals, meals every other day in hard-to-reach areas, fewer flour bags and ration boxes",
+    "CAUSE: less than half the usual funding in 2026; $450 million needed for six months",
+    "CONTEXT: most people displaced, two-thirds rely on aid, more than 80% unemployed",
+    "VOICES: parents worry about feeding their children",
+    "OPEN QUESTION: Will new funding arrive before winter?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "WFP director Shaun Hughes",
+      "description": "He says the cuts are because of finances, not because needs are falling or because the agency lacks access."
+    },
+    {
+      "perspective": "Parents in Gaza",
+      "description": "Mothers such as Mervat al-Satari and Sawsan Bahloul worry the reduced meals will not be enough to feed their children."
+    }
+  ],
+  "mined_at": "2026-10-19T10:24:10+00:00",
+  "source_published_at": "Mon, 19 Oct 2026 06:00:18 GMT",
+  "source_name": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
+  "category": "News",
+  "source_word_count": 647,
+  "detail_status": "full"
+}

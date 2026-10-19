@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-18-science-1",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Sat, 17 Oct 2026 09:05:02 EDT",
-      "mined_at": "2026-10-18T10:24:33+00:00",
-      "source_published_at": "Sat, 17 Oct 2026 09:05:02 EDT",
-      "image_url": "/article_images/science-sc06f52c458670271.webp",
+      "id": "2026-10-19-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Sun, 18 Oct 2026 08:03:18 EDT",
+      "mined_at": "2026-10-19T10:24:10+00:00",
+      "source_published_at": "Sun, 18 Oct 2026 08:03:18 EDT",
+      "image_url": "/article_images/science-sdb6933b1d05aa09c.webp",
       "category": "Science",
-      "title": "This Bird's Wings Are Made for Sharp Turns",
-      "summary": "Scientists found the nightjar's wings are built for sharp turns, and the bird pushes forward even when raising its wings."
+      "title": "Two Giant Black Holes May Be Heading for a Crash",
+      "summary": "Scientists found clues that two giant black holes are circling each other and could merge in as little as 100 years."
     },
     {
-      "id": "2026-10-18-science-2",
-      "source": "Science News Explores",
-      "time_ago": "Fri, 16 Oct 2026 10:30:00 +0000",
-      "mined_at": "2026-10-18T10:24:33+00:00",
-      "source_published_at": "Fri, 16 Oct 2026 10:30:00 +0000",
-      "image_url": "/article_images/science-s4a2df72c7c500e0b.webp",
+      "id": "2026-10-19-science-2",
+      "source": "ScienceDaily All",
+      "time_ago": "Sun, 18 Oct 2026 08:36:21 EDT",
+      "mined_at": "2026-10-19T10:24:10+00:00",
+      "source_published_at": "Sun, 18 Oct 2026 08:36:21 EDT",
+      "image_url": "/article_images/science-sefec4967bb619e3a.webp",
       "category": "Science",
-      "title": "A Desert Plant That Cools Itself by 'Sweating'",
-      "summary": "Scientists found that a Death Valley shrub survives extreme heat by releasing water vapor to cool its leaves."
+      "title": "How Ancient People in Japan Adapted After a Huge Eruption",
+      "summary": "A study shows some ancient communities in Japan shrank after a giant eruption 7,300 years ago, while others moved, adapted and grew."
     },
     {
-      "id": "2026-10-18-science-3",
-      "source": "Popular Mechanics",
-      "time_ago": "Fri, 16 Oct 2026 20:51:31 +0000",
-      "mined_at": "2026-10-18T10:24:33+00:00",
-      "source_published_at": "Fri, 16 Oct 2026 20:51:31 +0000",
-      "image_url": "/article_images/science-s6efe6ae0acf14224.webp",
+      "id": "2026-10-19-science-3",
+      "source": "MIT News",
+      "time_ago": "Thu, 15 Oct 2026 16:50:00 -0400",
+      "mined_at": "2026-10-19T10:24:10+00:00",
+      "source_published_at": "Thu, 15 Oct 2026 16:50:00 -0400",
+      "image_url": "/article_images/science-s5e8b2b974c398da9.webp",
       "category": "Science",
-      "title": "Kodak Once Had a Nuclear Machine in Its Basement",
-      "summary": "From 1975 to 2006, Kodak used a carefully controlled nuclear machine to make neutrons for testing materials."
+      "title": "AI Helps Scientists Understand How Cells Talk",
+      "summary": "MIT scientists built an AI model called IRIS that reads the chemical messages cells send as a body develops."
     }
   ]
 }
