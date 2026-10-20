@@ -1,0 +1,131 @@
+{
+  "title": "Paris Sets Curfews After Weekend of Protests and Rioting",
+  "summary": "Police in Paris, France, set an overnight curfew on Monday in two parts of the city. The goal was to prevent more violence after a weekend of rioting that the report called France's worst in years.\n\nThe trouble began during nationwide protests on Saturday. People were protesting against rising living costs and poor conditions in schools. Mass protests in France are often peaceful, but violence on the edges of some marches led to clashes with police. Rioters targeted city halls, other public buildings and thousands of businesses. Authorities estimated that at least 3,000 businesses were damaged or looted, and at least 2,400 people were arrested across the country.\n\nThe Paris curfew covered the Place de la République, a large public square, and Les Halles, a shopping area. It lasted from 11 p.m. Monday until 6 a.m. Tuesday. Gatherings and demonstrations were also banned from 8 p.m.\n\nSome cities made special rules for young people. In northern France, several cities, including Lille, set a curfew for children and teenagers under 18 from 8 p.m. to 6 a.m. for a few days. Nice, on the French Riviera, also set an overnight curfew for minors.\n\nPrime Minister Sébastien Lecornu had called for \"very limited\" and \"localized\" curfews. He defended how police handled the unrest and said no one was killed.\n\nFrance's interior minister, Laurent Nuñez, offered to resign on Sunday, but President Emmanuel Macron refused. Macron asked him to be fully open about \"failures in planning and intelligence-gathering\" that led to the violence. Macron also asked for new policing methods to end the unrest as quickly as possible.\n\nLecornu said details of the curfews would be shared after talks with city mayors.",
+  "why_it_matters": "The protests show how worries about prices and schools can lead to large public anger, and how governments try to restore safety while still allowing people to speak out.",
+  "image_url": "/article_images/news-sb852dcc78fbb53b3.webp",
+  "keywords": [
+    {
+      "term": "curfew",
+      "explanation": "A rule that people must stay off the streets or out of certain places during set hours."
+    },
+    {
+      "term": "nationwide",
+      "explanation": "Happening across a whole country, not just one city."
+    },
+    {
+      "term": "looted",
+      "explanation": "Robbed during a time of disorder, when people take goods without paying."
+    },
+    {
+      "term": "localized",
+      "explanation": "Limited to a small area instead of covering everywhere."
+    },
+    {
+      "term": "unrest",
+      "explanation": "A time when many people are angry and protests or disorder break out."
+    },
+    {
+      "term": "intelligence-gathering",
+      "explanation": "Collecting information to learn about possible dangers before they happen."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What were people protesting about on Saturday?",
+      "options": [
+        "A new holiday",
+        "Traffic rules",
+        "Rising living costs and poor school conditions",
+        "A sports result"
+      ],
+      "correct_answer": "Rising living costs and poor school conditions"
+    },
+    {
+      "question": "Which two Paris areas did the curfew cover?",
+      "options": [
+        "Montmartre and the airport",
+        "Place de la République and Les Halles",
+        "The Seine and Versailles",
+        "The Eiffel Tower and the Louvre"
+      ],
+      "correct_answer": "Place de la République and Les Halles"
+    },
+    {
+      "question": "How many businesses did authorities estimate were damaged or looted?",
+      "options": [
+        "At least 30,000",
+        "At least 300",
+        "At least 3,000",
+        "At least 30"
+      ],
+      "correct_answer": "At least 3,000"
+    },
+    {
+      "question": "What special rule did Lille and other northern cities make?",
+      "options": [
+        "A curfew for children and teenagers under 18",
+        "A ban on all cars",
+        "A curfew only for police",
+        "Closing every school"
+      ],
+      "correct_answer": "A curfew for children and teenagers under 18"
+    },
+    {
+      "question": "What did President Macron do when the interior minister offered to resign?",
+      "options": [
+        "He accepted it right away",
+        "He called a new election",
+        "He resigned himself",
+        "He refused it"
+      ],
+      "correct_answer": "He refused it"
+    },
+    {
+      "question": "What did Prime Minister Lecornu say about the unrest?",
+      "options": [
+        "No one was killed",
+        "The police did a poor job",
+        "Many people were killed",
+        "The protests were canceled"
+      ],
+      "correct_answer": "No one was killed"
+    }
+  ],
+  "background_read": [
+    "In France, the president is the head of state, while the prime minister leads the government and the interior minister is in charge of police and public safety.",
+    "Large street protests are a common way for people in France to show anger about government decisions, prices or public services such as schools.",
+    "Most protest marches are peaceful, but when small groups turn violent, officials sometimes use curfews to keep people off the streets at night.",
+    "A curfew is meant to be temporary, giving police time to restore calm while leaders look into what went wrong."
+  ],
+  "Article_Structure": [
+    "LEAD: Paris set an overnight curfew in two areas after France's worst rioting in years",
+    "KEY EVENT: Saturday's nationwide protests over living costs and school conditions turned violent on the edges",
+    "  ├─ WHO: Paris police, Prime Minister Sébastien Lecornu, Interior Minister Laurent Nuñez, President Emmanuel Macron",
+    "  ├─ WHERE: Paris, Lille, Nice and other French cities",
+    "  └─ WHEN: Curfew from 11 p.m. Monday to 6 a.m. Tuesday",
+    "EVIDENCE: At least 3,000 businesses damaged or looted; at least 2,400 arrests",
+    "RESPONSE: Youth curfews in some cities; Macron orders transparency about planning failures and new policing tactics",
+    "OPEN QUESTION: Will the curfews and new tactics end the unrest?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Prime Minister Sébastien Lecornu",
+      "description": "Called for very limited, localized curfews and defended the police, saying no one was killed."
+    },
+    {
+      "perspective": "President Emmanuel Macron",
+      "description": "Refused the interior minister's resignation and demanded transparency about planning and intelligence failures plus new policing tactics."
+    },
+    {
+      "perspective": "Protesters",
+      "description": "Marched against rising living costs and poor conditions in schools."
+    }
+  ],
+  "mined_at": "2026-10-20T10:21:41+00:00",
+  "source_published_at": "Mon, 19 Oct 2026 14:31:55 EDT",
+  "source_name": "CBC World",
+  "source_url": "https://www.cbc.ca/news/world/paris-france-protests-rioting-looting-curfew-9.7387103?cmp=rss",
+  "category": "News",
+  "source_word_count": 489,
+  "detail_status": "full"
+}

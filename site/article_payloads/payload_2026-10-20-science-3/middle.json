@@ -1,0 +1,122 @@
+{
+  "title": "A Scientist Tests Tattoo Ink That Can Disappear and Come Back",
+  "summary": "Tattoos are usually permanent. But engineers at the University of Colorado Boulder are working on a new kind of tattoo ink that can be seen only some of the time. Its color changes depending on whether it is hit by ultraviolet (UV) light or ordinary visible light.\n\nThe team described the ink in a study published this month in the journal Matter & Light. They tested it in the lab on silicone and pig skin. One of the inventors, nanoscientist Carson Bruns, also tattooed his own leg with it. He called testing on himself \"almost a tradition.\" Bruns earlier created a product called \"Magic Ink\" that turns magenta in UV light.\n\nThe new ink comes in three colors: yellow, blue and magenta. It works using the same ideas behind glasses lenses that darken in sunlight. Each dye is made of tiny beads of acrylic glass. Inside the beads are special chemicals called photochromes, which absorb certain kinds of light. When the dye absorbs UV light, it becomes clear and seems to vanish. When it later absorbs visible light, the chemicals change back, and the original color returns.\n\nBruns tattooed his leg over about 12 months using different color combinations. All of them responded to light as the team expected. The ink also kept working for more than two years.\n\nThe researchers hope the ink could be more than a neat trick. In the future, a version might help doctors make temporary marks on the skin during radiation treatments, so they can aim accurately.\n\nFor now, the ink is only for laboratory use. More safety tests are needed before anyone else can use it.",
+  "why_it_matters": "Light-switching inks show how chemistry can create materials that change on command, which could someday help doctors mark skin accurately without a permanent tattoo.",
+  "image_url": "/article_images/science-s7cc7f2b4d1364058.webp",
+  "keywords": [
+    {
+      "term": "ultraviolet",
+      "explanation": "A kind of light from the sun that our eyes cannot see but that can affect skin and some materials."
+    },
+    {
+      "term": "nanoscientist",
+      "explanation": "A scientist who studies and builds things that are extremely tiny, smaller than a cell."
+    },
+    {
+      "term": "photochromes",
+      "explanation": "Chemicals that change color when they absorb certain kinds of light."
+    },
+    {
+      "term": "acrylic",
+      "explanation": "A clear, tough plastic that can look like glass."
+    },
+    {
+      "term": "silicone",
+      "explanation": "A soft, rubbery material often used in labs to copy the feel of skin."
+    },
+    {
+      "term": "radiation",
+      "explanation": "Energy sent out as waves or particles; doctors use carefully aimed radiation to treat some illnesses."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What makes the new tattoo ink seem to vanish?",
+      "options": [
+        "Absorbing ultraviolet (UV) light",
+        "Drinking water",
+        "Cold weather",
+        "Washing it with soap"
+      ],
+      "correct_answer": "Absorbing ultraviolet (UV) light"
+    },
+    {
+      "question": "What brings the ink's color back?",
+      "options": [
+        "Nothing; it never returns",
+        "Heat from a stove",
+        "Absorbing ordinary visible light",
+        "A magnet"
+      ],
+      "correct_answer": "Absorbing ordinary visible light"
+    },
+    {
+      "question": "Which three colors does the ink come in?",
+      "options": [
+        "Orange, purple and pink",
+        "White, gray and brown",
+        "Red, green and black",
+        "Yellow, blue and magenta"
+      ],
+      "correct_answer": "Yellow, blue and magenta"
+    },
+    {
+      "question": "Where did Carson Bruns test the ink on himself?",
+      "options": [
+        "On his arm",
+        "On his leg",
+        "On his hand",
+        "On his back"
+      ],
+      "correct_answer": "On his leg"
+    },
+    {
+      "question": "How long did the ink keep working?",
+      "options": [
+        "Ten years",
+        "About one week",
+        "More than two years",
+        "Only a few hours"
+      ],
+      "correct_answer": "More than two years"
+    },
+    {
+      "question": "What future medical use do the researchers hope for?",
+      "options": [
+        "Replacing bandages",
+        "Curing colds",
+        "Temporary skin marks to help aim radiation treatments",
+        "Coloring hair"
+      ],
+      "correct_answer": "Temporary skin marks to help aim radiation treatments"
+    }
+  ],
+  "background_read": [
+    "A tattoo is made by placing tiny drops of ink under the top layer of skin, which is why most tattoos last for many years.",
+    "Light comes in many kinds, and ultraviolet light is one our eyes cannot see, while visible light is the kind we see as colors.",
+    "Some chemicals can switch between two forms when they absorb certain light, and that switch can change what color they look.",
+    "Before any new product is used on people, scientists must run safety tests to make sure it does not cause harm."
+  ],
+  "Article_Structure": [
+    "LEAD: University of Colorado Boulder engineers are developing tattoo ink that can appear and disappear",
+    "KEY EVENT: Study published in the journal Matter & Light",
+    "  ├─ WHO: Nanoscientist Carson Bruns and his team",
+    "  └─ HOW: Tiny acrylic beads filled with photochromes react to UV and visible light",
+    "EVIDENCE: Tests on silicone and pig skin, plus Bruns' own leg over about 12 months; ink worked for more than two years",
+    "FUTURE: Possible temporary marks for radiation treatments",
+    "OPEN QUESTION: Will the ink pass the safety tests needed before wider use?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Carson Bruns",
+      "description": "Testing the ink on himself is \"almost a tradition.\""
+    }
+  ],
+  "mined_at": "2026-10-20T10:21:41+00:00",
+  "source_published_at": "Mon, 19 Oct 2026 15:57:03 -0400",
+  "source_name": "Popular Science",
+  "source_url": "https://www.popsci.com/science/disappearing-tattoo-ink/",
+  "category": "Science",
+  "source_word_count": 415,
+  "detail_status": "full"
+}

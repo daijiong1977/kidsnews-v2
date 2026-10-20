@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-19-science-1",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Sun, 18 Oct 2026 08:03:18 EDT",
-      "mined_at": "2026-10-19T10:24:10+00:00",
-      "source_published_at": "Sun, 18 Oct 2026 08:03:18 EDT",
-      "image_url": "/article_images/science-sdb6933b1d05aa09c.webp",
+      "id": "2026-10-20-science-1",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Mon, 19 Oct 2026 09:09:18 EDT",
+      "mined_at": "2026-10-20T10:21:41+00:00",
+      "source_published_at": "Mon, 19 Oct 2026 09:09:18 EDT",
+      "image_url": "/article_images/science-s7d17847d1360130a.webp",
       "category": "Science",
-      "title": "Two Giant Black Holes May Be Heading for a Crash",
-      "summary": "Scientists found clues that two giant black holes are circling each other and could merge in as little as 100 years."
+      "title": "A Landslide in Alaska Made a Giant Tsunami",
+      "summary": "Scientists say warning signs came before a landslide made a record-high tsunami in Alaska."
     },
     {
-      "id": "2026-10-19-science-2",
-      "source": "ScienceDaily All",
-      "time_ago": "Sun, 18 Oct 2026 08:36:21 EDT",
-      "mined_at": "2026-10-19T10:24:10+00:00",
-      "source_published_at": "Sun, 18 Oct 2026 08:36:21 EDT",
-      "image_url": "/article_images/science-sefec4967bb619e3a.webp",
+      "id": "2026-10-20-science-2",
+      "source": "Science News Explores",
+      "time_ago": "Mon, 19 Oct 2026 10:30:00 +0000",
+      "mined_at": "2026-10-20T10:21:41+00:00",
+      "source_published_at": "Mon, 19 Oct 2026 10:30:00 +0000",
+      "image_url": "/article_images/science-s3f569c85f8cecf93.webp",
       "category": "Science",
-      "title": "How Ancient People in Japan Adapted After a Huge Eruption",
-      "summary": "A study shows some ancient communities in Japan shrank after a giant eruption 7,300 years ago, while others moved, adapted and grew."
+      "title": "Scientists Find Missing Matter Hiding Around Galaxies",
+      "summary": "Flashes of radio waves helped scientists find thin gas clouds holding some of the universe's missing matter."
     },
     {
-      "id": "2026-10-19-science-3",
-      "source": "MIT News",
-      "time_ago": "Thu, 15 Oct 2026 16:50:00 -0400",
-      "mined_at": "2026-10-19T10:24:10+00:00",
-      "source_published_at": "Thu, 15 Oct 2026 16:50:00 -0400",
-      "image_url": "/article_images/science-s5e8b2b974c398da9.webp",
+      "id": "2026-10-20-science-3",
+      "source": "Popular Science",
+      "time_ago": "Mon, 19 Oct 2026 15:57:03 -0400",
+      "mined_at": "2026-10-20T10:21:41+00:00",
+      "source_published_at": "Mon, 19 Oct 2026 15:57:03 -0400",
+      "image_url": "/article_images/science-s7cc7f2b4d1364058.webp",
       "category": "Science",
-      "title": "AI Helps Scientists Understand How Cells Talk",
-      "summary": "MIT scientists built an AI model called IRIS that reads the chemical messages cells send as a body develops."
+      "title": "New Tattoo Ink Can Vanish and Come Back",
+      "summary": "Scientists made tattoo ink that fades under UV light and comes back in normal light."
     }
   ]
 }

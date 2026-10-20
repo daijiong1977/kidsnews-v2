@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-19-fun-1",
-      "source": "Variety",
-      "time_ago": "Mon, 19 Oct 2026 08:30:00 +0000",
-      "mined_at": "2026-10-19T10:24:10+00:00",
-      "source_published_at": "Mon, 19 Oct 2026 08:30:00 +0000",
-      "image_url": "/article_images/fun-s3e295d359690b29a.webp",
+      "id": "2026-10-20-fun-1",
+      "source": "Popular Science",
+      "time_ago": "Mon, 19 Oct 2026 11:00:00 -0400",
+      "mined_at": "2026-10-20T10:21:41+00:00",
+      "source_published_at": "Mon, 19 Oct 2026 11:00:00 -0400",
+      "image_url": "/article_images/fun-s5c01cbc9deeb455d.webp",
       "category": "Fun",
-      "title": "Funny 'Barry Loser' Books Are Being Turned Into a Cartoon",
-      "summary": "The bestselling 'Barry Loser' children's books are being made into an animated TV series, with production aimed for 2027."
+      "title": "This Tiny Snake Escapes Danger by Rolling Like a Wheel",
+      "summary": "High-speed cameras show how the dwarf reed snake rolls like a wheel to escape danger while keeping its head steady."
     },
     {
-      "id": "2026-10-19-fun-2",
-      "source": "Variety",
-      "time_ago": "Mon, 19 Oct 2026 09:01:00 +0000",
-      "mined_at": "2026-10-19T10:24:10+00:00",
-      "source_published_at": "Mon, 19 Oct 2026 09:01:00 +0000",
-      "image_url": "/article_images/fun-s1483fd4018818581.webp",
+      "id": "2026-10-20-fun-2",
+      "source": "BBC Tennis",
+      "time_ago": "Tue, 20 Oct 2026 09:24:43 GMT",
+      "mined_at": "2026-10-20T10:21:41+00:00",
+      "source_published_at": "Tue, 20 Oct 2026 09:24:43 GMT",
+      "image_url": "/article_images/fun-s6a720da77498fbc1.webp",
       "category": "Fun",
-      "title": "Two K-Pop Stars Team Up for Their First Duo Album",
-      "summary": "Jeonghan and Joshua of the K-pop group Seventeen have released 'Dreamscape,' their first album as the duo JxJ."
+      "title": "Katie Boulter Wins Rain-Delayed Match at the Japan Open",
+      "summary": "Katie Boulter beat home favorite Himeno Sakatsume 6-3, 6-1 at the Japan Open after rain paused the match overnight."
     },
     {
-      "id": "2026-10-19-fun-3",
-      "source": "Rolling Stone Music",
-      "time_ago": "Sun, 18 Oct 2026 20:03:36 +0000",
-      "mined_at": "2026-10-19T10:24:10+00:00",
-      "source_published_at": "Sun, 18 Oct 2026 20:03:36 +0000",
-      "image_url": "/article_images/fun-sb58280080a7d1a09.webp",
+      "id": "2026-10-20-fun-3",
+      "source": "Popular Science",
+      "time_ago": "Mon, 19 Oct 2026 12:27:00 -0400",
+      "mined_at": "2026-10-20T10:21:41+00:00",
+      "source_published_at": "Mon, 19 Oct 2026 12:27:00 -0400",
+      "image_url": "/article_images/fun-s23b1495d217997df.webp",
       "category": "Fun",
-      "title": "Rock Stars Help a Music School for Kids Celebrate 25 Years",
-      "summary": "Red Hot Chili Peppers and Foo Fighters played a benefit concert for a Los Angeles music school that gives lessons to kids, including free lessons."
+      "title": "Japan Sends a Spacecraft to Collect Pieces of a Mars Moon",
+      "summary": "Japan's MMX mission aims to bring pieces of the Mars moon Phobos back to Earth to learn how it formed."
     }
   ]
 }

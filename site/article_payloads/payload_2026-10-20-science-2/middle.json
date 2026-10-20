@@ -1,0 +1,126 @@
+{
+  "title": "Scientists Track Down Missing Matter Hiding Around Galaxies",
+  "summary": "For years, scientists have calculated how much matter should exist in the universe. But more than half of the ordinary matter did not seem to show up in telescope images. Now researchers say some of it is hiding in huge, faint clouds of gas around galaxies.\n\nThis missing matter is called ordinary because it is made of everyday particles, like the protons and neutrons that make up stars, planets and people. It is different from dark matter, a mysterious substance that does not give off, reflect or absorb light.\n\n\"The missing matter exists as a thin gas that's very spread out,\" said Haochen Wang, a PhD student at the Massachusetts Institute of Technology who led the new study. In some places, there is less than one proton or electron in a space about the size of a washing machine. That makes it very hard to find.\n\nTo search for it, Wang's team used fast radio bursts, or FRBs. These are very strong flashes of radio waves from far away that last about one-thousandth of a second. As an FRB travels toward Earth, it passes through gas. The gas slows longer radio waves a bit more than shorter ones, a little like a prism splitting light into a rainbow. The more gas the signal passes through, the more stretched out it becomes when it reaches telescopes.\n\nBy measuring this stretching, Wang's team measured how far gas typically spreads around galaxies. They say it is the first definitive detection of the missing ordinary matter. The study appeared in the journal Physical Review Letters.\n\nNot everyone agrees it is the first. Astronomer Vikram Ravi of Caltech said earlier work hinted at the gas, and some numbers could be off. Still, he called the study \"a great signpost of what is to come.\"",
+  "why_it_matters": "Finding the missing ordinary matter helps scientists check whether their picture of how the universe is built is correct.",
+  "image_url": "/article_images/science-s3f569c85f8cecf93.webp",
+  "keywords": [
+    {
+      "term": "ordinary",
+      "explanation": "Here it means normal matter made of everyday particles, the kind that makes up stars, planets and people."
+    },
+    {
+      "term": "protons",
+      "explanation": "Tiny particles with a positive charge found in the center of every atom."
+    },
+    {
+      "term": "dark matter",
+      "explanation": "An invisible kind of matter that scientists detect only by the pull of its gravity."
+    },
+    {
+      "term": "fast radio bursts",
+      "explanation": "Very short, powerful flashes of radio waves that come from far out in space."
+    },
+    {
+      "term": "prism",
+      "explanation": "A clear, shaped piece of glass that splits white light into a rainbow of colors."
+    },
+    {
+      "term": "definitive",
+      "explanation": "Final and certain, leaving little room for doubt."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What did scientists find was hiding some of the missing ordinary matter?",
+      "options": [
+        "Huge, faint clouds of gas around galaxies",
+        "Black holes",
+        "Comets near Earth",
+        "Bright new stars"
+      ],
+      "correct_answer": "Huge, faint clouds of gas around galaxies"
+    },
+    {
+      "question": "How is ordinary matter different from dark matter?",
+      "options": [
+        "Ordinary matter is made of everyday particles like protons and neutrons",
+        "Dark matter is made of water",
+        "Ordinary matter cannot be found anywhere",
+        "There is no difference"
+      ],
+      "correct_answer": "Ordinary matter is made of everyday particles like protons and neutrons"
+    },
+    {
+      "question": "About how long does a fast radio burst last?",
+      "options": [
+        "About one-thousandth of a second",
+        "One day",
+        "One full minute",
+        "One hour"
+      ],
+      "correct_answer": "About one-thousandth of a second"
+    },
+    {
+      "question": "What happens to a radio burst's signal as it passes through more gas?",
+      "options": [
+        "It turns into visible light",
+        "It disappears completely",
+        "It speeds up",
+        "It becomes more stretched out"
+      ],
+      "correct_answer": "It becomes more stretched out"
+    },
+    {
+      "question": "Who led the new study?",
+      "options": [
+        "Haochen Wang",
+        "Vikram Ravi",
+        "Lord Kelvin",
+        "Liam Connor"
+      ],
+      "correct_answer": "Haochen Wang"
+    },
+    {
+      "question": "What did Vikram Ravi say about the new work?",
+      "options": [
+        "It is \"a great signpost of what is to come\"",
+        "It proves dark matter does not exist",
+        "It was done on Mars",
+        "It is completely wrong"
+      ],
+      "correct_answer": "It is \"a great signpost of what is to come\""
+    }
+  ],
+  "background_read": [
+    "Everything we can see, from people to planets to stars, is made of atoms built from particles such as protons, neutrons and electrons.",
+    "Astronomers can estimate how much ordinary matter should exist in the universe, but much of it has been hard to spot because it does not shine brightly.",
+    "Radio waves are a kind of light our eyes cannot see, and telescopes can detect them coming from very distant places in space.",
+    "When light or radio waves pass through gas, the gas can change the signal slightly, which lets scientists learn about matter they cannot see directly."
+  ],
+  "Article_Structure": [
+    "LEAD: More than half of the universe's ordinary matter seemed missing from telescope images",
+    "KEY EVENT: Scientists say some of it is thin gas spread in vast clouds around galaxies",
+    "  ├─ WHO: Haochen Wang's team at MIT",
+    "  └─ HOW: Measuring how fast radio bursts get stretched as they pass through gas",
+    "EVIDENCE: Study published in Physical Review Letters",
+    "DEBATE: Vikram Ravi says earlier work hinted at the gas and some numbers could be off",
+    "OPEN QUESTION: How precisely can future studies map all the missing matter?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Haochen Wang, MIT",
+      "description": "The missing matter exists as a thin, very spread-out gas, and his team says this is the first definitive detection."
+    },
+    {
+      "perspective": "Vikram Ravi, Caltech",
+      "description": "Hesitant to call it the first because earlier work hinted at the gas and some numbers could be off, but calls it a great signpost."
+    }
+  ],
+  "mined_at": "2026-10-20T10:21:41+00:00",
+  "source_published_at": "Mon, 19 Oct 2026 10:30:00 +0000",
+  "source_name": "Science News Explores",
+  "source_url": "https://www.snexplores.org/article/missing-matter-clouds-outside-galaxies",
+  "category": "Science",
+  "source_word_count": 786,
+  "detail_status": "full"
+}

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-19-news-1",
-      "source": "BBC News",
-      "time_ago": "Mon, 19 Oct 2026 09:24:33 GMT",
-      "mined_at": "2026-10-19T10:24:10+00:00",
-      "source_published_at": "Mon, 19 Oct 2026 09:24:33 GMT",
-      "image_url": "/article_images/news-s452ddc779ce49296.webp",
+      "id": "2026-10-20-news-1",
+      "source": "PBS NewsHour",
+      "time_ago": "Mon, 19 Oct 2026 18:35:56 -0400",
+      "mined_at": "2026-10-20T10:21:41+00:00",
+      "source_published_at": "Mon, 19 Oct 2026 18:35:56 -0400",
+      "image_url": "/article_images/news-s4e00af047dac914c.webp",
       "category": "News",
-      "title": "Alberta Votes on a Big Question About Canada",
-      "summary": "People in Alberta, Canada, are voting on whether to hold a later vote about leaving Canada."
+      "title": "Ohio Is a Close Race Again This Election",
+      "summary": "Ohio's races for governor and Senate are too close to call as voters worry about prices."
     },
     {
-      "id": "2026-10-19-news-2",
+      "id": "2026-10-20-news-2",
       "source": "NPR World",
-      "time_ago": "Sun, 18 Oct 2026 22:09:43 -0400",
-      "mined_at": "2026-10-19T10:24:10+00:00",
-      "source_published_at": "Sun, 18 Oct 2026 22:09:43 -0400",
-      "image_url": "/article_images/news-sa95ec9daaf3963ef.webp",
+      "time_ago": "Mon, 19 Oct 2026 05:00:00 -0400",
+      "mined_at": "2026-10-20T10:21:41+00:00",
+      "source_published_at": "Mon, 19 Oct 2026 05:00:00 -0400",
+      "image_url": "/article_images/news-s74d2c9ad36f75201.webp",
       "category": "News",
-      "title": "Trump Wants to Rebuild a Public Golf Course in Washington",
-      "summary": "President Trump plans to close a public golf course in Washington for about 15 months to rebuild it, but a court case is still going on."
+      "title": "A Hidden Ocean Wave Is Raising the Sea on the West Coast",
+      "summary": "A slow, hidden ocean wave is raising the sea on the West Coast, and more are on the way."
     },
     {
-      "id": "2026-10-19-news-3",
-      "source": "BBC News",
-      "time_ago": "Mon, 19 Oct 2026 06:00:18 GMT",
-      "mined_at": "2026-10-19T10:24:10+00:00",
-      "source_published_at": "Mon, 19 Oct 2026 06:00:18 GMT",
-      "image_url": "/article_images/news-s78024a5b4f7dfa25.webp",
+      "id": "2026-10-20-news-3",
+      "source": "CBC World",
+      "time_ago": "Mon, 19 Oct 2026 14:31:55 EDT",
+      "mined_at": "2026-10-20T10:21:41+00:00",
+      "source_published_at": "Mon, 19 Oct 2026 14:31:55 EDT",
+      "image_url": "/article_images/news-sb852dcc78fbb53b3.webp",
       "category": "News",
-      "title": "Food Program Must Help Fewer Families in Gaza",
-      "summary": "A UN food program says it has run short of money and must help far fewer people in Gaza."
+      "title": "Paris Sets Night Curfews After Weekend Protests",
+      "summary": "French cities set curfews after weekend protests about prices and schools turned violent."
     }
   ]
 }
