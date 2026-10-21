@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-20-fun-1",
-      "source": "Popular Science",
-      "time_ago": "Mon, 19 Oct 2026 11:00:00 -0400",
-      "mined_at": "2026-10-20T10:21:41+00:00",
-      "source_published_at": "Mon, 19 Oct 2026 11:00:00 -0400",
-      "image_url": "/article_images/fun-s5c01cbc9deeb455d.webp",
+      "id": "2026-10-21-fun-1",
+      "source": "/Film",
+      "time_ago": "Tue, 20 Oct 2026 23:27:30 +0000",
+      "mined_at": "2026-10-21T10:22:31+00:00",
+      "source_published_at": "Tue, 20 Oct 2026 23:27:30 +0000",
+      "image_url": "/article_images/fun-s1dd74d9151a1adc7.webp",
       "category": "Fun",
-      "title": "This Tiny Snake Escapes Danger by Rolling Like a Wheel",
-      "summary": "High-speed cameras show how the dwarf reed snake rolls like a wheel to escape danger while keeping its head steady."
+      "title": "'Hocus Pocus' Tops Disney+ as Halloween Nears",
+      "summary": "The 1993 Halloween movie 'Hocus Pocus' is the No. 1 movie on Disney+, and a third film in the series is in the works."
     },
     {
-      "id": "2026-10-20-fun-2",
-      "source": "BBC Tennis",
-      "time_ago": "Tue, 20 Oct 2026 09:24:43 GMT",
-      "mined_at": "2026-10-20T10:21:41+00:00",
-      "source_published_at": "Tue, 20 Oct 2026 09:24:43 GMT",
-      "image_url": "/article_images/fun-s6a720da77498fbc1.webp",
+      "id": "2026-10-21-fun-2",
+      "source": "Kotaku",
+      "time_ago": "Tue, 20 Oct 2026 20:41:34 +0000",
+      "mined_at": "2026-10-21T10:22:31+00:00",
+      "source_published_at": "Tue, 20 Oct 2026 20:41:34 +0000",
+      "image_url": "/article_images/fun-sba86c2a2363c64c8.webp",
       "category": "Fun",
-      "title": "Katie Boulter Wins Rain-Delayed Match at the Japan Open",
-      "summary": "Katie Boulter beat home favorite Himeno Sakatsume 6-3, 6-1 at the Japan Open after rain paused the match overnight."
+      "title": "Replaying 'Kingdom Hearts': A Fan Misses the Final Fantasy Friends",
+      "summary": "A Kotaku writer replaying 'Kingdom Hearts' wishes the series would again feature 'Final Fantasy' characters as much as the first game did."
     },
     {
-      "id": "2026-10-20-fun-3",
-      "source": "Popular Science",
-      "time_ago": "Mon, 19 Oct 2026 12:27:00 -0400",
-      "mined_at": "2026-10-20T10:21:41+00:00",
-      "source_published_at": "Mon, 19 Oct 2026 12:27:00 -0400",
-      "image_url": "/article_images/fun-s23b1495d217997df.webp",
+      "id": "2026-10-21-fun-3",
+      "source": "/Film",
+      "time_ago": "Wed, 21 Oct 2026 02:00:00 +0000",
+      "mined_at": "2026-10-21T10:22:31+00:00",
+      "source_published_at": "Wed, 21 Oct 2026 02:00:00 +0000",
+      "image_url": "/article_images/fun-se0b1e4cb99215bc4.webp",
       "category": "Fun",
-      "title": "Japan Sends a Spacecraft to Collect Pieces of a Mars Moon",
-      "summary": "Japan's MMX mission aims to bring pieces of the Mars moon Phobos back to Earth to learn how it formed."
+      "title": "'VisionQuest' Takes a Side in a Big 'WandaVision' Debate",
+      "summary": "In Episode 3 of Marvel's 'VisionQuest,' Vision gives his view on Wanda's actions in 'WandaVision,' a topic fans have long debated."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-20-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Mon, 19 Oct 2026 18:35:56 -0400",
-      "mined_at": "2026-10-20T10:21:41+00:00",
-      "source_published_at": "Mon, 19 Oct 2026 18:35:56 -0400",
-      "image_url": "/article_images/news-s4e00af047dac914c.webp",
-      "category": "News",
-      "title": "Ohio Becomes a Midterm Battleground Again",
-      "summary": "Ohio's races for governor and U.S. Senate are toss-ups, as voters weigh the cost of living before Election Day."
-    },
-    {
-      "id": "2026-10-20-news-2",
+      "id": "2026-10-21-news-1",
       "source": "NPR World",
-      "time_ago": "Mon, 19 Oct 2026 05:00:00 -0400",
-      "mined_at": "2026-10-20T10:21:41+00:00",
-      "source_published_at": "Mon, 19 Oct 2026 05:00:00 -0400",
-      "image_url": "/article_images/news-s74d2c9ad36f75201.webp",
+      "time_ago": "Wed, 21 Oct 2026 01:00:00 -0400",
+      "mined_at": "2026-10-21T10:22:31+00:00",
+      "source_published_at": "Wed, 21 Oct 2026 01:00:00 -0400",
+      "image_url": "/article_images/news-scbcd9fca0d6babe5.webp",
       "category": "News",
-      "title": "A Giant Hidden Ocean Wave Is Raising Sea Levels on the West Coast",
-      "summary": "A slow, hidden ocean wave linked to El Niño is raising sea levels on the West Coast, and more are expected."
+      "title": "UN Report: U.S. Climate Pollution Rose Sharply Last Year",
+      "summary": "A UN report says the U.S. was the only major economy where climate pollution rose sharply last year; the U.S. government disagrees with the report."
     },
     {
-      "id": "2026-10-20-news-3",
-      "source": "CBC World",
-      "time_ago": "Mon, 19 Oct 2026 14:31:55 EDT",
-      "mined_at": "2026-10-20T10:21:41+00:00",
-      "source_published_at": "Mon, 19 Oct 2026 14:31:55 EDT",
-      "image_url": "/article_images/news-sb852dcc78fbb53b3.webp",
+      "id": "2026-10-21-news-2",
+      "source": "NPR World",
+      "time_ago": "Wed, 21 Oct 2026 02:05:18 -0400",
+      "mined_at": "2026-10-21T10:22:31+00:00",
+      "source_published_at": "Wed, 21 Oct 2026 02:05:18 -0400",
+      "image_url": "/article_images/news-s69f11108f5b2378f.webp",
       "category": "News",
-      "title": "Paris Sets Curfews After Weekend of Protests and Rioting",
-      "summary": "Paris and other French cities set curfews after weekend protests about living costs and school conditions turned into rioting."
+      "title": "FAA Approves Boeing's Biggest 737 Max Jet After Years of Delays",
+      "summary": "The FAA approved Boeing's 737 Max 10, the largest 737 Max jet, for passenger service after nearly a decade of delays."
+    },
+    {
+      "id": "2026-10-21-news-3",
+      "source": "CBC World",
+      "time_ago": "Tue, 20 Oct 2026 15:59:36 EDT",
+      "mined_at": "2026-10-21T10:22:31+00:00",
+      "source_published_at": "Tue, 20 Oct 2026 15:59:36 EDT",
+      "image_url": "/article_images/news-s4da57f0be99c4110.webp",
+      "category": "News",
+      "title": "Lawsuit Challenges Trump's Tariffs on Canadian Goods",
+      "summary": "A U.S. food importer has sued over Trump's tariffs on Canadian goods, saying a 1930 trade law was used beyond the president's power."
     }
   ]
 }

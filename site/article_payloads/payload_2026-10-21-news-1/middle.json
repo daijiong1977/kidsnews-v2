@@ -1,0 +1,126 @@
+{
+  "title": "UN Report: U.S. Climate Pollution Rose Sharply Last Year",
+  "summary": "A new report from United Nations scientists says countries are not doing enough to cut the pollution that causes climate change. The report says the United States stands out. It was the only major economy where planet-warming pollution increased dramatically last year.\n\nThe report found that the U.S. was tied with Russia for the most climate pollution per person among the G20, a group of big economies. China releases much more pollution in total, but it has more than four times as many people. Around the world, overall emissions stayed about the same as the year before.\n\nAccording to the report, U.S. emissions grew because people used more electricity and because of Trump administration policies that support burning coal, oil and gas. The administration has kept some coal power plants open longer, rolled back car fuel-efficiency rules and ended tax credits for solar and wind projects. The administration has left the Paris Climate Agreement and says international climate rules are unfair to Americans. A U.S. government statement in the report says the U.S. does not agree with its analysis or conclusions.\n\nBurning fossil fuels releases gases that trap extra heat and warm the whole planet. Earth is already about 2.7 degrees Fahrenheit warmer than in the mid-1800s.\n\nThe report says the world is on track for more than 5 degrees Fahrenheit of warming this century. It says warming could still be kept below 3.6 degrees if global emissions fall by about 25% in the next ten years. Current national plans would cut emissions by only about 15%.\n\nWorld leaders will meet in Turkey next month for climate talks. The Trump administration will not take part.",
+  "why_it_matters": "The United States is one of the world's biggest polluters, so its choices affect how much the whole planet warms. The report warns current plans fall well short of what is needed to limit warming.",
+  "image_url": "/article_images/news-scbcd9fca0d6babe5.webp",
+  "keywords": [
+    {
+      "term": "economy",
+      "explanation": "All the ways a country makes, buys and sells goods and services."
+    },
+    {
+      "term": "emissions",
+      "explanation": "Gases released into the air, such as from burning fuel."
+    },
+    {
+      "term": "fossil fuels",
+      "explanation": "Coal, oil and gas, which formed from ancient plants and animals and release carbon dioxide when burned."
+    },
+    {
+      "term": "Paris Climate Agreement",
+      "explanation": "A world agreement in which countries promised to limit global warming."
+    },
+    {
+      "term": "tax credits",
+      "explanation": "Money the government lets people or companies subtract from the taxes they owe."
+    },
+    {
+      "term": "analysis",
+      "explanation": "A careful study of information to reach conclusions."
+    }
+  ],
+  "questions": [
+    {
+      "question": "According to the UN report, what made the United States stand out last year?",
+      "options": [
+        "It cut its pollution more than any other country",
+        "It released more total pollution than China",
+        "It was the only major economy where planet-warming pollution increased dramatically",
+        "It joined the Paris Climate Agreement again"
+      ],
+      "correct_answer": "It was the only major economy where planet-warming pollution increased dramatically"
+    },
+    {
+      "question": "Which country did the U.S. tie with for the most climate pollution per person among the G20?",
+      "options": [
+        "Russia",
+        "Canada",
+        "Turkey",
+        "China"
+      ],
+      "correct_answer": "Russia"
+    },
+    {
+      "question": "What happened to overall global emissions last year?",
+      "options": [
+        "They stayed about the same",
+        "They fell by 25%",
+        "They doubled",
+        "They rose by 15%"
+      ],
+      "correct_answer": "They stayed about the same"
+    },
+    {
+      "question": "Which is one reason the report gives for rising U.S. emissions?",
+      "options": [
+        "Fewer people using electricity",
+        "Policies that support burning coal, oil and gas",
+        "A new law banning cars",
+        "More solar tax credits"
+      ],
+      "correct_answer": "Policies that support burning coal, oil and gas"
+    },
+    {
+      "question": "By about how much must global emissions fall in the next ten years to keep warming below 3.6 degrees Fahrenheit?",
+      "options": [
+        "50%",
+        "5%",
+        "25%",
+        "15%"
+      ],
+      "correct_answer": "25%"
+    },
+    {
+      "question": "Where will world leaders meet next month for climate talks?",
+      "options": [
+        "Washington, D.C.",
+        "Paris",
+        "Turkey",
+        "Russia"
+      ],
+      "correct_answer": "Turkey"
+    }
+  ],
+  "background_read": [
+    "Climate change is the long-term warming of Earth, mainly caused by gases released when people burn coal, oil and gas.",
+    "These gases act like a blanket, trapping heat in the atmosphere.",
+    "The United Nations brings together scientists who track how much of these gases each country releases and compare it with countries' plans.",
+    "Under the Paris Climate Agreement, countries set goals to cut pollution, and world leaders meet each year at climate talks to review progress."
+  ],
+  "Article_Structure": [
+    "LEAD: A UN report says countries are not cutting climate pollution fast enough",
+    "KEY EVENT: The U.S. was the only major economy where emissions rose dramatically last year",
+    "  ├─ WHO: United Nations scientists; the Trump administration",
+    "  ├─ WHY: More electricity use and policies supporting coal, oil and gas",
+    "  └─ RESPONSE: The U.S. government says it does not agree with the report",
+    "EVIDENCE: Earth is about 2.7 degrees Fahrenheit warmer than in the mid-1800s; current plans cut emissions about 15%, not the 25% needed",
+    "OPEN QUESTION: Will countries cut enough at next month's talks in Turkey, which the U.S. will skip?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "UN report",
+      "description": "Countries are not doing enough, and U.S. policies have made its emissions rise."
+    },
+    {
+      "perspective": "Trump administration",
+      "description": "International climate rules are unfair to Americans, and the U.S. does not agree with the report's analysis or conclusions."
+    }
+  ],
+  "mined_at": "2026-10-21T10:22:31+00:00",
+  "source_published_at": "Wed, 21 Oct 2026 01:00:00 -0400",
+  "source_name": "NPR World",
+  "source_url": "https://www.npr.org/2026/10/21/nx-s1-6003553/america-oil-gas-coal-climate-change-trump-carbon-emissions",
+  "category": "News",
+  "source_word_count": 761,
+  "detail_status": "full"
+}

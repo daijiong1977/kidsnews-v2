@@ -1,0 +1,117 @@
+{
+  "title": "Hidden Cracks Help Explain a Mystery on Asteroid Bennu",
+  "summary": "When NASA's OSIRIS-REx spacecraft reached the asteroid Bennu in 2018, scientists got a surprise. They expected some smooth, sandy areas. Instead, the surface was covered with huge boulders.\n\nThat was puzzling. Earlier measurements from NASA's Spitzer Space Telescope showed that Bennu's surface heats up and cools down quickly as it spins between sunlight and darkness. Scientists call this low thermal inertia. Beach sand behaves this way. Big solid rocks usually do not. Like concrete, they hold heat and release it slowly. So how could a rocky asteroid cool so fast?\n\nOSIRIS-REx collected samples from Bennu and brought them back to Earth. A team led by Andrew Ryan of the University of Arizona studied tiny pieces of the rocks. Their findings were published in the journal Nature Communications.\n\nThe team found that the rocks were full of tiny empty spaces. But that alone did not explain the fast cooling. They also discovered that many rock pieces had networks of cracks running through them.\n\nResearchers at Nagoya University in Japan used a laser to heat tiny spots on the samples and watched how the heat spread. The small samples held heat better than the spacecraft had measured on Bennu itself. This suggested that the size of the rocks and their inner structure matter a lot.\n\nAt NASA's Johnson Space Center in Houston, scientists sealed the samples in airtight containers to keep them clean. Then they used 3D X-ray scans, called XCT, to see inside the rocks without harming them. Curator Nicole Lunning compared each container to a spacesuit for the sample.",
+  "why_it_matters": "Understanding what asteroid rocks are like inside helps scientists read measurements from space correctly and learn how these objects formed and changed.",
+  "image_url": "/article_images/science-sc6d972259089b7fe.webp",
+  "keywords": [
+    {
+      "term": "asteroid",
+      "explanation": "A rocky object that travels around the sun, smaller than a planet."
+    },
+    {
+      "term": "thermal inertia",
+      "explanation": "How well a material resists changing temperature; high means it heats and cools slowly."
+    },
+    {
+      "term": "boulders",
+      "explanation": "Very large rocks."
+    },
+    {
+      "term": "samples",
+      "explanation": "Small pieces collected so scientists can study them."
+    },
+    {
+      "term": "airtight",
+      "explanation": "Sealed so that no air can get in or out."
+    },
+    {
+      "term": "Curator",
+      "explanation": "A person who takes care of a special collection of objects."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What surprised scientists when OSIRIS-REx reached Bennu in 2018?",
+      "options": [
+        "Bennu had water oceans",
+        "Bennu was perfectly smooth",
+        "Bennu had a moon",
+        "Bennu was covered with huge boulders"
+      ],
+      "correct_answer": "Bennu was covered with huge boulders"
+    },
+    {
+      "question": "What does low thermal inertia mean?",
+      "options": [
+        "A surface reflects all light",
+        "A surface heats up and cools down quickly",
+        "A surface is very heavy",
+        "A surface never changes temperature"
+      ],
+      "correct_answer": "A surface heats up and cools down quickly"
+    },
+    {
+      "question": "Which material is used as an example of something with low thermal inertia?",
+      "options": [
+        "Ice",
+        "Steel",
+        "Beach sand",
+        "Concrete"
+      ],
+      "correct_answer": "Beach sand"
+    },
+    {
+      "question": "Besides tiny empty spaces, what did the team discover inside many rock pieces?",
+      "options": [
+        "Living cells",
+        "Gold",
+        "Networks of cracks",
+        "Liquid water"
+      ],
+      "correct_answer": "Networks of cracks"
+    },
+    {
+      "question": "How did researchers at Nagoya University test the samples?",
+      "options": [
+        "They crushed them into powder",
+        "They froze them",
+        "They used a laser to heat tiny spots and watched heat spread",
+        "They dissolved them in acid"
+      ],
+      "correct_answer": "They used a laser to heat tiny spots and watched heat spread"
+    },
+    {
+      "question": "Why were the samples sealed in airtight containers before X-ray scans?",
+      "options": [
+        "To cool them down",
+        "To make them heavier",
+        "To keep them clean and away from Earth's environment",
+        "To make them glow"
+      ],
+      "correct_answer": "To keep them clean and away from Earth's environment"
+    }
+  ],
+  "background_read": [
+    "Asteroids are rocky leftovers from the time when the planets formed, so studying them can teach scientists about the early solar system.",
+    "NASA's OSIRIS-REx mission traveled to the asteroid Bennu, collected pieces of its surface and brought them back to Earth.",
+    "Scientists can learn what a surface is made of by measuring how fast it warms in sunlight and cools in darkness.",
+    "Returned samples are kept sealed and clean so that Earth's air and water do not change them before they are studied."
+  ],
+  "Article_Structure": [
+    "LEAD: Hidden cracks help explain how Bennu's rocky surface cools so fast",
+    "MYSTERY: Bennu is covered in boulders, yet its surface has low thermal inertia like sand",
+    "  ├─ WHO: Andrew Ryan's University of Arizona team, Nagoya University, NASA Johnson",
+    "  └─ HOW: Studied samples returned by OSIRIS-REx",
+    "EVIDENCE: Rocks full of tiny empty spaces and networks of cracks; laser tests and 3D X-ray scans",
+    "KEY POINT: Rock size and inner structure matter",
+    "OPEN QUESTION: How exactly does heat move through Bennu's giant boulders?"
+  ],
+  "perspectives": [],
+  "mined_at": "2026-10-21T10:22:31+00:00",
+  "source_published_at": "Mon, 19 Oct 2026 22:23:00 EDT",
+  "source_name": "ScienceDaily Top Technology",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261018205101.htm",
+  "category": "Science",
+  "source_word_count": 731,
+  "detail_status": "full"
+}

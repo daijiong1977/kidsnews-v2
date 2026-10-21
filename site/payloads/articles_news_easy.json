@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-20-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Mon, 19 Oct 2026 18:35:56 -0400",
-      "mined_at": "2026-10-20T10:21:41+00:00",
-      "source_published_at": "Mon, 19 Oct 2026 18:35:56 -0400",
-      "image_url": "/article_images/news-s4e00af047dac914c.webp",
-      "category": "News",
-      "title": "Ohio Is a Close Race Again This Election",
-      "summary": "Ohio's races for governor and Senate are too close to call as voters worry about prices."
-    },
-    {
-      "id": "2026-10-20-news-2",
+      "id": "2026-10-21-news-1",
       "source": "NPR World",
-      "time_ago": "Mon, 19 Oct 2026 05:00:00 -0400",
-      "mined_at": "2026-10-20T10:21:41+00:00",
-      "source_published_at": "Mon, 19 Oct 2026 05:00:00 -0400",
-      "image_url": "/article_images/news-s74d2c9ad36f75201.webp",
+      "time_ago": "Wed, 21 Oct 2026 01:00:00 -0400",
+      "mined_at": "2026-10-21T10:22:31+00:00",
+      "source_published_at": "Wed, 21 Oct 2026 01:00:00 -0400",
+      "image_url": "/article_images/news-scbcd9fca0d6babe5.webp",
       "category": "News",
-      "title": "A Hidden Ocean Wave Is Raising the Sea on the West Coast",
-      "summary": "A slow, hidden ocean wave is raising the sea on the West Coast, and more are on the way."
+      "title": "UN Report Says U.S. Climate Pollution Went Up",
+      "summary": "A UN report says U.S. climate pollution went up a lot last year. The U.S. government disagrees."
     },
     {
-      "id": "2026-10-20-news-3",
-      "source": "CBC World",
-      "time_ago": "Mon, 19 Oct 2026 14:31:55 EDT",
-      "mined_at": "2026-10-20T10:21:41+00:00",
-      "source_published_at": "Mon, 19 Oct 2026 14:31:55 EDT",
-      "image_url": "/article_images/news-sb852dcc78fbb53b3.webp",
+      "id": "2026-10-21-news-2",
+      "source": "NPR World",
+      "time_ago": "Wed, 21 Oct 2026 02:05:18 -0400",
+      "mined_at": "2026-10-21T10:22:31+00:00",
+      "source_published_at": "Wed, 21 Oct 2026 02:05:18 -0400",
+      "image_url": "/article_images/news-s69f11108f5b2378f.webp",
       "category": "News",
-      "title": "Paris Sets Night Curfews After Weekend Protests",
-      "summary": "French cities set curfews after weekend protests about prices and schools turned violent."
+      "title": "Boeing's Biggest 737 Max Jet Gets Approved to Fly Passengers",
+      "summary": "The FAA approved Boeing's 737 Max 10, its biggest 737 Max jet, to carry passengers after almost ten years."
+    },
+    {
+      "id": "2026-10-21-news-3",
+      "source": "CBC World",
+      "time_ago": "Tue, 20 Oct 2026 15:59:36 EDT",
+      "mined_at": "2026-10-21T10:22:31+00:00",
+      "source_published_at": "Tue, 20 Oct 2026 15:59:36 EDT",
+      "image_url": "/article_images/news-s4da57f0be99c4110.webp",
+      "category": "News",
+      "title": "Company Sues Over Trump's Taxes on Canadian Goods",
+      "summary": "An American food company has sued over Trump's 50% tariffs on Canadian goods, saying he used an old law wrongly."
     }
   ]
 }

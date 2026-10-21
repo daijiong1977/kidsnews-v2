@@ -1,0 +1,123 @@
+{
+  "title": "FAA Approves Boeing's Biggest 737 Max Jet After Years of Delays",
+  "summary": "The Federal Aviation Administration, the U.S. agency that oversees air safety, approved Boeing's 737 Max 10 jet for passenger flights on Tuesday. The decision came nearly ten years after Boeing first showed off the plane in 2017.\n\nTransportation Secretary Sean Duffy announced the approval at Boeing's factory in Everett, Washington. He said it followed extensive safety reviews, including thousands of hours of test flights, and called it a big win for American manufacturing.\n\nThe Max 10 is the largest plane in Boeing's 737 Max family. It will usually carry 185 to 210 passengers, more than the smaller Max 8 and Max 9. Airlines could use it to carry more people on one flight. Travelers might eventually see more seats on popular routes, but the effect on ticket prices will depend on how airlines use the planes.\n\nBoeing has faced years of safety and quality problems. Two crashes of the smaller Max 8 in 2018 and 2019 led to big changes in how the FAA checks Boeing's planes. In 2024, a panel came off an Alaska Airlines Max 9 during a flight, bringing more questions about how Boeing builds its jets.\n\nStephanie Pope, who leads Boeing's passenger plane business, called the approval a major milestone in the company's recovery.\n\nMore than 30 customers, including United, Delta and American Airlines, have ordered 1,555 Max 10 jets. Boeing expects to start delivering them in 2027. The plane is meant to compete with the Airbus A321neo.\n\nApproval means the design meets safety standards. Boeing must still show it can build each plane correctly, and every jet must be cleared before carrying passengers.",
+  "why_it_matters": "The approval affects how many seats airlines can offer and is an important test of whether Boeing can recover after years of safety problems.",
+  "image_url": "/article_images/news-s69f11108f5b2378f.webp",
+  "keywords": [
+    {
+      "term": "Federal Aviation Administration",
+      "explanation": "The U.S. government agency that makes and enforces rules for safe air travel."
+    },
+    {
+      "term": "manufacturing",
+      "explanation": "Making products in large numbers, usually in factories."
+    },
+    {
+      "term": "milestone",
+      "explanation": "An important step or event in a long process."
+    },
+    {
+      "term": "extensive",
+      "explanation": "Covering a lot; very thorough."
+    },
+    {
+      "term": "design",
+      "explanation": "The plan for how something is built and how it works."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What did the FAA approve on Tuesday?",
+      "options": [
+        "A ban on the Max 8",
+        "Boeing's 737 Max 10 for passenger flights",
+        "A new Airbus jet",
+        "A new airport in Washington"
+      ],
+      "correct_answer": "Boeing's 737 Max 10 for passenger flights"
+    },
+    {
+      "question": "When did Boeing first show off the Max 10?",
+      "options": [
+        "2027",
+        "2024",
+        "2007",
+        "2017"
+      ],
+      "correct_answer": "2017"
+    },
+    {
+      "question": "How many passengers will the Max 10 usually carry?",
+      "options": [
+        "About 50",
+        "100 to 120",
+        "More than 500",
+        "185 to 210"
+      ],
+      "correct_answer": "185 to 210"
+    },
+    {
+      "question": "What happened on an Alaska Airlines Max 9 in 2024?",
+      "options": [
+        "It set a speed record",
+        "It was the first Max 10 delivered",
+        "It carried 210 passengers",
+        "A panel came off during a flight"
+      ],
+      "correct_answer": "A panel came off during a flight"
+    },
+    {
+      "question": "How many Max 10 jets have customers ordered?",
+      "options": [
+        "2,027",
+        "30",
+        "210",
+        "1,555"
+      ],
+      "correct_answer": "1,555"
+    },
+    {
+      "question": "According to the article, what must Boeing still do after approval?",
+      "options": [
+        "Build a brand-new factory",
+        "Show it can build each plane correctly, with every jet cleared before carrying passengers",
+        "Get permission from Airbus",
+        "Stop making the Max 8"
+      ],
+      "correct_answer": "Show it can build each plane correctly, with every jet cleared before carrying passengers"
+    }
+  ],
+  "background_read": [
+    "Before a new airplane can carry passengers in the United States, the Federal Aviation Administration must approve its design.",
+    "Approval comes after engineering reviews and many test flights to check that the plane meets safety standards.",
+    "Boeing is a large American company that builds passenger jets, and its 737 Max family includes several sizes of the same basic plane.",
+    "Airlines order planes years in advance, so delays in approval also delay when airlines can start using them."
+  ],
+  "Article_Structure": [
+    "LEAD: The FAA approved Boeing's 737 Max 10 for passenger flights",
+    "KEY EVENT: Approval announced at Boeing's factory after nearly ten years",
+    "  ├─ WHO: The FAA, Transportation Secretary Sean Duffy, Boeing's Stephanie Pope",
+    "  ├─ WHERE: Everett, Washington",
+    "  └─ WHEN: Tuesday",
+    "CONTEXT: Earlier Max 8 crashes and a 2024 Max 9 panel incident led to closer FAA checks",
+    "EVIDENCE: 1,555 jets ordered by more than 30 customers; deliveries expected in 2027",
+    "OPEN QUESTION: Can Boeing build each plane correctly and rebuild trust?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Transportation Secretary Sean Duffy",
+      "description": "The approval followed extensive safety reviews and is a big win for American manufacturing."
+    },
+    {
+      "perspective": "Boeing's Stephanie Pope",
+      "description": "The approval is a major milestone in the company's recovery."
+    }
+  ],
+  "mined_at": "2026-10-21T10:22:31+00:00",
+  "source_published_at": "Wed, 21 Oct 2026 02:05:18 -0400",
+  "source_name": "NPR World",
+  "source_url": "https://www.npr.org/2026/10/21/g-s1-149032/faa-boeing-737-max-10",
+  "category": "News",
+  "source_word_count": 802,
+  "detail_status": "full"
+}

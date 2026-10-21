@@ -1,0 +1,118 @@
+{
+  "title": "A Healthy 'Twin' Can Help Bleached Coral Recover",
+  "summary": "Scientists have found that badly bleached corals can fully recover after touching healthy corals that are genetically identical to them. In lab tests, the bleached corals got healthy again within seven weeks. The study was published on October 14 in the journal Science Advances.\n\nCorals may look like plants or rocks, but they are animals. Tiny algae live inside their bodies and give them much of the energy they need. When ocean water gets too warm, corals lose these algae and turn white. This is called bleaching. Bleached corals are weak, and recovery can take months or years.\n\nThe idea for the study came from an accident in 2025. In the lab of Stanford professor Steve Palumbi, two pieces from the same coral, one healthy and one bleached, fell against each other in a tank. Where they touched, the bleached piece started getting its color back.\n\nLead author Danny Collins, a student at Stanford, then set up a test with 10 pairs of coral pieces. Each pair had one healthy piece and one bleached piece from the same coral. In five pairs, the pieces touched. In the other five, they were kept a few millimeters apart. Every bleached piece that touched its partner fully recovered. The ones kept apart died.\n\nPalumbi explained that identical corals recognize each other and their tissues join together. Tiny channels lined up between the pieces, letting the helpful algae and food move into the bleached coral within three days. One week of contact, and sometimes just five days, was enough.\n\nThe researchers say this could lead to new ways to restore coral reefs.",
+  "why_it_matters": "Warming oceans are bleaching coral reefs, which many sea creatures depend on. A fast way to help bleached corals recover could give reef restoration a useful new tool.",
+  "image_url": "/article_images/science-s745c46ef3b62f0d8.webp",
+  "keywords": [
+    {
+      "term": "genetically identical",
+      "explanation": "Having exactly the same genes, like identical twins or clones."
+    },
+    {
+      "term": "bleaching",
+      "explanation": "When corals lose the algae living inside them and turn white, often because the water is too warm."
+    },
+    {
+      "term": "algae",
+      "explanation": "Tiny plant-like living things that make food from sunlight."
+    },
+    {
+      "term": "tissues",
+      "explanation": "Groups of cells in a living thing that work together."
+    },
+    {
+      "term": "restore",
+      "explanation": "To bring something back to a healthy or earlier condition."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How long did it take the bleached corals to fully recover after touching healthy partners?",
+      "options": [
+        "One year",
+        "Seven weeks",
+        "One week",
+        "Three days"
+      ],
+      "correct_answer": "Seven weeks"
+    },
+    {
+      "question": "What causes coral bleaching?",
+      "options": [
+        "Plastic paint",
+        "Too many fish",
+        "Cold winter water",
+        "Ocean water that gets too warm, making corals lose their algae"
+      ],
+      "correct_answer": "Ocean water that gets too warm, making corals lose their algae"
+    },
+    {
+      "question": "How did the idea for the study begin?",
+      "options": [
+        "A computer model predicted it",
+        "A diver saw it on a reef",
+        "Two coral pieces from the same coral fell against each other in a tank",
+        "A student read about it in a book"
+      ],
+      "correct_answer": "Two coral pieces from the same coral fell against each other in a tank"
+    },
+    {
+      "question": "What happened to the bleached pieces kept a few millimeters apart?",
+      "options": [
+        "They died",
+        "They grew bigger",
+        "They recovered faster",
+        "They turned blue"
+      ],
+      "correct_answer": "They died"
+    },
+    {
+      "question": "What moved from the healthy coral into the bleached coral?",
+      "options": [
+        "Salt water only",
+        "Fish eggs",
+        "Sand",
+        "Helpful algae and food"
+      ],
+      "correct_answer": "Helpful algae and food"
+    },
+    {
+      "question": "What was the shortest contact time that was sometimes enough?",
+      "options": [
+        "Five days",
+        "Two weeks",
+        "One hour",
+        "Seven weeks"
+      ],
+      "correct_answer": "Five days"
+    }
+  ],
+  "background_read": [
+    "Coral reefs are built by tiny animals called coral polyps, which live together in large colonies.",
+    "Many corals get most of their energy from tiny algae living inside their tissues, and the algae also give corals their color.",
+    "When ocean water stays too warm, corals can push out these algae and turn white, which is called bleaching.",
+    "Many corals grow by copying themselves, so pieces of the same colony are genetically identical."
+  ],
+  "Article_Structure": [
+    "LEAD: Bleached corals fully recovered after touching identical healthy corals",
+    "KEY FINDING: Recovery within seven weeks in lab tests",
+    "  ├─ WHO: Stanford researchers Danny Collins and Steve Palumbi",
+    "  └─ HOW: Tissues of identical corals join, letting algae and food move across",
+    "EXPERIMENT: 10 pairs; five touching recovered, five kept apart died",
+    "DETAIL: Algae moved within three days; one week, sometimes five days, of contact was enough",
+    "OPEN QUESTION: Can this method help restore real coral reefs?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Researchers",
+      "description": "The discovery could lead to new ways to restore coral reefs."
+    }
+  ],
+  "mined_at": "2026-10-21T10:22:31+00:00",
+  "source_published_at": "Mon, 19 Oct 2026 07:05:52 EDT",
+  "source_name": "ScienceDaily Top Environment",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261017230025.htm",
+  "category": "Science",
+  "source_word_count": 719,
+  "detail_status": "full"
+}
