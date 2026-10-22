@@ -1,0 +1,122 @@
+{
+  "title": "Websites Rush to Fix a Big Security Problem",
+  "summary": "On Wednesday, people around the world hurried to protect websites from a big security problem.\n\nThe problem was a weak spot in PHP. PHP is a computer language that millions of websites use. The FBI and the National Security Agency warned that hackers could use the weak spot to take control of websites. Hackers might also get private information.\n\nTo fix it, workers added security patches. A patch is a small update that closes a weak spot in software. While they worked, some government websites were turned off for a while. Some were still offline.\n\nThe company OpenAI says its artificial intelligence, or AI, helped find the problems.\n\nThis is why updates matter. When a weak spot is found, a fix is made, and people need to install it fast. You can help keep your own devices safe by keeping them up to date.",
+  "why_it_matters": "Keeping your own devices updated helps protect your games, schoolwork and information from hackers.",
+  "image_url": "/article_images/news-sd13019f1f802863c.webp",
+  "keywords": [
+    {
+      "term": "security",
+      "explanation": "Security means keeping something safe from harm or attack."
+    },
+    {
+      "term": "hackers",
+      "explanation": "Hackers are people who break into computers without permission."
+    },
+    {
+      "term": "patches",
+      "explanation": "Patches are small updates that fix weak spots in software."
+    },
+    {
+      "term": "software",
+      "explanation": "Software is the set of programs that tell a computer what to do."
+    },
+    {
+      "term": "offline",
+      "explanation": "Offline means not connected to the internet or not working online."
+    },
+    {
+      "term": "artificial intelligence",
+      "explanation": "Artificial intelligence is computer technology that can do tasks that usually need human thinking."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is PHP?",
+      "options": [
+        "A computer language",
+        "A robot",
+        "A video game",
+        "A phone"
+      ],
+      "correct_answer": "A computer language"
+    },
+    {
+      "question": "Who warned about the problem?",
+      "options": [
+        "A movie star",
+        "The FBI and the National Security Agency",
+        "A weather station",
+        "A school principal"
+      ],
+      "correct_answer": "The FBI and the National Security Agency"
+    },
+    {
+      "question": "What could hackers do with the weak spot?",
+      "options": [
+        "Turn off the Sun",
+        "Fly planes",
+        "Make it rain",
+        "Take control of websites"
+      ],
+      "correct_answer": "Take control of websites"
+    },
+    {
+      "question": "What is a patch?",
+      "options": [
+        "A sticker",
+        "A small update that closes a weak spot",
+        "A password",
+        "A new computer"
+      ],
+      "correct_answer": "A small update that closes a weak spot"
+    },
+    {
+      "question": "Which company says its AI helped find the problems?",
+      "options": [
+        "Nike",
+        "OpenAI",
+        "Lego",
+        "Disney"
+      ],
+      "correct_answer": "OpenAI"
+    },
+    {
+      "question": "What can you do to keep your devices safe?",
+      "options": [
+        "Never charge them",
+        "Keep them up to date",
+        "Paint them",
+        "Leave them outside"
+      ],
+      "correct_answer": "Keep them up to date"
+    }
+  ],
+  "background_read": [
+    "Websites are built with computer languages, and PHP is one that millions of sites use.",
+    "Sometimes experts find a weak spot in software that bad actors could use to break in.",
+    "When that happens, workers add an update called a patch to fix the weak spot."
+  ],
+  "Article_Structure": [
+    "WHO: Workers around the world, the FBI and the National Security Agency",
+    "WHAT: They rushed to fix a weak spot in PHP, a computer language used by millions of websites",
+    "WHERE: Websites around the world, including some government websites",
+    "WHY: Hackers could use the weak spot to take control of websites and get private information"
+  ],
+  "perspectives": [
+    {
+      "perspective": "FBI and National Security Agency",
+      "description": "Warned that hackers could use the weak spot to take control of websites."
+    },
+    {
+      "perspective": "OpenAI",
+      "description": "Says its AI helped find the problems."
+    }
+  ],
+  "mined_at": "2026-10-22T10:21:22+00:00",
+  "source_published_at": "Wed, 21 Oct 2026 18:45:30 -0400",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/show/news-wrap-cybersecurity-threat-prompts-scramble-to-protect-websites-around-the-world",
+  "category": "News",
+  "source_word_count": 738,
+  "detail_status": "full"
+}

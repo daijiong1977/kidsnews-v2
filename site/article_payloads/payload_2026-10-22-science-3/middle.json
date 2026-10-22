@@ -1,0 +1,127 @@
+{
+  "title": "Charged Raindrops Can Slowly Eat Away at Metal",
+  "summary": "Raindrops might be doing more damage to cars, bridges and monuments than anyone realized, new research shows. But not all raindrops are to blame, only ones that carry an electric charge.\n\nWater droplets can pick up a charge when they slide across surfaces such as leaves, glass or buildings. When those charged drops land on certain materials, including metals, they can pass their charge along. Over time, this can cause corrosion, which means the metal slowly gets eaten away.\n\nPhysicist Zhongyuan Ni of the Max Planck Institute for Polymer Research in Germany discovered the effect almost by accident. In early tests, hundreds of water drops did not harm a copper surface. But one day he let the experiment keep running while he went for a coffee. When he returned, the copper looked different.\n\nHis team then tested copper covered in Teflon, a very strong protective coating. Copper already resists corrosion better than many metals. The scientists charged some water drops by sliding them along leaves or building materials. Other drops fell straight onto the metal without a charge.\n\nUnder a microscope, every surface hit by charged drops showed damage. The water had worn through the Teflon and started corroding the copper underneath. The uncharged drops caused no damage. Similar results appeared on copper and gold coated with polystyrene, another protective layer.\n\nThe findings were published in the journal Nature. Another physicist, Stefan Weber, says they could lead to better coatings that prevent corrosion.\n\nNi says people should not be scared, because the effect is small. Still, over many years outdoors, he says, tiny charges can add up.",
+  "why_it_matters": "Bridges, ships and monuments stand outdoors for decades, so understanding even tiny causes of corrosion could help engineers design coatings that make them last longer.",
+  "image_url": "/article_images/science-s8bd79becce51e150.webp",
+  "keywords": [
+    {
+      "term": "corrosion",
+      "explanation": "Corrosion is the slow damage of metal by chemical reactions, such as rusting."
+    },
+    {
+      "term": "electric charge",
+      "explanation": "An electric charge is a property of matter that makes it push or pull on other charged things."
+    },
+    {
+      "term": "physicist",
+      "explanation": "A physicist is a scientist who studies matter, energy and how forces work."
+    },
+    {
+      "term": "Teflon",
+      "explanation": "Teflon is a slippery, tough plastic coating often used to protect surfaces, like on nonstick pans."
+    },
+    {
+      "term": "polystyrene",
+      "explanation": "Polystyrene is a kind of plastic that can be used as a thin protective layer."
+    },
+    {
+      "term": "microscope",
+      "explanation": "A microscope is a tool that makes very small things look much bigger."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Which raindrops caused damage in the experiments?",
+      "options": [
+        "Only frozen drops",
+        "Drops with salt in them",
+        "Only very large drops",
+        "Drops with an electric charge"
+      ],
+      "correct_answer": "Drops with an electric charge"
+    },
+    {
+      "question": "How can water drops pick up a charge?",
+      "options": [
+        "By mixing with soil",
+        "By falling at night",
+        "By sliding across surfaces like leaves or glass",
+        "By sitting in sunlight"
+      ],
+      "correct_answer": "By sliding across surfaces like leaves or glass"
+    },
+    {
+      "question": "How did Zhongyuan Ni first notice the effect?",
+      "options": [
+        "He saw a rusty bridge",
+        "A student told him",
+        "He read it in a book",
+        "He let an experiment keep running while he went for coffee"
+      ],
+      "correct_answer": "He let an experiment keep running while he went for coffee"
+    },
+    {
+      "question": "Which metal was coated in Teflon for the tests?",
+      "options": [
+        "Copper",
+        "Aluminum",
+        "Silver",
+        "Iron"
+      ],
+      "correct_answer": "Copper"
+    },
+    {
+      "question": "What happened when uncharged drops hit the coated metal?",
+      "options": [
+        "They caused no damage",
+        "They caused heavy damage",
+        "They melted the coating",
+        "They turned the copper green"
+      ],
+      "correct_answer": "They caused no damage"
+    },
+    {
+      "question": "In which journal were the findings published?",
+      "options": [
+        "Space Weather",
+        "National Geographic",
+        "Nature",
+        "Science News"
+      ],
+      "correct_answer": "Nature"
+    }
+  ],
+  "background_read": [
+    "Corrosion happens when metals react with things around them, like water and air, and slowly break down.",
+    "People protect metal objects such as bridges, cars and monuments with coatings that act as a barrier.",
+    "Water drops can pick up a tiny electric charge when they slide across surfaces such as leaves or glass.",
+    "This study tested whether those charged drops could get past protective coatings and harm the metal underneath."
+  ],
+  "Article_Structure": [
+    "LEAD: Electrically charged raindrops may be damaging cars, bridges and monuments",
+    "KEY IDEA: Drops gain charge by sliding over surfaces, then pass it to metals, causing corrosion",
+    "DISCOVERY: Physicist Zhongyuan Ni noticed changed copper after leaving an experiment running",
+    "  └─ WHERE: Max Planck Institute for Polymer Research, Germany",
+    "EXPERIMENT: Charged and uncharged drops fell on Teflon-coated copper",
+    "EVIDENCE: Charged drops wore through Teflon and corroded copper; uncharged drops did not; similar results with polystyrene-coated copper and gold",
+    "IMPACT: Stefan Weber says the work could lead to better anticorrosion coatings",
+    "PERSPECTIVE: Ni says the effect is small, but it can add up over years"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Zhongyuan Ni",
+      "description": "Says people should not be scared because the effect is small, but tiny charges can add up over many years."
+    },
+    {
+      "perspective": "Stefan Weber",
+      "description": "Says the findings could lead to better coatings that prevent corrosion."
+    }
+  ],
+  "mined_at": "2026-10-22T10:21:22+00:00",
+  "source_published_at": "Tue, 20 Oct 2026 10:30:00 +0000",
+  "source_name": "Science News Explores",
+  "source_url": "https://www.snexplores.org/article/sliding-rainwater-charge-corrosive",
+  "category": "Science",
+  "source_word_count": 662,
+  "detail_status": "full"
+}

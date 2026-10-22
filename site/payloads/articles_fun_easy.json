@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-21-fun-1",
-      "source": "/Film",
-      "time_ago": "Tue, 20 Oct 2026 23:27:30 +0000",
-      "mined_at": "2026-10-21T10:22:31+00:00",
-      "source_published_at": "Tue, 20 Oct 2026 23:27:30 +0000",
-      "image_url": "/article_images/fun-s1dd74d9151a1adc7.webp",
+      "id": "2026-10-22-fun-1",
+      "source": "DOGOnews",
+      "time_ago": "",
+      "mined_at": "2026-10-22T10:21:22+00:00",
+      "source_published_at": "",
+      "image_url": "/article_images/fun-se9d3c2f1ff721d5d.webp",
       "category": "Fun",
-      "title": "'Hocus Pocus' Is No. 1 on Disney+ Before Halloween",
-      "summary": "The 1993 Halloween movie 'Hocus Pocus' is the top movie on Disney+, and a third film is on the way."
+      "title": "An Artist Who Turns Pumpkins into Spooky Faces",
+      "summary": "Artist Ray Villafane turns pumpkins into spooky 3-D sculptures, now on show in Gilbert, Arizona."
     },
     {
-      "id": "2026-10-21-fun-2",
-      "source": "Kotaku",
-      "time_ago": "Tue, 20 Oct 2026 20:41:34 +0000",
-      "mined_at": "2026-10-21T10:22:31+00:00",
-      "source_published_at": "Tue, 20 Oct 2026 20:41:34 +0000",
-      "image_url": "/article_images/fun-sba86c2a2363c64c8.webp",
+      "id": "2026-10-22-fun-2",
+      "source": "Billboard",
+      "time_ago": "Thu, 22 Oct 2026 09:21:53 +0000",
+      "mined_at": "2026-10-22T10:21:22+00:00",
+      "source_published_at": "Thu, 22 Oct 2026 09:21:53 +0000",
+      "image_url": "/article_images/fun-sdd5a03a247330e76.webp",
       "category": "Fun",
-      "title": "A Fan Replays 'Kingdom Hearts' and Misses Final Fantasy Friends",
-      "summary": "A Kotaku writer replaying 'Kingdom Hearts' wishes the games would bring back more 'Final Fantasy' characters."
+      "title": "Chappell Roan Brings a Surprise Guest on Stage",
+      "summary": "Christina Aguilera surprised fans at Chappell Roan's L.A. concert, and the two sang \"Coffee\" together."
     },
     {
-      "id": "2026-10-21-fun-3",
-      "source": "/Film",
-      "time_ago": "Wed, 21 Oct 2026 02:00:00 +0000",
-      "mined_at": "2026-10-21T10:22:31+00:00",
-      "source_published_at": "Wed, 21 Oct 2026 02:00:00 +0000",
-      "image_url": "/article_images/fun-se0b1e4cb99215bc4.webp",
+      "id": "2026-10-22-fun-3",
+      "source": "IndieWire",
+      "time_ago": "Wed, 21 Oct 2026 16:00:00 +0000",
+      "mined_at": "2026-10-22T10:21:22+00:00",
+      "source_published_at": "Wed, 21 Oct 2026 16:00:00 +0000",
+      "image_url": "/article_images/fun-sa03204d4862cc704.webp",
       "category": "Fun",
-      "title": "Marvel's 'VisionQuest' Weighs In on a Big Fan Debate",
-      "summary": "In Marvel's 'VisionQuest,' Vision says Wanda's actions in 'WandaVision' were wrong, adding to a long fan debate."
+      "title": "Younger Kids Feel Excited About AI Stories, Study Says",
+      "summary": "A UCLA study found 10- to 13-year-olds feel much more excited about AI stories than older teens and young adults."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-21-news-1",
+      "id": "2026-10-22-news-1",
       "source": "NPR World",
-      "time_ago": "Wed, 21 Oct 2026 01:00:00 -0400",
-      "mined_at": "2026-10-21T10:22:31+00:00",
-      "source_published_at": "Wed, 21 Oct 2026 01:00:00 -0400",
-      "image_url": "/article_images/news-scbcd9fca0d6babe5.webp",
+      "time_ago": "Wed, 21 Oct 2026 06:20:50 -0400",
+      "mined_at": "2026-10-22T10:21:22+00:00",
+      "source_published_at": "Wed, 21 Oct 2026 06:20:50 -0400",
+      "image_url": "/article_images/news-s10e19c0c1676edb7.webp",
       "category": "News",
-      "title": "UN Report: U.S. Climate Pollution Rose Sharply Last Year",
-      "summary": "A UN report says the U.S. was the only major economy where climate pollution rose sharply last year; the U.S. government disagrees with the report."
+      "title": "Russia Frees American Teacher Stephen Hubbard",
+      "summary": "Russia released Stephen Hubbard, a 74-year-old former teacher from Michigan, after a request from President Trump. The U.S. says it gave nothing in return."
     },
     {
-      "id": "2026-10-21-news-2",
-      "source": "NPR World",
-      "time_ago": "Wed, 21 Oct 2026 02:05:18 -0400",
-      "mined_at": "2026-10-21T10:22:31+00:00",
-      "source_published_at": "Wed, 21 Oct 2026 02:05:18 -0400",
-      "image_url": "/article_images/news-s69f11108f5b2378f.webp",
+      "id": "2026-10-22-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Wed, 21 Oct 2026 18:45:30 -0400",
+      "mined_at": "2026-10-22T10:21:22+00:00",
+      "source_published_at": "Wed, 21 Oct 2026 18:45:30 -0400",
+      "image_url": "/article_images/news-sd13019f1f802863c.webp",
       "category": "News",
-      "title": "FAA Approves Boeing's Biggest 737 Max Jet After Years of Delays",
-      "summary": "The FAA approved Boeing's 737 Max 10, the largest 737 Max jet, for passenger service after nearly a decade of delays."
+      "title": "Websites Around the World Rush to Fix Security Flaw",
+      "summary": "Officials raced to patch websites worldwide after the FBI and NSA warned that a flaw involving the PHP programming language could let hackers take control."
     },
     {
-      "id": "2026-10-21-news-3",
-      "source": "CBC World",
-      "time_ago": "Tue, 20 Oct 2026 15:59:36 EDT",
-      "mined_at": "2026-10-21T10:22:31+00:00",
-      "source_published_at": "Tue, 20 Oct 2026 15:59:36 EDT",
-      "image_url": "/article_images/news-s4da57f0be99c4110.webp",
+      "id": "2026-10-22-news-3",
+      "source": "NPR World",
+      "time_ago": "Thu, 22 Oct 2026 05:00:00 -0400",
+      "mined_at": "2026-10-22T10:21:22+00:00",
+      "source_published_at": "Thu, 22 Oct 2026 05:00:00 -0400",
+      "image_url": "/article_images/news-s7cad9c0e64723055.webp",
       "category": "News",
-      "title": "Lawsuit Challenges Trump's Tariffs on Canadian Goods",
-      "summary": "A U.S. food importer has sued over Trump's tariffs on Canadian goods, saying a 1930 trade law was used beyond the president's power."
+      "title": "Saving for a First Home Now Takes Twice as Long",
+      "summary": "A new report says the average renter family now needs about 16 years to save for a starter home, twice as long as in 2019."
     }
   ]
 }

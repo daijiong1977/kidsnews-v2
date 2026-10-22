@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-21-news-1",
+      "id": "2026-10-22-news-1",
       "source": "NPR World",
-      "time_ago": "Wed, 21 Oct 2026 01:00:00 -0400",
-      "mined_at": "2026-10-21T10:22:31+00:00",
-      "source_published_at": "Wed, 21 Oct 2026 01:00:00 -0400",
-      "image_url": "/article_images/news-scbcd9fca0d6babe5.webp",
+      "time_ago": "Wed, 21 Oct 2026 06:20:50 -0400",
+      "mined_at": "2026-10-22T10:21:22+00:00",
+      "source_published_at": "Wed, 21 Oct 2026 06:20:50 -0400",
+      "image_url": "/article_images/news-s10e19c0c1676edb7.webp",
       "category": "News",
-      "title": "UN Report Says U.S. Climate Pollution Went Up",
-      "summary": "A UN report says U.S. climate pollution went up a lot last year. The U.S. government disagrees."
+      "title": "Russia Lets an American Teacher Go Home",
+      "summary": "Russia freed Stephen Hubbard, a 74-year-old former teacher from Michigan, after President Trump asked."
     },
     {
-      "id": "2026-10-21-news-2",
-      "source": "NPR World",
-      "time_ago": "Wed, 21 Oct 2026 02:05:18 -0400",
-      "mined_at": "2026-10-21T10:22:31+00:00",
-      "source_published_at": "Wed, 21 Oct 2026 02:05:18 -0400",
-      "image_url": "/article_images/news-s69f11108f5b2378f.webp",
+      "id": "2026-10-22-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Wed, 21 Oct 2026 18:45:30 -0400",
+      "mined_at": "2026-10-22T10:21:22+00:00",
+      "source_published_at": "Wed, 21 Oct 2026 18:45:30 -0400",
+      "image_url": "/article_images/news-sd13019f1f802863c.webp",
       "category": "News",
-      "title": "Boeing's Biggest 737 Max Jet Gets Approved to Fly Passengers",
-      "summary": "The FAA approved Boeing's 737 Max 10, its biggest 737 Max jet, to carry passengers after almost ten years."
+      "title": "Websites Rush to Fix a Big Security Problem",
+      "summary": "Websites around the world rushed to fix a weak spot in the PHP computer language that hackers could use."
     },
     {
-      "id": "2026-10-21-news-3",
-      "source": "CBC World",
-      "time_ago": "Tue, 20 Oct 2026 15:59:36 EDT",
-      "mined_at": "2026-10-21T10:22:31+00:00",
-      "source_published_at": "Tue, 20 Oct 2026 15:59:36 EDT",
-      "image_url": "/article_images/news-s4da57f0be99c4110.webp",
+      "id": "2026-10-22-news-3",
+      "source": "NPR World",
+      "time_ago": "Thu, 22 Oct 2026 05:00:00 -0400",
+      "mined_at": "2026-10-22T10:21:22+00:00",
+      "source_published_at": "Thu, 22 Oct 2026 05:00:00 -0400",
+      "image_url": "/article_images/news-s7cad9c0e64723055.webp",
       "category": "News",
-      "title": "Company Sues Over Trump's Taxes on Canadian Goods",
-      "summary": "An American food company has sued over Trump's 50% tariffs on Canadian goods, saying he used an old law wrongly."
+      "title": "Saving for a First Home Takes Much Longer Now",
+      "summary": "A new report says a typical renter family now needs about 16 years to save for a first home, twice as long as in 2019."
     }
   ]
 }

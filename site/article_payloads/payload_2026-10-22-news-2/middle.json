@@ -1,0 +1,127 @@
+{
+  "title": "Websites Around the World Rush to Fix Security Flaw",
+  "summary": "A major cybersecurity threat sent people scrambling on Wednesday to protect websites around the world.\n\nCybersecurity means keeping computers, networks and information safe from people who try to break in. This time, the problem was a weakness, or vulnerability, involving PHP. PHP is a programming language, a set of instructions that millions of websites use to work.\n\nThe FBI and the National Security Agency warned that hackers could use the flaw to take control of websites. They said attackers might also be able to get at sensitive information stored on those sites.\n\nTo stay safe, officials rushed to install security patches. A patch is a small update that fixes a weakness in software, a bit like putting a new lock on a door. While the patches were being added, some government websites were temporarily taken offline. Others remained offline entirely.\n\nArtificial intelligence played a part in finding the problem. The company OpenAI says its artificial intelligence models helped uncover the vulnerabilities.\n\nProblems like this show why software updates matter. When companies discover a weakness, they release fixes so that hackers cannot use it. Website owners then need to install those fixes quickly. Ordinary computer users can help protect themselves in a similar way by keeping their devices and apps up to date.\n\nSome websites were still offline after the scramble. The quick response by officials showed how seriously experts take threats to the websites that so many people rely on every day, including government websites.",
+  "why_it_matters": "Millions of websites, including government services, depend on shared software, so a single flaw can put information at risk worldwide unless fixes are installed quickly.",
+  "image_url": "/article_images/news-sd13019f1f802863c.webp",
+  "keywords": [
+    {
+      "term": "cybersecurity",
+      "explanation": "Cybersecurity is the work of keeping computers, networks and information safe from attackers."
+    },
+    {
+      "term": "vulnerability",
+      "explanation": "A vulnerability is a weak spot in software that attackers could use to break in."
+    },
+    {
+      "term": "programming language",
+      "explanation": "A programming language is a set of words and rules people use to give instructions to computers."
+    },
+    {
+      "term": "patches",
+      "explanation": "Patches are small software updates that fix problems or close security holes."
+    },
+    {
+      "term": "hackers",
+      "explanation": "Hackers, in this story, are people who break into computer systems without permission."
+    },
+    {
+      "term": "sensitive information",
+      "explanation": "Sensitive information is private data, such as personal details, that should be kept secret."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is PHP?",
+      "options": [
+        "A computer virus",
+        "A government agency",
+        "A programming language used by millions of websites",
+        "A type of antivirus app"
+      ],
+      "correct_answer": "A programming language used by millions of websites"
+    },
+    {
+      "question": "Which two agencies warned about the flaw?",
+      "options": [
+        "The FBI and the National Security Agency",
+        "The FDA and the NSA",
+        "NASA and the FBI",
+        "The CIA and NASA"
+      ],
+      "correct_answer": "The FBI and the National Security Agency"
+    },
+    {
+      "question": "What did the agencies say hackers could do?",
+      "options": [
+        "Take control of websites",
+        "Change the weather",
+        "Steal cars",
+        "Shut down the whole internet"
+      ],
+      "correct_answer": "Take control of websites"
+    },
+    {
+      "question": "What is a patch?",
+      "options": [
+        "A small update that fixes a weakness in software",
+        "A type of hacker",
+        "A new website",
+        "A computer cable"
+      ],
+      "correct_answer": "A small update that fixes a weakness in software"
+    },
+    {
+      "question": "Which company says its AI models helped uncover the vulnerabilities?",
+      "options": [
+        "Apple",
+        "OpenAI",
+        "Microsoft",
+        "Google"
+      ],
+      "correct_answer": "OpenAI"
+    },
+    {
+      "question": "What happened to some government websites?",
+      "options": [
+        "They were sold",
+        "They got new names",
+        "They were temporarily taken offline",
+        "They moved to other countries"
+      ],
+      "correct_answer": "They were temporarily taken offline"
+    }
+  ],
+  "background_read": [
+    "Websites run on software written in programming languages, and PHP is one used by millions of sites.",
+    "Sometimes experts discover a weak spot, or vulnerability, in widely used software that attackers could take advantage of.",
+    "When that happens, software makers release patches, and website owners must install them quickly to stay protected.",
+    "Agencies such as the FBI and the National Security Agency warn the public about serious threats so that people can act fast."
+  ],
+  "Article_Structure": [
+    "LEAD: A major cybersecurity threat sends people scrambling to protect websites worldwide",
+    "KEY EVENT: A vulnerability involving the PHP programming language is discovered",
+    "  ├─ WHO: FBI and National Security Agency issue warnings",
+    "  └─ RISK: hackers could take control of websites and reach sensitive information",
+    "RESPONSE: Officials rush to install security patches; some government websites go offline",
+    "DISCOVERY: OpenAI says its AI models helped uncover the vulnerabilities",
+    "LESSON: Software updates matter because they close weaknesses before hackers use them",
+    "OPEN QUESTION: Some websites remained offline after the scramble"
+  ],
+  "perspectives": [
+    {
+      "perspective": "FBI and National Security Agency",
+      "description": "Warned that hackers could exploit the flaw to take control of websites and potentially compromise sensitive information."
+    },
+    {
+      "perspective": "OpenAI",
+      "description": "Says its artificial intelligence models helped uncover the vulnerabilities."
+    }
+  ],
+  "mined_at": "2026-10-22T10:21:22+00:00",
+  "source_published_at": "Wed, 21 Oct 2026 18:45:30 -0400",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/show/news-wrap-cybersecurity-threat-prompts-scramble-to-protect-websites-around-the-world",
+  "category": "News",
+  "source_word_count": 738,
+  "detail_status": "full"
+}
