@@ -1,0 +1,128 @@
+{
+  "title": "City Birds Fly Away Sooner From Women Than Men",
+  "summary": "Here is a puzzle for bird watchers: city birds seem to fly away sooner when a woman walks toward them than when a man does, and scientists do not know why.\n\nAn international team of researchers tested this in parks and green spaces in five European countries: Czechia, France, Germany, Poland and Spain. Men and women of similar height, wearing similar clothes, walked straight toward birds. The scientists measured how close each person could get before the bird took off. This is called the flight initiation distance.\n\nOn average, men could get about one meter closer than women. The same pattern showed up in every country and in all 37 bird species studied, including great tits, house sparrows, blackbirds, jumpy magpies and usually relaxed pigeons. The study, based on 2,701 observations, was published in the journal People and Nature.\n\n\"I fully believe our results,\" said Professor Daniel Blumstein of the University of California, Los Angeles, \"but I can't explain them right now.\"\n\nScientists have a few guesses. Birds might notice smells, differences in body shape, or the way people walk. But these ideas have not been tested yet. Dr. Federico Morelli of the University of Turin called the mystery \"maybe the most interesting part of our study.\"\n\nDr. Yanina Benedetti of the Czech University of Life Sciences Prague said she was surprised, as a woman working in the field. Many animal studies assume a human observer has no effect, she said, but that was not true for these birds.\n\nThe researchers say their findings are still early, and more studies are needed. For now, it seems the birds sharing our cities notice details about people that we hardly notice ourselves.",
+  "why_it_matters": "The study shows that wild animals in cities may read subtle human cues, and that scientists cannot assume a human observer has no effect on the animals they study.",
+  "image_url": "/article_images/fun-s704ace95a0ee0f5a.webp",
+  "keywords": [
+    {
+      "term": "flight initiation distance",
+      "explanation": "How close a person can get to an animal before it flees."
+    },
+    {
+      "term": "species",
+      "explanation": "A group of living things that are alike and can have young together."
+    },
+    {
+      "term": "observer",
+      "explanation": "A person who watches and records what happens in a study."
+    },
+    {
+      "term": "green spaces",
+      "explanation": "Areas of grass, trees and plants in a city, such as parks."
+    },
+    {
+      "term": "journal",
+      "explanation": "A magazine where scientists publish their research."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What surprising pattern did the scientists find?",
+      "options": [
+        "Birds flew away sooner from women than men",
+        "Birds liked people wearing red",
+        "Birds only flew away from children",
+        "Birds never flew away in parks"
+      ],
+      "correct_answer": "Birds flew away sooner from women than men"
+    },
+    {
+      "question": "In how many European countries was the study done?",
+      "options": [
+        "Two",
+        "Five",
+        "Thirty-seven",
+        "Ten"
+      ],
+      "correct_answer": "Five"
+    },
+    {
+      "question": "On average, how much closer could men get than women?",
+      "options": [
+        "About one centimeter",
+        "About one meter",
+        "About ten meters",
+        "Exactly the same distance"
+      ],
+      "correct_answer": "About one meter"
+    },
+    {
+      "question": "Why did the walkers match in height and clothing?",
+      "options": [
+        "To stay warm",
+        "To look like twins on camera",
+        "Because the birds asked them to",
+        "So those things would not explain the difference"
+      ],
+      "correct_answer": "So those things would not explain the difference"
+    },
+    {
+      "question": "Which is one possible explanation scientists suggested?",
+      "options": [
+        "Birds might notice smells, body shape or walking style",
+        "Birds can read name tags",
+        "Women walk faster than cars",
+        "Birds dislike loud music"
+      ],
+      "correct_answer": "Birds might notice smells, body shape or walking style"
+    },
+    {
+      "question": "How many observations did the study include?",
+      "options": [
+        "270",
+        "27,000",
+        "37",
+        "2,701"
+      ],
+      "correct_answer": "2,701"
+    }
+  ],
+  "background_read": [
+    "Wild animals constantly decide whether people nearby are a danger, and fleeing too early or too late can cost them food or safety.",
+    "Scientists often measure this by walking toward an animal and noting how close they get before it flies or runs away.",
+    "City birds see many people every day, so they may learn to read small clues about humans that country birds never need to notice.",
+    "Researchers use careful methods, such as matching walkers' height and clothing, so that only one difference is being tested at a time."
+  ],
+  "Article_Structure": [
+    "LEAD: City birds fly away sooner when approached by women than by men, and scientists cannot explain why",
+    "METHOD: Men and women matched for height and clothing walked toward birds in parks",
+    "  ├─ WHERE: Czechia, France, Germany, Poland and Spain",
+    "  └─ MEASURE: Flight initiation distance",
+    "RESULT: Men got about one meter closer, across all 37 species and every country",
+    "EXPERTS: Daniel Blumstein, Federico Morelli and Yanina Benedetti react to the puzzle",
+    "POSSIBLE CAUSES: Smells, body shape or walking style, all still untested",
+    "LIMITS: 2,701 observations; findings are preliminary",
+    "OPEN QUESTION: What exactly are the birds detecting?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Professor Daniel Blumstein",
+      "description": "Fully believes the results but says he cannot explain them yet."
+    },
+    {
+      "perspective": "Dr. Yanina Benedetti",
+      "description": "Was surprised as a woman in the field and says many studies wrongly assume human observers are neutral."
+    },
+    {
+      "perspective": "Dr. Federico Morelli",
+      "description": "Calls the unexplained cause maybe the most interesting part of the study."
+    }
+  ],
+  "mined_at": "2026-10-23T10:28:39+00:00",
+  "source_published_at": "Thu, 22 Oct 2026 08:06:14 EDT",
+  "source_name": "ScienceDaily Top Environment",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261021231250.htm",
+  "category": "Fun",
+  "source_word_count": 692,
+  "detail_status": "full"
+}

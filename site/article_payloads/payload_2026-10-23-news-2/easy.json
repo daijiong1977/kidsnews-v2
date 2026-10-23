@@ -1,0 +1,109 @@
+{
+  "title": "Typhoon Champi Brings Storms and a Day Off in Taiwan",
+  "summary": "A strong storm called Typhoon Champi came close to Taiwan on Friday. A typhoon is a powerful storm in this part of the Pacific Ocean, like a hurricane.\n\nHundreds of flights in East Asia were cancelled. Officials said one person died after being swept away by waves, and 171 people were hurt. About 1,000 people left their homes to stay safe.\n\nEarlier this week, Champi was the strongest storm on Earth so far this year, with winds of 185 miles per hour. It later got weaker.\n\nForecasters expected the center of the storm to pass by without hitting land in Taiwan, but they were not completely sure. Heavy rain was expected until Saturday evening.\n\nSchools and offices closed in almost all of Taiwan. People call this a \"typhoon holiday.\" In Japan's Okinawa, about 8,400 homes lost power.\n\nExperts say an unusually strong El Niño, a natural warming of the Pacific Ocean, is causing many storms this year.",
+  "why_it_matters": "Knowing how storms work and listening to weather warnings helps families stay safe.",
+  "image_url": "/article_images/news-s5f2679e5179f3b52.webp",
+  "keywords": [
+    {
+      "term": "typhoon",
+      "explanation": "A powerful storm in this part of the Pacific Ocean, like a hurricane."
+    },
+    {
+      "term": "hurricane",
+      "explanation": "A huge storm with very strong winds that forms over warm ocean water."
+    },
+    {
+      "term": "forecasters",
+      "explanation": "Scientists who predict the weather."
+    },
+    {
+      "term": "El Niño",
+      "explanation": "A natural warming of the Pacific Ocean that can change the weather."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is a typhoon?",
+      "options": [
+        "A powerful storm, like a hurricane",
+        "A snowstorm",
+        "A kind of earthquake",
+        "A type of boat"
+      ],
+      "correct_answer": "A powerful storm, like a hurricane"
+    },
+    {
+      "question": "What happened to hundreds of flights?",
+      "options": [
+        "They were free",
+        "They were painted",
+        "They were cancelled",
+        "They went to space"
+      ],
+      "correct_answer": "They were cancelled"
+    },
+    {
+      "question": "How fast were Champi's winds at their strongest?",
+      "options": [
+        "50 miles per hour",
+        "1,000 miles per hour",
+        "185 miles per hour",
+        "10 miles per hour"
+      ],
+      "correct_answer": "185 miles per hour"
+    },
+    {
+      "question": "What do people in Taiwan call a day off because of a storm?",
+      "options": [
+        "A wind break",
+        "A snow day",
+        "A typhoon holiday",
+        "A rain party"
+      ],
+      "correct_answer": "A typhoon holiday"
+    },
+    {
+      "question": "About how many homes in Okinawa lost power?",
+      "options": [
+        "About 10",
+        "None",
+        "About 8,400",
+        "About 1 million"
+      ],
+      "correct_answer": "About 8,400"
+    },
+    {
+      "question": "What do experts say is causing many storms this year?",
+      "options": [
+        "A strong El Niño",
+        "Snow",
+        "The Moon",
+        "A volcano"
+      ],
+      "correct_answer": "A strong El Niño"
+    }
+  ],
+  "background_read": [
+    "Typhoons are giant spinning storms that form over warm ocean water in the Pacific.",
+    "Places like Taiwan close schools and warn people to stay away from the coast so everyone stays safe."
+  ],
+  "Article_Structure": [
+    "WHO: People in Taiwan, Japan and the Philippines, and weather forecasters",
+    "WHAT: Typhoon Champi cancelled flights and closed schools and offices",
+    "WHERE: Near Taiwan's north-east coast and Japan's Okinawa",
+    "WHY: A very strong storm came close, helped by a strong El Niño"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Forecasters",
+      "description": "Expected the storm's center to pass by Taiwan, but were not completely sure."
+    }
+  ],
+  "mined_at": "2026-10-23T10:28:39+00:00",
+  "source_published_at": "Fri, 23 Oct 2026 08:45:58 GMT",
+  "source_name": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss",
+  "category": "News",
+  "source_word_count": 457,
+  "detail_status": "full"
+}

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-22-science-1",
-      "source": "ScienceDaily All",
-      "time_ago": "Wed, 21 Oct 2026 00:08:28 EDT",
-      "mined_at": "2026-10-22T10:21:22+00:00",
-      "source_published_at": "Wed, 21 Oct 2026 00:08:28 EDT",
-      "image_url": "/article_images/science-s18bb37879b0b737c.webp",
+      "id": "2026-10-23-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Thu, 22 Oct 2026 07:03:49 EDT",
+      "mined_at": "2026-10-23T10:28:39+00:00",
+      "source_published_at": "Thu, 22 Oct 2026 07:03:49 EDT",
+      "image_url": "/article_images/science-s97c76c9630cf476f.webp",
       "category": "Science",
-      "title": "Scientists Confirm an Ancient Asteroid Hit the North Sea",
-      "summary": "Tiny shocked crystals prove that the Silverpit Crater under the North Sea was made by an asteroid about 43 to 46 million years ago."
+      "title": "Curiosity Rover Spots Mysterious Cliffs Ahead on Mars",
+      "summary": "Curiosity's new Mars panorama shows wind-carved cliffs that scientists hope to study up close in 2027."
     },
     {
-      "id": "2026-10-22-science-2",
-      "source": "Popular Mechanics",
-      "time_ago": "Wed, 21 Oct 2026 13:30:00 +0000",
-      "mined_at": "2026-10-22T10:21:22+00:00",
-      "source_published_at": "Wed, 21 Oct 2026 13:30:00 +0000",
-      "image_url": "/article_images/science-s638ac0ac8ec2702e.webp",
+      "id": "2026-10-23-science-2",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Tue, 20 Oct 2026 23:08:17 EDT",
+      "mined_at": "2026-10-23T10:28:39+00:00",
+      "source_published_at": "Tue, 20 Oct 2026 23:08:17 EDT",
+      "image_url": "/article_images/science-sa5621ea274012c64.webp",
       "category": "Science",
-      "title": "Giant Pharaoh Head Found in Egyptian Yard",
-      "summary": "A homeowner's find in an Egyptian village led archaeologists to a giant stone head of Pharaoh Ramesses II and possibly a lost temple."
+      "title": "Scientists Find an Eyeless Snail Living in a Dark Chinese Cave",
+      "summary": "A new eyeless, see-through snail found in a high Chinese cave is the country's first known freshwater cave snail."
     },
     {
-      "id": "2026-10-22-science-3",
-      "source": "Science News Explores",
-      "time_ago": "Tue, 20 Oct 2026 10:30:00 +0000",
-      "mined_at": "2026-10-22T10:21:22+00:00",
-      "source_published_at": "Tue, 20 Oct 2026 10:30:00 +0000",
-      "image_url": "/article_images/science-s8bd79becce51e150.webp",
+      "id": "2026-10-23-science-3",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Thu, 22 Oct 2026 21:21:47 EDT",
+      "mined_at": "2026-10-23T10:28:39+00:00",
+      "source_published_at": "Thu, 22 Oct 2026 21:21:47 EDT",
+      "image_url": "/article_images/science-sb3aacf454083025a.webp",
       "category": "Science",
-      "title": "Charged Raindrops Can Slowly Eat Away at Metal",
-      "summary": "Scientists found that raindrops charged by sliding over leaves or glass can wear through protective coatings and corrode metal."
+      "title": "A $10 Light Sensor Could Bring Lab Tests to Your Wrist",
+      "summary": "Cambridge researchers built a $10 light sensor that measures as precisely as large lab machines."
     }
   ]
 }

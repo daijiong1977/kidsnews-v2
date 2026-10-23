@@ -1,0 +1,129 @@
+{
+  "title": "Strong Typhoon Champi Brings Wind and Rain Near Taiwan",
+  "summary": "Hundreds of flights in East Asia were cancelled on Friday as Typhoon Champi moved close to Taiwan's north-east coast. A typhoon is the name for a powerful tropical storm in this part of the Pacific Ocean, like a hurricane in the Atlantic.\n\nAuthorities said one person died after being swept away by waves. The storm also injured 171 people, and about 1,000 people left their homes to stay safe.\n\nEarlier this week, Champi was the strongest storm on the planet so far this year. Its steady winds reached 185 miles per hour over the Philippine Sea, which is as strong as a Category 5 hurricane. It later weakened. On Friday afternoon, its wind gusts were about 119 miles per hour.\n\nWeather agencies in Taiwan, Hong Kong and Japan expected the center of the storm, called the eye, to pass by without coming onto land in Taiwan. But a Taiwanese forecaster said this could not be completely ruled out if the storm stalls or wobbles.\n\nRain was expected to be heaviest on Saturday morning and to continue until Saturday evening. Officials asked people to stay away from coasts and mountains.\n\nWork and classes were called off on Friday in nearly all of Taiwan's 22 counties and cities. People there call this a \"typhoon holiday.\" Only Kinmen county, a group of islands west of the main island, kept schools and offices open.\n\nIn Japan's Okinawa area, nearly 8,400 homes lost power, and more than 160 flights were cancelled by four Japanese airlines. Heavy rain and wind also reached Batanes, Philippine islands south of Taiwan.\n\nChampi is Japan's 30th typhoon this year, the most since 2013. Experts link the busy season to an unusually strong El Niño, a natural warming of the Pacific Ocean that happens every few years and can change weather around the world.",
+  "why_it_matters": "A very active typhoon season shows how ocean patterns like El Niño can affect millions of people, and how warnings, closures and evacuations help keep communities safe.",
+  "image_url": "/article_images/news-s5f2679e5179f3b52.webp",
+  "keywords": [
+    {
+      "term": "typhoon",
+      "explanation": "A powerful tropical storm in the western Pacific Ocean, similar to a hurricane."
+    },
+    {
+      "term": "Category 5 hurricane",
+      "explanation": "The strongest level on the scale used to rate hurricanes by wind speed."
+    },
+    {
+      "term": "gusts",
+      "explanation": "Sudden, short bursts of strong wind."
+    },
+    {
+      "term": "forecaster",
+      "explanation": "A scientist who predicts the weather."
+    },
+    {
+      "term": "counties",
+      "explanation": "Local areas within a country or state that have their own government."
+    },
+    {
+      "term": "El Niño",
+      "explanation": "A natural warming of the Pacific Ocean every few years that can change weather around the world."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What happened to many flights in East Asia on Friday?",
+      "options": [
+        "They were cancelled",
+        "They were moved to Saturday morning",
+        "They were made free",
+        "They flew faster"
+      ],
+      "correct_answer": "They were cancelled"
+    },
+    {
+      "question": "How strong were Champi's steady winds at its peak?",
+      "options": [
+        "119 miles per hour",
+        "300 miles per hour",
+        "50 miles per hour",
+        "185 miles per hour"
+      ],
+      "correct_answer": "185 miles per hour"
+    },
+    {
+      "question": "What do people in Taiwan call a day when work and classes stop because of a storm?",
+      "options": [
+        "A typhoon holiday",
+        "A storm break",
+        "A wind week",
+        "A rain day"
+      ],
+      "correct_answer": "A typhoon holiday"
+    },
+    {
+      "question": "Which place in Taiwan kept work and classes going as usual?",
+      "options": [
+        "Liuqiu island",
+        "Kinmen county",
+        "Taipei",
+        "Okinawa"
+      ],
+      "correct_answer": "Kinmen county"
+    },
+    {
+      "question": "About how many households in Okinawa lost power?",
+      "options": [
+        "Nearly 8,400",
+        "More than 160",
+        "1,000",
+        "171"
+      ],
+      "correct_answer": "Nearly 8,400"
+    },
+    {
+      "question": "What do experts link to this year's busy typhoon season?",
+      "options": [
+        "Melting glaciers in Taiwan",
+        "A volcano",
+        "A solar eclipse",
+        "An unusually strong El Niño"
+      ],
+      "correct_answer": "An unusually strong El Niño"
+    }
+  ],
+  "background_read": [
+    "Typhoons are giant spinning storms that form over warm ocean water in the western Pacific; in the Atlantic, the same kind of storm is called a hurricane.",
+    "Their strength is measured by wind speed, and the strongest ones match a Category 5 hurricane.",
+    "Places often hit by typhoons, such as Taiwan, Japan and the Philippines, close schools and offices and warn people to avoid coasts so they stay safe.",
+    "El Niño is a natural pattern in which Pacific Ocean water grows warmer than usual, which can feed stronger or more frequent storms in some regions."
+  ],
+  "Article_Structure": [
+    "LEAD: Typhoon Champi nears Taiwan's north-east coast, cancelling hundreds of flights",
+    "IMPACT: One person died after being swept away by waves; 171 injured; about 1,000 evacuated",
+    "STORM STRENGTH: Strongest storm of the year earlier this week (185 mph), weaker by Friday (gusts 119 mph)",
+    "FORECAST: Eye expected to pass without landfall, but forecasters cannot rule it out",
+    "  ├─ WHEN: Heaviest rain Saturday morning, lasting until Saturday evening",
+    "  └─ ADVICE: Stay away from coasts and mountains",
+    "RESPONSE: \"Typhoon holiday\" closes work and classes almost everywhere except Kinmen county",
+    "REGIONAL EFFECTS: Power cuts and flight cancellations in Okinawa; heavy rain in Batanes",
+    "CAUSE: Japan's 30th typhoon this year, linked to an unusually strong El Niño",
+    "OPEN QUESTION: Whether the storm stalls or wobbles toward land"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Weather agencies in Taiwan, Hong Kong and Japan",
+      "description": "Forecast that the eye of the storm would pass without making landfall in Taiwan."
+    },
+    {
+      "perspective": "A Taiwanese forecaster",
+      "description": "Said landfall could not be completely ruled out if the storm stalls or wobbles."
+    }
+  ],
+  "mined_at": "2026-10-23T10:28:39+00:00",
+  "source_published_at": "Fri, 23 Oct 2026 08:45:58 GMT",
+  "source_name": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss",
+  "category": "News",
+  "source_word_count": 457,
+  "detail_status": "full"
+}

@@ -1,0 +1,131 @@
+{
+  "title": "U.S. Border Officers Are Searching More Phones and Laptops",
+  "summary": "U.S. border officers are checking more travelers' phones and laptops than ever before, according to government numbers obtained by the Canadian news outlet CBC News.\n\nU.S. Customs and Border Protection, or CBP, is the agency that checks people and goods coming into the country. From October 1, 2025, to June 30, 2026, its officers searched 52,080 electronic devices. That is more than 32 percent higher than the 39,251 searched during the same months a year earlier. It is almost as many as the record 55,424 devices searched in the whole previous year.\n\nMost were basic searches, which an officer can do without suspecting anything wrong. About 4,564 were advanced searches, which are allowed when an officer suspects a law has been broken or there is a security concern. In those, the officer may study or copy what is on the device.\n\nA CBP spokesperson said the searches are \"exceedingly rare,\" affecting only about 0.01 percent of travelers. She said they help find illegal digital material, terrorism-related content and information about whether visitors may enter.\n\nEsha Bhandari of the American Civil Liberties Union, a group that works on privacy rights, said Congress should look more closely at the searches. She said the government does not explain the increase and that it hurts travelers' privacy.\n\nCBP did not say where the searches happened or how many involved U.S. citizens. Laura Dawson, who leads a group focused on border issues, said the rise is hard to judge without those details. She pointed out that many people traveled for the World Cup this summer.\n\nThe story raises a question many families may think about: how to balance safety at the border with personal privacy.",
+  "why_it_matters": "Phones hold a lot of personal information, so the rise in border searches raises a bigger question about how to balance national security with travelers' privacy rights.",
+  "image_url": "/article_images/news-sf8c419c94e70c7d3.webp",
+  "keywords": [
+    {
+      "term": "customs",
+      "explanation": "The government service that checks people and goods entering a country."
+    },
+    {
+      "term": "electronic devices",
+      "explanation": "Machines such as phones, laptops and tablets that store information."
+    },
+    {
+      "term": "advanced searches",
+      "explanation": "Deeper checks of a device that officers may do when they suspect a law was broken."
+    },
+    {
+      "term": "civil liberties",
+      "explanation": "Basic rights and freedoms, such as privacy and free speech, that the government must respect."
+    },
+    {
+      "term": "privacy",
+      "explanation": "The right to keep your personal information to yourself."
+    },
+    {
+      "term": "Congress",
+      "explanation": "The part of the U.S. government that makes federal laws."
+    }
+  ],
+  "questions": [
+    {
+      "question": "By about how much have device searches increased this year?",
+      "options": [
+        "Exactly 100 percent",
+        "More than 32 percent",
+        "They went down",
+        "About 5 percent"
+      ],
+      "correct_answer": "More than 32 percent"
+    },
+    {
+      "question": "How many devices did CBP search from October 1, 2025, to June 30, 2026?",
+      "options": [
+        "39,251",
+        "419 million",
+        "55,424",
+        "52,080"
+      ],
+      "correct_answer": "52,080"
+    },
+    {
+      "question": "What is true about a basic search?",
+      "options": [
+        "It always involves copying the device",
+        "An officer can do it without suspecting wrongdoing",
+        "It requires a court order",
+        "It can only happen at seaports"
+      ],
+      "correct_answer": "An officer can do it without suspecting wrongdoing"
+    },
+    {
+      "question": "According to CBP, about what share of travelers have their devices searched?",
+      "options": [
+        "About 0.01 percent",
+        "About 10 percent",
+        "Half",
+        "Every traveler"
+      ],
+      "correct_answer": "About 0.01 percent"
+    },
+    {
+      "question": "What does Esha Bhandari of the ACLU want?",
+      "options": [
+        "Fewer travelers from Canada",
+        "More searches at airports",
+        "A ban on laptops",
+        "More congressional oversight and accountability"
+      ],
+      "correct_answer": "More congressional oversight and accountability"
+    },
+    {
+      "question": "Which event did Laura Dawson mention as a reason many people traveled this summer?",
+      "options": [
+        "A royal wedding",
+        "A solar eclipse",
+        "The Olympics",
+        "The World Cup"
+      ],
+      "correct_answer": "The World Cup"
+    }
+  ],
+  "background_read": [
+    "U.S. Customs and Border Protection is the federal agency that checks travelers and goods arriving at airports, seaports and land borders.",
+    "Border officers have broad power to inspect what people bring into the country, and today that can include the data stored on phones and laptops.",
+    "Privacy groups such as the American Civil Liberties Union argue that phones hold very personal information, so searching them should have clear limits and checks by Congress or the courts."
+  ],
+  "Article_Structure": [
+    "LEAD: U.S. border searches of phones and laptops are up more than 32% and heading for a record",
+    "KEY DATA: 52,080 devices searched Oct. 2025 to June 2026, versus 39,251 a year earlier",
+    "  ├─ BASIC SEARCHES: Most searches, allowed without suspicion",
+    "  └─ ADVANCED SEARCHES: 4,564, allowed with reasonable suspicion; contents may be copied",
+    "MISSING DETAILS: CBP will not say where searches happened or how many involved U.S. citizens",
+    "GOVERNMENT VIEW: CBP says searches are \"exceedingly rare\" and protect national security",
+    "CRITIC VIEW: ACLU's Esha Bhandari calls for more oversight, citing privacy concerns",
+    "CONTEXT: Laura Dawson notes more travel, including the World Cup",
+    "OPEN QUESTION: Why the searches are rising, since the government does not explain it"
+  ],
+  "perspectives": [
+    {
+      "perspective": "U.S. Customs and Border Protection",
+      "description": "Says device searches remain exceedingly rare and help detect contraband, terrorism-related content and admissibility information."
+    },
+    {
+      "perspective": "Esha Bhandari, ACLU",
+      "description": "Says the increase hurts travelers' privacy and needs more congressional oversight and accountability."
+    },
+    {
+      "perspective": "Laura Dawson, Future Borders Coalition",
+      "description": "Says the increase is hard to judge without knowing where searches happened and how many people traveled."
+    }
+  ],
+  "mined_at": "2026-10-23T10:28:39+00:00",
+  "source_published_at": "Fri, 23 Oct 2026 04:00:00 EDT",
+  "source_name": "CBC World",
+  "source_url": "https://www.cbc.ca/news/politics/cbp-searches-electronic-devices-9.7392252?cmp=rss",
+  "category": "News",
+  "source_word_count": 711,
+  "detail_status": "full"
+}

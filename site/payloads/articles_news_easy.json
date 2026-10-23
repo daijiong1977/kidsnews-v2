@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-22-news-1",
-      "source": "NPR World",
-      "time_ago": "Wed, 21 Oct 2026 06:20:50 -0400",
-      "mined_at": "2026-10-22T10:21:22+00:00",
-      "source_published_at": "Wed, 21 Oct 2026 06:20:50 -0400",
-      "image_url": "/article_images/news-s10e19c0c1676edb7.webp",
-      "category": "News",
-      "title": "Russia Lets an American Teacher Go Home",
-      "summary": "Russia freed Stephen Hubbard, a 74-year-old former teacher from Michigan, after President Trump asked."
-    },
-    {
-      "id": "2026-10-22-news-2",
+      "id": "2026-10-23-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Wed, 21 Oct 2026 18:45:30 -0400",
-      "mined_at": "2026-10-22T10:21:22+00:00",
-      "source_published_at": "Wed, 21 Oct 2026 18:45:30 -0400",
-      "image_url": "/article_images/news-sd13019f1f802863c.webp",
+      "time_ago": "Thu, 22 Oct 2026 18:55:44 -0400",
+      "mined_at": "2026-10-23T10:28:39+00:00",
+      "source_published_at": "Thu, 22 Oct 2026 18:55:44 -0400",
+      "image_url": "/article_images/news-s87ad9eb885a407db.webp",
       "category": "News",
-      "title": "Websites Rush to Fix a Big Security Problem",
-      "summary": "Websites around the world rushed to fix a weak spot in the PHP computer language that hackers could use."
+      "title": "Judge Puts Limits on Search for Noncitizen Voters",
+      "summary": "A judge limited a government search for noncitizen voters in nine states before the elections."
     },
     {
-      "id": "2026-10-22-news-3",
-      "source": "NPR World",
-      "time_ago": "Thu, 22 Oct 2026 05:00:00 -0400",
-      "mined_at": "2026-10-22T10:21:22+00:00",
-      "source_published_at": "Thu, 22 Oct 2026 05:00:00 -0400",
-      "image_url": "/article_images/news-s7cad9c0e64723055.webp",
+      "id": "2026-10-23-news-2",
+      "source": "BBC News",
+      "time_ago": "Fri, 23 Oct 2026 08:45:58 GMT",
+      "mined_at": "2026-10-23T10:28:39+00:00",
+      "source_published_at": "Fri, 23 Oct 2026 08:45:58 GMT",
+      "image_url": "/article_images/news-s5f2679e5179f3b52.webp",
       "category": "News",
-      "title": "Saving for a First Home Takes Much Longer Now",
-      "summary": "A new report says a typical renter family now needs about 16 years to save for a first home, twice as long as in 2019."
+      "title": "Typhoon Champi Brings Storms and a Day Off in Taiwan",
+      "summary": "Typhoon Champi cancelled flights and closed schools in Taiwan as it passed nearby."
+    },
+    {
+      "id": "2026-10-23-news-3",
+      "source": "CBC World",
+      "time_ago": "Fri, 23 Oct 2026 04:00:00 EDT",
+      "mined_at": "2026-10-23T10:28:39+00:00",
+      "source_published_at": "Fri, 23 Oct 2026 04:00:00 EDT",
+      "image_url": "/article_images/news-sf8c419c94e70c7d3.webp",
+      "category": "News",
+      "title": "Border Officers Check More Phones and Laptops",
+      "summary": "U.S. border searches of phones and laptops are up more than 32 percent this year."
     }
   ]
 }

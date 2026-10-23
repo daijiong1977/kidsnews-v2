@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-22-news-1",
-      "source": "NPR World",
-      "time_ago": "Wed, 21 Oct 2026 06:20:50 -0400",
-      "mined_at": "2026-10-22T10:21:22+00:00",
-      "source_published_at": "Wed, 21 Oct 2026 06:20:50 -0400",
-      "image_url": "/article_images/news-s10e19c0c1676edb7.webp",
-      "category": "News",
-      "title": "Russia Frees American Teacher Stephen Hubbard",
-      "summary": "Russia released Stephen Hubbard, a 74-year-old former teacher from Michigan, after a request from President Trump. The U.S. says it gave nothing in return."
-    },
-    {
-      "id": "2026-10-22-news-2",
+      "id": "2026-10-23-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Wed, 21 Oct 2026 18:45:30 -0400",
-      "mined_at": "2026-10-22T10:21:22+00:00",
-      "source_published_at": "Wed, 21 Oct 2026 18:45:30 -0400",
-      "image_url": "/article_images/news-sd13019f1f802863c.webp",
+      "time_ago": "Thu, 22 Oct 2026 18:55:44 -0400",
+      "mined_at": "2026-10-23T10:28:39+00:00",
+      "source_published_at": "Thu, 22 Oct 2026 18:55:44 -0400",
+      "image_url": "/article_images/news-s87ad9eb885a407db.webp",
       "category": "News",
-      "title": "Websites Around the World Rush to Fix Security Flaw",
-      "summary": "Officials raced to patch websites worldwide after the FBI and NSA warned that a flaw involving the PHP programming language could let hackers take control."
+      "title": "Judge Limits Government Search for Noncitizens on Voter Lists",
+      "summary": "A federal judge limited a DHS effort to find noncitizens on voter lists in nine states before the midterm elections."
     },
     {
-      "id": "2026-10-22-news-3",
-      "source": "NPR World",
-      "time_ago": "Thu, 22 Oct 2026 05:00:00 -0400",
-      "mined_at": "2026-10-22T10:21:22+00:00",
-      "source_published_at": "Thu, 22 Oct 2026 05:00:00 -0400",
-      "image_url": "/article_images/news-s7cad9c0e64723055.webp",
+      "id": "2026-10-23-news-2",
+      "source": "BBC News",
+      "time_ago": "Fri, 23 Oct 2026 08:45:58 GMT",
+      "mined_at": "2026-10-23T10:28:39+00:00",
+      "source_published_at": "Fri, 23 Oct 2026 08:45:58 GMT",
+      "image_url": "/article_images/news-s5f2679e5179f3b52.webp",
       "category": "News",
-      "title": "Saving for a First Home Now Takes Twice as Long",
-      "summary": "A new report says the average renter family now needs about 16 years to save for a starter home, twice as long as in 2019."
+      "title": "Strong Typhoon Champi Brings Wind and Rain Near Taiwan",
+      "summary": "Typhoon Champi cancelled hundreds of flights and closed schools in Taiwan as it passed near the island."
+    },
+    {
+      "id": "2026-10-23-news-3",
+      "source": "CBC World",
+      "time_ago": "Fri, 23 Oct 2026 04:00:00 EDT",
+      "mined_at": "2026-10-23T10:28:39+00:00",
+      "source_published_at": "Fri, 23 Oct 2026 04:00:00 EDT",
+      "image_url": "/article_images/news-sf8c419c94e70c7d3.webp",
+      "category": "News",
+      "title": "U.S. Border Officers Are Searching More Phones and Laptops",
+      "summary": "Searches of travelers' phones and laptops at U.S. borders are up more than 32 percent this year."
     }
   ]
 }

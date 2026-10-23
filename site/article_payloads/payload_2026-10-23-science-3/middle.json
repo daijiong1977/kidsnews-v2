@@ -1,0 +1,124 @@
+{
+  "title": "A $10 Light Sensor Could Bring Lab Tests to Your Wrist",
+  "summary": "Scientists at the University of Cambridge in England have built a light sensor that costs about $10 but measures as precisely as big laboratory machines. One day, it could help people check their blood sugar without needles.\n\nThe device is a spectrometer. A spectrometer studies light that has passed through or bounced off something. Because different materials change light in different ways, the light reveals what a substance is made of. Spectrometers are important in medicine, factories and environmental science, but small ones have usually been less accurate than big ones.\n\nThe Cambridge team, working with a start-up company called GlitterinTech, tried a new idea. Instead of splitting light into colors, their sensor uses a math rule called the convolution theorem right on the light itself. \"The key insight was to go back to the mathematics,\" said Dr. Chunhui Yao, a lead author. The device is just centimeters across and works in less than a second.\n\nIn tests, it correctly identified plastics, medicines, coffee, flour and tea every time. It also measured how much of a substance was mixed into liquids with very high accuracy, beating larger commercial machines in those experiments.\n\nThe team also tested it on body measurements, such as skin moisture, blood sugar and other markers, in conditions designed to be like the human body. In one person, they tracked blood sugar over time without piercing the skin. The researchers say more testing is needed before it could become a medical product.\n\nThe sensor kept working from minus 20 to 80 degrees Celsius, which could make it useful in wearable devices, factories and outdoor sensors. Professor Qixiang Cheng, who led the project, said it is ready for real-world conditions, not just the lab.",
+  "why_it_matters": "Cheap, accurate sensors could one day move lab-quality testing into watches and phones, helping with health checks, food safety and environmental monitoring.",
+  "image_url": "/article_images/science-sb3aacf454083025a.webp",
+  "keywords": [
+    {
+      "term": "spectrometer",
+      "explanation": "A tool that studies light to find out what something is made of."
+    },
+    {
+      "term": "convolution theorem",
+      "explanation": "A math rule that helps combine and separate signals, used here to analyze light."
+    },
+    {
+      "term": "start-up",
+      "explanation": "A new, young company built around a fresh idea."
+    },
+    {
+      "term": "wearable",
+      "explanation": "Small enough to be worn on the body, like a watch."
+    },
+    {
+      "term": "Celsius",
+      "explanation": "A temperature scale where water freezes at 0 degrees and boils at 100 degrees."
+    }
+  ],
+  "questions": [
+    {
+      "question": "About how much does the new sensor cost?",
+      "options": [
+        "$1,000",
+        "$100",
+        "$10,000",
+        "$10"
+      ],
+      "correct_answer": "$10"
+    },
+    {
+      "question": "What does a spectrometer study?",
+      "options": [
+        "Heat only",
+        "Sound",
+        "Magnets",
+        "Light"
+      ],
+      "correct_answer": "Light"
+    },
+    {
+      "question": "Which math idea does the new design use?",
+      "options": [
+        "Prime numbers",
+        "The convolution theorem",
+        "The Pythagorean theorem",
+        "Long division"
+      ],
+      "correct_answer": "The convolution theorem"
+    },
+    {
+      "question": "Which items did the sensor identify correctly every time in tests?",
+      "options": [
+        "Insects and plants",
+        "Plastics, medicines, coffee, flour and tea",
+        "Rocks and metals",
+        "Only water"
+      ],
+      "correct_answer": "Plastics, medicines, coffee, flour and tea"
+    },
+    {
+      "question": "What did the team track over time in one person without piercing the skin?",
+      "options": [
+        "Blood sugar",
+        "Eyesight",
+        "Hair growth",
+        "Height"
+      ],
+      "correct_answer": "Blood sugar"
+    },
+    {
+      "question": "Across what temperature range did the sensor keep working?",
+      "options": [
+        "From minus 20 to 80 degrees Celsius",
+        "Only at room temperature",
+        "From 100 to 200 degrees Celsius",
+        "From 0 to 10 degrees Celsius"
+      ],
+      "correct_answer": "From minus 20 to 80 degrees Celsius"
+    }
+  ],
+  "background_read": [
+    "Every material absorbs and reflects light in its own pattern, a bit like a fingerprint, and spectrometers read that pattern to identify substances.",
+    "Spectrometers are used in hospitals, factories and labs, but the most accurate ones have usually been large and expensive.",
+    "Many people with diabetes must check their blood sugar often, which usually means pricking the skin, so scientists are looking for ways to measure it using light instead.",
+    "Making scientific tools smaller and cheaper can let them fit into everyday devices like smartwatches."
+  ],
+  "Article_Structure": [
+    "LEAD: Cambridge scientists build a $10 light sensor with lab-level precision",
+    "WHAT IT IS: A spectrometer that reads how materials change light",
+    "  ├─ PROBLEM: Small spectrometers are usually less accurate",
+    "  └─ SOLUTION: Uses the convolution theorem directly on light",
+    "WHO: University of Cambridge and the start-up GlitterinTech; Dr. Chunhui Yao and Prof. Qixiang Cheng",
+    "EVIDENCE: Identified plastics, medicines, coffee, flour and tea every time; beat larger machines at measuring mixtures",
+    "HEALTH TESTS: Measured skin moisture and blood sugar; tracked blood sugar in one person without needles",
+    "DURABILITY: Worked from minus 20 to 80 degrees Celsius",
+    "OPEN QUESTION: More testing is needed before it becomes a medical product"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Dr. Chunhui Yao, lead author",
+      "description": "Says going back to the mathematics gave a cleaner way to read light with high precision in a small, low-cost system."
+    },
+    {
+      "perspective": "Prof. Qixiang Cheng, project leader",
+      "description": "Says the work stands out for being ready to work reliably in real-world conditions, not just in the lab."
+    }
+  ],
+  "mined_at": "2026-10-23T10:28:39+00:00",
+  "source_published_at": "Thu, 22 Oct 2026 21:21:47 EDT",
+  "source_name": "ScienceDaily Top Technology",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
+  "category": "Science",
+  "source_word_count": 833,
+  "detail_status": "full"
+}

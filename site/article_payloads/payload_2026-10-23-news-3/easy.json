@@ -1,0 +1,117 @@
+{
+  "title": "Border Officers Check More Phones and Laptops",
+  "summary": "U.S. border officers are checking more travelers' phones and laptops than ever, according to numbers obtained by the Canadian news outlet CBC News.\n\nCustoms and Border Protection, or CBP, checks people and goods coming into the United States. From October 2025 to June 2026, officers searched 52,080 devices. That is more than 32 percent more than the year before.\n\nMost were basic searches, which officers can do without suspecting anything. About 4,564 were deeper searches, where officers may study or copy what is on a device.\n\nCBP says these searches are very rare and help find illegal material and security threats. Esha Bhandari of the American Civil Liberties Union, a group that works on privacy, says Congress should watch the searches more closely.\n\nCBP did not say where the searches happened. One border expert said many people also traveled for the World Cup this summer.",
+  "why_it_matters": "Many families travel with phones, so it helps to know the rules about searches and privacy.",
+  "image_url": "/article_images/news-sf8c419c94e70c7d3.webp",
+  "keywords": [
+    {
+      "term": "Customs",
+      "explanation": "The government service that checks people and things coming into a country."
+    },
+    {
+      "term": "devices",
+      "explanation": "Machines like phones and laptops."
+    },
+    {
+      "term": "percent",
+      "explanation": "A way of showing part of 100."
+    },
+    {
+      "term": "privacy",
+      "explanation": "Keeping your personal information to yourself."
+    },
+    {
+      "term": "Congress",
+      "explanation": "The group of lawmakers who make laws for the whole United States."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What are border officers checking more often?",
+      "options": [
+        "Pets",
+        "Cars only",
+        "Phones and laptops",
+        "Shoes"
+      ],
+      "correct_answer": "Phones and laptops"
+    },
+    {
+      "question": "Which news outlet got the numbers?",
+      "options": [
+        "A cooking show",
+        "CBC News",
+        "A sports channel",
+        "A school newspaper"
+      ],
+      "correct_answer": "CBC News"
+    },
+    {
+      "question": "By about how much did searches go up?",
+      "options": [
+        "1 percent",
+        "More than 32 percent",
+        "They went down",
+        "Exactly double"
+      ],
+      "correct_answer": "More than 32 percent"
+    },
+    {
+      "question": "What can officers do in a deeper search?",
+      "options": [
+        "Buy the device",
+        "Fix the device",
+        "Keep the device forever",
+        "Study or copy what is on a device"
+      ],
+      "correct_answer": "Study or copy what is on a device"
+    },
+    {
+      "question": "What does CBP say about these searches?",
+      "options": [
+        "They are new this week",
+        "They are fun",
+        "They are very rare",
+        "They happen to everyone"
+      ],
+      "correct_answer": "They are very rare"
+    },
+    {
+      "question": "What does Esha Bhandari want Congress to do?",
+      "options": [
+        "Close airports",
+        "Watch the searches more closely",
+        "Build a wall",
+        "Ban phones"
+      ],
+      "correct_answer": "Watch the searches more closely"
+    }
+  ],
+  "background_read": [
+    "When people travel into the United States, border officers check them and their bags to keep the country safe.",
+    "Phones and laptops hold lots of personal information, so some people worry about privacy when they are searched."
+  ],
+  "Article_Structure": [
+    "WHO: U.S. Customs and Border Protection officers and travelers",
+    "WHAT: Searched more phones and laptops, up more than 32 percent",
+    "WHERE: At U.S. borders where travelers enter the country",
+    "WHY: CBP says to find illegal material and security threats"
+  ],
+  "perspectives": [
+    {
+      "perspective": "CBP",
+      "description": "Says searches are very rare and help find illegal material and security threats."
+    },
+    {
+      "perspective": "Esha Bhandari",
+      "description": "Says Congress should watch the searches more closely to protect privacy."
+    }
+  ],
+  "mined_at": "2026-10-23T10:28:39+00:00",
+  "source_published_at": "Fri, 23 Oct 2026 04:00:00 EDT",
+  "source_name": "CBC World",
+  "source_url": "https://www.cbc.ca/news/politics/cbp-searches-electronic-devices-9.7392252?cmp=rss",
+  "category": "News",
+  "source_word_count": 711,
+  "detail_status": "full"
+}

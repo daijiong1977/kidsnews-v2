@@ -1,0 +1,136 @@
+{
+  "title": "Judge Limits Government Search for Noncitizens on Voter Lists",
+  "summary": "With the midterm elections less than two weeks away, a federal judge in California has put limits on a U.S. government effort to look for noncitizens on voter lists.\n\nVoter lists, also called voter rolls, are records of people who are registered to vote. In the United States, only citizens may vote in federal elections. Voting by noncitizens is already illegal, and reporters note that it is extremely rare.\n\nAccording to a lawsuit, the Department of Homeland Security, or DHS, has been running an operation since August that it calls the Unlawful Voter Initiative. Hundreds of DHS agents have been assigned to look for voter fraud.\n\nThe judge ruled that DHS must restrict its field work. Agents cannot stop people for interviews unless they believe a person is a noncitizen. The ruling covers nine states: California, Connecticut, Georgia, Missouri, Nevada, New York, Pennsylvania, Washington and Wisconsin. The judge was concerned that lists made by DHS contained errors and included the names of citizens. The order was set to start a day later, giving the government time to appeal.\n\nIn a separate case, the Department of Justice says about 20,000 noncitizens are on voter rolls in California. California officials, including the Los Angeles County registrar, say they do not know whether that list is accurate, because it was built from incomplete state data. The registrar's office said it has not stopped processing mail ballots. Another court hearing is set for next Tuesday.\n\nAttorney General Todd Blanche said, \"We're not trying to create chaos.\" Meanwhile, a group of Democratic organizations has sued the Trump administration, saying the actions amount to voter intimidation.\n\nThe cases show how courts help decide the rules for elections when people disagree.",
+  "why_it_matters": "Fair elections depend on accurate voter lists and on voters feeling free to vote, so courts are deciding how far the federal government can go in checking eligibility right before a national election.",
+  "image_url": "/article_images/news-s87ad9eb885a407db.webp",
+  "keywords": [
+    {
+      "term": "midterm elections",
+      "explanation": "U.S. elections held halfway through a president's four-year term, mostly to choose members of Congress."
+    },
+    {
+      "term": "noncitizens",
+      "explanation": "People who live in a country but are not legal citizens of it."
+    },
+    {
+      "term": "voter rolls",
+      "explanation": "Official lists of everyone who is registered to vote."
+    },
+    {
+      "term": "registrar",
+      "explanation": "An official whose job is to keep records, such as the list of voters in a county."
+    },
+    {
+      "term": "appeal",
+      "explanation": "To ask a higher court to change a judge's decision."
+    },
+    {
+      "term": "intimidation",
+      "explanation": "Trying to scare or pressure people so they will not do something, such as vote."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What did the federal judge in California do?",
+      "options": [
+        "Ordered every state to print new voter lists",
+        "Closed the Los Angeles County registrar's office",
+        "Cancelled the midterm elections",
+        "Put limits on a DHS effort to look for noncitizens on voter lists"
+      ],
+      "correct_answer": "Put limits on a DHS effort to look for noncitizens on voter lists"
+    },
+    {
+      "question": "How many states does the ruling cover?",
+      "options": [
+        "Nine",
+        "Fifty",
+        "Two",
+        "Five"
+      ],
+      "correct_answer": "Nine"
+    },
+    {
+      "question": "What is the name of the DHS operation described in the article?",
+      "options": [
+        "The Citizen Check Project",
+        "Operation Ballot Box",
+        "The Unlawful Voter Initiative",
+        "The Midterm Watch Program"
+      ],
+      "correct_answer": "The Unlawful Voter Initiative"
+    },
+    {
+      "question": "Why was the judge concerned about the DHS lists?",
+      "options": [
+        "They were too short",
+        "They were shared on social media",
+        "They were written in the wrong language",
+        "They had errors and included the names of citizens"
+      ],
+      "correct_answer": "They had errors and included the names of citizens"
+    },
+    {
+      "question": "How many noncitizens does the Department of Justice say are on California's voter rolls?",
+      "options": [
+        "About 2 million",
+        "About 6,600",
+        "About 340",
+        "About 20,000"
+      ],
+      "correct_answer": "About 20,000"
+    },
+    {
+      "question": "What did a group of Democratic organizations claim in their lawsuit?",
+      "options": [
+        "That voting should move online",
+        "That mail ballots should be banned",
+        "That the actions amount to voter intimidation",
+        "That the election date should change"
+      ],
+      "correct_answer": "That the actions amount to voter intimidation"
+    }
+  ],
+  "background_read": [
+    "In the United States, people must be citizens to vote in federal elections, and states keep lists of registered voters called voter rolls.",
+    "The Department of Homeland Security is a federal agency that handles border, immigration and security work, while the Department of Justice enforces federal laws in court.",
+    "When people or groups think a government action breaks the law, they can file a lawsuit, and a judge can order the government to stop or limit what it is doing.",
+    "Because the midterm elections are close, courts are deciding quickly how far these federal checks on voters may go."
+  ],
+  "Article_Structure": [
+    "LEAD: A federal judge in California limits a DHS effort to find noncitizens on voter lists, less than two weeks before the midterms",
+    "BACKGROUND: Only citizens may vote in federal elections; noncitizen voting is illegal and extremely rare",
+    "KEY EVENT: Ruling restricts DHS field interviews in its Unlawful Voter Initiative",
+    "  ├─ WHO: A federal judge and the Department of Homeland Security",
+    "  ├─ WHERE: Nine states, including California, New York and Pennsylvania",
+    "  └─ WHY: The judge found DHS lists had errors and included citizens",
+    "RELATED CASE: The Justice Department says about 20,000 noncitizens are on California rolls; officials question the list",
+    "REACTIONS: Attorney General Todd Blanche says the goal is not chaos; Democratic groups sue over voter intimidation",
+    "OPEN QUESTION: How courts will settle these disputes before Election Day, with a hearing set for next Tuesday"
+  ],
+  "perspectives": [
+    {
+      "perspective": "The judge",
+      "description": "Worried that DHS lists had errors and included citizens' names, so limited agents' field interviews."
+    },
+    {
+      "perspective": "California officials",
+      "description": "Say they do not know whether the Justice Department's list of 20,000 noncitizens is accurate."
+    },
+    {
+      "perspective": "Attorney General Todd Blanche",
+      "description": "Said the department is \"not trying to create chaos.\""
+    },
+    {
+      "perspective": "Democratic organizations",
+      "description": "Sued the Trump administration, saying the actions amount to voter intimidation."
+    }
+  ],
+  "mined_at": "2026-10-23T10:28:39+00:00",
+  "source_published_at": "Thu, 22 Oct 2026 18:55:44 -0400",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/show/doj-monitoring-plans-and-dhs-voter-checks-raise-concerns-of-election-interference",
+  "category": "News",
+  "source_word_count": 628,
+  "detail_status": "full"
+}

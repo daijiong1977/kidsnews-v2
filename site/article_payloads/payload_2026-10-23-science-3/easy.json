@@ -1,0 +1,104 @@
+{
+  "title": "A $10 Sensor Uses Light to Test Things Like a Lab",
+  "summary": "Scientists at the University of Cambridge in England have built a tiny light sensor that costs about $10. It can measure things as well as big lab machines.\n\nThe sensor is a spectrometer. It studies light that touches an object. Different materials change light in different ways, so the light shows what something is made of.\n\nSmall spectrometers are usually not very accurate. The Cambridge team used a clever math idea to make theirs work better. It is just a few centimeters wide and works in less than a second.\n\nIn tests, it correctly named plastics, medicines, coffee, flour and tea every time. It also measured things in the body, like skin moisture and blood sugar, in lab conditions.\n\nOne day, it might help people check blood sugar without needles. But the scientists say more testing is needed first. The sensor also worked in very cold and very hot temperatures.",
+  "why_it_matters": "Small, cheap sensors could one day help people check their health with something as simple as a watch.",
+  "image_url": "/article_images/science-sb3aacf454083025a.webp",
+  "keywords": [
+    {
+      "term": "sensor",
+      "explanation": "A device that notices or measures something."
+    },
+    {
+      "term": "spectrometer",
+      "explanation": "A tool that studies light to find out what something is made of."
+    },
+    {
+      "term": "centimeters",
+      "explanation": "Small units for measuring length; about the width of a fingernail each."
+    },
+    {
+      "term": "moisture",
+      "explanation": "A small amount of wetness."
+    }
+  ],
+  "questions": [
+    {
+      "question": "About how much does the new sensor cost?",
+      "options": [
+        "$1",
+        "$1 million",
+        "$500",
+        "$10"
+      ],
+      "correct_answer": "$10"
+    },
+    {
+      "question": "Where was the sensor built?",
+      "options": [
+        "University of Cambridge",
+        "In a bakery",
+        "On the Moon",
+        "At a zoo"
+      ],
+      "correct_answer": "University of Cambridge"
+    },
+    {
+      "question": "What does a spectrometer study?",
+      "options": [
+        "Smell",
+        "Light",
+        "Taste",
+        "Sound"
+      ],
+      "correct_answer": "Light"
+    },
+    {
+      "question": "Which item did the sensor identify correctly?",
+      "options": [
+        "Music",
+        "Coffee",
+        "Clouds",
+        "Rainbows"
+      ],
+      "correct_answer": "Coffee"
+    },
+    {
+      "question": "What might it help people check one day without needles?",
+      "options": [
+        "Shoe size",
+        "Hair color",
+        "Blood sugar",
+        "Eye color"
+      ],
+      "correct_answer": "Blood sugar"
+    },
+    {
+      "question": "What do scientists say is still needed?",
+      "options": [
+        "A new name",
+        "Nothing",
+        "A bigger box",
+        "More testing"
+      ],
+      "correct_answer": "More testing"
+    }
+  ],
+  "background_read": [
+    "Every material changes light in its own special way, a bit like a fingerprint.",
+    "Scientists use tools that read light to find out what things are made of, but the best ones are usually big and costly."
+  ],
+  "Article_Structure": [
+    "WHO: Scientists at the University of Cambridge",
+    "WHAT: Built a $10 light sensor that works like a big lab machine",
+    "WHERE: In England",
+    "WHY: To make accurate testing small and cheap enough for everyday devices"
+  ],
+  "perspectives": [],
+  "mined_at": "2026-10-23T10:28:39+00:00",
+  "source_published_at": "Thu, 22 Oct 2026 21:21:47 EDT",
+  "source_name": "ScienceDaily Top Technology",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
+  "category": "Science",
+  "source_word_count": 833,
+  "detail_status": "full"
+}
