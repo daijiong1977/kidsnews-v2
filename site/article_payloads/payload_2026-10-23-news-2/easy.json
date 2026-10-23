@@ -1,109 +1,122 @@
 {
-  "title": "Typhoon Champi Brings Storms and a Day Off in Taiwan",
-  "summary": "A strong storm called Typhoon Champi came close to Taiwan on Friday. A typhoon is a powerful storm in this part of the Pacific Ocean, like a hurricane.\n\nHundreds of flights in East Asia were cancelled. Officials said one person died after being swept away by waves, and 171 people were hurt. About 1,000 people left their homes to stay safe.\n\nEarlier this week, Champi was the strongest storm on Earth so far this year, with winds of 185 miles per hour. It later got weaker.\n\nForecasters expected the center of the storm to pass by without hitting land in Taiwan, but they were not completely sure. Heavy rain was expected until Saturday evening.\n\nSchools and offices closed in almost all of Taiwan. People call this a \"typhoon holiday.\" In Japan's Okinawa, about 8,400 homes lost power.\n\nExperts say an unusually strong El Niño, a natural warming of the Pacific Ocean, is causing many storms this year.",
-  "why_it_matters": "Knowing how storms work and listening to weather warnings helps families stay safe.",
-  "image_url": "/article_images/news-s5f2679e5179f3b52.webp",
+  "title": "Plane Fuel Costs More Than Ever, and Holiday Flights Cost More Too",
+  "summary": "Are you flying somewhere for the holidays? Get ready: tickets may cost a lot more this year.\n\nThe main reason is jet fuel, the special fuel airplanes burn. It is one of the biggest costs for airlines. On Thursday, the average price of jet fuel in the United States reached $4.90 a gallon, according to the tracking firm Argus. That is the highest one-day average Argus has ever recorded, and more than double the price a year ago.\n\nAirlines are passing part of the cost to passengers. Airfares are at a 10-year high, said Hayley Berg, the lead economist at Hopper, a travel tech company. Thanksgiving tickets cost about 30% more than last year, and Christmas tickets are up more than 20%.\n\nStill, people keep booking. Delta Air Lines CEO Ed Bastian said travelers still see tickets as fairly affordable. Chris Sununu, head of the trade group Airlines for America, said airlines are paying most of the extra fuel cost themselves, but some must be passed on to customers.\n\nFamilies are coping in different ways. Many booked trips earlier than usual to lock in lower prices. Rachel Stern of Frederick, Maryland, said tickets for her and her kids cost too much, so she will drive to Chicago instead.",
+  "why_it_matters": "If your family flies to visit relatives for the holidays, higher ticket prices could change how — or whether — you make the trip.",
+  "image_url": "/article_images/news-s45774eb1bcf65777.webp",
   "keywords": [
     {
-      "term": "typhoon",
-      "explanation": "A powerful storm in this part of the Pacific Ocean, like a hurricane."
+      "term": "jet fuel",
+      "explanation": "The special fuel that airplanes burn to fly."
     },
     {
-      "term": "hurricane",
-      "explanation": "A huge storm with very strong winds that forms over warm ocean water."
+      "term": "airfares",
+      "explanation": "The prices people pay for airplane tickets."
     },
     {
-      "term": "forecasters",
-      "explanation": "Scientists who predict the weather."
+      "term": "economist",
+      "explanation": "An expert who studies money, prices and how they change."
     },
     {
-      "term": "El Niño",
-      "explanation": "A natural warming of the Pacific Ocean that can change the weather."
+      "term": "trade group",
+      "explanation": "An organization that speaks for a whole group of companies, such as airlines."
+    },
+    {
+      "term": "affordable",
+      "explanation": "Cheap enough that most people can pay for it."
     }
   ],
   "questions": [
     {
-      "question": "What is a typhoon?",
+      "question": "What price did jet fuel reach on Thursday?",
       "options": [
-        "A powerful storm, like a hurricane",
-        "A snowstorm",
-        "A kind of earthquake",
-        "A type of boat"
+        "$4.90 a gallon",
+        "$9.40 a gallon",
+        "$2.40 a gallon",
+        "$1.90 a gallon"
       ],
-      "correct_answer": "A powerful storm, like a hurricane"
+      "correct_answer": "$4.90 a gallon"
     },
     {
-      "question": "What happened to hundreds of flights?",
+      "question": "How do this year's airfares compare with past years?",
       "options": [
-        "They were free",
-        "They were painted",
-        "They were cancelled",
-        "They went to space"
+        "They dropped by half",
+        "They have not changed at all",
+        "They are the cheapest ever recorded",
+        "They are at a 10-year high"
       ],
-      "correct_answer": "They were cancelled"
+      "correct_answer": "They are at a 10-year high"
     },
     {
-      "question": "How fast were Champi's winds at their strongest?",
+      "question": "About how much more do Thanksgiving tickets cost than last year?",
       "options": [
-        "50 miles per hour",
-        "1,000 miles per hour",
-        "185 miles per hour",
-        "10 miles per hour"
+        "About 5% more",
+        "About 10% more",
+        "About 30% more",
+        "About 90% more"
       ],
-      "correct_answer": "185 miles per hour"
+      "correct_answer": "About 30% more"
     },
     {
-      "question": "What do people in Taiwan call a day off because of a storm?",
+      "question": "Who said travelers still see tickets as fairly affordable?",
       "options": [
-        "A wind break",
-        "A snow day",
-        "A typhoon holiday",
-        "A rain party"
+        "Rachel Stern, a mom from Maryland",
+        "Ed Bastian, the Delta Air Lines CEO",
+        "Hayley Berg, an economist at Hopper",
+        "Chris Sununu, head of a trade group"
       ],
-      "correct_answer": "A typhoon holiday"
+      "correct_answer": "Ed Bastian, the Delta Air Lines CEO"
     },
     {
-      "question": "About how many homes in Okinawa lost power?",
+      "question": "What did many families do to cope with the high prices?",
       "options": [
-        "About 10",
-        "None",
-        "About 8,400",
-        "About 1 million"
+        "They bought bigger suitcases",
+        "They booked trips earlier than usual to lock in lower prices",
+        "They waited for prices to go up",
+        "They decided to stop traveling"
       ],
-      "correct_answer": "About 8,400"
+      "correct_answer": "They booked trips earlier than usual to lock in lower prices"
     },
     {
-      "question": "What do experts say is causing many storms this year?",
+      "question": "What will Rachel Stern do instead of flying to Chicago?",
       "options": [
-        "A strong El Niño",
-        "Snow",
-        "The Moon",
-        "A volcano"
+        "Stay home for the holidays",
+        "Take a train",
+        "Fly on a different holiday",
+        "Drive to Chicago"
       ],
-      "correct_answer": "A strong El Niño"
+      "correct_answer": "Drive to Chicago"
     }
   ],
   "background_read": [
-    "Typhoons are giant spinning storms that form over warm ocean water in the Pacific.",
-    "Places like Taiwan close schools and warn people to stay away from the coast so everyone stays safe."
+    "Airplanes burn a special fuel called jet fuel, and it is one of the biggest costs for airlines.",
+    "When jet fuel gets more expensive, airlines often pass part of that extra cost on to the people buying tickets.",
+    "That is why flights can cost more at busy travel times like Thanksgiving and Christmas, when many families fly to visit each other."
   ],
   "Article_Structure": [
-    "WHO: People in Taiwan, Japan and the Philippines, and weather forecasters",
-    "WHAT: Typhoon Champi cancelled flights and closed schools and offices",
-    "WHERE: Near Taiwan's north-east coast and Japan's Okinawa",
-    "WHY: A very strong storm came close, helped by a strong El Niño"
+    "WHO: Airlines, holiday travelers and families planning trips",
+    "WHAT: Jet fuel prices reached a record high, and holiday airfares climbed to a 10-year high",
+    "WHERE: In the United States, including one Maryland family's planned trip to Chicago",
+    "WHY: Jet fuel is one of the biggest costs for airlines and its price more than doubled in a year, so airlines pass part of the cost on to passengers"
   ],
   "perspectives": [
     {
-      "perspective": "Forecasters",
-      "description": "Expected the storm's center to pass by Taiwan, but were not completely sure."
+      "perspective": "Ed Bastian, Delta Air Lines CEO",
+      "description": "He said travelers still see tickets as fairly affordable, and people keep booking flights."
+    },
+    {
+      "perspective": "Chris Sununu, head of the trade group Airlines for America",
+      "description": "He said airlines are paying most of the extra fuel cost themselves, but some of it must be passed on to customers."
+    },
+    {
+      "perspective": "Rachel Stern, a traveler from Frederick, Maryland",
+      "description": "She said tickets for her and her kids cost too much, so she will drive to Chicago instead of flying."
     }
   ],
-  "mined_at": "2026-10-23T10:28:39+00:00",
-  "source_published_at": "Fri, 23 Oct 2026 08:45:58 GMT",
-  "source_name": "BBC News",
-  "source_url": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss",
+  "mined_at": "2026-10-23T22:53:30+00:00",
+  "source_published_at": "Fri, 23 Oct 2026 05:00:00 -0400",
+  "source_name": "NPR World",
+  "source_url": "https://www.npr.org/2026/10/23/nx-s1-6009506/jet-fuel-price-holiday-airfare",
   "category": "News",
-  "source_word_count": 457,
+  "source_word_count": 750,
   "detail_status": "full"
 }

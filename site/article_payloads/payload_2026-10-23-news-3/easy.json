@@ -1,117 +1,126 @@
 {
-  "title": "Border Officers Check More Phones and Laptops",
-  "summary": "U.S. border officers are checking more travelers' phones and laptops than ever, according to numbers obtained by the Canadian news outlet CBC News.\n\nCustoms and Border Protection, or CBP, checks people and goods coming into the United States. From October 2025 to June 2026, officers searched 52,080 devices. That is more than 32 percent more than the year before.\n\nMost were basic searches, which officers can do without suspecting anything. About 4,564 were deeper searches, where officers may study or copy what is on a device.\n\nCBP says these searches are very rare and help find illegal material and security threats. Esha Bhandari of the American Civil Liberties Union, a group that works on privacy, says Congress should watch the searches more closely.\n\nCBP did not say where the searches happened. One border expert said many people also traveled for the World Cup this summer.",
-  "why_it_matters": "Many families travel with phones, so it helps to know the rules about searches and privacy.",
-  "image_url": "/article_images/news-sf8c419c94e70c7d3.webp",
+  "title": "Extra Watchers Will Be on Duty at Polling Places on Election Day",
+  "summary": "When Americans vote in the midterm elections on November 3, extra watchers will be on duty at many polling places. The U.S. Department of Justice, or DOJ, plans to send about 1,000 election monitors to all 50 states. That is more than double the number used in the 2022 midterms.\n\nMonitors have a quiet job. They stand back, watch how voting is run, and report what they see. Their purpose is to make sure voting-rights laws are followed, so nobody is wrongly turned away or scared off from voting. “They're there to just do as their name suggests, which is to observe,” said Stacey Young, a former DOJ lawyer who has been a monitor three times. Monitors never run the voting, and the department says they have been told clearly not to interfere.\n\nWhy are some state officials worried this year? The effort is much bigger than usual. David Becker, a former DOJ voting-rights attorney, called the scale “not normal,” but said he is “not particularly concerned.” Also, prosecutors will be allowed to serve as monitors this year, something long-standing rules did not allow. A senior DOJ official said monitors will focus on busy areas and places that have had problems with language or disability access.\n\nThe monitors will visit only Election Day polling places, not early-voting sites.",
+  "why_it_matters": "Fair voting rules protect everyone's voice in an election, including the grown-ups who vote on things that shape your school and neighborhood.",
+  "image_url": "/article_images/news-s1777564204583607.webp",
   "keywords": [
     {
-      "term": "Customs",
-      "explanation": "The government service that checks people and things coming into a country."
+      "term": "midterm elections",
+      "explanation": "National elections held halfway through a president's four years in office."
     },
     {
-      "term": "devices",
-      "explanation": "Machines like phones and laptops."
+      "term": "polling places",
+      "explanation": "The places where people go to cast their votes in an election."
     },
     {
-      "term": "percent",
-      "explanation": "A way of showing part of 100."
+      "term": "election monitors",
+      "explanation": "People who watch how voting is run and report what they see, without running the voting themselves."
     },
     {
-      "term": "privacy",
-      "explanation": "Keeping your personal information to yourself."
+      "term": "voting-rights laws",
+      "explanation": "Laws that protect people's right to vote and stop anyone from being wrongly turned away."
     },
     {
-      "term": "Congress",
-      "explanation": "The group of lawmakers who make laws for the whole United States."
+      "term": "prosecutors",
+      "explanation": "Government lawyers who bring cases against people accused of breaking the law."
+    },
+    {
+      "term": "interfere",
+      "explanation": "To get in the way of something or try to change how it is being done."
     }
   ],
   "questions": [
     {
-      "question": "What are border officers checking more often?",
+      "question": "About how many election monitors does the Department of Justice plan to send?",
       "options": [
-        "Pets",
-        "Cars only",
-        "Phones and laptops",
-        "Shoes"
+        "About 1,000",
+        "About 100",
+        "About 10,000",
+        "About 50"
       ],
-      "correct_answer": "Phones and laptops"
+      "correct_answer": "About 1,000"
     },
     {
-      "question": "Which news outlet got the numbers?",
+      "question": "What is an election monitor's main job?",
       "options": [
-        "A cooking show",
-        "CBC News",
-        "A sports channel",
-        "A school newspaper"
+        "To tell people who to vote for",
+        "To run the voting at polling places",
+        "To watch how voting is run and report what they see",
+        "To count all the ballots"
       ],
-      "correct_answer": "CBC News"
+      "correct_answer": "To watch how voting is run and report what they see"
     },
     {
-      "question": "By about how much did searches go up?",
+      "question": "How does this year's number of monitors compare with the 2022 midterms?",
       "options": [
-        "1 percent",
-        "More than 32 percent",
-        "They went down",
-        "Exactly double"
+        "It is more than double",
+        "It is exactly the same",
+        "It is about the same",
+        "It is much smaller"
       ],
-      "correct_answer": "More than 32 percent"
+      "correct_answer": "It is more than double"
     },
     {
-      "question": "What can officers do in a deeper search?",
+      "question": "What is new about who can serve as a monitor this year?",
       "options": [
-        "Buy the device",
-        "Fix the device",
-        "Keep the device forever",
-        "Study or copy what is on a device"
+        "Monitors can run the voting this year",
+        "Children can serve as monitors",
+        "Only new voters can be monitors",
+        "Prosecutors will be allowed to serve as monitors"
       ],
-      "correct_answer": "Study or copy what is on a device"
+      "correct_answer": "Prosecutors will be allowed to serve as monitors"
     },
     {
-      "question": "What does CBP say about these searches?",
+      "question": "Where will the monitors focus their attention?",
       "options": [
-        "They are new this week",
-        "They are fun",
-        "They are very rare",
-        "They happen to everyone"
+        "Only in one state",
+        "Only in small towns",
+        "Busy areas and places that have had problems with language or disability access",
+        "Only at early-voting sites"
       ],
-      "correct_answer": "They are very rare"
+      "correct_answer": "Busy areas and places that have had problems with language or disability access"
     },
     {
-      "question": "What does Esha Bhandari want Congress to do?",
+      "question": "Which places will the monitors NOT visit?",
       "options": [
-        "Close airports",
-        "Watch the searches more closely",
-        "Build a wall",
-        "Ban phones"
+        "Busy voting areas",
+        "Polling places in the 50 states",
+        "Election Day polling places",
+        "Early-voting sites"
       ],
-      "correct_answer": "Watch the searches more closely"
+      "correct_answer": "Early-voting sites"
     }
   ],
   "background_read": [
-    "When people travel into the United States, border officers check them and their bags to keep the country safe.",
-    "Phones and laptops hold lots of personal information, so some people worry about privacy when they are searched."
+    "In the United States, the Department of Justice can send election monitors to polling places to watch how voting is run.",
+    "Monitors never run the voting and must not interfere; they stand back, observe and report what they see.",
+    "Their purpose is to make sure voting-rights laws are followed, so nobody is wrongly turned away or scared off from voting."
   ],
   "Article_Structure": [
-    "WHO: U.S. Customs and Border Protection officers and travelers",
-    "WHAT: Searched more phones and laptops, up more than 32 percent",
-    "WHERE: At U.S. borders where travelers enter the country",
-    "WHY: CBP says to find illegal material and security threats"
+    "WHO: The U.S. Department of Justice, its election monitors, and state officials reacting to the plan",
+    "WHAT: The DOJ plans to send about 1,000 election monitors to polling places in all 50 states for the November 3 midterm elections",
+    "WHERE: Election Day polling places across all 50 states, focusing on busy areas and places that have had language or disability access problems",
+    "WHY: To make sure voting-rights laws are followed so nobody is wrongly turned away or scared off from voting, though some officials worry because the effort is much bigger than usual"
   ],
   "perspectives": [
     {
-      "perspective": "CBP",
-      "description": "Says searches are very rare and help find illegal material and security threats."
+      "perspective": "Stacey Young, a former DOJ lawyer who has been a monitor three times",
+      "description": "She said monitors are there to do what their name suggests: observe."
     },
     {
-      "perspective": "Esha Bhandari",
-      "description": "Says Congress should watch the searches more closely to protect privacy."
+      "perspective": "David Becker, a former DOJ voting-rights attorney",
+      "description": "He called the scale of this year's effort 'not normal,' but said he is not particularly concerned."
+    },
+    {
+      "perspective": "Some state officials",
+      "description": "They are worried this year because the monitoring effort is much bigger than usual."
     }
   ],
-  "mined_at": "2026-10-23T10:28:39+00:00",
-  "source_published_at": "Fri, 23 Oct 2026 04:00:00 EDT",
-  "source_name": "CBC World",
-  "source_url": "https://www.cbc.ca/news/politics/cbp-searches-electronic-devices-9.7392252?cmp=rss",
+  "mined_at": "2026-10-23T22:53:30+00:00",
+  "source_published_at": "Fri, 23 Oct 2026 16:16:57 -0400",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/politics/doj-has-monitored-elections-for-decades-heres-why-some-state-officials-are-concerned-this-year",
   "category": "News",
-  "source_word_count": 711,
+  "source_word_count": 623,
   "detail_status": "full"
 }

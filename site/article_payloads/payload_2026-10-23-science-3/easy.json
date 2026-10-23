@@ -1,102 +1,116 @@
 {
-  "title": "A $10 Sensor Uses Light to Test Things Like a Lab",
-  "summary": "Scientists at the University of Cambridge in England have built a tiny light sensor that costs about $10. It can measure things as well as big lab machines.\n\nThe sensor is a spectrometer. It studies light that touches an object. Different materials change light in different ways, so the light shows what something is made of.\n\nSmall spectrometers are usually not very accurate. The Cambridge team used a clever math idea to make theirs work better. It is just a few centimeters wide and works in less than a second.\n\nIn tests, it correctly named plastics, medicines, coffee, flour and tea every time. It also measured things in the body, like skin moisture and blood sugar, in lab conditions.\n\nOne day, it might help people check blood sugar without needles. But the scientists say more testing is needed first. The sensor also worked in very cold and very hot temperatures.",
-  "why_it_matters": "Small, cheap sensors could one day help people check their health with something as simple as a watch.",
-  "image_url": "/article_images/science-sb3aacf454083025a.webp",
+  "title": "A $10 Chip That Could Put a Lab on Your Wrist",
+  "summary": "A spectrometer is a tool that studies light to learn what things are made of. Labs use big, costly ones to test medicines, foods and chemicals. Now, researchers at the University of Cambridge have built one for about $10. It is only a few centimeters wide — small enough, one day, to fit in a health gadget worn on the wrist.\n\nThe team calls it a convolutional spectrometer. It works on the light directly, then uses quick math to work out the spectrum. In tests, it correctly named plastics, medicines, coffee, flour and tea every single time. It also measured health markers such as blood sugar without needles, and it kept working from very cold to very hot.\n\nThe researchers warn that much more testing is needed before it can become a real medical product. Still, it could lead to cheap, exact sensors for health monitors and food testing.",
+  "why_it_matters": "One day, a gadget on your wrist might check things like your blood sugar without needles and help make sure the food you eat is safe.",
+  "image_url": "/article_images/science-s5c7d8d545eb082ef.webp",
   "keywords": [
     {
-      "term": "sensor",
-      "explanation": "A device that notices or measures something."
-    },
-    {
       "term": "spectrometer",
-      "explanation": "A tool that studies light to find out what something is made of."
+      "explanation": "A tool that studies light to learn what things are made of."
     },
     {
-      "term": "centimeters",
-      "explanation": "Small units for measuring length; about the width of a fingernail each."
+      "term": "convolutional spectrometer",
+      "explanation": "The team's new, tiny kind of spectrometer that uses quick math to study light."
     },
     {
-      "term": "moisture",
-      "explanation": "A small amount of wetness."
+      "term": "spectrum",
+      "explanation": "The pattern of light that helps scientists tell what something is made of."
+    },
+    {
+      "term": "health markers",
+      "explanation": "Signs in your body, like blood sugar, that show how healthy you are."
+    },
+    {
+      "term": "blood sugar",
+      "explanation": "The amount of sugar in your blood."
+    },
+    {
+      "term": "sensors",
+      "explanation": "Devices that notice and measure things like light, heat or movement."
     }
   ],
   "questions": [
     {
-      "question": "About how much does the new sensor cost?",
+      "question": "What does a spectrometer do?",
       "options": [
-        "$1",
-        "$1 million",
-        "$500",
-        "$10"
+        "It cooks food with light",
+        "It takes photos of stars",
+        "It measures how loud sounds are",
+        "It studies light to learn what things are made of"
       ],
-      "correct_answer": "$10"
+      "correct_answer": "It studies light to learn what things are made of"
     },
     {
-      "question": "Where was the sensor built?",
+      "question": "Who built the new tiny spectrometer?",
       "options": [
-        "University of Cambridge",
-        "In a bakery",
-        "On the Moon",
-        "At a zoo"
+        "Astronauts in space",
+        "A toy company",
+        "Researchers at the University of Cambridge",
+        "Doctors at a hospital"
       ],
-      "correct_answer": "University of Cambridge"
+      "correct_answer": "Researchers at the University of Cambridge"
     },
     {
-      "question": "What does a spectrometer study?",
+      "question": "About how much does the new spectrometer cost to build?",
       "options": [
-        "Smell",
-        "Light",
-        "Taste",
-        "Sound"
+        "About $500",
+        "About $10,000",
+        "It is free",
+        "About $10"
       ],
-      "correct_answer": "Light"
+      "correct_answer": "About $10"
     },
     {
-      "question": "Which item did the sensor identify correctly?",
+      "question": "In tests, what did the chip correctly name every single time?",
       "options": [
-        "Music",
-        "Coffee",
-        "Clouds",
-        "Rainbows"
+        "Plastics, medicines, coffee, flour and tea",
+        "Types of clouds",
+        "Songs played on the radio",
+        "Colors of paint"
       ],
-      "correct_answer": "Coffee"
+      "correct_answer": "Plastics, medicines, coffee, flour and tea"
     },
     {
-      "question": "What might it help people check one day without needles?",
+      "question": "How did the chip measure blood sugar?",
       "options": [
-        "Shoe size",
-        "Hair color",
-        "Blood sugar",
-        "Eye color"
+        "Without needles",
+        "By asking questions",
+        "With a tiny camera",
+        "With a thermometer"
       ],
-      "correct_answer": "Blood sugar"
+      "correct_answer": "Without needles"
     },
     {
-      "question": "What do scientists say is still needed?",
+      "question": "What do the researchers warn about their invention?",
       "options": [
-        "A new name",
-        "Nothing",
-        "A bigger box",
-        "More testing"
+        "It only works in the cold",
+        "It costs too much to make",
+        "Much more testing is needed before it can become a real medical product",
+        "It is too big to wear"
       ],
-      "correct_answer": "More testing"
+      "correct_answer": "Much more testing is needed before it can become a real medical product"
     }
   ],
   "background_read": [
-    "Every material changes light in its own special way, a bit like a fingerprint.",
-    "Scientists use tools that read light to find out what things are made of, but the best ones are usually big and costly."
+    "A spectrometer is a lab tool that studies light to figure out what things are made of.",
+    "Until now, these tools were big and costly, so they mostly stayed inside labs, where scientists use them to test medicines, foods and chemicals.",
+    "If the same tool could be made tiny and cheap, it could fit inside everyday gadgets, like a health monitor worn on the wrist."
   ],
   "Article_Structure": [
-    "WHO: Scientists at the University of Cambridge",
-    "WHAT: Built a $10 light sensor that works like a big lab machine",
-    "WHERE: In England",
-    "WHY: To make accurate testing small and cheap enough for everyday devices"
+    "WHO: Researchers at the University of Cambridge",
+    "WHAT: They built a spectrometer for about $10 that is only a few centimeters wide and uses quick math to work out the spectrum",
+    "WHERE: At the University of Cambridge, tested on plastics, medicines, coffee, flour and tea",
+    "WHY: So that testing medicines, foods and health markers could one day be done by small, cheap sensors instead of big, costly lab machines"
   ],
-  "perspectives": [],
-  "mined_at": "2026-10-23T10:28:39+00:00",
+  "perspectives": [
+    {
+      "perspective": "The researchers",
+      "description": "They warn that much more testing is needed before the chip can become a real medical product."
+    }
+  ],
+  "mined_at": "2026-10-23T22:53:30+00:00",
   "source_published_at": "Thu, 22 Oct 2026 21:21:47 EDT",
-  "source_name": "ScienceDaily Top Technology",
+  "source_name": "ScienceDaily Most Popular",
   "source_url": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
   "category": "Science",
   "source_word_count": 833,

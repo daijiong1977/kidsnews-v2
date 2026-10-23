@@ -1,124 +1,122 @@
 {
-  "title": "Curiosity Rover Spots Mysterious Cliffs Ahead on Mars",
-  "summary": "NASA's Curiosity rover has sent back a beautiful new panorama of Mars that gives scientists their clearest look yet at a line of strange cliffs shaped by wind.\n\nThe rover took six photos with its Mastcam camera on August 11, at 8:30 in the morning Mars time. Scientists joined them into one wide view. They chose not to adjust the colors, so the picture keeps the real look of a Martian morning, with bluish tones in front and sunlight on the cliffs in the distance.\n\nThese cliffs are called yardangs. They are ridges carved by wind, and they stretch about 10 miles across part of Mount Sharp, a mountain about 3 miles tall. Curiosity has been climbing Mount Sharp since 2014. It recently gained about 0.6 miles in height, a bigger climb than any other rover on Mars.\n\nMount Sharp is made of many layers of rock, and each layer holds clues about a different time in Mars's past. These layers have shown that billions of years ago there were lakes and streams in this area. When the water dried up, salty minerals were left behind.\n\nBut the yardang layer is puzzling. Its color is different from the rocks around it, and its layers tilt at an odd angle. \"It almost appears plastered on,\" said Ashwin Vasavada, a Curiosity scientist at NASA's Jet Propulsion Laboratory. He said one idea is that it may be ash from ancient volcanic eruptions.\n\nOver the next year, Curiosity will keep driving through rocks full of minerals that formed as Mars dried out. Scientists hope it reaches the bottom of the cliffs in 2027, where it can study them with its robotic arm and help solve the mystery.",
-  "why_it_matters": "Each rock layer Curiosity studies helps explain how Mars changed from a world with lakes and streams to the dry planet we see today.",
-  "image_url": "/article_images/science-s97c76c9630cf476f.webp",
+  "title": "A Tiny Robot That Swims With Living Muscles",
+  "summary": "Imagine a robot powered not by batteries and motors, but by living muscle. Scientists at MIT have built exactly that: a tiny swimming robot that flaps its fins using a layer of real muscle cells.\n\nThe robot's body is a flexible gel frame about the size of a stick of gum. It has two fins, and each fin is coated with muscle cells far thinner than a human hair. The cells were genetically modified so that they squeeze tight when light shines on them. By flashing light onto one fin or the other, and changing how often the light pulses, the researchers can steer the robot and control its speed. In tests, the paper-thin robot swam and turned through a simple underwater maze. At top speed it covered about four times its own body length every minute. An Olympic swimmer manages up to 65 body lengths per minute, and the little robot's pace is similar to a cow shark cruising lazily through the ocean.\n\n\"It takes a lot of force to move through water versus air,\" said study author Ritu Raman, an associate professor of mechanical engineering at MIT. \"The robot's quite strong, given its size.\" The study, published in the journal Advanced Functional Materials, is the first demonstration of a very thin, flat robot that can travel from place to place using living muscle tissue. Most earlier biohybrid robots were built from bulky chunks of lab-grown muscle needing millions of cells. The MIT team believes thinner designs could be cheaper to build and move more efficiently. One day, Raman says, robots powered by living muscle might do delicate jobs in fragile places where ordinary machines are too rough, because living tissue is soft, responds to its surroundings, and can even heal itself.",
+  "why_it_matters": "Robots driven by living tissue could work gently in fragile places that hard machines might damage, opening a new way to explore and help in delicate environments. The work also suggests that thinner, simpler designs may make such biohybrid robots cheaper to build and more efficient.",
+  "image_url": "/article_images/science-s98162fa3de44e89a.webp",
   "keywords": [
     {
-      "term": "panorama",
-      "explanation": "A wide picture that shows a whole scene, often made by joining several photos."
+      "term": "genetically modified",
+      "explanation": "Changed by scientists altering the instructions inside living cells."
     },
     {
-      "term": "yardangs",
-      "explanation": "Long ridges or cliffs of rock carved by wind."
+      "term": "biohybrid",
+      "explanation": "A machine that mixes living tissue with built, non-living parts."
     },
     {
-      "term": "Mastcam",
-      "explanation": "The main color camera on the Curiosity rover's tall mast."
+      "term": "lab-grown",
+      "explanation": "Made or grown in a laboratory instead of inside a living body."
     },
     {
-      "term": "rover",
-      "explanation": "A robot vehicle that drives around on another planet or moon."
+      "term": "mechanical engineering",
+      "explanation": "The branch of engineering that designs and builds machines and their moving parts."
     },
     {
-      "term": "eruptions",
-      "explanation": "Times when a volcano bursts out lava, ash or gas."
-    },
-    {
-      "term": "robotic arm",
-      "explanation": "A machine arm on the rover that can reach out and use tools on rocks."
+      "term": "associate professor",
+      "explanation": "A university teacher and researcher ranked below a full professor."
     }
   ],
   "questions": [
     {
-      "question": "What are the wind-carved cliffs in the panorama called?",
+      "question": "What powers the tiny robot's swimming?",
       "options": [
-        "Volcanoes",
-        "Canyons",
-        "Yardangs",
-        "Craters"
+        "Living muscle cells on its fins",
+        "A spinning propeller",
+        "Magnets under the water",
+        "A tiny battery and motor"
       ],
-      "correct_answer": "Yardangs"
+      "correct_answer": "Living muscle cells on its fins"
     },
     {
-      "question": "How many photographs were combined to make the panorama?",
+      "question": "How big is the robot's gel frame?",
       "options": [
-        "Two",
-        "Twelve",
-        "One hundred",
-        "Six"
+        "About the size of a stick of gum",
+        "As big as a shoe",
+        "The size of a small boat",
+        "As long as a human arm"
       ],
-      "correct_answer": "Six"
+      "correct_answer": "About the size of a stick of gum"
     },
     {
-      "question": "Since what year has Curiosity been climbing Mount Sharp?",
+      "question": "How do the researchers steer the robot?",
       "options": [
-        "2014",
-        "2027",
-        "2024",
-        "2020"
+        "By flashing light onto one fin or the other and changing how often it pulses",
+        "By shouting voice commands",
+        "By pulling it with a string",
+        "By changing the water temperature"
       ],
-      "correct_answer": "2014"
+      "correct_answer": "By flashing light onto one fin or the other and changing how often it pulses"
     },
     {
-      "question": "What do Mount Sharp's rock layers show about Mars long ago?",
+      "question": "How fast did the robot swim at top speed?",
       "options": [
-        "It was covered in ice",
-        "It had lakes and streams",
-        "It had forests",
-        "It had oceans of lava only"
+        "65 body lengths per minute",
+        "One body length per hour",
+        "Faster than a cow shark",
+        "About four body lengths per minute"
       ],
-      "correct_answer": "It had lakes and streams"
+      "correct_answer": "About four body lengths per minute"
     },
     {
-      "question": "What is one idea for what formed the unusual yardang layer?",
+      "question": "What did the robot do during the tests?",
       "options": [
-        "Dust from a passing comet",
-        "Snow from a recent storm",
-        "Ice from the polar caps",
-        "Ash from ancient volcanic eruptions"
+        "It raced an Olympic swimmer",
+        "It swam and turned through a simple underwater maze",
+        "It jumped out of the water",
+        "It collected plastic waste"
       ],
-      "correct_answer": "Ash from ancient volcanic eruptions"
+      "correct_answer": "It swam and turned through a simple underwater maze"
     },
     {
-      "question": "When do scientists hope Curiosity will reach the bottom of the cliffs?",
+      "question": "What makes this study a first, according to the article?",
       "options": [
-        "In 2014",
-        "Never",
-        "Next week",
-        "In 2027"
+        "It is the first robot built at MIT",
+        "It is the first robot ever to swim",
+        "It is the first very thin, flat robot that can travel from place to place using living muscle tissue",
+        "It is the first robot that can heal itself"
       ],
-      "correct_answer": "In 2027"
+      "correct_answer": "It is the first very thin, flat robot that can travel from place to place using living muscle tissue"
     }
   ],
   "background_read": [
-    "Curiosity is a car-sized NASA rover exploring Gale Crater on Mars, where it has been climbing Mount Sharp since 2014.",
-    "Mount Sharp is built from many rock layers, and each layer works like a page in a history book that records what Mars was like long ago.",
-    "By studying these layers, scientists learned that the area once had lakes and streams before Mars became the dry, cold planet it is today.",
-    "Rovers carry cameras and tools on robotic arms so scientists on Earth can study rocks up close without traveling to Mars."
+    "Biohybrid robots are machines that combine living cells with built materials, so real tissue does part of the work instead of a motor.",
+    "Muscle moves by squeezing tight, so even a thin layer of muscle cells can flap a soft fin and push a small robot through water.",
+    "Scientists can change muscle cells so they react to light, and flashing light on one side or the other becomes a simple way to steer.",
+    "Because living tissue is soft, senses its surroundings and can heal itself, such robots could one day handle delicate jobs in fragile places where ordinary machines are too rough."
   ],
   "Article_Structure": [
-    "LEAD: Curiosity sends back its clearest view yet of wind-carved cliffs on Mars",
-    "HOW THE PICTURE WAS MADE: Six Mastcam photos from August 11, colors left unadjusted",
-    "PLACE: Yardangs stretching about 10 miles across Mount Sharp",
-    "  ├─ MILESTONE: Curiosity has climbed about 0.6 miles, more than any other rover",
-    "  └─ HISTORY: Rock layers show ancient lakes and streams that later dried up",
-    "MYSTERY: The yardang layer has an odd color and tilt; one idea is volcanic ash",
-    "EXPERT: Ashwin Vasavada of NASA's Jet Propulsion Laboratory",
-    "NEXT STEPS: Drive through mineral-rich layers and reach the cliffs in 2027",
-    "OPEN QUESTION: What really created the yardang layer?"
+    "LEAD: MIT scientists built a tiny swimming robot powered by living muscle cells instead of batteries and motors",
+    "KEY EVENT: In tests, the paper-thin robot swam and turned through a simple underwater maze",
+    "  ├─ WHO: Study author Ritu Raman and her MIT team",
+    "  ├─ HOW: Light flashes make genetically modified muscle cells on the fins squeeze tight, steering the robot and setting its speed",
+    "  └─ HOW FAST: About four body lengths per minute at top speed, similar to a cow shark cruising lazily",
+    "EVIDENCE: The study was published in the journal Advanced Functional Materials",
+    "OPEN QUESTION: Whether muscle-powered robots can one day do delicate jobs in fragile places where ordinary machines are too rough"
   ],
   "perspectives": [
     {
-      "perspective": "Ashwin Vasavada, Curiosity scientist at NASA's Jet Propulsion Laboratory",
-      "description": "Says the yardang layer looks out of place and may be ash from ancient volcanic eruptions, which makes it exciting to reach."
+      "perspective": "Ritu Raman (study author)",
+      "description": "Says the robot is quite strong for its size and that muscle-powered robots might one day do delicate jobs in fragile places because living tissue is soft, responsive and can heal itself."
+    },
+    {
+      "perspective": "The MIT team",
+      "description": "Believes thinner designs could be cheaper to build and move more efficiently than earlier biohybrid robots made from bulky chunks of lab-grown muscle."
     }
   ],
-  "mined_at": "2026-10-23T10:28:39+00:00",
-  "source_published_at": "Thu, 22 Oct 2026 07:03:49 EDT",
-  "source_name": "ScienceDaily Top Technology",
-  "source_url": "https://www.sciencedaily.com/releases/2026/10/261021231238.htm",
+  "mined_at": "2026-10-23T22:53:30+00:00",
+  "source_published_at": "Fri, 23 Oct 2026 06:33:56 EDT",
+  "source_name": "ScienceDaily All",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261022081308.htm",
   "category": "Science",
-  "source_word_count": 601,
+  "source_word_count": 736,
   "detail_status": "full"
 }

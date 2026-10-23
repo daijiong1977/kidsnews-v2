@@ -1,136 +1,130 @@
 {
-  "title": "Judge Limits Government Search for Noncitizens on Voter Lists",
-  "summary": "With the midterm elections less than two weeks away, a federal judge in California has put limits on a U.S. government effort to look for noncitizens on voter lists.\n\nVoter lists, also called voter rolls, are records of people who are registered to vote. In the United States, only citizens may vote in federal elections. Voting by noncitizens is already illegal, and reporters note that it is extremely rare.\n\nAccording to a lawsuit, the Department of Homeland Security, or DHS, has been running an operation since August that it calls the Unlawful Voter Initiative. Hundreds of DHS agents have been assigned to look for voter fraud.\n\nThe judge ruled that DHS must restrict its field work. Agents cannot stop people for interviews unless they believe a person is a noncitizen. The ruling covers nine states: California, Connecticut, Georgia, Missouri, Nevada, New York, Pennsylvania, Washington and Wisconsin. The judge was concerned that lists made by DHS contained errors and included the names of citizens. The order was set to start a day later, giving the government time to appeal.\n\nIn a separate case, the Department of Justice says about 20,000 noncitizens are on voter rolls in California. California officials, including the Los Angeles County registrar, say they do not know whether that list is accurate, because it was built from incomplete state data. The registrar's office said it has not stopped processing mail ballots. Another court hearing is set for next Tuesday.\n\nAttorney General Todd Blanche said, \"We're not trying to create chaos.\" Meanwhile, a group of Democratic organizations has sued the Trump administration, saying the actions amount to voter intimidation.\n\nThe cases show how courts help decide the rules for elections when people disagree.",
-  "why_it_matters": "Fair elections depend on accurate voter lists and on voters feeling free to vote, so courts are deciding how far the federal government can go in checking eligibility right before a national election.",
-  "image_url": "/article_images/news-s87ad9eb885a407db.webp",
+  "title": "Experts Push the Government to Finally Define 'Ultraprocessed' Food",
+  "summary": "What exactly makes a food \"ultraprocessed\"? Surprisingly, the U.S. government has never officially said. Now more than 100 science, medical and nutrition experts want that to change.\n\nOn Friday, the experts signed an open letter to the Office of Management and Budget urging the administration to release the first-ever government definition of ultraprocessed foods, often shortened to UPF. \"It is critical that special interests not hold up this process,\" the letter read. It noted that most Americans have heard of UPF and wish to avoid them, but few understand them deeply, so guidance is needed.\n\nThe push has been building for a while. The administration first announced its effort to define ultraprocessed foods in July 2025, and in August the Department of Health and Human Services and the U.S. Department of Agriculture submitted a proposed definition for final review. The foods in question range from sugary cereals and sodas to burgers and store-bought breads. According to media reports, food company CEOs intervened in the definition's release.\n\nSo what is ultraprocessed food? The term comes from the NOVA system, proposed in 2009 by researchers in Brazil, which sorts foods into four levels based on how much industrial processing they undergo. Ultraprocessed foods have been through \"extensive industrial manipulation,\" explained Lindsey Smith Taillie, a nutrition professor at the University of North Carolina, Chapel Hill, who signed the letter. They are broken down and reassembled with cosmetic additives such as added colors, flavors and emulsifiers.\n\nStudies have linked eating lots of these foods — often sugary, salty and fatty — to health problems including cardiovascular disease, obesity and Type 2 diabetes. Health Secretary Robert F. Kennedy Jr. has connected Americans' overconsumption of them to childhood obesity. The public comment period on the government's definition effort ended on Friday.",
+  "why_it_matters": "An official definition could shape food labels, school meals and health advice for millions of families. It would help people understand what they are eating and judge which foods are heavily processed.",
+  "image_url": "/article_images/news-s226245e36b1ab471.webp",
   "keywords": [
     {
-      "term": "midterm elections",
-      "explanation": "U.S. elections held halfway through a president's four-year term, mostly to choose members of Congress."
+      "term": "ultraprocessed",
+      "explanation": "Describes food that factories have changed a great deal, breaking it down and rebuilding it with added colors, flavors and other additives."
     },
     {
-      "term": "noncitizens",
-      "explanation": "People who live in a country but are not legal citizens of it."
+      "term": "open letter",
+      "explanation": "A letter that is published publicly, often signed by many people, to put pressure on officials to act."
     },
     {
-      "term": "voter rolls",
-      "explanation": "Official lists of everyone who is registered to vote."
+      "term": "special interests",
+      "explanation": "Groups that push for rules or decisions that benefit themselves, such as companies in one industry."
     },
     {
-      "term": "registrar",
-      "explanation": "An official whose job is to keep records, such as the list of voters in a county."
+      "term": "additives",
+      "explanation": "Extra substances put into food to change its color, flavor or texture, or to help it last longer."
     },
     {
-      "term": "appeal",
-      "explanation": "To ask a higher court to change a judge's decision."
+      "term": "emulsifiers",
+      "explanation": "Additives that help ingredients such as oil and water stay mixed together in a food."
     },
     {
-      "term": "intimidation",
-      "explanation": "Trying to scare or pressure people so they will not do something, such as vote."
+      "term": "cardiovascular disease",
+      "explanation": "Diseases that affect the heart and the blood vessels that carry blood around the body."
     }
   ],
   "questions": [
     {
-      "question": "What did the federal judge in California do?",
+      "question": "What did more than 100 experts do on Friday?",
       "options": [
-        "Ordered every state to print new voter lists",
-        "Closed the Los Angeles County registrar's office",
-        "Cancelled the midterm elections",
-        "Put limits on a DHS effort to look for noncitizens on voter lists"
+        "Announced new rules for school lunches",
+        "Signed an open letter urging the government to release a definition of ultraprocessed foods",
+        "Asked food companies to change their recipes",
+        "Published a new system for sorting foods into four levels"
       ],
-      "correct_answer": "Put limits on a DHS effort to look for noncitizens on voter lists"
+      "correct_answer": "Signed an open letter urging the government to release a definition of ultraprocessed foods"
     },
     {
-      "question": "How many states does the ruling cover?",
+      "question": "Which office did the experts send their letter to?",
       "options": [
-        "Nine",
-        "Fifty",
-        "Two",
-        "Five"
+        "The Department of Agriculture",
+        "The University of North Carolina, Chapel Hill",
+        "The Office of Management and Budget",
+        "The Department of Health and Human Services"
       ],
-      "correct_answer": "Nine"
+      "correct_answer": "The Office of Management and Budget"
     },
     {
-      "question": "What is the name of the DHS operation described in the article?",
+      "question": "Where does the term ultraprocessed come from?",
       "options": [
-        "The Citizen Check Project",
-        "Operation Ballot Box",
-        "The Unlawful Voter Initiative",
-        "The Midterm Watch Program"
+        "A label invented by food companies",
+        "A U.S. government rule written in 2025",
+        "The NOVA system, proposed by researchers in Brazil",
+        "A study of childhood obesity"
       ],
-      "correct_answer": "The Unlawful Voter Initiative"
+      "correct_answer": "The NOVA system, proposed by researchers in Brazil"
     },
     {
-      "question": "Why was the judge concerned about the DHS lists?",
+      "question": "How does the NOVA system sort foods?",
       "options": [
-        "They were too short",
-        "They were shared on social media",
-        "They were written in the wrong language",
-        "They had errors and included the names of citizens"
+        "By how sweet they taste",
+        "By the country they come from",
+        "By their price",
+        "By how much industrial processing they undergo"
       ],
-      "correct_answer": "They had errors and included the names of citizens"
+      "correct_answer": "By how much industrial processing they undergo"
     },
     {
-      "question": "How many noncitizens does the Department of Justice say are on California's voter rolls?",
+      "question": "According to media reports, what slowed the release of the definition?",
       "options": [
-        "About 2 million",
-        "About 6,600",
-        "About 340",
-        "About 20,000"
+        "Experts disagreed about the NOVA system",
+        "The open letter was delayed",
+        "Food company CEOs intervened",
+        "The public comment period was extended"
       ],
-      "correct_answer": "About 20,000"
+      "correct_answer": "Food company CEOs intervened"
     },
     {
-      "question": "What did a group of Democratic organizations claim in their lawsuit?",
+      "question": "Which health problems have studies linked to eating lots of ultraprocessed foods?",
       "options": [
-        "That voting should move online",
-        "That mail ballots should be banned",
-        "That the actions amount to voter intimidation",
-        "That the election date should change"
+        "Broken bones and allergies",
+        "Cardiovascular disease, obesity and Type 2 diabetes",
+        "Vision problems",
+        "Colds and headaches"
       ],
-      "correct_answer": "That the actions amount to voter intimidation"
+      "correct_answer": "Cardiovascular disease, obesity and Type 2 diabetes"
     }
   ],
   "background_read": [
-    "In the United States, people must be citizens to vote in federal elections, and states keep lists of registered voters called voter rolls.",
-    "The Department of Homeland Security is a federal agency that handles border, immigration and security work, while the Department of Justice enforces federal laws in court.",
-    "When people or groups think a government action breaks the law, they can file a lawsuit, and a judge can order the government to stop or limit what it is doing.",
-    "Because the midterm elections are close, courts are deciding quickly how far these federal checks on voters may go."
+    "Governments publish official definitions and guidance so that food labels, school meals and health advice all rest on the same shared meaning.",
+    "The NOVA system, created by researchers in Brazil, sorts foods into four levels according to how much industrial processing they have been through, and ultraprocessed foods sit at the most heavily processed end.",
+    "An open letter is a public appeal that experts sign together to put pressure on officials to act.",
+    "Until the government releases its own definition, the word ultraprocessed stays fuzzy, and people cannot be sure which foods it really covers."
   ],
   "Article_Structure": [
-    "LEAD: A federal judge in California limits a DHS effort to find noncitizens on voter lists, less than two weeks before the midterms",
-    "BACKGROUND: Only citizens may vote in federal elections; noncitizen voting is illegal and extremely rare",
-    "KEY EVENT: Ruling restricts DHS field interviews in its Unlawful Voter Initiative",
-    "  ├─ WHO: A federal judge and the Department of Homeland Security",
-    "  ├─ WHERE: Nine states, including California, New York and Pennsylvania",
-    "  └─ WHY: The judge found DHS lists had errors and included citizens",
-    "RELATED CASE: The Justice Department says about 20,000 noncitizens are on California rolls; officials question the list",
-    "REACTIONS: Attorney General Todd Blanche says the goal is not chaos; Democratic groups sue over voter intimidation",
-    "OPEN QUESTION: How courts will settle these disputes before Election Day, with a hearing set for next Tuesday"
+    "LEAD: More than 100 experts want the U.S. government to release its first official definition of ultraprocessed foods",
+    "KEY EVENT: The experts signed an open letter to the Office of Management and Budget",
+    "  ├─ WHO: Science, medical and nutrition experts",
+    "  └─ WHEN: The letter was signed on Friday, the day the public comment period ended",
+    "BACKGROUND: The administration announced the definition effort in July 2025, and health and agriculture departments submitted a proposed definition in August",
+    "EVIDENCE: Studies link eating lots of ultraprocessed foods to cardiovascular disease, obesity and Type 2 diabetes",
+    "OPEN QUESTION: When will the government release the definition, and which foods will it cover?"
   ],
   "perspectives": [
     {
-      "perspective": "The judge",
-      "description": "Worried that DHS lists had errors and included citizens' names, so limited agents' field interviews."
+      "perspective": "The experts who signed the open letter",
+      "description": "They say most Americans have heard of ultraprocessed foods and wish to avoid them but few understand them deeply, so official guidance is needed, and special interests should not hold up the process."
     },
     {
-      "perspective": "California officials",
-      "description": "Say they do not know whether the Justice Department's list of 20,000 noncitizens is accurate."
+      "perspective": "Health Secretary Robert F. Kennedy Jr.",
+      "description": "He has connected Americans' overconsumption of ultraprocessed foods to childhood obesity."
     },
     {
-      "perspective": "Attorney General Todd Blanche",
-      "description": "Said the department is \"not trying to create chaos.\""
-    },
-    {
-      "perspective": "Democratic organizations",
-      "description": "Sued the Trump administration, saying the actions amount to voter intimidation."
+      "perspective": "Food company CEOs",
+      "description": "According to media reports, food company CEOs intervened in the release of the government's definition."
     }
   ],
-  "mined_at": "2026-10-23T10:28:39+00:00",
-  "source_published_at": "Thu, 22 Oct 2026 18:55:44 -0400",
+  "mined_at": "2026-10-23T22:53:30+00:00",
+  "source_published_at": "Fri, 23 Oct 2026 16:24:23 -0400",
   "source_name": "PBS NewsHour",
-  "source_url": "https://www.pbs.org/newshour/show/doj-monitoring-plans-and-dhs-voter-checks-raise-concerns-of-election-interference",
+  "source_url": "https://www.pbs.org/newshour/health/why-experts-are-pushing-rfk-jr-to-release-a-federal-definition-of-ultraprocessed-foods",
   "category": "News",
-  "source_word_count": 628,
+  "source_word_count": 629,
   "detail_status": "full"
 }

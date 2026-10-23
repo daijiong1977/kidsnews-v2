@@ -1,113 +1,118 @@
 {
-  "title": "Curiosity Rover Sees Mystery Cliffs on Mars",
-  "summary": "NASA's Curiosity rover has sent home a beautiful new picture of Mars. It shows strange cliffs far away that were shaped by wind.\n\nThe rover took six photos on August 11, early in the Martian morning. Scientists put them together into one wide view. The front of the picture looks bluish, and sunlight shines on the cliffs.\n\nThese cliffs are called yardangs. They stretch about 10 miles across Mount Sharp, a mountain about 3 miles tall. Curiosity has been climbing it since 2014.\n\nThe mountain's rock layers show that long ago, Mars had lakes and streams. But the yardang layer is a puzzle. It is a different color and its layers tilt in an odd way. NASA scientist Ashwin Vasavada said it might be ash from ancient volcanoes.\n\nCuriosity should reach the cliffs in 2027. Then it can study them with its robotic arm.",
-  "why_it_matters": "Exploring Mars helps us learn how planets, including Earth, can change over time.",
-  "image_url": "/article_images/science-s97c76c9630cf476f.webp",
+  "title": "A Tiny Robot That Swims With Living Muscle",
+  "summary": "Scientists at MIT have built a tiny robot that swims with real, living muscle instead of batteries and motors.\n\nThe robot's body is soft and flexible, about the size of a stick of gum. It has two fins, and each fin is covered with muscle cells much thinner than a human hair. Scientists changed the cells so they squeeze tight when light shines on them. By flashing light on one fin or the other, the team can steer the robot and change its speed.\n\nIn tests, the robot swam and turned through a simple underwater maze. At its fastest, it moved about four body lengths every minute. An Olympic swimmer can move up to 65 body lengths a minute.\n\nStudy author Ritu Raman said it takes a lot of force to move through water, and the robot is quite strong for its size. The study appeared in the journal Advanced Functional Materials. One day, robots like this might do gentle jobs in fragile places, because living tissue is soft and can even heal itself.",
+  "why_it_matters": "One day, soft robots like this could explore fragile places you care about, like coral reefs, without damaging them.",
+  "image_url": "/article_images/science-s98162fa3de44e89a.webp",
   "keywords": [
     {
-      "term": "rover",
-      "explanation": "A robot car that explores another planet."
+      "term": "muscle cells",
+      "explanation": "Tiny living parts of muscle that can squeeze and pull to make things move."
     },
     {
-      "term": "Martian",
-      "explanation": "Having to do with the planet Mars."
+      "term": "flexible",
+      "explanation": "Able to bend easily without breaking."
     },
     {
-      "term": "yardangs",
-      "explanation": "Cliffs or ridges carved by wind."
+      "term": "steer",
+      "explanation": "To guide something in the direction you want it to go."
     },
     {
-      "term": "volcanoes",
-      "explanation": "Mountains that can burst out lava and ash."
+      "term": "maze",
+      "explanation": "A puzzle of paths that you must find the right way through."
     },
     {
-      "term": "robotic arm",
-      "explanation": "A machine arm that can reach out and use tools."
+      "term": "tissue",
+      "explanation": "A group of similar living cells that work together in a body."
+    },
+    {
+      "term": "fragile",
+      "explanation": "Easily broken or damaged, so it must be handled gently."
     }
   ],
   "questions": [
     {
-      "question": "What did Curiosity send home?",
+      "question": "What does the tiny robot use to swim instead of batteries and motors?",
       "options": [
-        "A Mars rock",
-        "A video game",
-        "A new picture of Mars",
-        "A letter"
+        "Real, living muscle",
+        "Tiny paper wings",
+        "Magnets in its fins",
+        "A small propeller"
       ],
-      "correct_answer": "A new picture of Mars"
+      "correct_answer": "Real, living muscle"
     },
     {
-      "question": "What are yardangs?",
+      "question": "About how big is the robot?",
       "options": [
-        "Rivers",
-        "Cliffs shaped by wind",
-        "Moons",
-        "Clouds"
+        "As big as a shoe",
+        "About the size of a stick of gum",
+        "Smaller than a grain of sand",
+        "As big as a bicycle"
       ],
-      "correct_answer": "Cliffs shaped by wind"
+      "correct_answer": "About the size of a stick of gum"
     },
     {
-      "question": "How many photos were put together?",
+      "question": "How do scientists steer the robot?",
       "options": [
-        "Ninety",
-        "Six",
-        "Twenty",
-        "One"
+        "By flashing light on one fin or the other",
+        "By pulling it on a string",
+        "By blowing bubbles at it",
+        "With a remote control joystick"
       ],
-      "correct_answer": "Six"
+      "correct_answer": "By flashing light on one fin or the other"
     },
     {
-      "question": "What did Mars have long ago, according to the rock layers?",
+      "question": "What happens to the muscle cells when light shines on them?",
       "options": [
-        "Cities",
-        "Lakes and streams",
-        "Penguins",
-        "Forests"
+        "They change color",
+        "They grow bigger",
+        "They squeeze tight",
+        "They fall asleep"
       ],
-      "correct_answer": "Lakes and streams"
+      "correct_answer": "They squeeze tight"
     },
     {
-      "question": "What might the strange layer be made of?",
+      "question": "In tests, what did the robot swim and turn through?",
       "options": [
-        "Ash from ancient volcanoes",
-        "Plastic",
-        "Snow",
-        "Chocolate"
+        "A deep ocean trench",
+        "A river full of rocks",
+        "An Olympic swimming pool",
+        "A simple underwater maze"
       ],
-      "correct_answer": "Ash from ancient volcanoes"
+      "correct_answer": "A simple underwater maze"
     },
     {
-      "question": "When should Curiosity reach the cliffs?",
+      "question": "Why might robots like this be good for gentle jobs in fragile places?",
       "options": [
-        "Tomorrow",
-        "In 2027",
-        "In 1990",
-        "Never"
+        "Living tissue is soft and can heal itself",
+        "They can swim faster than any fish",
+        "They are made of hard metal",
+        "They never need food or rest"
       ],
-      "correct_answer": "In 2027"
+      "correct_answer": "Living tissue is soft and can heal itself"
     }
   ],
   "background_read": [
-    "Curiosity is a NASA robot that has been exploring Mars and climbing a mountain there.",
-    "Layers of rock are like pages in a history book that tell scientists what Mars was like long ago."
+    "Most robots move with motors and batteries, but some scientists are building a new kind of robot that uses living parts, like real muscle.",
+    "Muscle works by squeezing tight and then relaxing, and that squeezing can push a robot through the water.",
+    "Scientists like these soft, living robots because tissue is gentle and can even heal itself after it is hurt."
   ],
   "Article_Structure": [
-    "WHO: NASA's Curiosity rover and scientist Ashwin Vasavada",
-    "WHAT: Took a new picture of mysterious wind-carved cliffs",
-    "WHERE: On Mount Sharp on Mars",
-    "WHY: Scientists want to learn how the strange cliffs formed"
+    "WHO: Scientists at MIT, including study author Ritu Raman",
+    "WHAT: The team built a gum-sized robot with two fins covered in muscle cells that squeeze tight when light shines on them",
+    "WHERE: At MIT, with tests in a simple underwater maze",
+    "WHY: Because living tissue is soft and can heal itself, robots like this might one day do gentle jobs in fragile places"
   ],
   "perspectives": [
     {
-      "perspective": "Ashwin Vasavada",
-      "description": "Says the strange layer might be ash from ancient volcanoes."
+      "perspective": "Study author Ritu Raman",
+      "description": "She says it takes a lot of force to move through water, and the robot is quite strong for its size."
     }
   ],
-  "mined_at": "2026-10-23T10:28:39+00:00",
-  "source_published_at": "Thu, 22 Oct 2026 07:03:49 EDT",
-  "source_name": "ScienceDaily Top Technology",
-  "source_url": "https://www.sciencedaily.com/releases/2026/10/261021231238.htm",
+  "mined_at": "2026-10-23T22:53:30+00:00",
+  "source_published_at": "Fri, 23 Oct 2026 06:33:56 EDT",
+  "source_name": "ScienceDaily All",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261022081308.htm",
   "category": "Science",
-  "source_word_count": 601,
+  "source_word_count": 736,
   "detail_status": "full"
 }

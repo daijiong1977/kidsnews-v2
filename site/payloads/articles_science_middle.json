@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-10-23-science-1",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Thu, 22 Oct 2026 07:03:49 EDT",
-      "mined_at": "2026-10-23T10:28:39+00:00",
-      "source_published_at": "Thu, 22 Oct 2026 07:03:49 EDT",
-      "image_url": "/article_images/science-s97c76c9630cf476f.webp",
+      "source": "ScienceDaily All",
+      "time_ago": "Fri, 23 Oct 2026 06:33:56 EDT",
+      "mined_at": "2026-10-23T22:53:30+00:00",
+      "source_published_at": "Fri, 23 Oct 2026 06:33:56 EDT",
+      "image_url": "/article_images/science-s98162fa3de44e89a.webp",
       "category": "Science",
-      "title": "Curiosity Rover Spots Mysterious Cliffs Ahead on Mars",
-      "summary": "Curiosity's new Mars panorama shows wind-carved cliffs that scientists hope to study up close in 2027."
+      "title": "A Tiny Robot That Swims With Living Muscles",
+      "summary": "MIT scientists built a gum-sized swimming robot powered by living muscle cells that contract when light shines on them. The tiny biohybrid robot steered through an underwater maze and may one day explore fragile places too delicate for ordinary machines."
     },
     {
       "id": "2026-10-23-science-2",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Tue, 20 Oct 2026 23:08:17 EDT",
-      "mined_at": "2026-10-23T10:28:39+00:00",
-      "source_published_at": "Tue, 20 Oct 2026 23:08:17 EDT",
-      "image_url": "/article_images/science-sa5621ea274012c64.webp",
+      "source": "Space.com",
+      "time_ago": "Fri, 23 Oct 2026 18:00:00 +0000",
+      "mined_at": "2026-10-23T22:53:30+00:00",
+      "source_published_at": "Fri, 23 Oct 2026 18:00:00 +0000",
+      "image_url": "/article_images/science-sf0a293af00d35cc7.webp",
       "category": "Science",
-      "title": "Scientists Find an Eyeless Snail Living in a Dark Chinese Cave",
-      "summary": "A new eyeless, see-through snail found in a high Chinese cave is the country's first known freshwater cave snail."
+      "title": "Halley's Comet Leaves a Trail of Shooting Stars",
+      "summary": "Earth is passing through debris left by Halley's Comet, creating the Orionid meteor shower. A photographer in Georgia captured three bright meteors near Orion, and the shower remains active until Nov. 7."
     },
     {
       "id": "2026-10-23-science-3",
-      "source": "ScienceDaily Top Technology",
+      "source": "ScienceDaily Most Popular",
       "time_ago": "Thu, 22 Oct 2026 21:21:47 EDT",
-      "mined_at": "2026-10-23T10:28:39+00:00",
+      "mined_at": "2026-10-23T22:53:30+00:00",
       "source_published_at": "Thu, 22 Oct 2026 21:21:47 EDT",
-      "image_url": "/article_images/science-sb3aacf454083025a.webp",
+      "image_url": "/article_images/science-s5c7d8d545eb082ef.webp",
       "category": "Science",
-      "title": "A $10 Light Sensor Could Bring Lab Tests to Your Wrist",
-      "summary": "Cambridge researchers built a $10 light sensor that measures as precisely as large lab machines."
+      "title": "A $10 Chip That Could Put a Lab on Your Wrist",
+      "summary": "Cambridge researchers built a $10 spectrometer chip with laboratory-level precision. In tests it identified materials perfectly and measured blood glucose without needles, though more testing is needed before real medical use."
     }
   ]
 }

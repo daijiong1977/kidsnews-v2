@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-10-23-science-1",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Thu, 22 Oct 2026 07:03:49 EDT",
-      "mined_at": "2026-10-23T10:28:39+00:00",
-      "source_published_at": "Thu, 22 Oct 2026 07:03:49 EDT",
-      "image_url": "/article_images/science-s97c76c9630cf476f.webp",
+      "source": "ScienceDaily All",
+      "time_ago": "Fri, 23 Oct 2026 06:33:56 EDT",
+      "mined_at": "2026-10-23T22:53:30+00:00",
+      "source_published_at": "Fri, 23 Oct 2026 06:33:56 EDT",
+      "image_url": "/article_images/science-s98162fa3de44e89a.webp",
       "category": "Science",
-      "title": "Curiosity Rover Sees Mystery Cliffs on Mars",
-      "summary": "Curiosity's new picture shows mystery cliffs on Mars that it hopes to reach in 2027."
+      "title": "A Tiny Robot That Swims With Living Muscle",
+      "summary": "MIT scientists built a gum-sized robot that swims using living muscle cells. The cells squeeze when light shines on them, letting the robot steer through water — and one day it may work in fragile places too delicate for ordinary machines."
     },
     {
       "id": "2026-10-23-science-2",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Tue, 20 Oct 2026 23:08:17 EDT",
-      "mined_at": "2026-10-23T10:28:39+00:00",
-      "source_published_at": "Tue, 20 Oct 2026 23:08:17 EDT",
-      "image_url": "/article_images/science-sa5621ea274012c64.webp",
+      "source": "Space.com",
+      "time_ago": "Fri, 23 Oct 2026 18:00:00 +0000",
+      "mined_at": "2026-10-23T22:53:30+00:00",
+      "source_published_at": "Fri, 23 Oct 2026 18:00:00 +0000",
+      "image_url": "/article_images/science-sf0a293af00d35cc7.webp",
       "category": "Science",
-      "title": "Scientists Find an Eyeless Snail in a Dark Cave",
-      "summary": "A new eyeless, see-through snail was found in a high cave in China."
+      "title": "Halley's Comet Leaves a Trail of Shooting Stars",
+      "summary": "Earth is passing through dust left behind by Halley's Comet, making the Orionid meteor shower. A photographer in Georgia captured three bright meteors near Orion, and the shower stays active until Nov. 7."
     },
     {
       "id": "2026-10-23-science-3",
-      "source": "ScienceDaily Top Technology",
+      "source": "ScienceDaily Most Popular",
       "time_ago": "Thu, 22 Oct 2026 21:21:47 EDT",
-      "mined_at": "2026-10-23T10:28:39+00:00",
+      "mined_at": "2026-10-23T22:53:30+00:00",
       "source_published_at": "Thu, 22 Oct 2026 21:21:47 EDT",
-      "image_url": "/article_images/science-sb3aacf454083025a.webp",
+      "image_url": "/article_images/science-s5c7d8d545eb082ef.webp",
       "category": "Science",
-      "title": "A $10 Sensor Uses Light to Test Things Like a Lab",
-      "summary": "A $10 Cambridge light sensor can identify materials as well as big lab machines."
+      "title": "A $10 Chip That Could Put a Lab on Your Wrist",
+      "summary": "Cambridge researchers built a spectrometer that costs about $10 and is only a few centimeters wide. It identified materials perfectly in tests and even measured blood sugar without needles, though it needs much more testing before medical use."
     }
   ]
 }
