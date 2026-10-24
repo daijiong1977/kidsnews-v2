@@ -1,0 +1,114 @@
+{
+  "title": "Scientists Test a Nuclear Plan to Stop a Giant Asteroid",
+  "summary": "Imagine a space rock too big for a gentle push to move in time. Scientists are testing what to do about that kind of rock with computer models, not real explosions. About 66 million years ago, the asteroid Chicxulub, about 6 to 9 miles wide, hit Earth and wiped out about 75 percent of life, including all non-avian dinosaurs. Nothing that big has hit since, but scientists say another big hit is not impossible. In 2022, NASA's DART mission hit Dimorphos, the small moon of the asteroid Didymos, and changed its orbit. But Didymos was small and was never a threat. For a much bigger rock with very little warning time, many impactors would be impractical. So a team at Lawrence Livermore National Laboratory, led by physicist Isaiah Santisevan, simulated a nuclear device exploding above the asteroid. Its X-rays would heat the surface until it vaporizes, pushing the rock the other way. In the longest simulation, the asteroid broke apart, and most of its pieces moved faster than its escape velocity. Scientists need to track where those pieces would go.",
+  "why_it_matters": "Learning how scientists protect Earth from space rocks shows how math and computers can solve huge problems before they happen.",
+  "image_url": "/article_images/science-s52d6f008b0fee7bf.webp",
+  "keywords": [
+    {
+      "term": "orbit",
+      "explanation": "The path an object takes as it moves around another object in space."
+    },
+    {
+      "term": "impactors",
+      "explanation": "Objects sent to crash into something to push it."
+    },
+    {
+      "term": "vaporizes",
+      "explanation": "Turns into gas when heated very strongly."
+    },
+    {
+      "term": "escape velocity",
+      "explanation": "The speed something must reach to escape an object's pull and fly away."
+    },
+    {
+      "term": "physicist",
+      "explanation": "A scientist who studies how matter and energy work."
+    }
+  ],
+  "questions": [
+    {
+      "question": "About how wide was the asteroid Chicxulub?",
+      "options": [
+        "Less than a mile wide",
+        "About 100 miles wide",
+        "About 60 miles wide",
+        "About 6 to 9 miles wide"
+      ],
+      "correct_answer": "About 6 to 9 miles wide"
+    },
+    {
+      "question": "What did the Chicxulub hit wipe out?",
+      "options": [
+        "About 75 percent of life, including all non-avian dinosaurs",
+        "Only plants",
+        "Nothing",
+        "Only sea animals"
+      ],
+      "correct_answer": "About 75 percent of life, including all non-avian dinosaurs"
+    },
+    {
+      "question": "What did NASA's DART mission do in 2022?",
+      "options": [
+        "Hit Dimorphos and changed its orbit",
+        "Landed on the Moon",
+        "Exploded an asteroid",
+        "Photographed Chicxulub"
+      ],
+      "correct_answer": "Hit Dimorphos and changed its orbit"
+    },
+    {
+      "question": "Why would many impactors be impractical for a much bigger rock?",
+      "options": [
+        "Asteroids are too slow",
+        "There would be very little warning time",
+        "The rock would be too small",
+        "Impactors are too cheap"
+      ],
+      "correct_answer": "There would be very little warning time"
+    },
+    {
+      "question": "What would the X-rays from a nuclear device do?",
+      "options": [
+        "Heat the surface until it vaporizes, pushing the rock the other way",
+        "Make it heavier",
+        "Freeze the rock",
+        "Break it into dust"
+      ],
+      "correct_answer": "Heat the surface until it vaporizes, pushing the rock the other way"
+    },
+    {
+      "question": "What do scientists still need to do?",
+      "options": [
+        "Find a new asteroid",
+        "Build a bigger rocket",
+        "Track where the pieces would go",
+        "Stop all simulations"
+      ],
+      "correct_answer": "Track where the pieces would go"
+    }
+  ],
+  "background_read": [
+    "An asteroid is a space rock that orbits the Sun.",
+    "About 66 million years ago, a very large one hit Earth and wiped out about 75 percent of life.",
+    "Scientists test plans with computer models instead of real explosions, including using X-rays to heat a rock's surface until it vaporizes and pushes the rock away."
+  ],
+  "Article_Structure": [
+    "WHO: Scientists, a team at Lawrence Livermore National Laboratory led by physicist Isaiah Santisevan, and NASA.",
+    "WHAT: Testing a nuclear plan to stop a giant asteroid using computer models, not real explosions.",
+    "WHERE: In computer models on Earth, for asteroids in space.",
+    "WHY: A gentle push may not move a very big rock in time, so scientists test stronger options."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Scientists",
+      "description": "Say another big hit is not impossible."
+    }
+  ],
+  "mined_at": "2026-10-24T10:51:20+00:00",
+  "source_published_at": "Fri, 23 Oct 2026 18:00:00 +0000",
+  "source_name": "Popular Mechanics",
+  "source_url": "https://www.popularmechanics.com/science/a74211828/nuking-an-asteroid/",
+  "category": "Science",
+  "source_word_count": 795,
+  "detail_status": "full"
+}

@@ -1,0 +1,127 @@
+{
+  "title": "Alaska Senate Fight Centers on Two Candidates Named Dan Sullivan",
+  "summary": "President Donald Trump says he ordered a lawsuit that could block certification of Alaska's Senate election, but only if the Republican incumbent loses. The case, filed by the Justice Department close to Election Day, centers on a ballot with two candidates named Dan Sullivan.\n\nThe incumbent is Republican Senator Dan Sullivan, listed as Daniel S. The other candidate is Dan J. Sullivan. Republicans are worried voters could get confused by the similar names. The Alaska Supreme Court has already considered the question and said Dan J. Sullivan could stay on the ballot.\n\nThe Justice Department says it filed the lawsuit to protect the integrity of the Senate election. It argued that the federal government could be harmed if certification were tainted by what it called a frivolous candidacy, because that would undermine confidence in the federal government.\n\nPresident Trump, asked about the case, said he was the one who said to file it. He argued that Democrats had put up a second Dan Sullivan, and he called Daniel J. the fake candidate. The report notes that Daniel J. Sullivan has voted in Alaska races before.\n\nElection expert David Becker, a former Justice Department civil rights attorney, offered a different view. He said the matter is purely one of state law, and that the Justice Department has no authority and no role in it. He also said trying to block certification 11 days before the vote was unprecedented.\n\nThe Alaska dispute is part of a final campaign push as Trump works to help Republicans keep control of Congress. Trump is scheduled to campaign in Georgia on Saturday and in Michigan on Sunday, where Republican Mike Rogers faces Democrat Abdul El-Sayed. Former President Barack Obama is also scheduled to campaign in Michigan on Saturday with El-Sayed.",
+  "why_it_matters": "The case raises questions about who decides ballot disputes and whether a result can be certified, which affects trust in elections and control of Congress.",
+  "image_url": "/article_images/news-s6281f105e543404f.webp",
+  "keywords": [
+    {
+      "term": "certification",
+      "explanation": "The official act of confirming that an election result is valid."
+    },
+    {
+      "term": "incumbent",
+      "explanation": "A person who already holds a political job and is running to keep it."
+    },
+    {
+      "term": "integrity",
+      "explanation": "Honesty and trustworthiness, so people can believe the result is fair."
+    },
+    {
+      "term": "frivolous",
+      "explanation": "Something with little real value or importance, not meant to be taken seriously."
+    },
+    {
+      "term": "unprecedented",
+      "explanation": "Something that has never happened before."
+    }
+  ],
+  "questions": [
+    {
+      "question": "According to President Trump, what could the lawsuit block?",
+      "options": [
+        "The Alaska Supreme Court's ruling",
+        "Certification of Alaska's Senate election if the Republican incumbent loses",
+        "Voting in Georgia",
+        "Campaign events in Michigan"
+      ],
+      "correct_answer": "Certification of Alaska's Senate election if the Republican incumbent loses"
+    },
+    {
+      "question": "How is the incumbent listed on the ballot?",
+      "options": [
+        "Mike Rogers",
+        "Dan J. Sullivan",
+        "David Becker",
+        "Daniel S."
+      ],
+      "correct_answer": "Daniel S."
+    },
+    {
+      "question": "What has the Alaska Supreme Court already said about Dan J. Sullivan?",
+      "options": [
+        "He must leave the ballot",
+        "Dan J. Sullivan could stay on the ballot",
+        "He is the Republican incumbent",
+        "He has never voted in Alaska"
+      ],
+      "correct_answer": "Dan J. Sullivan could stay on the ballot"
+    },
+    {
+      "question": "Why does the Justice Department say it filed the lawsuit?",
+      "options": [
+        "To remove the incumbent from office",
+        "To protect the integrity of the Senate election",
+        "To help a campaign in Michigan",
+        "To delay voting in Georgia"
+      ],
+      "correct_answer": "To protect the integrity of the Senate election"
+    },
+    {
+      "question": "What did election expert David Becker say about the Justice Department's role?",
+      "options": [
+        "It should campaign for the incumbent",
+        "It has no authority and no role in the matter",
+        "It should run Alaska's elections",
+        "It ordered the Alaska Supreme Court to act"
+      ],
+      "correct_answer": "It has no authority and no role in the matter"
+    },
+    {
+      "question": "Where is President Trump scheduled to campaign on Sunday?",
+      "options": [
+        "Michigan",
+        "Arizona",
+        "Alaska",
+        "Georgia"
+      ],
+      "correct_answer": "Michigan"
+    }
+  ],
+  "background_read": [
+    "A Senate election chooses who will represent a state in the United States Senate.",
+    "Voters pick from the names printed on a ballot, so two candidates with very similar names can cause confusion.",
+    "Certification is the official step that confirms an election result.",
+    "Questions about who may appear on a state ballot are usually decided under state law, and state courts can rule on them."
+  ],
+  "Article_Structure": [
+    "LEAD: Trump says he ordered a lawsuit over Alaska's Senate election",
+    "KEY EVENT: The Justice Department case could block certification if the incumbent loses",
+    "  ├─ WHO: Republican Senator Dan Sullivan, listed as Daniel S., and Dan J. Sullivan",
+    "  ├─ WHY: Republicans worry voters could confuse the two similar names",
+    "  └─ COURT: The Alaska Supreme Court said Dan J. Sullivan could stay on the ballot",
+    "ARGUMENT FOR THE CASE: The Justice Department says it aims to protect the election's integrity",
+    "COUNTERVIEW: David Becker says it is purely state law and the department has no role",
+    "CONTEXT: The dispute comes as Trump campaigns to help Republicans keep control of Congress"
+  ],
+  "perspectives": [
+    {
+      "perspective": "The Justice Department",
+      "description": "Says it filed the lawsuit to protect the integrity of the Senate election, arguing the federal government could be harmed if certification were tainted by what it called a frivolous candidacy."
+    },
+    {
+      "perspective": "President Donald Trump",
+      "description": "Says he ordered the filing, argues Democrats put up a second Dan Sullivan, and calls Daniel J. the fake candidate."
+    },
+    {
+      "perspective": "Election expert David Becker",
+      "description": "Says the matter is purely one of state law, that the Justice Department has no authority and no role in it, and that trying to block certification 11 days before the vote was unprecedented."
+    }
+  ],
+  "mined_at": "2026-10-24T10:51:20+00:00",
+  "source_published_at": "Fri, 23 Oct 2026 18:55:08 -0400",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/show/trump-says-he-ordered-suit-to-block-alaska-senate-results-if-gop-loses",
+  "category": "News",
+  "source_word_count": 725,
+  "detail_status": "full"
+}

@@ -1,0 +1,123 @@
+{
+  "title": "Severe Flooding Hits the Four Corners Region",
+  "summary": "Heavy rain that started on Wednesday has brought severe flooding to the Four Corners region, where New Mexico, Colorado, Utah, and Arizona meet. By Friday, October 23, floodwaters had closed roads, forced evacuations, and led to emergency declarations across all four states, and forecasters said more rain could follow through Sunday.\n\nIn San Juan County, New Mexico, emergency management spokesperson Devin Neeley described a strange contrast: light clouds and blue sky overhead, while brown floodwaters filled low-lying homes below. He said the county had not seen flooding like this in generations, and residents in vulnerable areas had been told to evacuate on Thursday afternoon.\n\nIn the southern Utah city of Hurricane, flooding damaged more than 100 homes and recreational vehicles, and the city issued an emergency declaration on Thursday. Utah Governor Spencer Cox said his heart was with affected families and urged people to follow evacuation orders.\n\nElsewhere, Navajo Nation police said authorities had rescued seven families, 30 people, from flooded homes. The Hopi Tribe in northeastern Arizona declared a state of emergency after heavy rain damaged roads, bridges, homes, and other infrastructure. In Colorado, Governor Jared Polis declared disaster emergencies for 11 counties and authorized National Guard members to help with rescue efforts in southwest Colorado.\n\nIn Farmington, New Mexico, Police Chief Steve Hebbe said no deaths had been reported so far, and urged people not to take the flooding lightly.\n\nMeteorologists said the rain came from the remnants of Hurricane Trudy, active in the Pacific Ocean from October 15 to 18, which formed into a slow-moving low-pressure system. Parts of southwest Colorado and southeast Utah received two to four inches of rain, while higher areas such as the San Juan Mountains received up to six inches, amounts a National Weather Service meteorologist called records in themselves.",
+  "why_it_matters": "Flooding can close roads, damage homes, and force whole communities to leave, so warnings and evacuation orders protect lives and shape how regions recover.",
+  "image_url": "/article_images/news-s50d7782713a058af.webp",
+  "keywords": [
+    {
+      "term": "evacuations",
+      "explanation": "It means leaving a dangerous place quickly to stay safe."
+    },
+    {
+      "term": "infrastructure",
+      "explanation": "The basic systems and structures a place needs, such as roads and bridges."
+    },
+    {
+      "term": "remnants",
+      "explanation": "The parts that are left after most of something has gone."
+    },
+    {
+      "term": "recreational vehicles",
+      "explanation": "Large vehicles that people can live and travel in for fun or holidays."
+    },
+    {
+      "term": "low-pressure system",
+      "explanation": "An area of air where the pressure is low, often bringing clouds and rain."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is the name of the region where New Mexico, Colorado, Utah, and Arizona meet?",
+      "options": [
+        "The Four Corners region",
+        "Farmington",
+        "The city of Hurricane",
+        "The San Juan Mountains"
+      ],
+      "correct_answer": "The Four Corners region"
+    },
+    {
+      "question": "By Friday, October 23, what had the floodwaters done?",
+      "options": [
+        "Dried up rivers in the region",
+        "Closed roads, forced evacuations, and led to emergency declarations",
+        "Melted snow in the mountains",
+        "Stopped all further rain"
+      ],
+      "correct_answer": "Closed roads, forced evacuations, and led to emergency declarations"
+    },
+    {
+      "question": "What did Devin Neeley describe in San Juan County, New Mexico?",
+      "options": [
+        "Dry riverbeds across the county",
+        "Blue sky above while brown floodwaters filled low-lying homes below",
+        "A dam breaking near Farmington",
+        "Snow covering the whole county"
+      ],
+      "correct_answer": "Blue sky above while brown floodwaters filled low-lying homes below"
+    },
+    {
+      "question": "According to Navajo Nation police, how many people did authorities rescue from flooded homes?",
+      "options": [
+        "Seven people",
+        "More than 100 people",
+        "Eleven people",
+        "30 people"
+      ],
+      "correct_answer": "30 people"
+    },
+    {
+      "question": "According to meteorologists, where did the rain come from?",
+      "options": [
+        "A slow-moving low-pressure system formed from the remnants of Hurricane Trudy",
+        "A broken dam in Colorado",
+        "A wildfire in Arizona",
+        "Snowmelt from the San Juan Mountains"
+      ],
+      "correct_answer": "A slow-moving low-pressure system formed from the remnants of Hurricane Trudy"
+    },
+    {
+      "question": "In Colorado, what did Governor Jared Polis do?",
+      "options": [
+        "Said no deaths had been reported",
+        "Ordered evacuations in San Juan County",
+        "Declared a state of emergency for the Hopi Tribe",
+        "Declared disaster emergencies for 11 counties and authorized National Guard members to help with rescue efforts"
+      ],
+      "correct_answer": "Declared disaster emergencies for 11 counties and authorized National Guard members to help with rescue efforts"
+    }
+  ],
+  "background_read": [
+    "The Four Corners is the place where New Mexico, Colorado, Utah, and Arizona meet.",
+    "When very heavy rain falls faster than the ground and rivers can carry it away, water can flood homes and roads.",
+    "An evacuation order tells people in danger to leave their homes and move to safety.",
+    "An emergency declaration lets governments organise rescue help and support for affected communities."
+  ],
+  "Article_Structure": [
+    "LEAD: Heavy rain floods the Four Corners region and forces evacuations",
+    "KEY EVENT: Floodwaters close roads and bring emergency declarations across four states",
+    "  ├─ WHEN: Rain started on Wednesday; by Friday, October 23, flooding was severe",
+    "  ├─ WHERE: New Mexico, Colorado, Utah, and Arizona",
+    "  └─ IMPACT: Homes damaged, families rescued, and rescue help authorized",
+    "EVIDENCE: County, tribal, and state officials describe damage and rescues",
+    "CAUSE: Remnants of Hurricane Trudy formed a slow-moving low-pressure system",
+    "OPEN QUESTION: How much more rain will fall through Sunday"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Utah Governor Spencer Cox",
+      "description": "Said his heart was with affected families and urged people to follow evacuation orders."
+    },
+    {
+      "perspective": "Farmington Police Chief Steve Hebbe",
+      "description": "Said no deaths had been reported so far and urged people not to take the flooding lightly."
+    }
+  ],
+  "mined_at": "2026-10-24T10:51:20+00:00",
+  "source_published_at": "Fri, 23 Oct 2026 20:40:42 -0400",
+  "source_name": "NPR World",
+  "source_url": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners",
+  "category": "News",
+  "source_word_count": 901,
+  "detail_status": "full"
+}

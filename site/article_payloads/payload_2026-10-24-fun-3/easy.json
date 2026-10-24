@@ -1,0 +1,121 @@
+{
+  "title": "Most Readers Say Flying Cars Are Not Ready Yet",
+  "summary": "Are flying cars almost here, or still just a dream? Most Live Science readers are curious but cautious.\n\nLast week, Tesla demonstrated its new \"flying\" Roadster, the Rocket Roadster. Some experts remain skeptical it is feasible.\n\nLive Science asked if flying cars will arrive in the next five years. More than 280 replied. The largest group, 34 percent, said more than five years are needed. Next, 23 percent said never.\n\nOne reader with almost 60 years behind the wheel wrote that most people cannot handle driving in two dimensions, let alone three, and cited hunger and poverty.\n\nAnother reader said a flying car would never be a cheap alternative, because gravity rules and flying over towns and parks raised worries about damage and protests.\n\nAnother commenter praised Tesla's technology, including the Roadster and Starship, and said its founder revolutionized cars and space travel in under 20 years.\n\nThe poll does not settle the question. For now, flying cars are a demonstration and a debate, not something you can buy and fly home.",
+  "why_it_matters": "Dreaming about future travel is fun, but polls show why engineers still have hard problems to solve first.",
+  "image_url": "/article_images/fun-s3d8cb392e9fe8313.webp",
+  "keywords": [
+    {
+      "term": "skeptical",
+      "explanation": "Not easily convinced something is true."
+    },
+    {
+      "term": "feasible",
+      "explanation": "Possible to do in real life."
+    },
+    {
+      "term": "demonstrated",
+      "explanation": "Shown in public so people can see how it works."
+    },
+    {
+      "term": "alternative",
+      "explanation": "A different choice that can replace something."
+    },
+    {
+      "term": "revolutionized",
+      "explanation": "Changed something completely, in a big new way."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What did Tesla demonstrate last week?",
+      "options": [
+        "A flying bus",
+        "A rocket to Mars",
+        "Its new \"flying\" Roadster, the Rocket Roadster",
+        "A self-driving truck"
+      ],
+      "correct_answer": "Its new \"flying\" Roadster, the Rocket Roadster"
+    },
+    {
+      "question": "How many readers replied to the Live Science question?",
+      "options": [
+        "More than 1,000",
+        "More than 280",
+        "Fewer than 50",
+        "Exactly 100"
+      ],
+      "correct_answer": "More than 280"
+    },
+    {
+      "question": "What did the largest group say?",
+      "options": [
+        "Never",
+        "More than five years are needed",
+        "Within one year",
+        "Next year"
+      ],
+      "correct_answer": "More than five years are needed"
+    },
+    {
+      "question": "What percent said never?",
+      "options": [
+        "50 percent",
+        "23 percent",
+        "10 percent",
+        "34 percent"
+      ],
+      "correct_answer": "23 percent"
+    },
+    {
+      "question": "What did one reader with almost 60 years behind the wheel write?",
+      "options": [
+        "Roads are too crowded",
+        "Most people cannot handle driving in two dimensions, let alone three",
+        "Everyone should own one",
+        "Flying cars are cheap"
+      ],
+      "correct_answer": "Most people cannot handle driving in two dimensions, let alone three"
+    },
+    {
+      "question": "What does the poll not settle?",
+      "options": [
+        "Who founded Tesla",
+        "The question of whether flying cars will arrive",
+        "How Starship works",
+        "The price of a Roadster"
+      ],
+      "correct_answer": "The question of whether flying cars will arrive"
+    }
+  ],
+  "background_read": [
+    "A flying car is a car that can also fly, but none are for sale yet.",
+    "Tesla demonstrated a 'flying' Roadster, the Rocket Roadster."
+  ],
+  "Article_Structure": [
+    "WHO: Live Science readers, Tesla, experts, and commenters.",
+    "WHAT: Most readers say flying cars are not ready yet.",
+    "WHERE: In a Live Science poll and reader comments.",
+    "WHY: Readers are curious but cautious, and flying cars are still a demonstration and a debate."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Some experts",
+      "description": "Remain skeptical it is feasible."
+    },
+    {
+      "perspective": "One reader",
+      "description": "Wrote that most people cannot handle driving in two dimensions, let alone three."
+    },
+    {
+      "perspective": "Another commenter",
+      "description": "Praised Tesla's technology, including the Roadster and Starship."
+    }
+  ],
+  "mined_at": "2026-10-24T10:51:20+00:00",
+  "source_published_at": "Fri, 23 Oct 2026 16:55:34 +0000",
+  "source_name": "Live Science",
+  "source_url": "https://www.livescience.com/technology/most-people-cant-handle-driving-in-2-dimensions-let-alone-3-readers-respond-to-our-poll-about-flying-cars",
+  "category": "Fun",
+  "source_word_count": 459,
+  "detail_status": "full"
+}

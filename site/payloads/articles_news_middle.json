@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-23-news-1",
+      "id": "2026-10-24-news-1",
       "source": "NPR World",
-      "time_ago": "Fri, 23 Oct 2026 05:00:00 -0400",
-      "mined_at": "2026-10-24T00:25:31+00:00",
-      "source_published_at": "Fri, 23 Oct 2026 05:00:00 -0400",
-      "image_url": "/article_images/news-s7c8d7118518acdb6.webp",
+      "time_ago": "Fri, 23 Oct 2026 20:40:42 -0400",
+      "mined_at": "2026-10-24T10:51:20+00:00",
+      "source_published_at": "Fri, 23 Oct 2026 20:40:42 -0400",
+      "image_url": "/article_images/news-s50d7782713a058af.webp",
       "category": "News",
-      "title": "Jet Fuel Hits a Record High — and Holiday Plane Tickets Cost More",
-      "summary": "Jet fuel just hit a record $4.90 a gallon, and airlines are passing some of the cost to travelers: Thanksgiving fares are up about 30%, yet most families are still booking."
+      "title": "Severe Flooding Hits the Four Corners Region",
+      "summary": "Heavy rain has flooded parts of four western states, forcing evacuations, while officials warn more rain may come through Sunday."
     },
     {
-      "id": "2026-10-23-news-2",
-      "source": "BBC News",
-      "time_ago": "Fri, 23 Oct 2026 15:30:47 GMT",
-      "mined_at": "2026-10-24T00:25:31+00:00",
-      "source_published_at": "Fri, 23 Oct 2026 15:30:47 GMT",
-      "image_url": "/article_images/news-sd0e7aed86728fc8f.webp",
+      "id": "2026-10-24-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Fri, 23 Oct 2026 18:55:08 -0400",
+      "mined_at": "2026-10-24T10:51:20+00:00",
+      "source_published_at": "Fri, 23 Oct 2026 18:55:08 -0400",
+      "image_url": "/article_images/news-s6281f105e543404f.webp",
       "category": "News",
-      "title": "Oil Spill Spreads Along UAE Beaches Toward a Wildlife Haven",
-      "summary": "Oil leaking from a damaged tanker near the Strait of Hormuz has spread over 35 km and reached UAE beaches, drifting toward protected islands where green turtles live."
+      "title": "Alaska Senate Fight Centers on Two Candidates Named Dan Sullivan",
+      "summary": "Trump says he ordered a lawsuit that could block certification if the Republican incumbent loses, a move an election expert calls unprecedented."
     },
     {
-      "id": "2026-10-23-news-3",
-      "source": "NPR World",
-      "time_ago": "Fri, 23 Oct 2026 05:00:00 -0400",
-      "mined_at": "2026-10-24T00:25:31+00:00",
-      "source_published_at": "Fri, 23 Oct 2026 05:00:00 -0400",
-      "image_url": "/article_images/news-s8570f2e758471d8d.webp",
+      "id": "2026-10-24-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Fri, 23 Oct 2026 19:19:32 -0400",
+      "mined_at": "2026-10-24T10:51:20+00:00",
+      "source_published_at": "Fri, 23 Oct 2026 19:19:32 -0400",
+      "image_url": "/article_images/news-s0955bfddf2213996.webp",
       "category": "News",
-      "title": "Young Candidates Say Fixing Housing Starts With Living It",
-      "summary": "Young candidates from both parties, including a 21-year-old Montana lawmaker and two Connecticut renters in their twenties, are running on plans to make homes cheaper to rent and buy."
+      "title": "U.S. Proposes Tighter Rules on High-Tech Investments Abroad",
+      "summary": "Treasury has proposed wider limits on U.S. high-tech investments in countries of concern, but the rule is not final yet."
     }
   ]
 }

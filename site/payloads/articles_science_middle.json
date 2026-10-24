@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-23-science-1",
-      "source": "ScienceDaily All",
-      "time_ago": "Fri, 23 Oct 2026 06:33:56 EDT",
-      "mined_at": "2026-10-24T00:25:31+00:00",
-      "source_published_at": "Fri, 23 Oct 2026 06:33:56 EDT",
-      "image_url": "/article_images/science-s98162fa3de44e89a.webp",
-      "category": "Science",
-      "title": "A Tiny Robot That Swims With Living Muscles",
-      "summary": "MIT engineers built a gum-sized swimming robot powered by a layer of living muscle cells that contract under light, letting them steer it through an underwater maze."
-    },
-    {
-      "id": "2026-10-23-science-2",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Thu, 22 Oct 2026 21:21:47 EDT",
-      "mined_at": "2026-10-24T00:25:31+00:00",
-      "source_published_at": "Thu, 22 Oct 2026 21:21:47 EDT",
-      "image_url": "/article_images/science-s5c7d8d545eb082ef.webp",
-      "category": "Science",
-      "title": "A $10 Chip That Could Put a Medical Lab on Your Wrist",
-      "summary": "Cambridge researchers built a $10 light-analyzing chip, just centimeters wide, that identified materials perfectly in tests and measured health markers including blood glucose without needles."
-    },
-    {
-      "id": "2026-10-23-science-3",
-      "source": "Space.com",
+      "id": "2026-10-24-science-1",
+      "source": "Popular Mechanics",
       "time_ago": "Fri, 23 Oct 2026 18:00:00 +0000",
-      "mined_at": "2026-10-24T00:25:31+00:00",
+      "mined_at": "2026-10-24T10:51:20+00:00",
       "source_published_at": "Fri, 23 Oct 2026 18:00:00 +0000",
-      "image_url": "/article_images/science-scb1142b39a78a6ed.webp",
+      "image_url": "/article_images/science-s52d6f008b0fee7bf.webp",
       "category": "Science",
-      "title": "Shooting Stars From Halley's Comet Light Up the Autumn Sky",
-      "summary": "Astrophotographer Tim McCollum combined many long exposures to capture three Orionid meteors - debris from Halley's Comet - above Georgia, and the shower remains active until November 7."
+      "title": "When Time Runs Out, Scientists Test a Nuclear Plan to Stop an Asteroid",
+      "summary": "Scientists simulated using a nuclear blast above a large asteroid to push it off course or break it apart when warning time is very short."
+    },
+    {
+      "id": "2026-10-24-science-2",
+      "source": "Space.com",
+      "time_ago": "Sat, 24 Oct 2026 10:00:00 +0000",
+      "mined_at": "2026-10-24T10:51:20+00:00",
+      "source_published_at": "Sat, 24 Oct 2026 10:00:00 +0000",
+      "image_url": "/article_images/science-s5f699ed51817bdc2.webp",
+      "category": "Science",
+      "title": "Five Spooky Sky Targets to Spot This Halloween Season",
+      "summary": "From the winking Demon Star to slow Taurid meteors, here are five naked-eye sky targets to enjoy around Halloween."
+    },
+    {
+      "id": "2026-10-24-science-3",
+      "source": "ScienceDaily All",
+      "time_ago": "Fri, 23 Oct 2026 05:42:58 EDT",
+      "mined_at": "2026-10-24T10:51:20+00:00",
+      "source_published_at": "Fri, 23 Oct 2026 05:42:58 EDT",
+      "image_url": "/article_images/science-sc553d9075e1fa527.webp",
+      "category": "Science",
+      "title": "Switzerland Has Lost Nearly a Fifth of Its Glacier Ice in Just Five Years",
+      "summary": "Swiss glaciers lost over 5 percent of their ice in 2026, adding up to nearly 20 percent lost in five years after a dry winter and hot summer."
     }
   ]
 }

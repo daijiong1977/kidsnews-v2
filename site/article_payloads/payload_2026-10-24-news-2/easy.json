@@ -1,0 +1,122 @@
+{
+  "title": "Two Men Named Dan Sullivan Are on Alaska's Senate Ballot",
+  "summary": "President Donald Trump says he told the Justice Department to file a lawsuit about Alaska's Senate election. The lawsuit could block the result from being certified, but only if the Republican candidate who already holds the seat loses.\n\nThe problem is the ballot: it has two men named Dan Sullivan. The one who already holds the seat is Republican Senator Dan Sullivan, listed as Daniel S. The other is Dan J. Sullivan. Some Republicans worry voters may mix up the two names. Alaska's Supreme Court has already said Dan J. Sullivan can stay on the ballot.\n\nThe Justice Department says it filed the case to protect the election. President Trump says he ordered it, and he called Daniel J. the fake candidate. The report notes that Daniel J. Sullivan has voted in Alaska races before.\n\nElection expert David Becker disagrees. He says this is only a state matter, so the Justice Department has no role in it. He also says trying to block certification 11 days before the vote has never happened before.",
+  "why_it_matters": "Elections decide who speaks for your state, so understanding how ballots and courts work helps you see why fair voting rules matter.",
+  "image_url": "/article_images/news-s6281f105e543404f.webp",
+  "keywords": [
+    {
+      "term": "ballot",
+      "explanation": "The paper or form voters use to choose who they vote for."
+    },
+    {
+      "term": "certified",
+      "explanation": "Officially confirmed as correct and final."
+    },
+    {
+      "term": "lawsuit",
+      "explanation": "A case taken to court to settle a disagreement."
+    },
+    {
+      "term": "Justice Department",
+      "explanation": "The part of the U.S. government that handles courts and laws."
+    },
+    {
+      "term": "Supreme Court",
+      "explanation": "The highest court in a state, which makes final decisions about laws."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is the problem with Alaska's Senate ballot?",
+      "options": [
+        "It has no date",
+        "It has two men named Dan Sullivan",
+        "It is written in another language",
+        "It lists no candidates"
+      ],
+      "correct_answer": "It has two men named Dan Sullivan"
+    },
+    {
+      "question": "Who already holds the Senate seat?",
+      "options": [
+        "Dan J. Sullivan",
+        "President Donald Trump",
+        "David Becker",
+        "Republican Senator Dan Sullivan, listed as Daniel S."
+      ],
+      "correct_answer": "Republican Senator Dan Sullivan, listed as Daniel S."
+    },
+    {
+      "question": "What has Alaska's Supreme Court already said?",
+      "options": [
+        "The ballot must be reprinted",
+        "Votes cannot be counted",
+        "Dan J. Sullivan can stay on the ballot",
+        "The election must be delayed"
+      ],
+      "correct_answer": "Dan J. Sullivan can stay on the ballot"
+    },
+    {
+      "question": "Why does the Justice Department say it filed the case?",
+      "options": [
+        "To protect the election",
+        "To count votes early",
+        "To delay voting",
+        "To remove a candidate"
+      ],
+      "correct_answer": "To protect the election"
+    },
+    {
+      "question": "What does election expert David Becker say?",
+      "options": [
+        "Alaska should hold a new vote",
+        "The ballot is fine",
+        "This is only a state matter, so the Justice Department has no role in it",
+        "The lawsuit should be withdrawn by Trump"
+      ],
+      "correct_answer": "This is only a state matter, so the Justice Department has no role in it"
+    },
+    {
+      "question": "Becker says trying to block certification this close to the vote has never happened before. How close?",
+      "options": [
+        "On election day",
+        "11 days before the vote",
+        "A year before",
+        "After certification"
+      ],
+      "correct_answer": "11 days before the vote"
+    }
+  ],
+  "background_read": [
+    "A ballot lists the names people can vote for in an election.",
+    "After voting, officials check and certify the result, which means they confirm it is official.",
+    "In Alaska, two men with the same name are on the Senate ballot, and a court case argues about whether the result can be certified."
+  ],
+  "Article_Structure": [
+    "WHO: President Donald Trump, the Justice Department, Republican Senator Dan Sullivan, Dan J. Sullivan, Alaska's Supreme Court, and election expert David Becker.",
+    "WHAT: A lawsuit that could block Alaska's Senate result from being certified if the Republican who holds the seat loses.",
+    "WHERE: Alaska.",
+    "WHY: The ballot has two men named Dan Sullivan, and some Republicans worry voters may mix up the two names."
+  ],
+  "perspectives": [
+    {
+      "perspective": "President Donald Trump",
+      "description": "Says he ordered the lawsuit and called Daniel J. the fake candidate."
+    },
+    {
+      "perspective": "The Justice Department",
+      "description": "Says it filed the case to protect the election."
+    },
+    {
+      "perspective": "David Becker",
+      "description": "Says this is only a state matter, so the Justice Department has no role in it."
+    }
+  ],
+  "mined_at": "2026-10-24T10:51:20+00:00",
+  "source_published_at": "Fri, 23 Oct 2026 18:55:08 -0400",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/show/trump-says-he-ordered-suit-to-block-alaska-senate-results-if-gop-loses",
+  "category": "News",
+  "source_word_count": 725,
+  "detail_status": "full"
+}

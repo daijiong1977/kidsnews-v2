@@ -1,0 +1,118 @@
+{
+  "title": "Switzerland Has Lost Nearly a Fifth of Its Glacier Ice in Just Five Years",
+  "summary": "Switzerland's glaciers are shrinking fast, and 2026 was another hard year for them. According to the annual report from the Swiss Academy of Sciences, based on observations by the Glacier Monitoring Network known as GLAMOS, the country's glaciers lost more than 5 percent of their total ice volume in 2026. That did not quite match the record losses of 2022, but glaciers still thinned by an average of 2.5 to 4 meters. In some lower areas, they lost as much as 10 meters of ice. Several major glaciers, including the Rhône, Aletsch, and Clariden glaciers, had their most severe melting on record in 2026. Smaller glaciers suffered even more. Bella Tola in Valais and Griessfirn in Glarus have now disappeared entirely. Over five years, the change is striking. Switzerland has lost nearly 20 percent of its total glacier ice volume in just five years. Why did so much ice melt? The winter of 2025 to 2026 was one of Switzerland's ten least snowy winters since records began, so glaciers had less fresh snow to protect them. Then, from May to September 2026, persistent heat and dry weather sped up melting, even at the highest elevations. On 76 days, the freezing level climbed above 4,000 meters, more than twice the usual number and a new Swiss record. By September, snow had disappeared even at 3,500 meters, leaving glacier ice exposed. The melting did have one temporary benefit. Between July and September, glaciers released about 2.2 trillion liters of water, more than four times the drinking water used by Swiss households in a whole year. That extra water helped ease summer water shortages. But scientists warn that this help cannot last. As glaciers shrink, they will be able to provide less meltwater in the future.",
+  "why_it_matters": "Glaciers store water that feeds rivers and eases dry summers, so losing nearly a fifth of Switzerland's glacier ice in five years threatens future water supplies.",
+  "image_url": "/article_images/science-sc553d9075e1fa527.webp",
+  "keywords": [
+    {
+      "term": "GLAMOS",
+      "explanation": "The network that watches and measures Switzerland's glaciers."
+    },
+    {
+      "term": "ice volume",
+      "explanation": "How much ice a glacier holds in total."
+    },
+    {
+      "term": "freezing level",
+      "explanation": "The height above which the air is cold enough for water to freeze."
+    },
+    {
+      "term": "meltwater",
+      "explanation": "Water that comes from melting ice and snow."
+    },
+    {
+      "term": "elevations",
+      "explanation": "Heights above sea level, such as high mountain slopes."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How much of its total ice volume did Switzerland's glaciers lose in 2026?",
+      "options": [
+        "Less than 1 percent",
+        "Nearly 20 percent",
+        "About 75 percent",
+        "More than 5 percent"
+      ],
+      "correct_answer": "More than 5 percent"
+    },
+    {
+      "question": "How much glacier ice has Switzerland lost in five years?",
+      "options": [
+        "Nearly 75 percent",
+        "Nearly 20 percent",
+        "About 2.2 trillion liters",
+        "More than 5 percent"
+      ],
+      "correct_answer": "Nearly 20 percent"
+    },
+    {
+      "question": "Which two glaciers have now disappeared entirely?",
+      "options": [
+        "Clariden and Aletsch",
+        "Rhône and Aletsch",
+        "Bella Tola and Griessfirn",
+        "Rhône and Griessfirn"
+      ],
+      "correct_answer": "Bella Tola and Griessfirn"
+    },
+    {
+      "question": "Why did so much ice melt in 2026?",
+      "options": [
+        "Heavy rain in October",
+        "A least-snowy winter plus heat and dry weather from May to September",
+        "A single hot week in July",
+        "A very snowy winter followed by a cool summer"
+      ],
+      "correct_answer": "A least-snowy winter plus heat and dry weather from May to September"
+    },
+    {
+      "question": "On how many days did the freezing level climb above 4,000 meters?",
+      "options": [
+        "10 days",
+        "35 days",
+        "About 2.5 days",
+        "76 days"
+      ],
+      "correct_answer": "76 days"
+    },
+    {
+      "question": "What did scientists warn about the extra meltwater?",
+      "options": [
+        "It will stop all melting",
+        "It will refill the glaciers",
+        "It will ease water shortages forever",
+        "It cannot last, because shrinking glaciers will provide less meltwater"
+      ],
+      "correct_answer": "It cannot last, because shrinking glaciers will provide less meltwater"
+    }
+  ],
+  "background_read": [
+    "A glacier is a huge, slow-moving river of ice formed from snow piling up over many years.",
+    "Fresh snow on top protects the ice below, and in warm weather the ice melts and feeds rivers.",
+    "When winters bring little snow and summers stay hot and dry, glaciers lose more ice than they gain and shrink.",
+    "That meltwater can ease dry summers for a while, but a smaller glacier stores less water for the future."
+  ],
+  "Article_Structure": [
+    "LEAD: Switzerland's glaciers lost over 5 percent of their ice in 2026, nearly 20 percent in five years.",
+    "KEY EVENT: The Swiss Academy of Sciences annual report, based on GLAMOS observations, records severe melting.",
+    "  ├─ WHO: Swiss glaciers, including the Rhône, Aletsch, and Clariden.",
+    "  ├─ WHAT: Record melting, with Bella Tola and Griessfirn gone entirely.",
+    "  └─ WHY: A least-snowy winter, then heat and dry weather from May to September.",
+    "EVIDENCE: Glaciers thinned 2.5 to 4 meters on average, and the freezing level topped 4,000 meters on 76 days.",
+    "WARNING: The extra meltwater helped ease summer shortages, but scientists warn this help cannot last."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Scientists",
+      "description": "Warn that the extra meltwater help cannot last, because as glaciers shrink they will provide less meltwater in the future."
+    }
+  ],
+  "mined_at": "2026-10-24T10:51:20+00:00",
+  "source_published_at": "Fri, 23 Oct 2026 05:42:58 EDT",
+  "source_name": "ScienceDaily All",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261022081316.htm",
+  "category": "Science",
+  "source_word_count": 500,
+  "detail_status": "full"
+}
