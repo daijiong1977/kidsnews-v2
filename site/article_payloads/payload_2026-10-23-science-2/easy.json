@@ -1,113 +1,118 @@
 {
-  "title": "Halley's Comet Leaves a Trail of Shooting Stars",
-  "summary": "You do not have to wait for Halley's Comet to come back to see shooting stars from it. This week, Earth passed through a trail of dust the comet left behind, and the tiny bits made the Orionid meteor shower.\n\nOn Oct. 21, photographer Tim McCollum took a special picture above Toccoa, Georgia. Between 3 and 4 in the morning, he caught three bright meteors in the sky. The shooting stars seem to fly out from one point near Betelgeuse, a red giant star in Orion. Halley's Comet is now more than 3 billion miles away, but the dust it shed still glows brightly when it hits our air.\n\nThe photo also shows Orion's Belt, the Orion Nebula and the Milky Way. McCollum used a star tracker and joined many photos into one picture.\n\nMissed it? The shower lasts until Nov. 7, so you may still spot a shooting star on a clear night.",
-  "why_it_matters": "On a clear night before Nov. 7, you can step outside and watch for shooting stars made by dust from a famous comet.",
-  "image_url": "/article_images/science-sf0a293af00d35cc7.webp",
+  "title": "A $10 Chip Could Put a Lab on Your Wrist",
+  "summary": "Imagine checking your blood sugar with no needle, just a sensor on your wrist. Researchers at the University of Cambridge and a start-up called GlitterinTech built a chip that could one day make that possible. It costs just $10.\n\nThe chip reads light to learn what a substance is made of. Tools like this are called spectrometers. They are used in medicine, factories, food testing and nature studies. Big spectrometers work well, but making them small usually makes them less exact. This chip is only a few centimeters wide, yet the team says it is as precise as much bigger lab machines.\n\nIn tests, the chip correctly named plastics, medicines, coffee, flour and tea every time. It also measured health markers such as blood glucose, without needles, in one test over a long period. The researchers say much more testing is needed before it can become a real medical product.\n\nThe chip kept working from -20°C to 80°C, so it could suit wearables, factories and outdoor sensors.",
+  "why_it_matters": "If it passes more tests, a wrist sensor could one day let kids check health markers without a needle.",
+  "image_url": "/article_images/science-s5c7d8d545eb082ef.webp",
   "keywords": [
     {
-      "term": "comet",
-      "explanation": "A ball of ice and dust that travels around the Sun and can grow a glowing tail."
+      "term": "sensor",
+      "explanation": "A sensor is a device that notices and measures something."
     },
     {
-      "term": "meteor shower",
-      "explanation": "A time when many shooting stars streak across the sky over a few nights."
+      "term": "spectrometers",
+      "explanation": "Spectrometers are tools that read light to learn what a substance is made of."
     },
     {
-      "term": "red giant star",
-      "explanation": "A very large, old star that has swelled up and glows red."
+      "term": "substance",
+      "explanation": "A substance is a kind of material."
     },
     {
-      "term": "Nebula",
-      "explanation": "A huge cloud of gas and dust in space where new stars can form."
+      "term": "precise",
+      "explanation": "Precise means exact and careful."
     },
     {
-      "term": "Milky Way",
-      "explanation": "The galaxy we live in, which looks like a pale band of light across the night sky."
+      "term": "glucose",
+      "explanation": "Glucose is a sugar found in blood."
     },
     {
-      "term": "star tracker",
-      "explanation": "A device that slowly moves a camera so it follows the stars as Earth turns."
+      "term": "wearables",
+      "explanation": "Wearables are devices that people wear on their bodies."
     }
   ],
   "questions": [
     {
-      "question": "What made the Orionid meteor shower this week?",
+      "question": "Who built the new chip?",
       "options": [
-        "Ice falling from airplanes",
-        "Sparks from a rocket launch",
-        "Dust left behind by Halley's Comet",
-        "Pieces of the Moon breaking off"
+        "Doctors at one hospital",
+        "Researchers at the University of Cambridge and GlitterinTech",
+        "Workers at a watch factory",
+        "A team of chefs"
       ],
-      "correct_answer": "Dust left behind by Halley's Comet"
+      "correct_answer": "Researchers at the University of Cambridge and GlitterinTech"
     },
     {
-      "question": "Who took a special picture of the meteors?",
+      "question": "How does the chip learn what a substance is made of?",
       "options": [
-        "A scientist at MIT",
-        "An astronaut in space",
-        "Photographer Tim McCollum",
-        "A student with a phone"
+        "It tastes the substance",
+        "It listens for sounds",
+        "It reads light",
+        "It weighs the substance"
       ],
-      "correct_answer": "Photographer Tim McCollum"
+      "correct_answer": "It reads light"
     },
     {
-      "question": "Where was the picture taken?",
+      "question": "What usually happens when big spectrometers are made small?",
       "options": [
-        "Inside a space station",
-        "From a boat on the ocean",
-        "Over a desert",
-        "Above Toccoa, Georgia"
+        "They get much heavier",
+        "They stop working in factories",
+        "They turn into watches",
+        "They become less exact"
       ],
-      "correct_answer": "Above Toccoa, Georgia"
+      "correct_answer": "They become less exact"
     },
     {
-      "question": "The shooting stars seem to fly out from one point near which star?",
+      "question": "Which group of items did the chip name correctly every time in tests?",
       "options": [
-        "The North Star",
-        "The Sun",
-        "Betelgeuse",
-        "Orion's Belt"
+        "Milk, eggs, rice and apples",
+        "Rocks, leaves, sand and shells",
+        "Paper, wood, glass and soap",
+        "Plastics, medicines, coffee, flour and tea"
       ],
-      "correct_answer": "Betelgeuse"
+      "correct_answer": "Plastics, medicines, coffee, flour and tea"
     },
     {
-      "question": "How did McCollum make his picture?",
+      "question": "What did the chip measure without needles in one long test?",
       "options": [
-        "He used a star tracker and joined many photos into one picture",
-        "He used a telescope on a spaceship",
-        "He took one quick snapshot",
-        "He painted it from memory"
+        "How fast a heart beats",
+        "How much water a person drank",
+        "Body temperature",
+        "Health markers such as blood glucose"
       ],
-      "correct_answer": "He used a star tracker and joined many photos into one picture"
+      "correct_answer": "Health markers such as blood glucose"
     },
     {
-      "question": "How long does the shower last?",
+      "question": "What do the researchers say must happen before the chip can become a real medical product?",
       "options": [
-        "Until the comet comes back",
-        "All winter long",
-        "Until Nov. 7",
-        "One night only"
+        "It must be worn all day",
+        "It must be made larger",
+        "Much more testing is needed",
+        "It must be sold in stores"
       ],
-      "correct_answer": "Until Nov. 7"
+      "correct_answer": "Much more testing is needed"
     }
   ],
   "background_read": [
-    "Halley's Comet is a famous ball of ice and dust that journeys through space and swings past Earth only once in a long while.",
-    "As a comet travels, it sheds tiny bits of dust along its path, leaving a long trail floating in space.",
-    "When Earth passes through that trail, the dust bits burn up in our air and streak across the sky as shooting stars, and that is what a meteor shower is."
+    "A spectrometer is a tool that reads light to learn what something is made of.",
+    "Big versions can be hard to make small without losing exactness, but this chip stays small and precise.",
+    "It could one day help people check health markers from a wrist sensor, after much more testing."
   ],
   "Article_Structure": [
-    "WHO: Photographer Tim McCollum, who caught three bright meteors in one picture",
-    "WHAT: Earth passed through a trail of dust left behind by Halley's Comet, and the tiny bits made the Orionid meteor shower",
-    "WHERE: Above Toccoa, Georgia, between 3 and 4 in the morning on Oct. 21",
-    "WHY: The comet shed the dust as it traveled, and the bits still glow brightly when they hit our air, even though the comet is now more than 3 billion miles away"
+    "WHO: Researchers at the University of Cambridge and the start-up GlitterinTech",
+    "WHAT: They built a small, low-cost chip that reads light to identify substances and measure health markers",
+    "WHERE: In tests, with possible future use on wrists, in factories and outdoors",
+    "WHY: To make a small spectrometer that stays as precise as much bigger lab machines"
   ],
-  "perspectives": [],
-  "mined_at": "2026-10-23T22:53:30+00:00",
-  "source_published_at": "Fri, 23 Oct 2026 18:00:00 +0000",
-  "source_name": "Space.com",
-  "source_url": "https://www.space.com/stargazing/meteor-showers/halleys-comet-dazzles-from-afar-in-spectacular-astrophoto-of-orionid-meteor-shower",
+  "perspectives": [
+    {
+      "perspective": "The researchers",
+      "description": "They say the chip is as precise as much bigger lab machines, but much more testing is needed before it can become a real medical product."
+    }
+  ],
+  "mined_at": "2026-10-24T00:25:31+00:00",
+  "source_published_at": "Thu, 22 Oct 2026 21:21:47 EDT",
+  "source_name": "ScienceDaily Most Popular",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
   "category": "Science",
-  "source_word_count": 618,
+  "source_word_count": 833,
   "detail_status": "full"
 }

@@ -1,118 +1,112 @@
 {
   "title": "A Tiny Robot That Swims With Living Muscles",
-  "summary": "Imagine a robot powered not by batteries and motors, but by living muscle. Scientists at MIT have built exactly that: a tiny swimming robot that flaps its fins using a layer of real muscle cells.\n\nThe robot's body is a flexible gel frame about the size of a stick of gum. It has two fins, and each fin is coated with muscle cells far thinner than a human hair. The cells were genetically modified so that they squeeze tight when light shines on them. By flashing light onto one fin or the other, and changing how often the light pulses, the researchers can steer the robot and control its speed. In tests, the paper-thin robot swam and turned through a simple underwater maze. At top speed it covered about four times its own body length every minute. An Olympic swimmer manages up to 65 body lengths per minute, and the little robot's pace is similar to a cow shark cruising lazily through the ocean.\n\n\"It takes a lot of force to move through water versus air,\" said study author Ritu Raman, an associate professor of mechanical engineering at MIT. \"The robot's quite strong, given its size.\" The study, published in the journal Advanced Functional Materials, is the first demonstration of a very thin, flat robot that can travel from place to place using living muscle tissue. Most earlier biohybrid robots were built from bulky chunks of lab-grown muscle needing millions of cells. The MIT team believes thinner designs could be cheaper to build and move more efficiently. One day, Raman says, robots powered by living muscle might do delicate jobs in fragile places where ordinary machines are too rough, because living tissue is soft, responds to its surroundings, and can even heal itself.",
-  "why_it_matters": "Robots driven by living tissue could work gently in fragile places that hard machines might damage, opening a new way to explore and help in delicate environments. The work also suggests that thinner, simpler designs may make such biohybrid robots cheaper to build and more efficient.",
+  "summary": "Most swimming robots carry a motor. A new robot from MIT moves through the water in a different way: it is powered by a thin layer of living muscle cells.\n\nThe tiny robot has a soft gel body about the size of a stick of gum, with two fins coated in muscle cells far thinner than a human hair. The cells were genetically changed so they squeeze, or contract, whenever light shines on them.\n\nBy aiming light at one fin or the other, the researchers can make the fins flap and push the robot forward. Shining light more or less often, and choosing which fin gets it, lets the team steer the robot and control its speed.\n\nIn experiments, the robot swam and turned through an underwater maze. At its fastest, it covered about four times its own body length in one minute. That is much slower than an Olympic swimmer, who can travel up to 65 body lengths per minute, but about the pace of a cow shark cruising through the ocean.\n\n'It takes a lot of force to move through water versus air,' said study author Ritu Raman, an associate professor of mechanical engineering at MIT. 'The robot's quite strong, given its size.'\n\nThe study, published in the journal Advanced Functional Materials, is the first demonstration of a very thin robot that can travel from place to place using living muscle tissue. Machines that mix living tissue with human-made materials are called biohybrid robots.\n\nRaman says thin designs could be cheaper to build and move more efficiently than bulky biohybrid robots made from millions of cells. One day, robots powered by living muscle might do delicate jobs in places too fragile for ordinary machines, because living tissue is soft, responds to its surroundings, and can heal itself.",
+  "why_it_matters": "Mixing living tissue with machines could create softer robots that move efficiently and work safely in fragile places that ordinary machines might damage.",
   "image_url": "/article_images/science-s98162fa3de44e89a.webp",
   "keywords": [
     {
-      "term": "genetically modified",
-      "explanation": "Changed by scientists altering the instructions inside living cells."
+      "term": "contract",
+      "explanation": "To squeeze or shorten, as the muscle cells do when light shines on them."
     },
     {
       "term": "biohybrid",
-      "explanation": "A machine that mixes living tissue with built, non-living parts."
+      "explanation": "Made by mixing living tissue with human-made materials."
     },
     {
-      "term": "lab-grown",
-      "explanation": "Made or grown in a laboratory instead of inside a living body."
+      "term": "genetically",
+      "explanation": "Relating to genes, the instructions inside cells that scientists changed in this study."
     },
     {
-      "term": "mechanical engineering",
-      "explanation": "The branch of engineering that designs and builds machines and their moving parts."
+      "term": "tissue",
+      "explanation": "A group of similar living cells that together form part of a body."
     },
     {
-      "term": "associate professor",
-      "explanation": "A university teacher and researcher ranked below a full professor."
+      "term": "delicate",
+      "explanation": "Easily damaged and needing gentle, careful handling."
     }
   ],
   "questions": [
     {
-      "question": "What powers the tiny robot's swimming?",
+      "question": "What powers the MIT swimming robot instead of a motor?",
       "options": [
-        "Living muscle cells on its fins",
-        "A spinning propeller",
-        "Magnets under the water",
-        "A tiny battery and motor"
+        "A battery and a propeller",
+        "Magnets in the water",
+        "A thin layer of living muscle cells",
+        "A tiny sail"
       ],
-      "correct_answer": "Living muscle cells on its fins"
+      "correct_answer": "A thin layer of living muscle cells"
     },
     {
-      "question": "How big is the robot's gel frame?",
+      "question": "What do the muscle cells do when light shines on them?",
       "options": [
-        "About the size of a stick of gum",
-        "As big as a shoe",
-        "The size of a small boat",
-        "As long as a human arm"
+        "They glow green",
+        "They squeeze, or contract",
+        "They melt",
+        "They grow larger"
       ],
-      "correct_answer": "About the size of a stick of gum"
+      "correct_answer": "They squeeze, or contract"
     },
     {
       "question": "How do the researchers steer the robot?",
       "options": [
-        "By flashing light onto one fin or the other and changing how often it pulses",
-        "By shouting voice commands",
-        "By pulling it with a string",
+        "By aiming light at one fin or the other",
+        "With spoken commands",
+        "With a remote-control wheel",
         "By changing the water temperature"
       ],
-      "correct_answer": "By flashing light onto one fin or the other and changing how often it pulses"
+      "correct_answer": "By aiming light at one fin or the other"
     },
     {
-      "question": "How fast did the robot swim at top speed?",
+      "question": "At its fastest, how far did the robot travel in one minute?",
       "options": [
-        "65 body lengths per minute",
-        "One body length per hour",
-        "Faster than a cow shark",
-        "About four body lengths per minute"
+        "About 65 times its body length",
+        "About ten body lengths",
+        "About one body length",
+        "About four times its own body length"
       ],
-      "correct_answer": "About four body lengths per minute"
+      "correct_answer": "About four times its own body length"
     },
     {
-      "question": "What did the robot do during the tests?",
+      "question": "What are machines that mix living tissue with human-made materials called?",
       "options": [
-        "It raced an Olympic swimmer",
-        "It swam and turned through a simple underwater maze",
-        "It jumped out of the water",
-        "It collected plastic waste"
+        "Gel robots",
+        "Light bots",
+        "Muscle machines",
+        "Biohybrid robots"
       ],
-      "correct_answer": "It swam and turned through a simple underwater maze"
+      "correct_answer": "Biohybrid robots"
     },
     {
-      "question": "What makes this study a first, according to the article?",
+      "question": "Why might living-muscle robots be useful one day?",
       "options": [
-        "It is the first robot built at MIT",
-        "It is the first robot ever to swim",
-        "It is the first very thin, flat robot that can travel from place to place using living muscle tissue",
-        "It is the first robot that can heal itself"
+        "Living tissue is soft, responds to its surroundings and can heal itself",
+        "They are made of metal",
+        "They can swim faster than any fish",
+        "They never need light"
       ],
-      "correct_answer": "It is the first very thin, flat robot that can travel from place to place using living muscle tissue"
+      "correct_answer": "Living tissue is soft, responds to its surroundings and can heal itself"
     }
   ],
   "background_read": [
-    "Biohybrid robots are machines that combine living cells with built materials, so real tissue does part of the work instead of a motor.",
-    "Muscle moves by squeezing tight, so even a thin layer of muscle cells can flap a soft fin and push a small robot through water.",
-    "Scientists can change muscle cells so they react to light, and flashing light on one side or the other becomes a simple way to steer.",
-    "Because living tissue is soft, senses its surroundings and can heal itself, such robots could one day handle delicate jobs in fragile places where ordinary machines are too rough."
+    "Biohybrid robots mix living tissue with human-made materials, so a machine can move using real muscle instead of only a motor.",
+    "Muscle cells move by contracting, and scientists can control specially changed cells with light, turning light signals into movement.",
+    "Soft, living materials can be gentler and can heal themselves, which is why researchers explore them for delicate jobs in fragile places."
   ],
   "Article_Structure": [
-    "LEAD: MIT scientists built a tiny swimming robot powered by living muscle cells instead of batteries and motors",
-    "KEY EVENT: In tests, the paper-thin robot swam and turned through a simple underwater maze",
-    "  ├─ WHO: Study author Ritu Raman and her MIT team",
-    "  ├─ HOW: Light flashes make genetically modified muscle cells on the fins squeeze tight, steering the robot and setting its speed",
-    "  └─ HOW FAST: About four body lengths per minute at top speed, similar to a cow shark cruising lazily",
-    "EVIDENCE: The study was published in the journal Advanced Functional Materials",
-    "OPEN QUESTION: Whether muscle-powered robots can one day do delicate jobs in fragile places where ordinary machines are too rough"
+    "LEAD: A tiny MIT robot swims using living muscle cells instead of a motor",
+    "KEY EVENT: Researchers steered the gum-sized robot through an underwater maze using light",
+    "  ├─ WHO: MIT researchers, including study author Ritu Raman",
+    "  └─ HOW: Light makes the muscle cells on a fin contract and flap",
+    "EVIDENCE: At its fastest the robot covered about four times its body length in one minute",
+    "OPEN QUESTION: Whether thin biohybrid robots will one day do delicate jobs in fragile places"
   ],
   "perspectives": [
     {
-      "perspective": "Ritu Raman (study author)",
-      "description": "Says the robot is quite strong for its size and that muscle-powered robots might one day do delicate jobs in fragile places because living tissue is soft, responsive and can heal itself."
-    },
-    {
-      "perspective": "The MIT team",
-      "description": "Believes thinner designs could be cheaper to build and move more efficiently than earlier biohybrid robots made from bulky chunks of lab-grown muscle."
+      "perspective": "Ritu Raman",
+      "description": "She says it takes a lot of force to move through water, the robot is quite strong for its size, and thin designs could be cheaper to build and move more efficiently than bulky biohybrid robots."
     }
   ],
-  "mined_at": "2026-10-23T22:53:30+00:00",
+  "mined_at": "2026-10-24T00:25:31+00:00",
   "source_published_at": "Fri, 23 Oct 2026 06:33:56 EDT",
   "source_name": "ScienceDaily All",
   "source_url": "https://www.sciencedaily.com/releases/2026/10/261022081308.htm",

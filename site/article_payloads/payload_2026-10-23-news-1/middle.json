@@ -1,130 +1,125 @@
 {
-  "title": "Experts Push the Government to Finally Define 'Ultraprocessed' Food",
-  "summary": "What exactly makes a food \"ultraprocessed\"? Surprisingly, the U.S. government has never officially said. Now more than 100 science, medical and nutrition experts want that to change.\n\nOn Friday, the experts signed an open letter to the Office of Management and Budget urging the administration to release the first-ever government definition of ultraprocessed foods, often shortened to UPF. \"It is critical that special interests not hold up this process,\" the letter read. It noted that most Americans have heard of UPF and wish to avoid them, but few understand them deeply, so guidance is needed.\n\nThe push has been building for a while. The administration first announced its effort to define ultraprocessed foods in July 2025, and in August the Department of Health and Human Services and the U.S. Department of Agriculture submitted a proposed definition for final review. The foods in question range from sugary cereals and sodas to burgers and store-bought breads. According to media reports, food company CEOs intervened in the definition's release.\n\nSo what is ultraprocessed food? The term comes from the NOVA system, proposed in 2009 by researchers in Brazil, which sorts foods into four levels based on how much industrial processing they undergo. Ultraprocessed foods have been through \"extensive industrial manipulation,\" explained Lindsey Smith Taillie, a nutrition professor at the University of North Carolina, Chapel Hill, who signed the letter. They are broken down and reassembled with cosmetic additives such as added colors, flavors and emulsifiers.\n\nStudies have linked eating lots of these foods — often sugary, salty and fatty — to health problems including cardiovascular disease, obesity and Type 2 diabetes. Health Secretary Robert F. Kennedy Jr. has connected Americans' overconsumption of them to childhood obesity. The public comment period on the government's definition effort ended on Friday.",
-  "why_it_matters": "An official definition could shape food labels, school meals and health advice for millions of families. It would help people understand what they are eating and judge which foods are heavily processed.",
-  "image_url": "/article_images/news-s226245e36b1ab471.webp",
+  "title": "Jet Fuel Hits a Record High — and Holiday Plane Tickets Cost More",
+  "summary": "Planning to fly somewhere for the holidays? Your ticket will probably cost more this year — a lot more.\n\nThe reason is jet fuel, the special fuel airplanes burn. It is one of the biggest costs airlines have, and its price just hit a record. On Thursday, the average price of jet fuel in the United States reached $4.90 a gallon, according to the tracking firm Argus. That is the highest one-day average the firm has ever recorded — and more than twice what it cost a year ago.\n\nAirlines are passing part of that cost on to passengers. “Airfares right now are at what we see as a 10-year high because of the high cost of jet fuel,” said Hayley Berg, the lead economist at Hopper, a travel company. Tickets for Thanksgiving trips are up about 30% compared with last year, she said, and Christmas tickets are up more than 20%.\n\nSurprisingly, people are still buying. Delta Air Lines CEO Ed Bastian said travelers have shown only a “limited amount of resistance” and still see flying as reasonably affordable. Berg says holiday travel is “sticky”: families really want to get home or take their big trip, so most are not canceling.\n\nAirlines say they are absorbing most of the extra fuel cost themselves and passing only some of it to customers. Even so, some travelers are changing plans. One Maryland traveler said tickets for her whole family cost too much, so she will drive to Chicago instead.\n\nAnd the shoppers who are flying are hunting for deals: Berg says many people booked their holiday trips earlier than usual this year, hoping to lock in a fare before prices climb even higher.",
+  "why_it_matters": "Fuel is one of the biggest costs of flying, so when its price jumps, holiday trips and family visits become more expensive for everyone. Even so, most travelers are still booking, which shows how much people value getting home for the holidays.",
+  "image_url": "/article_images/news-s7c8d7118518acdb6.webp",
   "keywords": [
     {
-      "term": "ultraprocessed",
-      "explanation": "Describes food that factories have changed a great deal, breaking it down and rebuilding it with added colors, flavors and other additives."
+      "term": "jet fuel",
+      "explanation": "The special fuel that airplanes burn to fly."
     },
     {
-      "term": "open letter",
-      "explanation": "A letter that is published publicly, often signed by many people, to put pressure on officials to act."
+      "term": "airfares",
+      "explanation": "The prices people pay for plane tickets."
     },
     {
-      "term": "special interests",
-      "explanation": "Groups that push for rules or decisions that benefit themselves, such as companies in one industry."
+      "term": "economist",
+      "explanation": "A person who studies how money, prices and jobs work."
     },
     {
-      "term": "additives",
-      "explanation": "Extra substances put into food to change its color, flavor or texture, or to help it last longer."
+      "term": "absorbing",
+      "explanation": "Taking on a cost yourself instead of passing it all to someone else."
     },
     {
-      "term": "emulsifiers",
-      "explanation": "Additives that help ingredients such as oil and water stay mixed together in a food."
-    },
-    {
-      "term": "cardiovascular disease",
-      "explanation": "Diseases that affect the heart and the blood vessels that carry blood around the body."
+      "term": "fare",
+      "explanation": "The price paid to travel on a plane, bus or train."
     }
   ],
   "questions": [
     {
-      "question": "What did more than 100 experts do on Friday?",
+      "question": "What did the average price of jet fuel in the U.S. reach on Thursday?",
       "options": [
-        "Announced new rules for school lunches",
-        "Signed an open letter urging the government to release a definition of ultraprocessed foods",
-        "Asked food companies to change their recipes",
-        "Published a new system for sorting foods into four levels"
+        "$4.90 a gallon",
+        "$2.45 a gallon",
+        "$3.10 a gallon",
+        "$9.40 a gallon"
       ],
-      "correct_answer": "Signed an open letter urging the government to release a definition of ultraprocessed foods"
+      "correct_answer": "$4.90 a gallon"
     },
     {
-      "question": "Which office did the experts send their letter to?",
+      "question": "Who said airfares are at a 10-year high because of jet fuel costs?",
       "options": [
-        "The Department of Agriculture",
-        "The University of North Carolina, Chapel Hill",
-        "The Office of Management and Budget",
-        "The Department of Health and Human Services"
+        "The head of Airlines for America",
+        "A Delta Air Lines pilot",
+        "Hayley Berg, lead economist at Hopper",
+        "A travel agent in Baltimore"
       ],
-      "correct_answer": "The Office of Management and Budget"
+      "correct_answer": "Hayley Berg, lead economist at Hopper"
     },
     {
-      "question": "Where does the term ultraprocessed come from?",
+      "question": "By about how much are Thanksgiving airfares up compared with last year?",
       "options": [
-        "A label invented by food companies",
-        "A U.S. government rule written in 2025",
-        "The NOVA system, proposed by researchers in Brazil",
-        "A study of childhood obesity"
+        "About 60%",
+        "About 15%",
+        "About 5%",
+        "About 30%"
       ],
-      "correct_answer": "The NOVA system, proposed by researchers in Brazil"
+      "correct_answer": "About 30%"
     },
     {
-      "question": "How does the NOVA system sort foods?",
+      "question": "How did Delta's CEO describe travelers' reaction to the higher fares?",
       "options": [
-        "By how sweet they taste",
-        "By the country they come from",
-        "By their price",
-        "By how much industrial processing they undergo"
+        "A rush to buy even more tickets",
+        "Mass cancellations",
+        "A limited amount of resistance",
+        "Angry protests at airports"
       ],
-      "correct_answer": "By how much industrial processing they undergo"
+      "correct_answer": "A limited amount of resistance"
     },
     {
-      "question": "According to media reports, what slowed the release of the definition?",
+      "question": "What did one Maryland traveler decide to do because tickets cost too much?",
       "options": [
-        "Experts disagreed about the NOVA system",
-        "The open letter was delayed",
-        "Food company CEOs intervened",
-        "The public comment period was extended"
+        "Drive to Chicago instead of flying",
+        "Take a train to Florida",
+        "Skip the holidays entirely",
+        "Fly on Christmas Day itself"
       ],
-      "correct_answer": "Food company CEOs intervened"
+      "correct_answer": "Drive to Chicago instead of flying"
     },
     {
-      "question": "Which health problems have studies linked to eating lots of ultraprocessed foods?",
+      "question": "What did many shoppers do differently when booking this year?",
       "options": [
-        "Broken bones and allergies",
-        "Cardiovascular disease, obesity and Type 2 diabetes",
-        "Vision problems",
-        "Colds and headaches"
+        "They waited for last-minute deals",
+        "They switched to smaller airports",
+        "They booked earlier than usual to lock in a fare",
+        "They only bought refundable tickets"
       ],
-      "correct_answer": "Cardiovascular disease, obesity and Type 2 diabetes"
+      "correct_answer": "They booked earlier than usual to lock in a fare"
     }
   ],
   "background_read": [
-    "Governments publish official definitions and guidance so that food labels, school meals and health advice all rest on the same shared meaning.",
-    "The NOVA system, created by researchers in Brazil, sorts foods into four levels according to how much industrial processing they have been through, and ultraprocessed foods sit at the most heavily processed end.",
-    "An open letter is a public appeal that experts sign together to put pressure on officials to act.",
-    "Until the government releases its own definition, the word ultraprocessed stays fuzzy, and people cannot be sure which foods it really covers."
+    "Jet fuel is the special fuel that jet airplanes burn, and buying it is one of the biggest costs an airline has.",
+    "When fuel gets more expensive, airlines often raise ticket prices, because they pass part of the extra cost on to passengers.",
+    "The end of the year is one of the busiest times to fly, as families travel for Thanksgiving and Christmas.",
+    "Because so many people want to fly at the same time, holiday tickets are often among the most expensive of the year."
   ],
   "Article_Structure": [
-    "LEAD: More than 100 experts want the U.S. government to release its first official definition of ultraprocessed foods",
-    "KEY EVENT: The experts signed an open letter to the Office of Management and Budget",
-    "  ├─ WHO: Science, medical and nutrition experts",
-    "  └─ WHEN: The letter was signed on Friday, the day the public comment period ended",
-    "BACKGROUND: The administration announced the definition effort in July 2025, and health and agriculture departments submitted a proposed definition in August",
-    "EVIDENCE: Studies link eating lots of ultraprocessed foods to cardiovascular disease, obesity and Type 2 diabetes",
-    "OPEN QUESTION: When will the government release the definition, and which foods will it cover?"
+    "LEAD: A record jet fuel price is pushing holiday airfares to a 10-year high",
+    "KEY EVENT: Jet fuel averages $4.90 a gallon, the highest one-day average Argus has ever recorded",
+    "  ├─ WHO: Airlines pass part of the cost to passengers; Hopper economist Hayley Berg tracks the fares",
+    "  └─ WHEN: Reported this week, ahead of the Thanksgiving and Christmas travel season",
+    "EVIDENCE: Thanksgiving fares are up about 30% and Christmas fares more than 20% versus last year",
+    "OPEN QUESTION: Whether fares climb even higher before the holidays arrive"
   ],
   "perspectives": [
     {
-      "perspective": "The experts who signed the open letter",
-      "description": "They say most Americans have heard of ultraprocessed foods and wish to avoid them but few understand them deeply, so official guidance is needed, and special interests should not hold up the process."
+      "perspective": "Hayley Berg, Hopper economist",
+      "description": "Fares are at a 10-year high because of fuel costs, but holiday travel is 'sticky' and most people are not canceling."
     },
     {
-      "perspective": "Health Secretary Robert F. Kennedy Jr.",
-      "description": "He has connected Americans' overconsumption of ultraprocessed foods to childhood obesity."
+      "perspective": "Ed Bastian, Delta Air Lines CEO",
+      "description": "Travelers have shown only a limited amount of resistance and still see airfare as reasonably affordable."
     },
     {
-      "perspective": "Food company CEOs",
-      "description": "According to media reports, food company CEOs intervened in the release of the government's definition."
+      "perspective": "Airlines, as described in the article",
+      "description": "They are absorbing most of the extra fuel cost themselves and passing only some of it on to customers."
     }
   ],
-  "mined_at": "2026-10-23T22:53:30+00:00",
-  "source_published_at": "Fri, 23 Oct 2026 16:24:23 -0400",
-  "source_name": "PBS NewsHour",
-  "source_url": "https://www.pbs.org/newshour/health/why-experts-are-pushing-rfk-jr-to-release-a-federal-definition-of-ultraprocessed-foods",
+  "mined_at": "2026-10-24T00:25:31+00:00",
+  "source_published_at": "Fri, 23 Oct 2026 05:00:00 -0400",
+  "source_name": "NPR World",
+  "source_url": "https://www.npr.org/2026/10/23/nx-s1-6009506/jet-fuel-price-holiday-airfare",
   "category": "News",
-  "source_word_count": 629,
+  "source_word_count": 750,
   "detail_status": "full"
 }

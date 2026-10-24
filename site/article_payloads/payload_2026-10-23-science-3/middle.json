@@ -1,122 +1,111 @@
 {
-  "title": "A $10 Chip That Could Put a Lab on Your Wrist",
-  "summary": "A spectrometer is a scientific tool that studies light to figure out what things are made of. Laboratories use big, expensive ones to test medicines, foods and chemicals. Now researchers at the University of Cambridge have built one that costs about $10 and measures just a few centimeters across — small enough, one day, to fit inside a wrist-worn health gadget.\n\nThe team, working with a start-up called GlitterinTech, calls their invention a convolutional spectrometer. Instead of splitting light apart the usual way, it performs a mathematical operation called convolution directly on the incoming light, then recovers the spectrum with quick calculations. \"The key insight was to go back to the mathematics and ask whether there was a fundamentally cleaner way to retrieve spectra,\" said Dr. Chunhui Yao, a lead author of the study. Small spectrometers usually trade away accuracy, but this one kept its precision.\n\nIn tests it identified plastics, medicines, coffee, flour and tea correctly every time — a 100% success rate. It measured concentrations in solutions to about 0.01% accuracy, beating commercial benchtop spectrometers in those experiments. It also measured health markers including skin moisture, blood lactate and blood glucose under conditions designed to mimic the real body, and it tracked one volunteer's glucose without needles over an extended period. The device works in less than a second and kept operating reliably from -20°C to 80°C. The researchers caution that much more testing is needed before it becomes a real medical product. Still, the design points toward precise, low-cost sensors for health monitors, food testing and environmental checks.",
-  "why_it_matters": "Precise testing has mostly been locked inside big, expensive laboratory instruments; a $10 sensor could bring it into wrist-worn health monitors and everyday food and environment checks. That could make health tracking cheaper and more widely available, if further testing confirms the results.",
-  "image_url": "/article_images/science-s5c7d8d545eb082ef.webp",
+  "title": "Shooting Stars From Halley's Comet Light Up the Autumn Sky",
+  "summary": "Halley's Comet is more than 3 billion miles (4.8 billion kilometers) from Earth right now, but pieces it left behind are still putting on a show. On October 21, astrophotographer Tim McCollum captured three bright Orionid meteors streaking across the sky above Toccoa, Georgia.\n\nThe Orionid meteor shower happens each autumn, when Earth passes through the trail of dust and debris shed by Halley's Comet. As the tiny particles burn up in our atmosphere, they become shooting stars. In McCollum's picture, the meteors appear to race away from a point near Betelgeuse, the red giant star in the constellation Orion. That point is called the radiant.\n\nCatching a shooting star on camera takes skill, luck and patience. McCollum photographed the sky between 3 and 4 a.m. using a Canon camera on a star tracker, taking many 30-second exposures. He then combined them into one composite image with astrophoto software.\n\nThe finished picture holds more than meteors. The familiar stars of Orion's Belt shine near the glow of the Orion Nebula, one of the closest major star-forming regions to Earth. The Rosette Nebula also appears, tucked into the dense star fields and dust lanes of the Milky Way, which cuts diagonally across the image.\n\nThe Orionid shower stays active until November 7, so skywatchers still have chances to spot one of Halley's shooting stars on the next few clear nights. Earth is also passing through debris from Comet 2P/Encke, so a lucky viewer might even catch a bright Taurid meteor, sometimes nicknamed a Halloween Fireball.",
+  "why_it_matters": "Meteor showers let anyone watching the sky see Earth's journey through a comet's debris trail with their own eyes. This shower stays active until November 7, so families still have clear nights to look for one.",
+  "image_url": "/article_images/science-scb1142b39a78a6ed.webp",
   "keywords": [
     {
-      "term": "spectrometer",
-      "explanation": "A scientific tool that studies light to figure out what things are made of."
+      "term": "astrophotographer",
+      "explanation": "A person who takes photographs of stars, planets and other objects in space."
     },
     {
-      "term": "convolution",
-      "explanation": "A mathematical operation the device performs directly on incoming light to help recover the spectrum."
+      "term": "debris",
+      "explanation": "Small broken pieces left behind by something."
     },
     {
-      "term": "spectrum",
-      "explanation": "The pattern formed by light's parts, which can reveal what something is made of."
+      "term": "radiant",
+      "explanation": "The point in the sky that meteors in a shower seem to race away from."
     },
     {
-      "term": "benchtop",
-      "explanation": "Made to sit on a laboratory bench; here, the big commercial instruments the tiny device was compared with."
+      "term": "composite",
+      "explanation": "Made by combining several separate pictures or parts into one."
     },
     {
-      "term": "blood glucose",
-      "explanation": "The sugar carried in the blood, a health marker the device measured without needles."
+      "term": "constellation",
+      "explanation": "A pattern of stars in the sky with a name, such as Orion."
     }
   ],
   "questions": [
     {
-      "question": "What does a spectrometer do?",
+      "question": "How far is Halley's Comet from Earth right now?",
       "options": [
-        "It studies light to figure out what things are made of",
-        "It cools samples to very low temperatures",
-        "It takes photographs of distant stars",
-        "It measures how fast something moves"
+        "More than 3 billion miles (4.8 billion kilometers)",
+        "Exactly at the Moon",
+        "Less than one million miles",
+        "About 3 million miles"
       ],
-      "correct_answer": "It studies light to figure out what things are made of"
+      "correct_answer": "More than 3 billion miles (4.8 billion kilometers)"
     },
     {
-      "question": "How much does the Cambridge device cost, and how big is it?",
+      "question": "On what date did Tim McCollum capture the three Orionid meteors?",
       "options": [
-        "More than laboratory models, and just as large",
-        "About $10 and just a few centimeters across",
-        "About $100 and the size of a wristwatch",
-        "About $1,000 and the size of a shoebox"
+        "October 21",
+        "October 1",
+        "November 7",
+        "October 31"
       ],
-      "correct_answer": "About $10 and just a few centimeters across"
+      "correct_answer": "October 21"
     },
     {
-      "question": "How is the new spectrometer's method different?",
+      "question": "Why does the Orionid meteor shower happen each autumn?",
       "options": [
-        "It sends samples away to a big laboratory",
-        "It works only in total darkness",
-        "It splits light with a much larger prism",
-        "It performs convolution directly on the incoming light, then recovers the spectrum with calculations"
+        "Orion's stars fall to Earth",
+        "The Moon blocks the comet",
+        "A spacecraft drops dust into the sky",
+        "Earth passes through the trail of dust and debris shed by Halley's Comet"
       ],
-      "correct_answer": "It performs convolution directly on the incoming light, then recovers the spectrum with calculations"
+      "correct_answer": "Earth passes through the trail of dust and debris shed by Halley's Comet"
     },
     {
-      "question": "How often did it identify plastics, medicines, coffee, flour and tea correctly in tests?",
+      "question": "What is the radiant?",
       "options": [
-        "Nine times out of ten",
-        "Every time — a 100% success rate",
-        "Only with coffee and tea",
-        "About half the time"
+        "A type of camera",
+        "A bright Taurid meteor",
+        "The glow of the Orion Nebula",
+        "The point near Betelgeuse that the meteors appear to race away from"
       ],
-      "correct_answer": "Every time — a 100% success rate"
+      "correct_answer": "The point near Betelgeuse that the meteors appear to race away from"
     },
     {
-      "question": "Which health markers did it measure?",
+      "question": "How did McCollum make his finished picture?",
       "options": [
-        "Body temperature only",
-        "Skin moisture, blood lactate and blood glucose",
-        "It measured no health markers",
-        "Heart rate and blood pressure only"
+        "He photographed from a spacecraft",
+        "He used a single one-second photo",
+        "He combined many 30-second exposures into one composite image",
+        "He painted the meteors afterward"
       ],
-      "correct_answer": "Skin moisture, blood lactate and blood glucose"
+      "correct_answer": "He combined many 30-second exposures into one composite image"
     },
     {
-      "question": "What caution do the researchers give?",
+      "question": "Until when does the Orionid shower stay active?",
       "options": [
-        "It only works below freezing",
-        "Much more testing is needed before it becomes a real medical product",
-        "It will replace all laboratory spectrometers next year",
-        "The device is already on sale"
+        "Halloween night only",
+        "November 7",
+        "December 25",
+        "October 23"
       ],
-      "correct_answer": "Much more testing is needed before it becomes a real medical product"
+      "correct_answer": "November 7"
     }
   ],
   "background_read": [
-    "A spectrometer studies light to figure out what things are made of, which is why laboratories use it to test medicines, foods and chemicals.",
-    "These instruments are usually big and expensive, and small versions normally lose accuracy, so precise testing has mostly stayed inside laboratories.",
-    "Instead of splitting light apart the usual way, the Cambridge team's design performs a mathematical operation called convolution directly on the incoming light and then recovers the spectrum with quick calculations.",
-    "A cheap, tiny sensor that keeps laboratory precision could move such testing into health monitors, food checks and environmental sensors."
+    "A comet sheds dust and small pieces as it travels, leaving a trail of debris behind it in space.",
+    "When Earth passes through that trail, the tiny pieces burn up in the atmosphere as meteors, which people call shooting stars.",
+    "The Orionid meteors seem to come from near the constellation Orion, which is why the shower is named for Orion."
   ],
   "Article_Structure": [
-    "LEAD: Cambridge researchers built a spectrometer costing about $10 and measuring just a few centimeters across",
-    "KEY EVENT: The convolutional spectrometer kept laboratory-level precision in tests, identifying materials correctly every time",
-    "  ├─ WHO: University of Cambridge researchers working with the start-up GlitterinTech; lead author Dr. Chunhui Yao",
-    "  ├─ HOW: It performs convolution directly on incoming light, then recovers the spectrum with quick calculations",
-    "  └─ PROOF: It measured concentrations to about 0.01% accuracy and tracked a volunteer's glucose without needles",
-    "EVIDENCE: The device works in less than a second and operated reliably from -20°C to 80°C",
-    "OPEN QUESTION: Whether much more testing will turn the design into a real medical product for health monitors, food testing and environmental checks"
+    "LEAD: Debris from Halley's Comet is putting on a shooting-star show even though the comet is billions of miles away",
+    "KEY EVENT: Tim McCollum captured three bright Orionid meteors above Toccoa, Georgia, on October 21",
+    "  ├─ WHO: Astrophotographer Tim McCollum",
+    "  └─ HOW: Many 30-second exposures on a star tracker were combined into one composite image",
+    "EVIDENCE: The picture shows Orion's Belt, the Orion Nebula, the Rosette Nebula and the Milky Way",
+    "OPEN QUESTION: Whether viewers will also catch a bright Taurid meteor, nicknamed a Halloween Fireball"
   ],
-  "perspectives": [
-    {
-      "perspective": "Dr. Chunhui Yao (lead author)",
-      "description": "Says the key insight was to go back to the mathematics and ask whether there was a fundamentally cleaner way to retrieve spectra."
-    },
-    {
-      "perspective": "The researchers",
-      "description": "Caution that much more testing is needed before the device becomes a real medical product, while pointing to precise, low-cost sensors for health monitors, food testing and environmental checks."
-    }
-  ],
-  "mined_at": "2026-10-23T22:53:30+00:00",
-  "source_published_at": "Thu, 22 Oct 2026 21:21:47 EDT",
-  "source_name": "ScienceDaily Most Popular",
-  "source_url": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
+  "perspectives": [],
+  "mined_at": "2026-10-24T00:25:31+00:00",
+  "source_published_at": "Fri, 23 Oct 2026 18:00:00 +0000",
+  "source_name": "Space.com",
+  "source_url": "https://www.space.com/stargazing/meteor-showers/halleys-comet-dazzles-from-afar-in-spectacular-astrophoto-of-orionid-meteor-shower",
   "category": "Science",
-  "source_word_count": 833,
+  "source_word_count": 618,
   "detail_status": "full"
 }

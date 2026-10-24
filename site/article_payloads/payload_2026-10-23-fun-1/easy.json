@@ -1,58 +1,58 @@
 {
-  "title": "Swimming Champion Archie Goodburn to Deliver Rugby Match Ball in Front of 60,000 Fans",
-  "summary": "Archie Goodburn is a champion swimmer from Edinburgh, Scotland. On Sunday, November 15, he will have a special job at a rugby game. He will carry the match ball onto the field before Scotland plays Australia at Murrayfield, in front of more than 60,000 fans.\n\nGoodburn, who is 25, is a British champion and a European bronze medallist. He also holds the Scottish record for the 50-metre breaststroke. In 2024, doctors found that he had a rare brain tumour. After surgery, he worked hard and returned to competitive swimming. Now he also campaigns for better brain cancer treatment and research, and he has taken his campaign to Prime Minister Andy Burnham and to Scotland's First Minister, John Swinney. Fans at the game can also donate to two brain cancer charities.\n\nRugby is not new to him. He once played rugby at school, and at age 12 he sang a solo in front of 10,000 people. 'This means the absolute world to me,' he said.",
-  "why_it_matters": "It shows that even after a serious illness, you can work hard, get back to doing what you love, and use your story to help other people.",
+  "title": "Swimmer Archie Goodburn Will Carry the Rugby Ball for Scotland",
+  "summary": "Archie Goodburn is a champion swimmer from Edinburgh, Scotland. Next month, he will carry the match ball onto the field for Scotland's rugby game against Australia at Murrayfield stadium. More than 60,000 fans will be there.\n\nGoodburn is 25. He holds the Scottish record for the 50-metre breaststroke and has won a European bronze medal. In 2024, doctors found a rare brain tumour. After surgery, he returned to racing. He also campaigns for better treatment and more research for people with brain cancer. He has taken that campaign to Prime Minister Andy Burnham and to Scotland's First Minister, John Swinney.\n\nAt school, Goodburn played rugby as a blindside flanker. “This means the absolute world to me,” he said. At age 12, he sang a solo for 10,000 people at the Edinburgh Military Tattoo. This crowd will be six times bigger. The match is on Sunday, November 15, and fans can donate to Brain Tumour Research and the Astro Brain Tumour Fund.",
+  "why_it_matters": "Goodburn shows that coming back from a serious illness can also become a way to help other people facing the same challenge.",
   "image_url": "/article_images/fun-s84de81fa77ab96b6.webp",
   "keywords": [
     {
       "term": "breaststroke",
-      "explanation": "A swimming stroke where you swim face-down and sweep your arms while kicking your legs."
+      "explanation": "A swimming stroke where you pull both arms together and kick like a frog."
     },
     {
       "term": "tumour",
-      "explanation": "A lump that grows inside the body where it should not be, which can make a person very ill."
-    },
-    {
-      "term": "medallist",
-      "explanation": "An athlete who has won a medal at a big sports competition."
+      "explanation": "A lump of cells growing in the body that should not be there; some can make a person very ill."
     },
     {
       "term": "campaigns",
-      "explanation": "Works hard to speak up and push for a change, such as better treatment for an illness."
+      "explanation": "Works hard over time to persuade people or leaders to support a cause."
+    },
+    {
+      "term": "blindside flanker",
+      "explanation": "A rugby position on the side of the scrum where the player helps win the ball and tackles opponents."
     },
     {
       "term": "solo",
-      "explanation": "A song performed by just one singer on their own."
+      "explanation": "A performance done by one person alone, such as singing by yourself."
     }
   ],
   "questions": [
     {
       "question": "Where is Archie Goodburn from?",
       "options": [
-        "London, England",
-        "Cardiff, Wales",
         "Edinburgh, Scotland",
-        "Dublin, Ireland"
+        "Dublin, Ireland",
+        "London, England",
+        "Cardiff, Wales"
       ],
       "correct_answer": "Edinburgh, Scotland"
     },
     {
-      "question": "What special job will Goodburn do at the rugby game?",
+      "question": "What will Goodburn carry onto the field before the rugby game?",
       "options": [
-        "Coach the Scotland team",
-        "Sing the national anthem",
-        "Referee the match",
-        "Carry the match ball onto the field"
+        "The match ball",
+        "A pair of boots",
+        "A trophy",
+        "The team flag"
       ],
-      "correct_answer": "Carry the match ball onto the field"
+      "correct_answer": "The match ball"
     },
     {
       "question": "Which swimming record does Goodburn hold?",
       "options": [
-        "The European record for the 200-metre backstroke",
         "The Scottish record for the 50-metre breaststroke",
-        "The British record for the 100-metre freestyle",
-        "The world record for the 50-metre butterfly"
+        "The British record for the 200-metre backstroke",
+        "The world record for the 100-metre freestyle",
+        "The European record for the 50-metre butterfly"
       ],
       "correct_answer": "The Scottish record for the 50-metre breaststroke"
     },
@@ -61,48 +61,50 @@
       "options": [
         "A rare brain tumour",
         "A heart problem",
-        "A knee injury",
-        "A broken bone"
+        "A damaged knee",
+        "A broken shoulder"
       ],
       "correct_answer": "A rare brain tumour"
     },
     {
-      "question": "What does Goodburn campaign for now?",
+      "question": "Which rugby position did Goodburn play at school?",
       "options": [
-        "Better brain cancer treatment and research",
-        "Longer school holidays",
-        "More swimming pools in Scotland",
-        "Cheaper rugby tickets for fans"
+        "Hooker",
+        "Fly-half",
+        "Fullback",
+        "Blindside flanker"
       ],
-      "correct_answer": "Better brain cancer treatment and research"
+      "correct_answer": "Blindside flanker"
     },
     {
-      "question": "What did Goodburn do when he was 12 years old?",
+      "question": "How many fans will watch at Murrayfield stadium?",
       "options": [
-        "He won his first swimming medal",
-        "He played rugby for Scotland's team",
-        "He started his brain cancer campaign",
-        "He sang a solo in front of 10,000 people"
+        "About 25,000",
+        "More than 60,000",
+        "More than 100,000",
+        "About 10,000"
       ],
-      "correct_answer": "He sang a solo in front of 10,000 people"
+      "correct_answer": "More than 60,000"
     }
   ],
   "background_read": [
-    "Rugby teams sometimes invite a special guest to carry the match ball onto the field before a big game begins, which is a great honour. Archie Goodburn is a champion swimmer who became ill with a brain tumour, had surgery, and worked his way back to racing. He now speaks up for better brain cancer treatment and research, and fans at the game can give money to brain cancer charities."
+    "In rugby, an honoured guest sometimes carries the match ball onto the field before a big game, as a way of celebrating that person.",
+    "Murrayfield stadium in Edinburgh is the home ground of Scotland's national rugby team.",
+    "Charities often use big public moments like this to raise money and attention for the cause they support."
   ],
   "Article_Structure": [
-    "WHO: Archie Goodburn, a 25-year-old champion swimmer from Edinburgh, Scotland",
+    "WHO: Archie Goodburn, a 25-year-old champion swimmer from Edinburgh",
     "WHAT: He will carry the match ball onto the field before Scotland's rugby game against Australia",
-    "WHERE: At Murrayfield, in front of more than 60,000 fans",
-    "WHY: To honour his return to swimming after brain tumour surgery and to support his campaign for better brain cancer treatment and research"
+    "WHERE: Murrayfield stadium, in his home city of Edinburgh",
+    "WHY: He is the guest of honour, and the moment supports charities fighting brain cancer"
   ],
   "perspectives": [
     {
       "perspective": "Archie Goodburn",
-      "description": "He says carrying the match ball means the absolute world to him."
+      "description": "Said carrying the match ball means the absolute world to him."
     }
   ],
-  "mined_at": "2026-10-23T22:53:30+00:00",
+  "mined_at": "2026-10-24T00:25:31+00:00",
   "source_published_at": "Wed, 21 Oct 2026 13:45:55 GMT",
   "source_name": "BBC Swimming",
   "source_url": "https://www.bbc.co.uk/sport/articles/cqn49jxjg19eo?at_medium=RSS&at_campaign=rss",

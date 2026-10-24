@@ -1,126 +1,122 @@
 {
-  "title": "Extra Watchers Will Be on Duty at Polling Places on Election Day",
-  "summary": "When Americans vote in the midterm elections on November 3, extra watchers will be on duty at many polling places. The U.S. Department of Justice, or DOJ, plans to send about 1,000 election monitors to all 50 states. That is more than double the number used in the 2022 midterms.\n\nMonitors have a quiet job. They stand back, watch how voting is run, and report what they see. Their purpose is to make sure voting-rights laws are followed, so nobody is wrongly turned away or scared off from voting. “They're there to just do as their name suggests, which is to observe,” said Stacey Young, a former DOJ lawyer who has been a monitor three times. Monitors never run the voting, and the department says they have been told clearly not to interfere.\n\nWhy are some state officials worried this year? The effort is much bigger than usual. David Becker, a former DOJ voting-rights attorney, called the scale “not normal,” but said he is “not particularly concerned.” Also, prosecutors will be allowed to serve as monitors this year, something long-standing rules did not allow. A senior DOJ official said monitors will focus on busy areas and places that have had problems with language or disability access.\n\nThe monitors will visit only Election Day polling places, not early-voting sites.",
-  "why_it_matters": "Fair voting rules protect everyone's voice in an election, including the grown-ups who vote on things that shape your school and neighborhood.",
-  "image_url": "/article_images/news-s1777564204583607.webp",
+  "title": "Young Candidates Who Rent Want to Make Homes Cheaper",
+  "summary": "Homes and apartments in the United States cost a lot. Many young adults still rent with roommates in their thirties, and saving for a first home can feel almost impossible. Now, some young people running for office say living with this problem gives them energy to fix it.\n\nIn Connecticut, Olaleye Onikuyide, 28, is running for state representative. He lives with his parents to save money and rides public transit. He wants more mixed-income housing and cities where people can walk.\n\nAlso in Connecticut, in New Haven, Eli Sabin, 26, rents his home, like about 70% of people in his city. As a college sophomore he served on the city council, which changed zoning rules to allow more building. He wants stronger protections against eviction and an easier way to buy a first home.\n\nIn Montana, Lukas Schubert is only 21 and is campaigning for reelection. He wants more small starter homes. He proposed a tax break for builders who sell such homes below the local median price. It did not pass, but he plans to try again.",
+  "why_it_matters": "The cost of homes affects where your family can live and whether young adults can one day afford a home of their own.",
+  "image_url": "/article_images/news-s8570f2e758471d8d.webp",
   "keywords": [
     {
-      "term": "midterm elections",
-      "explanation": "National elections held halfway through a president's four years in office."
+      "term": "mixed-income housing",
+      "explanation": "Mixed-income housing is homes for people who earn different amounts of money in the same area."
     },
     {
-      "term": "polling places",
-      "explanation": "The places where people go to cast their votes in an election."
+      "term": "zoning rules",
+      "explanation": "Zoning rules are rules that say what kinds of buildings can be built in each part of a city."
     },
     {
-      "term": "election monitors",
-      "explanation": "People who watch how voting is run and report what they see, without running the voting themselves."
+      "term": "eviction",
+      "explanation": "Eviction is being forced to leave a home that you rent."
     },
     {
-      "term": "voting-rights laws",
-      "explanation": "Laws that protect people's right to vote and stop anyone from being wrongly turned away."
+      "term": "tax break",
+      "explanation": "A tax break is a cut in taxes meant to encourage people to do something."
     },
     {
-      "term": "prosecutors",
-      "explanation": "Government lawyers who bring cases against people accused of breaking the law."
-    },
-    {
-      "term": "interfere",
-      "explanation": "To get in the way of something or try to change how it is being done."
+      "term": "median price",
+      "explanation": "The median price is the middle price, with half of homes costing more and half costing less."
     }
   ],
   "questions": [
     {
-      "question": "About how many election monitors does the Department of Justice plan to send?",
+      "question": "Why do some young candidates say living with high housing costs gives them energy?",
       "options": [
-        "About 1,000",
-        "About 100",
-        "About 10,000",
-        "About 50"
+        "Because they dislike renting",
+        "Because they own many homes",
+        "Because they live with the problem themselves",
+        "Because they want to move away"
       ],
-      "correct_answer": "About 1,000"
+      "correct_answer": "Because they live with the problem themselves"
     },
     {
-      "question": "What is an election monitor's main job?",
+      "question": "Where does Olaleye Onikuyide live to save money?",
       "options": [
-        "To tell people who to vote for",
-        "To run the voting at polling places",
-        "To watch how voting is run and report what they see",
-        "To count all the ballots"
+        "With roommates",
+        "Alone in an apartment",
+        "With his parents",
+        "In a small starter home"
       ],
-      "correct_answer": "To watch how voting is run and report what they see"
+      "correct_answer": "With his parents"
     },
     {
-      "question": "How does this year's number of monitors compare with the 2022 midterms?",
+      "question": "What does Eli Sabin want stronger protections against?",
       "options": [
-        "It is more than double",
-        "It is exactly the same",
-        "It is about the same",
-        "It is much smaller"
+        "Eviction",
+        "Public transit",
+        "Zoning rules",
+        "Higher taxes"
       ],
-      "correct_answer": "It is more than double"
+      "correct_answer": "Eviction"
     },
     {
-      "question": "What is new about who can serve as a monitor this year?",
+      "question": "What did Eli Sabin serve on as a college sophomore?",
       "options": [
-        "Monitors can run the voting this year",
-        "Children can serve as monitors",
-        "Only new voters can be monitors",
-        "Prosecutors will be allowed to serve as monitors"
+        "A builders' group",
+        "A school team",
+        "A housing company",
+        "The city council"
       ],
-      "correct_answer": "Prosecutors will be allowed to serve as monitors"
+      "correct_answer": "The city council"
     },
     {
-      "question": "Where will the monitors focus their attention?",
+      "question": "What kind of homes does Lukas Schubert want more of?",
       "options": [
-        "Only in one state",
-        "Only in small towns",
-        "Busy areas and places that have had problems with language or disability access",
-        "Only at early-voting sites"
+        "Homes below the water",
+        "Small starter homes",
+        "Homes with roommates",
+        "Bigger family houses"
       ],
-      "correct_answer": "Busy areas and places that have had problems with language or disability access"
+      "correct_answer": "Small starter homes"
     },
     {
-      "question": "Which places will the monitors NOT visit?",
+      "question": "What did Lukas Schubert propose for builders?",
       "options": [
-        "Busy voting areas",
-        "Polling places in the 50 states",
-        "Election Day polling places",
-        "Early-voting sites"
+        "Free homes for candidates",
+        "A tax break for builders who sell starter homes below the local median price",
+        "A rule to stop all building",
+        "A prize for the biggest home"
       ],
-      "correct_answer": "Early-voting sites"
+      "correct_answer": "A tax break for builders who sell starter homes below the local median price"
     }
   ],
   "background_read": [
-    "In the United States, the Department of Justice can send election monitors to polling places to watch how voting is run.",
-    "Monitors never run the voting and must not interfere; they stand back, observe and report what they see.",
-    "Their purpose is to make sure voting-rights laws are followed, so nobody is wrongly turned away or scared off from voting."
+    "People who rent pay money each month to live in a home that belongs to someone else.",
+    "In many places in the United States, rents and home prices have grown so high that young adults struggle to save for a first home.",
+    "Some young people are now running for office because they live with this problem themselves and want to change the rules about housing."
   ],
   "Article_Structure": [
-    "WHO: The U.S. Department of Justice, its election monitors, and state officials reacting to the plan",
-    "WHAT: The DOJ plans to send about 1,000 election monitors to polling places in all 50 states for the November 3 midterm elections",
-    "WHERE: Election Day polling places across all 50 states, focusing on busy areas and places that have had language or disability access problems",
-    "WHY: To make sure voting-rights laws are followed so nobody is wrongly turned away or scared off from voting, though some officials worry because the effort is much bigger than usual"
+    "WHO: Young candidates Olaleye Onikuyide, Eli Sabin, and Lukas Schubert",
+    "WHAT: They are running for office and pushing ideas to make homes and apartments cheaper",
+    "WHERE: In Connecticut and Montana in the United States",
+    "WHY: Homes cost a lot, and because they rent or live with family themselves, they say living with the problem gives them energy to fix it"
   ],
   "perspectives": [
     {
-      "perspective": "Stacey Young, a former DOJ lawyer who has been a monitor three times",
-      "description": "She said monitors are there to do what their name suggests: observe."
+      "perspective": "Olaleye Onikuyide",
+      "description": "He wants more mixed-income housing and cities where people can walk."
     },
     {
-      "perspective": "David Becker, a former DOJ voting-rights attorney",
-      "description": "He called the scale of this year's effort 'not normal,' but said he is not particularly concerned."
+      "perspective": "Eli Sabin",
+      "description": "He wants stronger protections against eviction and an easier way to buy a first home."
     },
     {
-      "perspective": "Some state officials",
-      "description": "They are worried this year because the monitoring effort is much bigger than usual."
+      "perspective": "Lukas Schubert",
+      "description": "He wants more small starter homes and proposed a tax break for builders who sell such homes below the local median price, and he plans to try again after it did not pass."
     }
   ],
-  "mined_at": "2026-10-23T22:53:30+00:00",
-  "source_published_at": "Fri, 23 Oct 2026 16:16:57 -0400",
-  "source_name": "PBS NewsHour",
-  "source_url": "https://www.pbs.org/newshour/politics/doj-has-monitored-elections-for-decades-heres-why-some-state-officials-are-concerned-this-year",
+  "mined_at": "2026-10-24T00:25:31+00:00",
+  "source_published_at": "Fri, 23 Oct 2026 05:00:00 -0400",
+  "source_name": "NPR World",
+  "source_url": "https://www.npr.org/2026/10/23/nx-s1-5983813/gen-z-candidates-midterms-housing-affordability",
   "category": "News",
-  "source_word_count": 623,
+  "source_word_count": 1251,
   "detail_status": "full"
 }

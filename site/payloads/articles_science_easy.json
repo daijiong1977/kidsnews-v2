@@ -4,34 +4,34 @@
       "id": "2026-10-23-science-1",
       "source": "ScienceDaily All",
       "time_ago": "Fri, 23 Oct 2026 06:33:56 EDT",
-      "mined_at": "2026-10-23T22:53:30+00:00",
+      "mined_at": "2026-10-24T00:25:31+00:00",
       "source_published_at": "Fri, 23 Oct 2026 06:33:56 EDT",
       "image_url": "/article_images/science-s98162fa3de44e89a.webp",
       "category": "Science",
-      "title": "A Tiny Robot That Swims With Living Muscle",
-      "summary": "MIT scientists built a gum-sized robot that swims using living muscle cells. The cells squeeze when light shines on them, letting the robot steer through water — and one day it may work in fragile places too delicate for ordinary machines."
+      "title": "A Tiny Robot Swims With Living Muscles",
+      "summary": "MIT engineers built a gum-sized swimming robot powered by living muscle cells that squeeze under light, letting them steer it through an underwater maze."
     },
     {
       "id": "2026-10-23-science-2",
-      "source": "Space.com",
-      "time_ago": "Fri, 23 Oct 2026 18:00:00 +0000",
-      "mined_at": "2026-10-23T22:53:30+00:00",
-      "source_published_at": "Fri, 23 Oct 2026 18:00:00 +0000",
-      "image_url": "/article_images/science-sf0a293af00d35cc7.webp",
-      "category": "Science",
-      "title": "Halley's Comet Leaves a Trail of Shooting Stars",
-      "summary": "Earth is passing through dust left behind by Halley's Comet, making the Orionid meteor shower. A photographer in Georgia captured three bright meteors near Orion, and the shower stays active until Nov. 7."
-    },
-    {
-      "id": "2026-10-23-science-3",
       "source": "ScienceDaily Most Popular",
       "time_ago": "Thu, 22 Oct 2026 21:21:47 EDT",
-      "mined_at": "2026-10-23T22:53:30+00:00",
+      "mined_at": "2026-10-24T00:25:31+00:00",
       "source_published_at": "Thu, 22 Oct 2026 21:21:47 EDT",
       "image_url": "/article_images/science-s5c7d8d545eb082ef.webp",
       "category": "Science",
-      "title": "A $10 Chip That Could Put a Lab on Your Wrist",
-      "summary": "Cambridge researchers built a spectrometer that costs about $10 and is only a few centimeters wide. It identified materials perfectly in tests and even measured blood sugar without needles, though it needs much more testing before medical use."
+      "title": "A $10 Chip Could Put a Lab on Your Wrist",
+      "summary": "Cambridge researchers built a $10 light-reading chip, just centimeters wide, that named materials correctly in tests and measured blood glucose without needles."
+    },
+    {
+      "id": "2026-10-23-science-3",
+      "source": "Space.com",
+      "time_ago": "Fri, 23 Oct 2026 18:00:00 +0000",
+      "mined_at": "2026-10-24T00:25:31+00:00",
+      "source_published_at": "Fri, 23 Oct 2026 18:00:00 +0000",
+      "image_url": "/article_images/science-scb1142b39a78a6ed.webp",
+      "category": "Science",
+      "title": "Shooting Stars From Halley's Comet",
+      "summary": "Photographer Tim McCollum combined many long photos to capture three Orionid meteors — debris from Halley's Comet — above Georgia, and the shower remains active until November 7."
     }
   ]
 }

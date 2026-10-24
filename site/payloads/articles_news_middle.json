@@ -2,36 +2,36 @@
   "articles": [
     {
       "id": "2026-10-23-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Fri, 23 Oct 2026 16:24:23 -0400",
-      "mined_at": "2026-10-23T22:53:30+00:00",
-      "source_published_at": "Fri, 23 Oct 2026 16:24:23 -0400",
-      "image_url": "/article_images/news-s226245e36b1ab471.webp",
+      "source": "NPR World",
+      "time_ago": "Fri, 23 Oct 2026 05:00:00 -0400",
+      "mined_at": "2026-10-24T00:25:31+00:00",
+      "source_published_at": "Fri, 23 Oct 2026 05:00:00 -0400",
+      "image_url": "/article_images/news-s7c8d7118518acdb6.webp",
       "category": "News",
-      "title": "Experts Push the Government to Finally Define 'Ultraprocessed' Food",
-      "summary": "More than 100 experts urged the government to release its first official definition of ultraprocessed foods, a step proposed in August but not yet released."
+      "title": "Jet Fuel Hits a Record High — and Holiday Plane Tickets Cost More",
+      "summary": "Jet fuel just hit a record $4.90 a gallon, and airlines are passing some of the cost to travelers: Thanksgiving fares are up about 30%, yet most families are still booking."
     },
     {
       "id": "2026-10-23-news-2",
-      "source": "NPR World",
-      "time_ago": "Fri, 23 Oct 2026 05:00:00 -0400",
-      "mined_at": "2026-10-23T22:53:30+00:00",
-      "source_published_at": "Fri, 23 Oct 2026 05:00:00 -0400",
-      "image_url": "/article_images/news-s45774eb1bcf65777.webp",
+      "source": "BBC News",
+      "time_ago": "Fri, 23 Oct 2026 15:30:47 GMT",
+      "mined_at": "2026-10-24T00:25:31+00:00",
+      "source_published_at": "Fri, 23 Oct 2026 15:30:47 GMT",
+      "image_url": "/article_images/news-sd0e7aed86728fc8f.webp",
       "category": "News",
-      "title": "Jet Fuel Hits a Record Price, and Holiday Plane Tickets Are Soaring",
-      "summary": "Jet fuel prices hit a record high, pushing Thanksgiving airfares up about 30% — yet travelers are still booking, while some families choose to drive instead."
+      "title": "Oil Spill Spreads Along UAE Beaches Toward a Wildlife Haven",
+      "summary": "Oil leaking from a damaged tanker near the Strait of Hormuz has spread over 35 km and reached UAE beaches, drifting toward protected islands where green turtles live."
     },
     {
       "id": "2026-10-23-news-3",
-      "source": "PBS NewsHour",
-      "time_ago": "Fri, 23 Oct 2026 16:16:57 -0400",
-      "mined_at": "2026-10-23T22:53:30+00:00",
-      "source_published_at": "Fri, 23 Oct 2026 16:16:57 -0400",
-      "image_url": "/article_images/news-s1777564204583607.webp",
+      "source": "NPR World",
+      "time_ago": "Fri, 23 Oct 2026 05:00:00 -0400",
+      "mined_at": "2026-10-24T00:25:31+00:00",
+      "source_published_at": "Fri, 23 Oct 2026 05:00:00 -0400",
+      "image_url": "/article_images/news-s8570f2e758471d8d.webp",
       "category": "News",
-      "title": "Election Day Will Have Extra Watchers This Year",
-      "summary": "The Justice Department plans to send about 1,000 election monitors to polling places in all 50 states on November 3. Supporters say the watchers protect voting rights; some officials worry the bigger effort, and the use of prosecutors, could intimidate voters."
+      "title": "Young Candidates Say Fixing Housing Starts With Living It",
+      "summary": "Young candidates from both parties, including a 21-year-old Montana lawmaker and two Connecticut renters in their twenties, are running on plans to make homes cheaper to rent and buy."
     }
   ]
 }

@@ -1,122 +1,122 @@
 {
-  "title": "Plane Fuel Costs More Than Ever, and Holiday Flights Cost More Too",
-  "summary": "Are you flying somewhere for the holidays? Get ready: tickets may cost a lot more this year.\n\nThe main reason is jet fuel, the special fuel airplanes burn. It is one of the biggest costs for airlines. On Thursday, the average price of jet fuel in the United States reached $4.90 a gallon, according to the tracking firm Argus. That is the highest one-day average Argus has ever recorded, and more than double the price a year ago.\n\nAirlines are passing part of the cost to passengers. Airfares are at a 10-year high, said Hayley Berg, the lead economist at Hopper, a travel tech company. Thanksgiving tickets cost about 30% more than last year, and Christmas tickets are up more than 20%.\n\nStill, people keep booking. Delta Air Lines CEO Ed Bastian said travelers still see tickets as fairly affordable. Chris Sununu, head of the trade group Airlines for America, said airlines are paying most of the extra fuel cost themselves, but some must be passed on to customers.\n\nFamilies are coping in different ways. Many booked trips earlier than usual to lock in lower prices. Rachel Stern of Frederick, Maryland, said tickets for her and her kids cost too much, so she will drive to Chicago instead.",
-  "why_it_matters": "If your family flies to visit relatives for the holidays, higher ticket prices could change how — or whether — you make the trip.",
-  "image_url": "/article_images/news-s45774eb1bcf65777.webp",
+  "title": "Oil Spill Reaches UAE Beaches and Moves Toward Turtle Islands",
+  "summary": "Oil is spreading along the coast of the United Arab Emirates. At some beaches, the water has turned black.\n\nThe oil is leaking from a tanker called Gem No.2. The ship was damaged on October 9 near the Strait of Hormuz, a narrow waterway many oil tankers pass through. A maritime company said the ship was hit by an unknown projectile and caught fire. The fire was put out, and all 22 crew members were rescued. A small leak was seen on October 19. Later, satellite pictures showed the oil spreading more than 35 kilometres (22 miles).\n\nThis week, oil reached beaches near the city of Umm Al Quwain, and some beaches were closed. The government said it began containment right away to limit the harm.\n\nOil can trap sea turtles, cover the feathers of seabirds, and hurt the gills of fish. The oil is drifting toward protected islands where green turtles live. Experts say it is too early to know how much harm it will cause.",
+  "why_it_matters": "Oil in the sea can close beaches where families swim and hurt the turtles, birds, and fish that live there.",
+  "image_url": "/article_images/news-sd0e7aed86728fc8f.webp",
   "keywords": [
     {
-      "term": "jet fuel",
-      "explanation": "The special fuel that airplanes burn to fly."
+      "term": "tanker",
+      "explanation": "A tanker is a huge ship that carries oil or other liquids across the sea."
     },
     {
-      "term": "airfares",
-      "explanation": "The prices people pay for airplane tickets."
+      "term": "projectile",
+      "explanation": "A projectile is an object that is thrown or fired through the air at something."
     },
     {
-      "term": "economist",
-      "explanation": "An expert who studies money, prices and how they change."
+      "term": "satellite",
+      "explanation": "A satellite is a machine in space that can take pictures of Earth from above."
     },
     {
-      "term": "trade group",
-      "explanation": "An organization that speaks for a whole group of companies, such as airlines."
+      "term": "containment",
+      "explanation": "Containment means stopping something harmful, like oil, from spreading further."
     },
     {
-      "term": "affordable",
-      "explanation": "Cheap enough that most people can pay for it."
+      "term": "gills",
+      "explanation": "Gills are the body parts fish use to breathe underwater."
     }
   ],
   "questions": [
     {
-      "question": "What price did jet fuel reach on Thursday?",
+      "question": "Where is the oil spreading?",
       "options": [
-        "$4.90 a gallon",
-        "$9.40 a gallon",
-        "$2.40 a gallon",
-        "$1.90 a gallon"
+        "In a river in the mountains",
+        "Across a desert",
+        "Along the coast of the United Arab Emirates",
+        "Inside a harbor warehouse"
       ],
-      "correct_answer": "$4.90 a gallon"
+      "correct_answer": "Along the coast of the United Arab Emirates"
     },
     {
-      "question": "How do this year's airfares compare with past years?",
+      "question": "What is the name of the tanker the oil is leaking from?",
       "options": [
-        "They dropped by half",
-        "They have not changed at all",
-        "They are the cheapest ever recorded",
-        "They are at a 10-year high"
+        "Umm Al Quwain",
+        "Gem No.2",
+        "Strait of Hormuz",
+        "Green Turtle"
       ],
-      "correct_answer": "They are at a 10-year high"
+      "correct_answer": "Gem No.2"
     },
     {
-      "question": "About how much more do Thanksgiving tickets cost than last year?",
+      "question": "What did a maritime company say happened to the ship?",
       "options": [
-        "About 5% more",
-        "About 10% more",
-        "About 30% more",
-        "About 90% more"
+        "It was emptied on purpose",
+        "It was hit by an unknown projectile and caught fire",
+        "It got stuck in sand",
+        "It ran out of fuel"
       ],
-      "correct_answer": "About 30% more"
+      "correct_answer": "It was hit by an unknown projectile and caught fire"
     },
     {
-      "question": "Who said travelers still see tickets as fairly affordable?",
+      "question": "What happened to all 22 crew members?",
       "options": [
-        "Rachel Stern, a mom from Maryland",
-        "Ed Bastian, the Delta Air Lines CEO",
-        "Hayley Berg, an economist at Hopper",
-        "Chris Sununu, head of a trade group"
+        "They stayed on the ship",
+        "They were hurt by oil",
+        "They swam to an island",
+        "They were rescued"
       ],
-      "correct_answer": "Ed Bastian, the Delta Air Lines CEO"
+      "correct_answer": "They were rescued"
     },
     {
-      "question": "What did many families do to cope with the high prices?",
+      "question": "Near which city did oil reach beaches this week?",
       "options": [
-        "They bought bigger suitcases",
-        "They booked trips earlier than usual to lock in lower prices",
-        "They waited for prices to go up",
-        "They decided to stop traveling"
+        "Umm Al Quwain",
+        "The Strait of Hormuz",
+        "Chicago",
+        "New Haven"
       ],
-      "correct_answer": "They booked trips earlier than usual to lock in lower prices"
+      "correct_answer": "Umm Al Quwain"
     },
     {
-      "question": "What will Rachel Stern do instead of flying to Chicago?",
+      "question": "What can oil do to fish?",
       "options": [
-        "Stay home for the holidays",
-        "Take a train",
-        "Fly on a different holiday",
-        "Drive to Chicago"
+        "Feed them",
+        "Hurt their gills",
+        "Help them swim faster",
+        "Keep them warm"
       ],
-      "correct_answer": "Drive to Chicago"
+      "correct_answer": "Hurt their gills"
     }
   ],
   "background_read": [
-    "Airplanes burn a special fuel called jet fuel, and it is one of the biggest costs for airlines.",
-    "When jet fuel gets more expensive, airlines often pass part of that extra cost on to the people buying tickets.",
-    "That is why flights can cost more at busy travel times like Thanksgiving and Christmas, when many families fly to visit each other."
+    "Oil tankers are huge ships that carry oil across the sea, and many of them pass through narrow waterways like the Strait of Hormuz.",
+    "If a tanker is damaged, oil can leak into the water and slowly spread over the sea and onto beaches.",
+    "The sticky oil is dangerous for sea animals because it can trap turtles, cover the feathers of seabirds, and hurt the gills of fish."
   ],
   "Article_Structure": [
-    "WHO: Airlines, holiday travelers and families planning trips",
-    "WHAT: Jet fuel prices reached a record high, and holiday airfares climbed to a 10-year high",
-    "WHERE: In the United States, including one Maryland family's planned trip to Chicago",
-    "WHY: Jet fuel is one of the biggest costs for airlines and its price more than doubled in a year, so airlines pass part of the cost on to passengers"
+    "WHO: The tanker Gem No.2 and its crew, the government, and sea animals near the coast",
+    "WHAT: Oil leaking from the damaged tanker spread along the coast, reached beaches, and is drifting toward protected islands",
+    "WHERE: Along the coast of the United Arab Emirates, near the city of Umm Al Quwain",
+    "WHY: The tanker was damaged near the Strait of Hormuz and caught fire, so oil began leaking into the sea"
   ],
   "perspectives": [
     {
-      "perspective": "Ed Bastian, Delta Air Lines CEO",
-      "description": "He said travelers still see tickets as fairly affordable, and people keep booking flights."
+      "perspective": "A maritime company",
+      "description": "It said the ship was hit by an unknown projectile and caught fire."
     },
     {
-      "perspective": "Chris Sununu, head of the trade group Airlines for America",
-      "description": "He said airlines are paying most of the extra fuel cost themselves, but some of it must be passed on to customers."
+      "perspective": "The government",
+      "description": "It said it began containment right away to limit the harm."
     },
     {
-      "perspective": "Rachel Stern, a traveler from Frederick, Maryland",
-      "description": "She said tickets for her and her kids cost too much, so she will drive to Chicago instead of flying."
+      "perspective": "Experts",
+      "description": "They say it is too early to know how much harm the oil will cause."
     }
   ],
-  "mined_at": "2026-10-23T22:53:30+00:00",
-  "source_published_at": "Fri, 23 Oct 2026 05:00:00 -0400",
-  "source_name": "NPR World",
-  "source_url": "https://www.npr.org/2026/10/23/nx-s1-6009506/jet-fuel-price-holiday-airfare",
+  "mined_at": "2026-10-24T00:25:31+00:00",
+  "source_published_at": "Fri, 23 Oct 2026 15:30:47 GMT",
+  "source_name": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
   "category": "News",
-  "source_word_count": 750,
+  "source_word_count": 537,
   "detail_status": "full"
 }

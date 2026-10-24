@@ -1,133 +1,125 @@
 {
-  "title": "Jet Fuel Hits a Record Price, and Holiday Plane Tickets Are Soaring",
-  "summary": "Planning to fly somewhere for the holidays? Get ready to pay more — maybe a lot more.\n\nThe big reason is jet fuel, the special fuel airplanes burn, and one of the airline industry's biggest expenses. The average price of jet fuel in the United States reached $4.90 a gallon on Thursday, according to the tracking firm Argus. That is the highest single-day average the firm has ever recorded, and more than twice the price a year ago.\n\nAirlines are passing part of that cost on to passengers. \"Airfares right now are at what we see as a 10-year high because of the high cost of jet fuel,\" said Hayley Berg, the lead economist at Hopper, a travel tech company. According to Berg, Thanksgiving airfares are up about 30% compared with last year, and tickets for the Christmas holiday are up more than 20%.\n\nEven so, travelers keep booking. Delta Air Lines CEO Ed Bastian said customers have shown a \"limited amount of resistance\" and still view airfare as \"reasonably affordable.\" Chris Sununu, head of the trade group Airlines for America, said the airlines themselves are absorbing most of the extra fuel cost, but some of it \"unfortunately has to be passed on to the customer.\"\n\nPeople are adapting in different ways. Many booked their holiday trips earlier than usual this year, hoping to lock in prices before they rose. Others are skipping the plane entirely. Rachel Stern of Frederick, Maryland, said tickets for her and her kids cost too much, so she plans to drive to Chicago instead.\n\nSome industry leaders think fares could climb further next year, especially in Europe. The picture may be slightly better in the United States, which has more oil-producing and refining capacity than Europe.",
-  "why_it_matters": "Millions of families fly to visit relatives over Thanksgiving and Christmas, so higher fares hit household budgets directly. The story also shows how the price of one fuel can ripple through the whole travel industry.",
-  "image_url": "/article_images/news-s45774eb1bcf65777.webp",
+  "title": "Oil Spill Spreads Along UAE Beaches Toward a Wildlife Haven",
+  "summary": "An oil spill is spreading along the coast of the United Arab Emirates, turning the water black at some beaches and worrying scientists who study sea life.\n\nThe oil is leaking from a tanker called Gem No.2. The ship was damaged on October 9 near the Strait of Hormuz, a narrow waterway that many oil tankers pass through. A maritime company reported it was struck by an unknown projectile and caught fire; the fire was put out, and all 22 crew members were rescued. A small leak was spotted on October 19, and satellite images later showed the slick of oil spreading more than 35 kilometres (22 miles) from the ship.\n\nThis week, oil began washing ashore near the northern city of Umm Al Quwain, and some beaches and coastal areas were closed. The UAE's Ministry of Climate Change and Environment said it “immediately began containment” to limit the damage.\n\nScientists say oil spills can hurt ocean animals in several ways: oil can trap sea turtles, coat the feathers of seabirds, and damage the gills of fish. The slick is also drifting toward Siniyah and Khor Al Beidah islands, a protected area of corals, seagrasses and saltmarshes that is home to green turtles and a rare fish called the Halavi guitarfish. One scientist called the spill's closeness to this special habitat the most concerning part of the story.\n\nExperts say it is too early to know how much harm the spill will cause. That depends on how much oil leaked, how quickly it breaks down, and how well the cleanup works — which is why containing it quickly matters so much.",
+  "why_it_matters": "Oil spills can damage the beaches, wildlife and waters that coastal communities depend on, and this one is drifting toward a protected habitat for turtles and a rare fish. How quickly it is contained will decide how much of that special ecosystem is harmed.",
+  "image_url": "/article_images/news-sd0e7aed86728fc8f.webp",
   "keywords": [
     {
-      "term": "jet fuel",
-      "explanation": "The special fuel that airplane engines burn to power flight."
+      "term": "slick",
+      "explanation": "A thin, floating layer of oil spread across the surface of water."
     },
     {
-      "term": "airfares",
-      "explanation": "The prices passengers pay for plane tickets."
+      "term": "containment",
+      "explanation": "Keeping something harmful from spreading any further."
     },
     {
-      "term": "economist",
-      "explanation": "An expert who studies how money, prices and businesses work."
+      "term": "projectile",
+      "explanation": "An object that is fired or hurled through the air toward a target."
     },
     {
-      "term": "trade group",
-      "explanation": "An organization that speaks and acts for companies in the same industry."
+      "term": "gills",
+      "explanation": "The body parts fish use to take oxygen from the water so they can breathe."
     },
     {
-      "term": "absorbing",
-      "explanation": "In this story, it means paying a cost yourself instead of passing it on to someone else."
-    },
-    {
-      "term": "refining capacity",
-      "explanation": "How much crude oil a country is able to turn into usable fuels such as gasoline and jet fuel."
+      "term": "saltmarshes",
+      "explanation": "Low, grassy wetlands near the sea that are regularly flooded by salty water."
     }
   ],
   "questions": [
     {
-      "question": "What happened to the average price of jet fuel in the United States on Thursday?",
+      "question": "Where is the oil that is spreading along the UAE coast leaking from?",
       "options": [
-        "It doubled the price of every plane ticket overnight",
-        "It stayed exactly the same as a year ago",
-        "It fell to its lowest level in ten years",
-        "It reached $4.90 a gallon, the highest single-day average Argus has ever recorded"
+        "A tanker called Gem No.2",
+        "A sunken cargo ship",
+        "A factory on the coast",
+        "An offshore oil well"
       ],
-      "correct_answer": "It reached $4.90 a gallon, the highest single-day average Argus has ever recorded"
+      "correct_answer": "A tanker called Gem No.2"
     },
     {
-      "question": "Who said airfares are at a 10-year high?",
+      "question": "How was the tanker damaged on October 9?",
       "options": [
-        "Ed Bastian of Delta Air Lines",
-        "Hayley Berg, the lead economist at Hopper",
-        "Chris Sununu of Airlines for America",
-        "Rachel Stern of Frederick, Maryland"
+        "It collided with another ship in fog",
+        "Its engine exploded during refuelling",
+        "It ran aground on rocks",
+        "It was struck by an unknown projectile and caught fire"
       ],
-      "correct_answer": "Hayley Berg, the lead economist at Hopper"
+      "correct_answer": "It was struck by an unknown projectile and caught fire"
     },
     {
-      "question": "According to Berg, how much are Thanksgiving airfares up compared with last year?",
+      "question": "How far had the oil slick spread from the ship in the satellite images?",
       "options": [
-        "More than 20%",
-        "About 30%",
-        "About 10%",
-        "More than half"
+        "About 3 kilometres",
+        "More than 35 kilometres",
+        "Over 350 kilometres",
+        "Less than one kilometre"
       ],
-      "correct_answer": "About 30%"
+      "correct_answer": "More than 35 kilometres"
     },
     {
-      "question": "What did Chris Sununu say airlines are doing about the extra fuel cost?",
+      "question": "The oil began washing ashore near which northern city?",
       "options": [
-        "Canceling holiday flights",
-        "Asking passengers to bring their own fuel",
-        "Passing all of it on to customers",
-        "Absorbing most of it themselves, though some has to be passed on to the customer"
+        "Sharjah",
+        "Umm Al Quwain",
+        "Abu Dhabi",
+        "Dubai"
       ],
-      "correct_answer": "Absorbing most of it themselves, though some has to be passed on to the customer"
+      "correct_answer": "Umm Al Quwain"
     },
     {
-      "question": "Why did many travelers book their holiday trips earlier than usual this year?",
+      "question": "Which rare fish lives in the protected island habitat the oil is drifting toward?",
       "options": [
-        "Because flights were about to sell out",
-        "To earn extra travel rewards",
-        "Because fuel prices were falling",
-        "To lock in prices before they rose"
+        "The coelacanth",
+        "The Halavi guitarfish",
+        "The Arabian angelfish",
+        "The whale shark"
       ],
-      "correct_answer": "To lock in prices before they rose"
+      "correct_answer": "The Halavi guitarfish"
     },
     {
-      "question": "What does Rachel Stern plan to do instead of flying?",
+      "question": "According to experts, what will decide how much harm the spill causes?",
       "options": [
-        "Fly on a cheaper date",
-        "Stay home for the holidays",
-        "Take a train to Chicago",
-        "Drive to Chicago"
+        "How much oil leaked, how quickly it breaks down, and how well the cleanup works",
+        "How deep the water is near the islands",
+        "Whether tourists keep visiting the beaches",
+        "Whether the tanker can be repaired at sea"
       ],
-      "correct_answer": "Drive to Chicago"
+      "correct_answer": "How much oil leaked, how quickly it breaks down, and how well the cleanup works"
     }
   ],
   "background_read": [
-    "Jet fuel is the special fuel that airplane engines burn, and it is one of the biggest costs an airline has.",
-    "When fuel prices rise, airlines often pass part of the extra cost on to passengers through higher ticket prices, especially at busy holiday times like Thanksgiving and Christmas, when many people want to fly.",
-    "Tracking firms and travel companies watch fuel prices and fares closely and report how they change compared with earlier years.",
-    "The United States produces and refines a great deal of its own oil, which can soften the effect of fuel price rises compared with places that import more."
+    "The Strait of Hormuz is a narrow sea passage between the Persian Gulf and the open ocean, and a large share of the world's oil travels through it aboard tanker ships.",
+    "When a tanker is damaged, oil can leak out and float on the surface, forming a slick that wind and currents push toward shore.",
+    "Floating oil is dangerous for sea life: it can trap turtles, coat the feathers of seabirds and damage the gills that fish breathe with.",
+    "Cleanup crews fight a spill by containment — trying to surround, block or collect the oil before it reaches beaches and protected habitats such as corals, seagrasses and saltmarshes."
   ],
   "Article_Structure": [
-    "LEAD: Record jet fuel prices are pushing holiday airfares to a 10-year high",
-    "KEY EVENT: The average U.S. jet fuel price reached $4.90 a gallon on Thursday, the highest single-day average Argus has recorded",
-    "  ├─ WHO: Airlines, travelers and the trade group Airlines for America",
-    "  └─ RESULT: Thanksgiving fares are up about 30% and Christmas fares more than 20% compared with last year",
-    "EVIDENCE: Delta's CEO says customers still see fares as reasonably affordable, while some families book earlier than usual or choose to drive",
-    "OPEN QUESTION: Will fares climb further next year, especially in Europe?"
+    "LEAD: Oil leaking from a damaged tanker is spreading along the UAE coast and closing beaches",
+    "KEY EVENT: The slick washes ashore near Umm Al Quwain and drifts toward protected islands",
+    "  ├─ WHO: The UAE's Ministry of Climate Change and Environment says it immediately began containment",
+    "  └─ WHEN: The tanker was damaged on October 9 and a small leak was spotted on October 19",
+    "EVIDENCE: Satellite images show the slick spreading more than 35 kilometres (22 miles) from the ship",
+    "OPEN QUESTION: Experts say the real harm depends on the amount of oil, how fast it breaks down and the cleanup"
   ],
   "perspectives": [
     {
-      "perspective": "Hayley Berg, lead economist at Hopper",
-      "description": "She says airfares are at a 10-year high because of the high cost of jet fuel."
+      "perspective": "Scientists describing spill harms",
+      "description": "Oil can trap sea turtles, coat seabirds' feathers and damage the gills of fish."
     },
     {
-      "perspective": "Ed Bastian, CEO of Delta Air Lines",
-      "description": "He says customers have shown a limited amount of resistance and still view airfare as reasonably affordable."
+      "perspective": "One scientist on the location",
+      "description": "Called the slick's closeness to the protected island habitat the most concerning environmental angle of the story."
     },
     {
-      "perspective": "Chris Sununu, head of Airlines for America",
-      "description": "He says airlines are absorbing most of the extra fuel cost themselves, but some of it unfortunately has to be passed on to the customer."
-    },
-    {
-      "perspective": "Rachel Stern, a traveler from Frederick, Maryland",
-      "description": "She says tickets for her and her kids cost too much, so she plans to drive to Chicago instead of flying."
+      "perspective": "Experts on the outlook",
+      "description": "Say it is too early to know how much harm the spill will cause, because it depends on the oil, its breakdown and the cleanup."
     }
   ],
-  "mined_at": "2026-10-23T22:53:30+00:00",
-  "source_published_at": "Fri, 23 Oct 2026 05:00:00 -0400",
-  "source_name": "NPR World",
-  "source_url": "https://www.npr.org/2026/10/23/nx-s1-6009506/jet-fuel-price-holiday-airfare",
+  "mined_at": "2026-10-24T00:25:31+00:00",
+  "source_published_at": "Fri, 23 Oct 2026 15:30:47 GMT",
+  "source_name": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
   "category": "News",
-  "source_word_count": 750,
+  "source_word_count": 537,
   "detail_status": "full"
 }

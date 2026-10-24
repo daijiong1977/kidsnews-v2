@@ -1,117 +1,124 @@
 {
-  "title": "Halley's Comet Leaves a Trail of Shooting Stars",
-  "summary": "You do not need to wait for Halley's Comet to visit to see its fireworks. This week, Earth passed through a trail of dusty debris left behind by the famous comet, and the crumbs put on a show as the Orionid meteor shower reached its peak.\n\nOn Oct. 21, astrophotographer Tim McCollum captured a spectacular composite image above Toccoa, Georgia. Between 3 and 4 a.m., he photographed three vivid Orionid meteors streaking across the sky. Each shooting star appears to race away from the shower's radiant — the point in the sky the meteors seem to come from — which sits near Betelgeuse, the red giant star in the constellation Orion. Halley's Comet itself is more than 3 billion miles from Earth right now, but the particles it shed still carve bright paths through the autumn sky when they hit our atmosphere.\n\nMcCollum's picture holds more wonders. Orion's Belt glistens beside the glow of the Orion Nebula, one of the closest major star-forming regions to Earth. The Rosette Nebula also appears, nestled in the dense starfields and dust lanes of the Milky Way, which slants diagonally across the image. Catching a shooting star on camera takes skill, luck and patience. McCollum used a star tracker to keep his camera fixed on the radiant and took many 30-second exposures, later combining them into one image with astrophoto software.\n\nIf you missed the peak, there is still time: the Orionid shower stays active until Nov. 7. Head outside on a clear night and you might spot one of Halley's dazzling leftovers — or even a 'Halloween Fireball' from the Taurid meteor shower, made from debris of Comet 2P/Encke.",
-  "why_it_matters": "Meteor showers let anyone watch space debris burn up in our atmosphere with no equipment at all, connecting everyday skywatchers to a famous comet that is now billions of miles away. They also give photographers a predictable chance to capture the crumbs comets leave behind.",
-  "image_url": "/article_images/science-sf0a293af00d35cc7.webp",
+  "title": "A $10 Chip That Could Put a Medical Lab on Your Wrist",
+  "summary": "Imagine checking your blood sugar without a needle, using a sensor on your wrist. Researchers at the University of Cambridge and a start-up called GlitterinTech have built a light-reading chip that could one day make that possible. It costs just $10.\n\nThe chip is an optical spectrometer, a tool that studies light to figure out what a substance is made of. Spectrometers are essential in medicine, factories, food testing and environmental research, but shrinking them usually means giving up accuracy. This one is only a few centimeters across, yet the team says its precision rivals much bigger laboratory machines.\n\nThe secret is mathematics. The device, called a convolutional spectrometer, analyzes light using a rule called the convolution theorem, performing the math directly on the light itself instead of relying on heavy computer calculations afterward. It works across a range of near-infrared light and finishes a measurement in less than a second.\n\nIn tests, the chip correctly identified plastics, medicines, coffee, flour and tea every time. It also measured human health markers, including skin moisture, blood alcohol, blood lactate and blood glucose, under conditions designed to mimic the body. In one demonstration, it tracked one person's blood glucose without needles over an extended period. The researchers caution that much more testing is needed before it could become a real medical product.\n\n'The key insight was to go back to the mathematics and ask whether there was a fundamentally cleaner way to retrieve spectra,' said Dr. Chunhui Yao, a lead author of the study.\n\nThe chip also kept working from -20°C to 80°C, a range that could suit wearables, factories and outdoor sensors. Professor Qixiang Cheng, who led the project, said what stands out is that the packaged system works reliably in real-world conditions, not just in the lab.",
+  "why_it_matters": "A cheap, accurate chip could move health checks and material testing out of big laboratories and into wearables, factories and outdoor sensors. That could make useful measurements faster and available in many more places.",
+  "image_url": "/article_images/science-s5c7d8d545eb082ef.webp",
   "keywords": [
     {
-      "term": "debris",
-      "explanation": "Small pieces of material left behind after something breaks apart or passes by; here, dusty crumbs shed by a comet."
+      "term": "spectrometer",
+      "explanation": "A tool that studies light to figure out what a substance is made of."
     },
     {
-      "term": "radiant",
-      "explanation": "The point in the sky that meteors in a shower seem to stream away from."
+      "term": "near-infrared",
+      "explanation": "Light just beyond the red light our eyes can see."
     },
     {
-      "term": "constellation",
-      "explanation": "A pattern of stars in the sky that people have given a name and a shape."
+      "term": "spectra",
+      "explanation": "Patterns of light that can reveal what something is made of."
     },
     {
-      "term": "nebula",
-      "explanation": "A huge cloud of gas and dust in space where new stars can form."
+      "term": "glucose",
+      "explanation": "A sugar found in the blood, also called blood sugar."
     },
     {
-      "term": "composite image",
-      "explanation": "A picture made by combining many separate photos into one."
-    },
-    {
-      "term": "astrophotographer",
-      "explanation": "A person who takes photographs of the night sky and objects in space."
+      "term": "precision",
+      "explanation": "How exact and accurate a measurement is."
     }
   ],
   "questions": [
     {
-      "question": "What causes the Orionid meteor shower?",
+      "question": "How much does the Cambridge chip cost?",
       "options": [
-        "Fireworks launched from Georgia",
-        "Stars falling out of the constellation Orion",
-        "Dust from the Moon drifting into the air",
-        "Earth passing through dusty debris left behind by Halley's Comet"
+        "$1",
+        "About $1,000",
+        "$100",
+        "$10"
       ],
-      "correct_answer": "Earth passing through dusty debris left behind by Halley's Comet"
+      "correct_answer": "$10"
     },
     {
-      "question": "When did Tim McCollum photograph the meteors?",
+      "question": "What does a spectrometer do?",
       "options": [
-        "Between 3 and 4 a.m. on Oct. 21",
-        "During last year's shower",
-        "On the night of Nov. 7",
-        "At noon on Oct. 21"
+        "It studies light to figure out what a substance is made of",
+        "It counts blood cells",
+        "It takes photographs of the sky",
+        "It measures temperature only"
       ],
-      "correct_answer": "Between 3 and 4 a.m. on Oct. 21"
+      "correct_answer": "It studies light to figure out what a substance is made of"
     },
     {
-      "question": "How many vivid Orionid meteors did he photograph streaking across the sky?",
+      "question": "What is the chip's device called?",
       "options": [
-        "Thirty",
-        "Seven",
-        "Three",
-        "One"
+        "A light sensor",
+        "A wrist spectrometer watch",
+        "A convolutional spectrometer",
+        "A glucose meter"
       ],
-      "correct_answer": "Three"
+      "correct_answer": "A convolutional spectrometer"
     },
     {
-      "question": "Where do the meteors seem to come from?",
+      "question": "Which materials did the chip identify correctly every time in tests?",
       "options": [
-        "A radiant near Betelgeuse in the constellation Orion",
-        "The Milky Way's dust lanes",
-        "The Orion Nebula",
-        "The surface of Halley's Comet"
+        "Plastics, medicines, coffee, flour and tea",
+        "Wood, glass and metal",
+        "Sand, soil and water",
+        "Only coffee and tea"
       ],
-      "correct_answer": "A radiant near Betelgeuse in the constellation Orion"
+      "correct_answer": "Plastics, medicines, coffee, flour and tea"
     },
     {
-      "question": "How did McCollum create his composite image?",
+      "question": "What do the researchers caution about the chip as a medical product?",
       "options": [
-        "He borrowed a picture from a telescope company",
-        "He drew the meteors by hand",
-        "He took one single photo at noon",
-        "He used a star tracker and combined many 30-second exposures"
+        "Much more testing is needed before it could become a real medical product",
+        "It cannot measure glucose",
+        "It is too expensive to make",
+        "It only works in the dark"
       ],
-      "correct_answer": "He used a star tracker and combined many 30-second exposures"
+      "correct_answer": "Much more testing is needed before it could become a real medical product"
     },
     {
-      "question": "Until when does the Orionid shower stay active?",
+      "question": "Across what temperature range did the chip keep working?",
       "options": [
-        "Until Halley's Comet returns",
-        "It ended at its peak",
-        "Until Nov. 7",
-        "Until Oct. 21"
+        "From -80°C to 20°C",
+        "From 0°C to 20°C",
+        "Only at room temperature",
+        "From -20°C to 80°C"
       ],
-      "correct_answer": "Until Nov. 7"
+      "correct_answer": "From -20°C to 80°C"
     }
   ],
   "background_read": [
-    "A meteor shower happens when Earth passes through a trail of dusty debris left behind by a comet, and the tiny particles burn bright as they hit the atmosphere.",
-    "Halley's Comet sheds such crumbs as it travels, so its leftovers can light up the sky even when the comet itself is billions of miles away.",
-    "The Orionid shower is named for Orion, because its meteors seem to race away from a point called the radiant near that constellation.",
-    "Photographers catch the brief streaks by keeping a camera fixed on the radiant and combining many long exposures into a single composite image."
+    "A spectrometer studies light that passes through or bounces off a substance to work out what that substance is made of.",
+    "Doctors and scientists use such tools to check health markers, food, medicines and materials, but large laboratory machines are hard to carry around.",
+    "Making a spectrometer small, cheap and accurate could let sensors be worn on the body or used in factories and outdoors."
   ],
   "Article_Structure": [
-    "LEAD: Earth passed through dusty debris left by Halley's Comet, putting on the Orionid meteor shower at its peak",
-    "KEY EVENT: Astrophotographer Tim McCollum captured three vivid Orionid meteors above Toccoa, Georgia, on Oct. 21",
-    "  ├─ WHO: Tim McCollum, astrophotographer",
-    "  ├─ WHERE: Above Toccoa, Georgia, with the radiant near Betelgeuse in the constellation Orion",
-    "  └─ HOW: A star tracker held the camera on the radiant while many 30-second exposures were combined into one composite image",
-    "EVIDENCE: The composite also shows Orion's Belt, the Orion Nebula, the Rosette Nebula and the Milky Way's dense starfields",
-    "OPEN QUESTION: Whether clear skies will let viewers catch more meteors — or a Taurid 'Halloween Fireball' — before the shower ends after Nov. 7"
+    "LEAD: Cambridge researchers built a $10 light-reading chip that could one day check blood glucose without needles",
+    "KEY EVENT: The tiny convolutional spectrometer matched big lab machines in tests",
+    "  ├─ WHO: University of Cambridge researchers and the start-up GlitterinTech",
+    "  └─ HOW: It performs mathematics directly on near-infrared light",
+    "EVIDENCE: It identified plastics, medicines, coffee, flour and tea every time and measured health markers including blood glucose",
+    "OPEN QUESTION: How much more testing is needed before it can become a real medical product"
   ],
-  "perspectives": [],
-  "mined_at": "2026-10-23T22:53:30+00:00",
-  "source_published_at": "Fri, 23 Oct 2026 18:00:00 +0000",
-  "source_name": "Space.com",
-  "source_url": "https://www.space.com/stargazing/meteor-showers/halleys-comet-dazzles-from-afar-in-spectacular-astrophoto-of-orionid-meteor-shower",
+  "perspectives": [
+    {
+      "perspective": "Dr. Chunhui Yao",
+      "description": "A lead author of the study, he said the key insight was to go back to the mathematics and ask whether there was a fundamentally cleaner way to retrieve spectra."
+    },
+    {
+      "perspective": "Professor Qixiang Cheng",
+      "description": "He led the project and said what stands out is that the packaged system works reliably in real-world conditions, not just in the lab."
+    },
+    {
+      "perspective": "The researchers",
+      "description": "They caution that much more testing is needed before the chip could become a real medical product."
+    }
+  ],
+  "mined_at": "2026-10-24T00:25:31+00:00",
+  "source_published_at": "Thu, 22 Oct 2026 21:21:47 EDT",
+  "source_name": "ScienceDaily Most Popular",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
   "category": "Science",
-  "source_word_count": 618,
+  "source_word_count": 833,
   "detail_status": "full"
 }
