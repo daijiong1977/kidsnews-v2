@@ -1321,7 +1321,7 @@ function HomePage({ onOpen, onOpenArchive, onOpenSearch, onResume, level, setLev
   // name + avatar + level + theme + lang into tweaks, then proceeds
   // to pick-3 on next render. Skipped in archive mode (returning user
   // browsing past content).
-  const needsOnboarding = !isArchive && (!tweaks?.userName || tweaks.userName.trim() === '');
+  const needsOnboarding = false;   // no name/avatar setup: visitors go straight to the stories
   if (needsOnboarding) {
     return (
       <OnboardingScreen
@@ -1381,9 +1381,7 @@ function HomePage({ onOpen, onOpenArchive, onOpenSearch, onResume, level, setLev
           hasn't dismissed it, and (d) they're not already Gmail-linked.
           One tap opens the user panel where IdentityExpander is
           already default-expanded with the same Google CTA. */}
-      {!isArchive && (
-        <SignInNudge tweaks={tweaks} onOpenUserPanel={onOpenUserPanel}/>
-      )}
+      {/* The sign-in / email nudge is gone: first let people read the stories. */}
 
       {/* ——————————— TODAY'S PROGRESS BANNER (only when picks are locked) ——————————— */}
       {/* Chinese mode is summary-only — pick-3 ritual is skipped, so
