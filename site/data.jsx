@@ -228,7 +228,7 @@ async function loadPayloads(archiveDate = null) {
         return [];
       }
       const { articles } = await r.json();
-      return (articles || []).slice(0, 3).map(a => listingToArticle(a, cat, lvl, archiveDate));
+      return (articles || []).slice(0, 2).map(a => listingToArticle(a, cat, lvl, archiveDate));
     } catch (e) {
       console.warn(`[data] fetch failed: ${base}/articles_${cat}_${lvl}.json`, e);
       return [];

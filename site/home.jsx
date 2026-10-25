@@ -1186,7 +1186,7 @@ function HomePage({ onOpen, onOpenArchive, onOpenSearch, onResume, level, setLev
   }, [isZh, level, cat, archiveDay]);
   // Cap today to 3 per category (editorial layout). Archive also 3 since
   // each day's bundle only has 3 per category anyway.
-  const filtered = useMemoH(() => filteredRaw.slice(0, 3), [filteredRaw]);
+  const filtered = useMemoH(() => filteredRaw.slice(0, 2), [filteredRaw]);
 
   const [calendarOpen, setCalendarOpen] = useStateH(false);
   const [recentOpen, setRecentOpen] = useStateH(false);
@@ -1210,7 +1210,7 @@ function HomePage({ onOpen, onOpenArchive, onOpenSearch, onResume, level, setLev
     const out = [];
     const lang = ARTICLES.filter(matchesLanguageLevel);
     for (const c of CATEGORIES) {
-      out.push(...lang.filter(a => a.category === c.label).slice(0, 3));
+      out.push(...lang.filter(a => a.category === c.label).slice(0, 2));
     }
     return out;
   }, [isZh, level, archiveDay]);
@@ -1240,10 +1240,7 @@ function HomePage({ onOpen, onOpenArchive, onOpenSearch, onResume, level, setLev
   // (freshest mined_at) and invalidated on mined_at drift — but every
   // republish nudged mined_at and silently forced re-picks across same-
   // day reloads, so the kid kept landing on the pickup screen. Removed.
-  const picksLocked = !isArchive
-    && picksLock.dayKey === todayKeyLocal
-    && picksLock.ids.length === 3
-    && picksLock.ids.every(id => poolIds.has(id));
+  const picksLocked = false;   // the pick-3 ritual is gone: the two lead stories are shown straight away
   const lockPicks = (ids) => {
     setPicksLock({ dayKey: todayKeyLocal, ids });
     if (window.kidsync && typeof window.kidsync.upsertPicks === 'function') {
@@ -1264,16 +1261,16 @@ function HomePage({ onOpen, onOpenArchive, onOpenSearch, onResume, level, setLev
 
   // Pick 1 from each category by default, user can swap (only from the 3-per-category pool)
   const [dailyPicks, setDailyPicks] = useStateH(() => {
-    const s = window.safeStorage?.getJSON('ohye_daily_picks_v3'); if (s && s.length === 3) return s;
-    return null;
+    return null;   // two fixed lead stories: nothing stored, nothing to restore
   });
   const defaultPicks = useMemoH(() => {
     const out = [];
-    for (const c of CATEGORIES) {
-      const first = displayPool.find(a => a.category === c.label);
+    // Two lead stories, no choosing: the first News and the first Fun story.
+    for (const label of ['News', 'Fun']) {
+      const first = displayPool.find(a => a.category === label);
       if (first) out.push(first.id);
     }
-    return out.slice(0, 3);
+    return out.slice(0, 2);
   }, [displayPool]);
   // After pick-3 lock, the locked IDs are the daily 3. Falls back to
   // legacy `dailyPicks`/`defaultPicks` when not locked (e.g. archive view).
@@ -1427,174 +1424,7 @@ function HomePage({ onOpen, onOpenArchive, onOpenSearch, onResume, level, setLev
         </section>
       )}
 
-      {/* ——————————— TODAY'S PICK BANNER (hidden in archive + zh) ———————————
-          Single column, full-width. Title row on top, 3 cards stacked
-          full-width below. Greeting moved to the sticky TodayBanner.
-          Chinese mode is summary-only audit (no pick-3 ritual, no
-          "open the article reader" interaction), so the whole banner
-          is hidden — kid/parent in zh mode just browses category cards
-          below. The pickup-route gate + sticky-TodayBanner check `!isZh`
-          for the same reason; this third surface was missed. */}
-      {!isArchive && !isZh && (
-      <section style={{maxWidth:1180, margin:'0 auto', padding:'24px clamp(12px, 4vw, 28px) 0'}}>
-        <div style={{
-          background:`linear-gradient(135deg, ${theme.hero1} 0%, ${theme.hero2} 100%)`,
-          borderRadius:28,
-          padding:'clamp(20px, 5vw, 40px) clamp(14px, 5vw, 48px)',  // ~40% bigger than the previous 28×32 on a laptop; on a 390px phone this and the section around it stacked to 184px of padding and left cards 234px wide
-          position:'relative',
-          overflow:'hidden',
-          border:`2px solid ${theme.border}`,
-        }}>
-          {/* doodle */}
-          <svg style={{position:'absolute', right:-20, bottom:-30, opacity:.18}} width="240" height="240" viewBox="0 0 100 100"><circle cx="50" cy="50" r="40" stroke="#1b1230" strokeWidth="2" fill="none"/><circle cx="50" cy="50" r="28" stroke="#1b1230" strokeWidth="2" fill="none" strokeDasharray="4 6"/></svg>
-
-          {/* Title row: headline + pick-again / swap-hint toolbar */}
-          <div style={{
-            display:'flex', alignItems:'center', justifyContent:'space-between',
-            flexWrap:'wrap', gap:14, marginBottom:22, position:'relative',
-          }}>
-            <h1 style={{
-              fontFamily:'Fraunces, serif', fontWeight:900, fontSize:48, lineHeight:1.02,
-              color:'#1b1230', margin:0, letterSpacing:'-0.02em',
-            }}>
-              Today's <span style={{background: theme.accent, padding:'0 12px', borderRadius:12, display:'inline-block', transform:'rotate(-2deg)'}}>Top 3 Pick</span>
-            </h1>
-            <div style={{display:'flex', alignItems:'center', gap:10, flexWrap:'wrap'}}>
-              {/* "Choose your own 3" is always available, locked or not.
-                  When clicked, clears any current lock and opens PickFlow. */}
-              <button onClick={() => { resetPicks(); setPickFlowOpen(true); }} style={{
-                background:'transparent', border:'1.5px solid #f0e8d8',
-                borderRadius:999, padding:'7px 14px', cursor:'pointer',
-                fontSize:12, fontWeight:800, color:'#1b1230',
-                fontFamily:'Nunito, sans-serif', letterSpacing:'.02em',
-              }} title="Open the 3-of-9 picker">🎯 Choose your own 3</button>
-              <div style={{fontSize:12, color:'#6b5c80', fontWeight:700}}>Tap ⇆ to swap</div>
-            </div>
-          </div>
-
-          {/* 3 cards stacked vertically, full-width row layout. Larger image
-              and a 4-line summary so each pick reads like a real teaser. */}
-          <div style={{display:'flex', flexDirection:'column', gap:14, position:'relative'}}>
-            {daily3.map((a, i) => {
-              const catColor = CATEGORIES.find(c => c.label === a.category)?.color || '#1b1230';
-              const alternates = displayPool.filter(x => x.category === a.category && !activePicks.includes(x.id));
-              const canSwap = alternates.length > 0;
-              const isSwapping = swapOpen === i;
-              return (
-                <div key={a.id} style={{position:'relative'}}>
-                  {isSwapping ? (
-                    <div style={{
-                      background:'#1b1230', borderRadius:16, padding:14,
-                      boxShadow:'0 4px 0 rgba(27,18,48,0.15)',
-                    }}>
-                      <div style={{display:'flex', alignItems:'center', justifyContent:'space-between', padding:'2px 6px 10px'}}>
-                        <div style={{fontSize:11, fontWeight:800, color:'#ffc83d', textTransform:'uppercase', letterSpacing:'.08em'}}>Pick a different {a.category} story</div>
-                        <button onClick={()=>setSwapOpen(null)} style={{
-                          background:'transparent', border:'none', color:'#ffc83d', fontWeight:900, cursor:'pointer', fontSize:18, padding:'0 4px',
-                        }} title="Close">✕</button>
-                      </div>
-                      {alternates.map(alt => (
-                        <button key={alt.id} onClick={()=>{swapPick(i, alt.id); setSwapOpen(null);}} style={{
-                          display:'flex', alignItems:'center', gap:12, width:'100%', textAlign:'left',
-                          background:'rgba(255,255,255,0.06)', color:'#fff',
-                          border:'none', padding:10, borderRadius:10, cursor:'pointer',
-                          marginBottom:8,
-                        }} onMouseEnter={e=>e.currentTarget.style.background='rgba(255,255,255,0.14)'} onMouseLeave={e=>e.currentTarget.style.background='rgba(255,255,255,0.06)'}>
-                          <div style={{width:56, height:56, borderRadius:10, flexShrink:0, background:`url(${alt.image}) center/cover, ${catColor}`}}/>
-                          <div style={{flex:1, minWidth:0}}>
-                            <div style={{fontWeight:800, fontSize:14, lineHeight:1.25}}>{alt.title}</div>
-                            <div style={{fontSize:11, opacity:0.7, fontWeight:700, marginTop:3}}>{alt.readMins} min · {alt.tag}</div>
-                          </div>
-                        </button>
-                      ))}
-                      {alternates.length === 0 && (
-                        <div style={{color:'#fff', opacity:0.6, fontSize:12, padding:10, textAlign:'center'}}>No other {a.category} stories today.</div>
-                      )}
-                    </div>
-                  ) : (
-                  <div style={{
-                    background:'#fff', border:'2px solid #fff', borderRadius:18,
-                    padding: narrow ? '14px 16px' : '18px 22px',
-                    display:'flex', gap: narrow ? 12 : 20, alignItems:'flex-start',
-                    // 56 badge + 196 image + 36 actions + gaps + padding needs 392px.
-                    // A 390px phone gives this card ~280px, which squeezed the title
-                    // to zero width. On a phone the image takes its own line instead.
-                    flexWrap: narrow ? 'wrap' : 'nowrap',
-                    boxShadow:'0 2px 0 rgba(27,18,48,0.08)',
-                  }}>
-                    <div style={{
-                      width: narrow ? 44 : 56, height: narrow ? 44 : 56,
-                      borderRadius:16, flexShrink:0,
-                      background: catColor, color:'#fff', display:'flex', alignItems:'center', justifyContent:'center',
-                      fontFamily:'Fraunces, serif', fontWeight:900, fontSize: narrow ? 20 : 26,
-                    }}>{i+1}</div>
-                    <div style={{
-                      width: narrow ? '100%' : 196, height: narrow ? 150 : 196,
-                      order: narrow ? -1 : 0,          // image first, on its own line
-                      borderRadius:16, flexShrink:0,
-                      background:`url(${a.image}) center/cover, ${catColor}`,
-                      border:`2px solid ${catColor}`,
-                    }}/>
-                    <button onClick={()=>onOpen(a.id)} style={{
-                      flex:'1 1 140px', minWidth:0, background:'transparent', border:'none', textAlign:'left', cursor:'pointer', padding:0,
-                      display:'flex', flexDirection:'column', gap:8,
-                    }}>
-                      <div style={{
-                        fontFamily:'Fraunces, serif', fontWeight:900,
-                        fontSize: narrow ? 19 : 24, color:'#1b1230', lineHeight:1.2,
-                        // 2 lines cut nearly every headline mid-word once the text
-                        // column is ~176px instead of the ~400px a laptop gives it.
-                        display:'-webkit-box', WebkitBoxOrient:'vertical',
-                        WebkitLineClamp: narrow ? 3 : 2, overflow:'hidden',
-                      }}>
-                        {a.title}
-                      </div>
-                      <div style={{
-                        fontSize:16, color:'#3a2a4a', lineHeight:1.5,
-                        // 6-line clamp — card_summary is server-side-bounded
-                        // to ≤50 words, which fits in 5-6 lines at this
-                        // size. 4 lines was cutting trailing punctuation.
-                        display:'-webkit-box', WebkitBoxOrient:'vertical', WebkitLineClamp:6, overflow:'hidden',
-                      }}>
-                        {_shortHook(a.summary, 60)}
-                      </div>
-                      {/* Category + read-time line removed — duplicate of the
-                          colored slot number on the left and the global "21 min"
-                          headline above. Card now leans entirely on title + summary. */}
-                    </button>
-                    <div style={{display:'flex', flexDirection:'column', alignItems:'flex-end', gap:10, flexShrink:0}}>
-                      {(() => {
-                        const p = _articlePct((progress.articleProgress||{})[a.id]);
-                        const done = progress.readToday.includes(a.id);
-                        if (done) return <span style={{fontSize:28, color:'#17b3a6'}}>✓</span>;
-                        if (p > 0) return <span style={{fontSize:12, fontWeight:800, color:'#f4a24c', background:'#fff4e0', padding:'4px 10px', borderRadius:999, border:'1.5px solid #f4a24c'}}>{p}%</span>;
-                        return null;
-                      })()}
-                      {/* Swap rules per user direction:
-                          · Science / Fun: hide swap once done — the slot
-                            is "spent" and re-swapping would feel like
-                            taking back credit.
-                          · News: swap always allowed — there's usually
-                            still appetite for a second news read of
-                            the day. */}
-                      {canSwap && (a.category === 'News' || !progress.readToday.includes(a.id)) && (
-                        <button onClick={()=>setSwapOpen(i)} title={`Pick a different ${a.category} story`} style={{
-                          background:'transparent', color:'#6b5c80',
-                          border:'2px solid #f0e8d8', borderRadius:10,
-                          width:36, height:36, cursor:'pointer', fontSize:16, fontWeight:900,
-                          display:'flex', alignItems:'center', justifyContent:'center',
-                        }}>⇆</button>
-                      )}
-                    </div>
-                  </div>
-                  )}
-                </div>
-              );
-            })}
-          </div>
-        </div>
-      </section>
-      )}
+      {/* The Top-3 pick section is gone: each day is just 2 stories per section, listed below. */}
 
       {/* ——————————— CATEGORY TABS ——————————— */}
       <section style={{maxWidth:1180, margin: isArchive ? '24px auto 0' : '32px auto 0', padding:'0 clamp(12px, 4vw, 28px)', position:'relative'}}>
