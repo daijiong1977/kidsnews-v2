@@ -1,0 +1,117 @@
+{
+  "title": "Astronomers Uncover a Mysterious Magnetic Web Above the Sun",
+  "summary": "Above the parts of the Sun that look calm, astronomers have found a hidden web. Using a balloon-borne observatory called Sunrise-III, an international team led by the National Astronomical Observatory of Japan discovered a surprisingly complex network of thin, thread-like magnetic structures above a quiet region of the Sun.\n\nQuiet regions cover most of the Sun, but quiet does not mean magnetically inactive. Their magnetic fields are generally weaker than those in active areas, and their fine structures are hard to measure from the ground, where turbulence in Earth's atmosphere blurs the details.\n\nSunrise-III was built to rise above that problem. During its 2024 mission, a high-altitude balloon carried its 1-metre telescope to about 35 kilometres above Earth, into the stratosphere, where atmospheric interference is greatly reduced.\n\nThere, the observatory studied the magnetic canopy, a network of magnetic fields that extends through the chromosphere, the layer of the solar atmosphere above the Sun's visible surface, the photosphere. Surface magnetic fields spread outward and arch upward, but the new observations show the canopy is not smooth and uniform. Instead, it contains many narrow, thread-like features woven into the larger network.\n\nComputer simulations that reproduced the patterns seen by Sunrise-III suggest surface movements twist magnetic field lines, creating the intricate structures higher up.\n\nThe observatory also looked at another quiet region near the Sun's visible edge, the limb. There it measured magnetic fields inside spicules, narrow jets of solar material that shoot upward from the surface, showing how the field changes with height.\n\nSCIP, the Sunrise Chromospheric Infrared spectroPolarimeter, developed under Japanese leadership, measures magnetic fields continuously from the photosphere to the chromosphere. Understanding this tangled canopy could help scientists investigate how energy from motions near the surface is transferred into higher layers.",
+  "why_it_matters": "Understanding the Sun's magnetic web matters because energy moving through its layers shapes solar activity, and clearer models of that process help scientists study our nearest star.",
+  "image_url": "/article_images/science-scdf22d3e76bd4ce3.webp",
+  "keywords": [
+    {
+      "term": "stratosphere",
+      "explanation": "A high layer of Earth's atmosphere, above most of the air that blurs views from the ground."
+    },
+    {
+      "term": "chromosphere",
+      "explanation": "The layer of the Sun's atmosphere above its visible surface."
+    },
+    {
+      "term": "photosphere",
+      "explanation": "The visible surface of the Sun."
+    },
+    {
+      "term": "canopy",
+      "explanation": "Here, a network of magnetic fields spreading out above the Sun's surface."
+    },
+    {
+      "term": "spicules",
+      "explanation": "Narrow jets of solar material that shoot upward from the Sun's surface."
+    },
+    {
+      "term": "turbulence",
+      "explanation": "Uneven, churning movement in air that blurs what a telescope sees."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What observatory found the magnetic web above the Sun?",
+      "options": [
+        "A satellite called SCIP",
+        "The National Astronomical Observatory of Japan's main telescope",
+        "Sunrise-III",
+        "A ground telescope in Japan"
+      ],
+      "correct_answer": "Sunrise-III"
+    },
+    {
+      "question": "How high did the balloon carry its telescope?",
+      "options": [
+        "About 35 kilometres above Earth",
+        "About 350 kilometres above Earth",
+        "About 5 kilometres above Earth",
+        "To the edge of space"
+      ],
+      "correct_answer": "About 35 kilometres above Earth"
+    },
+    {
+      "question": "What is the magnetic canopy?",
+      "options": [
+        "A storm on the Sun's surface",
+        "A cloud in Earth's atmosphere",
+        "A cover over the telescope",
+        "A network of magnetic fields that extends through the chromosphere"
+      ],
+      "correct_answer": "A network of magnetic fields that extends through the chromosphere"
+    },
+    {
+      "question": "What are spicules?",
+      "options": [
+        "Instruments on Sunrise-III",
+        "Narrow jets of solar material that shoot upward from the Sun's surface",
+        "Clouds above the Sun",
+        "Craters on the Sun"
+      ],
+      "correct_answer": "Narrow jets of solar material that shoot upward from the Sun's surface"
+    },
+    {
+      "question": "What did computer simulations suggest creates the intricate structures higher up?",
+      "options": [
+        "Explosions on the Sun's surface",
+        "Surface movements twisting magnetic field lines",
+        "The balloon's movement",
+        "Wind in Earth's atmosphere"
+      ],
+      "correct_answer": "Surface movements twisting magnetic field lines"
+    },
+    {
+      "question": "What does SCIP measure?",
+      "options": [
+        "The temperature of the Sun's core",
+        "Sunspots only",
+        "The speed of the solar wind",
+        "Magnetic fields continuously from the photosphere to the chromosphere"
+      ],
+      "correct_answer": "Magnetic fields continuously from the photosphere to the chromosphere"
+    }
+  ],
+  "background_read": [
+    "The Sun is a star, and like Earth it has a magnetic field, an invisible force that can push and pull magnetic material.",
+    "The visible surface of the Sun is called the photosphere, and the layer above it is the chromosphere.",
+    "Earth's atmosphere can blur views from the ground, so telescopes are sometimes carried high above most of the air to see more clearly.",
+    "By studying magnetic fields, scientists try to learn how energy moves from the Sun's surface into its outer layers."
+  ],
+  "Article_Structure": [
+    "LEAD: Astronomers found a hidden, complex web of magnetic structures above a quiet region of the Sun",
+    "KEY EVENT: Sunrise-III, a balloon-borne observatory, observed the magnetic canopy",
+    "  ├─ WHO: An international team led by the National Astronomical Observatory of Japan",
+    "  ├─ HOW: A 1-metre telescope carried by balloon to about 35 kilometres above Earth during its 2024 mission",
+    "  ├─ EVIDENCE: Many narrow, thread-like features woven into the larger network, and magnetic fields inside spicules near the limb",
+    "  └─ EXPLANATION: Computer simulations suggest surface movements twist magnetic field lines",
+    "CONCLUSION: Understanding the tangled canopy could help scientists investigate how energy moves into higher layers"
+  ],
+  "perspectives": [],
+  "mined_at": "2026-10-25T10:18:03+00:00",
+  "source_published_at": "Sat, 24 Oct 2026 08:23:38 EDT",
+  "source_name": "ScienceDaily Top Technology",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261023023723.htm",
+  "category": "Science",
+  "source_word_count": 605,
+  "detail_status": "full"
+}

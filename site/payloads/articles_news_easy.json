@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-24-news-1",
-      "source": "NPR World",
-      "time_ago": "Fri, 23 Oct 2026 20:40:42 -0400",
-      "mined_at": "2026-10-24T10:51:20+00:00",
-      "source_published_at": "Fri, 23 Oct 2026 20:40:42 -0400",
-      "image_url": "/article_images/news-s50d7782713a058af.webp",
+      "id": "2026-10-25-news-1",
+      "source": "CBC World",
+      "time_ago": "Sat, 24 Oct 2026 04:00:00 EDT",
+      "mined_at": "2026-10-25T10:18:03+00:00",
+      "source_published_at": "Sat, 24 Oct 2026 04:00:00 EDT",
+      "image_url": "/article_images/news-s89d8dca4e6ac4877.webp",
       "category": "News",
-      "title": "Heavy Rain Floods the Four Corners Region",
-      "summary": "Heavy rain has flooded parts of four western states, forcing evacuations, while officials warn more rain may come through Sunday."
+      "title": "A Moon City for a Million People? Water Might Run Out",
+      "summary": "Two scientists checked the numbers behind plans for a city on the Moon and found that power would be fine, but water would run out in about 100 years."
     },
     {
-      "id": "2026-10-24-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Fri, 23 Oct 2026 18:55:08 -0400",
-      "mined_at": "2026-10-24T10:51:20+00:00",
-      "source_published_at": "Fri, 23 Oct 2026 18:55:08 -0400",
-      "image_url": "/article_images/news-s6281f105e543404f.webp",
+      "id": "2026-10-25-news-2",
+      "source": "BBC News",
+      "time_ago": "Sun, 25 Oct 2026 09:00:00 GMT",
+      "mined_at": "2026-10-25T10:18:03+00:00",
+      "source_published_at": "Sun, 25 Oct 2026 09:00:00 GMT",
+      "image_url": "/article_images/news-s8a1f6d312d1a2ee6.webp",
       "category": "News",
-      "title": "Two Men Named Dan Sullivan Are on Alaska's Senate Ballot",
-      "summary": "Trump says he ordered a lawsuit that could stop Alaska's Senate result from being confirmed if the Republican incumbent loses."
+      "title": "Ukraine's Starlink Is Back at Full Speed After a Week of Limits",
+      "summary": "After more than a week of connection trouble, Ukraine's satellite internet is working at full speed again, and leaders on both sides are explaining what happened."
     },
     {
-      "id": "2026-10-24-news-3",
+      "id": "2026-10-25-news-3",
       "source": "PBS NewsHour",
-      "time_ago": "Fri, 23 Oct 2026 19:19:32 -0400",
-      "mined_at": "2026-10-24T10:51:20+00:00",
-      "source_published_at": "Fri, 23 Oct 2026 19:19:32 -0400",
-      "image_url": "/article_images/news-s0955bfddf2213996.webp",
+      "time_ago": "Sat, 24 Oct 2026 14:07:33 -0400",
+      "mined_at": "2026-10-25T10:18:03+00:00",
+      "source_published_at": "Sat, 24 Oct 2026 14:07:33 -0400",
+      "image_url": "/article_images/news-s018e53e4f25a45b3.webp",
       "category": "News",
-      "title": "U.S. Plans Tighter Rules on High-Tech Money Sent Abroad",
-      "summary": "Treasury has proposed wider limits on U.S. high-tech investments in countries of concern, but the rule is not final yet."
+      "title": "She Always Thought She Was a Citizen. Now She Faces a Voting Charge",
+      "summary": "Marva Cook, 66, of Syracuse, New York, says she only recently learned she was not born in the United States, and she has now been charged with voting illegally."
     }
   ]
 }

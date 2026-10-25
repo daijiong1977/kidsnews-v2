@@ -1,0 +1,126 @@
+{
+  "title": "A Moon City for a Million People? Scientists Say the Water Would Run Out",
+  "summary": "Could a million people live on the Moon? Two scientists ran the numbers, and their answer is: yes, but not for very long. The problem is not power. The problem is water.\n\nSpaceX chief Elon Musk has said his company is now focused on building a self-growing city on the Moon in less than 10 years, while a Mars city would take more than 20 years. Blue Origin chief Jeff Bezos has said millions of people will be living in space by 2045. Those claims caught the attention of Martin Elvis, an astrophysicist at Harvard University's Smithsonian Astrophysical Observatory, and Jonathan McDowell, an astrophysicist at Durham University in England.\n\nIn a paper in the journal Frontiers in Space Technologies, the pair looked at what a Moon settlement would need. For power, they found that solar and nuclear energy could support one million people on the lunar surface.\n\nWater is trickier. There is water on the Moon, mostly hidden in permanently shadowed regions near the poles. But the scientists found there is not enough of it for a huge population.\n\nAssuming the Moon holds about one billion tonnes of water, a city of one million people could last only about 100 years, and only if 98 percent of the water is recycled, the same rate as on the International Space Station. Elvis compared that water to a giant aquarium the size of Central Park in New York, filled until the Statue of Liberty would be just underwater. Huge, he said, but still only a small lake.\n\nA smaller settlement would fare better. A town of 10,000 people, the study found, could last for centuries. But Elvis said the one-billion-tonne estimate is probably far too high, perhaps 20 or 30 times too big. So do not start packing just yet.",
+  "why_it_matters": "Big plans for living in space sound exciting, but this study shows that a basic need like water can set the real limit, and checking the numbers matters before promises are believed.",
+  "image_url": "/article_images/news-s89d8dca4e6ac4877.webp",
+  "keywords": [
+    {
+      "term": "astrophysicist",
+      "explanation": "A scientist who studies stars, planets and space."
+    },
+    {
+      "term": "settlement",
+      "explanation": "A place where a group of people live and build a community."
+    },
+    {
+      "term": "lunar",
+      "explanation": "Having to do with the Moon."
+    },
+    {
+      "term": "recycled",
+      "explanation": "Used again instead of thrown away, after being cleaned or treated."
+    },
+    {
+      "term": "tonnes",
+      "explanation": "Units for measuring very heavy weights, each equal to 1,000 kilograms."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What did the two scientists say is the main problem for a Moon city of one million people?",
+      "options": [
+        "There is not enough power",
+        "There is not enough water",
+        "There is no sunlight on the Moon",
+        "There are not enough rockets"
+      ],
+      "correct_answer": "There is not enough water"
+    },
+    {
+      "question": "According to the article, how long could a city of one million people last if the Moon holds about one billion tonnes of water?",
+      "options": [
+        "About 10 years",
+        "About 1,000 years",
+        "Forever, with no recycling",
+        "About 100 years"
+      ],
+      "correct_answer": "About 100 years"
+    },
+    {
+      "question": "What recycling rate would the million-person city need to reach that lifetime?",
+      "options": [
+        "75 percent",
+        "98 percent",
+        "50 percent",
+        "100 percent"
+      ],
+      "correct_answer": "98 percent"
+    },
+    {
+      "question": "What did the scientists find about power for one million people on the Moon?",
+      "options": [
+        "Power would have to come from Mars",
+        "No power source would work",
+        "Only solar power would work",
+        "Solar and nuclear energy could support them"
+      ],
+      "correct_answer": "Solar and nuclear energy could support them"
+    },
+    {
+      "question": "How long could a town of 10,000 people on the Moon last, according to the study?",
+      "options": [
+        "For one month",
+        "For centuries",
+        "For exactly 100 years",
+        "Only a few years"
+      ],
+      "correct_answer": "For centuries"
+    },
+    {
+      "question": "What did Elvis say about the one-billion-tonne water estimate?",
+      "options": [
+        "It is probably far too high, perhaps 20 or 30 times too big",
+        "It is exactly right",
+        "It is far too low",
+        "It was never mentioned in the study"
+      ],
+      "correct_answer": "It is probably far too high, perhaps 20 or 30 times too big"
+    }
+  ],
+  "background_read": [
+    "A settlement is a place where people live, work and build a community far from home.",
+    "On the Moon there is no air to breathe and no ready supply of water, so a settlement would have to find, carry or reuse everything its people need.",
+    "Solar power uses sunlight to make energy, and nuclear power makes energy from atoms, so both can work on the Moon without fuel shipped from Earth.",
+    "Recycling water means cleaning and using the same water again and again, which matters most when there is no new water to replace it."
+  ],
+  "Article_Structure": [
+    "LEAD: Two scientists say a million-person Moon city could work, but not for very long, because water would run out.",
+    "KEY EVENT: Martin Elvis and Jonathan McDowell checked what a Moon settlement would need, in a paper in Frontiers in Space Technologies.",
+    "  ├─ WHO: Elon Musk, who wants a self-growing Moon city in less than 10 years, and Jeff Bezos, who says millions of people will live in space by 2045.",
+    "  ├─ WHAT: Solar and nuclear energy could support one million people, but there is not enough water for a huge population.",
+    "  └─ WHEN: A city of one million could last only about 100 years if 98 percent of its water is recycled.",
+    "EVIDENCE: Elvis compared the water to a giant aquarium the size of Central Park, filled until the Statue of Liberty would be just underwater, yet still only a small lake.",
+    "OPEN QUESTION: Elvis said the one-billion-tonne estimate is probably far too high, so a big Moon city may be even harder than the numbers suggest."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Elon Musk",
+      "description": "His company is focused on building a self-growing city on the Moon in less than 10 years, while a Mars city would take more than 20 years."
+    },
+    {
+      "perspective": "Jeff Bezos",
+      "description": "Millions of people will be living in space by 2045."
+    },
+    {
+      "perspective": "Martin Elvis and Jonathan McDowell",
+      "description": "Power could support one million people on the Moon, but water would run out in about 100 years, and the water estimate itself is probably far too high."
+    }
+  ],
+  "mined_at": "2026-10-25T10:18:03+00:00",
+  "source_published_at": "Sat, 24 Oct 2026 04:00:00 EDT",
+  "source_name": "CBC World",
+  "source_url": "https://www.cbc.ca/news/science/moon-civilization-water-9.7393267?cmp=rss",
+  "category": "News",
+  "source_word_count": 719,
+  "detail_status": "full"
+}

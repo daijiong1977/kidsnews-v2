@@ -1,0 +1,114 @@
+{
+  "title": "Scientists Find a Hidden Magnetic Web Above the Sun's Calm Regions",
+  "summary": "Above the parts of the Sun that look calm, astronomers have found a hidden web. Using a balloon-borne observatory called Sunrise-III, an international team led by the National Astronomical Observatory of Japan found a complex network of thin, thread-like magnetic structures above a quiet region of the Sun.\n\nQuiet regions cover most of the Sun, but quiet does not mean magnetically inactive. Their magnetic fields are generally weaker than those in active areas, and their fine structures are hard to measure from the ground, where turbulence in Earth's atmosphere blurs the details.\n\nDuring its 2024 mission, a high-altitude balloon carried Sunrise-III's 1-metre telescope to about 35 kilometres above Earth, into the stratosphere, where atmospheric interference is greatly reduced. There, the observatory studied the magnetic canopy, a network of magnetic fields that extends through the chromosphere, the layer above the Sun's visible surface, the photosphere.\n\nThe canopy is not smooth and uniform. Instead, it contains many narrow, thread-like features woven into the larger network. Computer simulations suggest surface movements twist magnetic field lines, creating the intricate structures higher up. Understanding this tangled canopy could help scientists investigate how energy from motions near the surface is transferred into higher layers.",
+  "why_it_matters": "The Sun affects life on Earth, so learning how it works helps us understand the star we depend on every day.",
+  "image_url": "/article_images/science-scdf22d3e76bd4ce3.webp",
+  "keywords": [
+    {
+      "term": "observatory",
+      "explanation": "An observatory is a place with telescopes for studying the sky."
+    },
+    {
+      "term": "stratosphere",
+      "explanation": "The stratosphere is a high layer of Earth's air, above the clouds."
+    },
+    {
+      "term": "chromosphere",
+      "explanation": "The chromosphere is the layer just above the Sun's visible surface."
+    },
+    {
+      "term": "photosphere",
+      "explanation": "The photosphere is the visible surface of the Sun."
+    },
+    {
+      "term": "canopy",
+      "explanation": "Here, the canopy is a wide network of magnetic fields stretching through a layer of the Sun."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What did astronomers find above quiet regions of the Sun?",
+      "options": [
+        "A second Sun",
+        "A giant storm",
+        "A hidden web of thin, thread-like magnetic structures",
+        "A new planet"
+      ],
+      "correct_answer": "A hidden web of thin, thread-like magnetic structures"
+    },
+    {
+      "question": "What carried Sunrise-III high above Earth?",
+      "options": [
+        "A high-altitude balloon",
+        "A satellite",
+        "A rocket",
+        "An airplane"
+      ],
+      "correct_answer": "A high-altitude balloon"
+    },
+    {
+      "question": "What is the magnetic canopy?",
+      "options": [
+        "A cloud over the Sun",
+        "A network of magnetic fields through the chromosphere",
+        "The Sun's hot core",
+        "A kind of telescope"
+      ],
+      "correct_answer": "A network of magnetic fields through the chromosphere"
+    },
+    {
+      "question": "What is the chromosphere?",
+      "options": [
+        "A planet near the Sun",
+        "Earth's atmosphere",
+        "The layer above the Sun's visible surface, the photosphere",
+        "The centre of the Sun"
+      ],
+      "correct_answer": "The layer above the Sun's visible surface, the photosphere"
+    },
+    {
+      "question": "Why is it hard to measure these structures from the ground?",
+      "options": [
+        "Turbulence in Earth's atmosphere blurs the details",
+        "The telescope is too small",
+        "The Sun hides at night",
+        "The Sun is too cold"
+      ],
+      "correct_answer": "Turbulence in Earth's atmosphere blurs the details"
+    },
+    {
+      "question": "What do computer simulations suggest?",
+      "options": [
+        "Surface movements twist magnetic field lines",
+        "The canopy is perfectly smooth",
+        "The magnetic fields come from the Moon",
+        "The Sun will stop shining"
+      ],
+      "correct_answer": "Surface movements twist magnetic field lines"
+    }
+  ],
+  "background_read": [
+    "The Sun has a magnetic field, and even its calm-looking areas are magnetically active.",
+    "A telescope carried high above Earth by a balloon can see fine details that Earth's shaky air blurs from the ground.",
+    "The magnetic canopy is the web of magnetic fields stretching through the layer above the Sun's visible surface."
+  ],
+  "Article_Structure": [
+    "WHO: An international team led by the National Astronomical Observatory of Japan.",
+    "WHAT: They found a hidden web of thin magnetic structures above a quiet region of the Sun.",
+    "WHERE: Above a quiet region of the Sun, observed from a balloon high above Earth.",
+    "WHY: Understanding the tangled canopy could help explain how energy moves into higher layers of the Sun."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Computer simulations",
+      "description": "Surface movements twist magnetic field lines, creating the intricate structures higher up."
+    }
+  ],
+  "mined_at": "2026-10-25T10:18:03+00:00",
+  "source_published_at": "Sat, 24 Oct 2026 08:23:38 EDT",
+  "source_name": "ScienceDaily Top Technology",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261023023723.htm",
+  "category": "Science",
+  "source_word_count": 605,
+  "detail_status": "full"
+}
