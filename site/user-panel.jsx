@@ -67,7 +67,7 @@ function UserButton({ tweaks, onClick, streak, level }) {
         fontSize:22, border:'2px solid #1b1230',
       }}>{av.emoji}</div>
       <div style={{textAlign:'left', lineHeight:1.1}}>
-        <div style={{fontWeight:900, fontSize:14, color:'#1b1230'}}>{tweaks.userName || 'Me'}</div>
+        <div style={{fontWeight:900, fontSize:14, color:'#1b1230'}}>{tweaks.userName || 'Guest'}</div>
         <div style={{fontSize:11, color:'#6b5c80', fontWeight:700, display:'flex', gap:6, alignItems:'center'}}>
           {tweaks.language === 'zh' ? (
             // Chinese mode: show flag + 中文; level is irrelevant

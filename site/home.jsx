@@ -1470,11 +1470,12 @@ function HomePage({ onOpen, onOpenArchive, onOpenSearch, onResume, level, setLev
         ) : (
           <div style={{
             display:'grid',
-            gridTemplateColumns:'repeat(auto-fill, minmax(280px, 1fr))',
+            gridTemplateColumns: narrow ? '1fr' : 'repeat(2, minmax(0, 1fr))',   // two equal cards
+            alignItems:'stretch',
             gap:20,
           }}>
             {filtered.map((a, i) => (
-              <ArticleCard key={a.id} article={a} onOpen={isZh ? null : ()=>onOpen(a.id)} read={_isDoneArticle(progress, a.id)} pct={_articlePct((progress.articleProgress||{})[a.id])} variant={i===0 && !isArchive ? 'feature' : 'normal'} />
+              <ArticleCard key={a.id} article={a} onOpen={isZh ? null : ()=>onOpen(a.id)} read={_isDoneArticle(progress, a.id)} pct={_articlePct((progress.articleProgress||{})[a.id])} variant="normal" />
             ))}
           </div>
         )}
