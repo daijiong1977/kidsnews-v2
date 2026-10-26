@@ -2301,16 +2301,17 @@ function KeywordTip({ term, def }) {
 // the article page for keywords, quiz and discussion.
 function FullStoryCard({ article, onOpen, read }) {
   const [body, setBody] = useStateH(null);
+  const [kw, setKw] = useStateH([]);
   useEffectH(() => {
     let off = false;
-    setBody(null);
+    setBody(null); setKw([]);
     const lvl = article.level === 'Sprout' ? 'easy' : 'middle';
     const base = article.archiveDate
       ? `${window.ARCHIVE_BASE}/${article.archiveDate}/article_payloads`
       : '/article_payloads';
     fetch(`${base}/payload_${article.storyId}/${lvl}.json`)
       .then(r => r.ok ? r.json() : Promise.reject(new Error('HTTP ' + r.status)))
-      .then(d => { if (!off) setBody(d.summary || ''); })
+      .then(d => { if (!off) { setKw((d.keywords || []).map(k => ({ term: k.term, def: k.explanation }))); setBody(d.summary || ''); } })
       .catch(() => { if (!off) setBody(''); });
     return () => { off = true; };
   }, [article.id]);
@@ -2333,7 +2334,7 @@ function FullStoryCard({ article, onOpen, read }) {
           <p style={{margin:0, color:'#9a8d7a', fontSize:14}}>Loading the story…</p>
         ) : paragraphs.map((para, i) => (
           <p key={i} style={{fontSize:16, color:'#2b2140', lineHeight:1.65, margin:0}}>
-            <HighlightedSummary text={para} keywords={article.keywords}/>
+            <HighlightedSummary text={para} keywords={kw.length ? kw : article.keywords}/>
           </p>
         ))}
         <button onClick={onOpen} style={{
