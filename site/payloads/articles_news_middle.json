@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-25-news-1",
-      "source": "CBC World",
-      "time_ago": "Sat, 24 Oct 2026 04:00:00 EDT",
-      "mined_at": "2026-10-25T10:18:03+00:00",
-      "source_published_at": "Sat, 24 Oct 2026 04:00:00 EDT",
-      "image_url": "/article_images/news-s89d8dca4e6ac4877.webp",
+      "id": "2026-10-26-news-1",
+      "source": "NPR World",
+      "time_ago": "Mon, 26 Oct 2026 05:00:00 -0400",
+      "mined_at": "2026-10-26T10:16:58+00:00",
+      "source_published_at": "Mon, 26 Oct 2026 05:00:00 -0400",
+      "image_url": "/article_images/news-sc964258b518da035.webp",
       "category": "News",
-      "title": "A Moon City for a Million People? Scientists Say the Water Would Run Out",
-      "summary": "Two scientists checked the numbers behind plans for a city on the Moon and found that power would be fine, but water would run out in about 100 years."
+      "title": "How Computers That Learn From Old Storms Are Helping Forecasters",
+      "summary": "An AI model correctly predicted Hurricane Isaias's path in early October, but human forecasters still blend models and explain the risks."
     },
     {
-      "id": "2026-10-25-news-2",
-      "source": "BBC News",
-      "time_ago": "Sun, 25 Oct 2026 09:00:00 GMT",
-      "mined_at": "2026-10-25T10:18:03+00:00",
-      "source_published_at": "Sun, 25 Oct 2026 09:00:00 GMT",
-      "image_url": "/article_images/news-s8a1f6d312d1a2ee6.webp",
+      "id": "2026-10-26-news-2",
+      "source": "NPR World",
+      "time_ago": "Mon, 26 Oct 2026 05:00:00 -0400",
+      "mined_at": "2026-10-26T10:16:58+00:00",
+      "source_published_at": "Mon, 26 Oct 2026 05:00:00 -0400",
+      "image_url": "/article_images/news-s09d55b82511ff5a6.webp",
       "category": "News",
-      "title": "Ukraine's Starlink Is Back at Full Speed After a Week of Limits",
-      "summary": "After more than a week of connection trouble, Ukraine's satellite internet is working at full speed again, and leaders on both sides are explaining what happened."
+      "title": "A Court Ruling, but Families Are Still Waiting for Visas",
+      "summary": "A judge ordered a visa ban lifted in August, but families like the Hoffmans are still waiting, lawyers say, as extra checks continue."
     },
     {
-      "id": "2026-10-25-news-3",
-      "source": "PBS NewsHour",
-      "time_ago": "Sat, 24 Oct 2026 14:07:33 -0400",
-      "mined_at": "2026-10-25T10:18:03+00:00",
-      "source_published_at": "Sat, 24 Oct 2026 14:07:33 -0400",
-      "image_url": "/article_images/news-s018e53e4f25a45b3.webp",
+      "id": "2026-10-26-news-3",
+      "source": "NPR World",
+      "time_ago": "Mon, 26 Oct 2026 05:00:00 -0400",
+      "mined_at": "2026-10-26T10:16:58+00:00",
+      "source_published_at": "Mon, 26 Oct 2026 05:00:00 -0400",
+      "image_url": "/article_images/news-sf3d34d27518b1ea8.webp",
       "category": "News",
-      "title": "She Always Thought She Was a Citizen. Now She Faces a Voting Charge",
-      "summary": "Marva Cook, 66, of Syracuse, New York, says she only recently learned she was not born in the United States, and she has now been charged with voting illegally."
+      "title": "Opening More Forest Land May Not Fix Loggers' Biggest Problems",
+      "summary": "Loggers say fuel costs, worker shortages and a shrunken industry matter more than opening roadless forests, even as a repeal is expected early next year."
     }
   ]
 }

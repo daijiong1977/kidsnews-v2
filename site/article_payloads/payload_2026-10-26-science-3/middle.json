@@ -1,0 +1,123 @@
+{
+  "title": "Circular Cities: Fix It, Reuse It, Don't Trash It",
+  "summary": "Suppose a seam splits on your shoe, or a favorite toy breaks. Do you throw it away — or fix it? Now imagine a whole city asking that question about almost everything.\n\nThat is the idea behind circular cities. Some 100 communities around the world are trying to keep materials in use for as long as possible, looping them into repairs, reuse, and recycling instead of sending them to the trash.\n\nMost products today follow a straight line: companies gather raw materials, factories build products, people use them until they break or go out of style, and then they are thrown away. Only a very small fraction get recycled. Circular cities aim for a closed loop instead. When something can be used again, it is. When there is waste, it is recycled, and recovered materials cut the cost and resources needed to make new things.\n\nLandfills are part of the problem. They are filling up, and most release methane, a greenhouse gas that drives climate change. Some also leak metals and toxic chemicals. Making replacement products creates still more pollution.\n\nAustin, Texas, shows what a city can do. Its Resource Recovery department runs a yearly toy-repair clinic, fix-it workshops, and online videos to help people keep valued things out of the trash. Fifteen years ago, Austin set a goal of diverting 90 percent of its waste from landfills by 2040.\n\nAmsterdam in the Netherlands hopes to have almost no waste by 2050. There, one clever project reuses rainwater under artificial grass fields: a layer beneath the turf catches the water, which later wicks upward and evaporates, cooling the surface for players and easing the load on the city's storm-water system.\n\nCity governments are also big buyers, which gives them power to push companies toward greener goods. Sacha Stolp, who heads innovation in Amsterdam's Future-Proof Assets Program, says that as big buyers, cities can ask companies for more valuable solutions. The message is simple: just because something is broken does not mean its use has to stop.",
+  "why_it_matters": "Throwaway habits fill landfills and drive pollution, so keeping things in use longer protects the climate and saves the materials needed to make replacements.",
+  "image_url": "/article_images/science-sa0c9d96b8b1f71dc.webp",
+  "keywords": [
+    {
+      "term": "circular",
+      "explanation": "Going around in a loop so things get used again instead of thrown away."
+    },
+    {
+      "term": "raw materials",
+      "explanation": "Basic natural materials used to make products."
+    },
+    {
+      "term": "methane",
+      "explanation": "A gas that traps heat and drives climate change."
+    },
+    {
+      "term": "landfills",
+      "explanation": "Places where trash is buried in the ground."
+    },
+    {
+      "term": "diverting",
+      "explanation": "Sending something away from where it would normally go."
+    },
+    {
+      "term": "turf",
+      "explanation": "The artificial grass layer on a sports field."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is the idea behind circular cities?",
+      "options": [
+        "Build more landfills",
+        "Throw away everything that breaks",
+        "Ban all new products",
+        "Keep materials in use as long as possible through repairs, reuse, and recycling"
+      ],
+      "correct_answer": "Keep materials in use as long as possible through repairs, reuse, and recycling"
+    },
+    {
+      "question": "What happens to most products today?",
+      "options": [
+        "They are recycled in full",
+        "They are sent back to factories",
+        "They are repaired by the city",
+        "They are used until they break or go out of style, then thrown away"
+      ],
+      "correct_answer": "They are used until they break or go out of style, then thrown away"
+    },
+    {
+      "question": "Why are landfills part of the problem?",
+      "options": [
+        "They cool the ground beneath them",
+        "They make new products cheaper",
+        "They reuse rainwater",
+        "Most release methane, a greenhouse gas that drives climate change"
+      ],
+      "correct_answer": "Most release methane, a greenhouse gas that drives climate change"
+    },
+    {
+      "question": "What does Austin run to help people keep things out of the trash?",
+      "options": [
+        "A factory for new toys",
+        "A landfill expansion program",
+        "A rainwater cooling project under sports fields",
+        "A yearly toy-repair clinic, fix-it workshops, and online videos"
+      ],
+      "correct_answer": "A yearly toy-repair clinic, fix-it workshops, and online videos"
+    },
+    {
+      "question": "What does Amsterdam's artificial grass project do?",
+      "options": [
+        "It bans landfills by 2040",
+        "It builds new storm-water pipes",
+        "It repairs toys once a year",
+        "It reuses rainwater under artificial grass fields to cool the surface"
+      ],
+      "correct_answer": "It reuses rainwater under artificial grass fields to cool the surface"
+    },
+    {
+      "question": "Why can city governments push companies toward greener goods?",
+      "options": [
+        "They are big buyers",
+        "They run the recycling trucks",
+        "They set national laws",
+        "They own the factories"
+      ],
+      "correct_answer": "They are big buyers"
+    }
+  ],
+  "background_read": [
+    "Most things we buy are made, used for a while, and then thrown away, which fills landfills and wastes the materials inside them.",
+    "A circular city tries to break that pattern by keeping products and materials in use through repair, reuse, and recycling.",
+    "Repair clinics and fix-it workshops help people mend broken things instead of replacing them.",
+    "When cities buy goods in large amounts, they can also push companies to make products that last longer and are easier to reuse."
+  ],
+  "Article_Structure": [
+    "LEAD: Circular cities ask whether broken things should be fixed and reused instead of thrown away",
+    "KEY EVENT: Some 100 communities are trying to keep materials in use",
+    "  ├─ PROBLEM: Most products follow a straight line to the trash, and only a very small fraction get recycled",
+    "  ├─ WHY IT MATTERS: Landfills release methane and leak metals and toxic chemicals",
+    "  ├─ EXAMPLE: Austin runs a yearly toy-repair clinic, fix-it workshops, and online videos",
+    "  └─ EXAMPLE: Amsterdam reuses rainwater under artificial grass fields to cool the surface",
+    "EVIDENCE: City governments are big buyers, so they can push companies toward greener goods",
+    "OPEN QUESTION: Whether cities can reach goals like almost no waste by 2050"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Sacha Stolp, who heads innovation in Amsterdam's Future-Proof Assets Program",
+      "description": "Says that as big buyers, cities can ask companies for more valuable solutions."
+    }
+  ],
+  "mined_at": "2026-10-26T10:16:58+00:00",
+  "source_published_at": "Thu, 22 Oct 2026 10:30:00 +0000",
+  "source_name": "Science News Explores",
+  "source_url": "https://www.snexplores.org/article/circular-cities-go-green-reuse-recycle",
+  "category": "Science",
+  "source_word_count": 717,
+  "detail_status": "full"
+}
