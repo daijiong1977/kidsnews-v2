@@ -1474,8 +1474,9 @@ function HomePage({ onOpen, onOpenArchive, onOpenSearch, onResume, level, setLev
             alignItems:'stretch',
             gap:20,
           }}>
-            {filtered.map((a, i) => (
-              <ArticleCard key={a.id} article={a} onOpen={isZh ? null : ()=>onOpen(a.id)} read={_isDoneArticle(progress, a.id)} pct={_articlePct((progress.articleProgress||{})[a.id])} variant="normal" />
+            {filtered.map((a, i) => (isZh
+              ? <ArticleCard key={a.id} article={a} onOpen={null} read={_isDoneArticle(progress, a.id)} pct={_articlePct((progress.articleProgress||{})[a.id])} variant="normal" />
+              : <FullStoryCard key={a.id} article={a} onOpen={()=>onOpen(a.id)} read={_isDoneArticle(progress, a.id)}/>
             ))}
           </div>
         )}
@@ -2292,6 +2293,55 @@ function KeywordTip({ term, def }) {
         document.body
       )}
     </span>
+  );
+}
+
+// Front page story: the whole article is printed on the home page (no summary-only card).
+// The body is the same text the article page shows (payload `summary`); the button opens
+// the article page for keywords, quiz and discussion.
+function FullStoryCard({ article, onOpen, read }) {
+  const [body, setBody] = useStateH(null);
+  useEffectH(() => {
+    let off = false;
+    setBody(null);
+    const lvl = article.level === 'Sprout' ? 'easy' : 'middle';
+    const base = article.archiveDate
+      ? `${window.ARCHIVE_BASE}/${article.archiveDate}/article_payloads`
+      : '/article_payloads';
+    fetch(`${base}/payload_${article.storyId}/${lvl}.json`)
+      .then(r => r.ok ? r.json() : Promise.reject(new Error('HTTP ' + r.status)))
+      .then(d => { if (!off) setBody(d.summary || ''); })
+      .catch(() => { if (!off) setBody(''); });
+    return () => { off = true; };
+  }, [article.id]);
+  const text = body === null ? '' : (body || article.summary || '');
+  const paragraphs = text.split(/\n\s*\n/).map(x => x.trim()).filter(Boolean);
+  return (
+    <article style={{
+      background:'#fff', border:'2px solid #f0e8d8', borderRadius:22, overflow:'hidden',
+      boxShadow:'0 4px 0 rgba(27,18,48,0.06)', display:'flex', flexDirection:'column', minWidth:0,
+    }}>
+      <div style={{background:`url(${article.image}) center/cover`, aspectRatio:'16/10', width:'100%', position:'relative'}}>
+        {read && <div style={{position:'absolute', top:10, right:10}}><ProgressBadge pct={100}/></div>}
+      </div>
+      <div style={{padding:'18px 20px 20px', display:'flex', flexDirection:'column', gap:12, flex:'1 1 auto'}}>
+        <h3 style={{fontFamily:'Fraunces, serif', fontWeight:800, fontSize:24, lineHeight:1.15, letterSpacing:'-0.01em', color:'#1b1230', margin:0}}>{article.title}</h3>
+        <div style={{fontSize:12, color:'#9a8d7a', fontWeight:700}}>
+          {article.source ? article.source + ' · ' : ''}⏱ {article.readMins} min
+        </div>
+        {body === null ? (
+          <p style={{margin:0, color:'#9a8d7a', fontSize:14}}>Loading the story…</p>
+        ) : paragraphs.map((para, i) => (
+          <p key={i} style={{fontSize:16, color:'#2b2140', lineHeight:1.65, margin:0}}>
+            <HighlightedSummary text={para} keywords={article.keywords}/>
+          </p>
+        ))}
+        <button onClick={onOpen} style={{
+          marginTop:'auto', alignSelf:'flex-start', background:'#1b1230', color:'#fff', border:'none',
+          borderRadius:999, padding:'10px 18px', fontWeight:800, fontSize:14, cursor:'pointer', fontFamily:'Nunito, sans-serif',
+        }}>Keywords, quiz & more →</button>
+      </div>
+    </article>
   );
 }
 
