@@ -1,0 +1,122 @@
+{
+  "title": "Candidates Race Toward Election Day",
+  "summary": "With Election Day just over a week away, candidates are working hard. Control of Congress is at stake in the midterm elections, and big names hit the campaign trail.\n\nOn Monday, President Donald Trump campaigned in Mississippi, a state he won two years ago. In Michigan, a tight Senate race will help decide which party controls the Senate. It pits Republican Mike Rogers against Democrat Abdul El-Sayed, who would be the nation's first Muslim senator.\n\nTrump attacked El-Sayed's faith and said he would be a threat to national security. El-Sayed answered that the attacks were a distraction from voters' concerns about the economy. Rogers stood by his claims linking El-Sayed to the Muslim Brotherhood, though there is no evidence of a link.\n\nObama rallied voters in Michigan and Ohio on Saturday. He said Trump was responsible for rising costs because of the war with Iran. Obama also joked about Trump's Washington, D.C., renovation projects and all the gold.\n\nLate Monday, a federal appeals court denied a Justice Department request to block California from counting some 20,000 mail-in ballots.",
+  "why_it_matters": "Elections decide who makes rules that can affect your school, your family, and the prices your family pays.",
+  "image_url": "/article_images/news-s76b032c413aa0e48.webp",
+  "keywords": [
+    {
+      "term": "midterm",
+      "explanation": "About an election that happens between presidential elections."
+    },
+    {
+      "term": "Congress",
+      "explanation": "The group of elected lawmakers who make laws for the country."
+    },
+    {
+      "term": "Senate",
+      "explanation": "One part of Congress that helps decide which party is in control."
+    },
+    {
+      "term": "appeals",
+      "explanation": "About a court that reviews decisions made by another court."
+    },
+    {
+      "term": "mail-in",
+      "explanation": "Votes that people send in by mail instead of voting in person."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is at stake in the midterm elections in this story?",
+      "options": [
+        "The subway in New York",
+        "Control of Congress",
+        "A single Senate seat in Mississippi",
+        "A court in California"
+      ],
+      "correct_answer": "Control of Congress"
+    },
+    {
+      "question": "Where did Trump campaign on Monday?",
+      "options": [
+        "California",
+        "Ohio",
+        "Mississippi",
+        "Michigan"
+      ],
+      "correct_answer": "Mississippi"
+    },
+    {
+      "question": "Who are the candidates in the tight Michigan Senate race?",
+      "options": [
+        "El-Sayed and Obama",
+        "Trump and Obama",
+        "Mike Rogers and Abdul El-Sayed",
+        "Rogers and Trump"
+      ],
+      "correct_answer": "Mike Rogers and Abdul El-Sayed"
+    },
+    {
+      "question": "What did El-Sayed say the attacks on him were?",
+      "options": [
+        "A threat to national security",
+        "Evidence of a link",
+        "A joke about gold",
+        "A distraction from voters' concerns about the economy"
+      ],
+      "correct_answer": "A distraction from voters' concerns about the economy"
+    },
+    {
+      "question": "What did a federal appeals court do late Monday?",
+      "options": [
+        "Denied a request to count mail-in ballots in Michigan",
+        "Approved a request from Michigan voters",
+        "Denied a request to block California from counting some mail-in ballots",
+        "Blocked California from counting mail-in ballots"
+      ],
+      "correct_answer": "Denied a request to block California from counting some mail-in ballots"
+    },
+    {
+      "question": "What did Obama do on Saturday?",
+      "options": [
+        "Campaigned in Mississippi on Monday",
+        "Attacked El-Sayed's faith",
+        "Rallied voters in Michigan and Ohio",
+        "Stood by claims about the Muslim Brotherhood"
+      ],
+      "correct_answer": "Rallied voters in Michigan and Ohio"
+    }
+  ],
+  "background_read": [
+    "In midterm elections, voters choose members of Congress, and the party that wins more seats gains control.",
+    "Candidates travel and speak to voters to win support, and close races in states like Michigan can help decide which party controls the Senate.",
+    "Mail-in ballots are votes sent by mail, and courts can decide rules about whether they are counted."
+  ],
+  "Article_Structure": [
+    "WHO: Candidates including Donald Trump, Obama, Mike Rogers, and Abdul El-Sayed.",
+    "WHAT: Campaigning ahead of Election Day, with control of Congress at stake in the midterm elections.",
+    "WHERE: Mississippi, Michigan, Ohio, California, and Washington, D.C.",
+    "WHY: Candidates are campaigning to win votes in races that will decide which party controls Congress and the Senate."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Trump",
+      "description": "He attacked El-Sayed's faith and said he would be a threat to national security."
+    },
+    {
+      "perspective": "El-Sayed",
+      "description": "He answered that the attacks were a distraction from voters' concerns about the economy."
+    },
+    {
+      "perspective": "Obama",
+      "description": "He said Trump was responsible for rising costs because of the war with Iran."
+    }
+  ],
+  "mined_at": "2026-10-27T10:23:18+00:00",
+  "source_published_at": "Mon, 26 Oct 2026 18:55:02 -0400",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/show/candidates-enter-final-week-of-campaigning-with-control-of-congress-at-stake",
+  "category": "News",
+  "source_word_count": 559,
+  "detail_status": "full"
+}

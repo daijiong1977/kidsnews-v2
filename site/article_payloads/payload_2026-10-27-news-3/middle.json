@@ -1,0 +1,131 @@
+{
+  "title": "Candidates Hit Crunch Time With One Week Until Election Day",
+  "summary": "With Election Day just over a week away, candidates across the United States are in crunch time. Control of Congress is at stake in the midterm elections, and the biggest names in both parties hit the campaign trail this weekend.\n\nOn Monday, President Donald Trump campaigned in Mississippi, a state he won by almost 23 points two years ago. Over the weekend, the battleground state of Michigan hosted a political heavyweight bout between Trump and former President Barack Obama.\n\nIn Michigan, a tight Senate race will help decide which party controls the Senate. The contest pits former Republican Congressman Mike Rogers against Democrat Abdul El-Sayed, who would be the nation's first Muslim senator. Trump attacked El-Sayed's faith and said he would be a threat to national security. El-Sayed answered that the attacks were a distraction from voters' concerns about the economy. Rogers, in an interview on NBC's 'Meet the Press,' stood by his claims linking El-Sayed to the Muslim Brotherhood, even though there is no evidence El-Sayed has any affiliation with the group.\n\nObama rallied Democratic voters in Michigan and Ohio on Saturday, telling crowds that Trump was responsible for rising costs because of the war with Iran. He said the current president chose to start an unnecessary war that nobody voted for. Obama also poked fun at Trump's focus on his Washington, D.C., renovation projects, joking about all the gold.\n\nVoters waiting in line at the rallies spoke about what will draw them to the polls. One Michigan resident said he was there for the future of the country, because the nation is at a crossroads.\n\nLate Monday, in a separate development, a federal appeals court denied a Justice Department request to block California from counting some 20,000 mail-in ballots from voters it alleges are potential non-citizens.",
+  "why_it_matters": "The midterm elections will decide which party controls Congress, and that shapes the laws that affect people's daily lives, including the economy voters are worried about.",
+  "image_url": "/article_images/news-s76b032c413aa0e48.webp",
+  "keywords": [
+    {
+      "term": "midterm",
+      "explanation": "An election held in the middle of a president's term, when control of Congress is at stake."
+    },
+    {
+      "term": "battleground",
+      "explanation": "A state where the result is close and either party could win."
+    },
+    {
+      "term": "campaign trail",
+      "explanation": "The trips and rallies candidates make to win votes."
+    },
+    {
+      "term": "affiliation",
+      "explanation": "A connection with, or membership of, a group."
+    },
+    {
+      "term": "appeals court",
+      "explanation": "A court that reviews decisions made by lower courts."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is at stake in the midterm elections?",
+      "options": [
+        "The World Cup",
+        "A new state flag",
+        "Control of Congress",
+        "The presidency"
+      ],
+      "correct_answer": "Control of Congress"
+    },
+    {
+      "question": "Where did Trump campaign on Monday?",
+      "options": [
+        "Mississippi",
+        "Michigan",
+        "Ohio",
+        "California"
+      ],
+      "correct_answer": "Mississippi"
+    },
+    {
+      "question": "In the Michigan Senate race, who is the Democrat?",
+      "options": [
+        "Abdul El-Sayed",
+        "Donald Trump",
+        "Mike Rogers",
+        "Barack Obama"
+      ],
+      "correct_answer": "Abdul El-Sayed"
+    },
+    {
+      "question": "What did El-Sayed say about Trump's attacks?",
+      "options": [
+        "They were fair",
+        "They were about the war with Iran",
+        "They were a distraction from voters' concerns about the economy",
+        "They were a joke about gold"
+      ],
+      "correct_answer": "They were a distraction from voters' concerns about the economy"
+    },
+    {
+      "question": "What did Rogers stand by in his NBC interview?",
+      "options": [
+        "His plan to count ballots",
+        "His support for El-Sayed",
+        "His criticism of Trump",
+        "His claims linking El-Sayed to the Muslim Brotherhood"
+      ],
+      "correct_answer": "His claims linking El-Sayed to the Muslim Brotherhood"
+    },
+    {
+      "question": "Late Monday, what did a federal appeals court deny?",
+      "options": [
+        "A request to close the polls",
+        "A request to count votes in Michigan",
+        "A request to stop the election",
+        "A Justice Department request to block California from counting some 20,000 mail-in ballots"
+      ],
+      "correct_answer": "A Justice Department request to block California from counting some 20,000 mail-in ballots"
+    }
+  ],
+  "background_read": [
+    "A midterm election is an election held partway through a president's time in office, when control of Congress is at stake.",
+    "Congress is the law-making body, and the Senate is one of its two parts; a Senate race can help decide which party controls it.",
+    "Candidates travel to campaign in states where races are tight, holding rallies to win over voters.",
+    "Mail-in ballots are votes sent by mail rather than cast in person, and courts can be asked to decide whether they should be counted."
+  ],
+  "Article_Structure": [
+    "LEAD: With Election Day just over a week away, candidates are in crunch time as control of Congress is at stake.",
+    "KEY EVENT: Trump and Obama campaigned in battleground states, and a tight Michigan Senate race took center stage.",
+    "  ├─ WHO: President Donald Trump, former President Barack Obama, Mike Rogers and Abdul El-Sayed.",
+    "  ├─ WHERE: Mississippi, Michigan and Ohio.",
+    "  ├─ WHEN: This weekend and Monday, with Election Day just over a week away.",
+    "  └─ WHAT: Campaign rallies, attacks over faith and the economy, and a court decision on California mail-in ballots.",
+    "EVIDENCE: Trump campaigned in Mississippi, a state he won by almost 23 points two years ago; Rogers stood by his claims on 'Meet the Press' even though there is no evidence of affiliation.",
+    "OPEN QUESTION: Which party will control the Senate after the tight Michigan race."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Donald Trump",
+      "description": "El-Sayed would be a threat to national security."
+    },
+    {
+      "perspective": "Abdul El-Sayed",
+      "description": "The attacks were a distraction from voters' concerns about the economy."
+    },
+    {
+      "perspective": "Barack Obama",
+      "description": "Trump was responsible for rising costs because of the war with Iran."
+    },
+    {
+      "perspective": "Mike Rogers",
+      "description": "He stood by his claims linking El-Sayed to the Muslim Brotherhood."
+    }
+  ],
+  "mined_at": "2026-10-27T10:23:18+00:00",
+  "source_published_at": "Mon, 26 Oct 2026 18:55:02 -0400",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/show/candidates-enter-final-week-of-campaigning-with-control-of-congress-at-stake",
+  "category": "News",
+  "source_word_count": 559,
+  "detail_status": "full"
+}

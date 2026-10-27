@@ -1,0 +1,122 @@
+{
+  "title": "Record-Breaking Cosmic Blast Kept Flaring for 27 Days",
+  "summary": "Astronomers have found a cosmic explosion that refused to quit. The blast, called GRB 220706A, was first spotted on July 6, 2022, and its central engine kept flaring in X-rays for around 27 days.\n\nThat is about 20 days longer than the previous record for this kind of delayed flaring, which was about six days. Gamma-ray bursts, or GRBs, are among the most powerful explosions in the cosmos.\n\nLong GRBs have been linked to the collapse of a massive star, which also triggers a supernova and creates a black hole. GRB 220706A is an ultra-long GRB, a rare type in which the engine stays active for longer, and its cause is still unknown.\n\nStudy team member Benjamin Gompertz, of the University of Birmingham in England, said X-ray flaring after a GRB is common, but it had always come within the first few days. Seeing flaring at around 27 days in the burst's rest frame, he said, tells scientists that an ongoing active process is at work, which is unprecedented in the known population.\n\nGompertz said the team does not know what central engine is driving this outburst, and that mystery is what makes the event so compelling. The supernova tells scientists that a star collapsed, the standard power source for GRBs, but that alone does not immediately explain the extremely late flaring or the unusually bright supernova.\n\nOne possibility is a magnetar, a neutron star with a particularly powerful magnetic field. Gompertz said the new supernova looks a lot like the one linked to another ultra-long GRB from 2011, GRB 111209A, which was determined to be powered by a magnetar.",
+  "why_it_matters": "This record-breaking burst challenges what scientists thought they knew about how cosmic explosions power themselves, and solving its mystery could reshape their picture of collapsing stars and the engines they leave behind.",
+  "image_url": "/article_images/science-s1f73b173d9f1fa31.webp",
+  "keywords": [
+    {
+      "term": "Gamma-ray bursts",
+      "explanation": "Huge explosions in space that send out powerful bursts of energy."
+    },
+    {
+      "term": "supernova",
+      "explanation": "The giant explosion of a dying star."
+    },
+    {
+      "term": "magnetar",
+      "explanation": "A kind of neutron star with an extremely strong magnetic field."
+    },
+    {
+      "term": "central engine",
+      "explanation": "The power source at the heart of a cosmic explosion that keeps it going."
+    },
+    {
+      "term": "rest frame",
+      "explanation": "The point of view of the explosion itself, as if you were moving along with it."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is GRB 220706A?",
+      "options": [
+        "A newly discovered planet",
+        "A kind of neutron star",
+        "A cosmic explosion first spotted on July 6, 2022",
+        "A telescope in England"
+      ],
+      "correct_answer": "A cosmic explosion first spotted on July 6, 2022"
+    },
+    {
+      "question": "For about how long did its central engine keep flaring in X-rays?",
+      "options": [
+        "About 20 days",
+        "Around 27 days",
+        "A few hours",
+        "About six days"
+      ],
+      "correct_answer": "Around 27 days"
+    },
+    {
+      "question": "What was the previous record for this kind of delayed flaring?",
+      "options": [
+        "Around 27 days",
+        "About 20 days",
+        "About six days",
+        "A few days over a month"
+      ],
+      "correct_answer": "About six days"
+    },
+    {
+      "question": "What are long gamma-ray bursts linked to?",
+      "options": [
+        "The birth of a new galaxy",
+        "A magnetar exploding",
+        "A comet hitting a planet",
+        "The collapse of a massive star"
+      ],
+      "correct_answer": "The collapse of a massive star"
+    },
+    {
+      "question": "What does the supernova tell scientists in this case?",
+      "options": [
+        "That a star collapsed",
+        "That the burst will repeat",
+        "That a magnetar was born",
+        "That a black hole disappeared"
+      ],
+      "correct_answer": "That a star collapsed"
+    },
+    {
+      "question": "What is one possible central engine for this outburst?",
+      "options": [
+        "A collapsing galaxy",
+        "A gamma-ray telescope",
+        "A supernova remnant",
+        "A magnetar"
+      ],
+      "correct_answer": "A magnetar"
+    }
+  ],
+  "background_read": [
+    "A gamma-ray burst is one of the most powerful explosions known, flashing with intense energy from deep space.",
+    "Long bursts are linked to the collapse of a massive star, which also sets off a supernova and can leave behind a black hole.",
+    "In an ultra-long burst, the central engine stays active far longer than usual, so scientists study the fading light to work out what keeps powering it.",
+    "Because this burst's late flaring does not fit the usual pattern, researchers are testing ideas such as a magnetar, a neutron star with a very strong magnetic field."
+  ],
+  "Article_Structure": [
+    "LEAD: Astronomers found a cosmic explosion, GRB 220706A, whose engine kept flaring for around 27 days.",
+    "KEY EVENT: The central engine flared in X-rays far longer than ever seen before.",
+    "  ├─ WHO: Astronomers and study team member Benjamin Gompertz of the University of Birmingham",
+    "  ├─ WHEN: First spotted on July 6, 2022, with flaring at around 27 days in the burst's rest frame",
+    "  └─ RECORD: About 20 days longer than the previous record of about six days",
+    "EVIDENCE: Long GRBs are linked to a collapsing massive star, a supernova and a black hole; the new supernova looks like the one linked to GRB 111209A",
+    "OPEN QUESTION: What central engine is driving the outburst, with a magnetar as one possibility"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Study team member Benjamin Gompertz",
+      "description": "Flaring at around 27 days shows an ongoing active process is at work, which is unprecedented in the known population."
+    },
+    {
+      "perspective": "Study team member Benjamin Gompertz",
+      "description": "A magnetar is one possible central engine, since the new supernova looks a lot like the one linked to GRB 111209A."
+    }
+  ],
+  "mined_at": "2026-10-27T10:23:18+00:00",
+  "source_published_at": "Mon, 26 Oct 2026 17:00:00 +0000",
+  "source_name": "Space.com",
+  "source_url": "https://www.space.com/science/astrophysics/record-breaker-astronomers-spot-powerful-cosmic-explosion-that-lasted-27-days",
+  "category": "Science",
+  "source_word_count": 699,
+  "detail_status": "full"
+}

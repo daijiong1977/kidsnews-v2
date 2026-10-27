@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-26-science-1",
-      "source": "ScienceDaily All",
-      "time_ago": "Sun, 25 Oct 2026 22:41:13 EDT",
-      "mined_at": "2026-10-26T10:16:58+00:00",
-      "source_published_at": "Sun, 25 Oct 2026 22:41:13 EDT",
-      "image_url": "/article_images/science-s3db1d8e6fe383592.webp",
+      "id": "2026-10-27-science-1",
+      "source": "Space.com",
+      "time_ago": "Mon, 26 Oct 2026 17:00:00 +0000",
+      "mined_at": "2026-10-27T10:23:18+00:00",
+      "source_published_at": "Mon, 26 Oct 2026 17:00:00 +0000",
+      "image_url": "/article_images/science-s1f73b173d9f1fa31.webp",
       "category": "Science",
-      "title": "A Paint-On Liquid Can Stop Cavities",
-      "summary": "A paint-on liquid called SDF can stop cavities in young children without drilling, a big trial has confirmed."
+      "title": "A Space Blast That Kept Flashing for 27 Days",
+      "summary": "Astronomers found GRB 220706A, whose engine flashed in X-rays for around 27 days, far longer than the old record, and scientists still do not know what powered it."
     },
     {
-      "id": "2026-10-26-science-2",
-      "source": "Smithsonian Science-Nature",
-      "time_ago": "Wed, 21 Oct 2026 19:00:00 +0000",
-      "mined_at": "2026-10-26T10:16:58+00:00",
-      "source_published_at": "Wed, 21 Oct 2026 19:00:00 +0000",
-      "image_url": "/article_images/science-s7df7329145e575a8.webp",
+      "id": "2026-10-27-science-2",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Mon, 26 Oct 2026 06:50:11 EDT",
+      "mined_at": "2026-10-27T10:23:18+00:00",
+      "source_published_at": "Mon, 26 Oct 2026 06:50:11 EDT",
+      "image_url": "/article_images/science-s67b65fe527d8e75f.webp",
       "category": "Science",
-      "title": "Green Sea Turtles Are Making a Comeback",
-      "summary": "Green sea turtles are bouncing back at Aldabra and around the world, but some groups still need help."
+      "title": "Meet D-Rex, a Giant Fungus",
+      "summary": "Scientists found a giant fungus in Yunnan nicknamed D-rex, whose family may have begun just after the dinosaurs died out."
     },
     {
-      "id": "2026-10-26-science-3",
-      "source": "Science News Explores",
-      "time_ago": "Thu, 22 Oct 2026 10:30:00 +0000",
-      "mined_at": "2026-10-26T10:16:58+00:00",
-      "source_published_at": "Thu, 22 Oct 2026 10:30:00 +0000",
-      "image_url": "/article_images/science-sa0c9d96b8b1f71dc.webp",
+      "id": "2026-10-27-science-3",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Mon, 26 Oct 2026 05:51:15 EDT",
+      "mined_at": "2026-10-27T10:23:18+00:00",
+      "source_published_at": "Mon, 26 Oct 2026 05:51:15 EDT",
+      "image_url": "/article_images/science-s57c7657c2a4517fd.webp",
       "category": "Science",
-      "title": "Circular Cities: Fix It, Don't Trash It",
-      "summary": "Circular cities keep materials in use through repair, reuse, and recycling instead of throwing things away."
+      "title": "A Shipwreck That May Be the World's Oldest",
+      "summary": "A wreck off Kekova, Turkey, may date to 2700-2400 BCE from its pottery cargo, but the dating is still being checked and has not yet been peer-reviewed."
     }
   ]
 }

@@ -1,0 +1,123 @@
+{
+  "title": "Student-Led Movement Topples Serbia's Longtime Leader",
+  "summary": "Brazil was not the only country with dramatic election news this weekend. In Serbia, a small country in southeastern Europe with under seven million people, longtime leader Aleksandar Vucic lost a historic election on Sunday that brought down his government.\n\nWhat makes this result extraordinary, experts say, is how it happened. The movement that defeated Vucic was led by students. It had no single leader. It was decentralized — spread out rather than run from the top — and digitally savvy, using online tools to organize. And it brought down a leader who held tight control over Serbia's economic and political power.\n\nThe protesters' main focus was corruption in government, an issue that is becoming a global concern. Vucic had once served in the cabinet of Slobodan Milosevic, a former Serbian leader. The student movement's win follows a recent election in Hungary that brought in a new leader who also fought corruption, and it is seen as a setback for Russia and China, two countries that strongly influenced Serbia.\n\nThis was not a race between Vucic and one rival candidate. It was a parliamentary election, meaning voters chose parties, not a single president. When polls showed his party losing badly, Vucic conceded peacefully — a move that surprised observers, who often expect powerful leaders to cling to power. There was an hour when Serbia's electoral commission did not release results, but officials then acknowledged the scale of the loss.\n\nThe big question now is what comes next. If the student-led movement, which has no single leader, cannot form a government, Vucic's side still holds many levers of power and could fight another day. For now, though, the win belongs to the people of Serbia — and to a young movement that connected the dots with youth protests across Europe.",
+  "why_it_matters": "It shows that a student-led movement can bring down a powerful leader. It also matters because corruption in government is becoming a global concern.",
+  "image_url": "/article_images/news-s42a84028a5547e86.webp",
+  "keywords": [
+    {
+      "term": "decentralized",
+      "explanation": "Spread out, not run by one person at the top."
+    },
+    {
+      "term": "parliamentary",
+      "explanation": "To do with a parliament, where voters choose parties that form a government."
+    },
+    {
+      "term": "corruption",
+      "explanation": "Dishonest use of power in government, often for personal gain."
+    },
+    {
+      "term": "conceded",
+      "explanation": "Admitted defeat in an election."
+    },
+    {
+      "term": "electoral commission",
+      "explanation": "The group that runs an election and counts the results."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What kind of election was held in Serbia?",
+      "options": [
+        "A vote for a single president",
+        "A vote on a new flag",
+        "A student council election",
+        "A parliamentary election"
+      ],
+      "correct_answer": "A parliamentary election"
+    },
+    {
+      "question": "Who led the movement that defeated Vucic?",
+      "options": [
+        "The army",
+        "Russia and China",
+        "A single rival candidate",
+        "Students"
+      ],
+      "correct_answer": "Students"
+    },
+    {
+      "question": "What was the protesters' main focus?",
+      "options": [
+        "The war with Iran",
+        "Corruption in government",
+        "Rising food prices",
+        "A new subway line"
+      ],
+      "correct_answer": "Corruption in government"
+    },
+    {
+      "question": "What did Vucic do when polls showed his party losing badly?",
+      "options": [
+        "He conceded peacefully",
+        "He left the country",
+        "He called a new election",
+        "He refused to accept the result"
+      ],
+      "correct_answer": "He conceded peacefully"
+    },
+    {
+      "question": "What happened with Serbia's electoral commission, according to the article?",
+      "options": [
+        "It did not release results for an hour",
+        "It chose the new leader",
+        "It stopped the election",
+        "It changed the results"
+      ],
+      "correct_answer": "It did not release results for an hour"
+    },
+    {
+      "question": "What is the big question now, according to the article?",
+      "options": [
+        "Whether the student-led movement can form a government",
+        "Whether Vucic won the election",
+        "Whether the movement had a single leader",
+        "Whether Hungary voted in Serbia's election"
+      ],
+      "correct_answer": "Whether the student-led movement can form a government"
+    }
+  ],
+  "background_read": [
+    "A parliamentary election is a vote in which people choose parties, and those parties then form a government, rather than voting directly for one leader.",
+    "Corruption in government means public power is used dishonestly, and it was the main focus of the protesters.",
+    "A decentralized movement has no single leader at the top; instead, many people organize in different places, here using online tools.",
+    "Serbia is a small country in southeastern Europe, and its longtime leader had held tight control over its economic and political power."
+  ],
+  "Article_Structure": [
+    "LEAD: A historic election in Serbia brought down longtime leader Aleksandar Vucic's government.",
+    "KEY EVENT: A student-led, decentralized movement defeated Vucic.",
+    "  ├─ WHO: Students, with no single leader, using online tools to organize.",
+    "  ├─ WHAT: A parliamentary election in which voters chose parties, not a single president.",
+    "  ├─ WHEN: On Sunday.",
+    "  └─ WHY: The protesters' main focus was corruption in government.",
+    "EVIDENCE: Vucic conceded peacefully when polls showed his party losing badly, after an hour when the electoral commission did not release results.",
+    "OPEN QUESTION: What comes next, and whether the movement can form a government."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Experts",
+      "description": "The result is extraordinary because of how it happened: a student-led, decentralized movement brought down a leader with tight control."
+    },
+    {
+      "perspective": "Observers",
+      "description": "Vucic's peaceful concession surprised them, since powerful leaders are often expected to cling to power."
+    }
+  ],
+  "mined_at": "2026-10-27T10:23:18+00:00",
+  "source_published_at": "Mon, 26 Oct 2026 18:35:41 -0400",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/show/student-led-movement-ousts-serbias-right-wing-ruler-in-historic-election",
+  "category": "News",
+  "source_word_count": 591,
+  "detail_status": "full"
+}
