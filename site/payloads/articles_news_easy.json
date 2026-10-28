@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-27-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Mon, 26 Oct 2026 18:35:41 -0400",
-      "mined_at": "2026-10-27T10:23:18+00:00",
-      "source_published_at": "Mon, 26 Oct 2026 18:35:41 -0400",
-      "image_url": "/article_images/news-s42a84028a5547e86.webp",
+      "id": "2026-10-28-news-1",
+      "source": "NPR World",
+      "time_ago": "Wed, 28 Oct 2026 05:00:00 -0400",
+      "mined_at": "2026-10-28T10:27:04+00:00",
+      "source_published_at": "Wed, 28 Oct 2026 05:00:00 -0400",
+      "image_url": "/article_images/news-s46fd0ecffef97da0.webp",
       "category": "News",
-      "title": "Student Movement Wins Big Election in Serbia",
-      "summary": "A student-led movement focused on corruption won a historic election in Serbia."
+      "title": "One Ohio Town Is at the Center of a Big Data Center Debate",
+      "summary": "In Mt. Orab, Ohio, farmland sold for a data center has sparked a statewide debate, with local volunteers pushing votes to block large data centers."
     },
     {
-      "id": "2026-10-27-news-2",
-      "source": "CBC World",
-      "time_ago": "Mon, 26 Oct 2026 16:16:09 EDT",
-      "mined_at": "2026-10-27T10:23:18+00:00",
-      "source_published_at": "Mon, 26 Oct 2026 16:16:09 EDT",
-      "image_url": "/article_images/news-scd707fddd23e29ba.webp",
+      "id": "2026-10-28-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Tue, 27 Oct 2026 18:35:36 -0400",
+      "mined_at": "2026-10-28T10:27:04+00:00",
+      "source_published_at": "Tue, 27 Oct 2026 18:35:36 -0400",
+      "image_url": "/article_images/news-s4cafb610b83f6091.webp",
       "category": "News",
-      "title": "A Subway Ride Turns Into a Comedy Show",
-      "summary": "Debbie Shields' quick wit on SubwayTakes turned a subway ride into a viral comedy moment."
+      "title": "Georgia Works to Rebuild Trust in Its Elections",
+      "summary": "Georgia is testing its voting machines before the midterm elections, hoping voters will trust that every vote is counted."
     },
     {
-      "id": "2026-10-27-news-3",
-      "source": "PBS NewsHour",
-      "time_ago": "Mon, 26 Oct 2026 18:55:02 -0400",
-      "mined_at": "2026-10-27T10:23:18+00:00",
-      "source_published_at": "Mon, 26 Oct 2026 18:55:02 -0400",
-      "image_url": "/article_images/news-s76b032c413aa0e48.webp",
+      "id": "2026-10-28-news-3",
+      "source": "NPR World",
+      "time_ago": "Wed, 28 Oct 2026 02:15:31 -0400",
+      "mined_at": "2026-10-28T10:27:04+00:00",
+      "source_published_at": "Wed, 28 Oct 2026 02:15:31 -0400",
+      "image_url": "/article_images/news-s6ff1035491932436.webp",
       "category": "News",
-      "title": "Candidates Race Toward Election Day",
-      "summary": "Trump and Obama campaigned in battleground states as control of Congress hangs in the balance."
+      "title": "Trump Says He Is Ending Limits on Methane From Drilling",
+      "summary": "Trump is ending limits on methane from oil drilling. Supporters say it saves money; critics say it lets harmful gas keep escaping."
     }
   ]
 }

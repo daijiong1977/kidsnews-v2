@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-27-science-1",
-      "source": "Space.com",
-      "time_ago": "Mon, 26 Oct 2026 17:00:00 +0000",
-      "mined_at": "2026-10-27T10:23:18+00:00",
-      "source_published_at": "Mon, 26 Oct 2026 17:00:00 +0000",
-      "image_url": "/article_images/science-s1f73b173d9f1fa31.webp",
+      "id": "2026-10-28-science-1",
+      "source": "Popular Mechanics",
+      "time_ago": "Tue, 27 Oct 2026 13:30:00 +0000",
+      "mined_at": "2026-10-28T10:27:04+00:00",
+      "source_published_at": "Tue, 27 Oct 2026 13:30:00 +0000",
+      "image_url": "/article_images/science-sb51511b90ded923d.webp",
       "category": "Science",
-      "title": "Record-Breaking Cosmic Blast Kept Flaring for 27 Days",
-      "summary": "Astronomers found GRB 220706A, whose engine flared in X-rays for around 27 days, far longer than the previous record, and scientists still do not know what powered it."
+      "title": "Ancient Footprints Reveal a Vanishing Lake at White Sands",
+      "summary": "Scientists studying ancient footprints at White Sands found people repeatedly visited a lake that shrank and dried as the climate warmed and swung sharply."
     },
     {
-      "id": "2026-10-27-science-2",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Mon, 26 Oct 2026 06:50:11 EDT",
-      "mined_at": "2026-10-27T10:23:18+00:00",
-      "source_published_at": "Mon, 26 Oct 2026 06:50:11 EDT",
-      "image_url": "/article_images/science-s67b65fe527d8e75f.webp",
+      "id": "2026-10-28-science-2",
+      "source": "Popular Science",
+      "time_ago": "Tue, 27 Oct 2026 15:43:00 -0400",
+      "mined_at": "2026-10-28T10:27:04+00:00",
+      "source_published_at": "Tue, 27 Oct 2026 15:43:00 -0400",
+      "image_url": "/article_images/science-sf845760f083d1f1b.webp",
       "category": "Science",
-      "title": "Meet D-Rex, a Giant Fungus Whose Family Began 65 Million Years Ago",
-      "summary": "Scientists in Yunnan found Dianjunus rex, the largest known fruiting body among ascomycete fungi, whose family may date back to just after the dinosaurs' extinction."
+      "title": "Why Bogs Preserve Bodies for Thousands of Years",
+      "summary": "Acidic, oxygen-poor peat bogs pickle soft tissue and protect skin and hair, while their acid weakens bones."
     },
     {
-      "id": "2026-10-27-science-3",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Mon, 26 Oct 2026 05:51:15 EDT",
-      "mined_at": "2026-10-27T10:23:18+00:00",
-      "source_published_at": "Mon, 26 Oct 2026 05:51:15 EDT",
-      "image_url": "/article_images/science-s57c7657c2a4517fd.webp",
+      "id": "2026-10-28-science-3",
+      "source": "MIT News",
+      "time_ago": "Wed, 28 Oct 2026 00:00:00 -0400",
+      "mined_at": "2026-10-28T10:27:04+00:00",
+      "source_published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+      "image_url": "/article_images/science-s93005dd0a3590ece.webp",
       "category": "Science",
-      "title": "Archaeologists May Have Found the World's Oldest Shipwreck",
-      "summary": "A wreck off Kekova, Turkey, is tentatively dated to 2700-2400 BCE from its pottery cargo, but the dating is still under consideration and not yet peer-reviewed."
+      "title": "Teaching Machines to Listen Like People, Only Better",
+      "summary": "MIT researcher Paris Smaragdis is teaching computers to understand sound, from traffic accidents to breaking drills, after a musical path that led him to machine learning."
     }
   ]
 }

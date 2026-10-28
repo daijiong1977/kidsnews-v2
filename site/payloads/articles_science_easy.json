@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-27-science-1",
-      "source": "Space.com",
-      "time_ago": "Mon, 26 Oct 2026 17:00:00 +0000",
-      "mined_at": "2026-10-27T10:23:18+00:00",
-      "source_published_at": "Mon, 26 Oct 2026 17:00:00 +0000",
-      "image_url": "/article_images/science-s1f73b173d9f1fa31.webp",
+      "id": "2026-10-28-science-1",
+      "source": "Popular Mechanics",
+      "time_ago": "Tue, 27 Oct 2026 13:30:00 +0000",
+      "mined_at": "2026-10-28T10:27:04+00:00",
+      "source_published_at": "Tue, 27 Oct 2026 13:30:00 +0000",
+      "image_url": "/article_images/science-sb51511b90ded923d.webp",
       "category": "Science",
-      "title": "A Space Blast That Kept Flashing for 27 Days",
-      "summary": "Astronomers found GRB 220706A, whose engine flashed in X-rays for around 27 days, far longer than the old record, and scientists still do not know what powered it."
+      "title": "Ancient Footprints Tell of a Lake That Vanished",
+      "summary": "Scientists studying ancient footprints at White Sands found people kept visiting a lake that shrank and dried as the climate warmed."
     },
     {
-      "id": "2026-10-27-science-2",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Mon, 26 Oct 2026 06:50:11 EDT",
-      "mined_at": "2026-10-27T10:23:18+00:00",
-      "source_published_at": "Mon, 26 Oct 2026 06:50:11 EDT",
-      "image_url": "/article_images/science-s67b65fe527d8e75f.webp",
+      "id": "2026-10-28-science-2",
+      "source": "Popular Science",
+      "time_ago": "Tue, 27 Oct 2026 15:43:00 -0400",
+      "mined_at": "2026-10-28T10:27:04+00:00",
+      "source_published_at": "Tue, 27 Oct 2026 15:43:00 -0400",
+      "image_url": "/article_images/science-sf845760f083d1f1b.webp",
       "category": "Science",
-      "title": "Meet D-Rex, a Giant Fungus",
-      "summary": "Scientists found a giant fungus in Yunnan nicknamed D-rex, whose family may have begun just after the dinosaurs died out."
+      "title": "How Bogs Keep Bodies Safe for Thousands of Years",
+      "summary": "Acidic, oxygen-poor peat bogs pickle soft tissue and protect skin and hair, while their acid weakens bones."
     },
     {
-      "id": "2026-10-27-science-3",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Mon, 26 Oct 2026 05:51:15 EDT",
-      "mined_at": "2026-10-27T10:23:18+00:00",
-      "source_published_at": "Mon, 26 Oct 2026 05:51:15 EDT",
-      "image_url": "/article_images/science-s57c7657c2a4517fd.webp",
+      "id": "2026-10-28-science-3",
+      "source": "MIT News",
+      "time_ago": "Wed, 28 Oct 2026 00:00:00 -0400",
+      "mined_at": "2026-10-28T10:27:04+00:00",
+      "source_published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+      "image_url": "/article_images/science-s93005dd0a3590ece.webp",
       "category": "Science",
-      "title": "A Shipwreck That May Be the World's Oldest",
-      "summary": "A wreck off Kekova, Turkey, may date to 2700-2400 BCE from its pottery cargo, but the dating is still being checked and has not yet been peer-reviewed."
+      "title": "Teaching Machines to Hear Better Than People",
+      "summary": "MIT researcher Paris Smaragdis wants machines to hear and understand sounds better than people, after a musical path led him to machine learning."
     }
   ]
 }

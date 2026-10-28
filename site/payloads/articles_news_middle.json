@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-27-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Mon, 26 Oct 2026 18:35:41 -0400",
-      "mined_at": "2026-10-27T10:23:18+00:00",
-      "source_published_at": "Mon, 26 Oct 2026 18:35:41 -0400",
-      "image_url": "/article_images/news-s42a84028a5547e86.webp",
+      "id": "2026-10-28-news-1",
+      "source": "NPR World",
+      "time_ago": "Wed, 28 Oct 2026 05:00:00 -0400",
+      "mined_at": "2026-10-28T10:27:04+00:00",
+      "source_published_at": "Wed, 28 Oct 2026 05:00:00 -0400",
+      "image_url": "/article_images/news-s46fd0ecffef97da0.webp",
       "category": "News",
-      "title": "Student-Led Movement Topples Serbia's Longtime Leader",
-      "summary": "A decentralized, student-led movement focused on corruption won a historic election in Serbia."
+      "title": "How One Ohio Town Became the Center of the Data Center Debate",
+      "summary": "Nick Owens and a statewide volunteer network are pushing ballot measures to block large data centers in Ohio, raising questions about farmland, secrecy, and local control."
     },
     {
-      "id": "2026-10-27-news-2",
-      "source": "CBC World",
-      "time_ago": "Mon, 26 Oct 2026 16:16:09 EDT",
-      "mined_at": "2026-10-27T10:23:18+00:00",
-      "source_published_at": "Mon, 26 Oct 2026 16:16:09 EDT",
-      "image_url": "/article_images/news-scd707fddd23e29ba.webp",
+      "id": "2026-10-28-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Tue, 27 Oct 2026 18:35:36 -0400",
+      "mined_at": "2026-10-28T10:27:04+00:00",
+      "source_published_at": "Tue, 27 Oct 2026 18:35:36 -0400",
+      "image_url": "/article_images/news-s4cafb610b83f6091.webp",
       "category": "News",
-      "title": "Bar Owner Steals the Show in Subway Improv With Conan O'Brien",
-      "summary": "Debbie Shields' quick wit on SubwayTakes turned a subway ride into a viral comedy moment."
+      "title": "Inside Georgia's Push to Rebuild Trust in Elections",
+      "summary": "Georgia election workers are testing every voting machine before next month's midterms, as the state works to rebuild voter confidence."
     },
     {
-      "id": "2026-10-27-news-3",
-      "source": "PBS NewsHour",
-      "time_ago": "Mon, 26 Oct 2026 18:55:02 -0400",
-      "mined_at": "2026-10-27T10:23:18+00:00",
-      "source_published_at": "Mon, 26 Oct 2026 18:55:02 -0400",
-      "image_url": "/article_images/news-s76b032c413aa0e48.webp",
+      "id": "2026-10-28-news-3",
+      "source": "NPR World",
+      "time_ago": "Wed, 28 Oct 2026 02:15:31 -0400",
+      "mined_at": "2026-10-28T10:27:04+00:00",
+      "source_published_at": "Wed, 28 Oct 2026 02:15:31 -0400",
+      "image_url": "/article_images/news-s6ff1035491932436.webp",
       "category": "News",
-      "title": "Candidates Hit Crunch Time With One Week Until Election Day",
-      "summary": "Trump and Obama campaigned in battleground states as control of Congress hangs in the balance."
+      "title": "Trump Says He Is Ending Limits on Methane From Oil Drilling",
+      "summary": "President Trump announced the end of a Biden-era rule on methane from oil and gas drilling, a move supporters say saves money and critics say lets pollution continue."
     }
   ]
 }

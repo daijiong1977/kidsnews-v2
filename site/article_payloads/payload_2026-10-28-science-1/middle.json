@@ -1,0 +1,122 @@
+{
+  "title": "Ancient Footprints Reveal a Vanishing Lake at White Sands",
+  "summary": "Long ago, people walked beside a great lake in what is now White Sands National Park in New Mexico. Their footprints, left between 23,500 and 21,700 years ago, survived in the sand. Now scientists have studied the ground around those prints to rebuild the lost world those walkers knew.\n\nThe same team that pioneered dating the footprints in 2021 went further in a new study in Science Advances. It examined 20 layers containing human footprints in place, tracks of large ancient animals, and straight marks left by historic wheels. Radiocarbon dating of conifer pollen, combined with ages of aquatic seeds, refined the timeline.\n\nThe evidence points to what the team called a complete overturning of the environment, from a perennial lake to a playa, or dry lake bed, during the height of the ice age. At the start of the timeline, Lake Otero filled much of the basin, the surrounding mountains held conifer forests, and temperatures were about 4 degrees Celsius colder than today. Then temperatures began to rise. The lake shrank, forests declined, and oak and sagebrush crept in as evaporation increased.\n\nSharper climate swings sat on top of that slow change. A dry period coincides with a rapid climatic change recorded thousands of miles away in Greenland ice cores, the researchers report. The earliest footprints appear around that transition, and footprints continue at intervals as the lake retreated. Bennett and Reynolds wrote in The Conversation that people visited repeatedly amid substantial environmental change.\n\nComputer modeling helped explain the pattern. In the team's virtual world, people moved around a fluctuating lake and left footprints when they crossed mud. Prints disappeared unless changing water levels buried and preserved them, so footprint surfaces occur as irregular pulses clustering around periods of climatic and hydrological change, just as the model predicted.",
+  "why_it_matters": "Footprints show how people kept returning even as their world changed, which helps us understand how people may cope when climates and landscapes shift.",
+  "image_url": "/article_images/science-sb51511b90ded923d.webp",
+  "keywords": [
+    {
+      "term": "perennial",
+      "explanation": "A perennial lake is a lake that holds water all year round."
+    },
+    {
+      "term": "playa",
+      "explanation": "A playa is a dry lake bed."
+    },
+    {
+      "term": "Radiocarbon dating",
+      "explanation": "Radiocarbon dating is a way scientists work out how old something is."
+    },
+    {
+      "term": "evaporation",
+      "explanation": "Evaporation is when water turns into vapor and leaves a surface."
+    },
+    {
+      "term": "conifer",
+      "explanation": "A conifer is a tree with needle-like leaves that grows cones."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Where were the ancient footprints found?",
+      "options": [
+        "The mountains around Lake Otero",
+        "The bottom of the ocean",
+        "White Sands National Park in New Mexico",
+        "Greenland"
+      ],
+      "correct_answer": "White Sands National Park in New Mexico"
+    },
+    {
+      "question": "What did the lake become as the climate changed?",
+      "options": [
+        "A conifer forest",
+        "A Greenland ice core",
+        "A playa, or dry lake bed",
+        "A historic wheel track"
+      ],
+      "correct_answer": "A playa, or dry lake bed"
+    },
+    {
+      "question": "What helped scientists refine the timeline?",
+      "options": [
+        "A computer game",
+        "The roar of a crowd",
+        "Historic wheels",
+        "Radiocarbon dating of conifer pollen, combined with ages of aquatic seeds"
+      ],
+      "correct_answer": "Radiocarbon dating of conifer pollen, combined with ages of aquatic seeds"
+    },
+    {
+      "question": "How much colder were temperatures at the start of the timeline?",
+      "options": [
+        "The same as today",
+        "About 4 degrees Celsius colder than today",
+        "About 4 degrees warmer than today",
+        "20 degrees colder than today"
+      ],
+      "correct_answer": "About 4 degrees Celsius colder than today"
+    },
+    {
+      "question": "What did Bennett and Reynolds write about the visitors?",
+      "options": [
+        "The lake never changed",
+        "People visited repeatedly amid substantial environmental change",
+        "People visited only once",
+        "Footprints were made by wheels"
+      ],
+      "correct_answer": "People visited repeatedly amid substantial environmental change"
+    },
+    {
+      "question": "In the team's model, when did footprints survive?",
+      "options": [
+        "When changing water levels buried and preserved them",
+        "When Greenland ice melted",
+        "Only when wheels crossed the mud",
+        "Whenever people crossed dry sand"
+      ],
+      "correct_answer": "When changing water levels buried and preserved them"
+    }
+  ],
+  "background_read": [
+    "Footprints can survive when wet ground is buried and protected, so they can tell scientists where people and animals walked long ago.",
+    "At White Sands, scientists studied the ground around ancient footprints to rebuild a world that has changed greatly, from a large lake to a dry lake bed.",
+    "As the climate warmed, the lake shrank, forests gave way to drier plants, and sharper dry spells came and went on top of that slow change.",
+    "Computer models helped the team test how moving water and changing lake levels could leave footprints only at certain times."
+  ],
+  "Article_Structure": [
+    "LEAD: People walked beside a great lake at White Sands, and their footprints survived in the sand.",
+    "KEY EVENT: Scientists studied the ground around the prints to rebuild the lost world.",
+    "  ├─ WHO: The team that first dated the footprints",
+    "  ├─ WHAT: Layers containing human footprints, animal tracks, and wheel marks",
+    "  └─ HOW: Radiocarbon dating of pollen and ages of seeds, plus computer modeling",
+    "EVIDENCE: The lake shrank as temperatures rose, forests declined, and drier plants crept in",
+    "PATTERN: Footprints cluster around periods of climatic and hydrological change, as the model predicted"
+  ],
+  "perspectives": [
+    {
+      "perspective": "The research team",
+      "description": "The team says the evidence points to a complete overturning of the environment, from a perennial lake to a dry lake bed."
+    },
+    {
+      "perspective": "Bennett and Reynolds",
+      "description": "They wrote that people visited repeatedly amid substantial environmental change."
+    }
+  ],
+  "mined_at": "2026-10-28T10:27:04+00:00",
+  "source_published_at": "Tue, 27 Oct 2026 13:30:00 +0000",
+  "source_name": "Popular Mechanics",
+  "source_url": "https://www.popularmechanics.com/science/archaeology/a74220308/white-sands-footprint-climate-change/",
+  "category": "Science",
+  "source_word_count": 591,
+  "detail_status": "full"
+}

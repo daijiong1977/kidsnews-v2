@@ -1,0 +1,126 @@
+{
+  "title": "One Ohio Town Is at the Center of a Big Data Center Debate",
+  "summary": "In the small Ohio village of Mt. Orab, farmland has become the center of a big debate about data centers. About 1,000 acres of farmland and trees were sold to a data center developer in 2024 and 2025. Building has not started yet, and no one knows when it will start.\n\nNick Owens, a lifelong Republican and attorney from nearby Brown County, is leading the local pushback. He says secret agreements have made it hard for people to learn details about the project. With another attorney and a real estate agent, he helped build Conserve Ohio, a volunteer group reaching nearly all of Ohio's 88 counties, with Democrats, Republicans, and independents.\n\nThis fall, the group backs votes in 10 communities to change rules and block data centers. It is collecting signatures for a constitution change that would ban them across Ohio, aiming for a 2027 vote. Supporters point to tax money, school money, and building jobs. Critics worry about secrecy, noise, pollution, and new power plants. Owens would rather use old industrial sites away from homes.",
+  "why_it_matters": "Decisions about what gets built near your home can change your neighborhood, your school's money, and the land around you.",
+  "image_url": "/article_images/news-s46fd0ecffef97da0.webp",
+  "keywords": [
+    {
+      "term": "developer",
+      "explanation": "A person or company that plans and builds a new project on land."
+    },
+    {
+      "term": "attorney",
+      "explanation": "A lawyer, someone trained to help people with laws and legal problems."
+    },
+    {
+      "term": "independents",
+      "explanation": "Voters who do not belong to either of the two main political parties."
+    },
+    {
+      "term": "constitution",
+      "explanation": "The set of basic rules that says how a state or country is run."
+    },
+    {
+      "term": "pollution",
+      "explanation": "Harmful stuff that gets into the air, water, or land and can hurt people and nature."
+    },
+    {
+      "term": "industrial",
+      "explanation": "Related to factories and other places where big work is done."
+    }
+  ],
+  "questions": [
+    {
+      "question": "In which village was farmland sold to a data center developer?",
+      "options": [
+        "Paulding County",
+        "Brown County",
+        "Fulton County",
+        "Mt. Orab"
+      ],
+      "correct_answer": "Mt. Orab"
+    },
+    {
+      "question": "Who is leading the local pushback against the data center project?",
+      "options": [
+        "A data center developer",
+        "A real estate agent",
+        "Another attorney",
+        "Nick Owens"
+      ],
+      "correct_answer": "Nick Owens"
+    },
+    {
+      "question": "What volunteer group did Nick Owens help build?",
+      "options": [
+        "The Super Emitter Program",
+        "The Environmental Defense Fund",
+        "Dominion Voting Systems",
+        "Conserve Ohio"
+      ],
+      "correct_answer": "Conserve Ohio"
+    },
+    {
+      "question": "What do supporters of data centers point to?",
+      "options": [
+        "Old industrial sites away from homes",
+        "New power plants",
+        "Secrecy, noise, and pollution",
+        "Tax money, school money, and building jobs"
+      ],
+      "correct_answer": "Tax money, school money, and building jobs"
+    },
+    {
+      "question": "What is Conserve Ohio collecting signatures for?",
+      "options": [
+        "A constitution change that would ban data centers across Ohio",
+        "A vote in 10 communities",
+        "A new power plant",
+        "Building jobs in Mt. Orab"
+      ],
+      "correct_answer": "A constitution change that would ban data centers across Ohio"
+    },
+    {
+      "question": "Where would Nick Owens rather put data centers?",
+      "options": [
+        "On farmland in Mt. Orab",
+        "Near homes",
+        "On old industrial sites away from homes",
+        "In 10 communities across Ohio"
+      ],
+      "correct_answer": "On old industrial sites away from homes"
+    }
+  ],
+  "background_read": [
+    "A data center is a large building full of computers that store and share information people use online.",
+    "These buildings need a lot of land and electricity, so choosing where to build one can become a big decision for a town.",
+    "In Mt. Orab, farmland was sold for a data center project, and neighbours began to argue about whether it belongs near their homes."
+  ],
+  "Article_Structure": [
+    "WHO: Nick Owens and Conserve Ohio, a volunteer group, along with data center supporters and critics.",
+    "WHAT: A debate over building a data center on farmland sold to a developer, and votes and a signature drive to block data centers.",
+    "WHERE: Mt. Orab, Ohio, and communities across Ohio.",
+    "WHY: Supporters point to tax money, school money, and building jobs, while critics worry about secrecy, noise, pollution, and new power plants."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Supporters of data centers",
+      "description": "They point to tax money, school money, and building jobs."
+    },
+    {
+      "perspective": "Critics of data centers",
+      "description": "They worry about secrecy, noise, pollution, and new power plants."
+    },
+    {
+      "perspective": "Nick Owens",
+      "description": "He would rather use old industrial sites away from homes."
+    }
+  ],
+  "mined_at": "2026-10-28T10:27:04+00:00",
+  "source_published_at": "Wed, 28 Oct 2026 05:00:00 -0400",
+  "source_name": "NPR World",
+  "source_url": "https://www.npr.org/2026/10/28/nx-s1-6019276/data-centers-ai-midterms-ohio",
+  "category": "News",
+  "source_word_count": 1307,
+  "detail_status": "full"
+}
