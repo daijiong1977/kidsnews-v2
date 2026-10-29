@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-28-science-1",
-      "source": "Popular Mechanics",
-      "time_ago": "Tue, 27 Oct 2026 13:30:00 +0000",
-      "mined_at": "2026-10-28T10:27:04+00:00",
-      "source_published_at": "Tue, 27 Oct 2026 13:30:00 +0000",
-      "image_url": "/article_images/science-sb51511b90ded923d.webp",
+      "id": "2026-10-29-science-1",
+      "source": "Space.com",
+      "time_ago": "Wed, 28 Oct 2026 20:00:00 +0000",
+      "mined_at": "2026-10-29T10:26:11+00:00",
+      "source_published_at": "Wed, 28 Oct 2026 20:00:00 +0000",
+      "image_url": "/article_images/science-s73d4a1d81e209f2d.webp",
       "category": "Science",
-      "title": "Ancient Footprints Reveal a Vanishing Lake at White Sands",
-      "summary": "Scientists studying ancient footprints at White Sands found people repeatedly visited a lake that shrank and dried as the climate warmed and swung sharply."
+      "title": "Canada's First Spacewalk in Seven Years Will Boost Station Power",
+      "summary": "Canadian astronaut Joshua Kutryk makes his first spacewalk on October 29, joining NASA's Anil Menon to install new roll-out solar arrays that will boost the station's power by about 30 percent."
     },
     {
-      "id": "2026-10-28-science-2",
-      "source": "Popular Science",
-      "time_ago": "Tue, 27 Oct 2026 15:43:00 -0400",
-      "mined_at": "2026-10-28T10:27:04+00:00",
-      "source_published_at": "Tue, 27 Oct 2026 15:43:00 -0400",
-      "image_url": "/article_images/science-sf845760f083d1f1b.webp",
+      "id": "2026-10-29-science-2",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Wed, 28 Oct 2026 08:11:52 EDT",
+      "mined_at": "2026-10-29T10:26:11+00:00",
+      "source_published_at": "Wed, 28 Oct 2026 08:11:52 EDT",
+      "image_url": "/article_images/science-s22c23be2ad358745.webp",
       "category": "Science",
-      "title": "Why Bogs Preserve Bodies for Thousands of Years",
-      "summary": "Acidic, oxygen-poor peat bogs pickle soft tissue and protect skin and hair, while their acid weakens bones."
+      "title": "The Secret Glow of the Fire Salamander",
+      "summary": "Fire salamanders secretly glow green and cyan under ultraviolet light, thanks to their skin glands; scientists are still working out what the glow is for."
     },
     {
-      "id": "2026-10-28-science-3",
-      "source": "MIT News",
-      "time_ago": "Wed, 28 Oct 2026 00:00:00 -0400",
-      "mined_at": "2026-10-28T10:27:04+00:00",
-      "source_published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
-      "image_url": "/article_images/science-s93005dd0a3590ece.webp",
+      "id": "2026-10-29-science-3",
+      "source": "Science News Explores",
+      "time_ago": "Tue, 27 Oct 2026 10:30:00 +0000",
+      "mined_at": "2026-10-29T10:26:11+00:00",
+      "source_published_at": "Tue, 27 Oct 2026 10:30:00 +0000",
+      "image_url": "/article_images/science-s661d29a595a4d84b.webp",
       "category": "Science",
-      "title": "Teaching Machines to Listen Like People, Only Better",
-      "summary": "MIT researcher Paris Smaragdis is teaching computers to understand sound, from traffic accidents to breaking drills, after a musical path that led him to machine learning."
+      "title": "The Grave That Was Double-Guarded Against the Undead",
+      "summary": "A 17th-century Polish grave fitted with both a sickle and a padlock is the first known to combine two anti-vampire precautions, and its occupant seems to have been a wealthy local young woman."
     }
   ]
 }

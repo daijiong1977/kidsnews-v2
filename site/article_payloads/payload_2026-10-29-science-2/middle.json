@@ -1,0 +1,126 @@
+{
+  "title": "The Secret Glow of the Fire Salamander",
+  "summary": "Fire salamanders are among Europe's most recognizable amphibians, with striking black and yellow coloring and poisonous substances they release to deter predators. They live in damp forests, streams, and mountainous regions, and the International Union for Conservation of Nature classifies the species as \"vulnerable\" as habitat destruction threatens their survival. Yet scientists are still uncovering surprises about them.\n\nNew research reveals that fire salamanders fluoresce under ultraviolet light, most strongly on the yellow underside of their bodies and along their sides. The glow comes mainly from glands in their skin and the substances those glands release, and secretions can keep glowing for more than 24 hours after leaving the body. \"It is fascinating that such a well-studied species still harbors unknown phenomena like this,\" says Bernat Burriel, a researcher at the Museum of Natural Sciences in Barcelona and the study's first author.\n\nBiofluorescence works like this: compounds in the skin absorb ultraviolet light, which humans cannot see, and re-emit the energy as visible light, here vivid green and cyan. It needs an outside light source, unlike bioluminescence: fireflies make their own light through chemical reactions, while fluorescent animals must first absorb light from their surroundings. Scientists once thought biofluorescence happened almost only in sea creatures, scorpions being an unusual land exception, but newer studies have found it in reptiles, birds, and amphibians too.\n\nWhy do salamanders glow? Researchers do not know yet. One idea is communication: the glow could help them recognize each other or assess potential mates, especially at night or in dense surroundings. Another is defense: it might make their warning colors more noticeable to predators. Fire salamanders already advertise their poison with yellow-and-black patterns, a strategy called aposematism, and fluorescence might add another visual cue. The glowing compound itself is still unidentified, though evidence suggests it may be a molecule not previously recognized in this species. Humans need a UV lamp to see the glow, but in the forest, moonlight, especially full moonlight, which carries more ultraviolet and violet light than daylight, could create small green and cyan highlights against the yellow markings.",
+  "why_it_matters": "Discovering a hidden glow in a well-studied animal shows how much remains to learn about familiar wildlife, and understanding warning signals and fragile habitats can help protect species threatened by habitat destruction.",
+  "image_url": "/article_images/science-s22c23be2ad358745.webp",
+  "keywords": [
+    {
+      "term": "amphibians",
+      "explanation": "Animals such as frogs and salamanders that usually live partly in water and partly on land."
+    },
+    {
+      "term": "fluoresce",
+      "explanation": "To take in invisible light and then give it back out as visible glowing light."
+    },
+    {
+      "term": "ultraviolet",
+      "explanation": "A kind of light that humans cannot see, just beyond the violet end of the rainbow."
+    },
+    {
+      "term": "Biofluorescence",
+      "explanation": "The process by which a living thing absorbs light and then re-emits it as a visible glow."
+    },
+    {
+      "term": "bioluminescence",
+      "explanation": "Light that a living thing makes by itself through chemical reactions in its body."
+    },
+    {
+      "term": "aposematism",
+      "explanation": "Using bright warning colors or patterns to tell predators that an animal is poisonous or dangerous."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Where do fire salamanders live?",
+      "options": [
+        "In damp forests, streams, and mountainous regions",
+        "In city parks",
+        "In dry deserts",
+        "Only in the sea"
+      ],
+      "correct_answer": "In damp forests, streams, and mountainous regions"
+    },
+    {
+      "question": "How does the International Union for Conservation of Nature classify the species?",
+      "options": [
+        "Vulnerable",
+        "Common",
+        "Safe",
+        "Extinct"
+      ],
+      "correct_answer": "Vulnerable"
+    },
+    {
+      "question": "Where on the body is the fluorescence strongest?",
+      "options": [
+        "Only on the head",
+        "Under the feet",
+        "On the tail alone",
+        "On the yellow underside and along the sides"
+      ],
+      "correct_answer": "On the yellow underside and along the sides"
+    },
+    {
+      "question": "How is biofluorescence different from bioluminescence?",
+      "options": [
+        "Bioluminescence needs a UV lamp and biofluorescence does not",
+        "There is no difference between them",
+        "Biofluorescence works only in daylight",
+        "Biofluorescence needs an outside light source, while bioluminescent animals like fireflies make their own light"
+      ],
+      "correct_answer": "Biofluorescence needs an outside light source, while bioluminescent animals like fireflies make their own light"
+    },
+    {
+      "question": "What is one idea researchers have for why salamanders glow?",
+      "options": [
+        "To fly farther",
+        "To help them recognize each other or assess potential mates",
+        "To change their black and yellow coloring permanently",
+        "To stay warm in winter"
+      ],
+      "correct_answer": "To help them recognize each other or assess potential mates"
+    },
+    {
+      "question": "What does the body say about the glowing compound itself?",
+      "options": [
+        "It has been fully identified for years",
+        "It is still unidentified, though evidence suggests it may be a molecule not previously recognized in this species",
+        "It comes from moonlight alone",
+        "It is the same compound fireflies use"
+      ],
+      "correct_answer": "It is still unidentified, though evidence suggests it may be a molecule not previously recognized in this species"
+    }
+  ],
+  "background_read": [
+    "Salamanders are amphibians, animals that live in damp places and often spend part of their lives in or near water.",
+    "Some animals use bright colors to warn predators that they are poisonous, so attackers learn to leave them alone.",
+    "Biofluorescence is different from making your own light: the animal must first absorb light from outside, then gives it back as a visible glow.",
+    "Scientists once thought this kind of glow was almost only found in sea creatures, but newer studies have found it in land animals too."
+  ],
+  "Article_Structure": [
+    "LEAD: Fire salamanders, recognizable black-and-yellow European amphibians, are classified as vulnerable as habitat destruction threatens them.",
+    "KEY EVENT: New research reveals that fire salamanders fluoresce under ultraviolet light.",
+    "  ├─ WHERE: Most strongly on the yellow underside of their bodies and along their sides.",
+    "  └─ HOW: The glow comes mainly from glands in their skin, and secretions can keep glowing for more than 24 hours after leaving the body.",
+    "EXPLANATION: Biofluorescence absorbs ultraviolet light and re-emits it as vivid green and cyan, unlike bioluminescence, in which fireflies make their own light.",
+    "EVIDENCE: Scientists once thought biofluorescence happened almost only in sea creatures, but newer studies have found it in reptiles, birds, and amphibians too.",
+    "OPEN QUESTION: Researchers do not know yet why salamanders glow; ideas include communication and defense, and the glowing compound itself is still unidentified."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Communication hypothesis",
+      "description": "Researchers suggest the glow could help salamanders recognize each other or assess potential mates, especially at night or in dense surroundings."
+    },
+    {
+      "perspective": "Defense hypothesis",
+      "description": "Researchers suggest the glow might make the salamanders' warning colors more noticeable to predators, adding another visual cue to their poison-advertising patterns."
+    }
+  ],
+  "mined_at": "2026-10-29T10:26:11+00:00",
+  "source_published_at": "Wed, 28 Oct 2026 08:11:52 EDT",
+  "source_name": "ScienceDaily Top Environment",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261027063707.htm",
+  "category": "Science",
+  "source_word_count": 833,
+  "detail_status": "full"
+}

@@ -1,0 +1,122 @@
+{
+  "title": "Personal Details of 40,000 Homeland Security Workers Appear Online",
+  "summary": "A website that shares leaked documents said on Wednesday that it had published personal details of more than 40,000 people who work for the U.S. Department of Homeland Security, known as DHS, which handles border security and disaster response. The shared data includes names, phone numbers, email addresses, and job titles from DHS agencies. Some job titles revealed sensitive assignments in special operations, surveillance, computer forensics, and undercover work. Distributed Denial of Secrets, the group behind the release, said the information came from an entity calling itself the Department of Peace, and that the data was harvested from the Okta sign-on service used by DHS. Okta said it is secure and has no evidence its data or systems were compromised. DHS said it was aware of a breach and was working to address it and protect its employees. Reuters said it could not verify the entire trove, but it matched details about six employees to credit bureau records and confirmed three employees' phone numbers by calling them. This is the third government data leak in the past month.",
+  "why_it_matters": "Keeping passwords and personal details private matters because sharing them online can put people at risk, just like keeping your own login details secret at school.",
+  "image_url": "/article_images/news-s9f2ba6f07beeea8a.webp",
+  "keywords": [
+    {
+      "term": "surveillance",
+      "explanation": "Surveillance means watching people or places closely, often to gather information."
+    },
+    {
+      "term": "computer forensics",
+      "explanation": "Computer forensics is the work of finding clues in computers and digital files."
+    },
+    {
+      "term": "undercover work",
+      "explanation": "Undercover work is secret work done while hiding who you really are."
+    },
+    {
+      "term": "breach",
+      "explanation": "A breach is when private information is taken or shared without permission."
+    },
+    {
+      "term": "compromised",
+      "explanation": "If a system is compromised, someone has broken into it or weakened its safety."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Whose personal details were published online?",
+      "options": [
+        "People who work for the U.S. Department of Homeland Security",
+        "Workers at a phone company",
+        "Students at a school",
+        "Visitors to a museum"
+      ],
+      "correct_answer": "People who work for the U.S. Department of Homeland Security"
+    },
+    {
+      "question": "What kind of information was shared?",
+      "options": [
+        "Names, phone numbers, email addresses, and job titles",
+        "Recipes and menus",
+        "Train times and ticket prices",
+        "School grades and test scores"
+      ],
+      "correct_answer": "Names, phone numbers, email addresses, and job titles"
+    },
+    {
+      "question": "Which group was behind the release?",
+      "options": [
+        "Okta",
+        "Reuters",
+        "Distributed Denial of Secrets",
+        "The Department of Peace"
+      ],
+      "correct_answer": "Distributed Denial of Secrets"
+    },
+    {
+      "question": "What did Okta say about its systems?",
+      "options": [
+        "They were sold to another company",
+        "They were never used by DHS",
+        "They are secure and it has no evidence its data or systems were compromised",
+        "They were shut down for repairs"
+      ],
+      "correct_answer": "They are secure and it has no evidence its data or systems were compromised"
+    },
+    {
+      "question": "What did DHS say it was doing?",
+      "options": [
+        "Closing all its offices",
+        "Changing its name",
+        "Working to address the breach and protect its employees",
+        "Ignoring the problem"
+      ],
+      "correct_answer": "Working to address the breach and protect its employees"
+    },
+    {
+      "question": "Which of these was one of the sensitive assignments revealed by job titles?",
+      "options": [
+        "Teaching art classes",
+        "Undercover work",
+        "Cooking school lunches",
+        "Driving school buses"
+      ],
+      "correct_answer": "Undercover work"
+    }
+  ],
+  "background_read": [
+    "The Department of Homeland Security is a part of the United States government that handles border security and disaster response.",
+    "A sign-on service lets workers log in once to reach many work systems.",
+    "When private details are shared online, workers can be at risk, so the department works to protect its employees."
+  ],
+  "Article_Structure": [
+    "WHO: Distributed Denial of Secrets, DHS workers, Okta, and Reuters",
+    "WHAT: Personal details of DHS workers were published online after a data leak",
+    "WHERE: Online, in data harvested from the Okta sign-on service used by DHS",
+    "WHY: The information came from an entity calling itself the Department of Peace and was shared through a leaked-documents website"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Distributed Denial of Secrets",
+      "description": "The information came from an entity calling itself the Department of Peace and was harvested from the Okta sign-on service used by DHS."
+    },
+    {
+      "perspective": "Okta",
+      "description": "Its systems are secure and it has no evidence its data or systems were compromised."
+    },
+    {
+      "perspective": "DHS",
+      "description": "It is aware of a breach and is working to address it and protect its employees."
+    }
+  ],
+  "mined_at": "2026-10-29T10:26:11+00:00",
+  "source_published_at": "Wed, 28 Oct 2026 21:05:21 EDT",
+  "source_name": "CBC World",
+  "source_url": "https://www.cbc.ca/news/world/dhs-data-breach-leak-distributed-denial-of-secrets-9.7400488?cmp=rss",
+  "category": "News",
+  "source_word_count": 585,
+  "detail_status": "full"
+}

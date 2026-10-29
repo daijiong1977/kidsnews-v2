@@ -1,0 +1,114 @@
+{
+  "title": "Canada's First Spacewalk in Seven Years Will Boost Station Power",
+  "summary": "Canada's Joshua Kutryk and NASA's Anil Menon are scheduled to step outside the International Space Station at 8 a.m. ET on Thursday, October 29. It will be the first spacewalk by a Canadian astronaut in seven years, and Kutryk's first-ever spacewalk. Menon has done three spacewalks before. The spacewalk should last about 6 hours and 45 minutes.\n\nTheir job is to boost the station's power supply. This is the first of two spacewalks, with the second expected no sooner than November 5, to install the seventh and eighth International Space Station Roll-Out Solar Arrays, called iROSAs. The new arrays lie on top of the station's decades-old arrays, which are naturally degrading with age. The first iROSA rolled out in 2021. Once all eight are installed and running, the station's power supply will rise from 160 kilowatts to about 215 kilowatts, a boost of roughly 30 percent.\n\nCanadian technology will help. Canadarm2, the station's robotic arm, will support the spacewalk. Ground controllers moved it to the storage area of a SpaceX Dragon cargo spacecraft, which brought the two arrays up earlier this month. Canadarm2 picked the arrays up, moved them to a transporter, and even loosened bolts ahead of time. During the walk, Kutryk and Menon will slide an array off its transport rail, and Menon will stand on a Canadarm2 platform holding it while NASA astronauts Luke Delaney and Jessica Watkins, working from inside, move the arm to the installation site for the 2A electrical-power channel.\n\nEach array is about 10 feet long when folded and weighs 750 pounds on Earth, so NASA planned new maneuvers that rotate around the array's center of mass rather than the crew member, to make the work less tiring. Kutryk will move hand-over-hand to the site, where the pair will bolt the array onto the older array and release it so it unfolds from about 10 feet to around 20 feet. Flight director Garrett Hehn compared the arrays to a snap bracelet: magnets along the side let each one roll out steadily, a process taking about 10 minutes. The capsule communicator for both spacewalks is Canadian astronaut Jenni Gibbons.",
+  "why_it_matters": "A reliable power supply keeps the station's experiments, life-support systems, and communications running, so upgrading its solar arrays protects the research astronauts do in orbit.",
+  "image_url": "/article_images/science-s73d4a1d81e209f2d.webp",
+  "keywords": [
+    {
+      "term": "spacewalk",
+      "explanation": "A trip outside a spacecraft in space, while wearing a special suit, to do work on the outside."
+    },
+    {
+      "term": "kilowatts",
+      "explanation": "A unit for measuring how much electrical power something uses or produces."
+    },
+    {
+      "term": "Canadarm2",
+      "explanation": "A long robotic arm on the space station that can grab, move, and hold large objects."
+    },
+    {
+      "term": "transporter",
+      "explanation": "A moving platform or rail that carries heavy equipment from one place to another."
+    },
+    {
+      "term": "maneuvers",
+      "explanation": "Carefully planned movements made to get something or someone into the right position."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Who are the two astronauts going on the October 29 spacewalk?",
+      "options": [
+        "Anil Menon and Luke Delaney",
+        "Luke Delaney and Jessica Watkins",
+        "Garrett Hehn and Jenni Gibbons",
+        "Joshua Kutryk and Anil Menon"
+      ],
+      "correct_answer": "Joshua Kutryk and Anil Menon"
+    },
+    {
+      "question": "How long should the spacewalk last?",
+      "options": [
+        "About 6 hours and 45 minutes",
+        "No sooner than November 5",
+        "About 10 minutes",
+        "About 30 percent longer than usual"
+      ],
+      "correct_answer": "About 6 hours and 45 minutes"
+    },
+    {
+      "question": "What is the main job of the two spacewalks?",
+      "options": [
+        "To install the seventh and eighth iROSAs",
+        "To repair the SpaceX Dragon",
+        "To test a new spacesuit",
+        "To replace Canadarm2"
+      ],
+      "correct_answer": "To install the seventh and eighth iROSAs"
+    },
+    {
+      "question": "How much will the station's power supply rise once all eight arrays are running?",
+      "options": [
+        "By 750 pounds",
+        "From 160 kilowatts to about 215 kilowatts",
+        "From 215 kilowatts to 160 kilowatts",
+        "From 10 feet to around 20 feet"
+      ],
+      "correct_answer": "From 160 kilowatts to about 215 kilowatts"
+    },
+    {
+      "question": "What will Canadarm2 do during the walk?",
+      "options": [
+        "It will carry the astronauts back inside",
+        "It will support the spacewalk and move an array on its platform to the installation site",
+        "It will unfold the array by itself",
+        "It will stay in storage on the Dragon"
+      ],
+      "correct_answer": "It will support the spacewalk and move an array on its platform to the installation site"
+    },
+    {
+      "question": "What did Garrett Hehn compare the arrays to?",
+      "options": [
+        "A cargo spacecraft",
+        "An electrical-power channel",
+        "A transporter rail",
+        "A snap bracelet"
+      ],
+      "correct_answer": "A snap bracelet"
+    }
+  ],
+  "background_read": [
+    "The International Space Station is a large laboratory that orbits Earth, where astronauts live and work for months at a time.",
+    "Solar arrays are panels that collect sunlight and turn it into electricity to power the station's lights, machines, and experiments.",
+    "Like many machines, older solar arrays grow weaker with age, so new ones are laid on top of them to restore the power supply.",
+    "A spacewalk means an astronaut leaves the station in a protective suit to do a job outside, often with help from a robotic arm and teammates inside."
+  ],
+  "Article_Structure": [
+    "LEAD: Joshua Kutryk and Anil Menon are scheduled to step outside the International Space Station on Thursday, October 29.",
+    "KEY EVENT: The first of two spacewalks to install new roll-out solar arrays and boost the station's power.",
+    "  ├─ WHO: Kutryk, on his first-ever spacewalk and the first by a Canadian in seven years, and Menon, who has done three spacewalks before.",
+    "  ├─ WHEN: About 6 hours and 45 minutes, starting at 8 a.m. ET, with the second spacewalk expected no sooner than November 5.",
+    "  └─ WHY: The station's decades-old arrays are degrading, and the new arrays will raise power from 160 kilowatts to about 215 kilowatts.",
+    "HOW IT WILL WORK: Canadarm2 will support the walk, Delaney and Watkins will move the arm from inside, and the pair will bolt the array on and release it to unfold.",
+    "EVIDENCE: Each array is about 10 feet long when folded, weighs 750 pounds on Earth, and unrolls in about 10 minutes, like a snap bracelet, according to flight director Garrett Hehn.",
+    "OPEN QUESTION: None stated; the capsule communicator for both spacewalks is Jenni Gibbons."
+  ],
+  "perspectives": [],
+  "mined_at": "2026-10-29T10:26:11+00:00",
+  "source_published_at": "Wed, 28 Oct 2026 20:00:00 +0000",
+  "source_name": "Space.com",
+  "source_url": "https://www.space.com/space-exploration/international-space-station/iss-astronaut-will-conduct-canadas-1st-spacewalk-in-7-years-on-oct-29-watch-it-live",
+  "category": "Science",
+  "source_word_count": 807,
+  "detail_status": "full"
+}

@@ -1,0 +1,123 @@
+{
+  "title": "Drone-Delivered Gel Speeds Healing on Ukraine's Front Lines",
+  "summary": "A wound and burn treatment developed in Calgary, Canada, is now being delivered by drone to help wounded soldiers and civilians in Ukraine. The treatment, called NanoSALV Catalytic, was made by the Calgary company NanoTess and first received Health Canada approval in 2022. It was first evaluated by treating unhoused people living in encampments, and it is now being used for military purposes.\n\n\"We actually started this company with a grant from National Defence back in 2020 and then have had it come full circle here in 2026 to now be used in the front lines within Ukraine,\" said NanoTess co-founder and CEO Megan Leslie.\n\nThe catalyst sits in a lightweight, non-flammable gel applied directly to a wound. It can be flown by drone to the front line and used by people with limited medical training. In use on the Ukrainian front lines since June, it has treated 6,000 wounded soldiers and civilians. Its nanomaterials speed up the body's natural healing, lower the energy healing requires, and fight germs and other infection-causing micro-organisms.\n\nClinical pharmacist Hailie Uren, an Australian who has spent four years in eastern Ukraine working for the Ukrainian Ministry of Health, said the treatment is critical for buying time: it can be applied and go to work when a single nurse must care for up to 90 patients. \"That wound can heal without consistent nursing intervention,\" she said. Uren said the gel is so in demand that other patients try to find wounds just so she can use it on them too.\n\nThe gel has also been used back home in Canada, after a wildfire at Canadian Forces Base Wainwright killed four soldiers and burned dozens more.",
+  "why_it_matters": "When medical help is scarce, a treatment that works quickly and with little training can save lives and ease pressure on nurses. It also shows how a civilian medical invention can be adapted for war zones and disaster scenes.",
+  "image_url": "/article_images/news-s7e33dd82409ad411.webp",
+  "keywords": [
+    {
+      "term": "catalyst",
+      "explanation": "A substance that speeds up a chemical change without being used up itself."
+    },
+    {
+      "term": "nanomaterials",
+      "explanation": "Materials made of extremely tiny particles, far too small to see with the naked eye."
+    },
+    {
+      "term": "micro-organisms",
+      "explanation": "Tiny living things, such as germs, that can only be seen with a microscope."
+    },
+    {
+      "term": "encampments",
+      "explanation": "Temporary outdoor settlements where people live, often in tents or makeshift shelters."
+    },
+    {
+      "term": "non-flammable",
+      "explanation": "Something that does not easily catch fire or burn."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Which company made the treatment NanoSALV Catalytic?",
+      "options": [
+        "NanoTess",
+        "Health Canada",
+        "The Ukrainian Ministry of Health",
+        "National Defence"
+      ],
+      "correct_answer": "NanoTess"
+    },
+    {
+      "question": "In which year did the treatment first receive Health Canada approval?",
+      "options": [
+        "2020",
+        "2022",
+        "2026",
+        "Since June"
+      ],
+      "correct_answer": "2022"
+    },
+    {
+      "question": "How many wounded soldiers and civilians has the gel treated on the Ukrainian front lines since June?",
+      "options": [
+        "Four",
+        "90",
+        "Dozens",
+        "6,000"
+      ],
+      "correct_answer": "6,000"
+    },
+    {
+      "question": "What do the gel's nanomaterials do, according to the article?",
+      "options": [
+        "They speed up natural healing, lower the energy healing requires, and fight germs",
+        "They carry the gel by drone",
+        "They replace nurses entirely",
+        "They make the gel heavier and flammable"
+      ],
+      "correct_answer": "They speed up natural healing, lower the energy healing requires, and fight germs"
+    },
+    {
+      "question": "Who said, \"That wound can heal without consistent nursing intervention\"?",
+      "options": [
+        "A nurse caring for 90 patients",
+        "Megan Leslie",
+        "A soldier at Canadian Forces Base Wainwright",
+        "Hailie Uren"
+      ],
+      "correct_answer": "Hailie Uren"
+    },
+    {
+      "question": "Where in Canada was the gel also used after a wildfire?",
+      "options": [
+        "An encampment",
+        "Eastern Ukraine",
+        "Calgary",
+        "Canadian Forces Base Wainwright"
+      ],
+      "correct_answer": "Canadian Forces Base Wainwright"
+    }
+  ],
+  "background_read": [
+    "When skin is cut or burned, the body must close the wound and fight off germs, which takes time and energy.",
+    "In a war zone or after a wildfire, many injured people may need care at once, while trained medical workers and supplies can be hard to reach.",
+    "A light gel that can be flown by drone and put straight on a wound could help injured people sooner, even where nurses are stretched thin.",
+    "That is why a treatment that speeds healing and keeps working without constant nursing care matters on a front line."
+  ],
+  "Article_Structure": [
+    "LEAD: A Calgary-made wound and burn gel is now delivered by drone to help wounded soldiers and civilians in Ukraine.",
+    "KEY EVENT: The gel is in use on the Ukrainian front lines.",
+    "  ├─ WHO: NanoTess made it; Megan Leslie is its co-founder and CEO, and Hailie Uren works in eastern Ukraine for the Ukrainian Ministry of Health.",
+    "  ├─ WHEN: It received Health Canada approval in 2022 and has been used on the front lines since June.",
+    "  └─ HOW: The lightweight, non-flammable gel is applied directly to a wound and can be used by people with limited medical training.",
+    "EVIDENCE: It has treated 6,000 wounded soldiers and civilians, and Uren says it buys time when one nurse must care for up to 90 patients.",
+    "WIDER USE: The gel was also used in Canada after a wildfire at Canadian Forces Base Wainwright.",
+    "OPEN QUESTION: The article does not say how widely the gel will be used next."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Megan Leslie, NanoTess co-founder and CEO",
+      "description": "She says the company started with a National Defence grant and has now come full circle to use on the front lines in Ukraine."
+    },
+    {
+      "perspective": "Hailie Uren, clinical pharmacist",
+      "description": "She says the treatment is critical for buying time and that a wound can heal without consistent nursing intervention."
+    }
+  ],
+  "mined_at": "2026-10-29T10:26:11+00:00",
+  "source_published_at": "Wed, 28 Oct 2026 18:11:23 EDT",
+  "source_name": "CBC World",
+  "source_url": "https://www.cbc.ca/news/canada/calgary/calgary-wound-burn-treatment-ukraine-9.7400198?cmp=rss",
+  "category": "News",
+  "source_word_count": 475,
+  "detail_status": "full"
+}

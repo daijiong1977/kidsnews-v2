@@ -1,0 +1,109 @@
+{
+  "title": "Canada's First Spacewalk in Seven Years Will Add Station Power",
+  "summary": "On Thursday, October 29, at 8 a.m. ET, Canada's Joshua Kutryk and NASA's Anil Menon are scheduled to step outside the International Space Station for a spacewalk. It will be the first spacewalk by a Canadian astronaut in seven years, and Kutryk's first ever. Menon has done three spacewalks before. The walk should last about 6 hours and 45 minutes. Their job is to put up new solar panels, called iROSAs, to give the station more power. This is the first of two spacewalks; the second will come no sooner than November 5. They will raise power from 160 kilowatts to about 215 kilowatts, a boost of roughly 30 percent. Canadarm2, the station's robotic arm, will help move an array into place, while NASA astronauts Luke Delaney and Jessica Watkins move the arm. Kutryk will climb hand-over-hand to the site, and the pair will bolt the array on and let it unfold from about 10 feet to around 20 feet. Garrett Hehn compared the arrays to a snap bracelet. Jenni Gibbons will be the capsule communicator for the spacewalks.",
+  "why_it_matters": "It shows you how sunlight can be turned into power, just like the solar panels that can power lights and devices here on Earth.",
+  "image_url": "/article_images/science-s73d4a1d81e209f2d.webp",
+  "keywords": [
+    {
+      "term": "spacewalk",
+      "explanation": "A spacewalk is when an astronaut steps outside a spacecraft to do work in space."
+    },
+    {
+      "term": "iROSAs",
+      "explanation": "iROSAs are new solar panels that are put up outside the space station to make more power."
+    },
+    {
+      "term": "kilowatts",
+      "explanation": "Kilowatts are units that tell how much electric power something makes or uses."
+    },
+    {
+      "term": "Canadarm2",
+      "explanation": "Canadarm2 is the space station's long robotic arm that moves big parts into place."
+    },
+    {
+      "term": "capsule communicator",
+      "explanation": "A capsule communicator is the person on the ground who talks to the astronauts during a spacewalk."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Who is doing a spacewalk for the first time ever?",
+      "options": [
+        "Luke Delaney",
+        "Jessica Watkins",
+        "Anil Menon",
+        "Joshua Kutryk"
+      ],
+      "correct_answer": "Joshua Kutryk"
+    },
+    {
+      "question": "About how long should the spacewalk last?",
+      "options": [
+        "About 6 hours and 45 minutes",
+        "About 30 minutes",
+        "About 10 hours",
+        "About 2 hours"
+      ],
+      "correct_answer": "About 6 hours and 45 minutes"
+    },
+    {
+      "question": "What is the pair's job on this spacewalk?",
+      "options": [
+        "To bring back old panels",
+        "To put up new solar panels called iROSAs",
+        "To test a new spacesuit",
+        "To move the whole station"
+      ],
+      "correct_answer": "To put up new solar panels called iROSAs"
+    },
+    {
+      "question": "How much power will the station have after the new arrays are added?",
+      "options": [
+        "About 160 kilowatts",
+        "About 100 kilowatts",
+        "About 215 kilowatts",
+        "About 300 kilowatts"
+      ],
+      "correct_answer": "About 215 kilowatts"
+    },
+    {
+      "question": "Who will move Canadarm2 during the spacewalk?",
+      "options": [
+        "Luke Delaney and Jessica Watkins",
+        "Joshua Kutryk and Anil Menon",
+        "Jenni Gibbons alone",
+        "Garrett Hehn and Jenni Gibbons"
+      ],
+      "correct_answer": "Luke Delaney and Jessica Watkins"
+    },
+    {
+      "question": "When will the second spacewalk come?",
+      "options": [
+        "No sooner than November 5",
+        "In seven years",
+        "After the station closes",
+        "The same day"
+      ],
+      "correct_answer": "No sooner than November 5"
+    }
+  ],
+  "background_read": [
+    "The International Space Station is a large home and laboratory that orbits Earth, where astronauts live and work.",
+    "Solar panels catch sunlight and turn it into power for the station's lights, tools, and machines.",
+    "On a spacewalk, astronauts put on special suits and step outside the station to build or fix things."
+  ],
+  "Article_Structure": [
+    "WHO: Joshua Kutryk and Anil Menon, with help from Luke Delaney, Jessica Watkins, and Jenni Gibbons.",
+    "WHAT: A spacewalk to put up new solar panels called iROSAs and raise the station's power.",
+    "WHERE: Outside the International Space Station.",
+    "WHY: To give the station more power for its work."
+  ],
+  "perspectives": [],
+  "mined_at": "2026-10-29T10:26:11+00:00",
+  "source_published_at": "Wed, 28 Oct 2026 20:00:00 +0000",
+  "source_name": "Space.com",
+  "source_url": "https://www.space.com/space-exploration/international-space-station/iss-astronaut-will-conduct-canadas-1st-spacewalk-in-7-years-on-oct-29-watch-it-live",
+  "category": "Science",
+  "source_word_count": 807,
+  "detail_status": "full"
+}

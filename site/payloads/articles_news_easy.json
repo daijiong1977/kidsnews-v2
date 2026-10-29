@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-28-news-1",
-      "source": "NPR World",
-      "time_ago": "Wed, 28 Oct 2026 05:00:00 -0400",
-      "mined_at": "2026-10-28T10:27:04+00:00",
-      "source_published_at": "Wed, 28 Oct 2026 05:00:00 -0400",
-      "image_url": "/article_images/news-s46fd0ecffef97da0.webp",
+      "id": "2026-10-29-news-1",
+      "source": "CBC World",
+      "time_ago": "Wed, 28 Oct 2026 18:11:23 EDT",
+      "mined_at": "2026-10-29T10:26:11+00:00",
+      "source_published_at": "Wed, 28 Oct 2026 18:11:23 EDT",
+      "image_url": "/article_images/news-s7e33dd82409ad411.webp",
       "category": "News",
-      "title": "One Ohio Town Is at the Center of a Big Data Center Debate",
-      "summary": "In Mt. Orab, Ohio, farmland sold for a data center has sparked a statewide debate, with local volunteers pushing votes to block large data centers."
+      "title": "Drone-Delivered Gel Speeds Healing on Ukraine's Front Lines",
+      "summary": "A Calgary-made gel that speeds healing is being flown by drone to Ukraine's front lines, where it has treated 6,000 wounded soldiers and civilians since June."
     },
     {
-      "id": "2026-10-28-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Tue, 27 Oct 2026 18:35:36 -0400",
-      "mined_at": "2026-10-28T10:27:04+00:00",
-      "source_published_at": "Tue, 27 Oct 2026 18:35:36 -0400",
-      "image_url": "/article_images/news-s4cafb610b83f6091.webp",
+      "id": "2026-10-29-news-2",
+      "source": "CBC World",
+      "time_ago": "Wed, 28 Oct 2026 21:05:21 EDT",
+      "mined_at": "2026-10-29T10:26:11+00:00",
+      "source_published_at": "Wed, 28 Oct 2026 21:05:21 EDT",
+      "image_url": "/article_images/news-s9f2ba6f07beeea8a.webp",
       "category": "News",
-      "title": "Georgia Works to Rebuild Trust in Its Elections",
-      "summary": "Georgia is testing its voting machines before the midterm elections, hoping voters will trust that every vote is counted."
+      "title": "Personal Details of 40,000 Homeland Security Workers Appear Online",
+      "summary": "A leak website says it published personal details of more than 40,000 Homeland Security employees; DHS says it is working on a potential breach, and the full trove has not been independently verified."
     },
     {
-      "id": "2026-10-28-news-3",
-      "source": "NPR World",
-      "time_ago": "Wed, 28 Oct 2026 02:15:31 -0400",
-      "mined_at": "2026-10-28T10:27:04+00:00",
-      "source_published_at": "Wed, 28 Oct 2026 02:15:31 -0400",
-      "image_url": "/article_images/news-s6ff1035491932436.webp",
+      "id": "2026-10-29-news-3",
+      "source": "BBC News",
+      "time_ago": "Wed, 28 Oct 2026 23:11:59 GMT",
+      "mined_at": "2026-10-29T10:26:11+00:00",
+      "source_published_at": "Wed, 28 Oct 2026 23:11:59 GMT",
+      "image_url": "/article_images/news-s7ed5a21cf4356a9a.webp",
       "category": "News",
-      "title": "Trump Says He Is Ending Limits on Methane From Drilling",
-      "summary": "Trump is ending limits on methane from oil drilling. Supporters say it saves money; critics say it lets harmful gas keep escaping."
+      "title": "300,000 People in the Path of Himalayan Disasters as Building Booms",
+      "summary": "A new study finds at least 300,000 people now live in the path of potential Himalayan disasters as tourism, housing, and hydropower expand along rivers and glacial lakes."
     }
   ]
 }
