@@ -1,0 +1,118 @@
+{
+  "title": "The Shape-Shifting DNA Behind the Octopus Brain",
+  "summary": "From the octopus that went viral playing piano underwater to cuttlefish that solve puzzles, many cephalopods show an uncanny intelligence. Over hundreds of millions of years, they gained remarkable abilities, like morphing in fractions of a second to blend in and fool predators.\n\nOctopus, squid and cuttlefish, known as coleoid cephalopods, developed the largest brains of any invertebrates after they appeared around 270 million years ago. Evolution also gave them specialized organs and behaviors, a big advantage in a sea of hungry jaws. Way back then, their common ancestor is thought to have undergone a massive rearrangement of its genome.\n\nThea Rogers, a molecular biologist at the University of Vienna, and her team analyzed the genome structures of octopus, squid and cuttlefish. Their findings, recently published in Nature Communications, suggest the secret may lie in how cephalopod DNA is packaged. When DNA folds inside a cell, sections that would otherwise be far apart are pushed close together into a chromatin loop. That closeness can determine how genes on those segments are activated and used.\n\nOver evolutionary time, these interactions grew more sophisticated, leading to regulatory entanglement, in which genes become so involved with each other that they are nearly inseparable. That may be why genes keep carrying out essential functions even as new patterns of gene expression emerge.\n\nAnother striking feature: the genome's larger structural units, called chromatin domains, stayed stable through millennia of evolution. They stay mostly the same across cell types, cell divisions and coleoid species. The smaller chromatin loops, by contrast, are more dynamic, creating new patterns of gene activity that help an organism survive.\n\nRogers cautions it is unknown whether this directly drives cephalopod intelligence, but says it plays a part in building the complex nervous systems behind disguising as rocks or playing an instrument. Together, the findings show how a genome's three-dimensional organization both shapes and is shaped by evolution.",
+  "why_it_matters": "Understanding how DNA packaging shapes brains could help scientists explain how complex minds evolve, and how the same genetic toolkit can produce very different animals.",
+  "image_url": "/article_images/science-s7440ff794eda57b4.webp",
+  "keywords": [
+    {
+      "term": "cephalopods",
+      "explanation": "A group of sea animals that includes octopus, squid and cuttlefish."
+    },
+    {
+      "term": "genome",
+      "explanation": "All the DNA instructions of a living thing."
+    },
+    {
+      "term": "chromatin loop",
+      "explanation": "A fold that brings two far-apart sections of DNA close together inside a cell."
+    },
+    {
+      "term": "regulatory entanglement",
+      "explanation": "A state in which genes are so involved with each other that they are nearly inseparable."
+    },
+    {
+      "term": "gene expression",
+      "explanation": "The process by which a gene is switched on and used to do a job in the body."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Which animals are called coleoid cephalopods in the article?",
+      "options": [
+        "Cuttlefish, crabs and squid",
+        "Squid, jellyfish and octopus",
+        "Octopus, sharks and cuttlefish",
+        "Octopus, squid and cuttlefish"
+      ],
+      "correct_answer": "Octopus, squid and cuttlefish"
+    },
+    {
+      "question": "What did Rogers and her team analyze?",
+      "options": [
+        "The migration routes of squid",
+        "The diets of deep-sea fish",
+        "The brains of dolphins and whales",
+        "The genome structures of octopus, squid and cuttlefish"
+      ],
+      "correct_answer": "The genome structures of octopus, squid and cuttlefish"
+    },
+    {
+      "question": "According to the findings, what can happen when DNA folds inside a cell?",
+      "options": [
+        "Genes disappear from the genome",
+        "Sections that would otherwise be far apart are pushed close together into a chromatin loop",
+        "DNA splits into two separate cells",
+        "The cell stops dividing for good"
+      ],
+      "correct_answer": "Sections that would otherwise be far apart are pushed close together into a chromatin loop"
+    },
+    {
+      "question": "What stayed stable through evolution, according to the article?",
+      "options": [
+        "The larger structural units called chromatin domains",
+        "The size of all squid brains",
+        "The number of arms on a cuttlefish",
+        "The colour of every octopus"
+      ],
+      "correct_answer": "The larger structural units called chromatin domains"
+    },
+    {
+      "question": "What does Rogers caution is still unknown?",
+      "options": [
+        "Whether octopuses can solve puzzles",
+        "Whether cuttlefish change colour",
+        "Whether squid live in deep water",
+        "Whether this directly drives cephalopod intelligence"
+      ],
+      "correct_answer": "Whether this directly drives cephalopod intelligence"
+    },
+    {
+      "question": "What did the common ancestor of coleoid cephalopods undergo, according to the article?",
+      "options": [
+        "A change into a vertebrate",
+        "A massive rearrangement of its genome",
+        "A loss of all its genes",
+        "A move from the sea to land"
+      ],
+      "correct_answer": "A massive rearrangement of its genome"
+    }
+  ],
+  "background_read": [
+    "DNA is the set of instructions inside the cells of a living thing, and genes are sections of DNA that help build and run the body.",
+    "Inside a cell, DNA is not laid out in a straight line; it folds and loops, which can bring distant sections close together and change how genes are switched on.",
+    "Cephalopods are sea animals such as octopus, squid and cuttlefish, and many of them can change colour and shape quickly to hide from predators.",
+    "Over long stretches of evolution, small changes in how genes are used can add up to big differences in brains and behaviour."
+  ],
+  "Article_Structure": [
+    "LEAD: Cephalopods such as octopus and cuttlefish show remarkable intelligence and fast shape-changing abilities.",
+    "KEY EVENT: A study of cephalopod genome structures suggests DNA packaging may hold part of the secret.",
+    "  ├─ WHO: Thea Rogers and her team at the University of Vienna",
+    "  ├─ WHAT: They analyzed the genome structures of octopus, squid and cuttlefish.",
+    "  └─ PUBLISHED: Recently in Nature Communications",
+    "EVIDENCE: Chromatin loops push distant DNA sections together, affecting how genes are activated; larger chromatin domains stayed stable while smaller loops changed.",
+    "OPEN QUESTION: It is unknown whether this directly drives cephalopod intelligence."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Thea Rogers's caution",
+      "description": "She cautions that it is unknown whether this DNA packaging directly drives cephalopod intelligence, but says it plays a part in building the complex nervous systems behind their abilities."
+    }
+  ],
+  "mined_at": "2026-10-30T10:25:00+00:00",
+  "source_published_at": "Thu, 29 Oct 2026 13:00:00 +0000",
+  "source_name": "Popular Mechanics",
+  "source_url": "https://www.popularmechanics.com/science/a74262971/cephalopod-intelligence-genes/",
+  "category": "Science",
+  "source_word_count": 800,
+  "detail_status": "full"
+}

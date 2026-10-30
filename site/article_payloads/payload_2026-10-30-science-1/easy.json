@@ -1,0 +1,118 @@
+{
+  "title": "The Shape-Shifting DNA Behind the Octopus Brain",
+  "summary": "Octopuses, squid, and cuttlefish are amazingly smart sea animals. They can change shape in less than a second to hide from hungry hunters, and some can even solve puzzles. These animals are called coleoid cephalopods, and they have the largest brains of any animals without backbones. They appeared about 270 million years ago, after their shared ancestor's DNA went through a huge rearrangement. Thea Rogers, a molecular biologist at the University of Vienna, and her team studied the DNA of octopus, squid, and cuttlefish. Their work, recently published in Nature Communications, suggests the secret is in how DNA is packed. When DNA folds, far-apart parts are pushed close together into loops called chromatin loops. That closeness can change how genes are switched on and used. The bigger blocks of DNA stayed mostly the same, while the smaller loops changed more, making new patterns that help the animal survive. Rogers says it is still unknown if this directly causes their smarts, but it helps build the nervous systems behind hiding like a rock or playing an instrument.",
+  "why_it_matters": "It shows how tiny changes inside living things can help animals solve problems and stay safe, just like learning new tricks helps you handle tricky situations.",
+  "image_url": "/article_images/science-s7440ff794eda57b4.webp",
+  "keywords": [
+    {
+      "term": "cephalopods",
+      "explanation": "A group of smart sea animals that includes octopuses, squid, and cuttlefish."
+    },
+    {
+      "term": "rearrangement",
+      "explanation": "A big change in the order or layout of something, here the layout of DNA."
+    },
+    {
+      "term": "chromatin loops",
+      "explanation": "Loops formed when folded DNA pushes far-apart parts close together."
+    },
+    {
+      "term": "genes",
+      "explanation": "Parts of DNA that carry instructions for how a living thing grows and works."
+    },
+    {
+      "term": "nervous systems",
+      "explanation": "The network of nerves that carries messages around an animal's body and controls what it does."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Which animals are called coleoid cephalopods in the story?",
+      "options": [
+        "Seahorses, starfish, and jellyfish",
+        "Octopuses, squid, and cuttlefish",
+        "Sharks, whales, and dolphins",
+        "Crabs, lobsters, and shrimp"
+      ],
+      "correct_answer": "Octopuses, squid, and cuttlefish"
+    },
+    {
+      "question": "What can these animals do in less than a second?",
+      "options": [
+        "Solve a puzzle",
+        "Play an instrument",
+        "Grow a backbone",
+        "Change shape to hide from hungry hunters"
+      ],
+      "correct_answer": "Change shape to hide from hungry hunters"
+    },
+    {
+      "question": "What happened to their shared ancestor's DNA long ago?",
+      "options": [
+        "It disappeared completely",
+        "It became a single gene",
+        "It went through a huge rearrangement",
+        "It stopped folding"
+      ],
+      "correct_answer": "It went through a huge rearrangement"
+    },
+    {
+      "question": "According to the story, where might the secret to their smarts be?",
+      "options": [
+        "In the size of their eyes",
+        "In how DNA is packed",
+        "In the colour of their skin",
+        "In how fast they swim"
+      ],
+      "correct_answer": "In how DNA is packed"
+    },
+    {
+      "question": "What happens when DNA folds?",
+      "options": [
+        "All genes switch off forever",
+        "The animal grows a backbone",
+        "Far-apart parts are pushed close together into loops called chromatin loops",
+        "The bigger blocks of DNA disappear"
+      ],
+      "correct_answer": "Far-apart parts are pushed close together into loops called chromatin loops"
+    },
+    {
+      "question": "What is still unknown, according to Rogers?",
+      "options": [
+        "Whether cuttlefish solve puzzles",
+        "Whether squid can change shape",
+        "Whether this folding directly causes their smarts",
+        "Whether octopuses live in the sea"
+      ],
+      "correct_answer": "Whether this folding directly causes their smarts"
+    }
+  ],
+  "background_read": [
+    "Octopuses, squid, and cuttlefish are soft-bodied sea animals without backbones that are known for being clever and able to change shape to hide.",
+    "Inside their cells, DNA is packed by folding, and when it folds, far-apart parts are pushed close together into loops, which can change how genes are switched on and used.",
+    "Changes in these smaller folding patterns can help build the nervous systems behind their hiding and puzzle-solving skills."
+  ],
+  "Article_Structure": [
+    "WHO: Thea Rogers and her team, who studied the DNA of octopus, squid, and cuttlefish.",
+    "WHAT: They found that how DNA is packed and folded into loops may help build the nervous systems behind these animals' clever hiding and puzzle-solving.",
+    "WHERE: In the DNA of octopuses, squid, and cuttlefish, sea animals without backbones.",
+    "WHY: To understand what makes these animals so smart and able to survive by changing shape quickly."
+  ],
+  "perspectives": [
+    {
+      "perspective": "The research team's view",
+      "description": "The team suggests the secret is in how DNA is packed, with smaller loops changing more and making new patterns that help the animal survive."
+    },
+    {
+      "perspective": "Rogers's caution",
+      "description": "Rogers says it is still unknown if this directly causes their smarts, but it helps build the nervous systems behind hiding like a rock or playing an instrument."
+    }
+  ],
+  "mined_at": "2026-10-30T10:25:00+00:00",
+  "source_published_at": "Thu, 29 Oct 2026 13:00:00 +0000",
+  "source_name": "Popular Mechanics",
+  "source_url": "https://www.popularmechanics.com/science/a74262971/cephalopod-intelligence-genes/",
+  "category": "Science",
+  "source_word_count": 800,
+  "detail_status": "full"
+}

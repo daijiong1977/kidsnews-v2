@@ -1,0 +1,114 @@
+{
+  "title": "Even Birds Get Jet Lag",
+  "summary": "New research says humans are not the only ones who get jet lag. Some birds may get it too. A study in Science looked at Manx shearwaters, a common bird in the British Isles. They look a little like seagulls but are closely related to albatrosses, said Patrick Lewin of the University of Oxford. Shearwater pairs mate for life and lay just one egg. They take turns sitting on it: one partner stays on the egg while the other goes to sea. The hunting partner may spend up to two weeks hunting fish and squid in the North Atlantic, often hundreds of miles from home. Then it races back to its colony, often in a day or so. The birds are believed to use the sun to find their way. That only works if they know the time of day. But when they rush home, their inner clocks fall out of sync with the sun, so they veer slightly off course. At most, a seven-degree error took a bird about three miles out of its way on a 600-mile trip.",
+  "why_it_matters": "It shows that even animals can feel mixed up when their body clocks do not match the world around them, just like you might after a long trip or a late night.",
+  "image_url": "/article_images/fun-s274eb7293bce6ca4.webp",
+  "keywords": [
+    {
+      "term": "shearwaters",
+      "explanation": "A kind of seabird that spends much of its life flying over the ocean."
+    },
+    {
+      "term": "albatrosses",
+      "explanation": "Very large seabirds with long wings that travel huge distances over the sea."
+    },
+    {
+      "term": "colony",
+      "explanation": "A place where a large group of birds of the same kind live and raise their young together."
+    },
+    {
+      "term": "veer",
+      "explanation": "To turn slightly away from the direction you meant to go."
+    },
+    {
+      "term": "jet lag",
+      "explanation": "The tired, mixed-up feeling when your body's inner clock does not match the time where you are."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Which birds did the study look at?",
+      "options": [
+        "Puffins in Scotland",
+        "Seagulls in London",
+        "Manx shearwaters",
+        "Albatrosses in the South Atlantic"
+      ],
+      "correct_answer": "Manx shearwaters"
+    },
+    {
+      "question": "What do shearwater pairs do with their egg?",
+      "options": [
+        "They take turns sitting on it",
+        "They hide it in a burrow all winter",
+        "They carry it with them to sea",
+        "They leave it alone on a beach"
+      ],
+      "correct_answer": "They take turns sitting on it"
+    },
+    {
+      "question": "What does the hunting partner hunt?",
+      "options": [
+        "Crabs and seaweed",
+        "Fish and squid",
+        "Small seabirds",
+        "Berries and insects"
+      ],
+      "correct_answer": "Fish and squid"
+    },
+    {
+      "question": "How are the birds believed to find their way?",
+      "options": [
+        "By smelling the sea",
+        "By following other birds",
+        "By listening for waves",
+        "By using the sun"
+      ],
+      "correct_answer": "By using the sun"
+    },
+    {
+      "question": "What happens when the birds rush home?",
+      "options": [
+        "They lose all their feathers",
+        "They forget where their colony is",
+        "Their inner clocks fall out of sync with the sun",
+        "They stop and rest for a week"
+      ],
+      "correct_answer": "Their inner clocks fall out of sync with the sun"
+    },
+    {
+      "question": "At most, how far out of its way did a seven-degree error take a bird on a 600-mile trip?",
+      "options": [
+        "About six hundred miles",
+        "About sixty miles",
+        "About three miles",
+        "About thirty miles"
+      ],
+      "correct_answer": "About three miles"
+    }
+  ],
+  "background_read": [
+    "Many seabirds travel far from home to find food, then return to the place where they raise their young.",
+    "Some birds seem to use the sun to guide them, and that only works if their inner sense of time matches the real time of day.",
+    "When a bird rushes home after a long trip, its inner clock can fall out of step with the sun, so it may drift slightly off course."
+  ],
+  "Article_Structure": [
+    "WHO: Manx shearwaters, seabirds from the British Isles, and researcher Patrick Lewin of the University of Oxford",
+    "WHAT: Rushing home after long hunting trips throws the birds' inner clocks out of sync with the sun, so they veer slightly off course",
+    "WHERE: The North Atlantic, on the long trip back to their colony",
+    "WHY: The birds use the sun to find their way, and that only works if they know the time of day"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Patrick Lewin",
+      "description": "Says Manx shearwaters look a little like seagulls but are closely related to albatrosses."
+    }
+  ],
+  "mined_at": "2026-10-30T10:25:00+00:00",
+  "source_published_at": "Thu, 29 Oct 2026 14:00:00 -0400",
+  "source_name": "NPR World",
+  "source_url": "https://www.npr.org/2026/10/29/nx-s1-6019228/manx-shearwater-jet-lag-birds",
+  "category": "Fun",
+  "source_word_count": 536,
+  "detail_status": "full"
+}

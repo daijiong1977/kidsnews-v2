@@ -1,0 +1,118 @@
+{
+  "title": "How the AP Decides Who Won an Election",
+  "summary": "On election night, news that a candidate has won often comes from The Associated Press, or AP. The AP has tracked United States elections for 178 years. It will count results for nearly 7,000 races, including Congress and governor races. About 4,000 journalists will collect results, and around 1,000 clerks will enter the totals. Then the AP's Decision Team studies the results. A race is not called until the other candidates have no path left to win. Certainty is the standard, said David Scott, the AP's vice president for U.S. election services. In 1972, about 95 percent voted in person on Election Day, but now less than half do, and most vote early, by mail or in person. The AP is also working with news networks on a new Voter Poll. It cannot call a race, but it can show which way an election may be going. Some races take longer. The AP called the 2020 presidential election four days later. In 2000, it never called the race between George W. Bush and Al Gore because Florida was too close.",
+  "why_it_matters": "When you hear who won on election night, knowing someone checked the numbers carefully helps you trust that the winner was really chosen by the voters.",
+  "image_url": "/article_images/news-s68b55324fed0f38b.webp",
+  "keywords": [
+    {
+      "term": "candidate",
+      "explanation": "A person trying to win a job in an election."
+    },
+    {
+      "term": "governor",
+      "explanation": "The leader of a state."
+    },
+    {
+      "term": "journalists",
+      "explanation": "People who gather and report news."
+    },
+    {
+      "term": "clerks",
+      "explanation": "Workers who enter and keep records of numbers."
+    },
+    {
+      "term": "Certainty",
+      "explanation": "Being sure that something is true before saying it."
+    },
+    {
+      "term": "Voter Poll",
+      "explanation": "A survey that asks voters about their votes to show which way an election may be going."
+    }
+  ],
+  "questions": [
+    {
+      "question": "When does the AP call a race?",
+      "options": [
+        "As soon as the first results come in",
+        "On election night no matter what",
+        "When the other candidates have no path left to win",
+        "When a poll says one candidate is ahead"
+      ],
+      "correct_answer": "When the other candidates have no path left to win"
+    },
+    {
+      "question": "About how many journalists will collect results?",
+      "options": [
+        "178",
+        "Around 1,000",
+        "Nearly 7,000",
+        "About 4,000"
+      ],
+      "correct_answer": "About 4,000"
+    },
+    {
+      "question": "What can the new Voter Poll do?",
+      "options": [
+        "Enter the vote totals",
+        "Count nearly 7,000 races",
+        "Call a race",
+        "Show which way an election may be going"
+      ],
+      "correct_answer": "Show which way an election may be going"
+    },
+    {
+      "question": "Why did the AP never call the 2000 race between George W. Bush and Al Gore?",
+      "options": [
+        "Because the results took four days",
+        "Because the Decision Team did not meet",
+        "Because Florida was too close",
+        "Because most people voted by mail"
+      ],
+      "correct_answer": "Because Florida was too close"
+    },
+    {
+      "question": "When did the AP call the 2020 presidential election?",
+      "options": [
+        "Two days later",
+        "Four days later",
+        "It never called it",
+        "On election night"
+      ],
+      "correct_answer": "Four days later"
+    },
+    {
+      "question": "Which races will the AP count results for?",
+      "options": [
+        "Only races in Florida",
+        "Only the presidential race",
+        "Only governor races",
+        "Nearly 7,000 races, including Congress and governor races"
+      ],
+      "correct_answer": "Nearly 7,000 races, including Congress and governor races"
+    }
+  ],
+  "background_read": [
+    "The Associated Press collects and studies election results from races across the country.",
+    "A race is only called when the other candidates have no path left to win, so the winner must be certain.",
+    "Waiting for that certainty helps make sure the winner is announced correctly, even if some races take longer to decide."
+  ],
+  "Article_Structure": [
+    "WHO: The Associated Press, its Decision Team, about 4,000 journalists and around 1,000 clerks",
+    "WHAT: The AP collects vote totals, studies the results, and calls a winner only when the result is certain",
+    "WHERE: Across the United States, in races including Congress and governor races",
+    "WHY: So that a winner is announced only when the other candidates have no path left to win"
+  ],
+  "perspectives": [
+    {
+      "perspective": "David Scott",
+      "description": "He says certainty is the standard for calling a race."
+    }
+  ],
+  "mined_at": "2026-10-30T10:25:00+00:00",
+  "source_published_at": "Thu, 29 Oct 2026 18:55:29 -0400",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/politics/watch-how-does-the-associated-press-call-2026-midterm-election-winners-4-things-to-know",
+  "category": "News",
+  "source_word_count": 678,
+  "detail_status": "full"
+}

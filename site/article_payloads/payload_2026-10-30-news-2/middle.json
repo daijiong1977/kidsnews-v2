@@ -1,0 +1,118 @@
+{
+  "title": "How the AP Decides Who Won an Election",
+  "summary": "On election night, the news that a candidate has won often comes from The Associated Press, which has tracked voting in United States elections for 178 years.\n\nThe AP will tabulate results for nearly 7,000 races, including Congress, state legislatures, governor and some local races. About 4,000 AP journalists will collect results from voting precincts and election offices across the country, while around 1,000 vote-entry clerks enter candidates' totals into the AP's election night reporting system. Results are checked against county and state websites and electronic feeds.\n\nThen the AP's Decision Team, journalists, data analysts and political science experts who study elections full-time, studies the results. A race is not called until a candidate has reached the point where competitors no longer have a path to victory. Certainty is the standard, said David Scott, the AP's vice president for U.S. election services.\n\nHow Americans vote has changed a lot. In 1972, Scott said, about 95 percent voted at a polling place on Election Day, compared with less than half now. Most people now cast ballots before Election Day, by mail or through in-person early voting.\n\nFor the first time in a major general election, the AP is partnering with broadcast news networks on a new Voter Poll, developed with ABC News, CBS News, CNN, Fox News, MS NOW and NBC News. About 75,000 voters are being surveyed before Election Day, and around 25,000 more will be interviewed at polling places in 15 states on November 3. It cannot call a race itself, but it can show which direction an election may be going.\n\nSome races take longer: the AP called the 2020 presidential election four days later, and in 2000 it never called the race between George W. Bush and Al Gore, judging the margin in Florida too close to declare a winner.",
+  "why_it_matters": "How winners are called shapes what the public believes on election night, so a careful standard based on certainty helps avoid declaring a winner before the votes prove it.",
+  "image_url": "/article_images/news-s68b55324fed0f38b.webp",
+  "keywords": [
+    {
+      "term": "tabulate",
+      "explanation": "To count up and record results in an orderly way."
+    },
+    {
+      "term": "precincts",
+      "explanation": "Small local voting areas, each with its own polling place."
+    },
+    {
+      "term": "legislatures",
+      "explanation": "Groups of elected people who make laws for a state."
+    },
+    {
+      "term": "surveyed",
+      "explanation": "Asked a group of people questions to learn what they think or how they voted."
+    },
+    {
+      "term": "margin",
+      "explanation": "The size of the gap between the winner's votes and the next candidate's votes."
+    }
+  ],
+  "questions": [
+    {
+      "question": "For about how many races will the AP tabulate results?",
+      "options": [
+        "About 1,000",
+        "Fifteen",
+        "Nearly 7,000",
+        "About 75,000"
+      ],
+      "correct_answer": "Nearly 7,000"
+    },
+    {
+      "question": "When does the AP call a race?",
+      "options": [
+        "When a candidate's competitors no longer have a path to victory",
+        "When the Voter Poll points one way",
+        "As soon as the first results arrive",
+        "On the morning after Election Day"
+      ],
+      "correct_answer": "When a candidate's competitors no longer have a path to victory"
+    },
+    {
+      "question": "According to David Scott, what is the standard for calling a race?",
+      "options": [
+        "Certainty",
+        "Popularity",
+        "Speed",
+        "Tradition"
+      ],
+      "correct_answer": "Certainty"
+    },
+    {
+      "question": "In 1972, about what share of voters voted at a polling place on Election Day?",
+      "options": [
+        "About 25 percent",
+        "About 95 percent",
+        "About 75 percent",
+        "Less than half"
+      ],
+      "correct_answer": "About 95 percent"
+    },
+    {
+      "question": "What can the new Voter Poll NOT do?",
+      "options": [
+        "Show which direction an election may be going",
+        "Interview voters at polling places",
+        "Call a race itself",
+        "Survey voters before Election Day"
+      ],
+      "correct_answer": "Call a race itself"
+    },
+    {
+      "question": "Why did the AP never call the 2000 race between George W. Bush and Al Gore?",
+      "options": [
+        "Because the margin in Florida was judged too close to declare a winner",
+        "Because it had no journalists in Florida",
+        "Because no votes were counted in Florida",
+        "Because the Voter Poll had not been created yet"
+      ],
+      "correct_answer": "Because the margin in Florida was judged too close to declare a winner"
+    }
+  ],
+  "background_read": [
+    "The Associated Press is a news organization that gathers and shares news from across the country.",
+    "Election results are counted by local election offices, and news organizations report a winner only after studying those counts.",
+    "A race is called when the remaining votes cannot change the outcome, which is why very close races can take longer to decide.",
+    "More voters now vote before Election Day by mail or in person, so counting can continue after Election Day."
+  ],
+  "Article_Structure": [
+    "LEAD: On election night, news that a candidate has won often comes from The Associated Press.",
+    "KEY EVENT: The AP explains how it collects results and decides when a race can be called.",
+    "  ├─ WHO: About 4,000 AP journalists, around 1,000 vote-entry clerks, and the AP's Decision Team.",
+    "  ├─ WHAT: Tabulating results for nearly 7,000 races and calling a winner only when rivals have no path left.",
+    "  └─ WHEN: On election night, with some races taking days longer.",
+    "EVIDENCE: In 1972 about 95 percent voted at a polling place on Election Day, compared with less than half now; the AP called the 2020 presidential election four days later and never called the 2000 race because Florida was too close.",
+    "NEW DEVELOPMENT: For the first time in a major general election, the AP is partnering with broadcast news networks on a new Voter Poll."
+  ],
+  "perspectives": [
+    {
+      "perspective": "David Scott, the AP's vice president for U.S. election services",
+      "description": "Says certainty is the standard for calling a race."
+    }
+  ],
+  "mined_at": "2026-10-30T10:25:00+00:00",
+  "source_published_at": "Thu, 29 Oct 2026 18:55:29 -0400",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/politics/watch-how-does-the-associated-press-call-2026-midterm-election-winners-4-things-to-know",
+  "category": "News",
+  "source_word_count": 678,
+  "detail_status": "full"
+}

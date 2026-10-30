@@ -1,0 +1,114 @@
+{
+  "title": "Two Electrons Team Up to Break a Physics Limit",
+  "summary": "Scientists have pushed X-ray creation past a long-accepted laser physics limit by aiming powerful ultraviolet lasers at helium atoms, making X-rays with much higher energies than usual theory predicts. The discovery comes from a team at TU Wien and the University of California San Diego. But theory sets a top energy from the incoming laser, past which X-ray production becomes extremely weak. The usual process, says Prof. Tenio Popmintchev of the Institute of Photonics at TU Wien, is this: the laser pulls one electron from the atom, speeds it up, and brings it back to crash into the atom, releasing its energy as much higher-frequency light. This time, the team freed two electrons from helium, one after the other. Though freed at different moments, they stayed linked through quantum correlations, so their movements cannot be treated as separate. The team timed the pulses so both electrons returned together, releasing their energy at once and making a single higher-energy X-ray photon past the usual cutoff. The effect appeared only with helium, not with argon or neon.",
+  "why_it_matters": "It shows that working together can beat a limit that seems fixed, just like teamwork in class can solve a problem that feels too hard alone.",
+  "image_url": "/article_images/science-sae36f5965887e6c6.webp",
+  "keywords": [
+    {
+      "term": "ultraviolet",
+      "explanation": "A kind of light with more energy than visible light, which our eyes cannot see."
+    },
+    {
+      "term": "quantum correlations",
+      "explanation": "A link between particles that means their movements cannot be treated as separate."
+    },
+    {
+      "term": "photon",
+      "explanation": "A single tiny packet of light energy."
+    },
+    {
+      "term": "cutoff",
+      "explanation": "A top limit that is not normally passed, here the top X-ray energy set by theory."
+    },
+    {
+      "term": "argon",
+      "explanation": "A gas whose atoms were tested in this work but did not show the effect."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What did scientists aim at helium atoms?",
+      "options": [
+        "A stream of water",
+        "A beam of sunlight",
+        "Powerful ultraviolet lasers",
+        "Sound waves"
+      ],
+      "correct_answer": "Powerful ultraviolet lasers"
+    },
+    {
+      "question": "What is the usual process for making X-rays with a laser?",
+      "options": [
+        "The laser cools the atom until it glows",
+        "The laser pulls one electron from the atom, speeds it up, and brings it back to crash into the atom",
+        "The laser melts the whole atom",
+        "Two atoms join together into one"
+      ],
+      "correct_answer": "The laser pulls one electron from the atom, speeds it up, and brings it back to crash into the atom"
+    },
+    {
+      "question": "What was different this time?",
+      "options": [
+        "The team stopped the electrons from moving",
+        "The team freed electrons from a planet",
+        "The team used no laser at all",
+        "The team freed two electrons from helium, one after the other"
+      ],
+      "correct_answer": "The team freed two electrons from helium, one after the other"
+    },
+    {
+      "question": "Why could the two electrons not be treated as separate?",
+      "options": [
+        "They never left the atom",
+        "They stayed linked through quantum correlations",
+        "They were stuck together with glue",
+        "They had the same colour"
+      ],
+      "correct_answer": "They stayed linked through quantum correlations"
+    },
+    {
+      "question": "What happened when both electrons returned together?",
+      "options": [
+        "They released their energy at once and made a single higher-energy X-ray photon past the usual cutoff",
+        "They flew away from the atom forever",
+        "They turned into argon atoms",
+        "They cancelled each other out and made nothing"
+      ],
+      "correct_answer": "They released their energy at once and made a single higher-energy X-ray photon past the usual cutoff"
+    },
+    {
+      "question": "With which atoms did the effect appear?",
+      "options": [
+        "With helium, argon, and neon equally",
+        "Only argon, not helium or neon",
+        "Only helium, not argon or neon",
+        "Only neon, not helium or argon"
+      ],
+      "correct_answer": "Only helium, not argon or neon"
+    }
+  ],
+  "background_read": [
+    "Atoms are made of tiny parts, including electrons that normally stay attached to the atom.",
+    "A powerful laser can pull an electron away, speed it up, and bring it back to crash into the atom, releasing its energy as higher-frequency light such as X-rays.",
+    "Theory sets a top energy for this light from the incoming laser, past which making X-rays becomes extremely weak."
+  ],
+  "Article_Structure": [
+    "WHO: A team at TU Wien and the University of California San Diego, including Prof. Tenio Popmintchev.",
+    "WHAT: They pushed X-ray creation past the usual laser physics limit by freeing two linked electrons from helium and timing them to return together.",
+    "WHERE: In a laboratory experiment aiming powerful ultraviolet lasers at helium atoms.",
+    "WHY: To make X-rays with much higher energies than usual theory predicts."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Prof. Tenio Popmintchev's explanation",
+      "description": "Popmintchev describes the usual process: the laser pulls one electron from the atom, speeds it up, and brings it back to crash into the atom, releasing its energy as much higher-frequency light."
+    }
+  ],
+  "mined_at": "2026-10-30T10:25:00+00:00",
+  "source_published_at": "Wed, 28 Oct 2026 23:39:27 EDT",
+  "source_name": "ScienceDaily Top Technology",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261027063713.htm",
+  "category": "Science",
+  "source_word_count": 734,
+  "detail_status": "full"
+}

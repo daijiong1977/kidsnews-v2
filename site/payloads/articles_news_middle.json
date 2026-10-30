@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-29-news-1",
-      "source": "CBC World",
-      "time_ago": "Wed, 28 Oct 2026 18:11:23 EDT",
-      "mined_at": "2026-10-29T10:26:11+00:00",
-      "source_published_at": "Wed, 28 Oct 2026 18:11:23 EDT",
-      "image_url": "/article_images/news-s7e33dd82409ad411.webp",
+      "id": "2026-10-30-news-1",
+      "source": "NPR World",
+      "time_ago": "Fri, 30 Oct 2026 05:00:00 -0400",
+      "mined_at": "2026-10-30T10:25:00+00:00",
+      "source_published_at": "Fri, 30 Oct 2026 05:00:00 -0400",
+      "image_url": "/article_images/news-saa246878273f5f46.webp",
       "category": "News",
-      "title": "Drone-Delivered Gel Speeds Healing on Ukraine's Front Lines",
-      "summary": "A Calgary-made gel that speeds healing is being flown by drone to Ukraine's front lines, where it has treated 6,000 wounded soldiers and civilians since June."
+      "title": "For Some New Voters, a Ballot Carries the Whole Family",
+      "summary": "New citizens and young voters from immigrant families say voting feels bigger than themselves, because it also speaks for parents and relatives who cannot vote."
     },
     {
-      "id": "2026-10-29-news-2",
-      "source": "CBC World",
-      "time_ago": "Wed, 28 Oct 2026 21:05:21 EDT",
-      "mined_at": "2026-10-29T10:26:11+00:00",
-      "source_published_at": "Wed, 28 Oct 2026 21:05:21 EDT",
-      "image_url": "/article_images/news-s9f2ba6f07beeea8a.webp",
+      "id": "2026-10-30-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Thu, 29 Oct 2026 18:55:29 -0400",
+      "mined_at": "2026-10-30T10:25:00+00:00",
+      "source_published_at": "Thu, 29 Oct 2026 18:55:29 -0400",
+      "image_url": "/article_images/news-s68b55324fed0f38b.webp",
       "category": "News",
-      "title": "Personal Details of 40,000 Homeland Security Workers Appear Online",
-      "summary": "A leak website says it published personal details of more than 40,000 Homeland Security employees; DHS says it is working on a potential breach, and the full trove has not been independently verified."
+      "title": "How the AP Decides Who Won an Election",
+      "summary": "The AP collects results for nearly 7,000 races and only calls a winner when rivals have no path left; a new Voter Poll surveys early and Election Day voters."
     },
     {
-      "id": "2026-10-29-news-3",
-      "source": "BBC News",
-      "time_ago": "Wed, 28 Oct 2026 23:11:59 GMT",
-      "mined_at": "2026-10-29T10:26:11+00:00",
-      "source_published_at": "Wed, 28 Oct 2026 23:11:59 GMT",
-      "image_url": "/article_images/news-s7ed5a21cf4356a9a.webp",
+      "id": "2026-10-30-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Thu, 29 Oct 2026 18:57:32 -0400",
+      "mined_at": "2026-10-30T10:25:00+00:00",
+      "source_published_at": "Thu, 29 Oct 2026 18:57:32 -0400",
+      "image_url": "/article_images/news-s2a8ac97490187cc2.webp",
       "category": "News",
-      "title": "300,000 People in the Path of Himalayan Disasters as Building Booms",
-      "summary": "A new study finds at least 300,000 people now live in the path of potential Himalayan disasters as tourism, housing, and hydropower expand along rivers and glacial lakes."
+      "title": "Judge Says California Must Keep Counting Ballots as They Are",
+      "summary": "A federal judge rejected a request to separate up to 20,000 California ballots, saying it would disrupt an election already underway; the Justice Department said it will appeal."
     }
   ]
 }

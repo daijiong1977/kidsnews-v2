@@ -1,0 +1,122 @@
+{
+  "title": "For Some New Voters, a Ballot Carries the Whole Family",
+  "summary": "Many young voters worry about homes, student loans, and starting a family. But for young people from immigrant families, voting can feel even bigger. Nicole Solis-Sison, 34, moved from the Philippines when she was seven, after her family fled and asked for asylum. After more than twenty years in the immigration system, she became an American citizen earlier this year. Now she is voting for the first time in New York City. Juan Escalante, 37, moved from Venezuela when he was 11. He learned in high school that he was undocumented. Under a program called Deferred Action for Childhood Arrivals, he became his family's first college graduate and, in 2025, its first American citizen. Now he votes in his first general election in California. Deisy Espana, 24, was born in Wisconsin, but her parents came from Mexico and were undocumented. She says she is voting for her parents, who cannot vote. Leydi Gonzalez, 23, of Texas says she is voting for her family's security.",
+  "why_it_matters": "Just like your family may make big decisions together, a vote can carry the hopes of parents and relatives who cannot vote themselves.",
+  "image_url": "/article_images/news-saa246878273f5f46.webp",
+  "keywords": [
+    {
+      "term": "asylum",
+      "explanation": "Safety and protection in a new country when your home is not safe."
+    },
+    {
+      "term": "immigrant",
+      "explanation": "A person who moves to a new country to live there."
+    },
+    {
+      "term": "undocumented",
+      "explanation": "Living in a country without official permission papers."
+    },
+    {
+      "term": "citizen",
+      "explanation": "A person who officially belongs to a country and can vote there."
+    },
+    {
+      "term": "general election",
+      "explanation": "A big vote where people choose leaders for many jobs."
+    },
+    {
+      "term": "student loans",
+      "explanation": "Money borrowed to pay for college that must be paid back later."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Who moved from the Philippines when she was seven?",
+      "options": [
+        "Juan Escalante",
+        "Deisy Espana",
+        "Nicole Solis-Sison",
+        "Leydi Gonzalez"
+      ],
+      "correct_answer": "Nicole Solis-Sison"
+    },
+    {
+      "question": "What did Nicole Solis-Sison's family ask for after they fled?",
+      "options": [
+        "A house",
+        "A college place",
+        "Asylum",
+        "A student loan"
+      ],
+      "correct_answer": "Asylum"
+    },
+    {
+      "question": "In which place does Juan Escalante vote in his first general election?",
+      "options": [
+        "Texas",
+        "Wisconsin",
+        "California",
+        "New York City"
+      ],
+      "correct_answer": "California"
+    },
+    {
+      "question": "Why does Deisy Espana say she is voting?",
+      "options": [
+        "For her family's security",
+        "For her parents, who cannot vote",
+        "Because she moved from Venezuela",
+        "To become her family's first college graduate"
+      ],
+      "correct_answer": "For her parents, who cannot vote"
+    },
+    {
+      "question": "What did Juan Escalante learn in high school?",
+      "options": [
+        "That he was his family's first citizen",
+        "That he was undocumented",
+        "That he was born in Wisconsin",
+        "That he had moved from the Philippines"
+      ],
+      "correct_answer": "That he was undocumented"
+    },
+    {
+      "question": "How old is Leydi Gonzalez?",
+      "options": [
+        "24",
+        "34",
+        "37",
+        "23"
+      ],
+      "correct_answer": "23"
+    }
+  ],
+  "background_read": [
+    "Voting is how citizens choose leaders and help decide what happens in their communities.",
+    "For people from immigrant families, becoming a citizen can take a long time, and only citizens can vote.",
+    "That is why a first vote can feel like a big moment for a whole family, not just for one person."
+  ],
+  "Article_Structure": [
+    "WHO: Nicole Solis-Sison, Juan Escalante, Deisy Espana and Leydi Gonzalez, new voters from immigrant families",
+    "WHAT: They are voting for the first time, or in a first general election, and say their votes carry meaning for their whole families",
+    "WHERE: In New York City, California and Texas, where these new voters are casting their votes",
+    "WHY: Because they waited years to become citizens, or have parents who cannot vote, so their vote also speaks for their family"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Deisy Espana",
+      "description": "She says she is voting for her parents, who cannot vote."
+    },
+    {
+      "perspective": "Leydi Gonzalez",
+      "description": "She says she is voting for her family's security."
+    }
+  ],
+  "mined_at": "2026-10-30T10:25:00+00:00",
+  "source_published_at": "Fri, 30 Oct 2026 05:00:00 -0400",
+  "source_name": "NPR World",
+  "source_url": "https://www.npr.org/2026/10/30/nx-s1-6022142/new-citizens-immigrant-voting-ice-trump",
+  "category": "News",
+  "source_word_count": 1564,
+  "detail_status": "full"
+}

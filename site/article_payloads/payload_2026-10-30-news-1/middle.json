@@ -1,0 +1,126 @@
+{
+  "title": "For Some New Voters, a Ballot Carries the Whole Family",
+  "summary": "For many young voters, the usual worries apply: affording a home, paying off student loans, starting a family. But for young people from immigrant families and new citizens, voting feels bigger.\n\nNicole Solis-Sison moved to America from the Philippines when she was seven, after her family fled the Philippine government and sought asylum. An immigration agent suggested they file for asylum, and after more than two decades in the immigration system, she became an American citizen earlier this year. Now 34, she is voting for the first time in New York City, and made herself a voter guide and diary. She says her immigrant experience informs her vote.\n\nJuan Escalante, originally from Venezuela, moved to the United States when he was 11 and learned as a high school junior that he was undocumented. His parents' lawyer mishandled their case, and his status changed only under the Deferred Action for Childhood Arrivals program. Under it he became his family's first college graduate, and in 2025 its first American citizen. Now 37, he votes in his first general election, after researching his long California ballot.\n\nDeisy Espana, 24, of Wisconsin was born in the United States, but both her parents came from Mexico and were undocumented while she grew up. She only later understood her parents' fear, recalling her mother praying when they were pulled over while driving. Her mother recently obtained a green card, but Espana says the fear has not fully gone away, and she is voting for her parents, who cannot vote.\n\nLeydi Gonzalez, 23, of Texas is an American citizen whose parents came from El Salvador. At 21, she petitioned for her parents, who now have authorization while awaiting residency approval. Her family has talked about who would care for her siblings if her parents were detained or deported, and she says she is voting for her family's security.",
+  "why_it_matters": "Voting can affect whole families, including relatives who cannot vote themselves, so decisions made at the ballot box can reach beyond the individual voter.",
+  "image_url": "/article_images/news-saa246878273f5f46.webp",
+  "keywords": [
+    {
+      "term": "asylum",
+      "explanation": "Protection given to people who have fled danger in their home country."
+    },
+    {
+      "term": "undocumented",
+      "explanation": "Living in a country without the official papers that allow a person to stay there."
+    },
+    {
+      "term": "green card",
+      "explanation": "A card that shows a person is allowed to live and work in the United States."
+    },
+    {
+      "term": "petitioned",
+      "explanation": "Made a formal request to the government, in this case asking for family members to be allowed to stay."
+    },
+    {
+      "term": "deported",
+      "explanation": "Sent out of a country by the government for not having permission to stay."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How old was Nicole Solis-Sison when her family moved to America from the Philippines?",
+      "options": [
+        "Seven",
+        "Twenty-one",
+        "Eleven",
+        "Thirty-four"
+      ],
+      "correct_answer": "Seven"
+    },
+    {
+      "question": "What did Juan Escalante learn when he was a high school junior?",
+      "options": [
+        "That he had won a scholarship",
+        "That he was undocumented",
+        "That his family had moved to Texas",
+        "That he could vote in New York City"
+      ],
+      "correct_answer": "That he was undocumented"
+    },
+    {
+      "question": "In what year did Juan Escalante become his family's first American citizen?",
+      "options": [
+        "2015",
+        "2025",
+        "2000",
+        "2020"
+      ],
+      "correct_answer": "2025"
+    },
+    {
+      "question": "Why does Deisy Espana say she is voting?",
+      "options": [
+        "For her parents, who cannot vote",
+        "To become a college graduate",
+        "To pay off her student loans",
+        "To move to California"
+      ],
+      "correct_answer": "For her parents, who cannot vote"
+    },
+    {
+      "question": "What did Deisy Espana's mother recently obtain?",
+      "options": [
+        "American citizenship",
+        "A voter guide",
+        "A college degree",
+        "A green card"
+      ],
+      "correct_answer": "A green card"
+    },
+    {
+      "question": "At what age did Leydi Gonzalez petition for her parents?",
+      "options": [
+        "At seven",
+        "At 23",
+        "At 21",
+        "At 11"
+      ],
+      "correct_answer": "At 21"
+    }
+  ],
+  "background_read": [
+    "In the United States, only citizens can vote, so people who are not citizens cannot cast a ballot even if their children or other family members can.",
+    "Becoming a citizen can take a long time and often involves many steps in the immigration system.",
+    "Some families include both citizens and noncitizens, so one person's vote can feel connected to the safety and future of the whole family.",
+    "A general election is a large election in which voters choose people for many offices at once."
+  ],
+  "Article_Structure": [
+    "LEAD: For young voters from immigrant families and new citizens, voting feels bigger than their own everyday worries.",
+    "KEY EVENT: Four young voters describe voting for the first time, or voting with their families in mind.",
+    "  ├─ PROFILE 1: Nicole Solis-Sison, who became a citizen earlier this year and is voting for the first time in New York City.",
+    "  ├─ PROFILE 2: Juan Escalante, who became his family's first American citizen in 2025 and votes in his first general election in California.",
+    "  ├─ PROFILE 3: Deisy Espana of Wisconsin, who is voting for her parents, who cannot vote.",
+    "  └─ PROFILE 4: Leydi Gonzalez of Texas, who says she is voting for her family's security.",
+    "THEME: For these voters, a ballot can speak for parents and relatives as well as for themselves."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Nicole Solis-Sison",
+      "description": "Says her immigrant experience informs her vote."
+    },
+    {
+      "perspective": "Deisy Espana",
+      "description": "Says she is voting for her parents, who cannot vote."
+    },
+    {
+      "perspective": "Leydi Gonzalez",
+      "description": "Says she is voting for her family's security."
+    }
+  ],
+  "mined_at": "2026-10-30T10:25:00+00:00",
+  "source_published_at": "Fri, 30 Oct 2026 05:00:00 -0400",
+  "source_name": "NPR World",
+  "source_url": "https://www.npr.org/2026/10/30/nx-s1-6022142/new-citizens-immigrant-voting-ice-trump",
+  "category": "News",
+  "source_word_count": 1564,
+  "detail_status": "full"
+}

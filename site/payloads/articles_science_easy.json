@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-29-science-1",
-      "source": "Space.com",
-      "time_ago": "Wed, 28 Oct 2026 20:00:00 +0000",
-      "mined_at": "2026-10-29T10:26:11+00:00",
-      "source_published_at": "Wed, 28 Oct 2026 20:00:00 +0000",
-      "image_url": "/article_images/science-s73d4a1d81e209f2d.webp",
+      "id": "2026-10-30-science-1",
+      "source": "Popular Mechanics",
+      "time_ago": "Thu, 29 Oct 2026 13:00:00 +0000",
+      "mined_at": "2026-10-30T10:25:00+00:00",
+      "source_published_at": "Thu, 29 Oct 2026 13:00:00 +0000",
+      "image_url": "/article_images/science-s7440ff794eda57b4.webp",
       "category": "Science",
-      "title": "Canada's First Spacewalk in Seven Years Will Add Station Power",
-      "summary": "Joshua Kutryk makes his first spacewalk on October 29 with Anil Menon to install new solar arrays that will boost the station's power by about 30 percent."
+      "title": "The Shape-Shifting DNA Behind the Octopus Brain",
+      "summary": "The way octopus DNA is packed inside cells may help explain their big brains and clever tricks."
     },
     {
-      "id": "2026-10-29-science-2",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Wed, 28 Oct 2026 08:11:52 EDT",
-      "mined_at": "2026-10-29T10:26:11+00:00",
-      "source_published_at": "Wed, 28 Oct 2026 08:11:52 EDT",
-      "image_url": "/article_images/science-s22c23be2ad358745.webp",
+      "id": "2026-10-30-science-2",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Thu, 29 Oct 2026 08:26:25 EDT",
+      "mined_at": "2026-10-30T10:25:00+00:00",
+      "source_published_at": "Thu, 29 Oct 2026 08:26:25 EDT",
+      "image_url": "/article_images/science-sdb79890d71b495dc.webp",
       "category": "Science",
-      "title": "The Fire Salamander's Secret Glow",
-      "summary": "Fire salamanders glow green and cyan under ultraviolet light, thanks to their skin glands, but scientists do not yet know why."
+      "title": "Jupiter Has Its Own, Busier Way of Blocking the Solar Wind",
+      "summary": "Jupiter blocks the solar wind with multi-frequency waves and extra little shocks, a busier system than Earth's."
     },
     {
-      "id": "2026-10-29-science-3",
-      "source": "Science News Explores",
-      "time_ago": "Tue, 27 Oct 2026 10:30:00 +0000",
-      "mined_at": "2026-10-29T10:26:11+00:00",
-      "source_published_at": "Tue, 27 Oct 2026 10:30:00 +0000",
-      "image_url": "/article_images/science-s661d29a595a4d84b.webp",
+      "id": "2026-10-30-science-3",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Wed, 28 Oct 2026 23:39:27 EDT",
+      "mined_at": "2026-10-30T10:25:00+00:00",
+      "source_published_at": "Wed, 28 Oct 2026 23:39:27 EDT",
+      "image_url": "/article_images/science-sae36f5965887e6c6.webp",
       "category": "Science",
-      "title": "The Grave Guarded Twice Against the Undead",
-      "summary": "A Polish grave fitted with both a sickle and a padlock is the first known to combine two precautions against the dead rising, and its occupant seems to have been a wealthy local young woman."
+      "title": "Two Electrons Team Up to Break a Physics Limit",
+      "summary": "Two linked electrons released their energy together, making X-rays more powerful than theory said was possible."
     }
   ]
 }
