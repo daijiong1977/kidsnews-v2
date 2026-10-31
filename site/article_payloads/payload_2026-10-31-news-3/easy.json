@@ -1,0 +1,126 @@
+{
+  "title": "Binance Works to Recover Billions After Major Hack",
+  "summary": "On October 30, 2026, Binance said hackers had stolen digital assets worth more than $6.3 billion. Binance is a large exchange where people trade digital money, with more than 300 million registered users worldwide.\n\nBinance said about $3 billion had been secured, but many assets were still in the hands of hackers no one has yet named. At first, it thought the break-in may have started with one engineer's laptop, but later it found more break-in points.\n\nBinance co-CEO Richard Teng said the attack was not done by one person. He said the hackers used a tool that erased traces, making the investigation harder.\n\nIn the United States, the Secret Service said it was working to find, freeze, trace, and recover the stolen funds, and Binance said it was also working with the FBI.\n\nBinance said its US-facing exchange was not affected. It told users their money was safe and that it was covering losses, setting aside more than $6.34 billion. Some experts warned customers to check their contracts, because a promise may not always be legally binding.",
+  "why_it_matters": "It matters because it shows why keeping online accounts safe is important when you use the internet.",
+  "image_url": "/article_images/news-s87450ba274569f27.webp",
+  "keywords": [
+    {
+      "term": "exchange",
+      "explanation": "An exchange is a place where people buy and sell digital money."
+    },
+    {
+      "term": "digital assets",
+      "explanation": "Digital assets are valuable things that exist only in digital form."
+    },
+    {
+      "term": "traces",
+      "explanation": "Traces are small signs left behind that show something happened."
+    },
+    {
+      "term": "investigation",
+      "explanation": "An investigation is a careful search to find out what happened."
+    },
+    {
+      "term": "contracts",
+      "explanation": "Contracts are written agreements that say what each person must do."
+    },
+    {
+      "term": "legally binding",
+      "explanation": "Legally binding means a promise must be kept because the law says so."
+    }
+  ],
+  "questions": [
+    {
+      "question": "According to Binance on October 30, 2026, how much in digital assets did hackers steal?",
+      "options": [
+        "$6.34 million",
+        "About $3 billion",
+        "More than $6.3 billion",
+        "More than $6.34 billion"
+      ],
+      "correct_answer": "More than $6.3 billion"
+    },
+    {
+      "question": "About how much of the stolen assets did Binance say had been secured?",
+      "options": [
+        "None of the stolen assets",
+        "More than $6.34 billion",
+        "More than $6.3 billion",
+        "About $3 billion"
+      ],
+      "correct_answer": "About $3 billion"
+    },
+    {
+      "question": "At first, what did Binance think the break-in may have started with?",
+      "options": [
+        "One engineer's laptop",
+        "The FBI's investigation",
+        "The Secret Service's freeze",
+        "A tool that erased traces"
+      ],
+      "correct_answer": "One engineer's laptop"
+    },
+    {
+      "question": "What did Binance co-CEO Richard Teng say about the attack?",
+      "options": [
+        "It only affected the US-facing exchange",
+        "It started with one engineer's laptop",
+        "It was done by one person",
+        "It was not done by one person"
+      ],
+      "correct_answer": "It was not done by one person"
+    },
+    {
+      "question": "Which agency said it was working to find, freeze, trace, and recover the stolen funds?",
+      "options": [
+        "Binance's US-facing exchange",
+        "The United States Secret Service",
+        "The FBI",
+        "A group of experts"
+      ],
+      "correct_answer": "The United States Secret Service"
+    },
+    {
+      "question": "What did Binance say about its US-facing exchange?",
+      "options": [
+        "It had lost more than $6.3 billion",
+        "It was the first break-in point",
+        "It was not affected",
+        "It had secured about $3 billion"
+      ],
+      "correct_answer": "It was not affected"
+    }
+  ],
+  "background_read": [
+    "Binance is a large online exchange where people buy, sell, and trade digital money.",
+    "An exchange holds and moves digital money for its users, so keeping it safe matters a lot.",
+    "Hackers broke in and stole digital assets, and Binance is now working with investigators to find and recover them."
+  ],
+  "Article_Structure": [
+    "WHO: Binance, its co-CEO Richard Teng, the unnamed hackers, the United States Secret Service, and the FBI",
+    "WHAT: Hackers stole digital assets worth more than $6.3 billion from Binance, about $3 billion was secured, and Binance set aside more than $6.34 billion to cover losses",
+    "WHERE: On Binance, a large exchange where people trade digital money, with help in the United States from the Secret Service and the FBI",
+    "WHY: Because many stolen assets were still in the hackers' hands and the hackers used a tool that erased traces, making the investigation harder"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Binance",
+      "description": "Binance said users' money was safe and that it was covering losses."
+    },
+    {
+      "perspective": "Richard Teng",
+      "description": "Binance co-CEO Richard Teng said the attack was not done by one person."
+    },
+    {
+      "perspective": "Some experts",
+      "description": "Some experts warned customers to check their contracts, because a promise may not always be legally binding."
+    }
+  ],
+  "mined_at": "2026-10-31T10:21:43+00:00",
+  "source_published_at": "Fri, 30 Oct 2026 21:13:14 GMT",
+  "source_name": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+  "category": "News",
+  "source_word_count": 546,
+  "detail_status": "full"
+}

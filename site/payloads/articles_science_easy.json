@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-30-science-1",
-      "source": "Popular Mechanics",
-      "time_ago": "Thu, 29 Oct 2026 13:00:00 +0000",
-      "mined_at": "2026-10-30T10:25:00+00:00",
-      "source_published_at": "Thu, 29 Oct 2026 13:00:00 +0000",
-      "image_url": "/article_images/science-s7440ff794eda57b4.webp",
+      "id": "2026-10-31-science-1",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Thu, 29 Oct 2026 22:07:19 EDT",
+      "mined_at": "2026-10-31T10:21:43+00:00",
+      "source_published_at": "Thu, 29 Oct 2026 22:07:19 EDT",
+      "image_url": "/article_images/science-s3a45543304e0b7b1.webp",
       "category": "Science",
-      "title": "The Shape-Shifting DNA Behind the Octopus Brain",
-      "summary": "The way octopus DNA is packed inside cells may help explain their big brains and clever tricks."
+      "title": "The Seahorse Lookalike That Is Not a Seahorse at All",
+      "summary": "A thumb-sized fish from deep reefs off southern Australia looks like a seahorse, but bone scans and DNA show it is on its own branch of the family tree."
     },
     {
-      "id": "2026-10-30-science-2",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Thu, 29 Oct 2026 08:26:25 EDT",
-      "mined_at": "2026-10-30T10:25:00+00:00",
-      "source_published_at": "Thu, 29 Oct 2026 08:26:25 EDT",
-      "image_url": "/article_images/science-sdb79890d71b495dc.webp",
+      "id": "2026-10-31-science-2",
+      "source": "Popular Science",
+      "time_ago": "Fri, 30 Oct 2026 14:34:53 -0400",
+      "mined_at": "2026-10-31T10:21:43+00:00",
+      "source_published_at": "Fri, 30 Oct 2026 14:34:53 -0400",
+      "image_url": "/article_images/science-s385f7c9166520938.webp",
       "category": "Science",
-      "title": "Jupiter Has Its Own, Busier Way of Blocking the Solar Wind",
-      "summary": "Jupiter blocks the solar wind with multi-frequency waves and extra little shocks, a busier system than Earth's."
+      "title": "Send Your Name to Saturn's Largest Moon",
+      "summary": "NASA's Dragonfly robot helicopter will fly to Titan in 2034, and you can sign up by January 15, 2027, to have your name carried aboard on a tiny chip."
     },
     {
-      "id": "2026-10-30-science-3",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Wed, 28 Oct 2026 23:39:27 EDT",
-      "mined_at": "2026-10-30T10:25:00+00:00",
-      "source_published_at": "Wed, 28 Oct 2026 23:39:27 EDT",
-      "image_url": "/article_images/science-sae36f5965887e6c6.webp",
+      "id": "2026-10-31-science-3",
+      "source": "ScienceDaily All",
+      "time_ago": "Fri, 30 Oct 2026 07:34:16 EDT",
+      "mined_at": "2026-10-31T10:21:43+00:00",
+      "source_published_at": "Fri, 30 Oct 2026 07:34:16 EDT",
+      "image_url": "/article_images/science-s9492d12b98a244c7.webp",
       "category": "Science",
-      "title": "Two Electrons Team Up to Break a Physics Limit",
-      "summary": "Two linked electrons released their energy together, making X-rays more powerful than theory said was possible."
+      "title": "Why Warm Weather May Have Saved the Crocodiles",
+      "summary": "New research suggests crocodiles survived the asteroid that wiped out the dinosaurs because warm places near the equator stayed safe for them."
     }
   ]
 }

@@ -1,0 +1,118 @@
+{
+  "title": "Tech Stocks Fall as Investors Want Proof on AI Spending",
+  "summary": "Friday, October 30, 2026, was a rough day for many technology stocks. Investors worried that excitement about artificial intelligence, or AI, had pushed some prices too high. A stock is a small piece of a company. The S&P 500 fell about 1.8 percent, its worst single day since June. The Nasdaq dropped 2.9 percent. Chipmaker Intel fell 28.6 percent, its worst drop since 1974. Intel reported stronger profit than experts expected, but its forecast for the final three months of the year was lower than experts expected. Chief executive Lip-Bu Tan said the personal-computer industry continues to feel pressure. Amazon fell 1.4 percent after weaker summer profit and heavy AI spending. The day before, Alphabet, the company behind Google and YouTube, had dropped more than 12 percent after spending more cash in the summer than in the spring, also largely on AI. Portfolio manager Joe Tigay said investors now want clearer proof that the spending will pay off. Not every stock fell: ExxonMobil rose 2.2 percent and Chevron added 1.8 percent after stronger summer profit than experts expected.",
+  "why_it_matters": "It matters because the companies behind the computers, phones, and videos you use can lose value when grown-ups decide whether new technology is worth what it costs.",
+  "image_url": "/article_images/news-s000d8dc8749e5f9c.webp",
+  "keywords": [
+    {
+      "term": "Investors",
+      "explanation": "People who put money into a company hoping it will grow."
+    },
+    {
+      "term": "artificial intelligence",
+      "explanation": "Computer systems that can learn and do tasks that usually need human thinking."
+    },
+    {
+      "term": "forecast",
+      "explanation": "A guess about what will happen in the future, based on what is known now."
+    },
+    {
+      "term": "Portfolio",
+      "explanation": "All the investments that one person owns together."
+    },
+    {
+      "term": "Chipmaker",
+      "explanation": "A company that makes tiny computer chips that help computers work."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How much did the S&P 500 fall on Friday, October 30, 2026?",
+      "options": [
+        "About 28.6 percent",
+        "About 1.8 percent",
+        "More than 12 percent",
+        "About 2.9 percent"
+      ],
+      "correct_answer": "About 1.8 percent"
+    },
+    {
+      "question": "Which chipmaker fell 28.6 percent?",
+      "options": [
+        "Chevron",
+        "Amazon",
+        "Alphabet",
+        "Intel"
+      ],
+      "correct_answer": "Intel"
+    },
+    {
+      "question": "Why were investors worried about technology stocks?",
+      "options": [
+        "They expected every company to report weaker profit",
+        "They wanted to buy more personal computers",
+        "They thought AI spending was too small",
+        "Excitement about AI had pushed some prices too high"
+      ],
+      "correct_answer": "Excitement about AI had pushed some prices too high"
+    },
+    {
+      "question": "What happened to Amazon?",
+      "options": [
+        "It dropped more than 12 percent",
+        "It gave a higher forecast for the final three months",
+        "It rose 2.2 percent",
+        "It fell 1.4 percent after weaker summer profit and heavy AI spending"
+      ],
+      "correct_answer": "It fell 1.4 percent after weaker summer profit and heavy AI spending"
+    },
+    {
+      "question": "Which two companies rose after stronger summer profit than experts expected?",
+      "options": [
+        "Alphabet and Intel",
+        "Intel and Amazon",
+        "Amazon and Alphabet",
+        "ExxonMobil and Chevron"
+      ],
+      "correct_answer": "ExxonMobil and Chevron"
+    },
+    {
+      "question": "According to portfolio manager Joe Tigay, what do investors now want?",
+      "options": [
+        "More AI spending without questions",
+        "Lower prices for personal computers",
+        "Stronger summer profit from every company",
+        "Clearer proof that the spending will pay off"
+      ],
+      "correct_answer": "Clearer proof that the spending will pay off"
+    }
+  ],
+  "background_read": [
+    "A stock is a small piece of a company, and people buy stocks hoping the company will do well and the piece will become worth more.",
+    "Artificial intelligence is a kind of computer technology that can learn and do tasks, and many big technology companies are spending a lot of money to build it.",
+    "When investors worry that prices have risen too high or that the spending may not pay off soon, they may sell stocks, and that selling can make prices fall."
+  ],
+  "Article_Structure": [
+    "WHO: Investors and companies including chipmaker Intel, Amazon, Alphabet, ExxonMobil, and Chevron",
+    "WHAT: Many technology stocks fell sharply, while ExxonMobil and Chevron rose",
+    "WHERE: In the stock market, shown by the S&P 500 and the Nasdaq",
+    "WHY: Investors worried that excitement about AI had pushed some prices too high, Intel gave a lower forecast for the final three months of the year, and investors wanted clearer proof that heavy AI spending will pay off"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Investors",
+      "description": "They worried that excitement about AI had pushed some prices too high and now want clearer proof that the spending will pay off."
+    },
+    {
+      "perspective": "Intel chief executive Lip-Bu Tan",
+      "description": "He said the personal-computer industry continues to feel pressure."
+    }
+  ],
+  "mined_at": "2026-10-31T10:21:43+00:00",
+  "source_published_at": "Fri, 30 Oct 2026 15:06:27 EDT",
+  "source_name": "CBC World",
+  "source_url": "https://www.cbc.ca/news/business/tech-stocks-markets-oct-30-9.7403226?cmp=rss",
+  "category": "News",
+  "source_word_count": 690,
+  "detail_status": "full"
+}

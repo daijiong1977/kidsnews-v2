@@ -1,0 +1,122 @@
+{
+  "title": "This iPhone App Turns Your Lost Scrolling Hours Black",
+  "summary": "Your phone can quietly eat hours. Oh My Hours, a new app for iPhone, tries to make that lost time easy to see. Instead of long lists and menus, it turns each day into a row of circles, one for every hour. If you spend time in an app you marked as a distraction, that hour's circle turns black.\n\nYou choose the distractions yourself. You can pick whole groups, such as social media apps and games, or choose apps one by one. By default, even a few seconds in a distracting app can mark the whole hour as lost. The idea is that a looser rule could tempt you to use a little free time after every hour resets.\n\nYou can start using Oh My Hours for free on iOS. There is no sign of an Android version yet. Paying $10 a year or $20 for lifetime access lets you choose what counts as a lost hour or day, change the time threshold, and see month and year views that show patterns over weeks and months. You can also set quiet hours, when any distracting app use marks every hour in that quiet zone, not just one. If an hour is marked by mistake, such as a finger slipping and opening Instagram, you can reset it. The app can also export your stats as a CSV file.\n\nOther apps take different approaches. One Sec pauses for a breathing exercise before you continue or back out. Forest grows a virtual forest while you leave your phone alone. ScreenZen adds pauses and challenges, Roots schedules phone-free periods, and Brick uses a small tap device to block apps. The black circle is the point: one glance shows whether the day went to scrolling, or to something better.",
+  "why_it_matters": "When lost time is visible at a glance, it is harder to ignore how much of a day goes to scrolling, and easier to decide whether that time matches what a person actually wants to do with it.",
+  "image_url": "/article_images/fun-s69d6a061f27c7916.webp",
+  "keywords": [
+    {
+      "term": "distraction",
+      "explanation": "Something that pulls your attention away from what you should be doing."
+    },
+    {
+      "term": "threshold",
+      "explanation": "The smallest amount of something needed before a rule or change happens."
+    },
+    {
+      "term": "CSV",
+      "explanation": "A simple file type that stores information in rows and columns separated by commas."
+    },
+    {
+      "term": "virtual",
+      "explanation": "Something that exists on a screen or computer instead of in real life."
+    },
+    {
+      "term": "export",
+      "explanation": "To save or send information out of an app so it can be used somewhere else."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What does a black circle represent in Oh My Hours?",
+      "options": [
+        "An hour spent in an app marked as a distraction",
+        "A breathing exercise before an app opens",
+        "A month view showing a pattern",
+        "A day with no phone use"
+      ],
+      "correct_answer": "An hour spent in an app marked as a distraction"
+    },
+    {
+      "question": "How can a user choose distractions in Oh My Hours?",
+      "options": [
+        "Only by choosing apps one by one",
+        "Only by picking whole groups such as social media apps and games",
+        "By letting the app decide without any choice",
+        "By picking whole groups, such as social media apps and games, or by choosing apps one by one"
+      ],
+      "correct_answer": "By picking whole groups, such as social media apps and games, or by choosing apps one by one"
+    },
+    {
+      "question": "By default, how much time in a distracting app can mark the whole hour as lost?",
+      "options": [
+        "Even a few seconds",
+        "An hour of continuous use",
+        "At least half an hour",
+        "Only use during quiet hours"
+      ],
+      "correct_answer": "Even a few seconds"
+    },
+    {
+      "question": "Why does the app use that strict default rule, according to the article?",
+      "options": [
+        "Because lifetime access costs more than yearly access",
+        "Because a looser rule could tempt you to use a little free time after every hour resets",
+        "Because quiet hours require a strict rule",
+        "Because the app cannot measure shorter periods"
+      ],
+      "correct_answer": "Because a looser rule could tempt you to use a little free time after every hour resets"
+    },
+    {
+      "question": "What does paying for Oh My Hours let you do?",
+      "options": [
+        "Use the app on Android",
+        "Choose what counts as a lost hour or day, change the time threshold, and see month and year views",
+        "Grow a virtual forest",
+        "Block apps with a small tap device"
+      ],
+      "correct_answer": "Choose what counts as a lost hour or day, change the time threshold, and see month and year views"
+    },
+    {
+      "question": "Which approach does Forest take, according to the article?",
+      "options": [
+        "It grows a virtual forest while you leave your phone alone",
+        "It pauses for a breathing exercise before you continue or back out",
+        "It adds pauses and challenges",
+        "It schedules phone-free periods"
+      ],
+      "correct_answer": "It grows a virtual forest while you leave your phone alone"
+    }
+  ],
+  "background_read": [
+    "Oh My Hours is a tool that helps people see how they spend time on their phone.",
+    "It turns each day into a row of circles, one for every hour, and a circle turns black when time in that hour goes to an app the user picked as a distraction.",
+    "The point is to make lost time visible at a glance, so a person can notice a pattern instead of just feeling that the day slipped away.",
+    "Other tools try the same goal in different ways, such as pausing before an app opens or rewarding time spent away from the phone."
+  ],
+  "Article_Structure": [
+    "LEAD: A phone can quietly eat hours, and Oh My Hours tries to make that lost time easy to see.",
+    "KEY EVENT: The app turns each day into a row of circles, one for every hour, and an hour's circle turns black if time is spent in an app marked as a distraction.",
+    "  ├─ WHO: The user chooses the distractions.",
+    "  ├─ HOW: The user can pick whole groups, such as social media apps and games, or choose apps one by one.",
+    "  └─ DEFAULT RULE: Even a few seconds in a distracting app can mark the whole hour as lost, because a looser rule could tempt a little use after every hour resets.",
+    "FEATURES AND ACCESS: The app can be started for free on iOS, with no sign of an Android version yet.",
+    "  ├─ PAID OPTIONS: Paying $10 a year or $20 for lifetime access lets the user choose what counts as a lost hour or day, change the time threshold, and see month and year views that show patterns over weeks and months.",
+    "  ├─ QUIET HOURS: During quiet hours, any distracting app use marks every hour in that quiet zone, not just one.",
+    "  └─ CORRECTIONS AND EXPORT: An hour marked by mistake, such as a finger slipping and opening Instagram, can be reset, and the app can export stats as a CSV file.",
+    "COMPARISON: Other apps take different approaches, including One Sec, Forest, ScreenZen, Roots, and Brick.",
+    "  ├─ ONE SEC: It pauses for a breathing exercise before you continue or back out.",
+    "  ├─ FOREST: It grows a virtual forest while you leave your phone alone.",
+    "  ├─ SCREENZEN: It adds pauses and challenges.",
+    "  ├─ ROOTS: It schedules phone-free periods.",
+    "  └─ BRICK: It uses a small tap device to block apps.",
+    "CLOSING POINT: The black circle is the point: one glance shows whether the day went to scrolling, or to something better."
+  ],
+  "perspectives": [],
+  "mined_at": "2026-10-31T10:21:43+00:00",
+  "source_published_at": "Fri, 30 Oct 2026 11:00:00 +0000",
+  "source_name": "Wired Gear",
+  "source_url": "https://www.wired.com/story/oh-my-hours-ios-app/",
+  "category": "Fun",
+  "source_word_count": 1082,
+  "detail_status": "full"
+}

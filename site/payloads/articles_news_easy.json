@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-30-news-1",
-      "source": "NPR World",
-      "time_ago": "Fri, 30 Oct 2026 05:00:00 -0400",
-      "mined_at": "2026-10-30T10:25:00+00:00",
-      "source_published_at": "Fri, 30 Oct 2026 05:00:00 -0400",
-      "image_url": "/article_images/news-saa246878273f5f46.webp",
+      "id": "2026-10-31-news-1",
+      "source": "PBS NewsHour",
+      "time_ago": "Fri, 30 Oct 2026 20:01:16 -0400",
+      "mined_at": "2026-10-31T10:21:43+00:00",
+      "source_published_at": "Fri, 30 Oct 2026 20:01:16 -0400",
+      "image_url": "/article_images/news-s6d66741cfd8bc6e5.webp",
       "category": "News",
-      "title": "For Some New Voters, a Ballot Carries the Whole Family",
-      "summary": "New citizens and young voters from immigrant families say voting feels bigger than themselves, because it also speaks for parents and relatives who cannot vote."
+      "title": "Striped Bass Are in Trouble, and Anglers Are Worried",
+      "summary": "Striped bass are struggling after years of poor reproduction in Chesapeake Bay, and anglers and scientists worry stricter fishing limits may be needed to protect the fish and the jobs that depend on them."
     },
     {
-      "id": "2026-10-30-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Thu, 29 Oct 2026 18:55:29 -0400",
-      "mined_at": "2026-10-30T10:25:00+00:00",
-      "source_published_at": "Thu, 29 Oct 2026 18:55:29 -0400",
-      "image_url": "/article_images/news-s68b55324fed0f38b.webp",
+      "id": "2026-10-31-news-2",
+      "source": "CBC World",
+      "time_ago": "Fri, 30 Oct 2026 15:06:27 EDT",
+      "mined_at": "2026-10-31T10:21:43+00:00",
+      "source_published_at": "Fri, 30 Oct 2026 15:06:27 EDT",
+      "image_url": "/article_images/news-s000d8dc8749e5f9c.webp",
       "category": "News",
-      "title": "How the AP Decides Who Won an Election",
-      "summary": "The AP collects results for nearly 7,000 races and only calls a winner when rivals have no path left; a new Voter Poll surveys early and Election Day voters."
+      "title": "Tech Stocks Fall as Investors Want Proof on AI Spending",
+      "summary": "On October 30, 2026, tech stocks fell sharply as investors worried AI excitement had pushed prices too high, while some oil stocks rose after stronger summer profits."
     },
     {
-      "id": "2026-10-30-news-3",
-      "source": "PBS NewsHour",
-      "time_ago": "Thu, 29 Oct 2026 18:57:32 -0400",
-      "mined_at": "2026-10-30T10:25:00+00:00",
-      "source_published_at": "Thu, 29 Oct 2026 18:57:32 -0400",
-      "image_url": "/article_images/news-s2a8ac97490187cc2.webp",
+      "id": "2026-10-31-news-3",
+      "source": "BBC News",
+      "time_ago": "Fri, 30 Oct 2026 21:13:14 GMT",
+      "mined_at": "2026-10-31T10:21:43+00:00",
+      "source_published_at": "Fri, 30 Oct 2026 21:13:14 GMT",
+      "image_url": "/article_images/news-s87450ba274569f27.webp",
       "category": "News",
-      "title": "Judge Says California Must Keep Counting Ballots as They Are",
-      "summary": "A federal judge rejected a request to separate up to 20,000 California ballots, saying it would disrupt an election already underway; the Justice Department said it will appeal."
+      "title": "Binance Works to Recover Billions After Major Hack",
+      "summary": "Binance said about $3 billion of stolen digital assets had been secured, while it works with investigators to recover the rest and says it will cover customer losses."
     }
   ]
 }

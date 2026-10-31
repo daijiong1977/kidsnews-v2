@@ -1,0 +1,128 @@
+{
+  "title": "Tech Stocks Tumble as Investors Ask AI Spending to Prove Itself",
+  "summary": "Friday, October 30, 2026, was a rough day for many big technology stocks. Investors grew worried that excitement about artificial intelligence, or AI, had pushed some stock prices too high. A stock is a small piece of ownership in a company, and its price can rise or fall as people decide what they think the company is worth. The S&P 500, a broad list of large American companies, fell about 1.8 percent. That was its worst single day since June. The Nasdaq, which includes many technology companies, dropped 2.9 percent, while the Dow Jones Industrial Average fell 1.1 percent. In Canada, the main S&P/TSX index closed down 1.7 percent after falling as much as 2.3 percent during the afternoon. Chipmaker Intel led the slide, falling 28.6 percent, its worst drop since 1974. Intel had reported stronger profit for the latest quarter than analysts expected, but its forecast for profit in the final three months of the year was lower than analysts expected. Chief executive Lip-Bu Tan said the personal-computer industry continues to feel pressure. Amazon fell 1.4 percent after reporting weaker profit for the summer than analysts expected, and it reported spending heavily on property and equipment, mainly for AI investments. The day before, Alphabet, the company behind Google and YouTube, had dropped more than 12 percent after saying it spent more cash during the summer than in the spring, also largely on AI. Portfolio manager Joe Tigay said investors are moving out of the hopes and dreams phase and into the show me phase, meaning they now want clearer proof that the spending will pay off. Not every stock fell. ExxonMobil rose 2.2 percent and Chevron added 1.8 percent after both oil companies reported stronger summer profit than analysts expected.",
+  "why_it_matters": "The sharp falls show how much confidence in AI spending matters to the wider market: when investors doubt that the spending will pay off, even large technology companies can lose value quickly.",
+  "image_url": "/article_images/news-s000d8dc8749e5f9c.webp",
+  "keywords": [
+    {
+      "term": "analysts",
+      "explanation": "People whose job is to study companies and guess how well they will do."
+    },
+    {
+      "term": "forecast",
+      "explanation": "A prediction about what will happen in the future, based on what is known now."
+    },
+    {
+      "term": "Chipmaker",
+      "explanation": "A company that makes the tiny computer chips inside phones and computers."
+    },
+    {
+      "term": "Portfolio",
+      "explanation": "All the stocks and other investments that one person or company owns."
+    },
+    {
+      "term": "index",
+      "explanation": "A list that tracks how a group of stocks is doing overall."
+    }
+  ],
+  "questions": [
+    {
+      "question": "On Friday, October 30, 2026, which index fell about 1.8 percent, its worst single day since June?",
+      "options": [
+        "The S&P/TSX index",
+        "The Nasdaq",
+        "The S&P 500",
+        "The Dow Jones Industrial Average"
+      ],
+      "correct_answer": "The S&P 500"
+    },
+    {
+      "question": "By how much did chipmaker Intel fall?",
+      "options": [
+        "2.9 percent",
+        "1.4 percent",
+        "1.8 percent",
+        "28.6 percent"
+      ],
+      "correct_answer": "28.6 percent"
+    },
+    {
+      "question": "Why did investors grow worried about technology stocks?",
+      "options": [
+        "Oil companies reported stronger profit than analysts expected",
+        "The personal-computer industry stopped feeling pressure",
+        "Alphabet spent less cash in the summer than in the spring",
+        "They thought excitement about AI had pushed some stock prices too high"
+      ],
+      "correct_answer": "They thought excitement about AI had pushed some stock prices too high"
+    },
+    {
+      "question": "What did Amazon report for the summer?",
+      "options": [
+        "Spending heavily on property and equipment, mainly for AI investments, after weaker profit than analysts expected",
+        "Stronger profit than analysts expected",
+        "A rise of 2.2 percent",
+        "A forecast for profit in the final three months of the year that was higher than analysts expected"
+      ],
+      "correct_answer": "Spending heavily on property and equipment, mainly for AI investments, after weaker profit than analysts expected"
+    },
+    {
+      "question": "According to portfolio manager Joe Tigay, what do investors now want?",
+      "options": [
+        "More hopes and dreams about AI",
+        "Stronger profit from oil companies",
+        "Clearer proof that the spending will pay off",
+        "Lower stock prices for technology companies"
+      ],
+      "correct_answer": "Clearer proof that the spending will pay off"
+    },
+    {
+      "question": "Which two companies' stocks rose that day?",
+      "options": [
+        "ExxonMobil and Chevron",
+        "Intel and Amazon",
+        "Alphabet and Amazon",
+        "Intel and Chevron"
+      ],
+      "correct_answer": "ExxonMobil and Chevron"
+    }
+  ],
+  "background_read": [
+    "A stock market index is a list that tracks how a group of companies' shares are doing, so when many big technology companies fall, the indexes that include them fall too.",
+    "Artificial intelligence systems need powerful computer chips and large data centers, and companies spend heavily to build them in hopes that customers will later pay for AI tools and services.",
+    "Investors buy shares based on what they think a company will earn in the future, so when a company's profit outlook is weaker than expected, or its spending looks larger than the payoff so far, they may sell its shares and its price drops.",
+    "That selling can spread across technology shares when investors start to question whether earlier excitement about artificial intelligence had pushed prices higher than current earnings can support."
+  ],
+  "Article_Structure": [
+    "LEAD: Friday, October 30, 2026, was a rough day for many big technology stocks.",
+    "KEY EVENT: Investors grew worried that excitement about artificial intelligence, or AI, had pushed some stock prices too high.",
+    "  ├─ MARKET DROPS: The S&P 500 fell about 1.8 percent, its worst single day since June; the Nasdaq dropped 2.9 percent, while the Dow Jones Industrial Average fell 1.1 percent.",
+    "  ├─ CANADA: The main S&P/TSX index closed down 1.7 percent after falling as much as 2.3 percent during the afternoon.",
+    "  ├─ INTEL: Chipmaker Intel led the slide, falling 28.6 percent, its worst drop since 1974, after its forecast for profit in the final three months of the year was lower than analysts expected, even though its profit for the latest quarter was stronger than analysts expected.",
+    "  ├─ AMAZON AND ALPHABET: Amazon fell 1.4 percent after reporting weaker profit for the summer than analysts expected and spending heavily on property and equipment, mainly for AI investments; the day before, Alphabet, the company behind Google and YouTube, had dropped more than 12 percent after saying it spent more cash during the summer than in the spring, also largely on AI.",
+    "  └─ NOT EVERY STOCK FELL: ExxonMobil rose 2.2 percent and Chevron added 1.8 percent after both oil companies reported stronger summer profit than analysts expected.",
+    "EVIDENCE: Portfolio manager Joe Tigay said investors are moving out of the hopes and dreams phase and into the show me phase, meaning they now want clearer proof that the spending will pay off.",
+    "OPEN QUESTION: Will the heavy AI spending pay off?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Investors",
+      "description": "They grew worried that excitement about AI had pushed some stock prices too high."
+    },
+    {
+      "perspective": "Portfolio manager Joe Tigay",
+      "description": "Investors are moving out of the hopes and dreams phase and into the show me phase, meaning they now want clearer proof that the spending will pay off."
+    },
+    {
+      "perspective": "Chief executive Lip-Bu Tan",
+      "description": "The personal-computer industry continues to feel pressure."
+    }
+  ],
+  "mined_at": "2026-10-31T10:21:43+00:00",
+  "source_published_at": "Fri, 30 Oct 2026 15:06:27 EDT",
+  "source_name": "CBC World",
+  "source_url": "https://www.cbc.ca/news/business/tech-stocks-markets-oct-30-9.7403226?cmp=rss",
+  "category": "News",
+  "source_word_count": 690,
+  "detail_status": "full"
+}

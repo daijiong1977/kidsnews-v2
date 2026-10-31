@@ -1,0 +1,129 @@
+{
+  "title": "Binance Works to Recover Billions After Major Hack",
+  "summary": "On October 30, 2026, the cryptocurrency company Binance said it was working to recover digital assets worth billions of dollars after a major hack. The company said about $3 billion of the stolen assets had been secured, but many were still in the hands of unidentified hackers. The total amount involved was reported as more than $6.3 billion. Binance is a large exchange where people trade digital assets, and it is estimated to have more than 300 million registered users worldwide. At first, the company thought the breach may have started with one engineer's laptop. Later, it said its investigation had found additional points of breach, and that the attack was wider than first thought. Binance co-CEO Richard Teng said the attack was not carried out by one person. He also said the hackers used a tool that destroyed traces as they went, making the investigation harder to follow. In the United States, the Secret Service said it was working to identify, freeze, trace, and recover the stolen funds, and Binance said it was also working with the FBI. Binance said its US-facing exchange was unaffected, but investigators could still help track the funds, an effort that generally involves law enforcement in different countries. Binance told users their money was safe and that it was covering every loss. It said it had set aside more than $6.34 billion in company funds to cover the stolen assets. It had first paused deposits and withdrawals, then said deposits remained unaffected. Some experts warned that customers should check what they had been promised in their contracts, because a promise to cover losses may not always be legally binding. For now, Binance says it is strong enough to handle the loss, and the recovery effort continues.",
+  "why_it_matters": "A hack involving billions of dollars can shake trust in large digital asset exchanges used by millions of people. The recovery effort also matters because tracing stolen funds across countries is difficult, especially when hackers destroy traces as they go.",
+  "image_url": "/article_images/news-s87450ba274569f27.webp",
+  "keywords": [
+    {
+      "term": "cryptocurrency",
+      "explanation": "Digital money that exists only online and is not printed as paper bills or coins."
+    },
+    {
+      "term": "exchange",
+      "explanation": "A place or service where people buy, sell, or trade one kind of money or asset for another."
+    },
+    {
+      "term": "breach",
+      "explanation": "A break into a computer system by someone who is not allowed to be there."
+    },
+    {
+      "term": "deposits",
+      "explanation": "Money or digital assets that someone puts into an account to keep there."
+    },
+    {
+      "term": "withdrawals",
+      "explanation": "Money or digital assets that someone takes out of an account."
+    }
+  ],
+  "questions": [
+    {
+      "question": "According to Binance, about how much of the stolen assets had been secured?",
+      "options": [
+        "About $3 billion",
+        "More than $6.34 billion",
+        "More than $6.3 billion",
+        "All of the stolen assets"
+      ],
+      "correct_answer": "About $3 billion"
+    },
+    {
+      "question": "What was the total amount involved reported as?",
+      "options": [
+        "300 million registered users",
+        "About $3 billion",
+        "Less than $3 billion",
+        "More than $6.3 billion"
+      ],
+      "correct_answer": "More than $6.3 billion"
+    },
+    {
+      "question": "At first, what did Binance think the breach may have started with?",
+      "options": [
+        "One engineer's laptop",
+        "Its US-facing exchange",
+        "Additional points of breach",
+        "A tool that destroyed traces"
+      ],
+      "correct_answer": "One engineer's laptop"
+    },
+    {
+      "question": "What did Binance co-CEO Richard Teng say about who carried out the attack?",
+      "options": [
+        "It had already been fully recovered",
+        "It was not carried out by one person",
+        "It was carried out by one person",
+        "It affected the US-facing exchange"
+      ],
+      "correct_answer": "It was not carried out by one person"
+    },
+    {
+      "question": "Which United States agencies are named in the body as involved in the effort to track or recover the funds?",
+      "options": [
+        "The FBI only",
+        "Binance's US-facing exchange",
+        "The Secret Service and the FBI",
+        "The Secret Service only"
+      ],
+      "correct_answer": "The Secret Service and the FBI"
+    },
+    {
+      "question": "What did some experts warn customers to check?",
+      "options": [
+        "How many registered users Binance has",
+        "What they had been promised in their contracts",
+        "Whether the attack was wider than first thought",
+        "Whether deposits remained unaffected"
+      ],
+      "correct_answer": "What they had been promised in their contracts"
+    }
+  ],
+  "background_read": [
+    "A cryptocurrency exchange is a platform where people buy, sell, and trade digital assets, which are forms of money that exist only online and are kept in digital accounts.",
+    "Exchanges hold large amounts of customers' digital assets, so they use security systems to protect accounts and track transfers, and they can pause deposits and withdrawals when they suspect a breach.",
+    "When digital assets are stolen, recovery is difficult because transfers can move quickly across borders, so exchanges often work with law enforcement agencies in different countries to identify, freeze, and trace the funds.",
+    "Customers trust an exchange to keep their money safe, so a large theft raises questions about how the company protects accounts and whether it can cover the losses."
+  ],
+  "Article_Structure": [
+    "LEAD: On October 30, 2026, Binance said it was working to recover digital assets worth billions of dollars after a major hack.",
+    "KEY EVENT: The hack and the recovery effort",
+    "  ├─ WHO: Binance, unidentified hackers, Binance co-CEO Richard Teng, the United States Secret Service, and the FBI",
+    "  ├─ WHAT: Digital assets worth more than $6.3 billion were involved, with about $3 billion secured and many still in the hands of unidentified hackers",
+    "  ├─ WHEN: October 30, 2026",
+    "  └─ WHERE: Binance, a large exchange where people trade digital assets, with more than 300 million registered users worldwide; its US-facing exchange was said to be unaffected",
+    "EVIDENCE: The investigation found additional points of breach after first thinking it may have started with one engineer's laptop, and Richard Teng said the hackers used a tool that destroyed traces as they went",
+    "RESPONSE: Binance said it had set aside more than $6.34 billion in company funds to cover the stolen assets and told users their money was safe",
+    "CAUTION: Some experts warned customers should check what they had been promised in their contracts, because a promise to cover losses may not always be legally binding",
+    "OPEN QUESTION: How much of the remaining stolen assets can be recovered, since the recovery effort continues and many assets were still in the hands of unidentified hackers"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Binance",
+      "description": "Says users' money is safe, that it is covering every loss, and that it is strong enough to handle the loss."
+    },
+    {
+      "perspective": "United States Secret Service",
+      "description": "Says it is working to identify, freeze, trace, and recover the stolen funds."
+    },
+    {
+      "perspective": "Some experts",
+      "description": "Warn customers should check what they had been promised in their contracts, because a promise to cover losses may not always be legally binding."
+    }
+  ],
+  "mined_at": "2026-10-31T10:21:43+00:00",
+  "source_published_at": "Fri, 30 Oct 2026 21:13:14 GMT",
+  "source_name": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+  "category": "News",
+  "source_word_count": 546,
+  "detail_status": "full"
+}
