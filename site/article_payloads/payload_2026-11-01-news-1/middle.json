@@ -1,0 +1,125 @@
+{
+  "title": "The Oyster Helpers Trying to Bring Back Chesapeake Bay",
+  "summary": "John Consoli leans over his pier on Maryland's Kent Island and hauls up a mesh bag, packed like a pillowcase, out of the Chesapeake Bay. Inside are oysters from this year. In just three months, he says, they have grown so much that he can hardly pull the net up.\n\nConsoli loves these rock-like creatures because of the good they do. Each adult oyster filters up to 50 gallons of water a day. Cleaner water helps the bay and sea grass, which helps crabs and other organisms. Oyster shells, full of nooks and crannies, also give small fish and crabs places to live, eat and hide. Consoli even found a seahorse among them once.\n\nOyster reefs used to abound in the Chesapeake, but overharvesting reduced them by over 99% by 2011, according to one estimate. That hurt water quality and habitat. Farming has expanded in recent years and wild oysters have made a partial comeback, helped by better management and restoration, biologist Ryan Carnegie says. But fisheries oceanographer Elizabeth North says current populations are likely still a fraction of historic populations.\n\nConsoli floats his oysters just below the surface to help them grow, and he recruits neighbours through what he calls his Peer to Pier Network. His wife, Kathy, says he may have reached 80 people. In August, he worked with a local restaurant to place a million baby oysters around its dock pilings.\n\nRobots may help too. Engineer Miao Yu's team uses a raft-like robot called Oysterbot, with sonar below, and a smaller underwater robot to map the seabed. With AI, they hope to turn those images into maps showing farmers where oysters are, and when and where to plant and harvest.",
+  "why_it_matters": "Cleaner bay water helps sea grass, crabs and other organisms that depend on the Chesapeake. The recovery work shows how local volunteers and new technology can help repair a damaged habitat.",
+  "image_url": "/article_images/news-sd8f6dd3fae2392a6.webp",
+  "keywords": [
+    {
+      "term": "organisms",
+      "explanation": "Living things, such as plants, animals or tiny creatures."
+    },
+    {
+      "term": "overharvesting",
+      "explanation": "Taking too many of a plant or animal from nature, so numbers fall badly."
+    },
+    {
+      "term": "habitat",
+      "explanation": "The natural place where a plant or animal lives and finds what it needs."
+    },
+    {
+      "term": "restoration",
+      "explanation": "Work to bring something damaged back to a healthier state."
+    },
+    {
+      "term": "sonar",
+      "explanation": "A system that uses sound waves to detect objects or map surfaces underwater."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How much water can each adult oyster filter in a day?",
+      "options": [
+        "One gallon",
+        "About 80 gallons",
+        "Up to 50 gallons",
+        "A million gallons"
+      ],
+      "correct_answer": "Up to 50 gallons"
+    },
+    {
+      "question": "By how much had overharvesting reduced Chesapeake oyster reefs by 2011, according to one estimate?",
+      "options": [
+        "They had not been reduced",
+        "By about half",
+        "By 50%",
+        "By over 99%"
+      ],
+      "correct_answer": "By over 99%"
+    },
+    {
+      "question": "What does John Consoli call the network he uses to recruit neighbours?",
+      "options": [
+        "Sea Grass Helpers",
+        "His Peer to Pier Network",
+        "Oysterbot",
+        "The restaurant dock project"
+      ],
+      "correct_answer": "His Peer to Pier Network"
+    },
+    {
+      "question": "What did Consoli help place around a local restaurant's dock pilings in August?",
+      "options": [
+        "A smaller underwater robot",
+        "A raft-like robot",
+        "A seahorse",
+        "A million baby oysters"
+      ],
+      "correct_answer": "A million baby oysters"
+    },
+    {
+      "question": "What does the raft-like robot Oysterbot carry below it?",
+      "options": [
+        "Mesh bags",
+        "Sonar",
+        "A large cemetery map",
+        "Sea grass"
+      ],
+      "correct_answer": "Sonar"
+    },
+    {
+      "question": "What do engineers hope AI will help them do with the robot images?",
+      "options": [
+        "Turn them into maps showing farmers where oysters are, and when and where to plant and harvest",
+        "Grow oysters in three months",
+        "Feed the oysters",
+        "Stop neighbours helping"
+      ],
+      "correct_answer": "Turn them into maps showing farmers where oysters are, and when and where to plant and harvest"
+    }
+  ],
+  "background_read": [
+    "Chesapeake Bay is a large bay where oysters once formed huge reefs along the bottom.",
+    "Oysters help the bay because each adult filters water as it feeds, and their shells give small fish and crabs places to live, eat and hide.",
+    "Overharvesting reduced the bay's oysters greatly, which hurt water quality and habitat.",
+    "Now farmers, volunteers and better management are helping oysters make a partial comeback, and new tools such as underwater robots may help people plant and harvest them wisely."
+  ],
+  "Article_Structure": [
+    "LEAD: Volunteers and farmers are trying to bring oysters back to Chesapeake Bay.",
+    "KEY EVENT: John Consoli raises oysters at his pier on Maryland's Kent Island and recruits neighbours to help.",
+    "  ├─ WHY OYSTERS HELP: Each adult filters up to 50 gallons of water a day and shells shelter small fish and crabs",
+    "  └─ THE PROBLEM: Overharvesting reduced reefs by over 99% by 2011, hurting water quality and habitat",
+    "EVIDENCE: Biologist Ryan Carnegie says farming, better management and restoration have helped a partial comeback.",
+    "OPEN QUESTION: Robots using sonar and AI may one day map where oysters are and where to plant and harvest them."
+  ],
+  "perspectives": [
+    {
+      "perspective": "John Consoli",
+      "description": "Consoli loves oysters because of the good they do and raises them just below the surface to help them grow."
+    },
+    {
+      "perspective": "Ryan Carnegie",
+      "description": "The biologist says farming has expanded and wild oysters have made a partial comeback, helped by better management and restoration."
+    },
+    {
+      "perspective": "Elizabeth North",
+      "description": "The fisheries oceanographer says current populations are likely still a fraction of historic populations."
+    }
+  ],
+  "mined_at": "2026-11-01T13:54:02+00:00",
+  "source_published_at": "Sat, 31 Oct 2026 05:00:00 -0400",
+  "source_name": "NPR World",
+  "source_url": "https://www.npr.org/2026/10/31/nx-s1-6011228/oyster-farming-conservation-chesapeake-bay",
+  "category": "News",
+  "source_word_count": 1390,
+  "detail_status": "full"
+}

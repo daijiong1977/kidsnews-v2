@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-10-31-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Fri, 30 Oct 2026 20:01:16 -0400",
-      "mined_at": "2026-10-31T10:21:43+00:00",
-      "source_published_at": "Fri, 30 Oct 2026 20:01:16 -0400",
-      "image_url": "/article_images/news-s6d66741cfd8bc6e5.webp",
+      "id": "2026-11-01-news-1",
+      "source": "NPR World",
+      "time_ago": "Sat, 31 Oct 2026 05:00:00 -0400",
+      "mined_at": "2026-11-01T13:54:02+00:00",
+      "source_published_at": "Sat, 31 Oct 2026 05:00:00 -0400",
+      "image_url": "/article_images/news-sd8f6dd3fae2392a6.webp",
       "category": "News",
-      "title": "Striped Bass Are in Trouble, and East Coast Anglers Are Worried",
-      "summary": "Striped bass are struggling after years of poor reproduction in the Chesapeake Bay, and anglers and scientists worry stricter fishing limits may be needed to protect the fish and the jobs that depend on them."
+      "title": "The Oyster Helpers Trying to Bring Back Chesapeake Bay",
+      "summary": "Oysters filter Chesapeake Bay water and shelter other creatures, but their numbers fell sharply. A Kent Island resident, his neighbours and robot researchers are working to bring them back."
     },
     {
-      "id": "2026-10-31-news-2",
+      "id": "2026-11-01-news-2",
+      "source": "NPR World",
+      "time_ago": "Sun, 01 Nov 2026 05:00:00 -0400",
+      "mined_at": "2026-11-01T13:54:02+00:00",
+      "source_published_at": "Sun, 01 Nov 2026 05:00:00 -0400",
+      "image_url": "/article_images/news-sfa4bb4ed4052a43a.webp",
+      "category": "News",
+      "title": "Election Night, Hour by Hour: Polls Close and Counting Begins",
+      "summary": "A guide to Tuesday's election night: polls close in waves from 7 p.m. to 1 a.m. Eastern, close Senate races may decide control, and some counting could last days or weeks."
+    },
+    {
+      "id": "2026-11-01-news-3",
       "source": "CBC World",
-      "time_ago": "Fri, 30 Oct 2026 15:06:27 EDT",
-      "mined_at": "2026-10-31T10:21:43+00:00",
-      "source_published_at": "Fri, 30 Oct 2026 15:06:27 EDT",
-      "image_url": "/article_images/news-s000d8dc8749e5f9c.webp",
+      "time_ago": "Sat, 31 Oct 2026 08:51:08 EDT",
+      "mined_at": "2026-11-01T13:54:02+00:00",
+      "source_published_at": "Sat, 31 Oct 2026 08:51:08 EDT",
+      "image_url": "/article_images/news-sfdb7540fc40bc65c.webp",
       "category": "News",
-      "title": "Tech Stocks Tumble as Investors Ask AI Spending to Prove Itself",
-      "summary": "On October 30, 2026, tech stocks fell sharply as investors worried AI excitement had pushed prices too high, while some oil stocks rose after stronger summer profits."
-    },
-    {
-      "id": "2026-10-31-news-3",
-      "source": "BBC News",
-      "time_ago": "Fri, 30 Oct 2026 21:13:14 GMT",
-      "mined_at": "2026-10-31T10:21:43+00:00",
-      "source_published_at": "Fri, 30 Oct 2026 21:13:14 GMT",
-      "image_url": "/article_images/news-s87450ba274569f27.webp",
-      "category": "News",
-      "title": "Binance Works to Recover Billions After Major Hack",
-      "summary": "Binance said about $3 billion of stolen digital assets had been secured, while it works with investigators to recover the rest and says it will cover customer losses."
+      "title": "Families Reunite After Evacuation From Oleshky",
+      "summary": "Residents from Russian-occupied Oleshky crossed into Ukrainian-held territory under a localized ceasefire, travelling through Russia and Belarus. Relatives and aid groups waited to welcome them on Saturday."
     }
   ]
 }

@@ -1,0 +1,118 @@
+{
+  "title": "The Oyster Helpers of Chesapeake Bay",
+  "summary": "John Consoli lives on Kent Island in Maryland. From his pier, he pulls up a mesh bag full of oysters from Chesapeake Bay. In just three months, he says, they have grown so much that the bag is hard to lift.\n\nOysters do a lot of good. Each adult oyster cleans up to 50 gallons of water a day. Cleaner water helps sea grass grow, and sea grass helps crabs. Oyster shells also give small fish and crabs places to live and hide.\n\nLong ago, the bay had huge numbers of oysters. But people took too many, and by 2011 their numbers had fallen by over 99%, according to one estimate. Now oyster farming is growing, and wild oysters are coming back a little, biologist Ryan Carnegie says.\n\nConsoli asks his neighbours to help through his Peer to Pier Network. His wife, Kathy, says he may have reached 80 people. Robots may help too. A robot called Oysterbot maps the seabed, so farmers know where to plant oysters.",
+  "why_it_matters": "It shows children that helping one small animal, like an oyster, can also help clean water and many other animals.",
+  "image_url": "/article_images/news-sd8f6dd3fae2392a6.webp",
+  "keywords": [
+    {
+      "term": "pier",
+      "explanation": "A pier is a platform built out over water, often where boats are kept."
+    },
+    {
+      "term": "mesh",
+      "explanation": "Mesh is a material like a net, made of threads or wires with small holes."
+    },
+    {
+      "term": "estimate",
+      "explanation": "An estimate is a careful guess worked out from the information available."
+    },
+    {
+      "term": "biologist",
+      "explanation": "A biologist is a scientist who studies living things."
+    },
+    {
+      "term": "seabed",
+      "explanation": "The seabed is the ground at the bottom of the sea or a bay."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Where does John Consoli live?",
+      "options": [
+        "Next to the Oysterbot",
+        "In Chesapeake Bay itself",
+        "On Kent Island in Maryland",
+        "In a mesh bag"
+      ],
+      "correct_answer": "On Kent Island in Maryland"
+    },
+    {
+      "question": "How much water can each adult oyster clean in a day?",
+      "options": [
+        "Three gallons",
+        "99 gallons",
+        "Up to 50 gallons",
+        "80 gallons"
+      ],
+      "correct_answer": "Up to 50 gallons"
+    },
+    {
+      "question": "Cleaner water helps what to grow?",
+      "options": [
+        "Sea grass",
+        "Oyster shells",
+        "Mesh bags",
+        "Robots"
+      ],
+      "correct_answer": "Sea grass"
+    },
+    {
+      "question": "By 2011, by how much had oyster numbers fallen, according to one estimate?",
+      "options": [
+        "By 80%",
+        "By three months' growth",
+        "By a little",
+        "By over 99%"
+      ],
+      "correct_answer": "By over 99%"
+    },
+    {
+      "question": "What is the name of Consoli's network that asks neighbours to help?",
+      "options": [
+        "The Chesapeake Club",
+        "The Peer to Pier Network",
+        "The Oysterbot Network",
+        "The Sea Grass Group"
+      ],
+      "correct_answer": "The Peer to Pier Network"
+    },
+    {
+      "question": "What does the robot Oysterbot do?",
+      "options": [
+        "It reaches 80 people",
+        "It lifts mesh bags",
+        "It maps the seabed so farmers know where to plant oysters",
+        "It cleans 50 gallons of water a day"
+      ],
+      "correct_answer": "It maps the seabed so farmers know where to plant oysters"
+    }
+  ],
+  "background_read": [
+    "Oysters are sea animals with hard shells that live in the water and clean it as they feed.",
+    "Chesapeake Bay once had huge numbers of oysters, but people took too many and their numbers fell greatly.",
+    "Now people grow oysters and help wild ones return, which also helps sea grass, crabs and small fish."
+  ],
+  "Article_Structure": [
+    "WHO: John Consoli, his wife Kathy, his neighbours, and biologist Ryan Carnegie.",
+    "WHAT: Consoli grows oysters in a mesh bag and asks neighbours to help through his Peer to Pier Network.",
+    "WHERE: On Kent Island in Maryland, in the waters of Chesapeake Bay.",
+    "WHY: Oysters clean the water, help sea grass grow and give small fish and crabs places to live, after their numbers fell when people took too many."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Biologist Ryan Carnegie",
+      "description": "He says oyster farming is growing and wild oysters are coming back a little."
+    },
+    {
+      "perspective": "John Consoli",
+      "description": "He says his oysters grew so much in three months that the mesh bag is hard to lift."
+    }
+  ],
+  "mined_at": "2026-11-01T13:54:02+00:00",
+  "source_published_at": "Sat, 31 Oct 2026 05:00:00 -0400",
+  "source_name": "NPR World",
+  "source_url": "https://www.npr.org/2026/10/31/nx-s1-6011228/oyster-farming-conservation-chesapeake-bay",
+  "category": "News",
+  "source_word_count": 1390,
+  "detail_status": "full"
+}

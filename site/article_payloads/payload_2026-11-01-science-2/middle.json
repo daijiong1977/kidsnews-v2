@@ -1,0 +1,117 @@
+{
+  "title": "Trees Use Hidden 'Muscles' to Straighten Themselves",
+  "summary": "Trees cannot walk or stretch, yet they can sense their own shape and adjust how they grow to stay upright. This awareness of body position is called proprioception. It was once thought to exist only in animals, but in 2012 researchers working with INRAE demonstrated that plants also possess this ability. Scientists knew plants could detect their shape, but how they turned that information into movement remained a mystery.\n\nPlants also respond to gravity and sunlight, so researchers built an unusual test to isolate this hidden sense. Young trees were placed on a horizontal platform rotating inside a sphere lit equally from every direction. Rotation prevented a consistent signal from gravity, and the even light removed clues about which way to grow.\n\nThe work began with young poplar trees placed horizontally. As they grew, their stems curved upward. That bending depends on tension wood, a special wood that can generate pulling forces as it develops. When it forms on the upper side of a stem, it acts much like a contracting muscle, pulling the stem upward.\n\nAfter about ten days, once the trees had developed a noticeable curve, researchers moved them into the rotating apparatus. Over the following weeks, the curved stems slowly straightened until they were nearly straight again.\n\nExamining the new wood explained why. The original tension wood on the upper side stopped developing, and identical tension wood began forming on the opposite side. This new wood acted like an opposing muscle, pulling in the other direction until the forces balanced.\n\nScientists previously believed tension wood formed only on the upper side of stems. The discovery shows it can work on opposing sides, much like opposing muscle groups in animals. That ability could help trees recover their posture after storms or other disturbances bend them.",
+  "why_it_matters": "Understanding how trees recover after being bent could help people care for forests damaged by storms. It also changes how scientists think about tension wood, which was previously believed to form only on the upper side of stems.",
+  "image_url": "/article_images/science-sc09b87b9fd2dd003.webp",
+  "keywords": [
+    {
+      "term": "proprioception",
+      "explanation": "Awareness of your own body position and shape."
+    },
+    {
+      "term": "tension wood",
+      "explanation": "A special wood that can generate pulling forces as it develops in a stem."
+    },
+    {
+      "term": "apparatus",
+      "explanation": "A set of equipment built for a particular experiment or purpose."
+    },
+    {
+      "term": "contracting",
+      "explanation": "Becoming smaller or tighter by pulling inward, as a muscle does."
+    },
+    {
+      "term": "posture",
+      "explanation": "The position or shape in which a body is held."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is proprioception?",
+      "options": [
+        "A response to sunlight",
+        "A kind of pulling wood",
+        "A rotating platform",
+        "Awareness of body position"
+      ],
+      "correct_answer": "Awareness of body position"
+    },
+    {
+      "question": "When did researchers working with INRAE demonstrate that plants also possess this ability?",
+      "options": [
+        "Over the following weeks",
+        "In 2012",
+        "Before the poplars were placed horizontally",
+        "After about ten days"
+      ],
+      "correct_answer": "In 2012"
+    },
+    {
+      "question": "How did researchers isolate the trees' hidden sense in the test?",
+      "options": [
+        "They darkened the room completely",
+        "They bent the stems by hand each day",
+        "They placed young trees on a horizontal platform rotating inside a sphere lit equally from every direction, removing consistent gravity and light clues",
+        "They grew the trees underwater"
+      ],
+      "correct_answer": "They placed young trees on a horizontal platform rotating inside a sphere lit equally from every direction, removing consistent gravity and light clues"
+    },
+    {
+      "question": "What does tension wood do when it forms on the upper side of a stem?",
+      "options": [
+        "It acts much like a contracting muscle, pulling the stem upward",
+        "It balances gravity signals",
+        "It makes the stem grow downward",
+        "It stops developing"
+      ],
+      "correct_answer": "It acts much like a contracting muscle, pulling the stem upward"
+    },
+    {
+      "question": "What happened after the curved trees were moved into the rotating apparatus?",
+      "options": [
+        "They stopped growing",
+        "They curved further",
+        "Their original tension wood grew faster",
+        "Over the following weeks, the curved stems slowly straightened until they were nearly straight again"
+      ],
+      "correct_answer": "Over the following weeks, the curved stems slowly straightened until they were nearly straight again"
+    },
+    {
+      "question": "What explained why the stems straightened?",
+      "options": [
+        "New tension wood began forming on the opposite side, acting like an opposing muscle and pulling the other way until the forces balanced",
+        "The upper-side wood hardened",
+        "Gravity returned to normal",
+        "Sunlight pulled them upright"
+      ],
+      "correct_answer": "New tension wood began forming on the opposite side, acting like an opposing muscle and pulling the other way until the forces balanced"
+    }
+  ],
+  "background_read": [
+    "Trees cannot walk or stretch, yet they can sense their own shape and adjust how they grow to stay upright, an awareness called proprioception.",
+    "Plants also respond to gravity and sunlight, so scientists needed a test that removed those clues to study this hidden sense on its own.",
+    "A special kind of growth called tension wood can pull on a stem as it forms, working a little like a muscle.",
+    "By growing new wood on different sides of a stem, a tree can pull itself back toward a straighter shape after it has been bent."
+  ],
+  "Article_Structure": [
+    "LEAD: Trees can sense their own shape and use hidden 'muscles' to straighten themselves.",
+    "KEY EVENT: In a rotating, evenly lit apparatus, curved young poplar stems slowly straightened again.",
+    "  ├─ THE TEST: Rotation removed a consistent gravity signal and even light removed clues about which way to grow",
+    "  └─ THE MECHANISM: Tension wood first pulled stems upward, then new tension wood formed on the opposite side",
+    "EVIDENCE: The original tension wood stopped developing while identical wood on the other side pulled until the forces balanced.",
+    "OPEN QUESTION: This ability could help trees recover their posture after storms or other disturbances bend them."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Scientists' earlier belief",
+      "description": "Scientists previously believed tension wood formed only on the upper side of stems; the discovery shows it can work on opposing sides, much like opposing muscle groups in animals."
+    }
+  ],
+  "mined_at": "2026-11-01T13:54:02+00:00",
+  "source_published_at": "Sat, 31 Oct 2026 22:44:28 EDT",
+  "source_name": "ScienceDaily Top Environment",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261030003006.htm",
+  "category": "Science",
+  "source_word_count": 699,
+  "detail_status": "full"
+}

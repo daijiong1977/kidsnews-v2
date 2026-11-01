@@ -1,0 +1,114 @@
+{
+  "title": "Election Night: Polls Close and Counting Begins",
+  "summary": "On Tuesday, voters across the United States will finish choosing members of Congress and governors. Then the counting begins.\n\nPolls close at different times in different states. The first close at 7 p.m. Eastern Time. The last, in Alaska, close at 1 a.m. Eastern Time. So results come in waves, state by state.\n\nPeople will watch Georgia and Florida first. Georgia has races for the Senate and for governor. Its Secretary of State, Brad Raffensperger, told local news that counties must report results within an hour of polls closing. Florida has governor and Senate races, plus seven close House races, according to the Cook Political Report.\n\nLater, close Senate races in North Carolina, Ohio, and other states could decide which party controls the Senate. That answer may take a long time. California counts slowly, and Alaska's results could take weeks. Counting could go on for days or even weeks.",
+  "why_it_matters": "The leaders voters choose will help make decisions that affect families and children across the country.",
+  "image_url": "/article_images/news-sfa4bb4ed4052a43a.webp",
+  "keywords": [
+    {
+      "term": "Congress",
+      "explanation": "Congress is the group of lawmakers in the United States who help make the country's laws."
+    },
+    {
+      "term": "governors",
+      "explanation": "A governor is the leader of a state government."
+    },
+    {
+      "term": "polls",
+      "explanation": "Polls are the places where people vote in an election, and they open and close at set times."
+    },
+    {
+      "term": "Senate",
+      "explanation": "The Senate is one of the two parts of Congress, where each state has its own senators."
+    },
+    {
+      "term": "races",
+      "explanation": "In an election, a race is a contest between people who each want to win the same job."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What will voters finish choosing on Tuesday?",
+      "options": [
+        "Members of Congress and governors",
+        "The Secretary of State",
+        "Judges for the Cook Political Report",
+        "Only governors"
+      ],
+      "correct_answer": "Members of Congress and governors"
+    },
+    {
+      "question": "When do the first polls close?",
+      "options": [
+        "At 7 p.m. Eastern Time",
+        "Within an hour",
+        "After weeks of counting",
+        "At 1 a.m. Eastern Time"
+      ],
+      "correct_answer": "At 7 p.m. Eastern Time"
+    },
+    {
+      "question": "Where do the last polls close, at 1 a.m. Eastern Time?",
+      "options": [
+        "Florida",
+        "California",
+        "Georgia",
+        "Alaska"
+      ],
+      "correct_answer": "Alaska"
+    },
+    {
+      "question": "Which two states will people watch first?",
+      "options": [
+        "Georgia and Florida",
+        "California and Alaska",
+        "North Carolina and Ohio",
+        "Ohio and Florida"
+      ],
+      "correct_answer": "Georgia and Florida"
+    },
+    {
+      "question": "What did Georgia's Secretary of State say counties must do?",
+      "options": [
+        "Report results within an hour of polls closing",
+        "Wait weeks to report",
+        "Watch Florida first",
+        "Count slowly"
+      ],
+      "correct_answer": "Report results within an hour of polls closing"
+    },
+    {
+      "question": "Why might the answer on which party controls the Senate take a long time?",
+      "options": [
+        "Because California counts slowly and Alaska's results could take weeks",
+        "Because Georgia reports in an hour",
+        "Because polls never close",
+        "Because there are seven House races"
+      ],
+      "correct_answer": "Because California counts slowly and Alaska's results could take weeks"
+    }
+  ],
+  "background_read": [
+    "In the United States, voters choose members of Congress and governors to lead states and help make laws.",
+    "The country is large and polls close at different times in different states, so results arrive in waves, state by state.",
+    "Close races can decide which party controls the Senate, and counting in some states can take days or even weeks."
+  ],
+  "Article_Structure": [
+    "WHO: Voters across the United States and Georgia's Secretary of State, Brad Raffensperger.",
+    "WHAT: Voters finish choosing members of Congress and governors, and then the counting begins as polls close.",
+    "WHERE: Across the United States, with polls closing at different times in different states.",
+    "WHY: Close Senate races in several states could decide which party controls the Senate, so people watch the results state by state."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Brad Raffensperger, Georgia's Secretary of State",
+      "description": "He told local news that counties must report results within an hour of polls closing."
+    }
+  ],
+  "mined_at": "2026-11-01T13:54:02+00:00",
+  "source_published_at": "Sun, 01 Nov 2026 05:00:00 -0400",
+  "source_name": "NPR World",
+  "source_url": "https://www.npr.org/2026/11/01/g-s1-149978/midterms-election-night",
+  "category": "News",
+  "source_word_count": 1981,
+  "detail_status": "full"
+}
