@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-01-science-1",
-      "source": "Space.com",
-      "time_ago": "Sun, 01 Nov 2026 11:00:00 +0000",
-      "mined_at": "2026-11-01T13:54:02+00:00",
-      "source_published_at": "Sun, 01 Nov 2026 11:00:00 +0000",
-      "image_url": "/article_images/science-s424a7edc7afed954.webp",
+      "id": "2026-11-02-science-1",
+      "source": "Smithsonian Science-Nature",
+      "time_ago": "Thu, 29 Oct 2026 11:30:00 +0000",
+      "mined_at": "2026-11-02T11:24:45+00:00",
+      "source_published_at": "Thu, 29 Oct 2026 11:30:00 +0000",
+      "image_url": "/article_images/science-s3356951ac10311e6.webp",
       "category": "Science",
-      "title": "Five Bright Planets to Spot in November",
-      "summary": "Saturn shines in the evening, Mars passes Jupiter on November 16, and bright Venus and Mercury light up November's morning skies."
+      "title": "A Tiny Red Plant With a Death Hug",
+      "summary": "A tiny red plant that hugs insects to death is now its own species, living in one small part of Florida."
     },
     {
-      "id": "2026-11-01-science-2",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Sat, 31 Oct 2026 22:44:28 EDT",
-      "mined_at": "2026-11-01T13:54:02+00:00",
-      "source_published_at": "Sat, 31 Oct 2026 22:44:28 EDT",
-      "image_url": "/article_images/science-sc09b87b9fd2dd003.webp",
+      "id": "2026-11-02-science-2",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Sun, 01 Nov 2026 00:33:36 EDT",
+      "mined_at": "2026-11-02T11:24:45+00:00",
+      "source_published_at": "Sun, 01 Nov 2026 00:33:36 EDT",
+      "image_url": "/article_images/science-se66ab23bf715741a.webp",
       "category": "Science",
-      "title": "Trees Use Hidden 'Muscles' to Stand Up Straight",
-      "summary": "Poplar trees can sense their own shape. They grow special tension wood on opposite sides of a stem to pull themselves straight again."
+      "title": "A Forgotten Particle May Explain Why the Universe Exists",
+      "summary": "A forgotten particle may have tipped the young universe in favor of matter, scientists propose."
     },
     {
-      "id": "2026-11-01-science-3",
-      "source": "Popular Mechanics",
-      "time_ago": "Fri, 30 Oct 2026 18:00:00 +0000",
-      "mined_at": "2026-11-01T13:54:02+00:00",
-      "source_published_at": "Fri, 30 Oct 2026 18:00:00 +0000",
-      "image_url": "/article_images/science-s10c70fd5e915c721.webp",
+      "id": "2026-11-02-science-3",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Sun, 01 Nov 2026 06:55:46 EST",
+      "mined_at": "2026-11-02T11:24:45+00:00",
+      "source_published_at": "Sun, 01 Nov 2026 06:55:46 EST",
+      "image_url": "/article_images/science-s44185b3d8addee51.webp",
       "category": "Science",
-      "title": "Scientists May Have Found a Lost Roman City",
-      "summary": "Scans near Stein found a planned Roman city with a theater for 8,000 people. It may be the lost city of Claudivium, but scientists are not sure yet."
+      "title": "A Tiny Motor Inspired by an Ancient Screw",
+      "summary": "A molecule-sized screw spins on electricity, reverses on command, and carries electricity far better while turning."
     }
   ]
 }

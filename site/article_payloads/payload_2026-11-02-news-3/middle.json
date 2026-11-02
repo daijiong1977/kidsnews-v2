@@ -1,0 +1,125 @@
+{
+  "title": "How to Think About the Midterms",
+  "summary": "On Tuesday, voters across the United States will vote in midterm elections, which decide who controls Congress, the House of Representatives and the Senate, in the middle of a president's term.\n\nIn the latest NPR, PBS News and Marist poll, 44 percent of people said their finances have mostly stayed the same, 38 percent said their situation has worsened, and only 15 percent said things have gotten better.\n\nHistory gives one party a warning and the other hope. Since World War Two, the president's party has gained seats in the House in a midterm election only twice. On average, it loses 26 seats. When a president's approval rating is below 50 percent, the average loss is 35 seats; when it is above 50 percent, the average loss is 15.\n\nRecent polls point to gains for Democrats, who are favored to win control of the House and are within reach of the Senate, according to the analysis. Democrats have also done better than expected in special elections and in the 2025 off-year elections. At the same time, the analysis notes that the Democratic Party is also not viewed positively. Still, analysts say the size of any gain is not clear.\n\nOne reason is the map. There are about 30 fewer competitive districts than in 2018, when Democrats gained more than 40 House seats. Mid-decade redistricting, the redrawing of district lines, also helped Republicans by an estimated eight seats in an NPR analysis, although how Latino voters in South Texas vote could change that.\n\nTurnout could decide close races, which is why President Donald Trump has been campaigning in states his party usually wins to urge supporters to vote. Most races will be called on election night, but some may take days or weeks, so Senate control might not be known right away.",
+  "why_it_matters": "Midterm elections decide who makes the country's laws, so understanding polls, maps and turnout helps young readers follow results without being fooled by early claims.",
+  "image_url": "/article_images/news-s94deea2b66f311fc.webp",
+  "keywords": [
+    {
+      "explanation": "An election held in the middle of a president's term.",
+      "term": "midterm"
+    },
+    {
+      "explanation": "Redrawing the lines of voting districts.",
+      "term": "redistricting"
+    },
+    {
+      "explanation": "Districts where either party could win the election.",
+      "term": "competitive districts"
+    },
+    {
+      "explanation": "A measure of how many people approve of a leader's job.",
+      "term": "approval rating"
+    },
+    {
+      "explanation": "How many voters actually turn out to vote.",
+      "term": "Turnout"
+    }
+  ],
+  "questions": [
+    {
+      "correct_answer": "Who controls Congress",
+      "options": [
+        "The Federal Reserve",
+        "State governors",
+        "Who is president",
+        "Who controls Congress"
+      ],
+      "question": "What do Tuesday's midterm elections decide?"
+    },
+    {
+      "correct_answer": "44 percent",
+      "options": [
+        "44 percent",
+        "38 percent",
+        "15 percent",
+        "50 percent"
+      ],
+      "question": "In the poll, what share of people said their finances have mostly stayed the same?"
+    },
+    {
+      "correct_answer": "Twice",
+      "options": [
+        "35 times",
+        "Twice",
+        "15 times",
+        "26 times"
+      ],
+      "question": "Since World War Two, how many times has the president's party gained House seats in a midterm election?"
+    },
+    {
+      "correct_answer": "About 30",
+      "options": [
+        "About 30",
+        "About 8",
+        "26",
+        "More than 40"
+      ],
+      "question": "About how many fewer competitive districts are there than in 2018?"
+    },
+    {
+      "correct_answer": "How Latino voters in South Texas vote",
+      "options": [
+        "How Latino voters in South Texas vote",
+        "The number of competitive districts",
+        "The 2025 off-year elections",
+        "Turnout in states the president's party usually wins"
+      ],
+      "question": "What could change the redistricting advantage?"
+    },
+    {
+      "correct_answer": "Election night",
+      "options": [
+        "In 2018",
+        "Election night",
+        "On Tuesday morning",
+        "In a few weeks"
+      ],
+      "question": "When will most races be called?"
+    }
+  ],
+  "background_read": [
+    "Congress is the part of the United States government that makes laws, with two parts: the House of Representatives and the Senate.",
+    "Midterm elections happen in the middle of a president's term and decide who controls Congress.",
+    "Voters choose representatives for districts, areas that each elect one member of the House, and district lines are sometimes redrawn.",
+    "Polls ask a sample of people what they think, and their results hint at, but never guarantee, an election outcome."
+  ],
+  "Article_Structure": [
+    "LEAD: How to think about the midterms",
+    "KEY EVENT: Tuesday's vote decides control of Congress",
+    "  ├─ WHAT: The House of Representatives and the Senate",
+    "  ├─ POLL: 44 percent say finances stayed the same, 38 percent worse, 15 percent better",
+    "  └─ HISTORY: The president's party usually loses seats, 26 on average",
+    "FORECAST: Polls point to Democratic gains, but the size is unclear",
+    "  ├─ MAP: About 30 fewer competitive districts than in 2018",
+    "  └─ REDISTRICTING: An estimated eight-seat advantage for Republicans",
+    "TURNOUT: Could decide close races, so Trump campaigns in states his party usually wins",
+    "TIMING: Most races called on election night, some may take days or weeks"
+  ],
+  "perspectives": [
+    {
+      "description": "Polls point to Democratic gains, but the size of any gain is not clear.",
+      "perspective": "Analysts"
+    },
+    {
+      "description": "Redistricting helped Republicans by an estimated eight seats.",
+      "perspective": "NPR analysis"
+    }
+  ],
+  "mined_at": "2026-11-02T11:24:45+00:00",
+  "source_published_at": "Sun, 01 Nov 2026 13:27:06 -0500",
+  "source_name": "NPR World",
+  "source_url": "https://www.npr.org/2026/11/01/g-s1-151146/how-to-think-about-the-midterms-and-the-political-moment-the-country-is-in",
+  "category": "News",
+  "source_word_count": 1298,
+  "detail_status": "full"
+}

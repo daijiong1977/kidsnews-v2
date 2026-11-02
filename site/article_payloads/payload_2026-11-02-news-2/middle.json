@@ -1,0 +1,124 @@
+{
+  "title": "Living With High Prices in Rural Virginia",
+  "summary": "In Tappahannock, Virginia, a cafe called Java Jacks sells coffee and pastries under the slogan \"Come in, We're Awesome.\" Owner Jeans Owens and her husband took over about eight years ago. Their first years brought the pandemic and rising prices.\n\nCoffee prices at the cafe are up more than 30 percent since 2022. A takeout box that once cost 12 cents now costs nearly 30 cents, and a cup with lid and straw that once cost 3 cents now costs more than 20 cents. The electricity bill has jumped from about $450 or $500 a month to more than $1,000.\n\nOwens works hard to keep menu prices affordable, holding some meals at $10. She buys milk and juice at Walmart instead of from a supplier, picks up fruit locally, and compares three suppliers, switching to the cheapest. More senior citizens now share orders, and tips dipped when gas prices rose.\n\nFinding and keeping staff is her biggest stress. Her second coffee spot, across the river in Warsaw, has also been short-staffed for months at a time. Rents have risen where the median income is around $50,000 a year, so Owens has helped workers find housing, put some up in a motel, and carpools five employees to work.\n\nJameka Campbell works two jobs while raising two children. She manages an office at Menokin and works for a nonprofit teaching people to grow fresh food. She stretches her budget with Walgreens coupon deals, aiming to spend $100 a month on household supplies. On one trip she spent $60.04 and saved $27.71, enough, she said, for a meal or a quarter tank of gas. \"I'm not rich. I'm not poor. I'm in between,\" she said. Owens, running for the town's non-partisan council, says whoever wins the district's tight race should know: \"We're struggling.\"",
+  "why_it_matters": "Rising prices touch every family, and stories like this show how small choices, from coupons to comparing suppliers, help people cope.",
+  "image_url": "/article_images/news-s87b1a55f25b58d07.webp",
+  "keywords": [
+    {
+      "explanation": "The middle value, so half of people earn more and half earn less.",
+      "term": "median"
+    },
+    {
+      "explanation": "Businesses that sell goods to a shop or cafe.",
+      "term": "suppliers"
+    },
+    {
+      "explanation": "Sharing rides to work in one car.",
+      "term": "carpools"
+    },
+    {
+      "explanation": "Not tied to any political party.",
+      "term": "non-partisan"
+    },
+    {
+      "explanation": "A ticket or code that gives you money off something you buy.",
+      "term": "coupon"
+    }
+  ],
+  "questions": [
+    {
+      "correct_answer": "Java Jacks",
+      "options": [
+        "Walmart",
+        "Menokin",
+        "Java Jacks",
+        "Warsaw"
+      ],
+      "question": "What is the name of the cafe in Tappahannock?"
+    },
+    {
+      "correct_answer": "More than 30 percent",
+      "options": [
+        "More than 30 percent",
+        "About $1,000 a month",
+        "More than 20 cents",
+        "12 cents"
+      ],
+      "question": "By how much have coffee prices at the cafe risen since 2022?"
+    },
+    {
+      "correct_answer": "Milk and juice",
+      "options": [
+        "Milk and juice",
+        "Takeout boxes",
+        "Coffee",
+        "Fresh fruit"
+      ],
+      "question": "What does Owens buy at Walmart instead of from a supplier?"
+    },
+    {
+      "correct_answer": "Five",
+      "options": [
+        "Five",
+        "Two",
+        "Ten",
+        "Three"
+      ],
+      "question": "About how many employees does Owens carpool to work?"
+    },
+    {
+      "correct_answer": "$100",
+      "options": [
+        "$27.71",
+        "$60.04",
+        "$50,000",
+        "$100"
+      ],
+      "question": "What is Campbell's monthly goal for household supplies?"
+    },
+    {
+      "correct_answer": "I'm not rich. I'm not poor. I'm in between.",
+      "options": [
+        "We're struggling.",
+        "We carpool five employees to work.",
+        "Come in, We're Awesome.",
+        "I'm not rich. I'm not poor. I'm in between."
+      ],
+      "question": "What did Campbell say about her own situation?"
+    }
+  ],
+  "background_read": [
+    "Inflation means prices for everyday things rise over time, so the same money buys less.",
+    "Small businesses must pay for ingredients, packaging, electricity and workers, and when those costs rise they may raise menu prices or find cheaper suppliers.",
+    "Coupons and sales help shoppers spend less by cutting the price of household goods.",
+    "In rural areas, fewer buses and higher rents can make it harder for workers to find housing and get to work."
+  ],
+  "Article_Structure": [
+    "LEAD: Living with high prices in rural Virginia",
+    "KEY EVENT: Java Jacks faces rising costs",
+    "  ├─ WHO: Jeans Owens, cafe owner",
+    "  ├─ WHAT: Coffee up more than 30 percent, boxes, cups and electricity up too",
+    "  └─ RESPONSE: $10 meals, Walmart milk and juice, comparing suppliers",
+    "KEY EVENT: Campbell stretches her budget",
+    "  ├─ WHO: Jameka Campbell, two jobs and two children",
+    "  └─ HOW: Walgreens coupons, $100 a month goal",
+    "CLOSE: Owens says small businesses are struggling"
+  ],
+  "perspectives": [
+    {
+      "description": "Rising costs make running a small cafe hard, from ingredients to staffing.",
+      "perspective": "Jeans Owens"
+    },
+    {
+      "description": "Careful coupon deals and research help a working family manage high prices.",
+      "perspective": "Jameka Campbell"
+    }
+  ],
+  "mined_at": "2026-11-02T11:24:45+00:00",
+  "source_published_at": "Sun, 01 Nov 2026 08:00:00 -0500",
+  "source_name": "NPR World",
+  "source_url": "https://www.npr.org/2026/11/01/nx-s1-5945628/living-with-high-prices-in-virginias-1st-congressional-district",
+  "category": "News",
+  "source_word_count": 1585,
+  "detail_status": "full"
+}

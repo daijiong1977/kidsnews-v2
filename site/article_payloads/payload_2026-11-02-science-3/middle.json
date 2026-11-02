@@ -1,0 +1,118 @@
+{
+  "title": "A Tiny Motor Inspired by an Ancient Screw",
+  "summary": "Scientists have built a remarkable molecular motor that spins when electricity passes through it and reverses direction when the voltage is switched.\n\nNature already has molecular motors inside living cells, and researchers have spent decades trying to copy them, work recognized with the 2016 Nobel Prize in Chemistry. The first electricity-powered molecular motors, built in 2011, sat on surfaces and relied on a scanning tunneling microscope tip to drive them.\n\nThe new motor borrows its design from the Archimedes screw, one of the oldest machines in recorded history. Traditionally used to move water uphill, it uses a rotating spiral to transport material. Here, electrons travel through a spiral-shaped molecule, and their flow makes the molecule rotate.\n\nThe spiral molecule, created by Prof. Michael Pittelkow's group at the University of Copenhagen, measures only a few millionths of a millimeter and attaches to gold through sulfur atoms. At Israel's Weizmann Institute, Prof. Oren Tal and Dr. Anil Kumar Singh placed molecules between two atomically sharpened gold tips, stretching or compressing the screw by changing the gap.\n\nWhen voltage was applied, the molecule rotated, and reversing the voltage's polarity reversed its direction: the first current-driven molecular motor firmly connected to two metal electrodes with controllable direction. Electrons transfer angular momentum to the spiral as they pass, like moving air turning a wind turbine, and above a voltage threshold rotation becomes continuous.\n\nRotation brought a surprise: the spinning molecule conducted electricity far better than when still. Simulations by Prof. Fabian Pauly and PhD students Léon Martin and Yuta Ito at the University of Augsburg, run on the LiCCA supercomputer, showed conductivity rising by as much as 100 times during rotation. The positions that conduct best are ones the molecule naturally avoids at rest, Martin explained: only rotation makes them accessible.",
+  "why_it_matters": "Machines this small could one day power tiny devices, and this motor shows how an ancient idea can solve a modern engineering puzzle.",
+  "image_url": "/article_images/science-s44185b3d8addee51.webp",
+  "keywords": [
+    {
+      "explanation": "About single molecules, the tiny building blocks of matter.",
+      "term": "molecular"
+    },
+    {
+      "explanation": "The electrical push that drives a current.",
+      "term": "voltage"
+    },
+    {
+      "explanation": "Metal ends that carry electricity into or out of something.",
+      "term": "electrodes"
+    },
+    {
+      "explanation": "How well something carries electricity.",
+      "term": "conductivity"
+    },
+    {
+      "explanation": "The spinning push carried by moving things.",
+      "term": "angular momentum"
+    }
+  ],
+  "questions": [
+    {
+      "correct_answer": "Archimedes screw",
+      "options": [
+        "Scanning tunneling microscope",
+        "Wind turbine",
+        "Archimedes screw",
+        "LiCCA supercomputer"
+      ],
+      "question": "What ancient device inspired the new motor?"
+    },
+    {
+      "correct_answer": "It reverses direction",
+      "options": [
+        "It breaks apart",
+        "It conducts 100 times better",
+        "It stops",
+        "It reverses direction"
+      ],
+      "question": "What happens when the voltage's polarity is reversed?"
+    },
+    {
+      "correct_answer": "Prof. Michael Pittelkow's group",
+      "options": [
+        "Prof. Oren Tal",
+        "Prof. Fabian Pauly",
+        "Dr. Anil Kumar Singh",
+        "Prof. Michael Pittelkow's group"
+      ],
+      "question": "Who created the spiral molecule?"
+    },
+    {
+      "correct_answer": "As much as 100 times",
+      "options": [
+        "Two times",
+        "A few millionths of a millimeter",
+        "As much as 100 times",
+        "Ten times"
+      ],
+      "question": "By how much did conductivity rise during rotation?"
+    },
+    {
+      "correct_answer": "LiCCA supercomputer",
+      "options": [
+        "University of Augsburg",
+        "University of Copenhagen",
+        "Weizmann Institute",
+        "LiCCA supercomputer"
+      ],
+      "question": "On what were the simulations run?"
+    },
+    {
+      "correct_answer": "They are positions the molecule naturally avoids when at rest",
+      "options": [
+        "They are made of gold",
+        "They only appear above a voltage threshold",
+        "They are positions the molecule prefers at rest",
+        "They are positions the molecule naturally avoids when at rest"
+      ],
+      "question": "What did Martin say about the best-conducting positions?"
+    }
+  ],
+  "background_read": [
+    "A molecule is a tiny group of atoms joined together, far too small to see.",
+    "An electric current is a flow of electrons through a material.",
+    "The Archimedes screw is an ancient device that lifts water with a turning spiral.",
+    "Gold is a metal that conducts electricity well, which is why it is used for tiny electrical contacts."
+  ],
+  "Article_Structure": [
+    "LEAD: A tiny motor inspired by an ancient screw",
+    "KEY EVENT: A current-driven molecular motor is built",
+    "  ├─ WHO: Pittelkow's group, Tal and Singh, and Pauly's team",
+    "  ├─ HOW: Electrons flow through a spiral molecule; voltage reverses its direction",
+    "  └─ FIRST: Firmly connected to two electrodes with controllable direction",
+    "SURPRISE: Conductivity rises as much as 100 times during rotation",
+    "QUOTE: Martin says only rotation makes the best-conducting positions accessible"
+  ],
+  "perspectives": [
+    {
+      "description": "Only rotation makes the best-conducting positions accessible.",
+      "perspective": "Léon Martin"
+    }
+  ],
+  "mined_at": "2026-11-02T11:24:45+00:00",
+  "source_published_at": "Sun, 01 Nov 2026 06:55:46 EST",
+  "source_name": "ScienceDaily Top Technology",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261030002940.htm",
+  "category": "Science",
+  "source_word_count": 637,
+  "detail_status": "full"
+}

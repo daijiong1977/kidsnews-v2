@@ -1,0 +1,116 @@
+{
+  "title": "New Winners at the New York City Marathon",
+  "summary": "Sweden's Andreas Almgren won the men's race at the New York City Marathon on Sunday in his very first try at the 26.2-mile distance, after a successful career running half-marathons. He pulled away from Italy's Yemaneberhan Crippa in the final mile to win in 2:06:01, with Crippa 13 seconds behind and Kamohelo Mofolo of Lesotho third, edging defending champion Benson Kipruto.\n\nHis time was the third fastest in course history, and the top seven finishers all ran among the ten fastest times ever there. He was the first debut winner since Gebre Gebremariam of Ethiopia in 2010, and American Zouhair Talbi finished sixth in the fastest time ever by a U.S. runner.\n\nKenya's Sheila Chepkirui won the women's race for the second time, also winning in 2024, pulling away from countrywoman Hellen Obiri in the final 150 meters to win in 2:24:36. American Jessica McClain passed Obiri, a two-time winner, in the final strides for second, six seconds behind, the first U.S. woman in the top three since 2018.\n\nIt was the 50th time the race has run through all five boroughs. In 1976 there were just over 2,000 competitors, including only 88 women; on Sunday about 60,000 runners started, nearly half women, from more than 140 countries. The marathon began in 1970 inside Central Park, where runners looped for its first six years.\n\nFor the first time in 15 years the course changed slightly at Mile 20, cutting Bronx turns from seven to five and easing street closures. In the wheelchair races, Switzerland's Marcel Hug won the men's race for the eighth time, passing Daniel Romanchuk in the final 100 meters by just over a second, and Catherine Debrunner won the women's race in 1:40:02, the second-fastest time ever.",
+  "why_it_matters": "Big races show how years of training and a strong finish can pay off, and how one city event can bring together runners from all over the world.",
+  "image_url": "/article_images/news-s26e67fe7d08dc59f.webp",
+  "keywords": [
+    {
+      "explanation": "A part of a big city, like one of the five parts of New York City.",
+      "term": "boroughs"
+    },
+    {
+      "explanation": "The runner who won the race last time and is trying to win again.",
+      "term": "defending champion"
+    },
+    {
+      "explanation": "A race that is half as long as a full marathon.",
+      "term": "half-marathons"
+    },
+    {
+      "explanation": "Long steps taken while running fast.",
+      "term": "strides"
+    },
+    {
+      "explanation": "Went around in circles, coming back to the same place.",
+      "term": "looped"
+    }
+  ],
+  "questions": [
+    {
+      "correct_answer": "Andreas Almgren",
+      "options": [
+        "Andreas Almgren",
+        "Benson Kipruto",
+        "Yemaneberhan Crippa",
+        "Zouhair Talbi"
+      ],
+      "question": "Who won the men's race at the New York City Marathon?"
+    },
+    {
+      "correct_answer": "Kamohelo Mofolo",
+      "options": [
+        "Kamohelo Mofolo",
+        "Yemaneberhan Crippa",
+        "Zouhair Talbi",
+        "Benson Kipruto"
+      ],
+      "question": "Who finished third in the men's race?"
+    },
+    {
+      "correct_answer": "Sheila Chepkirui",
+      "options": [
+        "Sheila Chepkirui",
+        "Hellen Obiri",
+        "Jessica McClain",
+        "Catherine Debrunner"
+      ],
+      "question": "Who won the women's race?"
+    },
+    {
+      "correct_answer": "About 60,000",
+      "options": [
+        "About 60,000",
+        "Nearly half",
+        "88",
+        "Just over 2,000"
+      ],
+      "question": "About how many runners started the race on Sunday?"
+    },
+    {
+      "correct_answer": "Central Park",
+      "options": [
+        "All five boroughs",
+        "Central Park",
+        "Mile 20",
+        "The Bronx"
+      ],
+      "question": "Where did the marathon begin in 1970?"
+    },
+    {
+      "correct_answer": "Marcel Hug",
+      "options": [
+        "Marcel Hug",
+        "Zouhair Talbi",
+        "Benson Kipruto",
+        "Daniel Romanchuk"
+      ],
+      "question": "Who won the men's wheelchair race?"
+    }
+  ],
+  "background_read": [
+    "A marathon is a long-distance running race of 26.2 miles.",
+    "The New York City Marathon is a famous race through the streets of New York City, with runners from many countries taking part.",
+    "Runners race along a set course, and the fastest man and woman win their races.",
+    "Wheelchair racers compete in their own races on the same course."
+  ],
+  "Article_Structure": [
+    "LEAD: New winners at the New York City Marathon",
+    "KEY EVENT: Almgren wins the men's race in his marathon debut",
+    "  ├─ WHO: Andreas Almgren of Sweden",
+    "  ├─ WHEN: Sunday",
+    "  └─ RESULT: 2:06:01, third fastest in course history",
+    "KEY EVENT: Chepkirui wins the women's race for the second time",
+    "  ├─ WHO: Sheila Chepkirui of Kenya",
+    "  └─ RESULT: 2:24:36, six seconds ahead of Jessica McClain",
+    "BACKGROUND: The race began in 1970 in Central Park and now runs through all five boroughs",
+    "WHEELCHAIR RACES: Marcel Hug and Catherine Debrunner won"
+  ],
+  "perspectives": [],
+  "mined_at": "2026-11-02T11:24:45+00:00",
+  "source_published_at": "Sun, 01 Nov 2026 12:33:21 -0500",
+  "source_name": "NPR World",
+  "source_url": "https://www.npr.org/2026/11/01/nx-s1-6025437/new-york-marathon-almgren-chepkirui-win",
+  "category": "News",
+  "source_word_count": 580,
+  "detail_status": "full"
+}

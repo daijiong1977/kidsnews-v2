@@ -1,0 +1,123 @@
+{
+  "title": "A Tiny Red Plant With a Death Hug",
+  "summary": "Hidden beside sinkhole lakes in Florida's Panhandle lives a small carnivorous plant with dazzling red, thread-like leaves ending in tightly coiled spirals. It is the Florida threadleaf sundew, officially recognized as its own species, Drosera floridana, in August 2026.\n\nFlorida botanist Lilly Anderson-Messec first saw the plant in 2014 and thought how different and unique it looked. It was then classified as a variety of the widespread thread-leaved sundew, but she was not convinced, partly because the closest population of that sundew was hundreds of miles away in South Carolina.\n\nNoah Juve, now an undergraduate at the University of Florida, published the description that elevated it to species status. With co-author Andreas Fleischmann of the Munich Herbarium, Juve spent years comparing it with relatives at more than 100 coastal sites. It stood out for its red color, seed shape, flower shape and bloom time.\n\nIts hunting style earned a dramatic nickname: the slow-motion death hug. Sticky droplets work like flypaper, trapping small insects; the plant wraps around them and releases digestive enzymes that slowly break the prey down.\n\nIts home is just as fragile. The sundew grows only on sandy sinkhole-lake margins in a patch about 12 miles by 16 miles, smaller than Chicago, in just two Florida counties, Washington and Bay, making it the most range-restricted sundew in the United States. The lakes formed over thousands to millions of years as acidic rain dissolved limestone, and seeping groundwater creates thin, acidic, nutrient-poor layers along white quartz sand shores.\n\nUniversity of Florida senior Galen Bodner spent months searching and remembers thousands of sundews glowing pink in sunlight. Naming matters for its future: plants ranked only as a subspecies or variety stay hidden from conservation, Fleischmann explained, and as Juve put it, \"If something doesn't have a name, how can you conserve it?\"",
+  "why_it_matters": "Naming a rare plant is the first step to protecting it, and this sundew shows how much life can depend on one small, fragile place.",
+  "image_url": "/article_images/science-s3356951ac10311e6.webp",
+  "keywords": [
+    {
+      "explanation": "A plant that catches and eats insects.",
+      "term": "carnivorous"
+    },
+    {
+      "explanation": "Coiled shapes, like a spring.",
+      "term": "spirals"
+    },
+    {
+      "explanation": "Soil or water with very few nutrients for plants.",
+      "term": "nutrient-poor"
+    },
+    {
+      "explanation": "Work to protect nature and living things.",
+      "term": "conservation"
+    },
+    {
+      "explanation": "A collection of dried plants kept for study.",
+      "term": "Herbarium"
+    }
+  ],
+  "questions": [
+    {
+      "correct_answer": "Drosera floridana",
+      "options": [
+        "Drosera floridana",
+        "Drosera filiformis",
+        "Munich Herbarium",
+        "Florida threadleaf"
+      ],
+      "question": "What is the sundew's scientific name as its own species?"
+    },
+    {
+      "correct_answer": "Lilly Anderson-Messec",
+      "options": [
+        "Noah Juve",
+        "Andreas Fleischmann",
+        "Lilly Anderson-Messec",
+        "Galen Bodner"
+      ],
+      "question": "Who first saw the plant in 2014?"
+    },
+    {
+      "correct_answer": "About 12 miles by 16 miles",
+      "options": [
+        "About 12 miles by 16 miles",
+        "More than 100 sites",
+        "Hundreds of miles away",
+        "Two counties"
+      ],
+      "question": "About how big is the patch where the sundew grows?"
+    },
+    {
+      "correct_answer": "Sticky droplets like flypaper",
+      "options": [
+        "Sticky droplets like flypaper",
+        "With its flowers",
+        "With its roots",
+        "By chasing them"
+      ],
+      "question": "How does the sundew catch insects?"
+    },
+    {
+      "correct_answer": "Washington and Bay",
+      "options": [
+        "Washington and Bay",
+        "Washington and South Carolina",
+        "Florida and Germany",
+        "Bay and Chicago"
+      ],
+      "question": "In which two Florida counties does the sundew grow?"
+    },
+    {
+      "correct_answer": "Plants ranked only as a subspecies or variety stay hidden from conservation",
+      "options": [
+        "It moves the plant to South Carolina",
+        "It changes the bloom time",
+        "Plants ranked only as a subspecies or variety stay hidden from conservation",
+        "It makes the plant red"
+      ],
+      "question": "Why does naming the species matter for its future?"
+    }
+  ],
+  "background_read": [
+    "Carnivorous plants catch and digest insects to get nutrients they cannot get from poor soil.",
+    "Sundews use sticky drops on their leaves to trap small insects, then slowly digest them.",
+    "Sinkhole lakes form when water dissolves soft rock underground, leaving dips that fill with water.",
+    "When a plant or animal lives in only one small place, protecting that place is the key to keeping it alive."
+  ],
+  "Article_Structure": [
+    "LEAD: A tiny red plant with a death hug",
+    "KEY EVENT: The Florida threadleaf sundew becomes its own species",
+    "  ├─ WHO: Noah Juve and Andreas Fleischmann",
+    "  ├─ WHEN: August 2026",
+    "  └─ HOW: Compared with relatives at more than 100 coastal sites",
+    "HUNTING: Sticky droplets trap insects like flypaper",
+    "HOME: A patch about 12 miles by 16 miles in Washington and Bay counties",
+    "WHY IT MATTERS: Naming helps conservation"
+  ],
+  "perspectives": [
+    {
+      "description": "Plants ranked only as a subspecies or variety stay hidden from conservation.",
+      "perspective": "Andreas Fleischmann"
+    },
+    {
+      "description": "If something doesn't have a name, it cannot be conserved.",
+      "perspective": "Noah Juve"
+    }
+  ],
+  "mined_at": "2026-11-02T11:24:45+00:00",
+  "source_published_at": "Thu, 29 Oct 2026 11:30:00 +0000",
+  "source_name": "Smithsonian Science-Nature",
+  "source_url": "https://www.smithsonianmag.com/science-nature/the-worlds-newest-carnivorous-plant-is-a-red-sundew-that-death-hugs-its-insect-prey-its-survival-depends-on-a-rare-and-disappearing-florida-habitat-180989758/",
+  "category": "Science",
+  "source_word_count": 738,
+  "detail_status": "full"
+}

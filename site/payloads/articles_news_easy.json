@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-01-news-1",
+      "id": "2026-11-02-news-1",
       "source": "NPR World",
-      "time_ago": "Sat, 31 Oct 2026 05:00:00 -0400",
-      "mined_at": "2026-11-01T13:54:02+00:00",
-      "source_published_at": "Sat, 31 Oct 2026 05:00:00 -0400",
-      "image_url": "/article_images/news-sd8f6dd3fae2392a6.webp",
+      "time_ago": "Sun, 01 Nov 2026 12:33:21 -0500",
+      "mined_at": "2026-11-02T11:24:45+00:00",
+      "source_published_at": "Sun, 01 Nov 2026 12:33:21 -0500",
+      "image_url": "/article_images/news-s26e67fe7d08dc59f.webp",
       "category": "News",
-      "title": "The Oyster Helpers of Chesapeake Bay",
-      "summary": "Oysters clean Chesapeake Bay water and shelter other creatures, but their numbers fell sharply. John Consoli, his neighbours, and robot researchers are working to bring them back."
+      "title": "New Winners at the New York City Marathon",
+      "summary": "New marathon winners in New York: Andreas Almgren and Sheila Chepkirui, in a race with 60,000 runners."
     },
     {
-      "id": "2026-11-01-news-2",
+      "id": "2026-11-02-news-2",
       "source": "NPR World",
-      "time_ago": "Sun, 01 Nov 2026 05:00:00 -0400",
-      "mined_at": "2026-11-01T13:54:02+00:00",
-      "source_published_at": "Sun, 01 Nov 2026 05:00:00 -0400",
-      "image_url": "/article_images/news-sfa4bb4ed4052a43a.webp",
+      "time_ago": "Sun, 01 Nov 2026 08:00:00 -0500",
+      "mined_at": "2026-11-02T11:24:45+00:00",
+      "source_published_at": "Sun, 01 Nov 2026 08:00:00 -0500",
+      "image_url": "/article_images/news-s87b1a55f25b58d07.webp",
       "category": "News",
-      "title": "Election Night: Polls Close and Counting Begins",
-      "summary": "On Tuesday, polls close in waves from 7 p.m. to 1 a.m. Eastern Time. Close Senate races may decide control, and some counting could last days or weeks."
+      "title": "Living With High Prices in Rural Virginia",
+      "summary": "In rural Virginia, a cafe owner and a working mom find ways to cope with rising prices."
     },
     {
-      "id": "2026-11-01-news-3",
-      "source": "CBC World",
-      "time_ago": "Sat, 31 Oct 2026 08:51:08 EDT",
-      "mined_at": "2026-11-01T13:54:02+00:00",
-      "source_published_at": "Sat, 31 Oct 2026 08:51:08 EDT",
-      "image_url": "/article_images/news-sfdb7540fc40bc65c.webp",
+      "id": "2026-11-02-news-3",
+      "source": "NPR World",
+      "time_ago": "Sun, 01 Nov 2026 13:27:06 -0500",
+      "mined_at": "2026-11-02T11:24:45+00:00",
+      "source_published_at": "Sun, 01 Nov 2026 13:27:06 -0500",
+      "image_url": "/article_images/news-s94deea2b66f311fc.webp",
       "category": "News",
-      "title": "Families Come Together Again After Leaving Oleshky",
-      "summary": "People from Oleshky crossed into Ukrainian-held land during a short ceasefire, travelling through Russia and Belarus. Families and aid groups waited to welcome them on Saturday."
+      "title": "How to Think About the Midterms",
+      "summary": "Polls point to Democratic gains in Tuesday's midterms, but the map and turnout mean the result is still uncertain."
     }
   ]
 }

@@ -1,0 +1,119 @@
+{
+  "title": "A Forgotten Particle May Explain Why the Universe Exists",
+  "summary": "Scientists have proposed a surprising new explanation for why the universe exists at all, and it centers on a mysterious particle that physicists have largely overlooked for decades. Researchers from the University of Southampton and the Indian Institute of Technology Kanpur say this forgotten particle may have helped matter survive after the Big Bang.\n\nThe puzzle is simple to state and hard to solve. Scientists believe matter and antimatter were made in nearly equal amounts in the early universe. When opposites meet, they destroy each other, so exactly equal amounts would have left almost nothing to build stars, planets or life.\n\nThe team's answer involves a heavier relative of the neutrino, an extremely lightweight particle that rarely interacts with ordinary matter. This type, called a 'decoupled' heavy neutrino, was long dismissed as too weakly connected to matter. But the researchers calculated that it decays incredibly slowly, so it lived long enough to temporarily dominate the universe's energy as the cosmos cooled after the Big Bang.\n\nThat brief dominance could have changed the temperature at which fundamental particles, like electrons and other leptons, interacted with their antiparticles with the help of the Higgs boson. That temperature acts like a switch, said study author Dr. Rishav Roshan of the University of Southampton, shaping how the small surplus of matter over antimatter built up. \"The fact that we are here at all proves that an asymmetry between matter and antimatter occurred,\" he said.\n\nThe findings were published in Physical Review Letters, a journal of the American Physical Society. The idea is a proposed explanation, not proof, but it shows how something long considered insignificant may have helped decide why the universe contains matter at all.",
+  "why_it_matters": "If a particle everyone ignored helped decide whether anything exists at all, it shows how the smallest, quietest things can shape the biggest questions.",
+  "image_url": "/article_images/science-se66ab23bf715741a.webp",
+  "keywords": [
+    {
+      "explanation": "The opposite of matter; when they meet, they destroy each other.",
+      "term": "antimatter"
+    },
+    {
+      "explanation": "A tiny particle that rarely interacts with normal matter.",
+      "term": "neutrino"
+    },
+    {
+      "explanation": "Only weakly connected to other particles.",
+      "term": "decoupled"
+    },
+    {
+      "explanation": "A difference where one side has more than the other.",
+      "term": "asymmetry"
+    },
+    {
+      "explanation": "Basic particles, like electrons.",
+      "term": "leptons"
+    }
+  ],
+  "questions": [
+    {
+      "correct_answer": "Why the universe contains matter instead of nothing",
+      "options": [
+        "Why neutrinos rarely interact",
+        "Why the universe is cooling",
+        "Why the universe contains matter instead of nothing",
+        "Why stars and planets formed"
+      ],
+      "question": "What puzzle does the research address?"
+    },
+    {
+      "correct_answer": "A decoupled heavy neutrino",
+      "options": [
+        "An ordinary neutrino",
+        "A decoupled heavy neutrino",
+        "A Higgs boson",
+        "An electron"
+      ],
+      "question": "What kind of particle is at the center of the idea?"
+    },
+    {
+      "correct_answer": "It decays incredibly slowly",
+      "options": [
+        "It decays incredibly slowly",
+        "It decays in seconds",
+        "It never decays",
+        "It decays instantly"
+      ],
+      "question": "What did researchers calculate about the particle's lifetime?"
+    },
+    {
+      "correct_answer": "The universe's energy",
+      "options": [
+        "The speed of light",
+        "The universe's energy",
+        "The Higgs boson",
+        "All antimatter"
+      ],
+      "question": "What did the particle temporarily dominate as the cosmos cooled?"
+    },
+    {
+      "correct_answer": "Dr. Rishav Roshan",
+      "options": [
+        "Physical Review Letters",
+        "University of Southampton",
+        "Dr. Rishav Roshan",
+        "American Physical Society"
+      ],
+      "question": "Who is the study author quoted in the article?"
+    },
+    {
+      "correct_answer": "Physical Review Letters",
+      "options": [
+        "American Physical Society",
+        "Physical Review Letters",
+        "University of Southampton",
+        "The Big Bang"
+      ],
+      "question": "Where were the findings published?"
+    }
+  ],
+  "background_read": [
+    "Matter is the stuff everything is made of, and antimatter is its opposite.",
+    "The Big Bang is the hot, dense beginning of the universe, after which it cooled and expanded.",
+    "Neutrinos are extremely light particles that pass through ordinary matter almost without touching it.",
+    "The Higgs boson is a particle linked to how other particles get mass."
+  ],
+  "Article_Structure": [
+    "LEAD: A forgotten particle may explain why the universe exists",
+    "KEY EVENT: Researchers propose a decoupled heavy neutrino helped matter survive",
+    "  ├─ WHO: Researchers from the University of Southampton and the Indian Institute of Technology Kanpur",
+    "  ├─ WHAT: A heavier relative of the neutrino",
+    "  └─ PUZZLE: Matter and antimatter were nearly equal, and opposites destroy each other",
+    "MECHANISM: Slow decay let it dominate the universe's energy and shift the temperature switch",
+    "QUOTE: Dr. Rishav Roshan says being here proves an asymmetry occurred",
+    "STATUS: Published in Physical Review Letters as a proposed explanation, not proof"
+  ],
+  "perspectives": [
+    {
+      "description": "The decoupled neutrino shifted the temperature that shaped how the matter-antimatter imbalance built up.",
+      "perspective": "Dr. Rishav Roshan"
+    }
+  ],
+  "mined_at": "2026-11-02T11:24:45+00:00",
+  "source_published_at": "Sun, 01 Nov 2026 00:33:36 EDT",
+  "source_name": "ScienceDaily Top Technology",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm",
+  "category": "Science",
+  "source_word_count": 633,
+  "detail_status": "full"
+}
