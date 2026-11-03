@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-02-science-1",
-      "source": "Smithsonian Science-Nature",
-      "time_ago": "Thu, 29 Oct 2026 11:30:00 +0000",
-      "mined_at": "2026-11-02T11:24:45+00:00",
-      "source_published_at": "Thu, 29 Oct 2026 11:30:00 +0000",
-      "image_url": "/article_images/science-s3356951ac10311e6.webp",
+      "id": "2026-11-03-science-1",
+      "source": "Science News Explores",
+      "time_ago": "Mon, 02 Nov 2026 11:30:00 +0000",
+      "mined_at": "2026-11-03T11:15:05+00:00",
+      "source_published_at": "Mon, 02 Nov 2026 11:30:00 +0000",
+      "image_url": "/article_images/science-sb525dcc963d338cc.webp",
       "category": "Science",
-      "title": "A Tiny Red Plant With a Death Hug",
-      "summary": "A tiny red plant that hugs insects to death is now its own species, living in one small part of Florida."
+      "title": "A Baseball-Sized Robot That Turns Into a Moon Rover",
+      "summary": "SORA-Q, a rover about the size of a baseball, changed shape on the moon and photographed its lander's touchdown."
     },
     {
-      "id": "2026-11-02-science-2",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Sun, 01 Nov 2026 00:33:36 EDT",
-      "mined_at": "2026-11-02T11:24:45+00:00",
-      "source_published_at": "Sun, 01 Nov 2026 00:33:36 EDT",
-      "image_url": "/article_images/science-se66ab23bf715741a.webp",
+      "id": "2026-11-03-science-2",
+      "source": "Space.com",
+      "time_ago": "Mon, 02 Nov 2026 17:00:00 +0000",
+      "mined_at": "2026-11-03T11:15:05+00:00",
+      "source_published_at": "Mon, 02 Nov 2026 17:00:00 +0000",
+      "image_url": "/article_images/science-s8097c441192e8715.webp",
       "category": "Science",
-      "title": "A Forgotten Particle May Explain Why the Universe Exists",
-      "summary": "A forgotten particle may have tipped the young universe in favor of matter, scientists propose."
+      "title": "A Visitor From Another Star Is Made of Dusty Ice",
+      "summary": "Telescope data show interstellar comet 3I/ATLAS is made of tiny, dust-rich ice grains unlike our solar system's comets."
     },
     {
-      "id": "2026-11-02-science-3",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Sun, 01 Nov 2026 06:55:46 EST",
-      "mined_at": "2026-11-02T11:24:45+00:00",
-      "source_published_at": "Sun, 01 Nov 2026 06:55:46 EST",
-      "image_url": "/article_images/science-s44185b3d8addee51.webp",
+      "id": "2026-11-03-science-3",
+      "source": "ScienceDaily All",
+      "time_ago": "Mon, 02 Nov 2026 04:50:36 EST",
+      "mined_at": "2026-11-03T11:15:05+00:00",
+      "source_published_at": "Mon, 02 Nov 2026 04:50:36 EST",
+      "image_url": "/article_images/science-s03c4319f4ca50faf.webp",
       "category": "Science",
-      "title": "A Tiny Motor Inspired by an Ancient Screw",
-      "summary": "A molecule-sized screw spins on electricity, reverses on command, and carries electricity far better while turning."
+      "title": "An Antarctic Island Looks Like a Skull, and Its Ice Is Telling a Story",
+      "summary": "NASA images show Vega Island's skull shape, and far less snow in October 2026 than in March 2025."
     }
   ]
 }

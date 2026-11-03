@@ -1,0 +1,114 @@
+{
+  "title": "Supreme Court Says California Can Keep Counting Its Ballots",
+  "summary": "The Supreme Court has said no to a last-minute request to change how California counts votes.\n\nThe midterm elections decide which party controls Congress for the last two years of President Donald Trump's second term. Voting ends on Tuesday, November 3.\n\nThe Justice Department asked the court to set aside 20,000 ballots. It said those ballots may have been given to people who are not United States citizens. On Monday, the court answered with a one-line order denying the request. Lower-court rulings will stand, and the effort to disqualify those ballots has essentially ended.\n\nCalifornia is the most populous state, with about 23 million people on its voting register. By Sunday night, more than six million mail-in ballots had been received.\n\nTrump and his administration describe a years-long campaign against widespread voter fraud, though research has found such fraud extremely rare. ",
+  "why_it_matters": "When courts decide which ballots count, they help make sure every eligible vote in your state is counted fairly.",
+  "image_url": "/article_images/news-s5884c2d385f2d047.webp",
+  "keywords": [
+    {
+      "term": "midterm",
+      "explanation": "An election in the middle of a president's term, when voters choose members of Congress."
+    },
+    {
+      "term": "ballots",
+      "explanation": "The papers or forms voters use to mark their choices."
+    },
+    {
+      "term": "populous",
+      "explanation": "Having a large number of people living there."
+    },
+    {
+      "term": "register",
+      "explanation": "An official list of people, here the list of registered voters."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What did the Supreme Court say no to?",
+      "options": [
+        "A request to count votes twice",
+        "A request to move the election",
+        "A request to close polls early",
+        "A request to change how California counts votes"
+      ],
+      "correct_answer": "A request to change how California counts votes"
+    },
+    {
+      "question": "How many ballots did the Justice Department want set aside?",
+      "options": [
+        "1,000",
+        "6 million",
+        "20,000",
+        "23 million"
+      ],
+      "correct_answer": "20,000"
+    },
+    {
+      "question": "Why did it want those ballots set aside?",
+      "options": [
+        "Because they were late",
+        "Because they were counted twice",
+        "Because they may have been given to non-citizens",
+        "Because they were damaged"
+      ],
+      "correct_answer": "Because they may have been given to non-citizens"
+    },
+    {
+      "question": "When does voting end?",
+      "options": [
+        "On Monday",
+        "On Sunday night",
+        "On Tuesday, November 3",
+        "Next year"
+      ],
+      "correct_answer": "On Tuesday, November 3"
+    },
+    {
+      "question": "How many people are on California's voting register?",
+      "options": [
+        "About 6 million",
+        "About 20,000",
+        "About 23 million",
+        "About 1 million"
+      ],
+      "correct_answer": "About 23 million"
+    },
+    {
+      "question": "What does research say about widespread voter fraud?",
+      "options": [
+        "It happens everywhere",
+        "It has never been studied",
+        "It affects most mail votes",
+        "It is extremely rare"
+      ],
+      "correct_answer": "It is extremely rare"
+    }
+  ],
+  "background_read": [
+    "In the United States, voters choose members of Congress in midterm elections, which happen in the middle of a president's term.",
+    "Mail-in ballots are votes sent by post instead of cast in person.",
+    "The Supreme Court is the highest court in the country, and its decisions stand above those of lower courts."
+  ],
+  "Article_Structure": [
+    "WHO: The Supreme Court, the Justice Department, and California voters.",
+    "WHAT: The court denied a request to set aside 20,000 California ballots.",
+    "WHERE: California, the most populous state.",
+    "WHY: Lower-court rulings will stand, and the effort to disqualify those ballots has essentially ended."
+  ],
+  "perspectives": [
+    {
+      "perspective": "The Justice Department",
+      "description": "Asked for 20,000 ballots to be set aside."
+    },
+    {
+      "perspective": "Trump and his administration",
+      "description": "Describe a campaign against what they call widespread voter fraud."
+    }
+  ],
+  "mined_at": "2026-11-03T11:15:05+00:00",
+  "source_published_at": "Tue, 03 Nov 2026 03:32:36 GMT",
+  "source_name": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
+  "category": "News",
+  "source_word_count": 410,
+  "detail_status": "full"
+}

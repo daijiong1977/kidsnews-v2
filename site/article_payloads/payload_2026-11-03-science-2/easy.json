@@ -1,0 +1,110 @@
+{
+  "title": "A Visitor From Another Star Is Made of Dusty Ice",
+  "summary": "A comet from another star system is giving scientists a rare look at how planets might form around other stars.\n\nThe comet, called 3I/ATLAS, was found entering our solar system in the summer of 2025. The James Webb Space Telescope quickly started following it.\n\nScientists know 3I/ATLAS was not born in our solar system, but nobody knows which star it formed around. It was likely made in a planet-forming disk of gas and dust around a young star, possibly 10 to 12 billion years ago, more than twice the age of our solar system. Then it was thrown out of its home system and left to wander in space.\n\nWhen the telescope looked at 3I/ATLAS, scientists found a puzzle: the shorter water-ice lines were missing, while the three-micron line stayed strong.\n\nModeling suggested 3I/ATLAS was made of tiny grains of dirty water-ice, rich in dust, unlike our solar system's much cleaner, almost pure water-ice grains. \"Those grains hold clues to the conditions where the comet was born,\" said research lead author Silvia Protopapa.",
+  "why_it_matters": "A comet from another star is like a letter from a faraway place, telling us how planets might form around other stars.",
+  "image_url": "/article_images/science-s8097c441192e8715.webp",
+  "keywords": [
+    {
+      "term": "comet",
+      "explanation": "A ball of ice and dust that travels around a star and can grow a glowing tail."
+    },
+    {
+      "term": "puzzle",
+      "explanation": "A problem that is hard to figure out."
+    },
+    {
+      "term": "grains",
+      "explanation": "Very tiny pieces of something, like sand or ice."
+    },
+    {
+      "term": "dust",
+      "explanation": "Tiny dry bits of dirt or rock."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is 3I/ATLAS?",
+      "options": [
+        "A moon rover",
+        "A comet from another star system",
+        "A planet",
+        "A star"
+      ],
+      "correct_answer": "A comet from another star system"
+    },
+    {
+      "question": "When was 3I/ATLAS found entering our solar system?",
+      "options": [
+        "In 2017",
+        "Last week",
+        "In the summer of 2025",
+        "In April 2026"
+      ],
+      "correct_answer": "In the summer of 2025"
+    },
+    {
+      "question": "What telescope followed 3I/ATLAS?",
+      "options": [
+        "The SLIM probe",
+        "The James Webb Space Telescope",
+        "A radio telescope",
+        "A small school telescope"
+      ],
+      "correct_answer": "The James Webb Space Telescope"
+    },
+    {
+      "question": "What puzzle did scientists find?",
+      "options": [
+        "The comet was made of rock only",
+        "The shorter water-ice lines were missing",
+        "The comet had no tail",
+        "The comet stopped moving"
+      ],
+      "correct_answer": "The shorter water-ice lines were missing"
+    },
+    {
+      "question": "What did modeling suggest 3I/ATLAS is made of?",
+      "options": [
+        "Clean water with no dust",
+        "Only gas",
+        "Pure iron",
+        "Tiny grains of dirty water-ice, rich in dust"
+      ],
+      "correct_answer": "Tiny grains of dirty water-ice, rich in dust"
+    },
+    {
+      "question": "Who said the grains hold clues to where the comet was born?",
+      "options": [
+        "Daichi Hirano",
+        "Silvia Protopapa",
+        "Engla Ingwall",
+        "Gabby Williams"
+      ],
+      "correct_answer": "Silvia Protopapa"
+    }
+  ],
+  "background_read": [
+    "A comet is a chunk of ice and dust left over from when a star system formed.",
+    "Most comets we see were born in our own solar system, but a few come from other star systems.",
+    "Scientists study a comet's light to learn what its ice and dust are made of."
+  ],
+  "Article_Structure": [
+    "WHO: The comet 3I/ATLAS and scientists using the James Webb Space Telescope.",
+    "WHAT: Telescope data show the comet is made of tiny, dust-rich ice grains.",
+    "WHERE: In our solar system, after coming from another star system.",
+    "WHY: Its makeup can hint at the conditions where it was born."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Silvia Protopapa",
+      "description": "Said the grains hold clues to the conditions where the comet was born."
+    }
+  ],
+  "mined_at": "2026-11-03T11:15:05+00:00",
+  "source_published_at": "Mon, 02 Nov 2026 17:00:00 +0000",
+  "source_name": "Space.com",
+  "source_url": "https://www.space.com/astronomy/asteroids/james-webb-space-telescope-uncovers-new-clues-about-the-origins-of-interstellar-invader-comet-3i-atlas",
+  "category": "Science",
+  "source_word_count": 756,
+  "detail_status": "full"
+}

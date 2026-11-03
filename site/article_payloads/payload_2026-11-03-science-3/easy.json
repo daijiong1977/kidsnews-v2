@@ -1,0 +1,114 @@
+{
+  "title": "An Antarctic Island Looks Like a Skull, and Its Ice Is Telling a Story",
+  "summary": "Seen from above, Vega Island in Antarctica looks like a grinning skull looking toward nearby Devil Island. Behind that spooky sight is a serious story about changing glaciers.\n\nA rocky peak looks like an empty eye socket, a ridge along a glacier outlines the mouth, and a glacier forms the lower jaw.\n\nNASA satellite images, taken by the Operational Land Imager aboard Landsat 9, show the island in March 2025 and again in October 2026. In March 2025, snow covered the land. By October 2026, large sections were free of snow, leaving darker glacier ice exposed.\n\nGlaciologist Mauri Pelto explained that a warm winter in 2026, especially in June, helped cause the exposed ice. Little fresh snow built up, and some snow was lost through sublimation, when ice turns directly into water vapor, and strong winds.\n\nThe lack of snow could matter in warmer months. Fresh snow reflects sunlight, while darker ice absorbs more energy and may warm and melt faster. A thin cover of new snow would help in the short run, Pelto said.",
+  "why_it_matters": "When ice in Antarctica melts faster, it can change sea levels far away, so watching snow cover there matters to everyone.",
+  "image_url": "/article_images/science-s03c4319f4ca50faf.webp",
+  "keywords": [
+    {
+      "term": "skull",
+      "explanation": "The bony part of a head that protects the brain and holds the face shape."
+    },
+    {
+      "term": "peak",
+      "explanation": "The pointed top of a mountain or rocky hill."
+    },
+    {
+      "term": "glacier",
+      "explanation": "A huge, slow-moving river of ice."
+    },
+    {
+      "term": "sublimation",
+      "explanation": "When ice turns directly into water vapor without melting first."
+    },
+    {
+      "term": "satellite",
+      "explanation": "A machine in space that takes pictures or sends signals back to Earth."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What does Vega Island look like from above?",
+      "options": [
+        "A whale",
+        "A mountain",
+        "A grinning skull",
+        "A star"
+      ],
+      "correct_answer": "A grinning skull"
+    },
+    {
+      "question": "What looks like an empty eye socket?",
+      "options": [
+        "A rocky peak called a nunatak",
+        "A snowstorm",
+        "A satellite",
+        "A glacier"
+      ],
+      "correct_answer": "A rocky peak called a nunatak"
+    },
+    {
+      "question": "What did satellite images show in October 2026?",
+      "options": [
+        "No ice at all",
+        "The island had vanished",
+        "Large sections free of snow, leaving darker ice exposed",
+        "More snow than in March 2025"
+      ],
+      "correct_answer": "Large sections free of snow, leaving darker ice exposed"
+    },
+    {
+      "question": "What helped cause the exposed ice?",
+      "options": [
+        "Heavy rain",
+        "A warm winter in 2026, especially in June",
+        "A new road",
+        "A volcano"
+      ],
+      "correct_answer": "A warm winter in 2026, especially in June"
+    },
+    {
+      "question": "Why does darker ice matter?",
+      "options": [
+        "It stops melting",
+        "It absorbs more energy and may warm and melt faster",
+        "It makes the island colder",
+        "It reflects all sunlight"
+      ],
+      "correct_answer": "It absorbs more energy and may warm and melt faster"
+    },
+    {
+      "question": "What would help in the short run, according to Pelto?",
+      "options": [
+        "Less sunlight",
+        "A thin cover of new snow",
+        "A bigger satellite",
+        "More wind"
+      ],
+      "correct_answer": "A thin cover of new snow"
+    }
+  ],
+  "background_read": [
+    "A glacier is a huge mass of ice that moves very slowly over land.",
+    "Fresh snow is bright and bounces sunlight back, while dark ice soaks up sunlight and warms faster.",
+    "Satellites can photograph the same place at different times so scientists can compare snow and ice."
+  ],
+  "Article_Structure": [
+    "WHO: Vega Island, its glaciers, and glaciologist Mauri Pelto.",
+    "WHAT: Satellite images show far less snow on the island in October 2026 than in March 2025.",
+    "WHERE: Vega Island in Antarctica, near Devil Island.",
+    "WHY: Warm winter weather left darker ice exposed, which may melt faster."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Mauri Pelto",
+      "description": "Explained that a warm winter left ice exposed and said new snow would help in the short run."
+    }
+  ],
+  "mined_at": "2026-11-03T11:15:05+00:00",
+  "source_published_at": "Mon, 02 Nov 2026 04:50:36 EST",
+  "source_name": "ScienceDaily All",
+  "source_url": "https://www.sciencedaily.com/releases/2026/11/261101010538.htm",
+  "category": "Science",
+  "source_word_count": 750,
+  "detail_status": "full"
+}

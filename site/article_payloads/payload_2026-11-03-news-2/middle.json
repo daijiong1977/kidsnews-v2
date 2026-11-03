@@ -1,0 +1,129 @@
+{
+  "title": "Judge Orders Release of Canadian Dentist Held in Minnesota",
+  "summary": "A Canadian dentist detained by United States immigration officers in Minnesota is back home after a federal judge ordered his release.\n\nDr. William Lizardo, 32, was arrested by U.S. Immigration and Customs Enforcement, known as ICE, on October 23 and held at Sherburne County Jail. He was ordered removed from the United States. On Sunday evening, hours after the judge's order, he was finally released, his lawyer Hassan Ahmad confirmed.\n\nU.S. District Judge Michael J. Davis wrote that Lizardo's arrest and detention violated his constitutional rights. The judge called the facts \"appalling,\" noting that Lizardo filed changes of address each time the couple moved, and that USCIS communicated with him at each new address.\n\nLizardo moved to the United States on a student visa in 2019 to study at the University of Minnesota School of Dentistry. He graduated in 2023, married an American that same year, and later had a daughter. His wife's petition for an alien relative, filed in 2023, was approved in January 2025.\n\nIn January, his request for permanent residency was denied because he had failed to provide a certified document from Ontario. Orders to appear at later hearings were sent to the wrong address, so Lizardo missed them and was then arrested.\n\nLizardo asked to have the removal order rescinded because he had never received the hearing notices. An immigration court granted that request on October 28, finding he had provided sufficient evidence of lack of notice. ICE argued he should be kept in custody while the green card case was being decided, but the judge ruled agents had no reason to believe he was a flight risk and ordered him immediately released, saying he simply wanted to make sure Lizardo did not spend another night in jail. Lizardo is now waiting for a USCIS decision on his green card application.",
+  "why_it_matters": "The case shows how a wrong address can change a person's life, and why courts check whether detention is fair before someone is kept in custody.",
+  "image_url": "/article_images/news-sa93dca472cc00bfd.webp",
+  "keywords": [
+    {
+      "term": "detention",
+      "explanation": "Being kept somewhere by officials and not allowed to leave."
+    },
+    {
+      "term": "constitutional",
+      "explanation": "To do with a country's constitution, the basic set of rules about rights and government."
+    },
+    {
+      "term": "petition",
+      "explanation": "A formal written request asking officials to do something."
+    },
+    {
+      "term": "residency",
+      "explanation": "The right to live in a place, especially in another country."
+    },
+    {
+      "term": "rescinded",
+      "explanation": "Cancelled, so an order no longer counts."
+    },
+    {
+      "term": "flight risk",
+      "explanation": "A person officials think might run away instead of attending a hearing."
+    }
+  ],
+  "questions": [
+    {
+      "question": "When was Dr. William Lizardo arrested?",
+      "options": [
+        "On Sunday evening",
+        "In January",
+        "On October 23",
+        "On October 28"
+      ],
+      "correct_answer": "On October 23"
+    },
+    {
+      "question": "What did Judge Michael J. Davis rule about Lizardo's arrest and detention?",
+      "options": [
+        "They violated his constitutional rights",
+        "They were too short",
+        "They followed the rules",
+        "They were never reviewed"
+      ],
+      "correct_answer": "They violated his constitutional rights"
+    },
+    {
+      "question": "Why did Lizardo miss later hearings?",
+      "options": [
+        "He never applied for a hearing",
+        "He refused to attend",
+        "Orders were sent to the wrong address",
+        "He was on holiday"
+      ],
+      "correct_answer": "Orders were sent to the wrong address"
+    },
+    {
+      "question": "What happened on October 28?",
+      "options": [
+        "He graduated from dentistry school",
+        "His green card was approved",
+        "Lizardo was arrested",
+        "His removal order was granted rescission after evidence of lack of notice"
+      ],
+      "correct_answer": "His removal order was granted rescission after evidence of lack of notice"
+    },
+    {
+      "question": "Why did the judge order Lizardo released immediately?",
+      "options": [
+        "Because his case was closed",
+        "Because agents had no reason to believe he was a flight risk",
+        "Because he was a flight risk",
+        "Because he paid a fine"
+      ],
+      "correct_answer": "Because agents had no reason to believe he was a flight risk"
+    },
+    {
+      "question": "What is Lizardo waiting for now?",
+      "options": [
+        "A decision on his green card application",
+        "A court date in Canada",
+        "A job at a clinic",
+        "A new passport"
+      ],
+      "correct_answer": "A decision on his green card application"
+    }
+  ],
+  "background_read": [
+    "A green card is a document that allows a person from another country to live and work permanently in the United States.",
+    "To get one, applicants often need to show documents, attend hearings, and wait for immigration officials to decide their case.",
+    "If hearing notices go to the wrong address, a person can miss a hearing without knowing about it, which can lead to serious problems.",
+    "A judge can order a person to be released if detention breaks their rights or if there is no good reason to keep them in custody."
+  ],
+  "Article_Structure": [
+    "LEAD: A Canadian dentist detained in Minnesota is back home after a judge ordered his immediate release.",
+    "KEY EVENT: Judge Michael J. Davis ruled the arrest and detention violated Lizardo's constitutional rights.",
+    "  ├─ WHO: Dr. William Lizardo, 32, a dentist who moved to the U.S. in 2019 to study dentistry.",
+    "  └─ WHEN: Arrested October 23, removal order rescinded October 28, released Sunday evening.",
+    "EVIDENCE: Lizardo filed changes of address each time the couple moved, yet hearing orders went to the wrong address.",
+    "OPEN QUESTION: Lizardo is still waiting for a decision on his green card application."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Judge Michael J. Davis",
+      "description": "Called the facts appalling and ruled the detention violated Lizardo's constitutional rights."
+    },
+    {
+      "perspective": "ICE",
+      "description": "Argued Lizardo should be kept in custody while the green card case was being decided."
+    },
+    {
+      "perspective": "Lizardo's lawyer Hassan Ahmad",
+      "description": "Confirmed that Lizardo was finally released Sunday evening."
+    }
+  ],
+  "mined_at": "2026-11-03T11:15:05+00:00",
+  "source_published_at": "Mon, 02 Nov 2026 18:31:22 EST",
+  "source_name": "CBC World",
+  "source_url": "https://www.cbc.ca/news/canada/canadian-dentist-ice-arrest-released-9.7406391?cmp=rss",
+  "category": "News",
+  "source_word_count": 527,
+  "detail_status": "full"
+}

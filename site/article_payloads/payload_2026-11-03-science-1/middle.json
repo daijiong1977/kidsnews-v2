@@ -1,0 +1,121 @@
+{
+  "title": "A Baseball-Sized Robot That Turns Into a Moon Rover",
+  "summary": "Space rovers are often big machines. The Perseverance and Curiosity rovers driving around Mars are the size of small cars. But a toy-sized Japanese vehicle now shows that mini robots may have a big role in space exploration.\n\nThe new lunar rover is called SORA-Q, from the Japanese word sora, meaning \"space,\" the letter Q, for \"quest\" and \"question,\" and the Japanese word kyu, meaning \"sphere.\" About the size and shape of a baseball, it weighs as much as a cup of water. Once on the lunar surface, it morphed into a robot that steered itself around, gathering data.\n\nSORA-Q rode to the moon aboard a probe named SLIM, for Smart Lander for Investigating Moon, in 2024. SLIM's goal was to test new technology for precise, soft moon landings. SORA-Q's job was to capture pictures of how and where SLIM landed, so researchers could see how the technology performed. After touchdown, it crawled around the landing site for more than 90 minutes, taking pictures.\n\nLarge rovers can carry more gear, but big rovers are expensive to develop and launch, notes engineer Daichi Hirano of JAXA, the Japan Aerospace Exploration Agency, who helped design SORA-Q. Small rovers cost less, are easier to launch, and might reach cramped spaces such as caves and narrow craters, making them good options for \"higher-risk and more challenging exploration,\" he says.\n\nIn ball form, SORA-Q could fit in your palm. A rod inside rotates, keys line up with cutouts, and the rover morphs: each half of the shell becomes a wheel, a flat head pops out with a camera on both sides, and a tail shoots out for stability. If it sounds like a toy, that is because it was inspired by them, Hirano says.",
+  "why_it_matters": "Small, cheap rovers could let space missions explore riskier, tighter places on the moon without risking a large, expensive machine.",
+  "image_url": "/article_images/science-sb525dcc963d338cc.webp",
+  "keywords": [
+    {
+      "term": "rover",
+      "explanation": "A small vehicle that drives around on the moon or another planet to explore."
+    },
+    {
+      "term": "probe",
+      "explanation": "A spacecraft sent to explore space, often without people on board."
+    },
+    {
+      "term": "morphed",
+      "explanation": "Changed shape or form, like a toy turning into something else."
+    },
+    {
+      "term": "craters",
+      "explanation": "Bowl-shaped holes in the ground, often made when something crashes into a surface."
+    },
+    {
+      "term": "exploration",
+      "explanation": "Travelling to a new place to learn about it."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How big is SORA-Q when it starts out?",
+      "options": [
+        "About the size and shape of a baseball",
+        "The size of a small car",
+        "The size of a golf cart",
+        "As big as a house"
+      ],
+      "correct_answer": "About the size and shape of a baseball"
+    },
+    {
+      "question": "What does SORA-Q weigh as much as?",
+      "options": [
+        "A backpack",
+        "A golf cart",
+        "A cup of water",
+        "A small car"
+      ],
+      "correct_answer": "A cup of water"
+    },
+    {
+      "question": "What probe carried SORA-Q to the moon?",
+      "options": [
+        "SLIM",
+        "Perseverance",
+        "Curiosity",
+        "VIPER"
+      ],
+      "correct_answer": "SLIM"
+    },
+    {
+      "question": "What was SORA-Q's job on the moon?",
+      "options": [
+        "To carry astronauts",
+        "To dig for water",
+        "To build a moon base",
+        "To capture pictures of how and where SLIM landed"
+      ],
+      "correct_answer": "To capture pictures of how and where SLIM landed"
+    },
+    {
+      "question": "How long did SORA-Q crawl around the landing site after touchdown?",
+      "options": [
+        "All day",
+        "Less than 10 minutes",
+        "More than 90 minutes",
+        "Exactly one hour"
+      ],
+      "correct_answer": "More than 90 minutes"
+    },
+    {
+      "question": "Why might small rovers be good for higher-risk exploration?",
+      "options": [
+        "They can carry more gear than big rovers",
+        "They are always faster than big rovers",
+        "They never need cameras",
+        "They cost less, are easier to launch, and might reach cramped spaces"
+      ],
+      "correct_answer": "They cost less, are easier to launch, and might reach cramped spaces"
+    }
+  ],
+  "background_read": [
+    "A rover is a robot vehicle that can drive around on the moon or a planet, taking pictures and measurements where people cannot easily go.",
+    "The moon's surface is covered in loose dust and broken rock, and it is full of craters and uneven ground, which makes driving difficult.",
+    "Big rovers can carry more tools, but they are expensive to build and launch, while small rovers are cheaper and can squeeze into tighter places.",
+    "Toy designers often use few moving parts so toys stay strong and reliable, a useful idea for space robots that cannot be repaired far from Earth."
+  ],
+  "Article_Structure": [
+    "LEAD: A toy-sized Japanese rover shows small robots may have a big role in space exploration.",
+    "KEY EVENT: SORA-Q, about the size of a baseball, morphed into a robot on the lunar surface and gathered data.",
+    "  ├─ WHO: SORA-Q, designed with help from engineer Daichi Hirano of JAXA.",
+    "  └─ WHEN: It rode to the moon aboard SLIM in 2024 and crawled around for more than 90 minutes.",
+    "EVIDENCE: Its job was to photograph how and where SLIM landed, so researchers could check the landing technology.",
+    "OPEN QUESTION: Small rovers might reach caves and narrow craters where big rovers cannot fit."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Daichi Hirano, JAXA engineer who helped design SORA-Q",
+      "description": "Says small rovers are good options for higher-risk and more challenging exploration."
+    },
+    {
+      "perspective": "SORA-Q's creators",
+      "description": "Say its results show small, independent rovers can enhance missions."
+    }
+  ],
+  "mined_at": "2026-11-03T11:15:05+00:00",
+  "source_published_at": "Mon, 02 Nov 2026 11:30:00 +0000",
+  "source_name": "Science News Explores",
+  "source_url": "https://www.snexplores.org/article/toy-inspired-mini-moon-rover",
+  "category": "Science",
+  "source_word_count": 880,
+  "detail_status": "full"
+}

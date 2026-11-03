@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-02-news-1",
-      "source": "NPR World",
-      "time_ago": "Sun, 01 Nov 2026 12:33:21 -0500",
-      "mined_at": "2026-11-02T11:24:45+00:00",
-      "source_published_at": "Sun, 01 Nov 2026 12:33:21 -0500",
-      "image_url": "/article_images/news-s26e67fe7d08dc59f.webp",
+      "id": "2026-11-03-news-1",
+      "source": "CBC World",
+      "time_ago": "Mon, 02 Nov 2026 12:58:12 EST",
+      "mined_at": "2026-11-03T11:15:05+00:00",
+      "source_published_at": "Mon, 02 Nov 2026 12:58:12 EST",
+      "image_url": "/article_images/news-sa657cc9446ead5f3.webp",
       "category": "News",
-      "title": "New Winners at the New York City Marathon",
-      "summary": "Debut winner Andreas Almgren and repeat winner Sheila Chepkirui led a record-fast New York City Marathon with 60,000 runners."
+      "title": "Hackers Hit Supermarket Fridges Across Europe, Spoiling Food",
+      "summary": "A cyberattack raised fridge and freezer temperatures at dozens of European stores, echoing a similar attack in France last month, and no one has claimed responsibility."
     },
     {
-      "id": "2026-11-02-news-2",
-      "source": "NPR World",
-      "time_ago": "Sun, 01 Nov 2026 08:00:00 -0500",
-      "mined_at": "2026-11-02T11:24:45+00:00",
-      "source_published_at": "Sun, 01 Nov 2026 08:00:00 -0500",
-      "image_url": "/article_images/news-s87b1a55f25b58d07.webp",
+      "id": "2026-11-03-news-2",
+      "source": "CBC World",
+      "time_ago": "Mon, 02 Nov 2026 18:31:22 EST",
+      "mined_at": "2026-11-03T11:15:05+00:00",
+      "source_published_at": "Mon, 02 Nov 2026 18:31:22 EST",
+      "image_url": "/article_images/news-sa93dca472cc00bfd.webp",
       "category": "News",
-      "title": "Living With High Prices in Rural Virginia",
-      "summary": "A Virginia cafe owner and a working mom show how rising prices change daily life, from takeout boxes to coupon deals."
+      "title": "Judge Orders Release of Canadian Dentist Held in Minnesota",
+      "summary": "A federal judge ruled Dr. William Lizardo's detention violated his constitutional rights and ordered him released immediately; he is now awaiting a decision on his green card application."
     },
     {
-      "id": "2026-11-02-news-3",
-      "source": "NPR World",
-      "time_ago": "Sun, 01 Nov 2026 13:27:06 -0500",
-      "mined_at": "2026-11-02T11:24:45+00:00",
-      "source_published_at": "Sun, 01 Nov 2026 13:27:06 -0500",
-      "image_url": "/article_images/news-s94deea2b66f311fc.webp",
+      "id": "2026-11-03-news-3",
+      "source": "BBC News",
+      "time_ago": "Tue, 03 Nov 2026 03:32:36 GMT",
+      "mined_at": "2026-11-03T11:15:05+00:00",
+      "source_published_at": "Tue, 03 Nov 2026 03:32:36 GMT",
+      "image_url": "/article_images/news-s5884c2d385f2d047.webp",
       "category": "News",
-      "title": "How to Think About the Midterms",
-      "summary": "Polls point to Democratic gains in Tuesday's midterms, but history, the electoral map and turnout mean the size of any win is still uncertain."
+      "title": "Supreme Court Says California Can Keep Counting Its Ballots",
+      "summary": "The Supreme Court has denied a request to set aside 20,000 California ballots, leaving lower-court rulings in place on the eve of the midterm elections."
     }
   ]
 }
