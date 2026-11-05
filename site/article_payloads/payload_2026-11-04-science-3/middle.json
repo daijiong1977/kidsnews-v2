@@ -1,0 +1,116 @@
+{
+  "title": "Ice Age Europeans Were Far More Connected Than We Thought",
+  "summary": "More than 30,000 years ago, people living across Ice Age Europe were far more connected than scientists previously believed. New genetic evidence reveals unexpected links between populations separated by enormous distances, challenging the idea that eastern and western European groups remained largely isolated.\n\nAn international team led by the University of Vienna made the discovery by analyzing ancient DNA from rare human remains and traces preserved in cave sediments.\n\nThe research focuses on people of the Gravettian culture, which flourished across Europe roughly 34,000 to 25,000 years ago.\n\nOne revealing discovery came from the remains of a woman who lived about 30,000 years ago in what is now southwestern France. Found at Isturitz Cave, her remains gave scientists the oldest genome-wide genetic dataset yet obtained from a modern human in southwestern Europe.\n\nMost of her genetic background was western European, but she also carried ancestry linked to people from central and eastern Europe. Using genetic modeling, researchers estimated this mixing happened about 32,500 to 31,500 years ago — much earlier than previously established.\n\n\"Our results show that eastern and western European populations were not as genetically isolated as previously assumed,\" says first author Pere Gelabert.\n\nOther populations stayed put for thousands of years: evidence from Chufín Cave in northern Spain suggests western European ancestry persisted in southwestern Europe over an extended period.\n\nThe team also recovered human DNA directly from cave sediments, even where no bones were present. At El Mirón Cave in Spain, DNA from a layer about 22,000 years old revealed the ancestry of the people who had occupied the site.\n\nWestern European ancestry thus persisted through the Last Glacial Maximum, supporting the idea that the Iberian Peninsula served as an important Ice Age refuge.",
+  "why_it_matters": "The discovery rewrites the story of how early Europeans spread and survived the Ice Age, showing that migration and mixing have been part of human history from the very start.",
+  "image_url": "/article_images/science-se6eb736af3a1c786.webp",
+  "keywords": [
+    {
+      "term": "ancestry",
+      "explanation": "A person's family origins — where their relatives and earlier generations came from."
+    },
+    {
+      "term": "sediments",
+      "explanation": "Layers of dirt, sand and other material that settle over time, for example on a cave floor."
+    },
+    {
+      "term": "genome-wide",
+      "explanation": "Covering a whole genome — all of an organism's DNA — rather than just one small part."
+    },
+    {
+      "term": "refuge",
+      "explanation": "A safe place where people or animals can shelter from danger or bad conditions."
+    },
+    {
+      "term": "isolated",
+      "explanation": "Kept separate from others, with little or no contact."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What did scientists analyze to make the discovery?",
+      "options": [
+        "Only fossilized footprints",
+        "Written diaries from Ice Age people",
+        "Ancient DNA from remains and cave sediments",
+        "Old maps"
+      ],
+      "correct_answer": "Ancient DNA from remains and cave sediments"
+    },
+    {
+      "question": "Which culture does the research focus on?",
+      "options": [
+        "The ancient Egyptians",
+        "The Vikings",
+        "The Roman Empire",
+        "The Gravettian culture"
+      ],
+      "correct_answer": "The Gravettian culture"
+    },
+    {
+      "question": "Where were the roughly 30,000-year-old woman's remains found?",
+      "options": [
+        "Isturitz Cave in southwestern France",
+        "El Mirón Cave",
+        "Chufín Cave in Spain",
+        "A cave near Vienna"
+      ],
+      "correct_answer": "Isturitz Cave in southwestern France"
+    },
+    {
+      "question": "What did her DNA show?",
+      "options": [
+        "No relation to any other group",
+        "Only eastern European ancestry",
+        "Mostly western European ancestry plus ancestry linked to central and eastern Europe",
+        "Mostly Neanderthal ancestry"
+      ],
+      "correct_answer": "Mostly western European ancestry plus ancestry linked to central and eastern Europe"
+    },
+    {
+      "question": "About when do researchers estimate the mixing happened?",
+      "options": [
+        "32,500 to 31,500 years ago",
+        "5,000 years ago",
+        "Last year",
+        "100,000 years ago"
+      ],
+      "correct_answer": "32,500 to 31,500 years ago"
+    },
+    {
+      "question": "What did the evidence from Spain suggest?",
+      "options": [
+        "People there never mixed with anyone",
+        "Western European ancestry persisted there for a long time, and Iberia served as an Ice Age refuge",
+        "The caves held no DNA at all",
+        "Everyone left Spain during the Ice Age"
+      ],
+      "correct_answer": "Western European ancestry persisted there for a long time, and Iberia served as an Ice Age refuge"
+    }
+  ],
+  "background_read": [
+    "The Gravettian culture was a way of life shared by hunter-gatherer groups across Ice Age Europe, known for their tools, art and burials.",
+    "Ancient DNA works like a family record written in the body: by comparing genomes, scientists can tell whether distant groups were related or had mixed.",
+    "During the coldest part of the Ice Age, some regions stayed mild enough for people to survive in them, and such refuges helped populations persist until the climate warmed."
+  ],
+  "Article_Structure": [
+    "LEAD: Ancient DNA shows Ice Age Europeans were far more connected than believed",
+    "KEY EVENT: Genetic analysis of remains and cave sediment DNA by a University of Vienna-led team",
+    "  ├─ WHO: Gravettian people across Europe, roughly 34,000 to 25,000 years ago",
+    "  └─ KEY FIND: A woman in France carried both western and central/eastern European ancestry",
+    "EVIDENCE: Mixing dated to about 32,500-31,500 years ago; sediment DNA from a layer about 22,000 years old at El Mirón Cave",
+    "OPEN QUESTION: How much contact distant Ice Age groups really had"
+  ],
+  "perspectives": [
+    {
+      "perspective": "First author Pere Gelabert",
+      "description": "Said eastern and western European populations were not as genetically isolated as previously assumed."
+    }
+  ],
+  "mined_at": "2026-11-05T01:42:36+00:00",
+  "source_published_at": "Mon, 02 Nov 2026 02:30:31 EST",
+  "source_name": "ScienceDaily Top Environment",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261031221153.htm",
+  "category": "Science",
+  "source_word_count": 770,
+  "detail_status": "full"
+}

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-03-news-1",
-      "source": "CBC World",
-      "time_ago": "Mon, 02 Nov 2026 12:58:12 EST",
-      "mined_at": "2026-11-03T11:15:05+00:00",
-      "source_published_at": "Mon, 02 Nov 2026 12:58:12 EST",
-      "image_url": "/article_images/news-sa657cc9446ead5f3.webp",
+      "id": "2026-11-04-news-1",
+      "source": "PBS NewsHour",
+      "time_ago": "Wed, 04 Nov 2026 01:27:26 -0500",
+      "mined_at": "2026-11-05T01:42:36+00:00",
+      "source_published_at": "Wed, 04 Nov 2026 01:27:26 -0500",
+      "image_url": "/article_images/news-s121c7f362a20952c.webp",
       "category": "News",
-      "title": "Hackers Hit Supermarket Fridges Across Europe",
-      "summary": "Hackers raised fridge temperatures at dozens of European stores, spoiling food, and no one has claimed responsibility."
+      "title": "Democrats Win Control of Congress",
+      "summary": "Democrats won the House and the Senate in the midterm elections, so Congress will check President Trump's work much more closely in his final two years."
     },
     {
-      "id": "2026-11-03-news-2",
-      "source": "CBC World",
-      "time_ago": "Mon, 02 Nov 2026 18:31:22 EST",
-      "mined_at": "2026-11-03T11:15:05+00:00",
-      "source_published_at": "Mon, 02 Nov 2026 18:31:22 EST",
-      "image_url": "/article_images/news-sa93dca472cc00bfd.webp",
+      "id": "2026-11-04-news-2",
+      "source": "NPR World",
+      "time_ago": "Wed, 04 Nov 2026 05:00:00 -0500",
+      "mined_at": "2026-11-05T01:42:36+00:00",
+      "source_published_at": "Wed, 04 Nov 2026 05:00:00 -0500",
+      "image_url": "/article_images/news-s804bbb61ef10dd5d.webp",
       "category": "News",
-      "title": "Judge Orders Release of Canadian Dentist Held in Minnesota",
-      "summary": "A judge ruled Dr. William Lizardo's detention broke his rights and ordered him released; he now awaits a green card decision."
+      "title": "Nine States Elect History-Making Governors",
+      "summary": "Nine states elected governors who are firsts — including the first Black woman governor and the first Native American woman governor in U.S. history."
     },
     {
-      "id": "2026-11-03-news-3",
+      "id": "2026-11-04-news-3",
       "source": "BBC News",
-      "time_ago": "Tue, 03 Nov 2026 03:32:36 GMT",
-      "mined_at": "2026-11-03T11:15:05+00:00",
-      "source_published_at": "Tue, 03 Nov 2026 03:32:36 GMT",
-      "image_url": "/article_images/news-s5884c2d385f2d047.webp",
+      "time_ago": "Wed, 04 Nov 2026 05:39:36 GMT",
+      "mined_at": "2026-11-05T01:42:36+00:00",
+      "source_published_at": "Wed, 04 Nov 2026 05:39:36 GMT",
+      "image_url": "/article_images/news-sa907d47bcfd9c58b.webp",
       "category": "News",
-      "title": "Supreme Court Says California Can Keep Counting Its Ballots",
-      "summary": "The Supreme Court denied a request to set aside 20,000 California ballots, leaving lower-court rulings in place."
+      "title": "A Former Teacher Wins a Big Senate Race in Texas",
+      "summary": "Former teacher James Talarico beat Ken Paxton in Texas, becoming the first Democrat to win a Senate seat there since 1988 — in the most expensive Senate race ever."
     }
   ]
 }

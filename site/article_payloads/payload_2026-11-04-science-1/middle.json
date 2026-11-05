@@ -1,0 +1,116 @@
+{
+  "title": "Voyager 1 Nears a One-Light-Day Milestone",
+  "summary": "Nearly 50 years after leaving Earth, NASA's Voyager 1 is approaching an extraordinary milestone that shows just how far humanity's most distant spacecraft has traveled: a distance of one light-day from Earth, meaning light itself takes a full day to make the trip.\n\nKeeping the aging explorer running has become harder as its power supply slowly fades. Both Voyager spacecraft make electricity from the heat released as plutonium decays, and each loses about 4 watts of generating capacity per year. After almost five decades, engineers have very little power to spare and have steadily shut down equipment that is no longer essential.\n\nIn September, the Voyager team completed a tricky energy-saving project nicknamed the \"Big Bang,\" replacing three devices aboard Voyager 1 with alternatives that use less electricity. The devices help keep temperatures inside the spacecraft steady, and all three had to be replaced at once to keep heat distributed properly.\n\nThe upgrade should extend the working lives of Voyager 1's remaining scientific instruments. Without it, NASA might have had to shut down another instrument as early as summer 2027.\n\nThat matters because no other mission can take measurements from where Voyager 1 now travels. Launched in 1977, it has crossed beyond the Sun's heliosphere into interstellar space.\n\nEven with the power upgrade, Voyager 1 keeps surprising its team. On October 18 and 19, NASA's Deep Space Network failed to receive its signal during two scheduled attempts. The signal unexpectedly returned on October 20, about 48 hours after the interruption began, and communication has held since.\n\nEngineers found that one set of thrusters had stopped working and the spacecraft had automatically switched to backups, part of a built-in safety system. \"We have to expect the unexpected,\" said mission manager Kareem Badaruddin.",
+  "why_it_matters": "Voyager 1 is the only spacecraft measuring interstellar space, so every extra month it survives brings back knowledge nothing else can gather.",
+  "image_url": "/article_images/science-s1f1d233c70cd889f.webp",
+  "keywords": [
+    {
+      "term": "light-day",
+      "explanation": "The distance light travels in one day — a way to measure enormous distances in space."
+    },
+    {
+      "term": "plutonium",
+      "explanation": "A radioactive material whose heat can be turned into electricity to power spacecraft."
+    },
+    {
+      "term": "heliosphere",
+      "explanation": "The huge bubble around the Sun created by the Sun's wind; Voyager 1 has flown beyond it."
+    },
+    {
+      "term": "interstellar",
+      "explanation": "Located between the stars; interstellar space is the region outside our solar system."
+    },
+    {
+      "term": "thrusters",
+      "explanation": "Small engines on a spacecraft that fire in short bursts to point it in the right direction."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What milestone is Voyager 1 approaching?",
+      "options": [
+        "Landing on a star",
+        "Returning to Earth",
+        "One light-day from Earth",
+        "One mile from the Sun"
+      ],
+      "correct_answer": "One light-day from Earth"
+    },
+    {
+      "question": "How does Voyager 1 make electricity?",
+      "options": [
+        "Solar panels",
+        "Heat released as plutonium decays",
+        "Wind power",
+        "Batteries charged on Earth"
+      ],
+      "correct_answer": "Heat released as plutonium decays"
+    },
+    {
+      "question": "About how much generating capacity does Voyager lose each year?",
+      "options": [
+        "400 watts",
+        "40 watts",
+        "None at all",
+        "4 watts"
+      ],
+      "correct_answer": "4 watts"
+    },
+    {
+      "question": "What did the September power-saving project do?",
+      "options": [
+        "Replaced three devices with alternatives that use less electricity",
+        "Built a new spacecraft",
+        "Sent Voyager back toward Earth",
+        "Turned off all instruments"
+      ],
+      "correct_answer": "Replaced three devices with alternatives that use less electricity"
+    },
+    {
+      "question": "What happened on October 18 and 19?",
+      "options": [
+        "A crew boarded the spacecraft",
+        "The spacecraft exploded",
+        "Voyager 1 landed",
+        "NASA's Deep Space Network failed to receive its signal"
+      ],
+      "correct_answer": "NASA's Deep Space Network failed to receive its signal"
+    },
+    {
+      "question": "Why did the signal come back?",
+      "options": [
+        "Engineers flew out to fix it",
+        "The Sun recharged the batteries",
+        "It was never really lost",
+        "One set of thrusters had stopped and the spacecraft automatically switched to backups"
+      ],
+      "correct_answer": "One set of thrusters had stopped and the spacecraft automatically switched to backups"
+    }
+  ],
+  "background_read": [
+    "Voyager 1 is a NASA space probe launched in 1977 to study the outer planets, and it has kept flying ever since, becoming the most distant human-made object.",
+    "Spacecraft far from the Sun cannot rely on solar panels, so Voyager makes electricity from the heat of decaying plutonium — a supply that slowly weakens year by year.",
+    "Beyond the Sun's heliosphere lies interstellar space, the region between the stars, where Voyager's instruments take measurements no other spacecraft can."
+  ],
+  "Article_Structure": [
+    "LEAD: Voyager 1 nears one light-day from Earth, almost 50 years after launch",
+    "KEY EVENT: A power-saving upgrade and a two-day signal scare",
+    "  ├─ WHO: NASA's Voyager team and the Deep Space Network",
+    "  └─ PROBLEM: Fading plutonium power and a failed set of thrusters",
+    "EVIDENCE: The signal lost on October 18-19 returned on October 20 after the spacecraft switched to backup thrusters",
+    "OPEN QUESTION: How long the remaining instruments can keep working"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Mission manager Kareem Badaruddin",
+      "description": "Said the team has to 'expect the unexpected' from the aging spacecraft."
+    }
+  ],
+  "mined_at": "2026-11-05T01:42:36+00:00",
+  "source_published_at": "Tue, 03 Nov 2026 03:11:10 EST",
+  "source_name": "ScienceDaily Most Popular",
+  "source_url": "https://www.sciencedaily.com/releases/2026/11/261103003152.htm",
+  "category": "Science",
+  "source_word_count": 743,
+  "detail_status": "full"
+}

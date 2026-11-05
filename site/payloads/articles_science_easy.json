@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-03-science-1",
-      "source": "Science News Explores",
-      "time_ago": "Mon, 02 Nov 2026 11:30:00 +0000",
-      "mined_at": "2026-11-03T11:15:05+00:00",
-      "source_published_at": "Mon, 02 Nov 2026 11:30:00 +0000",
-      "image_url": "/article_images/science-sb525dcc963d338cc.webp",
+      "id": "2026-11-04-science-1",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Tue, 03 Nov 2026 03:11:10 EST",
+      "mined_at": "2026-11-05T01:42:36+00:00",
+      "source_published_at": "Tue, 03 Nov 2026 03:11:10 EST",
+      "image_url": "/article_images/science-s1f1d233c70cd889f.webp",
       "category": "Science",
-      "title": "A Baseball-Sized Robot That Turns Into a Moon Rover",
-      "summary": "SORA-Q, a rover about the size of a baseball, changed shape on the moon and photographed its lander's touchdown."
+      "title": "Voyager 1 Is Almost One Light-Day Away",
+      "summary": "Voyager 1, launched in 1977, is nearly one light-day from Earth, and a power-saving upgrade should keep its science tools alive longer."
     },
     {
-      "id": "2026-11-03-science-2",
-      "source": "Space.com",
-      "time_ago": "Mon, 02 Nov 2026 17:00:00 +0000",
-      "mined_at": "2026-11-03T11:15:05+00:00",
-      "source_published_at": "Mon, 02 Nov 2026 17:00:00 +0000",
-      "image_url": "/article_images/science-s8097c441192e8715.webp",
+      "id": "2026-11-04-science-2",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Tue, 03 Nov 2026 07:51:53 EST",
+      "mined_at": "2026-11-05T01:42:36+00:00",
+      "source_published_at": "Tue, 03 Nov 2026 07:51:53 EST",
+      "image_url": "/article_images/science-s0ae639e9e7682216.webp",
       "category": "Science",
-      "title": "A Visitor From Another Star Is Made of Dusty Ice",
-      "summary": "Telescope data show interstellar comet 3I/ATLAS is made of tiny, dust-rich ice grains unlike our solar system's comets."
+      "title": "Old Museum Frogs Solve a Vanishing Mystery",
+      "summary": "Tests on museum frogs show a deadly fungus arrived in Brazil's Atlantic Forest just as frogs began vanishing in the 1970s."
     },
     {
-      "id": "2026-11-03-science-3",
-      "source": "ScienceDaily All",
-      "time_ago": "Mon, 02 Nov 2026 04:50:36 EST",
-      "mined_at": "2026-11-03T11:15:05+00:00",
-      "source_published_at": "Mon, 02 Nov 2026 04:50:36 EST",
-      "image_url": "/article_images/science-s03c4319f4ca50faf.webp",
+      "id": "2026-11-04-science-3",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Mon, 02 Nov 2026 02:30:31 EST",
+      "mined_at": "2026-11-05T01:42:36+00:00",
+      "source_published_at": "Mon, 02 Nov 2026 02:30:31 EST",
+      "image_url": "/article_images/science-se6eb736af3a1c786.webp",
       "category": "Science",
-      "title": "An Antarctic Island Looks Like a Skull, and Its Ice Is Telling a Story",
-      "summary": "NASA images show Vega Island's skull shape, and far less snow in October 2026 than in March 2025."
+      "title": "Ice Age People Traveled and Mixed More Than We Thought",
+      "summary": "Ancient DNA shows Ice Age Europeans mixed across huge distances far earlier than scientists thought, while some groups sheltered in Spain."
     }
   ]
 }
