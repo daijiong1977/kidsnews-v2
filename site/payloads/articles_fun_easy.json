@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-04-fun-1",
+      "id": "2026-11-05-fun-1",
+      "source": "/Film",
+      "time_ago": "Thu, 05 Nov 2026 03:02:34 +0000",
+      "mined_at": "2026-11-05T16:49:49+00:00",
+      "source_published_at": "Thu, 05 Nov 2026 03:02:34 +0000",
+      "image_url": "/article_images/fun-sb6f072771a7bfe71.webp",
+      "category": "Fun",
+      "title": "James Gunn Likes a Fan's DC Timeline",
+      "summary": "James Gunn praised a fan's timeline of the DC Universe, calling it pretty good."
+    },
+    {
+      "id": "2026-11-05-fun-2",
       "source": "BBC Tennis",
-      "time_ago": "Wed, 04 Nov 2026 10:06:10 GMT",
-      "mined_at": "2026-11-05T01:42:36+00:00",
-      "source_published_at": "Wed, 04 Nov 2026 10:06:10 GMT",
-      "image_url": "/article_images/fun-sfd12a1b714e720c3.webp",
+      "time_ago": "Wed, 04 Nov 2026 18:22:16 GMT",
+      "mined_at": "2026-11-05T16:49:49+00:00",
+      "source_published_at": "Wed, 04 Nov 2026 18:22:16 GMT",
+      "image_url": "/article_images/fun-s37c18b7b1cfaea24.webp",
       "category": "Fun",
-      "title": "Teen Tennis Player Scores a Surprise First Win",
-      "summary": "Mika Stojsavljevic, 17, learned she was playing just an hour before the match — then beat former champion Sofia Kenin for her first WTA Tour win."
+      "title": "Djokovic Loses and Misses the ATP Finals",
+      "summary": "Novak Djokovic lost to qualifier Rinky Hijikata in Paris, ending his hopes of reaching the ATP Finals."
     },
     {
-      "id": "2026-11-04-fun-2",
-      "source": "Variety",
-      "time_ago": "Wed, 04 Nov 2026 09:48:37 +0000",
-      "mined_at": "2026-11-05T01:42:36+00:00",
-      "source_published_at": "Wed, 04 Nov 2026 09:48:37 +0000",
-      "image_url": "/article_images/fun-sf3028568fadea1f7.webp",
+      "id": "2026-11-05-fun-3",
+      "source": "NPR Music",
+      "time_ago": "Thu, 05 Nov 2026 02:02:12 -0500",
+      "mined_at": "2026-11-05T16:49:49+00:00",
+      "source_published_at": "Thu, 05 Nov 2026 02:02:12 -0500",
+      "image_url": "/article_images/fun-s3bc777800aa55d7e.webp",
       "category": "Fun",
-      "title": "A Funny Film About Manhole Covers Wins a Big Prize",
-      "summary": "A North Macedonian comedy about siblings who steal manhole covers won the top prize at the Tokyo International Film Festival."
-    },
-    {
-      "id": "2026-11-04-fun-3",
-      "source": "IndieWire",
-      "time_ago": "Tue, 03 Nov 2026 20:30:00 +0000",
-      "mined_at": "2026-11-05T01:42:36+00:00",
-      "source_published_at": "Tue, 03 Nov 2026 20:30:00 +0000",
-      "image_url": "/article_images/fun-sbced411e60d559d4.webp",
-      "category": "Fun",
-      "title": "Movie Studios Give Away Cash to Promote Films",
-      "summary": "To promote two new films, studios gave away $100 bills from a roving ATM and single cents from Ebenezer Scrooge's Venmo account."
+      "title": "Bob Dylan Meets the Pope",
+      "summary": "Bob Dylan met Pope Leo XIV at the Vatican on Wednesday, a brief visit between concert dates in Italy."
     }
   ]
 }

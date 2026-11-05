@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-04-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Wed, 04 Nov 2026 01:27:26 -0500",
-      "mined_at": "2026-11-05T01:42:36+00:00",
-      "source_published_at": "Wed, 04 Nov 2026 01:27:26 -0500",
-      "image_url": "/article_images/news-s121c7f362a20952c.webp",
+      "id": "2026-11-05-news-1",
+      "source": "CBC World",
+      "time_ago": "Wed, 04 Nov 2026 22:41:54 EST",
+      "mined_at": "2026-11-05T16:49:49+00:00",
+      "source_published_at": "Wed, 04 Nov 2026 22:41:54 EST",
+      "image_url": "/article_images/news-s3e11863df5533d41.webp",
       "category": "News",
-      "title": "Democrats Take Control of Congress in the Midterm Elections",
-      "summary": "Democrats won control of the House and Senate in the midterms, setting up closer checks on President Trump in his final two years in office."
+      "title": "Valkyries Bring the Trophy Home With a Bay Area Parade",
+      "summary": "The Golden State Valkyries celebrated their WNBA title with a parade from Oakland to San Francisco on Wednesday."
     },
     {
-      "id": "2026-11-04-news-2",
+      "id": "2026-11-05-news-2",
+      "source": "CBC World",
+      "time_ago": "Wed, 04 Nov 2026 16:35:06 EST",
+      "mined_at": "2026-11-05T16:49:49+00:00",
+      "source_published_at": "Wed, 04 Nov 2026 16:35:06 EST",
+      "image_url": "/article_images/news-s3f3c9cd282536472.webp",
+      "category": "News",
+      "title": "NASA's Swift Telescope Falls to Earth After 22 Years",
+      "summary": "NASA's Swift space telescope fell back to Earth on Wednesday after 22 years in orbit, following a failed rescue attempt."
+    },
+    {
+      "id": "2026-11-05-news-3",
       "source": "NPR World",
-      "time_ago": "Wed, 04 Nov 2026 05:00:00 -0500",
-      "mined_at": "2026-11-05T01:42:36+00:00",
-      "source_published_at": "Wed, 04 Nov 2026 05:00:00 -0500",
-      "image_url": "/article_images/news-s804bbb61ef10dd5d.webp",
+      "time_ago": "Thu, 05 Nov 2026 05:00:00 -0500",
+      "mined_at": "2026-11-05T16:49:49+00:00",
+      "source_published_at": "Thu, 05 Nov 2026 05:00:00 -0500",
+      "image_url": "/article_images/news-se09801442f5b0b19.webp",
       "category": "News",
-      "title": "Nine Governor Races Make History Across the Country",
-      "summary": "Nine states elected history-making governors on Tuesday, including the first Black woman governor, the first Native American woman governor, and first women governors in Tennessee, Minnesota and Ohio."
-    },
-    {
-      "id": "2026-11-04-news-3",
-      "source": "BBC News",
-      "time_ago": "Wed, 04 Nov 2026 05:39:36 GMT",
-      "mined_at": "2026-11-05T01:42:36+00:00",
-      "source_published_at": "Wed, 04 Nov 2026 05:39:36 GMT",
-      "image_url": "/article_images/news-sa907d47bcfd9c58b.webp",
-      "category": "News",
-      "title": "James Talarico Wins Texas Senate Seat, a First for Democrats Since 1988",
-      "summary": "Former teacher James Talarico won Texas's Senate seat, the first Democrat to do so since 1988, in the most expensive Senate race ever."
+      "title": "As Budgets Tighten, More People Are Dusting Off Their Library Cards",
+      "summary": "As budgets tighten, more Americans are turning to libraries for free books, movies, classes and more."
     }
   ]
 }

@@ -1,0 +1,117 @@
+{
+  "title": "Bob Dylan Meets the Pope",
+  "summary": "Bob Dylan met the pope on Wednesday. The famous American singer visited Pope Leo XIV at the Vatican in Rome. Dylan was in Italy for concerts. The meeting was short. Pope Leo gave Dylan a rosary. Dylan gave the pope a copy of his book, \"Chronicles: Volume One.\" The two men already had a link. Pope Leo quoted one of Dylan's songs in his 2026 book about peace. The song, \"Go Away You Bomb,\" was written by Dylan in 1963 and never released. In his book, Leo warned against building more weapons and using nuclear bombs. Dylan met the pope in private for a few minutes. He wore a black hoodie and a loose tie, with the hood up in the photos. Dylan won the Nobel Prize for Literature in 2016. This was not his first meeting with a pope. He played for Pope John Paul II in 1997 in Bologna, Italy. In 2022, he told the Wall Street Journal that he was a \"religious person\" who reads holy books, meditates and prays.",
+  "why_it_matters": "Music can bring very different people together, even a famous singer and the pope.",
+  "image_url": "/article_images/fun-s3bc777800aa55d7e.webp",
+  "keywords": [
+    {
+      "term": "rosary",
+      "explanation": "A rosary is a string of beads used in prayer."
+    },
+    {
+      "term": "Nobel Prize",
+      "explanation": "The Nobel Prize is a famous award given for great work in science, literature or peace."
+    },
+    {
+      "term": "Vatican",
+      "explanation": "The Vatican is the home of the pope in Rome."
+    },
+    {
+      "term": "hoodie",
+      "explanation": "A hoodie is a top with a hood."
+    },
+    {
+      "term": "meditates",
+      "explanation": "To meditate means to sit quietly and think."
+    },
+    {
+      "term": "concerts",
+      "explanation": "A concert is a live music show."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Who did Bob Dylan meet?",
+      "options": [
+        "Antonio Spadaro",
+        "Andrea Monda",
+        "Pope Leo XIV",
+        "Pope John Paul II"
+      ],
+      "correct_answer": "Pope Leo XIV"
+    },
+    {
+      "question": "What did the pope give Dylan?",
+      "options": [
+        "A rosary",
+        "A book of songs",
+        "A guitar",
+        "A painting"
+      ],
+      "correct_answer": "A rosary"
+    },
+    {
+      "question": "What did Dylan give the pope?",
+      "options": [
+        "A new album",
+        "A concert ticket",
+        "A copy of his book, Chronicles: Volume One",
+        "A black hoodie"
+      ],
+      "correct_answer": "A copy of his book, Chronicles: Volume One"
+    },
+    {
+      "question": "Which song did the pope quote in his book?",
+      "options": [
+        "I Dreamed I Saw St. Augustine",
+        "Go Away You Bomb",
+        "Tryin' to Get to Heaven",
+        "Gotta Serve Somebody"
+      ],
+      "correct_answer": "Go Away You Bomb"
+    },
+    {
+      "question": "When did Dylan win the Nobel Prize for Literature?",
+      "options": [
+        "1997",
+        "2022",
+        "2016",
+        "1967"
+      ],
+      "correct_answer": "2016"
+    },
+    {
+      "question": "What did Dylan wear for the meeting?",
+      "options": [
+        "A black hoodie and a loose tie",
+        "A suit and tie",
+        "A white robe",
+        "A football shirt"
+      ],
+      "correct_answer": "A black hoodie and a loose tie"
+    }
+  ],
+  "background_read": [
+    "The Vatican is where the pope lives in Rome.",
+    "Bob Dylan is a famous singer whose songs many people know."
+  ],
+  "Article_Structure": [
+    "WHO: Bob Dylan and Pope Leo XIV",
+    "WHAT: A singer meets the pope at the Vatican",
+    "WHERE: The Vatican in Rome",
+    "WHY: Dylan was in Italy for concerts"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Pope Leo XIV",
+      "description": "warns in his book against building more weapons and using nuclear bombs"
+    }
+  ],
+  "mined_at": "2026-11-05T16:49:49+00:00",
+  "source_published_at": "Thu, 05 Nov 2026 02:02:12 -0500",
+  "source_name": "NPR Music",
+  "source_url": "https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan",
+  "category": "Fun",
+  "source_word_count": 540,
+  "detail_status": "full"
+}

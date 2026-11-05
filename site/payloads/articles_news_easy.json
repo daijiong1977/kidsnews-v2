@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-04-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Wed, 04 Nov 2026 01:27:26 -0500",
-      "mined_at": "2026-11-05T01:42:36+00:00",
-      "source_published_at": "Wed, 04 Nov 2026 01:27:26 -0500",
-      "image_url": "/article_images/news-s121c7f362a20952c.webp",
+      "id": "2026-11-05-news-1",
+      "source": "CBC World",
+      "time_ago": "Wed, 04 Nov 2026 22:41:54 EST",
+      "mined_at": "2026-11-05T16:49:49+00:00",
+      "source_published_at": "Wed, 04 Nov 2026 22:41:54 EST",
+      "image_url": "/article_images/news-s3e11863df5533d41.webp",
       "category": "News",
-      "title": "Democrats Win Control of Congress",
-      "summary": "Democrats won the House and the Senate in the midterm elections, so Congress will check President Trump's work much more closely in his final two years."
+      "title": "Valkyries Win and Celebrate With a Parade",
+      "summary": "The Golden State Valkyries celebrated their WNBA title with a parade in Oakland and San Francisco."
     },
     {
-      "id": "2026-11-04-news-2",
+      "id": "2026-11-05-news-2",
+      "source": "CBC World",
+      "time_ago": "Wed, 04 Nov 2026 16:35:06 EST",
+      "mined_at": "2026-11-05T16:49:49+00:00",
+      "source_published_at": "Wed, 04 Nov 2026 16:35:06 EST",
+      "image_url": "/article_images/news-s3f3c9cd282536472.webp",
+      "category": "News",
+      "title": "NASA's Swift Telescope Falls to Earth",
+      "summary": "NASA's Swift space telescope fell back to Earth after 22 years in space."
+    },
+    {
+      "id": "2026-11-05-news-3",
       "source": "NPR World",
-      "time_ago": "Wed, 04 Nov 2026 05:00:00 -0500",
-      "mined_at": "2026-11-05T01:42:36+00:00",
-      "source_published_at": "Wed, 04 Nov 2026 05:00:00 -0500",
-      "image_url": "/article_images/news-s804bbb61ef10dd5d.webp",
+      "time_ago": "Thu, 05 Nov 2026 05:00:00 -0500",
+      "mined_at": "2026-11-05T16:49:49+00:00",
+      "source_published_at": "Thu, 05 Nov 2026 05:00:00 -0500",
+      "image_url": "/article_images/news-se09801442f5b0b19.webp",
       "category": "News",
-      "title": "Nine States Elect History-Making Governors",
-      "summary": "Nine states elected governors who are firsts — including the first Black woman governor and the first Native American woman governor in U.S. history."
-    },
-    {
-      "id": "2026-11-04-news-3",
-      "source": "BBC News",
-      "time_ago": "Wed, 04 Nov 2026 05:39:36 GMT",
-      "mined_at": "2026-11-05T01:42:36+00:00",
-      "source_published_at": "Wed, 04 Nov 2026 05:39:36 GMT",
-      "image_url": "/article_images/news-sa907d47bcfd9c58b.webp",
-      "category": "News",
-      "title": "A Former Teacher Wins a Big Senate Race in Texas",
-      "summary": "Former teacher James Talarico beat Ken Paxton in Texas, becoming the first Democrat to win a Senate seat there since 1988 — in the most expensive Senate race ever."
+      "title": "More People Are Using Their Library Cards",
+      "summary": "As budgets tighten, more Americans are turning to libraries for free books, movies and more."
     }
   ]
 }

@@ -1186,7 +1186,7 @@ function HomePage({ onOpen, onOpenArchive, onOpenSearch, onResume, level, setLev
   }, [isZh, level, cat, archiveDay]);
   // Cap today to 3 per category (editorial layout). Archive also 3 since
   // each day's bundle only has 3 per category anyway.
-  const filtered = useMemoH(() => filteredRaw.slice(0, 2), [filteredRaw]);
+  const filtered = useMemoH(() => filteredRaw.slice(0, 3), [filteredRaw]);
 
   const [calendarOpen, setCalendarOpen] = useStateH(false);
   const [recentOpen, setRecentOpen] = useStateH(false);
@@ -1210,7 +1210,7 @@ function HomePage({ onOpen, onOpenArchive, onOpenSearch, onResume, level, setLev
     const out = [];
     const lang = ARTICLES.filter(matchesLanguageLevel);
     for (const c of CATEGORIES) {
-      out.push(...lang.filter(a => a.category === c.label).slice(0, 2));
+      out.push(...lang.filter(a => a.category === c.label).slice(0, 3));
     }
     return out;
   }, [isZh, level, archiveDay]);
@@ -1456,15 +1456,22 @@ function HomePage({ onOpen, onOpenArchive, onOpenSearch, onResume, level, setLev
             <div style={{fontWeight:800, color:'#1b1230', marginBottom:4}}>No stories here</div>
             <div style={{fontSize:13}}>Try a different level from your profile, or a different day.</div>
           </div>
-        ) : filtered.length === 3 && !isArchive ? (
-          /* Editorial layout: big feature on top (photo left, article right) + 2 companions below */
+        ) : filtered.length === 3 ? (
+          /* Editorial layout (restored 2026-11-04, Jiong: three stories again): the lead story on top full width,
+             the other two below it side by side, all three with their full article. Same on archive days. */
           <div style={{display:'flex', flexDirection:'column', gap:20}}>
-            <ArticleCard article={filtered[0]} onOpen={isZh ? null : ()=>onOpen(filtered[0].id)} read={_isDoneArticle(progress, filtered[0].id)} pct={_articlePct((progress.articleProgress||{})[filtered[0].id])} variant="feature" />
+            {isZh
+              ? <ArticleCard article={filtered[0]} onOpen={null} read={_isDoneArticle(progress, filtered[0].id)} pct={_articlePct((progress.articleProgress||{})[filtered[0].id])} variant="feature" />
+              : <FullStoryCard lead article={filtered[0]} onOpen={()=>onOpen(filtered[0].id)} read={_isDoneArticle(progress, filtered[0].id)}/>}
             {/* Side by side gives each card ~170px on a 390px phone — the body
                 wraps at about nine characters a line. One per row on phones. */}
-            <div style={{display:'grid', gridTemplateColumns: narrow ? '1fr' : '1fr 1fr', gap:20}}>
-              <ArticleCard article={filtered[1]} onOpen={isZh ? null : ()=>onOpen(filtered[1].id)} read={_isDoneArticle(progress, filtered[1].id)} pct={_articlePct((progress.articleProgress||{})[filtered[1].id])} variant="normal" />
-              <ArticleCard article={filtered[2]} onOpen={isZh ? null : ()=>onOpen(filtered[2].id)} read={_isDoneArticle(progress, filtered[2].id)} pct={_articlePct((progress.articleProgress||{})[filtered[2].id])} variant="normal" />
+            <div style={{display:'grid', gridTemplateColumns: narrow ? '1fr' : 'repeat(2, minmax(0, 1fr))', alignItems:'stretch', gap:20}}>
+              {isZh
+                ? <ArticleCard article={filtered[1]} onOpen={null} read={_isDoneArticle(progress, filtered[1].id)} pct={_articlePct((progress.articleProgress||{})[filtered[1].id])} variant="normal" />
+                : <FullStoryCard article={filtered[1]} onOpen={()=>onOpen(filtered[1].id)} read={_isDoneArticle(progress, filtered[1].id)}/>}
+              {isZh
+                ? <ArticleCard article={filtered[2]} onOpen={null} read={_isDoneArticle(progress, filtered[2].id)} pct={_articlePct((progress.articleProgress||{})[filtered[2].id])} variant="normal" />
+                : <FullStoryCard article={filtered[2]} onOpen={()=>onOpen(filtered[2].id)} read={_isDoneArticle(progress, filtered[2].id)}/>}
             </div>
           </div>
         ) : (
@@ -2299,7 +2306,8 @@ function KeywordTip({ term, def }) {
 // Front page story: the whole article is printed on the home page (no summary-only card).
 // The body is the same text the article page shows (payload `summary`); the button opens
 // the article page for keywords, quiz and discussion.
-function FullStoryCard({ article, onOpen, read }) {
+function FullStoryCard({ article, onOpen, read, lead }) {
+  // lead: the first story of a section, full width: a wide banner image and a readable text column
   const [body, setBody] = useStateH(null);
   const [kw, setKw] = useStateH([]);
   useEffectH(() => {
@@ -2322,11 +2330,12 @@ function FullStoryCard({ article, onOpen, read }) {
       background:'#fff', border:'2px solid #f0e8d8', borderRadius:22, overflow:'hidden',
       boxShadow:'0 4px 0 rgba(27,18,48,0.06)', display:'flex', flexDirection:'column', minWidth:0,
     }}>
-      <div style={{background:`url(${article.image}) center/cover`, aspectRatio:'16/10', width:'100%', position:'relative'}}>
+      <div style={{background:`url(${article.image}) center/cover`, aspectRatio: lead ? '21/9' : '16/10', width:'100%', position:'relative'}}>
         {read && <div style={{position:'absolute', top:10, right:10}}><ProgressBadge pct={100}/></div>}
       </div>
-      <div style={{padding:'18px 20px 20px', display:'flex', flexDirection:'column', gap:12, flex:'1 1 auto'}}>
-        <h3 style={{fontFamily:'Fraunces, serif', fontWeight:800, fontSize:24, lineHeight:1.15, letterSpacing:'-0.01em', color:'#1b1230', margin:0}}>{article.title}</h3>
+      <div style={{padding: lead ? '22px clamp(20px, 5vw, 48px) 26px' : '18px 20px 20px', display:'flex', flexDirection:'column', gap:12, flex:'1 1 auto',
+                   ...(lead ? {width:'100%', maxWidth:860, margin:'0 auto', boxSizing:'border-box'} : {})}}>
+        <h3 style={{fontFamily:'Fraunces, serif', fontWeight:800, fontSize: lead ? 30 : 24, lineHeight:1.15, letterSpacing:'-0.01em', color:'#1b1230', margin:0}}>{article.title}</h3>
         <div style={{fontSize:12, color:'#9a8d7a', fontWeight:700}}>
           {article.source ? article.source + ' · ' : ''}⏱ {article.readMins} min
         </div>

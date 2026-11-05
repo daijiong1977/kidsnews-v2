@@ -1,0 +1,122 @@
+{
+  "title": "An Ancient Ape Fossil in Egypt Could Rewrite Our Family Tree",
+  "summary": "An ancient ape fossil found in Egypt could rewrite the story of where our ancestors first evolved. The new species, named Masripithecus moghraensis, lived about 17 to 18 million years ago, during the Early Miocene. Its fossilised remains were found at Wadi Moghra in northern Egypt, making it the first definitive fossil ape ever discovered in North Africa. The discovery was described in a study published on March 26, 2026, in the journal Science, by an international team from the Mansoura University Vertebrate Paleontology Center in Egypt and the University of Southern California. For decades, scientists believed that early apes and their close relatives lived mostly in regions farther south in Africa. Fossil sites in North Africa had turned up ancient monkeys from the same period, but never definitive evidence of apes. That gap helped shape the leading theories about ape evolution. The new fossil may help fill it. \"We spent five years searching for this kind of fossil because, when we look closely at the early ape family tree, it becomes clear that something is missing — and North Africa holds that missing piece,\" said Hesham Sallam, a paleontologist at Mansoura University and senior author of the study. The find is especially important for understanding the origins of crown Hominoidea, the evolutionary group that includes the last common ancestor of all living apes and their descendants. The name combines Masr, the Arabic name for Egypt, with píthēkos, the Greek word for ape. The remains are only lower jaw material, but the jaw is unusually sturdy, with remarkably large canine and premolar teeth. Researchers believe Masripithecus mainly ate fruit, but its teeth were strong enough to handle tougher foods such as nuts or seeds when needed. That flexibility may have helped it survive as the climate changed and food became more seasonal.",
+  "why_it_matters": "Where our ancestors first lived changes the story of how humans came to be, and one fossil can rewrite it.",
+  "image_url": "/article_images/science-sd4f62e278bb45c96.webp",
+  "keywords": [
+    {
+      "term": "fossilised",
+      "explanation": "Fossilised means turned to stone over millions of years."
+    },
+    {
+      "term": "Miocene",
+      "explanation": "The Miocene was a period of Earth's history millions of years ago."
+    },
+    {
+      "term": "crown Hominoidea",
+      "explanation": "Crown Hominoidea is the group of all living apes and their shared ancestors."
+    },
+    {
+      "term": "canine",
+      "explanation": "Canine teeth are the sharp, pointed teeth near the front of the mouth."
+    },
+    {
+      "term": "premolar",
+      "explanation": "Premolar teeth sit between the canines and the molars and are used for chewing."
+    },
+    {
+      "term": "seasonal",
+      "explanation": "Seasonal means changing with the seasons."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How old is Masripithecus moghraensis?",
+      "options": [
+        "About 17 to 18 million years old",
+        "About 1.7 to 1.8 million years old",
+        "About 170 to 180 million years old",
+        "About 17,000 years old"
+      ],
+      "correct_answer": "About 17 to 18 million years old"
+    },
+    {
+      "question": "Where was the fossil found?",
+      "options": [
+        "Wadi Moghra in northern Egypt",
+        "Southern Africa",
+        "Northern Europe",
+        "South America"
+      ],
+      "correct_answer": "Wadi Moghra in northern Egypt"
+    },
+    {
+      "question": "What makes this fossil a first?",
+      "options": [
+        "It is the first fossil of a human",
+        "It is the first ape fossil ever found anywhere",
+        "It is the first fossil ever found in Egypt",
+        "It is the first definitive fossil ape ever found in North Africa"
+      ],
+      "correct_answer": "It is the first definitive fossil ape ever found in North Africa"
+    },
+    {
+      "question": "What did the species name come from?",
+      "options": [
+        "The name of a river in Egypt",
+        "The name of the scientist who found it",
+        "Masr, the Arabic name for Egypt, and píthēkos, the Greek word for ape",
+        "The name of a Greek god"
+      ],
+      "correct_answer": "Masr, the Arabic name for Egypt, and píthēkos, the Greek word for ape"
+    },
+    {
+      "question": "What part of the ape was found?",
+      "options": [
+        "Only a skull",
+        "A complete skeleton",
+        "Only a foot bone",
+        "Only lower jaw material"
+      ],
+      "correct_answer": "Only lower jaw material"
+    },
+    {
+      "question": "What did Masripithecus probably eat?",
+      "options": [
+        "Only fish",
+        "Only meat",
+        "Mostly fruit, with tougher foods like nuts or seeds when needed",
+        "Only leaves"
+      ],
+      "correct_answer": "Mostly fruit, with tougher foods like nuts or seeds when needed"
+    }
+  ],
+  "background_read": [
+    "Apes are animals like chimpanzees, gorillas and orangutans, and humans are their close relatives.",
+    "A fossil is the preserved remains of a living thing from long ago.",
+    "Scientists study fossils to learn how species changed over millions of years.",
+    "North Africa is the northern part of Africa, along the Mediterranean Sea."
+  ],
+  "Article_Structure": [
+    "LEAD: An ancient ape fossil in Egypt could rewrite our family tree",
+    "KEY EVENT: First definitive fossil ape from North Africa",
+    "  ├─ WHO: Hesham Sallam and researchers from Mansoura University and USC",
+    "  ├─ WHERE: Wadi Moghra in northern Egypt",
+    "  └─ WHEN: About 17 to 18 million years ago",
+    "EVIDENCE: A sturdy jaw with large teeth suggests a flexible diet",
+    "OPEN QUESTION: Did ape evolution begin farther north than scientists thought?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Hesham Sallam",
+      "description": "says North Africa holds the missing piece of the early ape family tree"
+    }
+  ],
+  "mined_at": "2026-11-05T16:49:49+00:00",
+  "source_published_at": "Sun, 01 Nov 2026 05:32:46 EST",
+  "source_name": "ScienceDaily Strange & Offbeat",
+  "source_url": "https://www.sciencedaily.com/releases/2026/10/261031011638.htm",
+  "category": "Science",
+  "source_word_count": 682,
+  "detail_status": "full"
+}

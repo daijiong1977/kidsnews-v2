@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-04-fun-1",
+      "id": "2026-11-05-fun-1",
+      "source": "/Film",
+      "time_ago": "Thu, 05 Nov 2026 03:02:34 +0000",
+      "mined_at": "2026-11-05T16:49:49+00:00",
+      "source_published_at": "Thu, 05 Nov 2026 03:02:34 +0000",
+      "image_url": "/article_images/fun-sb6f072771a7bfe71.webp",
+      "category": "Fun",
+      "title": "James Gunn Gives a Fan's DC Timeline a Thumbs-Up — Almost",
+      "summary": "James Gunn praised a fan's timeline of the DC Universe on Threads, calling it \"pretty good\" without fully endorsing it."
+    },
+    {
+      "id": "2026-11-05-fun-2",
       "source": "BBC Tennis",
-      "time_ago": "Wed, 04 Nov 2026 10:06:10 GMT",
-      "mined_at": "2026-11-05T01:42:36+00:00",
-      "source_published_at": "Wed, 04 Nov 2026 10:06:10 GMT",
-      "image_url": "/article_images/fun-sfd12a1b714e720c3.webp",
+      "time_ago": "Wed, 04 Nov 2026 18:22:16 GMT",
+      "mined_at": "2026-11-05T16:49:49+00:00",
+      "source_published_at": "Wed, 04 Nov 2026 18:22:16 GMT",
+      "image_url": "/article_images/fun-s37c18b7b1cfaea24.webp",
       "category": "Fun",
-      "title": "Teenager Mika Stojsavljevic Claims First WTA Tour Win",
-      "summary": "Seventeen-year-old Mika Stojsavljevic, told just an hour before play, beat former Australian Open champion Sofia Kenin for her first WTA Tour main-draw win."
+      "title": "Djokovic's Season Ends With a Surprise Defeat in Paris",
+      "summary": "Novak Djokovic lost to qualifier Rinky Hijikata in Paris, ending his hopes of reaching the ATP Finals in Turin."
     },
     {
-      "id": "2026-11-04-fun-2",
-      "source": "Variety",
-      "time_ago": "Wed, 04 Nov 2026 09:48:37 +0000",
-      "mined_at": "2026-11-05T01:42:36+00:00",
-      "source_published_at": "Wed, 04 Nov 2026 09:48:37 +0000",
-      "image_url": "/article_images/fun-sf3028568fadea1f7.webp",
+      "id": "2026-11-05-fun-3",
+      "source": "NPR Music",
+      "time_ago": "Thu, 05 Nov 2026 02:02:12 -0500",
+      "mined_at": "2026-11-05T16:49:49+00:00",
+      "source_published_at": "Thu, 05 Nov 2026 02:02:12 -0500",
+      "image_url": "/article_images/fun-s3bc777800aa55d7e.webp",
       "category": "Fun",
-      "title": "A Manhole Cover Comedy Wins Top Prize at Tokyo Film Festival",
-      "summary": "\"Sister Brother Manhole Cover,\" a comedy about siblings who steal manhole covers, won the top prize at the Tokyo International Film Festival."
-    },
-    {
-      "id": "2026-11-04-fun-3",
-      "source": "IndieWire",
-      "time_ago": "Tue, 03 Nov 2026 20:30:00 +0000",
-      "mined_at": "2026-11-05T01:42:36+00:00",
-      "source_published_at": "Tue, 03 Nov 2026 20:30:00 +0000",
-      "image_url": "/article_images/fun-sbced411e60d559d4.webp",
-      "category": "Fun",
-      "title": "Movie Studios Promote Films by Just Giving Away Money",
-      "summary": "Two movie studios promoted their November 13 releases by giving away cash — a $100 ATM for \"How to Rob a Bank\" and a one-cent Venmo account for \"Ebenezer.\""
+      "title": "Bob Dylan Comes Knockin' on the Pope's Door",
+      "summary": "Bob Dylan met Pope Leo XIV at the Vatican on Wednesday, a brief visit between concert dates in Italy."
     }
   ]
 }

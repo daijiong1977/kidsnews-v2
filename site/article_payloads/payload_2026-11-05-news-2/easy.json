@@ -1,0 +1,117 @@
+{
+  "title": "NASA's Swift Telescope Falls to Earth",
+  "summary": "One of NASA's famous space telescopes has fallen back to Earth. The Swift Observatory came down on Wednesday after 22 years in space. It studied the biggest explosions in the universe. Swift fell near Indonesia, the U.S. Space Force said. Strong activity from the Sun had pulled it lower over the past few years. NASA tried to save it. The space agency asked a private company, Katalyst Space, to build a rescue craft that would push Swift higher. But the craft had trouble after it launched in July and crashed in September. No one knows yet how much burned up, but NASA thinks some heavier pieces made it to the ground. Swift launched in 2004. Its job was meant to last only two years, but it kept working for 22 years. It watched thousands of huge space explosions called gamma-ray bursts. Now NASA wants to save another famous telescope, Hubble, which launched in 1990 and may fall by the mid-2030s. \"Hubble still has important science ahead of it,\" said NASA chief Jared Isaacman.",
+  "why_it_matters": "Telescopes in space help us learn about the universe, so it matters when one falls down.",
+  "image_url": "/article_images/news-s3f3c9cd282536472.webp",
+  "keywords": [
+    {
+      "term": "telescope",
+      "explanation": "A telescope is a tool for looking at faraway things in space."
+    },
+    {
+      "term": "explosions",
+      "explanation": "An explosion is a sudden burst of energy."
+    },
+    {
+      "term": "Sun",
+      "explanation": "The Sun is the star at the centre of our Solar System."
+    },
+    {
+      "term": "rescue",
+      "explanation": "A rescue is saving something from danger."
+    },
+    {
+      "term": "gamma-ray",
+      "explanation": "Gamma rays are a kind of powerful light from space."
+    },
+    {
+      "term": "launched",
+      "explanation": "Launched means sent off, like a rocket taking off."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How long did Swift work in space?",
+      "options": [
+        "22 years",
+        "11 years",
+        "30 years",
+        "2 years"
+      ],
+      "correct_answer": "22 years"
+    },
+    {
+      "question": "Where did Swift fall?",
+      "options": [
+        "Near Indonesia",
+        "Near Brazil",
+        "Near Australia",
+        "Near the Moon"
+      ],
+      "correct_answer": "Near Indonesia"
+    },
+    {
+      "question": "What did Swift study?",
+      "options": [
+        "The surface of the Moon",
+        "The rings of Saturn",
+        "The weather on Mars",
+        "The biggest explosions in the universe"
+      ],
+      "correct_answer": "The biggest explosions in the universe"
+    },
+    {
+      "question": "What pulled Swift's orbit lower?",
+      "options": [
+        "A software mistake",
+        "Strong activity from the Sun",
+        "A crash with another satellite",
+        "A broken solar panel"
+      ],
+      "correct_answer": "Strong activity from the Sun"
+    },
+    {
+      "question": "What happened to the rescue craft?",
+      "options": [
+        "It had trouble and crashed in September",
+        "It never launched",
+        "It is still in space",
+        "It lifted Swift higher"
+      ],
+      "correct_answer": "It had trouble and crashed in September"
+    },
+    {
+      "question": "What did NASA chief Jared Isaacman say about Hubble?",
+      "options": [
+        "Hubble is too old to fix",
+        "Hubble should be switched off",
+        "Hubble still has important science ahead of it",
+        "Hubble will fall tomorrow"
+      ],
+      "correct_answer": "Hubble still has important science ahead of it"
+    }
+  ],
+  "background_read": [
+    "A space telescope looks at the universe from above Earth's air.",
+    "The Sun can heat the air high above Earth and pull low satellites down."
+  ],
+  "Article_Structure": [
+    "WHO: NASA, the U.S. Space Force and Katalyst Space",
+    "WHAT: The Swift telescope fell back to Earth",
+    "WHERE: Near Indonesia",
+    "WHY: Strong activity from the Sun pulled its orbit lower"
+  ],
+  "perspectives": [
+    {
+      "perspective": "NASA chief Jared Isaacman",
+      "description": "says Hubble still has important science ahead of it"
+    }
+  ],
+  "mined_at": "2026-11-05T16:49:49+00:00",
+  "source_published_at": "Wed, 04 Nov 2026 16:35:06 EST",
+  "source_name": "CBC World",
+  "source_url": "https://www.cbc.ca/news/science/swift-space-telescope-9.7409515?cmp=rss",
+  "category": "News",
+  "source_word_count": 373,
+  "detail_status": "full"
+}
