@@ -1,0 +1,122 @@
+{
+  "title": "Fewer Students, Emptier Classrooms",
+  "summary": "Public school classrooms across the United States are getting emptier. For years, fewer babies have been born, so fewer children are starting kindergarten. Los Angeles County shows how big the change is. Its school district, the second largest in the country, has lost more than 300,000 students in twenty years. The number of children under 18 has fallen by about 2.1 million since 2010. Enrollment peaked in 2019 and had fallen by about 1.5 million students by 2024. Federal researchers think at least 2 million more students could be lost by 2030. Immigration enforcement is adding to the drop. One study found as many as 1.9 million people left the United States in the first 18 months of President Trump's second term. School board member Kelly Gonez said her district expected a 2 percent drop, but the real drop was twice as big. She said many families went into hiding after raids stepped up in 2025. Texas lost more than 76,000 students last year. Los Angeles may have to close some campuses, and Gonez expects deep cuts.",
+  "why_it_matters": "If your school loses students, it might have to close campuses or cut programs you use every day.",
+  "image_url": "/article_images/news-sba6b841f97bba5ca.webp",
+  "keywords": [
+    {
+      "term": "Enrollment",
+      "explanation": "Enrollment is the number of students signed up to attend a school."
+    },
+    {
+      "term": "district",
+      "explanation": "A school district is a group of schools in one area that are run together."
+    },
+    {
+      "term": "Immigration",
+      "explanation": "Immigration is when people move to live in a different country."
+    },
+    {
+      "term": "enforcement",
+      "explanation": "Enforcement means making sure people follow a rule or law."
+    },
+    {
+      "term": "raids",
+      "explanation": "Raids are sudden visits by officers to look for people breaking a rule."
+    },
+    {
+      "term": "campuses",
+      "explanation": "Campuses are the buildings and grounds of a school."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Why are public school classrooms across the United States getting emptier?",
+      "options": [
+        "Schools have stopped teaching kindergarten",
+        "Fewer babies have been born, so fewer children are starting kindergarten",
+        "Classrooms have been made smaller",
+        "More children are moving to other countries to go to school"
+      ],
+      "correct_answer": "Fewer babies have been born, so fewer children are starting kindergarten"
+    },
+    {
+      "question": "How many students has the Los Angeles school district lost in twenty years?",
+      "options": [
+        "About 2 million",
+        "More than 300,000",
+        "About 1.5 million",
+        "About 76,000"
+      ],
+      "correct_answer": "More than 300,000"
+    },
+    {
+      "question": "In what year did school enrollment peak?",
+      "options": [
+        "2019",
+        "2024",
+        "2010",
+        "2030"
+      ],
+      "correct_answer": "2019"
+    },
+    {
+      "question": "About how many students had enrollment fallen by in 2024?",
+      "options": [
+        "About 1.5 million students",
+        "About 2.1 million students",
+        "About 76,000 students",
+        "About 300,000 students"
+      ],
+      "correct_answer": "About 1.5 million students"
+    },
+    {
+      "question": "How many students did Texas lose last year?",
+      "options": [
+        "More than 300,000",
+        "More than 76,000",
+        "More than 2 million",
+        "About 1.5 million"
+      ],
+      "correct_answer": "More than 76,000"
+    },
+    {
+      "question": "How many more students do federal researchers think could be lost by 2030?",
+      "options": [
+        "About 76,000",
+        "At least 1.9 million",
+        "At least 2 million",
+        "About 300,000"
+      ],
+      "correct_answer": "At least 2 million"
+    }
+  ],
+  "background_read": [
+    "A public school is a school paid for by the government that is open to all children in an area, and a school district is the group that runs those schools in one place.",
+    "When fewer babies are born, fewer children grow up to start kindergarten, so classrooms slowly get emptier over time.",
+    "Some families are also staying away from school because they are afraid after immigration raids, which can make enrollment fall even faster and leave some schools with too few students to stay open."
+  ],
+  "Article_Structure": [
+    "WHO: Students in public schools across the United States, the Los Angeles school district, and school board member Kelly Gonez",
+    "WHAT: School enrollment is falling, with Los Angeles losing more than 300,000 students in twenty years and Texas losing more than 76,000 students last year",
+    "WHERE: Public school classrooms across the United States, including Los Angeles County and Texas",
+    "WHY: Fewer babies have been born so fewer children are starting kindergarten, and immigration enforcement is adding to the drop"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Kelly Gonez, school board member",
+      "description": "She said her district expected a 2 percent drop, but the real drop was twice as big, many families went into hiding after raids stepped up in 2025, and she expects deep cuts."
+    },
+    {
+      "perspective": "Federal researchers",
+      "description": "They think at least 2 million more students could be lost by 2030."
+    }
+  ],
+  "mined_at": "2026-11-06T11:20:21+00:00",
+  "source_published_at": "Fri, 06 Nov 2026 05:00:00 -0500",
+  "source_name": "NPR World",
+  "source_url": "https://www.npr.org/2026/11/06/nx-s1-5971283/public-school-enrollment-ice-deportation-birthrate",
+  "category": "News",
+  "source_word_count": 1783,
+  "detail_status": "full"
+}

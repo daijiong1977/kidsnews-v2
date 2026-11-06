@@ -1,0 +1,115 @@
+{
+  "title": "Sing It, and Link Will Play It: The Ocarina of Time Remake Listens",
+  "summary": "In the original game, Link plays songs on a small wind instrument called an ocarina to solve puzzles, travel quickly, and call his horse, Epona. In the Switch 2 remake of The Legend of Zelda: Ocarina of Time, players can hum or sing a melody into the console's built-in microphone. If the tune matches one of the songs Link can play, the game recognizes it and plays it for you. It is not the fastest way to play a song. Pressing the buttons is quicker, but it can help if you remember a tune better than the button presses. Players are already testing the limits of the sound recognition system, and it turns out to be pretty thorough. It can pick up songs yelled into the microphone, played on a real instrument, or even played from another screen. One player used a real ocarina to make Link play the songs. Another got the game to recognize a tune from a decade-old video clip in which a man sings something a bit like Epona's Song. The system is not perfect, though. If you sing something that does not really sound like any song in the game, it will take its best guess about which tune you meant. Players can usually use only five notes, but moving the analog stick lets them reach notes outside that five-note range. That opens the door to some very strange performances. Other players have shared clips of themselves playing different tunes on the ocarina, showing just how much the little instrument can do. Players are having fun with the feature. For fans who grew up with Ocarina of Time, hearing a familiar melody and watching Link play along is a delight.",
+  "why_it_matters": "It shows how a game can turn a player's own voice into a way to play, making a familiar game feel new and more personal for longtime fans and new players alike.",
+  "image_url": "/article_images/fun-s621013c25f4b971c.webp",
+  "keywords": [
+    {
+      "term": "ocarina",
+      "explanation": "A small wind instrument you play by blowing into it and covering holes with your fingers."
+    },
+    {
+      "term": "Epona",
+      "explanation": "The name of Link's horse in the game."
+    },
+    {
+      "term": "analog stick",
+      "explanation": "The small stick on a game controller that you tilt to move or aim."
+    },
+    {
+      "term": "melody",
+      "explanation": "A tune made of a series of musical notes."
+    },
+    {
+      "term": "recognition",
+      "explanation": "When a computer identifies something it hears or sees."
+    }
+  ],
+  "questions": [
+    {
+      "question": "In the Switch 2 remake, what new way can players get Link to play a song?",
+      "options": [
+        "By drawing the notes on the screen",
+        "By humming or singing a melody into the console's built-in microphone",
+        "By typing the name of the song",
+        "By shaking the console"
+      ],
+      "correct_answer": "By humming or singing a melody into the console's built-in microphone"
+    },
+    {
+      "question": "Why might singing a tune help some players, even though pressing the buttons is quicker?",
+      "options": [
+        "Because singing always plays the song perfectly",
+        "Because it lets them skip the puzzles in the game",
+        "Because it calls Epona from anywhere in real life",
+        "Because they may remember a tune better than the button presses"
+      ],
+      "correct_answer": "Because they may remember a tune better than the button presses"
+    },
+    {
+      "question": "What instrument did one player use to make Link play the songs?",
+      "options": [
+        "A real ocarina",
+        "A real piano",
+        "A real guitar",
+        "A real flute"
+      ],
+      "correct_answer": "A real ocarina"
+    },
+    {
+      "question": "What happened with a decade-old video clip?",
+      "options": [
+        "The game asked the player to sing louder",
+        "The game played a completely different game",
+        "The game could not hear it at all",
+        "The game recognized a tune a bit like Epona's Song"
+      ],
+      "correct_answer": "The game recognized a tune a bit like Epona's Song"
+    },
+    {
+      "question": "What does the game do if you sing something that does not really sound like any song in the game?",
+      "options": [
+        "It records your voice for other players",
+        "It stops and asks you to press the buttons",
+        "It plays no song at all",
+        "It takes its best guess about which tune you meant"
+      ],
+      "correct_answer": "It takes its best guess about which tune you meant"
+    },
+    {
+      "question": "How can players reach notes outside the usual five-note range?",
+      "options": [
+        "By playing the tune from another screen",
+        "By yelling into the microphone",
+        "By using a real ocarina",
+        "By moving the analog stick"
+      ],
+      "correct_answer": "By moving the analog stick"
+    }
+  ],
+  "background_read": [
+    "An ocarina is a small wind instrument that a player blows into and covers holes to make different notes.",
+    "In The Legend of Zelda: Ocarina of Time, the hero Link uses the ocarina to play special songs that help him solve puzzles, travel quickly, and call his horse Epona.",
+    "The remake lets players hum or sing a melody into the console's microphone, and the game listens for a tune it knows and then has Link play it.",
+    "That turns a familiar musical tool from the original game into a new way to play, for people who remember a tune better than the buttons that make it."
+  ],
+  "Article_Structure": [
+    "LEAD: In the Switch 2 remake of The Legend of Zelda: Ocarina of Time, players can hum or sing a melody into the console's built-in microphone, and the game will play the matching song for Link.",
+    "KEY EVENT: The remake adds voice recognition for Link's ocarina songs.",
+    "  ├─ WHO: Link, the game's hero, and players of the Switch 2 remake",
+    "  ├─ WHAT: Humming or singing a tune the game recognizes makes Link play that song",
+    "  ├─ HOW: The console's built-in microphone listens for the melody",
+    "  └─ WHY IT HELPS: It can help players who remember a tune better than the button presses, even though pressing the buttons is quicker",
+    "EVIDENCE: Players have made it work with yelled songs, a real instrument, a real ocarina, and a tune played from another screen, including a decade-old video clip of a man singing something a bit like Epona's Song.",
+    "LIMITS: The system is not perfect, it takes its best guess when a tune does not really sound like a song in the game, and players can usually use only five notes unless they move the analog stick to reach notes outside that range.",
+    "REACTION: Players are having fun with the feature, and for fans who grew up with Ocarina of Time, hearing a familiar melody and watching Link play along is a delight."
+  ],
+  "perspectives": [],
+  "mined_at": "2026-11-06T11:20:21+00:00",
+  "source_published_at": "Thu, 05 Nov 2026 22:30:17 +0000",
+  "source_name": "Kotaku",
+  "source_url": "https://kotaku.com/legend-zelda-ocarina-of-time-microphone-songs-instruments-2000754324",
+  "category": "Fun",
+  "source_word_count": 407,
+  "detail_status": "full"
+}

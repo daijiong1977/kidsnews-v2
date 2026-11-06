@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-05-news-1",
-      "source": "CBC World",
-      "time_ago": "Wed, 04 Nov 2026 22:41:54 EST",
-      "mined_at": "2026-11-05T16:49:49+00:00",
-      "source_published_at": "Wed, 04 Nov 2026 22:41:54 EST",
-      "image_url": "/article_images/news-s3e11863df5533d41.webp",
-      "category": "News",
-      "title": "Valkyries Win and Celebrate With a Parade",
-      "summary": "The Golden State Valkyries celebrated their WNBA title with a parade in Oakland and San Francisco."
-    },
-    {
-      "id": "2026-11-05-news-2",
-      "source": "CBC World",
-      "time_ago": "Wed, 04 Nov 2026 16:35:06 EST",
-      "mined_at": "2026-11-05T16:49:49+00:00",
-      "source_published_at": "Wed, 04 Nov 2026 16:35:06 EST",
-      "image_url": "/article_images/news-s3f3c9cd282536472.webp",
-      "category": "News",
-      "title": "NASA's Swift Telescope Falls to Earth",
-      "summary": "NASA's Swift space telescope fell back to Earth after 22 years in space."
-    },
-    {
-      "id": "2026-11-05-news-3",
+      "id": "2026-11-06-news-1",
       "source": "NPR World",
-      "time_ago": "Thu, 05 Nov 2026 05:00:00 -0500",
-      "mined_at": "2026-11-05T16:49:49+00:00",
-      "source_published_at": "Thu, 05 Nov 2026 05:00:00 -0500",
-      "image_url": "/article_images/news-se09801442f5b0b19.webp",
+      "time_ago": "Fri, 06 Nov 2026 00:05:43 -0500",
+      "mined_at": "2026-11-06T11:20:21+00:00",
+      "source_published_at": "Fri, 06 Nov 2026 00:05:43 -0500",
+      "image_url": "/article_images/news-s0006f1f0ae8003e5.webp",
       "category": "News",
-      "title": "More People Are Using Their Library Cards",
-      "summary": "As budgets tighten, more Americans are turning to libraries for free books, movies and more."
+      "title": "A Judge Pauses the Giant Arch",
+      "summary": "A judge blocked building work on a proposed 250-foot arch in Washington, D.C., for 14 days, just after a planning group approved it. Lawsuits about the arch are still in court."
+    },
+    {
+      "id": "2026-11-06-news-2",
+      "source": "NPR World",
+      "time_ago": "Fri, 06 Nov 2026 05:00:00 -0500",
+      "mined_at": "2026-11-06T11:20:21+00:00",
+      "source_published_at": "Fri, 06 Nov 2026 05:00:00 -0500",
+      "image_url": "/article_images/news-sba6b841f97bba5ca.webp",
+      "category": "News",
+      "title": "Fewer Students, Emptier Classrooms",
+      "summary": "Public schools are losing students as birth rates fall and immigration enforcement rises. Los Angeles, Texas, and Florida have all seen sharp drops, and some districts may have to close campuses."
+    },
+    {
+      "id": "2026-11-06-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Thu, 05 Nov 2026 19:42:09 -0500",
+      "mined_at": "2026-11-06T11:20:21+00:00",
+      "source_published_at": "Thu, 05 Nov 2026 19:42:09 -0500",
+      "image_url": "/article_images/news-s29e84f7c3bd9f1f8.webp",
+      "category": "News",
+      "title": "A Small Word Steals the Victory Speech",
+      "summary": "Abdul El-Sayed, set to become the first Muslim American senator, made supporters smile by greeting Vice President JD Vance with 'JD, habibi' in his victory speech."
     }
   ]
 }
