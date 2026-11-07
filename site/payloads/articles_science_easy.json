@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-06-science-1",
-      "source": "Space.com",
-      "time_ago": "Thu, 05 Nov 2026 19:00:00 +0000",
-      "mined_at": "2026-11-06T11:20:21+00:00",
-      "source_published_at": "Thu, 05 Nov 2026 19:00:00 +0000",
-      "image_url": "/article_images/science-s84055eb58d28c104.webp",
+      "id": "2026-11-07-science-1",
+      "source": "ScienceDaily All",
+      "time_ago": "Fri, 06 Nov 2026 06:28:01 EST",
+      "mined_at": "2026-11-07T11:27:04+00:00",
+      "source_published_at": "Fri, 06 Nov 2026 06:28:01 EST",
+      "image_url": "/article_images/science-s75c2a1d8849ff39b.webp",
       "category": "Science",
-      "title": "Earth's Tiny New Mini-Moon Is Staying for Christmas",
-      "summary": "A tiny space rock called 2026 QQ8 is circling Earth for a short visit and will drift away in early 2027."
+      "title": "Scientists Find Dinosaur Blood That Survived 115 Million Years",
+      "summary": "Scientists found chemical traces of blood inside 115-million-year-old dinosaur bones, showing that delicate molecules can survive far longer than once believed."
     },
     {
-      "id": "2026-11-06-science-2",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Wed, 04 Nov 2026 05:43:44 EST",
-      "mined_at": "2026-11-06T11:20:21+00:00",
-      "source_published_at": "Wed, 04 Nov 2026 05:43:44 EST",
-      "image_url": "/article_images/science-s9d556f31717398e5.webp",
+      "id": "2026-11-07-science-2",
+      "source": "Popular Mechanics",
+      "time_ago": "Fri, 06 Nov 2026 20:57:12 +0000",
+      "mined_at": "2026-11-07T11:27:04+00:00",
+      "source_published_at": "Fri, 06 Nov 2026 20:57:12 +0000",
+      "image_url": "/article_images/science-sdffe6c3cded477f7.webp",
       "category": "Science",
-      "title": "Scientists Confirm a Third Type of Magnetism",
-      "summary": "Researchers found strong proof of altermagnetism, a third kind of magnetism that mixes traits of the two known kinds."
+      "title": "Permafrost Is Thawing From the Inside Out in Canada's North",
+      "summary": "In Canada's Mackenzie Valley, permafrost is thawing from below and triggering a new kind of landslide that carries still-frozen ground hundreds of meters."
     },
     {
-      "id": "2026-11-06-science-3",
-      "source": "Science News Explores",
-      "time_ago": "Tue, 03 Nov 2026 11:30:00 +0000",
-      "mined_at": "2026-11-06T11:20:21+00:00",
-      "source_published_at": "Tue, 03 Nov 2026 11:30:00 +0000",
-      "image_url": "/article_images/science-se9f10936ffa00a18.webp",
+      "id": "2026-11-07-science-3",
+      "source": "Popular Science",
+      "time_ago": "Fri, 06 Nov 2026 12:47:00 -0500",
+      "mined_at": "2026-11-07T11:27:04+00:00",
+      "source_published_at": "Fri, 06 Nov 2026 12:47:00 -0500",
+      "image_url": "/article_images/science-s5e08e4695a3cbca3.webp",
       "category": "Science",
-      "title": "Could a Bigger Heart Make the Grinch Strong?",
-      "summary": "The Grinch's heart grows three sizes in one day, but real hearts grow slowly — except in pythons, whose hearts can swell after a big meal."
+      "title": "Ultrasound Lets Scientists Check Coral Without Harming It",
+      "summary": "Scientists used a medical ultrasound machine to spot eggs inside living coral, a first that lets them check coral health without cutting it open."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-06-news-1",
+      "id": "2026-11-07-news-1",
       "source": "NPR World",
-      "time_ago": "Fri, 06 Nov 2026 00:05:43 -0500",
-      "mined_at": "2026-11-06T11:20:21+00:00",
-      "source_published_at": "Fri, 06 Nov 2026 00:05:43 -0500",
-      "image_url": "/article_images/news-s0006f1f0ae8003e5.webp",
+      "time_ago": "Sat, 07 Nov 2026 05:00:00 -0500",
+      "mined_at": "2026-11-07T11:27:04+00:00",
+      "source_published_at": "Sat, 07 Nov 2026 05:00:00 -0500",
+      "image_url": "/article_images/news-s81b8ee4b13d04d65.webp",
       "category": "News",
-      "title": "A Judge Pauses the Giant Arch",
-      "summary": "A judge blocked building work on a proposed 250-foot arch in Washington, D.C., for 14 days, just after a planning group approved it. Lawsuits about the arch are still in court."
+      "title": "One Neighbor's Petition Helped Stop a $5 Billion Data Center",
+      "summary": "Taylor Frazier McCollum, who lives near the old Landover Mall site, gathered more than 25,000 signatures and helped block a $5 billion data center in her Maryland county."
     },
     {
-      "id": "2026-11-06-news-2",
-      "source": "NPR World",
-      "time_ago": "Fri, 06 Nov 2026 05:00:00 -0500",
-      "mined_at": "2026-11-06T11:20:21+00:00",
-      "source_published_at": "Fri, 06 Nov 2026 05:00:00 -0500",
-      "image_url": "/article_images/news-sba6b841f97bba5ca.webp",
+      "id": "2026-11-07-news-2",
+      "source": "BBC News",
+      "time_ago": "Sat, 07 Nov 2026 07:20:00 GMT",
+      "mined_at": "2026-11-07T11:27:04+00:00",
+      "source_published_at": "Sat, 07 Nov 2026 07:20:00 GMT",
+      "image_url": "/article_images/news-s22ee6959ad187968.webp",
       "category": "News",
-      "title": "Fewer Students, Emptier Classrooms",
-      "summary": "Public schools are losing students as birth rates fall and immigration enforcement rises. Los Angeles, Texas, and Florida have all seen sharp drops, and some districts may have to close campuses."
+      "title": "Paraguay's President Removed From Office After Bank Collapse",
+      "summary": "Paraguay's president was impeached and placed under house arrest after a bank collapse left millions unable to reach their savings."
     },
     {
-      "id": "2026-11-06-news-3",
+      "id": "2026-11-07-news-3",
       "source": "PBS NewsHour",
-      "time_ago": "Thu, 05 Nov 2026 19:42:09 -0500",
-      "mined_at": "2026-11-06T11:20:21+00:00",
-      "source_published_at": "Thu, 05 Nov 2026 19:42:09 -0500",
-      "image_url": "/article_images/news-s29e84f7c3bd9f1f8.webp",
+      "time_ago": "Fri, 06 Nov 2026 18:35:55 -0500",
+      "mined_at": "2026-11-07T11:27:04+00:00",
+      "source_published_at": "Fri, 06 Nov 2026 18:35:55 -0500",
+      "image_url": "/article_images/news-s209b75b4cc393fed.webp",
       "category": "News",
-      "title": "A Small Word Steals the Victory Speech",
-      "summary": "Abdul El-Sayed, set to become the first Muslim American senator, made supporters smile by greeting Vice President JD Vance with 'JD, habibi' in his victory speech."
+      "title": "Georgia Elects Keisha Lance Bottoms as First Black Woman Governor in U.S. History",
+      "summary": "Keisha Lance Bottoms will be Georgia's first Democratic governor in over two decades — and the first Black woman ever elected governor in the United States."
     }
   ]
 }
