@@ -1,0 +1,109 @@
+{
+  "title": "One Ant Can Wake a Whole Colony",
+  "summary": "Acorn ants rest, as if the nest is asleep. Then they burst into action, like falling dominoes. For more than 30 years, scientists have wondered: with no leader giving orders, what wakes the colony at the same time?\n\nBiologist Simon Garnier of the New Jersey Institute of Technology, with engineers Michael Napoli and Maurizio Porfiri of New York University, tried to find out with math. They shared their findings on August 5 in the journal PRX Life.\n\nTheir computer model of a quiet colony showed that one ant is all it takes: when it starts moving, it wakes the ants it meets, who wake others in turn.\n\nBut three things must line up. First, activity must travel fast: ants move quickly, or the nest is crowded. Second, ants must wake easily when bumped. Third, the colony must rest before the next spark. Too slow, and it never fully rests; too fast, and the spark dies out. When all three line up, the colony bursts into action. Scientists call this sudden flip a phase transition, like water freezing into ice.",
+  "why_it_matters": "Watching how ants wake each other up can help you notice how small actions spread through a group, like when one classmate starting a game gets everyone playing.",
+  "image_url": "/article_images/fun-s6a4d4ccdf8f3cb2d.webp",
+  "keywords": [
+    {
+      "term": "colony",
+      "explanation": "A big group of ants that live and work together in one nest."
+    },
+    {
+      "term": "phase transition",
+      "explanation": "A sudden change from one state to another, like water freezing into ice."
+    },
+    {
+      "term": "computer model",
+      "explanation": "A computer program that copies how something works in real life so scientists can test ideas."
+    },
+    {
+      "term": "spark",
+      "explanation": "The first small start of something, like one ant beginning to move."
+    },
+    {
+      "term": "bumped",
+      "explanation": "Touched or knocked by another ant while moving past."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How long have scientists wondered what wakes the colony at the same time?",
+      "options": [
+        "For 30 days",
+        "For one year",
+        "For 3 years",
+        "For more than 30 years"
+      ],
+      "correct_answer": "For more than 30 years"
+    },
+    {
+      "question": "What did the computer model show it takes to wake the colony?",
+      "options": [
+        "A loud noise",
+        "One ant starting to move",
+        "Food in the nest",
+        "A leader giving orders"
+      ],
+      "correct_answer": "One ant starting to move"
+    },
+    {
+      "question": "What happens when one ant starts moving?",
+      "options": [
+        "It leaves the nest alone",
+        "It wakes the ants it meets, who wake others in turn",
+        "It looks for the queen",
+        "It goes back to sleep"
+      ],
+      "correct_answer": "It wakes the ants it meets, who wake others in turn"
+    },
+    {
+      "question": "What is one thing that must line up for the colony to burst into action?",
+      "options": [
+        "The ants must all sleep at once",
+        "Activity must travel fast",
+        "The ants must stop moving",
+        "The nest must be empty"
+      ],
+      "correct_answer": "Activity must travel fast"
+    },
+    {
+      "question": "What do scientists call the sudden flip into action?",
+      "options": [
+        "A computer model",
+        "A phase transition",
+        "A long sleep",
+        "A leader's order"
+      ],
+      "correct_answer": "A phase transition"
+    },
+    {
+      "question": "Where did the scientists share their findings?",
+      "options": [
+        "On television",
+        "In the journal Science",
+        "In the journal PRX Life",
+        "In a newspaper"
+      ],
+      "correct_answer": "In the journal PRX Life"
+    }
+  ],
+  "background_read": [
+    "Ants live together in big groups called colonies, and they work together even though no single ant is the boss.",
+    "Scientists use computer models to test ideas about how groups of animals act, by copying what the animals do in a program.",
+    "A phase transition is a sudden change, like water turning into ice, when many small things add up at once."
+  ],
+  "Article_Structure": [
+    "WHO: Biologist Simon Garnier and engineers Michael Napoli and Maurizio Porfiri",
+    "WHAT: They used math and a computer model to find out how one ant can wake a whole colony at once",
+    "WHERE: In an acorn ant nest",
+    "WHY: Because scientists had wondered for more than 30 years how a colony wakes together with no leader giving orders"
+  ],
+  "perspectives": [],
+  "mined_at": "2026-11-08T11:14:43+00:00",
+  "source_published_at": "Fri, 06 Nov 2026 11:30:00 +0000",
+  "source_name": "Science News Explores",
+  "source_url": "https://www.snexplores.org/article/ants-sudden-activity-bursts",
+  "category": "Fun",
+  "source_word_count": 880,
+  "detail_status": "full"
+}

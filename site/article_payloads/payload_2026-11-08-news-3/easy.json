@@ -1,0 +1,122 @@
+{
+  "title": "Homelessness in the US Fell the Most in More Than a Decade",
+  "summary": "After years of climbing to record highs, the number of people without homes in the US fell by more than 6% in 2025 — about 49,000 fewer people. It is the second yearly drop in a row, after a smaller one in 2024. Housing and Urban Development Secretary Scott Turner shared the results of a yearly count of people in communities across the country. He said President Trump's steps to secure the border and make communities safer 'drove a historic decrease in homelessness.' A second study of the same count, from the group National Alliance to End Homelessness, found a similar drop but gave different reasons. Its leader, Ann Oliva, said Congress-funded programs are working and more people are getting housed. Both studies agree nearly 700,000 people in the US are still living in shelters or on the streets, far more than before the pandemic. The two sides disagree about what caused the drop. The Trump team points to its immigration changes, while Oliva says programs that house people first, without conditions, played a big part, especially for veterans.",
+  "why_it_matters": "Even though the number fell, nearly 700,000 people in the US still have no home, and kids can learn how their community helps neighbors find a safe place to live.",
+  "image_url": "/article_images/news-s0e1e53533a35241c.webp",
+  "keywords": [
+    {
+      "term": "shelters",
+      "explanation": "Shelters are places where people without homes can sleep safely."
+    },
+    {
+      "term": "pandemic",
+      "explanation": "The pandemic was a time when a sickness spread around the world."
+    },
+    {
+      "term": "immigration",
+      "explanation": "Immigration is about people moving to live in a different country."
+    },
+    {
+      "term": "veterans",
+      "explanation": "Veterans are people who served in the military."
+    },
+    {
+      "term": "conditions",
+      "explanation": "Conditions are rules that must be met before something is given."
+    },
+    {
+      "term": "historic",
+      "explanation": "Historic means so big or important that people will remember it."
+    }
+  ],
+  "questions": [
+    {
+      "question": "By how much did homelessness in the US fall in 2025?",
+      "options": [
+        "By more than 16%",
+        "By more than 6%",
+        "By about 49%",
+        "By less than 1%"
+      ],
+      "correct_answer": "By more than 6%"
+    },
+    {
+      "question": "About how many fewer people were without homes in 2025?",
+      "options": [
+        "About 6,000",
+        "About 700,000",
+        "About 49,000",
+        "About 49 million"
+      ],
+      "correct_answer": "About 49,000"
+    },
+    {
+      "question": "Who shared the results of the yearly count?",
+      "options": [
+        "Ann Oliva",
+        "The National Alliance to End Homelessness",
+        "Housing and Urban Development Secretary Scott Turner",
+        "President Trump"
+      ],
+      "correct_answer": "Housing and Urban Development Secretary Scott Turner"
+    },
+    {
+      "question": "How many people are still living in shelters or on the streets?",
+      "options": [
+        "Nearly 700,000",
+        "About 6,000",
+        "More than 1 million",
+        "About 49,000"
+      ],
+      "correct_answer": "Nearly 700,000"
+    },
+    {
+      "question": "What did Ann Oliva say is working?",
+      "options": [
+        "Counting people every year",
+        "Steps to secure the border",
+        "Congress-funded programs that house people",
+        "Making communities safer"
+      ],
+      "correct_answer": "Congress-funded programs that house people"
+    },
+    {
+      "question": "What did the Trump team point to as the cause of the drop?",
+      "options": [
+        "Its immigration changes",
+        "Help for veterans",
+        "Programs that house people first",
+        "A smaller count in 2024"
+      ],
+      "correct_answer": "Its immigration changes"
+    }
+  ],
+  "background_read": [
+    "Homelessness means not having a home to live in, so people sleep in shelters or on the streets.",
+    "Each year, communities across the country count how many people are without homes to see if the number is going up or down.",
+    "Some programs help by giving people a home first, without asking them to meet conditions first."
+  ],
+  "Article_Structure": [
+    "WHO: People without homes in the US, counted by communities across the country",
+    "WHAT: The number of people without homes fell by more than 6% in 2025",
+    "WHERE: Across the US, in shelters and on the streets",
+    "WHY: The two sides disagree - the Trump team points to immigration changes, while Ann Oliva points to programs that house people first"
+  ],
+  "perspectives": [
+    {
+      "perspective": "The Trump team",
+      "description": "They say President Trump's steps to secure the border and make communities safer drove the historic decrease."
+    },
+    {
+      "perspective": "Ann Oliva of the National Alliance to End Homelessness",
+      "description": "She says Congress-funded programs are working, and programs that house people first, without conditions, played a big part, especially for veterans."
+    }
+  ],
+  "mined_at": "2026-11-08T11:14:43+00:00",
+  "source_published_at": "Sat, 07 Nov 2026 19:19:52 -0500",
+  "source_name": "NPR World",
+  "source_url": "https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year",
+  "category": "News",
+  "source_word_count": 714,
+  "detail_status": "full"
+}

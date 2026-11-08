@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-07-news-1",
-      "source": "NPR World",
-      "time_ago": "Sat, 07 Nov 2026 05:00:00 -0500",
-      "mined_at": "2026-11-07T11:27:04+00:00",
-      "source_published_at": "Sat, 07 Nov 2026 05:00:00 -0500",
-      "image_url": "/article_images/news-s81b8ee4b13d04d65.webp",
-      "category": "News",
-      "title": "One Neighbor's Petition Helped Stop a $5 Billion Data Center",
-      "summary": "Taylor Frazier McCollum, who lives near the old Landover Mall site, gathered 25,000 signatures and helped block a $5 billion data center in her Maryland county."
-    },
-    {
-      "id": "2026-11-07-news-2",
-      "source": "BBC News",
-      "time_ago": "Sat, 07 Nov 2026 07:20:00 GMT",
-      "mined_at": "2026-11-07T11:27:04+00:00",
-      "source_published_at": "Sat, 07 Nov 2026 07:20:00 GMT",
-      "image_url": "/article_images/news-s22ee6959ad187968.webp",
-      "category": "News",
-      "title": "Paraguay's President Removed From Office After Bank Collapse",
-      "summary": "Paraguay's president was impeached and placed under house arrest after a bank collapse left millions unable to reach their savings."
-    },
-    {
-      "id": "2026-11-07-news-3",
+      "id": "2026-11-08-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Fri, 06 Nov 2026 18:35:55 -0500",
-      "mined_at": "2026-11-07T11:27:04+00:00",
-      "source_published_at": "Fri, 06 Nov 2026 18:35:55 -0500",
-      "image_url": "/article_images/news-s209b75b4cc393fed.webp",
+      "time_ago": "Sat, 07 Nov 2026 18:01:43 -0500",
+      "mined_at": "2026-11-08T11:14:43+00:00",
+      "source_published_at": "Sat, 07 Nov 2026 18:01:43 -0500",
+      "image_url": "/article_images/news-s2438543f5df1331a.webp",
       "category": "News",
-      "title": "Georgia Elects Keisha Lance Bottoms as First Black Woman Governor in U.S. History",
-      "summary": "Keisha Lance Bottoms will be Georgia's first Democratic governor in over two decades — and the first Black woman ever elected governor in the United States."
+      "title": "Diwali, the Festival of Lights, Is Celebrated Today",
+      "summary": "Diwali, the Festival of Lights, falls today, November 8. More than a billion people celebrate it with lamps, fireworks, feasts, and prayers marking the victory of light over darkness."
+    },
+    {
+      "id": "2026-11-08-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Sat, 07 Nov 2026 14:35:15 -0500",
+      "mined_at": "2026-11-08T11:14:43+00:00",
+      "source_published_at": "Sat, 07 Nov 2026 14:35:15 -0500",
+      "image_url": "/article_images/news-sa070552a883ba9ed.webp",
+      "category": "News",
+      "title": "New Scholarships Will Help Foster Care Students Go to College",
+      "summary": "Melania Trump and LSU announced scholarships for students who grew up in foster care, backed by more than $7 million in private donations. Fourteen scholars are at LSU this semester."
+    },
+    {
+      "id": "2026-11-08-news-3",
+      "source": "NPR World",
+      "time_ago": "Sat, 07 Nov 2026 19:19:52 -0500",
+      "mined_at": "2026-11-08T11:14:43+00:00",
+      "source_published_at": "Sat, 07 Nov 2026 19:19:52 -0500",
+      "image_url": "/article_images/news-s0e1e53533a35241c.webp",
+      "category": "News",
+      "title": "Homelessness in the US Fell the Most in More Than a Decade",
+      "summary": "US homelessness dropped more than 6% in 2025 — about 49,000 fewer people — the largest fall in over a decade. The two sides disagree on what caused it, and nearly 700,000 people are still without housing."
     }
   ]
 }
