@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-08-science-1",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Fri, 06 Nov 2026 04:33:36 EST",
-      "mined_at": "2026-11-08T11:14:43+00:00",
-      "source_published_at": "Fri, 06 Nov 2026 04:33:36 EST",
-      "image_url": "/article_images/science-s7ac916a924a74b32.webp",
+      "id": "2026-11-09-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Sat, 07 Nov 2026 20:09:55 EST",
+      "mined_at": "2026-11-09T11:24:50+00:00",
+      "source_published_at": "Sat, 07 Nov 2026 20:09:55 EST",
+      "image_url": "/article_images/science-s11764d0bca8ce557.webp",
       "category": "Science",
-      "title": "Giant Beetle Larvae Are Quietly Eating Blueberry Roots",
-      "summary": "Scientists used DNA barcoding to identify the five-inch-long beetle larvae damaging blueberry roots in North Carolina: the longhorn beetle Prionus imbricornus."
+      "title": "Mysterious Gas Leaks Hint Mars May Still Be Volcanically Alive",
+      "summary": "Strange puffs of hydrogen chloride gas over cracks on the giant volcano Alba Mons suggest Mars may still have enough heat underground for volcanic activity."
     },
     {
-      "id": "2026-11-08-science-2",
-      "source": "Space.com",
-      "time_ago": "Sat, 07 Nov 2026 15:00:00 +0000",
-      "mined_at": "2026-11-08T11:14:43+00:00",
-      "source_published_at": "Sat, 07 Nov 2026 15:00:00 +0000",
-      "image_url": "/article_images/science-se7b954bc576e59ed.webp",
+      "id": "2026-11-09-science-2",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Sun, 08 Nov 2026 17:45:01 EST",
+      "mined_at": "2026-11-09T11:24:50+00:00",
+      "source_published_at": "Sun, 08 Nov 2026 17:45:01 EST",
+      "image_url": "/article_images/science-s5d6eaf7484b8500d.webp",
       "category": "Science",
-      "title": "Send Your Name to Titan on NASA's Dragonfly Mission",
-      "summary": "NASA will carry your name to Saturn's moon Titan aboard Dragonfly, a flying robot launching in 2028 that will hop between dunes and craters searching for the chemistry of life."
+      "title": "An Ancient Ocean of Giant Predators Reveals a Surprising Twist in Evolution",
+      "summary": "Fossils from an ancient Colombian ocean show old and new animal groups thriving side by side, suggesting big evolutionary changes can happen without a mass extinction."
     },
     {
-      "id": "2026-11-08-science-3",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Sat, 07 Nov 2026 04:44:48 EST",
-      "mined_at": "2026-11-08T11:14:43+00:00",
-      "source_published_at": "Sat, 07 Nov 2026 04:44:48 EST",
-      "image_url": "/article_images/science-scc1be14677683d26.webp",
+      "id": "2026-11-09-science-3",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Sat, 07 Nov 2026 18:34:19 EST",
+      "mined_at": "2026-11-09T11:24:50+00:00",
+      "source_published_at": "Sat, 07 Nov 2026 18:34:19 EST",
+      "image_url": "/article_images/science-s2391ba1bc3d4d3d6.webp",
       "category": "Science",
-      "title": "Europe's Ancient Forests Were Nothing Like We Imagined",
-      "summary": "Europe was not covered in dense dark forest for millions of years — it was open woodland, meadows, and grazing animals. The finding questions today's dense-forest planting programs."
+      "title": "A Hidden Limit of Space and Time Could Lead to Ultrafast Electronics",
+      "summary": "Scientists have measured a new 'space-time limit' for electrons, watching them tunnel through barriers in attoseconds, a step toward far faster electronics."
     }
   ]
 }

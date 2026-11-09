@@ -1,0 +1,118 @@
+{
+  "title": "A Hidden Limit of Space and Time Could Lead to Ultrafast Electronics",
+  "summary": "Quantum physics has a rule: you cannot know everything about a particle at once. Werner Heisenberg's uncertainty principle says a particle's position and momentum cannot both be measured exactly. But position and time are different. Now scientists have shown another limit: an electron's location and its behaviour over time cannot both be pinned down exactly. This new 'space-time limit' could matter for quantum technology and ultrafast electronics. The discovery comes from a team in Regensburg, Germany, working with colleagues in Hamburg. To watch electrons move, the team built a new laser system that works like a high-speed camera. Timed laser pulses drive electrons from a sharp metal tip toward a silver surface. The movements happen over attoseconds: one attosecond is one-billionth of a billionth of a second. At these distances, electrons move roughly a thousand times faster than atoms. Instead of moving like tiny balls, the electrons behave as quantum waves, letting them pass through an energy barrier they should not be able to cross. This is quantum tunnelling, a bit like passing through a solid wall without breaking it.",
+  "why_it_matters": "If you use a phone or a computer, this science could one day help make them much, much faster.",
+  "image_url": "/article_images/science-s2391ba1bc3d4d3d6.webp",
+  "keywords": [
+    {
+      "term": "uncertainty",
+      "explanation": "Not being able to know something exactly or for sure."
+    },
+    {
+      "term": "momentum",
+      "explanation": "How much motion an object has, from its mass and its speed."
+    },
+    {
+      "term": "attoseconds",
+      "explanation": "Extremely short periods of time, each one-billionth of a billionth of a second."
+    },
+    {
+      "term": "tunnelling",
+      "explanation": "When a tiny particle passes through a wall it should not be able to cross."
+    },
+    {
+      "term": "electrons",
+      "explanation": "Tiny particles that move around the centre of an atom."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What does the uncertainty principle say?",
+      "options": [
+        "A particle's position and momentum cannot both be measured exactly",
+        "Electrons always move in straight lines",
+        "Light is the fastest thing",
+        "Time travel is possible"
+      ],
+      "correct_answer": "A particle's position and momentum cannot both be measured exactly"
+    },
+    {
+      "question": "What is the new limit about?",
+      "options": [
+        "How cold space can get",
+        "An electron's location and its behaviour over time",
+        "How fast a rocket can fly",
+        "How bright a laser can be"
+      ],
+      "correct_answer": "An electron's location and its behaviour over time"
+    },
+    {
+      "question": "Where is the research team?",
+      "options": [
+        "Tokyo and Beijing",
+        "Regensburg, Germany, and Hamburg",
+        "London and Paris",
+        "New York and Boston"
+      ],
+      "correct_answer": "Regensburg, Germany, and Hamburg"
+    },
+    {
+      "question": "How long is an attosecond?",
+      "options": [
+        "One-thousandth of a second",
+        "One second",
+        "One-billionth of a billionth of a second",
+        "One-millionth of a second"
+      ],
+      "correct_answer": "One-billionth of a billionth of a second"
+    },
+    {
+      "question": "How do the electrons behave instead of like tiny balls?",
+      "options": [
+        "As quantum waves",
+        "As tiny magnets",
+        "As beams of light",
+        "As drops of water"
+      ],
+      "correct_answer": "As quantum waves"
+    },
+    {
+      "question": "What is quantum tunnelling like?",
+      "options": [
+        "Passing through a solid wall without breaking it",
+        "Digging a tunnel through a mountain",
+        "Sending a message through space",
+        "Heating metal until it melts"
+      ],
+      "correct_answer": "Passing through a solid wall without breaking it"
+    }
+  ],
+  "background_read": [
+    "Quantum physics is the science of the very smallest things, like electrons.",
+    "An electron is a tiny particle that moves around the centre of an atom.",
+    "A laser makes a narrow beam of light, and short laser pulses can work like a super-fast camera."
+  ],
+  "Article_Structure": [
+    "WHO: An international team of scientists in Regensburg and Hamburg.",
+    "WHAT: Scientists measured a new 'space-time limit' for electrons.",
+    "WHERE: In a lab in Germany, using a new laser system.",
+    "WHY: To watch electrons move and learn the speed limits of future electronics."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Lead author Simon Maier",
+      "description": "He says that by changing the time between the two laser pulses, the team can directly observe how the electrons respond."
+    },
+    {
+      "perspective": "Co-author Katharina Glöckl",
+      "description": "She says the measurement can be understood as a high-speed camera for the electron wave packets."
+    }
+  ],
+  "mined_at": "2026-11-09T11:24:50+00:00",
+  "source_published_at": "Sat, 07 Nov 2026 18:34:19 EST",
+  "source_name": "ScienceDaily Most Popular",
+  "source_url": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
+  "category": "Science",
+  "source_word_count": 704,
+  "detail_status": "full"
+}

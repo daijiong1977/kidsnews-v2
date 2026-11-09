@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-08-fun-1",
-      "source": "DOGOnews",
-      "time_ago": "",
-      "mined_at": "2026-11-08T11:14:43+00:00",
-      "source_published_at": "",
-      "image_url": "/article_images/fun-s87347a61a1d8d675.webp",
+      "id": "2026-11-09-fun-1",
+      "source": "BBC News",
+      "time_ago": "Mon, 09 Nov 2026 02:50:13 GMT",
+      "mined_at": "2026-11-09T11:24:50+00:00",
+      "source_published_at": "Mon, 09 Nov 2026 02:50:13 GMT",
+      "image_url": "/article_images/fun-s7ce5f62dc2af507c.webp",
       "category": "Fun",
-      "title": "This Robot Bird Can Fly — and Swim Underwater",
-      "summary": "Inspired by puffins, MIT scientists built a robot that flies through the air and swims underwater using the same flapping wings."
+      "title": "Cruise Ship Pianist Rescued After Nine Hours in the Pacific",
+      "summary": "Two fishermen rescued a cruise ship pianist who had spent about nine hours treading water in the Pacific, helped by unusually warm seas."
     },
     {
-      "id": "2026-11-08-fun-2",
-      "source": "Science News Explores",
-      "time_ago": "Fri, 06 Nov 2026 11:30:00 +0000",
-      "mined_at": "2026-11-08T11:14:43+00:00",
-      "source_published_at": "Fri, 06 Nov 2026 11:30:00 +0000",
-      "image_url": "/article_images/fun-s6a4d4ccdf8f3cb2d.webp",
+      "id": "2026-11-09-fun-2",
+      "source": "Billboard",
+      "time_ago": "Mon, 09 Nov 2026 02:06:20 +0000",
+      "mined_at": "2026-11-09T11:24:50+00:00",
+      "source_published_at": "Mon, 09 Nov 2026 02:06:20 +0000",
+      "image_url": "/article_images/fun-s38db8d1c883c5009.webp",
       "category": "Fun",
-      "title": "One Ant Can Wake a Whole Colony — and Math Explains How",
-      "summary": "Acorn ant colonies rest quietly, then suddenly burst into activity. A new math model shows one ant can spark the whole colony — but only when three conditions line up."
+      "title": "Ariana Grande Leads a Starry Christmas Carol on The Tonight Show",
+      "summary": "Ariana Grande, Robert De Niro and Ben Stiller sang 'O Christmas Tree' on The Tonight Show to celebrate the Rockefeller Center tree's arrival and their new movie."
     },
     {
-      "id": "2026-11-08-fun-3",
-      "source": "IndieWire",
-      "time_ago": "Sat, 07 Nov 2026 01:30:00 +0000",
-      "mined_at": "2026-11-08T11:14:43+00:00",
-      "source_published_at": "Sat, 07 Nov 2026 01:30:00 +0000",
-      "image_url": "/article_images/fun-s51917c4cb7f20f47.webp",
+      "id": "2026-11-09-fun-3",
+      "source": "Billboard",
+      "time_ago": "Sun, 08 Nov 2026 23:17:10 +0000",
+      "mined_at": "2026-11-09T11:24:50+00:00",
+      "source_published_at": "Sun, 08 Nov 2026 23:17:10 +0000",
+      "image_url": "/article_images/fun-sb5bb9b6b7a818841.webp",
       "category": "Fun",
-      "title": "Daffy Duck Is Back on the Big Screen in a Brand-New Looney Tunes Short",
-      "summary": "\"Daffy Season,\" the first Looney Tunes short in theaters since 2012, plays before \"The Cat in the Hat.\" It is Eric Bauza's final Looney Tunes performance."
+      "title": "Druski Sings His Way Through His First Night Hosting 'SNL'",
+      "summary": "Hosting 'SNL' for the first time, comedian Druski stole the show by singing through a proposal gone wrong and a hip-hop throwback sketch."
     }
   ]
 }

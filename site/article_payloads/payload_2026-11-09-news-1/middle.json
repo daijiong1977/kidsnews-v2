@@ -1,0 +1,125 @@
+{
+  "title": "Britain's New 'Be Ready' Guide: How to Cope for 72 Hours on Your Own",
+  "summary": "Imagine your phone, lights and fridge all stopped working at once. What would your family do for three days? That is the question Britain is now asking everyone, with a new national guide called 'Be Ready.'\n\nThe guide explains how to look after yourself for 72 hours during an emergency, whether it is a big storm, a cyberattack that knocks out computers, or another serious disruption. It suggests keeping extra food, water, medicines and a torch at home.\n\nBritain has not tried anything like this for a very long time. The last national preparedness campaign was in 1980, during the Cold War, when the government sent out strange-looking leaflets called 'Protect and Survive.' People laughed at it. This time, officials say they want calm, useful tips, not scary messages.\n\nThe head of the British Army, General Sir Roland Walker, told about 700 soldiers last month that the world is in 'extreme jeopardy' and that leaders need to talk honestly with the public about risks. Disaster expert Lucy Easthope, who has helped after emergencies including the 2004 Indian Ocean tsunami, says the public wants reassurance. 'This is reawakening the idea that it's perfectly survivable,' she said.\n\nOther countries in Europe, including France, Sweden, Norway, Germany, Poland and Ireland, have also updated their emergency advice. Canada has held an emergency preparedness week every year since 1996. Britain, by contrast, has mostly counted on neighbours helping each other through short problems.\n\nSome Britons are still unsure. Family doctor Nyari Matebwe, from Hertfordshire, north of London, said her first reaction was to roll her eyes. But recent suspected hacking attacks on supermarket freezers across Europe, and hoax bomb threats at airports, made her think again. Her teenage daughter is now pushing the family to take the message seriously. Parents' chat groups are buzzing with the same question: how would we cook with no gas or electricity? The guide's answer is simple: a little planning now can make a hard few days much easier.",
+  "why_it_matters": "Emergencies can happen anywhere, and knowing what to do in advance helps families stay safe and calm instead of scared.",
+  "image_url": "/article_images/news-sa86b68505ec363bf.webp",
+  "keywords": [
+    {
+      "term": "preparedness",
+      "explanation": "Being ready in advance for something that might happen, like an emergency."
+    },
+    {
+      "term": "cyberattack",
+      "explanation": "An attack on computers or networks that stops them from working properly."
+    },
+    {
+      "term": "disruption",
+      "explanation": "Something that breaks the normal way things work."
+    },
+    {
+      "term": "jeopardy",
+      "explanation": "Danger, or being in a risky situation."
+    },
+    {
+      "term": "reassurance",
+      "explanation": "Words or actions that help someone feel calmer and less worried."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How long should families be ready to cope on their own?",
+      "options": [
+        "One week",
+        "48 hours",
+        "72 hours",
+        "24 hours"
+      ],
+      "correct_answer": "72 hours"
+    },
+    {
+      "question": "What is Britain's new guide called?",
+      "options": [
+        "'Stay Safe'",
+        "'Protect and Survive'",
+        "'Be Prepared'",
+        "'Be Ready'"
+      ],
+      "correct_answer": "'Be Ready'"
+    },
+    {
+      "question": "When was Britain's last national preparedness campaign?",
+      "options": [
+        "2004",
+        "1960",
+        "1996",
+        "1980"
+      ],
+      "correct_answer": "1980"
+    },
+    {
+      "question": "What did General Walker say about the world?",
+      "options": [
+        "It is in 'extreme jeopardy'",
+        "It should ignore all risks",
+        "It needs more soldiers",
+        "It has never been safer"
+      ],
+      "correct_answer": "It is in 'extreme jeopardy'"
+    },
+    {
+      "question": "Which country has held an emergency preparedness week every year since 1996?",
+      "options": [
+        "France",
+        "Sweden",
+        "Ireland",
+        "Canada"
+      ],
+      "correct_answer": "Canada"
+    },
+    {
+      "question": "What made Dr Matebwe think again about the guide?",
+      "options": [
+        "Her daughter joined the army",
+        "Suspected hacking attacks and hoax bomb threats",
+        "A storm damaged her house",
+        "The guide arrived in the post"
+      ],
+      "correct_answer": "Suspected hacking attacks and hoax bomb threats"
+    }
+  ],
+  "background_read": [
+    "Emergency preparedness means getting ready before a crisis, so a family can manage on its own until help arrives.",
+    "The guide uses 72 hours because most short emergencies, like storms or power cuts, can last a few days.",
+    "A cyberattack is an attack on computers or networks that can stop phones, banks or shops from working.",
+    "Many countries publish this kind of advice so people know what to do calmly instead of panicking."
+  ],
+  "Article_Structure": [
+    "LEAD: Britain has launched a new national guide, 'Be Ready,' asking families to prepare for 72 hours on their own.",
+    "KEY EVENT: The guide explains how to cope in an emergency, from storms to cyberattacks.",
+    "  ├─ WHO: The British government, General Sir Roland Walker, disaster expert Lucy Easthope and family doctor Nyari Matebwe.",
+    "  └─ WHEN: The last national campaign was in 1980; other countries have updated their advice in recent years.",
+    "EVIDENCE: Other European countries and Canada already publish similar advice, and recent hacking attacks made some Britons take the message seriously.",
+    "OPEN QUESTION: Will families follow the guide, or shrug it off like the 1980 leaflets?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "General Sir Roland Walker",
+      "description": "He says the world is in 'extreme jeopardy' and leaders need to talk honestly with the public about risks."
+    },
+    {
+      "perspective": "Disaster expert Lucy Easthope",
+      "description": "She says the public wants reassurance, and that the guide reawakens the idea that an emergency is 'perfectly survivable'."
+    },
+    {
+      "perspective": "Family doctor Nyari Matebwe",
+      "description": "Her first reaction was to roll her eyes, but recent hacking attacks and hoax bomb threats made her think again."
+    }
+  ],
+  "mined_at": "2026-11-09T11:24:50+00:00",
+  "source_published_at": "Sun, 08 Nov 2026 04:00:00 EST",
+  "source_name": "CBC World",
+  "source_url": "https://www.cbc.ca/news/world/britain-be-ready-campaign-emergency-prep-9.7413720?cmp=rss",
+  "category": "News",
+  "source_word_count": 612,
+  "detail_status": "full"
+}

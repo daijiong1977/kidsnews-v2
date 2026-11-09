@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-08-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Sat, 07 Nov 2026 18:01:43 -0500",
-      "mined_at": "2026-11-08T11:14:43+00:00",
-      "source_published_at": "Sat, 07 Nov 2026 18:01:43 -0500",
-      "image_url": "/article_images/news-s2438543f5df1331a.webp",
+      "id": "2026-11-09-news-1",
+      "source": "CBC World",
+      "time_ago": "Sun, 08 Nov 2026 04:00:00 EST",
+      "mined_at": "2026-11-09T11:24:50+00:00",
+      "source_published_at": "Sun, 08 Nov 2026 04:00:00 EST",
+      "image_url": "/article_images/news-sa86b68505ec363bf.webp",
       "category": "News",
-      "title": "Diwali, the Festival of Lights, Is Celebrated Today",
-      "summary": "Diwali, the Festival of Lights, falls today, November 8. More than a billion people celebrate it with lamps, fireworks, feasts, and prayers marking the victory of light over darkness."
+      "title": "Britain's New 'Be Ready' Guide: How to Cope for 72 Hours on Your Own",
+      "summary": "Britain has launched a 'Be Ready' guide to help families cope on their own for 72 hours in an emergency, and experts say the aim is calm, practical advice, not fear."
     },
     {
-      "id": "2026-11-08-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Sat, 07 Nov 2026 14:35:15 -0500",
-      "mined_at": "2026-11-08T11:14:43+00:00",
-      "source_published_at": "Sat, 07 Nov 2026 14:35:15 -0500",
-      "image_url": "/article_images/news-sa070552a883ba9ed.webp",
+      "id": "2026-11-09-news-2",
+      "source": "BBC News",
+      "time_ago": "Sun, 08 Nov 2026 17:51:03 GMT",
+      "mined_at": "2026-11-09T11:24:50+00:00",
+      "source_published_at": "Sun, 08 Nov 2026 17:51:03 GMT",
+      "image_url": "/article_images/news-s2a3d5cff251e3b59.webp",
       "category": "News",
-      "title": "New Scholarships Will Help Foster Care Students Go to College",
-      "summary": "Melania Trump and LSU announced scholarships for students who grew up in foster care, backed by more than $7 million in private donations. Fourteen scholars are at LSU this semester."
+      "title": "South Africa's ANC Suffers Its Worst Election Result Ever",
+      "summary": "South Africa's governing ANC has recorded its worst-ever local election result, winning a majority in just one of nine provinces, and now faces two weeks of coalition talks."
     },
     {
-      "id": "2026-11-08-news-3",
-      "source": "NPR World",
-      "time_ago": "Sat, 07 Nov 2026 19:19:52 -0500",
-      "mined_at": "2026-11-08T11:14:43+00:00",
-      "source_published_at": "Sat, 07 Nov 2026 19:19:52 -0500",
-      "image_url": "/article_images/news-s0e1e53533a35241c.webp",
+      "id": "2026-11-09-news-3",
+      "source": "CBC World",
+      "time_ago": "Sun, 08 Nov 2026 14:50:27 EST",
+      "mined_at": "2026-11-09T11:24:50+00:00",
+      "source_published_at": "Sun, 08 Nov 2026 14:50:27 EST",
+      "image_url": "/article_images/news-sf95b1b05a1156f69.webp",
       "category": "News",
-      "title": "Homelessness in the US Fell the Most in More Than a Decade",
-      "summary": "US homelessness dropped more than 6% in 2025 — about 49,000 fewer people — the largest fall in over a decade. The two sides disagree on what caused it, and nearly 700,000 people are still without housing."
+      "title": "Norway Loses Its World Juniors Spot to Russia, but the Story Isn't Over",
+      "summary": "Norway says it has been bumped from the world junior hockey championships to make room for Russia, but Canada may bar the Russian team, so Norway's hopes are still alive."
     }
   ]
 }

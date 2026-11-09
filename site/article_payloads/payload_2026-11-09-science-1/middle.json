@@ -1,0 +1,121 @@
+{
+  "title": "Mysterious Gas Leaks Hint Mars May Still Be Volcanically Alive",
+  "summary": "Mars may not be as dead as it looks. Mysterious puffs of gas rising from cracks near a giant Martian volcano suggest that heat and volcanic activity could still be hiding deep beneath the planet's surface.\n\nResearchers found unusual amounts of hydrogen chloride gas above fractures on the slopes of Alba Mons, an enormous volcano. The gas kept showing up in early summer, when it normally almost disappears, and always over the same volcanic cracks. That timing and location made scientists suspect something more than ordinary air chemistry was at work.\n\nAn international team led by Alexander Trokhimovskiy thinks the gas could be coming from hot magma underground. If they are right, Mars still has volcanic systems able to release gases to the surface.\n\nThe gas was first spotted by the European Space Agency's ExoMars Trace Gas Orbiter, which detected hydrogen chloride in the Martian atmosphere in 2021. On Earth, this gas often escapes through openings connected to magma. 'Our findings suggest that Mars has retained enough internal heat to support volcanic activity until recently, and possibly still does,' said Daniel Mège of the Space Research Centre of the Polish Academy of Sciences, a co-lead author of the study in Science Advances.\n\nClose-up images from the orbiter's CaSSIS camera showed narrow fractures that look relatively fresh, some stretching hundreds of metres across the surface, with strange changes in colour around the cracks. One idea is that gases from magma deep below travel up through these fractures. On Earth, openings like these are called fumaroles.\n\nThe researchers think bitterly cold Martian winters, when temperatures can fall to minus 120°C, let ice seal the cracks shut. As temperatures rise in early summer, the ice turns straight into vapour, opening the way for underground gases to escape.\n\nMars is home to the largest volcanoes in the Solar System, and some erupted within the past few million years. Instruments on the surface have also recorded marsquakes. But nobody has ever directly seen a new eruption or fresh lava on Mars, so whether it is still volcanically active remains an open question.",
+  "why_it_matters": "Mars is the planet humans most want to explore, and knowing whether it is still warm inside helps scientists understand how planets change and where future explorers might find heat or water.",
+  "image_url": "/article_images/science-s11764d0bca8ce557.webp",
+  "keywords": [
+    {
+      "term": "volcanically",
+      "explanation": "To do with volcanoes, mountains that can erupt with hot rock and gas."
+    },
+    {
+      "term": "fractures",
+      "explanation": "Cracks or breaks in rock or the ground."
+    },
+    {
+      "term": "magma",
+      "explanation": "Hot melted rock deep inside a planet."
+    },
+    {
+      "term": "fumaroles",
+      "explanation": "Openings in the ground where hot gases escape from below."
+    },
+    {
+      "term": "orbiter",
+      "explanation": "A spacecraft that circles around a planet to study it from space."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What gas did scientists find over the cracks on Mars?",
+      "options": [
+        "Carbon dioxide",
+        "Nitrogen",
+        "Hydrogen chloride",
+        "Oxygen"
+      ],
+      "correct_answer": "Hydrogen chloride"
+    },
+    {
+      "question": "Over which volcano were the cracks found?",
+      "options": [
+        "Alba Mons",
+        "Olympus Mons",
+        "Mount Everest",
+        "Mount Etna"
+      ],
+      "correct_answer": "Alba Mons"
+    },
+    {
+      "question": "When did the gas keep showing up?",
+      "options": [
+        "Only at night",
+        "In deep winter",
+        "Only during dust storms",
+        "In early summer"
+      ],
+      "correct_answer": "In early summer"
+    },
+    {
+      "question": "What spacecraft first spotted the gas?",
+      "options": [
+        "The ExoMars Trace Gas Orbiter",
+        "The Mars Rover",
+        "The James Webb Telescope",
+        "The Hubble Telescope"
+      ],
+      "correct_answer": "The ExoMars Trace Gas Orbiter"
+    },
+    {
+      "question": "How cold can Martian winters get?",
+      "options": [
+        "Minus 60°C",
+        "Minus 120°C",
+        "Minus 20°C",
+        "Minus 200°C"
+      ],
+      "correct_answer": "Minus 120°C"
+    },
+    {
+      "question": "Has anyone ever directly seen a new eruption on Mars?",
+      "options": [
+        "Yes, many times",
+        "No, never",
+        "Yes, once in 2021",
+        "Only through a telescope"
+      ],
+      "correct_answer": "No, never"
+    }
+  ],
+  "background_read": [
+    "A volcano is an opening in a planet's surface where hot melted rock, called magma, and gases from deep inside can escape.",
+    "Mars is a cold, dry planet that looks quiet today, but it holds the largest volcanoes in the Solar System.",
+    "Hydrogen chloride is a gas that on Earth often escapes through openings connected to magma, so finding it over volcanic cracks is a clue that Mars may still be warm inside.",
+    "Scientists study Mars with orbiters, spacecraft that circle the planet and take pictures and measurements from above."
+  ],
+  "Article_Structure": [
+    "LEAD: Strange puffs of gas over cracks near a giant Martian volcano suggest Mars may still be volcanically alive.",
+    "KEY EVENT: Scientists found hydrogen chloride gas above fractures on Alba Mons, always in early summer and over the same cracks.",
+    "  ├─ WHO: An international team led by Alexander Trokhimovskiy, using the European Space Agency's ExoMars Trace Gas Orbiter.",
+    "  └─ WHEN: The gas was first spotted in 2021, and it returns each early summer.",
+    "EVIDENCE: Close-up pictures showed fresh-looking fractures, and on Earth this gas often escapes through openings connected to magma.",
+    "OPEN QUESTION: Is Mars still volcanically active, since nobody has ever directly seen a new eruption or fresh lava?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "The research team led by Alexander Trokhimovskiy",
+      "description": "It thinks the gas could be coming from hot magma underground and that Mars may still be volcanically active."
+    },
+    {
+      "perspective": "Co-lead author Daniel Mège",
+      "description": "He says the findings suggest Mars has retained enough internal heat to support volcanic activity until recently, and possibly still does."
+    }
+  ],
+  "mined_at": "2026-11-09T11:24:50+00:00",
+  "source_published_at": "Sat, 07 Nov 2026 20:09:55 EST",
+  "source_name": "ScienceDaily Top Technology",
+  "source_url": "https://www.sciencedaily.com/releases/2026/11/261106174525.htm",
+  "category": "Science",
+  "source_word_count": 653,
+  "detail_status": "full"
+}
