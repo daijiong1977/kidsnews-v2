@@ -1,0 +1,109 @@
+{
+  "title": "Why Bitter Coffee Starts to Taste Better",
+  "summary": "Your first sip of black coffee can taste awful. Our brains are wired to avoid bitterness, yet millions of people grow to love that taste. Scientists at UC San Francisco may have found part of the answer.\n\nThe team studied dopamine, a chemical messenger for motivation, reward and learning. This study, published November 4 in Nature, looks at a slow dopamine system that responds to news from inside the body.\n\nWhen food reaches the gut, sensors spot nutrients such as sugar and fat, and the brain can answer with a dopamine response that builds slowly and lasts several minutes.\n\nKnight and Grove gave mice sugar water or a milkshake-like liquid straight into their stomachs. The strongest response showed up in the anterior basolateral amygdala, or BLA, a brain area for emotion and learning.\n\nBlocking the pathway left mice eating normally, but they could no longer learn that a new flavor meant calories were coming. When the team switched the fibers on, mice learned to like a flavor with no calories. Once the brain links coffee's taste with caffeine's lift, Knight said, coffee tastes a lot better.",
+  "why_it_matters": "It helps explain why foods you once disliked can start to taste good after you try them a few times, just like a new food at school lunch.",
+  "image_url": "/article_images/science-se4e4ea7bf7f2226a.webp",
+  "keywords": [
+    {
+      "term": "dopamine",
+      "explanation": "Dopamine is a chemical messenger in the brain that helps with motivation, reward and learning."
+    },
+    {
+      "term": "nutrients",
+      "explanation": "Nutrients are the useful parts of food, like sugar and fat."
+    },
+    {
+      "term": "anterior basolateral amygdala",
+      "explanation": "The anterior basolateral amygdala is a brain area for emotion and learning."
+    },
+    {
+      "term": "calories",
+      "explanation": "Calories show how much energy food gives the body."
+    },
+    {
+      "term": "caffeine",
+      "explanation": "Caffeine is the part of coffee that gives people a lift."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is dopamine, as described in the story?",
+      "options": [
+        "A kind of sugar found in coffee",
+        "A bitter flavor in food",
+        "A chemical messenger for motivation, reward and learning",
+        "A part of the stomach"
+      ],
+      "correct_answer": "A chemical messenger for motivation, reward and learning"
+    },
+    {
+      "question": "Where did the strongest dopamine response show up in the mice?",
+      "options": [
+        "In the anterior basolateral amygdala, or BLA",
+        "In the tongue",
+        "In the stomach",
+        "In the eyes"
+      ],
+      "correct_answer": "In the anterior basolateral amygdala, or BLA"
+    },
+    {
+      "question": "What happened when the pathway was blocked?",
+      "options": [
+        "Mice could no longer taste anything",
+        "Mice could no longer learn that a new flavor meant calories were coming",
+        "Mice liked every flavor at once",
+        "Mice stopped eating"
+      ],
+      "correct_answer": "Mice could no longer learn that a new flavor meant calories were coming"
+    },
+    {
+      "question": "What happened when the team switched the fibers on?",
+      "options": [
+        "The mice refused all food",
+        "The mice forgot every flavor",
+        "The mice fell asleep",
+        "Mice learned to like a flavor with no calories"
+      ],
+      "correct_answer": "Mice learned to like a flavor with no calories"
+    },
+    {
+      "question": "Why does coffee start to taste better, according to Knight?",
+      "options": [
+        "Because coffee beans change color",
+        "Once the brain links coffee's taste with caffeine's lift",
+        "Because the brain gets used to the heat",
+        "Because coffee loses its caffeine"
+      ],
+      "correct_answer": "Once the brain links coffee's taste with caffeine's lift"
+    },
+    {
+      "question": "What do sensors in the gut spot?",
+      "options": [
+        "The temperature of the room",
+        "Colors and shapes",
+        "Nutrients such as sugar and fat",
+        "Sounds and music"
+      ],
+      "correct_answer": "Nutrients such as sugar and fat"
+    }
+  ],
+  "background_read": [
+    "Dopamine is a chemical messenger in the brain that helps with motivation, reward and learning.",
+    "When food reaches the gut, sensors there can spot nutrients, and the brain can slowly respond with dopamine.",
+    "Over time the brain can learn to link a flavor with the good feeling that follows, so a taste people once disliked can start to seem pleasant."
+  ],
+  "Article_Structure": [
+    "WHO: Scientists at UC San Francisco, including Knight and Grove, and the mice they studied",
+    "WHAT: A slow dopamine system that helps the brain learn to like flavors linked to calories or caffeine's lift",
+    "WHERE: Inside the body, in the gut and in a brain area called the anterior basolateral amygdala",
+    "WHY: To explain why people grow to love bitter tastes like black coffee even though brains are wired to avoid bitterness"
+  ],
+  "perspectives": [],
+  "mined_at": "2026-11-10T11:18:08+00:00",
+  "source_published_at": "Mon, 09 Nov 2026 18:19:35 EST",
+  "source_name": "ScienceDaily Strange & Offbeat",
+  "source_url": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm",
+  "category": "Science",
+  "source_word_count": 606,
+  "detail_status": "full"
+}

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-09-fun-1",
-      "source": "BBC News",
-      "time_ago": "Mon, 09 Nov 2026 02:50:13 GMT",
-      "mined_at": "2026-11-09T11:24:50+00:00",
-      "source_published_at": "Mon, 09 Nov 2026 02:50:13 GMT",
-      "image_url": "/article_images/fun-s7ce5f62dc2af507c.webp",
+      "id": "2026-11-10-fun-1",
+      "source": "BBC Tennis",
+      "time_ago": "Sun, 08 Nov 2026 17:56:35 GMT",
+      "mined_at": "2026-11-10T11:18:08+00:00",
+      "source_published_at": "Sun, 08 Nov 2026 17:56:35 GMT",
+      "image_url": "/article_images/fun-s08d9bb2651f07a9a.webp",
       "category": "Fun",
-      "title": "Cruise Ship Pianist Rescued After Nine Hours in the Pacific",
-      "summary": "Two fishermen rescued a cruise ship pianist who had spent about nine hours treading water in the Pacific, helped by unusually warm seas."
+      "title": "Alcaraz Gets His Revenge to Win First Paris Masters Title",
+      "summary": "Carlos Alcaraz beat Ben Shelton 7-6 (7-5), 7-5 to win his first Paris Masters title, just 60 days after Shelton ended his US Open comeback run."
     },
     {
-      "id": "2026-11-09-fun-2",
-      "source": "Billboard",
-      "time_ago": "Mon, 09 Nov 2026 02:06:20 +0000",
-      "mined_at": "2026-11-09T11:24:50+00:00",
-      "source_published_at": "Mon, 09 Nov 2026 02:06:20 +0000",
-      "image_url": "/article_images/fun-s38db8d1c883c5009.webp",
+      "id": "2026-11-10-fun-2",
+      "source": "Space.com",
+      "time_ago": "Mon, 09 Nov 2026 15:00:00 +0000",
+      "mined_at": "2026-11-10T11:18:08+00:00",
+      "source_published_at": "Mon, 09 Nov 2026 15:00:00 +0000",
+      "image_url": "/article_images/fun-s36200af3f3c47c97.webp",
       "category": "Fun",
-      "title": "Ariana Grande Leads a Starry Christmas Carol on The Tonight Show",
-      "summary": "Ariana Grande, Robert De Niro and Ben Stiller sang 'O Christmas Tree' on The Tonight Show to celebrate the Rockefeller Center tree's arrival and their new movie."
+      "title": "A One-Person Flying Machine Meets a Giant Rocket",
+      "summary": "A single-person electric aircraft called Jetson ONE flew at NASA's Kennedy Space Center, with Blue Origin's New Glenn rocket stage towering behind it."
     },
     {
-      "id": "2026-11-09-fun-3",
-      "source": "Billboard",
-      "time_ago": "Sun, 08 Nov 2026 23:17:10 +0000",
-      "mined_at": "2026-11-09T11:24:50+00:00",
-      "source_published_at": "Sun, 08 Nov 2026 23:17:10 +0000",
-      "image_url": "/article_images/fun-sb5bb9b6b7a818841.webp",
+      "id": "2026-11-10-fun-3",
+      "source": "Polygon",
+      "time_ago": "Tue, 10 Nov 2026 10:37:10 GMT",
+      "mined_at": "2026-11-10T11:18:08+00:00",
+      "source_published_at": "Tue, 10 Nov 2026 10:37:10 GMT",
+      "image_url": "/article_images/fun-s5f2b40d40e770ef1.webp",
       "category": "Fun",
-      "title": "Druski Sings His Way Through His First Night Hosting 'SNL'",
-      "summary": "Hosting 'SNL' for the first time, comedian Druski stole the show by singing through a proposal gone wrong and a hip-hop throwback sketch."
+      "title": "A Sci-Fi Novel Wins the Booker Prize for the First Time",
+      "summary": "M. John Harrison's The End of Everything is the first science fiction novel to win the Booker Prize, capping the author's 60-year career."
     }
   ]
 }

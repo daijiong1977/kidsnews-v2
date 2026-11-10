@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-09-science-1",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Sat, 07 Nov 2026 20:09:55 EST",
-      "mined_at": "2026-11-09T11:24:50+00:00",
-      "source_published_at": "Sat, 07 Nov 2026 20:09:55 EST",
-      "image_url": "/article_images/science-s11764d0bca8ce557.webp",
+      "id": "2026-11-10-science-1",
+      "source": "Smithsonian Science-Nature",
+      "time_ago": "Fri, 06 Nov 2026 12:30:00 +0000",
+      "mined_at": "2026-11-10T11:18:08+00:00",
+      "source_published_at": "Fri, 06 Nov 2026 12:30:00 +0000",
+      "image_url": "/article_images/science-s6fe1b6849b469e55.webp",
       "category": "Science",
-      "title": "Gas Leaks Hint Mars May Still Be Volcanically Alive",
-      "summary": "Strange puffs of gas over cracks on the giant volcano Alba Mons suggest Mars may still have heat underground."
+      "title": "Big Footprints Point to a Giant Mammal in Dinosaur Times",
+      "summary": "Fossil footprints in Brazil point to a cougar-size mammal that lived among dinosaurs, adding to clues that some early mammals grew surprisingly large."
     },
     {
-      "id": "2026-11-09-science-2",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Sun, 08 Nov 2026 17:45:01 EST",
-      "mined_at": "2026-11-09T11:24:50+00:00",
-      "source_published_at": "Sun, 08 Nov 2026 17:45:01 EST",
-      "image_url": "/article_images/science-s5d6eaf7484b8500d.webp",
+      "id": "2026-11-10-science-2",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Mon, 09 Nov 2026 18:19:35 EST",
+      "mined_at": "2026-11-10T11:18:08+00:00",
+      "source_published_at": "Mon, 09 Nov 2026 18:19:35 EST",
+      "image_url": "/article_images/science-se4e4ea7bf7f2226a.webp",
       "category": "Science",
-      "title": "An Ancient Ocean of Giant Predators Changes Ideas About Evolution",
-      "summary": "Fossils from an ancient Colombian ocean show old and new animal groups thriving side by side, suggesting big evolutionary changes can happen without a mass extinction."
+      "title": "Why Bitter Coffee Starts to Taste Better",
+      "summary": "UC San Francisco scientists found a slow dopamine pathway from the gut to the brain that teaches us to like bitter flavors such as coffee over time."
     },
     {
-      "id": "2026-11-09-science-3",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Sat, 07 Nov 2026 18:34:19 EST",
-      "mined_at": "2026-11-09T11:24:50+00:00",
-      "source_published_at": "Sat, 07 Nov 2026 18:34:19 EST",
-      "image_url": "/article_images/science-s2391ba1bc3d4d3d6.webp",
+      "id": "2026-11-10-science-3",
+      "source": "Space.com",
+      "time_ago": "Mon, 09 Nov 2026 13:00:00 +0000",
+      "mined_at": "2026-11-10T11:18:08+00:00",
+      "source_published_at": "Mon, 09 Nov 2026 13:00:00 +0000",
+      "image_url": "/article_images/science-s6e501105dca7105c.webp",
       "category": "Science",
-      "title": "A Hidden Limit of Space and Time Could Lead to Ultrafast Electronics",
-      "summary": "Scientists have measured a new 'space-time limit' for electrons, watching them tunnel through barriers in attoseconds, a step toward far faster electronics."
+      "title": "NASA's Big Plan: Build a Moon Base by 2032",
+      "summary": "NASA will spend up to $10 billion on new moon deals, including a nuclear-powered rover called PROMISE, on the way to a lasting moon base by 2032."
     }
   ]
 }
