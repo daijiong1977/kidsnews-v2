@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-10-news-1",
-      "source": "NPR World",
-      "time_ago": "Mon, 09 Nov 2026 16:47:39 -0500",
-      "mined_at": "2026-11-10T11:18:08+00:00",
-      "source_published_at": "Mon, 09 Nov 2026 16:47:39 -0500",
-      "image_url": "/article_images/news-sdccdaaf1471389c5.webp",
+      "id": "2026-11-11-news-1",
+      "source": "PBS NewsHour",
+      "time_ago": "Tue, 10 Nov 2026 18:28:51 -0500",
+      "mined_at": "2026-11-11T11:20:06+00:00",
+      "source_published_at": "Tue, 10 Nov 2026 18:28:51 -0500",
+      "image_url": "/article_images/news-s590c1d96eb14b61f.webp",
       "category": "News",
-      "title": "Supreme Court Says Border Wall Work Can Go On in West Texas",
-      "summary": "The Supreme Court said border wall work in west Texas can continue while the court case goes on, clearing the way for building in the Big Bend area, including Big Bend National Park."
+      "title": "Could the Popular Vote Choose the Next President?",
+      "summary": "A deal between states could make the national popular vote decide who becomes president."
     },
     {
-      "id": "2026-11-10-news-2",
-      "source": "BBC News",
-      "time_ago": "Tue, 10 Nov 2026 09:07:00 GMT",
-      "mined_at": "2026-11-10T11:18:08+00:00",
-      "source_published_at": "Tue, 10 Nov 2026 09:07:00 GMT",
-      "image_url": "/article_images/news-s484b15970eb31094.webp",
+      "id": "2026-11-11-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Tue, 10 Nov 2026 18:30:13 -0500",
+      "mined_at": "2026-11-11T11:20:06+00:00",
+      "source_published_at": "Tue, 10 Nov 2026 18:30:13 -0500",
+      "image_url": "/article_images/news-s0ae3a2ad3eb50a1e.webp",
       "category": "News",
-      "title": "Ukraine Peace Talks Resume in Abu Dhabi",
-      "summary": "Ukraine, Russia, and the United States have begun new talks in Abu Dhabi about ending the war, with the future of eastern Ukraine and postwar security at the center of the discussion."
+      "title": "Prices Keep Going Up",
+      "summary": "A new report says prices are still rising faster than pay, and families feel the squeeze."
     },
     {
-      "id": "2026-11-10-news-3",
+      "id": "2026-11-11-news-3",
       "source": "NPR World",
-      "time_ago": "Mon, 09 Nov 2026 05:00:00 -0500",
-      "mined_at": "2026-11-10T11:18:08+00:00",
-      "source_published_at": "Mon, 09 Nov 2026 05:00:00 -0500",
-      "image_url": "/article_images/news-sd2dd53773ff53d9b.webp",
+      "time_ago": "Wed, 11 Nov 2026 05:00:00 -0500",
+      "mined_at": "2026-11-11T11:20:06+00:00",
+      "source_published_at": "Wed, 11 Nov 2026 05:00:00 -0500",
+      "image_url": "/article_images/news-s7e8ddb01b75bb59a.webp",
       "category": "News",
-      "title": "A Plan to Swap Land Stirs Debate on Cumberland Island",
-      "summary": "The National Park Service wants to swap parkland on Georgia's Cumberland Island for private land, a plan that would allow up to eight new homes and has split islanders, conservationists, and the Carnegie family."
+      "title": "Music Brings Joy to Veterans in Hospital",
+      "summary": "Volunteer musicians play live songs for veterans in hospital, one room at a time."
     }
   ]
 }

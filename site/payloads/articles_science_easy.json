@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-10-science-1",
-      "source": "Smithsonian Science-Nature",
-      "time_ago": "Fri, 06 Nov 2026 12:30:00 +0000",
-      "mined_at": "2026-11-10T11:18:08+00:00",
-      "source_published_at": "Fri, 06 Nov 2026 12:30:00 +0000",
-      "image_url": "/article_images/science-s6fe1b6849b469e55.webp",
+      "id": "2026-11-11-science-1",
+      "source": "Science News Explores",
+      "time_ago": "Tue, 10 Nov 2026 11:30:00 +0000",
+      "mined_at": "2026-11-11T11:20:06+00:00",
+      "source_published_at": "Tue, 10 Nov 2026 11:30:00 +0000",
+      "image_url": "/article_images/science-s0d16a22b0b8ba829.webp",
       "category": "Science",
-      "title": "Big Footprints Point to a Giant Mammal in Dinosaur Times",
-      "summary": "Fossil footprints in Brazil point to a cougar-size mammal that lived among dinosaurs, adding to clues that some early mammals grew surprisingly large."
+      "title": "T. Rex Footprints Show How Fast It Walked",
+      "summary": "Four fossil footprints show an adult T. rex walked about as fast as a brisk human walk."
     },
     {
-      "id": "2026-11-10-science-2",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Mon, 09 Nov 2026 18:19:35 EST",
-      "mined_at": "2026-11-10T11:18:08+00:00",
-      "source_published_at": "Mon, 09 Nov 2026 18:19:35 EST",
-      "image_url": "/article_images/science-se4e4ea7bf7f2226a.webp",
+      "id": "2026-11-11-science-2",
+      "source": "ScienceDaily All",
+      "time_ago": "Tue, 10 Nov 2026 00:00:41 EST",
+      "mined_at": "2026-11-11T11:20:06+00:00",
+      "source_published_at": "Tue, 10 Nov 2026 00:00:41 EST",
+      "image_url": "/article_images/science-se98d92f19e8bd81e.webp",
       "category": "Science",
-      "title": "Why Bitter Coffee Starts to Taste Better",
-      "summary": "UC San Francisco scientists found a slow dopamine pathway from the gut to the brain that teaches us to like bitter flavors such as coffee over time."
+      "title": "Four People Just Finished a Year of Pretend Mars Life",
+      "summary": "Four volunteers spent over a year living like Mars explorers — without ever leaving Earth."
     },
     {
-      "id": "2026-11-10-science-3",
-      "source": "Space.com",
-      "time_ago": "Mon, 09 Nov 2026 13:00:00 +0000",
-      "mined_at": "2026-11-10T11:18:08+00:00",
-      "source_published_at": "Mon, 09 Nov 2026 13:00:00 +0000",
-      "image_url": "/article_images/science-s6e501105dca7105c.webp",
+      "id": "2026-11-11-science-3",
+      "source": "Popular Mechanics",
+      "time_ago": "Tue, 10 Nov 2026 14:30:00 +0000",
+      "mined_at": "2026-11-11T11:20:06+00:00",
+      "source_published_at": "Tue, 10 Nov 2026 14:30:00 +0000",
+      "image_url": "/article_images/science-sca56875d78b01110.webp",
       "category": "Science",
-      "title": "NASA's Big Plan: Build a Moon Base by 2032",
-      "summary": "NASA will spend up to $10 billion on new moon deals, including a nuclear-powered rover called PROMISE, on the way to a lasting moon base by 2032."
+      "title": "Red Rain: A Sky Mystery With a Surprising Answer",
+      "summary": "Red rain has puzzled people for ages — the answer is usually algae spores or desert dust."
     }
   ]
 }

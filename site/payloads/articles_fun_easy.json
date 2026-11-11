@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-10-fun-1",
-      "source": "BBC Tennis",
-      "time_ago": "Sun, 08 Nov 2026 17:56:35 GMT",
-      "mined_at": "2026-11-10T11:18:08+00:00",
-      "source_published_at": "Sun, 08 Nov 2026 17:56:35 GMT",
-      "image_url": "/article_images/fun-s08d9bb2651f07a9a.webp",
+      "id": "2026-11-11-fun-1",
+      "source": "Variety",
+      "time_ago": "Wed, 11 Nov 2026 06:26:15 +0000",
+      "mined_at": "2026-11-11T11:20:06+00:00",
+      "source_published_at": "Wed, 11 Nov 2026 06:26:15 +0000",
+      "image_url": "/article_images/fun-s535ce471841a65c3.webp",
       "category": "Fun",
-      "title": "Alcaraz Beats Shelton to Win His First Paris Masters Title",
-      "summary": "Carlos Alcaraz beat Ben Shelton 7-6 (7-5), 7-5 to win his first Paris Masters title, 60 days after Shelton beat him at the US Open."
+      "title": "Coachella 2027: Big Stars to Headline",
+      "summary": "Dua Lipa, Tame Impala, and SZA will headline Coachella 2027 in California."
     },
     {
-      "id": "2026-11-10-fun-2",
-      "source": "Space.com",
-      "time_ago": "Mon, 09 Nov 2026 15:00:00 +0000",
-      "mined_at": "2026-11-10T11:18:08+00:00",
-      "source_published_at": "Mon, 09 Nov 2026 15:00:00 +0000",
-      "image_url": "/article_images/fun-s36200af3f3c47c97.webp",
+      "id": "2026-11-11-fun-2",
+      "source": "/Film",
+      "time_ago": "Wed, 11 Nov 2026 03:15:00 +0000",
+      "mined_at": "2026-11-11T11:20:06+00:00",
+      "source_published_at": "Wed, 11 Nov 2026 03:15:00 +0000",
+      "image_url": "/article_images/fun-s6483f8f95ac079ac.webp",
       "category": "Fun",
-      "title": "A Tiny Flying Machine Meets a Giant Rocket",
-      "summary": "A one-person electric aircraft called Jetson ONE flew at NASA's Kennedy Space Center, with Blue Origin's giant New Glenn rocket standing behind it."
+      "title": "VisionQuest Finale Ends Ultron's Story",
+      "summary": "The 'VisionQuest' finale ends Ultron's story — with a final fight, and a lesson about love."
     },
     {
-      "id": "2026-11-10-fun-3",
-      "source": "Polygon",
-      "time_ago": "Tue, 10 Nov 2026 10:37:10 GMT",
-      "mined_at": "2026-11-10T11:18:08+00:00",
-      "source_published_at": "Tue, 10 Nov 2026 10:37:10 GMT",
-      "image_url": "/article_images/fun-s5f2b40d40e770ef1.webp",
+      "id": "2026-11-11-fun-3",
+      "source": "BBC Swimming",
+      "time_ago": "Wed, 11 Nov 2026 09:45:14 GMT",
+      "mined_at": "2026-11-11T11:20:06+00:00",
+      "source_published_at": "Wed, 11 Nov 2026 09:45:14 GMT",
+      "image_url": "/article_images/fun-s528de76c7477661a.webp",
       "category": "Fun",
-      "title": "A Science Fiction Book Wins the Booker Prize for the First Time",
-      "summary": "M. John Harrison's The End of Everything is the first science fiction novel to win the Booker Prize, crowning the author's 60-year career."
+      "title": "Swim Star Tatjana Smith Changes Teams",
+      "summary": "Olympic swim star Tatjana Smith will now compete for the Netherlands."
     }
   ]
 }
