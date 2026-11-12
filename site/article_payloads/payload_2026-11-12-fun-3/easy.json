@@ -1,0 +1,109 @@
+{
+  "title": "Hubble Finds a City of Very Old Stars",
+  "summary": "Look closely at this sparkling crowd of stars. Some of them are almost as old as the universe itself, and they may hold clues about how our Milky Way formed.\n\nThe Hubble Space Telescope has taken a stunning picture of thousands of stars shining in blue, gold, and orange. The picture, shared by the European Space Agency on November 5, shows Messier 30, or M30. It is a tightly packed group of stars about 27,500 light-years from Earth in Capricornus.\n\nM30 is a globular cluster: a ball-shaped group of tens of thousands to millions of stars, all held together by gravity. Some are thought to be between 11.5 billion and 13.5 billion years old. The universe itself is about 13.8 billion years old.\n\nGlobular clusters are like time capsules from space. Their old stars hold chemical clues from when they formed, helping scientists learn about the Milky Way's early days.\n\nIt moves through the Milky Way against the galaxy's spin, so it may have been pulled in from somewhere else billions of years ago.",
+  "why_it_matters": "Looking at very old stars is like opening a time capsule, helping us learn how the galaxy we live in came to be.",
+  "image_url": "/article_images/fun-sb11ae38a2ba6ea48.webp",
+  "keywords": [
+    {
+      "term": "globular cluster",
+      "explanation": "A ball-shaped group of tens of thousands to millions of stars held together by gravity."
+    },
+    {
+      "term": "light-years",
+      "explanation": "How far light travels in one year, used to measure huge distances in space."
+    },
+    {
+      "term": "Messier 30",
+      "explanation": "The name given to this tightly packed group of very old stars."
+    },
+    {
+      "term": "chemical clues",
+      "explanation": "Tiny hints in the starlight that tell scientists what the stars are made of."
+    },
+    {
+      "term": "time capsules",
+      "explanation": "Things that hold old objects or clues from long ago."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is M30?",
+      "options": [
+        "A black hole",
+        "A planet",
+        "A globular cluster",
+        "A comet"
+      ],
+      "correct_answer": "A globular cluster"
+    },
+    {
+      "question": "How far is M30 from Earth?",
+      "options": [
+        "About 11.5 light-years",
+        "About 27,500 light-years",
+        "About 30 light-years",
+        "About 13.8 billion light-years"
+      ],
+      "correct_answer": "About 27,500 light-years"
+    },
+    {
+      "question": "How old are some of the stars in M30 thought to be?",
+      "options": [
+        "Between 27,500 and 30,000 years old",
+        "Between 11.5 billion and 13.5 billion years old",
+        "About 100 years old",
+        "About 5 million years old"
+      ],
+      "correct_answer": "Between 11.5 billion and 13.5 billion years old"
+    },
+    {
+      "question": "How old is the universe itself?",
+      "options": [
+        "About 30 billion years old",
+        "About 27,500 years old",
+        "About 11.5 billion years old",
+        "About 13.8 billion years old"
+      ],
+      "correct_answer": "About 13.8 billion years old"
+    },
+    {
+      "question": "What do globular clusters hold that helps scientists?",
+      "options": [
+        "Messages from other galaxies",
+        "Rocks from the Moon",
+        "Chemical clues from when the stars formed",
+        "Pictures of new planets"
+      ],
+      "correct_answer": "Chemical clues from when the stars formed"
+    },
+    {
+      "question": "Why do scientists think M30 may have come from somewhere else?",
+      "options": [
+        "It has only a few stars",
+        "It is very close to Earth",
+        "It moves against the Milky Way's spin",
+        "It shines in blue, gold and orange"
+      ],
+      "correct_answer": "It moves against the Milky Way's spin"
+    }
+  ],
+  "background_read": [
+    "The Hubble Space Telescope is a telescope in space that takes pictures of faraway stars and galaxies.",
+    "A globular cluster is a ball-shaped group of very old stars held together by gravity, and its old stars hold clues about how a galaxy formed.",
+    "M30 moves through the Milky Way against the galaxy's spin, so scientists think it may have been pulled in from somewhere else long ago."
+  ],
+  "Article_Structure": [
+    "WHO: The Hubble Space Telescope and the scientists studying the picture it took.",
+    "WHAT: Hubble took a picture of Messier 30, a tightly packed group of very old stars.",
+    "WHERE: In Capricornus, about 27,500 light-years from Earth.",
+    "WHY: The old stars hold clues about how our Milky Way formed, and the cluster may have been pulled in from somewhere else."
+  ],
+  "perspectives": [],
+  "mined_at": "2026-11-12T11:21:17+00:00",
+  "source_published_at": "Wed, 11 Nov 2026 15:00:00 +0000",
+  "source_name": "Space.com",
+  "source_url": "https://www.space.com/astronomy/hubble-space-telescope/hubble-space-telescope-reveals-glittering-stars-with-mysterious-origins-space-photo-of-the-day-for-nov-11-2026",
+  "category": "Fun",
+  "source_word_count": 432,
+  "detail_status": "full"
+}

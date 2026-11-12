@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-11-fun-1",
-      "source": "Variety",
-      "time_ago": "Wed, 11 Nov 2026 06:26:15 +0000",
-      "mined_at": "2026-11-11T11:20:06+00:00",
-      "source_published_at": "Wed, 11 Nov 2026 06:26:15 +0000",
-      "image_url": "/article_images/fun-s535ce471841a65c3.webp",
+      "id": "2026-11-12-fun-1",
+      "source": "BBC Tennis",
+      "time_ago": "Thu, 12 Nov 2026 00:48:23 GMT",
+      "mined_at": "2026-11-12T11:21:17+00:00",
+      "source_published_at": "Thu, 12 Nov 2026 00:48:23 GMT",
+      "image_url": "/article_images/fun-sc3521d990fbf111d.webp",
       "category": "Fun",
-      "title": "Coachella 2027: Dua Lipa, SZA and Tame Impala to Headline",
-      "summary": "Dua Lipa, Tame Impala, and SZA will headline Coachella 2027, with Madonna, Daddy Yankee, and dozens more on the bill."
+      "title": "Andreeva Wins 11 Games in a Row to Stun Sabalenka",
+      "summary": "Mirra Andreeva came back from 4-1 down to beat world No. 2 Aryna Sabalenka 6-4, 6-0 at the WTA Finals and reach the last four."
     },
     {
-      "id": "2026-11-11-fun-2",
-      "source": "/Film",
-      "time_ago": "Wed, 11 Nov 2026 03:15:00 +0000",
-      "mined_at": "2026-11-11T11:20:06+00:00",
-      "source_published_at": "Wed, 11 Nov 2026 03:15:00 +0000",
-      "image_url": "/article_images/fun-s6483f8f95ac079ac.webp",
+      "id": "2026-11-12-fun-2",
+      "source": "Popular Science",
+      "time_ago": "Wed, 11 Nov 2026 16:36:00 -0500",
+      "mined_at": "2026-11-12T11:21:17+00:00",
+      "source_published_at": "Wed, 11 Nov 2026 16:36:00 -0500",
+      "image_url": "/article_images/fun-sbe27427f4090be14.webp",
       "category": "Fun",
-      "title": "VisionQuest Finale Finally Wraps Up Ultron's Story",
-      "summary": "The 'VisionQuest' finale settles a story that began in 2015's 'Avengers: Age of Ultron' — with a final showdown, and a surprising lesson about love."
+      "title": "Volunteers Wanted: Play Hide-and-Seek With the TSA's Sniffer Dogs",
+      "summary": "The TSA is looking for volunteers to act as decoys for its explosive detection dogs in a real-life game of hide-and-seek at the airport."
     },
     {
-      "id": "2026-11-11-fun-3",
-      "source": "BBC Swimming",
-      "time_ago": "Wed, 11 Nov 2026 09:45:14 GMT",
-      "mined_at": "2026-11-11T11:20:06+00:00",
-      "source_published_at": "Wed, 11 Nov 2026 09:45:14 GMT",
-      "image_url": "/article_images/fun-s528de76c7477661a.webp",
+      "id": "2026-11-12-fun-3",
+      "source": "Space.com",
+      "time_ago": "Wed, 11 Nov 2026 15:00:00 +0000",
+      "mined_at": "2026-11-12T11:21:17+00:00",
+      "source_published_at": "Wed, 11 Nov 2026 15:00:00 +0000",
+      "image_url": "/article_images/fun-sb11ae38a2ba6ea48.webp",
       "category": "Fun",
-      "title": "Olympic Swim Star Tatjana Smith Switches to the Netherlands",
-      "summary": "Tatjana Smith, South Africa's most decorated Olympian, will swim for the Netherlands after coming out of retirement."
+      "title": "Hubble Spots a Glittering City of Ancient Stars",
+      "summary": "Hubble has photographed Messier 30, a glittering cluster of ancient stars that may hold clues to how the Milky Way formed."
     }
   ]
 }

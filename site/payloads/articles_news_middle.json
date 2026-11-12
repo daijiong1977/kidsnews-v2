@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-11-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Tue, 10 Nov 2026 18:28:51 -0500",
-      "mined_at": "2026-11-11T11:20:06+00:00",
-      "source_published_at": "Tue, 10 Nov 2026 18:28:51 -0500",
-      "image_url": "/article_images/news-s590c1d96eb14b61f.webp",
+      "id": "2026-11-12-news-1",
+      "source": "CBC World",
+      "time_ago": "Thu, 12 Nov 2026 04:54:54 EST",
+      "mined_at": "2026-11-12T11:21:17+00:00",
+      "source_published_at": "Thu, 12 Nov 2026 04:54:54 EST",
+      "image_url": "/article_images/news-s58ccdf53076a2439.webp",
       "category": "News",
-      "title": "Could the Popular Vote Pick the Next President?",
-      "summary": "After the midterms, enough states may join a deal to make the national popular vote decide who becomes president."
+      "title": "Missing Teen Found Alive After Six Days in Australian Woods",
+      "summary": "William, 17, was found asleep by a creek after six days lost in the woods near Walhalla."
     },
     {
-      "id": "2026-11-11-news-2",
+      "id": "2026-11-12-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Tue, 10 Nov 2026 18:30:13 -0500",
-      "mined_at": "2026-11-11T11:20:06+00:00",
-      "source_published_at": "Tue, 10 Nov 2026 18:30:13 -0500",
-      "image_url": "/article_images/news-s0ae3a2ad3eb50a1e.webp",
+      "time_ago": "Wed, 11 Nov 2026 18:35:05 -0500",
+      "mined_at": "2026-11-12T11:21:17+00:00",
+      "source_published_at": "Wed, 11 Nov 2026 18:35:05 -0500",
+      "image_url": "/article_images/news-sfd045d81a62d0e79.webp",
       "category": "News",
-      "title": "Prices Keep Climbing: What the New Inflation Report Means",
-      "summary": "A new report shows prices still rising faster than wages, driven by food, energy, housing — and now AI data centers."
+      "title": "How AI Helps Companies Change the Prices You Pay",
+      "summary": "Companies are using AI and personal data to adjust prices — and shoppers are asking where the line is."
     },
     {
-      "id": "2026-11-11-news-3",
-      "source": "NPR World",
-      "time_ago": "Wed, 11 Nov 2026 05:00:00 -0500",
-      "mined_at": "2026-11-11T11:20:06+00:00",
-      "source_published_at": "Wed, 11 Nov 2026 05:00:00 -0500",
-      "image_url": "/article_images/news-s7e8ddb01b75bb59a.webp",
+      "id": "2026-11-12-news-3",
+      "source": "CBC World",
+      "time_ago": "Wed, 11 Nov 2026 18:14:39 EST",
+      "mined_at": "2026-11-12T11:21:17+00:00",
+      "source_published_at": "Wed, 11 Nov 2026 18:14:39 EST",
+      "image_url": "/article_images/news-s92c31dedc38d83d6.webp",
       "category": "News",
-      "title": "Songs of Thanks: Musicians Play for Hospitalized Veterans",
-      "summary": "Volunteer musicians bring live songs to veterans in hospital, one room at a time."
+      "title": "Scott Colom Wins Mississippi Senate Seat in Historic First",
+      "summary": "Scott Colom defeated Senator Cindy Hyde-Smith to become Mississippi's first Black U.S. senator since Reconstruction."
     }
   ]
 }

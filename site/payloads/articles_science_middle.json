@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-11-science-1",
-      "source": "Science News Explores",
-      "time_ago": "Tue, 10 Nov 2026 11:30:00 +0000",
-      "mined_at": "2026-11-11T11:20:06+00:00",
-      "source_published_at": "Tue, 10 Nov 2026 11:30:00 +0000",
-      "image_url": "/article_images/science-s0d16a22b0b8ba829.webp",
+      "id": "2026-11-12-science-1",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Tue, 10 Nov 2026 20:36:04 EST",
+      "mined_at": "2026-11-12T11:21:17+00:00",
+      "source_published_at": "Tue, 10 Nov 2026 20:36:04 EST",
+      "image_url": "/article_images/science-s2c4af55b160a8e39.webp",
       "category": "Science",
-      "title": "T. Rex Footprints Show How Fast the Giant Walked",
-      "summary": "The first known adult T. rex trackway shows the giant ambling along at a brisk human walking pace."
+      "title": "A Giant Rodent Roamed Thailand 34 Million Years Ago",
+      "summary": "Fossil teeth found in a Thai mine reveal Yakamys sirindhornae, a rodent that may have weighed about 30 kilograms — twice as heavy as other rodents of its time."
     },
     {
-      "id": "2026-11-11-science-2",
-      "source": "ScienceDaily All",
-      "time_ago": "Tue, 10 Nov 2026 00:00:41 EST",
-      "mined_at": "2026-11-11T11:20:06+00:00",
-      "source_published_at": "Tue, 10 Nov 2026 00:00:41 EST",
-      "image_url": "/article_images/science-se98d92f19e8bd81e.webp",
+      "id": "2026-11-12-science-2",
+      "source": "Popular Science",
+      "time_ago": "Wed, 11 Nov 2026 14:00:00 -0500",
+      "mined_at": "2026-11-12T11:21:17+00:00",
+      "source_published_at": "Wed, 11 Nov 2026 14:00:00 -0500",
+      "image_url": "/article_images/science-sa54392020300c606.webp",
       "category": "Science",
-      "title": "Four Volunteers Just Finished a Year of Pretend Life on Mars",
-      "summary": "Four NASA volunteers lived a year of pretend Mars life — growing food, saving supplies, and handling delayed messages from Earth."
+      "title": "Children Helped Make the Middle East's Oldest Clay Figures",
+      "summary": "More than 150 clay figures made 11,500 to 15,000 years ago — some bearing children's fingerprints — are likely the Middle East's earliest of their kind."
     },
     {
-      "id": "2026-11-11-science-3",
-      "source": "Popular Mechanics",
-      "time_ago": "Tue, 10 Nov 2026 14:30:00 +0000",
-      "mined_at": "2026-11-11T11:20:06+00:00",
-      "source_published_at": "Tue, 10 Nov 2026 14:30:00 +0000",
-      "image_url": "/article_images/science-sca56875d78b01110.webp",
+      "id": "2026-11-12-science-3",
+      "source": "Popular Science",
+      "time_ago": "Wed, 11 Nov 2026 16:01:00 -0500",
+      "mined_at": "2026-11-12T11:21:17+00:00",
+      "source_published_at": "Wed, 11 Nov 2026 16:01:00 -0500",
+      "image_url": "/article_images/science-s12a93d63dca04874.webp",
       "category": "Science",
-      "title": "Blood Rain: The Sky Mystery With a Surprising Answer",
-      "summary": "Red rain has puzzled people for thousands of years. The answer is usually tiny algae spores or desert dust, not the sky itself."
+      "title": "A Giant Planet Vanished — and It Isn't Coming Back for Decades",
+      "summary": "A 'hot Jupiter' 1,000 light-years away wobbled out of view as a neighboring planet tilted its orbit; astronomers say its next crossing is 30 to 50 years away."
     }
   ]
 }

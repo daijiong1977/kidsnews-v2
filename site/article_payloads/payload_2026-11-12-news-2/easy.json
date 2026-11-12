@@ -1,0 +1,122 @@
+{
+  "title": "Could AI Change the Price You Pay at the Store?",
+  "summary": "Imagine you and a friend buy the exact same groceries from the same store, but your bill comes out higher. That is the worry behind a new look at how companies use artificial intelligence to set prices.\n\nIn one test, 400 shoppers bought the same 20 items from the same stores on Instacart. The prices were not the same. For some items, the difference was as much as 23 percent.\n\nLindsay Owens leads a consumer group called Groundwork Collaborative. She worked with researchers to study the test. Soon after the test became public, Instacart stopped it. The company said the tests raised concerns.\n\nOwens says many companies are comfortable changing prices. Computer programs called algorithms can shift prices based on personal data.\n\nOwens and Elizabeth Pancotti also studied 315 patents. They found Walmart patent ideas for technology that could link to a smartwatch. But Walmart executive Dan Bartlett said the company will not use a customer's personal information to set a price just for that person. The question now is how companies choose to use it.",
+  "why_it_matters": "The price you pay for snacks or groceries could change depending on who you are, so it matters to know how prices are set.",
+  "image_url": "/article_images/news-sfd045d81a62d0e79.webp",
+  "keywords": [
+    {
+      "term": "artificial intelligence",
+      "explanation": "Artificial intelligence is computer smarts that let machines learn and make choices like people do."
+    },
+    {
+      "term": "algorithms",
+      "explanation": "Algorithms are sets of rules a computer follows to make a choice or solve a problem."
+    },
+    {
+      "term": "patents",
+      "explanation": "Patents are papers that give an inventor the right to be the one who uses a new idea."
+    },
+    {
+      "term": "smartwatch",
+      "explanation": "A smartwatch is a watch you wear on your wrist that can run apps and track things about you."
+    },
+    {
+      "term": "consumer",
+      "explanation": "A consumer is a person who buys and uses things like food and clothes."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What did the test of shoppers buying the same groceries show?",
+      "options": [
+        "Only one shopper could buy the items",
+        "The prices were not the same for everyone",
+        "The groceries were all free",
+        "Everyone paid exactly the same price"
+      ],
+      "correct_answer": "The prices were not the same for everyone"
+    },
+    {
+      "question": "How many shoppers took part in the test?",
+      "options": [
+        "100 shoppers",
+        "400 shoppers",
+        "20 shoppers",
+        "315 shoppers"
+      ],
+      "correct_answer": "400 shoppers"
+    },
+    {
+      "question": "How big was the price difference for some items?",
+      "options": [
+        "As much as 50 percent",
+        "As much as 5 percent",
+        "As much as 2 percent",
+        "As much as 23 percent"
+      ],
+      "correct_answer": "As much as 23 percent"
+    },
+    {
+      "question": "Who leads the consumer group Groundwork Collaborative?",
+      "options": [
+        "Elizabeth Pancotti",
+        "An Instacart worker",
+        "Lindsay Owens",
+        "Dan Bartlett"
+      ],
+      "correct_answer": "Lindsay Owens"
+    },
+    {
+      "question": "What did Instacart do soon after the test became public?",
+      "options": [
+        "It hired more shoppers",
+        "It stopped the test",
+        "It shared the test with more stores",
+        "It lowered all its prices"
+      ],
+      "correct_answer": "It stopped the test"
+    },
+    {
+      "question": "What did Dan Bartlett say Walmart will not do?",
+      "options": [
+        "Use computer programs at all",
+        "Let shoppers use a smartwatch",
+        "Sell groceries online",
+        "Use a customer's personal information to set a price just for that person"
+      ],
+      "correct_answer": "Use a customer's personal information to set a price just for that person"
+    }
+  ],
+  "background_read": [
+    "Some stores use computer programs to help decide what things cost.",
+    "These programs can look at personal data and change prices for different shoppers.",
+    "That is why people are asking whether the same item should cost the same for everyone."
+  ],
+  "Article_Structure": [
+    "WHO: Lindsay Owens, researchers, Elizabeth Pancotti, Instacart, Walmart executive Dan Bartlett, and shoppers.",
+    "WHAT: A study found that the same groceries bought from the same stores could cost different amounts for different shoppers.",
+    "WHERE: On Instacart, at the same stores where shoppers bought the same 20 items.",
+    "WHY: Companies use artificial intelligence and algorithms that can shift prices based on personal data."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Lindsay Owens",
+      "description": "Owens says many companies are comfortable changing prices."
+    },
+    {
+      "perspective": "Instacart",
+      "description": "Instacart said the tests raised concerns."
+    },
+    {
+      "perspective": "Dan Bartlett of Walmart",
+      "description": "Bartlett said Walmart will not use a customer's personal information to set a price just for that person."
+    }
+  ],
+  "mined_at": "2026-11-12T11:21:17+00:00",
+  "source_published_at": "Wed, 11 Nov 2026 18:35:05 -0500",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/show/how-companies-are-using-ai-to-make-you-spend-more-money",
+  "category": "News",
+  "source_word_count": 524,
+  "detail_status": "full"
+}

@@ -1,0 +1,118 @@
+{
+  "title": "Hubble Spots a Glittering City of Ancient Stars",
+  "summary": "Look closely at this glittering crowd of stars. Some of them are almost as old as the universe itself — and they may hold clues to how our Milky Way formed.\n\nThe Hubble Space Telescope has captured a breathtaking view of thousands of stars shining like cosmic jewels in blue, gold and orange. The image, released by the European Space Agency on November 5, shows Messier 30, known as M30, a densely packed collection of stars about 27,500 light-years from Earth in the constellation Capricornus.\n\nM30 is a globular cluster: a roughly spherical collection of tens of thousands to millions of stars, all held together by gravity. Our Milky Way is home to at least 150 of these ancient stellar gatherings. Some are estimated to be between 11.5 billion and 13.5 billion years old. For comparison, the universe itself is about 13.8 billion years old.\n\nGlobular clusters are like cosmic time capsules. Their ancient stars preserve chemical clues about the conditions that existed when they formed, helping astronomers piece together the Milky Way's early history. That is what makes a pretty picture into a scientific treasure.\n\nM30 also has a strange story of its own. Astronomers have discovered that it travels through the Milky Way in the opposite direction to the galaxy's rotation. Several other globular clusters do the same. That unusual motion raises an intriguing possibility: M30 may not have formed in our galaxy at all. Instead, it could have been captured by the Milky Way billions of years ago, a visitor from somewhere else that never left.\n\nSo the next time you look up at the night sky, remember: some of those tiny points of light have been shining since almost the beginning of time.",
+  "why_it_matters": "Studying ancient star clusters helps scientists learn how our own galaxy formed, and it reminds us that the night sky holds clues to the very beginning of the universe.",
+  "image_url": "/article_images/fun-sb11ae38a2ba6ea48.webp",
+  "keywords": [
+    {
+      "term": "globular cluster",
+      "explanation": "A ball-shaped group of very many stars held together by gravity."
+    },
+    {
+      "term": "light-years",
+      "explanation": "A way to measure huge distances in space, based on how far light travels in one year."
+    },
+    {
+      "term": "constellation",
+      "explanation": "A group of stars that forms a pattern in the night sky."
+    },
+    {
+      "term": "rotation",
+      "explanation": "The turning of something around its centre, like a wheel spinning."
+    },
+    {
+      "term": "time capsules",
+      "explanation": "Things that hold clues about the past, like a box kept sealed for years."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How far is Messier 30 from Earth?",
+      "options": [
+        "About 150 light-years",
+        "About 27,500 light-years",
+        "About 5,000 light-years",
+        "About 13.8 billion light-years"
+      ],
+      "correct_answer": "About 27,500 light-years"
+    },
+    {
+      "question": "What is a globular cluster?",
+      "options": [
+        "A group of planets around one star",
+        "A single very bright star",
+        "A cloud of dust with no stars",
+        "A roughly spherical collection of stars held together by gravity"
+      ],
+      "correct_answer": "A roughly spherical collection of stars held together by gravity"
+    },
+    {
+      "question": "How old are some globular clusters estimated to be?",
+      "options": [
+        "Between 11.5 billion and 13.5 billion years old",
+        "Between 1 billion and 2 billion years old",
+        "About 27,500 years old",
+        "About 100 million years old"
+      ],
+      "correct_answer": "Between 11.5 billion and 13.5 billion years old"
+    },
+    {
+      "question": "How old is the universe?",
+      "options": [
+        "About 27,500 years old",
+        "About 13.8 billion years old",
+        "About 150 billion years old",
+        "About 11.5 billion years old"
+      ],
+      "correct_answer": "About 13.8 billion years old"
+    },
+    {
+      "question": "What is unusual about the way M30 moves?",
+      "options": [
+        "It travels in the opposite direction to the Milky Way's rotation",
+        "It does not move at all",
+        "It travels faster than light",
+        "It moves toward Earth every year"
+      ],
+      "correct_answer": "It travels in the opposite direction to the Milky Way's rotation"
+    },
+    {
+      "question": "When was the image released?",
+      "options": [
+        "November 5",
+        "November 12",
+        "December 25",
+        "January 1"
+      ],
+      "correct_answer": "November 5"
+    }
+  ],
+  "background_read": [
+    "The Hubble Space Telescope is a large telescope in space that takes pictures of stars, galaxies, and other faraway objects.",
+    "A globular cluster is a tightly packed, ball-shaped group of very many stars that are all held together by gravity.",
+    "Because the stars in these clusters are so old, studying them can tell scientists about the early days of a galaxy like the Milky Way.",
+    "Some clusters move in unusual ways, which can hint that they did not start out in the galaxy they now travel through."
+  ],
+  "Article_Structure": [
+    "LEAD: The Hubble Space Telescope has photographed Messier 30, a glittering cluster of ancient stars.",
+    "KEY EVENT: The image shows M30, a densely packed group of stars about 27,500 light-years away in the constellation Capricornus.",
+    "  ├─ WHO: Astronomers studying the image, released by the European Space Agency.",
+    "  ├─ WHAT: A globular cluster, a roughly spherical collection of stars held together by gravity.",
+    "  └─ WHEN: The image was released on November 5.",
+    "EVIDENCE: Some clusters are estimated to be between 11.5 billion and 13.5 billion years old, while the universe is about 13.8 billion years old.",
+    "OPEN QUESTION: Did M30 form in the Milky Way, or was it captured from somewhere else billions of years ago?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Astronomers",
+      "description": "They suggest M30 may have been captured by the Milky Way billions of years ago."
+    }
+  ],
+  "mined_at": "2026-11-12T11:21:17+00:00",
+  "source_published_at": "Wed, 11 Nov 2026 15:00:00 +0000",
+  "source_name": "Space.com",
+  "source_url": "https://www.space.com/astronomy/hubble-space-telescope/hubble-space-telescope-reveals-glittering-stars-with-mysterious-origins-space-photo-of-the-day-for-nov-11-2026",
+  "category": "Fun",
+  "source_word_count": 432,
+  "detail_status": "full"
+}
