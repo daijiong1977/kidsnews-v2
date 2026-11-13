@@ -1,0 +1,113 @@
+{
+  "title": "Rivers in the Sky Are Soaking the Pacific Northwest",
+  "summary": "The Pacific Northwest is getting soaked this week. Heavy rain and the year's highest tides, called king tides, are hitting the West Coast. Two more atmospheric rivers will soak Oregon and Washington on Friday and Saturday, after two others dropped inches of rain.\n\nWhat is an atmospheric river? Think of it as a river in the sky: a narrow band of water vapor that wind pushes along. It drops rain or snow widely, and can stretch 2,000 miles long and 600 miles wide, said F. Martin Ralph, a researcher at Scripps.\n\nThese rivers are natural, and about 50 to 60 percent of California's rain comes from them, said Josh Weiss, a meteorologist with the National Oceanic and Atmospheric Administration. The season runs from October to March, and this year started fast.\n\nTrouble comes when several arrive in a row, bringing flash floods and landslides, Weiss said. Washington's coast could see 20-foot waves this weekend, said Jeff Michalski of the National Weather Service in Seattle. FEMA data show these rivers cause 90 percent or more of flood damage in the Western U.S.",
+  "why_it_matters": "It matters because heavy rain, floods, and huge waves can make roads unsafe, close schools, and keep kids from playing safely outside.",
+  "image_url": "/article_images/news-s9098178d28850771.webp",
+  "keywords": [
+    {
+      "term": "atmospheric rivers",
+      "explanation": "A long, narrow band of water vapor in the sky that wind pushes along and drops as rain or snow."
+    },
+    {
+      "term": "king tides",
+      "explanation": "The highest tides of the year, when ocean water rises farther onto the shore than usual."
+    },
+    {
+      "term": "water vapor",
+      "explanation": "Water in the air in the form of a gas you cannot see."
+    },
+    {
+      "term": "meteorologist",
+      "explanation": "A scientist who studies the weather and tries to predict what it will do."
+    },
+    {
+      "term": "landslides",
+      "explanation": "When a large amount of rock and mud suddenly slides down a hill or mountainside."
+    },
+    {
+      "term": "flash floods",
+      "explanation": "Sudden floods that happen very quickly after heavy rain."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is an atmospheric river?",
+      "options": [
+        "A storm that only forms over the desert",
+        "A narrow band of water vapor that wind pushes along",
+        "A lake that rises into the sky during summer",
+        "A river that flows underground beneath the ocean"
+      ],
+      "correct_answer": "A narrow band of water vapor that wind pushes along"
+    },
+    {
+      "question": "How big can an atmospheric river be?",
+      "options": [
+        "2,000 miles long and 600 miles wide",
+        "About 200 miles long and 50 miles wide",
+        "About 500 miles long and 100 miles wide",
+        "20 miles long and 6 miles wide"
+      ],
+      "correct_answer": "2,000 miles long and 600 miles wide"
+    },
+    {
+      "question": "About how much of California's rain comes from atmospheric rivers?",
+      "options": [
+        "Almost none of it",
+        "About 5 to 10 percent",
+        "About 90 percent",
+        "About 50 to 60 percent"
+      ],
+      "correct_answer": "About 50 to 60 percent"
+    },
+    {
+      "question": "When does atmospheric river season run?",
+      "options": [
+        "From June to August",
+        "Only in the summer",
+        "From April to September",
+        "From October to March"
+      ],
+      "correct_answer": "From October to March"
+    },
+    {
+      "question": "What trouble can happen when several atmospheric rivers arrive in a row?",
+      "options": [
+        "Snow in the desert",
+        "Long dry spells with no rain",
+        "Flash floods and landslides",
+        "Calm seas and clear skies"
+      ],
+      "correct_answer": "Flash floods and landslides"
+    },
+    {
+      "question": "How high could waves get on Washington's coast this weekend?",
+      "options": [
+        "100-foot waves",
+        "2-foot waves",
+        "20-foot waves",
+        "5-foot waves"
+      ],
+      "correct_answer": "20-foot waves"
+    }
+  ],
+  "background_read": [
+    "An atmospheric river is like a river in the sky: a long, narrow band of water vapor that wind carries across the ocean and over land.",
+    "When it reaches land, it drops its water as rain or snow, which can soak a wide area.",
+    "These rivers are a natural part of how rain reaches the West Coast, but when several arrive one after another, the heavy rain can cause floods and landslides."
+  ],
+  "Article_Structure": [
+    "WHO: People in Oregon and Washington, and researchers F. Martin Ralph, Josh Weiss, and Jeff Michalski",
+    "WHAT: Heavy rain and the year's highest tides, called king tides, are hitting the West Coast, with two more atmospheric rivers arriving on Friday and Saturday after two others dropped inches of rain",
+    "WHERE: The Pacific Northwest, especially Oregon and Washington and the West Coast",
+    "WHY: Several atmospheric rivers are arriving in a row, and these natural bands of water vapor can drop rain or snow widely over a large area"
+  ],
+  "perspectives": [],
+  "mined_at": "2026-11-13T11:17:14+00:00",
+  "source_published_at": "Fri, 13 Nov 2026 05:01:00 -0500",
+  "source_name": "NPR World",
+  "source_url": "https://www.npr.org/2026/11/13/nx-s1-6032777/rivers-in-the-sky-are-raining-down-on-the-pacific-northwest-what-are-they",
+  "category": "News",
+  "source_word_count": 666,
+  "detail_status": "full"
+}

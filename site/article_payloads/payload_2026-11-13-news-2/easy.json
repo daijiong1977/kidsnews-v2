@@ -1,0 +1,122 @@
+{
+  "title": "Microsoft's Big Outage Stops Millions From Using Email",
+  "summary": "On Thursday evening, something went wrong at Microsoft. People in 74 countries could not use Outlook, the email service used by millions. Many could not send or read emails or check their calendars.\n\nThe trouble went beyond email. Microsoft 365, which includes Teams, Outlook, and the AI helper Copilot, had 'connectivity problems'. Some people could still use Teams. Others could not get in at all.\n\nWe do not know exactly how many people were affected. More than 430 million people use Microsoft 365 apps. Downdetector counted 140,000 people reporting Outlook problems, but the real number is probably much higher.\n\nThe outage reached beyond home computers. OpenAI, the maker of ChatGPT, said some of its tools were not working as expected. The Singaporean government and Australia's spy agency were affected too. In the UK, GP surgeries, pharmacies, police, and schools felt the impact.\n\nMicrosoft says this was not a cyber-attack. It says its servers were under far more strain than usual. By Friday morning, Microsoft said it was seeing 'early signs of stabilisation', but service had not yet returned to normal.",
+  "why_it_matters": "If your family or school uses Outlook, Teams, or Copilot, an outage like this can stop you from getting homework messages, joining a class call, or checking your calendar.",
+  "image_url": "/article_images/news-s2fd6a8a3ba2f54be.webp",
+  "keywords": [
+    {
+      "term": "outage",
+      "explanation": "An outage is a time when a service stops working."
+    },
+    {
+      "term": "connectivity",
+      "explanation": "Connectivity means being able to connect to the internet or a service."
+    },
+    {
+      "term": "cyber-attack",
+      "explanation": "A cyber-attack is when someone tries to break into or damage computers on purpose."
+    },
+    {
+      "term": "servers",
+      "explanation": "Servers are big computers that store and share information for many people."
+    },
+    {
+      "term": "stabilisation",
+      "explanation": "Stabilisation means things are slowly starting to work normally again."
+    },
+    {
+      "term": "pharmacies",
+      "explanation": "A pharmacy is a shop where people pick up medicines."
+    }
+  ],
+  "questions": [
+    {
+      "question": "When did the trouble at Microsoft start?",
+      "options": [
+        "Friday morning",
+        "Thursday morning",
+        "Friday evening",
+        "Thursday evening"
+      ],
+      "correct_answer": "Thursday evening"
+    },
+    {
+      "question": "In how many countries could people not use Outlook?",
+      "options": [
+        "430 countries",
+        "140 countries",
+        "14 countries",
+        "74 countries"
+      ],
+      "correct_answer": "74 countries"
+    },
+    {
+      "question": "What could many people not do during the outage?",
+      "options": [
+        "Play games on Copilot",
+        "Fix Microsoft's servers",
+        "Write a new email app",
+        "Send or read emails and check their calendars"
+      ],
+      "correct_answer": "Send or read emails and check their calendars"
+    },
+    {
+      "question": "Besides Outlook, which other Microsoft 365 tools are named in the article?",
+      "options": [
+        "ChatGPT and Downdetector",
+        "Outlook and Gmail",
+        "Teams and Copilot",
+        "Word and Excel"
+      ],
+      "correct_answer": "Teams and Copilot"
+    },
+    {
+      "question": "How many people did Downdetector count reporting Outlook problems?",
+      "options": [
+        "140,000 people",
+        "74,000 people",
+        "More than 430 million people",
+        "140 million people"
+      ],
+      "correct_answer": "140,000 people"
+    },
+    {
+      "question": "What did Microsoft say about the cause of the outage?",
+      "options": [
+        "It was a cyber-attack",
+        "Its servers were under far more strain than usual",
+        "Someone deleted Outlook",
+        "A storm cut the power"
+      ],
+      "correct_answer": "Its servers were under far more strain than usual"
+    }
+  ],
+  "background_read": [
+    "Microsoft 365 is a set of tools that many people use to send email, chat, and get work done, and Outlook is the part for email.",
+    "These tools run on big computers called servers, which store messages and help people connect to each other.",
+    "When the servers have too much strain, people may not be able to send or read their email or use their calendars."
+  ],
+  "Article_Structure": [
+    "WHO: Microsoft and the millions of people in 74 countries who use Outlook and Microsoft 365, including workers at OpenAI, the Singaporean government, Australia's spy agency, and GP surgeries, pharmacies, police, and schools in the UK",
+    "WHAT: Microsoft's services stopped working for many people, so they could not send or read emails, check their calendars, or get into Teams and Copilot",
+    "WHERE: In 74 countries around the world, including the UK, Singapore, and Australia",
+    "WHY: Microsoft says its servers were under far more strain than usual, and it says this was not a cyber-attack"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Microsoft",
+      "description": "Microsoft says this was not a cyber-attack and that its servers were under far more strain than usual, and by Friday morning it said it was seeing early signs of stabilisation."
+    },
+    {
+      "perspective": "OpenAI",
+      "description": "OpenAI, the maker of ChatGPT, said some of its tools were not working as expected."
+    }
+  ],
+  "mined_at": "2026-11-13T11:17:14+00:00",
+  "source_published_at": "Fri, 13 Nov 2026 10:53:40 GMT",
+  "source_name": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+  "category": "News",
+  "source_word_count": 408,
+  "detail_status": "full"
+}

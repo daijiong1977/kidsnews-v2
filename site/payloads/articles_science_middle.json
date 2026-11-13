@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-12-science-1",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Tue, 10 Nov 2026 20:36:04 EST",
-      "mined_at": "2026-11-12T11:21:17+00:00",
-      "source_published_at": "Tue, 10 Nov 2026 20:36:04 EST",
-      "image_url": "/article_images/science-s2c4af55b160a8e39.webp",
+      "id": "2026-11-13-science-1",
+      "source": "Popular Mechanics",
+      "time_ago": "Thu, 12 Nov 2026 20:54:30 +0000",
+      "mined_at": "2026-11-13T11:17:14+00:00",
+      "source_published_at": "Thu, 12 Nov 2026 20:54:30 +0000",
+      "image_url": "/article_images/science-s0269f22978ada7d3.webp",
       "category": "Science",
-      "title": "A Giant Rodent Roamed Thailand 34 Million Years Ago",
-      "summary": "Fossil teeth found in a Thai mine reveal Yakamys sirindhornae, a rodent that may have weighed about 30 kilograms — twice as heavy as other rodents of its time."
+      "title": "The Lost Land Beneath the Sea",
+      "summary": "Geographer Jerome E. Dobson calls the drowned Ice Age land Aquaterra. Sunken settlements may hold clues to early human history."
     },
     {
-      "id": "2026-11-12-science-2",
-      "source": "Popular Science",
-      "time_ago": "Wed, 11 Nov 2026 14:00:00 -0500",
-      "mined_at": "2026-11-12T11:21:17+00:00",
-      "source_published_at": "Wed, 11 Nov 2026 14:00:00 -0500",
-      "image_url": "/article_images/science-sa54392020300c606.webp",
+      "id": "2026-11-13-science-2",
+      "source": "Science News Explores",
+      "time_ago": "Thu, 12 Nov 2026 11:30:00 +0000",
+      "mined_at": "2026-11-13T11:17:14+00:00",
+      "source_published_at": "Thu, 12 Nov 2026 11:30:00 +0000",
+      "image_url": "/article_images/science-s34aba7b796039cf4.webp",
       "category": "Science",
-      "title": "Children Helped Make the Middle East's Oldest Clay Figures",
-      "summary": "More than 150 clay figures made 11,500 to 15,000 years ago — some bearing children's fingerprints — are likely the Middle East's earliest of their kind."
+      "title": "When the Sea Turns Cold, Rescuers Rush to Save Sea Turtles",
+      "summary": "When cold water leaves sea turtles dazed and numb, beach patrollers rush them to special hospitals for slow warming and care."
     },
     {
-      "id": "2026-11-12-science-3",
-      "source": "Popular Science",
-      "time_ago": "Wed, 11 Nov 2026 16:01:00 -0500",
-      "mined_at": "2026-11-12T11:21:17+00:00",
-      "source_published_at": "Wed, 11 Nov 2026 16:01:00 -0500",
-      "image_url": "/article_images/science-s12a93d63dca04874.webp",
+      "id": "2026-11-13-science-3",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Wed, 11 Nov 2026 23:07:24 EST",
+      "mined_at": "2026-11-13T11:17:14+00:00",
+      "source_published_at": "Wed, 11 Nov 2026 23:07:24 EST",
+      "image_url": "/article_images/science-sda7530bfeef91522.webp",
       "category": "Science",
-      "title": "A Giant Planet Vanished — and It Isn't Coming Back for Decades",
-      "summary": "A 'hot Jupiter' 1,000 light-years away wobbled out of view as a neighboring planet tilted its orbit; astronomers say its next crossing is 30 to 50 years away."
+      "title": "A Giant Computer Simulation Lights Up the Universe's Dark Age",
+      "summary": "Lumina, a huge new simulation from MIT and Harvard, recreates 2 billion years of early cosmic history and shows how the first stars and feeding black holes ended the universe's dark age."
     }
   ]
 }

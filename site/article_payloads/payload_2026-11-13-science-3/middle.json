@@ -1,0 +1,116 @@
+{
+  "title": "A Giant Computer Simulation Lights Up the Universe's Dark Age",
+  "summary": "Imagine the universe as a dark room with no lights switched on. That is how the early cosmos looked during a stretch scientists call the cosmic dark age — and a powerful new computer simulation called Lumina is helping researchers explore it.\n\nDeveloped by scientists at MIT, Harvard University, and other institutions, Lumina recreates about 2 billion years of cosmic history across a region roughly 1.6 billion light-years wide. It tracks dark matter, gas, stars, and light, showing how the first galaxies formed and how radiation spread through space.\n\nThe story begins with the Big Bang, when the universe was hot and dense, packed with electrons and other particles. As it expanded and cooled, electrons joined atomic nuclei to form neutral hydrogen. About 380,000 years after the Big Bang, the universe entered its dark age: there were no stars yet to light it, and the hydrogen filling space could soak up ultraviolet light.\n\nThen the first stars and galaxies appeared, and everything changed. Their ultraviolet light knocked electrons off hydrogen atoms, a process called re-ionization. As more hydrogen was re-ionized, the universe grew clearer, letting light travel much farther.\n\nLumina also follows a second, tougher change: helium re-ionization. Stripping electrons from helium takes far more energetic radiation, and the results suggest that actively feeding supermassive black holes supplied it, while stars and galaxies handled the hydrogen.\n\nMIT physics professor Mark Vogelsberger says Lumina covers star and galaxy formation as well as the re-ionization of hydrogen and helium, in a volume 100 times larger than previous best simulations.\n\nLumina builds on an earlier simulation called IllustrisTNG and adds a model of how light travels through space. The team is sharing it with other scientists, so its predictions can be checked against observations from telescopes now and in the future.",
+  "why_it_matters": "Lumina lets scientists test how the first galaxies lit up the universe and cleared its darkness, and its predictions can now be checked against telescope observations, deepening our understanding of how the cosmos we live in came to be.",
+  "image_url": "/article_images/science-sda7530bfeef91522.webp",
+  "keywords": [
+    {
+      "term": "cosmic dark age",
+      "explanation": "The long stretch of early cosmic history when there were no stars yet to light up the universe."
+    },
+    {
+      "term": "re-ionization",
+      "explanation": "The process in which light knocked electrons off atoms, making space clearer for light to travel."
+    },
+    {
+      "term": "neutral hydrogen",
+      "explanation": "Hydrogen gas whose atoms still hold their electrons, so it can soak up some kinds of light."
+    },
+    {
+      "term": "supermassive black holes",
+      "explanation": "Extremely massive black holes at the centers of galaxies that can give off very energetic radiation while feeding."
+    },
+    {
+      "term": "ultraviolet",
+      "explanation": "A kind of light with more energy than visible light, which can knock electrons off atoms."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is Lumina?",
+      "options": [
+        "A telescope that photographs distant galaxies",
+        "A spacecraft sent to explore dark matter",
+        "A computer simulation that recreates about 2 billion years of cosmic history",
+        "A new type of star discovered by MIT scientists"
+      ],
+      "correct_answer": "A computer simulation that recreates about 2 billion years of cosmic history"
+    },
+    {
+      "question": "What happened about 380,000 years after the Big Bang?",
+      "options": [
+        "Helium re-ionization was completed",
+        "The first stars lit up the universe",
+        "Electrons joined atomic nuclei to form neutral hydrogen and the universe entered its dark age",
+        "Supermassive black holes stopped feeding"
+      ],
+      "correct_answer": "Electrons joined atomic nuclei to form neutral hydrogen and the universe entered its dark age"
+    },
+    {
+      "question": "Why was the universe dark during the cosmic dark age?",
+      "options": [
+        "Dark matter blocked every telescope",
+        "There were no stars yet to light it, and the hydrogen filling space could soak up ultraviolet light",
+        "The universe was too hot for light to travel",
+        "All the light had been swallowed by black holes"
+      ],
+      "correct_answer": "There were no stars yet to light it, and the hydrogen filling space could soak up ultraviolet light"
+    },
+    {
+      "question": "What is re-ionization?",
+      "options": [
+        "Ultraviolet light from the first stars and galaxies knocking electrons off hydrogen atoms",
+        "The formation of neutral hydrogen from electrons and atomic nuclei",
+        "Light travelling through space in a simulation",
+        "The cooling of the universe after the Big Bang"
+      ],
+      "correct_answer": "Ultraviolet light from the first stars and galaxies knocking electrons off hydrogen atoms"
+    },
+    {
+      "question": "According to Lumina's results, what supplied the energetic radiation needed for helium re-ionization?",
+      "options": [
+        "Neutral hydrogen",
+        "Stars and galaxies",
+        "Actively feeding supermassive black holes",
+        "The earlier simulation IllustrisTNG"
+      ],
+      "correct_answer": "Actively feeding supermassive black holes"
+    },
+    {
+      "question": "How does Lumina compare with previous best simulations?",
+      "options": [
+        "It tracks only dark matter, not gas or stars",
+        "It recreates 100 billion years of history",
+        "It covers a volume 100 times larger",
+        "It covers a region 10 times wider"
+      ],
+      "correct_answer": "It covers a volume 100 times larger"
+    }
+  ],
+  "background_read": [
+    "The cosmic dark age was the long stretch after the early universe cooled enough for electrons to join atomic nuclei and form neutral hydrogen, leaving no stars to shine light through space. Hydrogen gas filled the universe and could soak up ultraviolet light, so the cosmos stayed dark until the first stars and galaxies formed. When those first stars and galaxies appeared, their ultraviolet light knocked electrons off hydrogen atoms in a process called re-ionization, gradually making the universe clearer so light could travel farther. Helium needed far more energetic radiation to lose its electrons, and scientists think actively feeding supermassive black holes supplied that energy while stars and galaxies handled the hydrogen."
+  ],
+  "Article_Structure": [
+    "LEAD: A powerful new computer simulation called Lumina is helping researchers explore the cosmic dark age, the early universe's long stretch with no stars to light it.",
+    "KEY EVENT: The first stars and galaxies appeared, and their ultraviolet light re-ionized hydrogen, letting light travel much farther as the universe grew clearer.",
+    "  ├─ WHO: Scientists at MIT, Harvard University, and other institutions developed Lumina.",
+    "  ├─ WHAT: Lumina recreates about 2 billion years of cosmic history across a region roughly 1.6 billion light-years wide, tracking dark matter, gas, stars, and light.",
+    "  ├─ WHEN: The dark age began about 380,000 years after the Big Bang, when electrons joined atomic nuclei to form neutral hydrogen.",
+    "  └─ HOW: Lumina builds on the earlier simulation IllustrisTNG and adds a model of how light travels through space.",
+    "EVIDENCE: The results suggest actively feeding supermassive black holes supplied the energetic radiation for helium re-ionization, while stars and galaxies handled the hydrogen.",
+    "OPEN QUESTION: Will Lumina's predictions match observations from telescopes now and in the future, as the team shares it with other scientists for checking?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "MIT physics professor Mark Vogelsberger",
+      "description": "Says Lumina covers star and galaxy formation as well as the re-ionization of hydrogen and helium, in a volume 100 times larger than previous best simulations."
+    }
+  ],
+  "mined_at": "2026-11-13T11:17:14+00:00",
+  "source_published_at": "Wed, 11 Nov 2026 23:07:24 EST",
+  "source_name": "ScienceDaily Top Technology",
+  "source_url": "https://www.sciencedaily.com/releases/2026/11/261110042534.htm",
+  "category": "Science",
+  "source_word_count": 666,
+  "detail_status": "full"
+}

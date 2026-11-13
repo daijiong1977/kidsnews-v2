@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-12-news-1",
-      "source": "CBC World",
-      "time_ago": "Thu, 12 Nov 2026 04:54:54 EST",
-      "mined_at": "2026-11-12T11:21:17+00:00",
-      "source_published_at": "Thu, 12 Nov 2026 04:54:54 EST",
-      "image_url": "/article_images/news-s58ccdf53076a2439.webp",
+      "id": "2026-11-13-news-1",
+      "source": "NPR World",
+      "time_ago": "Fri, 13 Nov 2026 05:01:00 -0500",
+      "mined_at": "2026-11-13T11:17:14+00:00",
+      "source_published_at": "Fri, 13 Nov 2026 05:01:00 -0500",
+      "image_url": "/article_images/news-s9098178d28850771.webp",
       "category": "News",
-      "title": "Lost Teen Found Safe After Six Days in the Woods",
-      "summary": "William, 17, was found asleep by a creek after six days lost in the woods near Walhalla."
+      "title": "Rivers in the Sky Are Soaking the Pacific Northwest",
+      "summary": "Rivers of water vapor in the sky are bringing days of heavy rain to Oregon and Washington, and high tides raise the risk of flooding."
     },
     {
-      "id": "2026-11-12-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Wed, 11 Nov 2026 18:35:05 -0500",
-      "mined_at": "2026-11-12T11:21:17+00:00",
-      "source_published_at": "Wed, 11 Nov 2026 18:35:05 -0500",
-      "image_url": "/article_images/news-sfd045d81a62d0e79.webp",
+      "id": "2026-11-13-news-2",
+      "source": "BBC News",
+      "time_ago": "Fri, 13 Nov 2026 10:53:40 GMT",
+      "mined_at": "2026-11-13T11:17:14+00:00",
+      "source_published_at": "Fri, 13 Nov 2026 10:53:40 GMT",
+      "image_url": "/article_images/news-s2fd6a8a3ba2f54be.webp",
       "category": "News",
-      "title": "Could AI Change the Price You Pay at the Store?",
-      "summary": "Companies are using AI and personal data to adjust prices — and shoppers are asking where the line is."
+      "title": "Microsoft's Big Outage Stops Millions From Using Email",
+      "summary": "A big Microsoft outage stopped millions from using Outlook, Teams and Copilot. Microsoft says it was not a cyber-attack, and fixes are under way."
     },
     {
-      "id": "2026-11-12-news-3",
-      "source": "CBC World",
-      "time_ago": "Wed, 11 Nov 2026 18:14:39 EST",
-      "mined_at": "2026-11-12T11:21:17+00:00",
-      "source_published_at": "Wed, 11 Nov 2026 18:14:39 EST",
-      "image_url": "/article_images/news-s92c31dedc38d83d6.webp",
+      "id": "2026-11-13-news-3",
+      "source": "NPR World",
+      "time_ago": "Fri, 13 Nov 2026 05:00:00 -0500",
+      "mined_at": "2026-11-13T11:17:14+00:00",
+      "source_published_at": "Fri, 13 Nov 2026 05:00:00 -0500",
+      "image_url": "/article_images/news-s7735f4bb5b290186.webp",
       "category": "News",
-      "title": "Scott Colom Wins a Historic Senate Seat in Mississippi",
-      "summary": "Scott Colom defeated Senator Cindy Hyde-Smith to become Mississippi's first Black U.S. senator since Reconstruction."
+      "title": "Every Little Bit of Warming Matters",
+      "summary": "Every tiny bit of warming matters — for corals, heat waves, and storms — and countries meeting in Turkey are talking about how to slow it down, including switching to electricity from solar and wind."
     }
   ]
 }

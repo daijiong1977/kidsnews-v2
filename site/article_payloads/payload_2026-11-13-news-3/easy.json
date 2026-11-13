@@ -1,0 +1,126 @@
+{
+  "title": "Every Little Bit of Warming Matters",
+  "summary": "Countries are meeting in Turkey for COP31, the climate talks. Ten years ago, they agreed to try to keep warming to 1.5 degrees Celsius above pre-industrial levels. Now, scientists say that goal is out of reach.\n\nThe planet is already almost 1.5 degrees warmer. Heat-trapping gases from fossil fuels are still rising, and most countries are not on track to switch to cleaner energy.\n\nA United Nations study says the best case now is 1.7 or 1.8 degrees. On the same path, the world could be 2.8 degrees hotter by the end of the century.\n\nThat small difference matters a lot. Tim Lenton, a climate professor at the University of Exeter, says every fraction of a degree matters.\n\nCorals show why. Heat turns them white, called bleaching, and can kill them. There have been four global bleaching events since the late 1990s, and scientists say a fifth may be happening now.\n\nBefore the 2023 to 2025 event, 44 percent of coral species were at risk of dying out. Past 2 degrees, 99 percent of corals would be lost.",
+  "why_it_matters": "Even a tiny bit more heat can change the world you will grow up in, from the coral reefs you might one day see to the weather in your own town.",
+  "image_url": "/article_images/news-s7735f4bb5b290186.webp",
+  "keywords": [
+    {
+      "term": "pre-industrial",
+      "explanation": "The time before factories and cars started warming the planet."
+    },
+    {
+      "term": "fossil fuels",
+      "explanation": "Fuels like coal, oil, and gas that come from ancient plants and animals."
+    },
+    {
+      "term": "Celsius",
+      "explanation": "A way to measure temperature, like degrees on a thermometer."
+    },
+    {
+      "term": "bleaching",
+      "explanation": "When heat turns corals white and can make them die."
+    },
+    {
+      "term": "corals",
+      "explanation": "Tiny sea animals that build hard, colorful homes on the ocean floor."
+    },
+    {
+      "term": "fraction",
+      "explanation": "A small part of a whole number, like one half."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Where are countries meeting for COP31, the climate talks?",
+      "options": [
+        "In France",
+        "In Japan",
+        "In Turkey",
+        "In Brazil"
+      ],
+      "correct_answer": "In Turkey"
+    },
+    {
+      "question": "What temperature goal did countries agree to try to keep warming to ten years ago?",
+      "options": [
+        "2.8 degrees Celsius",
+        "1.5 degrees Celsius",
+        "3 degrees Celsius",
+        "1 degree Celsius"
+      ],
+      "correct_answer": "1.5 degrees Celsius"
+    },
+    {
+      "question": "According to a United Nations study, what is the best case for warming now?",
+      "options": [
+        "1.7 or 1.8 degrees",
+        "1 degree",
+        "1.5 degrees",
+        "2.8 degrees"
+      ],
+      "correct_answer": "1.7 or 1.8 degrees"
+    },
+    {
+      "question": "What happens to corals when the water gets too hot?",
+      "options": [
+        "They move to colder water",
+        "They grow faster",
+        "They turn bright blue",
+        "They turn white, called bleaching, and can die"
+      ],
+      "correct_answer": "They turn white, called bleaching, and can die"
+    },
+    {
+      "question": "How many global bleaching events have there been since the late 1990s?",
+      "options": [
+        "Four",
+        "Ten",
+        "Two",
+        "Five"
+      ],
+      "correct_answer": "Four"
+    },
+    {
+      "question": "Past 2 degrees of warming, how much of the world's corals would be lost?",
+      "options": [
+        "44 percent",
+        "10 percent",
+        "Half of them",
+        "99 percent"
+      ],
+      "correct_answer": "99 percent"
+    }
+  ],
+  "background_read": [
+    "Countries from around the world meet at climate talks to talk about how to slow down the warming of our planet.",
+    "The planet is getting warmer because gases from burning fossil fuels trap heat, and that heat can harm living things like corals, which turn white and can die when the water gets too hot.",
+    "Even a tiny bit more warming can make a big difference, so countries are trying to find ways to use cleaner energy instead."
+  ],
+  "Article_Structure": [
+    "WHO: Countries meeting at the climate talks, scientists, and Tim Lenton, a climate professor at the University of Exeter.",
+    "WHAT: The goal of keeping warming to 1.5 degrees Celsius is now out of reach, and scientists say every fraction of a degree matters because hotter seas bleach and kill corals.",
+    "WHERE: In Turkey, where countries are meeting for COP31, and in the world's oceans, where corals live.",
+    "WHY: Heat-trapping gases from fossil fuels are still rising, and most countries are not on track to switch to cleaner energy."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Scientists",
+      "description": "The 1.5-degree goal is out of reach, and the world could be 2.8 degrees hotter by the end of the century on the same path."
+    },
+    {
+      "perspective": "Tim Lenton, a climate professor at the University of Exeter",
+      "description": "Every fraction of a degree matters."
+    },
+    {
+      "perspective": "A United Nations study",
+      "description": "The best case now is 1.7 or 1.8 degrees of warming."
+    }
+  ],
+  "mined_at": "2026-11-13T11:17:14+00:00",
+  "source_published_at": "Fri, 13 Nov 2026 05:00:00 -0500",
+  "source_name": "NPR World",
+  "source_url": "https://www.npr.org/2026/11/13/nx-s1-6035801/climate-goal-degrees-cop31-summit",
+  "category": "News",
+  "source_word_count": 971,
+  "detail_status": "full"
+}
