@@ -1,0 +1,114 @@
+{
+  "title": "Why Some Brains Find Math So Hard",
+  "summary": "For some children, math is much harder than for their classmates. Even with practice and good teaching, they keep struggling with problems other children their age solve more easily. A new Stanford University study suggests the reason may lie in how the brain picks a way to solve a problem, not in knowing numbers.\n\nThe study, published in the journal JNeurosci and led by Oliver Lasnick, focused on children with developmental dyscalculia, a condition that causes ongoing difficulty with math problem solving. The team studied 68 children ages 8 to 10, watching how they approached problems and how their brains responded.\n\nSolving a math problem takes more than knowing numbers. A child must also choose the best approach: counting one number at a time, or using a quicker method based on a familiar pattern. As problems get harder, spotting when to switch methods matters more and more.\n\nChildren with dyscalculia were less effective at using different strategies. They took longer to shift methods and were slower to react when a problem got harder. Other children got better at picking good approaches over time; children with dyscalculia did not.\n\nBrain scans added another clue. Activity in one brain system differed between children with dyscalculia and children who were good at choosing strategies, and those patterns could even predict how well a child counted and switched approaches.\n\nThe findings point to mental skills beyond math itself, like attention, memory, and cognitive flexibility, the ability to adjust your thinking when things change.\n\nThe study does not prove the brain differences cause dyscalculia, and no single problem is shared by every child with the condition. As Lasnick put it, the disorder reflects difficulties \"across multiple processes.\" Understanding how children choose strategies could lead to better ways to spot dyscalculia early and help those children.",
+  "why_it_matters": "Math is part of everyday life, from shopping to building things. Understanding why some children struggle could help teachers spot the problem early and give those children better help.",
+  "image_url": "/article_images/science-s56fa8037dddca000.webp",
+  "keywords": [
+    {
+      "explanation": "A condition that makes math problem solving hard for a long time.",
+      "term": "dyscalculia"
+    },
+    {
+      "explanation": "Different ways of doing something, like solving a problem.",
+      "term": "strategies"
+    },
+    {
+      "explanation": "The ability to change your thinking when things change.",
+      "term": "cognitive flexibility"
+    },
+    {
+      "explanation": "A way of doing something, like solving a math problem.",
+      "term": "approach"
+    }
+  ],
+  "questions": [
+    {
+      "correct_answer": "Children with developmental dyscalculia",
+      "options": [
+        "The history of numbers",
+        "How to build robots",
+        "Children with developmental dyscalculia",
+        "Why cats sleep so much"
+      ],
+      "question": "What did the Stanford study look at?"
+    },
+    {
+      "correct_answer": "68",
+      "options": [
+        "68",
+        "8",
+        "10",
+        "540"
+      ],
+      "question": "How many children did the team study?"
+    },
+    {
+      "correct_answer": "Using different strategies",
+      "options": [
+        "Counting to ten",
+        "Using different strategies",
+        "Reading books",
+        "Drawing pictures"
+      ],
+      "question": "What were children with dyscalculia less good at?"
+    },
+    {
+      "correct_answer": "One brain system worked differently",
+      "options": [
+        "The brain was smaller",
+        "The brain was the same in everyone",
+        "One brain system worked differently",
+        "The brain had no activity"
+      ],
+      "question": "What did the brain scans show?"
+    },
+    {
+      "correct_answer": "Mental skills that help you plan, focus, and change plans",
+      "options": [
+        "The parts of a math test",
+        "Mental skills that help you plan, focus, and change plans",
+        "A kind of computer",
+        "Muscles in the arms"
+      ],
+      "question": "What are executive functions?"
+    },
+    {
+      "correct_answer": "That the brain differences cause dyscalculia",
+      "options": [
+        "That brains change with age",
+        "That the brain differences cause dyscalculia",
+        "That children need practice",
+        "That math is hard"
+      ],
+      "question": "What does the study NOT prove?"
+    }
+  ],
+  "background_read": [
+    "Math is the study of numbers, shapes, and patterns, and it is taught in school from a young age.",
+    "A strategy is a plan for doing something, like choosing the best way to solve a problem.",
+    "The brain is the organ in your head that controls thinking, learning, and memory.",
+    "A brain scan is a picture of the inside of the brain, made by a machine, that shows which parts are active."
+  ],
+  "Article_Structure": [
+    "LEAD: Some children find math much harder than their classmates, and a Stanford study may explain why.",
+    "KEY EVENT: Researchers studied 68 children to learn how they choose math strategies.",
+    "  ├─ WHO: Oliver Lasnick and colleagues at Stanford University",
+    "  ├─ WHAT: Children with developmental dyscalculia",
+    "  └─ HOW: By watching children solve problems and scanning their brains",
+    "EVIDENCE: Children with dyscalculia were slower to switch strategies; brain activity differed.",
+    "OPEN QUESTION: Do the brain differences cause dyscalculia, or only go along with it?"
+  ],
+  "perspectives": [
+    {
+      "description": "He said the disorder reflects difficulties across multiple processes, and different children may struggle in different ways.",
+      "perspective": "Oliver Lasnick"
+    }
+  ],
+  "mined_at": "2026-11-14T11:20:04+00:00",
+  "source_published_at": "Thu, 12 Nov 2026 18:33:12 EST",
+  "source_name": "ScienceDaily Most Popular",
+  "source_url": "https://www.sciencedaily.com/releases/2026/11/261112025542.htm",
+  "category": "Science",
+  "source_word_count": 754,
+  "detail_status": "full"
+}

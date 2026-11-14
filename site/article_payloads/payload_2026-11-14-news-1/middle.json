@@ -1,0 +1,126 @@
+{
+  "title": "Planes Across the U.S. Stop Flying After Rare Nationwide Ground Stop",
+  "summary": "On Friday, planes across the United States stopped flying. The Federal Aviation Administration, the agency that keeps air travel safe, ordered a rare nationwide ground stop. It said the step was needed for \"extraordinary circumstances\" and \"reasons of safety.\" Runways emptied, and hundreds of flights were affected.\n\nA ground stop means planes stay on the ground instead of taking off. Air traffic controllers still guide the planes already in the sky to safe landings. The order covered the whole country at once, which almost never happens. It was only the third nationwide grounding in recent decades. The last one came in January 2023, when a pilot communications system failed.\n\nHomeland Security Secretary Markwayne Mullin told reporters that officials did not believe the problem was tied to a specific attack. He said it appeared to be a telecommunication outage, a failure in the systems that let controllers and pilots talk to each other. He also said there was no reason for the public to be afraid.\n\nWhat exactly went wrong is still unclear. Aviation correspondent Miles O'Brien said 22 regional centers manage planes flying at cruise altitude across the country. The centers are linked by simple landlines, old-fashioned phone lines. Some experts think the link between the centers failed. Others wonder whether hacking played a part, or whether the trouble comes from the system's age. Parts of it still use floppy disks, paper strips, and radar equipment dating back to the 1940s.\n\nOne flight tracker showed planes across the country standing still, marked in yellow. Travel is at an all-time high, and O'Brien said the system is bursting at the seams. He praised the air traffic controllers who keep it working every day. Everyone was safe, he said, though many travelers were extremely inconvenienced.",
+  "why_it_matters": "Air travel is how millions of people move around the country, so when the whole system stops, families, trips, and plans everywhere are affected. The story also shows why the old systems that keep planes safe need to be kept up to date.",
+  "image_url": "/article_images/news-sd5c34c183af01927.webp",
+  "keywords": [
+    {
+      "explanation": "All over a whole country.",
+      "term": "nationwide"
+    },
+    {
+      "explanation": "Very unusual and out of the ordinary.",
+      "term": "extraordinary"
+    },
+    {
+      "explanation": "The technology that lets people send messages and talk over long distances.",
+      "term": "telecommunication"
+    },
+    {
+      "explanation": "Phones that work through wires in the ground, not through the air.",
+      "term": "landlines"
+    },
+    {
+      "explanation": "Small, flat disks that old computers used to store information.",
+      "term": "floppy disks"
+    }
+  ],
+  "questions": [
+    {
+      "correct_answer": "A nationwide ground stop",
+      "options": [
+        "A new airport to open",
+        "A nationwide ground stop",
+        "Pilots to stop using radios",
+        "All planes to fly faster"
+      ],
+      "question": "What did the FAA order on Friday?"
+    },
+    {
+      "correct_answer": "A telecommunication outage",
+      "options": [
+        "A plane crash",
+        "A telecommunication outage",
+        "A bad storm",
+        "A pilot strike"
+      ],
+      "question": "What did officials say the problem appeared to be?"
+    },
+    {
+      "correct_answer": "Three",
+      "options": [
+        "Ten",
+        "One",
+        "Three",
+        "Fifty"
+      ],
+      "question": "How many nationwide groundings have there been in recent decades, including this one?"
+    },
+    {
+      "correct_answer": "January 2023",
+      "options": [
+        "The 1940s",
+        "January 2023",
+        "Last summer",
+        "January 2020"
+      ],
+      "question": "When was the last nationwide grounding before this one?"
+    },
+    {
+      "correct_answer": "By simple landlines",
+      "options": [
+        "By satellite",
+        "By simple landlines",
+        "By carrier pigeon",
+        "By text message"
+      ],
+      "question": "How are the 22 regional centers linked to each other?"
+    },
+    {
+      "correct_answer": "Planes standing still, marked in yellow",
+      "options": [
+        "No planes at all",
+        "Planes standing still, marked in yellow",
+        "Planes flying in circles",
+        "Planes landing in the sea"
+      ],
+      "question": "What did the flight tracker show?"
+    }
+  ],
+  "background_read": [
+    "The Federal Aviation Administration, or FAA, is the part of the U.S. government that keeps flying safe.",
+    "Air traffic controllers guide planes through the sky and tell pilots when to take off and land, working from centers spread across the country.",
+    "A ground stop is an order that keeps planes on the ground, used when something makes flying unsafe.",
+    "The system that guides planes is very old in places, and it has many backup layers so that one failure does not stop everything."
+  ],
+  "Article_Structure": [
+    "LEAD: On Friday, the FAA ordered a rare nationwide ground stop.",
+    "KEY EVENT: Planes across the U.S. stopped flying.",
+    "  ├─ WHO: The Federal Aviation Administration and Homeland Security Secretary Markwayne Mullin",
+    "  ├─ WHEN: Friday, after a telecommunication outage",
+    "  └─ WHY: 'Extraordinary circumstances' and 'reasons of safety'",
+    "EVIDENCE: Only the third nationwide grounding in recent decades; 22 centers linked by landlines; old equipment like floppy disks and paper strips",
+    "OPEN QUESTION: What exactly went wrong is still unclear."
+  ],
+  "perspectives": [
+    {
+      "description": "He said officials did not believe the problem was tied to a specific attack, and that there was no reason for the public to be afraid.",
+      "perspective": "Homeland Security Secretary Markwayne Mullin"
+    },
+    {
+      "description": "He said the air traffic system is bursting at the seams and praised the controllers who keep it working every day.",
+      "perspective": "Aviation correspondent Miles O'Brien"
+    },
+    {
+      "description": "They think the link between the regional centers failed, or that hacking or the system's age may be behind the trouble.",
+      "perspective": "Some experts"
+    }
+  ],
+  "mined_at": "2026-11-14T11:20:04+00:00",
+  "source_published_at": "Fri, 13 Nov 2026 18:56:33 -0500",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/show/faa-issues-rare-nationwide-ground-stop-due-to-extraordinary-circumstances",
+  "category": "News",
+  "source_word_count": 703,
+  "detail_status": "full"
+}

@@ -1,0 +1,109 @@
+{
+  "title": "Starship Flies to Orbit, but Its Booster Is Lost",
+  "summary": "On Friday, SpaceX's giant Starship rocket flew into orbit in its boldest test yet, but the first part of the plan went wrong.\n\nSpaceX wanted to catch the whole rocket at its Texas launch pad. Big arms on the launch tower were meant to grab the booster as it came back down, then the spacecraft too. No one has ever caught a whole rocket this way.\n\nThe booster, called Super Heavy, is 236 feet tall. Soon after takeoff, it broke down and fell into the Gulf of Mexico. SpaceX had caught three boosters before, but this was the first try with the new, taller one.\n\nThe spacecraft kept flying. It is 171 feet tall. It reached orbit, ready to drop off 26 Starlink satellites. It will circle Earth 15 times, then try to come back to the pad on Saturday. Together they are 407 feet tall, the biggest and most powerful rocket in the world.\n\nCatching the whole rocket could make space trips cheaper and more common, and SpaceX wants to use Starship for moon bases and trips to Mars.",
+  "why_it_matters": "If rockets can be caught and reused, space trips get cheaper, and one day people like you might fly to space on one.",
+  "image_url": "/article_images/news-sc42b9080cf6473d3.webp",
+  "keywords": [
+    {
+      "term": "orbit",
+      "explanation": "The path a spacecraft follows around a planet."
+    },
+    {
+      "term": "booster",
+      "explanation": "The big bottom part of a rocket that lifts it off the ground."
+    },
+    {
+      "term": "launch pad",
+      "explanation": "The place where a rocket takes off."
+    },
+    {
+      "term": "satellites",
+      "explanation": "Machines in space that send signals back to Earth."
+    },
+    {
+      "term": "spacecraft",
+      "explanation": "A vehicle that travels in space."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What did SpaceX want to catch?",
+      "options": [
+        "The moon",
+        "The whole rocket",
+        "A satellite",
+        "A plane"
+      ],
+      "correct_answer": "The whole rocket"
+    },
+    {
+      "question": "How tall is the booster Super Heavy?",
+      "options": [
+        "236 feet",
+        "26 feet",
+        "407 feet",
+        "171 feet"
+      ],
+      "correct_answer": "236 feet"
+    },
+    {
+      "question": "What happened to the booster?",
+      "options": [
+        "It reached orbit",
+        "It broke down and fell into the Gulf of Mexico",
+        "It flew to Mars",
+        "It landed on the pad"
+      ],
+      "correct_answer": "It broke down and fell into the Gulf of Mexico"
+    },
+    {
+      "question": "What did the spacecraft do?",
+      "options": [
+        "It stopped flying",
+        "It came back to the pad",
+        "It fell into the sea",
+        "It reached orbit"
+      ],
+      "correct_answer": "It reached orbit"
+    },
+    {
+      "question": "How many Starlink satellites was it ready to drop off?",
+      "options": [
+        "3",
+        "26",
+        "15",
+        "407"
+      ],
+      "correct_answer": "26"
+    },
+    {
+      "question": "Why does catching the whole rocket matter?",
+      "options": [
+        "It would make the rocket slower",
+        "It would make the rocket taller",
+        "It would stop all space trips",
+        "It could make space trips cheaper and more common"
+      ],
+      "correct_answer": "It could make space trips cheaper and more common"
+    }
+  ],
+  "background_read": [
+    "A rocket is a vehicle that carries things into space.",
+    "SpaceX is a company that builds rockets.",
+    "A booster is the big bottom part of a rocket that lifts it off the ground, and catching it back means the same part can be used again."
+  ],
+  "Article_Structure": [
+    "WHO: SpaceX and its Starship rocket",
+    "WHAT: A test flight of the giant Starship rocket",
+    "WHERE: At the Texas launch pad and over the Gulf of Mexico",
+    "WHY: SpaceX wants to catch the whole rocket so space trips can be cheaper and more common"
+  ],
+  "perspectives": [],
+  "mined_at": "2026-11-14T11:20:04+00:00",
+  "source_published_at": "Fri, 13 Nov 2026 19:20:20 -0500",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/science/spacexs-starship-soars-into-orbit-after-booster-malfunction-thwarts-double-catch-attempt",
+  "category": "News",
+  "source_word_count": 701,
+  "detail_status": "full"
+}

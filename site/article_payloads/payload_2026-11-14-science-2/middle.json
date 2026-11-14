@@ -1,0 +1,113 @@
+{
+  "title": "A Treasure Map Points to Earth's Missing Fossils",
+  "summary": "Fossils are our window into Earth's distant past, showing the animals, plants, and ecosystems that lived millions of years ago. But it tells only part of the story. Turning into a fossil is exceptionally rare, so only a tiny fraction of the creatures that once lived have been preserved. Even then, scientists can only find them where the rock layers are open to view.\n\nThat leaves big gaps in our picture of prehistoric life. Some periods and places have produced plenty of fossils; others remain largely unexplored. Digging takes a lot of time and money, so knowing where to look could make a major difference.\n\nTwo paleontologists have built a tool to help. Thomas A. Neubauer of the Bavarian State Collections of Natural History and Mathias Harzhauser of the Natural History Museum in Vienna studied fossils of animals that lived in shallow seas over the past 540 million years. For the first time, they also mapped the places where fossil information is missing.\n\nThey worked from the Paleobiology Database, the world's leading free collection of fossil records, plus geological information. That showed where fossils have already been found, and where the right kinds of rock could fill gaps.\n\nThe results held a surprise. The oldest periods, the Palaeozoic and the Early Mesozoic, have already been studied so much that new finds there are unlikely to add much knowledge soon. The best chances lie in more recent history: the Cenozoic Era, which began 66 million years ago. Its shallow sea deposits still hold great untapped potential.\n\nThe researchers pinpointed spots where unknown fossil species are especially likely to be found, and where the rock layers are exposed and reachable. Their map could help scientists plan better digs and spend limited research money wisely, focusing on \"these still largely unexplored areas.\"",
+  "why_it_matters": "Fossils are our best clues about how life on Earth changed over millions of years. A map of where to dig means scientists can find more of those clues without wasting time and money.",
+  "image_url": "/article_images/science-s08b01252096d019c.webp",
+  "keywords": [
+    {
+      "explanation": "Scientists who study fossils and ancient life.",
+      "term": "paleontologists"
+    },
+    {
+      "explanation": "The most recent era of Earth's history, starting 66 million years ago.",
+      "term": "Cenozoic"
+    },
+    {
+      "explanation": "The oldest era of animal life, long before the dinosaurs.",
+      "term": "Palaeozoic"
+    },
+    {
+      "explanation": "The era when dinosaurs lived.",
+      "term": "Mesozoic"
+    },
+    {
+      "explanation": "The study of ancient life through fossils.",
+      "term": "Paleobiology"
+    }
+  ],
+  "questions": [
+    {
+      "correct_answer": "Fossilization is very rare",
+      "options": [
+        "Scientists threw fossils away",
+        "There were no animals long ago",
+        "Fossils melt in the rain",
+        "Fossilization is very rare"
+      ],
+      "question": "Why is the fossil record incomplete?"
+    },
+    {
+      "correct_answer": "540 million years",
+      "options": [
+        "252 million years",
+        "5,000 years",
+        "66 million years",
+        "540 million years"
+      ],
+      "question": "How many years of shallow-sea fossils did the scientists study?"
+    },
+    {
+      "correct_answer": "The places where fossil information is missing",
+      "options": [
+        "The deepest ocean",
+        "The places where fossil information is missing",
+        "The moon's surface",
+        "All the museums in the world"
+      ],
+      "question": "What did the scientists map for the first time?"
+    },
+    {
+      "correct_answer": "The Cenozoic Era",
+      "options": [
+        "The Cenozoic Era",
+        "The Ice Age",
+        "The Palaeozoic",
+        "The Early Mesozoic"
+      ],
+      "question": "Which era holds the best chances for new fossil finds?"
+    },
+    {
+      "correct_answer": "66 million years ago",
+      "options": [
+        "5,000 years ago",
+        "252 million years ago",
+        "66 million years ago",
+        "540 million years ago"
+      ],
+      "question": "When did the Cenozoic Era begin?"
+    },
+    {
+      "correct_answer": "The Paleobiology Database",
+      "options": [
+        "The Dinosaur Database",
+        "The Museum of London",
+        "The Paleobiology Database",
+        "The Fossil Finder App"
+      ],
+      "question": "What database did the researchers use?"
+    }
+  ],
+  "background_read": [
+    "A fossil is the remains of a living thing from long ago, saved in rock.",
+    "Paleontologists are scientists who dig up and study fossils to learn about life on Earth long ago.",
+    "Earth's history is split into long eras, like the Palaeozoic, the Mesozoic, and the Cenozoic.",
+    "The Cenozoic is the most recent era, and it began 66 million years ago."
+  ],
+  "Article_Structure": [
+    "LEAD: Scientists have made a map showing where Earth's missing fossils may be hiding.",
+    "KEY EVENT: Two paleontologists mapped fossil gaps over 540 million years.",
+    "  ├─ WHO: Thomas A. Neubauer and Mathias Harzhauser",
+    "  ├─ WHEN: The study covers the past 540 million years",
+    "  └─ WHY: Digging takes time and money, so knowing where to look matters",
+    "EVIDENCE: The Paleobiology Database; the oldest eras are well studied; the Cenozoic holds the best chances.",
+    "OPEN QUESTION: Which unknown species will the next digs actually find?"
+  ],
+  "perspectives": [],
+  "mined_at": "2026-11-14T11:20:04+00:00",
+  "source_published_at": "Thu, 12 Nov 2026 06:24:47 EST",
+  "source_name": "ScienceDaily All",
+  "source_url": "https://www.sciencedaily.com/releases/2026/11/261112025529.htm",
+  "category": "Science",
+  "source_word_count": 718,
+  "detail_status": "full"
+}

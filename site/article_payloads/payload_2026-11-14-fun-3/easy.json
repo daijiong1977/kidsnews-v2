@@ -1,0 +1,109 @@
+{
+  "title": "An AI Copilot Helps Engineers Design Buildings",
+  "summary": "Computers can design parts for airplanes, antennas, and race cars. But the best programs take a long time, and the human sees the finished design only at the end.\n\nMIT researchers have built a fix: a system that works like an AI copilot for design. As the computer makes a structure, it shows the human the parts to change. Engineers also find it hard to trust designs that look strange.\n\nThe system uses topology optimization, a way of designing that finds the best shape for a structure. Until now, engineers had almost no control over how the design grew.\n\nThe researchers trained it on made-up examples of human feedback on thousands of designs.\n\nIn tests, the new structures were easier to make and 39 percent stronger against buckling, the way a structure bends and falls apart under pressure. It added only 15 seconds.\n\nFor now, users can only make parts thicker or thinner. The researchers hope to add more choices, and believe the system could open computer design to many more people, including students.",
+  "why_it_matters": "The bridges you cross and the buildings you live in are designed by engineers, and if computers help them design better, those structures can be stronger and safer for you.",
+  "image_url": "/article_images/fun-s713136e0edae782f.webp",
+  "keywords": [
+    {
+      "term": "copilot",
+      "explanation": "A helper that works alongside someone, like a second pilot."
+    },
+    {
+      "term": "topology optimization",
+      "explanation": "A way of finding the best shape for a structure."
+    },
+    {
+      "term": "buckling",
+      "explanation": "The way a structure bends and falls apart under pressure."
+    },
+    {
+      "term": "structure",
+      "explanation": "Something built, like a bridge or a building."
+    },
+    {
+      "term": "engineers",
+      "explanation": "People who design and build things like bridges and machines."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What does the new system work like?",
+      "options": [
+        "An AI copilot for design",
+        "A 3D printer",
+        "A robot builder",
+        "A calculator"
+      ],
+      "correct_answer": "An AI copilot for design"
+    },
+    {
+      "question": "What design method does the system use?",
+      "options": [
+        "Building with blocks",
+        "Drawing by hand",
+        "Topology optimization",
+        "Copying old designs"
+      ],
+      "correct_answer": "Topology optimization"
+    },
+    {
+      "question": "How much stronger against buckling were the new structures?",
+      "options": [
+        "15 percent",
+        "50 percent",
+        "100 percent",
+        "39 percent"
+      ],
+      "correct_answer": "39 percent"
+    },
+    {
+      "question": "How much time did the new way add?",
+      "options": [
+        "15 hours",
+        "15 days",
+        "15 minutes",
+        "Only 15 seconds"
+      ],
+      "correct_answer": "Only 15 seconds"
+    },
+    {
+      "question": "What can users change for now?",
+      "options": [
+        "Make parts thicker or thinner",
+        "Change the color",
+        "Add windows",
+        "Make parts invisible"
+      ],
+      "correct_answer": "Make parts thicker or thinner"
+    },
+    {
+      "question": "Who built the system?",
+      "options": [
+        "Doctors",
+        "High school students",
+        "MIT researchers",
+        "NASA engineers"
+      ],
+      "correct_answer": "MIT researchers"
+    }
+  ],
+  "background_read": [
+    "An engineer is a person who designs and builds things like bridges, buildings, and machines.",
+    "A computer program is a set of instructions that tells a computer what to do.",
+    "Artificial intelligence is when a computer learns from examples and makes choices on its own."
+  ],
+  "Article_Structure": [
+    "WHO: MIT researchers",
+    "WHAT: A new AI copilot for designing structures",
+    "WHERE: At MIT",
+    "WHY: Engineers could not control computer designs, and found strange-looking designs hard to trust"
+  ],
+  "perspectives": [],
+  "mined_at": "2026-11-14T11:20:04+00:00",
+  "source_published_at": "Fri, 13 Nov 2026 00:00:00 -0500",
+  "source_name": "MIT News",
+  "source_url": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
+  "category": "Fun",
+  "source_word_count": 741,
+  "detail_status": "full"
+}

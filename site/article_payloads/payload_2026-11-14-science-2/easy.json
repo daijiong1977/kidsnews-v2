@@ -1,0 +1,109 @@
+{
+  "title": "A Treasure Map Points to Missing Fossils",
+  "summary": "Fossils show us life from millions of years ago. But turning into a fossil is very rare, so only a tiny number of creatures have been saved. Scientists can only find one where the rock is open to view.\n\nThat leaves big gaps in what we know about life long ago. Some times and places have given us lots of fossils, others almost none. Digging takes time and money, so knowing where to look helps.\n\nTwo scientists have made a tool to help. Thomas A. Neubauer and Mathias Harzhauser studied shallow-sea fossils from the past 540 million years, and mapped where fossil clues are missing.\n\nThey used the Paleobiology Database, a huge free list of fossil finds. They also looked at rocks that could hold more fossils.\n\nThe results were a surprise. The oldest times have already been studied a lot, and the best chances for new finds are in more recent times: the Cenozoic Era, which began 66 million years ago.\n\nScientists marked spots where unknown fossils are most likely. Their map helps fossil hunters plan better digs.",
+  "why_it_matters": "Fossils are like a time machine that shows you what animals looked like millions of years before you were born, and new finds could add missing pages to that story.",
+  "image_url": "/article_images/science-s08b01252096d019c.webp",
+  "keywords": [
+    {
+      "term": "fossils",
+      "explanation": "The saved remains of animals and plants from long ago."
+    },
+    {
+      "term": "Cenozoic Era",
+      "explanation": "The time from 66 million years ago until now."
+    },
+    {
+      "term": "Paleobiology Database",
+      "explanation": "A huge free list of fossil finds."
+    },
+    {
+      "term": "shallow-sea",
+      "explanation": "In the shallow water of a sea."
+    },
+    {
+      "term": "fossil hunters",
+      "explanation": "People who search for fossils."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Why are fossils rare?",
+      "options": [
+        "Turning into a fossil is very rare",
+        "Rocks are too hard",
+        "Animals never die",
+        "Scientists hide them"
+      ],
+      "correct_answer": "Turning into a fossil is very rare"
+    },
+    {
+      "question": "Who made the new tool?",
+      "options": [
+        "Thomas A. Neubauer and Mathias Harzhauser",
+        "Mary Anning",
+        "Albert Einstein",
+        "Charles Darwin"
+      ],
+      "correct_answer": "Thomas A. Neubauer and Mathias Harzhauser"
+    },
+    {
+      "question": "What did they study?",
+      "options": [
+        "Rocks on the moon",
+        "Dinosaur bones in museums",
+        "Fish in aquariums",
+        "Shallow-sea fossils from the past 540 million years"
+      ],
+      "correct_answer": "Shallow-sea fossils from the past 540 million years"
+    },
+    {
+      "question": "What list did they use?",
+      "options": [
+        "The phone book",
+        "A school library",
+        "A weather map",
+        "The Paleobiology Database"
+      ],
+      "correct_answer": "The Paleobiology Database"
+    },
+    {
+      "question": "Where are the best chances for new finds?",
+      "options": [
+        "In the desert",
+        "In more recent times, the Cenozoic Era",
+        "In deep space",
+        "In the oldest times"
+      ],
+      "correct_answer": "In more recent times, the Cenozoic Era"
+    },
+    {
+      "question": "What does the map help fossil hunters do?",
+      "options": [
+        "Write books",
+        "Build houses",
+        "Fly planes",
+        "Plan better digs"
+      ],
+      "correct_answer": "Plan better digs"
+    }
+  ],
+  "background_read": [
+    "Fossils are the remains of animals and plants that lived long ago, saved in rock.",
+    "Only a tiny number of creatures ever become fossils.",
+    "Scientists study fossils to learn what life was like on Earth millions of years ago."
+  ],
+  "Article_Structure": [
+    "WHO: Two scientists, Thomas A. Neubauer and Mathias Harzhauser",
+    "WHAT: A map that points to where missing fossils may be found",
+    "WHERE: In shallow seas around the world",
+    "WHY: Digging takes time and money, so knowing where to look helps"
+  ],
+  "perspectives": [],
+  "mined_at": "2026-11-14T11:20:04+00:00",
+  "source_published_at": "Thu, 12 Nov 2026 06:24:47 EST",
+  "source_name": "ScienceDaily All",
+  "source_url": "https://www.sciencedaily.com/releases/2026/11/261112025529.htm",
+  "category": "Science",
+  "source_word_count": 718,
+  "detail_status": "full"
+}

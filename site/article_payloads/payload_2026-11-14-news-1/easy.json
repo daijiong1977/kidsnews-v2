@@ -1,0 +1,114 @@
+{
+  "title": "Planes Stop Flying All Over the U.S.",
+  "summary": "On Friday, planes all over the United States stopped flying. The Federal Aviation Administration, or FAA, keeps air travel safe. It told all planes to stay on the ground, saying this was needed for \"extraordinary circumstances\" and \"reasons of safety.\" Runways were empty, and hundreds of flights could not take off.\n\nA ground stop means planes must stay on the ground. Planes already in the sky still landed safely. A stop for the whole country almost never happens. It was only the third one in many years; the last one was in January 2023, when a system for pilots stopped working.\n\nHomeland Security Secretary Markwayne Mullin said the problem did not look like an attack. He said it looked like a phone and computer problem, and people did not need to be afraid.\n\nNo one knows yet what went wrong. Planes are guided by 22 centers, linked by old phone lines. Some people think the link broke. Others blame old tools, like floppy disks and paper strips. Everyone was safe, but many travelers had to wait a long time.",
+  "why_it_matters": "If you ever fly with your family, a ground stop could delay your trip, so it helps to know why planes sometimes have to wait.",
+  "image_url": "/article_images/news-sd5c34c183af01927.webp",
+  "keywords": [
+    {
+      "term": "ground stop",
+      "explanation": "When planes are told to stay on the ground."
+    },
+    {
+      "term": "extraordinary circumstances",
+      "explanation": "Very unusual things happening."
+    },
+    {
+      "term": "runways",
+      "explanation": "The long flat strips where planes take off and land."
+    },
+    {
+      "term": "floppy disks",
+      "explanation": "Old flat disks used long ago to store computer data."
+    },
+    {
+      "term": "paper strips",
+      "explanation": "Thin strips of paper once used to keep track of flights."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Who told all planes to stay on the ground?",
+      "options": [
+        "The president",
+        "The Federal Aviation Administration, or FAA",
+        "The airlines",
+        "The pilots"
+      ],
+      "correct_answer": "The Federal Aviation Administration, or FAA"
+    },
+    {
+      "question": "What does a ground stop mean?",
+      "options": [
+        "Planes must stay on the ground",
+        "Planes must turn around",
+        "Planes must land in the sea",
+        "Planes must fly faster"
+      ],
+      "correct_answer": "Planes must stay on the ground"
+    },
+    {
+      "question": "How many times has a stop for the whole country happened in many years?",
+      "options": [
+        "Twenty-two",
+        "One",
+        "Ten",
+        "Three"
+      ],
+      "correct_answer": "Three"
+    },
+    {
+      "question": "What did Secretary Mullin say the problem looked like?",
+      "options": [
+        "A phone and computer problem",
+        "A broken plane",
+        "An attack",
+        "Bad weather"
+      ],
+      "correct_answer": "A phone and computer problem"
+    },
+    {
+      "question": "What guides planes?",
+      "options": [
+        "22 satellites",
+        "22 airports",
+        "22 runways",
+        "22 centers"
+      ],
+      "correct_answer": "22 centers"
+    },
+    {
+      "question": "What happened to travelers?",
+      "options": [
+        "They went to the moon",
+        "They got free tickets",
+        "They all flew home",
+        "Many had to wait a long time"
+      ],
+      "correct_answer": "Many had to wait a long time"
+    }
+  ],
+  "background_read": [
+    "The FAA is the part of the United States government that keeps air travel safe.",
+    "A ground stop is when planes are told to stay on the ground instead of flying.",
+    "Air traffic controllers guide planes from the ground, using computers and phones to talk to pilots."
+  ],
+  "Article_Structure": [
+    "WHO: The FAA and Homeland Security Secretary Markwayne Mullin",
+    "WHAT: All planes in the United States were told to stay on the ground",
+    "WHERE: All over the United States",
+    "WHY: The FAA said it was needed for safety, and the problem looked like a phone and computer problem"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Homeland Security Secretary Markwayne Mullin",
+      "description": "He said the problem did not look like an attack, but like a phone and computer problem, and people did not need to be afraid."
+    }
+  ],
+  "mined_at": "2026-11-14T11:20:04+00:00",
+  "source_published_at": "Fri, 13 Nov 2026 18:56:33 -0500",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/show/faa-issues-rare-nationwide-ground-stop-due-to-extraordinary-circumstances",
+  "category": "News",
+  "source_word_count": 703,
+  "detail_status": "full"
+}

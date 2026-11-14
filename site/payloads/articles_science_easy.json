@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-13-science-1",
-      "source": "Popular Mechanics",
-      "time_ago": "Thu, 12 Nov 2026 20:54:30 +0000",
-      "mined_at": "2026-11-13T11:17:14+00:00",
-      "source_published_at": "Thu, 12 Nov 2026 20:54:30 +0000",
-      "image_url": "/article_images/science-s0269f22978ada7d3.webp",
+      "id": "2026-11-14-science-1",
+      "source": "Space.com",
+      "time_ago": "Sat, 14 Nov 2026 11:00:00 +0000",
+      "mined_at": "2026-11-14T11:20:04+00:00",
+      "source_published_at": "Sat, 14 Nov 2026 11:00:00 +0000",
+      "image_url": "/article_images/science-s5b61524f9a6c1fcc.webp",
       "category": "Science",
-      "title": "A Lost Land Under the Sea",
-      "summary": "Geographer Jerome E. Dobson calls the drowned Ice Age land Aquaterra. Sunken settlements may hold clues to early human history."
+      "title": "Mars and Jupiter Are About to Meet in the Sky",
+      "summary": "Mars and Jupiter will appear side by side in the night sky on November 15-16; look east around midnight to spot them."
     },
     {
-      "id": "2026-11-13-science-2",
-      "source": "Science News Explores",
-      "time_ago": "Thu, 12 Nov 2026 11:30:00 +0000",
-      "mined_at": "2026-11-13T11:17:14+00:00",
-      "source_published_at": "Thu, 12 Nov 2026 11:30:00 +0000",
-      "image_url": "/article_images/science-s34aba7b796039cf4.webp",
+      "id": "2026-11-14-science-2",
+      "source": "ScienceDaily All",
+      "time_ago": "Thu, 12 Nov 2026 06:24:47 EST",
+      "mined_at": "2026-11-14T11:20:04+00:00",
+      "source_published_at": "Thu, 12 Nov 2026 06:24:47 EST",
+      "image_url": "/article_images/science-s08b01252096d019c.webp",
       "category": "Science",
-      "title": "When the Sea Turns Cold, Rescuers Rush to Save Sea Turtles",
-      "summary": "Cold water can leave sea turtles dazed and numb, so helpers rush them to special hospitals for care."
+      "title": "A Treasure Map Points to Missing Fossils",
+      "summary": "Scientists have mapped where Earth's missing fossils are most likely hiding, pointing future digs toward newer rock layers."
     },
     {
-      "id": "2026-11-13-science-3",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Wed, 11 Nov 2026 23:07:24 EST",
-      "mined_at": "2026-11-13T11:17:14+00:00",
-      "source_published_at": "Wed, 11 Nov 2026 23:07:24 EST",
-      "image_url": "/article_images/science-sda7530bfeef91522.webp",
+      "id": "2026-11-14-science-3",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Thu, 12 Nov 2026 18:33:12 EST",
+      "mined_at": "2026-11-14T11:20:04+00:00",
+      "source_published_at": "Thu, 12 Nov 2026 18:33:12 EST",
+      "image_url": "/article_images/science-s56fa8037dddca000.webp",
       "category": "Science",
-      "title": "A Giant Computer Model Lights Up the Universe's Dark Age",
-      "summary": "Lumina, a huge new simulation from MIT and Harvard, recreates 2 billion years of early cosmic history and shows how the first stars and feeding black holes ended the universe's dark age."
+      "title": "Why Some Brains Find Math So Hard",
+      "summary": "Stanford researchers found that children who struggle with math may have trouble switching problem-solving strategies."
     }
   ]
 }

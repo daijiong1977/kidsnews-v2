@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-13-news-1",
-      "source": "NPR World",
-      "time_ago": "Fri, 13 Nov 2026 05:01:00 -0500",
-      "mined_at": "2026-11-13T11:17:14+00:00",
-      "source_published_at": "Fri, 13 Nov 2026 05:01:00 -0500",
-      "image_url": "/article_images/news-s9098178d28850771.webp",
+      "id": "2026-11-14-news-1",
+      "source": "PBS NewsHour",
+      "time_ago": "Fri, 13 Nov 2026 18:56:33 -0500",
+      "mined_at": "2026-11-14T11:20:04+00:00",
+      "source_published_at": "Fri, 13 Nov 2026 18:56:33 -0500",
+      "image_url": "/article_images/news-sd5c34c183af01927.webp",
       "category": "News",
-      "title": "Rivers in the Sky Are Soaking the Pacific Northwest",
-      "summary": "Rivers of water vapor in the sky are bringing days of heavy rain to Oregon and Washington, and high tides raise the risk of flooding."
+      "title": "Planes Stop Flying All Over the U.S.",
+      "summary": "The FAA told all planes in the U.S. to stay on the ground on Friday after a communications problem; officials said it was not an attack and everyone was safe."
     },
     {
-      "id": "2026-11-13-news-2",
-      "source": "BBC News",
-      "time_ago": "Fri, 13 Nov 2026 10:53:40 GMT",
-      "mined_at": "2026-11-13T11:17:14+00:00",
-      "source_published_at": "Fri, 13 Nov 2026 10:53:40 GMT",
-      "image_url": "/article_images/news-s2fd6a8a3ba2f54be.webp",
+      "id": "2026-11-14-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Fri, 13 Nov 2026 19:20:20 -0500",
+      "mined_at": "2026-11-14T11:20:04+00:00",
+      "source_published_at": "Fri, 13 Nov 2026 19:20:20 -0500",
+      "image_url": "/article_images/news-sc42b9080cf6473d3.webp",
       "category": "News",
-      "title": "Microsoft's Big Outage Stops Millions From Using Email",
-      "summary": "A big Microsoft outage stopped millions from using Outlook, Teams and Copilot. Microsoft says it was not a cyber-attack, and fixes are under way."
+      "title": "Starship Flies to Orbit, but Its Booster Is Lost",
+      "summary": "SpaceX's Starship reached orbit on Friday, but its booster broke down and fell into the sea instead of being caught at the launch pad."
     },
     {
-      "id": "2026-11-13-news-3",
+      "id": "2026-11-14-news-3",
       "source": "NPR World",
-      "time_ago": "Fri, 13 Nov 2026 05:00:00 -0500",
-      "mined_at": "2026-11-13T11:17:14+00:00",
-      "source_published_at": "Fri, 13 Nov 2026 05:00:00 -0500",
-      "image_url": "/article_images/news-s7735f4bb5b290186.webp",
+      "time_ago": "Sat, 14 Nov 2026 00:12:43 -0500",
+      "mined_at": "2026-11-14T11:20:04+00:00",
+      "source_published_at": "Sat, 14 Nov 2026 00:12:43 -0500",
+      "image_url": "/article_images/news-s683e1507cbaaadfe.webp",
       "category": "News",
-      "title": "Every Little Bit of Warming Matters",
-      "summary": "Every tiny bit of warming matters — for corals, heat waves, and storms — and countries meeting in Turkey are talking about how to slow it down, including switching to electricity from solar and wind."
+      "title": "Alaska Picks Its Youngest Governor Ever",
+      "summary": "Democrat Jonathan Kreiss-Tomkins, 37, won Alaska's governor race and will be the state's youngest governor ever."
     }
   ]
 }

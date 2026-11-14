@@ -1,0 +1,118 @@
+{
+  "title": "An AI Copilot That Helps Engineers Design Better Buildings",
+  "summary": "Computers can design parts for ultralight airplanes, high-powered antennas, and Formula 1 race cars. But the best programs take a long time, and the human only sees the finished design at the end. If something needs changing, the process often starts over. Engineers also find it hard to trust designs that look strange.\n\nMIT researchers have built a fix: a system that works like an AI copilot for design. As the computer generates a structure, it shows the human designer the parts the human might want to change, and the human gives feedback while the design is still taking shape.\n\nThe system uses a method called topology optimization, which finds the best shape for a structure. Until now, engineers had almost no control over how the design evolved. \"Right now, the human doesn't have any agency or control over the design process as it's playing out,\" said lead author Dat Ha, a recent MIT doctoral student who now works as a structural designer.\n\n\"Engineers are always very skeptical of computer programs, especially if they give you very weird-looking or unexpected designs,\" Ha added. That \"black box\" nature has kept the method from wider use, even though it is powerful.\n\nTo teach the system what humans want to change, the researchers trained it on a made-up dataset of likely human feedback on thousands of designs, covering looks, performance, and how easy a part is to make.\n\nIn tests in the journal Communications Engineering, the approach produced structures that were easier to manufacture and 39 percent stronger against buckling, the way a structure bends and collapses under pressure, while adding only 15 seconds to the design time.\n\nFor now, the system only lets users make parts thicker or thinner in the chosen regions. The researchers hope to add more options, and believe the approach could open computer-aided design to a much wider audience, including students.",
+  "why_it_matters": "Good design matters for the bridges we cross and the buildings we live in. If computers and humans design together, structures can be stronger, cheaper, and easier to build.",
+  "image_url": "/article_images/fun-s713136e0edae782f.webp",
+  "keywords": [
+    {
+      "explanation": "A helper that works alongside someone, like a second pilot.",
+      "term": "copilot"
+    },
+    {
+      "explanation": "A way of finding the best shape for a structure.",
+      "term": "topology optimization"
+    },
+    {
+      "explanation": "The way a structure bends and falls apart under pressure.",
+      "term": "buckling"
+    },
+    {
+      "explanation": "To make something in a factory.",
+      "term": "manufacture"
+    },
+    {
+      "explanation": "Not easily believing something; having doubts.",
+      "term": "skeptical"
+    }
+  ],
+  "questions": [
+    {
+      "correct_answer": "An AI copilot for design",
+      "options": [
+        "A robot builder",
+        "An AI copilot for design",
+        "A calculator",
+        "A 3D printer"
+      ],
+      "question": "What does the new system work like?"
+    },
+    {
+      "correct_answer": "Topology optimization",
+      "options": [
+        "Topology optimization",
+        "Building with blocks",
+        "Copying old designs",
+        "Drawing by hand"
+      ],
+      "question": "What design method does the system use?"
+    },
+    {
+      "correct_answer": "Dat Ha",
+      "options": [
+        "Josephine Carstensen",
+        "Markus Buehler",
+        "Dat Ha",
+        "Elon Musk"
+      ],
+      "question": "Who is the lead author?"
+    },
+    {
+      "correct_answer": "39 percent",
+      "options": [
+        "100 percent",
+        "50 percent",
+        "15 percent",
+        "39 percent"
+      ],
+      "question": "How much stronger against buckling were the new structures?"
+    },
+    {
+      "correct_answer": "Only 15 seconds",
+      "options": [
+        "15 days",
+        "15 minutes",
+        "15 hours",
+        "Only 15 seconds"
+      ],
+      "question": "How much time did the new way add?"
+    },
+    {
+      "correct_answer": "Make parts thicker or thinner",
+      "options": [
+        "Add windows",
+        "Change the color",
+        "Make parts thicker or thinner",
+        "Make parts invisible"
+      ],
+      "question": "What can users change for now?"
+    }
+  ],
+  "background_read": [
+    "An engineer is a person who designs and builds things like bridges, buildings, and machines.",
+    "A computer program is a set of instructions that tells a computer what to do.",
+    "Artificial intelligence, or AI, is when a computer learns from examples and makes choices on its own.",
+    "A structure is something built, like a bridge or a building, that must be strong enough to hold weight."
+  ],
+  "Article_Structure": [
+    "LEAD: MIT researchers built an AI copilot that lets engineers shape designs as the computer creates them.",
+    "KEY EVENT: A new system makes computer design collaborative.",
+    "  ├─ WHO: MIT researchers, led by Dat Ha",
+    "  ├─ WHAT: A design copilot using topology optimization",
+    "  └─ WHY: Engineers could not control or trust computer designs",
+    "EVIDENCE: Structures were easier to manufacture and 39 percent stronger against buckling, adding only 15 seconds.",
+    "OPEN QUESTION: What other changes will future versions allow?"
+  ],
+  "perspectives": [
+    {
+      "description": "He said engineers are skeptical of computer programs that give weird-looking designs, and that humans currently have no control over the design process.",
+      "perspective": "Dat Ha"
+    }
+  ],
+  "mined_at": "2026-11-14T11:20:04+00:00",
+  "source_published_at": "Fri, 13 Nov 2026 00:00:00 -0500",
+  "source_name": "MIT News",
+  "source_url": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
+  "category": "Fun",
+  "source_word_count": 741,
+  "detail_status": "full"
+}

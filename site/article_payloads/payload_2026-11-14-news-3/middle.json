@@ -1,0 +1,122 @@
+{
+  "title": "Alaska Picks Its Youngest Governor Ever",
+  "summary": "Alaska has a new governor, and he is the youngest in the state's history. Democrat Jonathan Kreiss-Tomkins, 37, won the race, according to a call by the Associated Press. He will replace outgoing Governor Mike Dunleavy, a Republican who has led the state since 2018. Alaska's last Democratic governor left office in 2002.\n\nKreiss-Tomkins is a former state representative from Sitka, a small island community, known by his initials, JKT. He built his campaign around what he called a \"high-energy, bipartisan, problem-solving approach,\" and says he plans an administration of Democrats, Republicans, and independents. At a debate he called himself a \"man of the middle.\"\n\nHis message won support from unusual places: three former governors, a Democrat, a Republican, and an independent, plus Republican Senator Lisa Murkowski. \"I strongly believe people just want things to work, and want people to work together,\" Kreiss-Tomkins said in an interview on Election Day.\n\nThe result took more than a week to call, as workers counted votes sent by mail and from far-flung parts of the state. Alaska uses a ranked-choice system, in which voters rank candidates in order. Kreiss-Tomkins faced three Republican candidates, including one backed by President Trump. To win, a candidate needs a majority.\n\nVoters also decided a ballot question about whether to scrap the ranked-choice system. That proposal failed, so the system stays in place.\n\nKreiss-Tomkins takes office at noon on December 7. He will lead a state where many voters say things are not working as they should. Rising costs and flat state funding have forced schools to close and class sizes to grow, food, fuel, and housing have all become more expensive, and many Alaskans have been moving away for more than a decade.",
+  "why_it_matters": "Governors make decisions that affect schools, roads, and daily life in their state. Alaska's new governor won by promising to work with all parties, and how he does will matter to everyone who lives there.",
+  "image_url": "/article_images/news-s683e1507cbaaadfe.webp",
+  "keywords": [
+    {
+      "explanation": "When people from different political parties work together.",
+      "term": "bipartisan"
+    },
+    {
+      "explanation": "A voting system where you list candidates in order of preference.",
+      "term": "ranked-choice"
+    },
+    {
+      "explanation": "A question on the ballot that voters decide by voting yes or no.",
+      "term": "ballot question"
+    },
+    {
+      "explanation": "Not belonging to a political party.",
+      "term": "independent"
+    },
+    {
+      "explanation": "More than half of the votes.",
+      "term": "majority"
+    }
+  ],
+  "questions": [
+    {
+      "correct_answer": "Jonathan Kreiss-Tomkins",
+      "options": [
+        "Tony Knowles",
+        "Mike Dunleavy",
+        "Lisa Murkowski",
+        "Jonathan Kreiss-Tomkins"
+      ],
+      "question": "Who won the Alaska governor race?"
+    },
+    {
+      "correct_answer": "37",
+      "options": [
+        "27",
+        "37",
+        "47",
+        "57"
+      ],
+      "question": "How old is Kreiss-Tomkins?"
+    },
+    {
+      "correct_answer": "Sitka",
+      "options": [
+        "Sitka",
+        "Fairbanks",
+        "Anchorage",
+        "Juneau"
+      ],
+      "question": "What town is Kreiss-Tomkins from?"
+    },
+    {
+      "correct_answer": "Voters rank candidates in order",
+      "options": [
+        "Voters pick one candidate and cannot change it",
+        "Only Republicans can vote",
+        "The governor picks the winner",
+        "Voters rank candidates in order"
+      ],
+      "question": "How does Alaska's ranked-choice system work?"
+    },
+    {
+      "correct_answer": "They voted to keep it",
+      "options": [
+        "They did not vote on it",
+        "They voted to change it to a coin toss",
+        "They voted to scrap it",
+        "They voted to keep it"
+      ],
+      "question": "What did voters decide about the ranked-choice system?"
+    },
+    {
+      "correct_answer": "At noon on December 7",
+      "options": [
+        "Next summer",
+        "At noon on December 7",
+        "In January 2027",
+        "On Election Day"
+      ],
+      "question": "When does Kreiss-Tomkins take office?"
+    }
+  ],
+  "background_read": [
+    "A governor is the leader of a U.S. state, in charge of the state's government.",
+    "Alaska is the largest U.S. state, far to the north, with many small and far-apart towns.",
+    "In a ranked-choice election, voters list candidates in order, and a candidate needs more than half the votes to win.",
+    "The two big political parties in the U.S. are the Democrats and the Republicans, and some politicians belong to neither party."
+  ],
+  "Article_Structure": [
+    "LEAD: Alaska has a new governor, the youngest in the state's history.",
+    "KEY EVENT: Democrat Jonathan Kreiss-Tomkins won the governor's race.",
+    "  ├─ WHO: Jonathan Kreiss-Tomkins, 37, a former state representative from Sitka",
+    "  ├─ WHEN: The result was called after more than a week of counting",
+    "  └─ WHY: He campaigned on working together across parties",
+    "EVIDENCE: Endorsed by three former governors and Senator Lisa Murkowski; beat three Republican candidates",
+    "OPEN QUESTION: Can he fix the problems voters complain about, like rising costs and closing schools?"
+  ],
+  "perspectives": [
+    {
+      "description": "He said people just want things to work and people to work together, and he plans an administration of Democrats, Republicans, and independents.",
+      "perspective": "Jonathan Kreiss-Tomkins"
+    },
+    {
+      "description": "Many say things in the state are not working as they should, with rising costs, closing schools, and people moving away.",
+      "perspective": "Alaska's voters"
+    }
+  ],
+  "mined_at": "2026-11-14T11:20:04+00:00",
+  "source_published_at": "Sat, 14 Nov 2026 00:12:43 -0500",
+  "source_name": "NPR World",
+  "source_url": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins",
+  "category": "News",
+  "source_word_count": 441,
+  "detail_status": "full"
+}

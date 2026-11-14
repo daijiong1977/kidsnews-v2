@@ -1,0 +1,118 @@
+{
+  "title": "Starship Reaches Orbit, but Its Booster Misses the Big Catch",
+  "summary": "SpaceX's giant Starship rocket soared into orbit on Friday in its boldest test yet, but the first part of its planned double catch went wrong.\n\nThe plan was to recover the whole rocket at its launch pad in Starbase, Texas. Giant mechanical arms on the launch tower were supposed to pluck the booster out of the air as it returned, then do the same for the spacecraft. No one has ever recovered a whole rocket this way.\n\nThe booster, called Super Heavy, is 236 feet tall. Shortly after liftoff, it malfunctioned. An automatic abort sent it into the Gulf of Mexico instead of back to the pad, where it exploded in the water. SpaceX had already caught three boosters before, but this was the first try with the upgraded, taller version.\n\nThe spacecraft part, 171 feet tall, kept flying. It reached orbit and prepared to deliver 26 of SpaceX's most advanced Starlink satellites. It was to circle Earth 15 times, about 170 miles up, over about 22 hours, then steer back to the pad on Saturday for its own catch attempt. Together, booster and spacecraft stand 407 feet tall, making Starship the biggest and most powerful rocket in the world.\n\nReusing the whole rocket could make launches cheaper and far more frequent. Elon Musk, who leads SpaceX, says that is what it will take to build moon bases and send people to Mars.\n\nIn the first full test in 2023, several engines failed to light and the self-destruct system switched on. The September test was the first to reach orbit, but SpaceX tried no recovery.\n\nNASA is paying SpaceX billions of dollars to land its Artemis astronauts on the moon using Starships, with a touchdown possible as early as 2028.",
+  "why_it_matters": "Reusable rockets could make space travel much cheaper and more common, which matters for future trips to the moon and Mars. The test shows how hard it is to catch a giant rocket, and how much is still being learned.",
+  "image_url": "/article_images/news-sc42b9080cf6473d3.webp",
+  "keywords": [
+    {
+      "explanation": "The first part of a rocket that lifts it off the ground.",
+      "term": "booster"
+    },
+    {
+      "explanation": "A vehicle that travels in space.",
+      "term": "spacecraft"
+    },
+    {
+      "explanation": "The path around Earth that a spacecraft follows in space.",
+      "term": "orbit"
+    },
+    {
+      "explanation": "Stopped working the way it should.",
+      "term": "malfunctioned"
+    },
+    {
+      "explanation": "SpaceX's group of satellites that provide internet from space.",
+      "term": "Starlink"
+    }
+  ],
+  "questions": [
+    {
+      "correct_answer": "It malfunctioned and fell into the Gulf of Mexico",
+      "options": [
+        "It malfunctioned and fell into the Gulf of Mexico",
+        "It stayed on the launch pad",
+        "It flew to the moon",
+        "It was caught by the launch tower"
+      ],
+      "question": "What happened to the booster?"
+    },
+    {
+      "correct_answer": "407 feet",
+      "options": [
+        "407 feet",
+        "52 feet",
+        "236 feet",
+        "171 feet"
+      ],
+      "question": "How tall are the booster and spacecraft together?"
+    },
+    {
+      "correct_answer": "26 Starlink satellites",
+      "options": [
+        "26 Starlink satellites",
+        "26 astronauts",
+        "Food for the space station",
+        "Moon rocks"
+      ],
+      "question": "What was the spacecraft supposed to deliver?"
+    },
+    {
+      "correct_answer": "15 times",
+      "options": [
+        "3 times",
+        "22 times",
+        "15 times",
+        "Once"
+      ],
+      "question": "How many times was the spacecraft supposed to circle Earth?"
+    },
+    {
+      "correct_answer": "To make launches cheaper and more frequent",
+      "options": [
+        "To make launches cheaper and more frequent",
+        "To win a race with NASA",
+        "To stop using the moon",
+        "To make the rocket taller"
+      ],
+      "question": "Why does SpaceX want to reuse the whole rocket?"
+    },
+    {
+      "correct_answer": "Several engines failed to light and the self-destruct system switched on",
+      "options": [
+        "The rocket was caught at the pad",
+        "The rocket landed on the moon",
+        "Nothing went wrong",
+        "Several engines failed to light and the self-destruct system switched on"
+      ],
+      "question": "What happened during the first full test in 2023?"
+    }
+  ],
+  "background_read": [
+    "A rocket is a vehicle that carries things into space, and it is made of parts called stages that fall away as it climbs.",
+    "Starship is SpaceX's giant rocket, built to be reused again and again instead of thrown away after one flight.",
+    "To reuse a rocket, SpaceX tries to catch its parts as they fall back to Earth, using giant mechanical arms on the launch tower.",
+    "NASA plans to use Starship to carry astronauts to the moon."
+  ],
+  "Article_Structure": [
+    "LEAD: SpaceX's Starship reached orbit on Friday, but its booster missed the catch.",
+    "KEY EVENT: The booster malfunctioned and fell into the Gulf of Mexico.",
+    "  ├─ WHO: SpaceX and its Starship rocket",
+    "  ├─ WHEN: Friday, on the latest test flight",
+    "  └─ WHERE: Starbase, Texas, and the Gulf of Mexico",
+    "EVIDENCE: The booster is 236 feet tall; the spacecraft is 171 feet; together they stand 407 feet tall.",
+    "OPEN QUESTION: Will the spacecraft be caught when it returns to the pad on Saturday?"
+  ],
+  "perspectives": [
+    {
+      "description": "He says fast, steady launches are what it will take to build moon bases and send people to Mars.",
+      "perspective": "Elon Musk, who leads SpaceX"
+    }
+  ],
+  "mined_at": "2026-11-14T11:20:04+00:00",
+  "source_published_at": "Fri, 13 Nov 2026 19:20:20 -0500",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/science/spacexs-starship-soars-into-orbit-after-booster-malfunction-thwarts-double-catch-attempt",
+  "category": "News",
+  "source_word_count": 701,
+  "detail_status": "full"
+}
