@@ -1,0 +1,114 @@
+{
+  "title": "A Giant Icy World Hiding Beyond Pluto",
+  "summary": "Astronomers may have found a new world at the edge of our solar system. The object is called 2026 ED138 for now. Matthew Holman spotted it on October 13, using the Simonyi Survey Telescope at the Vera C. Rubin Observatory. Mario Juric of the University of Washington helped check the find. Holman used software made with Kevin Napier to scan billions of pictures for tiny moving points of light. Juric found 20 more sightings, some from March 2026, and older pictures going back to 2016. ED138 is now about 46 astronomical units from the Sun, while Pluto averages about 40. The object is about 1,000 kilometres across, the biggest world found beyond Neptune in about 20 years. If confirmed, it would be our sixth dwarf planet, joining Pluto, Ceres, Eris, Haumea and Makemake. Scientists think an icy object this big is probably round, but they need more looks to be sure. It stayed hidden in a crowded patch of sky near the Milky Way, where millions of stars hid its faint movement.",
+  "why_it_matters": "Learning about new worlds far from the Sun can help you understand how big our solar system is and how scientists keep discovering things beyond what you learn in school.",
+  "image_url": "/article_images/science-s3024b58bded5b923.webp",
+  "keywords": [
+    {
+      "term": "astronomical units",
+      "explanation": "A way to measure very long distances in space, using the distance from Earth to the Sun as one unit."
+    },
+    {
+      "term": "dwarf planet",
+      "explanation": "A round world in space that is smaller than a planet and shares its path with other objects."
+    },
+    {
+      "term": "Observatory",
+      "explanation": "A place with big telescopes where people watch the sky and study stars and planets."
+    },
+    {
+      "term": "Milky Way",
+      "explanation": "The galaxy we live in, which looks like a bright band of stars across the night sky."
+    },
+    {
+      "term": "kilometres",
+      "explanation": "A unit for measuring long distances, where 1,000 metres make one kilometre."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is the new object called for now?",
+      "options": [
+        "Pluto",
+        "Makemake",
+        "2026 ED138",
+        "Eris"
+      ],
+      "correct_answer": "2026 ED138"
+    },
+    {
+      "question": "Which telescope did Matthew Holman use to spot the object?",
+      "options": [
+        "A telescope in Hawaii",
+        "The Hubble Telescope",
+        "The Simonyi Survey Telescope",
+        "A telescope on the Moon"
+      ],
+      "correct_answer": "The Simonyi Survey Telescope"
+    },
+    {
+      "question": "How far is ED138 from the Sun now, compared with Pluto?",
+      "options": [
+        "About 40 astronomical units, the same as Pluto",
+        "About 1,000 kilometres from the Sun",
+        "About 20 astronomical units, closer than Pluto",
+        "About 46 astronomical units, farther than Pluto's average of about 40"
+      ],
+      "correct_answer": "About 46 astronomical units, farther than Pluto's average of about 40"
+    },
+    {
+      "question": "About how wide is ED138?",
+      "options": [
+        "About 1,000 kilometres across",
+        "About 100 kilometres across",
+        "About 20 kilometres across",
+        "About 46 kilometres across"
+      ],
+      "correct_answer": "About 1,000 kilometres across"
+    },
+    {
+      "question": "If confirmed, what would ED138 become?",
+      "options": [
+        "A new star",
+        "A new moon of Pluto",
+        "Our first planet beyond Neptune",
+        "Our sixth dwarf planet"
+      ],
+      "correct_answer": "Our sixth dwarf planet"
+    },
+    {
+      "question": "Why did ED138 stay hidden for so long?",
+      "options": [
+        "It was in a crowded patch of sky near the Milky Way, where millions of stars hid its faint movement",
+        "It was too close to Earth to see",
+        "It was behind the Sun",
+        "It only appears in summer"
+      ],
+      "correct_answer": "It was in a crowded patch of sky near the Milky Way, where millions of stars hid its faint movement"
+    }
+  ],
+  "background_read": [
+    "Our solar system has the Sun and worlds that travel around it, including planets and smaller dwarf planets far away.",
+    "Pluto is one dwarf planet that travels far from the Sun, beyond Neptune.",
+    "Astronomers look for tiny moving points of light in sky pictures to find new faraway worlds that are hard to see."
+  ],
+  "Article_Structure": [
+    "WHO: Matthew Holman, Mario Juric and Kevin Napier, astronomers who searched sky pictures for the new world.",
+    "WHAT: They may have found a large icy world called 2026 ED138 beyond Pluto that could become our sixth dwarf planet.",
+    "WHERE: At the edge of our solar system, about 46 astronomical units from the Sun, in a crowded patch of sky near the Milky Way.",
+    "WHY: They need more looks to check if the icy object is round and confirm it as a dwarf planet."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Scientists",
+      "description": "They think an icy object this big is probably round, but they need more looks to be sure."
+    }
+  ],
+  "mined_at": "2026-11-15T11:16:45+00:00",
+  "source_published_at": "Sat, 14 Nov 2026 06:58:42 EST",
+  "source_name": "ScienceDaily Strange & Offbeat",
+  "source_url": "https://www.sciencedaily.com/releases/2026/11/261112230447.htm",
+  "category": "Science",
+  "source_word_count": 682,
+  "detail_status": "full"
+}

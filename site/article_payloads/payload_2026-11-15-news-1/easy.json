@@ -1,0 +1,122 @@
+{
+  "title": "Old Wires, Big Problem: Why U.S. Flights Stopped on Friday",
+  "summary": "On Friday afternoon, planes across the United States suddenly stopped taking off. Air traffic controllers ordered a ground stop for four hours from 3:54 p.m. Eastern time. It was the longest such stop since September 11, 2001. Workers for a company called L3Harris were replacing old copper telephone wires with new fibre-optic cables. Transport Secretary Sean Duffy said a router being worked on began flooding other systems with data, cutting off communication with planes. More than 15,000 flights were delayed or cancelled that day, affecting about 1.5 million passengers. On Saturday, more than 5,900 flights were cancelled and 7,000 delayed. The Federal Aviation Administration said flights should be back to normal by the end of Sunday. Duffy said it is still not known if the fault came from the wire work or the router. He warned it could happen again unless Congress pays to modernise air traffic control. President Donald Trump has asked for 30.1 billion dollars, and Duffy has said the system needs a 50 billion dollar overhaul.",
+  "why_it_matters": "If your family is flying to visit relatives or for a holiday, a ground stop like this could delay or cancel your flight and change your trip plans.",
+  "image_url": "/article_images/news-sa3d5a986d4ae22ee.webp",
+  "keywords": [
+    {
+      "term": "ground stop",
+      "explanation": "A ground stop is when planes are told to stay on the ground and not take off."
+    },
+    {
+      "term": "copper",
+      "explanation": "Copper is a brownish metal used to make wires that carry signals."
+    },
+    {
+      "term": "fibre-optic",
+      "explanation": "A fibre-optic cable is a thin cable that sends signals as light."
+    },
+    {
+      "term": "router",
+      "explanation": "A router is a device that sends data between computer systems."
+    },
+    {
+      "term": "modernise",
+      "explanation": "To modernise something is to make it newer and better."
+    },
+    {
+      "term": "overhaul",
+      "explanation": "An overhaul is a big repair and rebuild of a whole system."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How long did the ground stop last on Friday afternoon?",
+      "options": [
+        "Four hours",
+        "One hour",
+        "Eight hours",
+        "Thirty minutes"
+      ],
+      "correct_answer": "Four hours"
+    },
+    {
+      "question": "What were workers doing when the problem happened?",
+      "options": [
+        "Training new pilots",
+        "Painting planes",
+        "Replacing old copper telephone wires with new fibre-optic cables",
+        "Building a new airport"
+      ],
+      "correct_answer": "Replacing old copper telephone wires with new fibre-optic cables"
+    },
+    {
+      "question": "What did Sean Duffy say began flooding other systems with data?",
+      "options": [
+        "A router being worked on",
+        "A plane engine",
+        "A weather radar",
+        "A ticket machine"
+      ],
+      "correct_answer": "A router being worked on"
+    },
+    {
+      "question": "About how many passengers were affected by delays or cancellations that day?",
+      "options": [
+        "About 15,000 passengers",
+        "About 15 million passengers",
+        "About 150,000 passengers",
+        "About 1.5 million passengers"
+      ],
+      "correct_answer": "About 1.5 million passengers"
+    },
+    {
+      "question": "How many flights were cancelled on Saturday?",
+      "options": [
+        "More than 15,000 flights",
+        "More than 5,900 flights",
+        "About 900 flights",
+        "About 1,500 flights"
+      ],
+      "correct_answer": "More than 5,900 flights"
+    },
+    {
+      "question": "When did the Federal Aviation Administration say flights should be back to normal?",
+      "options": [
+        "By the end of next month",
+        "By the end of Sunday",
+        "By the end of Friday",
+        "By the end of Saturday"
+      ],
+      "correct_answer": "By the end of Sunday"
+    }
+  ],
+  "background_read": [
+    "Air traffic controllers are the people who tell planes when it is safe to take off, fly, and land.",
+    "They talk to pilots using phones, radios, and computers, so if those links stop working, planes cannot safely move.",
+    "Old copper wires are being swapped for newer fibre-optic cables, which can carry signals faster and more reliably."
+  ],
+  "Article_Structure": [
+    "WHO: Air traffic controllers, workers for L3Harris, Transport Secretary Sean Duffy, and President Donald Trump",
+    "WHAT: A ground stop halted planes across the United States for four hours after a router problem cut off communication with planes during wire replacement work.",
+    "WHERE: At airports across the United States",
+    "WHY: A router being worked on began flooding other systems with data, cutting off communication with planes, and the cause is still not known."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Transport Secretary Sean Duffy",
+      "description": "He warned it could happen again unless Congress pays to modernise air traffic control, and he said the system needs a 50 billion dollar overhaul."
+    },
+    {
+      "perspective": "President Donald Trump",
+      "description": "He has asked for 30.1 billion dollars for air traffic control."
+    }
+  ],
+  "mined_at": "2026-11-15T11:16:45+00:00",
+  "source_published_at": "Sun, 15 Nov 2026 07:10:31 GMT",
+  "source_name": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+  "category": "News",
+  "source_word_count": 503,
+  "detail_status": "full"
+}

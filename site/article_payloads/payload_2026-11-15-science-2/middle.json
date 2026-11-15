@@ -1,0 +1,120 @@
+{
+  "title": "Did Dinosaurs Snack on Seaweed?",
+  "summary": "Dinosaurs that lived along ancient coastlines may have snacked on seaweed. New research suggests that food from the ocean, washed onto prehistoric beaches, helped feed dinosaurs and their prey more than 100 million years ago.\n\nToday, powerful storms often dump seaweed and other ocean material along shorelines, giving land animals extra food to eat. Scientists call this marine subsidization. It matters most in coastal places, and it can become especially important when food on land is scarce, such as during droughts.\n\nA new study in the journal Frontiers in Ecology and Evolution suggests this land-and-sea link existed in the age of dinosaurs too. The researchers looked at chemical fingerprints preserved in fossils. Plants contain two forms of carbon, called isotopes: light carbon-12 and heavy carbon-13. As animals eat, the carbon signature of their food ends up in their tooth enamel. Earlier measurements of dinosaur teeth kept showing unusually high values, higher than expected from animals that ate only land plants.\n\nThe team studied fossils from coastal places that once bordered the Western Interior Seaway, a huge inland sea that split North America into two landmasses around 100 million years ago, and the ancient coastline of the Gulf of Mexico. They also checked fossils from farther inland, so they could compare animals that lived near the ocean with those that lived far from it.\n\nA clear pattern emerged. Fossils from coastal environments consistently had higher carbon values than those from inland, and the coastal readings stayed similar across different places, no matter the latitude or age. The fossils formed during two stretches of the Cretaceous Period, the early Albian, about 113 to 107 million years ago, and the early Cenomanian, about 100 to 96 million years ago. The findings are the first evidence of marine subsidization in prehistoric ecosystems, showing that nutrients from the ocean travelled up food chains on land. As the study's first author, Dr. Clayton Forster of the University of Arkansas, explained, marine resources were passed along the food chain and ended up in the bones and teeth of dinosaurs, crocodiles, turtles and fish.",
+  "why_it_matters": "The findings show that land and sea were linked long ago, so ocean food could shape life on land, which helps scientists understand how ancient food chains worked.",
+  "image_url": "/article_images/science-s743b7bb9da837544.webp",
+  "keywords": [
+    {
+      "term": "marine subsidization",
+      "explanation": "When food and nutrients from the sea reach land and feed land animals."
+    },
+    {
+      "term": "isotopes",
+      "explanation": "Different forms of the same element, such as light and heavy carbon."
+    },
+    {
+      "term": "tooth enamel",
+      "explanation": "The hard outer layer of a tooth that can keep chemical clues about what an animal ate."
+    },
+    {
+      "term": "Western Interior Seaway",
+      "explanation": "A huge inland sea that once split North America into two landmasses."
+    },
+    {
+      "term": "Cretaceous Period",
+      "explanation": "A long period of Earth's history when dinosaurs lived."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What did dinosaurs living near ancient coasts possibly snack on?",
+      "options": [
+        "Only land plants",
+        "Sand",
+        "Rocks",
+        "Seaweed"
+      ],
+      "correct_answer": "Seaweed"
+    },
+    {
+      "question": "What do scientists call it when ocean food washed onto land feeds land animals?",
+      "options": [
+        "Marine subsidization",
+        "Tooth enamel",
+        "The Cretaceous Period",
+        "A drought"
+      ],
+      "correct_answer": "Marine subsidization"
+    },
+    {
+      "question": "What chemical clue did the researchers study in fossils?",
+      "options": [
+        "Carbon isotopes in tooth enamel",
+        "The shape of the beaches",
+        "The colour of the rocks",
+        "The size of the fossils"
+      ],
+      "correct_answer": "Carbon isotopes in tooth enamel"
+    },
+    {
+      "question": "Which huge inland sea once bordered the coastal fossil sites?",
+      "options": [
+        "The Western Interior Seaway",
+        "The Atlantic Ocean",
+        "The Milky Way",
+        "The Gulf of Mexico"
+      ],
+      "correct_answer": "The Western Interior Seaway"
+    },
+    {
+      "question": "How did carbon values in coastal fossils compare with those from inland?",
+      "options": [
+        "They were exactly the same",
+        "Inland fossils had higher carbon values",
+        "Coastal fossils had higher carbon values",
+        "Coastal fossils had no carbon at all"
+      ],
+      "correct_answer": "Coastal fossils had higher carbon values"
+    },
+    {
+      "question": "During which two stretches did the fossils form?",
+      "options": [
+        "The Albian and the present day",
+        "The early Albian and the Jurassic",
+        "The Cenomanian and the Ice Age",
+        "The early Albian and the early Cenomanian"
+      ],
+      "correct_answer": "The early Albian and the early Cenomanian"
+    }
+  ],
+  "background_read": [
+    "Seaweed is a plant-like living thing that grows in the sea and can wash up on beaches.",
+    "When ocean material reaches land, it can give land animals extra food, especially when food on land is hard to find.",
+    "Fossils are the remains of ancient living things preserved in rock, and teeth can keep chemical clues about what an animal ate.",
+    "Dinosaurs lived long ago, and some of them lived near coasts where land met the sea."
+  ],
+  "Article_Structure": [
+    "LEAD: Dinosaurs that lived along ancient coastlines may have snacked on seaweed.",
+    "KEY IDEA: Food from the ocean, washed onto prehistoric beaches, helped feed dinosaurs and their prey more than 100 million years ago.",
+    "  ├─ TODAY: Powerful storms often dump seaweed along shorelines, giving land animals extra food.",
+    "  └─ NAME: Scientists call this marine subsidization.",
+    "EVIDENCE: Chemical fingerprints in fossils show coastal dinosaurs had higher carbon values than inland ones.",
+    "  ├─ HOW: Plants hold light carbon-12 and heavy carbon-13, and the carbon mark of food ends up in tooth enamel.",
+    "  ├─ WHERE: Fossils came from the Western Interior Seaway coast and the ancient Gulf of Mexico coastline, plus farther inland for comparison.",
+    "  └─ WHEN: The fossils formed in the early Albian, about 113 to 107 million years ago, and the early Cenomanian, about 100 to 96 million years ago.",
+    "CONCLUSION: This is the first evidence of marine subsidization in prehistoric ecosystems."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Dr. Clayton Forster, the study's first author",
+      "description": "He explained that marine resources were passed along the food chain and ended up in the bones and teeth of dinosaurs, crocodiles, turtles and fish."
+    }
+  ],
+  "mined_at": "2026-11-15T11:16:45+00:00",
+  "source_published_at": "Sat, 14 Nov 2026 22:00:54 EST",
+  "source_name": "ScienceDaily Top Environment",
+  "source_url": "https://www.sciencedaily.com/releases/2026/11/261112230502.htm",
+  "category": "Science",
+  "source_word_count": 617,
+  "detail_status": "full"
+}

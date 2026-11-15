@@ -1,0 +1,128 @@
+{
+  "title": "Old Wires, Big Problem: Why U.S. Flights Stopped on Friday",
+  "summary": "On Friday afternoon, planes across the United States suddenly stopped taking off. Air traffic controllers ordered a ground stop, meaning no departures at all, for four hours, starting at 3:54 p.m. Eastern time. It was the longest such stop since the attacks of September 11, 2001.\n\nThe cause was a tech problem during an upgrade. Workers were replacing old copper telephone wires with new fibre-optic cables in the air traffic control system. The work was being done by a company called L3Harris. Transport Secretary Sean Duffy said a router that was being worked on began flooding other air traffic control systems with data, cutting off communication with planes. Controllers stopped flights to stay safe while the problem was fixed.\n\nThe shutdown rippled across the country. More than 15,000 flights were delayed or cancelled that day, affecting about 1.5 million passengers. Some travellers sat stuck inside planes on the runway, unable to take off or return to the gate. On Saturday, more than 5,900 flights were cancelled and 7,000 delayed as airlines tried to clear the backlog. The Federal Aviation Administration said schedules should be back to normal by the end of Sunday.\n\nDuffy said the government is still trying to work out whether the fault came from the wire replacement or from the router itself. He warned the same kind of problem could happen again unless Congress approves money to modernise air traffic control. President Donald Trump has asked for 30.1 billion dollars for the upgrades, and Duffy has previously said the system needs a 50 billion dollar overhaul.",
+  "why_it_matters": "Air travel depends on old computer and wire systems, so one tech fault can stop flights across a whole country and affect millions of people.",
+  "image_url": "/article_images/news-sa3d5a986d4ae22ee.webp",
+  "keywords": [
+    {
+      "term": "ground stop",
+      "explanation": "A full stop to all planes taking off from airports."
+    },
+    {
+      "term": "fibre-optic",
+      "explanation": "A kind of thin cable that sends signals using light, much faster than old wires."
+    },
+    {
+      "term": "router",
+      "explanation": "A device that sends data between computer systems."
+    },
+    {
+      "term": "backlog",
+      "explanation": "A large pile of delayed work that still needs to be cleared."
+    },
+    {
+      "term": "modernise",
+      "explanation": "To update something old so it works better with new technology."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How long did the ground stop last on Friday?",
+      "options": [
+        "Four hours",
+        "Two hours",
+        "The whole day",
+        "Six hours"
+      ],
+      "correct_answer": "Four hours"
+    },
+    {
+      "question": "What work was happening when the problem started?",
+      "options": [
+        "Workers were testing a new kind of plane",
+        "Workers were building a new airport",
+        "Workers were replacing old copper wires with fibre-optic cables",
+        "Workers were closing a runway for repairs"
+      ],
+      "correct_answer": "Workers were replacing old copper wires with fibre-optic cables"
+    },
+    {
+      "question": "According to Sean Duffy, what did the router do?",
+      "options": [
+        "It began flooding other systems with data",
+        "It changed the flight times by mistake",
+        "It sent a warning to every pilot at once",
+        "It stopped working completely and went dark"
+      ],
+      "correct_answer": "It began flooding other systems with data"
+    },
+    {
+      "question": "How many flights were delayed or cancelled on Friday?",
+      "options": [
+        "About 1.5 million",
+        "About 1,500",
+        "More than 15,000",
+        "More than 5,900"
+      ],
+      "correct_answer": "More than 15,000"
+    },
+    {
+      "question": "When did the Federal Aviation Administration say schedules should be back to normal?",
+      "options": [
+        "By the end of Friday",
+        "By the end of next week",
+        "By the end of Sunday",
+        "By the end of Saturday"
+      ],
+      "correct_answer": "By the end of Sunday"
+    },
+    {
+      "question": "How much money has President Donald Trump asked for to upgrade air traffic control?",
+      "options": [
+        "5 billion dollars",
+        "50 billion dollars",
+        "15 billion dollars",
+        "30.1 billion dollars"
+      ],
+      "correct_answer": "30.1 billion dollars"
+    }
+  ],
+  "background_read": [
+    "Air traffic control is the system that guides planes safely through the sky and helps them take off and land.",
+    "Controllers talk to pilots through radio and computer links, so they need fast and steady connections to do their job.",
+    "Old copper telephone wires carry signals slowly and can wear out, while fibre-optic cables use light to send signals much faster.",
+    "If those links break, controllers may stop flights until the system is safe to use again."
+  ],
+  "Article_Structure": [
+    "LEAD: Planes across the U.S. suddenly stopped taking off on Friday afternoon.",
+    "KEY EVENT: A four-hour ground stop, the longest since September 11, 2001.",
+    "  ├─ WHEN: Starting at 3:54 p.m. Eastern time.",
+    "  └─ WHAT IT MEANT: No departures at all.",
+    "CAUSE: A tech problem during an upgrade from copper wires to fibre-optic cables.",
+    "  ├─ WHO WAS DOING THE WORK: A company called L3Harris.",
+    "  └─ WHAT WENT WRONG: A router flooded other systems with data and cut off communication with planes.",
+    "IMPACT: More than 15,000 flights delayed or cancelled, affecting about 1.5 million passengers.",
+    "  ├─ ON THE GROUND: Some travellers sat stuck inside planes on the runway.",
+    "  └─ THE NEXT DAY: More than 5,900 flights cancelled and 7,000 delayed on Saturday.",
+    "RECOVERY: The Federal Aviation Administration said schedules should be back to normal by the end of Sunday.",
+    "OPEN QUESTION: Whether the fault came from the wire replacement or from the router itself is still not known.",
+    "WARNING: Duffy said the same kind of problem could happen again unless Congress approves money to modernise the system."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Sean Duffy, Transport Secretary",
+      "description": "He said the same kind of problem could happen again unless Congress approves money to modernise air traffic control, and he has previously said the system needs a 50 billion dollar overhaul."
+    },
+    {
+      "perspective": "President Donald Trump",
+      "description": "He has asked for 30.1 billion dollars for the upgrades."
+    }
+  ],
+  "mined_at": "2026-11-15T11:16:45+00:00",
+  "source_published_at": "Sun, 15 Nov 2026 07:10:31 GMT",
+  "source_name": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+  "category": "News",
+  "source_word_count": 503,
+  "detail_status": "full"
+}

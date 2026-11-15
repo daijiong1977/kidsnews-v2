@@ -1,0 +1,123 @@
+{
+  "title": "A Giant Icy World Hiding Beyond Pluto",
+  "summary": "Astronomers may have found a brand-new world at the edge of our solar system. The object, temporarily named 2026 ED138, was spotted by astronomer Matthew Holman using observations from the Simonyi Survey Telescope at the Vera C. Rubin Observatory. If it is confirmed, it would become our sixth dwarf planet.\n\nThe discovery was announced by Holman, a senior astrophysicist at the Harvard and Smithsonian Center for Astrophysics, and Mario Juric, a University of Washington professor who leads Rubin's solar system team. Holman made the first find, and Juric helped gather the extra evidence to check it.\n\nThe find happened on the evening of October 13, when Holman was looking through observations Rubin had gathered earlier in 2026. He used special software, built with his colleague Kevin Napier, that compares billions of telescope sightings to spot tiny points of light moving together. When the program flagged ED138, its brightness and huge distance told Holman it was something unusually large, and his first reaction was excited disbelief.\n\nTo double-check, Juric found 20 more sightings in Rubin's stored observations, some from March 2026, and the team found pictures of the object in older sky surveys going back to 2016. Together, those sightings trace more than a decade of its path around the Sun.\n\nED138 now sits about 46 astronomical units from the Sun, while Pluto averages about 40. One astronomical unit is the average distance between Earth and the Sun. The object is roughly 1,000 kilometres across, the largest world found beyond Neptune in about 20 years. To count as a dwarf planet, its gravity must be strong enough to shape it into a nearly round body, and scientists think an icy object this size probably is round, but they need more observations to be sure. If confirmed, ED138 would join Pluto, Ceres, Eris, Haumea and Makemake. It hid for so long because it sits in a crowded patch of sky near the Milky Way, where millions of stars made its faint movement hard to spot.",
+  "why_it_matters": "Finding a possible sixth dwarf planet helps scientists learn more about the far edge of our solar system, and it shows how new telescopes can reveal worlds that stayed hidden for years.",
+  "image_url": "/article_images/science-s3024b58bded5b923.webp",
+  "keywords": [
+    {
+      "term": "astronomical units",
+      "explanation": "A unit for measuring huge distances in space, equal to the average distance from Earth to the Sun."
+    },
+    {
+      "term": "dwarf planet",
+      "explanation": "A round world that orbits the Sun but has not cleared other objects from its path."
+    },
+    {
+      "term": "astrophysicist",
+      "explanation": "A scientist who studies stars, planets, and other things in space using physics."
+    },
+    {
+      "term": "Observatory",
+      "explanation": "A place with big telescopes where scientists watch the sky."
+    },
+    {
+      "term": "sightings",
+      "explanation": "Times when someone spots or records an object in the sky."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Who first spotted 2026 ED138?",
+      "options": [
+        "Kevin Napier",
+        "Mario Juric",
+        "Matthew Holman",
+        "Linda Charmaraman"
+      ],
+      "correct_answer": "Matthew Holman"
+    },
+    {
+      "question": "On which evening did Holman first find the object?",
+      "options": [
+        "The evening of October 13",
+        "In 2016",
+        "March 2026",
+        "August 17"
+      ],
+      "correct_answer": "The evening of October 13"
+    },
+    {
+      "question": "How far is ED138 from the Sun now?",
+      "options": [
+        "1,000 kilometres",
+        "46 astronomical units",
+        "40 astronomical units",
+        "20 astronomical units"
+      ],
+      "correct_answer": "46 astronomical units"
+    },
+    {
+      "question": "About how wide is ED138?",
+      "options": [
+        "100 kilometres",
+        "46 kilometres",
+        "1,000 kilometres",
+        "40 kilometres"
+      ],
+      "correct_answer": "1,000 kilometres"
+    },
+    {
+      "question": "If it is confirmed, what would ED138 become?",
+      "options": [
+        "Our sixth dwarf planet",
+        "The largest star near the Sun",
+        "Our sixth planet",
+        "A new moon of Pluto"
+      ],
+      "correct_answer": "Our sixth dwarf planet"
+    },
+    {
+      "question": "Why did the object stay hidden for so long?",
+      "options": [
+        "It was too close to Earth",
+        "It was too bright to see",
+        "It was covered by clouds",
+        "It sits in a crowded patch of sky near the Milky Way"
+      ],
+      "correct_answer": "It sits in a crowded patch of sky near the Milky Way"
+    }
+  ],
+  "background_read": [
+    "A dwarf planet is a round world in space that goes around the Sun but has not cleared other objects from its path.",
+    "Pluto is the best-known dwarf planet, and it sits in a cold, far-off part of the solar system beyond Neptune.",
+    "Big telescopes take many pictures of the sky, and computers help astronomers spot tiny points of light that move slowly over time.",
+    "The Milky Way is the band of stars we see in the night sky, and its crowded star fields can hide faint, slow-moving objects."
+  ],
+  "Article_Structure": [
+    "LEAD: Astronomers may have found a brand-new world at the edge of our solar system.",
+    "KEY EVENT: Holman spotted 2026 ED138 on the evening of October 13.",
+    "  ├─ WHO: Matthew Holman, with help from Mario Juric and software built with Kevin Napier.",
+    "  ├─ WHERE: In observations from the Simonyi Survey Telescope at the Vera C. Rubin Observatory.",
+    "  └─ CHECK: Juric found 20 more sightings, and older sky surveys traced the object back to 2016.",
+    "EVIDENCE: ED138 is about 46 astronomical units away and about 1,000 kilometres across.",
+    "OPEN QUESTION: Scientists need more observations to be sure it is round enough to count as a dwarf planet.",
+    "CONTEXT: It hid in a crowded patch of sky near the Milky Way."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Scientists",
+      "description": "They think an icy object this size probably is round, but they need more observations to be sure."
+    },
+    {
+      "perspective": "Matthew Holman",
+      "description": "His first reaction to the find was excited disbelief."
+    }
+  ],
+  "mined_at": "2026-11-15T11:16:45+00:00",
+  "source_published_at": "Sat, 14 Nov 2026 06:58:42 EST",
+  "source_name": "ScienceDaily Strange & Offbeat",
+  "source_url": "https://www.sciencedaily.com/releases/2026/11/261112230447.htm",
+  "category": "Science",
+  "source_word_count": 682,
+  "detail_status": "full"
+}

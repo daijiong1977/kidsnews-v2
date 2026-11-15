@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-14-fun-1",
-      "source": "BBC Tennis",
-      "time_ago": "Fri, 13 Nov 2026 01:23:06 GMT",
-      "mined_at": "2026-11-14T11:20:04+00:00",
-      "source_published_at": "Fri, 13 Nov 2026 01:23:06 GMT",
-      "image_url": "/article_images/fun-s90573f292f82dd52.webp",
+      "id": "2026-11-15-fun-1",
+      "source": "Popular Science",
+      "time_ago": "Sat, 14 Nov 2026 10:03:00 -0500",
+      "mined_at": "2026-11-15T11:16:45+00:00",
+      "source_published_at": "Sat, 14 Nov 2026 10:03:00 -0500",
+      "image_url": "/article_images/fun-s18d8dc913686ce1b.webp",
       "category": "Fun",
-      "title": "Pegula Saves Match Point to Reach the Last Four",
-      "summary": "Jessica Pegula saved a match point to beat Linda Noskova and reach the WTA Finals semi-finals, where she will face Mirra Andreeva."
+      "title": "A Baby Turkey, a Feather Duster Mom, and a Best Friend",
+      "summary": "A baby turkey and a mourning dove raised together at a Pennsylvania wildlife center became inseparable, and were released together so they could choose their own paths."
     },
     {
-      "id": "2026-11-14-fun-2",
-      "source": "Billboard",
-      "time_ago": "Fri, 13 Nov 2026 23:16:54 +0000",
-      "mined_at": "2026-11-14T11:20:04+00:00",
-      "source_published_at": "Fri, 13 Nov 2026 23:16:54 +0000",
-      "image_url": "/article_images/fun-s053de9ddd013843b.webp",
+      "id": "2026-11-15-fun-2",
+      "source": "Kotaku",
+      "time_ago": "Sat, 14 Nov 2026 21:47:32 +0000",
+      "mined_at": "2026-11-15T11:16:45+00:00",
+      "source_published_at": "Sat, 14 Nov 2026 21:47:32 +0000",
+      "image_url": "/article_images/fun-se7efc452ae94b405.webp",
       "category": "Fun",
-      "title": "A Free Music Festival Before the Big Game",
-      "summary": "A free two-day DJ festival will warm up Las Vegas ahead of the College Football Playoff championship game on January 25."
+      "title": "The Pokemon Game That Was Supposed to Delete Itself Is Back",
+      "summary": "A collector has found the only known playable copy of PokePark: Fishing Rally, a 2005 Pokemon DS game designed to erase itself after 12 hours."
     },
     {
-      "id": "2026-11-14-fun-3",
-      "source": "MIT News",
-      "time_ago": "Fri, 13 Nov 2026 00:00:00 -0500",
-      "mined_at": "2026-11-14T11:20:04+00:00",
-      "source_published_at": "Fri, 13 Nov 2026 00:00:00 -0500",
-      "image_url": "/article_images/fun-s713136e0edae782f.webp",
+      "id": "2026-11-15-fun-3",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Thu, 12 Nov 2026 07:17:19 EST",
+      "mined_at": "2026-11-15T11:16:45+00:00",
+      "source_published_at": "Thu, 12 Nov 2026 07:17:19 EST",
+      "image_url": "/article_images/fun-s64c87044fabbf827.webp",
       "category": "Fun",
-      "title": "An AI Copilot Helps Engineers Design Buildings",
-      "summary": "MIT researchers built an AI copilot for design that lets engineers shape a structure as the computer creates it."
+      "title": "Crows Decide Twice as Fast as Humans",
+      "summary": "Crows in a German study decided which way dots were moving in just 235 milliseconds, twice as fast as humans, with near-perfect accuracy."
     }
   ]
 }

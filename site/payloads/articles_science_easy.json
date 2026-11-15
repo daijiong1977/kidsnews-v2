@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-14-science-1",
-      "source": "Space.com",
-      "time_ago": "Sat, 14 Nov 2026 11:00:00 +0000",
-      "mined_at": "2026-11-14T11:20:04+00:00",
-      "source_published_at": "Sat, 14 Nov 2026 11:00:00 +0000",
-      "image_url": "/article_images/science-s5b61524f9a6c1fcc.webp",
+      "id": "2026-11-15-science-1",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Sat, 14 Nov 2026 06:58:42 EST",
+      "mined_at": "2026-11-15T11:16:45+00:00",
+      "source_published_at": "Sat, 14 Nov 2026 06:58:42 EST",
+      "image_url": "/article_images/science-s3024b58bded5b923.webp",
       "category": "Science",
-      "title": "Mars and Jupiter Are About to Meet in the Sky",
-      "summary": "Mars and Jupiter will appear side by side in the night sky on November 15-16; look east around midnight to spot them."
+      "title": "A Giant Icy World Hiding Beyond Pluto",
+      "summary": "Astronomers may have found a possible sixth dwarf planet, 2026 ED138, far beyond Pluto."
     },
     {
-      "id": "2026-11-14-science-2",
-      "source": "ScienceDaily All",
-      "time_ago": "Thu, 12 Nov 2026 06:24:47 EST",
-      "mined_at": "2026-11-14T11:20:04+00:00",
-      "source_published_at": "Thu, 12 Nov 2026 06:24:47 EST",
-      "image_url": "/article_images/science-s08b01252096d019c.webp",
+      "id": "2026-11-15-science-2",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Sat, 14 Nov 2026 22:00:54 EST",
+      "mined_at": "2026-11-15T11:16:45+00:00",
+      "source_published_at": "Sat, 14 Nov 2026 22:00:54 EST",
+      "image_url": "/article_images/science-s743b7bb9da837544.webp",
       "category": "Science",
-      "title": "A Treasure Map Points to Missing Fossils",
-      "summary": "Scientists have mapped where Earth's missing fossils are most likely hiding, pointing future digs toward newer rock layers."
+      "title": "Did Dinosaurs Snack on Seaweed?",
+      "summary": "Chemical clues in fossil teeth suggest coastal dinosaurs ate food from the sea, including seaweed."
     },
     {
-      "id": "2026-11-14-science-3",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Thu, 12 Nov 2026 18:33:12 EST",
-      "mined_at": "2026-11-14T11:20:04+00:00",
-      "source_published_at": "Thu, 12 Nov 2026 18:33:12 EST",
-      "image_url": "/article_images/science-s56fa8037dddca000.webp",
+      "id": "2026-11-15-science-3",
+      "source": "Science News Explores",
+      "time_ago": "Wed, 11 Nov 2026 11:30:00 +0000",
+      "mined_at": "2026-11-15T11:16:45+00:00",
+      "source_published_at": "Wed, 11 Nov 2026 11:30:00 +0000",
+      "image_url": "/article_images/science-s1640375c3ae36905.webp",
       "category": "Science",
-      "title": "Why Some Brains Find Math So Hard",
-      "summary": "Stanford researchers found that children who struggle with math may have trouble switching problem-solving strategies."
+      "title": "The Video Game That Helps Teens Feel Better",
+      "summary": "Teens who played PlaySmart had fewer depression symptoms a year later, a trial in 15 Connecticut high schools found."
     }
   ]
 }

@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-14-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Fri, 13 Nov 2026 18:56:33 -0500",
-      "mined_at": "2026-11-14T11:20:04+00:00",
-      "source_published_at": "Fri, 13 Nov 2026 18:56:33 -0500",
-      "image_url": "/article_images/news-sd5c34c183af01927.webp",
+      "id": "2026-11-15-news-1",
+      "source": "BBC News",
+      "time_ago": "Sun, 15 Nov 2026 07:10:31 GMT",
+      "mined_at": "2026-11-15T11:16:45+00:00",
+      "source_published_at": "Sun, 15 Nov 2026 07:10:31 GMT",
+      "image_url": "/article_images/news-sa3d5a986d4ae22ee.webp",
       "category": "News",
-      "title": "Planes Stop Flying All Over the U.S.",
-      "summary": "The FAA told all planes in the U.S. to stay on the ground on Friday after a communications problem; officials said it was not an attack and everyone was safe."
+      "title": "Old Wires, Big Problem: Why U.S. Flights Stopped on Friday",
+      "summary": "A router problem during a copper-wire upgrade halted U.S. takeoffs for four hours on Friday, delaying or cancelling more than 15,000 flights."
     },
     {
-      "id": "2026-11-14-news-2",
+      "id": "2026-11-15-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Fri, 13 Nov 2026 19:20:20 -0500",
-      "mined_at": "2026-11-14T11:20:04+00:00",
-      "source_published_at": "Fri, 13 Nov 2026 19:20:20 -0500",
-      "image_url": "/article_images/news-sc42b9080cf6473d3.webp",
+      "time_ago": "Sat, 14 Nov 2026 16:02:19 -0500",
+      "mined_at": "2026-11-15T11:16:45+00:00",
+      "source_published_at": "Sat, 14 Nov 2026 16:02:19 -0500",
+      "image_url": "/article_images/news-s07a2abe8cc73a6ab.webp",
       "category": "News",
-      "title": "Starship Flies to Orbit, but Its Booster Is Lost",
-      "summary": "SpaceX's Starship reached orbit on Friday, but its booster broke down and fell into the sea instead of being caught at the launch pad."
+      "title": "Flu Season Starts Early in the U.S.",
+      "summary": "Flu is spreading early this year, with seven states reporting high activity and Louisiana hit hardest; doctors urge vaccination before Thanksgiving travel."
     },
     {
-      "id": "2026-11-14-news-3",
-      "source": "NPR World",
-      "time_ago": "Sat, 14 Nov 2026 00:12:43 -0500",
-      "mined_at": "2026-11-14T11:20:04+00:00",
-      "source_published_at": "Sat, 14 Nov 2026 00:12:43 -0500",
-      "image_url": "/article_images/news-s683e1507cbaaadfe.webp",
+      "id": "2026-11-15-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Sat, 14 Nov 2026 15:09:17 -0500",
+      "mined_at": "2026-11-15T11:16:45+00:00",
+      "source_published_at": "Sat, 14 Nov 2026 15:09:17 -0500",
+      "image_url": "/article_images/news-s244615db01b2a0fc.webp",
       "category": "News",
-      "title": "Alaska Picks Its Youngest Governor Ever",
-      "summary": "Democrat Jonathan Kreiss-Tomkins, 37, won Alaska's governor race and will be the state's youngest governor ever."
+      "title": "Tanker Crashes Into Cruise Ship on the Mississippi",
+      "summary": "A tanker that lost steering hit a docked cruise ship in New Orleans on Friday; all 197 aboard survived and investigators are now examining the cause."
     }
   ]
 }
