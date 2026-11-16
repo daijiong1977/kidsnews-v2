@@ -1,0 +1,117 @@
+{
+  "title": "One Penguin Colony Holds Steady While Its Neighbor Shrinks",
+  "summary": "Two groups of rare penguins live on remote islands near New Zealand, and their fortunes could hardly be more different. One colony has held steady for at least 25 years. The other has shrunk by more than 40 percent.\n\nThe birds are Erect-crested penguins, and they breed nowhere else on Earth except the Bounty and Antipodes islands, about 800 kilometres southeast of New Zealand's South Island. A new study from the University of Otago, published in the journal PLOS ONE, used drone surveys between 2022 and 2024 to count every breeding colony across both island groups.\n\nThe results surprised the researchers. The tiny Bounty Islands, covering just 50 hectares, hold about 27,800 breeding pairs — almost as many as the Antipodes Islands, with about 29,800 pairs, even though the Antipodes are 40 times larger and were long thought to be the species' stronghold.\n\nComparing the new counts with records going back to the mid-1990s, the Bounty population has stayed essentially unchanged for at least 25 years. The Antipodes population, by contrast, has declined by more than 40 percent since 1995.\n\nScientists think several pressures may be behind the split. One is the skua, a native subantarctic bird that preys on penguin eggs and chicks. As colonies shrink, the birds lose some of the safety that comes from nesting together in large numbers, so predation losses can grow and colonies can fragment further.\n\nAnother factor may involve Eastern Rockhopper penguins, which suffered a severe population collapse in the second half of the 20th century. Fewer than 1,000 breeding pairs remain on the Antipodes Islands today. As Rockhoppers disappeared, skuas may have turned to Erect-crested penguin eggs and chicks instead. Stronger storms have also caused landslides that break up breeding colonies and leave the birds more vulnerable.",
+  "why_it_matters": "The split between two nearby colonies shows how fast a rare species can decline, and understanding why helps scientists protect the penguins before the losses spread.",
+  "image_url": "/article_images/science-s6aad63284cc83b8b.webp",
+  "keywords": [
+    {
+      "term": "colony",
+      "explanation": "A group of animals of the same kind that live and breed together in one place."
+    },
+    {
+      "term": "breeding pairs",
+      "explanation": "A male and a female animal that mate and raise young together."
+    },
+    {
+      "term": "stronghold",
+      "explanation": "The place where a group is largest and safest."
+    },
+    {
+      "term": "predation",
+      "explanation": "When one animal hunts and eats another animal."
+    },
+    {
+      "term": "fragment",
+      "explanation": "To break into smaller, separate pieces."
+    },
+    {
+      "term": "subantarctic",
+      "explanation": "The cold region of islands and seas just north of Antarctica."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Where do Erect-crested penguins breed?",
+      "options": [
+        "On the Antarctic mainland",
+        "On islands all around New Zealand",
+        "Only on the Bounty and Antipodes islands",
+        "On the coast of Australia"
+      ],
+      "correct_answer": "Only on the Bounty and Antipodes islands"
+    },
+    {
+      "question": "How many breeding pairs do the Bounty Islands hold?",
+      "options": [
+        "Fewer than 1,000",
+        "About 27,800",
+        "About 29,800",
+        "About 50,000"
+      ],
+      "correct_answer": "About 27,800"
+    },
+    {
+      "question": "How has the Antipodes population changed since 1995?",
+      "options": [
+        "It has grown by 40 percent",
+        "It has doubled",
+        "It has declined by more than 40 percent",
+        "It has stayed the same"
+      ],
+      "correct_answer": "It has declined by more than 40 percent"
+    },
+    {
+      "question": "How did researchers count the colonies?",
+      "options": [
+        "With drone surveys between 2022 and 2024",
+        "By tagging every penguin",
+        "With underwater cameras",
+        "By counting from boats in 1995"
+      ],
+      "correct_answer": "With drone surveys between 2022 and 2024"
+    },
+    {
+      "question": "Why might skuas be a bigger threat as colonies shrink?",
+      "options": [
+        "Storms keep skuas away",
+        "Penguins have stopped laying eggs",
+        "Smaller colonies lose the safety of nesting together in large numbers",
+        "Skuas have grown much larger"
+      ],
+      "correct_answer": "Smaller colonies lose the safety of nesting together in large numbers"
+    },
+    {
+      "question": "What happened to Eastern Rockhopper penguins on the Antipodes Islands?",
+      "options": [
+        "Their numbers grew sharply",
+        "Fewer than 1,000 breeding pairs remain there today",
+        "They now outnumber Erect-crested penguins",
+        "They moved to the Bounty Islands"
+      ],
+      "correct_answer": "Fewer than 1,000 breeding pairs remain there today"
+    }
+  ],
+  "background_read": [
+    "Erect-crested penguins breed only on two small island groups near New Zealand, the Bounty and Antipodes islands, so their whole future depends on what happens there.",
+    "Penguins nest in large colonies, and nesting close together helps protect eggs and chicks from hunters like the skua, a seabird that eats them.",
+    "When a colony shrinks, that shared protection weakens, and losses can grow.",
+    "Scientists count breeding pairs with drone surveys to track whether each colony is holding steady or shrinking over time."
+  ],
+  "Article_Structure": [
+    "LEAD: Two colonies of rare Erect-crested penguins near New Zealand have had very different fortunes.",
+    "KEY EVENT: A drone survey counted every breeding colony on the Bounty and Antipodes islands.",
+    "  ├─ WHO: Researchers from the University of Otago",
+    "  ├─ WHEN: Surveys ran between 2022 and 2024; counts were compared with records back to the mid-1990s",
+    "  └─ FINDING: Bounty holds about 27,800 breeding pairs and Antipodes about 29,800, yet Antipodes has fallen by more than 40 percent since 1995",
+    "EVIDENCE: Skuas prey on eggs and chicks, Rockhopper penguins have nearly vanished, and storms cause landslides",
+    "OPEN QUESTION: Which pressures are most responsible for the split between the two colonies?"
+  ],
+  "perspectives": [],
+  "mined_at": "2026-11-16T15:06:43+00:00",
+  "source_published_at": "Sat, 14 Nov 2026 22:42:52 EST",
+  "source_name": "ScienceDaily Top Environment",
+  "source_url": "https://www.sciencedaily.com/releases/2026/11/261112230458.htm",
+  "category": "Science",
+  "source_word_count": 555,
+  "detail_status": "full"
+}

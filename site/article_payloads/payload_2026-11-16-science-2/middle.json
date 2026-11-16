@@ -1,0 +1,117 @@
+{
+  "title": "A Dead Star Spins Every 8 Minutes and Sends Mysterious Radio Pulses",
+  "summary": "Astronomers have traced mysterious radio signals to a strange pair of stars more than 5,000 light-years from Earth. One of them is a dead star that spins once every eight minutes. Its companion looks a lot like our own Sun.\n\nThe discovery comes from researchers at Curtin University's International Centre for Radio Astronomy Research, known as ICRAR. The system, called GPM J071507-114153, holds a white dwarf and a G-type star circling each other. A white dwarf is the dense leftover of a star that has burned through its fuel and shed its outer layers, while its companion belongs to the same family of stars as the Sun.\n\nUntil now, astronomers had only seen similar radio pulses in systems pairing a white dwarf with a smaller, cooler red dwarf star. This is the first time such signals have been found in a system where a white dwarf orbits a Sun-like star.\n\nThe pair belongs to a rare group called long-period transients, or LPTs. These objects send out radio signals that appear and vanish over periods of minutes to hours. The same ICRAR team found the first known example in 2021, and only about a dozen have been spotted since.\n\nThis time, the observations were detailed enough to follow the white dwarf as it moved around its companion. That let researchers pinpoint where the pulses likely come from: a region close to the white dwarf, or possibly the white dwarf itself. The team studied more than 100 hours of radio observations to confirm the result.\n\nThe signals revealed something else, too. They showed powerful magnetic storms on the Sun-like companion. The team also saw the white dwarf pass behind a region with a strong magnetic field, most likely a stellar prominence — a huge loop of electrically charged gas erupting from the star's surface. Lead author Dr. Sam McSweeney said it is amazing that radio waves can reveal storms on a star so far away.",
+  "why_it_matters": "Studying these rare pulsing stars helps astronomers understand how dead stars behave, and shows how radio waves can reveal storms on stars far too distant to visit.",
+  "image_url": "/article_images/science-s8dd36fbafcd010ef.webp",
+  "keywords": [
+    {
+      "term": "white dwarf",
+      "explanation": "The small, dense leftover of a star that has burned through its fuel."
+    },
+    {
+      "term": "transients",
+      "explanation": "Objects that appear and then vanish again, instead of shining all the time."
+    },
+    {
+      "term": "pinpoint",
+      "explanation": "To find the exact place where something is."
+    },
+    {
+      "term": "prominence",
+      "explanation": "A huge loop of hot, electrically charged gas rising from a star's surface."
+    },
+    {
+      "term": "light-years",
+      "explanation": "A unit of distance: how far light travels in one year."
+    },
+    {
+      "term": "magnetic",
+      "explanation": "To do with magnetism, the invisible force that pulls some metals together."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is the white dwarf in this system?",
+      "options": [
+        "A black hole swallowing light",
+        "A planet circling the Sun",
+        "The dense leftover of a star that burned through its fuel",
+        "A young star just starting to shine"
+      ],
+      "correct_answer": "The dense leftover of a star that burned through its fuel"
+    },
+    {
+      "question": "How often does the white dwarf spin?",
+      "options": [
+        "Once every eight hours",
+        "Once a day",
+        "Once every eight minutes",
+        "Once a year"
+      ],
+      "correct_answer": "Once every eight minutes"
+    },
+    {
+      "question": "What kind of star is the white dwarf's companion?",
+      "options": [
+        "A planet like Earth",
+        "A G-type star like the Sun",
+        "A red dwarf star",
+        "A white dwarf"
+      ],
+      "correct_answer": "A G-type star like the Sun"
+    },
+    {
+      "question": "What are long-period transients?",
+      "options": [
+        "Rare objects that send out radio signals that appear and vanish over minutes to hours",
+        "Planets that block their star's light",
+        "Stars that shine steadily forever",
+        "Comets that pass Earth every year"
+      ],
+      "correct_answer": "Rare objects that send out radio signals that appear and vanish over minutes to hours"
+    },
+    {
+      "question": "How much radio observation did the team study?",
+      "options": [
+        "More than 100 hours",
+        "About 12 hours",
+        "Exactly 8 minutes",
+        "More than 5,000 hours"
+      ],
+      "correct_answer": "More than 100 hours"
+    },
+    {
+      "question": "What else did the signals reveal?",
+      "options": [
+        "Powerful magnetic storms on the Sun-like companion",
+        "A message from another world",
+        "That the white dwarf is cooling fast",
+        "A new planet with oceans"
+      ],
+      "correct_answer": "Powerful magnetic storms on the Sun-like companion"
+    }
+  ],
+  "background_read": [
+    "A white dwarf is what remains after a star like our Sun burns through its fuel and sheds its outer layers, leaving a small, dense core.",
+    "Some pairs of stars send out radio signals that appear and vanish, and astronomers call these rare objects long-period transients.",
+    "Radio telescopes on Earth can pick up these signals, letting scientists study stars thousands of light-years away without ever seeing them with their eyes.",
+    "This new system is unusual because its white dwarf orbits a Sun-like star, a pairing never seen sending such pulses before."
+  ],
+  "Article_Structure": [
+    "LEAD: Astronomers traced mystery radio signals to a strange pair of stars more than 5,000 light-years away.",
+    "KEY EVENT: Researchers found radio pulses from a system pairing a white dwarf with a Sun-like star.",
+    "  ├─ WHO: Researchers at Curtin University's ICRAR, led by Dr. Sam McSweeney",
+    "  ├─ WHAT: A white dwarf spinning once every eight minutes, circling a G-type star",
+    "  └─ WHEN: The first known LPT was found in 2021; this team studied more than 100 hours of observations",
+    "EVIDENCE: The pulses could be traced to a region close to the white dwarf, and the signals also showed magnetic storms and a stellar prominence",
+    "OPEN QUESTION: Exactly where the pulses come from — a region near the white dwarf or the white dwarf itself."
+  ],
+  "perspectives": [],
+  "mined_at": "2026-11-16T15:06:43+00:00",
+  "source_published_at": "Sun, 15 Nov 2026 08:04:09 EST",
+  "source_name": "ScienceDaily Top Technology",
+  "source_url": "https://www.sciencedaily.com/releases/2026/11/261114202136.htm",
+  "category": "Science",
+  "source_word_count": 641,
+  "detail_status": "full"
+}

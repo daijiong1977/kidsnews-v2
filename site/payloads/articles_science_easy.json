@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-15-science-1",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Sat, 14 Nov 2026 06:58:42 EST",
-      "mined_at": "2026-11-15T11:16:45+00:00",
-      "source_published_at": "Sat, 14 Nov 2026 06:58:42 EST",
-      "image_url": "/article_images/science-s3024b58bded5b923.webp",
-      "category": "Science",
-      "title": "A Giant Icy World Hiding Beyond Pluto",
-      "summary": "Astronomers may have found a possible sixth dwarf planet, 2026 ED138, far beyond Pluto."
-    },
-    {
-      "id": "2026-11-15-science-2",
+      "id": "2026-11-16-science-1",
       "source": "ScienceDaily Top Environment",
-      "time_ago": "Sat, 14 Nov 2026 22:00:54 EST",
-      "mined_at": "2026-11-15T11:16:45+00:00",
-      "source_published_at": "Sat, 14 Nov 2026 22:00:54 EST",
-      "image_url": "/article_images/science-s743b7bb9da837544.webp",
+      "time_ago": "Sat, 14 Nov 2026 22:42:52 EST",
+      "mined_at": "2026-11-16T15:06:43+00:00",
+      "source_published_at": "Sat, 14 Nov 2026 22:42:52 EST",
+      "image_url": "/article_images/science-s6aad63284cc83b8b.webp",
       "category": "Science",
-      "title": "Did Dinosaurs Snack on Seaweed?",
-      "summary": "Chemical clues in fossil teeth suggest coastal dinosaurs ate food from the sea, including seaweed."
+      "title": "One Penguin Group Stays Steady While Its Neighbor Shrinks",
+      "summary": "One group of rare penguins has stayed steady for 25 years while its neighbor has shrunk by more than 40 percent — and scientists are working out why."
     },
     {
-      "id": "2026-11-15-science-3",
-      "source": "Science News Explores",
-      "time_ago": "Wed, 11 Nov 2026 11:30:00 +0000",
-      "mined_at": "2026-11-15T11:16:45+00:00",
-      "source_published_at": "Wed, 11 Nov 2026 11:30:00 +0000",
-      "image_url": "/article_images/science-s1640375c3ae36905.webp",
+      "id": "2026-11-16-science-2",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Sun, 15 Nov 2026 08:04:09 EST",
+      "mined_at": "2026-11-16T15:06:43+00:00",
+      "source_published_at": "Sun, 15 Nov 2026 08:04:09 EST",
+      "image_url": "/article_images/science-s8dd36fbafcd010ef.webp",
       "category": "Science",
-      "title": "The Video Game That Helps Teens Feel Better",
-      "summary": "Teens who played PlaySmart had fewer depression symptoms a year later, a trial in 15 Connecticut high schools found."
+      "title": "A Dead Star Spins Every 8 Minutes and Sends Mystery Radio Signals",
+      "summary": "A dead star spinning every eight minutes sends mystery radio signals from a system with a Sun-like companion — the first of its kind ever found."
+    },
+    {
+      "id": "2026-11-16-science-3",
+      "source": "ScienceDaily All",
+      "time_ago": "Sun, 15 Nov 2026 20:40:04 EST",
+      "mined_at": "2026-11-16T15:06:43+00:00",
+      "source_published_at": "Sun, 15 Nov 2026 20:40:04 EST",
+      "image_url": "/article_images/science-s131ab83ea303ff48.webp",
+      "category": "Science",
+      "title": "A Gentle Sound May Help the Brain Clean Itself at Night",
+      "summary": "MIT researchers found that precisely timed bursts of pink noise during sleep strengthen the brain waves that drive its nighttime cleaning fluid."
     }
   ]
 }

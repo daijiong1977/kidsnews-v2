@@ -1,0 +1,127 @@
+{
+  "title": "AI DJs Keep Talking Over the Music — and Listeners Are Tuning Out",
+  "summary": "Picture this. You are mid-workout, your favorite playlist pumping, when the music stops. A cheerful AI voice jumps in for 30 seconds to explain the next song. The groove? Gone.\n\nThat is the idea behind AI DJs, a feature built into music streaming apps. YouTube Music calls its version Beyond the Beat. Spotify has its own AI DJ, first introduced in 2023. Both pop up between songs, offering background on the artist and setting up the next track. Both are optional — you can switch them off.\n\nA recent test of both features found them more annoying than helpful. The reviewer had left YouTube's AI DJ switched on for months. Then, during a morning workout, it interrupted a pop playlist with a long, empty speech about a Charli XCX song — and even mispronounced the singer's name. The talk felt like filler. It broke the flow and added nothing.\n\nSpotify's version fared a little better. Its commentary was tighter and shorter. But it had its own quirks. The AI voices leaned on filler words like 'you know' and 'like' to sound more human. Knowing a machine is trained to copy human speech patterns gave the reviewer an uneasy, uncanny-valley feeling.\n\nThe two services work a bit differently. YouTube's AI DJ drops in between songs with background and context. Spotify's also picks songs for you, based on what you have listened to before and what you ask for. Spotify says 80 percent of its DJ listeners come back week after week. The reviewer will not be one of them.\n\nThe voices themselves sound fine — convincingly human, even. The problem is what they say. Empty praise, odd mistakes and fake-sounding chatter do not make the music better. For this listener, silence between songs wins.",
+  "why_it_matters": "AI voices are now part of everyday apps, so how they talk matters: empty praise and fake-sounding chatter can make a good service feel worse, and listeners may simply switch the feature off.",
+  "image_url": "/article_images/fun-s5a726360e4158adc.webp",
+  "keywords": [
+    {
+      "term": "groove",
+      "explanation": "The beat and feeling of a song that makes you want to move."
+    },
+    {
+      "term": "uncanny-valley",
+      "explanation": "The uneasy feeling when something almost human still seems wrong."
+    },
+    {
+      "term": "filler",
+      "explanation": "Words that fill time but add nothing useful."
+    },
+    {
+      "term": "mispronounced",
+      "explanation": "Said a word with the wrong sounds."
+    },
+    {
+      "term": "commentary",
+      "explanation": "Spoken remarks that explain or describe something."
+    },
+    {
+      "term": "streaming",
+      "explanation": "Playing music or video over the internet without downloading it."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is YouTube Music's AI DJ called?",
+      "options": [
+        "The Daily Mix",
+        "AI Radio",
+        "Smart Shuffle",
+        "Beyond the Beat"
+      ],
+      "correct_answer": "Beyond the Beat"
+    },
+    {
+      "question": "When did Spotify first introduce its AI DJ?",
+      "options": [
+        "2021",
+        "2023",
+        "2020",
+        "2024"
+      ],
+      "correct_answer": "2023"
+    },
+    {
+      "question": "What did YouTube's AI DJ do during the reviewer's morning workout?",
+      "options": [
+        "It interrupted a pop playlist with a long, empty speech about a Charli XCX song",
+        "It stopped the playlist and logged out",
+        "It played the wrong song",
+        "It turned the volume down"
+      ],
+      "correct_answer": "It interrupted a pop playlist with a long, empty speech about a Charli XCX song"
+    },
+    {
+      "question": "What did Spotify say about its DJ listeners?",
+      "options": [
+        "80 percent prefer YouTube's version",
+        "80 percent of its DJ listeners come back week after week",
+        "80 percent switched it off",
+        "80 percent listen only on weekends"
+      ],
+      "correct_answer": "80 percent of its DJ listeners come back week after week"
+    },
+    {
+      "question": "Why did Spotify's AI voices give the reviewer an uneasy feeling?",
+      "options": [
+        "The voices sounded like robots",
+        "The voices copied human speech patterns with filler words like 'you know' and 'like'",
+        "The voices were too quiet",
+        "The voices spoke too fast"
+      ],
+      "correct_answer": "The voices copied human speech patterns with filler words like 'you know' and 'like'"
+    },
+    {
+      "question": "What does the reviewer think wins in the end?",
+      "options": [
+        "Silence between songs",
+        "More songs picked by AI",
+        "Longer AI introductions",
+        "Louder music"
+      ],
+      "correct_answer": "Silence between songs"
+    }
+  ],
+  "background_read": [
+    "A DJ is a person who chooses and plays music for listeners, and an AI DJ is a computer program that does that job with a computer-made voice.",
+    "Music streaming apps let people listen to huge libraries of songs over the internet, and some of them add short spoken breaks between songs to introduce the artist or the next track.",
+    "These AI voices are built to sound like real radio hosts, copying the way people talk, including little words like 'you know' and 'like'.",
+    "The idea is to make listening feel more personal, but when the talk is long, empty or wrong, it can break the mood instead of adding to it."
+  ],
+  "Article_Structure": [
+    "LEAD: During a workout, an AI DJ stops the music for 30 seconds to explain the next song, and the groove is gone.",
+    "KEY EVENT: A recent test of the AI DJ features on YouTube Music and Spotify found them more annoying than helpful.",
+    "  ├─ YOUTUBE MUSIC: Its version is called Beyond the Beat; it drops in between songs with background and context",
+    "  ├─ SPOTIFY: Its AI DJ was first introduced in 2023; it also picks songs based on past listening and requests",
+    "  ├─ YOUTUBE'S PROBLEM: A long, empty speech about a Charli XCX song that even mispronounced her name",
+    "  └─ SPOTIFY'S PROBLEM: Tighter, shorter commentary, but filler words like 'you know' and 'like' gave an uncanny-valley feeling",
+    "EVIDENCE: Spotify says 80 percent of its DJ listeners come back week after week, but the reviewer will not be one of them.",
+    "OPEN QUESTION: Can AI chatter between songs ever add to the music, or is silence better?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "The reviewer",
+      "description": "Found both AI DJs more annoying than helpful and prefers silence between songs."
+    },
+    {
+      "perspective": "Spotify",
+      "description": "Says 80 percent of its DJ listeners come back week after week."
+    }
+  ],
+  "mined_at": "2026-11-16T15:06:43+00:00",
+  "source_published_at": "Sun, 15 Nov 2026 12:00:00 +0000",
+  "source_name": "Wired Gear",
+  "source_url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+  "category": "Fun",
+  "source_word_count": 686,
+  "detail_status": "full"
+}

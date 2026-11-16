@@ -1,0 +1,123 @@
+{
+  "title": "Two Planes Collide on the Ground in Miami; Only Minor Injuries Reported",
+  "summary": "Two planes bumped into each other on the ground at Miami International Airport on Saturday night, and two people reported minor injuries. The crash happened at about 9 p.m. at a taxiway intersection, where planes cross paths while moving around the airport. One plane was a Copa Airlines Boeing 737 carrying 172 people. The other was a UPS Boeing 767 cargo plane, which carries packages instead of passengers. The wingtip of the Copa plane struck the nose of the UPS plane. Photos from the scene show a long gash on one side of the UPS plane's nose and a larger hole in the middle.\n\nInvestigators say the UPS plane was told to give way to the Copa flight but did not stop. On a recording of the pilots' radio calls, the UPS pilot told air traffic control that he had gone too far at the intersection and his plane was clipped by the Copa flight. Air traffic control told the UPS pilot that he was supposed to yield to the Copa aircraft. The National Transportation Safety Board, which investigates aviation accidents, said the UPS aircraft had substantial damage. An assessment of the Copa plane had not been finished yet.\n\nCopa called the collision minor and said two of its passengers were treated at the scene for minor injuries. UPS said it was working with authorities to determine what happened. 'We cannot speculate on the details of the incident,' UPS said in a statement. The company said the safety board is responsible for investigating incidents like this and will control the flow of information. The safety board has opened an investigation and expects to release a first report within 30 days.",
+  "why_it_matters": "Even slow collisions on the ground can injure people and damage planes, so the rules about who moves first at busy airport crossings matter for everyone's safety. The investigation's findings could change how pilots and controllers handle these crossings.",
+  "image_url": "/article_images/news-sea15603dc74a3976.webp",
+  "keywords": [
+    {
+      "term": "taxiway",
+      "explanation": "A path at an airport where planes drive between the runway and the gates."
+    },
+    {
+      "term": "wingtip",
+      "explanation": "The very end of a plane's wing."
+    },
+    {
+      "term": "cargo",
+      "explanation": "Goods or packages carried by a plane, truck, or ship instead of passengers."
+    },
+    {
+      "term": "yield",
+      "explanation": "To slow down or stop and let someone else go first."
+    },
+    {
+      "term": "speculate",
+      "explanation": "To guess about something when you do not yet know the facts."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What time did the crash happen?",
+      "options": [
+        "About 9 p.m.",
+        "About 9 a.m.",
+        "Around noon",
+        "Just after midnight"
+      ],
+      "correct_answer": "About 9 p.m."
+    },
+    {
+      "question": "How many people were on the Copa plane?",
+      "options": [
+        "76 people",
+        "210 people",
+        "172 people",
+        "Two people"
+      ],
+      "correct_answer": "172 people"
+    },
+    {
+      "question": "Which part of the Copa plane hit the UPS plane?",
+      "options": [
+        "Its wingtip",
+        "Its engine",
+        "Its tail",
+        "Its landing gear"
+      ],
+      "correct_answer": "Its wingtip"
+    },
+    {
+      "question": "What did the UPS pilot say on the radio?",
+      "options": [
+        "That he could not see the intersection",
+        "That the Copa plane had stopped",
+        "That air traffic control told him to speed up",
+        "That he had gone too far at the intersection"
+      ],
+      "correct_answer": "That he had gone too far at the intersection"
+    },
+    {
+      "question": "What did the National Transportation Safety Board say about the UPS plane?",
+      "options": [
+        "That it had substantial damage",
+        "That it could fly again right away",
+        "That it was carrying passengers",
+        "That it had no damage"
+      ],
+      "correct_answer": "That it had substantial damage"
+    },
+    {
+      "question": "When does the safety board expect to release a first report?",
+      "options": [
+        "Within six months",
+        "Within a week",
+        "Within a year",
+        "Within 30 days"
+      ],
+      "correct_answer": "Within 30 days"
+    }
+  ],
+  "background_read": [
+    "Airports have special roads called taxiways that planes use to move between runways and gates, and busy crossings need clear rules about who goes first.",
+    "Air traffic controllers guide planes from a tower, telling pilots when to move, wait, or give way to another plane.",
+    "When something goes wrong, the National Transportation Safety Board investigates to find out what happened and how to stop it happening again.",
+    "Even a slow bump on the ground can damage a plane, so investigators check both aircraft carefully before they fly again."
+  ],
+  "Article_Structure": [
+    "LEAD: Two planes collided on the ground at Miami International Airport on Saturday night, with two people reporting minor injuries.",
+    "KEY EVENT: The wingtip of a Copa Airlines Boeing 737 struck the nose of a UPS Boeing 767 cargo plane at a taxiway intersection.",
+    "  ├─ WHO: A Copa Airlines flight carrying 172 people and a UPS cargo plane carrying packages.",
+    "  ├─ WHEN: About 9 p.m. on Saturday night.",
+    "  └─ DAMAGE: A long gash and a larger hole in the UPS plane's nose; the UPS aircraft had substantial damage.",
+    "EVIDENCE: Investigators say the UPS plane was told to give way but did not stop, and the UPS pilot said on the radio that he had gone too far at the intersection.",
+    "AFTERMATH: Copa called the collision minor; the safety board has opened an investigation and expects a first report within 30 days.",
+    "OPEN QUESTION: The assessment of the Copa plane had not been finished yet."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Copa Airlines",
+      "description": "Called the collision minor and said two of its passengers were treated at the scene for minor injuries."
+    },
+    {
+      "perspective": "UPS",
+      "description": "Said it was working with authorities to determine what happened, would not speculate on details, and that the safety board is responsible for investigating and controlling the flow of information."
+    }
+  ],
+  "mined_at": "2026-11-16T15:06:43+00:00",
+  "source_published_at": "Sun, 15 Nov 2026 17:16:01 -0500",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/nation/2-planes-collide-on-the-ground-in-miami-only-minor-injuries-reported",
+  "category": "News",
+  "source_word_count": 367,
+  "detail_status": "full"
+}

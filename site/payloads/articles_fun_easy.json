@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-15-fun-1",
-      "source": "Popular Science",
-      "time_ago": "Sat, 14 Nov 2026 10:03:00 -0500",
-      "mined_at": "2026-11-15T11:16:45+00:00",
-      "source_published_at": "Sat, 14 Nov 2026 10:03:00 -0500",
-      "image_url": "/article_images/fun-s18d8dc913686ce1b.webp",
+      "id": "2026-11-16-fun-1",
+      "source": "Wired Gear",
+      "time_ago": "Sun, 15 Nov 2026 11:00:00 +0000",
+      "mined_at": "2026-11-16T15:06:43+00:00",
+      "source_published_at": "Sun, 15 Nov 2026 11:00:00 +0000",
+      "image_url": "/article_images/fun-sf93e1cd487d70caa.webp",
       "category": "Fun",
-      "title": "A Baby Turkey, a Feather Duster Mom, and a Best Friend",
-      "summary": "A baby turkey and a mourning dove raised together at a Pennsylvania wildlife center became inseparable, and were released together so they could choose their own paths."
+      "title": "Tiny AI Pets Turn Everyday Objects Into Needy Friends",
+      "summary": "Tiny AI pets on small screens nudge you to care for plants, skateboards and more, by looking sad when ignored."
     },
     {
-      "id": "2026-11-15-fun-2",
-      "source": "Kotaku",
-      "time_ago": "Sat, 14 Nov 2026 21:47:32 +0000",
-      "mined_at": "2026-11-15T11:16:45+00:00",
-      "source_published_at": "Sat, 14 Nov 2026 21:47:32 +0000",
-      "image_url": "/article_images/fun-se7efc452ae94b405.webp",
+      "id": "2026-11-16-fun-2",
+      "source": "Wired Gear",
+      "time_ago": "Sun, 15 Nov 2026 12:00:00 +0000",
+      "mined_at": "2026-11-16T15:06:43+00:00",
+      "source_published_at": "Sun, 15 Nov 2026 12:00:00 +0000",
+      "image_url": "/article_images/fun-s5a726360e4158adc.webp",
       "category": "Fun",
-      "title": "The Pokemon Game That Was Supposed to Delete Itself Is Back",
-      "summary": "A collector has found the only known playable copy of PokePark: Fishing Rally, a 2005 Pokemon DS game designed to erase itself after 12 hours."
+      "title": "AI DJs Keep Talking Over the Music",
+      "summary": "AI DJs on YouTube Music and Spotify talk between songs, but their long, error-prone chatter is driving one listener to switch them off."
     },
     {
-      "id": "2026-11-15-fun-3",
-      "source": "ScienceDaily Strange & Offbeat",
-      "time_ago": "Thu, 12 Nov 2026 07:17:19 EST",
-      "mined_at": "2026-11-15T11:16:45+00:00",
-      "source_published_at": "Thu, 12 Nov 2026 07:17:19 EST",
-      "image_url": "/article_images/fun-s64c87044fabbf827.webp",
+      "id": "2026-11-16-fun-3",
+      "source": "/Film",
+      "time_ago": "Mon, 16 Nov 2026 00:00:00 +0000",
+      "mined_at": "2026-11-16T15:06:43+00:00",
+      "source_published_at": "Mon, 16 Nov 2026 00:00:00 +0000",
+      "image_url": "/article_images/fun-s4438fc870b5790f4.webp",
       "category": "Fun",
-      "title": "Crows Decide Twice as Fast as Humans",
-      "summary": "Crows in a German study decided which way dots were moving in just 235 milliseconds, twice as fast as humans, with near-perfect accuracy."
+      "title": "Star Trek: Picard Almost Starred Uhura Instead",
+      "summary": "Before Picard became Picard's story, the show's creators planned to bring back Nichelle Nichols as Uhura, for a meeting with a very young Picard."
     }
   ]
 }
