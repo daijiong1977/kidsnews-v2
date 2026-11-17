@@ -1,0 +1,113 @@
+{
+  "title": "What Would You Ask an Animal?",
+  "summary": "What if you could talk to animals? Scientists are getting closer to understanding what animals say. Researchers used artificial intelligence, or AI, to decode birdsong. Julie Elie, a scientist at the University of California, Berkeley, studied zebra finches. She found out which calls the birds use for short distances and which ones they use for long distances. Other scientists are working on whales. Project CETI is using AI to understand the clicks and calls of sperm whales. Another team had a kind of conversation with a humpback whale named Twain. They played recorded calls to the whale for 20 minutes. The whale answered back. Scientists think this could one day help us talk to life from other planets. Even cats have learned to use meows to get what they want, like food or an open door. If we could understand animals, which one would you most want to talk to? A dog? A whale? A bird? The science is still new, but a real talk with an animal is moving from storybooks into real life.",
+  "why_it_matters": "Talking to animals is a dream many kids share, and science is bringing it closer.",
+  "image_url": "/article_images/fun-sf3965d47930126ae.webp",
+  "keywords": [
+    {
+      "term": "artificial intelligence",
+      "explanation": "Computer programs that can learn from lots of data."
+    },
+    {
+      "term": "decode",
+      "explanation": "To work out what a sound or message means."
+    },
+    {
+      "term": "finches",
+      "explanation": "Small birds with short beaks that sing."
+    },
+    {
+      "term": "whale",
+      "explanation": "A very big animal that lives in the sea."
+    },
+    {
+      "term": "conversation",
+      "explanation": "Talking back and forth with someone."
+    },
+    {
+      "term": "recorded",
+      "explanation": "Saved as sound so it can be played again."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What did scientists use to decode birdsong?",
+      "options": [
+        "Artificial intelligence",
+        "A net",
+        "A map",
+        "A telescope"
+      ],
+      "correct_answer": "Artificial intelligence"
+    },
+    {
+      "question": "Which birds did Julie Elie study?",
+      "options": [
+        "Penguins",
+        "Zebra finches",
+        "Owls",
+        "Eagles"
+      ],
+      "correct_answer": "Zebra finches"
+    },
+    {
+      "question": "What is Project CETI studying?",
+      "options": [
+        "Dogs",
+        "Sperm whales",
+        "Cats",
+        "Dolphins"
+      ],
+      "correct_answer": "Sperm whales"
+    },
+    {
+      "question": "What is the whale's name?",
+      "options": [
+        "Moby",
+        "Free Willy",
+        "Willy",
+        "Twain"
+      ],
+      "correct_answer": "Twain"
+    },
+    {
+      "question": "How long did the whale answer back?",
+      "options": [
+        "2 minutes",
+        "All day",
+        "20 minutes",
+        "2 hours"
+      ],
+      "correct_answer": "20 minutes"
+    },
+    {
+      "question": "What do cats use meows for?",
+      "options": [
+        "To sing",
+        "To count",
+        "To fly",
+        "To get food, affection or an open door"
+      ],
+      "correct_answer": "To get food, affection or an open door"
+    }
+  ],
+  "background_read": [
+    "Animals talk to each other with sounds.",
+    "Scientists use computers to study these sounds.",
+    "They hope to learn what animals are saying."
+  ],
+  "Article_Structure": [
+    "WHO: Scientists studying birds and whales",
+    "WHAT: Using AI to understand what animals say",
+    "WHERE: At UC Berkeley and in the ocean with whales",
+    "WHY: To learn how animals share information"
+  ],
+  "perspectives": [],
+  "mined_at": "2026-11-17T11:14:24+00:00",
+  "source_published_at": "Sun, 15 Nov 2026 18:00:00 +0000",
+  "source_name": "Live Science",
+  "source_url": "https://www.livescience.com/animals/which-animal-would-you-most-want-to-talk-to-if-you-could",
+  "category": "Fun",
+  "source_word_count": 368,
+  "detail_status": "full"
+}

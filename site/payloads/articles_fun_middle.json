@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-16-fun-1",
-      "source": "Wired Gear",
-      "time_ago": "Sun, 15 Nov 2026 11:00:00 +0000",
-      "mined_at": "2026-11-16T15:06:43+00:00",
-      "source_published_at": "Sun, 15 Nov 2026 11:00:00 +0000",
-      "image_url": "/article_images/fun-sf93e1cd487d70caa.webp",
+      "id": "2026-11-17-fun-1",
+      "source": "BBC Tennis",
+      "time_ago": "Sun, 15 Nov 2026 23:18:38 GMT",
+      "mined_at": "2026-11-17T11:14:24+00:00",
+      "source_published_at": "Sun, 15 Nov 2026 23:18:38 GMT",
+      "image_url": "/article_images/fun-s39c3a417a5cab23c.webp",
       "category": "Fun",
-      "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Little Pets",
-      "summary": "Tiny AI pets on small screens nudge you to water plants, ride skateboards and work out — by looking sad when ignored."
+      "title": "The Teenager Who Conquered the WTA Finals",
+      "summary": "Nervous before the tournament, 19-year-old Mirra Andreeva won the WTA Finals without dropping a set, becoming its youngest champion in 22 years."
     },
     {
-      "id": "2026-11-16-fun-2",
-      "source": "Wired Gear",
-      "time_ago": "Sun, 15 Nov 2026 12:00:00 +0000",
-      "mined_at": "2026-11-16T15:06:43+00:00",
-      "source_published_at": "Sun, 15 Nov 2026 12:00:00 +0000",
-      "image_url": "/article_images/fun-s5a726360e4158adc.webp",
+      "id": "2026-11-17-fun-2",
+      "source": "IndieWire",
+      "time_ago": "Mon, 16 Nov 2026 23:37:56 +0000",
+      "mined_at": "2026-11-17T11:14:24+00:00",
+      "source_published_at": "Mon, 16 Nov 2026 23:37:56 +0000",
+      "image_url": "/article_images/fun-scdadb12d21ab459d.webp",
       "category": "Fun",
-      "title": "AI DJs Keep Talking Over the Music — and Listeners Are Tuning Out",
-      "summary": "AI DJs on YouTube Music and Spotify talk between songs — but long-winded, error-prone chatter is driving one listener to switch them off."
+      "title": "Spider-Man Swings Back to Theaters",
+      "summary": "Spider-Man: Brand New Day returns to theaters December 4 in an extended cut, chasing $1 billion and an awards campaign."
     },
     {
-      "id": "2026-11-16-fun-3",
-      "source": "/Film",
-      "time_ago": "Mon, 16 Nov 2026 00:00:00 +0000",
-      "mined_at": "2026-11-16T15:06:43+00:00",
-      "source_published_at": "Mon, 16 Nov 2026 00:00:00 +0000",
-      "image_url": "/article_images/fun-s4438fc870b5790f4.webp",
+      "id": "2026-11-17-fun-3",
+      "source": "Live Science",
+      "time_ago": "Sun, 15 Nov 2026 18:00:00 +0000",
+      "mined_at": "2026-11-17T11:14:24+00:00",
+      "source_published_at": "Sun, 15 Nov 2026 18:00:00 +0000",
+      "image_url": "/article_images/fun-sf3965d47930126ae.webp",
       "category": "Fun",
-      "title": "Star Trek: Picard Almost Starred Uhura Instead",
-      "summary": "Before Picard became Picard's story, the show's creators planned to bring back Nichelle Nichols as Uhura — for a meeting with a very young Picard."
+      "title": "What Would You Ask an Animal?",
+      "summary": "Scientists are using AI to decode birdsong, whale calls and more, bringing a real conversation with animals closer than ever."
     }
   ]
 }

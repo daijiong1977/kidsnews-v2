@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-16-science-1",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Sat, 14 Nov 2026 22:42:52 EST",
-      "mined_at": "2026-11-16T15:06:43+00:00",
-      "source_published_at": "Sat, 14 Nov 2026 22:42:52 EST",
-      "image_url": "/article_images/science-s6aad63284cc83b8b.webp",
+      "id": "2026-11-17-science-1",
+      "source": "Live Science",
+      "time_ago": "Mon, 16 Nov 2026 19:06:03 +0000",
+      "mined_at": "2026-11-17T11:14:24+00:00",
+      "source_published_at": "Mon, 16 Nov 2026 19:06:03 +0000",
+      "image_url": "/article_images/science-s30a26c0d9fd79c63.webp",
       "category": "Science",
-      "title": "One Penguin Group Stays Steady While Its Neighbor Shrinks",
-      "summary": "One group of rare penguins has stayed steady for 25 years while its neighbor has shrunk by more than 40 percent — and scientists are working out why."
+      "title": "Look Up Tonight: Shooting Stars Are Coming",
+      "summary": "The Leonid meteor shower peaks tonight, with up to 15 fast shooting stars per hour under dark skies."
     },
     {
-      "id": "2026-11-16-science-2",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Sun, 15 Nov 2026 08:04:09 EST",
-      "mined_at": "2026-11-16T15:06:43+00:00",
-      "source_published_at": "Sun, 15 Nov 2026 08:04:09 EST",
-      "image_url": "/article_images/science-s8dd36fbafcd010ef.webp",
+      "id": "2026-11-17-science-2",
+      "source": "Live Science",
+      "time_ago": "Tue, 17 Nov 2026 08:00:00 +0000",
+      "mined_at": "2026-11-17T11:14:24+00:00",
+      "source_published_at": "Tue, 17 Nov 2026 08:00:00 +0000",
+      "image_url": "/article_images/science-s500ab0a8d80971e5.webp",
       "category": "Science",
-      "title": "A Dead Star Spins Every 8 Minutes and Sends Mystery Radio Signals",
-      "summary": "A dead star spinning every eight minutes sends mystery radio signals from a system with a Sun-like companion — the first of its kind ever found."
+      "title": "A Green Cloud in the Sea, Seen From Space",
+      "summary": "A satellite photo caught a four-mile green cloud of herring milt off the coast of Canada."
     },
     {
-      "id": "2026-11-16-science-3",
-      "source": "ScienceDaily All",
-      "time_ago": "Sun, 15 Nov 2026 20:40:04 EST",
-      "mined_at": "2026-11-16T15:06:43+00:00",
-      "source_published_at": "Sun, 15 Nov 2026 20:40:04 EST",
-      "image_url": "/article_images/science-s131ab83ea303ff48.webp",
+      "id": "2026-11-17-science-3",
+      "source": "Live Science",
+      "time_ago": "Mon, 16 Nov 2026 16:00:00 +0000",
+      "mined_at": "2026-11-17T11:14:24+00:00",
+      "source_published_at": "Mon, 16 Nov 2026 16:00:00 +0000",
+      "image_url": "/article_images/science-s975920b0250622bb.webp",
       "category": "Science",
-      "title": "A Gentle Sound May Help the Brain Clean Itself at Night",
-      "summary": "MIT researchers found that precisely timed bursts of pink noise during sleep strengthen the brain waves that drive its nighttime cleaning fluid."
+      "title": "Tiny Robots That Help Melt Blood Clots",
+      "summary": "Tiny magnetic robots helped melt blood clots ten times faster than drugs alone in early animal tests."
     }
   ]
 }

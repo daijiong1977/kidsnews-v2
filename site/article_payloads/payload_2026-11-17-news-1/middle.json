@@ -1,0 +1,126 @@
+{
+  "title": "After a Nationwide Flight Standstill, a $50 Billion Question",
+  "summary": "Last Friday, air travel across the United States came to a standstill for more than four hours. It was the longest nationwide ground stop since the attacks of September 11, 2001, and it turned the whole weekend into a travel headache, with cancellations and long delays at airports everywhere. By Monday, planes were back in the skies and travel was slowly returning to normal. But the big question had only just begun: how do you fix a system this old, and who pays for it? Investigators are still digging into what went wrong. The Trump administration says the trouble started at a single air traffic control facility in southern Arkansas, where a government contractor was replacing aging copper wire communication lines with fiber. A network router there was flooded with thousands of data pings every few seconds, overloading the systems controllers use to guide pilots. The problem may then have spread to a router in Texas. Transportation Secretary Sean Duffy described the equipment as very, very old, saying it had suffered a kind of heart attack. He said the system is on average about 50 years old, and procedures for doing this kind of work will be reviewed so it cannot bring the system down again. He also stressed that nobody was hurt and no planes crashed. Now a funding fight is brewing. Secretary Duffy is asking Congress for $50 billion to upgrade the nation's air traffic control systems. Democrats are pushing back, saying billions of dollars have already been approved for an overhaul of the Federal Aviation Administration, and they want answers about where that money went. Travelers, meanwhile, just want to get home after a weekend of cancellations. ",
+  "why_it_matters": "Air travel is how many families visit relatives and go on trips, so a broken control system can strand travelers across the whole country.",
+  "image_url": "/article_images/news-s20d558d070bd7213.webp",
+  "keywords": [
+    {
+      "term": "ground stop",
+      "explanation": "A time when all planes are told to stay on the ground."
+    },
+    {
+      "term": "air traffic control",
+      "explanation": "The people and machines that tell planes where to fly safely."
+    },
+    {
+      "term": "router",
+      "explanation": "A machine that sends signals between computers."
+    },
+    {
+      "term": "fiber",
+      "explanation": "Thin glass threads that carry signals very fast."
+    },
+    {
+      "term": "overhaul",
+      "explanation": "A big fix that makes an old thing work like new."
+    },
+    {
+      "term": "standstill",
+      "explanation": "A complete stop, when nothing moves."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How long did air travel stop last Friday?",
+      "options": [
+        "About one hour",
+        "Ten minutes",
+        "All weekend",
+        "More than four hours"
+      ],
+      "correct_answer": "More than four hours"
+    },
+    {
+      "question": "Where did the trouble start?",
+      "options": [
+        "A plane factory",
+        "The White House",
+        "A control center in southern Arkansas",
+        "An airport in Texas"
+      ],
+      "correct_answer": "A control center in southern Arkansas"
+    },
+    {
+      "question": "What were workers changing at the Arkansas center?",
+      "options": [
+        "Plane engines",
+        "Radar screens",
+        "Old copper wires to new fiber wires",
+        "Airport runways"
+      ],
+      "correct_answer": "Old copper wires to new fiber wires"
+    },
+    {
+      "question": "What did the router get too much of?",
+      "options": [
+        "Rain water",
+        "Thousands of data pings every few seconds",
+        "Phone calls from pilots",
+        "Newspapers"
+      ],
+      "correct_answer": "Thousands of data pings every few seconds"
+    },
+    {
+      "question": "How much money is Secretary Duffy asking Congress for?",
+      "options": [
+        "$50 billion",
+        "$1 million",
+        "$12.5 billion",
+        "$5 billion"
+      ],
+      "correct_answer": "$50 billion"
+    },
+    {
+      "question": "What do Democrats want to know?",
+      "options": [
+        "Where the money already approved went",
+        "Why planes are white",
+        "How to fly a plane",
+        "When the next election is"
+      ],
+      "correct_answer": "Where the money already approved went"
+    }
+  ],
+  "background_read": [
+    "Air traffic control is the system that keeps planes safe in the sky.",
+    "Controllers on the ground talk to pilots and tell each plane where to go, so planes do not get too close to each other.",
+    "The system uses radios, computers and radar, and much of its equipment is very old.",
+    "When one part of the system fails, flights across the whole country can be delayed or stopped."
+  ],
+  "Article_Structure": [
+    "LEAD: Last Friday, US air travel stopped for more than four hours, the longest nationwide ground stop since September 11, 2001.",
+    "KEY EVENT: A funding fight over fixing the air traffic control system",
+    "  ├─ WHO: Transportation Secretary Sean Duffy and Democrats in Congress",
+    "  ├─ WHAT: Duffy asks Congress for $50 billion to upgrade the system",
+    "  └─ WHY: The system is on average about 50 years old and failed after a router overload",
+    "EVIDENCE: The trouble started at a facility in southern Arkansas during a copper-to-fiber wire change",
+    "OPEN QUESTION: Who will pay for the fix, and where did the money already approved go?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "The Trump administration",
+      "description": "Says the failure came from old equipment and a contractor's wire work, and asks Congress for $50 billion to upgrade the system."
+    },
+    {
+      "perspective": "Democrats",
+      "description": "Question the price tag, saying billions of dollars have already been approved for an overhaul of the Federal Aviation Administration."
+    }
+  ],
+  "mined_at": "2026-11-17T11:14:24+00:00",
+  "source_published_at": "Mon, 16 Nov 2026 18:55:00 -0500",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/show/trump-administration-seeks-to-deflect-responsibility-for-nationwide-ground-stop",
+  "category": "News",
+  "source_word_count": 489,
+  "detail_status": "full"
+}

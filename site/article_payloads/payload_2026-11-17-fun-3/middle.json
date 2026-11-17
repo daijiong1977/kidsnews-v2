@@ -1,0 +1,116 @@
+{
+  "title": "What Would You Ask an Animal?",
+  "summary": "If you could talk to any animal, which one would you choose? The idea might sound like something from Dr. Dolittle, but scientists are making real progress toward understanding how other species communicate. Researchers recently used artificial intelligence to decode segments of birdsong. At the University of California, Berkeley, ethologist Julie Elie used AI and behavioral experiments to work out what zebra finches are saying to each other. She could tell which calls the birds use to communicate over short distances and which ones they use over longer distances. Birds are not the only animals scientists hope to understand. Researchers with Project CETI are using AI to decipher the clicks and calls of sperm whales. Meanwhile, a separate team working with the search for extraterrestrial intelligence, known as SETI, carried out what they described as the first conversation between humans and a humpback whale. The whale, named Twain, responded to recorded calls played by the researchers over 20 minutes. Scientists believe the exchange could one day help us figure out how to communicate with life from other planets. Closer to home, cats have already figured out how to use meows to get our attention, whether they are demanding food, affection or simply asking us to open the door for them again. Whether cats truly understand human language is still up for debate. But it raises a fun question. If we could understand what animals are saying, which species would you most want to talk to? A dog, to find out what it really thinks of the mail carrier? A whale, to hear about life in the deep ocean? Or a bird, to ask what it sings about at dawn? The science is still young, but the idea of a real conversation with another species is moving from storybooks into the laboratory.",
+  "why_it_matters": "Understanding animal calls could change how we see other species and even help us think about talking to life beyond Earth.",
+  "image_url": "/article_images/fun-sf3965d47930126ae.webp",
+  "keywords": [
+    {
+      "term": "decode",
+      "explanation": "To work out the meaning of a secret message or sound."
+    },
+    {
+      "term": "ethologist",
+      "explanation": "A scientist who studies how animals behave."
+    },
+    {
+      "term": "sperm whales",
+      "explanation": "The largest toothed whales in the world."
+    },
+    {
+      "term": "extraterrestrial",
+      "explanation": "From outside Earth, like from another planet."
+    },
+    {
+      "term": "finches",
+      "explanation": "Small birds with short beaks that sing."
+    },
+    {
+      "term": "conversation",
+      "explanation": "Talking back and forth with someone."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What did Julie Elie study?",
+      "options": [
+        "Cats",
+        "Dogs",
+        "Dolphins",
+        "Zebra finches"
+      ],
+      "correct_answer": "Zebra finches"
+    },
+    {
+      "question": "What did she use to decode birdsong?",
+      "options": [
+        "A telescope",
+        "Artificial intelligence and behavioral experiments",
+        "A microphone only",
+        "A book"
+      ],
+      "correct_answer": "Artificial intelligence and behavioral experiments"
+    },
+    {
+      "question": "What is Project CETI studying?",
+      "options": [
+        "Cat meows",
+        "The clicks and calls of sperm whales",
+        "Dog barks",
+        "Bird migration"
+      ],
+      "correct_answer": "The clicks and calls of sperm whales"
+    },
+    {
+      "question": "What was the humpback whale's name?",
+      "options": [
+        "Moby",
+        "Willy",
+        "Echo",
+        "Twain"
+      ],
+      "correct_answer": "Twain"
+    },
+    {
+      "question": "How long did the whale conversation last?",
+      "options": [
+        "2 minutes",
+        "20 minutes",
+        "2 hours",
+        "All day"
+      ],
+      "correct_answer": "20 minutes"
+    },
+    {
+      "question": "What have cats learned to do with meows?",
+      "options": [
+        "Open doors themselves",
+        "Sing songs",
+        "Get their human's attention for food, affection or an open door",
+        "Count numbers"
+      ],
+      "correct_answer": "Get their human's attention for food, affection or an open door"
+    }
+  ],
+  "background_read": [
+    "Animals communicate with sounds, movements and smells, but humans have long struggled to understand what they mean.",
+    "Artificial intelligence can now study huge numbers of animal sounds and look for patterns.",
+    "Scientists hope that by decoding these calls, we can learn how animals share information with each other."
+  ],
+  "Article_Structure": [
+    "LEAD: Scientists are using AI to decode what animals say.",
+    "KEY EVENT: A first conversation with a humpback whale",
+    "  ├─ WHO: Researchers at UC Berkeley, Project CETI and SETI",
+    "  ├─ WHAT: AI decoded zebra finch calls and whale clicks",
+    "  └─ WHY: To learn how animals share information",
+    "EVIDENCE: The whale Twain answered recorded calls for 20 minutes",
+    "OPEN QUESTION: Which animal would you most want to talk to?"
+  ],
+  "perspectives": [],
+  "mined_at": "2026-11-17T11:14:24+00:00",
+  "source_published_at": "Sun, 15 Nov 2026 18:00:00 +0000",
+  "source_name": "Live Science",
+  "source_url": "https://www.livescience.com/animals/which-animal-would-you-most-want-to-talk-to-if-you-could",
+  "category": "Fun",
+  "source_word_count": 368,
+  "detail_status": "full"
+}

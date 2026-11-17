@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-16-news-1",
+      "id": "2026-11-17-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Sun, 15 Nov 2026 17:16:01 -0500",
-      "mined_at": "2026-11-16T15:06:43+00:00",
-      "source_published_at": "Sun, 15 Nov 2026 17:16:01 -0500",
-      "image_url": "/article_images/news-sea15603dc74a3976.webp",
+      "time_ago": "Mon, 16 Nov 2026 18:55:00 -0500",
+      "mined_at": "2026-11-17T11:14:24+00:00",
+      "source_published_at": "Mon, 16 Nov 2026 18:55:00 -0500",
+      "image_url": "/article_images/news-s20d558d070bd7213.webp",
       "category": "News",
-      "title": "Two Planes Collide on the Ground in Miami; Only Minor Injuries Reported",
-      "summary": "A Copa Airlines plane's wingtip struck a UPS cargo plane's nose at a Miami airport intersection on Saturday night; two people had minor injuries."
+      "title": "After a Nationwide Flight Standstill, a $50 Billion Question",
+      "summary": "After the longest nationwide ground stop since 9/11, the administration wants $50 billion to modernize air traffic control, while Democrats ask about money already approved."
     },
     {
-      "id": "2026-11-16-news-2",
-      "source": "NPR World",
-      "time_ago": "Mon, 16 Nov 2026 05:00:00 -0500",
-      "mined_at": "2026-11-16T15:06:43+00:00",
-      "source_published_at": "Mon, 16 Nov 2026 05:00:00 -0500",
-      "image_url": "/article_images/news-s1b471f603f5eaeb7.webp",
+      "id": "2026-11-17-news-2",
+      "source": "BBC News",
+      "time_ago": "Tue, 17 Nov 2026 10:45:55 GMT",
+      "mined_at": "2026-11-17T11:14:24+00:00",
+      "source_published_at": "Tue, 17 Nov 2026 10:45:55 GMT",
+      "image_url": "/article_images/news-saa9cbca20c91f26d.webp",
       "category": "News",
-      "title": "When Food Aid Shrinks, a San Diego Office Doubles as a Food Pantry",
-      "summary": "In San Diego, a social services office now hands out free groceries as about five million people nationwide have lost SNAP food benefits."
+      "title": "A Key Bridge to Crimea Is Badly Damaged",
+      "summary": "Ukraine says a weeks-long operation severely damaged the Crimean Bridge, a key road and rail link, days before Putin meets the leaders of China and the US."
     },
     {
-      "id": "2026-11-16-news-3",
-      "source": "CBC World",
-      "time_ago": "Sun, 15 Nov 2026 13:20:10 EST",
-      "mined_at": "2026-11-16T15:06:43+00:00",
-      "source_published_at": "Sun, 15 Nov 2026 13:20:10 EST",
-      "image_url": "/article_images/news-sa9095a6ece9686e4.webp",
+      "id": "2026-11-17-news-3",
+      "source": "BBC News",
+      "time_ago": "Tue, 17 Nov 2026 02:37:53 GMT",
+      "mined_at": "2026-11-17T11:14:24+00:00",
+      "source_published_at": "Tue, 17 Nov 2026 02:37:53 GMT",
+      "image_url": "/article_images/news-s257be5f9d3a342cf.webp",
       "category": "News",
-      "title": "Canada Pledges $560 Million to Brazil-Led Fund to Protect Rainforests",
-      "summary": "Canada will give up to $560 million over four years to a Brazil- and Norway-led fund that pays countries to protect tropical rainforests."
+      "title": "The Campaign to Bring Jensen Back",
+      "summary": "More than 175,000 people have signed a petition asking Nvidia to reinstate co-founder Jensen Huang, with backing from Trump and Musk, but the board is not considering it."
     }
   ]
 }

@@ -1,0 +1,134 @@
+{
+  "title": "The Campaign to Bring Jensen Back",
+  "summary": "Nvidia is one of the most valuable companies in the world, and its chips power much of the artificial intelligence boom. So when its co-founder and chief executive Jensen Huang stepped down last week, it made waves across Silicon Valley. Now a campaign wants him back. More than 175,000 people have signed an open letter asking Nvidia's board to give Huang his job back. The campaign, called Bring Jensen Back, says it was launched by current and former Nvidia employees, partners, shareholders and supporters. They say Huang was removed without meaningful due process. The campaign has some very famous backers. President Donald Trump said on Monday that he would certainly not mind seeing Huang reinstated. Elon Musk, the head of SpaceX, and Tim Sweeney, chief executive of Fortnite maker Epic Games, have also supported Huang's return. But Nvidia itself is not budging. The company has dismissed the campaign, and the Financial Times reported that Huang has been discussing a possible return with confidants, though Nvidia's board is not considering reappointing him. A representative for Huang declined to comment. The story has also stirred debate in Washington. The White House said on Monday that it will further restrict China's access to AI chips from firms like Nvidia. Treasury Secretary Scott Bessent has called for Nvidia to hire its next chief executive from outside the company. For now, the boardroom battle continues, with a petition, a president and some of tech's biggest names all pulling in different directions.",
+  "why_it_matters": "Nvidia's chips power the artificial intelligence in phones, games and computers, so who runs the company can shape the technology children use every day.",
+  "image_url": "/article_images/news-s257be5f9d3a342cf.webp",
+  "keywords": [
+    {
+      "term": "co-founder",
+      "explanation": "One of the people who started a company."
+    },
+    {
+      "term": "artificial intelligence",
+      "explanation": "Computer programs that can learn and think a bit like people."
+    },
+    {
+      "term": "board",
+      "explanation": "The group of people who run a company and make its biggest choices."
+    },
+    {
+      "term": "dismissed",
+      "explanation": "Said no to something and would not talk about it more."
+    },
+    {
+      "term": "Silicon Valley",
+      "explanation": "The area in California where many big tech companies are based."
+    },
+    {
+      "term": "shareholders",
+      "explanation": "People who own part of a company."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What does Nvidia make?",
+      "options": [
+        "Computer chips that power artificial intelligence",
+        "Phones",
+        "Airplanes",
+        "Electric cars"
+      ],
+      "correct_answer": "Computer chips that power artificial intelligence"
+    },
+    {
+      "question": "How many people signed the open letter?",
+      "options": [
+        "Ten million",
+        "More than 175,000",
+        "Exactly 50,000",
+        "About 1,000"
+      ],
+      "correct_answer": "More than 175,000"
+    },
+    {
+      "question": "What does the Bring Jensen Back campaign say?",
+      "options": [
+        "Chips are too expensive",
+        "Huang was removed without a fair process",
+        "Trump should run Nvidia",
+        "Nvidia should close down"
+      ],
+      "correct_answer": "Huang was removed without a fair process"
+    },
+    {
+      "question": "Who said he would not mind Huang coming back?",
+      "options": [
+        "Jensen Huang",
+        "Tim Sweeney",
+        "Scott Bessent",
+        "President Donald Trump"
+      ],
+      "correct_answer": "President Donald Trump"
+    },
+    {
+      "question": "What is Nvidia's board doing?",
+      "options": [
+        "It is not considering reappointing Huang",
+        "It has already given him his job back",
+        "It has sold the company",
+        "It has asked Trump to decide"
+      ],
+      "correct_answer": "It is not considering reappointing Huang"
+    },
+    {
+      "question": "What did the White House also say on Monday?",
+      "options": [
+        "It will buy Nvidia",
+        "It will close the border",
+        "It will further restrict China's access to AI chips",
+        "It will ban video games"
+      ],
+      "correct_answer": "It will further restrict China's access to AI chips"
+    }
+  ],
+  "background_read": [
+    "Nvidia is a technology company that makes computer chips.",
+    "Its chips are used to power artificial intelligence, the computer systems that can learn from data and do tasks that once needed people.",
+    "The company is one of the most valuable in the world.",
+    "Its chief executive runs the company day to day, while its board of directors makes the biggest decisions, including who leads the company."
+  ],
+  "Article_Structure": [
+    "LEAD: Nvidia co-founder Jensen Huang stepped down, and a campaign wants him back.",
+    "KEY EVENT: The Bring Jensen Back campaign and the fight over who runs Nvidia",
+    "  ├─ WHO: More than 175,000 signers, plus Trump, Musk and Sweeney",
+    "  ├─ WHAT: An open letter asks the board to reinstate Huang",
+    "  └─ WHY: Supporters say he was removed without a fair process",
+    "EVIDENCE: Nvidia dismissed the campaign and its board is not considering reappointing him",
+    "OPEN QUESTION: Who will lead Nvidia next?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "President Donald Trump",
+      "description": "Said he would certainly not mind seeing Huang reinstated."
+    },
+    {
+      "perspective": "Campaign supporters",
+      "description": "Say Huang was removed without meaningful due process and want him back."
+    },
+    {
+      "perspective": "Nvidia's board",
+      "description": "Has dismissed the campaign and is not considering reappointing Huang, according to the Financial Times."
+    },
+    {
+      "perspective": "Treasury Secretary Scott Bessent",
+      "description": "Has called for Nvidia to hire its next chief executive from outside the company."
+    }
+  ],
+  "mined_at": "2026-11-17T11:14:24+00:00",
+  "source_published_at": "Tue, 17 Nov 2026 02:37:53 GMT",
+  "source_name": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+  "category": "News",
+  "source_word_count": 453,
+  "detail_status": "full"
+}

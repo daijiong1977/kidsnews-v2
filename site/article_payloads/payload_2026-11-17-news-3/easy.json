@@ -1,0 +1,122 @@
+{
+  "title": "The Campaign to Bring Jensen Back",
+  "summary": "Nvidia makes the computer chips that power artificial intelligence. Its co-founder Jensen Huang was the boss of the company. Last week, he stepped down from his job. Now many people want him back. More than 175,000 people have signed a letter asking the company's board to give Huang his job back. The group calls itself Bring Jensen Back. It says Huang was removed without a fair process. The group has famous friends. President Donald Trump said he would not mind if Huang got his job back. Elon Musk, the head of SpaceX, and Tim Sweeney, the boss of Fortnite maker Epic Games, also support him. But Nvidia says no. The company has dismissed the campaign. A newspaper reported that Huang has talked with friends about coming back, but the board is not thinking about giving him the job. A person who speaks for Huang did not want to comment. The story has also started a debate in Washington about who should run Nvidia next.",
+  "why_it_matters": "The chips in phones and games come from companies like Nvidia, so who runs them matters for the tech kids use.",
+  "image_url": "/article_images/news-s257be5f9d3a342cf.webp",
+  "keywords": [
+    {
+      "term": "artificial intelligence",
+      "explanation": "Computer programs that can learn and think a bit like people."
+    },
+    {
+      "term": "co-founder",
+      "explanation": "One of the people who started a company."
+    },
+    {
+      "term": "board",
+      "explanation": "The group of people who run a company."
+    },
+    {
+      "term": "dismissed",
+      "explanation": "Said no to something."
+    },
+    {
+      "term": "Washington",
+      "explanation": "The city where the leaders of the United States work."
+    },
+    {
+      "term": "debate",
+      "explanation": "A big argument about what to do."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What does Nvidia make?",
+      "options": [
+        "Computer chips",
+        "Phones",
+        "Toys",
+        "Cars"
+      ],
+      "correct_answer": "Computer chips"
+    },
+    {
+      "question": "Who was the boss of Nvidia?",
+      "options": [
+        "Donald Trump",
+        "Elon Musk",
+        "Tim Sweeney",
+        "Jensen Huang"
+      ],
+      "correct_answer": "Jensen Huang"
+    },
+    {
+      "question": "How many people signed the letter?",
+      "options": [
+        "More than 175,000",
+        "A million",
+        "1,000",
+        "175"
+      ],
+      "correct_answer": "More than 175,000"
+    },
+    {
+      "question": "What is the group called?",
+      "options": [
+        "Bring Jensen Back",
+        "Save Nvidia",
+        "Back to Work",
+        "Fix the Chips"
+      ],
+      "correct_answer": "Bring Jensen Back"
+    },
+    {
+      "question": "Who said he would not mind Huang coming back?",
+      "options": [
+        "Jensen Huang",
+        "The board",
+        "President Donald Trump",
+        "Tim Sweeney"
+      ],
+      "correct_answer": "President Donald Trump"
+    },
+    {
+      "question": "What does Nvidia say?",
+      "options": [
+        "No, it has dismissed the campaign",
+        "It will move",
+        "Yes, he can come back",
+        "It will close"
+      ],
+      "correct_answer": "No, it has dismissed the campaign"
+    }
+  ],
+  "background_read": [
+    "Nvidia makes computer chips.",
+    "Its chips help computers do smart things.",
+    "A board of leaders runs the company and picks its boss."
+  ],
+  "Article_Structure": [
+    "WHO: Jensen Huang, Nvidia's co-founder, and the people who want him back",
+    "WHAT: A campaign to give Huang his job back",
+    "WHERE: At Nvidia, a big tech company in Silicon Valley",
+    "WHY: Supporters say he was removed without a fair process"
+  ],
+  "perspectives": [
+    {
+      "perspective": "President Donald Trump",
+      "description": "Said he would not mind Huang coming back."
+    },
+    {
+      "perspective": "Nvidia",
+      "description": "Has dismissed the campaign."
+    }
+  ],
+  "mined_at": "2026-11-17T11:14:24+00:00",
+  "source_published_at": "Tue, 17 Nov 2026 02:37:53 GMT",
+  "source_name": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+  "category": "News",
+  "source_word_count": 453,
+  "detail_status": "full"
+}

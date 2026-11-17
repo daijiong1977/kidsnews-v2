@@ -1,0 +1,113 @@
+{
+  "title": "Tiny Robots That Help Melt Blood Clots",
+  "summary": "Scientists have made tiny robots that can tumble through your blood. They may help doctors melt blood clots much faster. A blood clot is a lump of blood that blocks a blood vessel. If it is not treated, it can cause a heart attack or a stroke. Doctors use drugs to melt clots. But it is hard to get the drug to the clot. The tiny robots can help. Each robot is shaped like a bullet. It has a magnetic backbone made of iron. A magnet outside the body makes the robots spin and tumble. As they tumble, they push the drug right to the clot. The idea came from tiny bacteria that use magnets in their bodies to find their way. In tests, the robots helped melt clots about 10 times faster than the drug alone. The tests were done first in a model blood vessel, then in live pigs. The scientists still need to test the robots more before they can be used in people.",
+  "why_it_matters": "Blood clots can hurt people badly, so faster treatment could save lives.",
+  "image_url": "/article_images/science-s975920b0250622bb.webp",
+  "keywords": [
+    {
+      "term": "blood clot",
+      "explanation": "A lump of blood that blocks a blood vessel."
+    },
+    {
+      "term": "stroke",
+      "explanation": "When blood cannot reach part of the brain and hurts it."
+    },
+    {
+      "term": "magnetic",
+      "explanation": "Able to be moved by a magnet."
+    },
+    {
+      "term": "bullet",
+      "explanation": "Shaped like a small metal ball that flies fast."
+    },
+    {
+      "term": "bacteria",
+      "explanation": "Tiny living things too small to see."
+    },
+    {
+      "term": "vessel",
+      "explanation": "A tube that carries blood through the body."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is a blood clot?",
+      "options": [
+        "A kind of bone",
+        "A germ",
+        "A muscle",
+        "A lump of blood that blocks a blood vessel"
+      ],
+      "correct_answer": "A lump of blood that blocks a blood vessel"
+    },
+    {
+      "question": "What can a clot cause?",
+      "options": [
+        "A heart attack or a stroke",
+        "A headache",
+        "A broken arm",
+        "A cold"
+      ],
+      "correct_answer": "A heart attack or a stroke"
+    },
+    {
+      "question": "What shape are the robots?",
+      "options": [
+        "Like a cube",
+        "Like a ball",
+        "Like a bullet",
+        "Like a star"
+      ],
+      "correct_answer": "Like a bullet"
+    },
+    {
+      "question": "What makes the robots spin?",
+      "options": [
+        "A magnet outside the body",
+        "A battery",
+        "Water",
+        "Wind"
+      ],
+      "correct_answer": "A magnet outside the body"
+    },
+    {
+      "question": "How much faster did clots melt with the robots?",
+      "options": [
+        "About 10 times faster",
+        "About 2 times faster",
+        "The same speed",
+        "Slower"
+      ],
+      "correct_answer": "About 10 times faster"
+    },
+    {
+      "question": "What animals were tested?",
+      "options": [
+        "Cats",
+        "Dogs",
+        "Mice",
+        "Live pigs"
+      ],
+      "correct_answer": "Live pigs"
+    }
+  ],
+  "background_read": [
+    "Blood moves around your body in tubes called vessels.",
+    "A clot is a lump that blocks a vessel.",
+    "Tiny robots may help carry medicine to melt the clot."
+  ],
+  "Article_Structure": [
+    "WHO: Scientists and tiny robots called microbots",
+    "WHAT: Robots that help melt blood clots faster",
+    "WHERE: Inside blood vessels, tested in pigs",
+    "WHY: Drugs alone have trouble reaching the clot"
+  ],
+  "perspectives": [],
+  "mined_at": "2026-11-17T11:14:24+00:00",
+  "source_published_at": "Mon, 16 Nov 2026 16:00:00 +0000",
+  "source_name": "Live Science",
+  "source_url": "https://www.livescience.com/health/heart-circulation/tiny-robots-can-tumble-through-blood-vessels-to-help-dissolve-blood-clots-early-test-shows",
+  "category": "Science",
+  "source_word_count": 719,
+  "detail_status": "full"
+}

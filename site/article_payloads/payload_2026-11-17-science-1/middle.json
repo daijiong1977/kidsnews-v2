@@ -1,0 +1,117 @@
+{
+  "title": "Look Up Tonight: The Leonids Are Peaking",
+  "summary": "One of November's best meteor showers peaks tonight, and skywatchers could see up to 15 shooting stars per hour. The Leonids are active from November 6 to November 30, but the peak on Monday night into Tuesday is the best time to look, according to the American Meteor Society. The best viewing window is between midnight and dawn on Tuesday, November 17, when the constellation Leo, from which the meteors appear to radiate, climbs higher in the eastern sky. A 45 percent lit waxing crescent moon will set just before midnight, leaving dark skies for meteor watching. For the best views, find a spot away from artificial lights, lie back with a wide view of the sky, and allow about 20 minutes for your eyes to become used to the dark. Do not use binoculars or a telescope during a meteor shower, because they only narrow your view. The Leonids are among the fastest shooting stars of the year, racing across the sky at 43 miles per second, or 70 kilometers per second. They often leave bright, glowing trails behind them. They are produced by tiny particles of dust and debris left behind by Comet 55P Tempel-Tuttle, which takes about 33 years to orbit the sun and is about 2.2 miles wide. The comet last visited the inner solar system in 1998 and is due to return in 2031. Although no rapid-fire meteor storm is expected this year, the Leonids are famous for occasionally producing spectacular outbursts of 1,000 shooting stars per hour. Such storms happened in 1833, 1866, 1966, 1999, 2001 and 2002. The next one is expected in 2099, so tonight's show is the one to catch.",
+  "why_it_matters": "Meteor showers are one of the easiest space shows to watch with no special equipment, just your eyes and a dark sky.",
+  "image_url": "/article_images/science-s30a26c0d9fd79c63.webp",
+  "keywords": [
+    {
+      "term": "meteor shower",
+      "explanation": "A night when many shooting stars fall at once."
+    },
+    {
+      "term": "constellation",
+      "explanation": "A group of stars that makes a picture in the sky."
+    },
+    {
+      "term": "crescent",
+      "explanation": "The shape of the moon when only a small part of it is lit."
+    },
+    {
+      "term": "comet",
+      "explanation": "A ball of ice and dust that travels around the sun."
+    },
+    {
+      "term": "radiate",
+      "explanation": "To spread out from one point."
+    },
+    {
+      "term": "outbursts",
+      "explanation": "Sudden bursts of many shooting stars at once."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How many shooting stars per hour could you see?",
+      "options": [
+        "Up to 100",
+        "Only one",
+        "Up to 1,000",
+        "Up to 15"
+      ],
+      "correct_answer": "Up to 15"
+    },
+    {
+      "question": "When is the best time to watch?",
+      "options": [
+        "At sunset",
+        "In the morning",
+        "Between midnight and dawn on Tuesday",
+        "At noon"
+      ],
+      "correct_answer": "Between midnight and dawn on Tuesday"
+    },
+    {
+      "question": "Why will the sky be dark?",
+      "options": [
+        "Clouds cover the moon",
+        "The stars go out",
+        "The moon sets before midnight",
+        "The sun sets early"
+      ],
+      "correct_answer": "The moon sets before midnight"
+    },
+    {
+      "question": "How fast do the Leonids move?",
+      "options": [
+        "43 miles per hour",
+        "100 miles per minute",
+        "43 miles per second",
+        "1 mile per second"
+      ],
+      "correct_answer": "43 miles per second"
+    },
+    {
+      "question": "What comet leaves the dust?",
+      "options": [
+        "Comet 55P Tempel-Tuttle",
+        "Comet Geminid",
+        "Halley's Comet",
+        "Comet Leo"
+      ],
+      "correct_answer": "Comet 55P Tempel-Tuttle"
+    },
+    {
+      "question": "When is the next meteor storm expected?",
+      "options": [
+        "1998",
+        "Next year",
+        "2099",
+        "2031"
+      ],
+      "correct_answer": "2099"
+    }
+  ],
+  "background_read": [
+    "A meteor shower happens when Earth passes through dust left behind by a comet.",
+    "The tiny bits of dust burn up as they hit Earth's air, and we see them as bright streaks called shooting stars.",
+    "The Leonids come from Comet Tempel-Tuttle.",
+    "They seem to come from the constellation Leo, which is why they are called Leonids."
+  ],
+  "Article_Structure": [
+    "LEAD: The Leonid meteor shower peaks tonight.",
+    "KEY EVENT: Up to 15 shooting stars per hour under dark skies",
+    "  ├─ WHEN: Between midnight and dawn on Tuesday, November 17",
+    "  ├─ WHERE: Look toward Leo in the eastern sky, away from city lights",
+    "  └─ WHY: Earth passes through dust from Comet Tempel-Tuttle",
+    "EVIDENCE: The moon sets before midnight, leaving the sky dark",
+    "OPEN QUESTION: Will you spot a bright meteor with a glowing trail?"
+  ],
+  "perspectives": [],
+  "mined_at": "2026-11-17T11:14:24+00:00",
+  "source_published_at": "Mon, 16 Nov 2026 19:06:03 +0000",
+  "source_name": "Live Science",
+  "source_url": "https://www.livescience.com/space/meteoroids/the-leonid-meteor-shower-peaks-tonight-how-to-see-more-than-a-dozen-shooting-stars-per-hour",
+  "category": "Science",
+  "source_word_count": 509,
+  "detail_status": "full"
+}
