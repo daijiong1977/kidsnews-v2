@@ -1,0 +1,119 @@
+{
+  "title": "A New Material That Lets Water Help Capture Carbon Dioxide",
+  "summary": "Factory smokestacks puff out carbon dioxide mixed with lots of water vapor, and that soggy mix has long been a headache for carbon capture. Now researchers at Oregon State University have built a material that turns the problem around: instead of letting moisture interfere, it uses water to help keep capturing carbon dioxide.\n\nThe material is called BVR-X, and it belongs to a class of materials known as metal-organic frameworks, or MOFs. MOFs are crystalline materials built from metal ions joined by organic molecules called linkers, forming repeating structures like tiny cages. Their extremely small pores trap gas molecules on their surfaces in a process called adsorption, much like a sponge holds substances within its structure.\n\nBVR-X has an unusual internal structure that keeps water and carbon dioxide largely separated inside its microscopic pores. By directing the two substances into different regions, it stops water molecules from taking the spaces needed to capture carbon dioxide. Water usually makes capturing carbon dioxide more difficult, said Kyriakos Stylianou, a professor of chemistry at Oregon State University, but the new material responds to water by changing in a way that lets it keep capturing carbon dioxide even under very humid conditions.\n\nThat matters because many materials that work well in dry laboratory tests lose much of their capture ability in the humid conditions of real smokestacks. Drying the gases first is possible, but it takes extra equipment and energy, and those costs can make the whole process too expensive for industrial use.\n\nCarbon dioxide is a greenhouse gas released when fossil fuels are burned, and as it builds up it traps heat and contributes to global warming. In the United States, industry accounts for 30 percent of total greenhouse gas emissions, according to the Environmental Protection Agency.",
+  "why_it_matters": "Industry produces a large share of greenhouse gas emissions, so a material that captures carbon in wet, real-world conditions could help slow global warming.",
+  "image_url": "/article_images/science-sc75e0162af2b609f.webp",
+  "keywords": [
+    {
+      "term": "metal-organic frameworks",
+      "explanation": "Materials built from metal joined by organic molecules, forming tiny cage-like structures."
+    },
+    {
+      "term": "adsorption",
+      "explanation": "A process in which gas molecules stick to the surface of a material."
+    },
+    {
+      "term": "crystalline",
+      "explanation": "Made of a regular, repeating pattern, like a crystal."
+    },
+    {
+      "term": "linkers",
+      "explanation": "The organic molecules that join metal ions together in these materials."
+    },
+    {
+      "term": "greenhouse gas",
+      "explanation": "A gas that traps heat in the air and adds to global warming."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is BVR-X?",
+      "options": [
+        "A material that captures carbon dioxide",
+        "A kind of fossil fuel",
+        "A factory smokestack",
+        "A greenhouse gas"
+      ],
+      "correct_answer": "A material that captures carbon dioxide"
+    },
+    {
+      "question": "What are metal-organic frameworks built from?",
+      "options": [
+        "Wood and stone",
+        "Metal ions joined by organic molecules called linkers",
+        "Water and carbon dioxide",
+        "Glass and plastic"
+      ],
+      "correct_answer": "Metal ions joined by organic molecules called linkers"
+    },
+    {
+      "question": "How does BVR-X handle water and carbon dioxide inside its pores?",
+      "options": [
+        "It keeps them largely separated inside its pores",
+        "It turns water into carbon dioxide",
+        "It mixes them together",
+        "It dries the gases first"
+      ],
+      "correct_answer": "It keeps them largely separated inside its pores"
+    },
+    {
+      "question": "Why do many materials fail in real smokestacks?",
+      "options": [
+        "They lose much of their capture ability in humid conditions",
+        "They stop working in the cold",
+        "They are too heavy",
+        "They melt in dry air"
+      ],
+      "correct_answer": "They lose much of their capture ability in humid conditions"
+    },
+    {
+      "question": "What share of greenhouse gas emissions in the United States comes from industry?",
+      "options": [
+        "30 percent",
+        "90 percent",
+        "50 percent",
+        "10 percent"
+      ],
+      "correct_answer": "30 percent"
+    },
+    {
+      "question": "Who said water usually makes capturing carbon dioxide more difficult?",
+      "options": [
+        "Oregon State University",
+        "The Environmental Protection Agency",
+        "Kyriakos Stylianou",
+        "A factory worker"
+      ],
+      "correct_answer": "Kyriakos Stylianou"
+    }
+  ],
+  "background_read": [
+    "Carbon capture is a way of trapping carbon dioxide from factory exhaust before it reaches the air.",
+    "Factories burn fossil fuels for energy, and the exhaust they release contains carbon dioxide mixed with water vapor.",
+    "Metal-organic frameworks are sponge-like materials with tiny pores that can trap gas molecules on their surfaces.",
+    "Capturing carbon dioxide matters because it is a greenhouse gas, and too much of it in the air traps heat and warms the planet."
+  ],
+  "Article_Structure": [
+    "LEAD: Researchers at Oregon State University built BVR-X, a material that uses water to help capture carbon dioxide instead of being blocked by it.",
+    "KEY EVENT: BVR-X keeps capturing carbon dioxide even in very humid factory exhaust.",
+    "  ├─ WHO: Researchers at Oregon State University",
+    "  ├─ WHAT: BVR-X, a metal-organic framework",
+    "  └─ HOW: It keeps water and carbon dioxide largely separated inside its microscopic pores",
+    "EVIDENCE: Many materials work well in dry laboratory tests but lose much of their capture ability in humid smokestacks",
+    "EVIDENCE: Drying the gases first takes extra equipment and energy, which can make capture too expensive for industrial use",
+    "WHAT NEXT: BVR-X could make carbon capture work better in real factories, where exhaust is humid"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Kyriakos Stylianou, a professor of chemistry at Oregon State University",
+      "description": "He said water usually makes capturing carbon dioxide more difficult, but the new material responds to water by changing in a way that lets it keep capturing carbon dioxide even under very humid conditions."
+    }
+  ],
+  "mined_at": "2026-11-18T11:38:14+00:00",
+  "source_published_at": "Tue, 17 Nov 2026 06:29:36 EST",
+  "source_name": "ScienceDaily Most Popular",
+  "source_url": "https://www.sciencedaily.com/releases/2026/11/261116023405.htm",
+  "category": "Science",
+  "source_word_count": 768,
+  "detail_status": "full"
+}

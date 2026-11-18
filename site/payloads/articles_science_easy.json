@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-17-science-1",
+      "id": "2026-11-18-science-1",
       "source": "Live Science",
-      "time_ago": "Mon, 16 Nov 2026 19:06:03 +0000",
-      "mined_at": "2026-11-17T11:14:24+00:00",
-      "source_published_at": "Mon, 16 Nov 2026 19:06:03 +0000",
-      "image_url": "/article_images/science-s30a26c0d9fd79c63.webp",
+      "time_ago": "Wed, 18 Nov 2026 09:00:00 +0000",
+      "mined_at": "2026-11-18T11:38:14+00:00",
+      "source_published_at": "Wed, 18 Nov 2026 09:00:00 +0000",
+      "image_url": "/article_images/science-sb2ffcfa840ddaab1.webp",
       "category": "Science",
-      "title": "Look Up Tonight: Shooting Stars Are Coming",
-      "summary": "The Leonid meteor shower peaks tonight, with up to 15 fast shooting stars per hour under dark skies."
+      "title": "Eagles Hunted Baboons Much Heavier Than Themselves",
+      "summary": "Verreaux's eagles in Chad hunted adult baboons weighing up to 58 pounds, making scientists rethink whether eagles once threatened our small early human relatives."
     },
     {
-      "id": "2026-11-17-science-2",
-      "source": "Live Science",
-      "time_ago": "Tue, 17 Nov 2026 08:00:00 +0000",
-      "mined_at": "2026-11-17T11:14:24+00:00",
-      "source_published_at": "Tue, 17 Nov 2026 08:00:00 +0000",
-      "image_url": "/article_images/science-s500ab0a8d80971e5.webp",
+      "id": "2026-11-18-science-2",
+      "source": "Space.com",
+      "time_ago": "Tue, 17 Nov 2026 22:00:00 +0000",
+      "mined_at": "2026-11-18T11:38:14+00:00",
+      "source_published_at": "Tue, 17 Nov 2026 22:00:00 +0000",
+      "image_url": "/article_images/science-s30e78cfb1ccec903.webp",
       "category": "Science",
-      "title": "A Green Cloud in the Sea, Seen From Space",
-      "summary": "A satellite photo caught a four-mile green cloud of herring milt off the coast of Canada."
+      "title": "Voyager 1 Reaches a Light-Day From Earth",
+      "summary": "Voyager 1 reaches a light-day from Earth on November 18, while Voyager 2 will not get there until about 2035, because the twins took different paths."
     },
     {
-      "id": "2026-11-17-science-3",
-      "source": "Live Science",
-      "time_ago": "Mon, 16 Nov 2026 16:00:00 +0000",
-      "mined_at": "2026-11-17T11:14:24+00:00",
-      "source_published_at": "Mon, 16 Nov 2026 16:00:00 +0000",
-      "image_url": "/article_images/science-s975920b0250622bb.webp",
+      "id": "2026-11-18-science-3",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Tue, 17 Nov 2026 06:29:36 EST",
+      "mined_at": "2026-11-18T11:38:14+00:00",
+      "source_published_at": "Tue, 17 Nov 2026 06:29:36 EST",
+      "image_url": "/article_images/science-sc75e0162af2b609f.webp",
       "category": "Science",
-      "title": "Tiny Robots That Help Melt Blood Clots",
-      "summary": "Tiny magnetic robots helped melt blood clots ten times faster than drugs alone in early animal tests."
+      "title": "A New Material Uses Water to Help Capture Carbon",
+      "summary": "Oregon State researchers created BVR-X, a sponge-like material that keeps water and carbon dioxide apart so it can keep capturing carbon in humid factory exhaust."
     }
   ]
 }

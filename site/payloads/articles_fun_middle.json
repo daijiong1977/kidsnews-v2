@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-17-fun-1",
-      "source": "BBC Tennis",
-      "time_ago": "Sun, 15 Nov 2026 23:18:38 GMT",
-      "mined_at": "2026-11-17T11:14:24+00:00",
-      "source_published_at": "Sun, 15 Nov 2026 23:18:38 GMT",
-      "image_url": "/article_images/fun-s39c3a417a5cab23c.webp",
+      "id": "2026-11-18-fun-1",
+      "source": "Rolling Stone Music",
+      "time_ago": "Wed, 18 Nov 2026 08:45:24 +0000",
+      "mined_at": "2026-11-18T11:38:14+00:00",
+      "source_published_at": "Wed, 18 Nov 2026 08:45:24 +0000",
+      "image_url": "/article_images/fun-s5487202c62557591.webp",
       "category": "Fun",
-      "title": "The Teenager Who Conquered the WTA Finals",
-      "summary": "Nervous before the tournament, 19-year-old Mirra Andreeva won the WTA Finals without dropping a set, becoming its youngest champion in 22 years."
+      "title": "Harry Styles, Billie Eilish and Cher to Headline Glastonbury 2027",
+      "summary": "Glastonbury 2027 will be headlined by Harry Styles, Billie Eilish, Cher and Sam Fender, running 23–27 June at Worthy Farm."
     },
     {
-      "id": "2026-11-17-fun-2",
-      "source": "IndieWire",
-      "time_ago": "Mon, 16 Nov 2026 23:37:56 +0000",
-      "mined_at": "2026-11-17T11:14:24+00:00",
-      "source_published_at": "Mon, 16 Nov 2026 23:37:56 +0000",
-      "image_url": "/article_images/fun-scdadb12d21ab459d.webp",
+      "id": "2026-11-18-fun-2",
+      "source": "BBC Swimming",
+      "time_ago": "Tue, 17 Nov 2026 17:17:18 GMT",
+      "mined_at": "2026-11-18T11:38:14+00:00",
+      "source_published_at": "Tue, 17 Nov 2026 17:17:18 GMT",
+      "image_url": "/article_images/fun-s4bd1eb21da6216ee.webp",
       "category": "Fun",
-      "title": "Spider-Man Swings Back to Theaters",
-      "summary": "Spider-Man: Brand New Day returns to theaters December 4 in an extended cut, chasing $1 billion and an awards campaign."
+      "title": "Swimming League Splashes Back With Star-Studded All-Star Match",
+      "summary": "The International Swimming League returns on 19 December with an All-Star Match in London, headlined by Adam Ramsay-Peaty."
     },
     {
-      "id": "2026-11-17-fun-3",
-      "source": "Live Science",
-      "time_ago": "Sun, 15 Nov 2026 18:00:00 +0000",
-      "mined_at": "2026-11-17T11:14:24+00:00",
-      "source_published_at": "Sun, 15 Nov 2026 18:00:00 +0000",
-      "image_url": "/article_images/fun-sf3965d47930126ae.webp",
+      "id": "2026-11-18-fun-3",
+      "source": "DOGOnews",
+      "time_ago": "",
+      "mined_at": "2026-11-18T11:38:14+00:00",
+      "source_published_at": "",
+      "image_url": "/article_images/fun-s8932fc5bfbe255fb.webp",
       "category": "Fun",
-      "title": "What Would You Ask an Animal?",
-      "summary": "Scientists are using AI to decode birdsong, whale calls and more, bringing a real conversation with animals closer than ever."
+      "title": "After 28 Years on Foot, Karl Bushby Finally Walks Home",
+      "summary": "Karl Bushby has become the first person to circle the world on foot or by swimming, arriving home in Hull on 2 November 2026 after 28 years."
     }
   ]
 }

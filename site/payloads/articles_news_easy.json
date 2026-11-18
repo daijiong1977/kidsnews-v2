@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-17-news-1",
+      "id": "2026-11-18-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Mon, 16 Nov 2026 18:55:00 -0500",
-      "mined_at": "2026-11-17T11:14:24+00:00",
-      "source_published_at": "Mon, 16 Nov 2026 18:55:00 -0500",
-      "image_url": "/article_images/news-s20d558d070bd7213.webp",
+      "time_ago": "Tue, 17 Nov 2026 18:30:10 -0500",
+      "mined_at": "2026-11-18T11:38:14+00:00",
+      "source_published_at": "Tue, 17 Nov 2026 18:30:10 -0500",
+      "image_url": "/article_images/news-s5dcd3b9f261a9135.webp",
       "category": "News",
-      "title": "Planes Stopped All Over America. Who Will Pay to Fix It?",
-      "summary": "After flights stopped all over America, leaders are arguing about $50 billion to fix the old air traffic control system."
+      "title": "400 Buildings That Pollute More Than a Whole Country",
+      "summary": "A Harvard study finds America's 400 largest data centers release more greenhouse gas in a year than Denmark, and the real total may be even higher."
     },
     {
-      "id": "2026-11-17-news-2",
-      "source": "BBC News",
-      "time_ago": "Tue, 17 Nov 2026 10:45:55 GMT",
-      "mined_at": "2026-11-17T11:14:24+00:00",
-      "source_published_at": "Tue, 17 Nov 2026 10:45:55 GMT",
-      "image_url": "/article_images/news-saa9cbca20c91f26d.webp",
+      "id": "2026-11-18-news-2",
+      "source": "NPR World",
+      "time_ago": "Wed, 18 Nov 2026 05:00:00 -0500",
+      "mined_at": "2026-11-18T11:38:14+00:00",
+      "source_published_at": "Wed, 18 Nov 2026 05:00:00 -0500",
+      "image_url": "/article_images/news-s926d45e327b28bc8.webp",
       "category": "News",
-      "title": "A Big Bridge to Crimea Is Badly Damaged",
-      "summary": "Ukraine says it badly damaged the bridge to Crimea in a planned attack, and Russia says it will rebuild it."
+      "title": "She Retired to Care for Family. New Food-Aid Rules Got in the Way",
+      "summary": "After 40 years of work, Lisa Reese retired at 62 to care for family, but new SNAP work rules mean she must volunteer 80 hours a month to keep $63 in food aid."
     },
     {
-      "id": "2026-11-17-news-3",
-      "source": "BBC News",
-      "time_ago": "Tue, 17 Nov 2026 02:37:53 GMT",
-      "mined_at": "2026-11-17T11:14:24+00:00",
-      "source_published_at": "Tue, 17 Nov 2026 02:37:53 GMT",
-      "image_url": "/article_images/news-s257be5f9d3a342cf.webp",
+      "id": "2026-11-18-news-3",
+      "source": "CBC World",
+      "time_ago": "Tue, 17 Nov 2026 17:15:29 EST",
+      "mined_at": "2026-11-18T11:38:14+00:00",
+      "source_published_at": "Tue, 17 Nov 2026 17:15:29 EST",
+      "image_url": "/article_images/news-seaf8a353dbb1d5bf.webp",
       "category": "News",
-      "title": "The Campaign to Bring Jensen Back",
-      "summary": "More than 175,000 people want Nvidia to bring back its former boss, but the company's board says no."
+      "title": "Lake Ontario or Lake America? Tribal Leaders Say: Keep the Name",
+      "summary": "The National Congress of American Indians is asking President Trump to reverse his order renaming Lake Ontario, saying the name carries Indigenous history."
     }
   ]
 }

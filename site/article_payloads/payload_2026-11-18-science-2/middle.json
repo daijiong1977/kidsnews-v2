@@ -1,0 +1,114 @@
+{
+  "title": "Voyager 1 Reaches a Light-Day From Earth, Nearly a Decade Before Its Twin",
+  "summary": "On November 18, Voyager 1 will be so far from Earth that a radio signal will take a full day, 24 hours, to reach it. That distance is called a light-day: about 16,094,799,096 miles from home. NASA is celebrating the milestone by asking fans to shine Morse code signals at the sky. Its twin, Voyager 2, will not reach the same mark until about 2035, nearly a decade later.\n\nThe gap comes down to choices made for speed and science while the spacecraft were flying by planets. Voyager 2 launched first in 1977, with Voyager 1 following about two weeks later on a faster path. Voyager 1 arrived at Jupiter on March 5, 1979, while Voyager 2 got there four months later, on July 9.\n\nEach spacecraft then used a gravity assist, a slingshot around a planet that borrows a tiny bit of the planet's momentum to gain speed while saving fuel. Each Voyager gained about 10 kilometers per second at Jupiter, and the planets themselves did not slow down by any measurable amount. The two spacecraft were both aimed at Jupiter and Saturn at first, but their paths then split.\n\nVoyager 1 turned at Saturn to study the planet's rings and its moon Titan before flying out of the plane of the solar system. Voyager 2 kept going to Uranus and Neptune on a rare planetary alignment, but it lost about 2 kilometers per second at Neptune when it turned to fly by Triton.\n\nToday Voyager 1 is zooming outward at 3.5 Earth-sun distances a year, while Voyager 2 travels at a more stately 3.1. Both have now left the solar system, Voyager 1 in 2012 and Voyager 2 in 2018, and they could keep working into the 2030s while their nuclear power lasts.",
+  "why_it_matters": "The Voyagers are the farthest human-made objects ever sent into space, and their long journeys show how small choices in a flight path can shape decades of exploration.",
+  "image_url": "/article_images/science-s30e78cfb1ccec903.webp",
+  "keywords": [
+    {
+      "term": "light-day",
+      "explanation": "The distance light travels in one full day."
+    },
+    {
+      "term": "gravity assist",
+      "explanation": "A move that uses a planet's pull to speed up a spacecraft and save fuel."
+    },
+    {
+      "term": "momentum",
+      "explanation": "The amount of motion an object has, which depends on its mass and speed."
+    },
+    {
+      "term": "Morse code",
+      "explanation": "A way of sending messages using short and long signals."
+    },
+    {
+      "term": "nuclear power",
+      "explanation": "Energy made from atoms, used here to keep the spacecraft working for a long time."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How long will a radio signal take to reach Voyager 1 on November 18?",
+      "options": [
+        "One month",
+        "A full day, 24 hours",
+        "One week",
+        "One hour"
+      ],
+      "correct_answer": "A full day, 24 hours"
+    },
+    {
+      "question": "When will Voyager 2 reach the same light-day mark?",
+      "options": [
+        "In 1977",
+        "In 2018",
+        "About 2035",
+        "In 2012"
+      ],
+      "correct_answer": "About 2035"
+    },
+    {
+      "question": "Which spacecraft launched first?",
+      "options": [
+        "Voyager 2",
+        "Both at the same time",
+        "Voyager 1",
+        "Neither has launched"
+      ],
+      "correct_answer": "Voyager 2"
+    },
+    {
+      "question": "About how much speed did each Voyager gain at Jupiter?",
+      "options": [
+        "About 3.1 Earth-sun distances a year",
+        "About 2 kilometers per second",
+        "About 10 kilometers per second",
+        "About 3.5 Earth-sun distances a year"
+      ],
+      "correct_answer": "About 10 kilometers per second"
+    },
+    {
+      "question": "What did Voyager 1 turn at Saturn to study?",
+      "options": [
+        "Earth's Moon",
+        "Its rings and its moon Titan",
+        "The Sun",
+        "Uranus and Neptune"
+      ],
+      "correct_answer": "Its rings and its moon Titan"
+    },
+    {
+      "question": "In which year did Voyager 2 leave the solar system?",
+      "options": [
+        "In 1977",
+        "In 2018",
+        "In 2012",
+        "In 2035"
+      ],
+      "correct_answer": "In 2018"
+    }
+  ],
+  "background_read": [
+    "Voyager 1 and Voyager 2 are twin space probes sent out to study the planets and the space beyond them.",
+    "Spacecraft can use a gravity assist, swinging close to a planet so its pull speeds them up without using much fuel.",
+    "After flying past the outer planets, the two spacecraft kept travelling outward and eventually left the solar system, entering the space between the stars.",
+    "Radio signals travel at the speed of light, so the farther a spacecraft goes, the longer its messages take to reach Earth."
+  ],
+  "Article_Structure": [
+    "LEAD: On November 18, Voyager 1 will be a light-day from Earth, so a radio signal will take a full day to reach it.",
+    "KEY EVENT: Voyager 1 reaches the light-day mark, while Voyager 2 will not reach it until about 2035.",
+    "  ├─ WHO: Voyager 1 and its twin, Voyager 2",
+    "  ├─ WHEN: November 18 for Voyager 1, and about 2035 for Voyager 2",
+    "  └─ WHY THE GAP: Different paths chosen for speed and science while flying by planets",
+    "EVIDENCE: Voyager 2 launched first in 1977, but Voyager 1 followed on a faster path and reached Jupiter four months earlier",
+    "EVIDENCE: Each Voyager gained about 10 kilometers per second at Jupiter through a gravity assist, and Voyager 2 lost about 2 kilometers per second at Neptune",
+    "WHAT NEXT: Both spacecraft could keep working into the 2030s while their nuclear power lasts"
+  ],
+  "perspectives": [],
+  "mined_at": "2026-11-18T11:38:14+00:00",
+  "source_published_at": "Tue, 17 Nov 2026 22:00:00 +0000",
+  "source_name": "Space.com",
+  "source_url": "https://www.space.com/space-exploration/voyager/nasas-voyager-1-launched-second-so-how-did-it-beat-voyager-2-to-a-light-day-by-nearly-a-decade",
+  "category": "Science",
+  "source_word_count": 940,
+  "detail_status": "full"
+}

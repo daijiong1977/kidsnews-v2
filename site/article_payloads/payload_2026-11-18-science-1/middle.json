@@ -1,0 +1,123 @@
+{
+  "title": "Eagles Can Hunt Baboons Nearly Seven Times Their Weight",
+  "summary": "Imagine an eagle swooping down on an animal nearly seven times its own weight. That is what scientists now think happened in the Sahara Desert in Chad, where researchers found the remains of at least nine adult baboons that eagles had recently killed. The birds were Verreaux's eagles, hunters that swoop from cliff tops, sometimes in pairs. Their talons spread about 16 inches across, and deep talon marks on the baboons' bones point to a killing grip, not scavenging.\n\nThe baboons were big. On average they weighed about 49 pounds, and the largest weighed 58 pounds. That is far above the old limit scientists believed: until now, they thought eagles could not lift primates heavier than about 29 pounds. The new study, published on November 18 in the American Journal of Biological Anthropology, suggests that limit was wrong.\n\nThe find raises a big question about our own ancient relatives. Some early human relatives, called hominins, weighed about as much as these baboons. Lucy, an Australopithecus afarensis who lived about 3.2 million years ago in what is now Ethiopia, weighed around 62 pounds. Catherine Hobaiter of the University of St Andrews, the study's first author, said several australopithecine species that lived 1 to 3 million years ago would have been in the same weight range and could have been vulnerable to eagle attacks.\n\nThere is only one confirmed case of an eagle hunting a hominin: the Taung Child, an infant Australopithecus thought to have been taken by a large eagle around 2.8 million years ago. The child weighed about 22 pounds. One puzzle remains: eight of the nine baboons were male, and the researchers said that male bias is puzzling. Today, smaller primates travel in mixed-species groups for extra protection.",
+  "why_it_matters": "This find changes what scientists thought eagles could hunt, and it raises new questions about the dangers faced by our small early human relatives millions of years ago.",
+  "image_url": "/article_images/science-sb2ffcfa840ddaab1.webp",
+  "keywords": [
+    {
+      "term": "talons",
+      "explanation": "The sharp, curved claws of a bird of prey."
+    },
+    {
+      "term": "scavenging",
+      "explanation": "Eating animals that are already dead instead of hunting them."
+    },
+    {
+      "term": "primates",
+      "explanation": "A group of mammals that includes monkeys, apes, and humans."
+    },
+    {
+      "term": "hominins",
+      "explanation": "Early human relatives and their ancestors."
+    },
+    {
+      "term": "australopithecine",
+      "explanation": "A group of early human relatives that lived millions of years ago."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How many adult baboons did researchers find that eagles had killed?",
+      "options": [
+        "At least seven",
+        "At least nine",
+        "Exactly eight",
+        "At least twelve"
+      ],
+      "correct_answer": "At least nine"
+    },
+    {
+      "question": "What was the old weight limit scientists believed for eagles lifting primates?",
+      "options": [
+        "About 49 pounds",
+        "About 62 pounds",
+        "About 58 pounds",
+        "About 29 pounds"
+      ],
+      "correct_answer": "About 29 pounds"
+    },
+    {
+      "question": "What did the deep talon marks on the baboons' bones suggest?",
+      "options": [
+        "The eagles killed the baboons",
+        "The eagles only scavenged the baboons",
+        "The baboons were killed by other baboons",
+        "The baboons died of old age"
+      ],
+      "correct_answer": "The eagles killed the baboons"
+    },
+    {
+      "question": "About how much did Lucy, an Australopithecus afarensis, weigh?",
+      "options": [
+        "Around 58 pounds",
+        "Around 49 pounds",
+        "Around 62 pounds",
+        "Around 22 pounds"
+      ],
+      "correct_answer": "Around 62 pounds"
+    },
+    {
+      "question": "What is the only confirmed case of an eagle hunting a hominin?",
+      "options": [
+        "Catherine Hobaiter",
+        "Lucy",
+        "The Taung Child",
+        "A male baboon in Chad"
+      ],
+      "correct_answer": "The Taung Child"
+    },
+    {
+      "question": "How many of the nine baboons were male?",
+      "options": [
+        "Eight",
+        "Nine",
+        "Five",
+        "Seven"
+      ],
+      "correct_answer": "Eight"
+    }
+  ],
+  "background_read": [
+    "Verreaux's eagles are large birds of prey that hunt from high cliffs and rocky places, using strong talons to catch their prey.",
+    "Baboons are large monkeys that live on the ground and in trees, and they can be strong and hard for a predator to catch.",
+    "Hominins are early human relatives, and scientists study their fossil bones to learn how they lived and what dangers they faced.",
+    "By looking at marks left on bones, scientists can tell whether an animal was killed by a hunter or eaten after it was already dead."
+  ],
+  "Article_Structure": [
+    "LEAD: Scientists think Verreaux's eagles in Chad killed adult baboons nearly seven times their own weight.",
+    "KEY EVENT: Researchers found the remains of at least nine adult baboons recently killed by eagles.",
+    "  ├─ WHO: Verreaux's eagles, hunting from cliff tops, sometimes in pairs",
+    "  ├─ WHERE: The Sahara Desert in Chad",
+    "  └─ EVIDENCE: Talons spread about 16 inches across, and deep talon marks on the bones point to a killing grip, not scavenging",
+    "EVIDENCE: The baboons averaged about 49 pounds, with the largest at 58 pounds, far above the old 29-pound limit for eagles lifting primates",
+    "WHY IT MATTERS: Early human relatives weighed about as much as these baboons and could have been vulnerable to eagle attacks",
+    "OPEN QUESTION: Eight of the nine baboons were male, and researchers say that male bias is puzzling"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Catherine Hobaiter, the study's first author",
+      "description": "She said several australopithecine species that lived 1 to 3 million years ago would have been in the same weight range and could have been vulnerable to eagle attacks."
+    },
+    {
+      "perspective": "The researchers",
+      "description": "They said that eight of the nine baboons being male is puzzling."
+    }
+  ],
+  "mined_at": "2026-11-18T11:38:14+00:00",
+  "source_published_at": "Wed, 18 Nov 2026 09:00:00 +0000",
+  "source_name": "Live Science",
+  "source_url": "https://www.livescience.com/archaeology/human-evolution/eagles-hunt-baboons-weighing-up-to-60-pounds-raising-questions-about-whether-birds-of-prey-hunted-ancient-humans",
+  "category": "Science",
+  "source_word_count": 795,
+  "detail_status": "full"
+}

@@ -1,0 +1,118 @@
+{
+  "title": "400 Buildings That Pollute More Than a Whole Country",
+  "summary": "Picture 400 huge buildings. Now picture a whole country. A new report from Harvard University says those 400 buildings, America's biggest data centers, released more greenhouse gas in one year than the whole country of Denmark. That is a whole country full of people, homes, and factories. From May 2024 to April 2025, data centers used almost 2 percent of all the energy in the United States. They also made more than 25 million metric tons of carbon dioxide, two or three times more than an earlier guess from 2018. The study's lead author is Gianluca Guidi, a Harvard researcher. Guidi says the study is almost a year old, and building has sped up since then. Newer studies suggest there are now about 1,000 huge data centers, more than twice as many as in the report. Guidi also warns about water use and health effects. Four states, Virginia, Iowa, Oregon, and Ohio, use half of the data centers' electricity. But the places carrying the costs do not always share the benefits. Some say the build-out keeps the country strong and safe.",
+  "why_it_matters": "The videos, games, and apps you use every day run on data centers, so their energy use affects the air and water where you live.",
+  "image_url": "/article_images/news-s5dcd3b9f261a9135.webp",
+  "keywords": [
+    {
+      "term": "data centers",
+      "explanation": "Big buildings full of computers that store information and run websites and apps."
+    },
+    {
+      "term": "greenhouse gas",
+      "explanation": "A gas that traps heat in the air and warms the planet."
+    },
+    {
+      "term": "carbon dioxide",
+      "explanation": "A gas that comes from burning fuels and warms the planet."
+    },
+    {
+      "term": "metric tons",
+      "explanation": "A way to measure very heavy weights, like the weight of many cars."
+    },
+    {
+      "term": "build-out",
+      "explanation": "The building of many new data centers in more and more places."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How much greenhouse gas did America's biggest data centers release in one year, compared with Denmark?",
+      "options": [
+        "None at all",
+        "Less than half of Denmark",
+        "More than the whole country of Denmark",
+        "About the same as Denmark"
+      ],
+      "correct_answer": "More than the whole country of Denmark"
+    },
+    {
+      "question": "From May 2024 to April 2025, about how much of all the energy in the United States did data centers use?",
+      "options": [
+        "Almost 90 percent",
+        "Almost half",
+        "Almost 20 percent",
+        "Almost 2 percent"
+      ],
+      "correct_answer": "Almost 2 percent"
+    },
+    {
+      "question": "How much carbon dioxide did the data centers make, according to the report?",
+      "options": [
+        "About 2,500 metric tons",
+        "More than 25 million metric tons",
+        "Less than 1 million metric tons",
+        "About 25 metric tons"
+      ],
+      "correct_answer": "More than 25 million metric tons"
+    },
+    {
+      "question": "Who is the lead author of the study?",
+      "options": [
+        "The state of Virginia",
+        "The country of Denmark",
+        "Gianluca Guidi",
+        "Harvard University"
+      ],
+      "correct_answer": "Gianluca Guidi"
+    },
+    {
+      "question": "About how many huge data centers do newer studies suggest there are now?",
+      "options": [
+        "About 100",
+        "About 1,000",
+        "About 40",
+        "About 400"
+      ],
+      "correct_answer": "About 1,000"
+    },
+    {
+      "question": "Which four states use half of the data centers' electricity?",
+      "options": [
+        "Denmark, Virginia, Iowa, and Ohio",
+        "Virginia, Iowa, Oregon, and Ohio",
+        "Virginia, Denmark, Oregon, and Ohio",
+        "California, Texas, Florida, and New York"
+      ],
+      "correct_answer": "Virginia, Iowa, Oregon, and Ohio"
+    }
+  ],
+  "background_read": [
+    "A data center is a big building full of computers that store information and run websites, videos, and apps.",
+    "Those computers need a lot of electricity to run and to stay cool, and making that electricity can release gases that warm the planet.",
+    "A new report from Harvard University counted how much energy and pollution came from America's biggest data centers, and it found the amount was larger than earlier guesses."
+  ],
+  "Article_Structure": [
+    "WHO: Harvard researcher Gianluca Guidi and his team, who studied America's biggest data centers.",
+    "WHAT: The biggest data centers released more greenhouse gas in one year than the whole country of Denmark.",
+    "WHERE: The United States, with four states — Virginia, Iowa, Oregon, and Ohio — using half of the data centers' electricity.",
+    "WHY: Data centers use a lot of energy, and building them has sped up, so their pollution and water use are growing."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Harvard researcher Gianluca Guidi",
+      "description": "He warns about the water use and health effects of data centers."
+    },
+    {
+      "perspective": "Supporters of the build-out",
+      "description": "Some say building more data centers keeps the country strong and safe."
+    }
+  ],
+  "mined_at": "2026-11-18T11:38:14+00:00",
+  "source_published_at": "Tue, 17 Nov 2026 18:30:10 -0500",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/show/study-reveals-energy-demands-and-emissions-of-americas-data-centers",
+  "category": "News",
+  "source_word_count": 719,
+  "detail_status": "full"
+}

@@ -1,0 +1,127 @@
+{
+  "title": "400 Buildings, One Country's Worth of Emissions",
+  "summary": "Picture 400 big buildings. Now picture a whole country. According to a new Harvard University report, those 400 buildings — America's largest data centers — pumped out more greenhouse gas in a year than the entire nation of Denmark. Denmark has millions of people, homes, hospitals, and factories. The data centers matched all of that. The study looked at the year from May 2024 to April 2025. In that time, data centers used nearly 2 percent of all the energy in the United States. They also produced more than 25 million metric tons of carbon dioxide — two or three times higher than an earlier estimate from 2018. The study's lead author is Gianluca Guidi, a Harvard researcher focused on artificial intelligence and public health. Guidi says the study is already almost a year old. Since then, the build-out has sped up. Early results from newer studies suggest there are now around 1,000 hyperscale data centers — more than double the number in the report. That means the real emissions could be much higher than the study shows. Along with emissions, Guidi points to water use and possible health effects. Power plants that feed data centers can release pollutants that travel through the air and that people eventually breathe. Four states — Virginia, Iowa, Oregon, and Ohio — account for half of the data centers' electricity use, Guidi said. But Guidi says the benefits of the expansion are not always felt by the same communities that carry the environmental costs. More demand for power can mean more power plants, more pollution, and more pressure on local infrastructure. Those consequences do not stop at the data center's fence, he said. Some argue the build-out is needed to keep the country competitive and support the economy and national security.",
+  "why_it_matters": "Data centers power the online services people use every day, but their energy use affects the air, water, and climate in the communities around them. How they grow will shape both the technology people rely on and the environment they live in.",
+  "image_url": "/article_images/news-s5dcd3b9f261a9135.webp",
+  "keywords": [
+    {
+      "term": "greenhouse gas",
+      "explanation": "A gas that traps heat in the air and warms the Earth."
+    },
+    {
+      "term": "carbon dioxide",
+      "explanation": "A gas released when fuels are burned, and a main cause of warming."
+    },
+    {
+      "term": "metric tons",
+      "explanation": "A unit for measuring very heavy weights."
+    },
+    {
+      "term": "hyperscale",
+      "explanation": "Describing something built on a huge scale, like a giant data center."
+    },
+    {
+      "term": "infrastructure",
+      "explanation": "The basic systems a place needs, like roads, power lines, and water pipes."
+    },
+    {
+      "term": "pollutants",
+      "explanation": "Harmful substances that dirty the air, water, or land."
+    }
+  ],
+  "questions": [
+    {
+      "question": "According to the Harvard report, how did the greenhouse gas from America's 400 largest data centers compare with Denmark's in a year?",
+      "options": [
+        "It was more than all of Denmark's.",
+        "It was about half of Denmark's.",
+        "It was only from one data center in Denmark.",
+        "It was slightly less than Denmark's."
+      ],
+      "correct_answer": "It was more than all of Denmark's."
+    },
+    {
+      "question": "In the year studied, how much of all the energy in the United States did data centers use?",
+      "options": [
+        "Nearly all of it",
+        "Nearly half",
+        "Nearly 2 percent",
+        "Nearly 20 percent"
+      ],
+      "correct_answer": "Nearly 2 percent"
+    },
+    {
+      "question": "How much carbon dioxide did the data centers produce in the year studied?",
+      "options": [
+        "Exactly the same as in 2018",
+        "About 25 metric tons",
+        "More than 25 million metric tons",
+        "Less than one million metric tons"
+      ],
+      "correct_answer": "More than 25 million metric tons"
+    },
+    {
+      "question": "Who is the study's lead author?",
+      "options": [
+        "A researcher from Denmark",
+        "The president of Harvard University",
+        "Gianluca Guidi",
+        "A power plant manager in Virginia"
+      ],
+      "correct_answer": "Gianluca Guidi"
+    },
+    {
+      "question": "According to early results from newer studies, about how many hyperscale data centers are there now?",
+      "options": [
+        "Around 400",
+        "Around 1,000",
+        "Around 25",
+        "Around 100"
+      ],
+      "correct_answer": "Around 1,000"
+    },
+    {
+      "question": "Which four states account for half of the data centers' electricity use?",
+      "options": [
+        "Virginia, Iowa, Oregon, and Ohio",
+        "Denmark, Virginia, Iowa, and Ohio",
+        "Virginia, Iowa, Oregon, and Denmark",
+        "California, Texas, Florida, and New York"
+      ],
+      "correct_answer": "Virginia, Iowa, Oregon, and Ohio"
+    }
+  ],
+  "background_read": [
+    "A data center is a large building filled with computers that store information and run online services, from videos to artificial intelligence tools.",
+    "Those computers run all day and night, so they need a huge amount of electricity, and the power plants that supply it can release greenhouse gases and other pollution.",
+    "Greenhouse gases trap heat in the atmosphere, which warms the planet, and the pollution from power plants can also affect the air people breathe.",
+    "Because data centers are being built so fast, researchers study how much energy and water they use and who feels the costs and the benefits."
+  ],
+  "Article_Structure": [
+    "LEAD: America's 400 largest data centers released more greenhouse gas in a year than the whole nation of Denmark.",
+    "KEY EVENT: A new Harvard University report measured the data centers' energy use and emissions.",
+    "  ├─ WHEN: The study looked at May 2024 to April 2025.",
+    "  ├─ WHAT IT FOUND: The data centers used nearly 2 percent of U.S. energy and produced more than 25 million metric tons of carbon dioxide.",
+    "  └─ WHO: The lead author is Gianluca Guidi, a Harvard researcher focused on artificial intelligence and public health.",
+    "EVIDENCE: The total was two or three times higher than an earlier estimate from 2018, and newer studies suggest there are now around 1,000 hyperscale data centers.",
+    "WIDER EFFECTS: Guidi points to water use, possible health effects from power plant pollution, and pressure on local infrastructure in the states that use the most power.",
+    "OPEN QUESTION: The benefits of the expansion are not always felt by the same communities that carry the environmental costs."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Gianluca Guidi",
+      "description": "He says the real emissions could be much higher than the study shows, warns about water use and health effects, and says the communities carrying the environmental costs do not always share the benefits."
+    },
+    {
+      "perspective": "Supporters of the build-out",
+      "description": "They argue the build-out is needed to keep the country competitive and support the economy and national security."
+    }
+  ],
+  "mined_at": "2026-11-18T11:38:14+00:00",
+  "source_published_at": "Tue, 17 Nov 2026 18:30:10 -0500",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/show/study-reveals-energy-demands-and-emissions-of-americas-data-centers",
+  "category": "News",
+  "source_word_count": 719,
+  "detail_status": "full"
+}
