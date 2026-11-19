@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-18-science-1",
-      "source": "Live Science",
-      "time_ago": "Wed, 18 Nov 2026 09:00:00 +0000",
-      "mined_at": "2026-11-18T11:38:14+00:00",
-      "source_published_at": "Wed, 18 Nov 2026 09:00:00 +0000",
-      "image_url": "/article_images/science-sb2ffcfa840ddaab1.webp",
+      "id": "2026-11-19-science-1",
+      "source": "ScienceDaily All",
+      "time_ago": "Tue, 17 Nov 2026 22:16:19 EST",
+      "mined_at": "2026-11-19T11:17:03+00:00",
+      "source_published_at": "Tue, 17 Nov 2026 22:16:19 EST",
+      "image_url": "/article_images/science-s4536cac655e6d1e8.webp",
       "category": "Science",
-      "title": "Eagles Hunted Baboons Much Heavier Than Themselves",
-      "summary": "Verreaux's eagles in Chad hunted adult baboons weighing up to 58 pounds, making scientists rethink whether eagles once threatened our small early human relatives."
+      "title": "NASA Tests Mars Helicopter Blades Faster Than Sound",
+      "summary": "NASA tested new Mars helicopter blades at supersonic speeds, a step toward future aircraft that can carry heavier science gear."
     },
     {
-      "id": "2026-11-18-science-2",
-      "source": "Space.com",
-      "time_ago": "Tue, 17 Nov 2026 22:00:00 +0000",
-      "mined_at": "2026-11-18T11:38:14+00:00",
-      "source_published_at": "Tue, 17 Nov 2026 22:00:00 +0000",
-      "image_url": "/article_images/science-s30e78cfb1ccec903.webp",
+      "id": "2026-11-19-science-2",
+      "source": "Popular Mechanics",
+      "time_ago": "Wed, 18 Nov 2026 13:30:00 +0000",
+      "mined_at": "2026-11-19T11:17:03+00:00",
+      "source_published_at": "Wed, 18 Nov 2026 13:30:00 +0000",
+      "image_url": "/article_images/science-s696eb300a9ac8d33.webp",
       "category": "Science",
-      "title": "Voyager 1 Reaches a Light-Day From Earth",
-      "summary": "Voyager 1 reaches a light-day from Earth on November 18, while Voyager 2 will not get there until about 2035, because the twins took different paths."
+      "title": "The Mystery of 8,000 Ancient Frogs — Solved by Owls",
+      "summary": "Archaeologists traced 8,000 Roman-era frog bones in a Cambridgeshire ditch to a feast by short-eared owls."
     },
     {
-      "id": "2026-11-18-science-3",
-      "source": "ScienceDaily Most Popular",
-      "time_ago": "Tue, 17 Nov 2026 06:29:36 EST",
-      "mined_at": "2026-11-18T11:38:14+00:00",
-      "source_published_at": "Tue, 17 Nov 2026 06:29:36 EST",
-      "image_url": "/article_images/science-sc75e0162af2b609f.webp",
+      "id": "2026-11-19-science-3",
+      "source": "Science News Explores",
+      "time_ago": "Tue, 17 Nov 2026 11:30:00 +0000",
+      "mined_at": "2026-11-19T11:17:03+00:00",
+      "source_published_at": "Tue, 17 Nov 2026 11:30:00 +0000",
+      "image_url": "/article_images/science-s09866afd8b584083.webp",
       "category": "Science",
-      "title": "A New Material Uses Water to Help Capture Carbon",
-      "summary": "Oregon State researchers created BVR-X, a sponge-like material that keeps water and carbon dioxide apart so it can keep capturing carbon in humid factory exhaust."
+      "title": "Paper Rockets: Why Fins Keep Them Flying Straight",
+      "summary": "A straw-launched paper rocket experiment shows how fins keep a rocket flying straight instead of spinning out of control."
     }
   ]
 }

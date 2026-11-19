@@ -1,0 +1,128 @@
+{
+  "title": "Record Rain Soaks South Florida as El Nino Stirs Up Storms",
+  "summary": "Rain poured down on South Florida for hours, and it just kept coming. In parts of Broward County, about 15.3 inches of rain fell in 24 hours ending Wednesday, November 18, according to the National Weather Service. That is more than a foot of water falling from the sky in a single day. Roads turned into rivers in some places, cars stalled in high water, and parts of the Florida Turnpike and Interstate 95 in Hollywood were closed. The city of Hollywood declared a state of emergency on Wednesday. Mayor Josh Levy urged people to stay off the roads and avoid unnecessary travel. The city said it received more than 300 calls for service overnight. Levy called it a historically significant rainfall event for the city. Heavy rain also caused the roof of Temple Sinai, a synagogue in Hollywood, to collapse. Rain damaged the roof and flooded hallways at a local hospital. No injuries were reported in those incidents. In Fort Lauderdale, 5.72 inches of rain fell in a downpour ending early Wednesday, breaking the daily record of 1.8 inches set in 1959. Officials announced that schools would be closed Thursday in Broward and Miami-Dade counties. A meteorologist with the National Weather Service in Miami, Alejandra Garcia, said the natural warming cycle called El Nino has disrupted Florida's typical dry season, which runs from October to May. She said El Nino is helping bring low pressure systems toward the southeastern United States, causing heavy rain. The threat was expected to last through Friday along Florida's Atlantic Coast, with as much as 12 more inches of rain possible. Ahead of the Thanksgiving holiday, another low-pressure system was expected to form near the northern Bahamas. It could become a subtropical or tropical storm over parts of the southeast and mid-Atlantic coasts into early next week, according to the National Hurricane Center in Miami. Heavy rain also hit the West Coast, where planes were grounded at San Francisco airport, ferry service was disrupted, and roads flooded in Napa County and other wine country areas.",
+  "why_it_matters": "Extreme rain can close roads and schools and flood homes, so understanding how storms driven by El Nino work helps families stay safe and plan ahead.",
+  "image_url": "/article_images/news-s64b6a060eff38860.webp",
+  "keywords": [
+    {
+      "term": "state of emergency",
+      "explanation": "A special order a city makes when a disaster is happening, so officials can act fast to keep people safe."
+    },
+    {
+      "term": "synagogue",
+      "explanation": "A building where Jewish people meet to pray and worship."
+    },
+    {
+      "term": "meteorologist",
+      "explanation": "A scientist who studies the weather and makes forecasts."
+    },
+    {
+      "term": "El Nino",
+      "explanation": "A natural warming of ocean water that can change weather around the world."
+    },
+    {
+      "term": "subtropical",
+      "explanation": "A kind of storm that is partly like a tropical storm, but not quite the same."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How much rain fell in parts of Broward County in 24 hours?",
+      "options": [
+        "About 5.72 inches",
+        "About 15.3 inches",
+        "About 1.8 inches",
+        "About 12 inches"
+      ],
+      "correct_answer": "About 15.3 inches"
+    },
+    {
+      "question": "What did the city of Hollywood do on Wednesday?",
+      "options": [
+        "Opened all schools",
+        "Declared a state of emergency",
+        "Reopened the Florida Turnpike",
+        "Ended the dry season"
+      ],
+      "correct_answer": "Declared a state of emergency"
+    },
+    {
+      "question": "What happened to the roof of Temple Sinai in Hollywood?",
+      "options": [
+        "It was hit by lightning",
+        "It collapsed",
+        "It was repainted",
+        "It was closed for repairs"
+      ],
+      "correct_answer": "It collapsed"
+    },
+    {
+      "question": "How much rain fell in Fort Lauderdale, breaking a daily record set in 1959?",
+      "options": [
+        "1.8 inches",
+        "12 inches",
+        "5.72 inches",
+        "15.3 inches"
+      ],
+      "correct_answer": "5.72 inches"
+    },
+    {
+      "question": "Why were schools closed on Thursday in Broward and Miami-Dade counties?",
+      "options": [
+        "Because of a teacher strike",
+        "Because of the Thanksgiving holiday",
+        "Because of heavy rain and flooding",
+        "Because of a power cut"
+      ],
+      "correct_answer": "Because of heavy rain and flooding"
+    },
+    {
+      "question": "What did meteorologist Alejandra Garcia say El Nino has done?",
+      "options": [
+        "It has cooled the Pacific Ocean",
+        "It has disrupted Florida's typical dry season",
+        "It has ended Florida's hurricane season",
+        "It has stopped low pressure systems"
+      ],
+      "correct_answer": "It has disrupted Florida's typical dry season"
+    }
+  ],
+  "background_read": [
+    "El Nino is a natural warming of the Pacific Ocean that comes and goes every few years.",
+    "When El Nino is active, it can shift wind and storm patterns, pushing rainy low pressure systems toward the southeastern United States.",
+    "Florida usually has a dry season from October to May, so heavy rain at this time of year is unusual.",
+    "When rain falls faster than the ground and drains can carry it away, streets flood, cars stall, and cities may close schools and roads to keep people safe."
+  ],
+  "Article_Structure": [
+    "LEAD: Record rain soaks South Florida, with more than a foot falling in parts of Broward County in 24 hours.",
+    "KEY EVENT: Roads flood and close in Hollywood, and the city declares a state of emergency.",
+    "  ├─ WHO: Mayor Josh Levy urges people to stay off the roads, and the city receives more than 300 calls for service overnight.",
+    "  ├─ DAMAGE: The roof of Temple Sinai collapses and a local hospital floods, but no injuries are reported.",
+    "  ├─ RECORDS: Fort Lauderdale gets 5.72 inches, breaking the daily record of 1.8 inches set in 1959, and schools close Thursday in Broward and Miami-Dade counties.",
+    "  ├─ CAUSE: Meteorologist Alejandra Garcia says El Nino has disrupted Florida's dry season and is bringing low pressure systems.",
+    "  └─ WHAT NEXT: As much as 12 more inches of rain is possible through Friday, and another system could become a subtropical or tropical storm.",
+    "EVIDENCE: Figures come from the National Weather Service and the National Hurricane Center.",
+    "OPEN QUESTION: How much more rain will fall, and will the new system near the Bahamas become a storm?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Mayor Josh Levy",
+      "description": "He urged people to stay off the roads and avoid unnecessary travel, and called the rainfall a historically significant event for Hollywood."
+    },
+    {
+      "perspective": "Meteorologist Alejandra Garcia",
+      "description": "She said El Nino has disrupted Florida's typical dry season and is helping bring low pressure systems that cause heavy rain."
+    },
+    {
+      "perspective": "National Hurricane Center",
+      "description": "It said another low-pressure system could become a subtropical or tropical storm over parts of the southeast and mid-Atlantic coasts into early next week."
+    }
+  ],
+  "mined_at": "2026-11-19T11:17:03+00:00",
+  "source_published_at": "Wed, 18 Nov 2026 19:46:37 -0500",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/nation/rainfall-supercharged-by-el-nino-causes-road-flooding-synagogue-roof-collapse-in-south-florida",
+  "category": "News",
+  "source_word_count": 635,
+  "detail_status": "full"
+}

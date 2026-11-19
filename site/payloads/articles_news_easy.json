@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-18-news-1",
+      "id": "2026-11-19-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Tue, 17 Nov 2026 18:30:10 -0500",
-      "mined_at": "2026-11-18T11:38:14+00:00",
-      "source_published_at": "Tue, 17 Nov 2026 18:30:10 -0500",
-      "image_url": "/article_images/news-s5dcd3b9f261a9135.webp",
+      "time_ago": "Wed, 18 Nov 2026 19:46:37 -0500",
+      "mined_at": "2026-11-19T11:17:03+00:00",
+      "source_published_at": "Wed, 18 Nov 2026 19:46:37 -0500",
+      "image_url": "/article_images/news-s64b6a060eff38860.webp",
       "category": "News",
-      "title": "400 Buildings That Pollute More Than a Whole Country",
-      "summary": "A Harvard study finds America's 400 largest data centers release more greenhouse gas in a year than Denmark, and the real total may be even higher."
+      "title": "Record Rain Soaks South Florida",
+      "summary": "More than a foot of rain fell in parts of Broward County, closing roads, damaging a synagogue roof, and closing schools, as El Nino helped drive the storms."
     },
     {
-      "id": "2026-11-18-news-2",
-      "source": "NPR World",
-      "time_ago": "Wed, 18 Nov 2026 05:00:00 -0500",
-      "mined_at": "2026-11-18T11:38:14+00:00",
-      "source_published_at": "Wed, 18 Nov 2026 05:00:00 -0500",
-      "image_url": "/article_images/news-s926d45e327b28bc8.webp",
+      "id": "2026-11-19-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Wed, 18 Nov 2026 18:55:44 -0500",
+      "mined_at": "2026-11-19T11:17:03+00:00",
+      "source_published_at": "Wed, 18 Nov 2026 18:55:44 -0500",
+      "image_url": "/article_images/news-sf0cf31c9b89eed24.webp",
       "category": "News",
-      "title": "She Retired to Care for Family. New Food-Aid Rules Got in the Way",
-      "summary": "After 40 years of work, Lisa Reese retired at 62 to care for family, but new SNAP work rules mean she must volunteer 80 hours a month to keep $63 in food aid."
+      "title": "Trump Arrives in China for a First-Ever Meeting With Xi and Putin",
+      "summary": "President Trump landed in China for a historic Thursday meeting with the leaders of China and Russia, with trade, Ukraine, Iran, and nuclear weapons expected on the agenda."
     },
     {
-      "id": "2026-11-18-news-3",
-      "source": "CBC World",
-      "time_ago": "Tue, 17 Nov 2026 17:15:29 EST",
-      "mined_at": "2026-11-18T11:38:14+00:00",
-      "source_published_at": "Tue, 17 Nov 2026 17:15:29 EST",
-      "image_url": "/article_images/news-seaf8a353dbb1d5bf.webp",
+      "id": "2026-11-19-news-3",
+      "source": "BBC News",
+      "time_ago": "Thu, 19 Nov 2026 00:49:19 GMT",
+      "mined_at": "2026-11-19T11:17:03+00:00",
+      "source_published_at": "Thu, 19 Nov 2026 00:49:19 GMT",
+      "image_url": "/article_images/news-sb0ccfe947ee79503.webp",
       "category": "News",
-      "title": "Lake Ontario or Lake America? Tribal Leaders Say: Keep the Name",
-      "summary": "The National Congress of American Indians is asking President Trump to reverse his order renaming Lake Ontario, saying the name carries Indigenous history."
+      "title": "A Van Gogh Painting Sells for a Record $190.4 Million",
+      "summary": "Van Gogh's Chestnut Trees in Blossom sold for a record $190.4 million in New York, after a last-minute deal settled a fight about its past under the Nazis."
     }
   ]
 }

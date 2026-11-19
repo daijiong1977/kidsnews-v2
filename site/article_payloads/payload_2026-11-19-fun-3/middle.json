@@ -1,0 +1,127 @@
+{
+  "title": "This Drone Perches Like a Bird — Using Touch",
+  "summary": "A new flying robot can perch like a bird — by touch. Researchers at Delft University of Technology in the Netherlands built a drone that feels its way onto a branch and hangs there, holding on without using extra energy.\n\nPerching could let drones stay in one place for a long time. That way, they could watch over factories, power lines and other infrastructure, or help study wildlife in remote places. But getting a drone to grip reliably has been tricky. Many drones use cameras to find a landing spot, yet in crowded spaces their view can be blocked — sometimes even by their own grippers.\n\nThe new drone solves the problem by relying on touch instead of sight. It has three human-inspired fingers, arranged like a thumb, pointer finger and middle finger. Each finger has three segments, called phalanges, and touch sensors wrap around soft silicone pads on the inside. When the sensors feel something, the drone knows where to move and when to close its fingers.\n\nSprings keep the fingers closed, a bit like the springs in a clothespin or a claw hair clip. So once the drone has grabbed hold, it can hang on without spending any more energy. A motor pulls on metal cords, which work like the tendons in human fingers, to open the fingers before landing.\n\nThe team, led by roboticist Anton Bredenbeck, wanted a drone that could stay in fragile ecosystems long enough to study them. \"The problem,\" Bredenbeck says, \"is that drones are really, really inefficient flyers.\" A drone could never fly nonstop for a month in a forest, so the team decided to let it attach to its surroundings instead. The researchers described the design on August 22 in the journal npj Robotics. Roboticist Cecilia Laschi, who did not work on the project, called it \"a good example of embodied intelligence.\"",
+  "why_it_matters": "Drones that can rest on a branch could watch over power lines and factories or study wildlife in fragile places without flying all the time, which could help people look after nature and the things we rely on.",
+  "image_url": "/article_images/fun-s90886011979a6996.webp",
+  "keywords": [
+    {
+      "term": "perch",
+      "explanation": "To perch is to sit or rest on a branch or a high, narrow place."
+    },
+    {
+      "term": "infrastructure",
+      "explanation": "Infrastructure is the basic systems a place needs, like power lines and roads."
+    },
+    {
+      "term": "phalanges",
+      "explanation": "Phalanges are the small bones that make up fingers and toes."
+    },
+    {
+      "term": "silicone",
+      "explanation": "Silicone is a soft, rubbery material that bends easily."
+    },
+    {
+      "term": "tendons",
+      "explanation": "Tendons are strong cords in the body that join muscles to bones."
+    },
+    {
+      "term": "roboticist",
+      "explanation": "A roboticist is a person who designs and builds robots."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Where was the perching drone built?",
+      "options": [
+        "In a forest in France",
+        "At Delft University of Technology in the Netherlands",
+        "At npj Robotics",
+        "At a factory in Los Angeles"
+      ],
+      "correct_answer": "At Delft University of Technology in the Netherlands"
+    },
+    {
+      "question": "How does the drone find its way onto a branch?",
+      "options": [
+        "By listening for sounds",
+        "By following a bird",
+        "By using cameras",
+        "By touch"
+      ],
+      "correct_answer": "By touch"
+    },
+    {
+      "question": "How many fingers does the drone have?",
+      "options": [
+        "Five",
+        "Three",
+        "Four",
+        "Two"
+      ],
+      "correct_answer": "Three"
+    },
+    {
+      "question": "What keeps the drone's fingers closed once it has grabbed hold?",
+      "options": [
+        "Metal cords",
+        "A motor",
+        "Springs",
+        "Touch sensors"
+      ],
+      "correct_answer": "Springs"
+    },
+    {
+      "question": "What does a motor pull on to open the fingers before landing?",
+      "options": [
+        "Metal cords that work like tendons",
+        "Springs",
+        "Soft silicone pads",
+        "Camera wires"
+      ],
+      "correct_answer": "Metal cords that work like tendons"
+    },
+    {
+      "question": "Who called the design \"a good example of embodied intelligence\"?",
+      "options": [
+        "Anton Bredenbeck",
+        "A wildlife photographer",
+        "A factory worker",
+        "Cecilia Laschi"
+      ],
+      "correct_answer": "Cecilia Laschi"
+    }
+  ],
+  "background_read": [
+    "A drone is a small flying robot that is usually kept in the air by spinning blades, which use up power quickly.",
+    "Birds save energy by perching, which means landing on a branch and resting there instead of flying all the time.",
+    "This drone copies that idea, using fingers that grip a branch so it can stay still and watch or study a place for a long time.",
+    "Touch sensors help the drone feel where the branch is, which is useful in places where cameras cannot see clearly."
+  ],
+  "Article_Structure": [
+    "LEAD: A new drone can perch like a bird by touch, feeling its way onto a branch and hanging there without using extra energy.",
+    "KEY EVENT: Researchers at Delft University of Technology in the Netherlands built the drone.",
+    "  ├─ WHY IT MATTERS: Perching could let drones stay in one place for a long time to watch over factories, power lines, and other infrastructure, or to study wildlife in remote places.",
+    "  ├─ PROBLEM: Getting a drone to grip reliably has been tricky, and cameras can be blocked in crowded spaces, sometimes even by the drone's own grippers.",
+    "  ├─ HOW IT WORKS: Three human-inspired fingers, like a thumb, pointer finger, and middle finger, each with three segments called phalanges and touch sensors around soft silicone pads.",
+    "  └─ HOLDING ON: Springs keep the fingers closed like a clothespin, so the drone hangs on without spending more energy, while a motor pulls metal cords like tendons to open the fingers before landing.",
+    "EVIDENCE: The team wanted a drone that could stay in fragile ecosystems long enough to study them, since drones cannot fly nonstop for a month in a forest.",
+    "OPEN QUESTION: The researchers described the design on August 22 in the journal npj Robotics, and Cecilia Laschi called it \"a good example of embodied intelligence.\""
+  ],
+  "perspectives": [
+    {
+      "perspective": "Anton Bredenbeck",
+      "description": "Drones are really, really inefficient flyers, so a drone could never fly nonstop for a month in a forest and should attach to its surroundings instead."
+    },
+    {
+      "perspective": "Cecilia Laschi",
+      "description": "She did not work on the project and called the design a good example of embodied intelligence."
+    }
+  ],
+  "mined_at": "2026-11-19T11:17:03+00:00",
+  "source_published_at": "Wed, 18 Nov 2026 11:30:00 +0000",
+  "source_name": "Science News Explores",
+  "source_url": "https://www.snexplores.org/article/flying-drone-perch-like-bird",
+  "category": "Fun",
+  "source_word_count": 636,
+  "detail_status": "full"
+}

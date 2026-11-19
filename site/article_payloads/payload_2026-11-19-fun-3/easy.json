@@ -1,0 +1,118 @@
+{
+  "title": "This Drone Perches Like a Bird, Using Touch",
+  "summary": "A flying robot can perch like a bird using touch. Researchers at Delft University of Technology in the Netherlands built it to feel its way onto a branch and hang there without using extra energy.\n\nPerching could let drones stay in one place for a long time, to watch over factories and power lines or study wildlife. But gripping well has been tricky: cameras can be blocked in crowded places.\n\nIt uses touch instead of sight. It has three fingers: a thumb, a pointer finger, and a middle finger. Each finger has three parts, called phalanges, with touch sensors on soft silicone pads.\n\nSprings keep the fingers closed, like a clothespin, so it can hang on without spending more energy. A motor pulls metal cords, like the tendons in human fingers, to open them before landing.\n\nThe team, led by roboticist Anton Bredenbeck, wanted a drone that could stay in fragile places to study them. Bredenbeck says drones are inefficient flyers. Cecilia Laschi, who did not work on the project, called it a good example of embodied intelligence.",
+  "why_it_matters": "It shows how copying nature can help robots do useful jobs, like watching wildlife without disturbing it.",
+  "image_url": "/article_images/fun-s90886011979a6996.webp",
+  "keywords": [
+    {
+      "term": "perch",
+      "explanation": "To perch means to sit or rest on a branch, like a bird does."
+    },
+    {
+      "term": "phalanges",
+      "explanation": "Phalanges are the small bones that make up fingers."
+    },
+    {
+      "term": "silicone",
+      "explanation": "Silicone is a soft, bendy material a bit like rubber."
+    },
+    {
+      "term": "tendons",
+      "explanation": "Tendons are strong cords in the body that pull on bones to move fingers."
+    },
+    {
+      "term": "roboticist",
+      "explanation": "A roboticist is a person who designs and builds robots."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What does the drone use instead of sight to perch?",
+      "options": [
+        "Sound",
+        "Touch",
+        "Smell",
+        "Cameras"
+      ],
+      "correct_answer": "Touch"
+    },
+    {
+      "question": "How many fingers does the drone have?",
+      "options": [
+        "Five",
+        "Four",
+        "Three",
+        "Two"
+      ],
+      "correct_answer": "Three"
+    },
+    {
+      "question": "What are the three parts of each finger called?",
+      "options": [
+        "Sensors",
+        "Tendons",
+        "Springs",
+        "Phalanges"
+      ],
+      "correct_answer": "Phalanges"
+    },
+    {
+      "question": "What keeps the drone's fingers closed so it can hang on?",
+      "options": [
+        "Springs, like a clothespin",
+        "Metal cords",
+        "A motor",
+        "Soft silicone pads"
+      ],
+      "correct_answer": "Springs, like a clothespin"
+    },
+    {
+      "question": "What pulls the metal cords to open the fingers before landing?",
+      "options": [
+        "A thumb",
+        "A spring",
+        "A camera",
+        "A motor"
+      ],
+      "correct_answer": "A motor"
+    },
+    {
+      "question": "What could perching let drones do for a long time?",
+      "options": [
+        "Stay in one place to watch over factories and power lines or study wildlife",
+        "Fly faster than birds",
+        "Sing songs",
+        "Carry people"
+      ],
+      "correct_answer": "Stay in one place to watch over factories and power lines or study wildlife"
+    }
+  ],
+  "background_read": [
+    "A drone is a flying robot that can fly without a person inside it.",
+    "Birds perch by gripping a branch with their feet, which lets them rest in one place without flying.",
+    "This drone copies that idea, using touch to feel its way onto a branch and hold on while it stays still."
+  ],
+  "Article_Structure": [
+    "WHO: Researchers at Delft University of Technology in the Netherlands, led by Anton Bredenbeck.",
+    "WHAT: A flying robot that perches like a bird using touch, gripping a branch with three fingers.",
+    "WHERE: In the Netherlands, on a branch.",
+    "WHY: So drones can stay in one place for a long time to watch over factories and power lines or study wildlife, and stay in fragile places to study them."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Anton Bredenbeck",
+      "description": "He says drones are inefficient flyers."
+    },
+    {
+      "perspective": "Cecilia Laschi",
+      "description": "She called the drone a good example of embodied intelligence, although she did not work on the project."
+    }
+  ],
+  "mined_at": "2026-11-19T11:17:03+00:00",
+  "source_published_at": "Wed, 18 Nov 2026 11:30:00 +0000",
+  "source_name": "Science News Explores",
+  "source_url": "https://www.snexplores.org/article/flying-drone-perch-like-bird",
+  "category": "Fun",
+  "source_word_count": 636,
+  "detail_status": "full"
+}

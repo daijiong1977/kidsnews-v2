@@ -1,0 +1,114 @@
+{
+  "title": "A Van Gogh Painting Sells for a Record $190.4 Million",
+  "summary": "A painting by Vincent van Gogh has sold for a record $190.4 million. The auction house Sotheby's sold Chestnut Trees in Blossom in New York on Wednesday, November 19. The sale broke Van Gogh's old auction record of $117.2 million, set in 2022. Before the sale, experts thought the painting was worth about $180 million. No one knows yet who bought it. Van Gogh painted it in 1890, in the last two months of his life. Sotheby's calls it one of the most important works of art from that time still owned by a private family. The sale happened only after a last-minute deal settled a fight about the painting's past. People speaking for the heirs of the Fischer family, who owned it long ago in Germany, said it may have been sold under pressure when the Nazis were rising to power. Sotheby's said the two families reached a deal both sides were happy with. The Blaquier family had owned the painting since 1975, for more than 50 years.",
+  "why_it_matters": "Art from long ago can still matter today, and learning about who owned a painting helps us understand history.",
+  "image_url": "/article_images/news-sb0ccfe947ee79503.webp",
+  "keywords": [
+    {
+      "term": "auction",
+      "explanation": "A sale where people offer higher and higher prices, and the person who offers the most buys the thing."
+    },
+    {
+      "term": "heirs",
+      "explanation": "People who get something, such as money or a painting, from a family member who has died."
+    },
+    {
+      "term": "Blossom",
+      "explanation": "The flowers that grow on a tree."
+    },
+    {
+      "term": "Nazis",
+      "explanation": "The group that ruled Germany long ago and treated many people very cruelly."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How much did the painting sell for?",
+      "options": [
+        "$190.4 million",
+        "$180 million",
+        "$1,000",
+        "$117.2 million"
+      ],
+      "correct_answer": "$190.4 million"
+    },
+    {
+      "question": "What is the name of the painting?",
+      "options": [
+        "The Starry Night",
+        "Chestnut Trees in Blossom",
+        "The Blaquier Family",
+        "Sunflowers"
+      ],
+      "correct_answer": "Chestnut Trees in Blossom"
+    },
+    {
+      "question": "Who sold the painting?",
+      "options": [
+        "The Fischer family",
+        "Van Gogh himself",
+        "Sotheby's",
+        "The Blaquier family"
+      ],
+      "correct_answer": "Sotheby's"
+    },
+    {
+      "question": "What was Van Gogh's old auction record?",
+      "options": [
+        "$117.2 million",
+        "$190.4 million",
+        "$180 million",
+        "$50 million"
+      ],
+      "correct_answer": "$117.2 million"
+    },
+    {
+      "question": "What did people speaking for the Fischer family's heirs say about the painting?",
+      "options": [
+        "It may have been sold under pressure when the Nazis were rising to power",
+        "It was painted in Germany",
+        "It was bought by the Blaquier family in 1975",
+        "It was lost in a fire"
+      ],
+      "correct_answer": "It may have been sold under pressure when the Nazis were rising to power"
+    },
+    {
+      "question": "How long had the Blaquier family owned the painting?",
+      "options": [
+        "For two months",
+        "Since 1975, for more than 50 years",
+        "Since 2022",
+        "Since 1890"
+      ],
+      "correct_answer": "Since 1975, for more than 50 years"
+    }
+  ],
+  "background_read": [
+    "An auction is a sale where people offer higher and higher prices for something, and the person who offers the most gets to buy it.",
+    "Vincent van Gogh was a famous painter, and his paintings are now worth a lot of money because so few of them exist and many people love them.",
+    "Sometimes there is a fight over who a painting truly belongs to, and the sale can only go ahead once the families involved reach a deal."
+  ],
+  "Article_Structure": [
+    "WHO: Vincent van Gogh, the auction house Sotheby's, and the Fischer and Blaquier families",
+    "WHAT: A Van Gogh painting sold at auction for a record price after a deal settled a fight about its past",
+    "WHERE: New York",
+    "WHY: The painting is one of the most important works of art from that time still owned by a private family, and experts thought it was worth about $180 million"
+  ],
+  "perspectives": [
+    {
+      "perspective": "People speaking for the heirs of the Fischer family",
+      "description": "Said the painting may have been sold under pressure when the Nazis were rising to power."
+    },
+    {
+      "perspective": "Sotheby's",
+      "description": "Said the two families reached a deal both sides were happy with."
+    }
+  ],
+  "mined_at": "2026-11-19T11:17:03+00:00",
+  "source_published_at": "Thu, 19 Nov 2026 00:49:19 GMT",
+  "source_name": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+  "category": "News",
+  "source_word_count": 435,
+  "detail_status": "full"
+}
