@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-19-news-1",
+      "id": "2026-11-20-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Wed, 18 Nov 2026 19:46:37 -0500",
-      "mined_at": "2026-11-19T11:17:03+00:00",
-      "source_published_at": "Wed, 18 Nov 2026 19:46:37 -0500",
-      "image_url": "/article_images/news-s64b6a060eff38860.webp",
+      "time_ago": "Thu, 19 Nov 2026 19:10:07 -0500",
+      "mined_at": "2026-11-20T11:20:03+00:00",
+      "source_published_at": "Thu, 19 Nov 2026 19:10:07 -0500",
+      "image_url": "/article_images/news-s7b15012ee3e30676.webp",
       "category": "News",
-      "title": "Record Rain Soaks South Florida",
-      "summary": "More than a foot of rain fell in parts of Broward County, closing roads, damaging a synagogue roof, and closing schools, as El Nino helped drive the storms."
+      "title": "Do You Need Another Measles Shot?",
+      "summary": "Most people do not need another measles shot, but some people should check with a doctor."
     },
     {
-      "id": "2026-11-19-news-2",
+      "id": "2026-11-20-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Wed, 18 Nov 2026 18:55:44 -0500",
-      "mined_at": "2026-11-19T11:17:03+00:00",
-      "source_published_at": "Wed, 18 Nov 2026 18:55:44 -0500",
-      "image_url": "/article_images/news-sf0cf31c9b89eed24.webp",
+      "time_ago": "Thu, 19 Nov 2026 18:55:57 -0500",
+      "mined_at": "2026-11-20T11:20:03+00:00",
+      "source_published_at": "Thu, 19 Nov 2026 18:55:57 -0500",
+      "image_url": "/article_images/news-sd1c9359355df8053.webp",
       "category": "News",
-      "title": "Trump Arrives in China for a First-Ever Meeting With Xi and Putin",
-      "summary": "President Trump landed in China for a historic Thursday meeting with the leaders of China and Russia, with trade, Ukraine, Iran, and nuclear weapons expected on the agenda."
+      "title": "Three Leaders, One First: Trump, Xi and Putin Meet",
+      "summary": "The leaders of the US, China and Russia held their first-ever three-way meeting and promised talks on nuclear weapons."
     },
     {
-      "id": "2026-11-19-news-3",
+      "id": "2026-11-20-news-3",
       "source": "BBC News",
-      "time_ago": "Thu, 19 Nov 2026 00:49:19 GMT",
-      "mined_at": "2026-11-19T11:17:03+00:00",
-      "source_published_at": "Thu, 19 Nov 2026 00:49:19 GMT",
-      "image_url": "/article_images/news-sb0ccfe947ee79503.webp",
+      "time_ago": "Fri, 20 Nov 2026 07:14:46 GMT",
+      "mined_at": "2026-11-20T11:20:03+00:00",
+      "source_published_at": "Fri, 20 Nov 2026 07:14:46 GMT",
+      "image_url": "/article_images/news-s9860f98a1009c0d1.webp",
       "category": "News",
-      "title": "A Van Gogh Painting Sells for a Record $190.4 Million",
-      "summary": "Van Gogh's Chestnut Trees in Blossom sold for a record $190.4 million in New York, after a last-minute deal settled a fight about its past under the Nazis."
+      "title": "UK and EU Close to a Deal for Young Travellers",
+      "summary": "The UK and EU are expected to agree a scheme letting young people work and travel more easily."
     }
   ]
 }

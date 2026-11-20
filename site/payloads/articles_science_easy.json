@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-19-science-1",
-      "source": "ScienceDaily All",
-      "time_ago": "Tue, 17 Nov 2026 22:16:19 EST",
-      "mined_at": "2026-11-19T11:17:03+00:00",
-      "source_published_at": "Tue, 17 Nov 2026 22:16:19 EST",
-      "image_url": "/article_images/science-s4536cac655e6d1e8.webp",
+      "id": "2026-11-20-science-1",
+      "source": "Live Science",
+      "time_ago": "Thu, 19 Nov 2026 21:49:56 +0000",
+      "mined_at": "2026-11-20T11:20:03+00:00",
+      "source_published_at": "Thu, 19 Nov 2026 21:49:56 +0000",
+      "image_url": "/article_images/science-s2982122b4e7e4e5a.webp",
       "category": "Science",
-      "title": "NASA Tests Mars Helicopter Blades Faster Than Sound",
-      "summary": "NASA tested new Mars helicopter blades at supersonic speeds, a step toward future aircraft that can carry heavier science gear."
+      "title": "Voyager 1 Goes Silent Just as It Hits a Record Distance",
+      "summary": "Voyager 1 has travelled a record one light-day from Earth, but a computer glitch has stopped its science data."
     },
     {
-      "id": "2026-11-19-science-2",
-      "source": "Popular Mechanics",
-      "time_ago": "Wed, 18 Nov 2026 13:30:00 +0000",
-      "mined_at": "2026-11-19T11:17:03+00:00",
-      "source_published_at": "Wed, 18 Nov 2026 13:30:00 +0000",
-      "image_url": "/article_images/science-s696eb300a9ac8d33.webp",
+      "id": "2026-11-20-science-2",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Wed, 18 Nov 2026 18:24:05 EST",
+      "mined_at": "2026-11-20T11:20:03+00:00",
+      "source_published_at": "Wed, 18 Nov 2026 18:24:05 EST",
+      "image_url": "/article_images/science-s444ec003c4709097.webp",
       "category": "Science",
-      "title": "The Mystery of 8,000 Ancient Frogs — Solved by Owls",
-      "summary": "Archaeologists traced 8,000 Roman-era frog bones in a Cambridgeshire ditch to a feast by short-eared owls."
+      "title": "A 309-Million-Year-Old Creature Gets a Name — and a Tribute",
+      "summary": "A fossil found years ago in Illinois turns out to be a new 309-million-year-old species, named for two students' mothers."
     },
     {
-      "id": "2026-11-19-science-3",
-      "source": "Science News Explores",
-      "time_ago": "Tue, 17 Nov 2026 11:30:00 +0000",
-      "mined_at": "2026-11-19T11:17:03+00:00",
-      "source_published_at": "Tue, 17 Nov 2026 11:30:00 +0000",
-      "image_url": "/article_images/science-s09866afd8b584083.webp",
+      "id": "2026-11-20-science-3",
+      "source": "ScienceDaily Top Environment",
+      "time_ago": "Thu, 19 Nov 2026 06:13:29 EST",
+      "mined_at": "2026-11-20T11:20:03+00:00",
+      "source_published_at": "Thu, 19 Nov 2026 06:13:29 EST",
+      "image_url": "/article_images/science-s2a7dee05a6d3e985.webp",
       "category": "Science",
-      "title": "Paper Rockets: Why Fins Keep Them Flying Straight",
-      "summary": "A straw-launched paper rocket experiment shows how fins keep a rocket flying straight instead of spinning out of control."
+      "title": "Every Plant-Based Food Tested Had a Fungal Toxin — but Don't Panic",
+      "summary": "All 212 plant-based foods tested contained a fungal toxin, but every one was below EU safety guideline levels."
     }
   ]
 }

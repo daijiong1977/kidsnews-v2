@@ -1,0 +1,118 @@
+{
+  "title": "Voyager 1 Goes Silent Just as It Hits a Record Distance",
+  "summary": "NASA's Voyager 1 has just become the first human-made object ever to travel one light-day from Earth. That is roughly 16.1 billion miles away — so far that a radio signal takes a full 24 hours to travel from Earth to the spacecraft and back.\n\nBut the nearly 50-year-old probe hit a snag just as it reached the milestone. On November 14, the Voyager team discovered that the spacecraft had stopped sending science data back to Earth. As of Thursday, November 19, the problem had not been solved.\n\nThere is good news, though. The team detected a \"carrier\" signal, which confirmed that Voyager 1 is still powered up and pointed in the right direction. \"We have an anomaly that is not unseen before,\" said Suzanne Dodd, the Voyager project manager. She added that she is \"confident\" the science data will start flowing again soon.\n\nNASA thinks the glitch comes from the probe's onboard computer, which collects data from the science instruments and sends it home in a readable form. The team faced a similar problem in November 2023 and fixed it in June 2024. They are tackling this glitch the same way.\n\nIf the fix works, Voyager 1 will keep sending data from its two remaining science instruments: a magnetometer, which measures magnetic fields in interstellar space, and a plasma wave detector, which measures charged particles between the stars. To save power, the team switched off some instruments earlier this year, a move that should keep the probe alive through at least 2027.\n\nVoyager 1 reached interstellar space in 2012. One day it will run out of power, but it will keep drifting through space, carrying a Golden Record of images, music and information about life on Earth.",
+  "why_it_matters": "Voyager 1 is the only spacecraft sending back data from interstellar space, so fixing it matters for everything we can learn about the space between the stars.",
+  "image_url": "/article_images/science-s2982122b4e7e4e5a.webp",
+  "keywords": [
+    {
+      "term": "light-day",
+      "explanation": "The distance light travels in one day — about 16.1 billion miles."
+    },
+    {
+      "term": "probe",
+      "explanation": "A spacecraft sent out to explore space and send back information."
+    },
+    {
+      "term": "carrier",
+      "explanation": "A simple radio signal that shows a spacecraft is still powered up and pointed the right way."
+    },
+    {
+      "term": "anomaly",
+      "explanation": "Something unusual or unexpected that goes wrong."
+    },
+    {
+      "term": "magnetometer",
+      "explanation": "An instrument that measures magnetic fields."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What record has Voyager 1 just set?",
+      "options": [
+        "The first human-made object to travel one light-day from Earth",
+        "The first object to leave the Milky Way",
+        "The oldest working satellite",
+        "The fastest spacecraft ever built"
+      ],
+      "correct_answer": "The first human-made object to travel one light-day from Earth"
+    },
+    {
+      "question": "How far is one light-day?",
+      "options": [
+        "Roughly 16 million miles",
+        "Roughly 161 billion miles",
+        "Roughly 1.6 billion miles",
+        "Roughly 16.1 billion miles"
+      ],
+      "correct_answer": "Roughly 16.1 billion miles"
+    },
+    {
+      "question": "What problem did the Voyager team discover on November 14?",
+      "options": [
+        "The spacecraft had turned around",
+        "The spacecraft had run out of power",
+        "The spacecraft had stopped sending science data",
+        "The spacecraft had lost its antenna"
+      ],
+      "correct_answer": "The spacecraft had stopped sending science data"
+    },
+    {
+      "question": "What did the 'carrier' signal confirm?",
+      "options": [
+        "Voyager 1 has new instruments",
+        "Voyager 1 is still powered up and pointed in the right direction",
+        "Voyager 1 is sending photos",
+        "Voyager 1 is coming home"
+      ],
+      "correct_answer": "Voyager 1 is still powered up and pointed in the right direction"
+    },
+    {
+      "question": "What does NASA think caused the glitch?",
+      "options": [
+        "A software update from Earth",
+        "A broken solar panel",
+        "A meteor strike",
+        "The probe's onboard computer"
+      ],
+      "correct_answer": "The probe's onboard computer"
+    },
+    {
+      "question": "Which two science instruments are still working?",
+      "options": [
+        "A camera and a telescope",
+        "A magnetometer and a plasma wave detector",
+        "A radar and a laser",
+        "A thermometer and a barometer"
+      ],
+      "correct_answer": "A magnetometer and a plasma wave detector"
+    }
+  ],
+  "background_read": [
+    "Voyager 1 is a spacecraft launched by NASA that has travelled farther from Earth than any other human-made object.",
+    "It left our solar system and entered interstellar space, the space between the stars.",
+    "The spacecraft sends information back to Earth using radio signals, but the signals take a very long time to travel such a great distance.",
+    "Its instruments measure things like magnetic fields and charged particles, helping scientists learn what the space between the stars is like."
+  ],
+  "Article_Structure": [
+    "LEAD: Voyager 1 has become the first human-made object to travel one light-day from Earth.",
+    "KEY EVENT: A computer glitch stopped the probe's science data just as it reached the milestone.",
+    "  ├─ WHO: NASA's Voyager team, led by project manager Suzanne Dodd, is working on the problem.",
+    "  ├─ WHAT: A 'carrier' signal shows the probe is still powered up and pointed the right way.",
+    "  └─ WHEN: The problem was found on November 14 and had not been solved by November 19.",
+    "EVIDENCE: The team fixed a similar problem in November 2023 and June 2024, and is tackling this one the same way.",
+    "OPEN QUESTION: Will the fix work and the science data start flowing again?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Suzanne Dodd, the Voyager project manager",
+      "description": "She is 'confident' the science data will start flowing again soon."
+    }
+  ],
+  "mined_at": "2026-11-20T11:20:03+00:00",
+  "source_published_at": "Thu, 19 Nov 2026 21:49:56 +0000",
+  "source_name": "Live Science",
+  "source_url": "https://www.livescience.com/space/space-exploration/computer-glitch-prevents-voyager-1-from-sharing-science-data-on-its-light-day-milestone",
+  "category": "Science",
+  "source_word_count": 719,
+  "detail_status": "full"
+}

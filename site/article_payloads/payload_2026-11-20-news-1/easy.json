@@ -1,0 +1,114 @@
+{
+  "title": "Do You Need Another Measles Shot?",
+  "summary": "The United States lost its measles-free status this week. Mexico and Bolivia lost theirs too, after outbreaks that would not stop.\n\nSo do you need another shot? For most people, doctors say no. Most people have had the shots or had measles as kids.\n\nTwo shots of the MMR vaccine give the best protection. MMR stands for measles, mumps and rubella. The shots usually protect people for life. People born before 1957 are thought to be immune, because almost everyone caught measles.\n\nSome people should think about a booster: health care workers born before 1957 who cannot prove they are immune, and adults who got shots between 1963 and 1967, when some children got a weaker shot. Doctors say they should get at least one dose of the shot used today. One dose works 93 percent of the time. Two doses work 97 percent of the time.\n\nNot sure how many shots you had? Ask your parents or your doctor.\n\nA booster will not hurt you, doctors say, unless you should not get the shot, like pregnant women.",
+  "why_it_matters": "Knowing if you are protected from measles helps keep you and your classmates safe at school.",
+  "image_url": "/article_images/news-s7b15012ee3e30676.webp",
+  "keywords": [
+    {
+      "term": "measles-free status",
+      "explanation": "When a country has stopped measles from spreading for a long time."
+    },
+    {
+      "term": "booster",
+      "explanation": "An extra shot that tops up your protection."
+    },
+    {
+      "term": "immune",
+      "explanation": "Safe from a disease, so you probably will not catch it."
+    },
+    {
+      "term": "vaccine",
+      "explanation": "A shot that helps your body fight a germ."
+    },
+    {
+      "term": "outbreaks",
+      "explanation": "Times when lots of people catch the same disease."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Which countries lost their measles-free status this week?",
+      "options": [
+        "Canada, Mexico and Bolivia",
+        "The United States, Mexico and Bolivia",
+        "The United States and Canada",
+        "Mexico and Canada"
+      ],
+      "correct_answer": "The United States, Mexico and Bolivia"
+    },
+    {
+      "question": "How many shots of the MMR vaccine give the best protection?",
+      "options": [
+        "One shot",
+        "Two shots",
+        "No shots",
+        "Three shots"
+      ],
+      "correct_answer": "Two shots"
+    },
+    {
+      "question": "How well does one dose work?",
+      "options": [
+        "93 percent of the time",
+        "97 percent of the time",
+        "50 percent of the time",
+        "100 percent of the time"
+      ],
+      "correct_answer": "93 percent of the time"
+    },
+    {
+      "question": "Who should think about a booster?",
+      "options": [
+        "Health care workers born before 1957 and adults who got shots between 1963 and 1967",
+        "All children",
+        "Nobody",
+        "People born after 1989"
+      ],
+      "correct_answer": "Health care workers born before 1957 and adults who got shots between 1963 and 1967"
+    },
+    {
+      "question": "What should you do if you are not sure how many shots you had?",
+      "options": [
+        "Stay home from school",
+        "Wait and see",
+        "Ask your parents or your doctor",
+        "Get five more shots"
+      ],
+      "correct_answer": "Ask your parents or your doctor"
+    },
+    {
+      "question": "What did doctors say about getting a booster to be safe?",
+      "options": [
+        "It does not work",
+        "It will not hurt you, unless you should not get the shot",
+        "It is dangerous for everyone",
+        "It is only for children"
+      ],
+      "correct_answer": "It will not hurt you, unless you should not get the shot"
+    }
+  ],
+  "background_read": [
+    "Measles is a sickness that spreads very easily from person to person.",
+    "The MMR shot protects against measles, mumps and rubella, and it usually protects a person for life.",
+    "A country loses its measles-free status when outbreaks start again and the sickness spreads."
+  ],
+  "Article_Structure": [
+    "WHO: Doctors and people in the United States, Mexico and Bolivia.",
+    "WHAT: The three countries lost their measles-free status, and doctors explain who needs a booster.",
+    "WHERE: The United States, Mexico and Bolivia.",
+    "WHY: Outbreaks that would not stop erased years of progress."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Doctors",
+      "description": "Most people do not need a booster, but some groups should get one."
+    }
+  ],
+  "mined_at": "2026-11-20T11:20:03+00:00",
+  "source_published_at": "Thu, 19 Nov 2026 19:10:07 -0500",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/health/do-you-need-a-measles-booster-shot-now-that-the-u-s-has-lost-its-elimination-status",
+  "category": "News",
+  "source_word_count": 688,
+  "detail_status": "full"
+}

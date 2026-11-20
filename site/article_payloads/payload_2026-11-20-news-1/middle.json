@@ -1,0 +1,122 @@
+{
+  "title": "Do You Need a Measles Booster Shot?",
+  "summary": "The United States lost its measles-free status this week. Mexico and Bolivia lost theirs too, after stubborn outbreaks erased decades of progress. So do you need another shot? For most people, doctors say the answer is no.\n\n\"Most people are protected without getting a booster shot,\" said Dr. Richard Martinello of the Yale School of Medicine. Most people have been vaccinated or had measles as kids. Two doses of the MMR vaccine — measles, mumps and rubella — are the best protection against one of the most contagious viruses in the world, and the vaccine usually protects people for life. Americans born before 1957 are considered immune, because almost everyone then caught measles in childhood.\n\nSome people should still think about a booster. Health care workers born before 1957 without proof of immunity are one group, because they meet sick people often. Another group is adults vaccinated between 1963 and 1967, when some children got a weaker vaccine made from a killed virus. Doctors say they should get at least one dose of the current vaccine. One dose is 93 percent effective. Two doses are 97 percent effective.\n\nUntil 1989, one dose was the standard. Now adults should have at least one documented dose, and two doses are recommended for some high-risk groups.\n\nNot sure how many shots you had? The Centers for Disease Control and Prevention suggests asking your parents or your doctor, or checking with your school or college health office.\n\nGetting a booster to be safe will not harm you, doctors said, unless you are in a group that should not get the vaccine, such as pregnant women. \"This is a moment to not just check for yourself, but also encourage others to make sure that they are adequately vaccinated,\" said Dr. Joshua Sharfstein of Johns Hopkins.",
+  "why_it_matters": "Measles spreads fast, and knowing whether you are protected helps keep you, your family and your classmates safe.",
+  "image_url": "/article_images/news-s7b15012ee3e30676.webp",
+  "keywords": [
+    {
+      "term": "measles-free status",
+      "explanation": "A country has this status when measles has stopped spreading inside it for a long time."
+    },
+    {
+      "term": "booster",
+      "explanation": "An extra shot that tops up your protection against a disease."
+    },
+    {
+      "term": "immune",
+      "explanation": "Protected against a disease, so you are unlikely to catch it."
+    },
+    {
+      "term": "vaccine",
+      "explanation": "A shot that teaches your body how to fight a germ."
+    },
+    {
+      "term": "outbreaks",
+      "explanation": "Times when many people catch the same disease at once."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Which countries lost their measles-free status this week?",
+      "options": [
+        "The United States, Mexico and Bolivia",
+        "The United States and Canada",
+        "Canada, Mexico and Bolivia",
+        "Mexico and Canada"
+      ],
+      "correct_answer": "The United States, Mexico and Bolivia"
+    },
+    {
+      "question": "How many doses of the MMR vaccine give the best protection?",
+      "options": [
+        "One dose",
+        "Three doses",
+        "Two doses",
+        "Four doses"
+      ],
+      "correct_answer": "Two doses"
+    },
+    {
+      "question": "How effective is one dose of the MMR vaccine?",
+      "options": [
+        "93 percent",
+        "97 percent",
+        "80 percent",
+        "50 percent"
+      ],
+      "correct_answer": "93 percent"
+    },
+    {
+      "question": "Which group should think about a booster because they meet sick people often?",
+      "options": [
+        "School children",
+        "International travelers",
+        "Health care workers born before 1957",
+        "People born after 1989"
+      ],
+      "correct_answer": "Health care workers born before 1957"
+    },
+    {
+      "question": "Why might adults vaccinated between 1963 and 1967 need another dose?",
+      "options": [
+        "The vaccine expired",
+        "They never got any vaccine",
+        "They got a weaker vaccine made from a killed virus",
+        "They were too young for the vaccine"
+      ],
+      "correct_answer": "They got a weaker vaccine made from a killed virus"
+    },
+    {
+      "question": "What should you do if you are not sure how many shots you had?",
+      "options": [
+        "Stop going to school",
+        "Wait and see if you get sick",
+        "Get three more shots right away",
+        "Ask your parents or your doctor"
+      ],
+      "correct_answer": "Ask your parents or your doctor"
+    }
+  ],
+  "background_read": [
+    "Measles is one of the most contagious viruses in the world, spreading easily through coughs and sneezes.",
+    "The MMR vaccine protects against measles, mumps and rubella, and two doses usually protect a person for life.",
+    "A country earns measles-free status when it has stopped the virus from spreading inside its borders for a long time.",
+    "Losing that status means outbreaks are happening again and the virus is spreading from person to person."
+  ],
+  "Article_Structure": [
+    "LEAD: The US, Mexico and Bolivia lost their measles-free status after outbreaks.",
+    "KEY EVENT: Doctors explain who needs a booster and who does not.",
+    "  ├─ WHO: Most people are already protected by vaccination or past measles.",
+    "  ├─ WHO: Health care workers born before 1957 and adults vaccinated in 1963-1967 should consider a booster.",
+    "  └─ WHEN: Until 1989 one dose was standard; now adults need at least one documented dose.",
+    "EVIDENCE: One dose is 93 percent effective; two doses are 97 percent effective.",
+    "OPEN QUESTION: How do you check how many shots you had?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Dr. Richard Martinello",
+      "description": "Most people are protected without a booster because they have been vaccinated or had measles as kids."
+    },
+    {
+      "perspective": "Dr. Joshua Sharfstein",
+      "description": "People should check their own vaccination and encourage others to make sure they are adequately vaccinated."
+    }
+  ],
+  "mined_at": "2026-11-20T11:20:03+00:00",
+  "source_published_at": "Thu, 19 Nov 2026 19:10:07 -0500",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/health/do-you-need-a-measles-booster-shot-now-that-the-u-s-has-lost-its-elimination-status",
+  "category": "News",
+  "source_word_count": 688,
+  "detail_status": "full"
+}
