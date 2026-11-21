@@ -1,0 +1,130 @@
+{
+  "title": "Plan to Pick Presidents by Popular Vote Nears Key Milestone",
+  "summary": "Imagine voting for president — and the winner is not the person who got the most votes across the country. That can happen in the United States, because of the Electoral College. Now, an effort to change that may be close to a big milestone.\n\nThe effort is called the National Popular Vote Interstate Compact. It is an agreement among states to give their electoral votes to the winner of the nationwide popular vote, not the winner in each state. The compact takes effect only once states holding at least 270 electoral votes have joined. Right now, 18 Democratic-led states plus the District of Columbia are in, adding up to 222.\n\nNext year, Democrats will control five more states: Arizona, Pennsylvania, Michigan, Nevada and Wisconsin. Together, those states hold 61 electoral votes. If at least four of them join, the compact would pass 270. So far, no Republican-led states have joined. Governors in Pennsylvania and Nevada have said they are open to signing on.\n\nSupporters are hopeful. Patrick Rosenstiel, a senior consultant to National Popular Vote, the group pushing the plan, said he has never been more confident that voters can get a national popular vote in 2028. He pointed to Pew polling showing 63 percent of American voters want it.\n\nBut big hurdles remain. Some legal experts say the agreement could break the Constitution's compact clause, which says states need Congress's permission to make agreements with each other. Norman Miller, a law professor at Willamette University, said each state runs its own elections with its own rules, which could cause practical problems. He said the safer path would be a constitutional amendment, though that would be much harder. Opponents, such as Save Our States, argue that dropping the Electoral College would push politics toward regions and deepen divides.",
+  "why_it_matters": "This plan could change how the president of the United States is chosen, so the candidate with the most votes nationwide would win — but courts and state rules may stand in its way.",
+  "image_url": "/article_images/news-sa3c80c20c1eb0fb0.webp",
+  "keywords": [
+    {
+      "term": "Electoral College",
+      "explanation": "The Electoral College is the system the United States uses to choose its president, in which each state has a set number of electoral votes."
+    },
+    {
+      "term": "compact",
+      "explanation": "A compact is a formal agreement between states or groups."
+    },
+    {
+      "term": "milestone",
+      "explanation": "A milestone is an important point or step forward in a long effort."
+    },
+    {
+      "term": "polling",
+      "explanation": "Polling means asking a group of people questions to find out what they think."
+    },
+    {
+      "term": "amendment",
+      "explanation": "An amendment is a formal change made to a law or to the Constitution."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What does the National Popular Vote Interstate Compact do?",
+      "options": [
+        "It lets Congress choose the president directly",
+        "It gives states' electoral votes to the winner of the nationwide popular vote",
+        "It ends voting in each state",
+        "It gives every state the same number of electoral votes"
+      ],
+      "correct_answer": "It gives states' electoral votes to the winner of the nationwide popular vote"
+    },
+    {
+      "question": "How many electoral votes must states in the compact hold before it takes effect?",
+      "options": [
+        "270 electoral votes",
+        "538 electoral votes",
+        "61 electoral votes",
+        "222 electoral votes"
+      ],
+      "correct_answer": "270 electoral votes"
+    },
+    {
+      "question": "How many electoral votes do the states in the compact hold right now?",
+      "options": [
+        "18",
+        "61",
+        "270",
+        "222"
+      ],
+      "correct_answer": "222"
+    },
+    {
+      "question": "Which five states will Democrats control next year?",
+      "options": [
+        "Arizona, Pennsylvania, Michigan, Nevada and Wisconsin",
+        "California, New York, Illinois, Washington and Oregon",
+        "Texas, Florida, Ohio, Georgia and North Carolina",
+        "Arizona, Texas, Florida, Nevada and Georgia"
+      ],
+      "correct_answer": "Arizona, Pennsylvania, Michigan, Nevada and Wisconsin"
+    },
+    {
+      "question": "What did Pew polling show?",
+      "options": [
+        "63 percent of states have joined the compact",
+        "63 percent of governors oppose the compact",
+        "63 percent of American voters want to keep the Electoral College",
+        "63 percent of American voters want a national popular vote"
+      ],
+      "correct_answer": "63 percent of American voters want a national popular vote"
+    },
+    {
+      "question": "What did Norman Miller say would be the safer path?",
+      "options": [
+        "A ruling by the Supreme Court",
+        "Letting each state run its own elections",
+        "A vote in Congress to approve the compact",
+        "A constitutional amendment"
+      ],
+      "correct_answer": "A constitutional amendment"
+    }
+  ],
+  "background_read": [
+    "In the United States, the president is chosen through the Electoral College, a system in which each state has a set number of electoral votes.",
+    "Most states give all of their electoral votes to the candidate who wins the most votes in that state, so the nationwide vote winner does not always win the presidency.",
+    "The National Popular Vote Interstate Compact is an agreement among states to change this by giving their electoral votes to the winner of the nationwide popular vote.",
+    "The compact only takes effect once states holding enough electoral votes to win a presidential election have joined it."
+  ],
+  "Article_Structure": [
+    "LEAD: Because of the Electoral College, the winner of a presidential election is not always the person who got the most votes across the country.",
+    "KEY EVENT: The National Popular Vote Interstate Compact may be close to the milestone of 270 electoral votes.",
+    "  ├─ WHO: 18 Democratic-led states plus the District of Columbia, and five more states Democrats will control next year",
+    "  ├─ WHERE THE VOTES STAND: 222 electoral votes are in, and the five new states hold 61",
+    "  └─ WHEN: The compact takes effect once states holding at least 270 electoral votes have joined",
+    "EVIDENCE: Patrick Rosenstiel points to Pew polling showing 63 percent of American voters want a national popular vote.",
+    "OPEN QUESTION: Will the compact survive legal challenges over the Constitution's compact clause and the practical problems of different state election rules?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Patrick Rosenstiel, a senior consultant to National Popular Vote",
+      "description": "He says he has never been more confident that voters can get a national popular vote in 2028."
+    },
+    {
+      "perspective": "Some legal experts",
+      "description": "They say the agreement could break the Constitution's compact clause, which says states need Congress's permission to make agreements with each other."
+    },
+    {
+      "perspective": "Norman Miller, a law professor at Willamette University",
+      "description": "He says each state runs its own elections with its own rules, which could cause practical problems, and that a constitutional amendment would be the safer path."
+    },
+    {
+      "perspective": "Opponents, such as Save Our States",
+      "description": "They argue that dropping the Electoral College would push politics toward regions and deepen divides."
+    }
+  ],
+  "mined_at": "2026-11-21T11:19:13+00:00",
+  "source_published_at": "Sat, 21 Nov 2026 05:00:00 -0500",
+  "source_name": "NPR World",
+  "source_url": "https://www.npr.org/2026/11/21/nx-s1-6044237/electoral-college-national-popular-vote-interstate-compact",
+  "category": "News",
+  "source_word_count": 1075,
+  "detail_status": "full"
+}

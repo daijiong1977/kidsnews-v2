@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-20-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Thu, 19 Nov 2026 19:10:07 -0500",
-      "mined_at": "2026-11-20T11:20:03+00:00",
-      "source_published_at": "Thu, 19 Nov 2026 19:10:07 -0500",
-      "image_url": "/article_images/news-s7b15012ee3e30676.webp",
+      "id": "2026-11-21-news-1",
+      "source": "NPR World",
+      "time_ago": "Fri, 20 Nov 2026 16:38:05 -0500",
+      "mined_at": "2026-11-21T11:19:13+00:00",
+      "source_published_at": "Fri, 20 Nov 2026 16:38:05 -0500",
+      "image_url": "/article_images/news-s220f822bcaf697f8.webp",
       "category": "News",
-      "title": "Do You Need a Measles Booster Shot?",
-      "summary": "Most people do not need a measles booster, doctors say, but some groups should check their shots."
+      "title": "King's Handwritten 'I Have a Dream' Draft Goes on Display for the First Time",
+      "summary": "The only known draft of Martin Luther King Jr.'s famous 1963 speech is on display in Atlanta through Sunday. The draft does not include the words 'I Have a Dream' — King improvised them."
     },
     {
-      "id": "2026-11-20-news-2",
-      "source": "PBS NewsHour",
-      "time_ago": "Thu, 19 Nov 2026 18:55:57 -0500",
-      "mined_at": "2026-11-20T11:20:03+00:00",
-      "source_published_at": "Thu, 19 Nov 2026 18:55:57 -0500",
-      "image_url": "/article_images/news-sd1c9359355df8053.webp",
+      "id": "2026-11-21-news-2",
+      "source": "NPR World",
+      "time_ago": "Sat, 21 Nov 2026 05:00:00 -0500",
+      "mined_at": "2026-11-21T11:19:13+00:00",
+      "source_published_at": "Sat, 21 Nov 2026 05:00:00 -0500",
+      "image_url": "/article_images/news-sa3c80c20c1eb0fb0.webp",
       "category": "News",
-      "title": "Three Leaders, One First: Trump, Xi and Putin Meet",
-      "summary": "The leaders of the US, China and Russia held their first-ever three-way meeting and promised talks on nuclear weapons."
+      "title": "Plan to Pick Presidents by Popular Vote Nears Key Milestone",
+      "summary": "A plan to award electoral votes to the nationwide popular-vote winner now has 222 electoral votes behind it. Five more states could push it past 270, but legal hurdles remain."
     },
     {
-      "id": "2026-11-20-news-3",
-      "source": "BBC News",
-      "time_ago": "Fri, 20 Nov 2026 07:14:46 GMT",
-      "mined_at": "2026-11-20T11:20:03+00:00",
-      "source_published_at": "Fri, 20 Nov 2026 07:14:46 GMT",
-      "image_url": "/article_images/news-s9860f98a1009c0d1.webp",
+      "id": "2026-11-21-news-3",
+      "source": "NPR World",
+      "time_ago": "Fri, 20 Nov 2026 16:30:58 -0500",
+      "mined_at": "2026-11-21T11:19:13+00:00",
+      "source_published_at": "Fri, 20 Nov 2026 16:30:58 -0500",
+      "image_url": "/article_images/news-sd78738098d4f14b3.webp",
       "category": "News",
-      "title": "UK and EU Close to a Deal for Young Travellers",
-      "summary": "The UK and EU are expected to agree a youth mobility scheme letting young people work and travel more easily."
+      "title": "After a Week of Outages, More Americans Are Stocking Up — Just in Case",
+      "summary": "Recent tech outages have more people learning from 'preppers.' Experts say the smart move is to prepare for the risks where you live, not panic-buy."
     }
   ]
 }

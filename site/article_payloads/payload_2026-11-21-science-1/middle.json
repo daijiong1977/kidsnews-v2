@@ -1,0 +1,122 @@
+{
+  "title": "After Eight Years in Space, a Telescope Opens Its Eyes",
+  "summary": "After eight years in space and a journey of 10 billion kilometers, a telescope built in the UK has finally opened its eyes. The Mercury Imaging X-ray Spectrometer, known as MIXS, is traveling aboard the BepiColombo mission to Mercury. It has just made its first observations of a distant object in space: the Crab Nebula.\n\nThe Crab Nebula sits about 6,500 light-years from Earth. It is the leftover cloud of an exploded star, and it gives off a strong, steady X-ray signal. That makes it a perfect test target. Scientists at the University of Leicester are now checking MIXS to make sure it still works after its long trip, just as BepiColombo prepares to enter orbit around Mercury on November 21.\n\nThe telescope could not look directly into space until September. That was when the Mercury Transfer Module separated from the two science orbiters, finally giving MIXS a clear view. The main test took place on September 11 and 12. Over 39 hours, the spacecraft turned 55 times to gather data.\n\nThe results are better than expected. MIXS can pick out fine details even more sharply than it did in laboratory tests on Earth in 2015. Its detector shows no radiation damage after eight years in space. Cosmic rays can be filtered out, and a small glow inside the instrument when sunlight strikes its optics will not affect observations of Mercury's sunlit surface.\n\nProfessor Emma Bunce, the instrument's principal investigator at the University of Leicester, called the results fantastic and noted that 80 percent of the technology on MIXS is new. Some effects still need study, and the team plans to fine-tune the telescope once BepiColombo reaches Mercury. Then MIXS will study what Mercury's surface is made of, helping scientists understand how planets form close to a star.",
+  "why_it_matters": "The test shows a delicate instrument can survive a long space journey and work better than expected, and the data MIXS gathers at Mercury could help scientists understand how planets form close to a star.",
+  "image_url": "/article_images/science-s7a2c4ea3305f4cf9.webp",
+  "keywords": [
+    {
+      "term": "Spectrometer",
+      "explanation": "A scientific instrument that studies light to learn what something is made of."
+    },
+    {
+      "term": "light-years",
+      "explanation": "A unit of distance showing how far light travels in one year."
+    },
+    {
+      "term": "orbit",
+      "explanation": "The curved path a spacecraft or planet follows around another object in space."
+    },
+    {
+      "term": "radiation",
+      "explanation": "Energy or tiny particles that travel through space and can harm sensitive equipment."
+    },
+    {
+      "term": "optics",
+      "explanation": "The parts of an instrument, such as lenses and mirrors, that collect and focus light."
+    },
+    {
+      "term": "principal investigator",
+      "explanation": "The lead scientist in charge of a research project or instrument."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What did MIXS first observe in space?",
+      "options": [
+        "Mercury's surface",
+        "The Sun",
+        "The Moon",
+        "The Crab Nebula"
+      ],
+      "correct_answer": "The Crab Nebula"
+    },
+    {
+      "question": "How long had MIXS been in space before its first observations?",
+      "options": [
+        "39 hours",
+        "One year",
+        "Two years",
+        "Eight years"
+      ],
+      "correct_answer": "Eight years"
+    },
+    {
+      "question": "When is BepiColombo due to enter orbit around Mercury?",
+      "options": [
+        "November 21",
+        "September 12",
+        "In 2015",
+        "September 11"
+      ],
+      "correct_answer": "November 21"
+    },
+    {
+      "question": "How many times did the spacecraft turn during the main test?",
+      "options": [
+        "55 times",
+        "10 times",
+        "80 times",
+        "39 times"
+      ],
+      "correct_answer": "55 times"
+    },
+    {
+      "question": "What did the tests show about MIXS's detector?",
+      "options": [
+        "It was badly damaged by radiation",
+        "It could not detect X-rays",
+        "It had stopped working",
+        "It shows no radiation damage"
+      ],
+      "correct_answer": "It shows no radiation damage"
+    },
+    {
+      "question": "What will MIXS study once BepiColombo reaches Mercury?",
+      "options": [
+        "The rings of Mercury",
+        "The weather on Mercury",
+        "The moons of Mercury",
+        "What Mercury's surface is made of"
+      ],
+      "correct_answer": "What Mercury's surface is made of"
+    }
+  ],
+  "background_read": [
+    "BepiColombo is a space mission travelling to Mercury, the planet closest to the Sun.",
+    "MIXS is an X-ray telescope on board the mission, and it works by studying X-rays given off by Mercury's surface to learn what the surface is made of.",
+    "Before it can study Mercury, the telescope needs a test target, and the Crab Nebula is useful because it gives off a strong, steady X-ray signal.",
+    "Scientists must first check that the instrument still works well after its long journey through space."
+  ],
+  "Article_Structure": [
+    "LEAD: After eight years in space, the UK-built MIXS telescope has made its first observations of a distant object, the Crab Nebula.",
+    "KEY EVENT: MIXS passed its first space test ahead of BepiColombo entering orbit around Mercury on November 21.",
+    "  ├─ WHO: Scientists at the University of Leicester, led by Professor Emma Bunce, are checking MIXS.",
+    "  ├─ WHEN: The main test took place on September 11 and 12, after the Mercury Transfer Module separated in September.",
+    "  └─ HOW: Over 39 hours, the spacecraft turned 55 times to gather data.",
+    "EVIDENCE: MIXS sees fine details more sharply than in laboratory tests on Earth in 2015, and its detector shows no radiation damage.",
+    "OPEN QUESTION: Some effects still need study, and the team plans to fine-tune the telescope once BepiColombo reaches Mercury."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Professor Emma Bunce",
+      "description": "She called the results fantastic and noted that 80 percent of the technology on MIXS is new."
+    }
+  ],
+  "mined_at": "2026-11-21T11:19:13+00:00",
+  "source_published_at": "Fri, 20 Nov 2026 21:11:14 EST",
+  "source_name": "ScienceDaily Top Technology",
+  "source_url": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm",
+  "category": "Science",
+  "source_word_count": 800,
+  "detail_status": "full"
+}

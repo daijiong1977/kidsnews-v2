@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-20-science-1",
-      "source": "Live Science",
-      "time_ago": "Thu, 19 Nov 2026 21:49:56 +0000",
-      "mined_at": "2026-11-20T11:20:03+00:00",
-      "source_published_at": "Thu, 19 Nov 2026 21:49:56 +0000",
-      "image_url": "/article_images/science-s2982122b4e7e4e5a.webp",
+      "id": "2026-11-21-science-1",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Fri, 20 Nov 2026 21:11:14 EST",
+      "mined_at": "2026-11-21T11:19:13+00:00",
+      "source_published_at": "Fri, 20 Nov 2026 21:11:14 EST",
+      "image_url": "/article_images/science-s7a2c4ea3305f4cf9.webp",
       "category": "Science",
-      "title": "Voyager 1 Goes Silent Just as It Hits a Record Distance",
-      "summary": "Voyager 1 has travelled a record one light-day from Earth, but a computer glitch has stopped its science data."
+      "title": "After Eight Years in Space, a Telescope Opens Its Eyes",
+      "summary": "BepiColombo's MIXS telescope passed its first space test, spotting the Crab Nebula more sharply than in lab tests on Earth, just before the mission enters orbit around Mercury."
     },
     {
-      "id": "2026-11-20-science-2",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Wed, 18 Nov 2026 18:24:05 EST",
-      "mined_at": "2026-11-20T11:20:03+00:00",
-      "source_published_at": "Wed, 18 Nov 2026 18:24:05 EST",
-      "image_url": "/article_images/science-s444ec003c4709097.webp",
+      "id": "2026-11-21-science-2",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Fri, 20 Nov 2026 07:23:23 EST",
+      "mined_at": "2026-11-21T11:19:13+00:00",
+      "source_published_at": "Fri, 20 Nov 2026 07:23:23 EST",
+      "image_url": "/article_images/science-sb12ec3fa80c29459.webp",
       "category": "Science",
-      "title": "A 309-Million-Year-Old Creature Gets a Name — and a Tribute",
-      "summary": "A fossil found years ago in Illinois turns out to be a new 309-million-year-old species, named for two students' mothers."
+      "title": "Physicists Find Evidence of a One-in-10-Billion Particle Decay",
+      "summary": "After more than 40 years of searching, CERN's upgraded LHCb experiment has found evidence of an extremely rare particle decay, a clue that could point to physics beyond the Standard Model."
     },
     {
-      "id": "2026-11-20-science-3",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Thu, 19 Nov 2026 06:13:29 EST",
-      "mined_at": "2026-11-20T11:20:03+00:00",
-      "source_published_at": "Thu, 19 Nov 2026 06:13:29 EST",
-      "image_url": "/article_images/science-s2a7dee05a6d3e985.webp",
+      "id": "2026-11-21-science-3",
+      "source": "Popular Science",
+      "time_ago": "Fri, 20 Nov 2026 15:06:00 -0500",
+      "mined_at": "2026-11-21T11:19:13+00:00",
+      "source_published_at": "Fri, 20 Nov 2026 15:06:00 -0500",
+      "image_url": "/article_images/science-sdb9013ef5d373145.webp",
       "category": "Science",
-      "title": "Every Plant-Based Food Tested Had a Fungal Toxin — but Don't Panic",
-      "summary": "All 212 plant-based foods tested contained a fungal toxin, but every one was below EU safety guideline levels."
+      "title": "Yosemite Needs Your Help Tracking River Otters",
+      "summary": "River otters have been spotted in Yosemite National Park, and rangers are asking visitors to report sightings to help track the playful swimmers across the park's 1,700 miles of streams."
     }
   ]
 }
