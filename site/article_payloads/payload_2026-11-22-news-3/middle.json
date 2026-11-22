@@ -1,0 +1,129 @@
+{
+  "title": "Why a Week of Tech Failures Felt Like One Big Attack",
+  "summary": "When a string of tech failures hit in the same week, many people online wondered: could they all be connected? Companies including Microsoft, United Airlines, JPMorgan Chase, and U.S. Bank had technical problems and outages that delayed flights and interrupted workdays. Marriott and Apple customers had digital problems, and 178 companies reported being affected by a November 16 cyberattack. At the same time, several U.S. government systems, including the Federal Aviation Administration, ran into trouble.\n\nThe pileup felt suspicious to many people. \"We're under attack in a way we've never seen before,\" wrote Nalin Haley, a conservative influencer, on November 17. \"This is an AI cyberattack.\" \"Coincidence???\" wrote Christopher Webb, a self-described \"lifelong Dem\" and party strategist, on November 16. But the best available information points to ordinary explanations, such as routine maintenance or one-off problems, rather than a coordinated attack.\n\nSo why is that hard to believe? Psychologists say part of the answer is how our brains work. \"Detecting patterns is important for perceiving the world and learning about cause and effect,\" said Javier Granados Samayoa, a Texas Christian University psychology professor. But that habit, he said, \"can sometimes lead people to see connections where none may exist.\" One study linked pattern-spotting in random coin tosses to believing conspiracy theories. Research also shows that when people feel they lack control, they are more likely to spot patterns that are not really there.\n\n\"People are looking for ways to understand what is going on and they don't like the uncertainty that often surrounds unfolding events,\" said Karen Douglas, a social psychology professor at the University of Kent. \"Also, a simple explanation is often not very appealing.\" On social media, negative posts tend to spread further. Axios reported that an estimated 30% of the most alarming posts came from suspected bots.",
+  "why_it_matters": "When scary stories spread fast online, knowing how our brains look for patterns can help us pause, check the facts, and avoid being fooled by rumors.",
+  "image_url": "/article_images/news-s48ea5d8e2f9fbeba.webp",
+  "keywords": [
+    {
+      "term": "outages",
+      "explanation": "An outage is a time when a service or system stops working."
+    },
+    {
+      "term": "influencer",
+      "explanation": "An influencer is a person with many followers online whose posts can shape what others think."
+    },
+    {
+      "term": "conspiracy theories",
+      "explanation": "A conspiracy theory is a belief that a secret group is behind an event, without good proof."
+    },
+    {
+      "term": "bots",
+      "explanation": "Bots are computer programs that act like people online, for example by posting messages."
+    },
+    {
+      "term": "maintenance",
+      "explanation": "Maintenance is routine work done to keep something running well."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Which companies had technical problems and outages that week?",
+      "options": [
+        "Google, Amazon, and Meta",
+        "CNN, Fox News, and Axios",
+        "Microsoft, United Airlines, JPMorgan Chase, and U.S. Bank",
+        "Marriott, Apple, and the FAA only"
+      ],
+      "correct_answer": "Microsoft, United Airlines, JPMorgan Chase, and U.S. Bank"
+    },
+    {
+      "question": "How many companies reported being affected by a November 16 cyberattack?",
+      "options": [
+        "30",
+        "500",
+        "178",
+        "16"
+      ],
+      "correct_answer": "178"
+    },
+    {
+      "question": "What did Nalin Haley write on November 17?",
+      "options": [
+        "'Coincidence???'",
+        "'The outages are not connected.'",
+        "'We're under attack in a way we've never seen before.'",
+        "'This is just routine maintenance.'"
+      ],
+      "correct_answer": "'We're under attack in a way we've never seen before.'"
+    },
+    {
+      "question": "According to Javier Granados Samayoa, what can pattern-spotting lead to?",
+      "options": [
+        "Fewer conspiracy theories",
+        "Faster computers",
+        "Better grades in school",
+        "Seeing connections where none may exist"
+      ],
+      "correct_answer": "Seeing connections where none may exist"
+    },
+    {
+      "question": "What does research show about people who feel they lack control?",
+      "options": [
+        "They stop using social media",
+        "They ignore the news",
+        "They are more likely to spot patterns that are not really there",
+        "They trust experts more"
+      ],
+      "correct_answer": "They are more likely to spot patterns that are not really there"
+    },
+    {
+      "question": "What did Axios report about the most alarming posts?",
+      "options": [
+        "All of them came from bots",
+        "An estimated 30% of them came from suspected bots",
+        "They were all written by psychologists",
+        "None of them came from bots"
+      ],
+      "correct_answer": "An estimated 30% of them came from suspected bots"
+    }
+  ],
+  "background_read": [
+    "Many big companies and government systems had technical problems in the same week, from delayed flights to interrupted workdays.",
+    "Because the failures piled up so fast, some people online guessed they were all part of one coordinated attack.",
+    "Psychologists explain that our brains are built to spot patterns, which helps us learn about cause and effect, but it can also make us see connections where none exist."
+  ],
+  "Article_Structure": [
+    "LEAD: A week of tech failures made many people online suspect one big coordinated attack",
+    "KEY EVENT: Outages hit companies and government systems in the same week",
+    "  ├─ WHO: Microsoft, United Airlines, JPMorgan Chase, U.S. Bank, and others",
+    "  ├─ WHAT: Technical problems, outages, and a November 16 cyberattack",
+    "  └─ WHEN: The failures piled up in the same week",
+    "EVIDENCE: The best available information points to routine maintenance or one-off problems",
+    "OPEN QUESTION: Why a simple explanation feels hard to believe"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Nalin Haley",
+      "description": "She wrote that the country was under attack in a way never seen before, calling it an AI cyberattack."
+    },
+    {
+      "perspective": "Christopher Webb",
+      "description": "He asked 'Coincidence???', suggesting the failures were connected."
+    },
+    {
+      "perspective": "Javier Granados Samayoa",
+      "description": "He said pattern-spotting can lead people to see connections where none may exist."
+    },
+    {
+      "perspective": "Karen Douglas",
+      "description": "She said people dislike uncertainty and often find a simple explanation unappealing."
+    }
+  ],
+  "mined_at": "2026-11-22T11:22:11+00:00",
+  "source_published_at": "Sat, 21 Nov 2026 18:14:57 -0500",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/nation/why-do-people-believe-recent-tech-failures-must-be-connected",
+  "category": "News",
+  "source_word_count": 552,
+  "detail_status": "full"
+}

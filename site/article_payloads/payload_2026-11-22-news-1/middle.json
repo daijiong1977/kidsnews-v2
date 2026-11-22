@@ -1,0 +1,125 @@
+{
+  "title": "South Korea's Education Minister Resigns Over Exam Cheating Scandal",
+  "summary": "South Korea's education minister has resigned after a cheating scandal shook one of the most important exams in the country. Education Minister Choi Kyo-jin said on Sunday that he took full responsibility for the confusion caused by last-minute measures to stop cheating with artificial intelligence during Thursday's annual college entrance exam, known as the Suneung. The exam can take up to nine hours, and it plays a huge role in the futures of millions of South Koreans. About 500,000 students took it this year.\n\nThe trouble began a week earlier, when the top scorer in the national tax accountancy exam admitted he had cheated. Han Won-seok, 34, said in a video message that he had used a tiny camera to photograph the test questions, sent them to an AI tool, and checked his answers on his smartphone. He had gotten just one out of 160 questions wrong.\n\nWith only days to go before the Suneung, officials rushed to introduce new checks for hidden devices. They sent emergency alerts to every mobile phone in the country. Three alerts went out between 8 a.m. and 3 p.m. on Thursday, making phones blare in unison, even on silent mode. It was the first time South Korea had used its national disaster alert system to catch exam cheaters. Students also had to cover the buttons on their shirts and jackets to block hidden cameras.\n\nThe measures left even honest test takers nervous. The education ministry said 111 candidates were found with unauthorized smart devices. President Lee Jae Myung, who has called for an overhaul of the exam system, accepted Choi's resignation. \"As the minister in charge, I believe I cannot escape criticism that we failed to prepare in advance,\" Choi was quoted as saying by South Korea's Yonhap news agency.",
+  "why_it_matters": "Exams decide futures for millions of students, so keeping them fair matters to everyone who takes one, and this story shows how new technology like AI can force old systems to change fast.",
+  "image_url": "/article_images/news-sc3500f556a01a2b3.webp",
+  "keywords": [
+    {
+      "term": "scandal",
+      "explanation": "A scandal is a shocking event that makes people lose trust in someone."
+    },
+    {
+      "term": "accountancy",
+      "explanation": "Accountancy is the work of keeping track of money and taxes for people or businesses."
+    },
+    {
+      "term": "unauthorized",
+      "explanation": "Unauthorized means not allowed or not approved."
+    },
+    {
+      "term": "overhaul",
+      "explanation": "An overhaul means changing a system in a big, complete way."
+    },
+    {
+      "term": "in unison",
+      "explanation": "In unison means all together at the same time."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Why did Education Minister Choi Kyo-jin resign?",
+      "options": [
+        "He lost an election",
+        "He was caught cheating on the Suneung himself",
+        "He took responsibility for the confusion caused by the last-minute anti-cheating measures",
+        "He refused to run the exam at all"
+      ],
+      "correct_answer": "He took responsibility for the confusion caused by the last-minute anti-cheating measures"
+    },
+    {
+      "question": "How long can the Suneung take?",
+      "options": [
+        "One hour",
+        "Three hours",
+        "Up to nine hours",
+        "Two days"
+      ],
+      "correct_answer": "Up to nine hours"
+    },
+    {
+      "question": "How did Han Won-seok cheat on the national tax accountancy exam?",
+      "options": [
+        "He copied from the student sitting next to him",
+        "He used a tiny camera, sent the questions to an AI tool, and checked his answers on his smartphone",
+        "He bribed the people marking the exam",
+        "He stole the answer sheet before the test"
+      ],
+      "correct_answer": "He used a tiny camera, sent the questions to an AI tool, and checked his answers on his smartphone"
+    },
+    {
+      "question": "How many candidates were found with unauthorized smart devices?",
+      "options": [
+        "500,000",
+        "160",
+        "111",
+        "11"
+      ],
+      "correct_answer": "111"
+    },
+    {
+      "question": "What did officials do to catch hidden devices during the Suneung?",
+      "options": [
+        "They turned off the internet across the whole country",
+        "They sent emergency alerts to every mobile phone in the country",
+        "They searched every student's home",
+        "They cancelled the exam"
+      ],
+      "correct_answer": "They sent emergency alerts to every mobile phone in the country"
+    },
+    {
+      "question": "Who accepted Choi's resignation?",
+      "options": [
+        "Han Won-seok",
+        "President Lee Jae Myung",
+        "Yonhap news agency",
+        "The education ministry"
+      ],
+      "correct_answer": "President Lee Jae Myung"
+    }
+  ],
+  "background_read": [
+    "The Suneung is South Korea's once-a-year college entrance exam, and a student's score can shape which university they attend and what jobs open up later.",
+    "Because so much rides on one long test day, the exam is taken very seriously, and cheating is treated as a major offense.",
+    "The trouble started when the top scorer in another national exam admitted using a tiny camera and an AI tool to cheat, which pushed officials to rush in new checks just days before the Suneung."
+  ],
+  "Article_Structure": [
+    "LEAD: Education Minister Choi Kyo-jin resigns after a cheating scandal shakes the Suneung",
+    "KEY EVENT: Last-minute anti-cheating measures cause confusion during the college entrance exam",
+    "  ├─ WHO: Choi Kyo-jin, Han Won-seok, and President Lee Jae Myung",
+    "  ├─ WHAT: Emergency phone alerts and checks for hidden devices",
+    "  └─ WHEN: The Suneung on Thursday; Choi resigns on Sunday",
+    "EVIDENCE: 111 candidates found with unauthorized smart devices; Han got just one of 160 questions wrong",
+    "OPEN QUESTION: Whether the exam system will be overhauled"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Choi Kyo-jin",
+      "description": "As the minister in charge, he said he could not escape criticism that the ministry failed to prepare in advance."
+    },
+    {
+      "perspective": "President Lee Jae Myung",
+      "description": "He has called for an overhaul of the exam system."
+    },
+    {
+      "perspective": "Honest test takers",
+      "description": "The measures left even honest test takers nervous."
+    }
+  ],
+  "mined_at": "2026-11-22T11:22:11+00:00",
+  "source_published_at": "Sun, 22 Nov 2026 09:20:45 GMT",
+  "source_name": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+  "category": "News",
+  "source_word_count": 456,
+  "detail_status": "full"
+}

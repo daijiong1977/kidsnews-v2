@@ -1,0 +1,125 @@
+{
+  "title": "FBI Investigating Apparent Hack of Key National Crime Database",
+  "summary": "The FBI is investigating an apparent hack of one of its most important databases, a person familiar with the matter said on Saturday. The database is called the National Crime Information Center, or NCIC. It is a giant computerized file that police officers across the country rely on every day. It holds records on fugitives, missing persons, criminal histories, stolen property, and more, and it is shared with local, state, and federal law enforcement agencies.\n\nThe FBI declined to comment on Saturday about the apparent hack, which was first reported by CNN and confirmed to The Associated Press by a person familiar with the matter. The person was not authorized to speak publicly, so they spoke on the condition of anonymity. The scope of the problem was not immediately clear. Investigators have not said what, if anything, was taken or changed.\n\nAsked about it on Saturday, President Donald Trump said in a Fox News interview, \"We just heard about it and I will say that it's not good.\" The news comes after a run of digital outages in government and private systems. Trump administration officials have said those outages were caused by routine efforts to upgrade computer systems and fix weak spots, rather than by a cyberattack. There was no immediate sign that the FBI incident was connected to those outages.\n\nThe FBI has been a frequent target for hackers before. In September, the bureau said it was investigating a hack of its job portal website after a hacking group known as ShinyHunters claimed it had obtained a large trove of data on bureau employees and applicants. In March, the FBI said it was investigating \"suspicious activities\" on an internal system holding sensitive information about surveillance operations and investigations.",
+  "why_it_matters": "Police officers rely on this database every day to find missing people and catch criminals, so a hack could put public safety and private information at risk.",
+  "image_url": "/article_images/news-s8b7788feea0b9377.webp",
+  "keywords": [
+    {
+      "term": "fugitives",
+      "explanation": "A fugitive is a person who is running away from the police."
+    },
+    {
+      "term": "anonymity",
+      "explanation": "Anonymity means keeping your name secret."
+    },
+    {
+      "term": "trove",
+      "explanation": "A trove is a large collection of valuable things."
+    },
+    {
+      "term": "surveillance",
+      "explanation": "Surveillance means watching people closely, often to gather information."
+    },
+    {
+      "term": "cyberattack",
+      "explanation": "A cyberattack is an attack on computers or computer systems by hackers."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What database was apparently hacked?",
+      "options": [
+        "The National Crime Information Center (NCIC)",
+        "The Federal Aviation Administration system",
+        "The FBI's job portal website",
+        "CNN's news database"
+      ],
+      "correct_answer": "The National Crime Information Center (NCIC)"
+    },
+    {
+      "question": "What does the NCIC hold records on?",
+      "options": [
+        "Fugitives, missing persons, criminal histories, and stolen property",
+        "Weather reports and flight schedules",
+        "School grades and test scores",
+        "Bank accounts and tax returns"
+      ],
+      "correct_answer": "Fugitives, missing persons, criminal histories, and stolen property"
+    },
+    {
+      "question": "Why did the person who confirmed the hack ask not to be named?",
+      "options": [
+        "They worked for CNN",
+        "They did not know anything about the hack",
+        "They were one of the hackers",
+        "They were not authorized to speak publicly"
+      ],
+      "correct_answer": "They were not authorized to speak publicly"
+    },
+    {
+      "question": "What did President Donald Trump say about the apparent hack?",
+      "options": [
+        "'We just heard about it and I will say that it's not good.'",
+        "'Nothing was taken or changed.'",
+        "'It was definitely a cyberattack.'",
+        "'The FBI should shut down the database.'"
+      ],
+      "correct_answer": "'We just heard about it and I will say that it's not good.'"
+    },
+    {
+      "question": "What have Trump administration officials said caused the recent digital outages?",
+      "options": [
+        "A coordinated cyberattack",
+        "Routine efforts to upgrade computer systems and fix weak spots",
+        "The FBI hack",
+        "A power failure"
+      ],
+      "correct_answer": "Routine efforts to upgrade computer systems and fix weak spots"
+    },
+    {
+      "question": "What happened in September?",
+      "options": [
+        "A new national crime database was launched",
+        "The FBI investigated a hack of its job portal website after ShinyHunters claimed to have obtained data on employees and applicants",
+        "The FBI arrested the group ShinyHunters",
+        "The NCIC was shut down"
+      ],
+      "correct_answer": "The FBI investigated a hack of its job portal website after ShinyHunters claimed to have obtained data on employees and applicants"
+    }
+  ],
+  "background_read": [
+    "The National Crime Information Center, or NCIC, is a giant shared database that police officers across the country check every day for records on fugitives, missing persons, criminal histories, and stolen property.",
+    "It is run by the FBI and shared with local, state, and federal law enforcement agencies, so a hack could put sensitive police information at risk.",
+    "The FBI has been a frequent target for hackers, with earlier incidents hitting its job portal website and an internal system holding sensitive information."
+  ],
+  "Article_Structure": [
+    "LEAD: The FBI is investigating an apparent hack of the NCIC, a key national crime database",
+    "KEY EVENT: The apparent hack is reported and confirmed, but its scope is not yet clear",
+    "  ├─ WHO: The FBI, President Donald Trump, and a person familiar with the matter",
+    "  ├─ WHAT: An apparent hack of the National Crime Information Center",
+    "  └─ WHEN: Reported on Saturday",
+    "EVIDENCE: The FBI declined to comment; investigators have not said what, if anything, was taken or changed",
+    "OPEN QUESTION: Whether anything was taken or changed, and whether the incident is connected to recent outages"
+  ],
+  "perspectives": [
+    {
+      "perspective": "President Donald Trump",
+      "description": "He said the news was 'not good.'"
+    },
+    {
+      "perspective": "Trump administration officials",
+      "description": "They said the recent outages were caused by routine work to upgrade computer systems and fix weak spots, rather than by a cyberattack."
+    },
+    {
+      "perspective": "A person familiar with the matter",
+      "description": "They confirmed the apparent hack to The Associated Press."
+    }
+  ],
+  "mined_at": "2026-11-22T11:22:11+00:00",
+  "source_published_at": "Sat, 21 Nov 2026 15:55:22 -0500",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/politics/ap-source-fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database",
+  "category": "News",
+  "source_word_count": 357,
+  "detail_status": "full"
+}

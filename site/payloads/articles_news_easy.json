@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-21-news-1",
-      "source": "NPR World",
-      "time_ago": "Fri, 20 Nov 2026 16:38:05 -0500",
-      "mined_at": "2026-11-21T11:19:13+00:00",
-      "source_published_at": "Fri, 20 Nov 2026 16:38:05 -0500",
-      "image_url": "/article_images/news-s220f822bcaf697f8.webp",
+      "id": "2026-11-22-news-1",
+      "source": "BBC News",
+      "time_ago": "Sun, 22 Nov 2026 09:20:45 GMT",
+      "mined_at": "2026-11-22T11:22:11+00:00",
+      "source_published_at": "Sun, 22 Nov 2026 09:20:45 GMT",
+      "image_url": "/article_images/news-sc3500f556a01a2b3.webp",
       "category": "News",
-      "title": "King's Handwritten Speech Draft Goes on Show for the First Time",
-      "summary": "The only known draft of Martin Luther King Jr.'s famous 1963 speech is on display in Atlanta through Sunday. The draft does not include the words \"I Have a Dream\" — King made them up on the spot."
+      "title": "South Korea's Education Minister Quits After Exam Cheating Scandal",
+      "summary": "Education Minister Choi Kyo-jin quit after last-minute anti-cheating steps disrupted South Korea's huge college entrance exam."
     },
     {
-      "id": "2026-11-21-news-2",
-      "source": "NPR World",
-      "time_ago": "Sat, 21 Nov 2026 05:00:00 -0500",
-      "mined_at": "2026-11-21T11:19:13+00:00",
-      "source_published_at": "Sat, 21 Nov 2026 05:00:00 -0500",
-      "image_url": "/article_images/news-sa3c80c20c1eb0fb0.webp",
+      "id": "2026-11-22-news-2",
+      "source": "PBS NewsHour",
+      "time_ago": "Sat, 21 Nov 2026 15:55:22 -0500",
+      "mined_at": "2026-11-22T11:22:11+00:00",
+      "source_published_at": "Sat, 21 Nov 2026 15:55:22 -0500",
+      "image_url": "/article_images/news-s8b7788feea0b9377.webp",
       "category": "News",
-      "title": "Plan to Pick Presidents by Popular Vote Nears a Big Step",
-      "summary": "A plan to give electoral votes to the nationwide popular-vote winner now has 222 electoral votes behind it. Five more states could push it past 270, but legal hurdles remain."
+      "title": "FBI Looks Into Possible Hack of Big Police Database",
+      "summary": "The FBI is looking into a possible hack of the National Crime Information Center, a database that police officers across the country use every day."
     },
     {
-      "id": "2026-11-21-news-3",
-      "source": "NPR World",
-      "time_ago": "Fri, 20 Nov 2026 16:30:58 -0500",
-      "mined_at": "2026-11-21T11:19:13+00:00",
-      "source_published_at": "Fri, 20 Nov 2026 16:30:58 -0500",
-      "image_url": "/article_images/news-sd78738098d4f14b3.webp",
+      "id": "2026-11-22-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Sat, 21 Nov 2026 18:14:57 -0500",
+      "mined_at": "2026-11-22T11:22:11+00:00",
+      "source_published_at": "Sat, 21 Nov 2026 18:14:57 -0500",
+      "image_url": "/article_images/news-s48ea5d8e2f9fbeba.webp",
       "category": "News",
-      "title": "After a Week of Outages, More Americans Are Stocking Up — Just in Case",
-      "summary": "Recent tech outages have more people learning from \"preppers.\" Experts say the smart move is to prepare for the risks where you live, not panic-buy."
+      "title": "Why a Week of Tech Failures Felt Like One Big Attack",
+      "summary": "A pileup of outages made many people suspect a coordinated attack, but experts say our pattern-seeking brains may be partly to blame."
     }
   ]
 }

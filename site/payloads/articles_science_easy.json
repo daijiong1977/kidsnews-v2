@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-21-science-1",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Fri, 20 Nov 2026 21:11:14 EST",
-      "mined_at": "2026-11-21T11:19:13+00:00",
-      "source_published_at": "Fri, 20 Nov 2026 21:11:14 EST",
-      "image_url": "/article_images/science-s7a2c4ea3305f4cf9.webp",
+      "id": "2026-11-22-science-1",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Wed, 18 Nov 2026 06:55:21 EST",
+      "mined_at": "2026-11-22T11:22:11+00:00",
+      "source_published_at": "Wed, 18 Nov 2026 06:55:21 EST",
+      "image_url": "/article_images/science-s4a04ec0f19bd57ab.webp",
       "category": "Science",
-      "title": "A Space Telescope Opens Its Eyes After Eight Years",
-      "summary": "After eight years in space, the MIXS telescope on BepiColombo passed its first test by spotting the Crab Nebula more sharply than in lab tests, just before the mission enters orbit around Mercury."
+      "title": "Why Do Farts Smell So Bad?",
+      "summary": "Tiny gut microbes make mostly odorless gas -- but sulfur from your food delivers the stink."
     },
     {
-      "id": "2026-11-21-science-2",
-      "source": "ScienceDaily Top Technology",
-      "time_ago": "Fri, 20 Nov 2026 07:23:23 EST",
-      "mined_at": "2026-11-21T11:19:13+00:00",
-      "source_published_at": "Fri, 20 Nov 2026 07:23:23 EST",
-      "image_url": "/article_images/science-sb12ec3fa80c29459.webp",
+      "id": "2026-11-22-science-2",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Thu, 19 Nov 2026 22:17:52 EST",
+      "mined_at": "2026-11-22T11:22:11+00:00",
+      "source_published_at": "Thu, 19 Nov 2026 22:17:52 EST",
+      "image_url": "/article_images/science-sa5adff7deecf2dfe.webp",
       "category": "Science",
-      "title": "Physicists Spot a Super-Rare Particle Change",
-      "summary": "After more than 40 years of searching, CERN's upgraded LHCb experiment has found evidence of a particle decay that happens only once in every 10 billion tries."
+      "title": "A 3-Million-Year-Old Child Shakes Up the Human Family Tree",
+      "summary": "A new study dates the Taung Child to about 3 million years ago and suggests early human relatives were far more diverse than scientists thought."
     },
     {
-      "id": "2026-11-21-science-3",
-      "source": "Popular Science",
-      "time_ago": "Fri, 20 Nov 2026 15:06:00 -0500",
-      "mined_at": "2026-11-21T11:19:13+00:00",
-      "source_published_at": "Fri, 20 Nov 2026 15:06:00 -0500",
-      "image_url": "/article_images/science-sdb9013ef5d373145.webp",
+      "id": "2026-11-22-science-3",
+      "source": "Science News Explores",
+      "time_ago": "Wed, 18 Nov 2026 11:30:00 +0000",
+      "mined_at": "2026-11-22T11:22:11+00:00",
+      "source_published_at": "Wed, 18 Nov 2026 11:30:00 +0000",
+      "image_url": "/article_images/science-sb6ee6d0b694e885b.webp",
       "category": "Science",
-      "title": "Yosemite Asks Visitors to Help Track River Otters",
-      "summary": "River otters have been spotted in Yosemite National Park, and rangers are asking visitors to report sightings to help track them across the park's 1,700 miles of streams."
+      "title": "A New Flying Drone Uses Touch to Perch Like a Bird",
+      "summary": "With three finger-like grippers and touch sensors, this drone can grab a branch and hang there without using extra energy."
     }
   ]
 }

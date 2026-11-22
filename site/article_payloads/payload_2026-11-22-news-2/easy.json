@@ -1,0 +1,118 @@
+{
+  "title": "FBI Looks Into Possible Hack of Big Police Database",
+  "summary": "The FBI is looking into a possible hack of one of its most important databases. The database is called the National Crime Information Center, or NCIC. Police officers all over the country use it every day. It holds records on people wanted by the police, missing people, criminal histories, and stolen property.\n\nThe FBI would not comment on Saturday. The news was first reported by CNN. A person who knows about the case confirmed it to The Associated Press, but asked not to be named. It is not yet clear how big the problem is, and investigators have not said whether anything was taken or changed.\n\nPresident Donald Trump said in a Fox News interview, 'We just heard about it and I will say that it's not good.' The news came after a run of computer outages. Officials said those outages came from routine work to upgrade computers and fix weak spots, not from a cyberattack. There was no immediate sign that the FBI case was connected to those outages.",
+  "why_it_matters": "It matters because police use this database to help find missing people and catch criminals, so keeping it safe helps keep everyone safer.",
+  "image_url": "/article_images/news-s8b7788feea0b9377.webp",
+  "keywords": [
+    {
+      "term": "National Crime Information Center",
+      "explanation": "The National Crime Information Center is a big police database that holds important records."
+    },
+    {
+      "term": "criminal histories",
+      "explanation": "Criminal histories are records of crimes a person has been found to have done before."
+    },
+    {
+      "term": "cyberattack",
+      "explanation": "A cyberattack is when someone breaks into computer systems to steal or damage things."
+    },
+    {
+      "term": "investigators",
+      "explanation": "Investigators are people whose job is to look closely at what happened and find the truth."
+    },
+    {
+      "term": "outages",
+      "explanation": "Outages are times when computers or power stop working for a while."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is the NCIC?",
+      "options": [
+        "A new kind of police car",
+        "A phone app for reporting crimes",
+        "A TV news channel",
+        "A database police use to check records on wanted and missing people"
+      ],
+      "correct_answer": "A database police use to check records on wanted and missing people"
+    },
+    {
+      "question": "What kinds of records does the NCIC hold?",
+      "options": [
+        "Only weather reports",
+        "Records on wanted people, missing people, criminal histories, and stolen property",
+        "Only traffic tickets from one town",
+        "Only school test scores"
+      ],
+      "correct_answer": "Records on wanted people, missing people, criminal histories, and stolen property"
+    },
+    {
+      "question": "Who first reported the possible hack?",
+      "options": [
+        "Fox News",
+        "CNN",
+        "President Donald Trump",
+        "The FBI"
+      ],
+      "correct_answer": "CNN"
+    },
+    {
+      "question": "What did President Donald Trump say about the news?",
+      "options": [
+        "He said nothing had happened",
+        "He said it was a routine upgrade",
+        "He said it was not good",
+        "He said the case was closed"
+      ],
+      "correct_answer": "He said it was not good"
+    },
+    {
+      "question": "What did officials say caused the recent computer outages?",
+      "options": [
+        "A broken phone network",
+        "Routine work to upgrade computers and fix weak spots",
+        "A power cut in one city",
+        "A cyberattack on the FBI"
+      ],
+      "correct_answer": "Routine work to upgrade computers and fix weak spots"
+    },
+    {
+      "question": "Have investigators said whether anything was taken or changed?",
+      "options": [
+        "Yes, they said nothing was taken",
+        "Yes, they said everything was changed",
+        "No, they have not said that yet",
+        "Yes, they said the database was deleted"
+      ],
+      "correct_answer": "No, they have not said that yet"
+    }
+  ],
+  "background_read": [
+    "The FBI is the national police force that helps solve big crimes across the country.",
+    "The National Crime Information Center is its large database, and police officers all over the country use it every day to check records on wanted people, missing people, and stolen property.",
+    "The FBI is now looking into whether someone hacked into this important database, and it is not yet clear whether anything was taken or changed."
+  ],
+  "Article_Structure": [
+    "WHO: The FBI and police officers all over the country",
+    "WHAT: The FBI is looking into a possible hack of its big police database",
+    "WHERE: The United States, in the National Crime Information Center database",
+    "WHY: It is not clear yet how big the problem is, and no one knows whether anything was taken or changed"
+  ],
+  "perspectives": [
+    {
+      "perspective": "President Donald Trump",
+      "description": "He said the news was not good."
+    },
+    {
+      "perspective": "Officials",
+      "description": "They said the recent computer outages came from routine work to upgrade computers and fix weak spots, not from a cyberattack."
+    }
+  ],
+  "mined_at": "2026-11-22T11:22:11+00:00",
+  "source_published_at": "Sat, 21 Nov 2026 15:55:22 -0500",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/politics/ap-source-fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database",
+  "category": "News",
+  "source_word_count": 357,
+  "detail_status": "full"
+}

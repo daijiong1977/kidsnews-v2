@@ -1,0 +1,122 @@
+{
+  "title": "A New Flying Drone Uses Touch to Perch Like a Bird",
+  "summary": "A new flying robot can feel its way onto a branch and hang there, just like a bird settling in for a rest. Its three human-inspired fingers grasp many shapes, letting the robot \"hang out\" in one spot.\n\nPerching could let drones stay in one place for long periods, monitoring factories and power lines -- or exploring remote places. But roboticists have found it hard to help drones get a grip.\n\nMany drones rely on vision to perch, but in crowded spaces vision can be blocked and the robot may fail to attach. Sometimes even its own grippers block its view. The new design relies on touch sensors instead. Once attached, its three fingers hold on with no extra energy. Researchers described the design August 22 in npj Robotics.\n\nAnton Bredenbeck, a roboticist at Delft University of Technology, wanted a robot to study vulnerable ecosystems -- but it would need to stay put. \"The problem,\" Bredenbeck says, \"is that drones are really, really inefficient flyers.\" A drone could not fly nonstop for a month, so his team decided to attach their flyers to the environment instead.\n\nBirds inspired the approach: they use vision to spot a perch from a distance, but touch guides the final moments of landing. The drone grasps things and hangs below, using three fingers positioned like a thumb, pointer finger, and middle finger. Each has three segments of different lengths, known as phalanges, so the grasp adapts to different shapes.\n\nTouch sensors surround silicone pads inside each finger. When they touch something, the drone knows whether to close its fingers. Bendable joints with springs keep the fingers closed, like a clothespin's springs. A motor opens them by pulling metal cords that act like tendons in human fingers. \"I was really surprised how well that worked,\" Bredenbeck says.",
+  "why_it_matters": "If drones can perch and rest, they could watch over forests, farms, and power lines for weeks without landing to recharge, opening new ways to study nature and keep people safe.",
+  "image_url": "/article_images/science-sb6ee6d0b694e885b.webp",
+  "keywords": [
+    {
+      "term": "roboticists",
+      "explanation": "Scientists and engineers who design and build robots."
+    },
+    {
+      "term": "phalanges",
+      "explanation": "The separate bone-like segments that make up a finger."
+    },
+    {
+      "term": "tendons",
+      "explanation": "Strong cords in the body that connect muscles to bones and move fingers."
+    },
+    {
+      "term": "silicone",
+      "explanation": "A soft, rubbery material used to make the pads inside the drone's fingers."
+    },
+    {
+      "term": "grippers",
+      "explanation": "Parts of a robot that grab and hold onto things."
+    },
+    {
+      "term": "vulnerable",
+      "explanation": "Easily harmed or hurt."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How does the new drone perch?",
+      "options": [
+        "With a rope it throws over a branch",
+        "With sticky glue on its feet",
+        "With magnets under its wings",
+        "With three finger-like grippers and touch sensors"
+      ],
+      "correct_answer": "With three finger-like grippers and touch sensors"
+    },
+    {
+      "question": "Why is perching useful for drones?",
+      "options": [
+        "It lets them carry heavy loads",
+        "It lets them stay in one place for long periods",
+        "It keeps them warm in cold air",
+        "It makes them fly faster"
+      ],
+      "correct_answer": "It lets them stay in one place for long periods"
+    },
+    {
+      "question": "Why do many drones fail to perch using vision?",
+      "options": [
+        "Their cameras are too heavy",
+        "Their view can be blocked in crowded spaces",
+        "They fly too high to see",
+        "They cannot see in daylight"
+      ],
+      "correct_answer": "Their view can be blocked in crowded spaces"
+    },
+    {
+      "question": "Who led the team that built the drone?",
+      "options": [
+        "Anton Bredenbeck",
+        "Gabriele Macho",
+        "A team at NASA",
+        "A team at a toy company"
+      ],
+      "correct_answer": "Anton Bredenbeck"
+    },
+    {
+      "question": "What keeps the drone's fingers closed once it grabs on?",
+      "options": [
+        "A motor running nonstop",
+        "Bendable joints with springs",
+        "Sticky silicone glue",
+        "Magnets in the fingertips"
+      ],
+      "correct_answer": "Bendable joints with springs"
+    },
+    {
+      "question": "What did Bredenbeck say about drones?",
+      "options": [
+        "They can fly for a month nonstop",
+        "They are the fastest machines ever built",
+        "They never need to land",
+        "They are really, really inefficient flyers"
+      ],
+      "correct_answer": "They are really, really inefficient flyers"
+    }
+  ],
+  "background_read": [
+    "Drones are flying robots, but they use up energy fast, so they cannot stay in the air for very long.",
+    "Perching means landing on something, like a branch, and staying there, which would let a drone rest in one place while it watches an area or explores a remote place.",
+    "Birds perch by using sight to find a spot from far away and touch to guide the last moments of landing, and this new drone copies that trick with finger-like grippers and touch sensors.",
+    "The drone was built to help study fragile ecosystems, places in nature that are easily harmed and hard for people to reach."
+  ],
+  "Article_Structure": [
+    "LEAD: A new flying robot can feel its way onto a branch and hang there like a bird.",
+    "KEY EVENT: With three finger-like grippers and touch sensors, the drone perches without using extra energy.",
+    "  ├─ WHO: Anton Bredenbeck, a roboticist at Delft University of Technology, and his team",
+    "  ├─ WHEN: Researchers described the design August 22 in npj Robotics",
+    "  └─ WHY: Drones are inefficient flyers, so perching lets them stay put to study vulnerable ecosystems",
+    "EVIDENCE: Touch sensors around silicone pads tell the drone when to close its fingers, and springs keep them shut like a clothespin",
+    "TAKEAWAY: Birds use sight from far away and touch for the final landing, and the drone copies that trick."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Anton Bredenbeck",
+      "description": "Drones are really inefficient flyers, so attaching them to the environment is a better way to keep them in one place than flying nonstop."
+    }
+  ],
+  "mined_at": "2026-11-22T11:22:11+00:00",
+  "source_published_at": "Wed, 18 Nov 2026 11:30:00 +0000",
+  "source_name": "Science News Explores",
+  "source_url": "https://www.snexplores.org/article/flying-drone-perch-like-bird",
+  "category": "Science",
+  "source_word_count": 617,
+  "detail_status": "full"
+}

@@ -1,0 +1,114 @@
+{
+  "title": "South Korea's Education Minister Quits After Exam Cheating Scandal",
+  "summary": "South Korea's education minister has quit after a cheating scandal shook one of the country's most important exams. Choi Kyo-jin said on Sunday that he took full responsibility for the confusion caused by steps to stop cheating with artificial intelligence during Thursday's entrance exam, known as the Suneung. About 500,000 students took the exam this year, and it can take up to nine hours.\n\nThe trouble began earlier, when the top scorer in the national tax accountancy exam admitted he had cheated. Han Won-seok, 34, said he had used a tiny camera to photograph the questions and send them to an AI tool, then checked his answers on his smartphone. He had gotten just one out of 160 questions wrong.\n\nWith only days to go, officials rushed to add checks for hidden devices. They sent three emergency alerts to every mobile phone between 8 a.m. and 3 p.m. on Thursday, making phones blare even on silent mode.\n\nThe measures left honest test takers nervous, and 111 candidates were found with unauthorized smart devices. President Lee Jae Myung accepted Choi's resignation.",
+  "why_it_matters": "It matters because fair tests matter to you too, since cheating and confusing rules can hurt honest students who worked hard.",
+  "image_url": "/article_images/news-sc3500f556a01a2b3.webp",
+  "keywords": [
+    {
+      "term": "scandal",
+      "explanation": "A scandal is a big public shock when someone does something wrong."
+    },
+    {
+      "term": "artificial intelligence",
+      "explanation": "Artificial intelligence is a computer system that can learn and answer questions like a person."
+    },
+    {
+      "term": "accountancy",
+      "explanation": "Accountancy is the job of keeping track of money and taxes for people and businesses."
+    },
+    {
+      "term": "unauthorized",
+      "explanation": "Unauthorized means not allowed by the rules."
+    },
+    {
+      "term": "resignation",
+      "explanation": "A resignation is when someone chooses to leave their job."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is the Suneung?",
+      "options": [
+        "A job interview",
+        "A tax test for accountants",
+        "A phone alert system",
+        "An entrance exam in South Korea"
+      ],
+      "correct_answer": "An entrance exam in South Korea"
+    },
+    {
+      "question": "About how many students took the exam this year?",
+      "options": [
+        "About 500,000",
+        "About 160",
+        "About 34",
+        "About 111"
+      ],
+      "correct_answer": "About 500,000"
+    },
+    {
+      "question": "How did Han Won-seok cheat on the tax accountancy exam?",
+      "options": [
+        "He used a tiny camera and an AI tool",
+        "He stole the answer book",
+        "He copied from the student next to him",
+        "He paid someone to take the test"
+      ],
+      "correct_answer": "He used a tiny camera and an AI tool"
+    },
+    {
+      "question": "How many questions did Han get wrong out of 160?",
+      "options": [
+        "Thirty-four",
+        "One hundred eleven",
+        "Eleven",
+        "One"
+      ],
+      "correct_answer": "One"
+    },
+    {
+      "question": "What did officials do just before the Suneung?",
+      "options": [
+        "They gave every student a new phone",
+        "They sent three emergency alerts to every mobile phone",
+        "They closed all the schools",
+        "They cancelled the exam"
+      ],
+      "correct_answer": "They sent three emergency alerts to every mobile phone"
+    },
+    {
+      "question": "How many candidates were found with unauthorized smart devices?",
+      "options": [
+        "111",
+        "Three",
+        "500,000",
+        "160"
+      ],
+      "correct_answer": "111"
+    }
+  ],
+  "background_read": [
+    "The Suneung is South Korea's very important entrance exam, and about 500,000 students take it each year.",
+    "A good score can shape a student's future, so the exam is taken very seriously and cheating is a big problem.",
+    "The trouble started when the top scorer in a tax exam admitted he had cheated with a tiny camera and an AI tool, which led officials to rush in extra checks for hidden devices."
+  ],
+  "Article_Structure": [
+    "WHO: Choi Kyo-jin, South Korea's education minister, and President Lee Jae Myung",
+    "WHAT: The education minister quit after a cheating scandal and rushed anti-cheating checks upset honest test takers",
+    "WHERE: South Korea, during the Suneung entrance exam",
+    "WHY: A top scorer in another exam had cheated with a tiny camera and AI, so officials added last-minute checks that caused confusion"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Choi Kyo-jin",
+      "description": "He said he took full responsibility for the confusion caused by the steps to stop cheating."
+    }
+  ],
+  "mined_at": "2026-11-22T11:22:11+00:00",
+  "source_published_at": "Sun, 22 Nov 2026 09:20:45 GMT",
+  "source_name": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+  "category": "News",
+  "source_word_count": 456,
+  "detail_status": "full"
+}
