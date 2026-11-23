@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-22-news-1",
-      "source": "BBC News",
-      "time_ago": "Sun, 22 Nov 2026 09:20:45 GMT",
-      "mined_at": "2026-11-22T11:22:11+00:00",
-      "source_published_at": "Sun, 22 Nov 2026 09:20:45 GMT",
-      "image_url": "/article_images/news-sc3500f556a01a2b3.webp",
+      "id": "2026-11-23-news-1",
+      "source": "CBC World",
+      "time_ago": "Sun, 22 Nov 2026 12:11:00 EST",
+      "mined_at": "2026-11-23T11:21:59+00:00",
+      "source_published_at": "Sun, 22 Nov 2026 12:11:00 EST",
+      "image_url": "/article_images/news-sb0fc328b5c62449b.webp",
       "category": "News",
-      "title": "South Korea's Education Minister Resigns Over Exam Cheating Scandal",
-      "summary": "Education Minister Choi Kyo-jin resigned after last-minute anti-cheating measures disrupted South Korea's huge college entrance exam."
+      "title": "Climate Talks End With No Deal After Two Long Weeks",
+      "summary": "COP31 in Turkey ended with no agreement after countries rejected a draft that left out fossil fuels, the first failed UN climate talks since 2009."
     },
     {
-      "id": "2026-11-22-news-2",
+      "id": "2026-11-23-news-2",
       "source": "PBS NewsHour",
-      "time_ago": "Sat, 21 Nov 2026 15:55:22 -0500",
-      "mined_at": "2026-11-22T11:22:11+00:00",
-      "source_published_at": "Sat, 21 Nov 2026 15:55:22 -0500",
-      "image_url": "/article_images/news-s8b7788feea0b9377.webp",
+      "time_ago": "Sun, 22 Nov 2026 17:40:06 -0500",
+      "mined_at": "2026-11-23T11:21:59+00:00",
+      "source_published_at": "Sun, 22 Nov 2026 17:40:06 -0500",
+      "image_url": "/article_images/news-s1b044ab34ee16a20.webp",
       "category": "News",
-      "title": "FBI Investigating Apparent Hack of Key National Crime Database",
-      "summary": "The FBI is investigating an apparent hack of the National Crime Information Center, a database used by police officers across the country."
+      "title": "Delta Delays Pile Up After a Computer Glitch on a Busy Travel Day",
+      "summary": "A problem with a system that calculates plane weight delayed about 1,000 Delta flights on Sunday, days before Thanksgiving."
     },
     {
-      "id": "2026-11-22-news-3",
-      "source": "PBS NewsHour",
-      "time_ago": "Sat, 21 Nov 2026 18:14:57 -0500",
-      "mined_at": "2026-11-22T11:22:11+00:00",
-      "source_published_at": "Sat, 21 Nov 2026 18:14:57 -0500",
-      "image_url": "/article_images/news-s48ea5d8e2f9fbeba.webp",
+      "id": "2026-11-23-news-3",
+      "source": "NPR World",
+      "time_ago": "Mon, 23 Nov 2026 05:00:00 -0500",
+      "mined_at": "2026-11-23T11:21:59+00:00",
+      "source_published_at": "Mon, 23 Nov 2026 05:00:00 -0500",
+      "image_url": "/article_images/news-s22911f576d414043.webp",
       "category": "News",
-      "title": "Why a Week of Tech Failures Felt Like One Big Attack",
-      "summary": "A pileup of outages made many people suspect a coordinated attack, but experts say our pattern-seeking brains may be partly to blame."
+      "title": "Thanksgiving Dinner: Will It Cost More This Year? It Depends Who You Ask",
+      "summary": "Grocery prices are up nearly 22 percent over five years, but two estimates disagree on whether this year's Thanksgiving meal will cost more than last year's."
     }
   ]
 }

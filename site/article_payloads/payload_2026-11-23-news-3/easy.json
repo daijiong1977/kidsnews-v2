@@ -1,0 +1,122 @@
+{
+  "title": "Will Thanksgiving Dinner Cost More This Year?",
+  "summary": "If your family is cooking Thanksgiving dinner this year, the grocery bill might be a surprise. Grocery costs have risen nearly 22 percent over the past five years, pushed up by wars, tariffs, and severe weather. Still, experts say it is not clear whether your Thanksgiving meal will cost more than last year's. Two groups came to different answers. The American Farm Bureau Federation says the cost will be up more than 6 percent compared with last year, led by cranberries and dinner rolls. The Wells Fargo Agri-Food Institute found something different: drinks cost more now, but the average food bill will be a little cheaper than last year, thanks in part to sales. Wells Fargo economist Michael Swanson warned that a cheap turkey is not the whole story — shoppers can still spend too much on the rest of the food. A LendingTree survey found that 53 percent of people said inflation was changing their holiday plans or spending. Andre Andrews said prices are 'too high,' but he still plans to smoke a turkey and a roast.",
+  "why_it_matters": "If food costs more, your family may have to change what it buys or cooks for the holidays.",
+  "image_url": "/article_images/news-s22911f576d414043.webp",
+  "keywords": [
+    {
+      "term": "tariffs",
+      "explanation": "Extra taxes a country adds to goods brought in from other countries, which can make them cost more."
+    },
+    {
+      "term": "inflation",
+      "explanation": "When prices keep rising over time, so the same money buys less."
+    },
+    {
+      "term": "cranberries",
+      "explanation": "Small red berries often served as a sauce with Thanksgiving dinner."
+    },
+    {
+      "term": "survey",
+      "explanation": "A set of questions asked to many people to find out what they think."
+    },
+    {
+      "term": "economist",
+      "explanation": "A person who studies how money, prices, and buying and selling work."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How much have grocery costs risen over the past five years?",
+      "options": [
+        "53 percent",
+        "Nearly 22 percent",
+        "About 6 percent",
+        "About 2 percent"
+      ],
+      "correct_answer": "Nearly 22 percent"
+    },
+    {
+      "question": "What did the American Farm Bureau Federation say about this year's Thanksgiving meal?",
+      "options": [
+        "It will be free this year",
+        "It will be up more than 6 percent compared with last year",
+        "It will cost a little less than last year",
+        "It will cost the same as last year"
+      ],
+      "correct_answer": "It will be up more than 6 percent compared with last year"
+    },
+    {
+      "question": "What did the Wells Fargo Agri-Food Institute find?",
+      "options": [
+        "Sales have made all food cheaper",
+        "Everything costs much more than last year",
+        "Turkeys are the most expensive item",
+        "Drinks cost more now, but the average food bill will be a little cheaper than last year"
+      ],
+      "correct_answer": "Drinks cost more now, but the average food bill will be a little cheaper than last year"
+    },
+    {
+      "question": "What did Michael Swanson warn about a cheap turkey?",
+      "options": [
+        "It means stores will run out of turkeys",
+        "It means the whole meal will be cheap",
+        "It means cranberries will cost less",
+        "It is not the whole story, because shoppers can still spend too much on the rest of the food"
+      ],
+      "correct_answer": "It is not the whole story, because shoppers can still spend too much on the rest of the food"
+    },
+    {
+      "question": "What did the LendingTree survey find?",
+      "options": [
+        "Everyone is buying a bigger turkey",
+        "Most people are skipping Thanksgiving",
+        "Nobody is worried about prices",
+        "53 percent of people said inflation was changing their holiday plans or spending"
+      ],
+      "correct_answer": "53 percent of people said inflation was changing their holiday plans or spending"
+    },
+    {
+      "question": "What does Andre Andrews still plan to do?",
+      "options": [
+        "Grow his own cranberries",
+        "Smoke a turkey and a roast",
+        "Skip Thanksgiving dinner",
+        "Buy dinner at a restaurant"
+      ],
+      "correct_answer": "Smoke a turkey and a roast"
+    }
+  ],
+  "background_read": [
+    "Thanksgiving dinner is a big family meal, and families buy a lot of food for it.",
+    "Food prices have been going up for years, pushed higher by wars, tariffs, and severe weather.",
+    "That is why people are checking whether this year's meal will cost more than last year's, and two groups studying the prices came to different answers."
+  ],
+  "Article_Structure": [
+    "WHO: The American Farm Bureau Federation, the Wells Fargo Agri-Food Institute, and shoppers like Andre Andrews.",
+    "WHAT: Experts are unsure whether Thanksgiving dinner will cost more than last year, and two groups gave different answers.",
+    "WHERE: In grocery stores, where families buy food for Thanksgiving dinner.",
+    "WHY: Grocery costs have risen nearly 22 percent over five years, pushed up by wars, tariffs, and severe weather."
+  ],
+  "perspectives": [
+    {
+      "perspective": "The American Farm Bureau Federation",
+      "description": "Says the cost will be up more than 6 percent compared with last year, led by cranberries and dinner rolls."
+    },
+    {
+      "perspective": "The Wells Fargo Agri-Food Institute",
+      "description": "Found drinks cost more now, but the average food bill will be a little cheaper than last year, thanks in part to sales."
+    },
+    {
+      "perspective": "Andre Andrews",
+      "description": "Says prices are too high, but still plans to smoke a turkey and a roast."
+    }
+  ],
+  "mined_at": "2026-11-23T11:21:59+00:00",
+  "source_published_at": "Mon, 23 Nov 2026 05:00:00 -0500",
+  "source_name": "NPR World",
+  "source_url": "https://www.npr.org/2026/11/23/nx-s1-6044207/thanksgiving-meal-costs",
+  "category": "News",
+  "source_word_count": 454,
+  "detail_status": "full"
+}

@@ -1,0 +1,114 @@
+{
+  "title": "Computer Problem Delays About 1,000 Delta Flights",
+  "summary": "Sunday was a hard travel day for Delta passengers. A problem with a computer system delayed well over half of Delta's flights on Sunday afternoon, ahead of the Thanksgiving holiday. The broken system works out how heavy a plane is. That number matters: a plane must not be too heavy to fly, and crews use the weight to keep the flight safe. While the system was down, Delta's teams did the work by hand to get planes off the ground. Hours later, Delta said the system was working again, but flights were still not back to normal. By Sunday afternoon, about 1,000 Delta flights were delayed. The flight-tracking website FlightAware said that was 67 percent of the airline's flights. Earlier on Sunday, the Federal Aviation Administration stopped some flights heading into Atlanta's airport for an hour. Atlanta is Delta's home base and one of the busiest airports in the world. Delta said sorry and promised new flights for customers, plus meals and hotel rooms where needed, and refunds if a flight was canceled. About 2 percent of flights were canceled.",
+  "why_it_matters": "If you fly to visit family for Thanksgiving, a computer problem like this can mean long waits at the airport or a changed flight.",
+  "image_url": "/article_images/news-s1b044ab34ee16a20.webp",
+  "keywords": [
+    {
+      "term": "Federal Aviation Administration",
+      "explanation": "The part of the United States government that makes rules to keep flying safe."
+    },
+    {
+      "term": "FlightAware",
+      "explanation": "A website that tracks flights and tells people if they are on time or late."
+    },
+    {
+      "term": "refunds",
+      "explanation": "Money given back to you when something you paid for does not happen."
+    },
+    {
+      "term": "home base",
+      "explanation": "The main airport where an airline keeps most of its planes and workers."
+    },
+    {
+      "term": "crews",
+      "explanation": "The people who work together on a plane."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What did the broken computer system do?",
+      "options": [
+        "It worked out how heavy a plane is",
+        "It sold plane tickets",
+        "It served meals on planes",
+        "It tracked the weather"
+      ],
+      "correct_answer": "It worked out how heavy a plane is"
+    },
+    {
+      "question": "About how many Delta flights were delayed by Sunday afternoon?",
+      "options": [
+        "About 1,000",
+        "About 50",
+        "About 100",
+        "About 10,000"
+      ],
+      "correct_answer": "About 1,000"
+    },
+    {
+      "question": "What share of Delta's flights was delayed, according to FlightAware?",
+      "options": [
+        "90 percent",
+        "25 percent",
+        "67 percent",
+        "2 percent"
+      ],
+      "correct_answer": "67 percent"
+    },
+    {
+      "question": "What did the Federal Aviation Administration do earlier on Sunday?",
+      "options": [
+        "It gave Delta a fine",
+        "It stopped some flights heading into Atlanta's airport for an hour",
+        "It grounded all planes in the country",
+        "It closed Delta for the day"
+      ],
+      "correct_answer": "It stopped some flights heading into Atlanta's airport for an hour"
+    },
+    {
+      "question": "What did Delta promise customers?",
+      "options": [
+        "Faster planes next year",
+        "New flights, plus meals and hotel rooms where needed, and refunds if a flight was canceled",
+        "Free flights for a year",
+        "A new airport in Atlanta"
+      ],
+      "correct_answer": "New flights, plus meals and hotel rooms where needed, and refunds if a flight was canceled"
+    },
+    {
+      "question": "About what share of flights were canceled?",
+      "options": [
+        "About half",
+        "About 20 percent",
+        "About 67 percent",
+        "About 2 percent"
+      ],
+      "correct_answer": "About 2 percent"
+    }
+  ],
+  "background_read": [
+    "Before a plane takes off, the airline has to know how heavy it is, because a plane that is too heavy cannot fly safely.",
+    "Delta uses a computer system to work out that weight, but the system broke down on Sunday.",
+    "With the system down, workers had to do the work by hand, which slowed everything down and delayed about 1,000 flights."
+  ],
+  "Article_Structure": [
+    "WHO: Delta passengers, Delta's teams, and the Federal Aviation Administration.",
+    "WHAT: A broken computer system delayed about 1,000 Delta flights on Sunday.",
+    "WHERE: Atlanta's airport, Delta's home base, and airports across Delta's network.",
+    "WHY: The system that works out how heavy a plane is broke down, so crews had to do the work by hand."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Delta",
+      "description": "Said sorry and promised new flights for customers, plus meals and hotel rooms where needed, and refunds if a flight was canceled."
+    }
+  ],
+  "mined_at": "2026-11-23T11:21:59+00:00",
+  "source_published_at": "Sun, 22 Nov 2026 17:40:06 -0500",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/nation/automation-system-problem-at-delta-causes-flight-delays-as-americans-travel-for-thanksgiving",
+  "category": "News",
+  "source_word_count": 402,
+  "detail_status": "full"
+}

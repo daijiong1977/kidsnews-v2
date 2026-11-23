@@ -1,0 +1,125 @@
+{
+  "title": "Delta Delays Pile Up After a Computer Glitch on a Busy Travel Day",
+  "summary": "Sunday was a rough travel day for Delta Air Lines passengers. A problem with an automation system delayed well over half of the airline's flights on Sunday afternoon, right as Americans were traveling ahead of the Thanksgiving holiday. The broken system calculates an airplane's weight. That number matters. A plane must not be too heavy to fly, and crews use the weight to make sure the flight is safe. While the system was down, Delta's teams used manual workarounds to get planes off the ground. Hours later, Delta said the system was working again. But flights were still not back to normal. As of Sunday afternoon, about 1,000 of the airline's flights were delayed. The flight-tracking website FlightAware put the share at 67 percent. Earlier on Sunday, the Federal Aviation Administration issued an hourlong ground stop for some flights heading into Hartsfield-Jackson Atlanta International Airport. Atlanta is Delta's hub and one of the busiest airports in the world. FlightAware said 54 percent of flights leaving Atlanta were delayed, and about 50 percent of flights heading there were delayed. The FAA said the delays were not related to its own air traffic systems. Delta apologized and said it was rebooking customers. It also offered meals and hotel rooms where needed, and refunds if a flight was canceled. About 2 percent of its flights were canceled. The mess comes after other recent tech troubles in air travel. Earlier this month, a malfunction in the FAA's network led to the longest nationwide ground stop in 25 years, lasting more than four hours. Just days later, United Airlines had its own system outage and had to delay departing flights.",
+  "why_it_matters": "A single computer failure can strand travelers and disrupt holiday plans across the country, showing how much modern air travel depends on its technology working smoothly.",
+  "image_url": "/article_images/news-s1b044ab34ee16a20.webp",
+  "keywords": [
+    {
+      "term": "automation",
+      "explanation": "A system that does a job by itself, without people doing each step."
+    },
+    {
+      "term": "workarounds",
+      "explanation": "Quick, temporary ways of doing a job when the usual way does not work."
+    },
+    {
+      "term": "ground stop",
+      "explanation": "An order that keeps planes from taking off for a while."
+    },
+    {
+      "term": "hub",
+      "explanation": "An airport where an airline runs most of its flights and connects passengers between planes."
+    },
+    {
+      "term": "malfunction",
+      "explanation": "When a machine or system stops working the way it should."
+    },
+    {
+      "term": "outage",
+      "explanation": "A time when a system stops working completely."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What did the broken Delta system do?",
+      "options": [
+        "It controlled air traffic",
+        "It booked tickets for passengers",
+        "It loaded bags onto planes",
+        "It calculated an airplane's weight"
+      ],
+      "correct_answer": "It calculated an airplane's weight"
+    },
+    {
+      "question": "About how many Delta flights were delayed by Sunday afternoon?",
+      "options": [
+        "About 500",
+        "About 1,000",
+        "About 5,000",
+        "About 100"
+      ],
+      "correct_answer": "About 1,000"
+    },
+    {
+      "question": "What share of Delta's flights did FlightAware say were delayed?",
+      "options": [
+        "50 percent",
+        "67 percent",
+        "25 percent",
+        "90 percent"
+      ],
+      "correct_answer": "67 percent"
+    },
+    {
+      "question": "Which airport is Delta's hub?",
+      "options": [
+        "Chicago O'Hare",
+        "New York JFK",
+        "Hartsfield-Jackson Atlanta International Airport",
+        "Los Angeles International Airport"
+      ],
+      "correct_answer": "Hartsfield-Jackson Atlanta International Airport"
+    },
+    {
+      "question": "What did the FAA say about the delays?",
+      "options": [
+        "They were caused by a strike",
+        "They were caused by bad weather",
+        "They were not related to its own air traffic systems",
+        "They were caused by its own network"
+      ],
+      "correct_answer": "They were not related to its own air traffic systems"
+    },
+    {
+      "question": "What happened earlier this month in air travel?",
+      "options": [
+        "Atlanta airport closed for a week",
+        "A malfunction in the FAA's network led to the longest nationwide ground stop in 25 years",
+        "United Airlines closed down",
+        "Delta canceled all of its flights"
+      ],
+      "correct_answer": "A malfunction in the FAA's network led to the longest nationwide ground stop in 25 years"
+    }
+  ],
+  "background_read": [
+    "Before a plane can take off, the crew must know exactly how heavy it is, because a plane that is too heavy is not safe to fly.",
+    "Airlines use computer systems to work out the weight from the passengers, bags, fuel, and cargo on board.",
+    "When that system stops working, crews can do the maths by hand, but it takes much longer, so flights pile up and delays spread across the whole airline.",
+    "Air travel depends on many computer systems at once, so one failure can quickly affect passengers across the whole country, especially on a busy holiday weekend."
+  ],
+  "Article_Structure": [
+    "LEAD: A problem with a Delta computer system delayed well over half of its flights on a busy Sunday before Thanksgiving.",
+    "KEY EVENT: The broken system calculates an airplane's weight, which crews need to make sure a flight is safe.",
+    "  ├─ WHO: Delta Air Lines and its passengers, the Federal Aviation Administration, and FlightAware.",
+    "  └─ WHERE: Hartsfield-Jackson Atlanta International Airport, Delta's hub and one of the busiest airports in the world.",
+    "EVIDENCE: About 1,000 flights delayed; FlightAware put the share at 67 percent; 54 percent of flights leaving Atlanta delayed and about 50 percent heading there delayed.",
+    "OPEN QUESTION: Flights were still not back to normal hours after the system was fixed."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Delta Air Lines",
+      "description": "Apologized and said it was rebooking customers, offering meals and hotel rooms where needed, and refunds if a flight was canceled."
+    },
+    {
+      "perspective": "Federal Aviation Administration",
+      "description": "Said the delays were not related to its own air traffic systems."
+    }
+  ],
+  "mined_at": "2026-11-23T11:21:59+00:00",
+  "source_published_at": "Sun, 22 Nov 2026 17:40:06 -0500",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/nation/automation-system-problem-at-delta-causes-flight-delays-as-americans-travel-for-thanksgiving",
+  "category": "News",
+  "source_word_count": 402,
+  "detail_status": "full"
+}

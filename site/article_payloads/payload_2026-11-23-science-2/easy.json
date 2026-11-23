@@ -1,0 +1,114 @@
+{
+  "title": "Can a Black Hole Split Apart Like a Pair of Pants?",
+  "summary": "Black holes are famous for crashing together and joining into one. But new research asks a stranger question: can a black hole split apart? Scientists suggest it might split like a pair of pants, down the middle. The idea was published on October 22 in the journal Physical Review D.\n\nIn our universe, splitting a black hole looks mostly impossible. One problem is entropy, a rule that disorder cannot just go down on its own. A black hole's surface area cannot shrink either, a rule backed up by detections of gravitational waves, ripples in space-time.\n\nEven if a black hole did split, the pieces would snap back together quickly. But the researchers found a loophole: a black hole spinning almost as fast as the theory allows could spin itself apart, and the two pieces could be flung away before they could rejoin.\n\nThe researchers studied black holes in worlds with more than four dimensions, where gravity is weaker and a black hole could spin faster. The idea might explain tiny black holes, so small that astronomers could watch them vanish.",
+  "why_it_matters": "Figuring out how black holes work helps us understand the universe we live in, just like learning the rules of a game helps you play it better.",
+  "image_url": "/article_images/science-s7e37062f6d51438a.webp",
+  "keywords": [
+    {
+      "term": "entropy",
+      "explanation": "A rule that disorder, or messiness, cannot just go down on its own."
+    },
+    {
+      "term": "gravitational waves",
+      "explanation": "Ripples in space-time made when huge things in space move or crash."
+    },
+    {
+      "term": "space-time",
+      "explanation": "Space and time together, like the fabric the universe is made of."
+    },
+    {
+      "term": "dimensions",
+      "explanation": "Directions you can move in, like up and down or side to side."
+    },
+    {
+      "term": "loophole",
+      "explanation": "A special case that lets something happen even when a rule seems to stop it."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What are black holes famous for doing?",
+      "options": [
+        "Vanishing in a flash of light",
+        "Turning into stars",
+        "Splitting apart like a pair of pants",
+        "Crashing together and joining into one"
+      ],
+      "correct_answer": "Crashing together and joining into one"
+    },
+    {
+      "question": "What new question does the research ask?",
+      "options": [
+        "Can a black hole eat the sun?",
+        "Can a black hole split apart?",
+        "Can a black hole make a new star?",
+        "Can a black hole stop time?"
+      ],
+      "correct_answer": "Can a black hole split apart?"
+    },
+    {
+      "question": "What is entropy?",
+      "options": [
+        "A rule that disorder cannot just go down on its own",
+        "A machine that measures gravity",
+        "The edge of a black hole",
+        "A kind of star"
+      ],
+      "correct_answer": "A rule that disorder cannot just go down on its own"
+    },
+    {
+      "question": "What cannot shrink?",
+      "options": [
+        "A black hole's surface area",
+        "A black hole's temperature",
+        "A black hole's color",
+        "A black hole's age"
+      ],
+      "correct_answer": "A black hole's surface area"
+    },
+    {
+      "question": "What could let a black hole spin itself apart?",
+      "options": [
+        "Moving closer to the sun",
+        "Stopping spinning completely",
+        "Becoming very cold",
+        "Spinning almost as fast as the theory allows"
+      ],
+      "correct_answer": "Spinning almost as fast as the theory allows"
+    },
+    {
+      "question": "What might the idea explain?",
+      "options": [
+        "Why the moon changes shape",
+        "Why the sky is blue",
+        "How stars are born",
+        "Tiny black holes that astronomers could watch vanish"
+      ],
+      "correct_answer": "Tiny black holes that astronomers could watch vanish"
+    }
+  ],
+  "background_read": [
+    "A black hole is a place in space where gravity is so strong that nothing can escape from it.",
+    "Scientists already know that black holes can crash together and join into one, and now they are asking if one could ever split apart.",
+    "The new idea looks at black holes that spin almost as fast as possible, and at worlds with more than four dimensions, to see if splitting could happen there."
+  ],
+  "Article_Structure": [
+    "WHO: Researchers who study black holes",
+    "WHAT: They suggest a black hole might split apart like a pair of pants, down the middle",
+    "WHERE: In worlds with more than four dimensions, where gravity is weaker and a black hole could spin faster",
+    "WHY: To understand whether black holes can split apart and to explain tiny black holes that astronomers could watch vanish"
+  ],
+  "perspectives": [
+    {
+      "perspective": "The researchers",
+      "description": "They suggest a black hole might split apart like a pair of pants, down the middle."
+    }
+  ],
+  "mined_at": "2026-11-23T11:21:59+00:00",
+  "source_published_at": "Sun, 22 Nov 2026 12:00:00 +0000",
+  "source_name": "Live Science",
+  "source_url": "https://www.livescience.com/space/black-holes/black-holes-can-split-apart-like-pants-if-they-spin-too-fast-astrophysics-study-hints",
+  "category": "Science",
+  "source_word_count": 669,
+  "detail_status": "full"
+}

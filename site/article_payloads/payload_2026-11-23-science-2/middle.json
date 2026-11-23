@@ -1,0 +1,118 @@
+{
+  "title": "Can a Black Hole Split Apart Like a Pair of Pants?",
+  "summary": "Black holes are famous for colliding and merging, but new research asks a stranger question: can a black hole split apart? Astrophysicists have proposed a 'pair-of-pants' shape for such a split, like a cosmic pair of pants splitting down the middle. The idea was published on October 22 in the journal Physical Review D.\n\nIn our classical universe, splitting a black hole looks mostly impossible. One problem is entropy, the rule that the possible arrangements of an isolated system's energy cannot spontaneously decrease. A black hole's surface area cannot decrease either, a rule supported by detections of gravitational waves, ripples in space-time. Splitting a static Schwarzschild black hole, the simplest kind, would break the second law of thermodynamics.\n\nA second problem is motion: even if a black hole did split, the pieces would recombine into a single body incredibly quickly. But the researchers found a loophole. A black hole spinning very close to the maximum rate the theory allows, a near-extremal black hole, could literally spin itself apart, with its horizon's equator dragged around at nearly the speed of light. The two fragments could then be slingshotted away from each other before they could recombine.\n\nThe researchers also modeled black holes in space-times with more than four dimensions. There, gravity weakens as dimensionality grows, so a black hole's rotational speed is no longer limited, and ultrafast spinning black holes could theoretically fragment. The idea could even help explain black holes with masses too small to form through conventional processes. These tiny 'morsels' would be so small that astronomers could watch them evaporate on observational timescales.",
+  "why_it_matters": "Black holes test the deepest rules of physics, so asking whether one can split apart pushes scientists to check whether those rules hold everywhere — and the answer could explain mysterious tiny black holes astronomers might one day observe.",
+  "image_url": "/article_images/science-s7e37062f6d51438a.webp",
+  "keywords": [
+    {
+      "term": "entropy",
+      "explanation": "A rule about how the energy in a closed system can only spread out, not tidy itself back up again."
+    },
+    {
+      "term": "gravitational waves",
+      "explanation": "Ripples in space and time caused by huge objects moving through space."
+    },
+    {
+      "term": "Schwarzschild",
+      "explanation": "The simplest kind of black hole, one that does not spin."
+    },
+    {
+      "term": "near-extremal",
+      "explanation": "A black hole spinning almost as fast as the theory allows."
+    },
+    {
+      "term": "thermodynamics",
+      "explanation": "The branch of science that studies heat, energy, and how they change."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What shape have astrophysicists proposed for a black hole splitting apart?",
+      "options": [
+        "A donut shape",
+        "A spiral shape",
+        "A pair-of-pants shape",
+        "A flat disk"
+      ],
+      "correct_answer": "A pair-of-pants shape"
+    },
+    {
+      "question": "When was the idea published in the journal Physical Review D?",
+      "options": [
+        "October 12",
+        "September 22",
+        "October 22",
+        "November 22"
+      ],
+      "correct_answer": "October 22"
+    },
+    {
+      "question": "Why would splitting a static Schwarzschild black hole break the rules of physics?",
+      "options": [
+        "It would stop time",
+        "It would create a new star",
+        "It would make gravity stronger",
+        "It would break the second law of thermodynamics"
+      ],
+      "correct_answer": "It would break the second law of thermodynamics"
+    },
+    {
+      "question": "What is a near-extremal black hole?",
+      "options": [
+        "A black hole spinning very close to the maximum rate the theory allows",
+        "The smallest kind of black hole",
+        "A black hole with no gravity",
+        "A black hole that has stopped spinning"
+      ],
+      "correct_answer": "A black hole spinning very close to the maximum rate the theory allows"
+    },
+    {
+      "question": "In space-times with more than four dimensions, what happens to gravity?",
+      "options": [
+        "It disappears completely",
+        "It weakens as dimensionality grows",
+        "It reverses direction",
+        "It becomes the same everywhere"
+      ],
+      "correct_answer": "It weakens as dimensionality grows"
+    },
+    {
+      "question": "What might the splitting idea help explain?",
+      "options": [
+        "Black holes with masses too small to form through conventional processes",
+        "Why the Moon orbits Earth",
+        "How planets form",
+        "Why stars shine"
+      ],
+      "correct_answer": "Black holes with masses too small to form through conventional processes"
+    }
+  ],
+  "background_read": [
+    "A black hole is a place in space where gravity is so strong that nothing, not even light, can escape it.",
+    "Black holes form when very massive stars collapse, and when two black holes meet they usually crash together and merge into one bigger black hole.",
+    "Physicists have long known that a black hole's surface area cannot shrink, a rule tied to entropy and the second law of thermodynamics, which is why splitting one apart looks mostly impossible.",
+    "The new idea looks for loopholes in those rules, such as black holes spinning almost as fast as the theory allows, or black holes in spaces with more than four dimensions, where gravity behaves differently."
+  ],
+  "Article_Structure": [
+    "LEAD: Black holes are famous for merging, but new research asks whether one could split apart.",
+    "KEY EVENT: Astrophysicists proposed a 'pair-of-pants' shape for such a split, published on October 22 in Physical Review D.",
+    "  ├─ PROBLEM 1: Entropy and the second law of thermodynamics make splitting a static Schwarzschild black hole look mostly impossible.",
+    "  ├─ PROBLEM 2: Even if a black hole split, the pieces would recombine into a single body incredibly quickly.",
+    "  └─ LOOPHOLE: A near-extremal black hole spinning near the maximum rate could spin itself apart and fling the fragments away.",
+    "EVIDENCE: In space-times with more than four dimensions, gravity weakens, so ultrafast spinning black holes could theoretically fragment.",
+    "OPEN QUESTION: The idea could help explain tiny black holes too small to form through conventional processes, which astronomers could watch evaporate."
+  ],
+  "perspectives": [
+    {
+      "perspective": "The researchers",
+      "description": "Propose that a near-extremal black hole could spin itself apart and that ultrafast spinning black holes in higher dimensions could fragment, which might explain very small black holes."
+    }
+  ],
+  "mined_at": "2026-11-23T11:21:59+00:00",
+  "source_published_at": "Sun, 22 Nov 2026 12:00:00 +0000",
+  "source_name": "Live Science",
+  "source_url": "https://www.livescience.com/space/black-holes/black-holes-can-split-apart-like-pants-if-they-spin-too-fast-astrophysics-study-hints",
+  "category": "Science",
+  "source_word_count": 669,
+  "detail_status": "full"
+}
