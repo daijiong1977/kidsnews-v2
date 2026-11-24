@@ -1,0 +1,120 @@
+{
+  "title": "A Lost Video Game From 1977 Is Playable Again",
+  "summary": "Long before video games had graphics, they were made of words. You typed a command, and the game answered with a sentence. One of the earliest of those games, a fantasy adventure from 1977 called Magic Caves, was lost for decades. This weekend, computer historians made it playable on modern computers for the first time. The year 1977 was a big one for text adventures: it saw the release of Crowther and Woods' Adventure and the famous game Zork. But Magic Caves stayed buried. Its creator was John Burgess Trenholme, a physicist who studied at the California Institute of Technology, helped build climate-controlled laboratories at the Indian Institute of Technology, and published research on a metal called indium and its uses in lasers and fiber-optic communications. The same technology, in a way, is part of how you are reading this now. Trenholme died in 2020. In his spare time in the late 1970s, he built Magic Caves on an early computer that ran the BASIC programming language. Like other games of its era, it has you exploring a series of fantastic caverns. An old man at the entrance warns that the chambers hold amazing treasures, but even more dangers. With only a lantern to guide you, you face randomized challenges and try to reach the highest score out of a possible 2,800 points. Stuck? You can summon a wizard for help, but he will charge you 100 points for the service. The game had been uploaded to the hard drive of a fellow enthusiast in 1999, then forgotten. Computer historian Jason Dyer tracked it down and wrote about it on his blog, Renga in Blue, calling it a 'missing link' between early games like Hunt the Wumpus and Zork and everything that came after. These early games look simple today, but they are the foundation of everything we play now. One line connects Colossal Cave Adventure to later hits like Dragon Quest, and on to the games on your phone. Magic Caves is a small piece of that history, rescued just in time.",
+  "why_it_matters": "Early games like Magic Caves are the foundation of everything we play today, and rescuing them keeps the history of video games alive.",
+  "image_url": "/article_images/fun-sfb7dce0cc4f2ee0d.webp",
+  "keywords": [
+    {
+      "term": "text adventure",
+      "explanation": "An early video game played by typing words instead of using pictures."
+    },
+    {
+      "term": "lantern",
+      "explanation": "A lamp you can carry, often used to light dark places."
+    },
+    {
+      "term": "randomized",
+      "explanation": "Made different each time by chance, so no two games are the same."
+    },
+    {
+      "term": "missing link",
+      "explanation": "Something that connects two things and shows how one led to the other."
+    },
+    {
+      "term": "hard drive",
+      "explanation": "The part of a computer that stores files and programs."
+    },
+    {
+      "term": "BASIC",
+      "explanation": "An early, simple programming language used to write computer programs."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What kind of game is Magic Caves?",
+      "options": [
+        "A racing game",
+        "A sports game",
+        "A card game",
+        "A text-based fantasy adventure"
+      ],
+      "correct_answer": "A text-based fantasy adventure"
+    },
+    {
+      "question": "When was Magic Caves first released?",
+      "options": [
+        "In 1977",
+        "In 1987",
+        "In 1967",
+        "In 1997"
+      ],
+      "correct_answer": "In 1977"
+    },
+    {
+      "question": "Who created Magic Caves?",
+      "options": [
+        "John Burgess Trenholme",
+        "Jason Dyer",
+        "Dave Kaufman",
+        "A team at Nintendo"
+      ],
+      "correct_answer": "John Burgess Trenholme"
+    },
+    {
+      "question": "What is the highest possible score in the game?",
+      "options": [
+        "2,800 points",
+        "28,000 points",
+        "280 points",
+        "280,000 points"
+      ],
+      "correct_answer": "2,800 points"
+    },
+    {
+      "question": "How much does the wizard charge for help?",
+      "options": [
+        "50 points",
+        "1,000 points",
+        "10 points",
+        "100 points"
+      ],
+      "correct_answer": "100 points"
+    },
+    {
+      "question": "What did Jason Dyer call the game?",
+      "options": [
+        "A dead end",
+        "A missing link",
+        "A hidden treasure",
+        "A modern classic"
+      ],
+      "correct_answer": "A missing link"
+    }
+  ],
+  "background_read": [
+    "The first video games had no pictures at all: players typed commands like 'go north' and the game answered with written descriptions.",
+    "Early games were often shared between engineers and hobbyists on university computers, long before games were sold in shops.",
+    "Many early games were lost because they were stored on old tapes and disks that were thrown away, so computer historians now work to rescue and preserve them."
+  ],
+  "Article_Structure": [
+    "LEAD: A lost text adventure from 1977, Magic Caves, is playable on modern computers for the first time.",
+    "KEY EVENT: Computer historians recovered the game and made it accessible.",
+    "  ├─ WHO: Physicist John Burgess Trenholme created it; historian Jason Dyer recovered it.",
+    "  └─ WHEN: First released in 1977; recovered this weekend.",
+    "EVIDENCE: The game was saved on a fan's hard drive in 1999, then forgotten; it has randomized challenges and a top score of 2,800.",
+    "OPEN QUESTION: What other lost early games are still waiting to be found?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Jason Dyer, computer historian",
+      "description": "He calls Magic Caves a 'missing link' between early games like Hunt the Wumpus and Zork and everything that came after."
+    }
+  ],
+  "mined_at": "2026-11-24T11:17:15+00:00",
+  "source_published_at": "Sun, 22 Nov 2026 22:10:12 +0000",
+  "source_name": "Kotaku",
+  "source_url": "https://kotaku.com/physicists-long-lost-1977-fantasy-text-adventure-discovered-on-hard-drive-2000759290",
+  "category": "Fun",
+  "source_word_count": 553,
+  "detail_status": "full"
+}

@@ -1,0 +1,120 @@
+{
+  "title": "What Would Sports Look Like With No Gravity?",
+  "summary": "Imagine playing basketball where the ball never comes down. Or soccer where a kick sends you flying backward. That is what sports would be like in zero gravity, and as people plan to live on the Moon, scientists and writers are thinking hard about how we would play there. Sports in space already have a history. Astronaut Alan Shepard played golf on the Moon, and the crew of the International Space Station once held their own version of the Summer Olympics. There is even a Space Games Federation, which calls itself the first body for competitive sports played in zero or microgravity, co-founded by a NASA astronaut. Science fiction has gone further, imagining everything from zero-g squash in Doctor Who to the laser-tag battles of Ender's Game. But how realistic are those scenes? 'First of all, in zero g, Isaac Newton will win every time,' said Les Johnson, a former Chief Technologist for NASA and a physicist with more than 35 years of experience at the Marshall Space Flight Center in Huntsville, Alabama. He means Newton's third law: for every action, there is an equal and opposite reaction. On Earth, gravity and friction hide that rule. In space, it runs the game. In microgravity, up and down stop mattering. The playing field is no longer a flat surface but a fully three-dimensional space, with height as well as length and width. Momentum changes, too. On Earth you can stop and turn quickly. In space, once you start moving, you keep going until something stops you, like pushing off a wall or bumping into another player. It is like moving on ice in hockey, only far trickier. Balls behave differently as well. 'Aside from maneuvering the body and not tumbling or going in the wrong direction, the most difficult part would probably be throwing or hitting a ball in zero g,' Johnson said. 'There would be no arc, just a straight-line throw. That would take getting used to doing, given that we've spent our entire lives calculating how high and fast to throw a ball in 1G so it gets to the person we intend.' The best movie example, Johnson says, is Ender's Game from 2013. Its 'Battle Room' is a giant hollow cube filled with obstacles, where teams enter through gates at opposite ends and play laser-tag-style drills. 'The Battle Room sequence does a great job of thinking about straight-line, constant-velocity motion,' Johnson said. 'Characters push off walls or each other, then drift until they hit something or fire their suit's thrusters.' As projects like NASA's Artemis Program aim to build habitats on the Moon, the question is no longer just science fiction. Someday, kids may really play sports where the ball never comes down.",
+  "why_it_matters": "If people are going to live on the Moon, they will need ways to play and stay healthy, and the physics of space will change every game we know.",
+  "image_url": "/article_images/fun-s372118cb67376c6a.webp",
+  "keywords": [
+    {
+      "term": "microgravity",
+      "explanation": "A state of almost no gravity, like the one astronauts feel in space."
+    },
+    {
+      "term": "momentum",
+      "explanation": "The force that keeps a moving thing moving until something stops it."
+    },
+    {
+      "term": "arc",
+      "explanation": "The curved path a ball follows when it is thrown through the air."
+    },
+    {
+      "term": "Battle Room",
+      "explanation": "The giant hollow cube in Ender's Game where teams play zero-games."
+    },
+    {
+      "term": "thrusters",
+      "explanation": "Small jets that push a spacecraft or a spacesuit in a chosen direction."
+    },
+    {
+      "term": "three-dimensional",
+      "explanation": "Having length, width, and height, not just a flat surface."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What did Alan Shepard do on the Moon?",
+      "options": [
+        "He played soccer",
+        "He swam in a crater",
+        "He ran a race",
+        "He played golf"
+      ],
+      "correct_answer": "He played golf"
+    },
+    {
+      "question": "What does Les Johnson say will win every time in zero gravity?",
+      "options": [
+        "The best coach",
+        "The fastest player",
+        "Isaac Newton",
+        "The biggest team"
+      ],
+      "correct_answer": "Isaac Newton"
+    },
+    {
+      "question": "What happens to a ball thrown in zero gravity?",
+      "options": [
+        "It floats upward forever",
+        "It falls straight down",
+        "It spins in a circle",
+        "It flies in a straight line with no arc"
+      ],
+      "correct_answer": "It flies in a straight line with no arc"
+    },
+    {
+      "question": "What is the Battle Room in Ender's Game?",
+      "options": [
+        "A gym on Earth",
+        "A swimming pool on the Moon",
+        "A classroom for astronauts",
+        "A giant hollow cube where teams play laser-tag games"
+      ],
+      "correct_answer": "A giant hollow cube where teams play laser-tag games"
+    },
+    {
+      "question": "How do players move in the Battle Room?",
+      "options": [
+        "They push off walls or each other, then drift",
+        "They use jetpacks the whole time",
+        "They ride small vehicles",
+        "They run on a track"
+      ],
+      "correct_answer": "They push off walls or each other, then drift"
+    },
+    {
+      "question": "What is the Space Games Federation?",
+      "options": [
+        "A sports shop on the Moon",
+        "A body for competitive sports played in zero or microgravity",
+        "A movie studio",
+        "A NASA rocket program"
+      ],
+      "correct_answer": "A body for competitive sports played in zero or microgravity"
+    }
+  ],
+  "background_read": [
+    "Gravity pulls everything on Earth downward, and it shapes every sport: it decides how balls arc through the air, how fast players can run and stop, and which way is up.",
+    "In microgravity, there is almost no gravity, so objects float and keep moving in a straight line until something stops them, following Newton's laws of motion.",
+    "NASA's Artemis Program aims to build habitats on the Moon, where people would live and work for long periods, so scientists are thinking about how daily life, including play, would work there."
+  ],
+  "Article_Structure": [
+    "LEAD: Sports in zero gravity would break every rule we know.",
+    "KEY EVENT: A former NASA chief technologist explains how zero-g sports would really work.",
+    "  ├─ WHO: Les Johnson, former Chief Technologist for NASA.",
+    "  └─ WHEN: As NASA's Artemis Program plans habitats on the Moon.",
+    "EVIDENCE: No arc for thrown balls; no up or down; momentum keeps players moving until something stops them.",
+    "OPEN QUESTION: Which sports will people actually play on the Moon?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Les Johnson, former NASA Chief Technologist",
+      "description": "He says that in zero gravity Isaac Newton will win every time, and that throwing a ball would be a straight-line throw with no arc."
+    }
+  ],
+  "mined_at": "2026-11-24T11:17:15+00:00",
+  "source_published_at": "Mon, 23 Nov 2026 19:00:00 +0000",
+  "source_name": "Space.com",
+  "source_url": "https://www.space.com/entertainment/how-sci-fi-imagines-sports-in-microgravity-and-how-zero-g-sports-might-actually-work",
+  "category": "Fun",
+  "source_word_count": 728,
+  "detail_status": "full"
+}

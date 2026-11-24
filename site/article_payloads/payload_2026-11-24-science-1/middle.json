@@ -1,0 +1,120 @@
+{
+  "title": "Two Monster Black Holes From the Dawn of Time",
+  "summary": "Astronomers have found something that should not exist, at least not so early: two enormous black holes, side by side, shining brightly just 900 million years after the Big Bang. Each one is powered by a black hole so huge that scientists have no firm explanation for how it grew so big, so fast. The pair has been given the Hawaiian name Nāpōwawāʻenakaulua, which means 'Two celestial bodies of fathomless powerful darkness in the brilliance of heat reincarnating energy into the Universe.' Its official label is J1602+4228AB. The two black holes sit about 18,100 light-years apart, roughly one-fifth the width of our Milky Way galaxy. One weighs about 1.5 billion times as much as the Sun. The other weighs about 400 million Suns. They are so far away that we see them as they were when the Universe was only about a thirteenth of its current age. A black hole itself gives off no light. But when gas and stars fall toward one, the material heats up and glows so fiercely that it can outshine every star in its galaxy. Astronomers call that glowing region a quasar. Because galaxies often collide and merge, scientists expect many quasars to come in pairs. Yet finding them is hard: a black hole shines as a quasar for only a short part of its life, and ancient quasars are extremely faint and close together in the sky. This is only the third known quasar pair from the early period called cosmic dawn, and it is the most distant compact pair ever found. The discovery used the James Webb Space Telescope and the Gemini North telescope on Maunakea, a dormant volcano in Hawai'i. The research was led by Silvia Onorato of NSF NOIRLab and published in The Astrophysical Journal Letters. 'There is no definitive theoretical explanation for how a single one of these giant quasars exists so early in the age of our Universe, much less two,' Onorato said. 'We observed Nāpōwawāʻenakaulua at a time when the Universe was only a thirteenth of its age and astonishingly, its supermassive black holes are just as massive as those we see today.'",
+  "why_it_matters": "These black holes grew far bigger and faster than current theories can explain, so they may force scientists to rethink how the first giant structures in the Universe formed.",
+  "image_url": "/article_images/science-s39650dad9c7d291c.webp",
+  "keywords": [
+    {
+      "term": "quasar",
+      "explanation": "A very bright glowing area around a black hole, lit by gas falling into it."
+    },
+    {
+      "term": "cosmic dawn",
+      "explanation": "The early time in the Universe when the first stars and galaxies were forming."
+    },
+    {
+      "term": "light-years",
+      "explanation": "A way to measure huge distances: how far light travels in one year."
+    },
+    {
+      "term": "dormant",
+      "explanation": "Not active for now, like a volcano that is not erupting."
+    },
+    {
+      "term": "Big Bang",
+      "explanation": "The beginning of the Universe, when everything started expanding from a hot, tiny point."
+    },
+    {
+      "term": "supermassive",
+      "explanation": "Extremely massive, millions or billions of times heavier than the Sun."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How long after the Big Bang did this pair of quasars exist?",
+      "options": [
+        "13 billion years",
+        "900 million years",
+        "9 billion years",
+        "90 million years"
+      ],
+      "correct_answer": "900 million years"
+    },
+    {
+      "question": "How far apart are the two black holes?",
+      "options": [
+        "About 1,810 light-years",
+        "About 18 light-years",
+        "About 181 light-years",
+        "About 18,100 light-years"
+      ],
+      "correct_answer": "About 18,100 light-years"
+    },
+    {
+      "question": "How heavy is the bigger black hole?",
+      "options": [
+        "About 15 billion Suns",
+        "About 1.5 billion Suns",
+        "About 15 million Suns",
+        "About 1.5 million Suns"
+      ],
+      "correct_answer": "About 1.5 billion Suns"
+    },
+    {
+      "question": "What is a quasar?",
+      "options": [
+        "A newborn star",
+        "A black hole that has gone dark",
+        "The glowing region around a black hole fed by falling gas",
+        "A planet orbiting a black hole"
+      ],
+      "correct_answer": "The glowing region around a black hole fed by falling gas"
+    },
+    {
+      "question": "Which telescopes helped make the discovery?",
+      "options": [
+        "Two telescopes on the Moon",
+        "The Hubble Telescope and a radio dish",
+        "The James Webb Space Telescope and Gemini North",
+        "A telescope in Antarctica"
+      ],
+      "correct_answer": "The James Webb Space Telescope and Gemini North"
+    },
+    {
+      "question": "Why is this pair hard to explain?",
+      "options": [
+        "The black holes are too small",
+        "They are too close to Earth",
+        "No theory can fully explain how they grew so big so early",
+        "They keep disappearing"
+      ],
+      "correct_answer": "No theory can fully explain how they grew so big so early"
+    }
+  ],
+  "background_read": [
+    "A black hole is a place where gravity is so strong that nothing, not even light, can escape from it, and the biggest ones sit at the centers of galaxies.",
+    "When gas falls toward a black hole, it heats up and glows so brightly that it can outshine a whole galaxy, and astronomers call that glowing region a quasar.",
+    "Because light takes time to travel, looking at very distant objects is like looking back in time, so telescopes can show us the Universe as it was billions of years ago."
+  ],
+  "Article_Structure": [
+    "LEAD: Two enormous black holes were found shining side by side just 900 million years after the Big Bang.",
+    "KEY EVENT: Astronomers identified the most distant compact pair of quasars ever observed.",
+    "  ├─ WHO: An international team led by Silvia Onorato of NSF NOIRLab.",
+    "  └─ WHEN: Seen as they were 900 million years after the Big Bang.",
+    "EVIDENCE: Masses of 1.5 billion and 400 million Suns; only the third known quasar pair from cosmic dawn.",
+    "OPEN QUESTION: How did such giant black holes grow so fast in the early Universe?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Silvia Onorato, research leader",
+      "description": "She says there is no firm theoretical explanation for how even one such giant quasar could exist so early, much less two."
+    }
+  ],
+  "mined_at": "2026-11-24T11:17:15+00:00",
+  "source_published_at": "Mon, 23 Nov 2026 06:21:06 EST",
+  "source_name": "ScienceDaily Most Popular",
+  "source_url": "https://www.sciencedaily.com/releases/2026/11/261122060342.htm",
+  "category": "Science",
+  "source_word_count": 798,
+  "detail_status": "full"
+}

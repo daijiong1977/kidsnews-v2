@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-23-science-1",
-      "source": "ScienceDaily All",
-      "time_ago": "Sun, 22 Nov 2026 06:04:06 EST",
-      "mined_at": "2026-11-23T11:21:59+00:00",
-      "source_published_at": "Sun, 22 Nov 2026 06:04:06 EST",
-      "image_url": "/article_images/science-s78faf8d0df3d949b.webp",
+      "id": "2026-11-24-science-1",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Mon, 23 Nov 2026 06:21:06 EST",
+      "mined_at": "2026-11-24T11:17:15+00:00",
+      "source_published_at": "Mon, 23 Nov 2026 06:21:06 EST",
+      "image_url": "/article_images/science-s39650dad9c7d291c.webp",
       "category": "Science",
-      "title": "A 194-Year-Old Tortoise and the Secrets in His DNA",
-      "summary": "A 194-year-old giant tortoise named Jonathan carries genetic clues to extreme longevity, and scientists hope his DNA may one day inform treatments for age-related disease."
+      "title": "Two Monster Black Holes From the Dawn of Time",
+      "summary": "Astronomers found two giant black holes shining side by side just 900 million years after the Big Bang, far earlier than theories can explain."
     },
     {
-      "id": "2026-11-23-science-2",
-      "source": "Live Science",
-      "time_ago": "Sun, 22 Nov 2026 12:00:00 +0000",
-      "mined_at": "2026-11-23T11:21:59+00:00",
-      "source_published_at": "Sun, 22 Nov 2026 12:00:00 +0000",
-      "image_url": "/article_images/science-s7e37062f6d51438a.webp",
+      "id": "2026-11-24-science-2",
+      "source": "Space.com",
+      "time_ago": "Mon, 23 Nov 2026 22:00:00 +0000",
+      "mined_at": "2026-11-24T11:17:15+00:00",
+      "source_published_at": "Mon, 23 Nov 2026 22:00:00 +0000",
+      "image_url": "/article_images/science-s53ca008486fe72e2.webp",
       "category": "Science",
-      "title": "Can a Black Hole Split Apart Like a Pair of Pants?",
-      "summary": "New research suggests a black hole spinning near the maximum rate could split apart like a pair of pants, though in our universe it looks mostly impossible."
+      "title": "Potatoes Grow in Moon Dust",
+      "summary": "Scientists grew potatoes through their whole life cycle in simulated moon dust mixed with nutrient-rich compost."
     },
     {
-      "id": "2026-11-23-science-3",
-      "source": "Live Science",
-      "time_ago": "Sun, 22 Nov 2026 13:00:00 +0000",
-      "mined_at": "2026-11-23T11:21:59+00:00",
-      "source_published_at": "Sun, 22 Nov 2026 13:00:00 +0000",
-      "image_url": "/article_images/science-s303bc873f3592be5.webp",
+      "id": "2026-11-24-science-3",
+      "source": "ScienceDaily Most Popular",
+      "time_ago": "Sun, 22 Nov 2026 22:54:27 EST",
+      "mined_at": "2026-11-24T11:17:15+00:00",
+      "source_published_at": "Sun, 22 Nov 2026 22:54:27 EST",
+      "image_url": "/article_images/science-s245601152e3d5920.webp",
       "category": "Science",
-      "title": "A 2,200-Year-Old Celtic Coin Hoard Emerges in Hungary",
-      "summary": "Archaeologists in Hungary found more than 200 Celtic silver coins, over 2,000 years old, packed in a small ceramic vessel ahead of a construction project."
+      "title": "A Tiny Spider With a Genome Bigger Than Yours",
+      "summary": "A tiny California trapdoor spider named after Stephen Colbert has a genome about 50 percent larger than a human's."
     }
   ]
 }

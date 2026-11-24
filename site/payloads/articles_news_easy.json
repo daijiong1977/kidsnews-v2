@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-23-news-1",
-      "source": "CBC World",
-      "time_ago": "Sun, 22 Nov 2026 12:11:00 EST",
-      "mined_at": "2026-11-23T11:21:59+00:00",
-      "source_published_at": "Sun, 22 Nov 2026 12:11:00 EST",
-      "image_url": "/article_images/news-sb0fc328b5c62449b.webp",
-      "category": "News",
-      "title": "Climate Talks End With No Deal",
-      "summary": "COP31 in Turkey ended with no deal after countries said no to a draft plan that left out fossil fuels. It is the first failed UN climate talks since 2009."
-    },
-    {
-      "id": "2026-11-23-news-2",
+      "id": "2026-11-24-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Sun, 22 Nov 2026 17:40:06 -0500",
-      "mined_at": "2026-11-23T11:21:59+00:00",
-      "source_published_at": "Sun, 22 Nov 2026 17:40:06 -0500",
-      "image_url": "/article_images/news-s1b044ab34ee16a20.webp",
+      "time_ago": "Mon, 23 Nov 2026 18:45:23 -0500",
+      "mined_at": "2026-11-24T11:17:15+00:00",
+      "source_published_at": "Mon, 23 Nov 2026 18:45:23 -0500",
+      "image_url": "/article_images/news-sc1b0364a78daf6e5.webp",
       "category": "News",
-      "title": "Computer Problem Delays About 1,000 Delta Flights",
-      "summary": "A computer problem delayed about 1,000 Delta flights on Sunday, days before Thanksgiving."
+      "title": "Storms May Slow Thanksgiving Trips",
+      "summary": "Storms and airline computer problems may delay Thanksgiving trips this week."
     },
     {
-      "id": "2026-11-23-news-3",
+      "id": "2026-11-24-news-2",
       "source": "NPR World",
-      "time_ago": "Mon, 23 Nov 2026 05:00:00 -0500",
-      "mined_at": "2026-11-23T11:21:59+00:00",
-      "source_published_at": "Mon, 23 Nov 2026 05:00:00 -0500",
-      "image_url": "/article_images/news-s22911f576d414043.webp",
+      "time_ago": "Tue, 24 Nov 2026 05:00:00 -0500",
+      "mined_at": "2026-11-24T11:17:15+00:00",
+      "source_published_at": "Tue, 24 Nov 2026 05:00:00 -0500",
+      "image_url": "/article_images/news-s5ef8bc5e24a01db4.webp",
       "category": "News",
-      "title": "Will Thanksgiving Dinner Cost More This Year?",
-      "summary": "Grocery prices are up nearly 22 percent over five years, but two estimates disagree on whether this year's Thanksgiving meal will cost more than last year's."
+      "title": "The Little Gas Station That Welcomed Everyone",
+      "summary": "The Threatt Filling Station welcomed Black travelers on Route 66, and the family is restoring it."
+    },
+    {
+      "id": "2026-11-24-news-3",
+      "source": "NPR World",
+      "time_ago": "Tue, 24 Nov 2026 05:00:00 -0500",
+      "mined_at": "2026-11-24T11:17:15+00:00",
+      "source_published_at": "Tue, 24 Nov 2026 05:00:00 -0500",
+      "image_url": "/article_images/news-s06435bab03aeaaab.webp",
+      "category": "News",
+      "title": "Colombia's Fuzzy Plants Guard the Water",
+      "summary": "Volunteers in Colombia are planting fuzzy frailejón plants that protect the water supply."
     }
   ]
 }

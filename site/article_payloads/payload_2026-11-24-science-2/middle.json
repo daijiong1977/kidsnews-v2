@@ -1,0 +1,120 @@
+{
+  "title": "Potatoes Grow in Moon Dust",
+  "summary": "If people are going to live on the Moon, they will need to eat. And shipping every meal from Earth would cost a fortune. So scientists are testing whether astronauts could grow their own food in lunar soil. A team from Oregon State University has now grown potatoes in simulated moon dust, and the spuds completed their entire life cycle. The researchers published their findings on November 20 in the journal Microgravity. The Moon's surface is covered in regolith, a layer of dust and broken rock. It is not like soil on Earth: it has no nutrients and contains compounds that can harm plants. To test it, the team used five different materials that mimic regolith from the Moon's flat plains, called maria, and its highland regions. The secret ingredient was vermicompost, a nutrient-rich soil made with the help of worms. The team mixed different amounts of it into the fake regolith. They found that regolith mixed with 30 percent vermicompost worked about as well as regular soil for growing potatoes. 'We found that potatoes can complete their entire life cycle in simulated lunar soil when supplemented with organic matter,' said Aymeric Goyer, an associate professor at Oregon State. 'That's an important step toward developing reliable food production systems that could support long-term human exploration of the moon.' The compost seems to help in two ways: it adds nutrients, and it may shield the plants from some of the harmful compounds in lunar dust. 'We believe the compost helps balance some of the toxicity we see in lunar regolith by reducing plant exposure to harmful compounds,' said David Handy, a researcher in Goyer's lab. The idea is that future astronauts could carry a small amount of nutrient-rich soil with them and mix it with the dust already on the Moon. NASA, which plans to build a permanent base on the Moon, helped fund the research. Potatoes are a good first crop to test: they are filling, they grow underground, and they can be cooked in many ways. If they can thrive in moon dust, a lunar vegetable garden may not be far behind.",
+  "why_it_matters": "If astronauts can grow food on the Moon, future moon bases could feed themselves instead of depending on costly shipments from Earth.",
+  "image_url": "/article_images/science-s53ca008486fe72e2.webp",
+  "keywords": [
+    {
+      "term": "regolith",
+      "explanation": "The layer of dust and broken rock that covers the Moon's surface."
+    },
+    {
+      "term": "vermicompost",
+      "explanation": "Rich soil made with the help of worms, full of nutrients for plants."
+    },
+    {
+      "term": "life cycle",
+      "explanation": "All the stages a living thing goes through, from seed to grown plant."
+    },
+    {
+      "term": "toxicity",
+      "explanation": "How harmful or poisonous something is to living things."
+    },
+    {
+      "term": "maria",
+      "explanation": "The dark, flat plains on the Moon's surface."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What did scientists grow in simulated moon dust?",
+      "options": [
+        "Potatoes",
+        "Carrots",
+        "Corn",
+        "Tomatoes"
+      ],
+      "correct_answer": "Potatoes"
+    },
+    {
+      "question": "What is regolith?",
+      "options": [
+        "The dust and broken rock covering the Moon's surface",
+        "A type of fertilizer",
+        "A NASA spaceship",
+        "A kind of Moon rock candy"
+      ],
+      "correct_answer": "The dust and broken rock covering the Moon's surface"
+    },
+    {
+      "question": "What was the secret ingredient mixed into the fake regolith?",
+      "options": [
+        "Sand",
+        "Vermicompost",
+        "Crushed ice",
+        "Moon water"
+      ],
+      "correct_answer": "Vermicompost"
+    },
+    {
+      "question": "How much vermicompost worked about as well as regular soil?",
+      "options": [
+        "50 percent",
+        "10 percent",
+        "30 percent",
+        "90 percent"
+      ],
+      "correct_answer": "30 percent"
+    },
+    {
+      "question": "Why is growing food on the Moon important?",
+      "options": [
+        "Potatoes grow faster on the Moon",
+        "Astronauts get bored of space food",
+        "The Moon has no grocery stores yet",
+        "Shipping all food from Earth would cost a fortune"
+      ],
+      "correct_answer": "Shipping all food from Earth would cost a fortune"
+    },
+    {
+      "question": "Where were the findings published?",
+      "options": [
+        "On the Moon's website",
+        "In the journal Microgravity on November 20",
+        "In a cookbook",
+        "In a newspaper on Thanksgiving"
+      ],
+      "correct_answer": "In the journal Microgravity on November 20"
+    }
+  ],
+  "background_read": [
+    "The Moon's surface is covered in regolith, a layer of dust and broken rock with no nutrients for plants, so nothing can grow in it as it is.",
+    "Plants need nutrients from soil to grow, and compost made from decaying matter adds those nutrients and can also shield roots from harmful substances.",
+    "NASA plans to build a permanent base on the Moon, and astronauts living there would need a steady supply of fresh food, which is hard to ship from Earth."
+  ],
+  "Article_Structure": [
+    "LEAD: Scientists grew potatoes through their whole life cycle in simulated moon dust.",
+    "KEY EVENT: A team from Oregon State University mixed fake regolith with vermicompost.",
+    "  ├─ WHO: Researchers led by Aymeric Goyer at Oregon State University.",
+    "  └─ WHEN: Findings published November 20 in the journal Microgravity.",
+    "EVIDENCE: Regolith with 30 percent vermicompost worked about as well as regular soil.",
+    "OPEN QUESTION: Can astronauts grow enough food this way to live on the Moon long-term?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Aymeric Goyer, Oregon State professor",
+      "description": "He says the potatoes completing their life cycle is an important step toward food systems for long-term moon exploration."
+    },
+    {
+      "perspective": "David Handy, researcher",
+      "description": "He says the compost may balance the toxicity of lunar regolith by reducing the plants' exposure to harmful compounds."
+    }
+  ],
+  "mined_at": "2026-11-24T11:17:15+00:00",
+  "source_published_at": "Mon, 23 Nov 2026 22:00:00 +0000",
+  "source_name": "Space.com",
+  "source_url": "https://www.space.com/astronomy/moon/will-astronauts-farm-on-the-moon-scientists-successfully-grow-potatoes-in-simulated-lunar-dust",
+  "category": "Science",
+  "source_word_count": 474,
+  "detail_status": "full"
+}

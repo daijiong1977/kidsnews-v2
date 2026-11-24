@@ -1,0 +1,114 @@
+{
+  "title": "Storms May Slow Thanksgiving Trips",
+  "summary": "Thanksgiving is one of the busiest travel weeks of the year. This year, storms may make trips harder. Storms on both coasts could delay flights and car trips as families travel for the holiday. On Monday, more than 3,700 flights were delayed. Chicago's O'Hare Airport had a ground stop, so planes waited on the ground instead of taking off. Airlines are also still fixing problems from recent computer failures. Delta, a very big airline, says its flights are running again after a computer system went down. But delays from that problem are still causing trouble. On the West Coast, storms from the Pacific Ocean are expected to bring heavy rain and snow in the mountains. In the East, a storm forming over the Gulf of Mexico could bring rain, strong winds, and snow. Florida may see more rain after a week of heavy rain that already caused flooding. Millions of people fly or drive to see family for Thanksgiving. Even a small delay can mean long lines at the airport. If your family is traveling this week, check your flight before you leave home.",
+  "why_it_matters": "If your family is traveling for Thanksgiving, a storm delay could mean waiting in long lines at the airport.",
+  "image_url": "/article_images/news-sc1b0364a78daf6e5.webp",
+  "keywords": [
+    {
+      "term": "ground stop",
+      "explanation": "When planes are told to wait on the ground instead of taking off."
+    },
+    {
+      "term": "delayed",
+      "explanation": "Made late, so something happens later than planned."
+    },
+    {
+      "term": "flooding",
+      "explanation": "When too much rain covers land with water."
+    },
+    {
+      "term": "Pacific Ocean",
+      "explanation": "The big ocean on the west side of the United States."
+    },
+    {
+      "term": "Gulf of Mexico",
+      "explanation": "The sea on the south side of the United States, near Florida."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How many flights were delayed on Monday?",
+      "options": [
+        "More than 30,000",
+        "About 300",
+        "More than 3,700",
+        "None at all"
+      ],
+      "correct_answer": "More than 3,700"
+    },
+    {
+      "question": "What happened at Chicago's O'Hare Airport?",
+      "options": [
+        "It had a ground stop, so planes waited on the ground",
+        "It closed for the holiday",
+        "It moved to a new city",
+        "It ran out of fuel"
+      ],
+      "correct_answer": "It had a ground stop, so planes waited on the ground"
+    },
+    {
+      "question": "What may the West Coast storms bring?",
+      "options": [
+        "Strong winds only",
+        "Sunny skies",
+        "A heat wave",
+        "Heavy rain and snow in the mountains"
+      ],
+      "correct_answer": "Heavy rain and snow in the mountains"
+    },
+    {
+      "question": "What happened in Florida after a week of heavy rain?",
+      "options": [
+        "Flooding",
+        "A drought",
+        "Snow",
+        "An earthquake"
+      ],
+      "correct_answer": "Flooding"
+    },
+    {
+      "question": "What should families do before leaving home?",
+      "options": [
+        "Drive at night",
+        "Leave their phones at home",
+        "Check their flight",
+        "Pack extra food"
+      ],
+      "correct_answer": "Check their flight"
+    },
+    {
+      "question": "Why can even a small delay cause trouble at Thanksgiving?",
+      "options": [
+        "No one travels at Thanksgiving",
+        "Airports close early",
+        "Planes fly slower on holidays",
+        "Millions of people are traveling, so airports get crowded"
+      ],
+      "correct_answer": "Millions of people are traveling, so airports get crowded"
+    }
+  ],
+  "background_read": [
+    "Thanksgiving is a holiday when many families travel to be together.",
+    "Storms can slow down planes and cars with rain, snow, and strong wind.",
+    "When flights are delayed, airports get crowded and trips take longer."
+  ],
+  "Article_Structure": [
+    "WHO: Millions of families traveling for Thanksgiving.",
+    "WHAT: Storms on both coasts may delay flights and car trips.",
+    "WHERE: Airports and roads across the United States, including Chicago's O'Hare Airport and Florida.",
+    "WHY: Heavy rain, snow, and strong winds slow travel, and airlines are still fixing computer problems."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Delta, a very big airline",
+      "description": "Delta says its flights are running again after a computer system went down."
+    }
+  ],
+  "mined_at": "2026-11-24T11:17:15+00:00",
+  "source_published_at": "Mon, 23 Nov 2026 18:45:23 -0500",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/show/news-wrap-storms-threaten-thanksgiving-travel-as-airlines-rebound-from-tech-failures",
+  "category": "News",
+  "source_word_count": 703,
+  "detail_status": "full"
+}
