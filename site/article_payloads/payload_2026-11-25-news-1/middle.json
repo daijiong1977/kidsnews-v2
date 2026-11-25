@@ -1,0 +1,122 @@
+{
+  "title": "Spacecraft Returns to the Scene of a Cosmic Crash",
+  "summary": "A spacecraft has arrived at an asteroid to investigate the damage from an unprecedented cosmic crash, and the first close-up images are set to be released later on Wednesday.\n\nFour years ago, NASA's Dart spacecraft deliberately smashed into the asteroid Dimorphos at 22,000 kilometres per hour, about 14,000 miles per hour. The spacecraft was destroyed on impact. Now a European Space Agency mission called Hera is scouring the scene to fully assess what happened.\n\nDimorphos is about 150 metres wide, roughly 490 feet, and orbits a larger asteroid called Didymos, about 730 metres wide. The asteroid poses no threat to Earth. Instead, this was the first ever test of our planetary defences, to see what we could do if a space rock were heading for our planet.\n\nThe crash showed that it is possible to change an asteroid's path. Before the collision, Dimorphos took 11 hours and 55 minutes to orbit Didymos. After the crash, its orbit had shrunk by about 33 minutes. The smash-up was so big that a trail of debris about 10,000 kilometres long was spotted by telescopes on Earth and in space.\n\n\"Hera is a sort of Inspector Columbo going back to the crash scene to investigate what is the outcome of this impact,\" said Patrick Michel, the principal investigator of ESA's Hera mission. Dart exploded inside the asteroid, so scientists do not yet know its final state. The impact could have left a crater, or it may have entirely reshaped the asteroid.\n\nHera will spend the next year studying Dimorphos, and take a look at Didymos too. The spacecraft carries instruments and two small satellites about the size of shoe boxes, which can study the impact site up close and later land on the asteroid. A key task is to measure the mass of Dimorphos, to work out how effective the spacecraft's shove was. That information would be vital if we ever spotted a space rock on a collision course with Earth.",
+  "why_it_matters": "If a space rock ever heads for Earth, knowing how to push it away could save lives. This mission teaches scientists whether a spacecraft crash can really change an asteroid's path.",
+  "image_url": "/article_images/news-s63421d6a1cc205da.webp",
+  "keywords": [
+    {
+      "term": "unprecedented",
+      "explanation": "Something that has never happened before."
+    },
+    {
+      "term": "scouring",
+      "explanation": "Searching a place very carefully."
+    },
+    {
+      "term": "debris",
+      "explanation": "Broken pieces left after something is destroyed."
+    },
+    {
+      "term": "orbit",
+      "explanation": "The path an object takes as it travels around another object in space."
+    },
+    {
+      "term": "principal investigator",
+      "explanation": "The main scientist in charge of a research project."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is Hera going to study at Dimorphos?",
+      "options": [
+        "A comet passing Earth",
+        "The rings of Saturn",
+        "A new moon of Didymos",
+        "The damage from the Dart crash"
+      ],
+      "correct_answer": "The damage from the Dart crash"
+    },
+    {
+      "question": "How fast was Dart travelling when it hit Dimorphos?",
+      "options": [
+        "22,000 kilometres per hour",
+        "150 metres per second",
+        "33 minutes per hour",
+        "10,000 kilometres per hour"
+      ],
+      "correct_answer": "22,000 kilometres per hour"
+    },
+    {
+      "question": "How long did Dimorphos take to orbit Didymos before the crash?",
+      "options": [
+        "14,000 miles",
+        "One year",
+        "33 minutes",
+        "11 hours and 55 minutes"
+      ],
+      "correct_answer": "11 hours and 55 minutes"
+    },
+    {
+      "question": "What will Hera measure to work out how effective the push was?",
+      "options": [
+        "The mass of Dimorphos",
+        "The temperature of the sun",
+        "The age of Didymos",
+        "The speed of light"
+      ],
+      "correct_answer": "The mass of Dimorphos"
+    },
+    {
+      "question": "How long was the trail of debris from the crash?",
+      "options": [
+        "33 minutes",
+        "150 metres",
+        "730 metres",
+        "About 10,000 kilometres"
+      ],
+      "correct_answer": "About 10,000 kilometres"
+    },
+    {
+      "question": "Why did scientists crash Dart into Dimorphos?",
+      "options": [
+        "To destroy a dangerous asteroid",
+        "To take photos of Didymos",
+        "To test whether we can change an asteroid's path",
+        "To mine the asteroid for metals"
+      ],
+      "correct_answer": "To test whether we can change an asteroid's path"
+    }
+  ],
+  "background_read": [
+    "An asteroid is a rocky body that travels around the sun, mostly in a belt between Mars and Jupiter.",
+    "Space agencies sometimes crash spacecraft into asteroids on purpose to learn whether a push can change an asteroid's path.",
+    "Hera is a mission from the European Space Agency, which builds and flies spacecraft for European countries.",
+    "If scientists know how much an asteroid weighs and how it reacted to a crash, they can better plan how to move one that might threaten Earth."
+  ],
+  "Article_Structure": [
+    "LEAD: Hera arrives at Dimorphos to study the Dart crash",
+    "KEY EVENT: Dart smashed into Dimorphos four years ago",
+    "  ├─ WHO: NASA's Dart spacecraft and ESA's Hera mission",
+    "  ├─ WHAT: the first test of planetary defences",
+    "  └─ WHEN: first close-up images come out later on Wednesday",
+    "EVIDENCE: the orbit shrank by about 33 minutes and a 10,000-kilometre debris trail was seen",
+    "OPEN QUESTION: did the impact leave a crater or reshape the asteroid?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Patrick Michel, principal investigator of ESA's Hera mission",
+      "description": "Hera is like a detective returning to the crash scene to learn what the impact did."
+    },
+    {
+      "perspective": "Prof Simon Green, planetary scientist on Hera's science team",
+      "description": "Measuring Dimorphos will help predict what would happen if we had to hit another asteroid."
+    }
+  ],
+  "mined_at": "2026-11-25T11:20:53+00:00",
+  "source_published_at": "Wed, 25 Nov 2026 06:00:36 GMT",
+  "source_name": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+  "category": "News",
+  "source_word_count": 479,
+  "detail_status": "full"
+}

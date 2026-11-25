@@ -1,0 +1,109 @@
+{
+  "title": "A Spacecraft Visits a Crashed Asteroid",
+  "summary": "A spacecraft has come to an asteroid to look at the damage from a big space crash. The first close-up photos will come out later on Wednesday.\n\nFour years ago, NASA's Dart spacecraft crashed into the asteroid Dimorphos on purpose. It was flying at 22,000 kilometres per hour, about 14,000 miles per hour. The crash broke the spacecraft. Now a spacecraft from Europe, called Hera, is looking at the crash site to see what happened.\n\nDimorphos is about 150 metres wide. It goes around a bigger asteroid called Didymos. The asteroid is not a danger to Earth. This was the first test to see if we can push an asteroid away if one ever comes toward Earth.\n\nThe crash did change the asteroid's path. Before the crash, Dimorphos took 11 hours and 55 minutes to go around Didymos. After the crash, it took about 33 minutes less. The crash was so big that a trail of broken pieces about 10,000 kilometres long was seen by telescopes.",
+  "why_it_matters": "One day, knowing how to move an asteroid could help protect Earth, and this test shows it might work.",
+  "image_url": "/article_images/news-s63421d6a1cc205da.webp",
+  "keywords": [
+    {
+      "term": "spacecraft",
+      "explanation": "A vehicle that travels in space."
+    },
+    {
+      "term": "asteroid",
+      "explanation": "A rock that travels around the sun in space."
+    },
+    {
+      "term": "purpose",
+      "explanation": "The reason something is done."
+    },
+    {
+      "term": "telescopes",
+      "explanation": "Tools that make faraway things look closer."
+    },
+    {
+      "term": "trail",
+      "explanation": "A long line left behind by something that moved."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What spacecraft crashed into Dimorphos four years ago?",
+      "options": [
+        "NASA's Dart",
+        "Hera",
+        "A rocket from Europe",
+        "A telescope"
+      ],
+      "correct_answer": "NASA's Dart"
+    },
+    {
+      "question": "What spacecraft is now looking at the crash site?",
+      "options": [
+        "Dart",
+        "Hera, from Europe",
+        "A space station",
+        "A telescope"
+      ],
+      "correct_answer": "Hera, from Europe"
+    },
+    {
+      "question": "How wide is Dimorphos?",
+      "options": [
+        "About 10,000 kilometres",
+        "About 1,000 metres",
+        "About 22,000 kilometres",
+        "About 150 metres"
+      ],
+      "correct_answer": "About 150 metres"
+    },
+    {
+      "question": "How much less time does Dimorphos take to go around Didymos after the crash?",
+      "options": [
+        "No less time at all",
+        "11 hours and 55 minutes less",
+        "About 33 minutes less",
+        "About 10 minutes less"
+      ],
+      "correct_answer": "About 33 minutes less"
+    },
+    {
+      "question": "How fast was Dart flying when it crashed?",
+      "options": [
+        "150 kilometres per hour",
+        "1,000 kilometres per hour",
+        "22,000 kilometres per hour",
+        "10,000 kilometres per hour"
+      ],
+      "correct_answer": "22,000 kilometres per hour"
+    },
+    {
+      "question": "How long was the trail of broken pieces seen by telescopes?",
+      "options": [
+        "About 11 hours",
+        "150 metres",
+        "About 33 minutes",
+        "About 10,000 kilometres"
+      ],
+      "correct_answer": "About 10,000 kilometres"
+    }
+  ],
+  "background_read": [
+    "An asteroid is a rock that travels around the sun in space.",
+    "NASA's Dart spacecraft crashed into the asteroid Dimorphos on purpose, to test if we can push an asteroid away.",
+    "The European spacecraft Hera flew there to look at the damage and see how well the test worked."
+  ],
+  "Article_Structure": [
+    "WHO: NASA's Dart spacecraft and Europe's Hera spacecraft",
+    "WHAT: Hera is looking at the damage from Dart's crash into the asteroid Dimorphos",
+    "WHERE: At the asteroid Dimorphos, which goes around the bigger asteroid Didymos",
+    "WHY: To test if we can push an asteroid away if one ever comes toward Earth"
+  ],
+  "perspectives": [],
+  "mined_at": "2026-11-25T11:20:53+00:00",
+  "source_published_at": "Wed, 25 Nov 2026 06:00:36 GMT",
+  "source_name": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+  "category": "News",
+  "source_word_count": 479,
+  "detail_status": "full"
+}

@@ -1,0 +1,118 @@
+{
+  "title": "Is This El Niño a 'Mega' One?",
+  "summary": "This year's El Niño keeps getting bigger nicknames. First people called it \"Super El Niño.\" Then they called it \"Godzilla El Niño.\" Now some people call it \"Mega El Niño.\" But scientists say there is no new official name for it.\n\nEl Niño is a weather pattern. It happens when the water in the middle and east of the tropical Pacific Ocean gets warmer than usual.\n\nA weather scientist named Ryan Maue put a map online. He said the sea near Peru and the Galapagos Islands was as much as 10 degrees Celsius warmer than normal. \"This is now a Mega El Niño,\" he wrote.\n\nBut NOAA, the US National Oceanic and Atmospheric Administration, says something different. Its numbers show the sea is about 4 to 6 degrees Celsius warmer than normal in the eastern Pacific.\n\nEmily Becker, a scientist at the University of Miami, said there is no need to invent a new group above \"very strong.\" David Phillips, a weather expert in Canada, did not agree.",
+  "why_it_matters": "Nicknames for weather can be fun, but the real numbers matter when you want to know what the weather will do.",
+  "image_url": "/article_images/news-s1dae4fb3be5c2944.webp",
+  "keywords": [
+    {
+      "term": "tropical",
+      "explanation": "To do with the warm part of the world near the equator."
+    },
+    {
+      "term": "pattern",
+      "explanation": "Something that happens again and again in the same way."
+    },
+    {
+      "term": "Celsius",
+      "explanation": "The way we measure temperature in most of the world."
+    },
+    {
+      "term": "Administration",
+      "explanation": "A group that runs part of a government."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is the newest nickname for this year's El Niño?",
+      "options": [
+        "\"Super El Niño\"",
+        "\"Monster El Niño\"",
+        "\"Mega El Niño\"",
+        "\"Godzilla El Niño\""
+      ],
+      "correct_answer": "\"Mega El Niño\""
+    },
+    {
+      "question": "What is El Niño?",
+      "options": [
+        "A mountain",
+        "A weather pattern",
+        "A storm",
+        "A kind of fish"
+      ],
+      "correct_answer": "A weather pattern"
+    },
+    {
+      "question": "Who put a map online saying the sea was as much as 10 degrees Celsius warmer than normal?",
+      "options": [
+        "Emily Becker",
+        "Michelle L'Heureux",
+        "David Phillips",
+        "Ryan Maue"
+      ],
+      "correct_answer": "Ryan Maue"
+    },
+    {
+      "question": "How much warmer does NOAA say the sea is in the eastern Pacific?",
+      "options": [
+        "1 to 2 degrees Celsius",
+        "10 degrees Celsius",
+        "About 4 to 6 degrees Celsius",
+        "20 degrees Celsius"
+      ],
+      "correct_answer": "About 4 to 6 degrees Celsius"
+    },
+    {
+      "question": "Who said there is no need to invent a new group above \"very strong\"?",
+      "options": [
+        "Ryan Maue",
+        "Emily Becker",
+        "David Phillips",
+        "Michelle L'Heureux"
+      ],
+      "correct_answer": "Emily Becker"
+    },
+    {
+      "question": "Who disagreed with Emily Becker?",
+      "options": [
+        "NOAA",
+        "Michelle L'Heureux",
+        "Ryan Maue",
+        "David Phillips"
+      ],
+      "correct_answer": "David Phillips"
+    }
+  ],
+  "background_read": [
+    "El Niño is a weather pattern in the Pacific Ocean.",
+    "When the sea there gets warmer than usual, it changes the weather in many places around the world.",
+    "Scientists measure how warm the sea is and sort El Niño into groups, from weak to very strong."
+  ],
+  "Article_Structure": [
+    "WHO: Scientists Ryan Maue, Emily Becker and David Phillips, and NOAA",
+    "WHAT: People are calling this year's El Niño \"Mega\", but scientists say there is no new official name",
+    "WHERE: In the tropical Pacific Ocean, near Peru and the Galapagos Islands",
+    "WHY: The sea is warmer than usual, but NOAA says it is only \"very strong\", not a new kind of El Niño"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Ryan Maue",
+      "description": "He said this is now a Mega El Niño, after posting a map showing sea temperatures as much as 10 degrees Celsius above normal."
+    },
+    {
+      "perspective": "NOAA",
+      "description": "It says its numbers show the sea is about 4 to 6 degrees Celsius warmer than normal, and it has not changed its wording."
+    },
+    {
+      "perspective": "Emily Becker",
+      "description": "She said there is no need to invent a new group above \"very strong\"."
+    }
+  ],
+  "mined_at": "2026-11-25T11:20:53+00:00",
+  "source_published_at": "Wed, 25 Nov 2026 04:00:00 EST",
+  "source_name": "CBC World",
+  "source_url": "https://www.cbc.ca/news/climate/super-mega-godzilla-el-nino-9.7433588?cmp=rss",
+  "category": "News",
+  "source_word_count": 509,
+  "detail_status": "full"
+}

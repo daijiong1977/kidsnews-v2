@@ -1,0 +1,118 @@
+{
+  "title": "Earth's Next Ice Age May Have Started, Then Stopped",
+  "summary": "About 2,000 years ago, the remnants of a massive ice sheet in the Canadian Arctic began expanding once again. According to new research, this slow buildup of ice may have marked the beginning of Earth's next glacial period, commonly called an ice age. But something unexpected happened. By the 1960s, rising summer temperatures had reversed the trend, causing the ice to retreat instead of grow.\n\nThe findings suggest that global warming may have interrupted a new ice age that was already getting underway. \"It was just getting started, everything was normal, the next glaciation was about to happen, and yet it stopped,\" says Nicolas Young, a geochemist at Columbia Climate School's Lamont-Doherty Earth Observatory. \"It's a very powerful example of how we have jolted the system.\"\n\nIn a study published in Science, Young and fellow Lamont geochemist Joerg Schaefer investigated the history of the Laurentide Ice Sheet. This enormous mass of ice covered much of Canada and the northern United States between about 95,000 and 20,000 years ago. At its greatest extent, it stretched from north of the Arctic Circle all the way south to Illinois, and in some locations its ice was more than two miles thick.\n\nMost of this enormous ice sheet disappeared as the climate warmed, but one surviving piece remains: the Barnes Ice Cap, an ancient remnant on central Baffin Island in Nunavut, Canada, covering an area roughly the size of Delaware. \"People always say that it disappeared, but that's not true,\" says Young.\n\nPiecing together the history of an ice sheet is hard, because as glaciers advance they scrape across the land, destroying the traces that could reveal where and when the ice first began spreading. But unlike most glaciers, the Barnes Ice Cap is frozen directly to the bedrock beneath it and does not slide across the landscape. So plants that once grew in areas later covered by expanding ice can remain preserved in place for thousands of years.\n\nSince the Barnes Ice Cap began retreating in 1960, previously buried vegetation has gradually emerged from beneath the melting ice. Researchers collect these ancient plant remains and determine when they were alive using radiocarbon dating, which measures carbon-14, a form of carbon that living things absorb from the atmosphere and that breaks down at a predictable rate once an organism dies. By dating enough plants, the team could build a timeline of the ice margin advancing over them.\n\nOne note on wording: technically, we are still living in an ice age, the Late Cenozoic Ice Age, which started about 34 million years ago. Within it, colder glacial periods alternate with warmer interglacial ones, including the one we live in now. The last glacial period ended about 11,700 years ago.",
+  "why_it_matters": "This discovery shows how strongly humans have changed Earth's climate. A natural ice age was starting, and warming stopped it, which helps scientists understand what our choices mean for the planet's future.",
+  "image_url": "/article_images/science-sa22b50236deebdc5.webp",
+  "keywords": [
+    {
+      "term": "glacial period",
+      "explanation": "A long time when the Earth is much colder and ice covers more land."
+    },
+    {
+      "term": "radiocarbon dating",
+      "explanation": "A way to find out how old something once living is by measuring a form of carbon in it."
+    },
+    {
+      "term": "bedrock",
+      "explanation": "The solid rock under the soil on the ground."
+    },
+    {
+      "term": "geochemist",
+      "explanation": "A scientist who studies the chemicals in rocks and the Earth."
+    },
+    {
+      "term": "interglacial",
+      "explanation": "A warmer time between two cold glacial periods."
+    }
+  ],
+  "questions": [
+    {
+      "question": "When did the ice sheet in the Canadian Arctic begin expanding again?",
+      "options": [
+        "About 200 years ago",
+        "About 34 million years ago",
+        "About 2,000 years ago",
+        "About 95,000 years ago"
+      ],
+      "correct_answer": "About 2,000 years ago"
+    },
+    {
+      "question": "What stopped the ice from growing?",
+      "options": [
+        "Rising summer temperatures",
+        "A new ice age",
+        "A meteor crash",
+        "A volcanic eruption"
+      ],
+      "correct_answer": "Rising summer temperatures"
+    },
+    {
+      "question": "What is the name of the surviving piece of the Laurentide Ice Sheet?",
+      "options": [
+        "The Arctic Circle",
+        "The Laurentide Ice Sheet",
+        "The Barnes Ice Cap",
+        "Baffin Island"
+      ],
+      "correct_answer": "The Barnes Ice Cap"
+    },
+    {
+      "question": "How do scientists date the ancient plants?",
+      "options": [
+        "Looking at satellite photos",
+        "Radiocarbon dating",
+        "Measuring the ice thickness",
+        "Counting tree rings"
+      ],
+      "correct_answer": "Radiocarbon dating"
+    },
+    {
+      "question": "How thick was the Laurentide Ice Sheet in some places?",
+      "options": [
+        "About 150 metres thick",
+        "Two inches thick",
+        "More than two miles thick",
+        "About 17 hours thick"
+      ],
+      "correct_answer": "More than two miles thick"
+    },
+    {
+      "question": "When did the last glacial period end?",
+      "options": [
+        "About 11,700 years ago",
+        "About 2,000 years ago",
+        "In the 1960s",
+        "About 34 million years ago"
+      ],
+      "correct_answer": "About 11,700 years ago"
+    }
+  ],
+  "background_read": [
+    "Earth has gone through many ice ages, when huge sheets of ice covered large parts of the planet.",
+    "Ice sheets grow when snow builds up over thousands of years and shrink when the climate warms.",
+    "Scientists study ancient ice, rocks and plants to learn how Earth's climate has changed in the past.",
+    "A glacial period is a cold stretch inside a longer ice age, while an interglacial is a warmer stretch in between."
+  ],
+  "Article_Structure": [
+    "LEAD: Earth's next ice age may have begun 2,000 years ago, then stopped",
+    "KEY EVENT: Rising temperatures reversed the ice growth by the 1960s",
+    "  ├─ WHO: geochemists Nicolas Young and Joerg Schaefer",
+    "  ├─ WHAT: a study of the Laurentide Ice Sheet published in Science",
+    "  └─ WHEN: ice began expanding about 2,000 years ago",
+    "EVIDENCE: ancient plants buried by ice, dated by radiocarbon, show the ice margin advancing",
+    "OPEN QUESTION: how much has warming changed Earth's natural climate cycles?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Nicolas Young, geochemist at Columbia Climate School",
+      "description": "It was just getting started, and yet it stopped. It is a very powerful example of how we have jolted the system."
+    }
+  ],
+  "mined_at": "2026-11-25T11:20:53+00:00",
+  "source_published_at": "Tue, 24 Nov 2026 04:29:15 EST",
+  "source_name": "ScienceDaily Top Environment",
+  "source_url": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm",
+  "category": "Science",
+  "source_word_count": 679,
+  "detail_status": "full"
+}

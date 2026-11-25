@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-24-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Mon, 23 Nov 2026 18:45:23 -0500",
-      "mined_at": "2026-11-24T11:17:15+00:00",
-      "source_published_at": "Mon, 23 Nov 2026 18:45:23 -0500",
-      "image_url": "/article_images/news-sc1b0364a78daf6e5.webp",
+      "id": "2026-11-25-news-1",
+      "source": "BBC News",
+      "time_ago": "Wed, 25 Nov 2026 06:00:36 GMT",
+      "mined_at": "2026-11-25T11:20:53+00:00",
+      "source_published_at": "Wed, 25 Nov 2026 06:00:36 GMT",
+      "image_url": "/article_images/news-s63421d6a1cc205da.webp",
       "category": "News",
-      "title": "Storms Could Slow Thanksgiving Travel",
-      "summary": "Storms on both coasts and recent airline computer problems could delay Thanksgiving trips this week."
+      "title": "Spacecraft Returns to the Scene of a Cosmic Crash",
+      "summary": "ESA's Hera spacecraft has arrived at the asteroid Dimorphos to study the crash NASA's Dart spacecraft caused in 2022, the first test of Earth's planetary defences."
     },
     {
-      "id": "2026-11-24-news-2",
-      "source": "NPR World",
-      "time_ago": "Tue, 24 Nov 2026 05:00:00 -0500",
-      "mined_at": "2026-11-24T11:17:15+00:00",
-      "source_published_at": "Tue, 24 Nov 2026 05:00:00 -0500",
-      "image_url": "/article_images/news-s5ef8bc5e24a01db4.webp",
+      "id": "2026-11-25-news-2",
+      "source": "CBC World",
+      "time_ago": "Wed, 25 Nov 2026 04:00:00 EST",
+      "mined_at": "2026-11-25T11:20:53+00:00",
+      "source_published_at": "Wed, 25 Nov 2026 04:00:00 EST",
+      "image_url": "/article_images/news-s1dae4fb3be5c2944.webp",
       "category": "News",
-      "title": "The Little Gas Station That Welcomed Everyone",
-      "summary": "The Threatt Filling Station was the only known Black-owned gas station on Route 66, and the family is restoring it for its 100th anniversary."
+      "title": "Is This El Niño a 'Mega' One? Scientists Say Not So Fast",
+      "summary": "Nicknames for this year's El Niño keep getting bigger, from Super to Godzilla to Mega, but scientists say NOAA's top category is still simply very strong."
     },
     {
-      "id": "2026-11-24-news-3",
-      "source": "NPR World",
-      "time_ago": "Tue, 24 Nov 2026 05:00:00 -0500",
-      "mined_at": "2026-11-24T11:17:15+00:00",
-      "source_published_at": "Tue, 24 Nov 2026 05:00:00 -0500",
-      "image_url": "/article_images/news-s06435bab03aeaaab.webp",
+      "id": "2026-11-25-news-3",
+      "source": "BBC News",
+      "time_ago": "Wed, 25 Nov 2026 10:52:09 GMT",
+      "mined_at": "2026-11-25T11:20:53+00:00",
+      "source_published_at": "Wed, 25 Nov 2026 10:52:09 GMT",
+      "image_url": "/article_images/news-sb30c60a8b7a90f42.webp",
       "category": "News",
-      "title": "Colombia's Fuzzy 'Water Guardians' Need Help",
-      "summary": "Volunteers in Colombia are replanting fuzzy frailejón plants that protect the mountain wetlands supplying much of the country's water."
+      "title": "Huawei Found Guilty of Stealing Trade Secrets",
+      "summary": "A Brooklyn jury found Huawei guilty of stealing trade secrets and bank fraud, but cleared it of the most serious racketeering charge."
     }
   ]
 }

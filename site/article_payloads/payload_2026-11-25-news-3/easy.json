@@ -1,0 +1,118 @@
+{
+  "title": "Huawei Found Guilty of Stealing Secrets",
+  "summary": "A jury in a court in Brooklyn has found the big Chinese technology company Huawei guilty of a crime. The company was found guilty of planning to steal trade secrets and of bank fraud.\n\nThe jury found Huawei guilty on 10 of 12 counts. One of the counts was breaking US sanctions, which are rules that stop a country or company from trading with others. But the jury did not find Huawei guilty of racketeering. That charge would have meant the jury thought Huawei acted like a criminal gang.\n\nThe lawyers for the US government said Huawei lied, cheated and stole to get ahead of other companies. They said Huawei spent 20 years doing whatever it took to grow, including lying to banks about its business in Iran and taking technology secrets from other companies.\n\nHuawei's lawyers said the company grew because of its own new ideas, not because of crime. The company said being cleared of the racketeering charge shows those claims had no facts behind them.",
+  "why_it_matters": "It shows that even the biggest companies must follow the law, and that courts decide what is fair.",
+  "image_url": "/article_images/news-sb30c60a8b7a90f42.webp",
+  "keywords": [
+    {
+      "term": "trade secrets",
+      "explanation": "Secret ways of making or doing something that help a company."
+    },
+    {
+      "term": "bank fraud",
+      "explanation": "Lying to a bank to get money or an advantage."
+    },
+    {
+      "term": "sanctions",
+      "explanation": "Rules that stop a country or company from trading with others."
+    },
+    {
+      "term": "racketeering",
+      "explanation": "Running a business the way a criminal gang does."
+    },
+    {
+      "term": "jury",
+      "explanation": "A group of people in a court who decide if someone broke the law."
+    }
+  ],
+  "questions": [
+    {
+      "question": "Where was Huawei found guilty?",
+      "options": [
+        "In a court in Paris",
+        "In a court in China",
+        "In a court in London",
+        "In a court in Brooklyn"
+      ],
+      "correct_answer": "In a court in Brooklyn"
+    },
+    {
+      "question": "How many of the 12 counts was Huawei found guilty on?",
+      "options": [
+        "10",
+        "12",
+        "2",
+        "None"
+      ],
+      "correct_answer": "10"
+    },
+    {
+      "question": "What was Huawei NOT found guilty of?",
+      "options": [
+        "Bank fraud",
+        "Breaking US sanctions",
+        "Racketeering",
+        "Planning to steal trade secrets"
+      ],
+      "correct_answer": "Racketeering"
+    },
+    {
+      "question": "What did the US government's lawyers say Huawei did?",
+      "options": [
+        "Grew because of its own new ideas",
+        "Helped other companies",
+        "Followed all the rules",
+        "Lied, cheated and stole to get ahead"
+      ],
+      "correct_answer": "Lied, cheated and stole to get ahead"
+    },
+    {
+      "question": "How long did the US government's lawyers say Huawei had been doing this?",
+      "options": [
+        "5 years",
+        "2 years",
+        "20 years",
+        "10 years"
+      ],
+      "correct_answer": "20 years"
+    },
+    {
+      "question": "What did Huawei's lawyers say about the company's growth?",
+      "options": [
+        "It grew because of its own new ideas, not because of crime",
+        "It did not grow at all",
+        "It grew by copying others",
+        "It grew because of crime"
+      ],
+      "correct_answer": "It grew because of its own new ideas, not because of crime"
+    }
+  ],
+  "background_read": [
+    "Huawei is a big technology company from China.",
+    "A trade secret is a secret way of making or doing something that gives a company an advantage.",
+    "In the United States, a jury in a court decides if a person or company broke the law."
+  ],
+  "Article_Structure": [
+    "WHO: The technology company Huawei and a jury in Brooklyn",
+    "WHAT: A jury found Huawei guilty of planning to steal trade secrets and of bank fraud",
+    "WHERE: In a court in Brooklyn, in the United States",
+    "WHY: The US government said Huawei lied, cheated and stole to get ahead, while Huawei said it grew from its own new ideas"
+  ],
+  "perspectives": [
+    {
+      "perspective": "The US government's lawyers",
+      "description": "They said Huawei lied, cheated and stole to get ahead of other companies."
+    },
+    {
+      "perspective": "Huawei's lawyers",
+      "description": "They said the company grew because of its own new ideas, not because of crime."
+    }
+  ],
+  "mined_at": "2026-11-25T11:20:53+00:00",
+  "source_published_at": "Wed, 25 Nov 2026 10:52:09 GMT",
+  "source_name": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+  "category": "News",
+  "source_word_count": 507,
+  "detail_status": "full"
+}
