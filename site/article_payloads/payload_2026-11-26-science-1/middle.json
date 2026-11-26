@@ -1,0 +1,122 @@
+{
+  "title": "A Tiny New Tiger Cat Joins the Feline Family Tree",
+  "summary": "Attention, cat lovers: scientists have just added a brand-new branch to the feline family tree. Meet Leopardus tilcayo, a pint-size tiger cat from Bolivia — and the first new living cat species described in more than a century.\n\nThese tiny cats have slender bodies, spotted fur and ringed tails. They weigh only about two kilograms (4.4 pounds), about as much as a four-month-old domestic kitten. They appear native to the Yungas forests of the central Andes Mountains.\n\nScientists named and described L. tilcayo in a paper in the October 5 issue of Current Biology. The last new living cat species described by scientists was the Uruguayan pampas cat, first described in 1923.\n\nThe discovery was a surprise. Jonas Lescroart, an evolutionary biologist at the University of Antwerp in Belgium, and his team set out to narrow down how many tiger-cat species there are. They analyzed the genetics of 38 species in the Leopardus genus. They expected to find between two and possibly four distinct tiger-cat species. Instead, their analyses point to five — and one of them had never been described before.\n\nThe evidence comes from two specimens. One is a female that was treated briefly for injuries at a sanctuary in Bolivia and later released back into the wild. The second, a male named Tigrino, still lives at the sanctuary. Cat conservationist Paola Nogales-Ascarrunz met Tigrino there and noticed he looked a bit different. Curious, she genetically tested him and shared her data with Lescroart's team.\n\nScientists still don't yet know how many of these tiny cats exist in the wild. Lescroart says he doesn't know if we'll have to wait another 100 years for a new species. 'I did not at all expect attention at this scale,' he says.",
+  "why_it_matters": "Discovering a new species shows that wild places still hold surprises, and knowing a species exists is the first step toward protecting it and its forest home.",
+  "image_url": "/article_images/science-s391198fa2e1c0989.webp",
+  "keywords": [
+    {
+      "term": "evolutionary biologist",
+      "explanation": "A scientist who studies how living things have changed over a very long time."
+    },
+    {
+      "term": "genetics",
+      "explanation": "The study of genes, the tiny instructions inside living things that shape how they grow and look."
+    },
+    {
+      "term": "genus",
+      "explanation": "A group of closely related living things, like a family of species."
+    },
+    {
+      "term": "specimens",
+      "explanation": "Single examples of an animal or plant that scientists study closely."
+    },
+    {
+      "term": "sanctuary",
+      "explanation": "A safe place where hurt or rescued animals are looked after."
+    },
+    {
+      "term": "conservationist",
+      "explanation": "A person whose job is to protect wild animals and nature."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is the new cat species called?",
+      "options": [
+        "Leopardus tilcayo",
+        "Tigrino",
+        "The Yungas tiger cat",
+        "The Uruguayan pampas cat"
+      ],
+      "correct_answer": "Leopardus tilcayo"
+    },
+    {
+      "question": "How much do these tiny cats weigh?",
+      "options": [
+        "About ten kilograms",
+        "About two kilograms",
+        "About half a kilogram",
+        "About twenty kilograms"
+      ],
+      "correct_answer": "About two kilograms"
+    },
+    {
+      "question": "Where do these cats appear to live?",
+      "options": [
+        "The deserts of northern Chile",
+        "The mountains of North America",
+        "The rainforests of Brazil",
+        "The Yungas forests of the central Andes Mountains"
+      ],
+      "correct_answer": "The Yungas forests of the central Andes Mountains"
+    },
+    {
+      "question": "How many tiger-cat species did the team's analyses point to?",
+      "options": [
+        "Five",
+        "Two",
+        "Four",
+        "Three"
+      ],
+      "correct_answer": "Five"
+    },
+    {
+      "question": "How did Paola Nogales-Ascarrunz help with the discovery?",
+      "options": [
+        "She found the female cat in the forest",
+        "She noticed Tigrino looked different, tested his genes, and shared her data",
+        "She named the species after herself",
+        "She wrote the paper in Current Biology"
+      ],
+      "correct_answer": "She noticed Tigrino looked different, tested his genes, and shared her data"
+    },
+    {
+      "question": "What is still unknown about these cats?",
+      "options": [
+        "How many of them exist in the wild",
+        "What the male cat is named",
+        "Whether they have spotted fur",
+        "Where the sanctuary is"
+      ],
+      "correct_answer": "How many of them exist in the wild"
+    }
+  ],
+  "background_read": [
+    "A species is a group of animals that share the same features and can have young together, and scientists give each species a two-part Latin name.",
+    "Tiger cats are small wild cats with spotted coats that live in the Americas.",
+    "Scientists tell species apart by comparing how animals look and by studying their genes, the instructions inside cells that shape how a living thing grows.",
+    "When a wild animal is hurt or needs care, it may be looked after at a sanctuary, a safe place where animals are protected and can sometimes return to the wild."
+  ],
+  "Article_Structure": [
+    "LEAD: Scientists have described Leopardus tilcayo, a tiny tiger cat from Bolivia — the first new living cat species in more than a century.",
+    "KEY EVENT: The new species was named in a paper in the October 5 issue of Current Biology.",
+    "  ├─ WHO: Jonas Lescroart and his team at the University of Antwerp, with cat conservationist Paola Nogales-Ascarrunz",
+    "  ├─ WHAT: Genetic tests of 38 species in the Leopardus genus pointed to five tiger-cat species, including one never described before",
+    "  └─ WHEN: The paper appeared in the October 5 issue of Current Biology, and the last new living cat species was described in 1923",
+    "EVIDENCE: Two specimens — a female treated briefly at a Bolivian sanctuary and released, and a male named Tigrino who still lives there",
+    "OPEN QUESTION: Scientists still do not know how many of these tiny cats exist in the wild"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Jonas Lescroart",
+      "description": "He was surprised by the discovery and by how much attention it received, saying he did not expect attention at this scale."
+    }
+  ],
+  "mined_at": "2026-11-26T14:14:40+00:00",
+  "source_published_at": "Tue, 24 Nov 2026 11:30:00 +0000",
+  "source_name": "Science News Explores",
+  "source_url": "https://www.snexplores.org/article/new-living-cat-species",
+  "category": "Science",
+  "source_word_count": 724,
+  "detail_status": "full"
+}

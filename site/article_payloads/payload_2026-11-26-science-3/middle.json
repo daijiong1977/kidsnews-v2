@@ -1,0 +1,118 @@
+{
+  "title": "The Electric Seaglider That Flies on a Cushion of Air",
+  "summary": "It's a bird! It's a plane! Actually, it's a 50-foot-long electric seaglider. The vessel, built by the MIT alumni-founded company Regent Craft, can float like a boat, rise on hydrofoils, then fly just above the surface at up to 180 miles per hour.\n\nThe trick is called the ground effect. Flying close to a surface like water gives an aircraft extra lift and less drag. 'We're flying on a cushion of air just like a bird skimming over the surface,' says Billy Thalheimer, one of the company's founders. The seaglider can travel up to 180 miles on a single charge.\n\nThe larger passenger vessel, called Viceroy, has a 65-foot wingspan and first flew this September. It can carry up to 14 people or about 3,500 pounds of cargo. They hope it will combine the speed of planes with the cost of ferries — six times faster than a ferry, Thalheimer says, but half the cost of an airline ticket.\n\nThe idea grew from a spectacular flop. In July 2016, Thalheimer and co-founder Mike Klinker entered Red Bull's Flugtag competition, which challenges teams to fly human-powered machines over water. On the bank of Boston's Charles River, they pushed their craft off the edge — and it nosedived into the water. 'The flight went horrendously wrong,' Thalheimer says. 'It was embarrassing, but it was also a really good lesson in engineering and risk mitigation.'\n\nElectric power brings other perks. A jet engine has thousands of complex parts, but Regent's seaglider has a battery with no moving parts and a motor with one moving part. Thalheimer says both vessels have passed their float, foil and fly tests, and the company is 'full speed ahead moving into production.' He imagines trips like New York to the Hamptons — 'like high-speed rail on every coastline of the world.'",
+  "why_it_matters": "Faster, cheaper trips across water could change how people travel along coasts, and the story shows how a public failure can lead to a better idea.",
+  "image_url": "/article_images/science-s336928973a99aa5c.webp",
+  "keywords": [
+    {
+      "term": "hydrofoils",
+      "explanation": "Wing-like parts under a boat that lift it out of the water as it speeds up."
+    },
+    {
+      "term": "ground effect",
+      "explanation": "The extra lift an aircraft gets when it flies very close to a surface such as water."
+    },
+    {
+      "term": "drag",
+      "explanation": "The force of air or water that slows a moving object down."
+    },
+    {
+      "term": "wingspan",
+      "explanation": "The distance from the tip of one wing to the tip of the other."
+    },
+    {
+      "term": "risk mitigation",
+      "explanation": "Steps taken to make something less likely to go wrong."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How fast can the seaglider fly?",
+      "options": [
+        "Up to 65 miles per hour",
+        "Up to 50 miles per hour",
+        "Up to 14 miles per hour",
+        "Up to 180 miles per hour"
+      ],
+      "correct_answer": "Up to 180 miles per hour"
+    },
+    {
+      "question": "How far can the seaglider travel on a single charge?",
+      "options": [
+        "Up to 65 miles",
+        "Up to 180 miles",
+        "Up to 3,500 miles",
+        "Up to 14 miles"
+      ],
+      "correct_answer": "Up to 180 miles"
+    },
+    {
+      "question": "What is the larger passenger vessel called?",
+      "options": [
+        "Viceroy",
+        "Charles River",
+        "Flugtag",
+        "Regent Craft"
+      ],
+      "correct_answer": "Viceroy"
+    },
+    {
+      "question": "How many people can Viceroy carry?",
+      "options": [
+        "Up to 65 people",
+        "Up to 50 people",
+        "Up to 180 people",
+        "Up to 14 people"
+      ],
+      "correct_answer": "Up to 14 people"
+    },
+    {
+      "question": "What happened in the 2016 Flugtag competition?",
+      "options": [
+        "Their craft won first prize",
+        "Their craft nosedived into the water",
+        "Their craft flew across the river",
+        "Their craft never left the bank"
+      ],
+      "correct_answer": "Their craft nosedived into the water"
+    },
+    {
+      "question": "What is one advantage of the seaglider's electric power?",
+      "options": [
+        "Its motor has thousands of parts",
+        "It runs on jet fuel",
+        "Its battery needs no charging",
+        "Its battery has no moving parts and its motor has one moving part"
+      ],
+      "correct_answer": "Its battery has no moving parts and its motor has one moving part"
+    }
+  ],
+  "background_read": [
+    "A seaglider is a craft that works in three ways: it floats like a boat, rises on hydrofoils, and then flies just above the water.",
+    "Flying close to a surface gives an aircraft extra lift and less drag, and this is called the ground effect.",
+    "Electric motors have far fewer moving parts than jet engines, which can make them simpler to build and run.",
+    "Ferries carry people across water but move slowly, while planes are fast but costly, so a seaglider tries to offer something in between."
+  ],
+  "Article_Structure": [
+    "LEAD: Regent Craft's electric seaglider can float like a boat, rise on hydrofoils, and fly just above the waves at up to 180 miles per hour.",
+    "KEY EVENT: The larger passenger vessel, Viceroy, first flew this September.",
+    "  ├─ WHO: Billy Thalheimer and Mike Klinker, founders of Regent Craft",
+    "  ├─ WHAT: A 50-foot-long electric seaglider that uses the ground effect to fly on a cushion of air",
+    "  └─ WHERE: Just above the water, with trips imagined like New York to the Hamptons",
+    "BACKGROUND: The idea grew from a failed human-powered flying machine at a 2016 Flugtag contest on Boston's Charles River",
+    "NEXT STEP: Both vessels have passed their float, foil, and fly tests, and the company is moving into production"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Billy Thalheimer",
+      "description": "He says the seaglider could be six times faster than a ferry but half the cost of an airline ticket."
+    }
+  ],
+  "mined_at": "2026-11-26T14:14:40+00:00",
+  "source_published_at": "Wed, 25 Nov 2026 00:00:00 -0500",
+  "source_name": "MIT News",
+  "source_url": "https://news.mit.edu/2026/electric-seaglider-from-mit-alumni-takes-flight-1125",
+  "category": "Science",
+  "source_word_count": 921,
+  "detail_status": "full"
+}

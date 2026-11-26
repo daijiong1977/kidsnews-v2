@@ -1,0 +1,134 @@
+{
+  "title": "SpaceX Gets Approval for a Million Satellites to Power AI in Space",
+  "summary": "SpaceX has won approval for a giant new idea: data centres in space. On Wednesday, US regulators gave the company, owned by Elon Musk, the go-ahead to launch up to a million satellites into orbit around Earth. The project is called Starmind, and it would be the first approval of its kind. The satellites would use sunlight for power, process data for artificial intelligence, or AI, and send the results back to Earth. SpaceX says orbital data centres are the cheapest and most energy-efficient way to meet growing demand for AI computing power. The Federal Communications Commission, or FCC, said the project would support America's fast-growing AI economy. FCC Chairman Brendan Carr called it a bold new step for the computing power America needs to lead and grow. Musk welcomed the decision on X.\n\nNot everyone is cheering. Rival company Amazon criticised the plan as more of a grand ambition than a realistic plan. Astronomers in the US said the move would seriously harm the public's ability to study and observe the night sky. The American Astronomical Society said it was deeply disappointed by the decision. Data centres on Earth already face growing opposition, and experts say they were a factor in the Republicans' big losses in the midterm elections. SpaceX has said it wants to launch its first Starmind satellite next year. It is unclear whether a million satellites will really be launched, or whether SpaceX asked for approval for a higher number than it will use. Like the Starlink network, which already uses more than 10,000 satellites for high-speed internet, Starmind's satellites would operate in low-Earth orbit, at heights of 500 to 2,000 kilometres. They would communicate with Starlink satellites and then relay data to Earth. Getting data to and from them would depend on laser links from the ground, which have not yet been perfected for such huge amounts of data.",
+  "why_it_matters": "If computers move into space, it could change how AI works and how we use the internet, but it could also change the night sky that everyone shares.",
+  "image_url": "/article_images/news-s034eed7d19ab2315.webp",
+  "keywords": [
+    {
+      "term": "orbit",
+      "explanation": "The path a satellite follows as it travels around Earth."
+    },
+    {
+      "term": "regulators",
+      "explanation": "People or groups whose job is to make and enforce rules."
+    },
+    {
+      "term": "energy-efficient",
+      "explanation": "Using as little power as possible to do a job."
+    },
+    {
+      "term": "ambition",
+      "explanation": "A big hope or plan for the future."
+    },
+    {
+      "term": "astronomers",
+      "explanation": "Scientists who study stars, planets, and space."
+    },
+    {
+      "term": "relay",
+      "explanation": "To pass something on from one place to another."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is the name of SpaceX's new project?",
+      "options": [
+        "Starlink",
+        "Starship",
+        "Starlight",
+        "Starmind"
+      ],
+      "correct_answer": "Starmind"
+    },
+    {
+      "question": "How many satellites could SpaceX launch under the approval?",
+      "options": [
+        "Up to 500",
+        "Up to 100,000",
+        "Up to 10,000",
+        "Up to a million"
+      ],
+      "correct_answer": "Up to a million"
+    },
+    {
+      "question": "What would power the Starmind satellites?",
+      "options": [
+        "Coal",
+        "Batteries from Earth",
+        "Sunlight",
+        "Wind on Earth"
+      ],
+      "correct_answer": "Sunlight"
+    },
+    {
+      "question": "Who said the project would support America's fast-growing AI economy?",
+      "options": [
+        "Amazon",
+        "The American Astronomical Society",
+        "The FCC",
+        "Astronomers in the US"
+      ],
+      "correct_answer": "The FCC"
+    },
+    {
+      "question": "Why did astronomers criticise the plan?",
+      "options": [
+        "It would cost too little",
+        "It would make the internet faster",
+        "It would harm people's ability to study the night sky",
+        "It would use too much sunlight"
+      ],
+      "correct_answer": "It would harm people's ability to study the night sky"
+    },
+    {
+      "question": "At what heights would the Starmind satellites operate?",
+      "options": [
+        "2,000 to 5,000 kilometres",
+        "100 to 200 kilometres",
+        "500 to 2,000 kilometres",
+        "10,000 kilometres"
+      ],
+      "correct_answer": "500 to 2,000 kilometres"
+    }
+  ],
+  "background_read": [
+    "A data centre is a large building full of computers that store information and do huge amounts of computing work, and AI work needs a lot of this power.",
+    "A satellite is a machine that travels around Earth in space, and many satellites already beam internet and phone signals down to people on the ground.",
+    "SpaceX already runs Starlink, a network of thousands of satellites that provide high-speed internet, so the new project would build on that idea.",
+    "Astronomers study the night sky with telescopes, and they worry that too many bright satellites could make it harder to see the stars."
+  ],
+  "Article_Structure": [
+    "LEAD: SpaceX won approval to launch up to a million satellites for data centres in space.",
+    "KEY EVENT: US regulators approved the Starmind project, the first approval of its kind.",
+    "  ├─ WHO: SpaceX, owned by Elon Musk, and the Federal Communications Commission, or FCC.",
+    "  ├─ WHAT: Satellites would use sunlight to process AI data and send results back to Earth.",
+    "  └─ WHEN: The approval came on Wednesday; SpaceX wants to launch its first Starmind satellite next year.",
+    "EVIDENCE: The FCC said the project would support America's fast-growing AI economy; Starlink already uses more than 10,000 satellites.",
+    "OPEN QUESTION: It is unclear whether a million satellites will really be launched, or whether SpaceX asked for more than it will use."
+  ],
+  "perspectives": [
+    {
+      "perspective": "SpaceX",
+      "description": "Orbital data centres are the cheapest and most energy-efficient way to meet growing demand for AI computing power."
+    },
+    {
+      "perspective": "The FCC",
+      "description": "The project would support America's fast-growing AI economy."
+    },
+    {
+      "perspective": "Amazon",
+      "description": "The plan is more of a grand ambition than a realistic plan."
+    },
+    {
+      "perspective": "Astronomers in the US and the American Astronomical Society",
+      "description": "The move would seriously harm the public's ability to study and observe the night sky, and the Society was deeply disappointed."
+    }
+  ],
+  "mined_at": "2026-11-26T14:14:40+00:00",
+  "source_published_at": "Thu, 26 Nov 2026 09:27:44 GMT",
+  "source_name": "BBC News",
+  "source_url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+  "category": "News",
+  "source_word_count": 457,
+  "detail_status": "full"
+}

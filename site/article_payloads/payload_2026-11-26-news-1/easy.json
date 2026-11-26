@@ -1,0 +1,118 @@
+{
+  "title": "Big Storms Delay Holiday Travel and the Macy's Parade",
+  "summary": "Thanksgiving travel ran into big storms this year. Strong storms swept across the United States on Thursday, November 26. They brought heavy rain, strong winds, and snow in the Midwest. Flooding hit the California coast. About 81.5 million people were expected to travel, and hundreds of flights were cancelled or delayed by Thursday morning.\n\nOn the West Coast, very high tides called king tides flooded streets. They knocked off part of Pacifica Pier, and people were told to leave. On the East Coast, weather expert Richard Bann warned of wind, rain, and flooding. The East Coast storm was expected to clear out by Saturday.\n\nThe weather also changed parade plans. In New York City, Mayor Zohran Mamdani said the Macy's Thanksgiving Day Parade would move to Saturday, November 28. It would have been the parade's 100th, with a record 100 giant balloons. This is the first time in 100 years it will happen on a day other than Thanksgiving. Mamdani said safety came first, with winds gusting up to 65 miles per hour.",
+  "why_it_matters": "Storms can change holiday plans, so knowing the weather helps families travel safely and still enjoy the fun.",
+  "image_url": "/article_images/news-s0719f6bc57016b91.webp",
+  "keywords": [
+    {
+      "term": "king tides",
+      "explanation": "King tides are the very highest ocean tides of the year, when seawater can flood streets."
+    },
+    {
+      "term": "gusting",
+      "explanation": "Gusting means the wind blows in sudden strong bursts."
+    },
+    {
+      "term": "Midwest",
+      "explanation": "The Midwest is the middle part of the United States."
+    },
+    {
+      "term": "Pacifica Pier",
+      "explanation": "Pacifica Pier is a long walkway that stretches out over the sea."
+    },
+    {
+      "term": "flooded",
+      "explanation": "Flooded means covered with water."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What happened to Thanksgiving travel this year?",
+      "options": [
+        "Big storms delayed and cancelled many trips",
+        "All flights were on time",
+        "Trains stopped running forever",
+        "Nobody travelled at all"
+      ],
+      "correct_answer": "Big storms delayed and cancelled many trips"
+    },
+    {
+      "question": "What are king tides?",
+      "options": [
+        "A kind of storm in the mountains",
+        "Big waves made by boats",
+        "Tides that happen only in winter",
+        "Very high ocean tides that can flood streets"
+      ],
+      "correct_answer": "Very high ocean tides that can flood streets"
+    },
+    {
+      "question": "What happened to part of Pacifica Pier?",
+      "options": [
+        "It was painted gold",
+        "It sank a ship",
+        "It was moved to New York",
+        "It was knocked off by the flooding tides"
+      ],
+      "correct_answer": "It was knocked off by the flooding tides"
+    },
+    {
+      "question": "When will the Macy's Thanksgiving Day Parade happen now?",
+      "options": [
+        "Saturday, November 28",
+        "In the summer",
+        "Next Christmas",
+        "Thanksgiving Day as usual"
+      ],
+      "correct_answer": "Saturday, November 28"
+    },
+    {
+      "question": "How fast did the winds gust?",
+      "options": [
+        "Up to 5 miles per hour",
+        "Up to 65 miles per hour",
+        "Up to 10 miles per hour",
+        "Up to 200 miles per hour"
+      ],
+      "correct_answer": "Up to 65 miles per hour"
+    },
+    {
+      "question": "About how many people were expected to travel?",
+      "options": [
+        "About 8 million people",
+        "About 815 million people",
+        "About 81.5 million people",
+        "About 1 million people"
+      ],
+      "correct_answer": "About 81.5 million people"
+    }
+  ],
+  "background_read": [
+    "Thanksgiving is a big holiday when many families travel to be together.",
+    "Big storms can make travel unsafe, so flights get cancelled and roads flood.",
+    "A parade is a big public march with bands and giant balloons, and it can be moved to another day if the wind is too strong to be safe."
+  ],
+  "Article_Structure": [
+    "WHO: Holiday travellers, people on the California coast, and parade fans in New York City.",
+    "WHAT: Big storms delayed travel and pushed the Macy's Thanksgiving Day Parade to Saturday.",
+    "WHERE: Across the United States, including the California coast and New York City.",
+    "WHY: Heavy rain, strong winds, snow, and flooding made travel and the parade unsafe."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Mayor Zohran Mamdani",
+      "description": "He said the parade had to move because safety came first."
+    },
+    {
+      "perspective": "Weather expert Richard Bann",
+      "description": "He warned of wind, rain, and flooding on the East Coast."
+    }
+  ],
+  "mined_at": "2026-11-26T14:14:40+00:00",
+  "source_published_at": "Thu, 26 Nov 2026 04:43:27 -0500",
+  "source_name": "NPR World",
+  "source_url": "https://www.npr.org/2026/11/26/nx-s1-6054079/storms-expected-on-both-coasts-as-millions-travel-for-thanksgiving",
+  "category": "News",
+  "source_word_count": 817,
+  "detail_status": "full"
+}

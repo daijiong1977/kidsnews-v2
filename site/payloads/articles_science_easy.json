@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-25-science-1",
-      "source": "Live Science",
-      "time_ago": "Tue, 24 Nov 2026 18:12:55 +0000",
-      "mined_at": "2026-11-25T11:20:53+00:00",
-      "source_published_at": "Tue, 24 Nov 2026 18:12:55 +0000",
-      "image_url": "/article_images/science-s84c7b39012842dcd.webp",
+      "id": "2026-11-26-science-1",
+      "source": "Science News Explores",
+      "time_ago": "Tue, 24 Nov 2026 11:30:00 +0000",
+      "mined_at": "2026-11-26T14:14:40+00:00",
+      "source_published_at": "Tue, 24 Nov 2026 11:30:00 +0000",
+      "image_url": "/article_images/science-s391198fa2e1c0989.webp",
       "category": "Science",
-      "title": "Uranus Is at Its Best Tonight",
-      "summary": "Uranus reaches opposition on November 25, its closest and brightest point of the year. Find it near the Pleiades with binoculars or a telescope."
+      "title": "Scientists Find a Tiny New Tiger Cat",
+      "summary": "Scientists have named Leopardus tilcayo, a tiny spotted cat from Bolivia — the first new living cat species described in more than 100 years."
     },
     {
-      "id": "2026-11-25-science-2",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Tue, 24 Nov 2026 04:29:15 EST",
-      "mined_at": "2026-11-25T11:20:53+00:00",
-      "source_published_at": "Tue, 24 Nov 2026 04:29:15 EST",
-      "image_url": "/article_images/science-sa22b50236deebdc5.webp",
+      "id": "2026-11-26-science-2",
+      "source": "ScienceDaily Top Technology",
+      "time_ago": "Wed, 25 Nov 2026 05:35:04 EST",
+      "mined_at": "2026-11-26T14:14:40+00:00",
+      "source_published_at": "Wed, 25 Nov 2026 05:35:04 EST",
+      "image_url": "/article_images/science-s5dc58dbc976172db.webp",
       "category": "Science",
-      "title": "Earth's Next Ice Age Started, Then Stopped",
-      "summary": "New research finds Earth's next ice age may have begun 2,000 years ago in the Canadian Arctic, only for global warming to stop it by the 1960s."
+      "title": "A Galaxy Telescope Finds a Brand-New Comet",
+      "summary": "The Euclid space telescope, built to photograph distant galaxies, has discovered its first comet: C/2026 S1 (Euclid)."
     },
     {
-      "id": "2026-11-25-science-3",
-      "source": "ScienceDaily Top Environment",
-      "time_ago": "Tue, 24 Nov 2026 06:09:06 EST",
-      "mined_at": "2026-11-25T11:20:53+00:00",
-      "source_published_at": "Tue, 24 Nov 2026 06:09:06 EST",
-      "image_url": "/article_images/science-saec1809070f626c7.webp",
+      "id": "2026-11-26-science-3",
+      "source": "MIT News",
+      "time_ago": "Wed, 25 Nov 2026 00:00:00 -0500",
+      "mined_at": "2026-11-26T14:14:40+00:00",
+      "source_published_at": "Wed, 25 Nov 2026 00:00:00 -0500",
+      "image_url": "/article_images/science-s336928973a99aa5c.webp",
       "category": "Science",
-      "title": "A 2,200-Year-Old Ship's Sticky Secret",
-      "summary": "A Roman shipwreck off Croatia reveals two ancient waterproofing recipes, pine tar and pine tar mixed with beeswax, plus pollen that traces where the ship was built."
+      "title": "The Electric Seaglider That Flies on Air",
+      "summary": "Regent Craft's electric seaglider floats, rises on hydrofoils, and flies just above the waves at up to 180 miles per hour."
     }
   ]
 }
