@@ -1,0 +1,126 @@
+{
+  "title": "A Tiny Red Dot From the Baby Universe Might Be a Baby Black Hole",
+  "summary": "Picture the universe as a newborn, just 450 million years old, and imagine spotting a tiny, fiery-red speck shining in it. That is what the James Webb Space Telescope has done. The speck is called CW-LRD-z10, and astronomers think it might be one of the earliest black holes ever found. It could reveal how the biggest black holes began.\n\nCW-LRD-z10 may belong to a mysterious family nicknamed \"little red dots\": small, extremely red objects packed into dense cocoons of gas. Many researchers think they are black holes pulling in gas and growing fast. If confirmed, this would be the earliest known example.\n\nScientists measured its redshift, which tells how far away it is: this one measured 10.36, meaning its light set out when the universe was only 450 million years old. The team found it in a 2025 search with Webb's mid-infrared instrument; it was the only candidate.\n\nThe clues fit like puzzle pieces. Its color is much redder in mid-infrared light than in near-infrared light, and its spectrum shows a \"V-shaped\" dip typical of little red dots, possible iron emission, and faint lines like those in other little red dots. No single clue proves the case alone, said study leader Takumi Tanaka, a doctoral student at the University of Tokyo. Together, though, they make a strong argument.\n\nStill, scientists are being careful. The spectrum lacks the wide hydrogen lines that usually mark a little red dot, because that part was not covered in this study. Roberto Maiolino, a Cambridge professor not involved in the study, said it should only be considered a candidate for now, though the redshift looks reasonably solid. A closer galaxy is another possibility, but Tanaka said the data does not support it. The study was published on November 24 in the Astrophysical Journal Letters.",
+  "why_it_matters": "If confirmed, CW-LRD-z10 would be the earliest known example of a little red dot, helping scientists work out how the biggest black holes in the universe began and grew so fast.",
+  "image_url": "/article_images/science-s0a630609ac96b832.webp",
+  "keywords": [
+    {
+      "term": "redshift",
+      "explanation": "A number that shows how far away an object in space is, based on how its light has stretched."
+    },
+    {
+      "term": "spectrum",
+      "explanation": "The pattern of light from an object, split up so scientists can study what it is made of."
+    },
+    {
+      "term": "cocoons",
+      "explanation": "Thick clouds of gas wrapped around an object, like a blanket."
+    },
+    {
+      "term": "candidate",
+      "explanation": "Something that might be the real thing but has not been proven yet."
+    },
+    {
+      "term": "emission",
+      "explanation": "Light or energy given off by something, such as a gas or a star."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is CW-LRD-z10 thought to be?",
+      "options": [
+        "A bright star in the Milky Way",
+        "A comet passing near Earth",
+        "A new planet in our solar system",
+        "A baby black hole from the early universe"
+      ],
+      "correct_answer": "A baby black hole from the early universe"
+    },
+    {
+      "question": "How old was the universe when CW-LRD-z10's light set out?",
+      "options": [
+        "450 million years old",
+        "13.8 billion years old",
+        "1 million years old",
+        "4.5 billion years old"
+      ],
+      "correct_answer": "450 million years old"
+    },
+    {
+      "question": "What was CW-LRD-z10's redshift?",
+      "options": [
+        "0.36",
+        "10.36",
+        "1.036",
+        "103.6"
+      ],
+      "correct_answer": "10.36"
+    },
+    {
+      "question": "Where was CW-LRD-z10 found?",
+      "options": [
+        "In a 2024 search with the Hubble telescope",
+        "In a lab at the University of Tokyo",
+        "In a 2025 search with Webb's mid-infrared instrument",
+        "On the surface of the Moon"
+      ],
+      "correct_answer": "In a 2025 search with Webb's mid-infrared instrument"
+    },
+    {
+      "question": "Why are scientists being careful about calling it a little red dot?",
+      "options": [
+        "The spectrum lacks the wide hydrogen lines that usually mark one",
+        "The telescope broke during the search",
+        "No one has seen the object at all",
+        "The object is too bright to study"
+      ],
+      "correct_answer": "The spectrum lacks the wide hydrogen lines that usually mark one"
+    },
+    {
+      "question": "When was the study published?",
+      "options": [
+        "November 24",
+        "October 24",
+        "November 14",
+        "December 24"
+      ],
+      "correct_answer": "November 24"
+    }
+  ],
+  "background_read": [
+    "A black hole is a place in space where gravity is so strong that nothing, not even light, can escape it.",
+    "Astronomers study the early universe by looking at light that has traveled for a very long time, so the farther away an object is, the further back in time they are seeing.",
+    "The James Webb Space Telescope looks at infrared light, which lets it spot very distant and very red objects that other telescopes might miss.",
+    "'Little red dots' are a puzzling group of small, extremely red objects found in the early universe, and many scientists think they could be young black holes wrapped in gas."
+  ],
+  "Article_Structure": [
+    "LEAD: Webb spots CW-LRD-z10, a tiny red speck from when the universe was 450 million years old, possibly the earliest baby black hole",
+    "KEY EVENT: The object may be a 'little red dot', a family of small red objects thought to be fast-growing black holes",
+    "  ├─ WHO: Astronomers using the James Webb Space Telescope, led by Takumi Tanaka",
+    "  ├─ WHEN: Found in a 2025 search; study published November 24",
+    "  └─ MEASUREMENT: Redshift 10.36, meaning its light set out when the universe was 450 million years old",
+    "EVIDENCE: Much redder in mid-infrared than near-infrared light; 'V-shaped' dip in its spectrum; possible iron emission and faint lines",
+    "OPEN QUESTION: Is it truly a little red dot, or a closer galaxy? Its spectrum lacks the wide hydrogen lines that usually mark one"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Takumi Tanaka, study leader",
+      "description": "The clues together make a strong argument that CW-LRD-z10 is a little red dot, and the data does not support it being a closer galaxy."
+    },
+    {
+      "perspective": "Roberto Maiolino, Cambridge professor not involved in the study",
+      "description": "It should only be considered a candidate for now, though the redshift looks reasonably solid."
+    },
+    {
+      "perspective": "Many researchers",
+      "description": "Little red dots are black holes pulling in gas and growing fast."
+    }
+  ],
+  "mined_at": "2026-11-27T11:24:35+00:00",
+  "source_published_at": "Fri, 27 Nov 2026 11:00:00 +0000",
+  "source_name": "Live Science",
+  "source_url": "https://www.livescience.com/space/astronomy/james-webb-telescope-discovers-earliest-little-red-dot-candidate-yet-just-450-million-years-after-the-big-bang",
+  "category": "Science",
+  "source_word_count": 742,
+  "detail_status": "full"
+}

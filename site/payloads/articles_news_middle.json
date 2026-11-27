@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-26-news-1",
-      "source": "NPR World",
-      "time_ago": "Thu, 26 Nov 2026 04:43:27 -0500",
-      "mined_at": "2026-11-26T14:14:40+00:00",
-      "source_published_at": "Thu, 26 Nov 2026 04:43:27 -0500",
-      "image_url": "/article_images/news-s0719f6bc57016b91.webp",
-      "category": "News",
-      "title": "Storms Disrupt Thanksgiving Travel and Delay the Macy's Parade",
-      "summary": "Storms across the US delayed flights and pushed the 100th Macy's Thanksgiving Day Parade to Saturday, November 28."
-    },
-    {
-      "id": "2026-11-26-news-2",
-      "source": "BBC News",
-      "time_ago": "Thu, 26 Nov 2026 09:27:44 GMT",
-      "mined_at": "2026-11-26T14:14:40+00:00",
-      "source_published_at": "Thu, 26 Nov 2026 09:27:44 GMT",
-      "image_url": "/article_images/news-s034eed7d19ab2315.webp",
-      "category": "News",
-      "title": "SpaceX Gets Approval for a Million Satellites to Power AI in Space",
-      "summary": "US regulators approved SpaceX's plan for up to a million satellites to run AI data centres in space, a first-of-its-kind decision that has drawn both praise and criticism."
-    },
-    {
-      "id": "2026-11-26-news-3",
+      "id": "2026-11-27-news-1",
       "source": "PBS NewsHour",
-      "time_ago": "Wed, 25 Nov 2026 18:50:40 -0500",
-      "mined_at": "2026-11-26T14:14:40+00:00",
-      "source_published_at": "Wed, 25 Nov 2026 18:50:40 -0500",
-      "image_url": "/article_images/news-s5347eafe8ed68007.webp",
+      "time_ago": "Thu, 26 Nov 2026 18:55:26 -0500",
+      "mined_at": "2026-11-27T11:24:35+00:00",
+      "source_published_at": "Thu, 26 Nov 2026 18:55:26 -0500",
+      "image_url": "/article_images/news-s802167c19744ca40.webp",
       "category": "News",
-      "title": "New Tariffs Could Raise Costs for American Shoppers",
-      "summary": "The Trump administration plans new tariffs on China, the EU and 12 other trading partners, which experts say could cost each American about $400."
+      "title": "A Stormy Thanksgiving Across America",
+      "summary": "Thanksgiving storms brought floods, high winds, and power outages across the country, delaying flights and postponing the Macy's parade."
+    },
+    {
+      "id": "2026-11-27-news-2",
+      "source": "NPR World",
+      "time_ago": "Thu, 26 Nov 2026 05:00:00 -0500",
+      "mined_at": "2026-11-27T11:24:35+00:00",
+      "source_published_at": "Thu, 26 Nov 2026 05:00:00 -0500",
+      "image_url": "/article_images/news-sc1938676cacab8c6.webp",
+      "category": "News",
+      "title": "Native Flavors Take Center Stage in Albuquerque",
+      "summary": "At Indian Pueblo Kitchen in Albuquerque, Native American dishes star on the menu, from blue corn enchiladas to biscochitos baked by Rita Toledo."
+    },
+    {
+      "id": "2026-11-27-news-3",
+      "source": "CBC World",
+      "time_ago": "Thu, 26 Nov 2026 15:48:56 EST",
+      "mined_at": "2026-11-27T11:24:35+00:00",
+      "source_published_at": "Thu, 26 Nov 2026 15:48:56 EST",
+      "image_url": "/article_images/news-sd74253326fd54e8b.webp",
+      "category": "News",
+      "title": "A $1 Million Lottery Win, Then an Arrest Days Later",
+      "summary": "A Boston man won $1 million on a scratch ticket, then ICE said it arrested him days later; he remains in custody while his family asks for respect and empathy."
     }
   ]
 }

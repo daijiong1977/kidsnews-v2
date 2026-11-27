@@ -1,0 +1,118 @@
+{
+  "title": "A Tiny Red Dot Might Be a Baby Black Hole",
+  "summary": "Imagine the universe as a newborn, only 450 million years old, and picture a tiny, fiery-red speck glowing in it. That is what the James Webb Space Telescope has spotted.\n\nThe speck is called CW-LRD-z10. Astronomers think it might be one of the earliest black holes ever found. It may belong to a strange group nicknamed 'little red dots': small, very red objects wrapped in thick clouds of gas.\n\nScientists measured its redshift, a number that shows how far away it is: 10.36, meaning its light left when the universe was just 450 million years old. The team found it in a 2025 search.\n\nThe clues fit well. Its color is much redder in mid-infrared light, and its light shows a 'V-shaped' dip like other little red dots. Takumi Tanaka said no single clue proves it alone, but together they make a strong case.\n\nScientists are being careful. The study did not cover the part of the light that usually shows wide hydrogen lines. Roberto Maiolino, a professor at Cambridge, said it should be called a candidate for now.",
+  "why_it_matters": "Learning about the first black holes helps us understand how the universe, and everything in it including us, began.",
+  "image_url": "/article_images/science-s0a630609ac96b832.webp",
+  "keywords": [
+    {
+      "term": "redshift",
+      "explanation": "A number that tells scientists how far away something in space is."
+    },
+    {
+      "term": "mid-infrared",
+      "explanation": "A kind of light we cannot see with our eyes, but special telescopes can detect."
+    },
+    {
+      "term": "black holes",
+      "explanation": "Places in space where gravity is so strong that not even light can escape."
+    },
+    {
+      "term": "Astronomers",
+      "explanation": "Scientists who study stars, planets, and everything in space."
+    },
+    {
+      "term": "hydrogen",
+      "explanation": "The lightest gas in the universe, and the main stuff stars are made of."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is CW-LRD-z10?",
+      "options": [
+        "A comet passing by the Sun",
+        "A tiny red speck spotted by the James Webb Space Telescope",
+        "A new planet in our solar system",
+        "A bright star close to Earth"
+      ],
+      "correct_answer": "A tiny red speck spotted by the James Webb Space Telescope"
+    },
+    {
+      "question": "How old was the universe when the light from CW-LRD-z10 left it?",
+      "options": [
+        "4.5 billion years old",
+        "10 million years old",
+        "450 million years old",
+        "1 billion years old"
+      ],
+      "correct_answer": "450 million years old"
+    },
+    {
+      "question": "What does a redshift of 10.36 tell scientists about CW-LRD-z10?",
+      "options": [
+        "How big the speck is",
+        "How fast the speck is moving toward us",
+        "How hot the speck is",
+        "How far away the speck is"
+      ],
+      "correct_answer": "How far away the speck is"
+    },
+    {
+      "question": "Which strange group might CW-LRD-z10 belong to?",
+      "options": [
+        "White dwarf stars",
+        "Little red dots",
+        "Green gas clouds",
+        "Big blue stars"
+      ],
+      "correct_answer": "Little red dots"
+    },
+    {
+      "question": "What part of the light did the study NOT cover?",
+      "options": [
+        "The part that usually shows wide hydrogen lines",
+        "The speck's redshift",
+        "The speck's V-shaped dip",
+        "The speck's color in mid-infrared light"
+      ],
+      "correct_answer": "The part that usually shows wide hydrogen lines"
+    },
+    {
+      "question": "What did Roberto Maiolino say CW-LRD-z10 should be called for now?",
+      "options": [
+        "A proven black hole",
+        "A candidate",
+        "A dying star",
+        "A new planet"
+      ],
+      "correct_answer": "A candidate"
+    }
+  ],
+  "background_read": [
+    "A black hole is a place in space where gravity is so strong that not even light can escape it.",
+    "The James Webb Space Telescope is a powerful telescope in space that looks at very faraway light to see the early universe.",
+    "Astronomers study tiny red dots like CW-LRD-z10 because their color and light may show that a young black hole is hiding inside thick gas clouds."
+  ],
+  "Article_Structure": [
+    "WHO: Astronomers using the James Webb Space Telescope, including Takumi Tanaka and Roberto Maiolino.",
+    "WHAT: A tiny red speck called CW-LRD-z10 that might be one of the earliest black holes ever found.",
+    "WHERE: In the very early universe, when it was only 450 million years old.",
+    "WHY: Scientists want to learn how the first black holes formed, so they are checking the clues to see if this speck is really a young black hole."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Takumi Tanaka",
+      "description": "No single clue proves it alone, but together the clues make a strong case."
+    },
+    {
+      "perspective": "Roberto Maiolino",
+      "description": "It should be called a candidate for now."
+    }
+  ],
+  "mined_at": "2026-11-27T11:24:35+00:00",
+  "source_published_at": "Fri, 27 Nov 2026 11:00:00 +0000",
+  "source_name": "Live Science",
+  "source_url": "https://www.livescience.com/space/astronomy/james-webb-telescope-discovers-earliest-little-red-dot-candidate-yet-just-450-million-years-after-the-big-bang",
+  "category": "Science",
+  "source_word_count": 742,
+  "detail_status": "full"
+}
