@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-27-science-1",
+      "id": "2026-11-28-science-1",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Thu, 26 Nov 2026 05:46:17 EST",
+      "mined_at": "2026-11-28T11:21:46+00:00",
+      "source_published_at": "Thu, 26 Nov 2026 05:46:17 EST",
+      "image_url": "/article_images/science-s2c6dea16fd513367.webp",
+      "category": "Science",
+      "title": "The Tiny Fossil That Fooled Scientists for Nearly 30 Years",
+      "summary": "Lizzie looked like an early reptile, but X-ray scans show it lived in water, with gills and a fish-like mouth."
+    },
+    {
+      "id": "2026-11-28-science-2",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Wed, 25 Nov 2026 21:42:37 EST",
+      "mined_at": "2026-11-28T11:21:46+00:00",
+      "source_published_at": "Wed, 25 Nov 2026 21:42:37 EST",
+      "image_url": "/article_images/science-s59e077c9abe86ee5.webp",
+      "category": "Science",
+      "title": "Secret Lakes Under the Red Sea Are Full of Tiny Life",
+      "summary": "Scientists found super-salty lakes under the Red Sea where tiny microbes live without oxygen. The lakes also hold clues about old tsunamis."
+    },
+    {
+      "id": "2026-11-28-science-3",
       "source": "Live Science",
-      "time_ago": "Fri, 27 Nov 2026 11:00:00 +0000",
-      "mined_at": "2026-11-27T11:24:35+00:00",
-      "source_published_at": "Fri, 27 Nov 2026 11:00:00 +0000",
-      "image_url": "/article_images/science-s0a630609ac96b832.webp",
+      "time_ago": "Sat, 28 Nov 2026 11:00:00 +0000",
+      "mined_at": "2026-11-28T11:21:46+00:00",
+      "source_published_at": "Sat, 28 Nov 2026 11:00:00 +0000",
+      "image_url": "/article_images/science-se1bce4af296ca1a3.webp",
       "category": "Science",
-      "title": "A Tiny Red Dot Might Be a Baby Black Hole",
-      "summary": "The James Webb telescope spotted CW-LRD-z10, a tiny red speck from when the universe was just 450 million years old. It might be the earliest baby black hole ever found, but scientists say it is only a candidate for now."
-    },
-    {
-      "id": "2026-11-27-science-2",
-      "source": "ScienceDaily All",
-      "time_ago": "Fri, 27 Nov 2026 04:52:24 EST",
-      "mined_at": "2026-11-27T11:24:35+00:00",
-      "source_published_at": "Fri, 27 Nov 2026 04:52:24 EST",
-      "image_url": "/article_images/science-s87c8273eecc5abfd.webp",
-      "category": "Science",
-      "title": "Old Plastic Could Become Engine Oil",
-      "summary": "Virginia Tech scientists found a way to turn hard-to-recycle PVC plastic into a key ingredient for engine oil."
-    },
-    {
-      "id": "2026-11-27-science-3",
-      "source": "ScienceDaily All",
-      "time_ago": "Thu, 26 Nov 2026 22:56:06 EST",
-      "mined_at": "2026-11-27T11:24:35+00:00",
-      "source_published_at": "Thu, 26 Nov 2026 22:56:06 EST",
-      "image_url": "/article_images/science-s0e0f495456aa0d02.webp",
-      "category": "Science",
-      "title": "Screen Time May Matter Most at Ages 1 and 6",
-      "summary": "Scientists followed 502 children in Singapore and found extra screen time at ages 1 and 6 was linked to weaker school results and working memory later — a link, not proof, but a reason to keep screen time low."
+      "title": "How 100 Starlings Took Over a Whole Continent",
+      "summary": "About 100 starlings set free in Central Park grew into 200 million birds, and studying their small differences helps scientists understand fast evolution."
     }
   ]
 }

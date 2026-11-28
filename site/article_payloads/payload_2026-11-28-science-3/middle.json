@@ -1,0 +1,125 @@
+{
+  "title": "How 100 Starlings Took Over a Continent, and What They Teach Us About Evolution",
+  "summary": "In the late 1800s, a bird lover named Eugene Schieffelin released about 100 European starlings in New York City's Central Park. He was chairman of a group that wanted to bring plants and animals from Europe to North America. The plan worked far too well. Within decades, the starlings had spread across the whole country. By 1970, less than a century after their arrival, there were 200 million of them.\n\nThat explosion makes starlings a puzzle for scientists. How did such a small group of birds adapt so quickly to so many different places? Part of the answer may lie in microevolution, the small changes that build up within a species over time. When a new population starts from just a few birds, it carries only a small sample of the original group's genes. Scientists call this the founder effect. It can reduce genetic variety, yet starlings still managed to adapt fast to local climates across North America.\n\nResearcher Zichello wanted to measure how the birds had changed. In 2014, she asked the U.S. Department of Agriculture for starling specimens for her research, and five birds arrived in a box labeled Honey Baked Ham. Wildlife agencies remove starlings each year to protect crops and keep planes safe, and about two million are killed annually by the USDA. Zichello used her five birds to study tiny differences between individuals, in their anatomy and in their DNA, to understand how the species changed after its dramatic start.\n\nStarlings in a flock look almost identical, like glossy little soldiers marching through the grass. But measuring small differences, bird by bird, can reveal how evolution works in real time. As Zichello puts it, her box of birds was evolution in a garbage bag.",
+  "why_it_matters": "Starlings show how quickly living things can change when they move to a new home, which matters for protecting crops, wildlife, and the balance of nature.",
+  "image_url": "/article_images/science-se1bce4af296ca1a3.webp",
+  "keywords": [
+    {
+      "term": "microevolution",
+      "explanation": "Microevolution means the small changes that slowly build up inside a species over time."
+    },
+    {
+      "term": "founder effect",
+      "explanation": "The founder effect happens when a new group starts from only a few members, so it carries only a small sample of the first group's genes."
+    },
+    {
+      "term": "specimens",
+      "explanation": "Specimens are single animals kept for scientists to study closely."
+    },
+    {
+      "term": "anatomy",
+      "explanation": "Anatomy is the shape and structure of a living thing's body and its parts."
+    },
+    {
+      "term": "glossy",
+      "explanation": "Glossy means shiny and smooth, like a polished surface."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How many European starlings did Eugene Schieffelin release in Central Park?",
+      "options": [
+        "About 200 million",
+        "About 10",
+        "About 1,000",
+        "About 100"
+      ],
+      "correct_answer": "About 100"
+    },
+    {
+      "question": "By 1970, about how many starlings were there in North America?",
+      "options": [
+        "About 100",
+        "About 200 million",
+        "About 20 million",
+        "About two million"
+      ],
+      "correct_answer": "About 200 million"
+    },
+    {
+      "question": "What is microevolution?",
+      "options": [
+        "The study of bird songs",
+        "Small changes that build up within a species over time",
+        "A sudden change in a bird's feathers",
+        "The movement of birds to a new continent"
+      ],
+      "correct_answer": "Small changes that build up within a species over time"
+    },
+    {
+      "question": "What is the founder effect?",
+      "options": [
+        "When a new group of birds learns a new song",
+        "When wildlife agencies remove birds to protect crops",
+        "When a new population starts from just a few members and carries only a small sample of the original group's genes",
+        "When birds fly south for the winter"
+      ],
+      "correct_answer": "When a new population starts from just a few members and carries only a small sample of the original group's genes"
+    },
+    {
+      "question": "How many starling specimens did Zichello receive in 2014?",
+      "options": [
+        "Two million",
+        "One hundred",
+        "Five",
+        "Two hundred"
+      ],
+      "correct_answer": "Five"
+    },
+    {
+      "question": "What words were written on the box that held Zichello's five birds?",
+      "options": [
+        "Fragile: Live Birds",
+        "Honey Baked Ham",
+        "U.S. Department of Agriculture",
+        "Evolution in a Bag"
+      ],
+      "correct_answer": "Honey Baked Ham"
+    }
+  ],
+  "background_read": [
+    "Starlings are small, dark, glossy birds that live in large flocks and are now common across North America.",
+    "Evolution is the slow change of living things over many generations, as small differences help some individuals survive and have more young.",
+    "When people move a species to a new place, the newcomers can spread fast if they find food, shelter, and few enemies.",
+    "Scientists study DNA, the instructions inside living cells, to trace how populations change over time."
+  ],
+  "Article_Structure": [
+    "LEAD: About 100 starlings released in Central Park in the late 1800s grew to 200 million birds by 1970.",
+    "KEY EVENT: The birds spread across the whole country within a few decades.",
+    "  ├─ WHO: Eugene Schieffelin, a bird lover who led a group bringing European plants and animals to North America",
+    "  └─ WHEN: The late 1800s, with 200 million starlings by 1970",
+    "EVIDENCE: Zichello studied five birds sent in 2014, comparing tiny differences in their anatomy and DNA.",
+    "OPEN QUESTION: How did such a small starting group adapt so fast to so many different climates?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Scientists",
+      "description": "Starlings are a puzzle because such a small starting group adapted so quickly to many different places."
+    },
+    {
+      "perspective": "Researcher Zichello",
+      "description": "Measuring tiny differences between individual birds can reveal how evolution works in real time."
+    },
+    {
+      "perspective": "Wildlife agencies",
+      "description": "Starlings should be removed each year to protect crops and keep planes safe."
+    }
+  ],
+  "mined_at": "2026-11-28T11:21:46+00:00",
+  "source_published_at": "Sat, 28 Nov 2026 11:00:00 +0000",
+  "source_name": "Live Science",
+  "source_url": "https://www.livescience.com/animals/birds/it-was-evolution-in-a-garbage-bag-how-a-box-of-dead-starlings-began-to-unravel-the-secret-to-their-extraordinary-success",
+  "category": "Science",
+  "source_word_count": 1030,
+  "detail_status": "full"
+}

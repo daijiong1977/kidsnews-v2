@@ -1,0 +1,123 @@
+{
+  "title": "The 345-Million-Year-Old Fossil That Fooled Scientists for Decades",
+  "summary": "For nearly 30 years, scientists believed a tiny fossil from Scotland was one of the earliest reptiles ever found. Its name was Westlothiana lizziae, nicknamed Lizzie because it looked like a lizard. Now powerful X-ray scans have revealed a big surprise: Lizzie was not a reptile at all.\n\nLizzie's fossil is 345 million years old and was discovered in 1984. It is a nearly complete skeleton, squashed flat inside two slabs of rock. When scientists first described it in 1990, they could mostly see only its surface. Four limbs with fingers and toes, some with claw-like tips, made it look ready for life on land. At the time, most other animals had limbs that looked more like fins. So researchers called Lizzie the earliest known amniote, a member of the big group of vertebrates that includes reptiles, birds, and mammals, adapted to life on land.\n\nBut the crushed rock hid the truth. A team led by scientists at the American Museum of Natural History and the University of Oxford used powerful X-ray imaging at the European Synchrotron Radiation Facility in Grenoble, France, to look inside the fossil. What they found did not match a young reptile at all. Lizzie had a primitive skull, internal gills containing bone, and a mouth like a fish, filled with thousands of tiny teeth. Those features show it lived in water, or partly in water, not mainly on land.\n\nThe discovery, published in the journal Nature, also changes ideas about where reptile-like features came from. Claws and five digits on each hand and foot may have appeared first in water-loving ancestors of tetrapods, the four-limbed vertebrates that include amphibians and amniotes. It also means ancient footprints with clawed toes are not enough on their own to prove that reptiles walked there. Lizzie lived a completely different life than scientists had imagined, and looks, it turns out, can be deceiving.",
+  "why_it_matters": "The find rewrites a key chapter in the story of how animals moved onto land, showing that looks can mislead even experts and that new tools can overturn ideas held for decades.",
+  "image_url": "/article_images/science-s2c6dea16fd513367.webp",
+  "keywords": [
+    {
+      "term": "amniote",
+      "explanation": "A vertebrate in the big group that includes reptiles, birds, and mammals."
+    },
+    {
+      "term": "tetrapods",
+      "explanation": "Four-limbed vertebrates, including amphibians, reptiles, birds, and mammals."
+    },
+    {
+      "term": "digits",
+      "explanation": "Fingers and toes."
+    },
+    {
+      "term": "vertebrates",
+      "explanation": "Animals that have a backbone."
+    },
+    {
+      "term": "primitive",
+      "explanation": "Very old and simple in form, from an early stage of life on Earth."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How old is Lizzie's fossil?",
+      "options": [
+        "30 million years old",
+        "1,984 years old",
+        "345 thousand years old",
+        "345 million years old"
+      ],
+      "correct_answer": "345 million years old"
+    },
+    {
+      "question": "Where was Lizzie's fossil found?",
+      "options": [
+        "Grenoble",
+        "France",
+        "England",
+        "Scotland"
+      ],
+      "correct_answer": "Scotland"
+    },
+    {
+      "question": "What did scientists first think Lizzie was?",
+      "options": [
+        "A bird",
+        "A dinosaur",
+        "A fish with fins",
+        "The earliest known amniote"
+      ],
+      "correct_answer": "The earliest known amniote"
+    },
+    {
+      "question": "What did the X-ray scans find inside Lizzie?",
+      "options": [
+        "Internal gills with bone and a fish-like mouth full of tiny teeth",
+        "A second skeleton",
+        "Eggs",
+        "Feathers and wings"
+      ],
+      "correct_answer": "Internal gills with bone and a fish-like mouth full of tiny teeth"
+    },
+    {
+      "question": "Where were the X-ray scans done?",
+      "options": [
+        "At the University of Oxford",
+        "At the European Synchrotron Radiation Facility in Grenoble, France",
+        "At the American Museum of Natural History",
+        "In Scotland"
+      ],
+      "correct_answer": "At the European Synchrotron Radiation Facility in Grenoble, France"
+    },
+    {
+      "question": "What does the discovery mean for ancient footprints with clawed toes?",
+      "options": [
+        "They are not enough on their own to prove that reptiles walked there",
+        "They show that Lizzie was a reptile",
+        "They are all fakes",
+        "They prove that reptiles lived in water"
+      ],
+      "correct_answer": "They are not enough on their own to prove that reptiles walked there"
+    }
+  ],
+  "background_read": [
+    "A fossil is the preserved remains of an animal or plant that lived long ago, often turned to stone inside rock.",
+    "Scientists study fossils to learn how animals lived and how living things changed over time.",
+    "New X-ray tools can now see inside a fossil without breaking it open, showing bones and other parts hidden in the rock.",
+    "Lizzie was first studied from its outside only, so scientists judged it by how it looked; the new scans let them check what was inside."
+  ],
+  "Article_Structure": [
+    "LEAD: A fossil long thought to be an early reptile turns out to have lived in water",
+    "KEY EVENT: X-ray scans reveal Lizzie was not a reptile at all",
+    "  ├─ WHO: Scientists at the American Museum of Natural History and the University of Oxford",
+    "  ├─ WHEN: The fossil was discovered in 1984 and first described in 1990",
+    "  ├─ WHERE: A fossil from Scotland, scanned in Grenoble, France",
+    "  └─ WHAT: A 345-million-year-old skeleton with gills and a fish-like mouth",
+    "EVIDENCE: A primitive skull, internal gills containing bone, and a mouth filled with thousands of tiny teeth",
+    "OPEN QUESTION: Did claws and five digits first appear in water-loving ancestors of tetrapods?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Earlier researchers",
+      "description": "They judged Lizzie by its limbs and claws and called it the earliest known amniote, adapted to life on land."
+    },
+    {
+      "perspective": "The team behind the new scans",
+      "description": "They say Lizzie's gills and fish-like mouth show it lived in water, or partly in water, not mainly on land."
+    }
+  ],
+  "mined_at": "2026-11-28T11:21:46+00:00",
+  "source_published_at": "Thu, 26 Nov 2026 05:46:17 EST",
+  "source_name": "ScienceDaily Strange & Offbeat",
+  "source_url": "https://www.sciencedaily.com/releases/2026/11/261125045307.htm",
+  "category": "Science",
+  "source_word_count": 822,
+  "detail_status": "full"
+}

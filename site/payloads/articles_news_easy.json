@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-27-news-1",
-      "source": "PBS NewsHour",
-      "time_ago": "Thu, 26 Nov 2026 18:55:26 -0500",
-      "mined_at": "2026-11-27T11:24:35+00:00",
-      "source_published_at": "Thu, 26 Nov 2026 18:55:26 -0500",
-      "image_url": "/article_images/news-s802167c19744ca40.webp",
-      "category": "News",
-      "title": "A Stormy Thanksgiving Across America",
-      "summary": "Thanksgiving storms brought floods, strong winds, and power cuts across America, delaying flights and postponing the Macy's parade."
-    },
-    {
-      "id": "2026-11-27-news-2",
+      "id": "2026-11-28-news-1",
       "source": "NPR World",
-      "time_ago": "Thu, 26 Nov 2026 05:00:00 -0500",
-      "mined_at": "2026-11-27T11:24:35+00:00",
-      "source_published_at": "Thu, 26 Nov 2026 05:00:00 -0500",
-      "image_url": "/article_images/news-sc1938676cacab8c6.webp",
+      "time_ago": "Fri, 27 Nov 2026 05:59:36 -0500",
+      "mined_at": "2026-11-28T11:21:46+00:00",
+      "source_published_at": "Fri, 27 Nov 2026 05:59:36 -0500",
+      "image_url": "/article_images/news-s9da379c9b0e00751.webp",
       "category": "News",
-      "title": "Native Flavors Shine in Albuquerque",
-      "summary": "At Indian Pueblo Kitchen in Albuquerque, Native American dishes take center stage, from blue corn enchiladas to Rita Toledo's famous biscochitos."
+      "title": "A Wild Thanksgiving: Storms, Power Outages and a Parade Moved to Saturday",
+      "summary": "A huge Thanksgiving storm knocked out power for nearly a million people, delayed travel and flooded coastal areas — and pushed the 100th Macy's parade to Saturday."
     },
     {
-      "id": "2026-11-27-news-3",
-      "source": "CBC World",
-      "time_ago": "Thu, 26 Nov 2026 15:48:56 EST",
-      "mined_at": "2026-11-27T11:24:35+00:00",
-      "source_published_at": "Thu, 26 Nov 2026 15:48:56 EST",
-      "image_url": "/article_images/news-sd74253326fd54e8b.webp",
+      "id": "2026-11-28-news-2",
+      "source": "NPR World",
+      "time_ago": "Fri, 27 Nov 2026 05:00:00 -0500",
+      "mined_at": "2026-11-28T11:21:46+00:00",
+      "source_published_at": "Fri, 27 Nov 2026 05:00:00 -0500",
+      "image_url": "/article_images/news-se68f8c40738bb72f.webp",
       "category": "News",
-      "title": "He Won $1 Million, Then He Was Arrested Days Later",
-      "summary": "A Massachusetts man won $1 million on a scratch ticket, then ICE said it arrested him days later; he stays in custody while his family asks for respect and empathy."
+      "title": "The Supreme Court Will Decide on Asylum at the Border",
+      "summary": "The Supreme Court will soon decide whether the president can stop asylum at the southern border on his own."
+    },
+    {
+      "id": "2026-11-28-news-3",
+      "source": "PBS NewsHour",
+      "time_ago": "Fri, 27 Nov 2026 18:35:30 -0500",
+      "mined_at": "2026-11-28T11:21:46+00:00",
+      "source_published_at": "Fri, 27 Nov 2026 18:35:30 -0500",
+      "image_url": "/article_images/news-sb9d948271653cf02.webp",
+      "category": "News",
+      "title": "Can We Trust AI Too Much? A Robot Expert Has Questions",
+      "summary": "Robotics expert Dr. Ayanna Howard says we often trust AI too much — and kids need to learn to use it wisely."
     }
   ]
 }

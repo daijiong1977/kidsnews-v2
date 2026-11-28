@@ -1,0 +1,135 @@
+{
+  "title": "Asylum at the Southern Border Heads to the Supreme Court",
+  "summary": "For nearly two years, the Trump administration has blocked asylum claims at the U.S.-Mexico border, cancelled thousands of pending asylum applications and made major changes to the immigration courts, including dismissing many judges. Critics say that together, these steps have effectively closed a path that once helped people fleeing danger or persecution. Asylum is a legal protection for people who say they face danger in their home country.\n\nThe U.S. Supreme Court will soon decide whether the president can suspend access to asylum on his own, without Congress, and set aside existing federal immigration law. The ban took effect within hours of President Trump retaking office. Two lower federal courts have rejected the administration's argument, but the ban has mostly stayed in place during the court case.\n\nThe administration says the ban is a necessary protection against what it calls an 'invasion' along the southern border and abuse by people it calls 'fake' asylum seekers. Since the ban began, crossings have fallen sharply: the Border Patrol recorded fewer than 99,000 apprehensions along the Southwest border in fiscal year 2026, a 95% drop from more than 1.8 million per year under President Biden, according to U.S. Customs and Border Protection data. Simon Hankinson of the Heritage Foundation said the difference is 'just staggering' and that reversing the ban 'would be disastrous.' He argues most people arriving at the border do not qualify for asylum.\n\nCritics disagree. Lee Gelernt of the American Civil Liberties Union, one of the groups challenging the ban, said the president does not have the right to override protections Congress gave people fleeing danger. Advocates note asylum denial rates rose to 94% in June, up from about 50% in 2024, according to TRAC at Syracuse University. They point to ZG, an Ethiopian man in his 30s who arrived through Mexico in February 2025 and sought asylum. His lawyer says he fled danger in Ethiopia, yet he was ordered deported this month to Uganda, a country he has never visited.\n\nThe court will also review sending migrants to third countries for asylum decisions, and the detention of thousands of people awaiting deportation proceedings. If the court rules for the advocates, they say, the decisions could reopen a path that has narrowed sharply.",
+  "why_it_matters": "The ruling will decide whether people fleeing danger can still ask the United States for protection at the border, and it will shape how much power a president has to change immigration rules without Congress.",
+  "image_url": "/article_images/news-se68f8c40738bb72f.webp",
+  "keywords": [
+    {
+      "term": "asylum",
+      "explanation": "Legal protection for people who say they face danger in their home country."
+    },
+    {
+      "term": "persecution",
+      "explanation": "Cruel or unfair treatment of a person because of who they are or what they believe."
+    },
+    {
+      "term": "apprehensions",
+      "explanation": "People caught by officers at the border."
+    },
+    {
+      "term": "suspend",
+      "explanation": "To stop something for a time."
+    },
+    {
+      "term": "deported",
+      "explanation": "Sent out of a country by order of the government."
+    },
+    {
+      "term": "detention",
+      "explanation": "Being held by the authorities while waiting for a decision."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What will the U.S. Supreme Court decide in this case?",
+      "options": [
+        "Whether the president can suspend access to asylum on his own, without Congress",
+        "Whether asylum seekers can vote in elections",
+        "Whether Congress can close the southern border",
+        "Whether the Border Patrol should hire more agents"
+      ],
+      "correct_answer": "Whether the president can suspend access to asylum on his own, without Congress"
+    },
+    {
+      "question": "When did the asylum ban take effect?",
+      "options": [
+        "Within hours of President Trump retaking office",
+        "Two years after President Trump took office",
+        "After the Supreme Court ruled on it",
+        "In fiscal year 2024"
+      ],
+      "correct_answer": "Within hours of President Trump retaking office"
+    },
+    {
+      "question": "How many apprehensions did the Border Patrol record along the Southwest border in fiscal year 2026?",
+      "options": [
+        "More than 1.8 million",
+        "About 250,000",
+        "About 500,000",
+        "Fewer than 99,000"
+      ],
+      "correct_answer": "Fewer than 99,000"
+    },
+    {
+      "question": "According to TRAC at Syracuse University, what happened to asylum denial rates?",
+      "options": [
+        "They stayed at about 50%",
+        "They fell to 50% in June",
+        "They rose to 94% in June, up from about 50% in 2024",
+        "They dropped to 6% in June"
+      ],
+      "correct_answer": "They rose to 94% in June, up from about 50% in 2024"
+    },
+    {
+      "question": "Who is ZG, the person advocates point to in the article?",
+      "options": [
+        "A judge dismissed from the immigration courts",
+        "An Ethiopian man in his 30s who arrived through Mexico in February 2025 and sought asylum",
+        "A lawyer for the American Civil Liberties Union",
+        "A Border Patrol agent working at the Southwest border"
+      ],
+      "correct_answer": "An Ethiopian man in his 30s who arrived through Mexico in February 2025 and sought asylum"
+    },
+    {
+      "question": "What else will the court review besides the asylum ban itself?",
+      "options": [
+        "How much funding the Border Patrol receives",
+        "Whether to build a wall along the whole border",
+        "Sending migrants to third countries for asylum decisions and the detention of thousands awaiting deportation proceedings",
+        "Whether asylum seekers can work while they wait"
+      ],
+      "correct_answer": "Sending migrants to third countries for asylum decisions and the detention of thousands awaiting deportation proceedings"
+    }
+  ],
+  "background_read": [
+    "Asylum is a form of protection that a country can give to people who say they would face danger or harm if they returned to their home country.",
+    "In the United States, Congress writes the immigration laws, and the president and the courts carry them out, so a big question is what the president can change on his own.",
+    "The Supreme Court is the highest court in the country, and its decisions set the rules that lower courts and the government must follow.",
+    "This case matters because it could decide who gets to ask for asylum at the border and how those requests are handled."
+  ],
+  "Article_Structure": [
+    "LEAD: The Trump administration has blocked asylum claims at the U.S.-Mexico border for nearly two years, and the Supreme Court will soon decide whether the president can do that on his own.",
+    "KEY EVENT: The Supreme Court will decide whether the president can suspend access to asylum without Congress and set aside existing federal immigration law.",
+    "  ├─ WHO: The Trump administration, the Supreme Court, and groups challenging the ban, including the American Civil Liberties Union",
+    "  ├─ WHEN: The ban took effect within hours of President Trump retaking office",
+    "  └─ BACKGROUND: Two lower federal courts have rejected the administration's argument, but the ban has mostly stayed in place during the court case",
+    "EVIDENCE: Border Patrol apprehensions fell to fewer than 99,000 in fiscal year 2026, a 95% drop from more than 1.8 million per year under President Biden; asylum denial rates rose to 94% in June, up from about 50% in 2024.",
+    "EXAMPLE: ZG, an Ethiopian man in his 30s who arrived through Mexico in February 2025 and sought asylum, was ordered deported this month to Uganda, a country he has never visited.",
+    "OPEN QUESTION: If the court rules for the advocates, they say the decisions could reopen a path that has narrowed sharply."
+  ],
+  "perspectives": [
+    {
+      "perspective": "The Trump administration",
+      "description": "Says the ban is a necessary protection against what it calls an 'invasion' along the southern border and abuse by people it calls 'fake' asylum seekers."
+    },
+    {
+      "perspective": "Simon Hankinson of the Heritage Foundation",
+      "description": "Says the drop in crossings is 'just staggering', argues most people arriving at the border do not qualify for asylum, and says reversing the ban 'would be disastrous.'"
+    },
+    {
+      "perspective": "Lee Gelernt of the American Civil Liberties Union and other critics",
+      "description": "Say the president does not have the right to override protections Congress gave people fleeing danger."
+    },
+    {
+      "perspective": "Advocates for asylum seekers",
+      "description": "Say the decisions could reopen a path that has narrowed sharply if the court rules for them."
+    }
+  ],
+  "mined_at": "2026-11-28T11:21:46+00:00",
+  "source_published_at": "Fri, 27 Nov 2026 05:00:00 -0500",
+  "source_name": "NPR World",
+  "source_url": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court",
+  "category": "News",
+  "source_word_count": 1572,
+  "detail_status": "full"
+}

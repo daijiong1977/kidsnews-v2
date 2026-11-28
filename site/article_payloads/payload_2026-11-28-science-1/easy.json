@@ -1,0 +1,118 @@
+{
+  "title": "The Tiny Fossil That Fooled Scientists for Nearly 30 Years",
+  "summary": "For almost 30 years, scientists thought a tiny fossil from Scotland was an early reptile. They named it Westlothiana lizziae and nicknamed it Lizzie because it looked like a lizard.\n\nLizzie's fossil is 345 million years old and was found in 1984. It is a nearly whole skeleton, squashed flat between two slabs of rock. Studied in 1990, it showed only its outside. Legs with fingers and toes, some with claw-like tips, made it look ready for land. So scientists called Lizzie the earliest known amniote, a group that includes reptiles, birds, and mammals.\n\nBut X-ray scans told a different story. Scientists from the American Museum of Natural History and the University of Oxford used X-rays to look inside it in Grenoble, France. Lizzie had a simple skull, gills with bone inside, and a fish-like mouth full of thousands of tiny teeth. So it lived in water, not on land.\n\nShared in Nature, the find shows claws and five fingers and toes may have first appeared in water animals. Footprints with clawed toes do not prove reptiles walked there.",
+  "why_it_matters": "It shows that asking questions and looking closer can change what everyone thinks is true, just like checking your own work can catch a mistake.",
+  "image_url": "/article_images/science-s2c6dea16fd513367.webp",
+  "keywords": [
+    {
+      "term": "amniote",
+      "explanation": "A group of animals that includes reptiles, birds, and mammals."
+    },
+    {
+      "term": "Westlothiana lizziae",
+      "explanation": "The scientific name scientists gave to the tiny fossil."
+    },
+    {
+      "term": "gills",
+      "explanation": "Body parts that let an animal breathe underwater."
+    },
+    {
+      "term": "X-rays",
+      "explanation": "A kind of picture that lets scientists see inside something without opening it."
+    },
+    {
+      "term": "claw-like",
+      "explanation": "Shaped a bit like a small claw."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How old is Lizzie's fossil?",
+      "options": [
+        "345 thousand years old",
+        "30 million years old",
+        "345 years old",
+        "345 million years old"
+      ],
+      "correct_answer": "345 million years old"
+    },
+    {
+      "question": "Where was Lizzie's fossil found?",
+      "options": [
+        "In Scotland",
+        "In England",
+        "In France",
+        "In America"
+      ],
+      "correct_answer": "In Scotland"
+    },
+    {
+      "question": "What did scientists first think Lizzie was?",
+      "options": [
+        "A mammal",
+        "A bird",
+        "An early reptile",
+        "A fish"
+      ],
+      "correct_answer": "An early reptile"
+    },
+    {
+      "question": "What did the X-ray scans show inside Lizzie?",
+      "options": [
+        "Wings",
+        "Gills with bone inside",
+        "A hard shell",
+        "Feathers"
+      ],
+      "correct_answer": "Gills with bone inside"
+    },
+    {
+      "question": "What group did scientists call Lizzie the earliest known member of?",
+      "options": [
+        "Fish",
+        "Birds",
+        "Dinosaurs",
+        "Amniotes"
+      ],
+      "correct_answer": "Amniotes"
+    },
+    {
+      "question": "What do clawed footprints not prove, according to the find?",
+      "options": [
+        "That Lizzie had tiny teeth",
+        "That Lizzie lived in water",
+        "That reptiles walked there",
+        "That fossils come from Scotland"
+      ],
+      "correct_answer": "That reptiles walked there"
+    }
+  ],
+  "background_read": [
+    "A fossil is the remains of a living thing from long ago, kept in rock, and scientists study fossils to learn how animals lived.",
+    "Lizzie looked like an early land animal from the outside, but X-ray scans let scientists see inside the fossil without breaking it.",
+    "The scans showed Lizzie lived in water, so the find changed what scientists thought about early animals with claws and five fingers and toes."
+  ],
+  "Article_Structure": [
+    "WHO: Scientists from the American Museum of Natural History and the University of Oxford, and a tiny fossil they nicknamed Lizzie.",
+    "WHAT: X-ray scans showed Lizzie was a water animal, not the earliest known land animal.",
+    "WHERE: In Scotland, where the fossil was found, and in Grenoble, France, where the scans were done.",
+    "WHY: Because the find changes what scientists thought about when claws and five fingers and toes first appeared."
+  ],
+  "perspectives": [
+    {
+      "perspective": "Scientists who first studied Lizzie",
+      "description": "They thought Lizzie was the earliest known amniote because its legs and claw-like toes looked ready for land."
+    },
+    {
+      "perspective": "Scientists who X-ray scanned Lizzie",
+      "description": "They found gills and a fish-like mouth inside, so they say Lizzie lived in water, not on land."
+    }
+  ],
+  "mined_at": "2026-11-28T11:21:46+00:00",
+  "source_published_at": "Thu, 26 Nov 2026 05:46:17 EST",
+  "source_name": "ScienceDaily Strange & Offbeat",
+  "source_url": "https://www.sciencedaily.com/releases/2026/11/261125045307.htm",
+  "category": "Science",
+  "source_word_count": 822,
+  "detail_status": "full"
+}

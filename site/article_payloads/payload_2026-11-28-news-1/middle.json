@@ -1,0 +1,114 @@
+{
+  "title": "A Wild Thanksgiving: Storms, Blackouts and a Delayed Parade",
+  "summary": "Thanksgiving week brought wild weather to much of the United States. A huge storm stretched from the Midwest to Manhattan, leaving almost a million people without power by Thanksgiving evening. At the worst point, more than 980,000 people in New York, Pennsylvania, New Jersey and other states had no electricity, though power was partly back on by early Friday.\n\nTravel took a hit, too. More than 400 flights were cancelled on Thursday, and more than 2,000 were delayed, during one of the busiest travel times of the year. About 81.5 million people were expected to travel between Thursday and Monday, according to AAA. Driving was hard as well, with heavy rain in some places and snow and ice in others.\n\nFlooding hit several areas. Parts of Old Town Alexandria in Virginia and Atlantic City in New Jersey were flooded, with close to 2 to 3 feet of water in some low-lying areas of Atlantic City. The National Weather Service issued a coastal flood warning for the Washington, D.C., area on Friday, in effect until 6 p.m. Eastern time, and warned people not to drive through water of unknown depth.\n\nOut west, strong waves and high tides known as King Tides battered the California coast, and part of the Pacifica Pier south of San Francisco collapsed on Wednesday. In New York City, Central Park had its wettest Thanksgiving on record, with 1.82 inches of rain.\n\nThe weather even moved the Macy's Thanksgiving Day Parade. For the first time in its history, the parade was postponed, to Saturday, because strong winds made it unsafe to fly the giant balloons. Around 11,000 people take part, mostly volunteers. Saturday's parade is the 100th, with 100 balloons, including eight new ones such as Bluey, Hello Kitty and Mickey Mouse from the Sorcerer's Apprentice.\n\nMeanwhile, shoppers headed into Black Friday. The National Retail Federation expects about 183 million shoppers and more than $1 trillion in November and December holiday sales. The top three children's toys this year are LEGO, Hot Wheels and Barbie dolls.",
+  "why_it_matters": "Big storms can change holiday plans for millions of people at once, cutting power, cancelling travel and flooding streets — and knowing how to stay safe, like never driving through floodwater, matters for everyone.",
+  "image_url": "/article_images/news-s9da379c9b0e00751.webp",
+  "keywords": [
+    {
+      "term": "King Tides",
+      "explanation": "Very high tides that happen a few times a year and can push seawater over beaches and low coastal land."
+    },
+    {
+      "term": "coastal flood warning",
+      "explanation": "An official warning that flooding is expected near the coast."
+    },
+    {
+      "term": "low-lying",
+      "explanation": "Land that sits only a little above sea level, so it floods easily."
+    },
+    {
+      "term": "postponed",
+      "explanation": "Moved to a later date than first planned."
+    },
+    {
+      "term": "battered",
+      "explanation": "Hit again and again with great force."
+    }
+  ],
+  "questions": [
+    {
+      "question": "How many people had no electricity at the worst point of the storm?",
+      "options": [
+        "More than 980,000 people",
+        "Around 11,000 people",
+        "About 183 million people",
+        "About 81.5 million people"
+      ],
+      "correct_answer": "More than 980,000 people"
+    },
+    {
+      "question": "How many flights were cancelled on Thursday?",
+      "options": [
+        "More than 2,000",
+        "Around 11,000",
+        "About 81.5 million",
+        "More than 400"
+      ],
+      "correct_answer": "More than 400"
+    },
+    {
+      "question": "Which place had close to 2 to 3 feet of water in some low-lying areas?",
+      "options": [
+        "Pacifica Pier",
+        "Atlantic City",
+        "Old Town Alexandria",
+        "Central Park"
+      ],
+      "correct_answer": "Atlantic City"
+    },
+    {
+      "question": "What happened to part of the Pacifica Pier on Wednesday?",
+      "options": [
+        "It collapsed",
+        "It was flooded",
+        "It was closed for repairs",
+        "It caught fire"
+      ],
+      "correct_answer": "It collapsed"
+    },
+    {
+      "question": "Why was the Macy's Thanksgiving Day Parade postponed?",
+      "options": [
+        "Strong winds made it unsafe to fly the giant balloons",
+        "Too few volunteers showed up",
+        "The balloons were not ready in time",
+        "Heavy rain flooded the parade route"
+      ],
+      "correct_answer": "Strong winds made it unsafe to fly the giant balloons"
+    },
+    {
+      "question": "What are the top three children's toys this year?",
+      "options": [
+        "Bluey, Hello Kitty and Mickey Mouse",
+        "LEGO, Barbie dolls and board games",
+        "Hot Wheels, video games and LEGO",
+        "LEGO, Hot Wheels and Barbie dolls"
+      ],
+      "correct_answer": "LEGO, Hot Wheels and Barbie dolls"
+    }
+  ],
+  "background_read": [
+    "Thanksgiving is a big American holiday in late November, when many families travel to spend the day together, so it is one of the busiest travel weeks of the year.",
+    "The Macy's Thanksgiving Day Parade in New York City is a famous yearly event with giant balloons, floats and marching bands, and it is usually held on Thanksgiving morning.",
+    "Black Friday is the day after Thanksgiving, when many shops offer big sales and crowds of people go out to start their holiday shopping.",
+    "King Tides are extra-high tides that happen a few times a year when the sun, moon and Earth line up, and they can push seawater over beaches and low coastal roads."
+  ],
+  "Article_Structure": [
+    "LEAD: A huge Thanksgiving storm brought wild weather across the United States, knocking out power and disrupting travel.",
+    "KEY EVENT: The storm and its effects",
+    "  ├─ WHO: People across the Midwest and East Coast, travellers and shoppers",
+    "  ├─ WHEN: Thanksgiving week, with the worst power outages by Thanksgiving evening",
+    "  ├─ WHERE: New York, Pennsylvania, New Jersey, Virginia, Washington, D.C., and the California coast",
+    "  └─ IMPACT: Nearly a million people without power, hundreds of flights cancelled, flooding in coastal areas",
+    "EVIDENCE: More than 980,000 people lost power; more than 400 flights cancelled and 2,000 delayed; Central Park had its wettest Thanksgiving on record with 1.82 inches of rain",
+    "OPEN QUESTION: How will the delayed 100th Macy's parade on Saturday and the Black Friday shopping weekend go?"
+  ],
+  "perspectives": [],
+  "mined_at": "2026-11-28T11:21:46+00:00",
+  "source_published_at": "Fri, 27 Nov 2026 05:59:36 -0500",
+  "source_name": "NPR World",
+  "source_url": "https://www.npr.org/2026/11/27/nx-s1-6054884/thanksgiving-weather-black-friday",
+  "category": "News",
+  "source_word_count": 878,
+  "detail_status": "full"
+}

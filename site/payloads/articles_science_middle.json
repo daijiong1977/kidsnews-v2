@@ -1,37 +1,37 @@
 {
   "articles": [
     {
-      "id": "2026-11-27-science-1",
+      "id": "2026-11-28-science-1",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Thu, 26 Nov 2026 05:46:17 EST",
+      "mined_at": "2026-11-28T11:21:46+00:00",
+      "source_published_at": "Thu, 26 Nov 2026 05:46:17 EST",
+      "image_url": "/article_images/science-s2c6dea16fd513367.webp",
+      "category": "Science",
+      "title": "The 345-Million-Year-Old Fossil That Fooled Scientists for Decades",
+      "summary": "Lizzie the fossil looked like an early reptile, but X-ray scans show it was a water-dwelling animal with gills and a fish-like mouth."
+    },
+    {
+      "id": "2026-11-28-science-2",
+      "source": "ScienceDaily Strange & Offbeat",
+      "time_ago": "Wed, 25 Nov 2026 21:42:37 EST",
+      "mined_at": "2026-11-28T11:21:46+00:00",
+      "source_published_at": "Wed, 25 Nov 2026 21:42:37 EST",
+      "image_url": "/article_images/science-s59e077c9abe86ee5.webp",
+      "category": "Science",
+      "title": "Hidden Lakes a Mile Under the Red Sea Are Full of Life",
+      "summary": "Scientists found super-salty underwater lakes in the Red Sea where microbes thrive without oxygen, and the pools also preserve clues to ancient tsunamis."
+    },
+    {
+      "id": "2026-11-28-science-3",
       "source": "Live Science",
-      "time_ago": "Fri, 27 Nov 2026 11:00:00 +0000",
-      "mined_at": "2026-11-27T11:24:35+00:00",
-      "source_published_at": "Fri, 27 Nov 2026 11:00:00 +0000",
-      "image_url": "/article_images/science-s0a630609ac96b832.webp",
+      "time_ago": "Sat, 28 Nov 2026 11:00:00 +0000",
+      "mined_at": "2026-11-28T11:21:46+00:00",
+      "source_published_at": "Sat, 28 Nov 2026 11:00:00 +0000",
+      "image_url": "/article_images/science-se1bce4af296ca1a3.webp",
       "category": "Science",
-      "title": "A Tiny Red Dot From the Baby Universe Might Be a Baby Black Hole",
-      "summary": "The James Webb telescope has spotted CW-LRD-z10, a tiny red object from when the universe was just 450 million years old that may be the earliest known baby black hole — though scientists say it is only a candidate for now."
-    },
-    {
-      "id": "2026-11-27-science-2",
-      "source": "ScienceDaily All",
-      "time_ago": "Fri, 27 Nov 2026 04:52:24 EST",
-      "mined_at": "2026-11-27T11:24:35+00:00",
-      "source_published_at": "Fri, 27 Nov 2026 04:52:24 EST",
-      "image_url": "/article_images/science-s87c8273eecc5abfd.webp",
-      "category": "Science",
-      "title": "Old Plastic Pipes Could Become Engine Oil",
-      "summary": "Virginia Tech researchers found a way to turn hard-to-recycle PVC plastic into a high-performance lubricant ingredient."
-    },
-    {
-      "id": "2026-11-27-science-3",
-      "source": "ScienceDaily All",
-      "time_ago": "Thu, 26 Nov 2026 22:56:06 EST",
-      "mined_at": "2026-11-27T11:24:35+00:00",
-      "source_published_at": "Thu, 26 Nov 2026 22:56:06 EST",
-      "image_url": "/article_images/science-s0e0f495456aa0d02.webp",
-      "category": "Science",
-      "title": "Screen Time May Matter Most at Ages 1 and 6, Scientists Find",
-      "summary": "A study of 502 children in Singapore found extra screen time at ages 1 and 6 was linked to weaker school results and working memory later — a link, not proof of cause, but a reason researchers say less screen time is better."
+      "title": "How 100 Starlings Took Over a Continent, and What They Teach Us About Evolution",
+      "summary": "About 100 starlings released in Central Park grew into millions, and studying their tiny differences helps scientists understand fast evolution."
     }
   ]
 }

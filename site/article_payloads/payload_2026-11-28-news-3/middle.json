@@ -1,0 +1,118 @@
+{
+  "title": "Can We Trust AI Too Much? A Robotics Pioneer Has Questions",
+  "summary": "Artificial intelligence is changing how we work, learn and live. But as AI shows up in more parts of daily life, big questions about how to use it well have become more urgent. Geoff Bennett of the News Hour spoke about them with Dr. Ayanna Howard, a robotics expert who began her career at NASA's Jet Propulsion Laboratory and is now the president of Spelman College. She explores them in her new book, 'Rebooting the Machines: A New Human Vision for Artificial Intelligence'.\n\nHoward has spent more than three decades building AI and robots, and she has long been hopeful about the technology. Much of her research looks at what she calls overtrust — our habit of trusting machines more than we should. We turn to AI because we want it to be better than us at something, she says: finding information we do not know, or guiding us somewhere new. That makes the machine feel like an authority figure, almost like a teacher, so we tend to believe it — even when it can be wrong.\n\nHoward worries most about how AI is changing the way young people learn. Students use it at home for everyday tasks, and it is everywhere, she says. Her concern is that educators have not yet figured out how to teach students to use it responsibly — or when not to use it at all. She compares it to any new gadget: a parent usually walks a child through how to use it safely. We need to do the same with AI, she says.\n\nUsed responsibly, AI can help us think better, Howard says. For example, AI could gather data about how much energy data centers use in a community, and people could then use that information to ask energy companies fair questions about their bills. But that takes clear rules and policies, she says, built with social justice in mind — thinking about our responsibility to make the world better. Howard also argues that AI will change many jobs, though it will not necessarily replace all of them.",
+  "why_it_matters": "AI is already part of schoolwork and daily life, so learning when to trust it and when to check it shapes how well students learn and how fairly the technology is used.",
+  "image_url": "/article_images/news-sb9d948271653cf02.webp",
+  "keywords": [
+    {
+      "term": "overtrust",
+      "explanation": "Trusting a machine more than you should."
+    },
+    {
+      "term": "authority figure",
+      "explanation": "Someone you see as an expert or a leader, like a teacher."
+    },
+    {
+      "term": "educators",
+      "explanation": "Teachers and other people who work in education."
+    },
+    {
+      "term": "data centers",
+      "explanation": "Big buildings full of computers that store and process information."
+    },
+    {
+      "term": "social justice",
+      "explanation": "The idea that everyone in society should be treated fairly."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What does Howard call our habit of trusting machines more than we should?",
+      "options": [
+        "data mining",
+        "overtrust",
+        "autopilot",
+        "machine learning"
+      ],
+      "correct_answer": "overtrust"
+    },
+    {
+      "question": "Where did Howard begin her career?",
+      "options": [
+        "A data center",
+        "Spelman College",
+        "The News Hour",
+        "NASA's Jet Propulsion Laboratory"
+      ],
+      "correct_answer": "NASA's Jet Propulsion Laboratory"
+    },
+    {
+      "question": "Why do we tend to believe AI, according to Howard?",
+      "options": [
+        "It speaks in a friendly voice",
+        "It is always right",
+        "It feels like an authority figure, almost like a teacher",
+        "It is faster than any person"
+      ],
+      "correct_answer": "It feels like an authority figure, almost like a teacher"
+    },
+    {
+      "question": "What worries Howard most about AI?",
+      "options": [
+        "How many books she must write",
+        "How fast computers are",
+        "How it is changing the way young people learn",
+        "How much robots cost"
+      ],
+      "correct_answer": "How it is changing the way young people learn"
+    },
+    {
+      "question": "What example does Howard give of AI helping people think better?",
+      "options": [
+        "Replacing teachers in classrooms",
+        "Gathering data about how much energy data centers use in a community",
+        "Building new robots at NASA",
+        "Writing students' homework for them"
+      ],
+      "correct_answer": "Gathering data about how much energy data centers use in a community"
+    },
+    {
+      "question": "What does Howard say AI will do to jobs?",
+      "options": [
+        "Only create jobs for robotics experts",
+        "Change many jobs, though not necessarily replace all of them",
+        "Replace every job within a year",
+        "Leave all jobs exactly as they are"
+      ],
+      "correct_answer": "Change many jobs, though not necessarily replace all of them"
+    }
+  ],
+  "background_read": [
+    "Artificial intelligence is computer software that can learn from information, answer questions and help with tasks.",
+    "People have built AI into phones, computers, cars and classrooms, so it now touches much of daily life.",
+    "Robots are machines that can sense the world around them and carry out jobs, sometimes with AI guiding them.",
+    "As AI has spread, researchers and teachers have started asking how people, especially students, should use it wisely and when they should check its answers instead of trusting them at once."
+  ],
+  "Article_Structure": [
+    "LEAD: AI is spreading through daily life, and Dr. Ayanna Howard raises questions about trusting it too much.",
+    "KEY EVENT: Geoff Bennett of the News Hour speaks with Howard about her new book on a new human vision for AI.",
+    "  ├─ WHO: Dr. Ayanna Howard, a robotics expert who began her career at NASA's Jet Propulsion Laboratory and is now the president of Spelman College.",
+    "  ├─ WHAT: Her research on overtrust — trusting machines more than we should.",
+    "  └─ WHY IT MATTERS: AI is changing how young people learn, and educators have not yet worked out how to teach students to use it responsibly.",
+    "EVIDENCE: AI could gather data on data-center energy use so people can ask energy companies fair questions about their bills.",
+    "OPEN QUESTION: How do we build clear rules and policies so AI is used well and fairly?"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Dr. Ayanna Howard",
+      "description": "AI can help us think better when it is used responsibly, with clear rules and policies built with social justice in mind, and it will change many jobs without necessarily replacing all of them."
+    }
+  ],
+  "mined_at": "2026-11-28T11:21:46+00:00",
+  "source_published_at": "Fri, 27 Nov 2026 18:35:30 -0500",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/show/exploring-an-ai-reboot-and-the-ethics-that-surround-it",
+  "category": "News",
+  "source_word_count": 679,
+  "detail_status": "full"
+}

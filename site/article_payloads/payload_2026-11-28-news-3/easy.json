@@ -1,0 +1,114 @@
+{
+  "title": "Can We Trust AI Too Much? A Robot Expert Has Questions",
+  "summary": "Artificial intelligence (AI) is changing how we work, learn and live. Geoff Bennett of the News Hour talked with Dr. Ayanna Howard about using it well. Howard is a robotics expert who started her career at NASA's Jet Propulsion Laboratory and is now the president of Spelman College.\n\nHoward has spent over 30 years building AI and robots. She studies overtrust — trusting machines more than we should. We ask AI for help because we want it to know more than we do, she says, so it can feel like a teacher, and we believe it even when it is wrong.\n\nShe worries about how AI changes the way kids learn. Students use it daily, but teachers have not worked out how to teach kids to use it safely — or when not to use it at all. Like a parent showing a child how to use a new gadget, she says, we need to guide kids with AI too.\n\nUsed well, AI can help us think better, Howard says. It will also change many jobs, though not replace all of them.",
+  "why_it_matters": "If you use AI for homework or learning, knowing when to trust it and when to check it yourself helps you really learn instead of just copying answers that might be wrong.",
+  "image_url": "/article_images/news-sb9d948271653cf02.webp",
+  "keywords": [
+    {
+      "term": "Artificial intelligence",
+      "explanation": "Computer programs that can learn from information and do tasks that usually need human thinking."
+    },
+    {
+      "term": "robotics",
+      "explanation": "The science of designing and building robots."
+    },
+    {
+      "term": "overtrust",
+      "explanation": "Trusting a machine more than you should, even when it might be wrong."
+    },
+    {
+      "term": "Jet Propulsion Laboratory",
+      "explanation": "A NASA center where scientists and engineers build spacecraft and robots."
+    },
+    {
+      "term": "gadget",
+      "explanation": "A small electronic tool or device, like a phone or a tablet."
+    }
+  ],
+  "questions": [
+    {
+      "question": "What does Dr. Ayanna Howard study?",
+      "options": [
+        "Why kids like video games",
+        "Why people trust machines too much",
+        "How to build rockets for space trips",
+        "How to make faster computers"
+      ],
+      "correct_answer": "Why people trust machines too much"
+    },
+    {
+      "question": "Where did Howard start her career?",
+      "options": [
+        "A school for teachers",
+        "NASA's Jet Propulsion Laboratory",
+        "A company that makes phones",
+        "Spelman College"
+      ],
+      "correct_answer": "NASA's Jet Propulsion Laboratory"
+    },
+    {
+      "question": "What is Howard's job now?",
+      "options": [
+        "President of Spelman College",
+        "Teacher at a middle school",
+        "News reporter",
+        "Rocket pilot"
+      ],
+      "correct_answer": "President of Spelman College"
+    },
+    {
+      "question": "What worries Howard about kids and AI?",
+      "options": [
+        "Teachers have not worked out how to teach kids to use it safely",
+        "Kids use AI too little",
+        "AI is too expensive for schools",
+        "Kids do not like AI"
+      ],
+      "correct_answer": "Teachers have not worked out how to teach kids to use it safely"
+    },
+    {
+      "question": "What does Howard say AI can do when it is used well?",
+      "options": [
+        "Help us think better",
+        "Do all our homework for us",
+        "Make robots that think for themselves",
+        "Replace every job"
+      ],
+      "correct_answer": "Help us think better"
+    },
+    {
+      "question": "What does Howard compare guiding kids with AI to?",
+      "options": [
+        "A parent showing a child how to use a new gadget",
+        "A scientist building a robot",
+        "A student reading a book",
+        "A teacher giving a test"
+      ],
+      "correct_answer": "A parent showing a child how to use a new gadget"
+    }
+  ],
+  "background_read": [
+    "Artificial intelligence, or AI, is a kind of computer program that can learn from information and help people with tasks like answering questions and solving problems.",
+    "People created AI to make work and learning faster and easier, and it is now part of many tools we use every day.",
+    "Dr. Ayanna Howard builds AI and robots, and she studies what happens when people trust machines more than they should."
+  ],
+  "Article_Structure": [
+    "WHO: Dr. Ayanna Howard, a robotics expert, and Geoff Bennett of the News Hour",
+    "WHAT: Howard talks about overtrust, trusting AI more than we should, and how kids should learn to use AI safely",
+    "WHERE: NASA's Jet Propulsion Laboratory, where Howard began her career, and Spelman College, where she works now",
+    "WHY: Because AI is changing how kids learn and work, and Howard wants people to use it wisely instead of trusting it blindly"
+  ],
+  "perspectives": [
+    {
+      "perspective": "Dr. Ayanna Howard",
+      "description": "AI can help us think better when used well, but we should not trust it blindly, and kids need guidance to learn when to use it and when not to."
+    }
+  ],
+  "mined_at": "2026-11-28T11:21:46+00:00",
+  "source_published_at": "Fri, 27 Nov 2026 18:35:30 -0500",
+  "source_name": "PBS NewsHour",
+  "source_url": "https://www.pbs.org/newshour/show/exploring-an-ai-reboot-and-the-ethics-that-surround-it",
+  "category": "News",
+  "source_word_count": 679,
+  "detail_status": "full"
+}
